@@ -43,6 +43,7 @@ for ln in lines:
     else:
         new_lines.append(ln)
 md_text2 = '\n'.join(new_lines)
+md_text2 = re.sub(r'^(\s*- )([0-9\u09e6-\u09ef]+)\. ', lambda m: m.group(1)+m.group(2)+'\\. ', md_text2, flags=re.M)
 body = markdown.markdown(md_text2, extensions=['tables', 'fenced_code'])
 
 toc_title = 'Contents' if lang == 'en' else 'সূচিপত্র'
@@ -57,7 +58,7 @@ body = body[:idx] + '\n'.join(toc_html) + '<div class="pb"></div>' + body[idx:] 
 
 font_bn = (base / 'build' / 'fonts' / 'NotoSansBengali-VF.ttf').resolve().as_uri()
 font_css = f"@font-face {{ font-family: 'NotoBn'; src: url('{font_bn}') format('truetype'); font-weight: 100 900; }}"
-family = "'NotoBn', 'Noto Sans', Arial, sans-serif" if lang == 'bn' else "'Liberation Sans', 'DejaVu Sans', Arial, sans-serif"
+family = "'NotoBn', 'Noto Sans', Arial, sans-serif" if lang == 'bn' else "'Liberation Sans', 'NotoBn', 'DejaVu Sans', Arial, sans-serif"
 title = 'Build It in Bangla' if lang == 'en' else 'বাংলায় গড়ে তুলুন'
 page = f"""<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><title>{title}</title>
 <style>
