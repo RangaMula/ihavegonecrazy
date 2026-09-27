@@ -1,0 +1,54 @@
+{
+  "_comment": "Each category's queries are sent to Google Maps (Places API) as '<query> in <location>'. Add or remove freely.",
+  "categories": {
+    "Architecture & Building Design": [
+      "architect",
+      "architecture firm",
+      "building design firm",
+      "residential architect",
+      "commercial architect",
+      "landscape architect"
+    ],
+    "Interior Design": [
+      "interior designer",
+      "interior design firm",
+      "interior fit-out company"
+    ],
+    "Engineering": [
+      "structural engineer",
+      "civil engineering firm",
+      "MEP engineering consultant",
+      "building surveyor",
+      "quantity surveyor"
+    ],
+    "Construction & Contracting": [
+      "construction company",
+      "general contractor",
+      "building contractor",
+      "home builder",
+      "design and build company",
+      "renovation contractor",
+      "construction project management"
+    ],
+    "Real Estate Agents & Brokers": [
+      "real estate agent",
+      "real estate agency",
+      "real estate broker",
+      "commercial real estate broker",
+      "realtor"
+    ],
+    "Real Estate Development & Projects": [
+      "real estate developer",
+      "property developer",
+      "housing project",
+      "residential project",
+      "commercial real estate project",
+      "apartment developer"
+    ],
+    "Property Management & Consulting": [
+      "property management company",
+      "real estate consultant",
+      "property valuer"
+    ]
+  }
+}
