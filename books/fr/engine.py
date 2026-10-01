@@ -169,7 +169,10 @@ table.tr.compact td{padding:0.025in 0.045in;}
 .spacer{flex:1;}
 """
 
+EXTRA_CSS = []
+
 def render(extra_css=""):
+    extra_css = extra_css + "".join(EXTRA_CSS)
     out = []
     main_no = 0
     front_no = 0
