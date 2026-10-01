@@ -33,6 +33,7 @@ Every book uses the same fixed quantities so the series feels like one product:
 | Sentence patterns | **12** |
 | Real-life dialogues | **20** (2 pages each) |
 | Graded reading texts | **6** |
+| Writing tasks (লেখার অনুশীলন) | **24** (8 each in Parts 2, 3 and 4) + a tracing row on every script page |
 | Proverbs / famous lines | **12** |
 | Self-test | **60 questions** with answer key |
 | Can-do checklist | **25 statements** (CEFR A1) |
@@ -95,7 +96,7 @@ the audio (QR code, §6) has the final say.
 ## 3. The standard book structure
 
 Recommended trim size: **7 × 10 in**. Five-column tables need the width that 6 × 9 lacks.
-Page budget: **about 250 pages**, enforced with page-number asserts in the build script, as in the
+Page budget: **about 260 pages**, enforced with page-number asserts in the build script, as in the
 kids series.
 
 ### FRONT MATTER (pp. i–xii)
@@ -132,13 +133,14 @@ kids series.
 | Ch | Title | Pages | Standard content |
 |---|---|---|---|
 | 5 | **ধ্বনির জগৎ — The Sound System** | 10 | Every sound sorted into **three bins compared with Bangla**: ✅ the same as Bangla, 〰 close to Bangla, 🆕 new sound. New sounds get mouth-position diagrams. Vowel length, stress, tone or pitch accent where relevant. Minimal pairs. **Bangla speakers' advantages** (aspirates, retroflexes, etc.) and **typical Bangla-speaker mistakes** |
-| 6 | **লিপি পরিচয় — The Writing System** | 40 (flexible, see §4) | **One letter or character group per page**, the kids-series letter format adapted for adults: the letter in all its forms, stroke order, name, sound (Triple Row), **5 everyday adult words** (Triple Row), one "watch out" note. Ends with a full alphabet chart |
+| 6 | **লিপি পরিচয় — The Writing System** | 40 (flexible, see §4) | **One letter or character group per page**, the kids-series letter format adapted for adults: the letter in all its forms, stroke order, name, sound (Triple Row), **5 everyday adult words** (Triple Row), one "watch out" note, and **a tracing row (dotted guide letters) plus 2 blank rows to write the letter and one of its words**. Ends with a full alphabet chart |
 | 7 | **প্রথম পড়া — Reading Drills** | 12 | Syllables → words → short phrases → **real-world reading**: street signs, airport boards, shop signs, a menu, a medicine label, a form. Photos or redrawn signs |
+| ✍️ | **লেখার অনুশীলন ১ — লিপিতে লেখা · Writing Practice 1: Script** | 4 | 8 tasks: copy 10 words from the Core list · write your own name and city in the script · write the 30 "words you already know" from Ch. 4 · dictation (listen to 10 words on the QR audio, write them) · complete half-written words · fill the blanks on 4 real signs · sort words by script feature (e.g. letter forms, kana type) · write a 5-word shopping list |
 | — | **Part 2 checkpoint** | 4 | Read-aloud test (QR audio answer key), 15-question script quiz |
 
 ---
 
-### PART ৩ — ভাষার ইট-পাথর · Building Blocks (about 80 pp)
+### PART ৩ — ভাষার ইট-পাথর · Building Blocks (about 84 pp)
 *Purpose: words and patterns. A grammar **preview**, not a grammar course; full grammar is for intermediate.*
 
 | Ch | Title | Pages | Standard content |
@@ -148,11 +150,12 @@ kids series.
 | 10 | **প্রয়োজনীয় ৫০০ শব্দ — The Core 500** | 30 | 20 themes × 25 words, every word in a Triple Row: people & family · body & health · food & drink · home · city & directions · transport · shopping & money · work & office · education · nature & weather · feelings · time words · question words · common verbs (50) · common adjectives (50) · religion & culture · technology · travel & documents · emergency · connecting words |
 | 11 | **বাক্যের কাঠামো — The Sentence Skeleton** | 20 | **12 core patterns**, each one compared with Bangla word order (e.g. Bangla SOV vs English SVO) and taught with a **substitution table**: (1) X is Y, (2) I have, (3) there is, (4) I want/need, (5) present action, (6) past action, (7) future action, (8) negation, (9) yes/no questions, (10) wh-questions, (11) can/must, (12) polite request. Plus one-page previews of gender, plurals, formality and cases as "what intermediate will teach you" |
 | 12 | **ভদ্রতা ও সংস্কৃতি — Politeness & Culture** | 8 | Greetings by time and situation, forms of address (formal and informal, honorifics compared with Bangla আপনি/তুমি/তুই), gestures, gifts, table manners, taboos, religious sensitivities, business etiquette |
+| ✍️ | **লেখার অনুশীলন ২ — শব্দ থেকে বাক্য · Writing Practice 2: Words to Sentences** | 4 | 8 tasks: write prices, phone numbers and dates in words · write today's date and your daily timetable · fill a personal-details form (name, age, address, profession, nationality) · write 2 sentences with each of the 12 patterns · turn 5 statements into questions and 5 into negatives · describe your family in 5 sentences · describe your home or room in 5 sentences · translate 5 short Bangla sentences |
 | — | **Part 3 checkpoint** | 2 | Build-your-own-sentences exercise + 15-question quiz |
 
 ---
 
-### PART ৪ — ভাষাটি ব্যবহার করুন · Use the Language (about 50 pp)
+### PART ৪ — ভাষাটি ব্যবহার করুন · Use the Language (about 54 pp)
 *Purpose: the reader **performs** the language. This is where they start to feel "I know it."*
 
 | Ch | Title | Pages | Standard content |
@@ -160,6 +163,7 @@ kids series.
 | 13 | **২০টি বাস্তব সংলাপ — 20 Real-Life Conversations** | 40 | Same 20 scenes in every book, so the series feels unified: (1) greeting & introducing yourself, (2) airport & immigration, (3) taxi / ride-share, (4) hotel check-in, (5) asking directions, (6) restaurant, (7) shopping & bargaining, (8) money exchange / bank, (9) mobile SIM & internet, (10) doctor, (11) pharmacy, (12) renting a room, (13) first day at work, (14) job interview, (15) phone call, (16) university / admin office, (17) place of worship or cultural site, (18) making a friend & small talk, (19) emergency & police, (20) farewell & keeping in touch. **Format per scene:** page 1 = dialogue in Triple Rows, speaker bubbles (learner = "আপনি"); page 2 = 6 key phrases, 1 culture note, a "your turn" role-play prompt with blanks |
 | 14 | **প্রথম পাঠ — Your First Reading** | 6 | 6 graded texts: a text message, a notice, a short email, a shopping list, a 1-page short story, a short news-style paragraph. Each has a full Triple-Row gloss and 3 comprehension questions |
 | 15 | **সাহিত্যের প্রথম স্বাদ — A Taste of Literature** | 4 | 12 proverbs and famous lines (classical poetry, sacred text, a famous author), each paired with **a Bangla proverb or line with the same spirit** (e.g. a Japanese haiku beside a Rabindranath line). This is the bridge to literature at intermediate |
+| ✍️ | **লেখার অনুশীলন ৩ — বাস্তব জীবনের লেখা · Writing Practice 3: Real-Life Writing** | 4 | 8 tasks, each tied to a dialogue scene: an arrival / landing card · a text message to a friend · a message to an employer (late, sick, leave) · a short email booking a room or appointment · a note to a neighbour or landlord · a postcard or greeting for a festival · a 60-word self-introduction (job interview) · a short diary entry about your first day in the new country |
 
 ---
 
@@ -168,7 +172,7 @@ kids series.
 | Page | Title | Standard content |
 |---|---|---|
 | 16 | **মধ্যম স্তরের পথে — Your Road to Intermediate** | A 90-day plan after this book. The intermediate roadmap in 5 tracks: **grammar · vocabulary & word meaning · listening & speaking · pronunciation · literature**. Recognized exams (JLPT, HSK, TOPIK, DELE, DELF, Goethe, TORFL, etc.) with what level this book equals. Learning resources available in Bangladesh: institutes, embassies' cultural centres, apps |
-| — | **নিজেকে যাচাই করুন — Self-Assessment** | 60-question final test + answer key + **25 can-do statements (CEFR A1)**, e.g. "আমি নিজের পরিচয় দিতে পারি", "আমি দাম জিজ্ঞেস করে বুঝতে পারি" |
+| — | **নিজেকে যাচাই করুন — Self-Assessment** | 60-question final test + answer key + **model answers for all 24 writing tasks** + **25 can-do statements (CEFR A1)**, e.g. "আমি নিজের পরিচয় দিতে পারি", "আমি দাম জিজ্ঞেস করে বুঝতে পারি" |
 | — | **ত্রিভাষিক শব্দকোষ — Trilingual Glossary** | Every word in the book: target · উচ্চারণ · romanization · বাংলা · English, sorted by the target language's own order |
 | — | **তথ্যসূত্র — References** | Every fact, map, quotation and translation, with a source |
 | — | **নোটের পাতা — Notes** | 4 lined practice pages, with a script practice grid where relevant |
@@ -238,14 +242,31 @@ position, is in **`SERIES-ROADMAP.md`**.
 
 ---
 
-## Page budget summary (7×10 in, about 250 pp)
+## Page budget summary (7×10 in, about 260 pp)
 
 | Section | Pages |
 |---|---|
 | Front matter | 12 |
 | Part 1 — Meet the Language | 24 |
-| Part 2 — Sounds & Script | 66 |
-| Part 3 — Building Blocks | 80 |
-| Part 4 — Use the Language | 50 |
+| Part 2 — Sounds & Script (incl. 4 pp writing) | 70 |
+| Part 3 — Building Blocks (incl. 4 pp writing) | 84 |
+| Part 4 — Use the Language (incl. 4 pp writing) | 54 |
 | Back matter | 16 |
-| **Total** | **≈ 248** |
+| **Total** | **≈ 260** |
+
+---
+
+## 9. Writing practice (লেখার অনুশীলন): standard design
+
+Writing runs through Parts 2–4 as three blocks of 8 tasks each, moving from **script → sentences → real-life texts**.
+Part 1 has no writing task, because the reader has not met the script yet.
+
+| Rule | Detail |
+|---|---|
+| Instructions | In Bangla, with one worked example per task |
+| What the reader writes | **Only the target script** from Part 2 onward. Romanization or Bangla-script transcription is never accepted as an answer |
+| Layout | Writing lines sized for the script: wide grid boxes for Chinese and Japanese, four-line guides for Latin script, baseline-and-dot guides for Arabic-type scripts |
+| Help levels | Each task is marked ★ (copy), ★★ (fill in) or ★★★ (write freely), so the reader can see the progression |
+| Model answers | Every task has a model answer in the back matter. Free-writing tasks give one sample answer plus a "check yourself" list (e.g. "Did you use a greeting? A date? A polite closing?") |
+| Audio link | The dictation tasks use the same QR audio as the rest of the chapter |
+| Real-life focus | Every Part 4 task matches a dialogue scene in Ch. 13, so the reader writes what they would actually need to write abroad |
