@@ -16,10 +16,20 @@ def recto(fill=None):
 front.build()
 part1.build()
 recto()
+SKIP = set(os.environ.get("SKIP", "").split(","))
 for mod in ("part2", "part3", "part4", "part5", "back"):
+    if mod in SKIP:
+        continue
     if os.path.exists(os.path.join(HERE, mod + ".py")):
         __import__(mod).build(); recto()
 
+import measure
+miss = measure.missing()
+if miss:
+    mh = "".join('<div class="m" data-k="%s" style="display:flow-root;">%s</div>' % (k, v) for k, v in miss.items())
+    open(os.path.join(HERE, "measure.html"), "w", encoding="utf-8").write(
+        engine.render(front.FOREWORD_CSS).split("<body>")[0] + '<body><div class="page" style="height:auto;display:block;">' + mh + "</div></body></html>")
+    print("NEEDS_MEASURE", len(miss))
 html = engine.render(front.FOREWORD_CSS)
 import re
 html = re.sub(r"\{\{[a-z0-9_]+\}\}", "—", html)

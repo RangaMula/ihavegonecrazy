@@ -1,0 +1,4803 @@
+{
+ "dialogues": [
+  {
+   "no": 1,
+   "title_bn": "শুভেচ্ছা ও নিজের পরিচয়",
+   "title_en": "Greeting and introducing yourself",
+   "setting_bn": "লিয়োঁ শহরে নতুন বাসায় ওঠার পরদিন সকালে সিঁড়িতে র়াফ়ির সাথে প্রতিবেশী ক্লের়-এর দেখা। প্রথম আলাপ, তাই দুজনেই vous বলছেন।",
+   "lines": [
+    {
+     "who": "Claire",
+     "you": false,
+     "fr": "Bonjour ! Vous êtes le nouveau voisin ?",
+     "bn_pron": "বোঁঝ়ুর় ! ভ়ু জ়েৎ লে° নুভ়ো ভ়োয়াজ়্যাঁ ?",
+     "en_pron": "bohn-ZHOOR ! voo zet luh noo-voh vwah-ZEHN ?",
+     "bn": "হ্যালো! আপনি কি নতুন প্রতিবেশী?",
+     "en": "Hello! Are you the new neighbour?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Oui, bonjour, madame. Je m'appelle Rafi.",
+     "bn_pron": "উই, বোঁঝ়ুর়, মাদাম. ঝ়ে° মাপেল র়াফ়ি.",
+     "en_pron": "wee, bohn-zhoor, mah-DAHM. zhuh mah-pel rah-FEE.",
+     "bn": "জি, শুভ দিন, ম্যাডাম। আমার নাম র়াফ়ি।",
+     "en": "Yes, hello, madam. My name is Rafi."
+    },
+    {
+     "who": "Claire",
+     "you": false,
+     "fr": "Enchantée, Rafi. Moi, c'est Claire.",
+     "bn_pron": "আঁশাঁতে, র়াফ়ি. মোয়া, সে ক্লের়.",
+     "en_pron": "ahn-shahn-TAY, rah-FEE. MWAH, say KLEHR.",
+     "bn": "পরিচিত হয়ে খুশি হলাম, র়াফ়ি। আমি ক্লের়।",
+     "en": "Nice to meet you, Rafi. I'm Claire.",
+     "note_bn": "নারী বলেন enchantée, পুরুষ বলেন enchanté; উচ্চারণ একই।"
+    },
+    {
+     "who": "Claire",
+     "you": false,
+     "fr": "Vous venez d'où ?",
+     "bn_pron": "ভ়ু ভ়ে°নে দু ?",
+     "en_pron": "voo vuh-nay DOO ?",
+     "bn": "আপনি কোথা থেকে এসেছেন?",
+     "en": "Where are you from?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Je viens du Bangladesh, de Dhaka.",
+     "bn_pron": "ঝ়ে° ভ়িয়্যাঁ দি° বাঁগলাদেশ, দে° দাকা.",
+     "en_pron": "zhuh vyehn dü bahn-glah-DESH, duh dah-KAH.",
+     "bn": "আমি বাংলাদেশ থেকে এসেছি, ঢাকা থেকে।",
+     "en": "I come from Bangladesh, from Dhaka."
+    },
+    {
+     "who": "Claire",
+     "you": false,
+     "fr": "Ah, c'est loin ! Vous êtes étudiant ?",
+     "bn_pron": "আ, সে লোয়্যাঁ ! ভ়ু জ়েৎ এতি°দিয়াঁ ?",
+     "en_pron": "ah, say LWEHN ! voo zet ay-tü-DYAHN ?",
+     "bn": "বাহ, সে তো অনেক দূর! আপনি কি ছাত্র?",
+     "en": "Oh, that's far! Are you a student?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Non, je suis ingénieur informatique.",
+     "bn_pron": "নোঁ, ঝ়ে° সুই অ্যাঁঝ়েনিয়ে°র় অ্যাঁফ়োর়মাতিক.",
+     "en_pron": "nohn, zhuh swee ehn-zhay-nyuhr ehn-for-mah-TEEK.",
+     "bn": "না, আমি কম্পিউটার প্রকৌশলী।",
+     "en": "No, I'm a computer engineer."
+    },
+    {
+     "who": "Claire",
+     "you": false,
+     "fr": "Bienvenue à Lyon ! J'habite au troisième, si vous avez besoin de quelque chose.",
+     "bn_pron": "বিয়্যাঁভ়ে°নি° আ লিয়োঁ ! ঝ়াবিৎ ও ত্র়োয়াজ়িয়েম, সি ভ়ু জ়াভ়ে বে°জ়োয়্যাঁ দে° কেলক শোজ়.",
+     "en_pron": "byehn-vuh-nü ah lee-OHN ! zhah-beet oh trwah-ZYEM, see voo zah-vay buh-zwehn duh kel-kuh SHOHZ.",
+     "bn": "লিয়োঁতে স্বাগতম! কিছু দরকার হলে বলবেন, আমি চারতলায় (তৃতীয় তলায়) থাকি।",
+     "en": "Welcome to Lyon! I live on the third floor, if you need anything.",
+     "note_bn": "au troisième = তৃতীয় তলায়; ফ্রান্সে নিচতলা গোনা হয় না, তাই এটি আমাদের হিসাবে চারতলা।"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Merci beaucoup, c'est très gentil.",
+     "bn_pron": "মের়সি বোকু, সে ত্র়ে ঝ়াঁতি.",
+     "en_pron": "mehr-see boh-KOO, say treh zhahn-TEE.",
+     "bn": "অনেক ধন্যবাদ, আপনি খুব ভালো মানুষ।",
+     "en": "Thank you very much, that's very kind."
+    },
+    {
+     "who": "Claire",
+     "you": false,
+     "fr": "Bonne journée, Rafi !",
+     "bn_pron": "বোন ঝ়ুর়নে, র়াফ়ি !",
+     "en_pron": "bun zhoor-NAY, rah-FEE !",
+     "bn": "আপনার দিনটা ভালো কাটুক, র়াফ়ি!",
+     "en": "Have a nice day, Rafi!"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Merci, vous aussi. Au revoir !",
+     "bn_pron": "মের়সি, ভ়ু জ়োসি. ও র়ে°ভ়োয়ার় !",
+     "en_pron": "mehr-SEE, voo zoh-SEE. oh ruh-VWAHR !",
+     "bn": "ধন্যবাদ, আপনারও। আবার দেখা হবে!",
+     "en": "Thanks, you too. Goodbye!"
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "Je m'appelle…",
+     "bn_pron": "ঝ়ে° মাপেল…",
+     "en_pron": "zhuh mah-PEL…",
+     "bn": "আমার নাম…",
+     "en": "My name is…"
+    },
+    {
+     "fr": "Enchanté",
+     "bn_pron": "আঁশাঁতে",
+     "en_pron": "ahn-shahn-TAY",
+     "bn": "পরিচিত হয়ে খুশি হলাম",
+     "en": "Nice to meet you",
+     "note_bn": "নারী লিখবেন Enchantée।"
+    },
+    {
+     "fr": "Vous venez d'où ?",
+     "bn_pron": "ভ়ু ভ়ে°নে দু ?",
+     "en_pron": "voo vuh-nay DOO ?",
+     "bn": "আপনি কোথা থেকে এসেছেন?",
+     "en": "Where are you from?"
+    },
+    {
+     "fr": "Je viens du Bangladesh.",
+     "bn_pron": "ঝ়ে° ভ়িয়্যাঁ দি° বাঁগলাদেশ.",
+     "en_pron": "zhuh vyehn dü bahn-glah-DESH.",
+     "bn": "আমি বাংলাদেশ থেকে এসেছি।",
+     "en": "I come from Bangladesh."
+    },
+    {
+     "fr": "Je suis étudiant.",
+     "bn_pron": "ঝ়ে° সুই জ়েতি°দিয়াঁ.",
+     "en_pron": "zhuh swee zay-tü-DYAHN.",
+     "bn": "আমি ছাত্র।",
+     "en": "I'm a student.",
+     "note_bn": "ছাত্রী হলে étudiante (এতি°দিয়াঁৎ)।"
+    },
+    {
+     "fr": "Bonne journée !",
+     "bn_pron": "বোন ঝ়ুর়নে !",
+     "en_pron": "bun zhoor-NAY !",
+     "bn": "দিনটা ভালো কাটুক!",
+     "en": "Have a nice day!"
+    }
+   ],
+   "culture_bn": "ফ্রান্সে দোকানে, লিফটে বা অফিসে ঢুকেই Bonjour বলা প্রায় বাধ্যতামূলক ভদ্রতা; না বললে মানুষ আপনাকে রূঢ় ভাবতে পারে। বন্ধুদের মধ্যে গালে গাল ছোঁয়ানো la bise প্রচলিত, তবে নতুন পরিচয়ে করমর্দনই যথেষ্ট। বিপরীত লিঙ্গের কাউকে স্পর্শ না করতে চাইলে বুকে হাত রেখে হাসিমুখে Bonjour বলুন, সংক্ষেপে কারণ বললে মানুষ সাধারণত সম্মান করে।",
+   "your_turn": {
+    "instruction_bn": "নিচের বাক্যগুলোর ফাঁকা ঘরে নিজের তথ্য বসিয়ে একজন সঙ্গীর সাথে পরিচয়ের সংলাপটি অভিনয় করুন।",
+    "lines": [
+     {
+      "fr": "Bonjour ! Je m'appelle ___.",
+      "bn_pron": "বোঁঝ়ুর় ! ঝ়ে° মাপেল ___.",
+      "en_pron": "bohn-ZHOOR ! zhuh mah-PEL ___.",
+      "bn": "হ্যালো! আমার নাম ___।",
+      "en": "Hello! My name is ___."
+     },
+     {
+      "fr": "Je viens du Bangladesh, de ___.",
+      "bn_pron": "ঝ়ে° ভ়িয়্যাঁ দি° বাঁগলাদেশ, দে° ___.",
+      "en_pron": "zhuh vyehn dü bahn-glah-DESH, duh ___.",
+      "bn": "আমি বাংলাদেশের ___ থেকে এসেছি।",
+      "en": "I come from Bangladesh, from ___."
+     },
+     {
+      "fr": "Je suis ___.",
+      "bn_pron": "ঝ়ে° সুই ___.",
+      "en_pron": "zhuh SWEE ___.",
+      "bn": "আমি একজন ___ (পেশা)।",
+      "en": "I am a/an ___."
+     },
+     {
+      "fr": "Je parle ___ et un peu de français.",
+      "bn_pron": "ঝ়ে° পার়ল ___ এ অ্যাঁ পে° দে° ফ়্র়াঁসে.",
+      "en_pron": "zhuh PARL ___ ay ehn puh duh frahn-SEH.",
+      "bn": "আমি ___ আর একটু ফরাসি বলতে পারি।",
+      "en": "I speak ___ and a little French."
+     }
+    ]
+   }
+  },
+  {
+   "no": 2,
+   "title_bn": "বিমানবন্দর ও ইমিগ্রেশন",
+   "title_en": "Airport and immigration",
+   "setting_bn": "নুসরাত সবে প্যারিসের শার্ল দ্য গোল বিমানবন্দরে নেমেছেন। পাসপোর্ট কাউন্টারে সীমান্ত পুলিশের একজন কর্মকর্তা প্রশ্ন করছেন।",
+   "lines": [
+    {
+     "who": "L'agent",
+     "you": false,
+     "fr": "Bonjour, madame. Votre passeport, s'il vous plaît.",
+     "bn_pron": "বোঁঝ়ুর়, মাদাম. ভ়োত্র় পাসপোর়, সিল ভ়ু প্লে.",
+     "en_pron": "bohn-zhoor, mah-DAHM. voh-truh pahs-POR, seel voo PLEH.",
+     "bn": "শুভ দিন, ম্যাডাম। আপনার পাসপোর্টটা দিন, প্লিজ।",
+     "en": "Hello, madam. Your passport, please."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Bonjour, monsieur. Voilà mon passeport.",
+     "bn_pron": "বোঁঝ়ুর়, মে°সিয়ে°. ভ়োয়ালা মোঁ পাসপোর়.",
+     "en_pron": "bohn-zhoor, muh-SYUH. vwah-LAH mohn pahs-POR.",
+     "bn": "শুভ দিন, স্যার। এই যে আমার পাসপোর্ট।",
+     "en": "Hello, sir. Here is my passport."
+    },
+    {
+     "who": "L'agent",
+     "you": false,
+     "fr": "Quel est le motif de votre séjour ?",
+     "bn_pron": "কেল এ লে° মোতিফ় দে° ভ়োত্র় সেঝ়ুর় ?",
+     "en_pron": "kel ay luh moh-teef duh voh-truh say-ZHOOR ?",
+     "bn": "আপনার এখানে থাকার উদ্দেশ্য কী?",
+     "en": "What is the purpose of your stay?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Je viens pour mes études. Je suis étudiante en master.",
+     "bn_pron": "ঝ়ে° ভ়িয়্যাঁ পুর় মে জ়েতি°দ. ঝ়ে° সুই এতি°দিয়াঁৎ আঁ মাস্তের়.",
+     "en_pron": "zhuh vyehn poor may zay-TÜD. zhuh swee ay-tü-dyahnt ahn mahs-TEHR.",
+     "bn": "আমি পড়াশোনার জন্য এসেছি। আমি মাস্টার্সের ছাত্রী।",
+     "en": "I've come for my studies. I'm a master's student."
+    },
+    {
+     "who": "L'agent",
+     "you": false,
+     "fr": "Combien de temps allez-vous rester en France ?",
+     "bn_pron": "কোঁবিয়্যাঁ দে° তাঁ আলে ভ়ু র়েস্তে আঁ ফ়্র়াঁস ?",
+     "en_pron": "kohn-byehn duh tahn ah-lay voo res-tay ahn FRAHNS ?",
+     "bn": "আপনি ফ্রান্সে কত দিন থাকবেন?",
+     "en": "How long are you going to stay in France?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Deux ans. J'ai un visa étudiant.",
+     "bn_pron": "দে° জ়াঁ. ঝ়ে অ্যাঁ ভ়িজ়া এতি°দিয়াঁ.",
+     "en_pron": "duh ZAHN. zhay ehn vee-zah ay-tü-DYAHN.",
+     "bn": "দুই বছর। আমার স্টুডেন্ট ভিসা আছে।",
+     "en": "Two years. I have a student visa."
+    },
+    {
+     "who": "L'agent",
+     "you": false,
+     "fr": "Où allez-vous habiter ?",
+     "bn_pron": "উ আলে ভ়ু জ়াবিতে ?",
+     "en_pron": "oo ah-lay voo zah-bee-TAY ?",
+     "bn": "আপনি কোথায় থাকবেন?",
+     "en": "Where are you going to live?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "À la résidence universitaire, à Paris. Voici la lettre de l'université.",
+     "bn_pron": "আ লা র়েজ়িদাঁস ই°নিভ়ের়সিতের়, আ পার়ি. ভ়োয়াসি লা লেত্র় দে° লি°নিভ়ের়সিতে.",
+     "en_pron": "ah lah ray-zee-dahns ü-nee-vehr-see-TEHR, ah pah-REE. vwah-see lah leh-truh duh lü-nee-vehr-see-TAY.",
+     "bn": "প্যারিসে, বিশ্ববিদ্যালয়ের ছাত্রাবাসে। এই যে বিশ্ববিদ্যালয়ের চিঠি।",
+     "en": "In the university residence, in Paris. Here is the letter from the university."
+    },
+    {
+     "who": "L'agent",
+     "you": false,
+     "fr": "Très bien. Bon séjour en France, madame.",
+     "bn_pron": "ত্র়ে বিয়্যাঁ. বোঁ সেঝ়ুর় আঁ ফ়্র়াঁস, মাদাম.",
+     "en_pron": "treh BYEHN. bohn say-zhoor ahn FRAHNS, mah-DAHM.",
+     "bn": "ঠিক আছে। ফ্রান্সে আপনার সময় ভালো কাটুক, ম্যাডাম।",
+     "en": "Very good. Enjoy your stay in France, madam."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Merci beaucoup. Où sont les bagages, s'il vous plaît ?",
+     "bn_pron": "মের়সি বোকু. উ সোঁ লে বাগাঝ়, সিল ভ়ু প্লে ?",
+     "en_pron": "mehr-see boh-KOO. oo sohn lay bah-GAHZH, seel voo PLEH ?",
+     "bn": "অনেক ধন্যবাদ। লাগেজ কোথায় পাব, বলবেন?",
+     "en": "Thank you very much. Where is the baggage, please?"
+    },
+    {
+     "who": "L'agent",
+     "you": false,
+     "fr": "Tout droit, puis à gauche.",
+     "bn_pron": "তু দ্র়োয়া, পুই আ গোশ.",
+     "en_pron": "too DRWAH, pwee ah GOHSH.",
+     "bn": "সোজা যান, তারপর বাঁয়ে।",
+     "en": "Straight ahead, then to the left."
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "Voilà mon passeport.",
+     "bn_pron": "ভ়োয়ালা মোঁ পাসপোর়.",
+     "en_pron": "vwah-LAH mohn pahs-POR.",
+     "bn": "এই যে আমার পাসপোর্ট।",
+     "en": "Here is my passport."
+    },
+    {
+     "fr": "Je viens pour mes études.",
+     "bn_pron": "ঝ়ে° ভ়িয়্যাঁ পুর় মে জ়েতি°দ.",
+     "en_pron": "zhuh vyehn poor may zay-TÜD.",
+     "bn": "আমি পড়াশোনার জন্য এসেছি।",
+     "en": "I've come for my studies."
+    },
+    {
+     "fr": "Je viens pour travailler.",
+     "bn_pron": "ঝ়ে° ভ়িয়্যাঁ পুর় ত্র়াভ়াইয়ে.",
+     "en_pron": "zhuh vyehn poor trah-vah-YAY.",
+     "bn": "আমি কাজ করতে এসেছি।",
+     "en": "I've come to work."
+    },
+    {
+     "fr": "J'ai un visa.",
+     "bn_pron": "ঝ়ে অ্যাঁ ভ়িজ়া.",
+     "en_pron": "zhay ehn vee-ZAH.",
+     "bn": "আমার ভিসা আছে।",
+     "en": "I have a visa."
+    },
+    {
+     "fr": "Bon séjour !",
+     "bn_pron": "বোঁ সেঝ়ুর় !",
+     "en_pron": "bohn say-ZHOOR !",
+     "bn": "সময়টা ভালো কাটুক!",
+     "en": "Enjoy your stay!"
+    },
+    {
+     "fr": "Où sont les bagages ?",
+     "bn_pron": "উ সোঁ লে বাগাঝ় ?",
+     "en_pron": "oo sohn lay bah-GAHZH ?",
+     "bn": "লাগেজ কোথায়?",
+     "en": "Where is the baggage?"
+    }
+   ],
+   "culture_bn": "ইমিগ্রেশনে প্রশ্ন সাধারণত ছোট ও সোজা; উত্তরও ছোট ও সত্য রাখুন। ভর্তির চিঠি, থাকার ঠিকানার প্রমাণ, বিমার কাগজ ও ফিরতি বা পরের যাত্রার তথ্য হাতব্যাগে রাখুন, লাগেজে নয়। দীর্ঘমেয়াদি ভিসা (VLS-TS) নিয়ে গেলে পৌঁছানোর তিন মাসের মধ্যে অনলাইনে ভিসাটি ভ্যালিডেট করতে হয়; এটি ভুলে গেলে পরে ঝামেলা হয়।",
+   "your_turn": {
+    "instruction_bn": "নিজেকে যাত্রী ভেবে ফাঁকা ঘর পূরণ করুন, তারপর একজন কর্মকর্তা সেজে বন্ধুকে প্রশ্ন করতে দিন।",
+    "lines": [
+     {
+      "fr": "Je viens pour ___.",
+      "bn_pron": "ঝ়ে° ভ়িয়্যাঁ পুর় ___.",
+      "en_pron": "zhuh vyehn POOR ___.",
+      "bn": "আমি ___ জন্য এসেছি।",
+      "en": "I've come for ___."
+     },
+     {
+      "fr": "Je vais rester ___.",
+      "bn_pron": "ঝ়ে° ভ়ে র়েস্তে ___.",
+      "en_pron": "zhuh veh res-TAY ___.",
+      "bn": "আমি ___ থাকব।",
+      "en": "I'm going to stay ___."
+     },
+     {
+      "fr": "Je vais habiter à ___.",
+      "bn_pron": "ঝ়ে° ভ়ে জ়াবিতে আ ___.",
+      "en_pron": "zhuh veh zah-bee-tay AH ___.",
+      "bn": "আমি ___ এ থাকব।",
+      "en": "I'm going to live in ___."
+     },
+     {
+      "fr": "Voici ___.",
+      "bn_pron": "ভ়োয়াসি ___.",
+      "en_pron": "vwah-SEE ___.",
+      "bn": "এই যে ___।",
+      "en": "Here is ___."
+     }
+    ]
+   }
+  },
+  {
+   "no": 3,
+   "title_bn": "ট্যাক্সি ও রাইড-শেয়ার",
+   "title_en": "Taxi and ride-share",
+   "setting_bn": "সন্ধ্যায় বিমানবন্দর থেকে শহরে যেতে র়াফ়ি অ্যাপে একটি গাড়ি ডেকেছেন। চালক মুসা সেনেগালের মানুষ, কথায় হাসিখুশি।",
+   "lines": [
+    {
+     "who": "Moussa",
+     "you": false,
+     "fr": "Bonsoir ! Vous êtes Rafi ?",
+     "bn_pron": "বোঁসোয়ার় ! ভ়ু জ়েৎ র়াফ়ি ?",
+     "en_pron": "bohn-SWAHR ! voo zet rah-FEE ?",
+     "bn": "শুভ সন্ধ্যা! আপনি কি র়াফ়ি?",
+     "en": "Good evening! Are you Rafi?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Oui, c'est moi. Bonsoir !",
+     "bn_pron": "উই, সে মোয়া. বোঁসোয়ার় !",
+     "en_pron": "wee, say MWAH. bohn-SWAHR !",
+     "bn": "জি, আমিই। শুভ সন্ধ্যা!",
+     "en": "Yes, that's me. Good evening!"
+    },
+    {
+     "who": "Moussa",
+     "you": false,
+     "fr": "Je mets votre valise dans le coffre ?",
+     "bn_pron": "ঝ়ে° মে ভ়োত্র় ভ়ালিজ় দাঁ লে° কোফ়্র় ?",
+     "en_pron": "zhuh meh voh-truh vah-leez dahn luh KOFR ?",
+     "bn": "আপনার স্যুটকেসটা ডিকিতে রাখব?",
+     "en": "Shall I put your suitcase in the boot?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Oui, merci. Je vais au 12, rue Victor-Hugo.",
+     "bn_pron": "উই, মের়সি. ঝ়ে° ভ়ে ও দুজ়, র়ি° ভ়িক্তোর়-ই°গো.",
+     "en_pron": "wee, mehr-SEE. zhuh veh oh DOOZ, rü veek-tor-ü-GOH.",
+     "bn": "জি, ধন্যবাদ। আমি যাব ১২ নম্বর, ভিক্তর-উগো সড়কে।",
+     "en": "Yes, thanks. I'm going to 12 Victor-Hugo Street.",
+     "note_bn": "ফরাসি ঠিকানায় নম্বর আগে, তারপর রাস্তার নাম।"
+    },
+    {
+     "who": "Moussa",
+     "you": false,
+     "fr": "C'est noté. Il y a un peu de circulation ce soir.",
+     "bn_pron": "সে নোতে. ইলিয়া অ্যাঁ পে° দে° সির়কি°লাসিয়োঁ সে° সোয়ার়.",
+     "en_pron": "say noh-TAY. eel-yah ehn puh duh seer-kü-lah-syohn suh SWAHR.",
+     "bn": "ঠিক আছে। আজ সন্ধ্যায় রাস্তায় একটু যানজট আছে।",
+     "en": "Got it. There's a bit of traffic this evening."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Ça prend combien de temps, à peu près ?",
+     "bn_pron": "সা প্র়াঁ কোঁবিয়্যাঁ দে° তাঁ, আ পে° প্র়ে ?",
+     "en_pron": "sah prahn kohn-byehn duh TAHN, ah puh PREH ?",
+     "bn": "মোটামুটি কত সময় লাগবে?",
+     "en": "About how long does it take?"
+    },
+    {
+     "who": "Moussa",
+     "you": false,
+     "fr": "Environ quarante minutes.",
+     "bn_pron": "আঁভ়ির়োঁ কার়াঁৎ মিনি°ৎ.",
+     "en_pron": "ahn-vee-rohn kah-rahnt mee-NÜT.",
+     "bn": "প্রায় চল্লিশ মিনিট।",
+     "en": "About forty minutes."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "D'accord. Vous pouvez ouvrir un peu la fenêtre ?",
+     "bn_pron": "দাকোর়. ভ়ু পুভ়ে উভ়্র়ির় অ্যাঁ পে° লা ফ়ে°নেত্র় ?",
+     "en_pron": "dah-KOR. voo poo-vay oo-vreer ehn puh lah fuh-NETR ?",
+     "bn": "ঠিক আছে। জানালাটা একটু খুলে দেবেন?",
+     "en": "All right. Could you open the window a little?"
+    },
+    {
+     "who": "Moussa",
+     "you": false,
+     "fr": "Bien sûr. … Voilà, on est arrivés !",
+     "bn_pron": "বিয়্যাঁ সি°র়. … ভ়োয়ালা, ওঁ নে আর়িভ়ে !",
+     "en_pron": "byehn SÜR. … vwah-LAH, ohn nay ah-ree-VAY !",
+     "bn": "অবশ্যই। … এই তো, পৌঁছে গেছি!",
+     "en": "Of course. … Here we are!"
+    },
+    {
+     "who": "Moussa",
+     "you": false,
+     "fr": "Ça fait cinquante-deux euros.",
+     "bn_pron": "সা ফ়ে স্যাঁকাঁৎ-দে° জ়ে°র়ো.",
+     "en_pron": "sah feh sehn-kahnt-duh zuh-ROH.",
+     "bn": "ভাড়া বাহান্ন ইউরো।",
+     "en": "That's fifty-two euros."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Je peux payer par carte ?",
+     "bn_pron": "ঝ়ে° পে° পেয়ে পার় কার়ৎ ?",
+     "en_pron": "zhuh puh peh-yay par KART ?",
+     "bn": "কার্ডে দিতে পারি?",
+     "en": "Can I pay by card?"
+    },
+    {
+     "who": "Moussa",
+     "you": false,
+     "fr": "Oui, pas de problème. Bonne soirée !",
+     "bn_pron": "উই, পা দে° প্র়োব্লেম. বোন সোয়ার়ে !",
+     "en_pron": "wee, pah duh proh-BLEM. bun swah-RAY !",
+     "bn": "হ্যাঁ, কোনো সমস্যা নেই। সন্ধ্যাটা ভালো কাটুক!",
+     "en": "Yes, no problem. Have a nice evening!"
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "Bonsoir !",
+     "bn_pron": "বোঁসোয়ার় !",
+     "en_pron": "bohn-SWAHR !",
+     "bn": "শুভ সন্ধ্যা!",
+     "en": "Good evening!"
+    },
+    {
+     "fr": "Je vais au… / à la…",
+     "bn_pron": "ঝ়ে° ভ়ে ও… / আ লা…",
+     "en_pron": "zhuh veh OH… / ah LAH…",
+     "bn": "আমি যাব…",
+     "en": "I'm going to…"
+    },
+    {
+     "fr": "Ça prend combien de temps ?",
+     "bn_pron": "সা প্র়াঁ কোঁবিয়্যাঁ দে° তাঁ ?",
+     "en_pron": "sah prahn kohn-byehn duh TAHN ?",
+     "bn": "কত সময় লাগবে?",
+     "en": "How long does it take?"
+    },
+    {
+     "fr": "Ça fait combien ?",
+     "bn_pron": "সা ফ়ে কোঁবিয়্যাঁ ?",
+     "en_pron": "sah feh kohn-BYEHN ?",
+     "bn": "কত হলো?",
+     "en": "How much is it?"
+    },
+    {
+     "fr": "Je peux payer par carte ?",
+     "bn_pron": "ঝ়ে° পে° পেয়ে পার় কার়ৎ ?",
+     "en_pron": "zhuh puh peh-yay par KART ?",
+     "bn": "কার্ডে দিতে পারি?",
+     "en": "Can I pay by card?"
+    },
+    {
+     "fr": "Arrêtez-vous ici, s'il vous plaît.",
+     "bn_pron": "আর়েতে ভ়ু ইসি, সিল ভ়ু প্লে.",
+     "en_pron": "ah-reh-tay voo ee-SEE, seel voo PLEH.",
+     "bn": "এখানে থামুন, প্লিজ।",
+     "en": "Stop here, please."
+    }
+   ],
+   "culture_bn": "ফ্রান্সে সরকারি ট্যাক্সির মাথায় «TAXI» বাতি থাকে আর মিটারে ভাড়া ওঠে; প্যারিসের বিমানবন্দর থেকে শহরে ভাড়া নির্দিষ্ট (forfait)। অ্যাপের গাড়িকে বলে VTC। বকশিশ বাধ্যতামূলক নয়; খুশি হলে ভাড়া একটু গোল করে দিতে পারেন। গাড়িতে উঠে আগে Bonjour বা Bonsoir বলুন, তারপর ঠিকানা।",
+   "your_turn": {
+    "instruction_bn": "ফাঁকা ঘরে নিজের গন্তব্য ও প্রশ্ন বসিয়ে চালকের সাথে কথা বলুন।",
+    "lines": [
+     {
+      "fr": "Bonjour ! Je vais ___, s'il vous plaît.",
+      "bn_pron": "বোঁঝ়ুর় ! ঝ়ে° ভ়ে ___, সিল ভ়ু প্লে.",
+      "en_pron": "bohn-ZHOOR ! zhuh VEH ___, seel voo PLEH.",
+      "bn": "হ্যালো! আমি ___ যাব, প্লিজ।",
+      "en": "Hello! I'm going to ___, please."
+     },
+     {
+      "fr": "Ça prend ___ minutes ?",
+      "bn_pron": "সা প্র়াঁ ___ মিনি°ৎ ?",
+      "en_pron": "sah PRAHN ___ mee-NÜT ?",
+      "bn": "___ মিনিট লাগবে?",
+      "en": "Does it take ___ minutes?"
+     },
+     {
+      "fr": "Je peux payer ___ ?",
+      "bn_pron": "ঝ়ে° পে° পেয়ে ___ ?",
+      "en_pron": "zhuh puh peh-YAY ___ ?",
+      "bn": "আমি কি ___ দিয়ে দিতে পারি?",
+      "en": "Can I pay ___?"
+     }
+    ]
+   }
+  },
+  {
+   "no": 4,
+   "title_bn": "হোটেলে চেক-ইন",
+   "title_en": "Hotel check-in",
+   "setting_bn": "ব্রাসেলসে একটি সম্মেলনে এসেছেন নুসরাত। রাতে হোটেলের রিসেপশনে লুকা নামের কর্মী তাঁকে স্বাগত জানাচ্ছেন।",
+   "lines": [
+    {
+     "who": "Lucas",
+     "you": false,
+     "fr": "Bonsoir, madame. Bienvenue à l'hôtel du Parc.",
+     "bn_pron": "বোঁসোয়ার়, মাদাম. বিয়্যাঁভ়ে°নি° আ লোতেল দি° পার়ক.",
+     "en_pron": "bohn-swahr, mah-DAHM. byehn-vuh-nü ah loh-tel dü PARK.",
+     "bn": "শুভ সন্ধ্যা, ম্যাডাম। হোটেল দ্যু পার্কে স্বাগতম।",
+     "en": "Good evening, madam. Welcome to the Hôtel du Parc."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Bonsoir. J'ai une réservation au nom de Nusrat Jahan.",
+     "bn_pron": "বোঁসোয়ার়. ঝ়ে ই°ন র়েজ়ের়ভ়াসিয়োঁ ও নোঁ দে° নুসরাত জাহান.",
+     "en_pron": "bohn-SWAHR. zhay ün ray-zehr-vah-syohn oh nohn duh noos-raht zhah-AHN.",
+     "bn": "শুভ সন্ধ্যা। নুসরাত জাহান নামে আমার একটা বুকিং আছে।",
+     "en": "Good evening. I have a reservation in the name of Nusrat Jahan."
+    },
+    {
+     "who": "Lucas",
+     "you": false,
+     "fr": "Un instant… Oui, une chambre simple pour trois nuits, c'est bien ça ?",
+     "bn_pron": "অ্যাঁ নাঁস্তাঁ… উই, ই°ন শাঁব্র় স্যাঁপ্ল় পুর় ত্র়োয়া নুই, সে বিয়্যাঁ সা ?",
+     "en_pron": "ehn nahns-TAHN… WEE, ün shahn-bruh sehn-pluh poor trwah NWEE, say byehn SAH ?",
+     "bn": "এক মুহূর্ত… হ্যাঁ, তিন রাতের জন্য একজনের রুম, ঠিক তো?",
+     "en": "One moment… Yes, a single room for three nights, is that right?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Oui, c'est ça.",
+     "bn_pron": "উই, সে সা.",
+     "en_pron": "wee, say SAH.",
+     "bn": "জি, ঠিক।",
+     "en": "Yes, that's right."
+    },
+    {
+     "who": "Lucas",
+     "you": false,
+     "fr": "Votre passeport, s'il vous plaît. Le petit-déjeuner est compris.",
+     "bn_pron": "ভ়োত্র় পাসপোর়, সিল ভ়ু প্লে. লে° পে°তি-দেঝ়ে°নে এ কোঁপ্র়ি.",
+     "en_pron": "voh-truh pahs-POR, seel voo PLEH. luh puh-tee-day-zhuh-nay ay kohn-PREE.",
+     "bn": "আপনার পাসপোর্টটা দিন, প্লিজ। সকালের নাশতা ভাড়ার মধ্যেই।",
+     "en": "Your passport, please. Breakfast is included."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Le petit-déjeuner est à quelle heure ?",
+     "bn_pron": "লে° পে°তি-দেঝ়ে°নে এ তা কেল এ°র় ?",
+     "en_pron": "luh puh-tee-day-zhuh-nay ay tah kel UHR ?",
+     "bn": "নাশতা কয়টায়?",
+     "en": "What time is breakfast?"
+    },
+    {
+     "who": "Lucas",
+     "you": false,
+     "fr": "De sept heures à dix heures, au rez-de-chaussée.",
+     "bn_pron": "দে° সেৎ এ°র় আ দি জ়ে°র়, ও র়েদ-শোসে.",
+     "en_pron": "duh set UHR ah dee ZUHR, oh rayd-shoh-SAY.",
+     "bn": "সাতটা থেকে দশটা, নিচতলায়।",
+     "en": "From seven to ten, on the ground floor."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Est-ce que la chambre a le wifi ?",
+     "bn_pron": "এস কে° লা শাঁব্র় আ লে° উইফ়ি ?",
+     "en_pron": "es-kuh lah shahn-bruh ah luh wee-FEE ?",
+     "bn": "রুমে কি ওয়াইফাই আছে?",
+     "en": "Does the room have wifi?"
+    },
+    {
+     "who": "Lucas",
+     "you": false,
+     "fr": "Oui, le code est sur la carte. Voici votre clé : chambre 214, au deuxième étage.",
+     "bn_pron": "উই, লে° কোদ এ সি°র় লা কার়ৎ. ভ়োয়াসি ভ়োত্র় ক্লে : শাঁব্র় দে° সাঁ কাতোর়জ়, ও দে°জ়িয়েম এতাঝ়.",
+     "en_pron": "wee, luh kohd ay sür lah KART. vwah-see voh-truh KLAY : shahn-bruh duh sahn kah-TORZ, oh duh-zyem ay-TAHZH.",
+     "bn": "হ্যাঁ, কোডটা কার্ডে লেখা আছে। এই নিন চাবি: রুম ২১৪, দোতলার ওপরের তলায় (deuxième étage)।",
+     "en": "Yes, the code is on the card. Here is your key: room 214, on the second floor."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Merci. Il y a une mosquée près d'ici ?",
+     "bn_pron": "মের়সি. ইলিয়া ই°ন মোস্কে প্র়ে দিসি ?",
+     "en_pron": "mehr-SEE. eel-yah ün mos-kay preh dee-SEE ?",
+     "bn": "ধন্যবাদ। কাছাকাছি কোনো মসজিদ আছে?",
+     "en": "Thank you. Is there a mosque near here?"
+    },
+    {
+     "who": "Lucas",
+     "you": false,
+     "fr": "Oui, à dix minutes à pied. Je vous montre sur le plan.",
+     "bn_pron": "উই, আ দি মিনি°ৎ আ পিয়ে. ঝ়ে° ভ়ু মোঁত্র় সি°র় লে° প্লাঁ.",
+     "en_pron": "wee, ah dee mee-nüt ah PYAY. zhuh voo mohn-truh sür luh PLAHN.",
+     "bn": "হ্যাঁ, হেঁটে দশ মিনিট। ম্যাপে দেখিয়ে দিচ্ছি।",
+     "en": "Yes, ten minutes on foot. I'll show you on the map."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "C'est très gentil. Bonne soirée !",
+     "bn_pron": "সে ত্র়ে ঝ়াঁতি. বোন সোয়ার়ে !",
+     "en_pron": "say treh zhahn-TEE. bun swah-RAY !",
+     "bn": "আপনি খুব সদয়। শুভ সন্ধ্যা!",
+     "en": "That's very kind. Have a nice evening!"
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "J'ai une réservation.",
+     "bn_pron": "ঝ়ে ই°ন র়েজ়ের়ভ়াসিয়োঁ.",
+     "en_pron": "zhay ün ray-zehr-vah-SYOHN.",
+     "bn": "আমার একটা বুকিং আছে।",
+     "en": "I have a reservation."
+    },
+    {
+     "fr": "au nom de…",
+     "bn_pron": "ও নোঁ দে°…",
+     "en_pron": "oh nohn DUH…",
+     "bn": "…নামে",
+     "en": "in the name of…"
+    },
+    {
+     "fr": "C'est à quelle heure ?",
+     "bn_pron": "সে তা কেল এ°র় ?",
+     "en_pron": "say tah kel UHR ?",
+     "bn": "এটা কয়টায়?",
+     "en": "What time is it at?"
+    },
+    {
+     "fr": "Le petit-déjeuner est compris ?",
+     "bn_pron": "লে° পে°তি-দেঝ়ে°নে এ কোঁপ্র়ি ?",
+     "en_pron": "luh puh-tee-day-zhuh-nay ay kohn-PREE ?",
+     "bn": "নাশতা কি ভাড়ার মধ্যে?",
+     "en": "Is breakfast included?"
+    },
+    {
+     "fr": "Il y a le wifi ?",
+     "bn_pron": "ইলিয়া লে° উইফ়ি ?",
+     "en_pron": "eel-yah luh wee-FEE ?",
+     "bn": "ওয়াইফাই আছে?",
+     "en": "Is there wifi?"
+    },
+    {
+     "fr": "Il y a une mosquée près d'ici ?",
+     "bn_pron": "ইলিয়া ই°ন মোস্কে প্র়ে দিসি ?",
+     "en_pron": "eel-yah ün mos-kay preh dee-SEE ?",
+     "bn": "কাছাকাছি মসজিদ আছে?",
+     "en": "Is there a mosque near here?"
+    }
+   ],
+   "culture_bn": "ফ্রান্স ও বেলজিয়ামে rez-de-chaussée মানে নিচতলা, আর premier étage মানে আমাদের দোতলা; তাই deuxième étage আমাদের হিসাবে তিনতলা। অনেক শহরে হোটেলের বিলের সাথে প্রতি রাতে মাথাপিছু ছোট একটি পর্যটন কর (taxe de séjour) যোগ হয়, এটা ভুল বিল নয়।",
+   "your_turn": {
+    "instruction_bn": "নিজের নাম ও প্রয়োজন বসিয়ে রিসেপশনে কথা বলার অনুশীলন করুন।",
+    "lines": [
+     {
+      "fr": "J'ai une réservation au nom de ___.",
+      "bn_pron": "ঝ়ে ই°ন র়েজ়ের়ভ়াসিয়োঁ ও নোঁ দে° ___.",
+      "en_pron": "zhay ün ray-zehr-vah-syohn oh nohn DUH ___.",
+      "bn": "___ নামে আমার একটা বুকিং আছে।",
+      "en": "I have a reservation in the name of ___."
+     },
+     {
+      "fr": "Une chambre pour ___ nuits.",
+      "bn_pron": "ই°ন শাঁব্র় পুর় ___ নুই.",
+      "en_pron": "ün shahn-bruh POOR ___ NWEE.",
+      "bn": "___ রাতের জন্য একটা রুম।",
+      "en": "A room for ___ nights."
+     },
+     {
+      "fr": "Le ___ est à quelle heure ?",
+      "bn_pron": "লে° ___ এ তা কেল এ°র় ?",
+      "en_pron": "LUH ___ ay tah kel UHR ?",
+      "bn": "___ কয়টায়?",
+      "en": "What time is the ___?"
+     }
+    ]
+   }
+  },
+  {
+   "no": 5,
+   "title_bn": "পথ জিজ্ঞেস করা",
+   "title_en": "Asking for directions",
+   "setting_bn": "প্যারিসের রাস্তায় র়াফ়ি মেট্রো স্টেশন খুঁজে পাচ্ছেন না। ফোনের চার্জ শেষ, তাই পাশ দিয়ে যাওয়া সোফ়ি নামের এক নারীকে ভদ্রভাবে জিজ্ঞেস করছেন।",
+   "lines": [
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Excusez-moi, madame. Je cherche la station de métro Bastille.",
+     "bn_pron": "এক্সকি°জ়ে মোয়া, মাদাম. ঝ়ে° শের়শ লা স্তাসিয়োঁ দে° মেত্র়ো বাস্তিয়.",
+     "en_pron": "ehks-kü-zay MWAH, mah-DAHM. zhuh shehrsh lah stah-syohn duh may-troh bahs-TEEY.",
+     "bn": "মাফ করবেন, ম্যাডাম। আমি বাস্তিই মেট্রো স্টেশন খুঁজছি।",
+     "en": "Excuse me, madam. I'm looking for Bastille metro station."
+    },
+    {
+     "who": "Sophie",
+     "you": false,
+     "fr": "Bastille ? C'est assez loin à pied.",
+     "bn_pron": "বাস্তিয় ? সে তাসে লোয়্যাঁ আ পিয়ে.",
+     "en_pron": "bahs-TEEY ? say tah-say lwehn ah PYAY.",
+     "bn": "বাস্তিই? হেঁটে গেলে বেশ দূর।",
+     "en": "Bastille? It's quite far on foot."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "C'est à combien de minutes ?",
+     "bn_pron": "সে তা কোঁবিয়্যাঁ দে° মিনি°ৎ ?",
+     "en_pron": "say tah kohn-byehn duh mee-NÜT ?",
+     "bn": "কত মিনিটের পথ?",
+     "en": "How many minutes away is it?"
+    },
+    {
+     "who": "Sophie",
+     "you": false,
+     "fr": "À pied, vingt minutes. En métro, cinq minutes.",
+     "bn_pron": "আ পিয়ে, ভ়্যাঁ মিনি°ৎ. আঁ মেত্র়ো, স্যাঁক মিনি°ৎ.",
+     "en_pron": "ah PYAY, vehn mee-NÜT. ahn may-TROH, sehnk mee-NÜT.",
+     "bn": "হেঁটে বিশ মিনিট। মেট্রোতে পাঁচ মিনিট।",
+     "en": "On foot, twenty minutes. By metro, five minutes."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Je préfère marcher. C'est par où ?",
+     "bn_pron": "ঝ়ে° প্র়েফ়ের় মার়শে. সে পার় উ ?",
+     "en_pron": "zhuh pray-fehr mar-SHAY. say par OO ?",
+     "bn": "আমি হেঁটেই যেতে চাই। কোন দিকে?",
+     "en": "I prefer to walk. Which way is it?"
+    },
+    {
+     "who": "Sophie",
+     "you": false,
+     "fr": "Allez tout droit jusqu'au feu, puis tournez à droite.",
+     "bn_pron": "আলে তু দ্র়োয়া ঝি°স্কো ফ়ে°, পুই তুর়নে আ দ্র়োয়াৎ.",
+     "en_pron": "ah-lay too drwah zhüs-koh FUH, pwee toor-nay ah DRWAHT.",
+     "bn": "সিগন্যাল পর্যন্ত সোজা যান, তারপর ডানে ঘুরুন।",
+     "en": "Go straight on to the traffic lights, then turn right."
+    },
+    {
+     "who": "Sophie",
+     "you": false,
+     "fr": "Ensuite, prenez la deuxième rue à gauche.",
+     "bn_pron": "আঁসুইৎ, প্র়ে°নে লা দে°জ়িয়েম র়ি° আ গোশ.",
+     "en_pron": "ahn-SWEET, pruh-nay lah duh-zyem rü ah GOHSH.",
+     "bn": "তারপর বাঁয়ের দ্বিতীয় রাস্তাটা ধরুন।",
+     "en": "Then take the second street on the left."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Tout droit, à droite, puis la deuxième à gauche. C'est ça ?",
+     "bn_pron": "তু দ্র়োয়া, আ দ্র়োয়াৎ, পুই লা দে°জ়িয়েম আ গোশ. সে সা ?",
+     "en_pron": "too DRWAH, ah DRWAHT, pwee lah duh-zyem ah GOHSH. say SAH ?",
+     "bn": "সোজা, ডানে, তারপর বাঁয়ের দ্বিতীয়টা। ঠিক?",
+     "en": "Straight on, right, then the second on the left. Is that it?"
+    },
+    {
+     "who": "Sophie",
+     "you": false,
+     "fr": "Exactement ! La station est en face de la grande place.",
+     "bn_pron": "এগজ়াক্তে°মাঁ ! লা স্তাসিয়োঁ এ তাঁ ফ়াস দে° লা গ্র়াঁদ প্লাস.",
+     "en_pron": "eg-zak-tuh-MAHN ! lah stah-syohn ay tahn fahs duh lah grahnd PLAHS.",
+     "bn": "একদম! স্টেশনটা বড় চত্বরটার ঠিক উল্টো দিকে।",
+     "en": "Exactly! The station is opposite the big square."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Merci beaucoup, madame. Vous êtes très aimable.",
+     "bn_pron": "মের়সি বোকু, মাদাম. ভ়ু জ়েৎ ত্র়ে জ়েমাব্ল়.",
+     "en_pron": "mehr-see boh-KOO, mah-DAHM. voo zet treh zeh-MAHBL.",
+     "bn": "অনেক ধন্যবাদ, ম্যাডাম। আপনি খুব সহৃদয়।",
+     "en": "Thank you very much, madam. You're very kind."
+    },
+    {
+     "who": "Sophie",
+     "you": false,
+     "fr": "Je vous en prie. Bonne journée !",
+     "bn_pron": "ঝ়ে° ভ়ু জ়াঁ প্র়ি. বোন ঝ়ুর়নে !",
+     "en_pron": "zhuh voo zahn PREE. bun zhoor-NAY !",
+     "bn": "কোনো ব্যাপার না। দিনটা ভালো কাটুক!",
+     "en": "You're welcome. Have a nice day!"
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "Excusez-moi…",
+     "bn_pron": "এক্সকি°জ়ে মোয়া…",
+     "en_pron": "ehks-kü-zay MWAH…",
+     "bn": "মাফ করবেন…",
+     "en": "Excuse me…"
+    },
+    {
+     "fr": "Je cherche…",
+     "bn_pron": "ঝ়ে° শের়শ…",
+     "en_pron": "zhuh SHEHRSH…",
+     "bn": "আমি … খুঁজছি",
+     "en": "I'm looking for…"
+    },
+    {
+     "fr": "C'est par où ?",
+     "bn_pron": "সে পার় উ ?",
+     "en_pron": "say par OO ?",
+     "bn": "কোন দিকে?",
+     "en": "Which way is it?"
+    },
+    {
+     "fr": "tout droit",
+     "bn_pron": "তু দ্র়োয়া",
+     "en_pron": "too DRWAH",
+     "bn": "সোজা",
+     "en": "straight ahead"
+    },
+    {
+     "fr": "à droite / à gauche",
+     "bn_pron": "আ দ্র়োয়াৎ / আ গোশ",
+     "en_pron": "ah DRWAHT / ah GOHSH",
+     "bn": "ডানে / বাঁয়ে",
+     "en": "to the right / to the left"
+    },
+    {
+     "fr": "en face de…",
+     "bn_pron": "আঁ ফ়াস দে°…",
+     "en_pron": "ahn fahs DUH…",
+     "bn": "…এর উল্টো দিকে",
+     "en": "opposite…"
+    }
+   ],
+   "culture_bn": "পথচারীকে কিছু জিজ্ঞেস করার আগে Excusez-moi বা Pardon বলে শুরু করা ফরাসি ভদ্রতার নিয়ম। বড় শহরে মানুষ তাড়াহুড়োয় থাকে, তাই প্রশ্ন ছোট রাখুন। প্যারিস ২০টি এলাকায় (arrondissement) ভাগ করা; ঠিকানার শেষে 75011-এর মতো ডাক কোডের শেষ দুই অঙ্ক বলে দেয় কোন এলাকা।",
+   "your_turn": {
+    "instruction_bn": "নিজের শহরের একটি জায়গার নাম বসিয়ে পথ জিজ্ঞেস করুন, আর সঙ্গী উত্তর দিক।",
+    "lines": [
+     {
+      "fr": "Excusez-moi, je cherche ___.",
+      "bn_pron": "এক্সকি°জ়ে মোয়া, ঝ়ে° শের়শ ___.",
+      "en_pron": "ehks-kü-zay MWAH, zhuh SHEHRSH ___.",
+      "bn": "মাফ করবেন, আমি ___ খুঁজছি।",
+      "en": "Excuse me, I'm looking for ___."
+     },
+     {
+      "fr": "C'est à ___ minutes ?",
+      "bn_pron": "সে তা ___ মিনি°ৎ ?",
+      "en_pron": "say TAH ___ mee-NÜT ?",
+      "bn": "এটা কি ___ মিনিটের পথ?",
+      "en": "Is it ___ minutes away?"
+     },
+     {
+      "fr": "Allez tout droit, puis tournez à ___.",
+      "bn_pron": "আলে তু দ্র়োয়া, পুই তুর়নে আ ___.",
+      "en_pron": "ah-lay too DRWAH, pwee toor-nay AH ___.",
+      "bn": "সোজা যান, তারপর ___ ঘুরুন।",
+      "en": "Go straight on, then turn ___."
+     }
+    ]
+   }
+  },
+  {
+   "no": 6,
+   "title_bn": "রেস্তোরাঁয়",
+   "title_en": "At the restaurant",
+   "setting_bn": "দুপুরে একটি ছোট রেস্তোরাঁয় খেতে ঢুকেছেন নুসরাত। ওয়েটার আঁতোয়ান মেনু দিচ্ছেন, আর নুসরাত হালাল খাবারের খোঁজ নিচ্ছেন।",
+   "lines": [
+    {
+     "who": "Antoine",
+     "you": false,
+     "fr": "Bonjour, madame. Une table pour une personne ?",
+     "bn_pron": "বোঁঝ়ুর়, মাদাম. ই°ন তাব্ল় পুর় ই°ন পের়সোন ?",
+     "en_pron": "bohn-zhoor, mah-DAHM. ün tah-bluh poor ün pehr-SUN ?",
+     "bn": "শুভ দিন, ম্যাডাম। একজনের টেবিল?",
+     "en": "Hello, madam. A table for one?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Oui, s'il vous plaît. Près de la fenêtre, si possible.",
+     "bn_pron": "উই, সিল ভ়ু প্লে. প্র়ে দে° লা ফ়ে°নেত্র়, সি পোসিব্ল়.",
+     "en_pron": "wee, seel voo PLEH. preh duh lah fuh-NETR, see poh-SEEBL.",
+     "bn": "জি, প্লিজ। সম্ভব হলে জানালার পাশে।",
+     "en": "Yes, please. Near the window, if possible."
+    },
+    {
+     "who": "Antoine",
+     "you": false,
+     "fr": "Voici la carte. Vous voulez boire quelque chose ?",
+     "bn_pron": "ভ়োয়াসি লা কার়ৎ. ভ়ু ভ়ুলে বোয়ার় কেলক শোজ় ?",
+     "en_pron": "vwah-see lah KART. voo voo-lay bwahr kel-kuh SHOHZ ?",
+     "bn": "এই নিন মেনু। কিছু পান করবেন?",
+     "en": "Here is the menu. Would you like something to drink?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Une carafe d'eau et un jus d'orange, s'il vous plaît.",
+     "bn_pron": "ই°ন কার়াফ় দো এ অ্যাঁ ঝি° দোর়াঁঝ়, সিল ভ়ু প্লে.",
+     "en_pron": "ün kah-rahf DOH ay ehn zhü doh-RAHNZH, seel voo PLEH.",
+     "bn": "এক জগ পানি আর একটা কমলার জুস, প্লিজ।",
+     "en": "A jug of water and an orange juice, please."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Excusez-moi, est-ce que la viande est halal ?",
+     "bn_pron": "এক্সকি°জ়ে মোয়া, এস কে° লা ভ়িয়াঁদ এ আলাল ?",
+     "en_pron": "ehks-kü-zay MWAH, es-kuh lah vyahnd ay ah-LAHL ?",
+     "bn": "মাফ করবেন, মাংসটা কি হালাল?",
+     "en": "Excuse me, is the meat halal?",
+     "note_bn": "ফরাসিতে h উচ্চারিত হয় না, তাই halal বলা হয় «আলাল»।"
+    },
+    {
+     "who": "Antoine",
+     "you": false,
+     "fr": "Non, désolé. Mais nous avons du poisson et un plat végétarien.",
+     "bn_pron": "নোঁ, দেজ়োলে. মে নু জ়াভ়োঁ দি° পোয়াসোঁ এ অ্যাঁ প্লা ভ়েঝ়েতার়িয়্যাঁ.",
+     "en_pron": "nohn, day-zoh-LAY. meh noo zah-vohn dü pwah-sohn ay ehn plah vay-zhay-tah-RYEHN.",
+     "bn": "না, দুঃখিত। তবে আমাদের মাছ আর একটা নিরামিষ পদ আছে।",
+     "en": "No, sorry. But we have fish and a vegetarian dish."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Alors, je vais prendre le poisson avec des légumes.",
+     "bn_pron": "আলোর়, ঝ়ে° ভ়ে প্র়াঁদ্র় লে° পোয়াসোঁ আভ়েক দে লেগি°ম.",
+     "en_pron": "ah-LOR, zhuh veh prahn-druh luh pwah-sohn ah-vek day lay-GÜM.",
+     "bn": "তাহলে আমি সবজির সাথে মাছটাই নেব।",
+     "en": "Then I'll have the fish with vegetables."
+    },
+    {
+     "who": "Antoine",
+     "you": false,
+     "fr": "Très bon choix. Et comme dessert ?",
+     "bn_pron": "ত্র়ে বোঁ শোয়া. এ কোম দেসের় ?",
+     "en_pron": "treh bohn SHWAH. ay kum day-SEHR ?",
+     "bn": "খুব ভালো পছন্দ। আর ডেজার্টে কী নেবেন?",
+     "en": "Very good choice. And for dessert?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Une crêpe au chocolat, s'il vous plaît.",
+     "bn_pron": "ই°ন ক্র়েপ ও শোকোলা, সিল ভ়ু প্লে.",
+     "en_pron": "ün krep oh shoh-koh-LAH, seel voo PLEH.",
+     "bn": "একটা চকলেট ক্রেপ, প্লিজ।",
+     "en": "A chocolate crêpe, please."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "C'était délicieux ! L'addition, s'il vous plaît.",
+     "bn_pron": "সেতে দেলিসিয়ে° ! লাদিসিয়োঁ, সিল ভ়ু প্লে.",
+     "en_pron": "say-teh day-lee-SYUH ! lah-dee-SYOHN, seel voo PLEH.",
+     "bn": "খুব মজা ছিল! বিলটা দিন, প্লিজ।",
+     "en": "It was delicious! The bill, please."
+    },
+    {
+     "who": "Antoine",
+     "you": false,
+     "fr": "Voilà. Vous payez par carte ?",
+     "bn_pron": "ভ়োয়ালা. ভ়ু পেয়ে পার় কার়ৎ ?",
+     "en_pron": "vwah-LAH. voo peh-yay par KART ?",
+     "bn": "এই যে। কার্ডে দেবেন?",
+     "en": "Here you are. Are you paying by card?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Oui. Merci, et bonne journée !",
+     "bn_pron": "উই. মের়সি, এ বোন ঝ়ুর়নে !",
+     "en_pron": "WEE. mehr-SEE, ay bun zhoor-NAY !",
+     "bn": "জি। ধন্যবাদ, দিনটা ভালো কাটুক!",
+     "en": "Yes. Thank you, and have a nice day!"
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "Une table pour deux, s'il vous plaît.",
+     "bn_pron": "ই°ন তাব্ল় পুর় দে°, সিল ভ়ু প্লে.",
+     "en_pron": "ün tah-bluh poor DUH, seel voo PLEH.",
+     "bn": "দুজনের একটা টেবিল, প্লিজ।",
+     "en": "A table for two, please."
+    },
+    {
+     "fr": "Est-ce que c'est halal ?",
+     "bn_pron": "এস কে° সে আলাল ?",
+     "en_pron": "es-kuh say ah-LAHL ?",
+     "bn": "এটা কি হালাল?",
+     "en": "Is it halal?"
+    },
+    {
+     "fr": "Je vais prendre…",
+     "bn_pron": "ঝ়ে° ভ়ে প্র়াঁদ্র়…",
+     "en_pron": "zhuh veh PRAHNDR…",
+     "bn": "আমি … নেব",
+     "en": "I'll have…"
+    },
+    {
+     "fr": "une carafe d'eau",
+     "bn_pron": "ই°ন কার়াফ় দো",
+     "en_pron": "ün kah-rahf DOH",
+     "bn": "এক জগ (ফ্রি) পানি",
+     "en": "a jug of tap water"
+    },
+    {
+     "fr": "L'addition, s'il vous plaît.",
+     "bn_pron": "লাদিসিয়োঁ, সিল ভ়ু প্লে.",
+     "en_pron": "lah-dee-SYOHN, seel voo PLEH.",
+     "bn": "বিলটা দিন, প্লিজ।",
+     "en": "The bill, please."
+    },
+    {
+     "fr": "C'était délicieux !",
+     "bn_pron": "সেতে দেলিসিয়ে° !",
+     "en_pron": "say-teh day-lee-SYUH !",
+     "bn": "খুব মজা ছিল!",
+     "en": "It was delicious!"
+    }
+   ],
+   "culture_bn": "ফ্রান্সে মেনুর দামের মধ্যেই সার্ভিস চার্জ ধরা থাকে (service compris), তাই বকশিশ ঐচ্ছিক। une carafe d'eau চাইলে কলের পানি বিনা পয়সায় দেয়। la carte হলো পুরো খাবারের তালিকা, আর le menu হলো নির্দিষ্ট দামের সেট খাবার। হালাল খাবার না থাকলে মাছ বা নিরামিষ পদ নিরাপদ বিকল্প; অনেক শহরে হালাল কসাই (boucherie halal) ও হালাল রেস্তোরাঁও সহজে পাওয়া যায়।",
+   "your_turn": {
+    "instruction_bn": "মেনু দেখে ফাঁকা ঘরে নিজের পছন্দের খাবার বসিয়ে অর্ডার দিন।",
+    "lines": [
+     {
+      "fr": "Une table pour ___, s'il vous plaît.",
+      "bn_pron": "ই°ন তাব্ল় পুর় ___, সিল ভ়ু প্লে.",
+      "en_pron": "ün tah-bluh POOR ___, seel voo PLEH.",
+      "bn": "___ জনের একটা টেবিল, প্লিজ।",
+      "en": "A table for ___, please."
+     },
+     {
+      "fr": "Je vais prendre ___ avec ___.",
+      "bn_pron": "ঝ়ে° ভ়ে প্র়াঁদ্র় ___ আভ়েক ___.",
+      "en_pron": "zhuh veh PRAHNDR ___ ah-VEK ___.",
+      "bn": "আমি ___ এর সাথে ___ নেব।",
+      "en": "I'll have ___ with ___."
+     },
+     {
+      "fr": "Comme dessert, ___, s'il vous plaît.",
+      "bn_pron": "কোম দেসের়, ___, সিল ভ়ু প্লে.",
+      "en_pron": "kum day-SEHR, ___, seel voo PLEH.",
+      "bn": "ডেজার্টে ___, প্লিজ।",
+      "en": "For dessert, ___, please."
+     }
+    ]
+   }
+  },
+  {
+   "no": 7,
+   "title_bn": "বাজারে কেনাকাটা ও দরদাম",
+   "title_en": "Shopping and bargaining at the market",
+   "setting_bn": "রবিবার সকালে মার্সেইয়ের খোলা বাজারে র়াফ়ি সবজি আর আম কিনছেন। বিক্রেতা কারিম হাসিমুখে দরদাম করছেন।",
+   "lines": [
+    {
+     "who": "Karim",
+     "you": false,
+     "fr": "Bonjour ! Qu'est-ce que je vous sers ?",
+     "bn_pron": "বোঁঝ়ুর় ! কেস কে° ঝ়ে° ভ়ু সের় ?",
+     "en_pron": "bohn-ZHOOR ! kes-kuh zhuh voo SEHR ?",
+     "bn": "সালাম! আপনাকে কী দেব?",
+     "en": "Hello! What can I get you?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Bonjour. Je voudrais un kilo de tomates et des oignons.",
+     "bn_pron": "বোঁঝ়ুর়. ঝ়ে° ভ়ুদ্র়ে অ্যাঁ কিলো দে° তোমাৎ এ দে জ়োন্যোঁ.",
+     "en_pron": "bohn-ZHOOR. zhuh voo-dreh ehn kee-loh duh toh-MAHT ay day zoh-NYOHN.",
+     "bn": "শুভ দিন। আমাকে এক কেজি টমেটো আর কিছু পেঁয়াজ দিন।",
+     "en": "Hello. I'd like a kilo of tomatoes and some onions."
+    },
+    {
+     "who": "Karim",
+     "you": false,
+     "fr": "Voilà. Avec ceci ?",
+     "bn_pron": "ভ়োয়ালা. আভ়েক সে°সি ?",
+     "en_pron": "vwah-LAH. ah-vek suh-SEE ?",
+     "bn": "এই নিন। আর কিছু?",
+     "en": "Here you are. Anything else?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Les mangues, c'est combien ?",
+     "bn_pron": "লে মাঁগ, সে কোঁবিয়্যাঁ ?",
+     "en_pron": "lay MAHNG, say kohn-BYEHN ?",
+     "bn": "আমগুলোর দাম কত?",
+     "en": "How much are the mangoes?"
+    },
+    {
+     "who": "Karim",
+     "you": false,
+     "fr": "Deux euros pièce. Elles sont très sucrées !",
+     "bn_pron": "দে° জ়ে°র়ো পিয়েস. এল সোঁ ত্র়ে সি°ক্র়ে !",
+     "en_pron": "duh zuh-roh PYES. el sohn treh sü-KRAY !",
+     "bn": "প্রতিটা দুই ইউরো। খুব মিষ্টি!",
+     "en": "Two euros each. They're very sweet!"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "C'est un peu cher. Cinq mangues pour huit euros, ça va ?",
+     "bn_pron": "সে ত্যাঁ পে° শের়. স্যাঁক মাঁগ পুর় উই তে°র়ো, সা ভ়া ?",
+     "en_pron": "say tehn puh SHEHR. sehnk mahng poor wee tuh-ROH, sah VAH ?",
+     "bn": "একটু বেশি দাম। পাঁচটা আম আট ইউরোতে দেবেন?",
+     "en": "That's a bit expensive. Five mangoes for eight euros, is that OK?"
+    },
+    {
+     "who": "Karim",
+     "you": false,
+     "fr": "Huit euros ? Non… neuf euros, et je vous donne un citron en plus.",
+     "bn_pron": "উই তে°র়ো ? নোঁ… নে°ভ় এ°র়ো, এ ঝ়ে° ভ়ু দোন অ্যাঁ সিত্র়োঁ আঁ প্লি°স.",
+     "en_pron": "wee tuh-ROH ? NOHN… nuhv uh-ROH, ay zhuh voo dun ehn see-trohn ahn PLÜS.",
+     "bn": "আট ইউরো? না… নয় ইউরো দিন, সাথে একটা লেবু ফ্রি দিচ্ছি।",
+     "en": "Eight euros? No… nine euros, and I'll give you a lemon on top.",
+     "note_bn": "neuf euros-এ f-এর উচ্চারণ v হয়ে যায়: «নে°ভ় এ°র়ো»।"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "D'accord, c'est parfait !",
+     "bn_pron": "দাকোর়, সে পার়ফ়ে !",
+     "en_pron": "dah-KOR, say par-FEH !",
+     "bn": "ঠিক আছে, একদম ঠিক!",
+     "en": "OK, that's perfect!"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Ça fait combien en tout ?",
+     "bn_pron": "সা ফ়ে কোঁবিয়্যাঁ আঁ তু ?",
+     "en_pron": "sah feh kohn-byehn ahn TOO ?",
+     "bn": "সব মিলিয়ে কত হলো?",
+     "en": "How much is it altogether?"
+    },
+    {
+     "who": "Karim",
+     "you": false,
+     "fr": "Treize euros cinquante.",
+     "bn_pron": "ত্র়েজ় এ°র়ো স্যাঁকাঁৎ.",
+     "en_pron": "trehz uh-roh sehn-KAHNT.",
+     "bn": "সাড়ে তেরো ইউরো।",
+     "en": "Thirteen euros fifty."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Voilà quinze euros. Je n'ai pas besoin de sac, merci.",
+     "bn_pron": "ভ়োয়ালা কাঁজ় এ°র়ো. ঝ়ে° নে পা বে°জ়োয়্যাঁ দে° সাক, মের়সি.",
+     "en_pron": "vwah-lah kahnz uh-ROH. zhuh nay pah buh-zwehn duh SAHK, mehr-SEE.",
+     "bn": "এই নিন পনেরো ইউরো। ব্যাগ লাগবে না, ধন্যবাদ।",
+     "en": "Here's fifteen euros. I don't need a bag, thanks."
+    },
+    {
+     "who": "Karim",
+     "you": false,
+     "fr": "Et voilà votre monnaie. Bonne journée !",
+     "bn_pron": "এ ভ়োয়ালা ভ়োত্র় মোনে. বোন ঝ়ুর়নে !",
+     "en_pron": "ay vwah-lah voh-truh moh-NEH. bun zhoor-NAY !",
+     "bn": "আর এই আপনার ভাংতি। দিনটা ভালো কাটুক!",
+     "en": "And here's your change. Have a nice day!"
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "Je voudrais…",
+     "bn_pron": "ঝ়ে° ভ়ুদ্র়ে…",
+     "en_pron": "zhuh voo-DREH…",
+     "bn": "আমি … চাই (ভদ্রভাবে)",
+     "en": "I would like…"
+    },
+    {
+     "fr": "C'est combien ?",
+     "bn_pron": "সে কোঁবিয়্যাঁ ?",
+     "en_pron": "say kohn-BYEHN ?",
+     "bn": "দাম কত?",
+     "en": "How much is it?"
+    },
+    {
+     "fr": "C'est un peu cher.",
+     "bn_pron": "সে ত্যাঁ পে° শের়.",
+     "en_pron": "say tehn puh SHEHR.",
+     "bn": "একটু বেশি দাম।",
+     "en": "It's a bit expensive."
+    },
+    {
+     "fr": "… pour … euros, ça va ?",
+     "bn_pron": "… পুর় … এ°র়ো, সা ভ়া ?",
+     "en_pron": "… poor … uh-ROH, sah VAH ?",
+     "bn": "… ইউরোতে দেবেন?",
+     "en": "… for … euros, is that OK?"
+    },
+    {
+     "fr": "Ça fait combien en tout ?",
+     "bn_pron": "সা ফ়ে কোঁবিয়্যাঁ আঁ তু ?",
+     "en_pron": "sah feh kohn-byehn ahn TOO ?",
+     "bn": "সব মিলিয়ে কত?",
+     "en": "How much altogether?"
+    },
+    {
+     "fr": "la monnaie",
+     "bn_pron": "লা মোনে",
+     "en_pron": "lah moh-NEH",
+     "bn": "ভাংতি / খুচরা",
+     "en": "change (money)"
+    }
+   ],
+   "culture_bn": "ফ্রান্সের দোকান ও সুপারমার্কেটে দাম নির্দিষ্ট, সেখানে দরদাম করা হয় না। তবে খোলা বাজারের শেষ বেলায়, পুরোনো জিনিসের বাজারে (marché aux puces, brocante) এবং মাগরেব বা পশ্চিম আফ্রিকার বাজারে হাসিমুখে দরদাম স্বাভাবিক। দোকানে প্লাস্টিকের ব্যাগ সাধারণত বিনা পয়সায় দেয় না, তাই নিজের ব্যাগ সাথে রাখুন।",
+   "your_turn": {
+    "instruction_bn": "বাজারে আছেন ভেবে ফাঁকা ঘরে জিনিস ও দাম বসিয়ে দরদাম করুন।",
+    "lines": [
+     {
+      "fr": "Je voudrais un kilo de ___.",
+      "bn_pron": "ঝ়ে° ভ়ুদ্র়ে অ্যাঁ কিলো দে° ___.",
+      "en_pron": "zhuh voo-dreh ehn kee-loh DUH ___.",
+      "bn": "আমাকে এক কেজি ___ দিন।",
+      "en": "I'd like a kilo of ___."
+     },
+     {
+      "fr": "Les ___, c'est combien ?",
+      "bn_pron": "লে ___, সে কোঁবিয়্যাঁ ?",
+      "en_pron": "LAY ___, say kohn-BYEHN ?",
+      "bn": "___ এর দাম কত?",
+      "en": "How much are the ___?"
+     },
+     {
+      "fr": "___ pour ___ euros, ça va ?",
+      "bn_pron": "___ পুর় ___ এ°র়ো, সা ভ়া ?",
+      "en_pron": "___ POOR ___ uh-ROH, sah VAH ?",
+      "bn": "___ টা ___ ইউরোতে দেবেন?",
+      "en": "___ for ___ euros, is that OK?"
+     }
+    ]
+   }
+  },
+  {
+   "no": 8,
+   "title_bn": "টাকা বদল ও ব্যাংক",
+   "title_en": "Money exchange and the bank",
+   "setting_bn": "তুলুজ শহরে নুসরাত একটি ব্যাংকে গেছেন। ডলার ভাঙাতে আর একটি অ্যাকাউন্ট খুলতে চান; পরামর্শদাতা মঁসিয়ে লেফ়েভ়্র় তাঁকে সাহায্য করছেন।",
+   "lines": [
+    {
+     "who": "M. Lefèvre",
+     "you": false,
+     "fr": "Bonjour, madame. Je peux vous aider ?",
+     "bn_pron": "বোঁঝ়ুর়, মাদাম. ঝ়ে° পে° ভ়ু জ়েদে ?",
+     "en_pron": "bohn-zhoor, mah-DAHM. zhuh puh voo zay-DAY ?",
+     "bn": "শুভ দিন, ম্যাডাম। আপনাকে কোনো সাহায্য করতে পারি?",
+     "en": "Hello, madam. Can I help you?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Bonjour. Je voudrais changer cent dollars en euros.",
+     "bn_pron": "বোঁঝ়ুর়. ঝ়ে° ভ়ুদ্র়ে শাঁঝ়ে সাঁ দোলার় আঁ নে°র়ো.",
+     "en_pron": "bohn-ZHOOR. zhuh voo-dreh shahn-zhay sahn doh-lar ahn nuh-ROH.",
+     "bn": "শুভ দিন। আমি একশো ডলার ইউরোতে বদলাতে চাই।",
+     "en": "Hello. I'd like to change a hundred dollars into euros."
+    },
+    {
+     "who": "M. Lefèvre",
+     "you": false,
+     "fr": "Désolé, nous ne faisons pas le change ici. Il y a un bureau de change à la gare.",
+     "bn_pron": "দেজ়োলে, নু নে° ফ়ে°জ়োঁ পা লে° শাঁঝ় ইসি. ইলিয়া অ্যাঁ বি°র়ো দে° শাঁঝ় আ লা গার়.",
+     "en_pron": "day-zoh-LAY, noo nuh fuh-zohn pah luh shahnzh ee-SEE. eel-yah ehn bü-roh duh shahnzh ah lah GAR.",
+     "bn": "দুঃখিত, আমরা এখানে মুদ্রা বদল করি না। স্টেশনে একটা মানি এক্সচেঞ্জ আছে।",
+     "en": "Sorry, we don't do currency exchange here. There's an exchange office at the station."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "D'accord. Je voudrais aussi ouvrir un compte bancaire.",
+     "bn_pron": "দাকোর়. ঝ়ে° ভ়ুদ্র়ে ওসি উভ়্র়ির় অ্যাঁ কোঁৎ বাঁকের়.",
+     "en_pron": "dah-KOR. zhuh voo-dreh oh-SEE oo-vreer ehn kohnt bahn-KEHR.",
+     "bn": "ঠিক আছে। আমি একটা ব্যাংক অ্যাকাউন্টও খুলতে চাই।",
+     "en": "All right. I'd also like to open a bank account."
+    },
+    {
+     "who": "M. Lefèvre",
+     "you": false,
+     "fr": "Bien sûr. Vous avez une pièce d'identité et un justificatif de domicile ?",
+     "bn_pron": "বিয়্যাঁ সি°র়. ভ়ু জ়াভ়ে ই°ন পিয়েস দিদাঁতিতে এ অ্যাঁ ঝি°স্তিফ়িকাতিফ় দে° দোমিসিল ?",
+     "en_pron": "byehn SÜR. voo zah-vay ün pyes dee-dahn-tee-TAY ay ehn zhüs-tee-fee-kah-teef duh doh-mee-SEEL ?",
+     "bn": "অবশ্যই। আপনার পরিচয়পত্র আর ঠিকানার প্রমাণ আছে?",
+     "en": "Of course. Do you have ID and proof of address?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Oui, voici mon passeport, mon titre de séjour et une attestation de logement.",
+     "bn_pron": "উই, ভ়োয়াসি মোঁ পাসপোর়, মোঁ তিত্র় দে° সেঝ়ুর় এ ই°ন আতেস্তাসিয়োঁ দে° লোঝ়মাঁ.",
+     "en_pron": "wee, vwah-see mohn pahs-POR, mohn tee-truh duh say-ZHOOR ay ün ah-tes-tah-syohn duh lozh-MAHN.",
+     "bn": "জি, এই যে পাসপোর্ট, রেসিডেন্স পারমিট আর বাসস্থানের প্রত্যয়নপত্র।",
+     "en": "Yes, here is my passport, my residence permit and a housing certificate."
+    },
+    {
+     "who": "M. Lefèvre",
+     "you": false,
+     "fr": "Parfait. Vous êtes étudiante ? Nous avons une offre pour les étudiants.",
+     "bn_pron": "পার়ফ়ে. ভ়ু জ়েৎ এতি°দিয়াঁৎ ? নু জ়াভ়োঁ জ়ি°ন অফ়্র় পুর় লে জ়েতি°দিয়াঁ.",
+     "en_pron": "par-FEH. voo zet ay-tü-DYAHNT ? noo zah-vohn zün ofr poor lay zay-tü-DYAHN.",
+     "bn": "চমৎকার। আপনি কি ছাত্রী? ছাত্রছাত্রীদের জন্য আমাদের একটা বিশেষ সুবিধা আছে।",
+     "en": "Perfect. Are you a student? We have an offer for students."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Il y a des frais chaque mois ?",
+     "bn_pron": "ইলিয়া দে ফ়্র়ে শাক মোয়া ?",
+     "en_pron": "eel-yah day freh shahk MWAH ?",
+     "bn": "প্রতি মাসে কোনো চার্জ আছে?",
+     "en": "Are there monthly fees?"
+    },
+    {
+     "who": "M. Lefèvre",
+     "you": false,
+     "fr": "Non, le compte est gratuit pour les étudiants. Vous recevrez votre carte dans une semaine.",
+     "bn_pron": "নোঁ, লে° কোঁৎ এ গ্র়াতুই পুর় লে জ়েতি°দিয়াঁ. ভ়ু র়ে°সে°ভ়্র়ে ভ়োত্র় কার়ৎ দাঁ জ়ি°ন সে°মেন.",
+     "en_pron": "nohn, luh kohnt ay grah-twee poor lay zay-tü-DYAHN. voo ruh-suh-vray voh-truh kart dahn zün suh-MEN.",
+     "bn": "না, ছাত্রছাত্রীদের জন্য অ্যাকাউন্ট বিনা খরচে। এক সপ্তাহের মধ্যে কার্ড পেয়ে যাবেন।",
+     "en": "No, the account is free for students. You'll receive your card in a week."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Et je peux avoir mon RIB aujourd'hui ?",
+     "bn_pron": "এ ঝ়ে° পে° আভ়োয়ার় মোঁ র়িব ওঝ়ুর়দুই ?",
+     "en_pron": "ay zhuh puh ah-vwahr mohn reeb oh-zhoor-DWEE ?",
+     "bn": "আর আমার RIB কি আজই পেতে পারি?",
+     "en": "And can I have my RIB today?",
+     "note_bn": "RIB = ব্যাংক অ্যাকাউন্টের তথ্যপত্র; বেতন, বাসাভাড়া ও সরকারি সহায়তার জন্য লাগে।"
+    },
+    {
+     "who": "M. Lefèvre",
+     "you": false,
+     "fr": "Oui, je vous l'imprime tout de suite.",
+     "bn_pron": "উই, ঝ়ে° ভ়ু ল্যাঁপ্র়িম তুৎ সুইৎ.",
+     "en_pron": "wee, zhuh voo lehn-preem toot SWEET.",
+     "bn": "হ্যাঁ, এখনই প্রিন্ট করে দিচ্ছি।",
+     "en": "Yes, I'll print it for you right away."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Merci beaucoup, monsieur.",
+     "bn_pron": "মের়সি বোকু, মে°সিয়ে°.",
+     "en_pron": "mehr-see boh-KOO, muh-SYUH.",
+     "bn": "অনেক ধন্যবাদ, স্যার।",
+     "en": "Thank you very much, sir."
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "Je voudrais changer de l'argent.",
+     "bn_pron": "ঝ়ে° ভ়ুদ্র়ে শাঁঝ়ে দে° লার়ঝ়াঁ.",
+     "en_pron": "zhuh voo-dreh shahn-zhay duh lar-ZHAHN.",
+     "bn": "আমি টাকা বদলাতে চাই।",
+     "en": "I'd like to change some money."
+    },
+    {
+     "fr": "ouvrir un compte",
+     "bn_pron": "উভ়্র়ির় অ্যাঁ কোঁৎ",
+     "en_pron": "oo-vreer ehn KOHNT",
+     "bn": "অ্যাকাউন্ট খোলা",
+     "en": "to open an account"
+    },
+    {
+     "fr": "une pièce d'identité",
+     "bn_pron": "ই°ন পিয়েস দিদাঁতিতে",
+     "en_pron": "ün pyes dee-dahn-tee-TAY",
+     "bn": "পরিচয়পত্র",
+     "en": "an ID document"
+    },
+    {
+     "fr": "un justificatif de domicile",
+     "bn_pron": "অ্যাঁ ঝি°স্তিফ়িকাতিফ় দে° দোমিসিল",
+     "en_pron": "ehn zhüs-tee-fee-kah-teef duh doh-mee-SEEL",
+     "bn": "ঠিকানার প্রমাণ",
+     "en": "proof of address"
+    },
+    {
+     "fr": "Il y a des frais ?",
+     "bn_pron": "ইলিয়া দে ফ়্র়ে ?",
+     "en_pron": "eel-yah day FREH ?",
+     "bn": "কোনো চার্জ আছে?",
+     "en": "Are there any fees?"
+    },
+    {
+     "fr": "la carte bancaire",
+     "bn_pron": "লা কার়ৎ বাঁকের়",
+     "en_pron": "lah kart bahn-KEHR",
+     "bn": "ব্যাংক কার্ড",
+     "en": "bank card"
+    }
+   ],
+   "culture_bn": "ফ্রান্সে বেতন, বাসাভাড়া, মোবাইল বিল ও সরকারি সহায়তা প্রায় সবই ব্যাংকের মাধ্যমে চলে, তাই পৌঁছে দ্রুত একটি অ্যাকাউন্ট খোলা জরুরি; কাজে লাগে RIB নামের কাগজটি। সাধারণ চলতি অ্যাকাউন্টে (compte courant) সাধারণত কোনো সুদ দেওয়া হয় না। ব্যাংকে দেখা করতে অনেক সময় আগে থেকে সময় (rendez-vous) নিতে হয়।",
+   "your_turn": {
+    "instruction_bn": "ফাঁকা ঘর পূরণ করে ব্যাংকের কাউন্টারে নিজের প্রয়োজন বলুন।",
+    "lines": [
+     {
+      "fr": "Je voudrais ouvrir ___.",
+      "bn_pron": "ঝ়ে° ভ়ুদ্র়ে উভ়্র়ির় ___.",
+      "en_pron": "zhuh voo-dreh oo-VREER ___.",
+      "bn": "আমি ___ খুলতে চাই।",
+      "en": "I'd like to open ___."
+     },
+     {
+      "fr": "Voici mon ___ et mon ___.",
+      "bn_pron": "ভ়োয়াসি মোঁ ___ এ মোঁ ___.",
+      "en_pron": "vwah-see MOHN ___ ay MOHN ___.",
+      "bn": "এই যে আমার ___ আর ___।",
+      "en": "Here is my ___ and my ___."
+     },
+     {
+      "fr": "Il y a des frais pour ___ ?",
+      "bn_pron": "ইলিয়া দে ফ়্র়ে পুর় ___ ?",
+      "en_pron": "eel-yah day freh POOR ___ ?",
+      "bn": "___ এর জন্য কোনো চার্জ আছে?",
+      "en": "Are there fees for ___?"
+     }
+    ]
+   }
+  },
+  {
+   "no": 9,
+   "title_bn": "মোবাইল সিম ও ইন্টারনেট",
+   "title_en": "Mobile SIM and internet",
+   "setting_bn": "পৌঁছানোর পরদিন র়াফ়ি একটি মোবাইল ফোনের দোকানে গেছেন। দেশে পরিবারের সাথে কথা বলতে তাঁর একটি সিম আর ইন্টারনেট দরকার।",
+   "lines": [
+    {
+     "who": "Chloé",
+     "you": false,
+     "fr": "Bonjour, monsieur. Je peux vous aider ?",
+     "bn_pron": "বোঁঝ়ুর়, মে°সিয়ে°. ঝ়ে° পে° ভ়ু জ়েদে ?",
+     "en_pron": "bohn-zhoor, muh-SYUH. zhuh puh voo zay-DAY ?",
+     "bn": "শুভ দিন, স্যার। কোনো সাহায্য লাগবে?",
+     "en": "Hello, sir. Can I help you?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Bonjour. Je voudrais une carte SIM avec internet.",
+     "bn_pron": "বোঁঝ়ুর়. ঝ়ে° ভ়ুদ্র়ে ই°ন কার়ৎ সিম আভ়েক অ্যাঁতের়নেৎ.",
+     "en_pron": "bohn-ZHOOR. zhuh voo-dreh ün kart seem ah-vek ehn-tehr-NET.",
+     "bn": "শুভ দিন। আমার ইন্টারনেটসহ একটা সিম কার্ড দরকার।",
+     "en": "Hello. I'd like a SIM card with internet."
+    },
+    {
+     "who": "Chloé",
+     "you": false,
+     "fr": "Vous voulez un forfait ou une carte prépayée ?",
+     "bn_pron": "ভ়ু ভ়ুলে অ্যাঁ ফ়োর়ফ়ে উ ই°ন কার়ৎ প্র়েপেয়ে ?",
+     "en_pron": "voo voo-lay ehn for-FEH oo ün kart pray-peh-YAY ?",
+     "bn": "আপনি মাসিক প্যাকেজ চান, নাকি প্রিপেইড কার্ড?",
+     "en": "Do you want a monthly plan or a prepaid card?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "C'est quoi, la différence ?",
+     "bn_pron": "সে কোয়া, লা দিফ়ের়াঁস ?",
+     "en_pron": "say KWAH, lah dee-feh-RAHNS ?",
+     "bn": "দুটোর পার্থক্য কী?",
+     "en": "What's the difference?"
+    },
+    {
+     "who": "Chloé",
+     "you": false,
+     "fr": "Le forfait, c'est un paiement chaque mois. La carte prépayée, vous la rechargez quand vous voulez.",
+     "bn_pron": "লে° ফ়োর়ফ়ে, সে ত্যাঁ পেমাঁ শাক মোয়া. লা কার়ৎ প্র়েপেয়ে, ভ়ু লা র়ে°শার়ঝ়ে কাঁ ভ়ু ভ়ুলে.",
+     "en_pron": "luh for-FEH, say tehn peh-mahn shahk MWAH. lah kart pray-peh-YAY, voo lah ruh-shar-zhay kahn voo voo-LAY.",
+     "bn": "প্যাকেজে প্রতি মাসে টাকা কাটে। প্রিপেইড কার্ডে যখন খুশি রিচার্জ করেন।",
+     "en": "With a plan, you pay every month. With a prepaid card, you top it up whenever you like."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Je prends un forfait. Je peux appeler le Bangladesh ?",
+     "bn_pron": "ঝ়ে° প্র়াঁ অ্যাঁ ফ়োর়ফ়ে. ঝ়ে° পে° আপে°লে লে° বাঁগলাদেশ ?",
+     "en_pron": "zhuh prahn ehn for-FEH. zhuh puh ah-puh-lay luh bahn-glah-DESH ?",
+     "bn": "আমি প্যাকেজটা নেব। এটা দিয়ে কি বাংলাদেশে কল করা যাবে?",
+     "en": "I'll take a plan. Can I call Bangladesh?"
+    },
+    {
+     "who": "Chloé",
+     "you": false,
+     "fr": "Celui-ci a cent gigas d'internet. Pour appeler le Bangladesh, il y a une option.",
+     "bn_pron": "সে°লুই-সি আ সাঁ ঝ়িগা দ্যাঁতের়নেৎ. পুর় আপে°লে লে° বাঁগলাদেশ, ইলিয়া ই°ন অপসিয়োঁ.",
+     "en_pron": "suh-lwee-SEE ah sahn zhee-gah dehn-tehr-NET. poor ah-puh-lay luh bahn-glah-DESH, eel-yah ün op-SYOHN.",
+     "bn": "এটায় একশো জিবি ইন্টারনেট আছে। বাংলাদেশে কল করার জন্য আলাদা একটা অপশন আছে।",
+     "en": "This one has a hundred gigs of internet. To call Bangladesh, there's an add-on."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "J'utilise surtout WhatsApp. Le forfait simple suffit.",
+     "bn_pron": "ঝি°তিলিজ় সি°র়তু ওয়াৎসাপ. লে° ফ়োর়ফ়ে স্যাঁপ্ল় সি°ফ়ি.",
+     "en_pron": "zhü-tee-leez sür-too wat-SAP. luh for-feh sehn-pluh sü-FEE.",
+     "bn": "আমি মূলত হোয়াটসঅ্যাপই ব্যবহার করি। সাধারণ প্যাকেজই যথেষ্ট।",
+     "en": "I mostly use WhatsApp. The basic plan is enough."
+    },
+    {
+     "who": "Chloé",
+     "you": false,
+     "fr": "Très bien. C'est quinze euros par mois. Il me faut votre pièce d'identité.",
+     "bn_pron": "ত্র়ে বিয়্যাঁ. সে কাঁজ় এ°র়ো পার় মোয়া. ইল মে° ফ়ো ভ়োত্র় পিয়েস দিদাঁতিতে.",
+     "en_pron": "treh BYEHN. say kahnz uh-roh par MWAH. eel muh foh voh-truh pyes dee-dahn-tee-TAY.",
+     "bn": "ঠিক আছে। মাসে পনেরো ইউরো। আমার আপনার পরিচয়পত্রটা লাগবে।",
+     "en": "Very good. It's fifteen euros a month. I need your ID."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Voilà mon passeport. Vous pouvez activer la carte maintenant ?",
+     "bn_pron": "ভ়োয়ালা মোঁ পাসপোর়. ভ়ু পুভ়ে আক্তিভ়ে লা কার়ৎ ম্যাঁৎনাঁ ?",
+     "en_pron": "vwah-lah mohn pahs-POR. voo poo-vay ak-tee-vay lah kart mehnt-NAHN ?",
+     "bn": "এই যে পাসপোর্ট। কার্ডটা কি এখনই চালু করে দিতে পারবেন?",
+     "en": "Here's my passport. Can you activate the card now?"
+    },
+    {
+     "who": "Chloé",
+     "you": false,
+     "fr": "Oui. Redémarrez votre téléphone dans cinq minutes.",
+     "bn_pron": "উই. র়ে°দেমার়ে ভ়োত্র় তেলেফ়োন দাঁ স্যাঁক মিনি°ৎ.",
+     "en_pron": "WEE. ruh-day-mah-ray voh-truh tay-lay-FUN dahn sehnk mee-NÜT.",
+     "bn": "হ্যাঁ। পাঁচ মিনিট পরে ফোনটা বন্ধ করে আবার চালু করুন।",
+     "en": "Yes. Restart your phone in five minutes."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Merci pour votre aide !",
+     "bn_pron": "মের়সি পুর় ভ়োত্র় এদ !",
+     "en_pron": "mehr-see poor voh-TRED !",
+     "bn": "সাহায্যের জন্য ধন্যবাদ!",
+     "en": "Thank you for your help!"
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "une carte SIM",
+     "bn_pron": "ই°ন কার়ৎ সিম",
+     "en_pron": "ün kart SEEM",
+     "bn": "সিম কার্ড",
+     "en": "a SIM card"
+    },
+    {
+     "fr": "un forfait",
+     "bn_pron": "অ্যাঁ ফ়োর়ফ়ে",
+     "en_pron": "ehn for-FEH",
+     "bn": "মাসিক প্যাকেজ",
+     "en": "a monthly plan"
+    },
+    {
+     "fr": "recharger",
+     "bn_pron": "র়ে°শার়ঝ়ে",
+     "en_pron": "ruh-shar-ZHAY",
+     "bn": "রিচার্জ করা",
+     "en": "to top up"
+    },
+    {
+     "fr": "C'est quoi, la différence ?",
+     "bn_pron": "সে কোয়া, লা দিফ়ের়াঁস ?",
+     "en_pron": "say KWAH, lah dee-feh-RAHNS ?",
+     "bn": "পার্থক্য কী?",
+     "en": "What's the difference?"
+    },
+    {
+     "fr": "Je peux appeler…?",
+     "bn_pron": "ঝ়ে° পে° আপে°লে…?",
+     "en_pron": "zhuh puh ah-puh-LAY…?",
+     "bn": "আমি কি … কল করতে পারি?",
+     "en": "Can I call…?"
+    },
+    {
+     "fr": "C'est … euros par mois.",
+     "bn_pron": "সে … এ°র়ো পার় মোয়া.",
+     "en_pron": "say … uh-roh par MWAH.",
+     "bn": "মাসে … ইউরো।",
+     "en": "It's … euros a month."
+    }
+   ],
+   "culture_bn": "ফ্রান্সে মোবাইল নম্বর সাধারণত 06 বা 07 দিয়ে শুরু হয়। অনেক কোম্পানির «sans engagement» প্যাকেজ আছে, মানে চুক্তির বাধ্যবাধকতা নেই, যেকোনো মাসে ছেড়ে দেওয়া যায়। সিম কিনতে পরিচয়পত্র লাগে। দেশে কথা বলতে অধিকাংশ মানুষ ওয়াইফাই আর হোয়াটসঅ্যাপ বা ইমোর মতো অ্যাপ ব্যবহার করেন।",
+   "your_turn": {
+    "instruction_bn": "নিজের প্রয়োজন অনুযায়ী ফাঁকা ঘর পূরণ করে দোকানির সাথে কথা বলুন।",
+    "lines": [
+     {
+      "fr": "Je voudrais ___ avec internet.",
+      "bn_pron": "ঝ়ে° ভ়ুদ্র়ে ___ আভ়েক অ্যাঁতের়নেৎ.",
+      "en_pron": "zhuh voo-DREH ___ ah-vek ehn-tehr-NET.",
+      "bn": "আমার ইন্টারনেটসহ ___ দরকার।",
+      "en": "I'd like ___ with internet."
+     },
+     {
+      "fr": "Je peux appeler ___ ?",
+      "bn_pron": "ঝ়ে° পে° আপে°লে ___ ?",
+      "en_pron": "zhuh puh ah-puh-LAY ___ ?",
+      "bn": "আমি কি ___ কল করতে পারি?",
+      "en": "Can I call ___?"
+     },
+     {
+      "fr": "C'est combien par ___ ?",
+      "bn_pron": "সে কোঁবিয়্যাঁ পার় ___ ?",
+      "en_pron": "say kohn-byehn PAR ___ ?",
+      "bn": "প্রতি ___ কত?",
+      "en": "How much is it per ___?"
+     }
+    ]
+   }
+  },
+  {
+   "no": 10,
+   "title_bn": "ডাক্তারের কাছে",
+   "title_en": "At the doctor's",
+   "setting_bn": "তিন দিন ধরে জ্বর ও গলাব্যথা নিয়ে নুসরাত একজন সাধারণ চিকিৎসকের (médecin généraliste) চেম্বারে এসেছেন। ডাক্তার মার্তাঁ তাঁকে দেখছেন।",
+   "lines": [
+    {
+     "who": "Dr Martin",
+     "you": false,
+     "fr": "Bonjour, madame. Asseyez-vous. Qu'est-ce qui ne va pas ?",
+     "bn_pron": "বোঁঝ়ুর়, মাদাম. আসেয়ে ভ়ু. কেস কি নে° ভ়া পা ?",
+     "en_pron": "bohn-zhoor, mah-DAHM. ah-seh-yay VOO. kes-kee nuh vah PAH ?",
+     "bn": "শুভ দিন, ম্যাডাম। বসুন। কী সমস্যা?",
+     "en": "Hello, madam. Have a seat. What's wrong?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Bonjour, docteur. J'ai de la fièvre et mal à la gorge.",
+     "bn_pron": "বোঁঝ়ুর়, দোক্তে°র়. ঝ়ে দে° লা ফ়িয়েভ়্র় এ মাল আ লা গোর়ঝ়.",
+     "en_pron": "bohn-zhoor, dok-TUHR. zhay duh lah FYEVR ay mahl ah lah GORZH.",
+     "bn": "শুভ দিন, ডাক্তার। আমার জ্বর আর গলাব্যথা।",
+     "en": "Hello, doctor. I have a fever and a sore throat."
+    },
+    {
+     "who": "Dr Martin",
+     "you": false,
+     "fr": "Depuis quand ?",
+     "bn_pron": "দে°পুই কাঁ ?",
+     "en_pron": "duh-pwee KAHN ?",
+     "bn": "কবে থেকে?",
+     "en": "Since when?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Depuis trois jours. J'ai aussi mal à la tête.",
+     "bn_pron": "দে°পুই ত্র়োয়া ঝ়ুর়. ঝ়ে ওসি মাল আ লা তেৎ.",
+     "en_pron": "duh-pwee trwah ZHOOR. zhay oh-see mahl ah lah TET.",
+     "bn": "তিন দিন ধরে। মাথাব্যথাও আছে।",
+     "en": "For three days. I also have a headache."
+    },
+    {
+     "who": "Dr Martin",
+     "you": false,
+     "fr": "Vous toussez ?",
+     "bn_pron": "ভ়ু তুসে ?",
+     "en_pron": "voo too-SAY ?",
+     "bn": "কাশি আছে?",
+     "en": "Are you coughing?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Oui, un peu, surtout la nuit.",
+     "bn_pron": "উই, অ্যাঁ পে°, সি°র়তু লা নুই.",
+     "en_pron": "wee, ehn PUH, sür-too lah NWEE.",
+     "bn": "হ্যাঁ, একটু, বিশেষ করে রাতে।",
+     "en": "Yes, a little, especially at night."
+    },
+    {
+     "who": "Dr Martin",
+     "you": false,
+     "fr": "Je vais vous examiner. Ouvrez la bouche… Respirez fort.",
+     "bn_pron": "ঝ়ে° ভ়ে ভ়ু জ়েগজ়ামিনে. উভ়্র়ে লা বুশ… র়েস্পির়ে ফ়োর়.",
+     "en_pron": "zhuh veh voo zeg-zah-mee-NAY. oo-vray lah BOOSH… res-pee-ray FOR.",
+     "bn": "আমি আপনাকে পরীক্ষা করব। মুখ খুলুন… জোরে শ্বাস নিন।",
+     "en": "I'm going to examine you. Open your mouth… Breathe deeply."
+    },
+    {
+     "who": "Dr Martin",
+     "you": false,
+     "fr": "C'est une angine. Je vous fais une ordonnance.",
+     "bn_pron": "সে তি°ন আঁঝ়িন. ঝ়ে° ভ়ু ফ়ে ই°ন অর়দোনাঁস.",
+     "en_pron": "say tün ahn-ZHEEN. zhuh voo feh ün or-doh-NAHNS.",
+     "bn": "গলায় সংক্রমণ হয়েছে। আমি প্রেসক্রিপশন লিখে দিচ্ছি।",
+     "en": "It's a throat infection. I'll write you a prescription."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Je suis allergique à la pénicilline.",
+     "bn_pron": "ঝ়ে° সুই আলের়ঝ়িক আ লা পেনিসিলিন.",
+     "en_pron": "zhuh swee ah-lehr-ZHEEK ah lah pay-nee-see-LEEN.",
+     "bn": "পেনিসিলিনে আমার অ্যালার্জি আছে।",
+     "en": "I'm allergic to penicillin."
+    },
+    {
+     "who": "Dr Martin",
+     "you": false,
+     "fr": "Merci de me le dire. Je vous donne un autre antibiotique.",
+     "bn_pron": "মের়সি দে° মে° লে° দির়. ঝ়ে° ভ়ু দোন অ্যাঁ নোত্র় আঁতিবিয়োতিক.",
+     "en_pron": "mehr-see duh muh luh DEER. zhuh voo dun ehn noh-truh ahn-tee-byoh-TEEK.",
+     "bn": "জানানোর জন্য ধন্যবাদ। আমি অন্য একটা অ্যান্টিবায়োটিক দিচ্ছি।",
+     "en": "Thank you for telling me. I'll give you a different antibiotic."
+    },
+    {
+     "who": "Dr Martin",
+     "you": false,
+     "fr": "Prenez un comprimé matin et soir, pendant six jours.",
+     "bn_pron": "প্র়ে°নে অ্যাঁ কোঁপ্র়িমে মাত্যাঁ এ সোয়ার়, পাঁদাঁ সি ঝ়ুর়.",
+     "en_pron": "pruh-nay ehn kohn-pree-MAY mah-tehn ay SWAHR, pahn-dahn see ZHOOR.",
+     "bn": "ছয় দিন সকালে আর সন্ধ্যায় একটা করে ট্যাবলেট খাবেন।",
+     "en": "Take one tablet morning and evening for six days."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Merci, docteur. Je vous dois combien ?",
+     "bn_pron": "মের়সি, দোক্তে°র়. ঝ়ে° ভ়ু দোয়া কোঁবিয়্যাঁ ?",
+     "en_pron": "mehr-see, dok-TUHR. zhuh voo dwah kohn-BYEHN ?",
+     "bn": "ধন্যবাদ, ডাক্তার। আপনাকে কত দিতে হবে?",
+     "en": "Thank you, doctor. How much do I owe you?"
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "J'ai de la fièvre.",
+     "bn_pron": "ঝ়ে দে° লা ফ়িয়েভ়্র়.",
+     "en_pron": "zhay duh lah FYEVR.",
+     "bn": "আমার জ্বর।",
+     "en": "I have a fever."
+    },
+    {
+     "fr": "J'ai mal à la tête.",
+     "bn_pron": "ঝ়ে মাল আ লা তেৎ.",
+     "en_pron": "zhay mahl ah lah TET.",
+     "bn": "আমার মাথাব্যথা।",
+     "en": "I have a headache."
+    },
+    {
+     "fr": "J'ai mal au ventre.",
+     "bn_pron": "ঝ়ে মাল ও ভ়াঁত্র়.",
+     "en_pron": "zhay mahl oh VAHNTR.",
+     "bn": "আমার পেটব্যথা।",
+     "en": "I have a stomach ache."
+    },
+    {
+     "fr": "Depuis trois jours.",
+     "bn_pron": "দে°পুই ত্র়োয়া ঝ়ুর়.",
+     "en_pron": "duh-pwee trwah ZHOOR.",
+     "bn": "তিন দিন ধরে।",
+     "en": "For three days."
+    },
+    {
+     "fr": "Je suis allergique à…",
+     "bn_pron": "ঝ়ে° সুই আলের়ঝ়িক আ…",
+     "en_pron": "zhuh swee ah-lehr-ZHEEK ah…",
+     "bn": "… এ আমার অ্যালার্জি আছে",
+     "en": "I'm allergic to…"
+    },
+    {
+     "fr": "une ordonnance",
+     "bn_pron": "ই°ন অর়দোনাঁস",
+     "en_pron": "ün or-doh-NAHNS",
+     "bn": "প্রেসক্রিপশন",
+     "en": "a prescription"
+    }
+   ],
+   "culture_bn": "ফ্রান্সে প্রথমে একজন সাধারণ চিকিৎসক (médecin traitant) বেছে নিতে হয়; তাঁর মাধ্যমে গেলে সরকারি স্বাস্থ্যবীমা (Assurance Maladie) ফির বড় অংশ ফেরত দেয়, আর কার্ত ভ়িতাল (carte Vitale) দেখালে ফেরতটা স্বয়ংক্রিয়ভাবে হয়। অনেকেই Doctolib-এর মতো অ্যাপে অনলাইনে অ্যাপয়েন্টমেন্ট নেন। জরুরি চিকিৎসার জন্য ফোন করুন 15 নম্বরে (SAMU)।",
+   "your_turn": {
+    "instruction_bn": "নিজের উপসর্গ বসিয়ে ডাক্তারকে সমস্যার কথা বলুন।",
+    "lines": [
+     {
+      "fr": "Bonjour, docteur. J'ai mal ___.",
+      "bn_pron": "বোঁঝ়ুর়, দোক্তে°র়. ঝ়ে মাল ___.",
+      "en_pron": "bohn-zhoor, dok-TUHR. zhay MAHL ___.",
+      "bn": "শুভ দিন, ডাক্তার। আমার ___ ব্যথা।",
+      "en": "Hello, doctor. My ___ hurts."
+     },
+     {
+      "fr": "Depuis ___ jours.",
+      "bn_pron": "দে°পুই ___ ঝ়ুর়.",
+      "en_pron": "duh-PWEE ___ ZHOOR.",
+      "bn": "___ দিন ধরে।",
+      "en": "For ___ days."
+     },
+     {
+      "fr": "Je suis allergique à ___.",
+      "bn_pron": "ঝ়ে° সুই আলের়ঝ়িক আ ___.",
+      "en_pron": "zhuh swee ah-lehr-zheek AH ___.",
+      "bn": "___ এ আমার অ্যালার্জি আছে।",
+      "en": "I'm allergic to ___."
+     }
+    ]
+   }
+  },
+  {
+   "no": 11,
+   "title_bn": "ফার্মেসিতে",
+   "title_en": "At the pharmacy",
+   "setting_bn": "ডাক্তারের প্রেসক্রিপশন নিয়ে র়াফ়ি সবুজ ক্রস চিহ্নের একটি ফার্মেসিতে ঢুকেছেন। ফার্মাসিস্ট মাদাম দিয়ালো তাঁকে ওষুধ বুঝিয়ে দিচ্ছেন।",
+   "lines": [
+    {
+     "who": "Mme Diallo",
+     "you": false,
+     "fr": "Bonjour, monsieur.",
+     "bn_pron": "বোঁঝ়ুর়, মে°সিয়ে°.",
+     "en_pron": "bohn-zhoor, muh-SYUH.",
+     "bn": "শুভ দিন, স্যার।",
+     "en": "Hello, sir."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Bonjour, madame. J'ai une ordonnance.",
+     "bn_pron": "বোঁঝ়ুর়, মাদাম. ঝ়ে ই°ন অর়দোনাঁস.",
+     "en_pron": "bohn-zhoor, mah-DAHM. zhay ün or-doh-NAHNS.",
+     "bn": "শুভ দিন, ম্যাডাম। আমার একটা প্রেসক্রিপশন আছে।",
+     "en": "Hello, madam. I have a prescription."
+    },
+    {
+     "who": "Mme Diallo",
+     "you": false,
+     "fr": "Merci. Vous avez votre carte Vitale ?",
+     "bn_pron": "মের়সি. ভ়ু জ়াভ়ে ভ়োত্র় কার়ৎ ভ়িতাল ?",
+     "en_pron": "mehr-SEE. voo zah-vay voh-truh kart vee-TAHL ?",
+     "bn": "ধন্যবাদ। আপনার কার্ত ভ়িতাল আছে?",
+     "en": "Thank you. Do you have your carte Vitale?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Pas encore. Je suis arrivé il y a un mois.",
+     "bn_pron": "পা জ়াঁকোর়. ঝ়ে° সুই জ়ার়িভ়ে ইলিয়া অ্যাঁ মোয়া.",
+     "en_pron": "pah zahn-KOR. zhuh swee zah-ree-VAY eel-yah ehn MWAH.",
+     "bn": "এখনো পাইনি। আমি এক মাস আগে এসেছি।",
+     "en": "Not yet. I arrived a month ago."
+    },
+    {
+     "who": "Mme Diallo",
+     "you": false,
+     "fr": "Ce n'est pas grave. Je vous donne une feuille de soins pour le remboursement.",
+     "bn_pron": "সে° নে পা গ্র়াভ়. ঝ়ে° ভ়ু দোন ই°ন ফ়ে°ই দে° সোয়্যাঁ পুর় লে° র়াঁবুর়সে°মাঁ.",
+     "en_pron": "suh nay pah GRAHV. zhuh voo dun ün fuhy duh swehn poor luh rahn-boor-suh-MAHN.",
+     "bn": "সমস্যা নেই। টাকা ফেরত পাওয়ার জন্য আমি আপনাকে একটা চিকিৎসা-ফর্ম দিচ্ছি।",
+     "en": "No problem. I'll give you a care form so you can be reimbursed."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Merci. Comment je prends ce sirop ?",
+     "bn_pron": "মের়সি. কোমাঁ ঝ়ে° প্র়াঁ সে° সির়ো ?",
+     "en_pron": "mehr-SEE. koh-mahn zhuh prahn suh see-ROH ?",
+     "bn": "ধন্যবাদ। এই সিরাপটা কীভাবে খাব?",
+     "en": "Thank you. How do I take this syrup?"
+    },
+    {
+     "who": "Mme Diallo",
+     "you": false,
+     "fr": "Une cuillère trois fois par jour, après les repas.",
+     "bn_pron": "ই°ন কুইয়ের় ত্র়োয়া ফ়োয়া পার় ঝ়ুর়, আপ্র়ে লে র়ে°পা.",
+     "en_pron": "ün kwee-YEHR trwah fwah par ZHOOR, ah-preh lay ruh-PAH.",
+     "bn": "দিনে তিনবার এক চামচ করে, খাওয়ার পরে।",
+     "en": "One spoonful three times a day, after meals."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Est-ce que ça donne sommeil ?",
+     "bn_pron": "এস কে° সা দোন সোমেই ?",
+     "en_pron": "es-kuh sah dun soh-MEY ?",
+     "bn": "এটা খেলে কি ঘুম পায়?",
+     "en": "Does it make you sleepy?"
+    },
+    {
+     "who": "Mme Diallo",
+     "you": false,
+     "fr": "Un peu. Ne conduisez pas après.",
+     "bn_pron": "অ্যাঁ পে°. নে° কোঁদুইজ়ে পা আপ্র়ে.",
+     "en_pron": "ehn PUH. nuh kohn-dwee-zay pah ah-PREH.",
+     "bn": "একটু। খাওয়ার পরে গাড়ি চালাবেন না।",
+     "en": "A little. Don't drive afterwards."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "D'accord. Vous avez aussi des pastilles pour la gorge ?",
+     "bn_pron": "দাকোর়. ভ়ু জ়াভ়ে ওসি দে পাস্তিয় পুর় লা গোর়ঝ় ?",
+     "en_pron": "dah-KOR. voo zah-vay oh-see day pahs-teey poor lah GORZH ?",
+     "bn": "ঠিক আছে। গলার জন্য লজেন্সও আছে?",
+     "en": "OK. Do you also have throat lozenges?"
+    },
+    {
+     "who": "Mme Diallo",
+     "you": false,
+     "fr": "Oui, voilà. Ça fait douze euros en tout.",
+     "bn_pron": "উই, ভ়োয়ালা. সা ফ়ে দুজ় এ°র়ো আঁ তু.",
+     "en_pron": "wee, vwah-LAH. sah feh dooz uh-roh ahn TOO.",
+     "bn": "হ্যাঁ, এই নিন। সব মিলিয়ে বারো ইউরো।",
+     "en": "Yes, here you are. That's twelve euros altogether."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Voilà. Merci, bonne journée !",
+     "bn_pron": "ভ়োয়ালা. মের়সি, বোন ঝ়ুর়নে !",
+     "en_pron": "vwah-LAH. mehr-SEE, bun zhoor-NAY !",
+     "bn": "এই নিন। ধন্যবাদ, দিনটা ভালো কাটুক!",
+     "en": "Here you are. Thank you, have a nice day!"
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "J'ai une ordonnance.",
+     "bn_pron": "ঝ়ে ই°ন অর়দোনাঁস.",
+     "en_pron": "zhay ün or-doh-NAHNS.",
+     "bn": "আমার প্রেসক্রিপশন আছে।",
+     "en": "I have a prescription."
+    },
+    {
+     "fr": "Comment je prends ce médicament ?",
+     "bn_pron": "কোমাঁ ঝ়ে° প্র়াঁ সে° মেদিকামাঁ ?",
+     "en_pron": "koh-mahn zhuh prahn suh may-dee-kah-MAHN ?",
+     "bn": "এই ওষুধটা কীভাবে খাব?",
+     "en": "How do I take this medicine?"
+    },
+    {
+     "fr": "trois fois par jour",
+     "bn_pron": "ত্র়োয়া ফ়োয়া পার় ঝ়ুর়",
+     "en_pron": "trwah fwah par ZHOOR",
+     "bn": "দিনে তিনবার",
+     "en": "three times a day"
+    },
+    {
+     "fr": "après les repas",
+     "bn_pron": "আপ্র়ে লে র়ে°পা",
+     "en_pron": "ah-preh lay ruh-PAH",
+     "bn": "খাওয়ার পরে",
+     "en": "after meals"
+    },
+    {
+     "fr": "Vous avez quelque chose pour…?",
+     "bn_pron": "ভ়ু জ়াভ়ে কেলক শোজ় পুর়…?",
+     "en_pron": "voo zah-vay kel-kuh shohz POOR…?",
+     "bn": "… এর জন্য কিছু আছে?",
+     "en": "Do you have something for…?"
+    },
+    {
+     "fr": "Est-ce qu'il y a de la gélatine ?",
+     "bn_pron": "এস কিলিয়া দে° লা ঝ়েলাতিন ?",
+     "en_pron": "es-keel-yah duh lah zhay-lah-TEEN ?",
+     "bn": "এতে কি জেলাটিন আছে?",
+     "en": "Does it contain gelatine?",
+     "note_bn": "ক্যাপসুলের খোসায় প্রাণিজ জেলাটিন থাকতে পারে; হালাল নিয়ে চিন্তিত হলে জিজ্ঞেস করুন।"
+    }
+   ],
+   "culture_bn": "ফ্রান্সের ফার্মেসি চেনা যায় সবুজ আলোর ক্রস চিহ্নে। ফার্মাসিস্টরা প্রশিক্ষিত, ছোটখাটো অসুখে পরামর্শও দেন। রাতে ও রবিবারে পালা করে একটি ফার্মেসি খোলা থাকে (pharmacie de garde); বন্ধ ফার্মেসির দরজায় তার ঠিকানা লেখা থাকে। অনেক ওষুধ প্রেসক্রিপশন ছাড়া বিক্রি হয় না।",
+   "your_turn": {
+    "instruction_bn": "নিজের সমস্যা বসিয়ে ফার্মাসিস্টের কাছে ওষুধ চান।",
+    "lines": [
+     {
+      "fr": "Bonjour. Vous avez quelque chose pour ___ ?",
+      "bn_pron": "বোঁঝ়ুর়. ভ়ু জ়াভ়ে কেলক শোজ় পুর় ___ ?",
+      "en_pron": "bohn-ZHOOR. voo zah-vay kel-kuh shohz POOR ___ ?",
+      "bn": "শুভ দিন। ___ এর জন্য কিছু আছে?",
+      "en": "Hello. Do you have something for ___?"
+     },
+     {
+      "fr": "Je le prends ___ fois par jour ?",
+      "bn_pron": "ঝ়ে° লে° প্র়াঁ ___ ফ়োয়া পার় ঝ়ুর় ?",
+      "en_pron": "zhuh luh PRAHN ___ fwah par ZHOOR ?",
+      "bn": "দিনে ___ বার খাব?",
+      "en": "Do I take it ___ times a day?"
+     },
+     {
+      "fr": "Avant ou après ___ ?",
+      "bn_pron": "আভ়াঁ উ আপ্র়ে ___ ?",
+      "en_pron": "ah-vahn oo ah-PREH ___ ?",
+      "bn": "___ এর আগে না পরে?",
+      "en": "Before or after ___?"
+     }
+    ]
+   }
+  },
+  {
+   "no": 12,
+   "title_bn": "ঘর ভাড়া নেওয়া",
+   "title_en": "Renting a room",
+   "setting_bn": "বিজ্ঞাপন দেখে নুসরাত একটি ভাগাভাগির ফ্ল্যাটে ঘর দেখতে গেছেন। বাড়ির মালিক মাদাম জ়িরার় তাঁকে ঘুরিয়ে দেখাচ্ছেন।",
+   "lines": [
+    {
+     "who": "Mme Girard",
+     "you": false,
+     "fr": "Bonjour ! Vous êtes Nusrat ? Entrez, je vous en prie.",
+     "bn_pron": "বোঁঝ়ুর় ! ভ়ু জ়েৎ নুসরাত ? আঁত্র়ে, ঝ়ে° ভ়ু জ়াঁ প্র়ি.",
+     "en_pron": "bohn-ZHOOR ! voo zet noos-RAHT ? ahn-TRAY, zhuh voo zahn PREE.",
+     "bn": "শুভ দিন! আপনি নুসরাত? ভেতরে আসুন, প্লিজ।",
+     "en": "Hello! Are you Nusrat? Come in, please."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Bonjour, madame. Merci. J'ai vu votre annonce sur internet.",
+     "bn_pron": "বোঁঝ়ুর়, মাদাম. মের়সি. ঝ়ে ভ়ি° ভ়োত্র় আনোঁস সি°র় অ্যাঁতের়নেৎ.",
+     "en_pron": "bohn-zhoor, mah-DAHM. mehr-SEE. zhay vü voh-trah-NOHNS sür ehn-tehr-NET.",
+     "bn": "শুভ দিন, ম্যাডাম। ধন্যবাদ। ইন্টারনেটে আপনার বিজ্ঞাপনটা দেখেছি।",
+     "en": "Hello, madam. Thank you. I saw your ad on the internet."
+    },
+    {
+     "who": "Mme Girard",
+     "you": false,
+     "fr": "Voici la chambre. Elle fait douze mètres carrés.",
+     "bn_pron": "ভ়োয়াসি লা শাঁব্র়. এল ফ়ে দুজ় মেত্র় কার়ে.",
+     "en_pron": "vwah-see lah SHAHNBR. el feh dooz meh-truh kah-RAY.",
+     "bn": "এই যে ঘরটা। বারো বর্গমিটার।",
+     "en": "Here's the room. It's twelve square metres."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Elle est lumineuse. Le loyer est de combien ?",
+     "bn_pron": "এল এ লি°মিনে°জ়. লে° লোয়াইয়ে এ দে° কোঁবিয়্যাঁ ?",
+     "en_pron": "el ay lü-mee-NUHZ. luh lwah-yay ay duh kohn-BYEHN ?",
+     "bn": "ঘরটা বেশ আলো-ঝলমলে। ভাড়া কত?",
+     "en": "It's bright. How much is the rent?"
+    },
+    {
+     "who": "Mme Girard",
+     "you": false,
+     "fr": "Quatre cent cinquante euros par mois, charges comprises.",
+     "bn_pron": "কাত্র় সাঁ স্যাঁকাঁ তে°র়ো পার় মোয়া, শার়ঝ় কোঁপ্র়িজ়.",
+     "en_pron": "kah-truh sahn sehn-kahn tuh-roh par MWAH, sharzh kohn-PREEZ.",
+     "bn": "মাসে চারশো পঞ্চাশ ইউরো, বিদ্যুৎ-পানির খরচসহ।",
+     "en": "Four hundred and fifty euros a month, bills included."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Il y a une caution ?",
+     "bn_pron": "ইলিয়া ই°ন কোসিয়োঁ ?",
+     "en_pron": "eel-yah ün koh-SYOHN ?",
+     "bn": "অগ্রিম জামানত দিতে হবে?",
+     "en": "Is there a deposit?"
+    },
+    {
+     "who": "Mme Girard",
+     "you": false,
+     "fr": "Oui, un mois de loyer. Et il faut un garant.",
+     "bn_pron": "উই, অ্যাঁ মোয়া দে° লোয়াইয়ে. এ ইল ফ়ো অ্যাঁ গার়াঁ.",
+     "en_pron": "wee, ehn mwah duh lwah-YAY. ay eel foh ehn gah-RAHN.",
+     "bn": "হ্যাঁ, এক মাসের ভাড়া। আর একজন জামিনদার লাগবে।",
+     "en": "Yes, one month's rent. And you need a guarantor."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Je peux utiliser Visale comme garant ?",
+     "bn_pron": "ঝ়ে° পে° ই°তিলিজ়ে ভ়িজ়াল কোম গার়াঁ ?",
+     "en_pron": "zhuh puh ü-tee-lee-zay vee-ZAHL kum gah-RAHN ?",
+     "bn": "জামিনদার হিসেবে কি ভ়িজ়াল ব্যবহার করতে পারি?",
+     "en": "Can I use Visale as a guarantor?",
+     "note_bn": "Visale: তরুণ ও ছাত্রছাত্রীদের জন্য রাষ্ট্র-সমর্থিত বিনা খরচের জামিন-সেবা।"
+    },
+    {
+     "who": "Mme Girard",
+     "you": false,
+     "fr": "Oui, pas de problème. La cuisine et la salle de bain sont partagées.",
+     "bn_pron": "উই, পা দে° প্র়োব্লেম. লা কুইজ়িন এ লা সাল দে° ব্যাঁ সোঁ পার়তাঝ়ে.",
+     "en_pron": "wee, pah duh proh-BLEM. lah kwee-ZEEN ay lah sahl duh BEHN sohn par-tah-ZHAY.",
+     "bn": "হ্যাঁ, কোনো সমস্যা নেই। রান্নাঘর আর গোসলখানা সবাই মিলে ব্যবহার করে।",
+     "en": "Yes, no problem. The kitchen and bathroom are shared."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "D'accord. Je suis calme, je ne fume pas, et je cuisine souvent.",
+     "bn_pron": "দাকোর়. ঝ়ে° সুই কাল্ম, ঝ়ে° নে° ফ়ি°ম পা, এ ঝ়ে° কুইজ়িন সুভ়াঁ.",
+     "en_pron": "dah-KOR. zhuh swee KALM, zhuh nuh füm PAH, ay zhuh kwee-zeen soo-VAHN.",
+     "bn": "ঠিক আছে। আমি শান্ত স্বভাবের, ধূমপান করি না, আর প্রায়ই রান্না করি।",
+     "en": "OK. I'm quiet, I don't smoke, and I often cook."
+    },
+    {
+     "who": "Mme Girard",
+     "you": false,
+     "fr": "Parfait ! Vous pouvez emménager le premier du mois.",
+     "bn_pron": "পার়ফ়ে ! ভ়ু পুভ়ে আঁমেনাঝ়ে লে° প্র়ে°মিয়ে দি° মোয়া.",
+     "en_pron": "par-FEH ! voo poo-vay ahn-may-nah-ZHAY luh pruh-myay dü MWAH.",
+     "bn": "চমৎকার! মাসের এক তারিখে উঠতে পারেন।",
+     "en": "Perfect! You can move in on the first of the month."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Merci ! Je vous envoie mon dossier ce soir.",
+     "bn_pron": "মের়সি ! ঝ়ে° ভ়ু জ়াঁভ়োয়া মোঁ দোসিয়ে সে° সোয়ার়.",
+     "en_pron": "mehr-SEE ! zhuh voo zahn-VWAH mohn doh-syay suh SWAHR.",
+     "bn": "ধন্যবাদ! আজ সন্ধ্যায় আমার কাগজপত্র পাঠিয়ে দেব।",
+     "en": "Thank you! I'll send you my file this evening."
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "le loyer",
+     "bn_pron": "লে° লোয়াইয়ে",
+     "en_pron": "luh lwah-YAY",
+     "bn": "বাসাভাড়া",
+     "en": "the rent"
+    },
+    {
+     "fr": "charges comprises",
+     "bn_pron": "শার়ঝ় কোঁপ্র়িজ়",
+     "en_pron": "sharzh kohn-PREEZ",
+     "bn": "বিল (পানি, বিদ্যুৎ ইত্যাদি) সহ",
+     "en": "bills included"
+    },
+    {
+     "fr": "la caution",
+     "bn_pron": "লা কোসিয়োঁ",
+     "en_pron": "lah koh-SYOHN",
+     "bn": "জামানত (ডিপোজিট)",
+     "en": "the deposit"
+    },
+    {
+     "fr": "un garant",
+     "bn_pron": "অ্যাঁ গার়াঁ",
+     "en_pron": "ehn gah-RAHN",
+     "bn": "জামিনদার",
+     "en": "a guarantor"
+    },
+    {
+     "fr": "C'est meublé ?",
+     "bn_pron": "সে মে°ব্লে ?",
+     "en_pron": "say muh-BLAY ?",
+     "bn": "আসবাবসহ?",
+     "en": "Is it furnished?"
+    },
+    {
+     "fr": "emménager",
+     "bn_pron": "আঁমেনাঝ়ে",
+     "en_pron": "ahn-may-nah-ZHAY",
+     "bn": "নতুন বাসায় ওঠা",
+     "en": "to move in"
+    }
+   ],
+   "culture_bn": "ফ্রান্সে বাসা পেতে একটি «dossier» লাগে: পরিচয়পত্র, ভিসা বা রেসিডেন্স পারমিট, আয়ের প্রমাণ বা বৃত্তির কাগজ, আর জামিনদারের তথ্য। তরুণ ও ছাত্রছাত্রীরা রাষ্ট্র-সমর্থিত বিনা খরচের জামিন-সেবা Visale ব্যবহার করতে পারেন, আর অনেকে CAF থেকে আবাসন ভাতা (APL) পান। সাবধান: ঘর না দেখে বা চুক্তি না করে কখনো আগাম টাকা পাঠাবেন না; এটি প্রতারণার সবচেয়ে প্রচলিত ফাঁদ।",
+   "your_turn": {
+    "instruction_bn": "নিজের পছন্দের ঘরের কথা ভেবে মালিককে প্রশ্ন করুন।",
+    "lines": [
+     {
+      "fr": "Le loyer est de ___ euros ?",
+      "bn_pron": "লে° লোয়াইয়ে এ দে° ___ এ°র়ো ?",
+      "en_pron": "luh lwah-yay ay DUH ___ uh-ROH ?",
+      "bn": "ভাড়া কি ___ ইউরো?",
+      "en": "Is the rent ___ euros?"
+     },
+     {
+      "fr": "Est-ce que ___ est compris ?",
+      "bn_pron": "এস কে° ___ এ কোঁপ্র়ি ?",
+      "en_pron": "es-KUH ___ ay kohn-PREE ?",
+      "bn": "___ কি ভাড়ার মধ্যে?",
+      "en": "Is ___ included?"
+     },
+     {
+      "fr": "Je peux emménager le ___ ?",
+      "bn_pron": "ঝ়ে° পে° আঁমেনাঝ়ে লে° ___ ?",
+      "en_pron": "zhuh puh ahn-may-nah-zhay LUH ___ ?",
+      "bn": "আমি কি ___ তারিখে উঠতে পারি?",
+      "en": "Can I move in on the ___?"
+     }
+    ]
+   }
+  },
+  {
+   "no": 13,
+   "title_bn": "কাজের প্রথম দিন",
+   "title_en": "First day at work",
+   "setting_bn": "মোঁপেলিয়ের একটি সফটওয়্যার কোম্পানিতে র়াফ়ির প্রথম দিন। তাঁর ম্যানেজার জ়ুলিয়্যাঁ তাঁকে দলের সাথে পরিচয় করিয়ে দিচ্ছেন।",
+   "lines": [
+    {
+     "who": "Julien",
+     "you": false,
+     "fr": "Bonjour Rafi, bienvenue dans l'équipe !",
+     "bn_pron": "বোঁঝ়ুর় র়াফ়ি, বিয়্যাঁভ়ে°নি° দাঁ লেকিপ !",
+     "en_pron": "bohn-zhoor rah-FEE, byehn-vuh-nü dahn lay-KEEP !",
+     "bn": "শুভ দিন, র়াফ়ি, দলে স্বাগতম!",
+     "en": "Hello Rafi, welcome to the team!"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Bonjour, merci beaucoup. Je suis très content d'être ici.",
+     "bn_pron": "বোঁঝ়ুর়, মের়সি বোকু. ঝ়ে° সুই ত্র়ে কোঁতাঁ দেত্র় ইসি.",
+     "en_pron": "bohn-ZHOOR, mehr-see boh-KOO. zhuh swee treh kohn-tahn deh-tree-SEE.",
+     "bn": "শুভ দিন, অনেক ধন্যবাদ। এখানে আসতে পেরে আমি খুব খুশি।",
+     "en": "Hello, thank you very much. I'm very happy to be here.",
+     "note_bn": "নারী বলবেন contente (কোঁতাঁৎ)।"
+    },
+    {
+     "who": "Julien",
+     "you": false,
+     "fr": "Ici, on se tutoie. Ça te va ?",
+     "bn_pron": "ইসি, ওঁ সে° তি°তোয়া. সা তে° ভ়া ?",
+     "en_pron": "ee-SEE, ohn suh tü-TWAH. sah tuh VAH ?",
+     "bn": "এখানে আমরা সবাই «তুমি» করে বলি। তোমার আপত্তি নেই তো?",
+     "en": "Here, we use «tu» with each other. Is that OK with you?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Oui, bien sûr.",
+     "bn_pron": "উই, বিয়্যাঁ সি°র়.",
+     "en_pron": "wee, byehn SÜR.",
+     "bn": "হ্যাঁ, অবশ্যই।",
+     "en": "Yes, of course."
+    },
+    {
+     "who": "Julien",
+     "you": false,
+     "fr": "Je te présente Amélie. Elle travaille aussi sur le projet.",
+     "bn_pron": "ঝ়ে° তে° প্র়েজ়াঁৎ আমেলি. এল ত্র়াভ়াই ওসি সি°র় লে° প্র়োঝ়ে.",
+     "en_pron": "zhuh tuh pray-zahnt ah-may-LEE. el trah-vye oh-see sür luh proh-ZHEH.",
+     "bn": "এ হলো আমেলি। সে-ও এই প্রজেক্টে কাজ করে।",
+     "en": "This is Amélie. She works on the project too."
+    },
+    {
+     "who": "Amélie",
+     "you": false,
+     "fr": "Salut Rafi ! Si tu as une question, n'hésite pas.",
+     "bn_pron": "সালি° র়াফ়ি ! সি তি° আ ই°ন কেস্তিয়োঁ, নেজ়িৎ পা.",
+     "en_pron": "sah-LÜ rah-FEE ! see tü ah ün kes-TYOHN, nay-zeet PAH.",
+     "bn": "হাই র়াফ়ি! কোনো প্রশ্ন থাকলে সংকোচ কোরো না।",
+     "en": "Hi Rafi! If you have a question, don't hesitate."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Merci, c'est gentil. On commence à quelle heure le matin ?",
+     "bn_pron": "মের়সি, সে ঝ়াঁতি. ওঁ কোমাঁস আ কেল এ°র় লে° মাত্যাঁ ?",
+     "en_pron": "mehr-SEE, say zhahn-TEE. ohn koh-mahns ah kel uhr luh mah-TEHN ?",
+     "bn": "ধন্যবাদ, খুব ভালো লাগল। সকালে কাজ কয়টায় শুরু হয়?",
+     "en": "Thanks, that's kind. What time do we start in the morning?"
+    },
+    {
+     "who": "Julien",
+     "you": false,
+     "fr": "Vers neuf heures. La pause déjeuner, c'est de midi à une heure.",
+     "bn_pron": "ভ়ের় নে°ভ় এ°র়. লা পোজ় দেঝ়ে°নে, সে দে° মিদি আ ই°ন এ°র়.",
+     "en_pron": "vehr nuh-VUHR. lah pohz day-zhuh-NAY, say duh mee-DEE ah ün UHR.",
+     "bn": "নয়টার দিকে। দুপুরের খাবারের বিরতি বারোটা থেকে একটা।",
+     "en": "Around nine. The lunch break is from twelve to one."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "D'accord. Où est-ce que je peux m'installer ?",
+     "bn_pron": "দাকোর়. উ এস কে° ঝ়ে° পে° ম্যাঁস্তালে ?",
+     "en_pron": "dah-KOR. oo es-kuh zhuh puh mehn-stah-LAY ?",
+     "bn": "ঠিক আছে। আমি কোথায় বসব?",
+     "en": "OK. Where can I settle in?"
+    },
+    {
+     "who": "Julien",
+     "you": false,
+     "fr": "Voici ton bureau et ton ordinateur. Ton mot de passe est dans cette enveloppe.",
+     "bn_pron": "ভ়োয়াসি তোঁ বি°র়ো এ তোঁ নোর়দিনাতে°র়. তোঁ মো দে° পাস এ দাঁ সেৎ আঁভ়ে°লোপ.",
+     "en_pron": "vwah-see tohn bü-ROH ay tohn nor-dee-nah-TUHR. tohn moh duh pahs ay dahn set ahn-vuh-LOP.",
+     "bn": "এই তোমার ডেস্ক আর কম্পিউটার। পাসওয়ার্ড এই খামের ভেতরে।",
+     "en": "Here's your desk and your computer. Your password is in this envelope."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Parfait. Je suis prêt à commencer !",
+     "bn_pron": "পার়ফ়ে. ঝ়ে° সুই প্র়ে আ কোমাঁসে !",
+     "en_pron": "par-FEH. zhuh swee preh ah koh-mahn-SAY !",
+     "bn": "চমৎকার। আমি শুরু করতে প্রস্তুত!",
+     "en": "Perfect. I'm ready to start!",
+     "note_bn": "নারী বলবেন prête (প্র়েৎ)।"
+    },
+    {
+     "who": "Amélie",
+     "you": false,
+     "fr": "On déjeune ensemble à midi ?",
+     "bn_pron": "ওঁ দেঝ়ে°ন আঁসাঁব্ল় আ মিদি ?",
+     "en_pron": "ohn day-zhuhn ahn-sahm-bluh ah mee-DEE ?",
+     "bn": "দুপুরে একসাথে খাবে?",
+     "en": "Shall we have lunch together at noon?"
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "Je suis content d'être ici.",
+     "bn_pron": "ঝ়ে° সুই কোঁতাঁ দেত্র় ইসি.",
+     "en_pron": "zhuh swee kohn-tahn deh-tree-SEE.",
+     "bn": "এখানে এসে আমি খুশি।",
+     "en": "I'm happy to be here."
+    },
+    {
+     "fr": "On se tutoie ?",
+     "bn_pron": "ওঁ সে° তি°তোয়া ?",
+     "en_pron": "ohn suh tü-TWAH ?",
+     "bn": "আমরা কি «তুমি» করে বলব?",
+     "en": "Shall we use «tu»?"
+    },
+    {
+     "fr": "Je te présente…",
+     "bn_pron": "ঝ়ে° তে° প্র়েজ়াঁৎ…",
+     "en_pron": "zhuh tuh pray-ZAHNT…",
+     "bn": "পরিচয় করিয়ে দিই, এ হলো…",
+     "en": "Let me introduce…"
+    },
+    {
+     "fr": "N'hésite pas.",
+     "bn_pron": "নেজ়িৎ পা.",
+     "en_pron": "nay-zeet PAH.",
+     "bn": "সংকোচ কোরো না।",
+     "en": "Don't hesitate."
+    },
+    {
+     "fr": "la pause déjeuner",
+     "bn_pron": "লা পোজ় দেঝ়ে°নে",
+     "en_pron": "lah pohz day-zhuh-NAY",
+     "bn": "দুপুরের খাবারের বিরতি",
+     "en": "the lunch break"
+    },
+    {
+     "fr": "Je suis prêt.",
+     "bn_pron": "ঝ়ে° সুই প্র়ে.",
+     "en_pron": "zhuh swee PREH.",
+     "bn": "আমি প্রস্তুত।",
+     "en": "I'm ready.",
+     "note_bn": "নারী: Je suis prête."
+    }
+   ],
+   "culture_bn": "অফিসে প্রথমে vous দিয়ে শুরু করুন; সহকর্মীরা «On se tutoie ?» বললে তবেই tu-তে যান। অনেক কোম্পানিতে, বিশেষ করে নতুন প্রযুক্তি প্রতিষ্ঠানে, সবাই সবাইকে tu বলে। দুপুরের খাবারের বিরতি ফরাসিদের কাছে গুরুত্বপূর্ণ সামাজিক সময়, ডেস্কে একা না খেয়ে সহকর্মীদের সাথে বসলে সম্পর্ক দ্রুত গড়ে ওঠে। নামাজের জন্য একটু সময় বা নিরিবিলি জায়গা দরকার হলে ম্যানেজারকে ভদ্রভাবে জানিয়ে রাখুন।",
+   "your_turn": {
+    "instruction_bn": "নতুন অফিসে প্রথম দিন কল্পনা করে ফাঁকা ঘর পূরণ করুন।",
+    "lines": [
+     {
+      "fr": "Bonjour, je m'appelle ___. Je suis le nouveau ___.",
+      "bn_pron": "বোঁঝ়ুর়, ঝ়ে° মাপেল ___. ঝ়ে° সুই লে° নুভ়ো ___.",
+      "en_pron": "bohn-ZHOOR, zhuh mah-PEL ___. zhuh swee luh noo-VOH ___.",
+      "bn": "শুভ দিন, আমার নাম ___। আমি নতুন ___।",
+      "en": "Hello, my name is ___. I'm the new ___.",
+      "note_bn": "নারী: la nouvelle (লা নুভ়েল)।"
+     },
+     {
+      "fr": "On commence à ___ heures ?",
+      "bn_pron": "ওঁ কোমাঁস আ ___ এ°র় ?",
+      "en_pron": "ohn koh-mahns AH ___ UHR ?",
+      "bn": "আমরা কি ___ টায় শুরু করি?",
+      "en": "Do we start at ___ o'clock?"
+     },
+     {
+      "fr": "Où est ___ ?",
+      "bn_pron": "উ এ ___ ?",
+      "en_pron": "oo AY ___ ?",
+      "bn": "___ কোথায়?",
+      "en": "Where is ___?"
+     }
+    ]
+   }
+  },
+  {
+   "no": 14,
+   "title_bn": "চাকরির সাক্ষাৎকার",
+   "title_en": "Job interview",
+   "setting_bn": "নুসরাত লিলের একটি আন্তর্জাতিক প্রতিষ্ঠানে হিসাবরক্ষণ বিভাগে চাকরির সাক্ষাৎকার দিতে এসেছেন। নিয়োগকর্তা মঁসিয়ে বের়নার় তাঁকে প্রশ্ন করছেন।",
+   "lines": [
+    {
+     "who": "M. Bernard",
+     "you": false,
+     "fr": "Bonjour, madame. Merci d'être venue. Asseyez-vous.",
+     "bn_pron": "বোঁঝ়ুর়, মাদাম. মের়সি দেত্র় ভ়ে°নি°. আসেয়ে ভ়ু.",
+     "en_pron": "bohn-zhoor, mah-DAHM. mehr-see deh-truh vuh-NÜ. ah-seh-yay VOO.",
+     "bn": "শুভ দিন, ম্যাডাম। আসার জন্য ধন্যবাদ। বসুন।",
+     "en": "Hello, madam. Thank you for coming. Please sit down."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Bonjour, monsieur. Merci de me recevoir.",
+     "bn_pron": "বোঁঝ়ুর়, মে°সিয়ে°. মের়সি দে° মে° র়ে°সে°ভ়োয়ার়.",
+     "en_pron": "bohn-zhoor, muh-SYUH. mehr-see duh muh ruh-suh-VWAHR.",
+     "bn": "শুভ দিন, স্যার। আমাকে ডাকার জন্য ধন্যবাদ।",
+     "en": "Hello, sir. Thank you for seeing me."
+    },
+    {
+     "who": "M. Bernard",
+     "you": false,
+     "fr": "Parlez-moi un peu de vous.",
+     "bn_pron": "পার়লে মোয়া অ্যাঁ পে° দে° ভ়ু.",
+     "en_pron": "par-lay mwah ehn puh duh VOO.",
+     "bn": "নিজের সম্পর্কে একটু বলুন।",
+     "en": "Tell me a little about yourself."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "J'ai un master en comptabilité de l'université de Dhaka.",
+     "bn_pron": "ঝ়ে অ্যাঁ মাস্তের় আঁ কোঁতাবিলিতে দে° লি°নিভ়ের়সিতে দে° দাকা.",
+     "en_pron": "zhay ehn mahs-tehr ahn kohn-tah-bee-lee-TAY duh lü-nee-vehr-see-tay duh dah-KAH.",
+     "bn": "ঢাকা বিশ্ববিদ্যালয় থেকে আমি হিসাববিজ্ঞানে মাস্টার্স করেছি।",
+     "en": "I have a master's in accounting from the University of Dhaka."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "J'ai travaillé trois ans dans une banque à Dhaka.",
+     "bn_pron": "ঝ়ে ত্র়াভ়াইয়ে ত্র়োয়া জ়াঁ দাঁ জ়ি°ন বাঁক আ দাকা.",
+     "en_pron": "zhay trah-vah-YAY trwah ZAHN dahn zün bahnk ah dah-KAH.",
+     "bn": "ঢাকায় একটা ব্যাংকে তিন বছর কাজ করেছি।",
+     "en": "I worked for three years in a bank in Dhaka."
+    },
+    {
+     "who": "M. Bernard",
+     "you": false,
+     "fr": "Très bien. Pourquoi voulez-vous travailler chez nous ?",
+     "bn_pron": "ত্র়ে বিয়্যাঁ. পুর়কোয়া ভ়ুলে ভ়ু ত্র়াভ়াইয়ে শে নু ?",
+     "en_pron": "treh BYEHN. poor-kwah voo-lay voo trah-vah-yay shay NOO ?",
+     "bn": "খুব ভালো। আমাদের এখানে কেন কাজ করতে চান?",
+     "en": "Very good. Why do you want to work with us?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Votre entreprise est internationale, et j'aime travailler en équipe.",
+     "bn_pron": "ভ়োত্র় আঁত্র়ে°প্র়িজ় এ অ্যাঁতের়নাসিয়োনাল, এ ঝ়েম ত্র়াভ়াইয়ে আঁ নেকিপ.",
+     "en_pron": "voh-trahn-truh-preez ay ehn-tehr-nah-syoh-NAHL, ay zhem trah-vah-yay ahn nay-KEEP.",
+     "bn": "আপনাদের প্রতিষ্ঠানটি আন্তর্জাতিক, আর আমি দলবদ্ধভাবে কাজ করতে ভালোবাসি।",
+     "en": "Your company is international, and I like working in a team."
+    },
+    {
+     "who": "M. Bernard",
+     "you": false,
+     "fr": "Quelles sont vos qualités ?",
+     "bn_pron": "কেল সোঁ ভ়ো কালিতে ?",
+     "en_pron": "kel sohn voh kah-lee-TAY ?",
+     "bn": "আপনার গুণগুলো কী?",
+     "en": "What are your strengths?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Je suis sérieuse et organisée. Je parle bengali, anglais et un peu de français.",
+     "bn_pron": "ঝ়ে° সুই সের়িয়ে°জ় এ অর়গানিজ়ে. ঝ়ে° পার়ল ব্যাঁগালি, আঁগ্লে এ অ্যাঁ পে° দে° ফ়্র়াঁসে.",
+     "en_pron": "zhuh swee say-ryuhz ay or-gah-nee-ZAY. zhuh parl behn-gah-LEE, ahn-GLEH ay ehn puh duh frahn-SEH.",
+     "bn": "আমি নিষ্ঠাবান ও গোছানো। আমি বাংলা, ইংরেজি আর একটু ফরাসি বলতে পারি।",
+     "en": "I'm serious and organised. I speak Bengali, English and a little French.",
+     "note_bn": "পুরুষ বলবেন sérieux et organisé।"
+    },
+    {
+     "who": "M. Bernard",
+     "you": false,
+     "fr": "Votre français est déjà bien ! Vous êtes disponible quand ?",
+     "bn_pron": "ভ়োত্র় ফ়্র়াঁসে এ দেঝ়া বিয়্যাঁ ! ভ়ু জ়েৎ দিস্পোনিব্ল় কাঁ ?",
+     "en_pron": "voh-truh frahn-seh ay day-zhah BYEHN ! voo zet dees-poh-nee-bluh KAHN ?",
+     "bn": "আপনার ফরাসি এখনই বেশ ভালো! কবে থেকে যোগ দিতে পারবেন?",
+     "en": "Your French is already good! When are you available?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Je suis disponible à partir du premier mars.",
+     "bn_pron": "ঝ়ে° সুই দিস্পোনিব্ল় আ পার়তির় দি° প্র়ে°মিয়ে মার়স.",
+     "en_pron": "zhuh swee dees-poh-nee-bluh ah par-teer dü pruh-myay MARS.",
+     "bn": "আমি পয়লা মার্চ থেকে যোগ দিতে পারব।",
+     "en": "I'm available from the first of March."
+    },
+    {
+     "who": "M. Bernard",
+     "you": false,
+     "fr": "Merci, madame. Nous vous rappelons la semaine prochaine.",
+     "bn_pron": "মের়সি, মাদাম. নু ভ়ু র়াপে°লোঁ লা সে°মেন প্র়োশেন.",
+     "en_pron": "mehr-see, mah-DAHM. noo voo rah-puh-lohn lah suh-men proh-SHEN.",
+     "bn": "ধন্যবাদ, ম্যাডাম। আগামী সপ্তাহে আমরা আপনাকে ফোন করব।",
+     "en": "Thank you, madam. We'll call you back next week."
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "Merci de me recevoir.",
+     "bn_pron": "মের়সি দে° মে° র়ে°সে°ভ়োয়ার়.",
+     "en_pron": "mehr-see duh muh ruh-suh-VWAHR.",
+     "bn": "আমাকে সময় দেওয়ার জন্য ধন্যবাদ।",
+     "en": "Thank you for seeing me."
+    },
+    {
+     "fr": "J'ai un master en…",
+     "bn_pron": "ঝ়ে অ্যাঁ মাস্তের় আঁ…",
+     "en_pron": "zhay ehn mahs-tehr AHN…",
+     "bn": "আমার … বিষয়ে মাস্টার্স আছে",
+     "en": "I have a master's in…"
+    },
+    {
+     "fr": "J'ai travaillé … ans dans…",
+     "bn_pron": "ঝ়ে ত্র়াভ়াইয়ে … আঁ দাঁ…",
+     "en_pron": "zhay trah-vah-YAY … ahn DAHN…",
+     "bn": "আমি … বছর … এ কাজ করেছি",
+     "en": "I worked for … years in…"
+    },
+    {
+     "fr": "J'aime travailler en équipe.",
+     "bn_pron": "ঝ়েম ত্র়াভ়াইয়ে আঁ নেকিপ.",
+     "en_pron": "zhem trah-vah-yay ahn nay-KEEP.",
+     "bn": "আমি দলবদ্ধভাবে কাজ করতে ভালোবাসি।",
+     "en": "I like working in a team."
+    },
+    {
+     "fr": "Je suis disponible à partir du…",
+     "bn_pron": "ঝ়ে° সুই দিস্পোনিব্ল় আ পার়তির় দি°…",
+     "en_pron": "zhuh swee dees-poh-nee-bluh ah par-teer DÜ…",
+     "bn": "আমি … থেকে যোগ দিতে পারব",
+     "en": "I'm available from the…"
+    },
+    {
+     "fr": "Nous vous rappelons.",
+     "bn_pron": "নু ভ়ু র়াপে°লোঁ.",
+     "en_pron": "noo voo rah-puh-LOHN.",
+     "bn": "আমরা আপনাকে ফোন করে জানাব।",
+     "en": "We'll call you back."
+    }
+   ],
+   "culture_bn": "ফ্রান্সে সিভি সাধারণত এক পাতার হয়, সাথে একটি ছোট মোটিভেশন লেটার (lettre de motivation) দিতে হয়। সাক্ষাৎকারে সময়ানুবর্তিতা আর vous ব্যবহার জরুরি। বাংলাদেশের ডিগ্রির সমতুল্যতা জানতে ফ্রান্সের ENIC-NARIC কেন্দ্র থেকে «attestation de comparabilité» নেওয়া যায়, যা নিয়োগকর্তাকে আপনার ডিগ্রি বুঝতে সাহায্য করে।",
+   "your_turn": {
+    "instruction_bn": "নিজের পড়াশোনা ও অভিজ্ঞতা বসিয়ে সাক্ষাৎকারের উত্তর দিন।",
+    "lines": [
+     {
+      "fr": "J'ai un diplôme en ___.",
+      "bn_pron": "ঝ়ে অ্যাঁ দিপ্লোম আঁ ___.",
+      "en_pron": "zhay ehn dee-plohm AHN ___.",
+      "bn": "আমার ___ বিষয়ে ডিগ্রি আছে।",
+      "en": "I have a degree in ___."
+     },
+     {
+      "fr": "J'ai travaillé ___ ans comme ___.",
+      "bn_pron": "ঝ়ে ত্র়াভ়াইয়ে ___ আঁ কোম ___.",
+      "en_pron": "zhay trah-vah-YAY ___ ahn KUM ___.",
+      "bn": "আমি ___ বছর ___ হিসেবে কাজ করেছি।",
+      "en": "I worked for ___ years as a ___."
+     },
+     {
+      "fr": "Je suis ___ et ___.",
+      "bn_pron": "ঝ়ে° সুই ___ এ ___.",
+      "en_pron": "zhuh SWEE ___ ay ___.",
+      "bn": "আমি ___ এবং ___।",
+      "en": "I am ___ and ___."
+     },
+     {
+      "fr": "Je parle ___.",
+      "bn_pron": "ঝ়ে° পার়ল ___.",
+      "en_pron": "zhuh PARL ___.",
+      "bn": "আমি ___ বলতে পারি।",
+      "en": "I speak ___."
+     }
+    ]
+   }
+  },
+  {
+   "no": 15,
+   "title_bn": "ফোনে কথা বলা",
+   "title_en": "A phone call",
+   "setting_bn": "দাঁতের ব্যথার জন্য র়াফ়ি একটি ডেন্টাল চেম্বারে ফোন করে অ্যাপয়েন্টমেন্ট নিচ্ছেন। ফোনে মুখ দেখা যায় না, তাই ধীরে বলতে অনুরোধ করা খুব কাজের।",
+   "lines": [
+    {
+     "who": "La secrétaire",
+     "you": false,
+     "fr": "Cabinet dentaire du docteur Roux, bonjour !",
+     "bn_pron": "কাবিনে দাঁতের় দি° দোক্তে°র় র়ু, বোঁঝ়ুর় !",
+     "en_pron": "kah-bee-neh dahn-TEHR dü dok-tuhr ROO, bohn-ZHOOR !",
+     "bn": "ডাক্তার রু-এর ডেন্টাল চেম্বার, শুভ দিন!",
+     "en": "Doctor Roux's dental practice, hello!"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Bonjour, madame. Je voudrais prendre rendez-vous, s'il vous plaît.",
+     "bn_pron": "বোঁঝ়ুর়, মাদাম. ঝ়ে° ভ়ুদ্র়ে প্র়াঁদ্র় র়াঁদে-ভ়ু, সিল ভ়ু প্লে.",
+     "en_pron": "bohn-zhoor, mah-DAHM. zhuh voo-dreh prahn-druh rahn-day-VOO, seel voo PLEH.",
+     "bn": "শুভ দিন, ম্যাডাম। আমি একটা অ্যাপয়েন্টমেন্ট নিতে চাই।",
+     "en": "Hello, madam. I'd like to make an appointment, please."
+    },
+    {
+     "who": "La secrétaire",
+     "you": false,
+     "fr": "C'est pour une urgence ?",
+     "bn_pron": "সে পুর় ই°ন ই°র়ঝ়াঁস ?",
+     "en_pron": "say poor ün ür-ZHAHNS ?",
+     "bn": "এটা কি জরুরি?",
+     "en": "Is it an emergency?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Non, c'est pour un contrôle. J'ai un peu mal à une dent.",
+     "bn_pron": "নোঁ, সে পুর় অ্যাঁ কোঁত্র়োল. ঝ়ে অ্যাঁ পে° মাল আ ই°ন দাঁ.",
+     "en_pron": "nohn, say poor ehn kohn-TROHL. zhay ehn puh mahl ah ün DAHN.",
+     "bn": "না, একটা চেকআপের জন্য। একটা দাঁতে একটু ব্যথা।",
+     "en": "No, it's for a check-up. One tooth hurts a little."
+    },
+    {
+     "who": "La secrétaire",
+     "you": false,
+     "fr": "Jeudi prochain à quatorze heures, ça vous va ?",
+     "bn_pron": "ঝ়ে°দি প্র়োশ্যাঁ আ কাতোর়জ় এ°র়, সা ভ়ু ভ়া ?",
+     "en_pron": "zhuh-dee proh-SHEHN ah kah-tor-ZUHR, sah voo VAH ?",
+     "bn": "আগামী বৃহস্পতিবার দুপুর দুইটায় হলে চলবে?",
+     "en": "Next Thursday at 2 p.m., does that suit you?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Pardon, vous pouvez parler plus lentement ?",
+     "bn_pron": "পার়দোঁ, ভ়ু পুভ়ে পার়লে প্লি° লাঁৎমাঁ ?",
+     "en_pron": "par-DOHN, voo poo-vay par-lay plü lahnt-MAHN ?",
+     "bn": "মাফ করবেন, একটু আস্তে বলবেন?",
+     "en": "Sorry, could you speak more slowly?"
+    },
+    {
+     "who": "La secrétaire",
+     "you": false,
+     "fr": "Bien sûr. Jeudi… à deux heures de l'après-midi.",
+     "bn_pron": "বিয়্যাঁ সি°র়. ঝ়ে°দি… আ দে° জ়ে°র় দে° লাপ্র়ে-মিদি.",
+     "en_pron": "byehn SÜR. zhuh-DEE… ah duh ZUHR duh lah-preh-mee-DEE.",
+     "bn": "অবশ্যই। বৃহস্পতিবার… দুপুর দুইটায়।",
+     "en": "Of course. Thursday… at two in the afternoon."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Parfait, ça me va.",
+     "bn_pron": "পার়ফ়ে, সা মে° ভ়া.",
+     "en_pron": "par-FEH, sah muh VAH.",
+     "bn": "ঠিক আছে, আমার চলবে।",
+     "en": "Perfect, that suits me."
+    },
+    {
+     "who": "La secrétaire",
+     "you": false,
+     "fr": "Votre nom, s'il vous plaît ?",
+     "bn_pron": "ভ়োত্র় নোঁ, সিল ভ়ু প্লে ?",
+     "en_pron": "voh-truh NOHN, seel voo PLEH ?",
+     "bn": "আপনার নাম, প্লিজ?",
+     "en": "Your name, please?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Rafi Ahmed. Ça s'écrit A-H-M-E-D.",
+     "bn_pron": "র়াফ়ি আমেদ. সা সেক্র়ি আ, আশ, এম, এ°, দে.",
+     "en_pron": "rah-fee ah-MED. sah say-KREE ah, ahsh, em, uh, DAY.",
+     "bn": "র়াফ়ি আহমেদ। বানান A-H-M-E-D।",
+     "en": "Rafi Ahmed. It's spelt A-H-M-E-D.",
+     "note_bn": "ফরাসিতে h উচ্চারিত হয় না, তাই Ahmed শোনায় «আমেদ»।"
+    },
+    {
+     "who": "La secrétaire",
+     "you": false,
+     "fr": "Et votre numéro de téléphone ?",
+     "bn_pron": "এ ভ়োত্র় নি°মের়ো দে° তেলেফ়োন ?",
+     "en_pron": "ay voh-truh nü-may-roh duh tay-lay-FUN ?",
+     "bn": "আর আপনার ফোন নম্বর?",
+     "en": "And your phone number?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "C'est le 06 12 34 56 78.",
+     "bn_pron": "সে লে° জ়ের়ো সিস, দুজ়, ত্র়াঁৎ-কাত্র়, স্যাঁকাঁৎ-সিস, সোয়াসাঁৎ-দি-জ়ুইৎ.",
+     "en_pron": "say luh zay-roh SEES, DOOZ, trahnt-KAHTR, sehn-kahnt-SEES, swah-sahnt-dee-ZWEET.",
+     "bn": "নম্বরটা ০৬ ১২ ৩৪ ৫৬ ৭৮।",
+     "en": "It's 06 12 34 56 78.",
+     "note_bn": "ফরাসিরা ফোন নম্বর দুই অঙ্ক করে জোড়ায় জোড়ায় পড়ে।"
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "Je voudrais prendre rendez-vous.",
+     "bn_pron": "ঝ়ে° ভ়ুদ্র়ে প্র়াঁদ্র় র়াঁদে-ভ়ু.",
+     "en_pron": "zhuh voo-dreh prahn-druh rahn-day-VOO.",
+     "bn": "আমি একটা অ্যাপয়েন্টমেন্ট নিতে চাই।",
+     "en": "I'd like to make an appointment."
+    },
+    {
+     "fr": "Vous pouvez parler plus lentement ?",
+     "bn_pron": "ভ়ু পুভ়ে পার়লে প্লি° লাঁৎমাঁ ?",
+     "en_pron": "voo poo-vay par-lay plü lahnt-MAHN ?",
+     "bn": "একটু আস্তে বলবেন?",
+     "en": "Could you speak more slowly?"
+    },
+    {
+     "fr": "Vous pouvez répéter ?",
+     "bn_pron": "ভ়ু পুভ়ে র়েপেতে ?",
+     "en_pron": "voo poo-vay ray-pay-TAY ?",
+     "bn": "আরেকবার বলবেন?",
+     "en": "Could you repeat that?"
+    },
+    {
+     "fr": "Ça s'écrit…",
+     "bn_pron": "সা সেক্র়ি…",
+     "en_pron": "sah say-KREE…",
+     "bn": "বানান হলো…",
+     "en": "It's spelt…"
+    },
+    {
+     "fr": "Ça me va.",
+     "bn_pron": "সা মে° ভ়া.",
+     "en_pron": "sah muh VAH.",
+     "bn": "আমার চলবে।",
+     "en": "That suits me."
+    },
+    {
+     "fr": "Ne quittez pas.",
+     "bn_pron": "নে° কিতে পা.",
+     "en_pron": "nuh kee-tay PAH.",
+     "bn": "লাইনে থাকুন।",
+     "en": "Hold the line."
+    }
+   ],
+   "culture_bn": "ফরাসিরা ব্যক্তিগত ফোন ধরে বলেন «Allô ?», আর অফিসের ফোনে প্রতিষ্ঠানের নাম বলে শুরু করেন। নম্বর বলা হয় দুই অঙ্ক করে জোড়ায় (06 12 34…), তাই 70 থেকে 99 পর্যন্ত সংখ্যাগুলো আগে ভালো করে চর্চা করুন। নিজের নামের বানান ফরাসি বর্ণমালায় বলতে শিখে রাখুন; ফোনে এটা বারবার লাগবে।",
+   "your_turn": {
+    "instruction_bn": "নিজের নাম, বানান ও ফোন নম্বর বসিয়ে ফোনে অ্যাপয়েন্টমেন্ট নিন।",
+    "lines": [
+     {
+      "fr": "Bonjour, je voudrais prendre rendez-vous pour ___.",
+      "bn_pron": "বোঁঝ়ুর়, ঝ়ে° ভ়ুদ্র়ে প্র়াঁদ্র় র়াঁদে-ভ়ু পুর় ___.",
+      "en_pron": "bohn-ZHOOR, zhuh voo-dreh prahn-druh rahn-day-voo POOR ___.",
+      "bn": "শুভ দিন, আমি ___ এর জন্য অ্যাপয়েন্টমেন্ট নিতে চাই।",
+      "en": "Hello, I'd like to make an appointment for ___."
+     },
+     {
+      "fr": "Je m'appelle ___. Ça s'écrit ___.",
+      "bn_pron": "ঝ়ে° মাপেল ___. সা সেক্র়ি ___.",
+      "en_pron": "zhuh mah-PEL ___. sah say-KREE ___.",
+      "bn": "আমার নাম ___। বানান ___।",
+      "en": "My name is ___. It's spelt ___."
+     },
+     {
+      "fr": "Mon numéro, c'est le ___.",
+      "bn_pron": "মোঁ নি°মের়ো, সে লে° ___.",
+      "en_pron": "mohn nü-may-ROH, say LUH ___.",
+      "bn": "আমার নম্বর ___।",
+      "en": "My number is ___."
+     }
+    ]
+   }
+  },
+  {
+   "no": 16,
+   "title_bn": "বিশ্ববিদ্যালয়ের প্রশাসনিক অফিসে",
+   "title_en": "At the university admin office",
+   "setting_bn": "ভর্তির কাজ শেষ করতে নুসরাত বিশ্ববিদ্যালয়ের «service de la scolarité» অফিসে এসেছেন। কর্মকর্তা মঁসিয়ে গার়নিয়ে তাঁর কাগজ দেখছেন।",
+   "lines": [
+    {
+     "who": "M. Garnier",
+     "you": false,
+     "fr": "Bonjour. C'est pour quoi ?",
+     "bn_pron": "বোঁঝ়ুর়. সে পুর় কোয়া ?",
+     "en_pron": "bohn-ZHOOR. say poor KWAH ?",
+     "bn": "শুভ দিন। কী জন্য এসেছেন?",
+     "en": "Hello. What is it for?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Bonjour, monsieur. Je voudrais finaliser mon inscription. Je suis en master d'économie.",
+     "bn_pron": "বোঁঝ়ুর়, মে°সিয়ে°. ঝ়ে° ভ়ুদ্র়ে ফ়িনালিজ়ে মোঁ ন্যাঁস্ক্র়িপসিয়োঁ. ঝ়ে° সুই জ়াঁ মাস্তের় দেকোনোমি.",
+     "en_pron": "bohn-zhoor, muh-SYUH. zhuh voo-dreh fee-nah-lee-zay mohn nehn-skreep-SYOHN. zhuh swee zahn mahs-tehr day-koh-noh-MEE.",
+     "bn": "শুভ দিন, স্যার। আমি ভর্তির কাজটা শেষ করতে চাই। আমি অর্থনীতিতে মাস্টার্সের ছাত্রী।",
+     "en": "Hello, sir. I'd like to finalise my enrolment. I'm on the master's in economics."
+    },
+    {
+     "who": "M. Garnier",
+     "you": false,
+     "fr": "Vous avez votre numéro étudiant ?",
+     "bn_pron": "ভ়ু জ়াভ়ে ভ়োত্র় নি°মের়ো এতি°দিয়াঁ ?",
+     "en_pron": "voo zah-vay voh-truh nü-may-roh ay-tü-DYAHN ?",
+     "bn": "আপনার স্টুডেন্ট নম্বর আছে?",
+     "en": "Do you have your student number?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Oui, le voici. Et voici mon attestation CVEC.",
+     "bn_pron": "উই, লে° ভ়োয়াসি. এ ভ়োয়াসি মোঁ নাতেস্তাসিয়োঁ সে-ভ়ে-এ°-সে.",
+     "en_pron": "wee, luh vwah-SEE. ay vwah-see mohn nah-tes-tah-syohn say-vay-uh-SAY.",
+     "bn": "জি, এই যে। আর এই আমার CVEC-এর রসিদ।",
+     "en": "Yes, here it is. And here is my CVEC certificate.",
+     "note_bn": "CVEC: ভর্তির আগে অনলাইনে দেওয়া বার্ষিক ছাত্র-কল্যাণ ফি।"
+    },
+    {
+     "who": "M. Garnier",
+     "you": false,
+     "fr": "Parfait. Il me manque une photo d'identité.",
+     "bn_pron": "পার়ফ়ে. ইল মে° মাঁক ই°ন ফ়োতো দিদাঁতিতে.",
+     "en_pron": "par-FEH. eel muh mahnk ün foh-toh dee-dahn-tee-TAY.",
+     "bn": "চমৎকার। শুধু একটা পাসপোর্ট সাইজের ছবি বাকি।",
+     "en": "Perfect. I'm missing an ID photo."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "J'en ai une dans mon sac. La voilà.",
+     "bn_pron": "ঝ়াঁ নে ই°ন দাঁ মোঁ সাক. লা ভ়োয়ালা.",
+     "en_pron": "zhahn nay ün dahn mohn SAHK. lah vwah-LAH.",
+     "bn": "আমার ব্যাগে একটা আছে। এই যে।",
+     "en": "I have one in my bag. Here it is."
+    },
+    {
+     "who": "M. Garnier",
+     "you": false,
+     "fr": "Merci. Votre carte d'étudiant sera prête dans dix minutes.",
+     "bn_pron": "মের়সি. ভ়োত্র় কার়ৎ দেতি°দিয়াঁ সে°র়া প্র়েৎ দাঁ দি মিনি°ৎ.",
+     "en_pron": "mehr-SEE. voh-truh kart day-tü-dyahn suh-rah PRET dahn dee mee-NÜT.",
+     "bn": "ধন্যবাদ। আপনার স্টুডেন্ট কার্ড দশ মিনিটে তৈরি হয়ে যাবে।",
+     "en": "Thank you. Your student card will be ready in ten minutes."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Super ! Et l'attestation de scolarité ? Je dois l'envoyer à la préfecture.",
+     "bn_pron": "সি°পের় ! এ লাতেস্তাসিয়োঁ দে° স্কোলার়িতে ? ঝ়ে° দোয়া লাঁভ়োয়াইয়ে আ লা প্র়েফ়েক্তি°র়.",
+     "en_pron": "sü-PEHR ! ay lah-tes-tah-syohn duh skoh-lah-ree-TAY ? zhuh dwah lahn-vwah-yay ah lah pray-fek-TÜR.",
+     "bn": "দারুণ! আর ছাত্রত্বের সনদ? ওটা আমাকে প্রেফেকচারে পাঠাতে হবে।",
+     "en": "Great! And the enrolment certificate? I have to send it to the préfecture."
+    },
+    {
+     "who": "M. Garnier",
+     "you": false,
+     "fr": "Vous pouvez la télécharger sur votre espace numérique.",
+     "bn_pron": "ভ়ু পুভ়ে লা তেলেশার়ঝ়ে সি°র় ভ়োত্র় এস্পাস নি°মের়িক.",
+     "en_pron": "voo poo-vay lah tay-lay-shar-ZHAY sür voh-truh es-pahs nü-may-REEK.",
+     "bn": "আপনার অনলাইন অ্যাকাউন্ট থেকে ডাউনলোড করতে পারবেন।",
+     "en": "You can download it from your online account."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Je ne trouve pas où. Vous pouvez me montrer ?",
+     "bn_pron": "ঝ়ে° নে° ত্র়ুভ় পা উ. ভ়ু পুভ়ে মে° মোঁত্র়ে ?",
+     "en_pron": "zhuh nuh troov pah OO. voo poo-vay muh mohn-TRAY ?",
+     "bn": "কোথায় আছে খুঁজে পাচ্ছি না। একটু দেখিয়ে দেবেন?",
+     "en": "I can't find where. Could you show me?"
+    },
+    {
+     "who": "M. Garnier",
+     "you": false,
+     "fr": "Bien sûr. Regardez : ici, « Mes documents », puis « Attestations ».",
+     "bn_pron": "বিয়্যাঁ সি°র়. র়ে°গার়দে : ইসি, « মে দোকি°মাঁ », পুই « আতেস্তাসিয়োঁ ».",
+     "en_pron": "byehn SÜR. ruh-gar-DAY : ee-SEE, « may doh-kü-MAHN », pwee « ah-tes-tah-SYOHN ».",
+     "bn": "অবশ্যই। দেখুন: এখানে «আমার কাগজপত্র», তারপর «সনদ»।",
+     "en": "Of course. Look: here, \"My documents\", then \"Certificates\"."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Merci infiniment, monsieur !",
+     "bn_pron": "মের়সি অ্যাঁফ়িনিমাঁ, মে°সিয়ে° !",
+     "en_pron": "mehr-see ehn-fee-nee-MAHN, muh-SYUH !",
+     "bn": "অশেষ ধন্যবাদ, স্যার!",
+     "en": "Thank you so much, sir!"
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "Je voudrais finaliser mon inscription.",
+     "bn_pron": "ঝ়ে° ভ়ুদ্র়ে ফ়িনালিজ়ে মোঁ ন্যাঁস্ক্র়িপসিয়োঁ.",
+     "en_pron": "zhuh voo-dreh fee-nah-lee-zay mohn nehn-skreep-SYOHN.",
+     "bn": "আমি ভর্তির কাজ শেষ করতে চাই।",
+     "en": "I'd like to finalise my enrolment."
+    },
+    {
+     "fr": "Il me manque…",
+     "bn_pron": "ইল মে° মাঁক…",
+     "en_pron": "eel muh MAHNK…",
+     "bn": "আমার … বাকি / নেই",
+     "en": "I'm missing…"
+    },
+    {
+     "fr": "une photo d'identité",
+     "bn_pron": "ই°ন ফ়োতো দিদাঁতিতে",
+     "en_pron": "ün foh-toh dee-dahn-tee-TAY",
+     "bn": "পাসপোর্ট সাইজের ছবি",
+     "en": "an ID photo"
+    },
+    {
+     "fr": "une attestation",
+     "bn_pron": "ই°ন আতেস্তাসিয়োঁ",
+     "en_pron": "ün ah-tes-tah-SYOHN",
+     "bn": "প্রত্যয়নপত্র / সনদ",
+     "en": "a certificate"
+    },
+    {
+     "fr": "télécharger",
+     "bn_pron": "তেলেশার়ঝ়ে",
+     "en_pron": "tay-lay-shar-ZHAY",
+     "bn": "ডাউনলোড করা",
+     "en": "to download"
+    },
+    {
+     "fr": "Vous pouvez me montrer ?",
+     "bn_pron": "ভ়ু পুভ়ে মে° মোঁত্র়ে ?",
+     "en_pron": "voo poo-vay muh mohn-TRAY ?",
+     "bn": "আমাকে দেখিয়ে দেবেন?",
+     "en": "Could you show me?"
+    }
+   ],
+   "culture_bn": "ফরাসি প্রশাসন কাগজপত্রের জন্য বিখ্যাত, তাই প্রতিটি নথির ফটোকপি ও স্ক্যান কপি রাখুন, আর কয়েকটি পাসপোর্ট সাইজের ছবি সবসময় সাথে রাখুন। ভিসা নবায়ন ও রেসিডেন্স পারমিটের আবেদন এখন বেশির ভাগই ANEF নামের সরকারি ওয়েবসাইটে অনলাইনে করতে হয়; মেয়াদ শেষ হওয়ার অন্তত দুই মাস আগে আবেদন শুরু করুন। অফিসে ধৈর্য আর ভদ্রতা সবচেয়ে বড় হাতিয়ার।",
+   "your_turn": {
+    "instruction_bn": "নিজের পড়াশোনার বিষয় ও প্রয়োজনীয় কাগজ বসিয়ে অফিসে কথা বলুন।",
+    "lines": [
+     {
+      "fr": "Je suis en ___ de ___.",
+      "bn_pron": "ঝ়ে° সুই জ়াঁ ___ দে° ___.",
+      "en_pron": "zhuh swee ZAHN ___ DUH ___.",
+      "bn": "আমি ___ এ ___ পড়ছি।",
+      "en": "I'm in ___ of ___."
+     },
+     {
+      "fr": "Il me manque ___.",
+      "bn_pron": "ইল মে° মাঁক ___.",
+      "en_pron": "eel muh MAHNK ___.",
+      "bn": "আমার ___ বাকি আছে।",
+      "en": "I'm missing ___."
+     },
+     {
+      "fr": "Je dois envoyer ___ à la préfecture.",
+      "bn_pron": "ঝ়ে° দোয়া আঁভ়োয়াইয়ে ___ আ লা প্র়েফ়েক্তি°র়.",
+      "en_pron": "zhuh dwah ahn-vwah-YAY ___ ah lah pray-fek-TÜR.",
+      "bn": "আমাকে ___ প্রেফেকচারে পাঠাতে হবে।",
+      "en": "I have to send ___ to the préfecture."
+     }
+    ]
+   }
+  },
+  {
+   "no": 17,
+   "title_bn": "বন্ধুর সাথে মসজিদে, সালামের অর্থ",
+   "title_en": "Visiting the mosque with a friend and explaining the salam",
+   "setting_bn": "অফিসের বন্ধু তোমা অনেক দিন ধরে মসজিদ দেখতে চাইছিলেন। এক শুক্রবার বিকেলে র়াফ়ি তাঁকে শহরের মসজিদে নিয়ে গেছেন। বন্ধু বলে দুজনে tu বলছেন।",
+   "lines": [
+    {
+     "who": "Thomas",
+     "you": false,
+     "fr": "C'est la première fois que j'entre dans une mosquée. Je peux entrer comme ça ?",
+     "bn_pron": "সে লা প্র়ে°মিয়ের় ফ়োয়া কে° ঝ়াঁত্র় দাঁ জ়ি°ন মোস্কে. ঝ়ে° পে° আঁত্র়ে কোম সা ?",
+     "en_pron": "say lah pruh-myehr FWAH kuh zhahntr dahn zün mos-KAY. zhuh puh ahn-tray kum SAH ?",
+     "bn": "এই প্রথম আমি মসজিদে ঢুকছি। এভাবেই ঢুকতে পারি?",
+     "en": "It's the first time I've been inside a mosque. Can I go in like this?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Oui, bien sûr, tout le monde est le bienvenu. On enlève juste les chaussures ici.",
+     "bn_pron": "উই, বিয়্যাঁ সি°র়, তু লে° মোঁদ এ লে° বিয়্যাঁভ়ে°নি°. ওঁ নাঁলেভ় ঝি°স্ত লে শোসি°র় ইসি.",
+     "en_pron": "wee, byehn SÜR, too luh mohnd ay luh byehn-vuh-NÜ. ohn nahn-lev zhüst lay shoh-sür ee-SEE.",
+     "bn": "হ্যাঁ, অবশ্যই, সবাইকে স্বাগত জানানো হয়। শুধু এখানে জুতা খুলে রাখতে হয়।",
+     "en": "Yes, of course, everyone is welcome. We just take our shoes off here."
+    },
+    {
+     "who": "Thomas",
+     "you": false,
+     "fr": "D'accord. Et je dois faire quelque chose de spécial ?",
+     "bn_pron": "দাকোর়. এ ঝ়ে° দোয়া ফ়ের় কেলক শোজ় দে° স্পেসিয়াল ?",
+     "en_pron": "dah-KOR. ay zhuh dwah fehr kel-kuh shohz duh spay-SYAHL ?",
+     "bn": "ঠিক আছে। আর আমাকে কি বিশেষ কিছু করতে হবে?",
+     "en": "OK. And do I have to do anything special?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Non, sois juste calme. Pendant la prière, tu peux t'asseoir derrière et regarder.",
+     "bn_pron": "নোঁ, সোয়া ঝি°স্ত কাল্ম. পাঁদাঁ লা প্র়িয়ের়, তি° পে° তাসোয়ার় দের়িয়ের় এ র়ে°গার়দে.",
+     "en_pron": "nohn, swah zhüst KALM. pahn-dahn lah pree-YEHR, tü puh tah-swahr deh-ryehr ay ruh-gar-DAY.",
+     "bn": "না, শুধু শান্ত থাকো। নামাজের সময় তুমি পেছনে বসে দেখতে পারো।",
+     "en": "No, just be calm. During the prayer, you can sit at the back and watch."
+    },
+    {
+     "who": "M. Benali",
+     "you": false,
+     "fr": "As-salâm alaykoum ! Bienvenue, mes frères.",
+     "bn_pron": "আসসালাম আলাইকুম ! বিয়্যাঁভ়ে°নি°, মে ফ়্র়ের়.",
+     "en_pron": "as-sah-LAHM ah-lay-KOOM ! byehn-vuh-NÜ, may FREHR.",
+     "bn": "আসসালামু আলাইকুম! স্বাগতম, ভাইয়েরা।",
+     "en": "Peace be upon you! Welcome, brothers."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Wa alaykoum as-salâm !",
+     "bn_pron": "ওয়া আলাইকুম আসসালাম !",
+     "en_pron": "wah ah-lay-koom as-sah-LAHM !",
+     "bn": "ওয়া আলাইকুমুস সালাম!",
+     "en": "And upon you be peace!"
+    },
+    {
+     "who": "Thomas",
+     "you": false,
+     "fr": "Qu'est-ce que ça veut dire, « as-salâm alaykoum » ?",
+     "bn_pron": "কেস কে° সা ভ়ে° দির়, « আসসালাম আলাইকুম » ?",
+     "en_pron": "kes-kuh sah vuh DEER, « as-sah-LAHM ah-lay-KOOM » ?",
+     "bn": "«আসসালামু আলাইকুম» মানে কী?",
+     "en": "What does \"as-salâm alaykoum\" mean?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Ça veut dire « que la paix soit sur vous ». C'est notre salutation de tous les jours.",
+     "bn_pron": "সা ভ়ে° দির় « কে° লা পে সোয়া সি°র় ভ়ু ». সে নোত্র় সালি°তাসিয়োঁ দে° তু লে ঝ়ুর়.",
+     "en_pron": "sah vuh DEER « kuh lah peh swah sür VOO ». say noh-truh sah-lü-tah-syohn duh too lay ZHOOR.",
+     "bn": "এর মানে «আপনাদের ওপর শান্তি বর্ষিত হোক»। এটা আমাদের প্রতিদিনের অভিবাদন।",
+     "en": "It means \"may peace be upon you\". It's our everyday greeting."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "On répond « wa alaykoum as-salâm » : « et sur vous aussi, la paix ».",
+     "bn_pron": "ওঁ র়েপোঁ « ওয়া আলাইকুম আসসালাম » : « এ সি°র় ভ়ু জ়োসি, লা পে ».",
+     "en_pron": "ohn ray-POHN « wah ah-lay-koom as-sah-LAHM » : « ay sür voo zoh-SEE, lah PEH ».",
+     "bn": "উত্তরে বলা হয় «ওয়া আলাইকুমুস সালাম»: «আপনাদের ওপরও শান্তি»।",
+     "en": "The reply is \"wa alaykoum as-salâm\": \"and upon you too, peace\"."
+    },
+    {
+     "who": "Thomas",
+     "you": false,
+     "fr": "C'est très beau. Je peux le dire aussi ?",
+     "bn_pron": "সে ত্র়ে বো. ঝ়ে° পে° লে° দির় ওসি ?",
+     "en_pron": "say treh BOH. zhuh puh luh deer oh-SEE ?",
+     "bn": "খুব সুন্দর। আমিও কি বলতে পারি?",
+     "en": "That's beautiful. Can I say it too?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Bien sûr ! Ça fera plaisir à tout le monde ici.",
+     "bn_pron": "বিয়্যাঁ সি°র় ! সা ফ়ে°র়া প্লেজ়ির় আ তু লে° মোঁদ ইসি.",
+     "en_pron": "byehn SÜR ! sah fuh-rah pleh-zeer ah too luh mohnd ee-SEE.",
+     "bn": "অবশ্যই! এখানে সবাই খুশি হবে।",
+     "en": "Of course! Everyone here will be pleased."
+    },
+    {
+     "who": "M. Benali",
+     "you": false,
+     "fr": "Vous êtes ici chez vous. Revenez quand vous voulez !",
+     "bn_pron": "ভ়ু জ়ে তিসি শে ভ়ু. র়ে°ভ়ে°নে কাঁ ভ়ু ভ়ুলে !",
+     "en_pron": "voo zeh tee-see shay VOO. ruh-vuh-nay kahn voo voo-LAY !",
+     "bn": "এটা আপনাদের নিজেদেরই জায়গা। যখন খুশি আবার আসবেন!",
+     "en": "Make yourselves at home here. Come back whenever you like!"
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "As-salâm alaykoum.",
+     "bn_pron": "আসসালাম আলাইকুম.",
+     "en_pron": "as-sah-LAHM ah-lay-KOOM.",
+     "bn": "আসসালামু আলাইকুম",
+     "en": "Peace be upon you."
+    },
+    {
+     "fr": "Wa alaykoum as-salâm.",
+     "bn_pron": "ওয়া আলাইকুম আসসালাম.",
+     "en_pron": "wah ah-lay-koom as-sah-LAHM.",
+     "bn": "ওয়া আলাইকুমুস সালাম",
+     "en": "And upon you be peace."
+    },
+    {
+     "fr": "Que la paix soit sur vous.",
+     "bn_pron": "কে° লা পে সোয়া সি°র় ভ়ু.",
+     "en_pron": "kuh lah peh swah sür VOO.",
+     "bn": "আপনাদের ওপর শান্তি বর্ষিত হোক।",
+     "en": "May peace be upon you."
+    },
+    {
+     "fr": "Tout le monde est le bienvenu.",
+     "bn_pron": "তু লে° মোঁদ এ লে° বিয়্যাঁভ়ে°নি°.",
+     "en_pron": "too luh mohnd ay luh byehn-vuh-NÜ.",
+     "bn": "সবাইকে স্বাগত।",
+     "en": "Everyone is welcome."
+    },
+    {
+     "fr": "On enlève les chaussures.",
+     "bn_pron": "ওঁ নাঁলেভ় লে শোসি°র়.",
+     "en_pron": "ohn nahn-lev lay shoh-SÜR.",
+     "bn": "জুতা খুলে রাখা হয়।",
+     "en": "We take our shoes off."
+    },
+    {
+     "fr": "la prière du vendredi",
+     "bn_pron": "লা প্র়িয়ের় দি° ভ়াঁদ্র়ে°দি",
+     "en_pron": "lah pree-yehr dü vahn-druh-DEE",
+     "bn": "জুমার নামাজ",
+     "en": "the Friday prayer"
+    }
+   ],
+   "culture_bn": "ফ্রান্সে পশ্চিম ইউরোপের অন্যতম বড় মুসলিম সম্প্রদায় বাস করে। প্যারিসের গ্রঁদ মসজিদ (Grande Mosquée de Paris) ১৯২৬ সালে উদ্বোধন হয়েছিল, প্রথম বিশ্বযুদ্ধে ফ্রান্সের পক্ষে প্রাণ দেওয়া মুসলিম সৈনিকদের স্মরণে। অনেক মসজিদ নামাজের সময়ের বাইরে দর্শনার্থীদের স্বাগত জানায়; শালীন পোশাক পরে, জুতা খুলে, শান্তভাবে ঢুকলেই হয়। ফ্রান্সের মুসলমানরা প্রায়ই সংক্ষেপে «Salam» বলেন, আর ফরাসি লেখায় «As-salâm alaykoum» বানানটি প্রচলিত।",
+   "your_turn": {
+    "instruction_bn": "একজন অমুসলিম বন্ধুকে সালামের অর্থ বোঝাচ্ছেন কল্পনা করে ফাঁকা ঘর পূরণ করুন।",
+    "lines": [
+     {
+      "fr": "« As-salâm alaykoum », ça veut dire « ___ ».",
+      "bn_pron": "« আসসালাম আলাইকুম », সা ভ়ে° দির় « ___ ».",
+      "en_pron": "« as-sah-LAHM ah-lay-KOOM », sah vuh DEER « ___ ».",
+      "bn": "«আসসালামু আলাইকুম» মানে «___»।",
+      "en": "\"As-salâm alaykoum\" means \"___\"."
+     },
+     {
+      "fr": "On répond « ___ ».",
+      "bn_pron": "ওঁ র়েপোঁ « ___ ».",
+      "en_pron": "ohn ray-POHN « ___ ».",
+      "bn": "উত্তরে বলা হয় «___»।",
+      "en": "The reply is \"___\"."
+     },
+     {
+      "fr": "Tu veux venir à la mosquée avec moi ___ ?",
+      "bn_pron": "তি° ভ়ে° ভ়ে°নির় আ লা মোস্কে আভ়েক মোয়া ___ ?",
+      "en_pron": "tü vuh vuh-neer ah lah mos-kay ah-vek MWAH ___ ?",
+      "bn": "তুমি কি ___ আমার সাথে মসজিদে যাবে?",
+      "en": "Do you want to come to the mosque with me ___?"
+     }
+    ]
+   }
+  },
+  {
+   "no": 18,
+   "title_bn": "বন্ধুত্ব: রোজা নিয়ে প্রশ্ন ও ইফতারের দাওয়াত",
+   "title_en": "Making a friend: questions about fasting and an iftar invitation",
+   "setting_bn": "রমজান মাস। দুপুরে সহকর্মী লেয়া নুসরাতকে ক্যান্টিনে খেতে ডাকছেন, জানেন না যে নুসরাত রোজা রেখেছেন। দুজনে সমবয়সী, তাই tu বলেন।",
+   "lines": [
+    {
+     "who": "Léa",
+     "you": false,
+     "fr": "Nusrat, tu viens manger ? On va à la cantine.",
+     "bn_pron": "নুসরাত, তি° ভ়িয়্যাঁ মাঁঝ়ে ? ওঁ ভ়া আ লা কাঁতিন.",
+     "en_pron": "noos-RAHT, tü vyehn mahn-ZHAY ? ohn vah ah lah kahn-TEEN.",
+     "bn": "নুসরাত, খেতে আসবে? আমরা ক্যান্টিনে যাচ্ছি।",
+     "en": "Nusrat, are you coming to eat? We're going to the canteen."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Merci, Léa, mais je jeûne. C'est le ramadan.",
+     "bn_pron": "মের়সি, লেয়া, মে ঝ়ে° ঝ়ে°ন. সে লে° র়ামাদান.",
+     "en_pron": "mehr-SEE, lay-AH, meh zhuh ZHUHN. say luh rah-mah-DAN.",
+     "bn": "ধন্যবাদ, লেয়া, কিন্তু আমি রোজা রেখেছি। এখন রমজান।",
+     "en": "Thanks, Léa, but I'm fasting. It's Ramadan.",
+     "note_bn": "ফরাসিতে ramadan-এর শেষ n স্পষ্ট উচ্চারিত হয়, নাসিক্য নয়।"
+    },
+    {
+     "who": "Léa",
+     "you": false,
+     "fr": "Ah oui ? Tu ne manges rien de la journée ?",
+     "bn_pron": "আ উই ? তি° নে° মাঁঝ় র়িয়্যাঁ দে° লা ঝ়ুর়নে ?",
+     "en_pron": "ah WEE ? tü nuh mahnzh ryehn duh lah zhoor-NAY ?",
+     "bn": "তাই নাকি? সারা দিন কিছুই খাও না?",
+     "en": "Really? You don't eat anything all day?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Non, rien, de l'aube jusqu'au coucher du soleil.",
+     "bn_pron": "নোঁ, র়িয়্যাঁ, দে° লোব ঝি°স্কো কুশে দি° সোলেই.",
+     "en_pron": "nohn, RYEHN, duh lohb zhüs-koh koo-shay dü soh-LEY.",
+     "bn": "না, কিছুই না, ভোর থেকে সূর্যাস্ত পর্যন্ত।",
+     "en": "No, nothing, from dawn until sunset."
+    },
+    {
+     "who": "Léa",
+     "you": false,
+     "fr": "Même pas d'eau ? C'est dur, non ?",
+     "bn_pron": "মেম পা দো ? সে দি°র়, নোঁ ?",
+     "en_pron": "mem pah DOH ? say DÜR, NOHN ?",
+     "bn": "পানিও না? কষ্ট হয় না?",
+     "en": "Not even water? Isn't it hard?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Même pas d'eau. Les premiers jours sont difficiles, puis on s'habitue.",
+     "bn_pron": "মেম পা দো. লে প্র়ে°মিয়ে ঝ়ুর় সোঁ দিফ়িসিল, পুই ওঁ সাবিতি°.",
+     "en_pron": "mem pah DOH. lay pruh-myay zhoor sohn dee-fee-SEEL, pwee ohn sah-bee-TÜ.",
+     "bn": "পানিও না। প্রথম কয়েক দিন কঠিন লাগে, তারপর অভ্যাস হয়ে যায়।",
+     "en": "Not even water. The first days are hard, then you get used to it."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Et ça m'aide à penser à ceux qui ont faim.",
+     "bn_pron": "এ সা মেদ আ পাঁসে আ সে° কি ওঁ ফ়্যাঁ.",
+     "en_pron": "ay sah med ah pahn-say ah suh kee ohn FEHN.",
+     "bn": "আর এটা আমাকে ক্ষুধার্ত মানুষদের কথা মনে করিয়ে দেয়।",
+     "en": "And it helps me think of people who are hungry."
+    },
+    {
+     "who": "Léa",
+     "you": false,
+     "fr": "C'est beau. Et tu manges à quelle heure, alors ?",
+     "bn_pron": "সে বো. এ তি° মাঁঝ় আ কেল এ°র়, আলোর় ?",
+     "en_pron": "say BOH. ay tü mahnzh ah kel UHR, ah-LOR ?",
+     "bn": "সুন্দর ব্যাপার। তাহলে খাও কখন?",
+     "en": "That's beautiful. So what time do you eat?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Au coucher du soleil. On appelle ce repas l'iftar.",
+     "bn_pron": "ও কুশে দি° সোলেই. ওঁ নাপেল সে° র়ে°পা লিফ়তার়.",
+     "en_pron": "oh koo-shay dü soh-LEY. ohn nah-pel suh ruh-pah leef-TAHR.",
+     "bn": "সূর্য ডোবার সময়। এই খাবারকে বলে ইফতার।",
+     "en": "At sunset. We call this meal the iftar."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "D'ailleurs, samedi, je fais un iftar chez moi. Tu veux venir ?",
+     "bn_pron": "দাইয়ে°র়, সামদি, ঝ়ে° ফ়ে অ্যাঁ নিফ়তার় শে মোয়া. তি° ভ়ে° ভ়ে°নির় ?",
+     "en_pron": "dah-YUHR, sahm-DEE, zhuh feh ehn neef-TAHR shay MWAH. tü vuh vuh-NEER ?",
+     "bn": "ভালো কথা, শনিবার আমার বাসায় ইফতারের আয়োজন করছি। তুমি আসবে?",
+     "en": "By the way, on Saturday I'm hosting an iftar at my place. Would you like to come?"
+    },
+    {
+     "who": "Léa",
+     "you": false,
+     "fr": "Avec plaisir ! Merci ! Qu'est-ce que j'apporte ?",
+     "bn_pron": "আভ়েক প্লেজ়ির় ! মের়সি ! কেস কে° ঝ়াপোর়ৎ ?",
+     "en_pron": "ah-vek pleh-ZEER ! mehr-SEE ! kes-kuh zhah-PORT ?",
+     "bn": "সানন্দে! ধন্যবাদ! আমি কী নিয়ে আসব?",
+     "en": "With pleasure! Thank you! What shall I bring?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Rien, juste toi ! Il y aura des dattes, du biryani et des desserts bangladais.",
+     "bn_pron": "র়িয়্যাঁ, ঝি°স্ত তোয়া ! ইলিয়োর়া দে দাৎ, দি° বির়িয়ানি এ দে দেসের় বাঁগলাদে.",
+     "en_pron": "RYEHN, zhüst TWAH ! eel-yoh-rah day DAHT, dü bee-ryah-NEE ay day day-sehr bahn-glah-DEH.",
+     "bn": "কিছুই না, শুধু তুমি এলেই হবে! খেজুর, বিরিয়ানি আর বাংলাদেশি মিষ্টি থাকবে।",
+     "en": "Nothing, just yourself! There'll be dates, biryani and Bangladeshi desserts."
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "Je jeûne.",
+     "bn_pron": "ঝ়ে° ঝ়ে°ন.",
+     "en_pron": "zhuh ZHUHN.",
+     "bn": "আমি রোজা রেখেছি।",
+     "en": "I'm fasting."
+    },
+    {
+     "fr": "C'est le ramadan.",
+     "bn_pron": "সে লে° র়ামাদান.",
+     "en_pron": "say luh rah-mah-DAN.",
+     "bn": "এখন রমজান।",
+     "en": "It's Ramadan."
+    },
+    {
+     "fr": "de l'aube au coucher du soleil",
+     "bn_pron": "দে° লোব ও কুশে দি° সোলেই",
+     "en_pron": "duh lohb oh koo-shay dü soh-LEY",
+     "bn": "ভোর থেকে সূর্যাস্ত পর্যন্ত",
+     "en": "from dawn to sunset"
+    },
+    {
+     "fr": "On s'habitue.",
+     "bn_pron": "ওঁ সাবিতি°.",
+     "en_pron": "ohn sah-bee-TÜ.",
+     "bn": "অভ্যাস হয়ে যায়।",
+     "en": "You get used to it."
+    },
+    {
+     "fr": "Tu veux venir ?",
+     "bn_pron": "তি° ভ়ে° ভ়ে°নির় ?",
+     "en_pron": "tü vuh vuh-NEER ?",
+     "bn": "তুমি আসবে?",
+     "en": "Would you like to come?"
+    },
+    {
+     "fr": "Bon ramadan !",
+     "bn_pron": "বোঁ র়ামাদান !",
+     "en_pron": "bohn rah-mah-DAN !",
+     "bn": "রমজানের শুভেচ্ছা!",
+     "en": "Have a good Ramadan!"
+    }
+   ],
+   "culture_bn": "ফ্রান্সে অনেক সহকর্মী রোজা সম্পর্কে আগ্রহী, কিন্তু প্রশ্ন করতে সংকোচ বোধ করেন; আপনি নিজে থেকে হাসিমুখে দু-এক কথা বললে সংকোচ কাটে। কেউ আপনার সামনে খেতে অস্বস্তি বোধ করলে আশ্বস্ত করুন যে এতে আপনার কোনো অসুবিধা নেই। ফরাসিরা প্রায়ই «Bon ramadan !» বা «Ramadan moubarak !» বলে শুভেচ্ছা জানান, আর ঈদকে বলেন l'Aïd (Aïd el-Fitr)। ইফতারের দাওয়াত বন্ধুত্ব গড়ার চমৎকার উপায়; অনেক মসজিদও সবার জন্য উন্মুক্ত ইফতারের আয়োজন করে।",
+   "your_turn": {
+    "instruction_bn": "একজন সহকর্মীকে নিজের ভাষায় রোজার কথা বলে ইফতারে দাওয়াত দিন।",
+    "lines": [
+     {
+      "fr": "Je jeûne parce que c'est ___.",
+      "bn_pron": "ঝ়ে° ঝ়ে°ন পার়স কে° সে ___.",
+      "en_pron": "zhuh zhuhn pars kuh SAY ___.",
+      "bn": "আমি রোজা রেখেছি কারণ এখন ___।",
+      "en": "I'm fasting because it's ___."
+     },
+     {
+      "fr": "Je ne mange pas de ___ jusqu'au ___.",
+      "bn_pron": "ঝ়ে° নে° মাঁঝ় পা দে° ___ ঝি°স্কো ___.",
+      "en_pron": "zhuh nuh mahnzh pah DUH ___ zhüs-KOH ___.",
+      "bn": "___ পর্যন্ত আমি ___ খাই না।",
+      "en": "I don't eat ___ until ___."
+     },
+     {
+      "fr": "___, je fais un iftar chez moi. Tu veux venir ?",
+      "bn_pron": "___, ঝ়ে° ফ়ে অ্যাঁ নিফ়তার় শে মোয়া. তি° ভ়ে° ভ়ে°নির় ?",
+      "en_pron": "___, zhuh feh ehn neef-TAHR shay MWAH. tü vuh vuh-NEER ?",
+      "bn": "___ আমার বাসায় ইফতার। তুমি আসবে?",
+      "en": "On ___, I'm hosting an iftar at my place. Would you like to come?"
+     }
+    ]
+   }
+  },
+  {
+   "no": 19,
+   "title_bn": "জরুরি অবস্থা ও পুলিশ",
+   "title_en": "Emergency and the police",
+   "setting_bn": "সকালে মেট্রোতে র়াফ়ির মানিব্যাগ চুরি হয়ে গেছে। তিনি কাছের থানায় (commissariat) গিয়ে অভিযোগ করছেন; পুলিশ কর্মকর্তা মাদাম মোর়েল তাঁকে সাহায্য করছেন।",
+   "lines": [
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Bonjour, madame. On m'a volé mon portefeuille.",
+     "bn_pron": "বোঁঝ়ুর়, মাদাম. ওঁ মা ভ়োলে মোঁ পোর়ৎফ়ে°ই.",
+     "en_pron": "bohn-zhoor, mah-DAHM. ohn mah voh-lay mohn port-FUHY.",
+     "bn": "শুভ দিন, ম্যাডাম। আমার মানিব্যাগ চুরি হয়ে গেছে।",
+     "en": "Hello, madam. My wallet has been stolen."
+    },
+    {
+     "who": "Mme Morel",
+     "you": false,
+     "fr": "Vous allez bien ? Vous êtes blessé ?",
+     "bn_pron": "ভ়ু জ়ালে বিয়্যাঁ ? ভ়ু জ়েৎ ব্লেসে ?",
+     "en_pron": "voo zah-lay BYEHN ? voo zet bleh-SAY ?",
+     "bn": "আপনি ঠিক আছেন? কোথাও আঘাত পেয়েছেন?",
+     "en": "Are you all right? Are you hurt?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Non, ça va. Je ne suis pas blessé.",
+     "bn_pron": "নোঁ, সা ভ়া. ঝ়ে° নে° সুই পা ব্লেসে.",
+     "en_pron": "nohn, sah VAH. zhuh nuh swee pah bleh-SAY.",
+     "bn": "না, ঠিক আছি। আঘাত পাইনি।",
+     "en": "No, I'm fine. I'm not hurt."
+    },
+    {
+     "who": "Mme Morel",
+     "you": false,
+     "fr": "Où et quand est-ce que c'est arrivé ?",
+     "bn_pron": "উ এ কাঁ এস কে° সে তার়িভ়ে ?",
+     "en_pron": "oo ay kahn es-kuh say tah-ree-VAY ?",
+     "bn": "কোথায় আর কখন ঘটেছে?",
+     "en": "Where and when did it happen?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Ce matin, vers huit heures, dans le métro, ligne 4.",
+     "bn_pron": "সে° মাত্যাঁ, ভ়ের় উই তে°র়, দাঁ লে° মেত্র়ো, লিন্য কাত্র়.",
+     "en_pron": "suh mah-TEHN, vehr wee TUHR, dahn luh may-TROH, leen-yuh KAHTR.",
+     "bn": "আজ সকালে, আটটার দিকে, মেট্রোর ৪ নম্বর লাইনে।",
+     "en": "This morning, around eight, on the metro, line 4."
+    },
+    {
+     "who": "Mme Morel",
+     "you": false,
+     "fr": "Qu'est-ce qu'il y avait dans le portefeuille ?",
+     "bn_pron": "কেস কিলিয়াভ়ে দাঁ লে° পোর়ৎফ়ে°ই ?",
+     "en_pron": "kes-keel-yah-VEH dahn luh port-FUHY ?",
+     "bn": "মানিব্যাগে কী কী ছিল?",
+     "en": "What was in the wallet?"
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Ma carte bancaire, mon titre de séjour et cinquante euros.",
+     "bn_pron": "মা কার়ৎ বাঁকের়, মোঁ তিত্র় দে° সেঝ়ুর় এ স্যাঁকাঁ তে°র়ো.",
+     "en_pron": "mah kart bahn-KEHR, mohn tee-truh duh say-ZHOOR ay sehn-kahn tuh-ROH.",
+     "bn": "আমার ব্যাংক কার্ড, রেসিডেন্স পারমিট আর পঞ্চাশ ইউরো।",
+     "en": "My bank card, my residence permit and fifty euros."
+    },
+    {
+     "who": "Mme Morel",
+     "you": false,
+     "fr": "Il faut faire opposition sur votre carte tout de suite.",
+     "bn_pron": "ইল ফ়ো ফ়ের় অপোজ়িসিয়োঁ সি°র় ভ়োত্র় কার়ৎ তুৎ সুইৎ.",
+     "en_pron": "eel foh fehr oh-poh-zee-SYOHN sür voh-truh kart toot SWEET.",
+     "bn": "এখনই আপনার কার্ডটা ব্লক করতে হবে।",
+     "en": "You must block your card immediately."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Je l'ai déjà fait avec l'application de ma banque.",
+     "bn_pron": "ঝ়ে° লে দেঝ়া ফ়ে আভ়েক লাপ্লিকাসিয়োঁ দে° মা বাঁক.",
+     "en_pron": "zhuh lay day-zhah FEH ah-vek lah-plee-kah-syohn duh mah BAHNK.",
+     "bn": "ব্যাংকের অ্যাপ দিয়ে আমি সেটা আগেই করেছি।",
+     "en": "I've already done it with my bank's app."
+    },
+    {
+     "who": "Mme Morel",
+     "you": false,
+     "fr": "Très bien. Je prends votre plainte. Gardez bien le récépissé.",
+     "bn_pron": "ত্র়ে বিয়্যাঁ. ঝ়ে° প্র়াঁ ভ়োত্র় প্ল্যাঁৎ. গার়দে বিয়্যাঁ লে° র়েসেপিসে.",
+     "en_pron": "treh BYEHN. zhuh prahn voh-truh PLEHNT. gar-day byehn luh ray-say-pee-SAY.",
+     "bn": "খুব ভালো। আমি আপনার অভিযোগ লিখে নিচ্ছি। রসিদটা যত্ন করে রাখবেন।",
+     "en": "Very good. I'll take your complaint. Keep the receipt safe."
+    },
+    {
+     "who": "Rafi",
+     "you": true,
+     "fr": "Merci. Et si c'est urgent, quel numéro j'appelle ?",
+     "bn_pron": "মের়সি. এ সি সে তি°র়ঝ়াঁ, কেল নি°মের়ো ঝ়াপেল ?",
+     "en_pron": "mehr-SEE. ay see say tür-ZHAHN, kel nü-may-roh zhah-PEL ?",
+     "bn": "ধন্যবাদ। আর জরুরি হলে কোন নম্বরে ফোন করব?",
+     "en": "Thank you. And if it's urgent, which number do I call?"
+    },
+    {
+     "who": "Mme Morel",
+     "you": false,
+     "fr": "Le 17 pour la police, le 15 pour le SAMU, ou le 112 partout en Europe.",
+     "bn_pron": "লে° দিস-সেৎ পুর় লা পোলিস, লে° কাঁজ় পুর় লে° সামি°, উ লে° সাঁ-দুজ় পার়তু আঁ নে°র়োপ.",
+     "en_pron": "luh dees-SET poor lah poh-LEES, luh KAHNZ poor luh sah-MÜ, oo luh sahn-DOOZ par-too ahn nuh-ROP.",
+     "bn": "পুলিশের জন্য ১৭, অ্যাম্বুলেন্সের (SAMU) জন্য ১৫, আর পুরো ইউরোপে ১১২।",
+     "en": "17 for the police, 15 for the ambulance service, or 112 anywhere in Europe."
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "Au secours !",
+     "bn_pron": "ও স্কুর় !",
+     "en_pron": "oh SKOOR !",
+     "bn": "বাঁচাও!",
+     "en": "Help!",
+     "note_bn": "ধীরে বললে «ও সে°কুর়»।"
+    },
+    {
+     "fr": "On m'a volé…",
+     "bn_pron": "ওঁ মা ভ়োলে…",
+     "en_pron": "ohn mah voh-LAY…",
+     "bn": "আমার … চুরি হয়ে গেছে",
+     "en": "Someone stole my…"
+    },
+    {
+     "fr": "J'ai perdu mon passeport.",
+     "bn_pron": "ঝ়ে পের়দি° মোঁ পাসপোর়.",
+     "en_pron": "zhay pehr-dü mohn pahs-POR.",
+     "bn": "আমার পাসপোর্ট হারিয়ে গেছে।",
+     "en": "I've lost my passport."
+    },
+    {
+     "fr": "Appelez la police !",
+     "bn_pron": "আপে°লে লা পোলিস !",
+     "en_pron": "ah-puh-lay lah poh-LEES !",
+     "bn": "পুলিশ ডাকুন!",
+     "en": "Call the police!"
+    },
+    {
+     "fr": "Appelez une ambulance !",
+     "bn_pron": "আপে°লে ই°ন আঁবি°লাঁস !",
+     "en_pron": "ah-puh-lay ün ahn-bü-LAHNS !",
+     "bn": "অ্যাম্বুলেন্স ডাকুন!",
+     "en": "Call an ambulance!"
+    },
+    {
+     "fr": "porter plainte",
+     "bn_pron": "পোর়তে প্ল্যাঁৎ",
+     "en_pron": "por-tay PLEHNT",
+     "bn": "থানায় অভিযোগ করা",
+     "en": "to file a complaint"
+    }
+   ],
+   "culture_bn": "ফ্রান্সের জরুরি নম্বর: ১৭ পুলিশ, ১৫ চিকিৎসা (SAMU), ১৮ দমকল, আর ১১২ পুরো ইউরোপীয় ইউনিয়নে যেকোনো জরুরি অবস্থায়; কথা বলতে বা শুনতে অসুবিধা হলে ১১৪ নম্বরে বার্তা পাঠানো যায়। ভিড়ের মেট্রো ও পর্যটন এলাকায় পকেটমার থেকে সাবধান থাকুন। পাসপোর্ট ও রেসিডেন্স পারমিটের ছবি ফোনে আর কাগজে আলাদা করে রাখুন; পাসপোর্ট হারালে থানার রসিদ নিয়ে প্যারিসে বাংলাদেশ দূতাবাসে যোগাযোগ করুন।",
+   "your_turn": {
+    "instruction_bn": "কী হারিয়েছেন বা চুরি হয়েছে তা বসিয়ে পুলিশকে ঘটনা বলুন।",
+    "lines": [
+     {
+      "fr": "On m'a volé ___.",
+      "bn_pron": "ওঁ মা ভ়োলে ___.",
+      "en_pron": "ohn mah voh-LAY ___.",
+      "bn": "আমার ___ চুরি হয়ে গেছে।",
+      "en": "Someone stole my ___."
+     },
+     {
+      "fr": "C'est arrivé ___, vers ___ heures.",
+      "bn_pron": "সে তার়িভ়ে ___, ভ়ের় ___ এ°র়.",
+      "en_pron": "say tah-ree-VAY ___, VEHR ___ UHR.",
+      "bn": "ঘটনাটা ___, ___ টার দিকে ঘটেছে।",
+      "en": "It happened ___, around ___ o'clock."
+     },
+     {
+      "fr": "Dans mon sac, il y avait ___.",
+      "bn_pron": "দাঁ মোঁ সাক, ইলিয়াভ়ে ___.",
+      "en_pron": "dahn mohn SAHK, eel-yah-VEH ___.",
+      "bn": "আমার ব্যাগে ছিল ___।",
+      "en": "In my bag, there was ___."
+     }
+    ]
+   }
+  },
+  {
+   "no": 20,
+   "title_bn": "বিদায় ও যোগাযোগ রাখা",
+   "title_en": "Farewell and keeping in touch",
+   "setting_bn": "পড়াশোনা শেষ, নুসরাত কাল দেশে ফিরছেন। শেষ সন্ধ্যায় প্রিয় বান্ধবী কামিই তাঁকে বিদায় জানাতে এসেছেন।",
+   "lines": [
+    {
+     "who": "Camille",
+     "you": false,
+     "fr": "Alors, c'est vrai, tu pars demain ?",
+     "bn_pron": "আলোর়, সে ভ়্র়ে, তি° পার় দে°ম্যাঁ ?",
+     "en_pron": "ah-LOR, say VREH, tü par duh-MEHN ?",
+     "bn": "তাহলে সত্যিই তুমি কাল চলে যাচ্ছ?",
+     "en": "So it's true, you're leaving tomorrow?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Oui, mes études sont finies. Je rentre au Bangladesh.",
+     "bn_pron": "উই, মে জ়েতি°দ সোঁ ফ়িনি. ঝ়ে° র়াঁত্র় ও বাঁগলাদেশ.",
+     "en_pron": "wee, may zay-tüd sohn fee-NEE. zhuh rahn-truh oh bahn-glah-DESH.",
+     "bn": "হ্যাঁ, আমার পড়াশোনা শেষ। আমি বাংলাদেশে ফিরে যাচ্ছি।",
+     "en": "Yes, my studies are finished. I'm going back to Bangladesh."
+    },
+    {
+     "who": "Camille",
+     "you": false,
+     "fr": "Tu vas me manquer !",
+     "bn_pron": "তি° ভ়া মে° মাঁকে !",
+     "en_pron": "tü vah muh mahn-KAY !",
+     "bn": "তোমাকে খুব মিস করব!",
+     "en": "I'm going to miss you!",
+     "note_bn": "গঠনটা উল্টো: আক্ষরিক অর্থে «তুমি আমার কাছে অনুপস্থিত থাকবে»।"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Toi aussi, tu vas me manquer. Merci pour tout, Camille.",
+     "bn_pron": "তোয়া ওসি, তি° ভ়া মে° মাঁকে. মের়সি পুর় তু, কামিয়.",
+     "en_pron": "twah oh-SEE, tü vah muh mahn-KAY. mehr-see poor TOO, kah-MEEY.",
+     "bn": "আমিও তোমাকে মিস করব। সবকিছুর জন্য ধন্যবাদ, কামিই।",
+     "en": "I'll miss you too. Thank you for everything, Camille."
+    },
+    {
+     "who": "Camille",
+     "you": false,
+     "fr": "On reste en contact, d'accord ?",
+     "bn_pron": "ওঁ র়েস্ত আঁ কোঁতাক্ত, দাকোর় ?",
+     "en_pron": "ohn rest ahn kohn-TAKT, dah-KOR ?",
+     "bn": "যোগাযোগ রাখব কিন্তু, ঠিক আছে?",
+     "en": "We'll stay in touch, OK?"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Bien sûr ! Tu as mon WhatsApp et mon adresse e-mail.",
+     "bn_pron": "বিয়্যাঁ সি°র় ! তি° আ মোঁ ওয়াৎসাপ এ মোঁ নাদ্র়েস ইমেল.",
+     "en_pron": "byehn SÜR ! tü ah mohn wat-SAP ay mohn nah-dres ee-MEL.",
+     "bn": "অবশ্যই! তোমার কাছে আমার হোয়াটসঅ্যাপ আর ইমেইল ঠিকানা আছে।",
+     "en": "Of course! You have my WhatsApp and my e-mail address."
+    },
+    {
+     "who": "Camille",
+     "you": false,
+     "fr": "Envoie-moi des photos de Dhaka !",
+     "bn_pron": "আঁভ়োয়া মোয়া দে ফ়োতো দে° দাকা !",
+     "en_pron": "ahn-vwah MWAH day foh-toh duh dah-KAH !",
+     "bn": "আমাকে ঢাকার ছবি পাঠিয়ো!",
+     "en": "Send me photos of Dhaka!"
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Promis. Et si tu viens au Bangladesh, tu es invitée chez nous.",
+     "bn_pron": "প্র়োমি. এ সি তি° ভ়িয়্যাঁ ও বাঁগলাদেশ, তি° এ জ়্যাঁভ়িতে শে নু.",
+     "en_pron": "proh-MEE. ay see tü vyehn oh bahn-glah-DESH, tü ay zehn-vee-tay shay NOO.",
+     "bn": "কথা দিলাম। আর বাংলাদেশে এলে আমাদের বাসায় তোমার দাওয়াত রইল।",
+     "en": "Promise. And if you come to Bangladesh, you're invited to our home."
+    },
+    {
+     "who": "Camille",
+     "you": false,
+     "fr": "J'adorerais ! Je veux goûter le vrai biryani de ta mère.",
+     "bn_pron": "ঝ়াদোর়ে°র়ে ! ঝ়ে° ভ়ে° গুতে লে° ভ়্র়ে বির়িয়ানি দে° তা মের়.",
+     "en_pron": "zhah-doh-ruh-REH ! zhuh vuh goo-tay luh vreh bee-ryah-nee duh tah MEHR.",
+     "bn": "খুব ভালো লাগবে! তোমার মায়ের হাতের আসল বিরিয়ানি খেতে চাই।",
+     "en": "I'd love to! I want to taste your mother's real biryani."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Avec plaisir ! Bon, je dois y aller.",
+     "bn_pron": "আভ়েক প্লেজ়ির় ! বোঁ, ঝ়ে° দোয়া ই আলে.",
+     "en_pron": "ah-vek pleh-ZEER ! BOHN, zhuh dwah ee ah-LAY.",
+     "bn": "সানন্দে! আচ্ছা, এখন যেতে হবে।",
+     "en": "With pleasure! Right, I have to go."
+    },
+    {
+     "who": "Camille",
+     "you": false,
+     "fr": "Bon voyage, Nusrat ! Prends soin de toi.",
+     "bn_pron": "বোঁ ভ়োয়াইয়াঝ়, নুসরাত ! প্র়াঁ সোয়্যাঁ দে° তোয়া.",
+     "en_pron": "bohn vwah-YAHZH, noos-RAHT ! prahn swehn duh TWAH.",
+     "bn": "শুভ যাত্রা, নুসরাত! নিজের যত্ন নিয়ো।",
+     "en": "Have a good trip, Nusrat! Take care of yourself."
+    },
+    {
+     "who": "Nusrat",
+     "you": true,
+     "fr": "Toi aussi. À bientôt, inch'Allah !",
+     "bn_pron": "তোয়া ওসি. আ বিয়্যাঁতো, ইনশাল্লা !",
+     "en_pron": "twah oh-SEE. ah byehn-TOH, eensh-ah-LAH !",
+     "bn": "তুমিও। আবার দেখা হবে, ইনশাআল্লাহ!",
+     "en": "You too. See you soon, God willing!",
+     "note_bn": "ফ্রান্সে inch'Allah কথাটি অনেক অমুসলিমও চেনেন ও বোঝেন।"
+    }
+   ],
+   "key_phrases": [
+    {
+     "fr": "Tu vas me manquer.",
+     "bn_pron": "তি° ভ়া মে° মাঁকে.",
+     "en_pron": "tü vah muh mahn-KAY.",
+     "bn": "তোমাকে মিস করব।",
+     "en": "I'll miss you."
+    },
+    {
+     "fr": "Merci pour tout.",
+     "bn_pron": "মের়সি পুর় তু.",
+     "en_pron": "mehr-see poor TOO.",
+     "bn": "সবকিছুর জন্য ধন্যবাদ।",
+     "en": "Thank you for everything."
+    },
+    {
+     "fr": "On reste en contact.",
+     "bn_pron": "ওঁ র়েস্ত আঁ কোঁতাক্ত.",
+     "en_pron": "ohn rest ahn kohn-TAKT.",
+     "bn": "আমরা যোগাযোগ রাখব।",
+     "en": "We'll stay in touch."
+    },
+    {
+     "fr": "Tu es invité chez nous.",
+     "bn_pron": "তি° এ জ়্যাঁভ়িতে শে নু.",
+     "en_pron": "tü ay zehn-vee-tay shay NOO.",
+     "bn": "আমাদের বাসায় তোমার দাওয়াত।",
+     "en": "You're invited to our home.",
+     "note_bn": "নারীকে বললে invitée (উচ্চারণ একই)।"
+    },
+    {
+     "fr": "Bon voyage !",
+     "bn_pron": "বোঁ ভ়োয়াইয়াঝ় !",
+     "en_pron": "bohn vwah-YAHZH !",
+     "bn": "শুভ যাত্রা!",
+     "en": "Have a good trip!"
+    },
+    {
+     "fr": "Prends soin de toi.",
+     "bn_pron": "প্র়াঁ সোয়্যাঁ দে° তোয়া.",
+     "en_pron": "prahn swehn duh TWAH.",
+     "bn": "নিজের যত্ন নিয়ো।",
+     "en": "Take care of yourself."
+    }
+   ],
+   "culture_bn": "বিদায়ের সময় ফরাসিরা আবেগ প্রকাশে সংকোচ করেন না; বন্ধুরা la bise দেন বা জড়িয়ে ধরেন, আর «Tu vas me manquer» শুনলে বুঝবেন সম্পর্কটা সত্যিই গভীর। দেশে ফেরার পরও ফরাসিতে ছোট ছোট বার্তা পাঠাতে থাকুন, এতে বন্ধুত্বও টেকে, ভাষাও। আর বাংলাদেশি আতিথেয়তার দাওয়াত দিতে ভুলবেন না; অনেক ফরাসি বন্ধু সত্যিই একদিন বেড়াতে আসেন।",
+   "your_turn": {
+    "instruction_bn": "একজন বন্ধুকে বিদায় জানাচ্ছেন কল্পনা করে ফাঁকা ঘর পূরণ করুন।",
+    "lines": [
+     {
+      "fr": "Merci pour ___.",
+      "bn_pron": "মের়সি পুর় ___.",
+      "en_pron": "mehr-see POOR ___.",
+      "bn": "___ এর জন্য ধন্যবাদ।",
+      "en": "Thank you for ___."
+     },
+     {
+      "fr": "Tu as mon ___ ?",
+      "bn_pron": "তি° আ মোঁ ___ ?",
+      "en_pron": "tü ah MOHN ___ ?",
+      "bn": "তোমার কাছে আমার ___ আছে?",
+      "en": "Do you have my ___?"
+     },
+     {
+      "fr": "Si tu viens à ___, tu es invité chez moi.",
+      "bn_pron": "সি তি° ভ়িয়্যাঁ আ ___, তি° এ জ়্যাঁভ়িতে শে মোয়া.",
+      "en_pron": "see tü vyehn AH ___, tü ay zehn-vee-tay shay MWAH.",
+      "bn": "তুমি ___ এলে আমার বাসায় দাওয়াত রইল।",
+      "en": "If you come to ___, you're invited to my home."
+     }
+    ]
+   }
+  }
+ ],
+ "readings": [
+  {
+   "title_bn": "জ়ুলিয়্যাঁর বার্তা",
+   "type_bn": "মোবাইল বার্তা (SMS)",
+   "text": [
+    {
+     "fr": "Salut Rafi ! Ça va ?",
+     "bn_pron": "সালি° র়াফ়ি ! সা ভ়া ?",
+     "en_pron": "sah-LÜ rah-FEE ! sah VAH ?",
+     "bn": "হাই র়াফ়ি! কেমন আছ?",
+     "en": "Hi Rafi! How are you?"
+    },
+    {
+     "fr": "On se retrouve demain à 18 h devant la gare ?",
+     "bn_pron": "ওঁ সে° র়ে°ত্র়ুভ় দে°ম্যাঁ আ দি-জ়ুই তে°র় দে°ভ়াঁ লা গার় ?",
+     "en_pron": "ohn suh ruh-troov duh-MEHN ah dee-zwee TUHR duh-vahn lah GAR ?",
+     "bn": "কাল সন্ধ্যা ছয়টায় স্টেশনের সামনে দেখা করবে?",
+     "en": "Shall we meet tomorrow at 6 p.m. in front of the station?",
+     "note_bn": "18 h পড়া হয় dix-huit heures।"
+    },
+    {
+     "fr": "Après, on va manger un couscous chez Karim.",
+     "bn_pron": "আপ্র়ে, ওঁ ভ়া মাঁঝ়ে অ্যাঁ কুসকুস শে কার়িম.",
+     "en_pron": "ah-PREH, ohn vah mahn-zhay ehn koos-koos shay kah-REEM.",
+     "bn": "তারপর আমরা কারিমের ওখানে কুসকুস খেতে যাব।",
+     "en": "Afterwards, we're going to eat couscous at Karim's."
+    },
+    {
+     "fr": "C'est halal, ne t'inquiète pas !",
+     "bn_pron": "সে আলাল, নে° ত্যাঁকিয়েৎ পা !",
+     "en_pron": "say ah-LAHL, nuh tehn-kyet PAH !",
+     "bn": "ওটা হালাল, চিন্তা কোরো না!",
+     "en": "It's halal, don't worry!"
+    },
+    {
+     "fr": "Amélie et Thomas viennent aussi.",
+     "bn_pron": "আমেলি এ তোমা ভ়িয়েন ওসি.",
+     "en_pron": "ah-may-LEE ay toh-MAH vyen oh-SEE.",
+     "bn": "আমেলি আর তোমাও আসছে।",
+     "en": "Amélie and Thomas are coming too."
+    },
+    {
+     "fr": "Tu viens ? Réponds-moi vite !",
+     "bn_pron": "তি° ভ়িয়্যাঁ ? র়েপোঁ-মোয়া ভ়িৎ !",
+     "en_pron": "tü VYEHN ? ray-pohn-mwah VEET !",
+     "bn": "তুমি আসবে? তাড়াতাড়ি জানিয়ো!",
+     "en": "Are you coming? Answer me quickly!"
+    },
+    {
+     "fr": "À demain, Julien",
+     "bn_pron": "আ দে°ম্যাঁ, ঝ়ি°লিয়্যাঁ",
+     "en_pron": "ah duh-MEHN, zhü-LYEHN",
+     "bn": "কাল দেখা হবে, জ়ুলিয়্যাঁ",
+     "en": "See you tomorrow, Julien"
+    }
+   ],
+   "questions": [
+    {
+     "q_bn": "জ়ুলিয়্যাঁ কাল কয়টায় ও কোথায় দেখা করতে চান?",
+     "a": "সন্ধ্যা ছয়টায় (18 h), স্টেশনের সামনে (devant la gare)।"
+    },
+    {
+     "q_bn": "দেখা হওয়ার পর তাঁরা কী করবেন?",
+     "a": "কারিমের ওখানে কুসকুস খাবেন; খাবারটি হালাল।"
+    },
+    {
+     "q_bn": "আর কে কে আসছেন?",
+     "a": "আমেলি আর তোমা।"
+    }
+   ]
+  },
+  {
+   "title_bn": "ভবনের বিজ্ঞপ্তি",
+   "type_bn": "নোটিশ",
+   "text": [
+    {
+     "fr": "Avis aux résidents",
+     "bn_pron": "আভ়ি ও র়েজ়িদাঁ",
+     "en_pron": "ah-vee oh ray-zee-DAHN",
+     "bn": "বাসিন্দাদের প্রতি বিজ্ঞপ্তি",
+     "en": "Notice to residents"
+    },
+    {
+     "fr": "Mardi 14 mai, il y aura une coupure d'eau de 9 h à 12 h.",
+     "bn_pron": "মার়দি কাতোর়জ় মে, ইলিয়োর়া ই°ন কুপি°র় দো দে° নে°ভ় এ°র় আ দুজ় এ°র়.",
+     "en_pron": "mar-dee kah-torz MEH, eel-yoh-rah ün koo-pür DOH duh nuh-VUHR ah dooz UHR.",
+     "bn": "১৪ মে মঙ্গলবার সকাল ৯টা থেকে ১২টা পর্যন্ত পানি বন্ধ থাকবে।",
+     "en": "On Tuesday 14 May, the water will be cut off from 9 a.m. to 12 noon."
+    },
+    {
+     "fr": "Des travaux ont lieu dans l'immeuble.",
+     "bn_pron": "দে ত্র়াভ়ো ওঁ লিয়ে° দাঁ লিমে°ব্ল়.",
+     "en_pron": "day trah-VOH ohn LYUH dahn lee-MUHBL.",
+     "bn": "ভবনে মেরামতের কাজ চলছে।",
+     "en": "Repair work is taking place in the building."
+    },
+    {
+     "fr": "Merci de garder de l'eau pour la matinée.",
+     "bn_pron": "মের়সি দে° গার়দে দে° লো পুর় লা মাতিনে.",
+     "en_pron": "mehr-see duh gar-day duh LOH poor lah mah-tee-NAY.",
+     "bn": "সকালের জন্য পানি জমিয়ে রাখার অনুরোধ রইল।",
+     "en": "Please keep some water for the morning."
+    },
+    {
+     "fr": "L'ascenseur ne fonctionnera pas non plus.",
+     "bn_pron": "লাসাঁসে°র় নে° ফ়োঁকসিয়োনে°র়া পা নোঁ প্লি°.",
+     "en_pron": "lah-sahn-SUHR nuh fohnk-syoh-nuh-rah pah nohn PLÜ.",
+     "bn": "লিফটও চলবে না।",
+     "en": "The lift won't work either."
+    },
+    {
+     "fr": "Nous nous excusons pour la gêne occasionnée.",
+     "bn_pron": "নু নু জ়েক্সকি°জ়োঁ পুর় লা ঝ়েন অকাজ়িয়োনে.",
+     "en_pron": "noo noo zeks-kü-ZOHN poor lah zhen oh-kah-zyoh-NAY.",
+     "bn": "এই অসুবিধার জন্য আমরা দুঃখিত।",
+     "en": "We apologise for the inconvenience."
+    },
+    {
+     "fr": "Le syndic de l'immeuble",
+     "bn_pron": "লে° স্যাঁদিক দে° লিমে°ব্ল়",
+     "en_pron": "luh sehn-deek duh lee-MUHBL",
+     "bn": "ভবন ব্যবস্থাপনা কর্তৃপক্ষ",
+     "en": "The building management"
+    }
+   ],
+   "questions": [
+    {
+     "q_bn": "কবে, কয়টা থেকে কয়টা পর্যন্ত পানি বন্ধ থাকবে?",
+     "a": "১৪ মে মঙ্গলবার, সকাল ৯টা থেকে দুপুর ১২টা পর্যন্ত।"
+    },
+    {
+     "q_bn": "পানি কেন বন্ধ থাকবে?",
+     "a": "ভবনে মেরামতের কাজ (des travaux) চলছে বলে।"
+    },
+    {
+     "q_bn": "পানি ছাড়া আর কী বন্ধ থাকবে?",
+     "a": "লিফট (l'ascenseur)।"
+    }
+   ]
+  },
+  {
+   "title_bn": "অধ্যাপককে ইমেইল",
+   "type_bn": "ছোট ইমেইল",
+   "text": [
+    {
+     "fr": "Objet : Demande de rendez-vous",
+     "bn_pron": "অবঝ়ে : দে°মাঁদ দে° র়াঁদে-ভ়ু",
+     "en_pron": "ob-ZHEH : duh-mahnd duh rahn-day-VOO",
+     "bn": "বিষয়: সাক্ষাতের অনুরোধ",
+     "en": "Subject: Appointment request"
+    },
+    {
+     "fr": "Bonjour Madame Leroy,",
+     "bn_pron": "বোঁঝ়ুর় মাদাম লে°র়োয়া,",
+     "en_pron": "bohn-zhoor mah-dahm luh-RWAH,",
+     "bn": "শুভ দিন, মাদাম লেরোয়া,",
+     "en": "Hello Madame Leroy,"
+    },
+    {
+     "fr": "Je m'appelle Nusrat Jahan et je suis étudiante en master d'économie.",
+     "bn_pron": "ঝ়ে° মাপেল নুসরাত জাহান এ ঝ়ে° সুই জ়েতি°দিয়াঁৎ আঁ মাস্তের় দেকোনোমি.",
+     "en_pron": "zhuh mah-pel noos-raht zhah-AHN ay zhuh swee zay-tü-dyahnt ahn mahs-tehr day-koh-noh-MEE.",
+     "bn": "আমার নাম নুসরাত জাহান, আমি অর্থনীতিতে মাস্টার্সের ছাত্রী।",
+     "en": "My name is Nusrat Jahan and I'm a master's student in economics."
+    },
+    {
+     "fr": "Je voudrais vous rencontrer pour parler de mon mémoire.",
+     "bn_pron": "ঝ়ে° ভ়ুদ্র়ে ভ়ু র়াঁকোঁত্র়ে পুর় পার়লে দে° মোঁ মেমোয়ার়.",
+     "en_pron": "zhuh voo-dreh voo rahn-kohn-TRAY poor par-lay duh mohn may-MWAHR.",
+     "bn": "আমার থিসিস নিয়ে কথা বলতে আমি আপনার সাথে দেখা করতে চাই।",
+     "en": "I'd like to meet you to talk about my dissertation."
+    },
+    {
+     "fr": "Êtes-vous disponible jeudi après-midi ?",
+     "bn_pron": "এৎ-ভ়ু দিস্পোনিব্ল় ঝ়ে°দি আপ্র়ে-মিদি ?",
+     "en_pron": "et-voo dees-poh-nee-bluh zhuh-dee ah-preh-mee-DEE ?",
+     "bn": "বৃহস্পতিবার বিকেলে কি আপনার সময় হবে?",
+     "en": "Are you available on Thursday afternoon?"
+    },
+    {
+     "fr": "Je vous remercie par avance.",
+     "bn_pron": "ঝ়ে° ভ়ু র়ে°মের়সি পার় আভ়াঁস.",
+     "en_pron": "zhuh voo ruh-mehr-SEE par ah-VAHNS.",
+     "bn": "আগাম ধন্যবাদ জানাচ্ছি।",
+     "en": "Thank you in advance."
+    },
+    {
+     "fr": "Bien cordialement,",
+     "bn_pron": "বিয়্যাঁ কোর়দিয়ালমাঁ,",
+     "en_pron": "byehn kor-dyahl-MAHN,",
+     "bn": "শুভেচ্ছান্তে,",
+     "en": "Kind regards,"
+    },
+    {
+     "fr": "Nusrat Jahan",
+     "bn_pron": "নুসরাত জাহান",
+     "en_pron": "noos-raht zhah-AHN",
+     "bn": "নুসরাত জাহান",
+     "en": "Nusrat Jahan"
+    }
+   ],
+   "questions": [
+    {
+     "q_bn": "নুসরাত কাকে ইমেইল লিখছেন?",
+     "a": "তাঁর অধ্যাপক মাদাম লেরোয়াকে।"
+    },
+    {
+     "q_bn": "তিনি কেন দেখা করতে চান?",
+     "a": "তাঁর থিসিস (mémoire) নিয়ে কথা বলতে।"
+    },
+    {
+     "q_bn": "তিনি কোন দিন দেখা করার প্রস্তাব দিয়েছেন?",
+     "a": "বৃহস্পতিবার বিকেলে (jeudi après-midi)।"
+    }
+   ]
+  },
+  {
+   "title_bn": "বাজারের তালিকা",
+   "type_bn": "কেনাকাটার তালিকা",
+   "text": [
+    {
+     "fr": "Liste de courses",
+     "bn_pron": "লিস্ত দে° কুর়স",
+     "en_pron": "leest duh KOORS",
+     "bn": "বাজারের তালিকা",
+     "en": "Shopping list"
+    },
+    {
+     "fr": "du pain",
+     "bn_pron": "দি° প্যাঁ",
+     "en_pron": "dü PEHN",
+     "bn": "রুটি",
+     "en": "bread"
+    },
+    {
+     "fr": "six œufs",
+     "bn_pron": "সি জ়ে°",
+     "en_pron": "see ZUH",
+     "bn": "ছয়টা ডিম",
+     "en": "six eggs",
+     "note_bn": "এক বচনে un œuf (অ্যাঁ নে°ফ়), বহুবচনে f নীরব।"
+    },
+    {
+     "fr": "un litre de lait",
+     "bn_pron": "অ্যাঁ লিত্র় দে° লে",
+     "en_pron": "ehn lee-truh duh LEH",
+     "bn": "এক লিটার দুধ",
+     "en": "a litre of milk"
+    },
+    {
+     "fr": "un kilo de riz basmati",
+     "bn_pron": "অ্যাঁ কিলো দে° র়ি বাসমাতি",
+     "en_pron": "ehn kee-loh duh ree bahs-mah-TEE",
+     "bn": "এক কেজি বাসমতি চাল",
+     "en": "a kilo of basmati rice"
+    },
+    {
+     "fr": "des lentilles",
+     "bn_pron": "দে লাঁতিয়",
+     "en_pron": "day lahn-TEEY",
+     "bn": "মসুর ডাল",
+     "en": "lentils"
+    },
+    {
+     "fr": "des oignons et de l'ail",
+     "bn_pron": "দে জ়োন্যোঁ এ দে° লাই",
+     "en_pron": "day zoh-NYOHN ay duh LYE",
+     "bn": "পেঁয়াজ আর রসুন",
+     "en": "onions and garlic"
+    },
+    {
+     "fr": "du poulet halal",
+     "bn_pron": "দি° পুলে আলাল",
+     "en_pron": "dü poo-leh ah-LAHL",
+     "bn": "হালাল মুরগি",
+     "en": "halal chicken"
+    },
+    {
+     "fr": "des bananes",
+     "bn_pron": "দে বানান",
+     "en_pron": "day bah-NAHN",
+     "bn": "কলা",
+     "en": "bananas"
+    },
+    {
+     "fr": "du thé",
+     "bn_pron": "দি° তে",
+     "en_pron": "dü TAY",
+     "bn": "চা",
+     "en": "tea"
+    },
+    {
+     "fr": "Ne pas oublier : la carte du supermarché !",
+     "bn_pron": "নে° পা উব্লিয়ে : লা কার়ৎ দি° সি°পের়মার়শে !",
+     "en_pron": "nuh pah oo-blee-YAY : lah kart dü sü-pehr-mar-SHAY !",
+     "bn": "ভুলবেন না: সুপারমার্কেটের কার্ড!",
+     "en": "Don't forget: the supermarket card!"
+    }
+   ],
+   "questions": [
+    {
+     "q_bn": "তালিকায় কয়টা ডিম আছে?",
+     "a": "ছয়টা (six œufs)।"
+    },
+    {
+     "q_bn": "কোন মাংস কেনা হবে?",
+     "a": "হালাল মুরগি (du poulet halal)।"
+    },
+    {
+     "q_bn": "কোন জিনিসটি ভুলতে নিষেধ করা হয়েছে?",
+     "a": "সুপারমার্কেটের কার্ড (la carte du supermarché)।"
+    }
+   ]
+  },
+  {
+   "title_bn": "র়াফ়ির প্রথম শীত",
+   "type_bn": "এক পাতার ছোটগল্প",
+   "text": [
+    {
+     "fr": "C'est le mois de décembre à Lyon.",
+     "bn_pron": "সে লে° মোয়া দে° দেসাঁব্র় আ লিয়োঁ.",
+     "en_pron": "say luh mwah duh day-SAHNBR ah lee-OHN.",
+     "bn": "লিয়োঁতে এখন ডিসেম্বর মাস।",
+     "en": "It's December in Lyon."
+    },
+    {
+     "fr": "Rafi sort de chez lui à sept heures du matin.",
+     "bn_pron": "র়াফ়ি সোর় দে° শে লুই আ সেৎ এ°র় দি° মাত্যাঁ.",
+     "en_pron": "rah-fee sor duh shay LWEE ah set uhr dü mah-TEHN.",
+     "bn": "সকাল সাতটায় র়াফ়ি বাসা থেকে বের হন।",
+     "en": "Rafi leaves home at seven in the morning."
+    },
+    {
+     "fr": "Dehors, il fait très froid et tout est blanc.",
+     "bn_pron": "দে°ওর়, ইল ফ়ে ত্র়ে ফ়্র়োয়া এ তু তে ব্লাঁ.",
+     "en_pron": "duh-OR, eel feh treh FRWAH ay too tay BLAHN.",
+     "bn": "বাইরে ভীষণ ঠান্ডা, আর সবকিছু সাদা।",
+     "en": "Outside, it's very cold and everything is white."
+    },
+    {
+     "fr": "C'est la première fois qu'il voit la neige.",
+     "bn_pron": "সে লা প্র়ে°মিয়ের় ফ়োয়া কিল ভ়োয়া লা নেঝ়.",
+     "en_pron": "say lah pruh-myehr FWAH keel vwah lah NEZH.",
+     "bn": "জীবনে এই প্রথম তিনি বরফ দেখছেন।",
+     "en": "It's the first time he has seen snow."
+    },
+    {
+     "fr": "Il pense à Dhaka, au soleil et à sa mère.",
+     "bn_pron": "ইল পাঁস আ দাকা, ও সোলেই এ আ সা মের়.",
+     "en_pron": "eel pahns ah dah-KAH, oh soh-LEY ay ah sah MEHR.",
+     "bn": "তাঁর মনে পড়ে ঢাকার কথা, রোদের কথা আর মায়ের কথা।",
+     "en": "He thinks of Dhaka, of the sun and of his mother."
+    },
+    {
+     "fr": "À l'arrêt de bus, une vieille dame glisse sur la glace.",
+     "bn_pron": "আ লার়ে দে° বি°স, ই°ন ভ়িয়েই দাম গ্লিস সি°র় লা গ্লাস.",
+     "en_pron": "ah lah-reh duh BÜS, ün vyey dahm glees sür lah GLAHS.",
+     "bn": "বাস স্টপে এক বৃদ্ধা বরফে পিছলে পড়ে যান।",
+     "en": "At the bus stop, an old lady slips on the ice."
+    },
+    {
+     "fr": "Rafi court vers elle et l'aide à se relever.",
+     "bn_pron": "র়াফ়ি কুর় ভ়ের় এল এ লেদ আ সে° র়ে°লে°ভ়ে.",
+     "en_pron": "rah-fee koor vehr EL ay led ah suh ruh-luh-VAY.",
+     "bn": "র়াফ়ি দৌড়ে গিয়ে তাঁকে উঠে দাঁড়াতে সাহায্য করেন।",
+     "en": "Rafi runs to her and helps her get up."
+    },
+    {
+     "fr": "« Merci, jeune homme. Vous êtes très gentil », dit la dame.",
+     "bn_pron": "« মের়সি, ঝ়ে°ন অম. ভ়ু জ়েৎ ত্র়ে ঝ়াঁতি », দি লা দাম.",
+     "en_pron": "« mehr-SEE, zhuh-NUM. voo zet treh zhahn-TEE », dee lah DAHM.",
+     "bn": "«ধন্যবাদ, বাবা। তুমি খুব ভালো ছেলে», বললেন বৃদ্ধা।",
+     "en": "\"Thank you, young man. You're very kind,\" says the lady."
+    },
+    {
+     "fr": "Elle s'appelle Madame Dupont et elle habite dans sa rue.",
+     "bn_pron": "এল সাপেল মাদাম দি°পোঁ এ এল আবিৎ দাঁ সা র়ি°.",
+     "en_pron": "el sah-pel mah-dahm dü-POHN ay el-ah-beet dahn sah RÜ.",
+     "bn": "তাঁর নাম মাদাম দ্যুপোঁ, তিনি র়াফ়ির রাস্তাতেই থাকেন।",
+     "en": "Her name is Madame Dupont and she lives on his street."
+    },
+    {
+     "fr": "Le dimanche suivant, elle l'invite à prendre un thé chez elle.",
+     "bn_pron": "লে° দিমাঁশ সুইভ়াঁ, এল ল্যাঁভ়িৎ আ প্র়াঁদ্র় অ্যাঁ তে শে জ়েল.",
+     "en_pron": "luh dee-mahnsh swee-VAHN, el lehn-veet ah prahn-druh ehn TAY shay ZEL.",
+     "bn": "পরের রবিবার তিনি র়াফ়িকে নিজের বাসায় চা খেতে ডাকেন।",
+     "en": "The following Sunday, she invites him for tea at her home."
+    },
+    {
+     "fr": "Rafi apporte des gâteaux bangladais.",
+     "bn_pron": "র়াফ়ি আপোর়ৎ দে গাতো বাঁগলাদে.",
+     "en_pron": "rah-fee ah-port day gah-toh bahn-glah-DEH.",
+     "bn": "র়াফ়ি সাথে নিয়ে যান বাংলাদেশি মিষ্টি।",
+     "en": "Rafi brings Bangladeshi sweets."
+    },
+    {
+     "fr": "Ce jour-là, dans le froid de l'hiver, Rafi trouve sa première amie française.",
+     "bn_pron": "সে° ঝ়ুর়-লা, দাঁ লে° ফ়্র়োয়া দে° লিভ়ের়, র়াফ়ি ত্র়ুভ় সা প্র়ে°মিয়ের় আমি ফ়্র়াঁসেজ়.",
+     "en_pron": "suh zhoor-LAH, dahn luh frwah duh lee-VEHR, rah-fee troov sah pruh-myehr ah-mee frahn-SEZ.",
+     "bn": "সেদিন, শীতের ঠান্ডার মধ্যে, র়াফ়ি খুঁজে পেলেন তাঁর প্রথম ফরাসি বন্ধু।",
+     "en": "That day, in the cold of winter, Rafi finds his first French friend."
+    }
+   ],
+   "questions": [
+    {
+     "q_bn": "র়াফ়ি জীবনে প্রথমবার কী দেখলেন?",
+     "a": "বরফ (la neige)।"
+    },
+    {
+     "q_bn": "বাস স্টপে কী ঘটল?",
+     "a": "এক বৃদ্ধা বরফে পিছলে পড়লেন, আর র়াফ়ি দৌড়ে গিয়ে তাঁকে তুললেন।"
+    },
+    {
+     "q_bn": "চায়ের দাওয়াতে র়াফ়ি কী নিয়ে গেলেন?",
+     "a": "বাংলাদেশি মিষ্টি (des gâteaux bangladais)।"
+    }
+   ]
+  },
+  {
+   "title_bn": "লিয়োঁর আলোর উৎসব",
+   "type_bn": "সংবাদ-ধাঁচের অনুচ্ছেদ",
+   "text": [
+    {
+     "fr": "Lyon : la Fête des Lumières commence ce soir",
+     "bn_pron": "লিয়োঁ : লা ফ়েৎ দে লি°মিয়ের় কোমাঁস সে° সোয়ার়",
+     "en_pron": "lee-OHN : lah fet day lü-MYEHR koh-mahns suh SWAHR",
+     "bn": "লিয়োঁ: আজ সন্ধ্যায় শুরু হচ্ছে আলোর উৎসব",
+     "en": "Lyon: the Festival of Lights begins this evening"
+    },
+    {
+     "fr": "Comme chaque année en décembre, la ville de Lyon fête la lumière.",
+     "bn_pron": "কোম শাক আনে আঁ দেসাঁব্র়, লা ভ়িল দে° লিয়োঁ ফ়েৎ লা লি°মিয়ের়.",
+     "en_pron": "kum shahk ah-nay ahn day-SAHNBR, lah veel duh lee-ohn fet lah lü-MYEHR.",
+     "bn": "প্রতি বছরের মতো ডিসেম্বরে লিয়োঁ শহর আলোর উৎসব পালন করছে।",
+     "en": "As every year in December, the city of Lyon celebrates light."
+    },
+    {
+     "fr": "Pendant plusieurs soirs, des spectacles de lumière illuminent les monuments.",
+     "bn_pron": "পাঁদাঁ প্লি°জ়িয়ে°র় সোয়ার়, দে স্পেক্তাক্ল় দে° লি°মিয়ের় ইলি°মিন লে মোনি°মাঁ.",
+     "en_pron": "pahn-dahn plü-zyuhr SWAHR, day spek-tah-kluh duh lü-myehr ee-lü-meen lay moh-nü-MAHN.",
+     "bn": "কয়েক সন্ধ্যা ধরে আলোর প্রদর্শনী শহরের ঐতিহাসিক ভবনগুলোকে আলোকিত করবে।",
+     "en": "For several evenings, light shows illuminate the monuments."
+    },
+    {
+     "fr": "Le 8 décembre, beaucoup d'habitants mettent des bougies à leurs fenêtres.",
+     "bn_pron": "লে° উই দেসাঁব্র়, বোকু দাবিতাঁ মেৎ দে বুঝ়ি আ লে°র় ফ়ে°নেত্র়.",
+     "en_pron": "luh wee day-SAHNBR, boh-koo dah-bee-TAHN met day boo-ZHEE ah luhr fuh-NETR.",
+     "bn": "৮ ডিসেম্বর অনেক বাসিন্দা জানালায় মোমবাতি জ্বালিয়ে রাখেন।",
+     "en": "On 8 December, many residents put candles in their windows."
+    },
+    {
+     "fr": "Cette tradition existe depuis 1852.",
+     "bn_pron": "সেৎ ত্র়াদিসিয়োঁ এগজ়িস্ত দে°পুই মিল উই সাঁ স্যাঁকাঁৎ-দে°.",
+     "en_pron": "set trah-dee-SYOHN eg-zeest duh-pwee meel wee sahn sehn-kahnt-DUH.",
+     "bn": "এই প্রথা চলে আসছে ১৮৫২ সাল থেকে।",
+     "en": "This tradition has existed since 1852."
+    },
+    {
+     "fr": "Des visiteurs viennent de toute la France et du monde entier.",
+     "bn_pron": "দে ভ়িজ়িতে°র় ভ়িয়েন দে° তুৎ লা ফ়্র়াঁস এ দি° মোঁদ আঁতিয়ে.",
+     "en_pron": "day vee-zee-TUHR vyen duh toot lah FRAHNS ay dü mohnd ahn-TYAY.",
+     "bn": "সারা ফ্রান্স ও সারা পৃথিবী থেকে দর্শনার্থীরা আসেন।",
+     "en": "Visitors come from all over France and from all over the world."
+    },
+    {
+     "fr": "La ville conseille de prendre les transports en commun.",
+     "bn_pron": "লা ভ়িল কোঁসেই দে° প্র়াঁদ্র় লে ত্র়াঁস্পোর় আঁ কোম্যাঁ.",
+     "en_pron": "lah veel kohn-SEY duh prahn-druh lay trahns-por ahn koh-MEHN.",
+     "bn": "শহর কর্তৃপক্ষ গণপরিবহন ব্যবহারের পরামর্শ দিচ্ছে।",
+     "en": "The city advises taking public transport."
+    },
+    {
+     "fr": "L'entrée est gratuite pour tout le monde.",
+     "bn_pron": "লাঁত্র়ে এ গ্র়াতুইৎ পুর় তু লে° মোঁদ.",
+     "en_pron": "lahn-TRAY ay grah-TWEET poor too luh MOHND.",
+     "bn": "সবার জন্য প্রবেশ বিনামূল্যে।",
+     "en": "Entry is free for everyone."
+    }
+   ],
+   "questions": [
+    {
+     "q_bn": "উৎসবটি কোন শহরে, কোন মাসে হয়?",
+     "a": "লিয়োঁ শহরে, ডিসেম্বর মাসে।"
+    },
+    {
+     "q_bn": "৮ ডিসেম্বর অনেক বাসিন্দা কী করেন?",
+     "a": "জানালায় মোমবাতি (des bougies) জ্বালিয়ে রাখেন।"
+    },
+    {
+     "q_bn": "শহর কর্তৃপক্ষ দর্শনার্থীদের কী পরামর্শ দিচ্ছে?",
+     "a": "গণপরিবহন (les transports en commun) ব্যবহার করতে।"
+    }
+   ]
+  }
+ ],
+ "literature": [
+  {
+   "fr": "On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.",
+   "bn_pron": "ওঁ নে° ভ়োয়া বিয়্যাঁ কাভ়েক লে° কে°র়. লেসাঁসিয়েল এ ত্যাঁভ়িজ়িব্ল় পুর় লে জ়িয়ে°.",
+   "en_pron": "ohn nuh vwah byehn kah-vek luh KUHR. lay-sahn-SYEL ay tehn-vee-ZEEBL poor lay ZYUH.",
+   "bn": "হৃদয় দিয়েই কেবল ঠিকঠাক দেখা যায়। আসল জিনিস চোখে দেখা যায় না।",
+   "en": "One sees clearly only with the heart. What is essential is invisible to the eye.",
+   "source": "Antoine de Saint-Exupéry, Le Petit Prince (1943)",
+   "note_bn": "ছোট্ট রাজপুত্রকে শেয়ালের বলা গোপন কথা; পৃথিবীর সবচেয়ে বেশি অনূদিত বইগুলোর একটির সবচেয়ে প্রিয় লাইন।",
+   "bangla_pair": {
+    "text_bn": "বাড়ির কাছে আরশিনগর, সেথা এক পড়শি বসত করে। আমি একদিনও না দেখিলাম তারে।",
+    "source_bn": "লালন সাঁই"
+   }
+  },
+  {
+   "fr": "Rien ne sert de courir ; il faut partir à point.",
+   "bn_pron": "র়িয়্যাঁ নে° সের় দে° কুর়ির় ; ইল ফ়ো পার়তির় আ পোয়্যাঁ.",
+   "en_pron": "ryehn nuh sehr duh koo-REER ; eel foh par-teer ah PWEHN.",
+   "bn": "দৌড়ে কোনো লাভ নেই; ঠিক সময়ে রওনা দেওয়াই আসল।",
+   "en": "There's no use running; you have to set off on time.",
+   "source": "Jean de La Fontaine, «Le Lièvre et la Tortue» (Fables)",
+   "note_bn": "খরগোশ আর কচ্ছপের সেই চেনা গল্পের প্রথম লাইন; ফরাসি স্কুলের শিশুরা এটি মুখস্থ করে।",
+   "bangla_pair": {
+    "text_bn": "সবুরে মেওয়া ফলে।",
+    "source_bn": "বাংলা প্রবাদ"
+   }
+  },
+  {
+   "fr": "On a souvent besoin d'un plus petit que soi.",
+   "bn_pron": "ওঁ না সুভ়াঁ বে°জ়োয়্যাঁ দ্যাঁ প্লি° পে°তি কে° সোয়া.",
+   "en_pron": "ohn nah soo-vahn buh-zwehn dehn plü puh-tee kuh SWAH.",
+   "bn": "প্রায়ই আমাদের নিজের চেয়ে ছোট কারও সাহায্য দরকার হয়।",
+   "en": "We often need someone smaller than ourselves.",
+   "source": "Jean de La Fontaine, «Le Lion et le Rat» (Fables)",
+   "note_bn": "জালে আটকে পড়া সিংহকে ছোট্ট ইঁদুর দাঁত দিয়ে জাল কেটে মুক্ত করে; কাউকে ছোট ভাবতে নেই।",
+   "bangla_pair": {
+    "text_bn": "দশে মিলি করি কাজ, হারি জিতি নাহি লাজ।",
+    "source_bn": "বাংলা প্রবাদ"
+   }
+  },
+  {
+   "fr": "Ceux qui vivent, ce sont ceux qui luttent.",
+   "bn_pron": "সে° কি ভ়িভ়, সে° সোঁ সে° কি লি°ৎ.",
+   "en_pron": "suh kee VEEV, suh sohn suh kee LÜT.",
+   "bn": "যারা লড়াই করে, তারাই সত্যিকারের বেঁচে থাকে।",
+   "en": "Those who live are those who struggle.",
+   "source": "Victor Hugo, Les Châtiments (1853)",
+   "note_bn": "নির্বাসনে থাকা অবস্থায় লেখা কবিতার প্রথম লাইন; হাল না ছাড়ার ডাক।",
+   "bangla_pair": {
+    "text_bn": "যদি তোর ডাক শুনে কেউ না আসে তবে একলা চলো রে।",
+    "source_bn": "রবীন্দ্রনাথ ঠাকুর"
+   }
+  },
+  {
+   "fr": "Ceux qui sont morts ne sont jamais partis.",
+   "bn_pron": "সে° কি সোঁ মোর় নে° সোঁ ঝ়ামে পার়তি.",
+   "en_pron": "suh kee sohn MOR nuh sohn zhah-meh par-TEE.",
+   "bn": "যারা মারা গেছেন, তাঁরা কখনো চলে যাননি।",
+   "en": "Those who have died have never left.",
+   "source": "Birago Diop, «Souffles» (Leurres et lueurs, 1960), Sénégal",
+   "note_bn": "সেনেগালের কবি বিরাগো দিওপের বিখ্যাত কবিতা; প্রিয়জনেরা স্মৃতি ও প্রকৃতির মধ্যে বেঁচে থাকেন, এই আফ্রিকান বিশ্বাসের সুর।",
+   "bangla_pair": {
+    "text_bn": "মরিতে চাহি না আমি সুন্দর ভুবনে, মানবের মাঝে আমি বাঁচিবারে চাই।",
+    "source_bn": "রবীন্দ্রনাথ ঠাকুর, «প্রাণ» (কড়ি ও কোমল)"
+   }
+  },
+  {
+   "fr": "Ma bouche sera la bouche des malheurs qui n'ont point de bouche.",
+   "bn_pron": "মা বুশ সে°র়া লা বুশ দে মালে°র় কি নোঁ পোয়্যাঁ দে° বুশ.",
+   "en_pron": "mah boosh suh-rah lah BOOSH day mah-luhr kee nohn pwehn duh BOOSH.",
+   "bn": "আমার মুখ হবে সেই দুঃখীদের মুখ, যাদের কথা বলার মুখ নেই।",
+   "en": "My mouth shall be the mouth of those misfortunes which have no mouth.",
+   "source": "Aimé Césaire, Cahier d'un retour au pays natal (1939), Martinique",
+   "note_bn": "ক্যারিবিয়ান দ্বীপ মার্তিনিকের কবি সেজ়ের়ের দীর্ঘ কবিতার অংশ; নিপীড়িতের কণ্ঠ হওয়ার অঙ্গীকার।",
+   "bangla_pair": {
+    "text_bn": "আমি সেই দিন হব শান্ত, যবে উৎপীড়িতের ক্রন্দন-রোল আকাশে বাতাসে ধ্বনিবে না।",
+    "source_bn": "কাজী নজরুল ইসলাম, «বিদ্রোহী»"
+   }
+  },
+  {
+   "fr": "Mon pays ce n'est pas un pays, c'est l'hiver.",
+   "bn_pron": "মোঁ পেই সে° নে পা জ়্যাঁ পেই, সে লিভ়ের়.",
+   "en_pron": "mohn pay-EE suh nay pah zehn pay-EE, say lee-VEHR.",
+   "bn": "আমার দেশ কোনো দেশ নয়, আমার দেশ শীতকাল।",
+   "en": "My country is not a country, it is winter.",
+   "source": "Gilles Vigneault, «Mon pays» (1964), Québec",
+   "note_bn": "কানাডার কেবেকের কবি-গায়কের গান; জন্মভূমির প্রকৃতিকেই নিজের পরিচয় বলে ভালোবাসা।",
+   "bangla_pair": {
+    "text_bn": "বাংলার মুখ আমি দেখিয়াছি, তাই আমি পৃথিবীর রূপ খুঁজিতে যাই না আর।",
+    "source_bn": "জীবনানন্দ দাশ, রূপসী বাংলা"
+   }
+  },
+  {
+   "fr": "Petit à petit, l'oiseau fait son nid.",
+   "bn_pron": "পে°তি তা পে°তি, লোয়াজ়ো ফ়ে সোঁ নি.",
+   "en_pron": "puh-tee tah puh-TEE, lwah-zoh feh sohn NEE.",
+   "bn": "একটু একটু করেই পাখি বাসা বাঁধে।",
+   "en": "Little by little, the bird builds its nest.",
+   "source": "proverbe",
+   "note_bn": "ভাষা শেখার জন্য সবচেয়ে মানানসই প্রবাদ: প্রতিদিন অল্প অল্প।",
+   "bangla_pair": {
+    "text_bn": "ছোট ছোট বালুকণা, বিন্দু বিন্দু জল, গড়ে তোলে মহাদেশ, সাগর অতল।",
+    "source_bn": "প্রচলিত বাংলা ছড়া"
+   }
+  },
+  {
+   "fr": "Vouloir, c'est pouvoir.",
+   "bn_pron": "ভ়ুলোয়ার়, সে পুভ়োয়ার়.",
+   "en_pron": "voo-LWAHR, say poo-VWAHR.",
+   "bn": "চাওয়াই পারা।",
+   "en": "Where there's a will, there's a way.",
+   "source": "proverbe",
+   "note_bn": "আক্ষরিক অর্থ «চাওয়া মানেই পারা»; দৃঢ় ইচ্ছাই অর্ধেক সাফল্য।",
+   "bangla_pair": {
+    "text_bn": "ইচ্ছা থাকলে উপায় হয়।",
+    "source_bn": "বাংলা প্রবাদ"
+   }
+  },
+  {
+   "fr": "L'habit ne fait pas le moine.",
+   "bn_pron": "লাবি নে° ফ়ে পা লে° মোয়ান.",
+   "en_pron": "lah-BEE nuh feh pah luh MWAHN.",
+   "bn": "পোশাক দেখে মানুষ চেনা যায় না।",
+   "en": "Clothes don't make the man.",
+   "source": "proverbe",
+   "note_bn": "আক্ষরিক অর্থ «আলখাল্লা পরলেই সন্ন্যাসী হয় না»; বাইরের চেহারা দেখে বিচার নয়।",
+   "bangla_pair": {
+    "text_bn": "চকচক করলেই সোনা হয় না।",
+    "source_bn": "বাংলা প্রবাদ"
+   }
+  }
+ ],
+ "writing3": [
+  {
+   "stars": 1,
+   "scene": 2,
+   "title_bn": "আগমন কার্ড",
+   "instruction_bn": "বিমানবন্দরে বা হোটেলে যে ছোট ফর্ম পূরণ করতে হয়, নিচের উদাহরণ দেখে হুবহু একই ধাঁচে নিজের তথ্য দিয়ে লিখুন। পারিবারিক নাম (Nom) বড় হাতের অক্ষরে লেখা ফরাসি রীতি।",
+   "example": "Nom : AHMED\nPrénom : Rafi\nNationalité : bangladaise\nDate de naissance : 12/03/1998\nAdresse en France : 12, rue Victor-Hugo, 69002 Lyon\nMotif du voyage : travail",
+   "lines": 6,
+   "answer": "Nom : JAHAN\nPrénom : Nusrat\nNationalité : bangladaise\nDate de naissance : 05/09/1999\nAdresse en France : Résidence universitaire, 75013 Paris\nMotif du voyage : études"
+  },
+  {
+   "stars": 2,
+   "scene": 18,
+   "title_bn": "বন্ধুকে মোবাইল বার্তা",
+   "instruction_bn": "ফাঁকা ঘর পূরণ করে একজন বন্ধুকে দেখা করার বার্তা লিখুন: «Salut ___ ! On se voit ___ à ___ heures, devant ___ ? À ___ ! ___»",
+   "example": "Salut Thomas ! On se voit vendredi à dix-sept heures, devant la mosquée ? À vendredi ! Rafi",
+   "lines": 3,
+   "answer": "Salut Léa ! On se voit samedi à dix-huit heures, devant la gare ? À samedi ! Nusrat"
+  },
+  {
+   "stars": 2,
+   "scene": 13,
+   "title_bn": "অফিসে বার্তা: অসুস্থতা",
+   "instruction_bn": "অসুস্থ হয়ে অফিসে যেতে পারছেন না, ম্যানেজারকে ছোট বার্তা লিখুন। কাঠামো: Bonjour ___, je suis malade aujourd'hui. J'ai ___. Je ne peux pas venir au travail. ___",
+   "example": "Bonjour Julien, je suis en retard ce matin. Mon métro est bloqué. J'arrive vers dix heures. Désolé ! Rafi",
+   "lines": 4,
+   "answer": "Bonjour Julien, je suis malade aujourd'hui. J'ai de la fièvre et mal à la gorge. Je ne peux pas venir au travail. Je t'envoie l'arrêt de travail du médecin demain. Merci, Rafi"
+  },
+  {
+   "stars": 2,
+   "scene": 4,
+   "title_bn": "বুকিংয়ের জন্য ছোট ইমেইল",
+   "instruction_bn": "একটি হোটেলে রুম বা একটি অফিসে অ্যাপয়েন্টমেন্ট চেয়ে ইমেইল লিখুন। Objet, সম্বোধন, অনুরোধ, একটি প্রশ্ন ও ভদ্র সমাপ্তি থাকবে।",
+   "example": "Objet : Rendez-vous\nBonjour,\nJe voudrais prendre rendez-vous avec le docteur Roux, mardi matin si possible.\nMerci d'avance.\nCordialement,\nRafi Ahmed",
+   "lines": 6,
+   "answer": "Objet : Réservation d'une chambre\nBonjour,\nJe voudrais réserver une chambre simple du 3 au 6 mai.\nEst-ce que le petit-déjeuner est compris ?\nMerci d'avance.\nCordialement,\nNusrat Jahan"
+  },
+  {
+   "stars": 2,
+   "scene": 12,
+   "title_bn": "প্রতিবেশী বা বাড়িওয়ালাকে চিরকুট",
+   "instruction_bn": "বাসার একটি সমস্যা জানিয়ে বাড়িওয়ালাকে বা কোনো অনুরোধ জানিয়ে প্রতিবেশীকে ছোট চিরকুট লিখুন: সম্বোধন, সমস্যা, অনুরোধ, ধন্যবাদ, নাম।",
+   "example": "Bonjour Madame Claire, je reçois des amis samedi soir. Excusez-moi s'il y a un peu de bruit. Merci ! Rafi (2e étage)",
+   "lines": 4,
+   "answer": "Bonjour Madame Girard, le chauffage de ma chambre ne marche pas. Pouvez-vous appeler un technicien, s'il vous plaît ? Merci beaucoup. Nusrat (chambre 2)"
+  },
+  {
+   "stars": 3,
+   "scene": 18,
+   "title_bn": "ঈদের শুভেচ্ছা কার্ড বা রমজান নিয়ে প্রতিবেশীকে চিরকুট",
+   "instruction_bn": "দুটির একটি লিখুন: (ক) প্রতিবেশী বা সহকর্মীকে ঈদের শুভেচ্ছা কার্ড, অথবা (খ) প্রতিবেশীকে রমজান সম্পর্কে ছোট বন্ধুত্বপূর্ণ চিরকুট। উষ্ণ ও সহজ রাখুন, শেষে একটি দাওয়াত দিন।",
+   "example": "Chère Claire,\nAïd moubarak ! Aujourd'hui, c'est l'Aïd el-Fitr, la fête de la fin du ramadan.\nJe vous offre ces gâteaux bangladais.\nBonne journée !\nRafi",
+   "lines": 6,
+   "answer": "Chers voisins,\nLe ramadan commence demain. Pendant un mois, je jeûne de l'aube au coucher du soleil.\nLe soir, nous mangeons un peu tard, mais nous allons faire attention au bruit.\nSi vous voulez, venez partager un iftar avec nous samedi !\nMerci et bonne soirée,\nNusrat (2e étage)",
+   "check_bn": [
+    "সম্বোধন আছে কি (Chère / Chers…)?",
+    "রমজান বা ঈদ কী, তা এক বাক্যে বলেছেন কি?",
+    "বাক্যগুলো ছোট ও উষ্ণ কি?",
+    "একটি দাওয়াত বা শুভেচ্ছা দিয়েছেন কি?",
+    "নাম ও তলা/বাসার নম্বর দিয়েছেন কি?"
+   ]
+  },
+  {
+   "stars": 3,
+   "scene": 14,
+   "title_bn": "৬০ শব্দে নিজের পরিচয় (চাকরির সাক্ষাৎকার)",
+   "instruction_bn": "সাক্ষাৎকারের জন্য প্রায় ৬০ শব্দে নিজের পরিচয় লিখুন: নাম, বয়স, কোথা থেকে, পড়াশোনা, অভিজ্ঞতা, গুণ, ভাষা, কবে থেকে কাজ শুরু করতে পারবেন।",
+   "example": "Bonjour, je m'appelle Rafi Ahmed. J'ai trente ans et je viens de Chittagong, au Bangladesh. Je suis ingénieur informatique. J'ai travaillé cinq ans à Dhaka. Je suis calme et sérieux. Je parle bengali, anglais et un peu de français.",
+   "lines": 8,
+   "answer": "Bonjour, je m'appelle Nusrat Jahan. J'ai vingt-huit ans et je viens de Dhaka, au Bangladesh. J'ai un master en comptabilité de l'université de Dhaka. J'ai travaillé trois ans dans une banque. Je suis sérieuse, organisée et j'aime travailler en équipe. Je parle bengali, anglais et un peu de français. Je suis disponible à partir du premier mars. Merci !",
+   "check_bn": [
+    "শুরুতে Bonjour আর নাম আছে কি?",
+    "বয়স ও দেশ বলেছেন কি?",
+    "পড়াশোনা ও কাজের অভিজ্ঞতা আছে কি?",
+    "অন্তত দুটি গুণ (নারী হলে স্ত্রীলিঙ্গ রূপে) লিখেছেন কি?",
+    "কোন কোন ভাষা জানেন বলেছেন কি?",
+    "শব্দসংখ্যা ৫৫ থেকে ৭০-এর মধ্যে কি?"
+   ]
+  },
+  {
+   "stars": 3,
+   "scene": 1,
+   "title_bn": "নতুন দেশে প্রথম দিনের ডায়েরি",
+   "instruction_bn": "নতুন দেশে আপনার প্রথম দিনের কথা ৬ থেকে ৮ বাক্যে ডায়েরিতে লিখুন: তারিখ, আবহাওয়া, থাকার জায়গা, কার সাথে দেখা হলো, কী করলেন, কেমন লাগছে।",
+   "example": "Mardi 10 octobre\nAujourd'hui, je suis à Paris. Il pleut. Ma chambre est petite. Je suis fatiguée mais contente !",
+   "lines": 8,
+   "answer": "Lundi 2 septembre\nAujourd'hui, je suis arrivé à Lyon. Il fait beau mais un peu froid.\nMa chambre est petite mais jolie. Ma voisine s'appelle Claire ; elle est très gentille.\nJ'ai acheté une carte SIM et j'ai appelé ma mère.\nJe suis fatigué, mais je suis content. Demain, je commence mon nouveau travail !",
+   "check_bn": [
+    "তারিখ লিখেছেন কি (দিনের নাম ও মাস ছোট হাতের অক্ষরে)?",
+    "আবহাওয়ার একটি বাক্য আছে কি (Il fait…)?",
+    "কারও সাথে দেখা হওয়ার কথা আছে কি?",
+    "নিজের অনুভূতি বলেছেন কি (content / fatigué…)?",
+    "নারী হলে বিশেষণে -e যোগ করেছেন কি (arrivée, contente)?"
+   ]
+  }
+ ],
+ "selftest": [
+  {
+   "q_bn": "ফরাসি u (যেমন tu) উচ্চারণ করতে ঠোঁট ও জিভ কী করে?",
+   "a": "জিভ «ই»-এর জায়গায় রেখে ঠোঁট «উ»-এর মতো গোল করুন; বইয়ের চিহ্ন ই° (tu = তি°)।"
+  },
+  {
+   "q_bn": "ফরাসিতে oi কীভাবে উচ্চারিত হয়?",
+   "a": "«ওয়া», যেমন moi = মোয়া, trois = ত্র়োয়া।"
+  },
+  {
+   "q_bn": "ch আর gn এর উচ্চারণ কী?",
+   "a": "ch = শ (chat = শা); gn = ন্য (montagne = মোঁতান্য)।"
+  },
+  {
+   "q_bn": "ফরাসিতে h উচ্চারিত হয় কি?",
+   "a": "না, h সবসময় নীরব: hôtel = ওতেল, halal = আলাল।"
+  },
+  {
+   "q_bn": "les amis কীভাবে বলবেন, আর এই নিয়মের নাম কী?",
+   "a": "লে জ়ামি; নীরব s পরের স্বরবর্ণের সাথে জ়-ধ্বনিতে জুড়ে যায়, এর নাম liaison।"
+  },
+  {
+   "q_bn": "bon, pain, enfant শব্দের স্বর কোন ধরনের?",
+   "a": "নাসিক্য স্বর: বোঁ, প্যাঁ, আঁফ়াঁ; বাংলার চন্দ্রবিন্দুর মতো।"
+  },
+  {
+   "q_bn": "শব্দের শেষে থাকা s, t, d, x সাধারণত উচ্চারিত হয়?",
+   "a": "না, সাধারণত নীরব থাকে (petit = পে°তি, deux = দে°)।"
+  },
+  {
+   "q_bn": "ফরাসি r বোঝাতে বইয়ে কোন চিহ্ন ব্যবহার করা হয়েছে?",
+   "a": "র় — গলার পেছন থেকে আসা ঘর্ষণের মতো র।"
+  },
+  {
+   "q_bn": "ফরাসি বাক্যে জোর সাধারণত কোথায় পড়ে?",
+   "a": "প্রতিটি বাক্যাংশের শেষ সিলেবলে।"
+  },
+  {
+   "q_bn": "é উচ্চারণ কী? একটি উদাহরণ দিন।",
+   "a": "«এ», যেমন café = কাফ়ে, été = এতে।"
+  },
+  {
+   "q_bn": "ç (সেদিল) কেন ব্যবহার হয়?",
+   "a": "a, o, u-এর আগে c-কে «স» উচ্চারণ করাতে: ça = সা, garçon = গার়সোঁ।"
+  },
+  {
+   "q_bn": "je m'appelle-এ ঊর্ধ্বকমা (') কেন?",
+   "a": "elision: me-র শেষ e বাদ পড়ে পরের স্বরবর্ণের সাথে জুড়েছে (me + appelle = m'appelle)।"
+  },
+  {
+   "q_bn": "ফরাসি বর্ণমালায় কয়টি অক্ষর?",
+   "a": "২৬টি, ইংরেজির মতোই; সাথে é, è, ê, à, ç ইত্যাদি চিহ্ন।"
+  },
+  {
+   "q_bn": "ফরাসি লেখায় ? ! : চিহ্নের আগে কী থাকে?",
+   "a": "একটি ফাঁকা স্থান: Ça va ?"
+  },
+  {
+   "q_bn": "৭০ ফরাসিতে কী?",
+   "a": "soixante-dix (৬০ + ১০)।"
+  },
+  {
+   "q_bn": "৮০ ফরাসিতে কী?",
+   "a": "quatre-vingts (৪ × ২০)।"
+  },
+  {
+   "q_bn": "৯৯ ফরাসিতে কী?",
+   "a": "quatre-vingt-dix-neuf।"
+  },
+  {
+   "q_bn": "২১ ফরাসিতে কী?",
+   "a": "vingt et un।"
+  },
+  {
+   "q_bn": "১০০০ ফরাসিতে কী?",
+   "a": "mille।"
+  },
+  {
+   "q_bn": "বেলজিয়াম ও সুইজারল্যান্ডে ৭০-কে কী বলা হয়?",
+   "a": "septante।"
+  },
+  {
+   "q_bn": "ফোন নম্বর 06 12 34 56 78 কীভাবে পড়বেন?",
+   "a": "জোড়ায় জোড়ায়: zéro six, douze, trente-quatre, cinquante-six, soixante-dix-huit।"
+  },
+  {
+   "q_bn": "«Ça fait treize euros cinquante» শুনলে কত দিতে হবে?",
+   "a": "১৩.৫০ ইউরো।"
+  },
+  {
+   "q_bn": "«Quelle heure est-il ?» মানে কী?",
+   "a": "কয়টা বাজে?"
+  },
+  {
+   "q_bn": "«Il est quatorze heures» বাংলায় কয়টা?",
+   "a": "দুপুর দুইটা।"
+  },
+  {
+   "q_bn": "সোমবার ও শুক্রবার ফরাসিতে কী?",
+   "a": "lundi ও vendredi।"
+  },
+  {
+   "q_bn": "«le premier mars» মানে কী?",
+   "a": "পয়লা মার্চ (১ মার্চ)।"
+  },
+  {
+   "q_bn": "ফরাসিতে দিন ও মাসের নাম বড় হাতের অক্ষরে শুরু হয় কি?",
+   "a": "না, ছোট হাতের অক্ষরে: lundi, mars।"
+  },
+  {
+   "q_bn": "«À demain !» মানে কী?",
+   "a": "কাল দেখা হবে!"
+  },
+  {
+   "q_bn": "দোকানে «Je veux» না বলে «Je voudrais» বলা ভালো কেন?",
+   "a": "Je voudrais বেশি ভদ্র («আমি চাইতাম / আমাকে … দিন»)।"
+  },
+  {
+   "q_bn": "tu আর vous কখন ব্যবহার করবেন?",
+   "a": "tu: পরিবার, বন্ধু, সমবয়সী, শিশু; vous: অপরিচিত, বয়োজ্যেষ্ঠ, অফিস-আদালত, আর একাধিক মানুষ।"
+  },
+  {
+   "q_bn": "একজন ছাত্রী নিজের সম্পর্কে কী বলবেন?",
+   "a": "Je suis étudiante।"
+  },
+  {
+   "q_bn": "le pain ও la maison-এ le ও la কী নির্দেশ করে?",
+   "a": "বিশেষ্যের লিঙ্গ: le পুংলিঙ্গ, la স্ত্রীলিঙ্গ (নির্দিষ্ট আর্টিকেল)।"
+  },
+  {
+   "q_bn": "«Je mange» বাক্যটি না-বোধক করুন।",
+   "a": "Je ne mange pas।"
+  },
+  {
+   "q_bn": "প্রশ্ন বানানোর সবচেয়ে সহজ দুটি উপায় কী?",
+   "a": "বাক্যের শেষে কণ্ঠস্বর উঁচু করা (Tu viens ?), অথবা শুরুতে Est-ce que যোগ করা।"
+  },
+  {
+   "q_bn": "«J'ai mal à la tête» বাক্যে কোন ক্রিয়া, আর মানে কী?",
+   "a": "avoir; মানে «আমার মাথাব্যথা»।"
+  },
+  {
+   "q_bn": "«Je viens du Bangladesh»-এ du কেন?",
+   "a": "de + le = du, কারণ দেশের নাম le Bangladesh (পুংলিঙ্গ)।"
+  },
+  {
+   "q_bn": "«Tu vas me manquer» মানে কী?",
+   "a": "তোমাকে আমি মিস করব।"
+  },
+  {
+   "q_bn": "«Il y a…» মানে কী?",
+   "a": "… আছে (there is / there are)।"
+  },
+  {
+   "q_bn": "দোকান বা অফিসে ঢুকে প্রথমে কী বলবেন?",
+   "a": "Bonjour, madame / Bonjour, monsieur।"
+  },
+  {
+   "q_bn": "«S'il vous plaît»-এর tu-রূপ কী?",
+   "a": "S'il te plaît।"
+  },
+  {
+   "q_bn": "কেউ Merci বললে ভদ্র উত্তর কী?",
+   "a": "Je vous en prie, অথবা De rien।"
+  },
+  {
+   "q_bn": "কথা বুঝতে না পারলে কী বলবেন?",
+   "a": "Pardon, vous pouvez répéter ? অথবা Plus lentement, s'il vous plaît।"
+  },
+  {
+   "q_bn": "সন্ধ্যায় দেখা হলে কী বলে শুভেচ্ছা জানাবেন?",
+   "a": "Bonsoir।"
+  },
+  {
+   "q_bn": "বিদায়ের সময় কী বলবেন?",
+   "a": "Au revoir ! / Bonne journée ! / À bientôt !"
+  },
+  {
+   "q_bn": "l'eau মানে কী?",
+   "a": "পানি।"
+  },
+  {
+   "q_bn": "la gare মানে কী?",
+   "a": "রেলস্টেশন।"
+  },
+  {
+   "q_bn": "une ordonnance মানে কী?",
+   "a": "ডাক্তারের প্রেসক্রিপশন।"
+  },
+  {
+   "q_bn": "le loyer মানে কী?",
+   "a": "বাসাভাড়া।"
+  },
+  {
+   "q_bn": "প্রথম পরিচয়ে «Enchanté» বলার অর্থ কী, আর নারী লিখলে বানান কী হবে?",
+   "a": "পরিচিত হয়ে খুশি হলাম; নারী লিখবেন Enchantée (উচ্চারণ একই)।"
+  },
+  {
+   "q_bn": "রেস্তোরাঁয় বিল চাইতে কী বলবেন?",
+   "a": "L'addition, s'il vous plaît।"
+  },
+  {
+   "q_bn": "মসজিদকে ফরাসিতে কী বলে?",
+   "a": "la mosquée।"
+  },
+  {
+   "q_bn": "à gauche আর à droite মানে কী?",
+   "a": "বাঁয়ে আর ডানে।"
+  },
+  {
+   "q_bn": "ফরাসি থেকে বাংলায় এসেছে এমন তিনটি শব্দ বলুন।",
+   "a": "যেমন রেস্তোরাঁ (restaurant), ক্যাফে (café), মেনু (menu), বুফে (buffet), শেফ (chef)।"
+  },
+  {
+   "q_bn": "ইমিগ্রেশনে «Quel est le motif de votre séjour ?» প্রশ্নের অর্থ ও একটি উত্তর দিন।",
+   "a": "আপনার থাকার উদ্দেশ্য কী? উত্তর: Je viens pour mes études / Je viens pour travailler।"
+  },
+  {
+   "q_bn": "রেস্তোরাঁয় খাবার হালাল কি না কীভাবে জিজ্ঞেস করবেন?",
+   "a": "Est-ce que c'est halal ?"
+  },
+  {
+   "q_bn": "ফ্রান্সে জরুরি চিকিৎসার নম্বর কত, আর পুরো ইউরোপে কোন নম্বর চলে?",
+   "a": "১৫ (SAMU); পুরো ইউরোপে ১১২।"
+  },
+  {
+   "q_bn": "ফ্রান্সে ব্যাংক অ্যাকাউন্টের তথ্যপত্রটির নাম কী?",
+   "a": "RIB (relevé d'identité bancaire)।"
+  },
+  {
+   "q_bn": "একজন ফরাসি বন্ধুকে «As-salâm alaykoum»-এর অর্থ কীভাবে বোঝাবেন?",
+   "a": "Ça veut dire « que la paix soit sur vous »।"
+  },
+  {
+   "q_bn": "সহকর্মী খেতে ডাকলে কীভাবে বলবেন যে আপনি রোজা রেখেছেন?",
+   "a": "Merci, mais je jeûne. C'est le ramadan।"
+  },
+  {
+   "q_bn": "নতুন সহকর্মী «On se tutoie ?» বললে তার মানে কী?",
+   "a": "আমরা কি একে অপরকে tu (তুমি) বলে সম্বোধন করব?"
+  }
+ ],
+ "can_do": [
+  "আমি ফরাসিতে শুভেচ্ছা জানাতে ও বিদায় নিতে পারি।",
+  "আমি নিজের নাম, দেশ ও পেশা বলে পরিচয় দিতে পারি।",
+  "আমি কাউকে তাঁর নাম, দেশ ও পেশা জিজ্ঞেস করতে পারি।",
+  "আমি tu আর vous-এর মধ্যে ঠিকটি বেছে নিতে পারি।",
+  "আমি ফরাসি বর্ণমালায় নিজের নামের বানান বলতে পারি।",
+  "আমি ০ থেকে ১০০ পর্যন্ত সংখ্যা বলতে ও শুনে বুঝতে পারি।",
+  "আমি দাম জিজ্ঞেস করে উত্তর বুঝতে পারি।",
+  "আমি সময়, দিন ও তারিখ জিজ্ঞেস করতে ও বলতে পারি।",
+  "আমি ইমিগ্রেশনের সহজ প্রশ্নের উত্তর দিতে পারি।",
+  "আমি ট্যাক্সি বা হোটেলে আমার প্রয়োজন বলতে পারি।",
+  "আমি পথ জিজ্ঞেস করে সহজ নির্দেশনা বুঝতে পারি।",
+  "আমি রেস্তোরাঁয় খাবার অর্ডার দিতে ও হালাল কি না জিজ্ঞেস করতে পারি।",
+  "আমি বাজারে জিনিস চাইতে ও ভদ্রভাবে দরদাম করতে পারি।",
+  "আমি ব্যাংক অ্যাকাউন্ট খোলা ও মোবাইল সিম কেনার কাজ সারতে পারি।",
+  "আমি ডাক্তারকে আমার উপসর্গ বলতে ও ওষুধ খাওয়ার নিয়ম বুঝতে পারি।",
+  "আমি ঘর ভাড়া নিয়ে ভাড়া, জামানত ও সুবিধার কথা জিজ্ঞেস করতে পারি।",
+  "আমি নতুন কর্মস্থলে নিজের পরিচয় দিয়ে সহজ প্রশ্ন করতে পারি।",
+  "আমি চাকরির সাক্ষাৎকারে নিজের পড়াশোনা ও অভিজ্ঞতা সংক্ষেপে বলতে পারি।",
+  "আমি ফোনে অ্যাপয়েন্টমেন্ট নিতে ও ধীরে বলার অনুরোধ করতে পারি।",
+  "আমি জরুরি অবস্থায় সাহায্য চাইতে ও প্রয়োজনীয় নম্বরে ফোন করতে পারি।",
+  "আমি একজন বন্ধুকে সালামের অর্থ সহজ ফরাসিতে বোঝাতে পারি।",
+  "আমি সহকর্মীকে রোজার কথা বলতে ও ইফতারে দাওয়াত দিতে পারি।",
+  "আমি ছোট বার্তা, নোটিশ ও সহজ ইমেইল পড়ে মূল কথা বুঝতে পারি।",
+  "আমি ফরাসিতে একটি ছোট বার্তা, চিরকুট ও শুভেচ্ছা কার্ড লিখতে পারি।",
+  "আমি ফরাসি উচ্চারণের মূল নিয়ম জানি এবং নতুন শব্দ মোটামুটি ঠিকভাবে পড়তে পারি।"
+ ],
+ "road": {
+  "intro_bn": "অভিনন্দন! এই বইয়ের শেষে আপনি ইউরোপীয় ভাষা-মানদণ্ডের (CEFR) A1 স্তরের দোরগোড়ায় পৌঁছে গেছেন: নিজের পরিচয় দিতে পারেন, দৈনন্দিন কাজ সারতে পারেন, সহজ লেখা পড়তে ও লিখতে পারেন। এখন সবচেয়ে জরুরি হলো ছন্দ না ভাঙা। প্রতিদিন আধা ঘণ্টা, সপ্তাহে ছয় দিন, এই হিসাবে নিচের ৯০ দিনের পরিকল্পনা মেনে চললে তিন মাস পরে আপনি A2 স্তরের দিকে আত্মবিশ্বাসের সাথে এগোতে পারবেন।",
+  "plan_90_bn": [
+   "সপ্তাহ ১: এই বইয়ের ২০টি সংলাপ আবার শুনুন ও জোরে পড়ুন; প্রতিদিন দুটি সংলাপ সঙ্গীর সাথে বা আয়নার সামনে অভিনয় করুন।",
+   "সপ্তাহ ২: ফরাসি ক্রিয়ার বর্তমান কাল (présent) ভালো করে ঝালাই করুন: être, avoir, aller, faire, venir, prendre, pouvoir, vouloir।",
+   "সপ্তাহ ৩: প্রতিদিন RFI-এর «Journal en français facile» থেকে ৫ মিনিট শুনুন; অচেনা ১০টি শব্দ খাতায় Triple Row ধাঁচে লিখুন।",
+   "সপ্তাহ ৪: অতীত কাল passé composé শিখুন (j'ai mangé, je suis allé); প্রতিদিন ডায়েরিতে ৩টি বাক্য লিখুন।",
+   "সপ্তাহ ৫: TV5Monde Apprendre-এর A1–A2 স্তরের ভিডিও অনুশীলন করুন; সপ্তাহে অন্তত ৫টি।",
+   "সপ্তাহ ৬: ভাষা-বিনিময়ের একজন সঙ্গী খুঁজুন এবং সপ্তাহে দুবার ১৫ মিনিট ফরাসিতে কথা বলুন।",
+   "সপ্তাহ ৭: ভবিষ্যৎ বোঝাতে aller + ক্রিয়ামূল (je vais partir) এবং সর্বনাম le, la, lui ইত্যাদি অনুশীলন করুন।",
+   "সপ্তাহ ৮: «Le Petit Prince» পড়া শুরু করুন; প্রতিদিন এক পৃষ্ঠা, আগে জোরে পড়ুন, তারপর অভিধান দেখুন।",
+   "সপ্তাহ ৯: অতীতের বর্ণনার কাল imparfait শিখুন; নিজের ছোটবেলা নিয়ে ৮–১০ বাক্য লিখুন।",
+   "সপ্তাহ ১০: উচ্চারণের সপ্তাহ: নাসিক্য স্বর, ই° ও এ°, আর র় নিয়ে নিজের কণ্ঠ রেকর্ড করে মূল অডিওর সাথে মিলিয়ে দেখুন।",
+   "সপ্তাহ ১১: DELF A1 বা A2-এর একটি পূর্ণ নমুনা পরীক্ষা সময় ধরে দিন; দুর্বল অংশটি চিহ্নিত করুন।",
+   "সপ্তাহ ১২: দুর্বল অংশের পুনরাবৃত্তি করুন, পরের তিন মাসের লক্ষ্য ঠিক করুন, এবং প্রয়োজনে একটি কোর্স বা পরীক্ষার নিবন্ধন করুন।"
+  ],
+  "tracks": [
+   {
+    "title_bn": "ব্যাকরণ",
+    "text_bn": "A2 স্তরে মূল কাজ তিনটি কাল আয়ত্ত করা: passé composé (কী ঘটেছিল), imparfait (কেমন ছিল) আর futur proche ও futur simple (কী ঘটবে)। সাথে সর্বনাম (le, la, lui, y, en), তুলনা (plus… que) আর কারণ ও ফল বোঝানোর সংযোজক (parce que, donc)। একসাথে সব নয়, প্রতি সপ্তাহে একটি বিষয় ধরুন, আর প্রতিটি নিয়ম নিজের জীবনের তিনটি বাক্যে প্রয়োগ করুন।"
+   },
+   {
+    "title_bn": "শব্দভান্ডার ও শব্দার্থ",
+    "text_bn": "এই বইয়ের ২,০০০ শব্দের পর পরের লক্ষ্য প্রায় ৩,০০০–৩,৫০০ শব্দ। শব্দ একা নয়, বাক্যাংশ ধরে শিখুন (prendre rendez-vous, faire les courses)। একই পরিবারের শব্দ একসাথে শিখুন (travail, travailler, travailleur), আর «ভুয়া বন্ধু» শব্দ থেকে সাবধান থাকুন, যেমন librairie মানে বইয়ের দোকান, লাইব্রেরি নয় (লাইব্রেরি = bibliothèque)। ফ্ল্যাশকার্ড অ্যাপে প্রতিদিন ১০ মিনিট পুনরাবৃত্তি করুন।"
+   },
+   {
+    "title_bn": "শোনা ও বলা",
+    "text_bn": "প্রতিদিন কিছু না কিছু ফরাসি শুনুন: ধীর গতির খবর, পডকাস্ট, ইউটিউব। প্রথমে অর্থ না বুঝেও শুনুন, তারপর লিখিত পাঠের সাথে মিলিয়ে শুনুন। বলার জন্য «shadowing» পদ্ধতি কাজে দেয়: অডিওর এক সেকেন্ড পেছনে থেকে হুবহু নকল করে বলা। সপ্তাহে অন্তত দুবার একজন মানুষের সাথে সরাসরি কথা বলুন; ভুল হবেই, সেটাই শেখার পথ।"
+   },
+   {
+    "title_bn": "উচ্চারণ",
+    "text_bn": "বাংলাভাষীদের সুবিধা হলো নাসিক্য স্বর আগে থেকেই চেনা। কঠিন জায়গা তিনটি: ই° (u), এ° (eu) আর গলার র়। নিজের কণ্ঠ রেকর্ড করে মূল উচ্চারণের সাথে মেলান, আর কাছাকাছি শব্দজোড়া অনুশীলন করুন (tu/tout, deux/doux)। liaison ও বাক্যের শেষ সিলেবলে জোর দেওয়ার ছন্দ ঠিক থাকলে আপনার ফরাসি অনেক বেশি স্বাভাবিক শোনাবে।"
+   },
+   {
+    "title_bn": "সাহিত্য",
+    "text_bn": "সহজ থেকে শুরু করুন: «Le Petit Prince», তারপর La Fontaine-এর উপকথা, আর ভাষাশিক্ষার্থীদের জন্য সহজ করে লেখা «lectures faciles» বা graded readers সিরিজ। ফরাসিভাষী আফ্রিকা, কেবেক ও ক্যারিবিয়ানের লেখকদেরও পড়ুন, ফরাসি সাহিত্য শুধু ফ্রান্সের নয়। যে লাইন ভালো লাগে, তা খাতায় লিখে পাশে একটি বাংলা লাইন বসান, ঠিক এই বইয়ের সাহিত্য অধ্যায়ের মতো।"
+   }
+  ],
+  "exam_bn": "ফরাসি ভাষার সবচেয়ে পরিচিত আন্তর্জাতিক সনদ DELF (Diplôme d'études en langue française), যা ফ্রান্সের শিক্ষা মন্ত্রণালয়ের পক্ষে France Éducation international দেয় এবং সারা জীবন বৈধ থাকে। DELF A1 সবচেয়ে প্রাথমিক স্তর, তারপর A2; প্রতিটিতে চারটি অংশ: শুনে বোঝা, পড়ে বোঝা, লেখা ও মৌখিক পরীক্ষা, প্রতিটি ২৫ নম্বরের, মোট ১০০। পাস করতে মোট অন্তত ৫০ নম্বর এবং প্রতিটি অংশে অন্তত ৫ নম্বর লাগে। এই বই শেষ করলে আপনি মোটামুটি A1 স্তরে আছেন; ৯০ দিনের পরিকল্পনা মেনে চললে A2-এর প্রস্তুতি নিতে পারবেন। বাংলাদেশে আলিয়ঁস ফ্রঁসেজের মাধ্যমে DELF পরীক্ষা দেওয়া যায়; তারিখ ও ফি তাদের কাছ থেকে জেনে নিন।",
+  "resources_bn": [
+   "আলিয়ঁস ফ্রঁসেজ দ্য ঢাকা (Alliance Française de Dhaka, ধানমন্ডি): ফরাসি কোর্স, DELF পরীক্ষা, লাইব্রেরি, চলচ্চিত্র ও সাংস্কৃতিক অনুষ্ঠান; চট্টগ্রামেও আলিয়ঁস ফ্রঁসেজ আছে।",
+   "TV5Monde Apprendre: স্তর অনুযায়ী (A1 থেকে) সাজানো বিনা খরচের ভিডিও অনুশীলন, প্রশ্নোত্তরসহ।",
+   "RFI «Journal en français facile»: প্রতিদিন প্রায় ১০ মিনিটের সহজ ফরাসিতে খবর, সাথে লিখিত পাঠ; শোনার সেরা দৈনিক অভ্যাস।",
+   "France Culture-এর পডকাস্ট: ইতিহাস, বিজ্ঞান ও সাহিত্যের অনুষ্ঠান; A2-এর পরে কান তৈরির জন্য, প্রথমে ছোট পর্ব দিয়ে শুরু করুন।",
+   "«Le Petit Prince» (Antoine de Saint-Exupéry): প্রথম পূর্ণাঙ্গ বই হিসেবে আদর্শ, ছোট অধ্যায়, সহজ বাক্য; বাংলা অনুবাদ পাশে রেখে পড়ুন।",
+   "একটি ভালো দ্বিভাষিক অভিধান: ফরাসি–ইংরেজি Larousse বা Le Robert, অনলাইনে WordReference; উচ্চারণ শুনতে Forvo।",
+   "ভাষা-বিনিময় (Tandem, HelloTalk-এর মতো অ্যাপ, বা আলিয়ঁস ফ্রঁসেজের আড্ডা): আপনি বাংলা বা ইংরেজি শেখান, বিনিময়ে ফরাসি অনুশীলন করুন।",
+   "এই বইয়ের অডিও (QR কোড): প্রতিটি সংলাপ ও শব্দ বারবার শুনুন; উচ্চারণের শেষ কথা অডিওই বলবে।"
+  ]
+ }
+}

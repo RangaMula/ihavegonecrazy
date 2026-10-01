@@ -3,8 +3,9 @@
 by estimated height, so the content decides the page count."""
 import math
 from engine import page, E, bn, box, h2, tr_line, tr_table
+import measure
 
-PAGE_H = 8.15   # usable inches below the running head
+PAGE_H = 8.3    # usable inches between top and bottom padding
 
 def est_text(text, cpl=78, lh=0.205):
     return max(1, math.ceil(len(text or "") / cpl)) * lh
@@ -21,6 +22,7 @@ class Flow:
     def __init__(self, head, anchor=None):
         self.head, self.anchor, self.blocks, self.h = head, anchor, [], 0.0
     def add(self, html, height, keep=False):
+        height = measure.height(html, height)
         if self.blocks and self.h + height > PAGE_H:
             self.flush()
         self.blocks.append(html); self.h += height

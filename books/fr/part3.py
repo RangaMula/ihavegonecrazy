@@ -87,8 +87,10 @@ def build():
     f.paras(c.get("intro_bn", []))
     if c.get("word_order_bn"):
         f.box("link", "বাক্যের ক্রম: বাংলা বনাম ফরাসি", c["word_order_bn"])
-    for pt in c.get("patterns", []):
-        f.flush(); pattern_block(f, pt)
+    for i, pt in enumerate(c.get("patterns", [])):
+        if i:
+            f.add('<div style="height:0.12in;border-top:1.5pt solid var(--gold);margin-top:0.08in;"></div>', 0.2)
+        pattern_block(f, pt)
     f.flush()
     if c.get("previews"):
         f.h2("মধ্যম স্তরে যা শিখবেন: এক ঝলক")

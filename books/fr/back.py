@@ -68,7 +68,7 @@ def build():
     cd = p5.get("can_do", [])
     if cd:
         page(h2("আমি পারি! — ২৫টি দক্ষতা") + '<p class="small">প্রতিটি বাক্য পড়ুন। সত্যিই পারলে টিক দিন। যেগুলো বাকি, সেগুলোর অধ্যায় আবার দেখে নিন।</p>' +
-             "".join('<div style="display:flex;gap:0.1in;padding:0.04in 0;border-bottom:1pt dashed var(--line);font-size:10.6pt;"><div>☐</div><div>%s</div></div>' % E(c) for c in cd),
+             "".join('<div style="display:flex;gap:0.1in;padding:0.022in 0;border-bottom:1pt dashed var(--line);font-size:10.1pt;line-height:1.55;"><div>☐</div><div>%s</div></div>' % E(c) for c in cd),
              head="নিজেকে যাচাই করুন")
     if WRITING_ANSWERS:
         f = Flow("লেখার অনুশীলনের নমুনা উত্তর")
