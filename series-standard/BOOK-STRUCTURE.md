@@ -96,7 +96,7 @@ the audio (QR code, §6) has the final say.
 ## 3. The standard book structure
 
 Recommended trim size: **7 × 10 in**. Five-column tables need the width that 6 × 9 lacks.
-Page budget: **about 410 pages**, enforced with page-number asserts in the build script, as in the
+Page budget: **about 420 pages**, enforced with page-number asserts in the build script, as in the
 kids series.
 
 ### FRONT MATTER (pp. i–xvi)
@@ -165,15 +165,16 @@ people, festivals, arts, history and the words that exist nowhere else. Told as 
 
 ---
 
-### PART ৫ — ভাষাটি ব্যবহার করুন · Use the Language (about 54 pp)
+### PART ৫ — ভাষাটি ব্যবহার করুন · Use the Language (about 64 pp)
 *Purpose: the reader **performs** the language. This is where they start to feel "I know it."*
 
 | Ch | Title | Pages | Standard content |
 |---|---|---|---|
-| 13 | **২০টি বাস্তব সংলাপ — 20 Real-Life Conversations** | 40 | Same 20 scenes in every book, so the series feels unified: (1) greeting & introducing yourself, (2) airport & immigration, (3) taxi / ride-share, (4) hotel check-in, (5) asking directions, (6) restaurant, (7) shopping & bargaining, (8) money exchange / bank, (9) mobile SIM & internet, (10) doctor, (11) pharmacy, (12) renting a room, (13) first day at work, (14) job interview, (15) phone call, (16) university / admin office, (17) place of worship or cultural site, (18) making a friend & small talk, (19) emergency & police, (20) farewell & keeping in touch. **Format per scene:** page 1 = dialogue in Triple Rows, speaker bubbles (learner = "আপনি"); page 2 = 6 key phrases, 1 culture note, a "your turn" role-play prompt with blanks |
+| 13 | **২০টি বাস্তব সংলাপ — 20 Real-Life Conversations** | 40 | Same 20 scenes in every book, so the series feels unified: (1) greeting & introducing yourself, (2) airport & immigration, (3) taxi / ride-share, (4) hotel check-in, (5) asking directions, (6) restaurant, (7) shopping & bargaining, (8) money exchange / bank, (9) mobile SIM & internet, (10) doctor, (11) pharmacy, (12) renting a room, (13) first day at work, (14) job interview, (15) phone call, (16) university / admin office, (17) **visiting the mosque with a friend & explaining the salam**, (18) **making a friend: a colleague asks about my fasting and is invited to iftar**, (19) emergency & police, (20) farewell & keeping in touch. **Format per scene:** page 1 = dialogue in Triple Rows, speaker bubbles (learner = "আপনি"); page 2 = 6 key phrases, 1 culture note, a "your turn" role-play prompt with blanks |
 | 14 | **প্রথম পাঠ — Your First Reading** | 6 | 6 graded texts: a text message, a notice, a short email, a shopping list, a 1-page short story, a short news-style paragraph. Each has a full Triple-Row gloss and 3 comprehension questions |
-| 15 | **সাহিত্যের প্রথম স্বাদ — A Taste of Literature** | 4 | 12 proverbs and famous lines (classical poetry, sacred text, a famous author), each paired with **a Bangla proverb or line with the same spirit** (e.g. a Japanese haiku beside a Rabindranath line). This is the bridge to literature at intermediate |
-| ✍️ | **লেখার অনুশীলন ৩ — বাস্তব জীবনের লেখা · Writing Practice 3: Real-Life Writing** | 4 | 8 tasks, each tied to a dialogue scene: an arrival / landing card · a text message to a friend · a message to an employer (late, sick, leave) · a short email booking a room or appointment · a note to a neighbour or landlord · a postcard or greeting for a festival · a 60-word self-introduction (job interview) · a short diary entry about your first day in the new country |
+| 15 | **সাহিত্যের প্রথম স্বাদ — A Taste of Literature** | 4 | 12 proverbs and famous lines (classical poetry, sacred text, a famous author), each paired with **a Bangla proverb or line with the same spirit** (e.g. a Japanese haiku beside a Rabindranath line). One of the 12 is a Qur'an verse and one a hadith, each shown with a **recognised translation in the target language** (verified as in the KDP series). This is the bridge to literature at intermediate |
+| 16 | **আমার বিশ্বাসের পরিচয় — Introducing My Faith** | 10 | The dawah chapter, in two parts. **Part A (70%, 7 pp): introduce your faith, in your own voice.** First-person sentences the reader can say, every one a Triple Row with a বলার কৌশল (how-to-say-it) tip: (1) the manner of dawah: wisdom and good counsel (16:125), character before words, the salam as the first invitation · (2) «আমি মুসলিম»: what Islam means, belief in one God, Muhammad ﷺ as His messenger, the earlier prophets Islam honours (Ibrahim, Musa, Isa) · (3) what I believe: the six articles of faith in simple sentences · (4) how I live my faith: the five pillars as daily life (why I pray, why I fast in Ramadan, zakat, Hajj) · (5) the values of my faith: mercy, honesty, family, kindness to neighbours, cleanliness, halal food, modesty · (6) my Qur'an: what it is, with Surah al-Ikhlas in Arabic, a recognised target-language translation and Bangla. **Part B (30%, 3 pp): «প্রতিবেশী বা সহকর্মী জানতে চাইলে» — when neighbours or colleagues ask.** 12 common questions with 2–3 sentence answers in the target language: why do you fast? · can you drink water while fasting? · why do you pray five times, and where at work? · what is halal, and why no pork or alcohol? · why do some Muslim women wear a headscarf? · what is Eid? · is Allah a different God? · what do Muslims believe about Jesus? · what does «in shā' Allāh» mean? · what is a mosque, and can I visit? · what is the Qur'an? · can I join you for iftar? **Rules:** short, warm, never argumentative; uses the Islamic terms of that country's Muslim community; ends with an invitation (iftar, the mosque, a conversation), not pressure; «if you don't know, say so and offer to ask an imam» |
+| ✍️ | **লেখার অনুশীলন ৩ — বাস্তব জীবনের লেখা · Writing Practice 3: Real-Life Writing** | 4 | 8 tasks, each tied to a dialogue scene: an arrival / landing card · a text message to a friend · a message to an employer (late, sick, leave) · a short email booking a room or appointment · a note to a neighbour or landlord · an Eid greeting card or a short note explaining Ramadan to a neighbour · a 60-word self-introduction (job interview) · a short diary entry about your first day in the new country |
 
 ---
 
@@ -181,7 +182,7 @@ people, festivals, arts, history and the words that exist nowhere else. Told as 
 
 | Page | Title | Standard content |
 |---|---|---|
-| 16 | **মধ্যম স্তরের পথে — Your Road to Intermediate** | A 90-day plan after this book. The intermediate roadmap in 5 tracks: **grammar · vocabulary & word meaning · listening & speaking · pronunciation · literature**. Recognized exams (JLPT, HSK, TOPIK, DELE, DELF, Goethe, TORFL, etc.) with what level this book equals. Learning resources available in Bangladesh: institutes, embassies' cultural centres, apps |
+| 17 | **মধ্যম স্তরের পথে — Your Road to Intermediate** | A 90-day plan after this book. The intermediate roadmap in 5 tracks: **grammar · vocabulary & word meaning · listening & speaking · pronunciation · literature**. Recognized exams (JLPT, HSK, TOPIK, DELE, DELF, Goethe, TORFL, etc.) with what level this book equals. Learning resources available in Bangladesh: institutes, embassies' cultural centres, apps |
 | — | **নিজেকে যাচাই করুন — Self-Assessment** | 60-question final test + answer key + **model answers for all 24 writing tasks** + **25 can-do statements (CEFR A1)**, e.g. "আমি নিজের পরিচয় দিতে পারি", "আমি দাম জিজ্ঞেস করে বুঝতে পারি" |
 | — | **ত্রিভাষিক শব্দকোষ — Trilingual Glossary** | Every word in the book: target · উচ্চারণ · romanization · বাংলা · English, sorted by the target language's own order |
 | — | **তথ্যসূত্র — References** | Every fact, map, quotation and translation, with a source |
@@ -239,7 +240,7 @@ transcription helps the reader get started, but the native-speaker audio is the 
 | **Variable layer** | Target-language content + English column |
 | **Page asserts** | Each Part starts on a fixed page number; the build fails if the budget breaks |
 | **3-layer review** | (1) Target → Bangla accuracy and coherence; (2) triangulation: target → English vs target → Bangla must land on the same meaning; (3) web verification against credible sources: dictionaries, official romanization standards, and recognized translations for sacred or literary quotes |
-| **Human gates** | Native target-language speaker review · Bangla editor review · pronunciation check against audio · ISBN · AI disclosure · proof copy |
+| **Human gates** | Scholar review of Ch. 16 and every Qur'an/hadith quotation · native target-language speaker review (for Ch. 16, a Muslim from that country's community where possible) · Bangla editor review · pronunciation check against audio · ISBN · AI disclosure · proof copy |
 | **Status file** | `EDITION-STATUS.md` + `REVIEW-REPORT.md` per book, same format as the kids series |
 | **Formats** | Print interior PDF (7×10), full-wrap cover, fixed-layout or reflowable EPUB with audio links |
 
@@ -252,7 +253,7 @@ position, is in **`SERIES-ROADMAP.md`**.
 
 ---
 
-## Page budget summary (7×10 in, about 410 pp)
+## Page budget summary (7×10 in, about 420 pp)
 
 | Section | Pages |
 |---|---|
@@ -261,9 +262,9 @@ position, is in **`SERIES-ROADMAP.md`**.
 | Part 2 — Sounds & Script (incl. 4 pp writing) | 70 |
 | Part 3 — Building Blocks (incl. 4 pp writing) | 54 |
 | Part 4 — The 2,000-Word Journey | 178 |
-| Part 5 — Use the Language (incl. 4 pp writing) | 54 |
+| Part 5 — Use the Language (incl. 4 pp writing, 10 pp Introducing My Faith) | 64 |
 | Back matter | 16 |
-| **Total** | **≈ 412** |
+| **Total** | **≈ 422** |
 
 ---
 

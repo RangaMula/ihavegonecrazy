@@ -84,7 +84,7 @@ At the end of each **stage** there is a **milestone page**:
 
 | § | Section | Sets of 25 | After this section you can… |
 |---|---|---|---|
-| ১৪ | **উৎসব, বিশ্বাস ও ঐতিহ্য** — Festivals, faith & traditions | (a) faith & ritual words F · (b) celebrations & life events F · (c) 🌏 festivals & their words · (d) 🌏 customs & everyday traditions | Join a celebration and say the right words |
+| ১৪ | **উৎসব, বিশ্বাস ও ঐতিহ্য** — Festivals, faith & traditions | (a) **Islam in everyday words** F (the vocabulary a Muslim needs to explain their life: prayer, fasting, mosque, Qur'an, mercy, halal…; it prepares Ch. 16) · (b) celebrations & life events F · (c) 🌏 festivals & their words · (d) 🌏 customs & everyday traditions | Join a celebration and say the right words |
 | ১৫ | **শিল্প, গান ও খেলা** — Arts, music & play | (a) arts & entertainment words F · (b) 🌏 traditional dress & crafts · (c) 🌏 music, instruments & performing arts · (d) 🌏 sports, games & pastimes | Talk about films, music, sport and crafts you like |
 | ১৬ | **মন ও মূল্যবোধ** — Heart & values | (a) feelings F · (b) character & virtues F · (c) verbs of the heart F · (d) 🌏 values & etiquette words of this culture | Express feelings and understand what people value |
 | ১৭ | **বন্ধুত্ব ও আড্ডা** — Friendship & conversation | (a) hobbies & free time F · (b) opinions & reactions F · (c) social verbs F · (d) 🌏 how people meet & socialise | Make a friend, share opinions, enjoy small talk |
