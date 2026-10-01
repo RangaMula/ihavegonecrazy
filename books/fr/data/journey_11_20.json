@@ -949,12 +949,12 @@
        "en": "continent"
       },
       {
-       "fr": "le monde",
-       "bn_pron": "লে° মোঁদ",
-       "en_pron": "luh MOHND",
-       "bn": "পৃথিবী, জগৎ",
-       "en": "world",
-       "note_bn": "tout le monde = সবাই"
+       "fr": "la latitude",
+       "bn_pron": "লা লাতিতি°দ",
+       "en_pron": "lah lah-tee-TÜD",
+       "bn": "অক্ষাংশ",
+       "en": "latitude",
+       "note_bn": "দ্রাঘিমাংশ = la longitude"
       },
       {
        "fr": "la Terre",
@@ -1367,26 +1367,25 @@
        "source_hint": "List of islands by area"
       },
       {
-       "fr": "Pondichéry",
-       "bn_pron": "পোঁদিশের়ি",
-       "en_pron": "pohn-dee-shay-REE",
-       "bn": "পন্ডিচেরি (পুদুচেরি)",
-       "en": "Pondicherry",
-       "icon": "🇮🇳",
-       "story_bn": "পন্ডিচেরি ১৯৫৪ সাল পর্যন্ত ফরাসি শাসনে ছিল, আর আজও সেখানে ফরাসি নামের রাস্তা দেখা যায়।",
-       "link_bn": "ভারতের এই শহরের আজকের নাম পুদুচেরি।",
-       "source_hint": "French India, de facto transfer 1954"
+       "fr": "le Mali",
+       "bn_pron": "লে° মালি",
+       "en_pron": "luh mah-LEE",
+       "bn": "মালি",
+       "en": "Mali",
+       "icon": "🇲🇱",
+       "story_bn": "দেশটির নাম এসেছে মধ্যযুগের বিখ্যাত মালি সাম্রাজ্যের নাম থেকে।",
+       "source_hint": "Mali, named after the Mali Empire"
       },
       {
-       "fr": "Chandernagor",
-       "bn_pron": "শাঁদের়নাগোর়",
-       "en_pron": "shahn-dehr-nah-GOR",
-       "bn": "চন্দননগর",
-       "en": "Chandannagar",
-       "icon": "🏛️",
-       "story_bn": "হুগলি নদীর তীরের চন্দননগর প্রায় আড়াই শ বছর ফরাসি উপনিবেশ ছিল; ১৯৫০ সালে এর প্রশাসন ভারতের হাতে আসে।",
-       "link_bn": "পশ্চিমবঙ্গের চন্দননগর — বাংলার মাটিতে ফরাসি ইতিহাস, আর এখানকার জগদ্ধাত্রী পূজার আলোকসজ্জা বিখ্যাত।",
-       "source_hint": "Chandannagar, French India, transfer 1950"
+       "fr": "l'île Maurice (f.)",
+       "bn_pron": "লিল মোর়িস",
+       "en_pron": "leel moh-REES",
+       "bn": "মরিশাস",
+       "en": "Mauritius",
+       "icon": "🏝️",
+       "story_bn": "মরিশাসে ফরাসি, ইংরেজি আর মরিশীয় ক্রেওল — তিন ভাষাই প্রতিদিন চলে, আর জনসংখ্যার বড় অংশ ভারতীয় বংশোদ্ভূত।",
+       "link_bn": "ভারত মহাসাগরের এই দ্বীপে উপমহাদেশের ভাষা আর রান্নার ঐতিহ্যও বেঁচে আছে।",
+       "source_hint": "Languages and demographics of Mauritius"
       }
      ]
     },
@@ -1658,14 +1657,14 @@
      "title_en": "Famous journeys & routes",
      "words": [
       {
-       "fr": "le Tour de France",
-       "bn_pron": "লে° তুর় দে° ফ়্র়াঁস",
-       "en_pron": "luh toor duh FRAHNS",
-       "bn": "ত্যুর দ্য ফ্রঁস সাইকেল দৌড়",
-       "en": "the Tour de France",
-       "icon": "🚴",
-       "story_bn": "১৯০৩ সালে শুরু হওয়া এই সাইকেল দৌড় প্রতি গ্রীষ্মে প্রায় তিন সপ্তাহ ধরে চলে।",
-       "source_hint": "Tour de France, first held 1903"
+       "fr": "Jean-Baptiste Charcot",
+       "bn_pron": "ঝ়াঁ বাতিস্ত শার়কো",
+       "en_pron": "zhahn bah-teest shahr-KOH",
+       "bn": "জঁ-বাতিস্ত শার্কো",
+       "en": "Jean-Baptiste Charcot",
+       "icon": "🧊",
+       "story_bn": "এই ফরাসি চিকিৎসক-অভিযাত্রী বিশ শতকের শুরুতে দুটি অ্যান্টার্কটিক অভিযানে নেতৃত্ব দেন।",
+       "source_hint": "French Antarctic Expeditions 1903–05 and 1908–10"
       },
       {
        "fr": "le maillot jaune",
@@ -2046,11 +2045,12 @@
        "en": "ancestor"
       },
       {
-       "fr": "le roi",
-       "bn_pron": "লে° র়োয়া",
-       "en_pron": "luh RWAH",
-       "bn": "রাজা",
-       "en": "king"
+       "fr": "le prince",
+       "bn_pron": "লে° প্র়্যাঁস",
+       "en_pron": "luh PREHNS",
+       "bn": "রাজপুত্র, যুবরাজ",
+       "en": "prince",
+       "note_bn": "স্ত্রীলিঙ্গ: la princesse"
       },
       {
        "fr": "la reine",
@@ -2166,12 +2166,11 @@
        "en": "freedom"
       },
       {
-       "fr": "le château",
-       "bn_pron": "লে° শাতো",
-       "en_pron": "luh shah-TOH",
-       "bn": "প্রাসাদ, দুর্গ",
-       "en": "castle",
-       "note_bn": "বহুবচন: les châteaux"
+       "fr": "le chevalier",
+       "bn_pron": "লে° শে°ভ়ালিয়ে",
+       "en_pron": "luh shuh-vah-LYAY",
+       "bn": "নাইট, অশ্বারোহী যোদ্ধা",
+       "en": "knight"
       },
       {
        "fr": "la découverte",
@@ -2415,15 +2414,14 @@
        "source_hint": "Founding of Marrakesh, c. 1070"
       },
       {
-       "fr": "la Compagnie des Indes",
-       "bn_pron": "লা কোঁপান্যি দে জ়্যাঁদ",
-       "en_pron": "lah kohn-pah-nyee day ZEHND",
-       "bn": "ফরাসি ইস্ট ইন্ডিয়া কোম্পানি",
-       "en": "the French East India Company",
-       "icon": "🚢",
-       "story_bn": "১৬৬৪ সালে গড়া এই ফরাসি বাণিজ্য-কোম্পানির কুঠি ছিল পন্ডিচেরি ও চন্দননগরে।",
-       "link_bn": "ইংরেজ ইস্ট ইন্ডিয়া কোম্পানির প্রতিদ্বন্দ্বী — পলাশীর যুগের বাংলায় এদের নাম শোনা যায়।",
-       "source_hint": "Compagnie française des Indes orientales, 1664"
+       "fr": "la Commune de Paris",
+       "bn_pron": "লা কোমি°ন দে° পার়ি",
+       "en_pron": "lah koh-mün duh pah-REE",
+       "bn": "প্যারিস কমিউন",
+       "en": "the Paris Commune",
+       "icon": "✊",
+       "story_bn": "১৮৭১ সালে প্রায় দুই মাস প্যারিসের সাধারণ মানুষ নিজেরাই শহর শাসন করে, যাকে বলা হয় প্যারিস কমিউন।",
+       "source_hint": "Paris Commune, March–May 1871"
       },
       {
        "fr": "l'abolition de l'esclavage (f.)",
@@ -2446,14 +2444,14 @@
        "source_hint": "Year of Africa, 1960"
       },
       {
-       "fr": "la Francophonie",
-       "bn_pron": "লা ফ়্র়াঁকোফ়োনি",
-       "en_pron": "lah frahn-koh-foh-NEE",
-       "bn": "ফরাসিভাষী বিশ্ব",
-       "en": "the French-speaking world",
-       "icon": "🌐",
-       "story_bn": "ফরাসিভাষী দেশগুলোর আন্তর্জাতিক সংগঠনের যাত্রা শুরু ১৯৭০ সালে নাইজারের নিয়ামেতে।",
-       "source_hint": "OIF, Niamey 1970 (ACCT)"
+       "fr": "l'édit de Nantes (m.)",
+       "bn_pron": "লেদি দে° নাঁত",
+       "en_pron": "lay-dee duh NAHNT",
+       "bn": "নঁতের রাজাজ্ঞা",
+       "en": "the Edict of Nantes",
+       "icon": "📜",
+       "story_bn": "১৫৯৮ সালের এই রাজাজ্ঞা ফ্রান্সের প্রোটেস্ট্যান্টদের ধর্মপালনের স্বাধীনতা দেয়।",
+       "source_hint": "Edict of Nantes, 1598"
       }
      ]
     },
@@ -2891,15 +2889,14 @@
        "source_hint": "Epic of Sundiata"
       },
       {
-       "fr": "le griot",
-       "bn_pron": "লে° গ্র়িয়ো",
-       "en_pron": "luh gree-YOH",
-       "bn": "গ্রিয়ো (গায়ক-কথক)",
-       "en": "griot (storyteller-musician)",
-       "icon": "🎶",
-       "story_bn": "পশ্চিম আফ্রিকার গ্রিয়োরা বংশের ইতিহাস আর কাহিনি গান গেয়ে প্রজন্ম থেকে প্রজন্মে পৌঁছে দেন।",
-       "link_bn": "আমাদের পালাগানের বয়াতি বা কবিয়ালদের কথা মনে পড়ে।",
-       "source_hint": "Griots of West Africa"
+       "fr": "la fée Mélusine",
+       "bn_pron": "লা ফ়ে মেলি°জ়িন",
+       "en_pron": "lah fay may-lü-ZEEN",
+       "bn": "মেলুজিন পরী",
+       "en": "Melusine",
+       "icon": "🧜",
+       "story_bn": "ফরাসি মধ্যযুগের কিংবদন্তিতে মেলুজিন এক জলপরী, যার শরীরের নিচের অংশ মাঝে মাঝে সাপের মতো হয়ে যেত।",
+       "source_hint": "Jean d'Arras, Roman de Mélusine, 1393"
       },
       {
        "fr": "Kirikou",
@@ -2912,36 +2909,34 @@
        "source_hint": "Kirikou et la Sorcière, 1998"
       },
       {
-       "fr": "Le Petit Prince",
-       "bn_pron": "লে° পে°তি প্র়্যাঁস",
-       "en_pron": "luh puh-tee PREHNS",
-       "bn": "ছোট্ট রাজপুত্র",
-       "en": "The Little Prince",
-       "icon": "🌹",
-       "story_bn": "সাঁত-এক্সুপেরির এই বই পৃথিবীর সবচেয়ে বেশি ভাষায় অনূদিত বইগুলোর একটি।",
-       "link_bn": "বাংলায়ও একাধিক অনুবাদ আছে।",
-       "source_hint": "Le Petit Prince, 1943, translations"
+       "fr": "Barbe-Bleue",
+       "bn_pron": "বার়ব ব্লে°",
+       "en_pron": "bahrb BLUH",
+       "bn": "নীল দাড়ি",
+       "en": "Bluebeard",
+       "icon": "🧔",
+       "story_bn": "শার্ল পেরোর রূপকথা «নীল দাড়ি»-তে এক রহস্যময় স্বামী তার স্ত্রীকে একটি ঘরে ঢুকতে নিষেধ করে।",
+       "source_hint": "Perrault, La Barbe bleue, 1697"
       },
       {
-       "fr": "Astérix",
-       "bn_pron": "আস্তের়িক্স",
-       "en_pron": "ahs-tay-REEKS",
-       "bn": "আস্তেরিক্স",
-       "en": "Asterix",
-       "icon": "🛡️",
-       "story_bn": "জাদুর পানীয়ের জোরে রোমানদের হারানো ছোট্ট গল যোদ্ধা আস্তেরিক্সের কমিক বহু ভাষায় অনূদিত।",
-       "source_hint": "Astérix, Goscinny and Uderzo 1959"
+       "fr": "le Chat botté",
+       "bn_pron": "লে° শা বোতে",
+       "en_pron": "luh shah boh-TAY",
+       "bn": "বুট পরা বিড়াল",
+       "en": "Puss in Boots",
+       "icon": "🐈",
+       "story_bn": "পেরোর গল্পে বুট পরা চতুর এক বিড়াল তার গরিব মালিককে রাজকন্যার বর বানিয়ে দেয়।",
+       "source_hint": "Perrault, Le Maître chat ou le Chat botté, 1697"
       },
       {
-       "fr": "Tintin",
-       "bn_pron": "ত্যাঁত্যাঁ",
-       "en_pron": "tehn-TEHN",
-       "bn": "টিনটিন",
-       "en": "Tintin",
-       "icon": "🐕",
-       "story_bn": "বেলজিয়ান শিল্পী এর্জের সৃষ্টি তরুণ সাংবাদিক তাঁতাঁ আর তার কুকুর মিলুর অভিযান বাংলাতেও অনূদিত।",
-       "link_bn": "বাংলায় আমরা বলি «টিনটিন», আর কুকুরটি «কুট্টুস»।",
-       "source_hint": "Hergé, Les Aventures de Tintin"
+       "fr": "le Petit Nicolas",
+       "bn_pron": "লে° পে°তি নিকোলা",
+       "en_pron": "luh puh-tee nee-koh-LAH",
+       "bn": "ছোট্ট নিকোলা",
+       "en": "Little Nicholas",
+       "icon": "👦",
+       "story_bn": "গোসিনি আর সাঁপের «ছোট্ট নিকোলা» স্কুলজীবনের মজার গল্পে ১৯৫৯ সাল থেকে ছোট-বড় সবার প্রিয়।",
+       "source_hint": "Le Petit Nicolas, Goscinny and Sempé, 1959"
       },
       {
        "fr": "le système métrique",
@@ -3035,8 +3030,8 @@
      "a": "শান্তি"
     },
     {
-     "q_bn": "«রাজা» আর «রানি» ফরাসিতে কী?",
-     "a": "le roi, la reine"
+     "q_bn": "«রানি» আর «রাজপুত্র» ফরাসিতে কী?",
+     "a": "la reine, le prince"
     },
     {
      "q_bn": "«Il était une fois» মানে কী?",
@@ -3402,11 +3397,12 @@
        "en": "to celebrate"
       },
       {
-       "fr": "inviter",
-       "bn_pron": "অ্যাঁভ়িতে",
-       "en_pron": "ehn-vee-TAY",
-       "bn": "দাওয়াত দেওয়া",
-       "en": "to invite"
+       "fr": "la noce",
+       "bn_pron": "লা নোস",
+       "en_pron": "lah NOS",
+       "bn": "বিয়ের অনুষ্ঠান, বিয়েবাড়ি",
+       "en": "wedding party",
+       "note_bn": "les noces = বিয়ে (সাহিত্যের ভাষায়)"
       },
       {
        "fr": "offrir",
@@ -3485,15 +3481,15 @@
        "note_bn": "ফরাসিরা একে la fête nationale-ও বলেন"
       },
       {
-       "fr": "la fête de la Musique",
-       "bn_pron": "লা ফ়েত দে° লা মি°জ়িক",
-       "en_pron": "lah feht duh lah mü-ZEEK",
-       "bn": "সংগীত দিবস",
-       "en": "Music Day",
-       "icon": "🎸",
-       "story_bn": "১৯৮২ সালে ফ্রান্সে শুরু হওয়া এই উৎসবে বছরের দীর্ঘতম দিনে রাস্তায় রাস্তায় বিনা পয়সায় গান হয়, আর আজ তা শতাধিক দেশে পালিত হয়।",
-       "link_bn": "ঢাকাতেও প্রতি বছর এই দিনে «বিশ্ব সংগীত দিবস» পালিত হয়।",
-       "source_hint": "Fête de la Musique, 1982, 21 June"
+       "fr": "la fête des Lumières",
+       "bn_pron": "লা ফ়েত দে লি°মিয়ের়",
+       "en_pron": "lah feht day lü-MYEHR",
+       "bn": "লিয়োঁর আলোর উৎসব",
+       "en": "Festival of Lights (Lyon)",
+       "icon": "🕯️",
+       "story_bn": "ডিসেম্বরে লিয়োঁর মানুষ জানালায় জানালায় মোমবাতি জ্বালায়, আর কয়েক রাত ধরে পুরো শহর আলোয় সাজে।",
+       "link_bn": "চন্দননগরের আলোকসজ্জার কথা মনে পড়ে।",
+       "source_hint": "Fête des Lumières, Lyon, 8 December"
       },
       {
        "fr": "Noël",
@@ -3641,24 +3637,24 @@
        "source_hint": "Yennayer public holiday: Algeria 2018, Morocco 2024"
       },
       {
-       "fr": "le FESPACO",
-       "bn_pron": "লে° ফ়েসপাকো",
-       "en_pron": "luh fehs-pah-KOH",
-       "bn": "ফেসপাকো চলচ্চিত্র উৎসব",
-       "en": "FESPACO film festival",
-       "icon": "🎬",
-       "story_bn": "বুরকিনা ফাসোর উয়াগাদুগুতে দুই বছর পরপর আফ্রিকার সবচেয়ে বড় চলচ্চিত্র উৎসব ফেসপাকো হয়।",
-       "source_hint": "FESPACO, Ouagadougou, since 1969"
+       "fr": "la fête du Citron",
+       "bn_pron": "লা ফ়েত দি° সিত্র়োঁ",
+       "en_pron": "lah feht dü see-TROHN",
+       "bn": "লেবু উৎসব",
+       "en": "Lemon Festival",
+       "icon": "🍋",
+       "story_bn": "ভূমধ্যসাগরতীরের মঁতঁ শহরের লেবু উৎসবে লাখো লেবু আর কমলা দিয়ে বিশাল ভাস্কর্য বানানো হয়।",
+       "source_hint": "Fête du Citron, Menton"
       },
       {
-       "fr": "le Festival de Cannes",
-       "bn_pron": "লে° ফ়েস্তিভ়াল দে° কান",
-       "en_pron": "luh fehs-tee-vahl duh KAHN",
-       "bn": "কান চলচ্চিত্র উৎসব",
-       "en": "Cannes Film Festival",
-       "icon": "🎞️",
-       "story_bn": "কান চলচ্চিত্র উৎসবের সেরা পুরস্কারের নাম «পাম দ'অর», মানে সোনার খেজুরপাতা।",
-       "source_hint": "Palme d'Or"
+       "fr": "les Francofolies (f. pl.)",
+       "bn_pron": "লে ফ়্র়াঁকোফ়োলি",
+       "en_pron": "lay frahn-koh-foh-LEE",
+       "bn": "ফ্রাঙ্কোফোলি সংগীত উৎসব",
+       "en": "Francofolies festival",
+       "icon": "🎶",
+       "story_bn": "১৯৮৫ সালে লা রোশেলে শুরু হওয়া ফরাসি ভাষার গানের এই উৎসব পরে মন্ট্রিয়ল ও বেলজিয়ামের স্পা শহরেও ছড়িয়েছে।",
+       "source_hint": "Francofolies de La Rochelle 1985; Spa; Montréal"
       },
       {
        "fr": "la Saint-Jean",
@@ -3821,14 +3817,14 @@
        "source_hint": "Fête du prénom, French calendar"
       },
       {
-       "fr": "la fête des voisins",
-       "bn_pron": "লা ফ়েত দে ভ়োয়াজ়্যাঁ",
-       "en_pron": "lah feht day vwah-ZEHN",
-       "bn": "প্রতিবেশী দিবস",
-       "en": "Neighbours' Day",
-       "icon": "🏘️",
-       "story_bn": "১৯৯৯ সালে প্যারিসে শুরু হওয়া এই দিনে একই ভবন বা পাড়ার মানুষ একসঙ্গে খাবার ভাগ করে খায়।",
-       "source_hint": "Fête des voisins, Paris 1999"
+       "fr": "le parrainage républicain",
+       "bn_pron": "লে° পার়েনাঝ় র়েপি°ব্লিক্যাঁ",
+       "en_pron": "luh pah-reh-nahzh ray-pü-blee-KEHN",
+       "bn": "প্রজাতান্ত্রিক নামকরণ অনুষ্ঠান",
+       "en": "civil naming ceremony",
+       "icon": "📜",
+       "story_bn": "ফ্রান্সে পৌরসভায় ধর্মনিরপেক্ষ «প্রজাতান্ত্রিক নামকরণ» অনুষ্ঠান হয়, যেখানে শিশুর জন্য অভিভাবক-সাক্ষী ঠিক করা হয়।",
+       "source_hint": "Parrainage civil (républicain), since 1794"
       },
       {
        "fr": "la dragée",
@@ -3926,26 +3922,25 @@
        "source_hint": "Marabout, West Africa"
       },
       {
-       "fr": "le hammam",
-       "bn_pron": "লে° আমাম",
-       "en_pron": "luh ah-MAHM",
-       "bn": "হাম্মাম (গণ-গোসলখানা)",
-       "en": "hammam",
-       "icon": "🛁",
-       "story_bn": "মাগরেবের শহরগুলোতে হাম্মাম শুধু গোসলখানা নয়, পাড়ার মানুষের দেখা-সাক্ষাতের জায়গাও।",
-       "link_bn": "ঢাকার পুরোনো হাম্মামখানার কথা মনে পড়ে।",
-       "source_hint": "Hammam, Maghreb social custom"
+       "fr": "la fève",
+       "bn_pron": "লা ফ়েভ়",
+       "en_pron": "lah FEHV",
+       "bn": "পিঠার ভেতরের ছোট্ট পুতুল",
+       "en": "charm hidden in the king cake",
+       "icon": "👑",
+       "story_bn": "রাজাদের পিঠায় লুকানো ছোট্ট পুতুলটিকে বলে «ফেভ», যার আদি মানে শিমের বীজ — কারণ আগে আসল বীজই লুকানো হতো।",
+       "source_hint": "Fève, galette des rois"
       },
       {
-       "fr": "la tontine",
-       "bn_pron": "লা তোঁতিন",
-       "en_pron": "lah tohn-TEEN",
-       "bn": "সমিতির ঘূর্ণি সঞ্চয়",
-       "en": "rotating savings club",
-       "icon": "💰",
-       "story_bn": "পশ্চিম ও মধ্য আফ্রিকায় বন্ধুরা নিয়মিত টাকা জমা দিয়ে পালা করে একজনকে পুরো টাকা দেয় — একে বলে «তোঁতিন»।",
-       "link_bn": "আমাদের গ্রামের সমিতির মতো।",
-       "source_hint": "Tontine, West and Central Africa"
+       "fr": "le méchoui",
+       "bn_pron": "লে° মেশুই",
+       "en_pron": "luh may-SHWEE",
+       "bn": "আস্ত ভেড়া ঝলসানো ভোজ",
+       "en": "whole roast lamb",
+       "icon": "🐑",
+       "story_bn": "মাগরেবে উৎসব আর বিয়েতে আস্ত ভেড়া আগুনে ধীরে ঝলসানো ভোজকে বলে «মেশুই»।",
+       "link_bn": "আমাদের বিয়েবাড়ির খাসির রোস্টের কথা মনে পড়ে।",
+       "source_hint": "Méchoui, Maghreb"
       },
       {
        "fr": "l'arbre à palabres (m.)",
@@ -3979,14 +3974,15 @@
        "source_hint": "Bonhomme Carnaval, tuque and ceinture fléchée"
       },
       {
-       "fr": "les grandes vacances (f. pl.)",
-       "bn_pron": "লে গ্র়াঁদ ভ়াকাঁস",
-       "en_pron": "lay grahnd vah-KAHNS",
-       "bn": "গ্রীষ্মের লম্বা ছুটি",
-       "en": "summer holidays",
-       "icon": "🏖️",
-       "story_bn": "ফ্রান্সে স্কুলের গ্রীষ্মের ছুটি প্রায় দুই মাস লম্বা, তখন অনেক পরিবার সমুদ্র বা পাহাড়ে বেড়াতে যায়।",
-       "source_hint": "French school calendar"
+       "fr": "le faire-part",
+       "bn_pron": "লে° ফ়ের় পার়",
+       "en_pron": "luh fehr PAHR",
+       "bn": "ঘোষণা-কার্ড (বিয়ে/জন্মের)",
+       "en": "announcement card",
+       "icon": "💌",
+       "story_bn": "ফ্রান্সে বিয়ে বা শিশুর জন্মের খবর জানাতে আত্মীয়-বন্ধুদের ছাপানো কার্ড «ফের-পার» পাঠানো হয়।",
+       "link_bn": "আমাদের বিয়ের কার্ডের মতো।",
+       "source_hint": "Faire-part, French custom"
       },
       {
        "fr": "le porte-bonheur",
@@ -4126,12 +4122,12 @@
        "en": "painting; paint"
       },
       {
-       "fr": "le tableau",
-       "bn_pron": "লে° তাব্লো",
-       "en_pron": "luh tah-BLOH",
-       "bn": "ছবি (আঁকা); বোর্ড",
-       "en": "painting, picture",
-       "note_bn": "বহুবচন: les tableaux"
+       "fr": "l'œuvre (f.)",
+       "bn_pron": "লে°ভ়্র়",
+       "en_pron": "LUHVR",
+       "bn": "শিল্পকর্ম; রচনা",
+       "en": "work (of art)",
+       "note_bn": "un chef-d'œuvre = শ্রেষ্ঠ শিল্পকর্ম"
       },
       {
        "fr": "le peintre",
@@ -4324,14 +4320,15 @@
        "source_hint": "Coiffes bretonnes (e.g. bigoudène)"
       },
       {
-       "fr": "la dentelle",
-       "bn_pron": "লা দাঁতেল",
-       "en_pron": "lah dahn-TEHL",
-       "bn": "লেস",
-       "en": "lace",
-       "icon": "🕸️",
-       "story_bn": "ফ্রান্সের আলাঁসোঁ শহরের হাতে বোনা লেস ইউনেস্কোর অধরা ঐতিহ্যের তালিকায় আছে।",
-       "source_hint": "Alençon needle lace, UNESCO 2010"
+       "fr": "la faïence de Quimper",
+       "bn_pron": "লা ফ়াইয়াঁস দে° ক্যাঁপের়",
+       "en_pron": "lah fah-yahns duh kehn-PEHR",
+       "bn": "কাঁপেরের হাতে-আঁকা মাটির বাসন",
+       "en": "Quimper faience",
+       "icon": "🏺",
+       "story_bn": "ব্রিটানির কাঁপের শহরের হাতে আঁকা মাটির বাসন সতেরো শতকের শেষ থেকে বিখ্যাত।",
+       "link_bn": "আমাদের মৃৎশিল্পের মতোই হাতে আঁকা নকশা।",
+       "source_hint": "Faïence de Quimper, since 1690"
       },
       {
        "fr": "la tapisserie",
@@ -4397,35 +4394,35 @@
        "source_hint": "Sabots, rural France"
       },
       {
-       "fr": "le boubou",
-       "bn_pron": "লে° বুবু",
-       "en_pron": "luh boo-BOO",
-       "bn": "বুবু (লম্বা ঢিলে পোশাক)",
-       "en": "boubou",
+       "fr": "la vannerie",
+       "bn_pron": "লা ভ়ান্র়ি",
+       "en_pron": "lah vahn-REE",
+       "bn": "ঝুড়ি বোনা শিল্প",
+       "en": "basketry",
+       "icon": "🧺",
+       "story_bn": "মাদাগাস্কারের কারিগরেরা রাফিয়া পাতার আঁশ দিয়ে ঝুড়ি, টুপি আর মাদুর বোনেন।",
+       "link_bn": "আমাদের বাঁশ-বেতের কাজের মতো।",
+       "source_hint": "Raffia weaving, Madagascar"
+      },
+      {
+       "fr": "la gandoura",
+       "bn_pron": "লা গাঁদুর়া",
+       "en_pron": "lah gahn-doo-RAH",
+       "bn": "গান্দুরা (হালকা লম্বা জামা)",
+       "en": "gandoura",
        "icon": "👘",
-       "story_bn": "পশ্চিম আফ্রিকার নারী-পুরুষ উভয়ের লম্বা ঢিলে পোশাক বুবু উৎসবের দিনে ঝলমলে কাপড়ে বানানো হয়।",
-       "source_hint": "Boubou, West Africa"
+       "story_bn": "মাগরেব আর সাহারার মানুষ গরমে হালকা, ঢিলেঢালা লম্বা জামা «গান্দুরা» পরেন।",
+       "source_hint": "Gandoura, Maghreb and Sahara"
       },
       {
-       "fr": "le pagne",
-       "bn_pron": "লে° পান্য",
-       "en_pron": "luh PAHNY",
-       "bn": "পান্য (জড়িয়ে পরা কাপড়)",
-       "en": "wrap cloth",
-       "icon": "🧵",
-       "story_bn": "পশ্চিম ও মধ্য আফ্রিকায় রঙিন ছাপা কাপড় কোমরে জড়িয়ে পরাকে বলে «পান্য»।",
-       "link_bn": "আমাদের লুঙ্গি বা শাড়ির মতো জড়িয়ে পরা হয়।",
-       "source_hint": "Pagne, West and Central Africa"
-      },
-      {
-       "fr": "le wax",
-       "bn_pron": "লে° ওয়াক্স",
-       "en_pron": "luh WAHKS",
-       "bn": "ওয়াক্স ছাপা কাপড়",
-       "en": "wax print fabric",
-       "icon": "🎨",
-       "story_bn": "আফ্রিকায় জনপ্রিয় উজ্জ্বল ওয়াক্স কাপড়ের অনেক নকশার আলাদা নাম আর অর্থ থাকে।",
-       "source_hint": "African wax prints, named designs"
+       "fr": "le chèche",
+       "bn_pron": "লে° শেশ",
+       "en_pron": "luh SHEHSH",
+       "bn": "শেশ (লম্বা পাগড়ি)",
+       "en": "Tuareg turban",
+       "icon": "🧕",
+       "story_bn": "তুয়ারেগ পুরুষেরা মাথা আর মুখ ঢাকতে লম্বা কাপড়ের পাগড়ি «শেশ» পরেন; নীল রঙের জন্য তাঁদের বলা হয় «নীল মানুষ»।",
+       "source_hint": "Tagelmust (chèche), Tuareg"
       },
       {
        "fr": "le bogolan",
@@ -4479,15 +4476,14 @@
        "source_hint": "Chechia, Tunis souks"
       },
       {
-       "fr": "le zellige",
-       "bn_pron": "লে° জ়েলিঝ়",
-       "en_pron": "luh zeh-LEEZH",
-       "bn": "জেলিজ টালির নকশা",
-       "en": "zellige tilework",
-       "icon": "🔷",
-       "story_bn": "মরক্কোর জেলিজে হাতে কাটা ছোট ছোট রঙিন টালি জুড়ে জটিল জ্যামিতিক নকশা বানানো হয়।",
-       "link_bn": "মসজিদের জ্যামিতিক নকশার ঐতিহ্য।",
-       "source_hint": "Zellige, Morocco"
+       "fr": "la croix d'Agadez",
+       "bn_pron": "লা ক্র়োয়া দাগাদেজ়",
+       "en_pron": "lah krwah dah-gah-DEHZ",
+       "bn": "আগাদেজের লকেট",
+       "en": "Agadez cross pendant",
+       "icon": "✴️",
+       "story_bn": "নাইজারের তুয়ারেগ কারিগরেরা রুপা দিয়ে «আগাদেজের ক্রস» নামের বিখ্যাত লকেট বানান।",
+       "source_hint": "Tuareg silverwork, Agadez"
       },
       {
        "fr": "la calligraphie",
@@ -4501,15 +4497,15 @@
        "source_hint": "Maghrebi script"
       },
       {
-       "fr": "la poterie",
-       "bn_pron": "লা পোত্র়ি",
-       "en_pron": "lah poh-TREE",
-       "bn": "মৃৎশিল্প",
-       "en": "pottery",
-       "icon": "🏺",
-       "story_bn": "মরক্কোর ফেজ় শহর নীল-সাদা মাটির পাত্রের জন্য বিখ্যাত।",
-       "link_bn": "আমাদের মৃৎশিল্পের মতোই কুমোরের চাকা ঘোরে।",
-       "source_hint": "Fez blue pottery"
+       "fr": "la tannerie",
+       "bn_pron": "লা তান্র়ি",
+       "en_pron": "lah tahn-REE",
+       "bn": "চামড়া রং করার কারখানা",
+       "en": "tannery",
+       "icon": "🟤",
+       "story_bn": "ফেজ়ের শুয়ারা কারখানায় আজও মধ্যযুগের মতো পাথরের কুণ্ডে চামড়া রং করা হয়।",
+       "link_bn": "আমাদের দেশের চামড়াশিল্পের পুরোনো আত্মীয়।",
+       "source_hint": "Chouara Tannery, Fez"
       },
       {
        "fr": "le tapis berbère",
@@ -4766,14 +4762,14 @@
        "source_hint": "Comédie-Française, 1680"
       },
       {
-       "fr": "le Festival d'Avignon",
-       "bn_pron": "লে° ফ়েস্তিভ়াল দাভ়িন্যোঁ",
-       "en_pron": "luh fehs-tee-vahl dah-vee-NYOHN",
-       "bn": "আভিঞোঁ নাট্যোৎসব",
-       "en": "Avignon Festival",
-       "icon": "🎭",
-       "story_bn": "১৯৪৭ সালে শুরু হওয়া আভিঞোঁ উৎসব পৃথিবীর সবচেয়ে বড় নাট্যোৎসবগুলোর একটি।",
-       "source_hint": "Festival d'Avignon, 1947"
+       "fr": "le Festival de jazz de Montréal",
+       "bn_pron": "লে° ফ়েস্তিভ়াল দে° দ্ঝ়াজ় দে° মোঁর়েয়াল",
+       "en_pron": "luh fehs-tee-vahl duh jahz duh mohn-ray-AHL",
+       "bn": "মন্ট্রিয়ল জ্যাজ উৎসব",
+       "en": "Montreal Jazz Festival",
+       "icon": "🎷",
+       "story_bn": "প্রতি গ্রীষ্মে হওয়া মন্ট্রিয়ল জ্যাজ উৎসব পৃথিবীর সবচেয়ে বড় জ্যাজ উৎসবগুলোর একটি, আর এর বহু অনুষ্ঠান রাস্তায় বিনা পয়সায় হয়।",
+       "source_hint": "Festival international de jazz de Montréal, since 1980"
       },
       {
        "fr": "le Cirque du Soleil",
@@ -5071,14 +5067,14 @@
        "source_hint": "GR footpaths (sentiers de grande randonnée)"
       },
       {
-       "fr": "les Jeux de la Francophonie (m. pl.)",
-       "bn_pron": "লে ঝ়ে° দে° লা ফ়্র়াঁকোফ়োনি",
-       "en_pron": "lay zhuh duh lah frahn-koh-foh-NEE",
-       "bn": "ফরাসিভাষী দেশগুলোর ক্রীড়া উৎসব",
-       "en": "Jeux de la Francophonie",
-       "icon": "🏅",
-       "story_bn": "চার বছর পরপর হওয়া এই উৎসবে খেলাধুলার পাশাপাশি গান, নাচ আর কবিতারও প্রতিযোগিতা হয়।",
-       "source_hint": "Jeux de la Francophonie, since 1989"
+       "fr": "la Coupe d'Afrique des nations",
+       "bn_pron": "লা কুপ দাফ়্র়িক দে নাসিয়োঁ",
+       "en_pron": "lah koop dah-freek day nah-SYOHN",
+       "bn": "আফ্রিকা কাপ অব নেশনস",
+       "en": "Africa Cup of Nations",
+       "icon": "🏆",
+       "story_bn": "আফ্রিকার এই ফুটবল প্রতিযোগিতায় ক্যামেরুন, কোত দিভোয়ার ও সেনেগালের মতো ফরাসিভাষী দেশগুলো মিলে বহুবার শিরোপা জিতেছে।",
+       "source_hint": "Africa Cup of Nations winners"
       }
      ]
     }
@@ -5379,12 +5375,11 @@
      "title_en": "Character & virtues",
      "words": [
       {
-       "fr": "gentil",
-       "bn_pron": "ঝ়াঁতি",
-       "en_pron": "zhahn-TEE",
-       "bn": "ভালো মনের, সদয়",
-       "en": "kind",
-       "note_bn": "স্ত্রীলিঙ্গ: gentille (ঝ়াঁতিই)"
+       "fr": "aimable",
+       "bn_pron": "এমাব্ল",
+       "en_pron": "eh-MAHBL",
+       "bn": "অমায়িক",
+       "en": "friendly, kind"
       },
       {
        "fr": "généreux",
@@ -5395,27 +5390,25 @@
        "note_bn": "স্ত্রীলিঙ্গ: généreuse"
       },
       {
-       "fr": "honnête",
-       "bn_pron": "ওনেত",
-       "en_pron": "oh-NEHT",
-       "bn": "সৎ",
-       "en": "honest"
+       "fr": "modeste",
+       "bn_pron": "মোদেস্ত",
+       "en_pron": "moh-DEHST",
+       "bn": "বিনয়ী, সাদাসিধা",
+       "en": "modest"
       },
       {
-       "fr": "patient",
-       "bn_pron": "পাসিয়াঁ",
-       "en_pron": "pah-SYAHN",
-       "bn": "ধৈর্যশীল",
-       "en": "patient",
-       "note_bn": "স্ত্রীলিঙ্গ: patiente"
+       "fr": "serviable",
+       "bn_pron": "সের়ভ়িয়াব্ল",
+       "en_pron": "sehr-VYAHBL",
+       "bn": "পরোপকারী",
+       "en": "helpful, obliging"
       },
       {
-       "fr": "poli",
-       "bn_pron": "পোলি",
-       "en_pron": "poh-LEE",
-       "bn": "ভদ্র",
-       "en": "polite",
-       "note_bn": "স্ত্রীলিঙ্গ: polie"
+       "fr": "juste",
+       "bn_pron": "ঝ়ি°স্ত",
+       "en_pron": "ZHÜST",
+       "bn": "ন্যায়পরায়ণ; সঠিক",
+       "en": "fair, just"
       },
       {
        "fr": "humble",
@@ -5548,12 +5541,11 @@
        "en": "humility"
       },
       {
-       "fr": "le pardon",
-       "bn_pron": "লে° পার়দোঁ",
-       "en_pron": "luh pahr-DOHN",
-       "bn": "ক্ষমা",
-       "en": "forgiveness",
-       "note_bn": "শুধু Pardon ! = মাফ করবেন!"
+       "fr": "la sincérité",
+       "bn_pron": "লা স্যাঁসের়িতে",
+       "en_pron": "lah sehn-say-ree-TAY",
+       "bn": "আন্তরিকতা",
+       "en": "sincerity"
       },
       {
        "fr": "la confiance",
@@ -5708,11 +5700,11 @@
        "en": "to suffer"
       },
       {
-       "fr": "partager",
-       "bn_pron": "পার়তাঝ়ে",
-       "en_pron": "pahr-tah-ZHAY",
-       "bn": "ভাগ করে নেওয়া",
-       "en": "to share"
+       "fr": "soutenir",
+       "bn_pron": "সুত্নির়",
+       "en_pron": "soot-NEER",
+       "bn": "পাশে দাঁড়ানো, সমর্থন করা",
+       "en": "to support"
       },
       {
        "fr": "encourager",
@@ -5760,26 +5752,25 @@
      "title_en": "Values & etiquette words",
      "words": [
       {
-       "fr": "la politesse",
-       "bn_pron": "লা পোলিতেস",
-       "en_pron": "lah poh-lee-TEHS",
-       "bn": "ভদ্রতা",
-       "en": "politeness",
-       "icon": "🙏",
-       "story_bn": "ফ্রান্সে দোকানে ঢুকে প্রথমেই «বোঁজুর» না বলাকে অভদ্রতা ধরা হয়।",
-       "link_bn": "আমাদের সালাম দিয়ে কথা শুরু করার মতো।",
-       "source_hint": "French shop etiquette"
+       "fr": "la fraternité",
+       "bn_pron": "লা ফ়্র়াতের়নিতে",
+       "en_pron": "lah frah-tehr-nee-TAY",
+       "bn": "ভ্রাতৃত্ব",
+       "en": "fraternity, brotherhood",
+       "icon": "🤝",
+       "story_bn": "২০১৮ সালে ফ্রান্সের সাংবিধানিক পরিষদ জানায়, মূলমন্ত্রের «ভ্রাতৃত্ব» একটি আইনি নীতি, যা বিপদগ্রস্ত মানুষকে মানবিক সাহায্য করার স্বাধীনতা রক্ষা করে।",
+       "link_bn": "«মুমিনরা পরস্পর ভাই» — ভ্রাতৃত্ব আমাদেরও মূল্যবোধ।",
+       "source_hint": "Conseil constitutionnel, décision n° 2018-717/718 QPC"
       },
       {
-       "fr": "le savoir-vivre",
-       "bn_pron": "লে° সাভ়োয়ার় ভ়িভ়্র়",
-       "en_pron": "luh sah-vwahr VEEVR",
-       "bn": "আদবকায়দা",
-       "en": "good manners, etiquette",
+       "fr": "la courtoisie",
+       "bn_pron": "লা কুর়তোয়াজ়ি",
+       "en_pron": "lah koor-twah-ZEE",
+       "bn": "সৌজন্য",
+       "en": "courtesy",
        "icon": "🎩",
-       "story_bn": "আক্ষরিক মানে «জীবনযাপন জানা» — ফরাসিতে সামাজিক আদবকায়দার জ্ঞানকে বলে সাভোয়ার-ভিভ্র।",
-       "link_bn": "আমাদের «আদব» শব্দের কাছাকাছি।",
-       "source_hint": "Savoir-vivre (dictionary)"
+       "story_bn": "«কুর্তোয়াজি» শব্দটি এসেছে cour (রাজসভা) থেকে — মধ্যযুগের রাজসভার আদবকায়দা।",
+       "source_hint": "Etymology: courtoisie < cour"
       },
       {
        "fr": "le quart d'heure de politesse",
@@ -5894,15 +5885,15 @@
        "source_hint": "Bienveillance in French education"
       },
       {
-       "fr": "la teranga",
-       "bn_pron": "লা তের়াঙ্গা",
-       "en_pron": "lah teh-rahn-GAH",
-       "bn": "তেরাঙ্গা (আতিথেয়তা)",
-       "en": "teranga (hospitality)",
-       "icon": "🤝",
-       "story_bn": "উলোফ ভাষার «তেরাঙ্গা» মানে আতিথেয়তা; সেনেগালের ফুটবল দলের ডাকনামই «তেরাঙ্গার সিংহ»।",
-       "link_bn": "আমাদের মেহমানদারির মতো।",
-       "source_hint": "Lions de la Teranga"
+       "fr": "le vivre-ensemble",
+       "bn_pron": "লে° ভ়িভ়্র় আঁসাঁব্ল",
+       "en_pron": "luh veevr ahn-SAHNBL",
+       "bn": "মিলেমিশে বাঁচা",
+       "en": "living together in harmony",
+       "icon": "🧑‍🤝‍🧑",
+       "story_bn": "ভিন্ন ধর্ম ও সংস্কৃতির মানুষের শান্তিপূর্ণ সহাবস্থান বোঝাতে আজকের ফরাসিতে খুব প্রচলিত কথা «ভিভ্র-আঁসাঁব্ল»।",
+       "link_bn": "আমাদের সম্প্রীতির ঐতিহ্যের মতো।",
+       "source_hint": "Vivre-ensemble (French public discourse)"
       },
       {
        "fr": "l'hospitalité (f.)",
@@ -5958,15 +5949,14 @@
        "source_hint": "French \"art de vivre\""
       },
       {
-       "fr": "le système D",
-       "bn_pron": "লে° সিস্তেম দে",
-       "en_pron": "luh sees-tehm DAY",
-       "bn": "বুদ্ধি খাটিয়ে সামলে নেওয়া",
-       "en": "resourcefulness",
-       "icon": "🔧",
-       "story_bn": "«সিস্তেম দে»-র D এসেছে débrouiller (সামলে নেওয়া) থেকে — হাতের কাছে যা আছে তা দিয়েই সমাধান।",
-       "link_bn": "আমাদের «জোড়াতালি দিয়ে চালিয়ে নেওয়া»।",
-       "source_hint": "Système D, from se débrouiller"
+       "fr": "l'altruisme (m.)",
+       "bn_pron": "লাল্ত্র়ুইস্ম",
+       "en_pron": "lahl-trü-EESM",
+       "bn": "পরার্থপরতা",
+       "en": "altruism",
+       "icon": "🤲",
+       "story_bn": "ফরাসি দার্শনিক অগুস্ত কোঁত উনিশ শতকে «altruisme» শব্দটি তৈরি করেন।",
+       "source_hint": "Auguste Comte coined altruisme"
       },
       {
        "fr": "le bon sens",
@@ -5999,15 +5989,15 @@
        "source_hint": "Négritude movement"
       },
       {
-       "fr": "la baraka",
-       "bn_pron": "লা বার়াকা",
-       "en_pron": "lah bah-rah-KAH",
-       "bn": "বরকত; সৌভাগ্য",
-       "en": "blessing; luck",
-       "icon": "✨",
-       "story_bn": "আরবি «বারাকা» শব্দটি ফরাসি কথ্য ভাষায় ঢুকে «সৌভাগ্য» অর্থে চলে: avoir la baraka।",
-       "link_bn": "আমাদের «বরকত» একই শব্দ!",
-       "source_hint": "Baraka in French (Larousse)"
+       "fr": "la sobriété",
+       "bn_pron": "লা সোব্র়িয়েতে",
+       "en_pron": "lah soh-bree-yay-TAY",
+       "bn": "সংযম, মিতব্যয়িতা",
+       "en": "moderation, restraint",
+       "icon": "🌱",
+       "story_bn": "২০২২ সালের জ্বালানি সংকটে ফ্রান্স সরকার জাতীয় «জ্বালানি সংযম পরিকল্পনা» ঘোষণা করে।",
+       "link_bn": "অপচয় না করা — আমাদের ধর্ম আর সংস্কৃতিরও শিক্ষা।",
+       "source_hint": "Plan de sobriété énergétique, October 2022"
       },
       {
        "fr": "inch'Allah",
@@ -6075,8 +6065,8 @@
      "a": "la patience"
     },
     {
-     "q_bn": "«honnête» মানে কী?",
-     "a": "সৎ"
+     "q_bn": "«modeste» মানে কী?",
+     "a": "বিনয়ী, সাদাসিধা"
     },
     {
      "q_bn": "«Tu me manques» মানে কী?",
@@ -6091,12 +6081,12 @@
      "a": "sourire = মুচকি হাসা, rire = জোরে হাসা"
     },
     {
-     "q_bn": "সেনেগালের আতিথেয়তার শব্দটি কী?",
-     "a": "la teranga"
+     "q_bn": "ফরাসি প্রজাতন্ত্রের মূলমন্ত্রের তৃতীয় শব্দ কী?",
+     "a": "la fraternité"
     },
     {
-     "q_bn": "ফরাসি ভাষায় ঢোকা আরবি শব্দ «বরকত» কী?",
-     "a": "la baraka"
+     "q_bn": "«altruisme» শব্দটি কে তৈরি করেন?",
+     "a": "অগুস্ত কোঁত"
     },
     {
      "q_bn": "দাওয়াতে কত দেরিতে যাওয়া ভদ্রতা?",
@@ -6187,11 +6177,12 @@
        "en": "gardening"
       },
       {
-       "fr": "la photo",
-       "bn_pron": "লা ফ়োতো",
-       "en_pron": "lah foh-TOH",
-       "bn": "ছবি তোলা; ছবি",
-       "en": "photography; photo"
+       "fr": "le bricolage",
+       "bn_pron": "লে° ব্র়িকোলাঝ়",
+       "en_pron": "luh bree-koh-LAHZH",
+       "bn": "ঘরোয়া মেরামত ও হাতের কাজ",
+       "en": "DIY",
+       "note_bn": "bricoler = টুকটাক মেরামত করা"
       },
       {
        "fr": "la natation",
@@ -6244,11 +6235,11 @@
        "en": "club"
       },
       {
-       "fr": "l'équipe (f.)",
-       "bn_pron": "লেকিপ",
-       "en_pron": "lay-KEEP",
-       "bn": "দল",
-       "en": "team"
+       "fr": "le jeu de société",
+       "bn_pron": "লে° ঝ়ে° দে° সোসিয়েতে",
+       "en_pron": "luh zhuh duh soh-syay-TAY",
+       "bn": "বোর্ড গেম",
+       "en": "board game"
       },
       {
        "fr": "le match",
@@ -6258,12 +6249,11 @@
        "en": "match, game"
       },
       {
-       "fr": "jouer",
-       "bn_pron": "ঝ়ুয়ে",
-       "en_pron": "zhoo-AY",
-       "bn": "খেলা; বাজানো",
-       "en": "to play",
-       "note_bn": "jouer au foot / jouer du piano"
+       "fr": "s'entraîner",
+       "bn_pron": "সাঁত্র়েনে",
+       "en_pron": "sahn-treh-NAY",
+       "bn": "অনুশীলন করা",
+       "en": "to train, to practise"
       },
       {
        "fr": "danser",
@@ -6287,18 +6277,19 @@
        "en": "to run"
       },
       {
-       "fr": "se promener",
-       "bn_pron": "সে° প্র়োম্নে",
-       "en_pron": "suh prohm-NAY",
-       "bn": "বেড়াতে যাওয়া, হাঁটতে যাওয়া",
-       "en": "to go for a walk"
+       "fr": "se balader",
+       "bn_pron": "সে° বালাদে",
+       "en_pron": "suh bah-lah-DAY",
+       "bn": "ঘুরে বেড়ানো",
+       "en": "to wander, to stroll",
+       "note_bn": "কথ্য"
       },
       {
-       "fr": "se détendre",
-       "bn_pron": "সে° দেতাঁদ্র়",
-       "en_pron": "suh day-TAHNDR",
-       "bn": "বিশ্রাম নেওয়া, হালকা হওয়া",
-       "en": "to relax"
+       "fr": "la musculation",
+       "bn_pron": "লা মি°স্কি°লাসিয়োঁ",
+       "en_pron": "lah müs-kü-lah-SYOHN",
+       "bn": "শরীরচর্চা (জিমে)",
+       "en": "weight training"
       },
       {
        "fr": "s'amuser",
@@ -6420,11 +6411,12 @@
        "note_bn": "কথ্য"
       },
       {
-       "fr": "pas du tout",
-       "bn_pron": "পা দি° তু",
-       "en_pron": "pah dü TOO",
-       "bn": "মোটেই না",
-       "en": "not at all"
+       "fr": "pas mal",
+       "bn_pron": "পা মাল",
+       "en_pron": "pah MAHL",
+       "bn": "মন্দ না, বেশ ভালো",
+       "en": "not bad",
+       "note_bn": "pas mal de = অনেক"
       },
       {
        "fr": "tout à fait",
@@ -6507,18 +6499,18 @@
      "title_en": "Social verbs",
      "words": [
       {
-       "fr": "rencontrer",
-       "bn_pron": "র়াঁকোঁত্র়ে",
-       "en_pron": "rahn-kohn-TRAY",
-       "bn": "দেখা হওয়া, পরিচিত হওয়া",
-       "en": "to meet"
+       "fr": "faire connaissance",
+       "bn_pron": "ফ়ের় কোনেসাঁস",
+       "en_pron": "fehr koh-neh-SAHNS",
+       "bn": "পরিচিত হওয়া",
+       "en": "to get acquainted"
       },
       {
-       "fr": "présenter",
-       "bn_pron": "প্র়েজ়াঁতে",
-       "en_pron": "pray-zahn-TAY",
-       "bn": "পরিচয় করিয়ে দেওয়া",
-       "en": "to introduce, to present"
+       "fr": "se confier",
+       "bn_pron": "সে° কোঁফ়িয়ে",
+       "en_pron": "suh kohn-FYAY",
+       "bn": "মনের কথা খুলে বলা",
+       "en": "to confide"
       },
       {
        "fr": "bavarder",
@@ -6593,12 +6585,12 @@
        "en": "to make up"
       },
       {
-       "fr": "se souvenir",
-       "bn_pron": "সে° সুভ়্নির়",
-       "en_pron": "suh soov-NEER",
-       "bn": "মনে পড়া, মনে রাখা",
-       "en": "to remember",
-       "note_bn": "je me souviens = আমার মনে আছে"
+       "fr": "se voir",
+       "bn_pron": "সে° ভ়োয়ার়",
+       "en_pron": "suh VWAHR",
+       "bn": "একে অপরের সঙ্গে দেখা করা",
+       "en": "to see each other",
+       "note_bn": "On se voit demain ? = কাল দেখা হবে?"
       },
       {
        "fr": "proposer",
@@ -6673,11 +6665,11 @@
        "en": "to frequent; to spend time with"
       },
       {
-       "fr": "recevoir",
-       "bn_pron": "র়ে°সে°ভ়োয়ার়",
-       "en_pron": "ruh-suh-VWAHR",
-       "bn": "পাওয়া; অতিথি আপ্যায়ন করা",
-       "en": "to receive; to host"
+       "fr": "taquiner",
+       "bn_pron": "তাকিনে",
+       "en_pron": "tah-kee-NAY",
+       "bn": "খুনসুটি করা",
+       "en": "to tease"
       },
       {
        "fr": "annuler",
@@ -6793,36 +6785,35 @@
        "source_hint": "Grin, Mali and Burkina Faso"
       },
       {
-       "fr": "le maquis",
-       "bn_pron": "লে° মাকি",
-       "en_pron": "luh mah-KEE",
-       "bn": "মাকি (খোলা খাবারঘর)",
-       "en": "maquis (open-air eatery)",
-       "icon": "🍗",
-       "story_bn": "কোত দিভোয়ারে খোলা আকাশের নিচে সস্তা খাবারের দোকানকে বলে «মাকি», যেখানে বন্ধুরা আড্ডা জমায়।",
-       "source_hint": "Maquis, Côte d'Ivoire"
+       "fr": "la guinguette",
+       "bn_pron": "লা গ্যাঁগেত",
+       "en_pron": "lah gehn-GEHT",
+       "bn": "নদীর ধারের নাচ-গানের আসর",
+       "en": "riverside dance hall",
+       "icon": "💃",
+       "story_bn": "উনিশ শতকে প্যারিসবাসী ছুটির দিনে মার্ন নদীর ধারের «গ্যাঁগেত»-এ অ্যাকর্ডিয়নের সুরে নাচতে যেত।",
+       "source_hint": "Guinguettes des bords de Marne"
       },
       {
-       "fr": "la cabane à sucre",
-       "bn_pron": "লা কাবান আ সি°ক্র়",
-       "en_pron": "lah kah-bahn ah SÜKR",
-       "bn": "মেপল-সিরাপের কুটির",
-       "en": "sugar shack",
-       "icon": "🍁",
-       "story_bn": "বসন্তে কেবেকের পরিবার-বন্ধুরা মেপল-সিরাপের কুটিরে গিয়ে বরফের ওপর গরম সিরাপ জমিয়ে খায়।",
-       "link_bn": "আমাদের শীতের খেজুর-রস আর গুড় জ্বাল দেওয়ার উৎসবের মতো।",
-       "source_hint": "Cabane à sucre, tire sur la neige"
+       "fr": "les soirées du Ramadan (f. pl.)",
+       "bn_pron": "লে সোয়ার়ে দি° র়ামাদাঁ",
+       "en_pron": "lay swah-ray dü rah-mah-DAHN",
+       "bn": "রমজানের রাতের আসর",
+       "en": "Ramadan evenings",
+       "icon": "🌙",
+       "story_bn": "রমজানে মাগরেবের শহরগুলোতে ইফতার আর তারাবির পর রাত জেগে পরিবার-বন্ধুদের দেখা-সাক্ষাৎ চলে।",
+       "link_bn": "আমাদের রমজানের সন্ধ্যার মতোই প্রাণবন্ত।",
+       "source_hint": "Ramadan nights in Maghreb cities"
       },
       {
-       "fr": "le dépanneur",
-       "bn_pron": "লে° দেপানে°র়",
-       "en_pron": "luh day-pah-NUHR",
-       "bn": "পাড়ার মুদি দোকান (কেবেক)",
-       "en": "corner store (Quebec)",
-       "icon": "🏪",
-       "story_bn": "কেবেকে পাড়ার ছোট দোকানকে বলে «দেপানর» — শব্দটির মানে «বিপদে উদ্ধারকারী»।",
-       "link_bn": "আমাদের পাড়ার মুদি দোকানের মতো, যেখানে সবার সঙ্গে দেখা হয়।",
-       "source_hint": "Québécois French: dépanneur"
+       "fr": "la chorale",
+       "bn_pron": "লা কোর়াল",
+       "en_pron": "lah koh-RAHL",
+       "bn": "গানের দল",
+       "en": "choir",
+       "icon": "🎶",
+       "story_bn": "ফ্রান্সে স্কুল, পাড়া আর সমিতির শখের গানের দল «কোরাল»-এ বহু মানুষ নতুন বন্ধু পান।",
+       "source_hint": "Amateur choirs in France"
       },
       {
        "fr": "le bal populaire",
@@ -6951,15 +6942,15 @@
        "source_hint": "Tandem language learning"
       },
       {
-       "fr": "l'Alliance française (f.)",
-       "bn_pron": "লালিয়াঁস ফ়্র়াঁসেজ়",
-       "en_pron": "lah-lyahns frahn-SEHZ",
-       "bn": "আলিয়ঁস ফ্রঁসেজ",
-       "en": "Alliance Française",
-       "icon": "🏫",
-       "story_bn": "১৮৮৩ সালে প্যারিসে প্রতিষ্ঠিত আলিয়ঁস ফ্রঁসেজের শাখা ঢাকা ও চট্টগ্রামেও আছে।",
-       "link_bn": "ঢাকার ধানমন্ডিতে আলিয়ঁস ফ্রঁসেজে ফরাসি শেখা আর আড্ডা দুটোই হয়।",
-       "source_hint": "Alliance Française, founded 1883; AF de Dhaka"
+       "fr": "le scoutisme",
+       "bn_pron": "লে° স্কুতিস্ম",
+       "en_pron": "luh skoo-TEESM",
+       "bn": "স্কাউটিং",
+       "en": "scouting",
+       "icon": "⛺",
+       "story_bn": "ফ্রান্স, বেলজিয়াম আর ফরাসিভাষী আফ্রিকায় স্কাউট দলে শিশুরা তাঁবু খাটানো আর দলবদ্ধ জীবন শেখে।",
+       "link_bn": "বাংলাদেশ স্কাউটসের মতো।",
+       "source_hint": "Scouting in francophone countries"
       }
      ]
     }
@@ -7020,8 +7011,8 @@
      "a": "একঘেয়ে"
     },
     {
-     "q_bn": "«মোটেই না» ফরাসিতে কী?",
-     "a": "pas du tout"
+     "q_bn": "«pas mal» মানে কী?",
+     "a": "মন্দ না, বেশ ভালো"
     },
     {
      "q_bn": "«দেখা করা (ঠিক করে)» ফরাসিতে কী?",
@@ -7036,12 +7027,12 @@
      "a": "যার সঙ্গে রুটি ভাগ করে খাও"
     },
     {
-     "q_bn": "কেবেকে পাড়ার মুদি দোকানকে কী বলে?",
-     "a": "le dépanneur"
+     "q_bn": "নদীর ধারের নাচ-গানের আসরকে কী বলে?",
+     "a": "la guinguette"
     },
     {
-     "q_bn": "ঢাকায় ফরাসি শেখার বিখ্যাত প্রতিষ্ঠানের নাম কী?",
-     "a": "l'Alliance française"
+     "q_bn": "«মনের কথা খুলে বলা» ফরাসিতে কী?",
+     "a": "se confier"
     }
    ],
    "stamp": {
@@ -7083,18 +7074,18 @@
        "note_bn": "বিশেষণ হিসেবেও: numérique = ডিজিটাল"
       },
       {
-       "fr": "l'écran (m.)",
-       "bn_pron": "লেক্র়াঁ",
-       "en_pron": "lay-KRAHN",
-       "bn": "পর্দা, স্ক্রিন",
-       "en": "screen"
+       "fr": "le disque dur",
+       "bn_pron": "লে° দিস্ক দি°র়",
+       "en_pron": "luh deesk DÜR",
+       "bn": "হার্ড ডিস্ক",
+       "en": "hard drive"
       },
       {
-       "fr": "le clavier",
-       "bn_pron": "লে° ক্লাভ়িয়ে",
-       "en_pron": "luh klah-VYAY",
-       "bn": "কি-বোর্ড",
-       "en": "keyboard"
+       "fr": "la clé USB",
+       "bn_pron": "লা ক্লে ই° এস বে",
+       "en_pron": "lah klay ü ehs BAY",
+       "bn": "পেনড্রাইভ",
+       "en": "USB stick"
       },
       {
        "fr": "la souris",
@@ -7111,11 +7102,11 @@
        "en": "software"
       },
       {
-       "fr": "le mot de passe",
-       "bn_pron": "লে° মো দে° পাস",
-       "en_pron": "luh moh duh PAHS",
-       "bn": "পাসওয়ার্ড",
-       "en": "password"
+       "fr": "l'imprimante (f.)",
+       "bn_pron": "ল্যাঁপ্র়িমাঁত",
+       "en_pron": "lehn-pree-MAHNT",
+       "bn": "প্রিন্টার",
+       "en": "printer"
       },
       {
        "fr": "l'identifiant (m.)",
@@ -7132,11 +7123,12 @@
        "en": "file"
       },
       {
-       "fr": "le dossier",
-       "bn_pron": "লে° দোসিয়ে",
-       "en_pron": "luh doh-SYAY",
-       "bn": "ফোল্ডার; নথি",
-       "en": "folder; file (dossier)"
+       "fr": "le haut-parleur",
+       "bn_pron": "লে° ও পার়লে°র়",
+       "en_pron": "luh oh pahr-LUHR",
+       "bn": "স্পিকার",
+       "en": "loudspeaker",
+       "note_bn": "h উচ্চারিত না হলেও le-র e বাদ যায় না"
       },
       {
        "fr": "la mise à jour",
@@ -7161,12 +7153,11 @@
        "en": "link"
       },
       {
-       "fr": "le courriel",
-       "bn_pron": "লে° কুর়িয়েল",
-       "en_pron": "luh koo-RYEHL",
-       "bn": "ই-মেইল",
-       "en": "email",
-       "note_bn": "কেবেক থেকে আসা শব্দ; ফ্রান্সে le mail-ও বলা হয়"
+       "fr": "le moteur de recherche",
+       "bn_pron": "লে° মোতে°র় দে° র়ে°শের়শ",
+       "en_pron": "luh moh-tuhr duh ruh-SHEHRSH",
+       "bn": "সার্চ ইঞ্জিন",
+       "en": "search engine"
       },
       {
        "fr": "la pièce jointe",
@@ -7183,18 +7174,18 @@
        "en": "browser; navigator"
       },
       {
-       "fr": "le chargeur",
-       "bn_pron": "লে° শার়ঝ়ে°র়",
-       "en_pron": "luh shahr-ZHUHR",
-       "bn": "চার্জার",
-       "en": "charger"
+       "fr": "le pseudo",
+       "bn_pron": "লে° প্সে°দো",
+       "en_pron": "luh psuh-DOH",
+       "bn": "অনলাইন ছদ্মনাম",
+       "en": "username, nickname"
       },
       {
-       "fr": "le wifi",
-       "bn_pron": "লে° উইফ়ি",
-       "en_pron": "luh wee-FEE",
-       "bn": "ওয়াইফাই",
-       "en": "wifi"
+       "fr": "imprimer",
+       "bn_pron": "অ্যাঁপ্র়িমে",
+       "en_pron": "ehn-pree-MAY",
+       "bn": "প্রিন্ট করা",
+       "en": "to print"
       },
       {
        "fr": "l'intelligence artificielle (f.)",
@@ -7233,11 +7224,12 @@
        "en": "to log in, to connect"
       },
       {
-       "fr": "cliquer",
-       "bn_pron": "ক্লিকে",
-       "en_pron": "klee-KAY",
-       "bn": "ক্লিক করা",
-       "en": "to click"
+       "fr": "copier",
+       "bn_pron": "কোপিয়ে",
+       "en_pron": "koh-PYAY",
+       "bn": "কপি করা",
+       "en": "to copy",
+       "note_bn": "copier-coller = কপি-পেস্ট"
       },
       {
        "fr": "supprimer",
@@ -7397,11 +7389,11 @@
        "en": "tracking, follow-up"
       },
       {
-       "fr": "la file d'attente",
-       "bn_pron": "লা ফ়িল দাতাঁত",
-       "en_pron": "lah feel dah-TAHNT",
-       "bn": "লাইন, সারি",
-       "en": "queue"
+       "fr": "le retrait",
+       "bn_pron": "লে° র়ে°ত্র়ে",
+       "en_pron": "luh ruh-TREH",
+       "bn": "(অর্ডার) সংগ্রহ; টাকা তোলা",
+       "en": "pick-up; withdrawal"
       },
       {
        "fr": "la panne",
@@ -7412,11 +7404,11 @@
        "note_bn": "en panne = নষ্ট, বিকল"
       },
       {
-       "fr": "l'assurance (f.)",
-       "bn_pron": "লাসি°র়াঁস",
-       "en_pron": "lah-sü-RAHNS",
-       "bn": "বিমা",
-       "en": "insurance"
+       "fr": "la garantie",
+       "bn_pron": "লা গার়াঁতি",
+       "en_pron": "lah gah-rahn-TEE",
+       "bn": "ওয়ারেন্টি, নিশ্চয়তা",
+       "en": "guarantee, warranty"
       },
       {
        "fr": "commander",
@@ -7536,11 +7528,11 @@
        "note_bn": "কথ্য: la manif"
       },
       {
-       "fr": "la grève",
-       "bn_pron": "লা গ্র়েভ়",
-       "en_pron": "lah GREHV",
-       "bn": "ধর্মঘট",
-       "en": "strike"
+       "fr": "la réforme",
+       "bn_pron": "লা র়েফ়োর়ম",
+       "en_pron": "lah ray-FORM",
+       "bn": "সংস্কার",
+       "en": "reform"
       },
       {
        "fr": "la crise",
@@ -7550,11 +7542,11 @@
        "en": "crisis"
       },
       {
-       "fr": "le chômage",
-       "bn_pron": "লে° শোমাঝ়",
-       "en_pron": "luh shoh-MAHZH",
-       "bn": "বেকারত্ব",
-       "en": "unemployment"
+       "fr": "la pauvreté",
+       "bn_pron": "লা পোভ়্র়ে°তে",
+       "en_pron": "lah poh-vruh-TAY",
+       "bn": "দারিদ্র্য",
+       "en": "poverty"
       },
       {
        "fr": "l'immigration (f.)",
@@ -7641,14 +7633,14 @@
        "source_hint": "Roland Moreno, smart card patent 1974"
       },
       {
-       "fr": "le Minitel",
-       "bn_pron": "লে° মিনিতেল",
-       "en_pron": "luh mee-nee-TEHL",
-       "bn": "মিনিতেল",
-       "en": "Minitel",
-       "icon": "📟",
-       "story_bn": "ইন্টারনেট আসার আগেই ১৯৮০-র দশকে ফরাসিরা ঘরে বসে মিনিতেল যন্ত্রে ট্রেনের টিকিট কাটত আর বার্তা পাঠাত।",
-       "source_hint": "Minitel, 1982–2012"
+       "fr": "la carte Vitale",
+       "bn_pron": "লা কার়ত ভ়িতাল",
+       "en_pron": "lah kahrt vee-TAHL",
+       "bn": "স্বাস্থ্যবিমা কার্ড",
+       "en": "French health insurance card",
+       "icon": "💳",
+       "story_bn": "ফ্রান্সে সবুজ চিপযুক্ত «কার্ত ভিতাল» দেখালে ডাক্তারের খরচের বড় অংশ সরকারি বিমা থেকে সরাসরি ফেরত আসে।",
+       "source_hint": "Carte Vitale, since 1998"
       },
       {
        "fr": "la fusée Ariane",
@@ -7816,15 +7808,14 @@
        "source_hint": "Big Four fashion weeks"
       },
       {
-       "fr": "l'Académie française (f.)",
-       "bn_pron": "লাকাদেমি ফ়্র়াঁসেজ়",
-       "en_pron": "lah-kah-day-mee frahn-SEHZ",
-       "bn": "আকাদেমি ফ্রঁসেজ",
-       "en": "the Académie française",
-       "icon": "📖",
-       "story_bn": "১৬৩৫ সালে প্রতিষ্ঠিত এই প্রতিষ্ঠানের ৪০ জন সদস্যকে বলা হয় «অমর», আর তাঁরা ফরাসি ভাষার অভিধান তৈরি করেন।",
-       "link_bn": "আমাদের বাংলা একাডেমির মতো ভাষার অভিভাবক।",
-       "source_hint": "Académie française, 1635"
+       "fr": "Doctolib",
+       "bn_pron": "দোক্তোলিব",
+       "en_pron": "dok-toh-LEEB",
+       "bn": "দক্তোলিব অ্যাপ",
+       "en": "Doctolib",
+       "icon": "🩺",
+       "story_bn": "২০১৩ সালে চালু হওয়া ফরাসি অ্যাপ দক্তোলিবে এখন বহু মানুষ অনলাইনে ডাক্তারের সময় নেন।",
+       "source_hint": "Doctolib, founded 2013"
       },
       {
        "fr": "le mot-dièse",
@@ -7931,8 +7922,8 @@
    "mission_bn": "আপনার ফোনের ভাষা পাঁচ মিনিটের জন্য ফরাসি করে দিন (Paramètres → Langue)। মেনুতে চেনা শব্দগুলো খুঁজুন: mot de passe, mise à jour, supprimer, enregistrer… তারপর একটি ফরাসি খবরের শিরোনাম পড়ে বোঝার চেষ্টা করুন।",
    "quiz": [
     {
-     "q_bn": "«পাসওয়ার্ড» ফরাসিতে কী?",
-     "a": "le mot de passe"
+     "q_bn": "«প্রিন্টার» ফরাসিতে কী?",
+     "a": "l'imprimante"
     },
     {
      "q_bn": "«supprimer» মানে কী?",
@@ -7951,12 +7942,12 @@
      "a": "নষ্ট, বিকল"
     },
     {
-     "q_bn": "«ধর্মঘট» ফরাসিতে কী?",
-     "a": "la grève"
+     "q_bn": "«la réforme» মানে কী?",
+     "a": "সংস্কার"
     },
     {
-     "q_bn": "«le chômage» মানে কী?",
-     "a": "বেকারত্ব"
+     "q_bn": "«দারিদ্র্য» ফরাসিতে কী?",
+     "a": "la pauvreté"
     },
     {
      "q_bn": "«জলবায়ু পরিবর্তন» ফরাসিতে কী?",
@@ -8174,14 +8165,15 @@
        "source_hint": "gourmandise (dictionary)"
       },
       {
-       "fr": "la grasse matinée",
-       "bn_pron": "লা গ্র়াস মাতিনে",
-       "en_pron": "lah grahs mah-tee-NAY",
-       "bn": "দেরি করে ঘুম থেকে ওঠা",
-       "en": "sleeping in",
-       "icon": "😴",
-       "story_bn": "আক্ষরিক অর্থে «মোটা সকাল» — ছুটির দিনে দেরি করে ঘুম থেকে ওঠা।",
-       "source_hint": "faire la grasse matinée"
+       "fr": "la trouvaille",
+       "bn_pron": "লা ত্র়ুভ়াই",
+       "en_pron": "lah troo-VIGH",
+       "bn": "হঠাৎ পাওয়া চমৎকার জিনিস",
+       "en": "a lucky find",
+       "icon": "💎",
+       "story_bn": "«ত্রুভাই» মানে হঠাৎ খুঁজে পাওয়া দারুণ কিছু — পুরোনো বাজারের দামি জিনিস, একটা নিখুঁত শব্দ বা চমৎকার বুদ্ধি।",
+       "link_bn": "এই বইয়ের প্রতিটি নতুন শব্দই আপনার একেকটি «ত্রুভাই»!",
+       "source_hint": "trouvaille (dictionary)"
       },
       {
        "fr": "l'heure bleue (f.)",
@@ -8266,126 +8258,124 @@
      "title_en": "Words French gave the world (and Bangla)",
      "words": [
       {
-       "fr": "le restaurant",
-       "bn_pron": "লে° র়েস্তোর়াঁ",
-       "en_pron": "luh rehs-toh-RAHN",
-       "bn": "রেস্তোরাঁ",
-       "en": "restaurant",
-       "icon": "🍽️",
-       "story_bn": "প্যারিসে আঠারো শতকে restaurant মানে ছিল শরীর «চাঙা করা» ঝোল — restaurer মানে সতেজ করা।",
-       "link_bn": "বাংলায় «রেস্তোরাঁ», শেষে চন্দ্রবিন্দুসহ — ফরাসি নাসিক্য স্বরের ছাপ!",
-       "source_hint": "Etymology: restaurer"
+       "fr": "la façade",
+       "bn_pron": "লা ফ়াসাদ",
+       "en_pron": "lah fah-SAHD",
+       "bn": "দালানের সামনের দিক",
+       "en": "façade",
+       "icon": "🏛️",
+       "story_bn": "ফরাসি façade এসেছে ইতালীয় facciata থেকে, যার মূলে faccia মানে «মুখ»।",
+       "link_bn": "স্থাপত্যের বাংলাতেও বলা হয় «ফাসাড»।",
+       "source_hint": "Etymology: façade < facciata"
       },
       {
-       "fr": "le café",
-       "bn_pron": "লে° কাফ়ে",
-       "en_pron": "luh kah-FAY",
-       "bn": "কফি; ক্যাফে",
-       "en": "coffee; café",
-       "icon": "☕",
-       "story_bn": "প্যারিসের «ল্য প্রোকোপ» ১৬৮৬ সালে খোলে, শহরের সবচেয়ে পুরোনো ক্যাফেগুলোর একটি।",
-       "link_bn": "বাংলায় «ক্যাফে» — আর কলকাতার কফি হাউসের আড্ডা!",
-       "source_hint": "Café Procope, 1686"
+       "fr": "le genre",
+       "bn_pron": "লে° ঝ়াঁর়",
+       "en_pron": "luh ZHAHNR",
+       "bn": "ধরন; শ্রেণি",
+       "en": "kind; genre",
+       "icon": "🎭",
+       "story_bn": "ফরাসিতে genre মানে «ধরন»; সাহিত্য-সিনেমার শ্রেণি বোঝাতে পৃথিবীজুড়ে এই শব্দ চলে।",
+       "link_bn": "চলচ্চিত্র-সমালোচনার বাংলায় «জঁর»।",
+       "source_hint": "genre (dictionary)",
+       "note_bn": "ব্যাকরণে লিঙ্গও genre"
       },
       {
-       "fr": "le menu",
-       "bn_pron": "লে° মে°নি°",
-       "en_pron": "luh muh-NÜ",
-       "bn": "খাবারের তালিকা",
-       "en": "menu",
-       "icon": "📋",
-       "story_bn": "ফরাসিতে menu শব্দের আদি মানে «ছোট, খুঁটিনাটি» — খাবারের বিস্তারিত তালিকা।",
-       "link_bn": "বাংলায় «মেনু» — রেস্তোরাঁ থেকে কম্পিউটারের পর্দা পর্যন্ত।",
-       "source_hint": "Etymology: menu (small, detailed)"
+       "fr": "le prestige",
+       "bn_pron": "লে° প্র়েস্তিঝ়",
+       "en_pron": "luh prehs-TEEZH",
+       "bn": "মর্যাদা, সুনাম",
+       "en": "prestige",
+       "icon": "✨",
+       "story_bn": "লাতিন praestigium থেকে আসা শব্দটির আদি মানে ছিল «ভেলকি, ইন্দ্রজাল»।",
+       "link_bn": "বাংলায় «প্রেস্টিজ ইস্যু»!",
+       "source_hint": "Etymology: praestigium"
       },
       {
-       "fr": "le ballet",
-       "bn_pron": "লে° বালে",
-       "en_pron": "luh bah-LEH",
-       "bn": "ব্যালে নৃত্য",
-       "en": "ballet",
-       "icon": "🩰",
-       "story_bn": "রাজা চতুর্দশ লুই ১৬৬১ সালে নৃত্য একাডেমি গড়েন, তাই আজও ব্যালের ধাপগুলোর নাম ফরাসিতে: plié, pirouette, jeté।",
-       "link_bn": "বাংলায় «ব্যালে»।",
-       "source_hint": "Académie royale de danse, 1661"
+       "fr": "la route",
+       "bn_pron": "লা র়ুত",
+       "en_pron": "lah ROOT",
+       "bn": "পথ, সড়ক",
+       "en": "road, route",
+       "icon": "🛣️",
+       "story_bn": "ফরাসি route শব্দটি ইংরেজিতে গিয়ে যাত্রাপথ বোঝায়।",
+       "link_bn": "বাংলায় বাসের «রুট»!",
+       "source_hint": "route (dictionary)"
       },
       {
-       "fr": "le buffet",
-       "bn_pron": "লে° বি°ফ়ে",
-       "en_pron": "luh bü-FEH",
-       "bn": "বুফে",
-       "en": "buffet",
-       "icon": "🍱",
-       "story_bn": "ফরাসিতে buffet প্রথমে ছিল খাবার সাজিয়ে রাখার কাঠের আলমারি, পরে নিজে নিয়ে খাওয়ার ভোজের নাম।",
-       "link_bn": "বিয়েবাড়ি আর হোটেলের «বুফে»।",
-       "source_hint": "Etymology: buffet (sideboard)"
+       "fr": "le régime",
+       "bn_pron": "লে° র়েঝ়িম",
+       "en_pron": "luh ray-ZHEEM",
+       "bn": "শাসনব্যবস্থা; খাদ্যাভ্যাস (ডায়েট)",
+       "en": "regime; diet",
+       "icon": "⚖️",
+       "story_bn": "ফরাসি বিপ্লবের আগের রাজতন্ত্রকে বলা হয় «আঁসিয়াঁ রেজিম» — পুরোনো শাসনব্যবস্থা।",
+       "link_bn": "বাংলা খবরে «রেজিম»; ফরাসিতে ডায়েটও régime!",
+       "source_hint": "Ancien Régime"
       },
       {
-       "fr": "le chef",
-       "bn_pron": "লে° শেফ়",
-       "en_pron": "luh SHEHF",
-       "bn": "প্রধান; প্রধান রাঁধুনি",
-       "en": "chief; chef",
-       "icon": "👨‍🍳",
-       "story_bn": "ফরাসিতে chef মানে যেকোনো «প্রধান»; রান্নাঘরের প্রধান chef de cuisine থেকেই ইংরেজি ও বাংলায় «শেফ»।",
-       "link_bn": "বাংলায় «শেফ»।",
-       "source_hint": "Etymology: chef de cuisine",
-       "note_bn": "অফিসে le chef মানে বস"
+       "fr": "le chic",
+       "bn_pron": "লে° শিক",
+       "en_pron": "luh SHEEK",
+       "bn": "কেতাদুরস্ত রুচি",
+       "en": "chic",
+       "icon": "👒",
+       "story_bn": "রুচিশীল ও কেতাদুরস্ত বোঝাতে ফ্যাশনের দুনিয়ায় পৃথিবীজুড়ে এই ফরাসি শব্দ চলে।",
+       "source_hint": "chic in English dictionaries"
       },
       {
-       "fr": "le garage",
-       "bn_pron": "লে° গার়াঝ়",
-       "en_pron": "luh gah-RAHZH",
-       "bn": "গ্যারেজ",
-       "en": "garage",
-       "icon": "🚗",
-       "story_bn": "garer মানে গাড়ি রাখা — সেখান থেকে «গারাজ»।",
-       "link_bn": "বাংলায় «গ্যারেজ»।",
-       "source_hint": "Etymology: garer"
+       "fr": "la silhouette",
+       "bn_pron": "লা সিলুয়েত",
+       "en_pron": "lah see-LWEHT",
+       "bn": "ছায়া-অবয়ব",
+       "en": "silhouette",
+       "icon": "👤",
+       "story_bn": "১৭৫৯ সালের ফরাসি অর্থমন্ত্রী এতিয়েন দ্য সিলুয়েতের নাম থেকে এই শব্দের জন্ম।",
+       "source_hint": "Étienne de Silhouette, 1759"
       },
       {
-       "fr": "le coupon",
-       "bn_pron": "লে° কুপোঁ",
-       "en_pron": "luh koo-POHN",
-       "bn": "কুপন",
-       "en": "coupon",
-       "icon": "🎟️",
-       "story_bn": "couper মানে কাটা — কুপন হলো কেটে নেওয়ার মতো কাগজের টুকরো।",
-       "link_bn": "বাংলায় «কুপন»।",
-       "source_hint": "Etymology: couper"
+       "fr": "le camouflage",
+       "bn_pron": "লে° কামুফ়্লাঝ়",
+       "en_pron": "luh kah-moo-FLAHZH",
+       "bn": "ছদ্মবেশ",
+       "en": "camouflage",
+       "icon": "🪖",
+       "story_bn": "প্রথম বিশ্বযুদ্ধে, ১৯১৫ সালে, ফরাসি সেনাবাহিনী প্রথম বিশেষ ক্যামুফ্লাজ দল গড়ে, যেখানে চিত্রশিল্পীরা কাজ করতেন।",
+       "link_bn": "বাংলায় «ক্যামোফ্লাজ»।",
+       "source_hint": "Section de camouflage, French Army 1915"
       },
       {
-       "fr": "le chauffeur",
-       "bn_pron": "লে° শোফ়ে°র়",
-       "en_pron": "luh shoh-FUHR",
-       "bn": "চালক",
-       "en": "driver",
-       "icon": "🚘",
-       "story_bn": "chauffer মানে গরম করা — প্রথম যুগের বাষ্পচালিত গাড়ির চালককে ইঞ্জিন গরম রাখতে হতো, তাই নাম «শোফর»।",
-       "link_bn": "পুরোনো বাংলা উপন্যাসের «শোফার»।",
-       "source_hint": "Etymology: chauffer"
+       "fr": "le sabotage",
+       "bn_pron": "লে° সাবোতাঝ়",
+       "en_pron": "luh sah-boh-TAHZH",
+       "bn": "নাশকতা",
+       "en": "sabotage",
+       "icon": "🔧",
+       "story_bn": "শব্দটি এসেছে saboter থেকে, যার মূলে sabot — কাঠের জুতা।",
+       "link_bn": "বাংলা খবরে «স্যাবোটাজ»।",
+       "source_hint": "Etymology: saboter < sabot"
       },
       {
-       "fr": "la boutique",
-       "bn_pron": "লা বুতিক",
-       "en_pron": "lah boo-TEEK",
-       "bn": "ছোট দোকান",
-       "en": "shop, boutique",
-       "icon": "👗",
-       "story_bn": "ফরাসিতে boutique যেকোনো ছোট দোকান; ইংরেজি ও বাংলায় তা হয়েছে ফ্যাশনের দোকান।",
-       "link_bn": "বাংলায় «বুটিক হাউস»।",
-       "source_hint": "boutique (dictionary)"
+       "fr": "le bouquet",
+       "bn_pron": "লে° বুকে",
+       "en_pron": "luh boo-KEH",
+       "bn": "ফুলের তোড়া",
+       "en": "bouquet",
+       "icon": "💐",
+       "story_bn": "ফরাসি bouquet-এর আদি মানে ছিল «ছোট্ট ঝোপ», পরে তা হয় ফুলের তোড়া।",
+       "link_bn": "বাংলায় «বুকে» — ফুলের তোড়া!",
+       "source_hint": "Etymology: bouquet < bosc"
       },
       {
-       "fr": "l'élite (f.)",
-       "bn_pron": "লেলিত",
-       "en_pron": "lay-LEET",
-       "bn": "বাছাই করা শ্রেষ্ঠরা",
-       "en": "elite",
-       "icon": "🏅",
-       "story_bn": "élite এসেছে élire (বেছে নেওয়া) থেকে — বাছাই করা মানুষ।",
-       "link_bn": "বাংলায় «এলিট»।",
-       "source_hint": "Etymology: élire"
+       "fr": "le massage",
+       "bn_pron": "লে° মাসাঝ়",
+       "en_pron": "luh mah-SAHZH",
+       "bn": "মালিশ",
+       "en": "massage",
+       "icon": "💆",
+       "story_bn": "masser (মালিশ করা) থেকে আসা ফরাসি শব্দটি পৃথিবীর বহু ভাষায় ঢুকেছে।",
+       "link_bn": "বাংলায় «ম্যাসাজ»।",
+       "source_hint": "massage (dictionary)"
       },
       {
        "fr": "le début",
@@ -8399,15 +8389,14 @@
        "source_hint": "début (dictionary)"
       },
       {
-       "fr": "le souvenir",
-       "bn_pron": "লে° সুভ়্নির়",
-       "en_pron": "luh soov-NEER",
-       "bn": "স্মৃতি; স্মারক",
-       "en": "memory; souvenir",
-       "icon": "🗿",
-       "story_bn": "ফরাসিতে souvenir মানে «স্মৃতি»; বেড়াতে গিয়ে কেনা স্মারকও তাই «সুভেনির»।",
-       "link_bn": "বাংলায় «সুভেনির»।",
-       "source_hint": "souvenir (dictionary)"
+       "fr": "le détour",
+       "bn_pron": "লে° দেতুর়",
+       "en_pron": "luh day-TOOR",
+       "bn": "ঘুরপথ",
+       "en": "detour",
+       "icon": "↩️",
+       "story_bn": "ফরাসিতে détour মানে মূল পথ ছেড়ে ঘুরে যাওয়া; ইংরেজি detour এখান থেকেই।",
+       "source_hint": "détour (dictionary)"
       },
       {
        "fr": "la liaison",
@@ -8433,15 +8422,15 @@
        "note_bn": "স্ত্রীলিঙ্গ: bourgeoise"
       },
       {
-       "fr": "le parachute",
-       "bn_pron": "লে° পার়াশি°ত",
-       "en_pron": "luh pah-rah-SHÜT",
-       "bn": "প্যারাশুট",
-       "en": "parachute",
-       "icon": "🪂",
-       "story_bn": "para (রক্ষা) আর chute (পতন) জুড়ে ১৭৮০-র দশকে ফ্রান্সে শব্দটি তৈরি হয়।",
-       "link_bn": "বাংলায় «প্যারাশুট»।",
-       "source_hint": "Etymology: parachute, Lenormand 1783"
+       "fr": "la bureaucratie",
+       "bn_pron": "লা বি°র়োক্র়াসি",
+       "en_pron": "lah bü-roh-krah-SEE",
+       "bn": "আমলাতন্ত্র",
+       "en": "bureaucracy",
+       "icon": "📑",
+       "story_bn": "আঠারো শতকে ফরাসি অর্থনীতিবিদ ভাঁসাঁ দ্য গুর্নে bureau (দপ্তর) শব্দ জুড়ে শব্দটি তৈরি করেন।",
+       "link_bn": "ইংরেজি bureaucracy, বাংলায় «আমলাতন্ত্র»।",
+       "source_hint": "Vincent de Gournay, 18th c."
       },
       {
        "fr": "la mayonnaise",
@@ -8466,15 +8455,15 @@
        "source_hint": "Etymology: cutlet < côtelette"
       },
       {
-       "fr": "le dépôt",
-       "bn_pron": "লে° দেপো",
-       "en_pron": "luh day-POH",
-       "bn": "জমা রাখার জায়গা",
-       "en": "depot, deposit",
-       "icon": "📦",
-       "story_bn": "ফরাসি dépôt মানে জমা বা জমা রাখার জায়গা।",
-       "link_bn": "বাংলায় «বাস ডিপো», «তেলের ডিপো»।",
-       "source_hint": "dépôt (dictionary)"
+       "fr": "le protégé",
+       "bn_pron": "লে° প্র়োতেঝ়ে",
+       "en_pron": "luh proh-tay-ZHAY",
+       "bn": "আশ্রিত শিষ্য",
+       "en": "protégé",
+       "icon": "🤝",
+       "story_bn": "যাকে কোনো গুরু রক্ষা করেন ও এগিয়ে নেন, তাকে বোঝাতে ইংরেজিও এই ফরাসি শব্দ নিয়েছে।",
+       "source_hint": "protégé (dictionary)",
+       "note_bn": "স্ত্রীলিঙ্গ: la protégée"
       },
       {
        "fr": "le fiancé",
@@ -8982,14 +8971,15 @@
        "source_hint": "Allez (usage)"
       },
       {
-       "fr": "Chapeau !",
-       "bn_pron": "শাপো",
-       "en_pron": "shah-POH",
-       "bn": "কুর্নিশ! দারুণ!",
-       "en": "hats off!",
-       "icon": "🎩",
-       "story_bn": "«শাপো!» (টুপি!) মানে আপনাকে কুর্নিশ — টুপি খুলে সম্মান জানানোর ভঙ্গি থেকে।",
-       "source_hint": "Chapeau ! (usage)"
+       "fr": "Pfff !",
+       "bn_pron": "প্ফ়্ফ়্",
+       "en_pron": "PFFF",
+       "bn": "হুঁহ্‌! / ধুর!",
+       "en": "pfft!",
+       "icon": "😒",
+       "story_bn": "বিরক্তি বা অবিশ্বাসে ফরাসিরা ঠোঁট ফুলিয়ে বাতাস ছেড়ে বলে «পফ্‌!»।",
+       "link_bn": "আমাদের «হুঁহ্‌!»",
+       "source_hint": "Interjection pff"
       },
       {
        "fr": "Hop !",
@@ -9129,7 +9119,7 @@
      "en": "Phew, it's over! Hats off!"
     }
    ],
-   "mission_bn": "এই অংশের বাংলায় ঢুকে পড়া ফরাসি শব্দগুলো (রেস্তোরাঁ, মেনু, গ্যারেজ, কুপন, ক্যাডেট…) মাথায় রেখে আজ পাঁচ মিনিট চারপাশের সাইনবোর্ড, মেনু বা খবরের কাগজে খুঁজুন — কয়টা পেলেন গুনে লিখে রাখুন। তারপর একটি ফরাসি প্রবাদ কাউকে শুনিয়ে বাংলায় মানে বুঝিয়ে দিন।",
+   "mission_bn": "এই অংশের বাংলায় ঢুকে পড়া ফরাসি শব্দগুলো (বুকে, রুট, ম্যাসাজ, প্রেস্টিজ, ক্যাডেট, লেফটেন্যান্ট…) মাথায় রেখে আজ পাঁচ মিনিট চারপাশের সাইনবোর্ড, মেনু বা খবরের কাগজে খুঁজুন — কয়টা পেলেন গুনে লিখে রাখুন। তারপর একটি ফরাসি প্রবাদ কাউকে শুনিয়ে বাংলায় মানে বুঝিয়ে দিন।",
    "quiz": [
     {
      "q_bn": "«flâner» মানে কী?",
@@ -9140,12 +9130,12 @@
      "a": "les retrouvailles"
     },
     {
-     "q_bn": "বাংলা «রেস্তোরাঁ»-য় চন্দ্রবিন্দু কেন?",
-     "a": "ফরাসি নাসিক্য স্বর (restaurant)"
+     "q_bn": "বাংলার «বুকে» (ফুলের তোড়া) কোন ফরাসি শব্দ থেকে?",
+     "a": "le bouquet"
     },
     {
-     "q_bn": "«chauffeur» শব্দটি কোন ক্রিয়া থেকে?",
-     "a": "chauffer — গরম করা"
+     "q_bn": "«silhouette» শব্দটি কার নাম থেকে এসেছে?",
+     "a": "অর্থমন্ত্রী এতিয়েন দ্য সিলুয়েত"
     },
     {
      "q_bn": "«ক্যাডেট» শব্দের ফরাসি আদি মানে কী?",
@@ -9231,11 +9221,11 @@
        "en": "all the same, still"
       },
       {
-       "fr": "enfin",
-       "bn_pron": "আঁফ়্যাঁ",
-       "en_pron": "ahn-FEHN",
-       "bn": "অবশেষে; মানে…",
-       "en": "at last; well…"
+       "fr": "néanmoins",
+       "bn_pron": "নেয়াঁমোয়্যাঁ",
+       "en_pron": "nay-ahn-MWEHN",
+       "bn": "তা সত্ত্বেও",
+       "en": "nevertheless"
       },
       {
        "fr": "finalement",
@@ -9486,12 +9476,11 @@
        "en": "drawback"
       },
       {
-       "fr": "le sens",
-       "bn_pron": "লে° সাঁস",
-       "en_pron": "luh SAHNS",
-       "bn": "অর্থ; দিক; ইন্দ্রিয়",
-       "en": "meaning; direction; sense",
-       "note_bn": "শেষের s উচ্চারিত হয়"
+       "fr": "le concept",
+       "bn_pron": "লে° কোঁসেপ্ত",
+       "en_pron": "luh kohn-SEHPT",
+       "bn": "ধারণা (তাত্ত্বিক)",
+       "en": "concept"
       },
       {
        "fr": "la valeur",
@@ -9614,11 +9603,11 @@
        "en": "to decide"
       },
       {
-       "fr": "choisir",
-       "bn_pron": "শোয়াজ়ির়",
-       "en_pron": "shwah-ZEER",
-       "bn": "বেছে নেওয়া",
-       "en": "to choose"
+       "fr": "interpréter",
+       "bn_pron": "অ্যাঁতের়প্র়েতে",
+       "en_pron": "ehn-tehr-pray-TAY",
+       "bn": "অর্থ ব্যাখ্যা করা; দোভাষী হওয়া",
+       "en": "to interpret"
       },
       {
        "fr": "comparer",
@@ -9628,11 +9617,11 @@
        "en": "to compare"
       },
       {
-       "fr": "expliquer",
-       "bn_pron": "এক্সপ্লিকে",
-       "en_pron": "ehks-plee-KAY",
-       "bn": "ব্যাখ্যা করা",
-       "en": "to explain"
+       "fr": "argumenter",
+       "bn_pron": "আর়গি°মাঁতে",
+       "en_pron": "ahr-gü-mahn-TAY",
+       "bn": "যুক্তি দেখানো",
+       "en": "to argue (a case)"
       },
       {
        "fr": "décrire",
@@ -9785,11 +9774,12 @@
        "en": "better (adv.)"
       },
       {
-       "fr": "pire",
-       "bn_pron": "পির়",
-       "en_pron": "PEER",
-       "bn": "আরও খারাপ",
-       "en": "worse"
+       "fr": "inférieur",
+       "bn_pron": "অ্যাঁফ়ের়িয়ে°র়",
+       "en_pron": "ehn-fay-RYUHR",
+       "bn": "নিম্নতর; নিচের",
+       "en": "lower, inferior",
+       "note_bn": "স্ত্রীলিঙ্গ: inférieure"
       },
       {
        "fr": "le même",
@@ -9822,12 +9812,12 @@
        "en": "to look like"
       },
       {
-       "fr": "léger",
-       "bn_pron": "লেঝ়ে",
-       "en_pron": "lay-ZHAY",
-       "bn": "হালকা",
-       "en": "light",
-       "note_bn": "স্ত্রীলিঙ্গ: légère"
+       "fr": "supérieur",
+       "bn_pron": "সি°পের়িয়ে°র়",
+       "en_pron": "sü-pay-RYUHR",
+       "bn": "উচ্চতর; ওপরের",
+       "en": "higher, superior",
+       "note_bn": "স্ত্রীলিঙ্গ: supérieure"
       },
       {
        "fr": "profond",
@@ -10007,8 +9997,8 @@
      "a": "avoir raison, avoir tort"
     },
     {
-     "q_bn": "«ব্যাখ্যা করা» ফরাসিতে কী?",
-     "a": "expliquer"
+     "q_bn": "«argumenter» মানে কী?",
+     "a": "যুক্তি দেখানো"
     },
     {
      "q_bn": "«large» মানে কী?",
