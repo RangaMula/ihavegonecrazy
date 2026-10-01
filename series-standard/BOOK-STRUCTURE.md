@@ -21,7 +21,7 @@ certificate at the end. It changes three things on purpose:
 
 ## 1. Promise to the reader (identical in every book)
 
-> এই বই শেষ করলে আপনি — [ভাষা] পড়তে পারবেন, এর ধ্বনিগুলো চিনবেন, ৫০০টি প্রয়োজনীয় শব্দ জানবেন,
+> এই বই শেষ করলে আপনি — [ভাষা] পড়তে পারবেন, এর ধ্বনিগুলো চিনবেন, ২,০০০ শব্দ জানবেন,
 > সহজ বাক্য নিজে বানাতে পারবেন, ২০টি বাস্তব পরিস্থিতিতে কথা বলতে পারবেন এবং এই ভাষার
 > সাহিত্য ও সংস্কৃতির প্রথম স্বাদ পাবেন। এরপর আপনি মধ্যম স্তরের পথে যাত্রার জন্য প্রস্তুত।
 
@@ -29,11 +29,11 @@ Every book uses the same fixed quantities so the series feels like one product:
 
 | Unit | Fixed count |
 |---|---|
-| Core vocabulary | **500 words**: 16 themes × 25 + 50 verbs + 50 adjectives (master list: `vocabulary/CORE-500.md`) |
+| Vocabulary | **2,000 words**: the **শব্দের যাত্রা** (Word Journey), 6 stages, 20 sections of 100 words, each ending with a passport stamp. 1,300 fixed words (same in every book) + 700 culture words (chosen for each language). See `vocabulary/WORD-JOURNEY.md` |
 | Sentence patterns | **12** |
 | Real-life dialogues | **20** (2 pages each) |
 | Graded reading texts | **6** |
-| Writing tasks (লেখার অনুশীলন) | **24** (8 each in Parts 2, 3 and 4) + a tracing row on every script page |
+| Writing tasks (লেখার অনুশীলন) | **24** (8 each in Parts 2, 3 and 5) + a tracing row on every script page |
 | Proverbs / famous lines | **12** |
 | Self-test | **60 questions** with answer key |
 | Can-do checklist | **25 statements** (CEFR A1) |
@@ -96,10 +96,10 @@ the audio (QR code, §6) has the final say.
 ## 3. The standard book structure
 
 Recommended trim size: **7 × 10 in**. Five-column tables need the width that 6 × 9 lacks.
-Page budget: **about 260 pages**, enforced with page-number asserts in the build script, as in the
+Page budget: **about 410 pages**, enforced with page-number asserts in the build script, as in the
 kids series.
 
-### FRONT MATTER (pp. i–xii)
+### FRONT MATTER (pp. i–xvi)
 
 | # | Page | Purpose |
 |---|---|---|
@@ -110,7 +110,8 @@ kids series.
 | vii | **তিন ভাষার চাবি — The Trilingual Key** | Explains the Triple Row with an annotated example |
 | viii | **উচ্চারণ-চিহ্নের চাবি — Pronunciation Key** | The §2.2 symbols |
 | ix–x | সূচিপত্র — Contents | |
-| xi–xii | **আপনার যাত্রার মানচিত্র — Your Journey Map** | One-page visual of the 4 parts and the A1 finish line |
+| xi–xii | **আপনার যাত্রার মানচিত্র — Your Journey Map** | One-page visual of the 5 parts and the A1 finish line |
+| xiii–xvi | **ভাষার পাসপোর্ট — Your Language Passport** | A 4-page passport with 20 section stamps and 6 stage badges, filled in as the reader completes the Word Journey |
 
 ---
 
@@ -140,22 +141,31 @@ kids series.
 
 ---
 
-### PART ৩ — ভাষার ইট-পাথর · Building Blocks (about 84 pp)
+### PART ৩ — ভাষার ইট-পাথর · Building Blocks (about 54 pp)
 *Purpose: words and patterns. A grammar **preview**, not a grammar course; full grammar is for intermediate.*
 
 | Ch | Title | Pages | Standard content |
 |---|---|---|---|
 | 8 | **সংখ্যা — Numbers** | 10 | 0–20, tens, 100, 1,000, lakh vs million (**compared with Bangla's লাখ-কোটি**), ordinals. Real use: prices, phone numbers, ages, addresses, money and currency |
 | 9 | **সময় ও পঞ্জিকা — Time & Calendar** | 10 | Days, months (plus a local calendar if one exists: Hijri, Japanese era, Chinese zodiac), seasons, telling time, dates, "yesterday/today/tomorrow". Includes a cultural calendar of festivals |
-| 10 | **প্রয়োজনীয় ৫০০ শব্দ — The Core 500** | 30 | Every word in a Triple Row. **16 themes × 25:** pronouns & little words · questions & key expressions · people & family · body & health · food & drink · home & household · city & directions · transport & travel · shopping & money · work & professions · education & communication · nature, weather & animals · time words · feelings & character · religion, culture & festivals · documents, safety & emergency. **Plus 50 verbs and 50 adjectives.** Numbers and calendar words are in Ch. 8–9, not counted here. Full list: `vocabulary/CORE-500.md` |
-| 11 | **বাক্যের কাঠামো — The Sentence Skeleton** | 20 | **12 core patterns**, each one compared with Bangla word order (e.g. Bangla SOV vs English SVO) and taught with a **substitution table**: (1) X is Y, (2) I have, (3) there is, (4) I want/need, (5) present action, (6) past action, (7) future action, (8) negation, (9) yes/no questions, (10) wh-questions, (11) can/must, (12) polite request. Plus one-page previews of gender, plurals, formality and cases as "what intermediate will teach you" |
-| 12 | **ভদ্রতা ও সংস্কৃতি — Politeness & Culture** | 8 | Greetings by time and situation, forms of address (formal and informal, honorifics compared with Bangla আপনি/তুমি/তুই), gestures, gifts, table manners, taboos, religious sensitivities, business etiquette |
+| 10 | **বাক্যের কাঠামো — The Sentence Skeleton** | 20 | **12 core patterns**, each one compared with Bangla word order (e.g. Bangla SOV vs English SVO) and taught with a **substitution table**: (1) X is Y, (2) I have, (3) there is, (4) I want/need, (5) present action, (6) past action, (7) future action, (8) negation, (9) yes/no questions, (10) wh-questions, (11) can/must, (12) polite request. Plus one-page previews of gender, plurals, formality and cases as "what intermediate will teach you" |
+| 11 | **ভদ্রতা ও সংস্কৃতি — Politeness & Culture** | 8 | Greetings by time and situation, forms of address (formal and informal, honorifics compared with Bangla আপনি/তুমি/তুই), gestures, gifts, table manners, taboos, religious sensitivities, business etiquette |
 | ✍️ | **লেখার অনুশীলন ২ — শব্দ থেকে বাক্য · Writing Practice 2: Words to Sentences** | 4 | 8 tasks: write prices, phone numbers and dates in words · write today's date and your daily timetable · fill a personal-details form (name, age, address, profession, nationality) · write 2 sentences with each of the 12 patterns · turn 5 statements into questions and 5 into negatives · describe your family in 5 sentences · describe your home or room in 5 sentences · translate 5 short Bangla sentences |
 | — | **Part 3 checkpoint** | 2 | Build-your-own-sentences exercise + 15-question quiz |
 
 ---
 
-### PART ৪ — ভাষাটি ব্যবহার করুন · Use the Language (about 54 pp)
+### PART ৪ — শব্দের যাত্রা · The 2,000-Word Journey (about 178 pp)
+*Purpose: the reader builds a real vocabulary **and** steps into the world of the language: its places, food,
+people, festivals, arts, history and the words that exist nowhere else. Told as one journey from arrival to belonging.*
+
+| Ch | Title | Pages | Standard content |
+|---|---|---|---|
+| 12 | **শব্দের যাত্রা — The Word Journey** | 178 | **6 stages, 20 sections of 100 words (4 sets of 25)**: পৌঁছানো Arriving · দিনযাপন Daily living · কাজ ও শেখা Work & learning · দেশটিকে চেনা Discovering the land · মানুষকে চেনা Knowing the people · আপন করে নেওয়া Making it your own. 1,300 fixed words in tick-box Triple-Row tables + 700 culture words on illustrated cards with a **জানেন কি?** story line. **Every section ends with:** এখনই বলুন (5 sentences you can now say) · মিশন (a 5-minute real-life task) · quick check · a stamp in the reader's **ভাষার পাসপোর্ট**. **Every stage ends with a milestone page** and a reward reading written only in words already learned. Full design: `vocabulary/WORD-JOURNEY.md` |
+
+---
+
+### PART ৫ — ভাষাটি ব্যবহার করুন · Use the Language (about 54 pp)
 *Purpose: the reader **performs** the language. This is where they start to feel "I know it."*
 
 | Ch | Title | Pages | Standard content |
@@ -213,7 +223,7 @@ The 40 pages are a budget, not a fixed count. The structure changes by writing s
 
 ## 6. Audio companion (strongly recommended)
 
-A Bangla speaker cannot learn pronunciation from print alone. Each chapter in Parts 2–4 gets a **QR code**
+A Bangla speaker cannot learn pronunciation from print alone. Each chapter in Parts 2–5 gets a **QR code**
 linking to native-speaker audio for every Triple Row on that page. The eBook can embed the audio. The Bangla
 transcription helps the reader get started, but the native-speaker audio is the reference for correct pronunciation.
 
@@ -224,7 +234,7 @@ transcription helps the reader get started, but the native-speaker audio is the 
 | Element | Rule |
 |---|---|
 | **Template** | One frozen build script for the whole series (`build_book.py`), parameterized by a **language pack** per book |
-| **Language pack** (`langpack_<code>.py`) | Script inventory, sound bins, romanization system, Bangla-transcription table, 500 words, 12 patterns, 20 dialogues, 6 readings, 12 proverbs, 30 shared words, country list, calendar, quiz and answers |
+| **Language pack** (`langpack_<code>.py`) | Script inventory, sound bins, romanization system, Bangla-transcription table, the 2,000-word journey (1,300 fixed + 700 culture words), 12 patterns, 20 dialogues, 6 readings, 12 proverbs, 30 shared words, country list, calendar, quiz and answers |
 | **Fixed layer** | Bangla instruction text (shared across books, with language-specific inserts in marked slots) |
 | **Variable layer** | Target-language content + English column |
 | **Page asserts** | Each Part starts on a fixed page number; the build fails if the budget breaks |
@@ -242,23 +252,24 @@ position, is in **`SERIES-ROADMAP.md`**.
 
 ---
 
-## Page budget summary (7×10 in, about 260 pp)
+## Page budget summary (7×10 in, about 410 pp)
 
 | Section | Pages |
 |---|---|
-| Front matter | 12 |
+| Front matter (incl. passport) | 16 |
 | Part 1 — Meet the Language | 24 |
 | Part 2 — Sounds & Script (incl. 4 pp writing) | 70 |
-| Part 3 — Building Blocks (incl. 4 pp writing) | 84 |
-| Part 4 — Use the Language (incl. 4 pp writing) | 54 |
+| Part 3 — Building Blocks (incl. 4 pp writing) | 54 |
+| Part 4 — The 2,000-Word Journey | 178 |
+| Part 5 — Use the Language (incl. 4 pp writing) | 54 |
 | Back matter | 16 |
-| **Total** | **≈ 260** |
+| **Total** | **≈ 412** |
 
 ---
 
 ## 9. Writing practice (লেখার অনুশীলন): standard design
 
-Writing runs through Parts 2–4 as three blocks of 8 tasks each, moving from **script → sentences → real-life texts**.
+Writing runs through Parts 2, 3 and 5 as three blocks of 8 tasks each, moving from **script → sentences → real-life texts**.
 Part 1 has no writing task, because the reader has not met the script yet.
 
 | Rule | Detail |
@@ -269,4 +280,4 @@ Part 1 has no writing task, because the reader has not met the script yet.
 | Help levels | Each task is marked ★ (copy), ★★ (fill in) or ★★★ (write freely), so the reader can see the progression |
 | Model answers | Every task has a model answer in the back matter. Free-writing tasks give one sample answer plus a "check yourself" list (e.g. "Did you use a greeting? A date? A polite closing?") |
 | Audio link | The dictation tasks use the same QR audio as the rest of the chapter |
-| Real-life focus | Every Part 4 task matches a dialogue scene in Ch. 13, so the reader writes what they would actually need to write abroad |
+| Real-life focus | Every Part 5 task matches a dialogue scene in Ch. 13, so the reader writes what they would actually need to write abroad |
