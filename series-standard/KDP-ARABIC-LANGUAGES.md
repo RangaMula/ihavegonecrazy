@@ -1,5 +1,8 @@
 # Language list from the KDP *Introduction to Arabic* series
 
+> **Superseded by `MASTER-LANGUAGE-LIST.md`** (143 languages, tiered A/B/C), which merges this file, the 40-language
+> `KDP-Language-Opportunity-Matrix.csv`, the SCHEDULE queue and the roadmap. This file is kept as the KDP source record.
+
 Source: the author's Google Drive, folder **Amazon KDP**, fetched 1 Oct 2026.
 - The edition folders are named «Introduction to Arabic (X)», each with a «Trilingual (X)» twin.
 - The original plan is in `Introduction to Arabic/SCHEDULE.md` (Phase 2, 20 languages in priority order).
