@@ -9,6 +9,7 @@ starts with the full plan and none of the old mistakes.
 | **PLAYBOOK.md** (this file) | Author's decisions, workflow, agent briefs, file formats, lessons learned, QA checklist |
 | `BOOK-STRUCTURE.md` | The book's chapter-by-chapter specification |
 | `SERIES-ROADMAP.md` | The order in which books are made (18 languages in 4 waves) |
+| `KDP-ARABIC-LANGUAGES.md` | The 38-language list from the KDP Arabic series, compared with the roadmap |
 | `vocabulary/WORD-JOURNEY.md` | The 2,000-word journey: 6 stages, 20 sections, 80 sets |
 | `foreword/` | The author's Bangla foreword (identical in every book) |
 | `brand/` | Publisher logos |
