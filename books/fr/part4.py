@@ -2,6 +2,8 @@
 """Part 4 — শব্দের যাত্রা · The 2,000-Word Journey (Ch. 12). Data: data/journey_1_10.json + data/journey_11_20.json."""
 import json, os, math
 from engine import page, E, bn, box, h2, tr_line, part_opener, EXTRA_CSS
+import measure
+from part23 import Flow
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 STAGES = {1: ("পৌঁছানো", "Arriving"), 2: ("দিনযাপন", "Daily living"), 3: ("কাজ ও শেখা", "Work & learning"),
@@ -61,7 +63,7 @@ def row_height(w):
     return 0.032 + 0.152 * lines   # inches
 
 def wj_table(words, start):
-    cols = ('<colgroup><col style="width:0.17in"><col style="width:0.26in"><col style="width:1.2in"><col style="width:1.04in">'
+    cols = ('<colgroup><col style="width:0.17in"><col style="width:0.4in"><col style="width:1.12in"><col style="width:1.0in">'
             '<col style="width:1.0in"><col style="width:1.05in"><col style="width:0.84in"></colgroup>')
     rows = "".join('<tr><td>☐</td><td class="n">%s</td><td class="c-fr">%s</td><td class="c-bp">%s</td><td class="c-ep">%s</td>'
                    '<td class="c-bn">%s%s</td><td class="c-en">%s</td></tr>' % (
@@ -71,12 +73,16 @@ def wj_table(words, start):
     return ('<table class="wj">%s<thead><tr><th></th><th></th><th>Français</th><th>বাংলা উচ্চারণ</th><th>Pronunciation</th>'
             '<th>বাংলা অর্থ</th><th>English</th></tr></thead><tbody>%s</tbody></table>') % (cols, rows)
 
-def split_by_height(words, first_cap, cap):
-    chunks, cur, h, c = [], [], 0.0, first_cap
-    for w in words:
-        rh = row_height(w)
+def real_row_height(w, n):
+    empty = measure.height(wj_table([], 1), 0.25)
+    return max(0.1, measure.height(wj_table([w], n), row_height(w) + 0.25) - empty)
+
+def split_by_height(words, first_cap, cap, start=1):
+    chunks, cur, h, c = [], [], 0.25, first_cap
+    for i, w in enumerate(words):
+        rh = real_row_height(w, start + i)
         if cur and h + rh > c:
-            chunks.append(cur); cur, h, c = [], 0.0, cap
+            chunks.append(cur); cur, h, c = [], 0.25, cap
         cur.append(w); h += rh
     if cur:
         chunks.append(cur)
@@ -98,7 +104,7 @@ def split_cards(words, first_cap, cap):
     i = 0
     while i < len(words):
         pair = words[i:i + 2]
-        rh = max(card_height(w) for w in pair) + 0.09
+        rh = max(measure.height('<div style="width:2.73in;">%s</div>' % culture_card(w), card_height(w)) for w in pair) + 0.09
         if cur and h + rh > c:
             chunks.append(cur); cur, h, c = [], 0.0, cap
         cur.extend(pair); h += rh; i += 2
@@ -122,43 +128,41 @@ def section_pages(sec, before):
         sub = '<div class="small" style="margin:-0.06in 0 0.04in;font-family:Lat;font-style:italic;">%s%s</div>' % (
             E(s["title_en"]), " · 🌍 culture set" if s["kind"] == "C" else "")
         if s["kind"] == "F":
-            for k, chunk in enumerate(split_by_height(s["words"], 7.55, 7.95)):
+            for k, chunk in enumerate(split_by_height(s["words"], 7.45, 7.75, n + 1)):
                 page((h2(title) + sub if k == 0 else h2(title + " (চলমান)")) + wj_table(chunk, n + 1), head=head)
                 n += len(chunk)
         else:
-            for k, chunk in enumerate(split_cards(s["words"], 7.5, 7.9)):
+            for k, chunk in enumerate(split_cards(s["words"], 7.45, 7.75)):
                 page((h2(title) + sub if k == 0 else h2(title + " (চলমান)")) +
                      '<div class="ccards">%s</div>' % "".join(culture_card(w) for w in chunk), head=head)
                 n += len(chunk)
-    say = "".join(tr_line(it) for it in sec["say_now"])
-    page(h2("এখনই বলুন") + '<p class="small">শুধু এ পর্যন্ত শেখা শব্দ দিয়ে, জোরে জোরে বলুন:</p>' + say +
-         box("mission", "মিশন", "<p>%s</p>" % E(sec["mission_bn"])), head=head)
+    f = Flow(head)
+    f.add(h2("এখনই বলুন") + '<p class="small">শুধু এ পর্যন্ত শেখা শব্দ দিয়ে, জোরে জোরে বলুন:</p>', 0.7)
+    for it in sec["say_now"]:
+        f.add(tr_line(it), 0.8)
+    f.add(box("mission", "মিশন", "<p>%s</p>" % E(sec["mission_bn"])), 0.9)
     qs = "".join("<div>%s. %s</div>" % (bn(i + 1), E(q["q_bn"])) for i, q in enumerate(sec["quiz"]))
     ans = " · ".join("%s. %s" % (bn(i + 1), q["a"]) for i, q in enumerate(sec["quiz"]))
+    f.add(h2("নিজেকে যাচাই") + '<div class="qz">%s</div>' % qs + '<div class="ans" style="margin-top:0.06in;">উত্তর: %s</div>' % E(ans), 2.6)
     stamp = sec.get("stamp", {})
-    page(h2("নিজেকে যাচাই") + '<div class="qz">%s</div>' % qs +
-         ('<div class="stampbox"><div class="sc">%s</div><div><div style="font-family:BnSans;font-weight:700;color:var(--accent);font-size:13pt;">পাসপোর্টে সিল দিন!</div>'
-          '<div style="font-size:10.5pt;">অংশ %s «%s» শেষ। ভাষার পাসপোর্টে %s নম্বর সিলটিতে রং করুন, তারিখ লিখুন। <b>%s</b></div></div></div>') % (
-             E(stamp.get("icon", "🛂")), bn(no), E(sec["title_bn"]), bn(no), E(stamp.get("label_bn", ""))) +
-         '<div class="ans">উত্তর: %s</div>' % E(ans), head=head)
+    f.add(('<div class="stampbox"><div class="sc">%s</div><div><div style="font-family:BnSans;font-weight:700;color:var(--accent);font-size:13pt;">পাসপোর্টে সিল দিন!</div>'
+           '<div style="font-size:10.5pt;">অংশ %s «%s» শেষ। ভাষার পাসপোর্টে %s নম্বর সিলটিতে রং করুন, তারিখ লিখুন। <b>%s</b></div></div></div>') % (
+              E(stamp.get("icon", "🛂")), bn(no), E(sec["title_bn"]), bn(no), E(stamp.get("label_bn", ""))), 1.1)
+    f.flush()
     return before + 100
 
 def milestone_page(m):
-    reading = "".join(tr_line(it) for it in m["reading"])
-    stage = [k for k, v in STAGES.items()]
-    page("""<div class="milestone"><div class="ban"><div class="t">অভিনন্দন!</div><div class="n">%s</div>
+    f = Flow("মাইলফলক · %s শব্দ" % bn(m["total"]))
+    f.add("""<div class="milestone" style="flex:none;"><div class="ban"><div class="t">অভিনন্দন!</div><div class="n">%s</div>
 <div style="font-family:BnSans;font-size:13pt;">শব্দ আপনার ঝুলিতে</div></div>
-<p class="lead" style="margin-top:0.15in;">%s</p>""" % (bn(m["total"]), E(m["celebration_bn"])) +
-         h2("পুরস্কারের পাঠ: %s" % E(m["title_bn"])) +
-         '<p class="small">এই লেখার প্রতিটি শব্দ আপনি আগেই শিখেছেন। প্রথমে শুধু ফরাসি লাইনগুলো পড়ুন, তারপর অর্থ মিলিয়ে নিন।</p></div>',
-         head="মাইলফলক · %s শব্দ" % bn(m["total"]), bg="#f6f8fc")
-    # reading may need more than one page
-    items = m["reading"]
-    for k in range(0, len(items), 6):
-        page(h2(("«%s»" % E(m.get("title_fr", m["title_bn"]))) + ("" if k == 0 else " (চলমান)")) +
-             "".join(tr_line(it) for it in items[k:k + 6]) +
-             (box("know", "পাসপোর্টে ব্যাজ", "<p>ভাষার পাসপোর্টের ‘পর্বের ব্যাজ’ পাতায় এই পর্বের ব্যাজটিতে রং করুন।</p>") if k + 6 >= len(items) else ""),
-             head="মাইলফলক · %s শব্দ" % bn(m["total"]))
+<p class="lead" style="margin-top:0.15in;">%s</p></div>""" % (bn(m["total"]), E(m["celebration_bn"])), 2.6)
+    f.add(h2("পুরস্কারের পাঠ: %s" % E(m["title_bn"])) + '<p class="small">এই লেখার প্রতিটি শব্দ আপনি আগেই শিখেছেন। প্রথমে শুধু ফরাসি লাইনগুলো পড়ুন, তারপর অর্থ মিলিয়ে নিন।</p>', 0.8)
+    f.add('<div style="background:#fff;border:1pt solid var(--line);border-radius:4pt;padding:0.12in 0.16in;font-family:Lat,LatX;font-size:11.5pt;line-height:1.6;margin-bottom:0.1in;">'
+          '<div class="frw" style="font-size:13pt;margin-bottom:0.04in;">%s</div>%s</div>' % (E(m.get("title_fr", "")), " ".join(E(it["fr"]) for it in m["reading"])), 2.0)
+    for it in m["reading"]:
+        f.add(tr_line(it), 0.8)
+    f.add(box("know", "পাসপোর্টে ব্যাজ", "<p>ভাষার পাসপোর্টের ‘পর্বের ব্যাজ’ পাতায় এই পর্বের ব্যাজটিতে রং করুন।</p>"), 0.8)
+    f.flush()
 
 def load():
     secs, mils = [], []
