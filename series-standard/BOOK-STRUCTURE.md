@@ -231,14 +231,10 @@ transcription helps the reader get started, but the native-speaker audio is the 
 
 ---
 
-## 8. Suggested launch order (for discussion)
+## 8. Book order
 
-Ordered by demand among Bangla speakers: jobs, migration, study and religion.
-
-1. **Arabic** (religion + Gulf employment; reuses the kids-series research)
-2. **English** (a special case: the English column becomes respelling only)
-3. **Japanese** · 4. **Korean** (EPS-TOPIK workers, students) · 5. **Mandarin Chinese**
-6. **Hindi/Urdu** (an abugida plus an abjad, very close to Bangla) · 7. **German** · 8. **French** · 9. **Spanish** · 10. **Malay** (Malaysia workers)
+The full, ordered list of books (18 books in 4 waves, plus later candidates), with the reason for each
+position, is in **`SERIES-ROADMAP.md`**.
 
 ---
 
