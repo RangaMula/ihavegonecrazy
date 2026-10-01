@@ -1,0 +1,2718 @@
+{
+ "sections": [
+  {
+   "no": 1,
+   "stage": 1,
+   "title_bn": "প্রথম শব্দ",
+   "title_en": "First words",
+   "scene_bn": "প্লেন থেকে নেমে আপনি দাঁড়িয়ে আছেন এক নতুন দেশের বিমানবন্দরে। চারপাশে অচেনা ভাষা, তবু একটা শব্দ বারবার কানে আসছে: «Bonjour!» চলুন, এই প্রথম শব্দগুলো দিয়েই দরজাটা খুলি।",
+   "can_do_bn": [
+    "ফরাসিতে সালাম, শুভেচ্ছা ও বিদায় জানাতে পারবেন",
+    "ধন্যবাদ দিতে, দুঃখ প্রকাশ করতে ও মাফ চাইতে পারবেন",
+    "সহজ প্রশ্ন করতে ও না বুঝলে সেটা বলতে পারবেন"
+   ],
+   "sets": [
+    {
+     "code": "1a",
+     "kind": "F",
+     "title_bn": "শুভেচ্ছা ও সৌজন্য",
+     "title_en": "Greetings & courtesy",
+     "words": [
+      {
+       "fr": "bonjour",
+       "bn_pron": "বোঁঝ়ুর়",
+       "en_pron": "bohn-ZHOOR",
+       "bn": "শুভ দিন / হ্যালো",
+       "en": "hello / good day",
+       "note_bn": "সকাল থেকে সন্ধ্যা পর্যন্ত চলে"
+      },
+      {
+       "fr": "bonsoir",
+       "bn_pron": "বোঁসোয়ার়",
+       "en_pron": "bohn-SWAHR",
+       "bn": "শুভ সন্ধ্যা",
+       "en": "good evening"
+      },
+      {
+       "fr": "salut",
+       "bn_pron": "সালি°",
+       "en_pron": "sa-LÜ",
+       "bn": "হাই / বিদায় (ঘরোয়া)",
+       "en": "hi / bye (informal)",
+       "note_bn": "শুধু বন্ধু ও পরিচিতদের সঙ্গে"
+      },
+      {
+       "fr": "au revoir",
+       "bn_pron": "ও র়ে°ভ়োয়ার়",
+       "en_pron": "oh ruh-VWAHR",
+       "bn": "বিদায়",
+       "en": "goodbye"
+      },
+      {
+       "fr": "bonne nuit",
+       "bn_pron": "বোন নুই",
+       "en_pron": "bun NWEE",
+       "bn": "শুভরাত্রি",
+       "en": "good night",
+       "note_bn": "ঘুমাতে যাওয়ার আগে বলা হয়"
+      },
+      {
+       "fr": "merci",
+       "bn_pron": "মের়সি",
+       "en_pron": "mehr-SEE",
+       "bn": "ধন্যবাদ",
+       "en": "thank you"
+      },
+      {
+       "fr": "merci beaucoup",
+       "bn_pron": "মের়সি বোকু",
+       "en_pron": "mehr-see boh-KOO",
+       "bn": "অনেক ধন্যবাদ",
+       "en": "thank you very much"
+      },
+      {
+       "fr": "s'il vous plaît",
+       "bn_pron": "সিল ভ়ু প্লে",
+       "en_pron": "seel voo PLAY",
+       "bn": "দয়া করে (আপনি)",
+       "en": "please (formal)"
+      },
+      {
+       "fr": "s'il te plaît",
+       "bn_pron": "সিল তে° প্লে",
+       "en_pron": "seel tuh PLAY",
+       "bn": "দয়া করে (তুমি)",
+       "en": "please (informal)"
+      },
+      {
+       "fr": "pardon",
+       "bn_pron": "পার়দোঁ",
+       "en_pron": "par-DOHN",
+       "bn": "মাফ করবেন / দুঃখিত",
+       "en": "sorry / pardon",
+       "note_bn": "কারও গায়ে ধাক্কা লাগলে বা পথ চাইতে"
+      },
+      {
+       "fr": "excusez-moi",
+       "bn_pron": "এক্সকি°জ়ে মোয়া",
+       "en_pron": "ek-skü-zay-MWAH",
+       "bn": "মাফ করবেন (শুনছেন?)",
+       "en": "excuse me"
+      },
+      {
+       "fr": "désolé",
+       "bn_pron": "দেজ়োলে",
+       "en_pron": "day-zo-LAY",
+       "bn": "দুঃখিত",
+       "en": "sorry",
+       "note_bn": "নারী বললে লেখা হয় désolée, উচ্চারণ একই"
+      },
+      {
+       "fr": "de rien",
+       "bn_pron": "দে° র়িয়্যাঁ",
+       "en_pron": "duh RYEHN",
+       "bn": "কিছু না / স্বাগতম",
+       "en": "you're welcome"
+      },
+      {
+       "fr": "je vous en prie",
+       "bn_pron": "ঝ়ে° ভ়ু জ়াঁ প্র়ি",
+       "en_pron": "zhuh voo zahn PREE",
+       "bn": "কোনো ব্যাপার না / আসুন",
+       "en": "you're welcome / please go ahead",
+       "note_bn": "de rien-এর চেয়ে বেশি ভদ্র"
+      },
+      {
+       "fr": "bienvenue",
+       "bn_pron": "বিয়্যাঁভ়ে°নি°",
+       "en_pron": "byehn-vuh-NÜ",
+       "bn": "স্বাগতম",
+       "en": "welcome"
+      },
+      {
+       "fr": "à bientôt",
+       "bn_pron": "আ বিয়্যাঁতো",
+       "en_pron": "ah byehn-TOH",
+       "bn": "শিগগিরই দেখা হবে",
+       "en": "see you soon"
+      },
+      {
+       "fr": "à plus tard",
+       "bn_pron": "আ প্লি° তার়",
+       "en_pron": "ah plü TAHR",
+       "bn": "পরে দেখা হবে",
+       "en": "see you later"
+      },
+      {
+       "fr": "enchanté",
+       "bn_pron": "আঁশাঁতে",
+       "en_pron": "ahn-shahn-TAY",
+       "bn": "পরিচিত হয়ে খুশি হলাম",
+       "en": "nice to meet you",
+       "note_bn": "নারী বললে লেখা হয় enchantée"
+      },
+      {
+       "fr": "ça va ?",
+       "bn_pron": "সা ভ়া ?",
+       "en_pron": "sa VAH?",
+       "bn": "কেমন আছেন? / সব ঠিক?",
+       "en": "how are you? / all right?"
+      },
+      {
+       "fr": "ça va bien",
+       "bn_pron": "সা ভ়া বিয়্যাঁ",
+       "en_pron": "sa va BYEHN",
+       "bn": "ভালো আছি",
+       "en": "I'm fine"
+      },
+      {
+       "fr": "comment allez-vous ?",
+       "bn_pron": "কোমাঁ তালে ভ়ু ?",
+       "en_pron": "ko-mahn ta-lay-VOO?",
+       "bn": "আপনি কেমন আছেন?",
+       "en": "how are you? (formal)",
+       "note_bn": "comment-এর t পরের শব্দের সঙ্গে জুড়ে যায়"
+      },
+      {
+       "fr": "bonne journée",
+       "bn_pron": "বোন ঝ়ুর়নে",
+       "en_pron": "bun zhoor-NAY",
+       "bn": "দিনটা ভালো কাটুক",
+       "en": "have a nice day",
+       "note_bn": "বিদায়ের সময় বলা হয়"
+      },
+      {
+       "fr": "bonne soirée",
+       "bn_pron": "বোন সোয়ার়ে",
+       "en_pron": "bun swah-RAY",
+       "bn": "সন্ধ্যাটা ভালো কাটুক",
+       "en": "have a nice evening"
+      },
+      {
+       "fr": "félicitations",
+       "bn_pron": "ফ়েলিসিতাসিয়োঁ",
+       "en_pron": "fay-lee-see-ta-SYOHN",
+       "bn": "অভিনন্দন",
+       "en": "congratulations"
+      },
+      {
+       "fr": "bon appétit",
+       "bn_pron": "বোঁ নাপেতি",
+       "en_pron": "bohn na-pay-TEE",
+       "bn": "মজা করে খান",
+       "en": "enjoy your meal",
+       "note_bn": "খাওয়া শুরুর আগে বলা হয়"
+      }
+     ]
+    },
+    {
+     "code": "1b",
+     "kind": "F",
+     "title_bn": "আমি, আপনি ও ছোট শব্দ",
+     "title_en": "I, you & little words",
+     "words": [
+      {
+       "fr": "je",
+       "bn_pron": "ঝ়ে°",
+       "en_pron": "ZHUH",
+       "bn": "আমি",
+       "en": "I",
+       "note_bn": "স্বরবর্ণের আগে j' হয়: j'ai"
+      },
+      {
+       "fr": "tu",
+       "bn_pron": "তি°",
+       "en_pron": "TÜ",
+       "bn": "তুমি / তুই",
+       "en": "you (informal)",
+       "note_bn": "পরিবার, বন্ধু ও শিশুদের সঙ্গে"
+      },
+      {
+       "fr": "vous",
+       "bn_pron": "ভ়ু",
+       "en_pron": "VOO",
+       "bn": "আপনি / আপনারা / তোমরা",
+       "en": "you (formal or plural)"
+      },
+      {
+       "fr": "il",
+       "bn_pron": "ইল",
+       "en_pron": "EEL",
+       "bn": "সে (পুরুষ) / এটা",
+       "en": "he / it (m.)"
+      },
+      {
+       "fr": "elle",
+       "bn_pron": "এল",
+       "en_pron": "EL",
+       "bn": "সে (নারী) / এটা",
+       "en": "she / it (f.)"
+      },
+      {
+       "fr": "nous",
+       "bn_pron": "নু",
+       "en_pron": "NOO",
+       "bn": "আমরা",
+       "en": "we"
+      },
+      {
+       "fr": "ils",
+       "bn_pron": "ইল",
+       "en_pron": "EEL",
+       "bn": "তারা",
+       "en": "they (m. or mixed)",
+       "note_bn": "শুধু নারীদের দল হলে elles"
+      },
+      {
+       "fr": "ceci",
+       "bn_pron": "সে°সি",
+       "en_pron": "suh-SEE",
+       "bn": "এটা",
+       "en": "this"
+      },
+      {
+       "fr": "cela",
+       "bn_pron": "সে°লা",
+       "en_pron": "suh-LAH",
+       "bn": "ওটা",
+       "en": "that",
+       "note_bn": "কথ্য ভাষায় ছোট রূপ ça (সা)"
+      },
+      {
+       "fr": "ici",
+       "bn_pron": "ইসি",
+       "en_pron": "ee-SEE",
+       "bn": "এখানে",
+       "en": "here"
+      },
+      {
+       "fr": "là",
+       "bn_pron": "লা",
+       "en_pron": "LAH",
+       "bn": "সেখানে / ওখানে",
+       "en": "there"
+      },
+      {
+       "fr": "et",
+       "bn_pron": "এ",
+       "en_pron": "AY",
+       "bn": "এবং / আর",
+       "en": "and",
+       "note_bn": "t উচ্চারিত হয় না"
+      },
+      {
+       "fr": "mais",
+       "bn_pron": "মে",
+       "en_pron": "MEH",
+       "bn": "কিন্তু",
+       "en": "but"
+      },
+      {
+       "fr": "ou",
+       "bn_pron": "উ",
+       "en_pron": "OO",
+       "bn": "অথবা",
+       "en": "or",
+       "note_bn": "উচ্চারণে où (কোথায়)-এর মতোই"
+      },
+      {
+       "fr": "parce que",
+       "bn_pron": "পার়স্ কে°",
+       "en_pron": "pars-KUH",
+       "bn": "কারণ",
+       "en": "because"
+      },
+      {
+       "fr": "avec",
+       "bn_pron": "আভ়েক",
+       "en_pron": "a-VEK",
+       "bn": "সাথে",
+       "en": "with"
+      },
+      {
+       "fr": "sans",
+       "bn_pron": "সাঁ",
+       "en_pron": "SAHN",
+       "bn": "ছাড়া",
+       "en": "without"
+      },
+      {
+       "fr": "dans",
+       "bn_pron": "দাঁ",
+       "en_pron": "DAHN",
+       "bn": "ভেতরে / মধ্যে",
+       "en": "in / inside"
+      },
+      {
+       "fr": "sur",
+       "bn_pron": "সি°র়",
+       "en_pron": "SÜR",
+       "bn": "ওপরে",
+       "en": "on"
+      },
+      {
+       "fr": "sous",
+       "bn_pron": "সু",
+       "en_pron": "SOO",
+       "bn": "নিচে",
+       "en": "under"
+      },
+      {
+       "fr": "oui",
+       "bn_pron": "উই",
+       "en_pron": "WEE",
+       "bn": "হ্যাঁ",
+       "en": "yes"
+      },
+      {
+       "fr": "non",
+       "bn_pron": "নোঁ",
+       "en_pron": "NOHN",
+       "bn": "না",
+       "en": "no"
+      },
+      {
+       "fr": "très",
+       "bn_pron": "ত্র়ে",
+       "en_pron": "TREH",
+       "bn": "খুব",
+       "en": "very"
+      },
+      {
+       "fr": "aussi",
+       "bn_pron": "ওসি",
+       "en_pron": "oh-SEE",
+       "bn": "ও / আরও",
+       "en": "also / too"
+      },
+      {
+       "fr": "seulement",
+       "bn_pron": "সে°লমাঁ",
+       "en_pron": "suhl-MAHN",
+       "bn": "শুধু",
+       "en": "only"
+      }
+     ]
+    },
+    {
+     "code": "1c",
+     "kind": "F",
+     "title_bn": "প্রশ্ন ও দরকারি কথা",
+     "title_en": "Question words & key phrases",
+     "words": [
+      {
+       "fr": "quoi ?",
+       "bn_pron": "কোয়া ?",
+       "en_pron": "KWAH?",
+       "bn": "কী?",
+       "en": "what?"
+      },
+      {
+       "fr": "qui ?",
+       "bn_pron": "কি ?",
+       "en_pron": "KEE?",
+       "bn": "কে?",
+       "en": "who?"
+      },
+      {
+       "fr": "où ?",
+       "bn_pron": "উ ?",
+       "en_pron": "OO?",
+       "bn": "কোথায়?",
+       "en": "where?"
+      },
+      {
+       "fr": "quand ?",
+       "bn_pron": "কাঁ ?",
+       "en_pron": "KAHN?",
+       "bn": "কখন?",
+       "en": "when?"
+      },
+      {
+       "fr": "pourquoi ?",
+       "bn_pron": "পুর়কোয়া ?",
+       "en_pron": "poor-KWAH?",
+       "bn": "কেন?",
+       "en": "why?"
+      },
+      {
+       "fr": "comment ?",
+       "bn_pron": "কোমাঁ ?",
+       "en_pron": "ko-MAHN?",
+       "bn": "কীভাবে? / কেমন?",
+       "en": "how?"
+      },
+      {
+       "fr": "combien ?",
+       "bn_pron": "কোঁবিয়্যাঁ ?",
+       "en_pron": "kohn-BYEHN?",
+       "bn": "কত?",
+       "en": "how much? / how many?"
+      },
+      {
+       "fr": "quel ?",
+       "bn_pron": "কেল ?",
+       "en_pron": "KEL?",
+       "bn": "কোনটা? / কোন?",
+       "en": "which?",
+       "note_bn": "স্ত্রীলিঙ্গে quelle, উচ্চারণ একই"
+      },
+      {
+       "fr": "qu'est-ce que c'est ?",
+       "bn_pron": "কেস্ কে° সে ?",
+       "en_pron": "kess-kuh SAY?",
+       "bn": "এটা কী?",
+       "en": "what is it?"
+      },
+      {
+       "fr": "d'accord",
+       "bn_pron": "দাকোর়",
+       "en_pron": "da-KOR",
+       "bn": "ঠিক আছে",
+       "en": "okay"
+      },
+      {
+       "fr": "bien sûr",
+       "bn_pron": "বিয়্যাঁ সি°র়",
+       "en_pron": "byehn SÜR",
+       "bn": "অবশ্যই",
+       "en": "of course"
+      },
+      {
+       "fr": "peut-être",
+       "bn_pron": "পে°তেত্র়",
+       "en_pron": "puh-TETR",
+       "bn": "হয়তো",
+       "en": "maybe"
+      },
+      {
+       "fr": "pas de problème",
+       "bn_pron": "পা দে° প্র়োব্লেম",
+       "en_pron": "pah duh pro-BLEM",
+       "bn": "সমস্যা নেই",
+       "en": "no problem"
+      },
+      {
+       "fr": "je ne comprends pas",
+       "bn_pron": "ঝ়ে° নে° কোঁপ্র়াঁ পা",
+       "en_pron": "zhuh nuh kohn-prahn PAH",
+       "bn": "আমি বুঝতে পারছি না",
+       "en": "I don't understand"
+      },
+      {
+       "fr": "pouvez-vous répéter ?",
+       "bn_pron": "পুভ়ে ভ়ু র়েপেতে ?",
+       "en_pron": "poo-vay voo ray-pay-TAY?",
+       "bn": "আবার বলবেন?",
+       "en": "can you repeat?"
+      },
+      {
+       "fr": "parlez-vous anglais ?",
+       "bn_pron": "পার়লে ভ়ু আঁগ্লে ?",
+       "en_pron": "par-lay voo ahn-GLEH?",
+       "bn": "আপনি কি ইংরেজি বলেন?",
+       "en": "do you speak English?"
+      },
+      {
+       "fr": "plus lentement",
+       "bn_pron": "প্লি° লাঁৎমাঁ",
+       "en_pron": "plü lahnt-MAHN",
+       "bn": "আরও আস্তে",
+       "en": "more slowly"
+      },
+      {
+       "fr": "je ne sais pas",
+       "bn_pron": "ঝ়ে° নে° সে পা",
+       "en_pron": "zhuh nuh say PAH",
+       "bn": "আমি জানি না",
+       "en": "I don't know"
+      },
+      {
+       "fr": "où est… ?",
+       "bn_pron": "উ এ… ?",
+       "en_pron": "oo EH…?",
+       "bn": "…কোথায়?",
+       "en": "where is…?"
+      },
+      {
+       "fr": "il y a",
+       "bn_pron": "ইলিয়া",
+       "en_pron": "eel-YAH",
+       "bn": "আছে (অস্তিত্ব)",
+       "en": "there is / there are"
+      },
+      {
+       "fr": "attention !",
+       "bn_pron": "আতাঁসিয়োঁ !",
+       "en_pron": "a-tahn-SYOHN!",
+       "bn": "সাবধান!",
+       "en": "careful! / watch out!"
+      },
+      {
+       "fr": "voilà",
+       "bn_pron": "ভ়োয়ালা",
+       "en_pron": "vwa-LAH",
+       "bn": "এই যে / এই নিন",
+       "en": "there it is / here you are"
+      },
+      {
+       "fr": "pas du tout",
+       "bn_pron": "পা দি° তু",
+       "en_pron": "pah dü TOO",
+       "bn": "একদমই না",
+       "en": "not at all"
+      },
+      {
+       "fr": "c'est ça",
+       "bn_pron": "সে সা",
+       "en_pron": "say SAH",
+       "bn": "ঠিক তাই",
+       "en": "that's right"
+      },
+      {
+       "fr": "comment dit-on… ?",
+       "bn_pron": "কোমাঁ দি তোঁ… ?",
+       "en_pron": "ko-mahn dee-TOHN…?",
+       "bn": "…কে কী বলে?",
+       "en": "how do you say…?"
+      }
+     ]
+    },
+    {
+     "code": "1d",
+     "kind": "C",
+     "title_bn": "শুভেচ্ছার রীতি ও প্রতিদিনের কথা",
+     "title_en": "Greeting customs & everyday expressions",
+     "words": [
+      {
+       "fr": "la bise",
+       "bn_pron": "লা বিজ়",
+       "en_pron": "la BEEZ",
+       "bn": "গালে গাল ছুঁয়ে অভিবাদন",
+       "en": "cheek-kiss greeting",
+       "icon": "😘",
+       "story_bn": "ফ্রান্সে অঞ্চলভেদে এক গাল থেকে চার গাল পর্যন্ত «বিজ়» দেওয়ার রীতি আছে।",
+       "source_hint": "French regional surveys on la bise"
+      },
+      {
+       "fr": "la poignée de main",
+       "bn_pron": "লা পোয়ান্যে দে° ম্যাঁ",
+       "en_pron": "la pwa-nyay duh MEHN",
+       "bn": "করমর্দন",
+       "en": "handshake",
+       "icon": "🤝",
+       "story_bn": "ফ্রান্সে অনেক কর্মস্থলে সহকর্মীরা প্রতিদিন সকালে দেখা হলেই একে অন্যের সঙ্গে হাত মেলান।",
+       "source_hint": "French workplace etiquette guides"
+      },
+      {
+       "fr": "coucou",
+       "bn_pron": "কুকু",
+       "en_pron": "koo-KOO",
+       "bn": "এই যে, হাই! (আদুরে)",
+       "en": "hi there!",
+       "icon": "👋",
+       "story_bn": "«Coucou» আসলে কোকিল পাখির ডাক, কিন্তু বন্ধু ও পরিবারের মধ্যে এটা আদুরে «হাই»।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "allô",
+       "bn_pron": "আলো",
+       "en_pron": "a-LOH",
+       "bn": "হ্যালো (ফোনে)",
+       "en": "hello (on the phone)",
+       "icon": "📞",
+       "story_bn": "ফ্রান্সে ফোন ধরেই বলা হয় «Allô ?», আর কেবেকে বন্ধুকে সামনাসামনি «হাই» বলতেও «Allo» চলে।",
+       "link_bn": "বাংলাতেও ফোনে প্রথম শব্দ «হ্যালো»",
+       "source_hint": "Le Robert; Office québécois de la langue française"
+      },
+      {
+       "fr": "bon courage",
+       "bn_pron": "বোঁ কুর়াঝ়",
+       "en_pron": "bohn koo-RAZH",
+       "bn": "সাহস রাখুন / কাজটা ভালোয় ভালোয় হোক",
+       "en": "keep going / good luck",
+       "icon": "💪",
+       "story_bn": "কঠিন কাজ, পরীক্ষা বা লম্বা দিনের আগে ফরাসিরা বলেন «Bon courage!» — ইংরেজিতে এর ঠিক এক শব্দের অনুবাদ নেই।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "bonne chance",
+       "bn_pron": "বোন শাঁস",
+       "en_pron": "bun SHAHNS",
+       "bn": "শুভকামনা",
+       "en": "good luck",
+       "icon": "🍀",
+       "story_bn": "পরীক্ষা বা চাকরির ইন্টারভিউয়ের আগে বন্ধুকে বলা হয় «Bonne chance!»।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "bon voyage",
+       "bn_pron": "বোঁ ভ়োয়াইয়াঝ়",
+       "en_pron": "bohn vwa-YAZH",
+       "bn": "যাত্রা শুভ হোক",
+       "en": "have a good trip",
+       "icon": "✈️",
+       "story_bn": "ইংরেজিভাষীরাও যাত্রার শুভকামনায় এই ফরাসি কথাটিই হুবহু ব্যবহার করেন।",
+       "link_bn": "বাংলাতেও অনেকে বলেন «বন ভয়েজ»",
+       "source_hint": "Oxford English Dictionary"
+      },
+      {
+       "fr": "à vos souhaits",
+       "bn_pron": "আ ভ়ো সুয়ে",
+       "en_pron": "ah voh SWEH",
+       "bn": "(হাঁচির পর) আপনার ইচ্ছা পূরণ হোক",
+       "en": "bless you (after a sneeze)",
+       "icon": "🤧",
+       "story_bn": "কেউ হাঁচি দিলে ফরাসিরা বলেন «À vos souhaits», যার আক্ষরিক অর্থ «আপনার ইচ্ছাগুলো পূরণ হোক»।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "bonne année",
+       "bn_pron": "বোন আনে",
+       "en_pron": "bun a-NAY",
+       "bn": "শুভ নববর্ষ",
+       "en": "happy new year",
+       "icon": "🎆",
+       "story_bn": "ফ্রান্সে জানুয়ারি মাস জুড়েই পরিচিতদের সঙ্গে প্রথম দেখায় «Bonne année!» বলার রেওয়াজ আছে।",
+       "link_bn": "বাংলার «শুভ নববর্ষ»",
+       "source_hint": "French etiquette guides"
+      },
+      {
+       "fr": "joyeux anniversaire",
+       "bn_pron": "ঝ়োয়াইয়ে° জ়ানিভ়ের়সের়",
+       "en_pron": "zhwa-yuh za-nee-vehr-SEHR",
+       "bn": "শুভ জন্মদিন",
+       "en": "happy birthday",
+       "icon": "🎂",
+       "story_bn": "ফরাসিতে «anniversaire» মানে শুধু জন্মদিন নয়, যেকোনো বার্ষিকী; বিয়েবার্ষিকী হলো «anniversaire de mariage»।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "bisous",
+       "bn_pron": "বিজ়ু",
+       "en_pron": "bee-ZOO",
+       "bn": "চুমু (চিঠি বা বার্তার শেষে আদর)",
+       "en": "kisses / love (sign-off)",
+       "icon": "💌",
+       "story_bn": "বন্ধু ও পরিবারকে লেখা বার্তার শেষে «Bisous» বা «Bises» লেখা ফরাসিভাষীদের খুব স্বাভাবিক অভ্যাস।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "tchao",
+       "bn_pron": "চাও",
+       "en_pron": "CHOW",
+       "bn": "বাই!",
+       "en": "bye!",
+       "icon": "🙋",
+       "story_bn": "ইতালীয় «ciao» থেকে আসা «tchao» ফ্রান্স, বেলজিয়াম ও সুইজারল্যান্ডে ঘরোয়া বিদায়ে খুব চলে।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "bonne fin de semaine",
+       "bn_pron": "বোন ফ়্যাঁ দে° সে°মেন",
+       "en_pron": "bun fehn duh suh-MEN",
+       "bn": "সপ্তাহান্ত ভালো কাটুক",
+       "en": "have a nice weekend",
+       "icon": "🍁",
+       "story_bn": "কেবেকে সপ্তাহান্তকে বলা হয় «fin de semaine», অথচ ফ্রান্সে বলা হয় ইংরেজি ধাঁচে «week-end»।",
+       "source_hint": "Office québécois de la langue française"
+      },
+      {
+       "fr": "ça roule ?",
+       "bn_pron": "সা র়ুল ?",
+       "en_pron": "sa ROOL?",
+       "bn": "কী খবর? সব চলছে?",
+       "en": "how's it going?",
+       "icon": "🛞",
+       "story_bn": "ফ্রান্সের তরুণদের চলতি এই প্রশ্নের আক্ষরিক অর্থ «চাকা গড়াচ্ছে তো?»।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "à tantôt",
+       "bn_pron": "আ তাঁতো",
+       "en_pron": "ah tahn-TOH",
+       "bn": "একটু পরে দেখা হবে",
+       "en": "see you later (today)",
+       "icon": "🇧🇪",
+       "story_bn": "বেলজিয়ামে «À tantôt» মানে আজই একটু পরে আবার দেখা হবে।",
+       "source_hint": "Dictionnaire des belgicismes"
+      },
+      {
+       "fr": "la teranga",
+       "bn_pron": "লা তের়াঁগা",
+       "en_pron": "la teh-rahn-GAH",
+       "bn": "অতিথিপরায়ণতা (সেনেগাল)",
+       "en": "hospitality (Senegal)",
+       "icon": "🤲",
+       "story_bn": "সেনেগালকে বলা হয় «তেরাঙ্গার দেশ» — উলফ ভাষায় তেরাঙ্গা মানে অতিথিপরায়ণতা, আর জাতীয় ফুটবল দলের নামও «Lions de la Teranga»।",
+       "link_bn": "বাংলার অতিথি আপ্যায়নের মতোই গর্বের জিনিস",
+       "source_hint": "Senegalese Football Federation"
+      },
+      {
+       "fr": "sak pase ?",
+       "bn_pron": "সাক পাসে ?",
+       "en_pron": "sak pa-SAY?",
+       "bn": "কী খবর? (হাইতি)",
+       "en": "what's up? (Haiti)",
+       "icon": "🇭🇹",
+       "story_bn": "হাইতির ক্রেওল ভাষায় «Sak pase?» জিজ্ঞেস করলে হাসিমুখে উত্তর আসে «N'ap boule!» (ভালোই চলছে!)।",
+       "source_hint": "Haitian Creole phrasebooks"
+      },
+      {
+       "fr": "la baraka",
+       "bn_pron": "লা বার়াকা",
+       "en_pron": "la ba-ra-KAH",
+       "bn": "সৌভাগ্য",
+       "en": "luck / blessing",
+       "icon": "✨",
+       "story_bn": "আরবি «বারাকা» থেকে আসা এই শব্দ ফরাসিতে মানে সৌভাগ্য; «avoir la baraka» মানে «কপাল ভালো থাকা»।",
+       "link_bn": "বাংলার «বরকত» একই শব্দ থেকে",
+       "source_hint": "Le Robert etymology"
+      },
+      {
+       "fr": "le tutoiement",
+       "bn_pron": "লে° তি°তোয়ামাঁ",
+       "en_pron": "luh tü-twa-MAHN",
+       "bn": "«তুমি» বলে সম্বোধন",
+       "en": "using «tu»",
+       "icon": "🗣️",
+       "story_bn": "বন্ধু, পরিবার ও শিশুদের «tu» বলা হয়, আর কেবেকে ফ্রান্সের চেয়ে অনেক সহজে অচেনা মানুষকেও «tu» বলা চলে।",
+       "link_bn": "বাংলার «তুমি»",
+       "source_hint": "Office québécois de la langue française"
+      },
+      {
+       "fr": "le vouvoiement",
+       "bn_pron": "লে° ভ়ুভ়োয়ামাঁ",
+       "en_pron": "luh voo-vwa-MAHN",
+       "bn": "«আপনি» বলে সম্বোধন",
+       "en": "using «vous»",
+       "icon": "🤵",
+       "story_bn": "অচেনা মানুষ, বয়স্ক ও কর্মস্থলের মানুষকে «vous» বলা ফরাসি ভদ্রতার মূল নিয়ম।",
+       "link_bn": "ঠিক বাংলার «আপনি»র মতো — বাংলাভাষীদের জন্য সহজ!",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "la politesse",
+       "bn_pron": "লা পোলিতেস",
+       "en_pron": "la po-lee-TESS",
+       "bn": "ভদ্রতা",
+       "en": "politeness",
+       "icon": "🙏",
+       "story_bn": "ফ্রান্সে দোকান, বেকারি বা বাসে ঢুকে আগে «Bonjour» না বলে সরাসরি কিছু চাওয়াকে অভদ্রতা ধরা হয়।",
+       "source_hint": "French etiquette guides"
+      },
+      {
+       "fr": "bonne continuation",
+       "bn_pron": "বোন কোঁতিনি°য়াসিয়োঁ",
+       "en_pron": "bun kohn-tee-nü-a-SYOHN",
+       "bn": "সামনের পথ শুভ হোক",
+       "en": "all the best (from here on)",
+       "icon": "🌱",
+       "story_bn": "আলাপ শেষে বা কেউ নতুন কাজে যাওয়ার সময় ফরাসিরা বলেন «Bonne continuation!»।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "à la prochaine",
+       "bn_pron": "আ লা প্র়োশেন",
+       "en_pron": "ah la pro-SHEN",
+       "bn": "পরের বার দেখা হবে",
+       "en": "until next time",
+       "icon": "🔁",
+       "story_bn": "বন্ধুদের মধ্যে খুব চলতি বিদায় — পুরো কথাটি «à la prochaine fois» (পরের বার পর্যন্ত)।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "ki manière ?",
+       "bn_pron": "কি মানিয়ের় ?",
+       "en_pron": "kee ma-NYEHR?",
+       "bn": "কেমন আছেন? (মরিশাস)",
+       "en": "how are you? (Mauritius)",
+       "icon": "🇲🇺",
+       "story_bn": "মরিশাসের ক্রেওল ভাষায় «Ki manière?» মানে «কেমন আছেন?» — শব্দ দুটি এসেছে ফরাসি থেকেই।",
+       "source_hint": "Mauritian Creole phrasebooks"
+      },
+      {
+       "fr": "chapeau !",
+       "bn_pron": "শাপো !",
+       "en_pron": "sha-POH!",
+       "bn": "দারুণ! সাবাশ!",
+       "en": "well done! / hats off!",
+       "icon": "🎩",
+       "story_bn": "«chapeau» মানে টুপি; কারও চমৎকার কাজ দেখে «Chapeau!» বলা মানে «টুপি খুলে সম্মান জানাই»।",
+       "source_hint": "Le Robert dictionary"
+      }
+     ]
+    }
+   ],
+   "say_now": [
+    {
+     "fr": "Bonjour, ça va ?",
+     "bn_pron": "বোঁঝ়ুর়, সা ভ়া ?",
+     "en_pron": "bohn-zhoor, sa VAH?",
+     "bn": "হ্যালো, কেমন আছেন?",
+     "en": "Hello, how are you?"
+    },
+    {
+     "fr": "Ça va bien, merci beaucoup !",
+     "bn_pron": "সা ভ়া বিয়্যাঁ, মের়সি বোকু !",
+     "en_pron": "sa va byehn, mehr-see boh-KOO!",
+     "bn": "ভালো আছি, অনেক ধন্যবাদ!",
+     "en": "I'm fine, thank you very much!"
+    },
+    {
+     "fr": "Excusez-moi, je ne comprends pas.",
+     "bn_pron": "এক্সকি°জ়ে মোয়া, ঝ়ে° নে° কোঁপ্র়াঁ পা।",
+     "en_pron": "ek-skü-zay mwah, zhuh nuh kohn-prahn PAH.",
+     "bn": "মাফ করবেন, আমি বুঝতে পারছি না।",
+     "en": "Excuse me, I don't understand."
+    },
+    {
+     "fr": "Plus lentement, s'il vous plaît.",
+     "bn_pron": "প্লি° লাঁৎমাঁ, সিল ভ়ু প্লে।",
+     "en_pron": "plü lahnt-mahn, seel voo PLAY.",
+     "bn": "আরও আস্তে বলুন, দয়া করে।",
+     "en": "More slowly, please."
+    },
+    {
+     "fr": "Merci, et à bientôt !",
+     "bn_pron": "মের়সি, এ আ বিয়্যাঁতো !",
+     "en_pron": "mehr-see, ay ah byehn-TOH!",
+     "bn": "ধন্যবাদ, শিগগিরই দেখা হবে!",
+     "en": "Thank you, see you soon!"
+    }
+   ],
+   "mission_bn": "আজ অন্তত পাঁচজন মানুষকে (পরিবার, বন্ধু বা দোকানদার) মনে মনে বা জোরে ফরাসিতে «Bonjour», «Merci» আর «Au revoir» বলুন; তারপর আয়নার সামনে «Excusez-moi, je ne comprends pas» বাক্যটি তিনবার জোরে বলুন।",
+   "quiz": [
+    {
+     "q_bn": "«ধন্যবাদ» ফরাসিতে কী?",
+     "a": "merci"
+    },
+    {
+     "q_bn": "«শুভ সন্ধ্যা» ফরাসিতে কী?",
+     "a": "bonsoir"
+    },
+    {
+     "q_bn": "অচেনা কাউকে «দয়া করে» বলতে কী বলবেন?",
+     "a": "s'il vous plaît"
+    },
+    {
+     "q_bn": "«কোথায়?» ফরাসিতে কী?",
+     "a": "où ?"
+    },
+    {
+     "q_bn": "«কেন?» ফরাসিতে কী?",
+     "a": "pourquoi ?"
+    },
+    {
+     "q_bn": "«আমি বুঝতে পারছি না» কীভাবে বলবেন?",
+     "a": "je ne comprends pas"
+    },
+    {
+     "q_bn": "«হ্যাঁ» আর «না» ফরাসিতে কী?",
+     "a": "oui / non"
+    },
+    {
+     "q_bn": "«ঠিক আছে» ফরাসিতে কী?",
+     "a": "d'accord"
+    },
+    {
+     "q_bn": "বাংলার «আপনি»র মতো ভদ্র সম্বোধন কোনটি: tu না vous?",
+     "a": "vous"
+    },
+    {
+     "q_bn": "খাওয়া শুরুর আগে কী বলা হয়?",
+     "a": "bon appétit"
+    }
+   ],
+   "stamp": {
+    "label_bn": "প্রথম শব্দ",
+    "icon": "👋"
+   }
+  },
+  {
+   "no": 2,
+   "stage": 1,
+   "title_bn": "পরিচয়",
+   "title_en": "Introductions",
+   "scene_bn": "ইমিগ্রেশনের লাইনে পাশে দাঁড়ানো এক ভদ্রমহিলা হেসে জিজ্ঞেস করলেন, «Vous venez d'où ?» এবার নিজের কথা বলার পালা: আপনার নাম, দেশ, ভাষা আর পরিবার।",
+   "can_do_bn": [
+    "নিজের নাম, দেশ, জাতীয়তা ও ভাষার কথা বলতে পারবেন",
+    "পরিবারের সদস্যদের পরিচয় করিয়ে দিতে পারবেন",
+    "ভদ্রভাবে মানুষকে সম্বোধন করতে পারবেন: Monsieur, Madame"
+   ],
+   "sets": [
+    {
+     "code": "2a",
+     "kind": "F",
+     "title_bn": "মানুষ ও পরিবার",
+     "title_en": "People & family",
+     "words": [
+      {
+       "fr": "la personne",
+       "bn_pron": "লা পের়সোন",
+       "en_pron": "la pehr-SON",
+       "bn": "মানুষ / ব্যক্তি",
+       "en": "person"
+      },
+      {
+       "fr": "l'homme (m.)",
+       "bn_pron": "লোম",
+       "en_pron": "LOM",
+       "bn": "পুরুষ",
+       "en": "man",
+       "note_bn": "h উচ্চারিত হয় না"
+      },
+      {
+       "fr": "la femme",
+       "bn_pron": "লা ফ়াম",
+       "en_pron": "la FAM",
+       "bn": "নারী / স্ত্রী",
+       "en": "woman / wife",
+       "note_bn": "«ma femme» মানে আমার স্ত্রী"
+      },
+      {
+       "fr": "l'enfant (m./f.)",
+       "bn_pron": "লাঁফ়াঁ",
+       "en_pron": "lahn-FAHN",
+       "bn": "শিশু / সন্তান",
+       "en": "child"
+      },
+      {
+       "fr": "le garçon",
+       "bn_pron": "লে° গার়সোঁ",
+       "en_pron": "luh gar-SOHN",
+       "bn": "ছেলে",
+       "en": "boy"
+      },
+      {
+       "fr": "la fille",
+       "bn_pron": "লা ফ়িয়",
+       "en_pron": "la FEEY",
+       "bn": "মেয়ে / কন্যা",
+       "en": "girl / daughter"
+      },
+      {
+       "fr": "le fils",
+       "bn_pron": "লে° ফ়িস",
+       "en_pron": "luh FEESS",
+       "bn": "ছেলে (সন্তান)",
+       "en": "son",
+       "note_bn": "এখানে s উচ্চারিত হয়"
+      },
+      {
+       "fr": "le père",
+       "bn_pron": "লে° পের়",
+       "en_pron": "luh PEHR",
+       "bn": "বাবা",
+       "en": "father"
+      },
+      {
+       "fr": "la mère",
+       "bn_pron": "লা মের়",
+       "en_pron": "la MEHR",
+       "bn": "মা",
+       "en": "mother"
+      },
+      {
+       "fr": "le frère",
+       "bn_pron": "লে° ফ়্র়ের়",
+       "en_pron": "luh FREHR",
+       "bn": "ভাই",
+       "en": "brother"
+      },
+      {
+       "fr": "la sœur",
+       "bn_pron": "লা সে°র়",
+       "en_pron": "la SUHR",
+       "bn": "বোন",
+       "en": "sister"
+      },
+      {
+       "fr": "le mari",
+       "bn_pron": "লে° মার়ি",
+       "en_pron": "luh ma-REE",
+       "bn": "স্বামী",
+       "en": "husband"
+      },
+      {
+       "fr": "le grand-père",
+       "bn_pron": "লে° গ্র়াঁ পের়",
+       "en_pron": "luh grahn-PEHR",
+       "bn": "দাদা / নানা",
+       "en": "grandfather"
+      },
+      {
+       "fr": "la grand-mère",
+       "bn_pron": "লা গ্র়াঁ মের়",
+       "en_pron": "la grahn-MEHR",
+       "bn": "দাদি / নানি",
+       "en": "grandmother"
+      },
+      {
+       "fr": "l'oncle (m.)",
+       "bn_pron": "লোঁক্ল",
+       "en_pron": "LOHNKL",
+       "bn": "চাচা / মামা / খালু / ফুপা",
+       "en": "uncle"
+      },
+      {
+       "fr": "la tante",
+       "bn_pron": "লা তাঁত",
+       "en_pron": "la TAHNT",
+       "bn": "চাচি / খালা / ফুপু / মামি",
+       "en": "aunt"
+      },
+      {
+       "fr": "le cousin",
+       "bn_pron": "লে° কুজ়্যাঁ",
+       "en_pron": "luh koo-ZEHN",
+       "bn": "চাচাতো-মামাতো ভাই",
+       "en": "cousin (m.)",
+       "note_bn": "বোন হলে la cousine (কুজ়িন)"
+      },
+      {
+       "fr": "l'ami (m.)",
+       "bn_pron": "লামি",
+       "en_pron": "la-MEE",
+       "bn": "বন্ধু",
+       "en": "friend",
+       "note_bn": "বান্ধবী হলে l'amie, উচ্চারণ একই"
+      },
+      {
+       "fr": "le voisin",
+       "bn_pron": "লে° ভ়োয়াজ়্যাঁ",
+       "en_pron": "luh vwa-ZEHN",
+       "bn": "প্রতিবেশী",
+       "en": "neighbour",
+       "note_bn": "নারী হলে la voisine (ভ়োয়াজ়িন)"
+      },
+      {
+       "fr": "l'invité (m.)",
+       "bn_pron": "ল্যাঁভ়িতে",
+       "en_pron": "lehn-vee-TAY",
+       "bn": "অতিথি",
+       "en": "guest",
+       "note_bn": "নারী হলে l'invitée"
+      },
+      {
+       "fr": "la famille",
+       "bn_pron": "লা ফ়ামিয়",
+       "en_pron": "la fa-MEEY",
+       "bn": "পরিবার",
+       "en": "family"
+      },
+      {
+       "fr": "les parents (m. pl.)",
+       "bn_pron": "লে পার়াঁ",
+       "en_pron": "lay pa-RAHN",
+       "bn": "মা-বাবা / আত্মীয়স্বজন",
+       "en": "parents / relatives"
+      },
+      {
+       "fr": "le bébé",
+       "bn_pron": "লে° বেবে",
+       "en_pron": "luh bay-BAY",
+       "bn": "শিশু (কোলের)",
+       "en": "baby"
+      },
+      {
+       "fr": "le neveu",
+       "bn_pron": "লে° নে°ভ়ে°",
+       "en_pron": "luh nuh-VUH",
+       "bn": "ভাতিজা / ভাগনে",
+       "en": "nephew"
+      },
+      {
+       "fr": "la nièce",
+       "bn_pron": "লা নিয়েস",
+       "en_pron": "la NYESS",
+       "bn": "ভাতিজি / ভাগনি",
+       "en": "niece"
+      }
+     ]
+    },
+    {
+     "code": "2b",
+     "kind": "F",
+     "title_bn": "আমার কথা: নাম, বয়স, দেশ, ভাষা",
+     "title_en": "About me: name, age, country, languages",
+     "words": [
+      {
+       "fr": "le nom",
+       "bn_pron": "লে° নোঁ",
+       "en_pron": "luh NOHN",
+       "bn": "নাম / পদবি",
+       "en": "name / surname"
+      },
+      {
+       "fr": "le prénom",
+       "bn_pron": "লে° প্র়েনোঁ",
+       "en_pron": "luh pray-NOHN",
+       "bn": "ডাকনাম নয়, নিজের প্রথম নাম",
+       "en": "first name"
+      },
+      {
+       "fr": "l'âge (m.)",
+       "bn_pron": "লাঝ়",
+       "en_pron": "LAZH",
+       "bn": "বয়স",
+       "en": "age"
+      },
+      {
+       "fr": "le pays",
+       "bn_pron": "লে° পেই",
+       "en_pron": "luh pay-EE",
+       "bn": "দেশ",
+       "en": "country"
+      },
+      {
+       "fr": "la nationalité",
+       "bn_pron": "লা নাসিয়োনালিতে",
+       "en_pron": "la na-syo-na-lee-TAY",
+       "bn": "জাতীয়তা",
+       "en": "nationality"
+      },
+      {
+       "fr": "la langue",
+       "bn_pron": "লা লাঁগ",
+       "en_pron": "la LAHNG",
+       "bn": "ভাষা / জিহ্বা",
+       "en": "language / tongue"
+      },
+      {
+       "fr": "le Bangladesh",
+       "bn_pron": "লে° বাঁগ্লাদেশ",
+       "en_pron": "luh bahn-gla-DESH",
+       "bn": "বাংলাদেশ",
+       "en": "Bangladesh"
+      },
+      {
+       "fr": "bangladais",
+       "bn_pron": "বাঁগ্লাদে",
+       "en_pron": "bahn-gla-DEH",
+       "bn": "বাংলাদেশি",
+       "en": "Bangladeshi",
+       "note_bn": "নারী হলে bangladaise (বাঁগ্লাদেজ়); দেশের মানুষ বোঝাতে বড় হাতের B"
+      },
+      {
+       "fr": "le bengali",
+       "bn_pron": "লে° ব্যাঁগালি",
+       "en_pron": "luh behn-ga-LEE",
+       "bn": "বাংলা ভাষা",
+       "en": "Bengali (language)"
+      },
+      {
+       "fr": "le français",
+       "bn_pron": "লে° ফ়্র়াঁসে",
+       "en_pron": "luh frahn-SEH",
+       "bn": "ফরাসি ভাষা",
+       "en": "French (language)"
+      },
+      {
+       "fr": "la France",
+       "bn_pron": "লা ফ়্র়াঁস",
+       "en_pron": "la FRAHNS",
+       "bn": "ফ্রান্স",
+       "en": "France"
+      },
+      {
+       "fr": "l'Inde (f.)",
+       "bn_pron": "ল্যাঁদ",
+       "en_pron": "LEHND",
+       "bn": "ভারত",
+       "en": "India"
+      },
+      {
+       "fr": "l'arabe (m.)",
+       "bn_pron": "লার়াব",
+       "en_pron": "la-RAB",
+       "bn": "আরবি ভাষা",
+       "en": "Arabic"
+      },
+      {
+       "fr": "l'hindi (m.)",
+       "bn_pron": "লিন্দি",
+       "en_pron": "leen-DEE",
+       "bn": "হিন্দি ভাষা",
+       "en": "Hindi"
+      },
+      {
+       "fr": "l'ourdou (m.)",
+       "bn_pron": "লুর়দু",
+       "en_pron": "loor-DOO",
+       "bn": "উর্দু ভাষা",
+       "en": "Urdu"
+      },
+      {
+       "fr": "étranger",
+       "bn_pron": "এত্র়াঁঝ়ে",
+       "en_pron": "ay-trahn-ZHAY",
+       "bn": "বিদেশি",
+       "en": "foreign / foreigner",
+       "note_bn": "নারী হলে étrangère (এত্র়াঁঝ়ের়)"
+      },
+      {
+       "fr": "habiter",
+       "bn_pron": "আবিতে",
+       "en_pron": "a-bee-TAY",
+       "bn": "বাস করা",
+       "en": "to live (reside)",
+       "note_bn": "j'habite = আমি থাকি"
+      },
+      {
+       "fr": "s'appeler",
+       "bn_pron": "সাপ্‌লে",
+       "en_pron": "sa-PLAY",
+       "bn": "নাম হওয়া",
+       "en": "to be called",
+       "note_bn": "je m'appelle = আমার নাম"
+      },
+      {
+       "fr": "parler",
+       "bn_pron": "পার়লে",
+       "en_pron": "par-LAY",
+       "bn": "কথা বলা / বলা (ভাষা)",
+       "en": "to speak"
+      },
+      {
+       "fr": "venir",
+       "bn_pron": "ভ়ে°নির়",
+       "en_pron": "vuh-NEER",
+       "bn": "আসা",
+       "en": "to come",
+       "note_bn": "je viens de… = আমি …থেকে এসেছি"
+      },
+      {
+       "fr": "marié",
+       "bn_pron": "মার়িয়ে",
+       "en_pron": "ma-RYAY",
+       "bn": "বিবাহিত",
+       "en": "married",
+       "note_bn": "নারী হলে mariée"
+      },
+      {
+       "fr": "célibataire",
+       "bn_pron": "সেলিবাতের়",
+       "en_pron": "say-lee-ba-TEHR",
+       "bn": "অবিবাহিত",
+       "en": "single"
+      },
+      {
+       "fr": "l'adresse (f.)",
+       "bn_pron": "লাদ্র়েস",
+       "en_pron": "la-DRESS",
+       "bn": "ঠিকানা",
+       "en": "address"
+      },
+      {
+       "fr": "le numéro",
+       "bn_pron": "লে° নি°মের়ো",
+       "en_pron": "luh nü-may-ROH",
+       "bn": "নম্বর",
+       "en": "number (phone, house)"
+      },
+      {
+       "fr": "né",
+       "bn_pron": "নে",
+       "en_pron": "NAY",
+       "bn": "জন্ম নেওয়া",
+       "en": "born",
+       "note_bn": "নারী হলে née; je suis né à Dhaka"
+      }
+     ]
+    },
+    {
+     "code": "2c",
+     "kind": "F",
+     "title_bn": "হওয়া ও থাকার ক্রিয়া",
+     "title_en": "Verbs of being & having",
+     "words": [
+      {
+       "fr": "être",
+       "bn_pron": "এত্র়",
+       "en_pron": "ETR",
+       "bn": "হওয়া",
+       "en": "to be"
+      },
+      {
+       "fr": "je suis",
+       "bn_pron": "ঝ়ে° সুই",
+       "en_pron": "zhuh SWEE",
+       "bn": "আমি হই / আমি",
+       "en": "I am"
+      },
+      {
+       "fr": "tu es",
+       "bn_pron": "তি° এ",
+       "en_pron": "tü EH",
+       "bn": "তুমি হও",
+       "en": "you are (informal)"
+      },
+      {
+       "fr": "il est",
+       "bn_pron": "ইল এ",
+       "en_pron": "eel EH",
+       "bn": "সে হয়",
+       "en": "he is",
+       "note_bn": "elle est = সে (নারী) হয় (এল এ)"
+      },
+      {
+       "fr": "nous sommes",
+       "bn_pron": "নু সোম",
+       "en_pron": "noo SOM",
+       "bn": "আমরা হই",
+       "en": "we are"
+      },
+      {
+       "fr": "vous êtes",
+       "bn_pron": "ভ়ু জ়েত",
+       "en_pron": "voo ZET",
+       "bn": "আপনি হন / আপনারা",
+       "en": "you are (formal / plural)"
+      },
+      {
+       "fr": "ils sont",
+       "bn_pron": "ইল সোঁ",
+       "en_pron": "eel SOHN",
+       "bn": "তারা হয়",
+       "en": "they are"
+      },
+      {
+       "fr": "c'est",
+       "bn_pron": "সে",
+       "en_pron": "SAY",
+       "bn": "এটা হলো / ইনি হলেন",
+       "en": "it is / this is"
+      },
+      {
+       "fr": "avoir",
+       "bn_pron": "আভ়োয়ার়",
+       "en_pron": "a-VWAHR",
+       "bn": "থাকা (মালিকানা)",
+       "en": "to have"
+      },
+      {
+       "fr": "j'ai",
+       "bn_pron": "ঝ়ে",
+       "en_pron": "ZHAY",
+       "bn": "আমার আছে",
+       "en": "I have"
+      },
+      {
+       "fr": "tu as",
+       "bn_pron": "তি° আ",
+       "en_pron": "tü AH",
+       "bn": "তোমার আছে",
+       "en": "you have (informal)"
+      },
+      {
+       "fr": "il a",
+       "bn_pron": "ইল আ",
+       "en_pron": "eel AH",
+       "bn": "তার আছে",
+       "en": "he has",
+       "note_bn": "elle a = তার (নারী) আছে"
+      },
+      {
+       "fr": "nous avons",
+       "bn_pron": "নু জ়াভ়োঁ",
+       "en_pron": "noo za-VOHN",
+       "bn": "আমাদের আছে",
+       "en": "we have"
+      },
+      {
+       "fr": "vous avez",
+       "bn_pron": "ভ়ু জ়াভ়ে",
+       "en_pron": "voo za-VAY",
+       "bn": "আপনার আছে",
+       "en": "you have (formal / plural)"
+      },
+      {
+       "fr": "ils ont",
+       "bn_pron": "ইল জ়োঁ",
+       "en_pron": "eel ZOHN",
+       "bn": "তাদের আছে",
+       "en": "they have",
+       "note_bn": "ils sont (সোঁ) থেকে আলাদা: এখানে জ়"
+      },
+      {
+       "fr": "devenir",
+       "bn_pron": "দে°ভ়্‌নির়",
+       "en_pron": "duhv-NEER",
+       "bn": "হয়ে ওঠা",
+       "en": "to become"
+      },
+      {
+       "fr": "rester",
+       "bn_pron": "র়েস্তে",
+       "en_pron": "res-TAY",
+       "bn": "থাকা / থেকে যাওয়া",
+       "en": "to stay"
+      },
+      {
+       "fr": "vivre",
+       "bn_pron": "ভ়িভ়্র়",
+       "en_pron": "VEEVR",
+       "bn": "বেঁচে থাকা / বাস করা",
+       "en": "to live"
+      },
+      {
+       "fr": "sembler",
+       "bn_pron": "সাঁব্লে",
+       "en_pron": "sahn-BLAY",
+       "bn": "মনে হওয়া",
+       "en": "to seem"
+      },
+      {
+       "fr": "aimer",
+       "bn_pron": "এমে",
+       "en_pron": "ay-MAY",
+       "bn": "ভালোবাসা / পছন্দ করা",
+       "en": "to love / to like"
+      },
+      {
+       "fr": "préférer",
+       "bn_pron": "প্র়েফ়ের়ে",
+       "en_pron": "pray-fay-RAY",
+       "bn": "বেশি পছন্দ করা",
+       "en": "to prefer"
+      },
+      {
+       "fr": "rencontrer",
+       "bn_pron": "র়াঁকোঁত্র়ে",
+       "en_pron": "rahn-kohn-TRAY",
+       "bn": "দেখা হওয়া / পরিচিত হওয়া",
+       "en": "to meet"
+      },
+      {
+       "fr": "présenter",
+       "bn_pron": "প্র়েজ়াঁতে",
+       "en_pron": "pray-zahn-TAY",
+       "bn": "পরিচয় করিয়ে দেওয়া",
+       "en": "to introduce"
+      },
+      {
+       "fr": "connaître",
+       "bn_pron": "কোনেত্র়",
+       "en_pron": "ko-NETR",
+       "bn": "চেনা",
+       "en": "to know (a person, a place)"
+      },
+      {
+       "fr": "avoir besoin de",
+       "bn_pron": "আভ়োয়ার় বে°জ়োয়্যাঁ দে°",
+       "en_pron": "a-vwahr buh-zwehn DUH",
+       "bn": "দরকার হওয়া",
+       "en": "to need"
+      }
+     ]
+    },
+    {
+     "code": "2d",
+     "kind": "C",
+     "title_bn": "নাম, উপাধি ও সম্বোধন",
+     "title_en": "Names, honorifics & forms of address",
+     "words": [
+      {
+       "fr": "Monsieur",
+       "bn_pron": "মে°সিয়ে°",
+       "en_pron": "muh-SYUH",
+       "bn": "জনাব / স্যার",
+       "en": "Mr / sir",
+       "icon": "🎩",
+       "story_bn": "লিখতে সংক্ষেপে «M.», আর অচেনা পুরুষকে ভদ্রভাবে ডাকতে শুধু «Monsieur!» বললেই চলে।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "Madame",
+       "bn_pron": "মাদাম",
+       "en_pron": "ma-DAM",
+       "bn": "বেগম / ম্যাডাম",
+       "en": "Mrs / madam",
+       "icon": "👒",
+       "story_bn": "সংক্ষেপে «Mme»; বিবাহিত হোক বা না হোক, যেকোনো প্রাপ্তবয়স্ক নারীকে আজ ফ্রান্সে «Madame» বলা হয়।",
+       "link_bn": "বাংলায়ও «ম্যাডাম» শব্দটি চলে",
+       "source_hint": "French Prime Minister's circular, 21 February 2012"
+      },
+      {
+       "fr": "Mademoiselle",
+       "bn_pron": "মাদ্‌মোয়াজ়েল",
+       "en_pron": "mad-mwa-ZEL",
+       "bn": "কুমারী / মিস",
+       "en": "Miss",
+       "icon": "🎀",
+       "story_bn": "২০১২ সালে ফরাসি সরকার সরকারি ফরম থেকে «Mademoiselle» ঘরটি তুলে দেয়, এখন সেখানে শুধু «Madame»।",
+       "source_hint": "French Prime Minister's circular, 21 February 2012"
+      },
+      {
+       "fr": "Messieurs-dames",
+       "bn_pron": "মেসিয়ে° দাম",
+       "en_pron": "may-syuh-DAM",
+       "bn": "সবাইকে (ভদ্রমহিলা ও ভদ্রমহোদয়গণ)",
+       "en": "ladies and gentlemen",
+       "icon": "🧑‍🤝‍🧑",
+       "story_bn": "ছোট দোকান বা বেকারিতে ঢুকে অনেকেই উপস্থিত সবার উদ্দেশে বলেন «Bonjour, messieurs-dames!»।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "Maître",
+       "bn_pron": "মেত্র়",
+       "en_pron": "METR",
+       "bn": "(আইনজীবীর উপাধি) জনাব",
+       "en": "title for lawyers",
+       "icon": "⚖️",
+       "story_bn": "ফ্রান্সে আইনজীবী ও নোটারিদের নামের আগে সম্মান করে «Maître» বলা হয়, সংক্ষেপে «Me»।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "Docteur",
+       "bn_pron": "দোকতে°র়",
+       "en_pron": "dok-TUHR",
+       "bn": "ডাক্তার সাহেব",
+       "en": "Doctor (title)",
+       "icon": "🩺",
+       "story_bn": "রোগী সামনাসামনি ডাক্তারকে সম্বোধন করেন «Bonjour, Docteur»; পেশার সাধারণ নাম অবশ্য «médecin»।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "cher",
+       "bn_pron": "শের়",
+       "en_pron": "SHEHR",
+       "bn": "প্রিয় / শ্রদ্ধেয় (চিঠিতে)",
+       "en": "dear (in letters)",
+       "icon": "✉️",
+       "story_bn": "ফরাসি চিঠি বা ইমেইল প্রায়ই শুরু হয় «Cher Monsieur» বা «Chère Madame» দিয়ে।",
+       "link_bn": "বাংলা চিঠির «প্রিয়» বা «শ্রদ্ধেয়»",
+       "source_hint": "Le Robert dictionary",
+       "note_bn": "নারীর ক্ষেত্রে chère, উচ্চারণ একই"
+      },
+      {
+       "fr": "Son Excellence",
+       "bn_pron": "সোঁ নেক্সেলাঁস",
+       "en_pron": "sohn nek-say-LAHNS",
+       "bn": "মহামান্য",
+       "en": "His / Her Excellency",
+       "icon": "🎖️",
+       "story_bn": "বহু শতাব্দী ধরে ফরাসি ছিল কূটনীতির প্রধান ভাষা, আর রাষ্ট্রদূতদের আজও «Son Excellence» বলে সম্বোধন করা হয়।",
+       "source_hint": "History of diplomacy (Vienna Congress, Versailles treaty)"
+      },
+      {
+       "fr": "le surnom",
+       "bn_pron": "লে° সি°র়নোঁ",
+       "en_pron": "luh sür-NOHN",
+       "bn": "ডাকনাম",
+       "en": "nickname",
+       "icon": "🏷️",
+       "story_bn": "ফরাসি «surnom» মানে ডাকনাম, ইংরেজি surname (পদবি) নয় — দুটোকে গুলিয়ে ফেলবেন না!",
+       "link_bn": "বাংলার «ডাকনাম»",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "le trait d'union",
+       "bn_pron": "লে° ত্র়ে দি°নিয়োঁ",
+       "en_pron": "luh treh dü-NYOHN",
+       "bn": "হাইফেন (যুক্ত চিহ্ন)",
+       "en": "hyphen",
+       "icon": "➖",
+       "story_bn": "ফ্রান্সে জোড়া-নাম খুব প্রচলিত, যেমন Jean-Pierre বা Marie-Claire, যেখানে দুই নামের মাঝে এই হাইফেন বসে।",
+       "source_hint": "French civil registry practice"
+      },
+      {
+       "fr": "Marie",
+       "bn_pron": "মার়ি",
+       "en_pron": "ma-REE",
+       "bn": "মারি (মেয়েদের নাম)",
+       "en": "Marie (girl's name)",
+       "icon": "👧",
+       "story_bn": "বিশ শতকের বড় একটা অংশ জুড়ে ফ্রান্সে মেয়েদের সবচেয়ে প্রচলিত নাম ছিল Marie।",
+       "link_bn": "আরবি-বাংলায় এই নাম «মারইয়াম»",
+       "source_hint": "INSEE first-name statistics"
+      },
+      {
+       "fr": "Jean",
+       "bn_pron": "ঝ়াঁ",
+       "en_pron": "ZHAHN",
+       "bn": "জঁ (ছেলেদের নাম)",
+       "en": "Jean (boy's name)",
+       "icon": "👦",
+       "story_bn": "Jean হলো ইংরেজি John-এর ফরাসি রূপ, আর এটা ছেলেদের নাম; মেয়েদের নাম Jeanne (ঝ়ান)।",
+       "source_hint": "Le Robert; onomastics"
+      },
+      {
+       "fr": "Martin",
+       "bn_pron": "মার়ত্যাঁ",
+       "en_pron": "mar-TEHN",
+       "bn": "মার্তাঁ (পদবি)",
+       "en": "Martin (surname)",
+       "icon": "👨‍💼",
+       "story_bn": "Martin হলো ফ্রান্সের সবচেয়ে প্রচলিত পারিবারিক নাম বা পদবি।",
+       "source_hint": "INSEE surname statistics"
+      },
+      {
+       "fr": "Dupont",
+       "bn_pron": "দি°পোঁ",
+       "en_pron": "dü-POHN",
+       "bn": "দ্যুপোঁ (পদবি)",
+       "en": "Dupont (surname)",
+       "icon": "🕵️",
+       "story_bn": "বেলজিয়ান কমিকস «তাঁতাঁ» (Tintin)-এর যমজ মতো দেখতে দুই গোয়েন্দার নাম Dupond আর Dupont।",
+       "link_bn": "বাংলা «টিনটিন»-এ এরা «জনসন ও রনসন»",
+       "source_hint": "Hergé, The Adventures of Tintin"
+      },
+      {
+       "fr": "Mamadou",
+       "bn_pron": "মামাদু",
+       "en_pron": "ma-ma-DOO",
+       "bn": "মামাদু (ছেলেদের নাম)",
+       "en": "Mamadou (boy's name)",
+       "icon": "🧑🏾",
+       "story_bn": "সেনেগাল, গিনি ও মালিতে Mamadou নামটি হলো «মুহাম্মদ» নামের পশ্চিম আফ্রিকান রূপ।",
+       "link_bn": "বাংলার «মুহাম্মদ» নামের আরেক রূপ",
+       "source_hint": "West African onomastics"
+      },
+      {
+       "fr": "Fatou",
+       "bn_pron": "ফ়াতু",
+       "en_pron": "fa-TOO",
+       "bn": "ফাতু (মেয়েদের নাম)",
+       "en": "Fatou (girl's name)",
+       "icon": "👩🏾",
+       "story_bn": "সেনেগালে Fatou খুব প্রচলিত মেয়েদের নাম, যা «ফাতিমা» নামের একটি রূপ।",
+       "link_bn": "বাংলার «ফাতেমা»",
+       "source_hint": "West African onomastics"
+      },
+      {
+       "fr": "Tonton",
+       "bn_pron": "তোঁতোঁ",
+       "en_pron": "tohn-TOHN",
+       "bn": "চাচা / মামা (আদরের ডাক)",
+       "en": "uncle (affectionate)",
+       "icon": "👨🏾",
+       "story_bn": "ফরাসিভাষী আফ্রিকায় বয়সে বড় যেকোনো পুরুষকে সম্মান ও ভালোবাসা মিশিয়ে «Tonton» ডাকা যায়।",
+       "link_bn": "বাংলায় অচেনা বড়দের «চাচা» ডাকার মতো",
+       "source_hint": "Le Robert; usage in francophone Africa"
+      },
+      {
+       "fr": "Tata",
+       "bn_pron": "তাতা",
+       "en_pron": "ta-TAH",
+       "bn": "খালা / ফুফু (আদরের ডাক)",
+       "en": "auntie",
+       "icon": "👩🏾",
+       "story_bn": "একইভাবে বয়সে বড় নারীকে আদর করে «Tata» বলা হয়, নিজের আত্মীয় না হলেও।",
+       "link_bn": "বাংলায় «খালা» ডাকার মতো",
+       "source_hint": "Le Robert; usage in francophone Africa"
+      },
+      {
+       "fr": "Papi",
+       "bn_pron": "পাপি",
+       "en_pron": "pa-PEE",
+       "bn": "দাদু / নানু",
+       "en": "grandpa",
+       "icon": "👴",
+       "story_bn": "ফরাসি শিশুরা দাদা-নানাকে আদর করে «Papi» ডাকে; আনুষ্ঠানিক শব্দটি grand-père।",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "Mamie",
+       "bn_pron": "মামি",
+       "en_pron": "ma-MEE",
+       "bn": "দাদু / নানু (নারী)",
+       "en": "grandma",
+       "icon": "👵",
+       "story_bn": "দাদি-নানিকে আদর করে «Mamie» ডাকা হয়; বাংলার «মামি» ভেবে ভুল করবেন না!",
+       "link_bn": "বাংলা «মামি» নয় — এখানে মানে দাদি বা নানি",
+       "source_hint": "Le Robert dictionary"
+      },
+      {
+       "fr": "le chum",
+       "bn_pron": "লে° চোম",
+       "en_pron": "luh CHOM",
+       "bn": "বন্ধু / প্রেমিক (কেবেক)",
+       "en": "friend / boyfriend (Québec)",
+       "icon": "🍁",
+       "story_bn": "কেবেকে «mon chum» মানে বন্ধু বা প্রেমিক; শব্দটি এসেছে ইংরেজি chum থেকে।",
+       "source_hint": "Office québécois de la langue française"
+      },
+      {
+       "fr": "Sidi",
+       "bn_pron": "সিদি",
+       "en_pron": "see-DEE",
+       "bn": "জনাব (মাগরেব)",
+       "en": "sir (Maghreb)",
+       "icon": "🧔",
+       "story_bn": "মাগরেবের সম্মানসূচক «Sidi» মানে «আমার জনাব»; তিউনিসিয়ার নীল-সাদা শহর সিদি বু সাইদের নামও এভাবেই।",
+       "link_bn": "আরবি «সাইয়িদি» থেকে",
+       "source_hint": "Larousse; Tunisian place names"
+      },
+      {
+       "fr": "Lalla",
+       "bn_pron": "লাল্লা",
+       "en_pron": "la-LAH",
+       "bn": "বেগম সাহেবা (মরক্কো)",
+       "en": "lady (Morocco)",
+       "icon": "👸",
+       "story_bn": "মরক্কোতে সম্মানিত নারীদের নামের আগে «Lalla» বসে, যেমন রাজপরিবারের নারীদের নামে।",
+       "source_hint": "Moroccan royal titles"
+      },
+      {
+       "fr": "le roi",
+       "bn_pron": "লে° র়োয়া",
+       "en_pron": "luh RWAH",
+       "bn": "রাজা",
+       "en": "king",
+       "icon": "👑",
+       "story_bn": "বেলজিয়ামের রাজার উপাধি «বেলজিয়ামের রাজা» নয়, বরং «বেলজিয়ানদের রাজা» (Roi des Belges)।",
+       "source_hint": "Belgian Constitution"
+      },
+      {
+       "fr": "le griot",
+       "bn_pron": "লে° গ্র়িও",
+       "en_pron": "luh gree-OH",
+       "bn": "গ্রিও (গায়ক-কথক)",
+       "en": "griot (singer-storyteller)",
+       "icon": "🥁",
+       "story_bn": "পশ্চিম আফ্রিকার গ্রিওরা গানে গানে পরিবারের বংশতালিকা ও ইতিহাস মনে রাখেন ও শোনান।",
+       "link_bn": "বাংলার কবিয়াল বা কথকের মতো",
+       "source_hint": "Encyclopaedia Britannica: griot"
+      }
+     ]
+    }
+   ],
+   "say_now": [
+    {
+     "fr": "Je m'appelle Nadia.",
+     "bn_pron": "ঝ়ে° মাপেল নাদিয়া।",
+     "en_pron": "zhuh ma-pel na-DYAH.",
+     "bn": "আমার নাম নাদিয়া।",
+     "en": "My name is Nadia."
+    },
+    {
+     "fr": "Je suis bangladaise et j'habite en France.",
+     "bn_pron": "ঝ়ে° সুই বাঁগ্লাদেজ় এ ঝ়াবিত আঁ ফ়্র়াঁস।",
+     "en_pron": "zhuh swee bahn-gla-dez ay zha-beet ahn FRAHNS.",
+     "bn": "আমি বাংলাদেশি, আর আমি ফ্রান্সে থাকি।",
+     "en": "I am Bangladeshi and I live in France."
+    },
+    {
+     "fr": "Je parle bengali et arabe.",
+     "bn_pron": "ঝ়ে° পার়ল ব্যাঁগালি এ আর়াব।",
+     "en_pron": "zhuh parl behn-ga-lee ay a-RAB.",
+     "bn": "আমি বাংলা আর আরবি বলি।",
+     "en": "I speak Bengali and Arabic."
+    },
+    {
+     "fr": "C'est mon mari et mon fils.",
+     "bn_pron": "সে মোঁ মার়ি এ মোঁ ফ়িস।",
+     "en_pron": "say mohn ma-ree ay mohn FEESS.",
+     "bn": "ইনি আমার স্বামী, আর এ আমার ছেলে।",
+     "en": "This is my husband and my son."
+    },
+    {
+     "fr": "Enchantée, Madame !",
+     "bn_pron": "আঁশাঁতে, মাদাম !",
+     "en_pron": "ahn-shahn-tay, ma-DAM!",
+     "bn": "পরিচিত হয়ে খুশি হলাম, ম্যাডাম!",
+     "en": "Nice to meet you, madam!"
+    }
+   ],
+   "mission_bn": "আয়নার সামনে দাঁড়িয়ে ফরাসিতে নিজের পরিচয় দিন: নাম, দেশ আর কোন কোন ভাষা বলেন; তারপর পরিবারের তিনজনের ছবি দেখিয়ে বলুন «C'est mon père», «C'est ma mère», «C'est mon frère»।",
+   "quiz": [
+    {
+     "q_bn": "«মা» ফরাসিতে কী?",
+     "a": "la mère"
+    },
+    {
+     "q_bn": "«ভাই» ফরাসিতে কী?",
+     "a": "le frère"
+    },
+    {
+     "q_bn": "«প্রথম নাম» ফরাসিতে কী?",
+     "a": "le prénom"
+    },
+    {
+     "q_bn": "«দেশ» ফরাসিতে কী?",
+     "a": "le pays"
+    },
+    {
+     "q_bn": "«আমি হই / আমি» কীভাবে বলবেন?",
+     "a": "je suis"
+    },
+    {
+     "q_bn": "«আমাদের আছে» কীভাবে বলবেন?",
+     "a": "nous avons"
+    },
+    {
+     "q_bn": "নারী হলে «বাংলাদেশি» শব্দটি কী হবে?",
+     "a": "bangladaise"
+    },
+    {
+     "q_bn": "«প্রতিবেশী» ফরাসিতে কী?",
+     "a": "le voisin"
+    },
+    {
+     "q_bn": "«আমার নাম…» কীভাবে বলবেন?",
+     "a": "je m'appelle…"
+    },
+    {
+     "q_bn": "«surnom» মানে কী: পদবি না ডাকনাম?",
+     "a": "ডাকনাম"
+    }
+   ],
+   "stamp": {
+    "label_bn": "পরিচয়",
+    "icon": "🪪"
+   }
+  },
+  {
+   "no": 3,
+   "stage": 1,
+   "title_bn": "বিমানবন্দর থেকে শহরে",
+   "title_en": "From airport to city",
+   "scene_bn": "পাসপোর্টে সিল পড়ল, স্যুটকেসও হাতে এলো। এবার শহরে যাওয়ার পালা: ট্রেন, বাস না ট্যাক্সি? কাউকে পথ জিজ্ঞেস করতে হবে, আর উত্তরটাও বুঝতে হবে।",
+   "can_do_bn": [
+    "ইমিগ্রেশন ও কাস্টমসের প্রশ্নের উত্তর দিতে পারবেন",
+    "ট্রেন, বাস বা ট্যাক্সি নিতে ও টিকিট কিনতে পারবেন",
+    "পথ জিজ্ঞেস করে ডানে-বামে-সোজা বুঝতে পারবেন"
+   ],
+   "sets": [
+    {
+     "code": "3a",
+     "kind": "F",
+     "title_bn": "কাগজপত্র ও ইমিগ্রেশন",
+     "title_en": "Documents & immigration",
+     "words": [
+      {
+       "fr": "le passeport",
+       "bn_pron": "লে° পাস্‌পোর়",
+       "en_pron": "luh pass-POR",
+       "bn": "পাসপোর্ট",
+       "en": "passport"
+      },
+      {
+       "fr": "le visa",
+       "bn_pron": "লে° ভ়িজ়া",
+       "en_pron": "luh vee-ZAH",
+       "bn": "ভিসা",
+       "en": "visa"
+      },
+      {
+       "fr": "la carte d'identité",
+       "bn_pron": "লা কার়ত দিদাঁতিতে",
+       "en_pron": "la kart dee-dahn-tee-TAY",
+       "bn": "পরিচয়পত্র",
+       "en": "ID card"
+      },
+      {
+       "fr": "le formulaire",
+       "bn_pron": "লে° ফ়োর়মি°লের়",
+       "en_pron": "luh for-mü-LEHR",
+       "bn": "ফরম",
+       "en": "form"
+      },
+      {
+       "fr": "la douane",
+       "bn_pron": "লা দুয়ান",
+       "en_pron": "la DWAN",
+       "bn": "কাস্টমস / শুল্ক বিভাগ",
+       "en": "customs"
+      },
+      {
+       "fr": "le douanier",
+       "bn_pron": "লে° দুয়ানিয়ে",
+       "en_pron": "luh dwa-NYAY",
+       "bn": "কাস্টমস কর্মকর্তা",
+       "en": "customs officer"
+      },
+      {
+       "fr": "l'ambassade (f.)",
+       "bn_pron": "লাঁবাসাদ",
+       "en_pron": "lahn-ba-SAD",
+       "bn": "দূতাবাস",
+       "en": "embassy"
+      },
+      {
+       "fr": "le consulat",
+       "bn_pron": "লে° কোঁসি°লা",
+       "en_pron": "luh kohn-sü-LAH",
+       "bn": "কনস্যুলেট",
+       "en": "consulate"
+      },
+      {
+       "fr": "le titre de séjour",
+       "bn_pron": "লে° তিত্র় দে° সেঝ়ুর়",
+       "en_pron": "luh teetr duh say-ZHOOR",
+       "bn": "বসবাসের অনুমতিপত্র",
+       "en": "residence permit"
+      },
+      {
+       "fr": "la signature",
+       "bn_pron": "লা সিন্যাতি°র়",
+       "en_pron": "la see-nya-TÜR",
+       "bn": "স্বাক্ষর",
+       "en": "signature"
+      },
+      {
+       "fr": "la valise",
+       "bn_pron": "লা ভ়ালিজ়",
+       "en_pron": "la va-LEEZ",
+       "bn": "স্যুটকেস",
+       "en": "suitcase"
+      },
+      {
+       "fr": "le bagage",
+       "bn_pron": "লে° বাগাঝ়",
+       "en_pron": "luh ba-GAZH",
+       "bn": "মালপত্র",
+       "en": "luggage",
+       "note_bn": "প্রায়ই বহুবচনে: les bagages"
+      },
+      {
+       "fr": "le sac",
+       "bn_pron": "লে° সাক",
+       "en_pron": "luh SAK",
+       "bn": "ব্যাগ",
+       "en": "bag"
+      },
+      {
+       "fr": "la frontière",
+       "bn_pron": "লা ফ়্র়োঁতিয়ের়",
+       "en_pron": "la frohn-TYEHR",
+       "bn": "সীমান্ত",
+       "en": "border"
+      },
+      {
+       "fr": "l'aéroport (m.)",
+       "bn_pron": "লায়ের়োপোর়",
+       "en_pron": "la-ay-ro-POR",
+       "bn": "বিমানবন্দর",
+       "en": "airport"
+      },
+      {
+       "fr": "le vol",
+       "bn_pron": "লে° ভ়োল",
+       "en_pron": "luh VOL",
+       "bn": "ফ্লাইট",
+       "en": "flight",
+       "note_bn": "আরেক অর্থ চুরি"
+      },
+      {
+       "fr": "l'arrivée (f.)",
+       "bn_pron": "লার়িভ়ে",
+       "en_pron": "la-ree-VAY",
+       "bn": "আগমন",
+       "en": "arrival"
+      },
+      {
+       "fr": "le départ",
+       "bn_pron": "লে° দেপার়",
+       "en_pron": "luh day-PAR",
+       "bn": "প্রস্থান",
+       "en": "departure"
+      },
+      {
+       "fr": "la carte d'embarquement",
+       "bn_pron": "লা কার়ত দাঁবার়কে°মাঁ",
+       "en_pron": "la kart dahn-bar-kuh-MAHN",
+       "bn": "বোর্ডিং পাস",
+       "en": "boarding pass"
+      },
+      {
+       "fr": "l'enregistrement (m.)",
+       "bn_pron": "লাঁর়ে°ঝ়িস্ত্র়ে°মাঁ",
+       "en_pron": "lahn-ruh-zhees-truh-MAHN",
+       "bn": "চেক-ইন",
+       "en": "check-in"
+      },
+      {
+       "fr": "le tampon",
+       "bn_pron": "লে° তাঁপোঁ",
+       "en_pron": "luh tahn-POHN",
+       "bn": "সিল",
+       "en": "stamp (rubber)"
+      },
+      {
+       "fr": "la photo",
+       "bn_pron": "লা ফ়োতো",
+       "en_pron": "la fo-TOH",
+       "bn": "ছবি",
+       "en": "photo"
+      },
+      {
+       "fr": "le policier",
+       "bn_pron": "লে° পোলিসিয়ে",
+       "en_pron": "luh po-lee-SYAY",
+       "bn": "পুলিশ কর্মকর্তা",
+       "en": "police officer"
+      },
+      {
+       "fr": "le guichet",
+       "bn_pron": "লে° গিশে",
+       "en_pron": "luh gee-SHEH",
+       "bn": "কাউন্টার / টিকিট জানালা",
+       "en": "counter / ticket window"
+      },
+      {
+       "fr": "la file d'attente",
+       "bn_pron": "লা ফ়িল দাতাঁত",
+       "en_pron": "la feel da-TAHNT",
+       "bn": "লাইন / সারি",
+       "en": "queue"
+      }
+     ]
+    },
+    {
+     "code": "3b",
+     "kind": "F",
+     "title_bn": "যানবাহন",
+     "title_en": "Transport",
+     "words": [
+      {
+       "fr": "la voiture",
+       "bn_pron": "লা ভ়োয়াতি°র়",
+       "en_pron": "la vwa-TÜR",
+       "bn": "গাড়ি",
+       "en": "car"
+      },
+      {
+       "fr": "le bus",
+       "bn_pron": "লে° বি°স",
+       "en_pron": "luh BÜS",
+       "bn": "বাস (শহরের)",
+       "en": "bus"
+      },
+      {
+       "fr": "le car",
+       "bn_pron": "লে° কার়",
+       "en_pron": "luh KAR",
+       "bn": "দূরপাল্লার বাস",
+       "en": "coach"
+      },
+      {
+       "fr": "le train",
+       "bn_pron": "লে° ত্র়্যাঁ",
+       "en_pron": "luh TREHN",
+       "bn": "ট্রেন",
+       "en": "train"
+      },
+      {
+       "fr": "l'avion (m.)",
+       "bn_pron": "লাভ়িয়োঁ",
+       "en_pron": "la-VYOHN",
+       "bn": "বিমান",
+       "en": "airplane"
+      },
+      {
+       "fr": "le métro",
+       "bn_pron": "লে° মেত্র়ো",
+       "en_pron": "luh may-TROH",
+       "bn": "মেট্রো",
+       "en": "underground / metro"
+      },
+      {
+       "fr": "le tramway",
+       "bn_pron": "লে° ত্র়ামোয়ে",
+       "en_pron": "luh tram-WAY",
+       "bn": "ট্রাম",
+       "en": "tram",
+       "note_bn": "ছোট করে le tram"
+      },
+      {
+       "fr": "le taxi",
+       "bn_pron": "লে° তাক্সি",
+       "en_pron": "luh tak-SEE",
+       "bn": "ট্যাক্সি",
+       "en": "taxi"
+      },
+      {
+       "fr": "le vélo",
+       "bn_pron": "লে° ভ়েলো",
+       "en_pron": "luh vay-LOH",
+       "bn": "সাইকেল",
+       "en": "bicycle"
+      },
+      {
+       "fr": "la moto",
+       "bn_pron": "লা মোতো",
+       "en_pron": "la mo-TOH",
+       "bn": "মোটরসাইকেল",
+       "en": "motorbike"
+      },
+      {
+       "fr": "le bateau",
+       "bn_pron": "লে° বাতো",
+       "en_pron": "luh ba-TOH",
+       "bn": "নৌকা / জাহাজ",
+       "en": "boat"
+      },
+      {
+       "fr": "la gare",
+       "bn_pron": "লা গার়",
+       "en_pron": "la GAR",
+       "bn": "রেলস্টেশন",
+       "en": "train station"
+      },
+      {
+       "fr": "la station",
+       "bn_pron": "লা স্তাসিয়োঁ",
+       "en_pron": "la sta-SYOHN",
+       "bn": "(মেট্রো) স্টেশন",
+       "en": "(metro) station"
+      },
+      {
+       "fr": "l'arrêt (m.)",
+       "bn_pron": "লার়ে",
+       "en_pron": "la-REH",
+       "bn": "স্টপ (বাস)",
+       "en": "stop",
+       "note_bn": "l'arrêt de bus = বাস স্টপ"
+      },
+      {
+       "fr": "le quai",
+       "bn_pron": "লে° কে",
+       "en_pron": "luh KAY",
+       "bn": "প্ল্যাটফর্ম",
+       "en": "platform"
+      },
+      {
+       "fr": "le billet",
+       "bn_pron": "লে° বিয়ে",
+       "en_pron": "luh bee-YEH",
+       "bn": "টিকিট",
+       "en": "ticket",
+       "note_bn": "আরেক অর্থ টাকার নোট"
+      },
+      {
+       "fr": "l'aller simple (m.)",
+       "bn_pron": "লালে স্যাঁপ্ল",
+       "en_pron": "la-lay SEHNPL",
+       "bn": "একমুখী টিকিট",
+       "en": "one-way ticket"
+      },
+      {
+       "fr": "l'aller-retour (m.)",
+       "bn_pron": "লালে র়ে°তুর়",
+       "en_pron": "la-lay ruh-TOOR",
+       "bn": "যাওয়া-আসার টিকিট",
+       "en": "return ticket"
+      },
+      {
+       "fr": "le siège",
+       "bn_pron": "লে° সিয়েঝ়",
+       "en_pron": "luh SYEZH",
+       "bn": "আসন",
+       "en": "seat"
+      },
+      {
+       "fr": "le chauffeur",
+       "bn_pron": "লে° শোফ়ে°র়",
+       "en_pron": "luh sho-FUHR",
+       "bn": "চালক",
+       "en": "driver",
+       "note_bn": "বাংলার «শোফার» এই শব্দ থেকে"
+      },
+      {
+       "fr": "la ligne",
+       "bn_pron": "লা লিন্য",
+       "en_pron": "la LEENY",
+       "bn": "লাইন (বাস, মেট্রো)",
+       "en": "line"
+      },
+      {
+       "fr": "le retard",
+       "bn_pron": "লে° র়ে°তার়",
+       "en_pron": "luh ruh-TAR",
+       "bn": "দেরি",
+       "en": "delay",
+       "note_bn": "en retard = দেরিতে"
+      },
+      {
+       "fr": "le parking",
+       "bn_pron": "লে° পার়কিং",
+       "en_pron": "luh par-KEENG",
+       "bn": "পার্কিং",
+       "en": "car park"
+      },
+      {
+       "fr": "l'essence (f.)",
+       "bn_pron": "লেসাঁস",
+       "en_pron": "lay-SAHNS",
+       "bn": "পেট্রোল",
+       "en": "petrol"
+      },
+      {
+       "fr": "le trajet",
+       "bn_pron": "লে° ত্র়াঝ়ে",
+       "en_pron": "luh tra-ZHEH",
+       "bn": "যাত্রাপথ",
+       "en": "journey / route"
+      }
+     ]
+    },
+    {
+     "code": "3c",
+     "kind": "F",
+     "title_bn": "শহরের জায়গা ও দিকনির্দেশ",
+     "title_en": "Places in the city & directions",
+     "words": [
+      {
+       "fr": "la ville",
+       "bn_pron": "লা ভ়িল",
+       "en_pron": "la VEEL",
+       "bn": "শহর",
+       "en": "city / town"
+      },
+      {
+       "fr": "la rue",
+       "bn_pron": "লা র়ি°",
+       "en_pron": "la RÜ",
+       "bn": "রাস্তা",
+       "en": "street"
+      },
+      {
+       "fr": "l'avenue (f.)",
+       "bn_pron": "লাভ়্‌নি°",
+       "en_pron": "lav-NÜ",
+       "bn": "বড় রাস্তা / অ্যাভিনিউ",
+       "en": "avenue"
+      },
+      {
+       "fr": "le quartier",
+       "bn_pron": "লে° কার়তিয়ে",
+       "en_pron": "luh kar-TYAY",
+       "bn": "পাড়া / মহল্লা",
+       "en": "neighbourhood"
+      },
+      {
+       "fr": "le centre-ville",
+       "bn_pron": "লে° সাঁত্র়ে° ভ়িল",
+       "en_pron": "luh sahn-truh-VEEL",
+       "bn": "শহরের কেন্দ্র",
+       "en": "city centre"
+      },
+      {
+       "fr": "la place",
+       "bn_pron": "লা প্লাস",
+       "en_pron": "la PLASS",
+       "bn": "চত্বর / জায়গা",
+       "en": "square / place"
+      },
+      {
+       "fr": "le pont",
+       "bn_pron": "লে° পোঁ",
+       "en_pron": "luh POHN",
+       "bn": "সেতু",
+       "en": "bridge"
+      },
+      {
+       "fr": "le parc",
+       "bn_pron": "লে° পার়ক",
+       "en_pron": "luh PARK",
+       "bn": "পার্ক",
+       "en": "park"
+      },
+      {
+       "fr": "le carrefour",
+       "bn_pron": "লে° কার়ফ়ুর়",
+       "en_pron": "luh kar-FOOR",
+       "bn": "চৌরাস্তা / মোড়",
+       "en": "crossroads"
+      },
+      {
+       "fr": "le feu",
+       "bn_pron": "লে° ফ়ে°",
+       "en_pron": "luh FUH",
+       "bn": "ট্রাফিক বাতি",
+       "en": "traffic light",
+       "note_bn": "আরেক অর্থ আগুন"
+      },
+      {
+       "fr": "le trottoir",
+       "bn_pron": "লে° ত্র়োতোয়ার়",
+       "en_pron": "luh tro-TWAHR",
+       "bn": "ফুটপাত",
+       "en": "pavement"
+      },
+      {
+       "fr": "le coin",
+       "bn_pron": "লে° কোয়্যাঁ",
+       "en_pron": "luh KWEHN",
+       "bn": "কোণ / মোড়",
+       "en": "corner"
+      },
+      {
+       "fr": "la poste",
+       "bn_pron": "লা পোস্ত",
+       "en_pron": "la POST",
+       "bn": "ডাকঘর",
+       "en": "post office"
+      },
+      {
+       "fr": "la mairie",
+       "bn_pron": "লা মের়ি",
+       "en_pron": "la meh-REE",
+       "bn": "পৌরসভা ভবন",
+       "en": "town hall"
+      },
+      {
+       "fr": "le marché",
+       "bn_pron": "লে° মার়শে",
+       "en_pron": "luh mar-SHAY",
+       "bn": "বাজার",
+       "en": "market"
+      },
+      {
+       "fr": "la banque",
+       "bn_pron": "লা বাঁক",
+       "en_pron": "la BAHNK",
+       "bn": "ব্যাংক",
+       "en": "bank"
+      },
+      {
+       "fr": "l'hôtel (m.)",
+       "bn_pron": "লোতেল",
+       "en_pron": "lo-TEL",
+       "bn": "হোটেল",
+       "en": "hotel"
+      },
+      {
+       "fr": "le plan",
+       "bn_pron": "লে° প্লাঁ",
+       "en_pron": "luh PLAHN",
+       "bn": "শহরের মানচিত্র",
+       "en": "(city) map"
+      },
+      {
+       "fr": "à droite",
+       "bn_pron": "আ দ্র়োয়াত",
+       "en_pron": "ah DRWAHT",
+       "bn": "ডানে",
+       "en": "to the right"
+      },
+      {
+       "fr": "à gauche",
+       "bn_pron": "আ গোশ",
+       "en_pron": "ah GOHSH",
+       "bn": "বামে",
+       "en": "to the left"
+      },
+      {
+       "fr": "tout droit",
+       "bn_pron": "তু দ্র়োয়া",
+       "en_pron": "too DRWAH",
+       "bn": "সোজা",
+       "en": "straight ahead"
+      },
+      {
+       "fr": "près",
+       "bn_pron": "প্র়ে",
+       "en_pron": "PREH",
+       "bn": "কাছে",
+       "en": "near",
+       "note_bn": "près de la gare = স্টেশনের কাছে"
+      },
+      {
+       "fr": "loin",
+       "bn_pron": "লোয়্যাঁ",
+       "en_pron": "LWEHN",
+       "bn": "দূরে",
+       "en": "far"
+      },
+      {
+       "fr": "en face",
+       "bn_pron": "আঁ ফ়াস",
+       "en_pron": "ahn FASS",
+       "bn": "সামনাসামনি / উল্টো দিকে",
+       "en": "opposite"
+      },
+      {
+       "fr": "à côté",
+       "bn_pron": "আ কোতে",
+       "en_pron": "ah ko-TAY",
+       "bn": "পাশে",
+       "en": "next to"
+      }
+     ]
+    },
+    {
+     "code": "3d",
+     "kind": "F",
+     "title_bn": "ভ্রমণের ক্রিয়া ও বর্ণনার শব্দ",
+     "title_en": "Travel verbs & describing words",
+     "words": [
+      {
+       "fr": "aller",
+       "bn_pron": "আলে",
+       "en_pron": "a-LAY",
+       "bn": "যাওয়া",
+       "en": "to go",
+       "note_bn": "je vais = আমি যাই"
+      },
+      {
+       "fr": "arriver",
+       "bn_pron": "আর়িভ়ে",
+       "en_pron": "a-ree-VAY",
+       "bn": "পৌঁছানো",
+       "en": "to arrive"
+      },
+      {
+       "fr": "partir",
+       "bn_pron": "পার়তির়",
+       "en_pron": "par-TEER",
+       "bn": "রওনা দেওয়া / চলে যাওয়া",
+       "en": "to leave"
+      },
+      {
+       "fr": "prendre",
+       "bn_pron": "প্র়াঁদ্র়",
+       "en_pron": "PRAHNDR",
+       "bn": "নেওয়া / (যানবাহনে) চড়া",
+       "en": "to take",
+       "note_bn": "je prends le bus = আমি বাসে যাই"
+      },
+      {
+       "fr": "monter",
+       "bn_pron": "মোঁতে",
+       "en_pron": "mohn-TAY",
+       "bn": "ওঠা",
+       "en": "to go up / to get on"
+      },
+      {
+       "fr": "descendre",
+       "bn_pron": "দেসাঁদ্র়",
+       "en_pron": "day-SAHNDR",
+       "bn": "নামা",
+       "en": "to go down / to get off"
+      },
+      {
+       "fr": "tourner",
+       "bn_pron": "তুর়নে",
+       "en_pron": "toor-NAY",
+       "bn": "ঘোরা / বাঁক নেওয়া",
+       "en": "to turn"
+      },
+      {
+       "fr": "traverser",
+       "bn_pron": "ত্র়াভ়ের়সে",
+       "en_pron": "tra-vehr-SAY",
+       "bn": "পার হওয়া",
+       "en": "to cross"
+      },
+      {
+       "fr": "chercher",
+       "bn_pron": "শের়শে",
+       "en_pron": "shehr-SHAY",
+       "bn": "খোঁজা",
+       "en": "to look for"
+      },
+      {
+       "fr": "trouver",
+       "bn_pron": "ত্র়ুভ়ে",
+       "en_pron": "troo-VAY",
+       "bn": "খুঁজে পাওয়া",
+       "en": "to find"
+      },
+      {
+       "fr": "attendre",
+       "bn_pron": "আতাঁদ্র়",
+       "en_pron": "a-TAHNDR",
+       "bn": "অপেক্ষা করা",
+       "en": "to wait"
+      },
+      {
+       "fr": "voyager",
+       "bn_pron": "ভ়োয়াইয়াঝ়ে",
+       "en_pron": "vwa-ya-ZHAY",
+       "bn": "ভ্রমণ করা",
+       "en": "to travel"
+      },
+      {
+       "fr": "visiter",
+       "bn_pron": "ভ়িজ়িতে",
+       "en_pron": "vee-zee-TAY",
+       "bn": "(জায়গা) ঘুরে দেখা",
+       "en": "to visit (a place)"
+      },
+      {
+       "fr": "conduire",
+       "bn_pron": "কোঁদুইর়",
+       "en_pron": "kohn-DWEER",
+       "bn": "গাড়ি চালানো",
+       "en": "to drive"
+      },
+      {
+       "fr": "marcher",
+       "bn_pron": "মার়শে",
+       "en_pron": "mar-SHAY",
+       "bn": "হাঁটা",
+       "en": "to walk",
+       "note_bn": "আরেক অর্থ «চলা, কাজ করা»: ça marche!"
+      },
+      {
+       "fr": "demander",
+       "bn_pron": "দে°মাঁদে",
+       "en_pron": "duh-mahn-DAY",
+       "bn": "জিজ্ঞেস করা / চাওয়া",
+       "en": "to ask"
+      },
+      {
+       "fr": "perdre",
+       "bn_pron": "পের়দ্র়",
+       "en_pron": "PEHRDR",
+       "bn": "হারানো",
+       "en": "to lose"
+      },
+      {
+       "fr": "grand",
+       "bn_pron": "গ্র়াঁ",
+       "en_pron": "GRAHN",
+       "bn": "বড় / লম্বা",
+       "en": "big / tall",
+       "note_bn": "স্ত্রীলিঙ্গে grande (গ্র়াঁদ)"
+      },
+      {
+       "fr": "petit",
+       "bn_pron": "পে°তি",
+       "en_pron": "puh-TEE",
+       "bn": "ছোট",
+       "en": "small",
+       "note_bn": "স্ত্রীলিঙ্গে petite (পে°তিত)"
+      },
+      {
+       "fr": "rapide",
+       "bn_pron": "র়াপিদ",
+       "en_pron": "ra-PEED",
+       "bn": "দ্রুত",
+       "en": "fast"
+      },
+      {
+       "fr": "lent",
+       "bn_pron": "লাঁ",
+       "en_pron": "LAHN",
+       "bn": "ধীর",
+       "en": "slow",
+       "note_bn": "স্ত্রীলিঙ্গে lente (লাঁত)"
+      },
+      {
+       "fr": "long",
+       "bn_pron": "লোঁ",
+       "en_pron": "LOHN",
+       "bn": "লম্বা",
+       "en": "long",
+       "note_bn": "স্ত্রীলিঙ্গে longue (লোঁগ)"
+      },
+      {
+       "fr": "court",
+       "bn_pron": "কুর়",
+       "en_pron": "KOOR",
+       "bn": "খাটো / ছোট",
+       "en": "short",
+       "note_bn": "স্ত্রীলিঙ্গে courte (কুর়ত)"
+      },
+      {
+       "fr": "premier",
+       "bn_pron": "প্র়ে°মিয়ে",
+       "en_pron": "pruh-MYAY",
+       "bn": "প্রথম",
+       "en": "first",
+       "note_bn": "স্ত্রীলিঙ্গে première (প্র়ে°মিয়ের়)"
+      },
+      {
+       "fr": "dernier",
+       "bn_pron": "দের়নিয়ে",
+       "en_pron": "dehr-NYAY",
+       "bn": "শেষ / সর্বশেষ",
+       "en": "last",
+       "note_bn": "স্ত্রীলিঙ্গে dernière"
+      }
+     ]
+    }
+   ],
+   "say_now": [
+    {
+     "fr": "Voilà mon passeport et mon visa.",
+     "bn_pron": "ভ়োয়ালা মোঁ পাস্‌পোর় এ মোঁ ভ়িজ়া।",
+     "en_pron": "vwa-la mohn pass-por ay mohn vee-ZAH.",
+     "bn": "এই যে আমার পাসপোর্ট আর ভিসা।",
+     "en": "Here is my passport and my visa."
+    },
+    {
+     "fr": "Où est la gare, s'il vous plaît ?",
+     "bn_pron": "উ এ লা গার়, সিল ভ়ু প্লে ?",
+     "en_pron": "oo eh la gar, seel voo PLAY?",
+     "bn": "রেলস্টেশনটা কোথায়, দয়া করে বলবেন?",
+     "en": "Where is the station, please?"
+    },
+    {
+     "fr": "Je cherche l'arrêt de bus.",
+     "bn_pron": "ঝ়ে° শের়শ লার়ে দে° বি°স।",
+     "en_pron": "zhuh shehrsh la-reh duh BÜS.",
+     "bn": "আমি বাস স্টপটা খুঁজছি।",
+     "en": "I'm looking for the bus stop."
+    },
+    {
+     "fr": "Tournez à gauche, et c'est tout droit.",
+     "bn_pron": "তুর়নে আ গোশ, এ সে তু দ্র়োয়া।",
+     "en_pron": "toor-nay ah gohsh, ay say too DRWAH.",
+     "bn": "বামে ঘুরুন, তারপর সোজা।",
+     "en": "Turn left, and it's straight ahead."
+    },
+    {
+     "fr": "Je prends le train pour le centre-ville.",
+     "bn_pron": "ঝ়ে° প্র়াঁ লে° ত্র়্যাঁ পুর় লে° সাঁত্র়ে° ভ়িল।",
+     "en_pron": "zhuh prahn luh trehn poor luh sahn-truh-VEEL.",
+     "bn": "আমি শহরের কেন্দ্রে যাওয়ার ট্রেনে উঠছি।",
+     "en": "I'm taking the train to the city centre."
+    }
+   ],
+   "mission_bn": "আপনার বাসা থেকে সবচেয়ে কাছের দোকান বা বাস স্টপ পর্যন্ত পথের একটা ছোট মানচিত্র কাগজে আঁকুন, আর প্রতিটি বাঁকে ফরাসিতে লিখুন: «à droite», «à gauche», «tout droit»; শেষে জোরে বলুন জায়গাটা «près» না «loin»।",
+   "quiz": [
+    {
+     "q_bn": "«পাসপোর্ট» ফরাসিতে কী?",
+     "a": "le passeport"
+    },
+    {
+     "q_bn": "«রেলস্টেশন» ফরাসিতে কী?",
+     "a": "la gare"
+    },
+    {
+     "q_bn": "«ডানে» ফরাসিতে কী?",
+     "a": "à droite"
+    },
+    {
+     "q_bn": "«বামে» ফরাসিতে কী?",
+     "a": "à gauche"
+    },
+    {
+     "q_bn": "«সোজা» ফরাসিতে কী?",
+     "a": "tout droit"
+    },
+    {
+     "q_bn": "«বিমান» ফরাসিতে কী?",
+     "a": "l'avion"
+    },
+    {
+     "q_bn": "«টিকিট» ফরাসিতে কী?",
+     "a": "le billet"
+    },
+    {
+     "q_bn": "«কাছে» আর «দূরে» ফরাসিতে কী?",
+     "a": "près / loin"
+    },
+    {
+     "q_bn": "«অপেক্ষা করা» ফরাসিতে কী?",
+     "a": "attendre"
+    },
+    {
+     "q_bn": "«খোঁজা» আর «খুঁজে পাওয়া» ফরাসিতে কী?",
+     "a": "chercher / trouver"
+    }
+   ],
+   "stamp": {
+    "label_bn": "বিমানবন্দর থেকে শহরে",
+    "icon": "✈️"
+   }
+  }
+ ],
+ "milestones": []
+}
