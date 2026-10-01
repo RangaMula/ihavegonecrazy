@@ -1,0 +1,2554 @@
+{
+ "ch8": {
+  "intro_bn": "বাজারে দাম, ফোনে নম্বর, ফর্মে জন্মতারিখ, ট্রেনের প্ল্যাটফর্ম — বিদেশে প্রথম দিন থেকেই আপনাকে সংখ্যা শুনতে ও বলতে হবে। ফরাসি সংখ্যা শুরুতে সহজ, তারপর ৭০-এ এসে মজার মোড় নেয়: সত্তরকে বলে 'ষাট-দশ', আশিকে 'চার-বিশ', নব্বইকে 'চার-বিশ-দশ'! এটা প্রাচীন কালের বিশ-ভিত্তিক গণনার স্মৃতি। বাংলাভাষী হিসেবে আপনি এতে অবাক হবেন না: আমরাও 'কুড়ি' গুনি, আর বাংলায় ১ থেকে ১০০ পর্যন্ত প্রায় প্রতিটি সংখ্যার আলাদা নাম মুখস্থ করেই বড় হয়েছি। ফরাসির নিয়ম তার চেয়ে অনেক বেশি যুক্তিসংগত।",
+  "numbers": [
+   {
+    "n": 0,
+    "fr": "zéro",
+    "bn_pron": "জ়ের়ো",
+    "en_pron": "zay-ROH",
+    "bn": "শূন্য (০)",
+    "en": "zero"
+   },
+   {
+    "n": 1,
+    "fr": "un",
+    "bn_pron": "অ্যাঁ",
+    "en_pron": "EHN",
+    "bn": "এক (১)",
+    "en": "one",
+    "note_bn": "স্ত্রীলিঙ্গ বিশেষ্যের আগে une = ই°ন: une heure।"
+   },
+   {
+    "n": 2,
+    "fr": "deux",
+    "bn_pron": "দে°",
+    "en_pron": "DUH",
+    "bn": "দুই (২)",
+    "en": "two"
+   },
+   {
+    "n": 3,
+    "fr": "trois",
+    "bn_pron": "ত্র়োয়া",
+    "en_pron": "TRWAH",
+    "bn": "তিন (৩)",
+    "en": "three"
+   },
+   {
+    "n": 4,
+    "fr": "quatre",
+    "bn_pron": "কাত্র়",
+    "en_pron": "KAHTR",
+    "bn": "চার (৪)",
+    "en": "four"
+   },
+   {
+    "n": 5,
+    "fr": "cinq",
+    "bn_pron": "স্যাঁক",
+    "en_pron": "SEHNK",
+    "bn": "পাঁচ (৫)",
+    "en": "five",
+    "note_bn": "ব্যঞ্জনের আগে q প্রায়ই চুপ: cinq livres = স্যাঁ লিভ়্র়।"
+   },
+   {
+    "n": 6,
+    "fr": "six",
+    "bn_pron": "সিস",
+    "en_pron": "SEES",
+    "bn": "ছয় (৬)",
+    "en": "six",
+    "note_bn": "ব্যঞ্জনের আগে সি, স্বরের আগে সিজ়।"
+   },
+   {
+    "n": 7,
+    "fr": "sept",
+    "bn_pron": "সেত",
+    "en_pron": "SET",
+    "bn": "সাত (৭)",
+    "en": "seven",
+    "note_bn": "p চুপ।"
+   },
+   {
+    "n": 8,
+    "fr": "huit",
+    "bn_pron": "উইত",
+    "en_pron": "WEET",
+    "bn": "আট (৮)",
+    "en": "eight"
+   },
+   {
+    "n": 9,
+    "fr": "neuf",
+    "bn_pron": "নে°ফ়",
+    "en_pron": "NUHF",
+    "bn": "নয় (৯)",
+    "en": "nine",
+    "note_bn": "neuf মানে 'নতুন'-ও।"
+   },
+   {
+    "n": 10,
+    "fr": "dix",
+    "bn_pron": "দিস",
+    "en_pron": "DEES",
+    "bn": "দশ (১০)",
+    "en": "ten",
+    "note_bn": "ব্যঞ্জনের আগে দি, স্বরের আগে দিজ়।"
+   },
+   {
+    "n": 11,
+    "fr": "onze",
+    "bn_pron": "ওঁজ়",
+    "en_pron": "OHNZ",
+    "bn": "এগারো (১১)",
+    "en": "eleven"
+   },
+   {
+    "n": 12,
+    "fr": "douze",
+    "bn_pron": "দুজ়",
+    "en_pron": "DOOZ",
+    "bn": "বারো (১২)",
+    "en": "twelve"
+   },
+   {
+    "n": 13,
+    "fr": "treize",
+    "bn_pron": "ত্র়েজ়",
+    "en_pron": "TREHZ",
+    "bn": "তেরো (১৩)",
+    "en": "thirteen"
+   },
+   {
+    "n": 14,
+    "fr": "quatorze",
+    "bn_pron": "কাতোর়জ়",
+    "en_pron": "kah-TORZ",
+    "bn": "চৌদ্দ (১৪)",
+    "en": "fourteen"
+   },
+   {
+    "n": 15,
+    "fr": "quinze",
+    "bn_pron": "ক্যাঁজ়",
+    "en_pron": "KEHNZ",
+    "bn": "পনেরো (১৫)",
+    "en": "fifteen"
+   },
+   {
+    "n": 16,
+    "fr": "seize",
+    "bn_pron": "সেজ়",
+    "en_pron": "SEHZ",
+    "bn": "ষোলো (১৬)",
+    "en": "sixteen",
+    "note_bn": "১১ থেকে ১৬ পর্যন্ত আলাদা নাম; ১৭ থেকে জোড়া লাগানো শুরু।"
+   },
+   {
+    "n": 17,
+    "fr": "dix-sept",
+    "bn_pron": "দিসেত",
+    "en_pron": "dee-SET",
+    "bn": "সতেরো (১৭)",
+    "en": "seventeen",
+    "note_bn": "আক্ষরিক অর্থে 'দশ-সাত'।"
+   },
+   {
+    "n": 18,
+    "fr": "dix-huit",
+    "bn_pron": "দিজ়ুইত",
+    "en_pron": "dee-ZWEET",
+    "bn": "আঠারো (১৮)",
+    "en": "eighteen"
+   },
+   {
+    "n": 19,
+    "fr": "dix-neuf",
+    "bn_pron": "দিজ়্‌নে°ফ়",
+    "en_pron": "deez-NUHF",
+    "bn": "উনিশ (১৯)",
+    "en": "nineteen"
+   },
+   {
+    "n": 20,
+    "fr": "vingt",
+    "bn_pron": "ভ়্যাঁ",
+    "en_pron": "VEHN",
+    "bn": "বিশ (২০)",
+    "en": "twenty",
+    "note_bn": "gt চুপ। বাংলার 'বিশ' আর vingt দূর সম্পর্কের আত্মীয় (দুটোই প্রাচীন ইন্দো-ইউরোপীয় মূলের)।"
+   },
+   {
+    "n": 21,
+    "fr": "vingt et un",
+    "bn_pron": "ভ়্যাঁ তে অ্যাঁ",
+    "en_pron": "vehn-tay-EHN",
+    "bn": "একুশ (২১)",
+    "en": "twenty-one",
+    "note_bn": "২১, ৩১, ৪১…৬১-তে 'et' (এবং) বসে, হাইফেন নয়।"
+   },
+   {
+    "n": 22,
+    "fr": "vingt-deux",
+    "bn_pron": "ভ়্যাঁত দে°",
+    "en_pron": "vehnt-DUH",
+    "bn": "বাইশ (২২)",
+    "en": "twenty-two"
+   },
+   {
+    "n": 30,
+    "fr": "trente",
+    "bn_pron": "ত্র়াঁত",
+    "en_pron": "TRAHNT",
+    "bn": "ত্রিশ (৩০)",
+    "en": "thirty"
+   },
+   {
+    "n": 40,
+    "fr": "quarante",
+    "bn_pron": "কার়াঁত",
+    "en_pron": "kah-RAHNT",
+    "bn": "চল্লিশ (৪০)",
+    "en": "forty"
+   },
+   {
+    "n": 50,
+    "fr": "cinquante",
+    "bn_pron": "স্যাঁকাঁত",
+    "en_pron": "sehn-KAHNT",
+    "bn": "পঞ্চাশ (৫০)",
+    "en": "fifty"
+   },
+   {
+    "n": 60,
+    "fr": "soixante",
+    "bn_pron": "সোয়াসাঁত",
+    "en_pron": "swah-SAHNT",
+    "bn": "ষাট (৬০)",
+    "en": "sixty",
+    "note_bn": "x এখানে স।"
+   },
+   {
+    "n": 70,
+    "fr": "soixante-dix",
+    "bn_pron": "সোয়াসাঁত দিস",
+    "en_pron": "swah-sahnt-DEES",
+    "bn": "সত্তর (৭০)",
+    "en": "seventy",
+    "note_bn": "আক্ষরিক অর্থে 'ষাট-দশ'!"
+   },
+   {
+    "n": 71,
+    "fr": "soixante et onze",
+    "bn_pron": "সোয়াসাঁত এ ওঁজ়",
+    "en_pron": "swah-sahn-tay-OHNZ",
+    "bn": "একাত্তর (৭১)",
+    "en": "seventy-one",
+    "note_bn": "'ষাট এবং এগারো' — আমাদের মুক্তিযুদ্ধের বছরের সংখ্যা।"
+   },
+   {
+    "n": 80,
+    "fr": "quatre-vingts",
+    "bn_pron": "কাত্র় ভ়্যাঁ",
+    "en_pron": "katr-VEHN",
+    "bn": "আশি (৮০)",
+    "en": "eighty",
+    "note_bn": "আক্ষরিক অর্থে 'চার-বিশ' (৪ × ২০)। এখানে শেষে s বসে।"
+   },
+   {
+    "n": 81,
+    "fr": "quatre-vingt-un",
+    "bn_pron": "কাত্র় ভ়্যাঁ অ্যাঁ",
+    "en_pron": "katr-vehn-EHN",
+    "bn": "একাশি (৮১)",
+    "en": "eighty-one",
+    "note_bn": "এখানে et নেই, আর vingt-এর s-ও চলে গেছে।"
+   },
+   {
+    "n": 90,
+    "fr": "quatre-vingt-dix",
+    "bn_pron": "কাত্র় ভ়্যাঁ দিস",
+    "en_pron": "katr-vehn-DEES",
+    "bn": "নব্বই (৯০)",
+    "en": "ninety",
+    "note_bn": "'চার-বিশ-দশ' = ৪ × ২০ + ১০।"
+   },
+   {
+    "n": 91,
+    "fr": "quatre-vingt-onze",
+    "bn_pron": "কাত্র় ভ়্যাঁ ওঁজ়",
+    "en_pron": "katr-vehn-OHNZ",
+    "bn": "একানব্বই (৯১)",
+    "en": "ninety-one"
+   },
+   {
+    "n": 99,
+    "fr": "quatre-vingt-dix-neuf",
+    "bn_pron": "কাত্র় ভ়্যাঁ দিজ়্‌নে°ফ়",
+    "en_pron": "katr-vehn-deez-NUHF",
+    "bn": "নিরানব্বই (৯৯)",
+    "en": "ninety-nine",
+    "note_bn": "৪ × ২০ + ১০ + ৯ — চার শব্দের এক সংখ্যা!"
+   },
+   {
+    "n": 100,
+    "fr": "cent",
+    "bn_pron": "সাঁ",
+    "en_pron": "SAHN",
+    "bn": "একশ (১০০)",
+    "en": "one hundred",
+    "note_bn": "আগে un বসে না: শুধু cent।"
+   },
+   {
+    "n": 101,
+    "fr": "cent un",
+    "bn_pron": "সাঁ অ্যাঁ",
+    "en_pron": "sahn-EHN",
+    "bn": "একশ এক (১০১)",
+    "en": "one hundred and one"
+   },
+   {
+    "n": 200,
+    "fr": "deux cents",
+    "bn_pron": "দে° সাঁ",
+    "en_pron": "duh SAHN",
+    "bn": "দুইশ (২০০)",
+    "en": "two hundred",
+    "note_bn": "পুরো শতকে s বসে (deux cents), পরে সংখ্যা থাকলে বসে না (deux cent un)।"
+   },
+   {
+    "n": 1000,
+    "fr": "mille",
+    "bn_pron": "মিল",
+    "en_pron": "MEEL",
+    "bn": "এক হাজার (১০০০)",
+    "en": "one thousand",
+    "note_bn": "mille কখনো s নেয় না, আগে un-ও বসে না।"
+   },
+   {
+    "n": 2000,
+    "fr": "deux mille",
+    "bn_pron": "দে° মিল",
+    "en_pron": "duh MEEL",
+    "bn": "দুই হাজার (২০০০)",
+    "en": "two thousand"
+   },
+   {
+    "n": 10000,
+    "fr": "dix mille",
+    "bn_pron": "দি মিল",
+    "en_pron": "dee MEEL",
+    "bn": "দশ হাজার (১০,০০০)",
+    "en": "ten thousand",
+    "note_bn": "ব্যঞ্জনের আগে dix-এর x চুপ।"
+   },
+   {
+    "n": 100000,
+    "fr": "cent mille",
+    "bn_pron": "সাঁ মিল",
+    "en_pron": "sahn MEEL",
+    "bn": "এক লাখ (১,০০,০০০)",
+    "en": "one hundred thousand",
+    "note_bn": "আক্ষরিক অর্থে 'একশ হাজার'।"
+   },
+   {
+    "n": 1000000,
+    "fr": "un million",
+    "bn_pron": "অ্যাঁ মিলিয়োঁ",
+    "en_pron": "ehn mee-LYOHN",
+    "bn": "দশ লাখ (১০,০০,০০০)",
+    "en": "one million",
+    "note_bn": "million বিশেষ্য: পরে de বসে — un million d'euros।"
+   }
+  ],
+  "belgium_swiss_bn": "ফ্রান্সের বাইরে গেলে সত্তর-নব্বইয়ের জট খুলে যায়। বেলজিয়াম আর সুইজারল্যান্ডে ৭০ হলো septante (সেপ্তাঁত) আর ৯০ হলো nonante (নোনাঁত) — একেবারে নিয়মমাফিক, 'সাত-দশ' আর 'নয়-দশ'। সুইজারল্যান্ডের কয়েকটি অঞ্চলে (যেমন Vaud, Valais) ৮০-কেও বলা হয় huitante (উইতাঁত); বেলজিয়ামে কিন্তু ৮০ থাকে quatre-vingts। তাই ব্রাসেলস বা জেনেভায় কেউ septante-cinq বললে বুঝবেন ৭৫। আপনি নিজে ফ্রান্সের রূপ (soixante-quinze) বললেও সবাই বুঝবেন — তবে স্থানীয় রূপ শুনে চিনতে পারা জরুরি।",
+  "lakh_bn": "বাংলায় আমরা গুনি হাজার, লাখ, কোটিতে; ফরাসি (ইংরেজির মতো) গোনে হাজারে হাজারে: mille (হাজার), million (মিলিয়ন), milliard (বিলিয়ন)। তাই হিসাব মেলাতে মনে রাখুন: cent mille (১০০ হাজার) = এক লাখ · un million = দশ লাখ · dix millions = এক কোটি · un milliard = একশ কোটি। লেখার নিয়মও আলাদা: বাংলায় ১০,০০,০০০ (প্রথমে তিন অঙ্ক, তারপর দুই অঙ্ক করে কমা), ফরাসিতে 1 000 000 (তিন অঙ্ক করে ফাঁকা জায়গা)। আর দশমিকে ফরাসিরা বিন্দুর বদলে কমা দেয়: ৩.৫০ টাকা = 3,50 €। কেউ ফরাসিতে 'দশ লাখ ইউরো' বলতে চাইলে বলবেন un million d'euros।",
+  "ordinals": [
+   {
+    "fr": "premier",
+    "bn_pron": "প্র়ে°মিয়ে",
+    "en_pron": "pruh-MYAY",
+    "bn": "প্রথম",
+    "en": "first",
+    "note_bn": "স্ত্রীলিঙ্গ: première = প্র়ে°মিয়ের়। একমাত্র অনিয়মিত ক্রমবাচক।"
+   },
+   {
+    "fr": "deuxième",
+    "bn_pron": "দে°জ়িয়েম",
+    "en_pron": "duh-ZYEHM",
+    "bn": "দ্বিতীয়",
+    "en": "second",
+    "note_bn": "সংখ্যা + -ième: সব ক্রমবাচক এভাবে বানানো যায়।"
+   },
+   {
+    "fr": "troisième",
+    "bn_pron": "ত্র়োয়াজ়িয়েম",
+    "en_pron": "trwah-ZYEHM",
+    "bn": "তৃতীয়",
+    "en": "third"
+   },
+   {
+    "fr": "quatrième",
+    "bn_pron": "কাত্র়িয়েম",
+    "en_pron": "kah-tree-YEHM",
+    "bn": "চতুর্থ",
+    "en": "fourth",
+    "note_bn": "শেষের e বাদ দিয়ে -ième জোড়ে।"
+   },
+   {
+    "fr": "cinquième",
+    "bn_pron": "স্যাঁকিয়েম",
+    "en_pron": "sehn-KYEHM",
+    "bn": "পঞ্চম",
+    "en": "fifth",
+    "note_bn": "q-এর পরে u বসে: cinq → cinquième।"
+   },
+   {
+    "fr": "dixième",
+    "bn_pron": "দিজ়িয়েম",
+    "en_pron": "dee-ZYEHM",
+    "bn": "দশম",
+    "en": "tenth"
+   }
+  ],
+  "uses": [
+   {
+    "title_bn": "দাম বলা (ইউরো)",
+    "examples": [
+     {
+      "fr": "Ça coûte deux euros.",
+      "bn_pron": "সা কুত দে° জ়ে°র়ো",
+      "en_pron": "sah koot duh-zuh-ROH",
+      "bn": "এটার দাম দুই ইউরো।",
+      "en": "It costs two euros.",
+      "note_bn": "deux euros-এ লিয়াজোঁ: দে° জ়ে°র়ো।"
+     },
+     {
+      "fr": "Trois euros cinquante.",
+      "bn_pron": "ত্র়োয়া জ়ে°র়ো স্যাঁকাঁত",
+      "en_pron": "trwah-zuh-roh sehn-KAHNT",
+      "bn": "তিন ইউরো পঞ্চাশ (৩,৫০ €)।",
+      "en": "Three euros fifty.",
+      "note_bn": "ফরাসিতে দশমিকের জায়গায় কমা: 3,50 €; ইউরো চিহ্ন বসে সংখ্যার পরে।"
+     },
+     {
+      "fr": "Dix euros vingt.",
+      "bn_pron": "দি জ়ে°র়ো ভ়্যাঁ",
+      "en_pron": "dee-zuh-roh VEHN",
+      "bn": "দশ ইউরো বিশ সেন্ট (১০,২০ €)।",
+      "en": "Ten euros twenty."
+     },
+     {
+      "fr": "Cinquante centimes.",
+      "bn_pron": "স্যাঁকাঁত সাঁতিম",
+      "en_pron": "sehn-kahnt sahn-TEEM",
+      "bn": "পঞ্চাশ সেন্ট।",
+      "en": "Fifty cents.",
+      "note_bn": "১ ইউরো = ১০০ centimes।"
+     }
+    ]
+   },
+   {
+    "title_bn": "ফোন নম্বর (দুই অঙ্ক করে)",
+    "examples": [
+     {
+      "fr": "Quel est votre numéro de téléphone ?",
+      "bn_pron": "কে লে ভ়োত্র় নি°মের়ো দে° তেলেফ়োন",
+      "en_pron": "keh-leh votr nü-may-roh duh tay-lay-FON",
+      "bn": "আপনার ফোন নম্বর কত?",
+      "en": "What is your phone number?"
+     },
+     {
+      "fr": "C'est le 06 12 34 56 78.",
+      "bn_pron": "সে লে° জ়ের়ো সিস দুজ় ত্র়াঁত কাত্র় স্যাঁকাঁত সিস সোয়াসাঁত দিজ়ুইত",
+      "en_pron": "seh luh zay-roh sees dooz trahnt-katr sehn-kahnt-sees swah-sahnt-dee-ZWEET",
+      "bn": "নম্বরটা ০৬ ১২ ৩৪ ৫৬ ৭৮।",
+      "en": "It's 06 12 34 56 78.",
+      "note_bn": "ফ্রান্সে ১০ অঙ্কের নম্বর দুই অঙ্ক করে বলা হয়: 'বারো', 'চৌত্রিশ'… 06 বা 07 দিয়ে শুরু হলে মোবাইল।"
+     },
+     {
+      "fr": "zéro un, quarante-cinq, vingt-deux, dix-neuf, zéro trois",
+      "bn_pron": "জ়ের়ো অ্যাঁ কার়াঁত স্যাঁক ভ়্যাঁত দে° দিজ়্‌নে°ফ় জ়ের়ো ত্র়োয়া",
+      "en_pron": "zay-roh ehn kah-rahnt-sehnk vehnt-duh deez-nuhf zay-roh TRWAH",
+      "bn": "০১ ৪৫ ২২ ১৯ ০৩",
+      "en": "01 45 22 19 03",
+      "note_bn": "01 দিয়ে শুরু মানে প্যারিস অঞ্চলের ল্যান্ডলাইন।"
+     },
+     {
+      "fr": "Le dix-sept, c'est la police.",
+      "bn_pron": "লে° দিসেত সে লা পোলিস",
+      "en_pron": "luh dee-set seh lah poh-LEES",
+      "bn": "১৭ হলো পুলিশের নম্বর।",
+      "en": "17 is the police.",
+      "note_bn": "ফ্রান্সে জরুরি নম্বর: ১৫ অ্যাম্বুলেন্স (SAMU), ১৭ পুলিশ, ১৮ দমকল; ইউরোপজুড়ে ১১২।"
+     }
+    ]
+   },
+   {
+    "title_bn": "বয়স বলা",
+    "examples": [
+     {
+      "fr": "Quel âge avez-vous ?",
+      "bn_pron": "কে লাঝ় আভ়ে ভ়ু",
+      "en_pron": "keh-lahzh ah-vay-VOO",
+      "bn": "আপনার বয়স কত?",
+      "en": "How old are you?"
+     },
+     {
+      "fr": "J'ai trente ans.",
+      "bn_pron": "ঝ়ে ত্র়াঁ তাঁ",
+      "en_pron": "zhay trahn-TAHN",
+      "bn": "আমার বয়স ত্রিশ।",
+      "en": "I am thirty.",
+      "note_bn": "ফরাসিতে বয়স 'আছে' (avoir): আক্ষরিক অর্থে 'আমার ত্রিশ বছর আছে'। ans বাদ দেওয়া যায় না।"
+     },
+     {
+      "fr": "Mon fils a dix ans.",
+      "bn_pron": "মোঁ ফ়িস আ দি জ়াঁ",
+      "en_pron": "mohn fees ah dee-ZAHN",
+      "bn": "আমার ছেলের বয়স দশ।",
+      "en": "My son is ten.",
+      "note_bn": "fils-এ l চুপ, s উচ্চারিত: ফ়িস।"
+     },
+     {
+      "fr": "Ma mère a soixante-cinq ans.",
+      "bn_pron": "মা মের় আ সোয়াসাঁত স্যাঁ কাঁ",
+      "en_pron": "mah mehr ah swah-sahnt-sehn-KAHN",
+      "bn": "আমার মায়ের বয়স পঁয়ষট্টি।",
+      "en": "My mother is sixty-five."
+     }
+    ]
+   },
+   {
+    "title_bn": "ঠিকানা",
+    "examples": [
+     {
+      "fr": "Quelle est votre adresse ?",
+      "bn_pron": "কে লে ভ়োত্র় আদ্র়েস",
+      "en_pron": "keh-leh votr ah-DRESS",
+      "bn": "আপনার ঠিকানা কী?",
+      "en": "What is your address?"
+     },
+     {
+      "fr": "J'habite au 12, rue Victor-Hugo.",
+      "bn_pron": "ঝ়াবিত ও দুজ় র়ি° ভ়িকতোর় ই°গো",
+      "en_pron": "zhah-beet oh dooz rü veek-tor ü-GOH",
+      "bn": "আমি ভিক্তর-উগো রোডের ১২ নম্বরে থাকি।",
+      "en": "I live at 12 Victor Hugo Street.",
+      "note_bn": "ফরাসি ঠিকানায় বাড়ির নম্বর রাস্তার নামের আগে।"
+     },
+     {
+      "fr": "C'est au troisième étage.",
+      "bn_pron": "সে তো ত্র়োয়াজ়িয়েম এতাঝ়",
+      "en_pron": "seh-toh trwah-zyehm ay-TAHZH",
+      "bn": "এটা চারতলায় (তৃতীয় তলায়)।",
+      "en": "It's on the third floor.",
+      "note_bn": "সাবধান: ফ্রান্সে নিচতলা হলো rez-de-chaussée, তাই troisième étage মানে বাংলাদেশের হিসাবে চারতলা।"
+     },
+     {
+      "fr": "75011 Paris",
+      "bn_pron": "সোয়াসাঁত ক্যাঁজ় জ়ের়ো ওঁজ় পার়ি",
+      "en_pron": "swah-sahnt-kehnz zay-roh ohnz pah-REE",
+      "bn": "পোস্ট কোড ৭৫০১১, প্যারিস",
+      "en": "postcode 75011 Paris",
+      "note_bn": "75 = প্যারিসের বিভাগ (département), শেষ দুই অঙ্ক 11 = একাদশ এলাকা (arrondissement)।"
+     }
+    ]
+   }
+  ],
+  "quiz": [
+   {
+    "q_bn": "ফরাসিতে ৭০ কীভাবে বলে?",
+    "a": "soixante-dix (ষাট-দশ)।"
+   },
+   {
+    "q_bn": "quatre-vingts আক্ষরিক অর্থে কী, আর সংখ্যাটি কত?",
+    "a": "চার-বিশ; ৮০।"
+   },
+   {
+    "q_bn": "বেলজিয়ামে ৯০-কে কী বলে?",
+    "a": "nonante।"
+   },
+   {
+    "q_bn": "২১ ফরাসিতে লিখুন।",
+    "a": "vingt et un।"
+   },
+   {
+    "q_bn": "এক লাখ ফরাসিতে কী?",
+    "a": "cent mille।"
+   },
+   {
+    "q_bn": "'আমার বয়স পঁচিশ' ফরাসিতে বলুন।",
+    "a": "J'ai vingt-cinq ans."
+   },
+   {
+    "q_bn": "3,50 € জোরে পড়ুন।",
+    "a": "trois euros cinquante।"
+   },
+   {
+    "q_bn": "ফ্রান্সে troisième étage বাংলাদেশের হিসাবে কততলা?",
+    "a": "চারতলা (নিচতলা rez-de-chaussée গোনা হয় না)।"
+   }
+  ]
+ },
+ "ch9": {
+  "days": [
+   {
+    "fr": "lundi",
+    "bn_pron": "ল্যাঁদি",
+    "en_pron": "lehn-DEE",
+    "bn": "সোমবার",
+    "en": "Monday",
+    "note_bn": "চাঁদের দিন (lune)। বাংলার 'সোম'-ও চাঁদ!"
+   },
+   {
+    "fr": "mardi",
+    "bn_pron": "মার়দি",
+    "en_pron": "mahr-DEE",
+    "bn": "মঙ্গলবার",
+    "en": "Tuesday",
+    "note_bn": "মঙ্গল গ্রহের দিন (Mars) — বাংলার মতোই।"
+   },
+   {
+    "fr": "mercredi",
+    "bn_pron": "মের়ক্র়ে°দি",
+    "en_pron": "mehr-kruh-DEE",
+    "bn": "বুধবার",
+    "en": "Wednesday",
+    "note_bn": "বুধ গ্রহের দিন (Mercure) — বাংলার মতোই।"
+   },
+   {
+    "fr": "jeudi",
+    "bn_pron": "ঝ়ে°দি",
+    "en_pron": "zhuh-DEE",
+    "bn": "বৃহস্পতিবার",
+    "en": "Thursday",
+    "note_bn": "বৃহস্পতি গ্রহের দিন (Jupiter) — বাংলার মতোই।"
+   },
+   {
+    "fr": "vendredi",
+    "bn_pron": "ভ়াঁদ্র়ে°দি",
+    "en_pron": "vahn-druh-DEE",
+    "bn": "শুক্রবার",
+    "en": "Friday",
+    "note_bn": "শুক্র গ্রহের দিন (Vénus) — বাংলার মতোই।"
+   },
+   {
+    "fr": "samedi",
+    "bn_pron": "সাম্‌দি",
+    "en_pron": "sahm-DEE",
+    "bn": "শনিবার",
+    "en": "Saturday"
+   },
+   {
+    "fr": "dimanche",
+    "bn_pron": "দিমাঁশ",
+    "en_pron": "dee-MAHNSH",
+    "bn": "রবিবার",
+    "en": "Sunday",
+    "note_bn": "ফ্রান্সে অনেক দোকান বন্ধ থাকে; সপ্তাহ শুরু হয় সোমবারে।"
+   }
+  ],
+  "months": [
+   {
+    "fr": "janvier",
+    "bn_pron": "ঝ়াঁভ়িয়ে",
+    "en_pron": "zhahn-VYAY",
+    "bn": "জানুয়ারি",
+    "en": "January",
+    "note_bn": "মাস ও বারের নাম ফরাসিতে ছোট হাতের অক্ষরে লেখা হয়।"
+   },
+   {
+    "fr": "février",
+    "bn_pron": "ফ়েভ়্র়িয়ে",
+    "en_pron": "fay-vree-YAY",
+    "bn": "ফেব্রুয়ারি",
+    "en": "February"
+   },
+   {
+    "fr": "mars",
+    "bn_pron": "মার়স",
+    "en_pron": "MAHRS",
+    "bn": "মার্চ",
+    "en": "March",
+    "note_bn": "s উচ্চারিত হয়।"
+   },
+   {
+    "fr": "avril",
+    "bn_pron": "আভ়্র়িল",
+    "en_pron": "ah-VREEL",
+    "bn": "এপ্রিল",
+    "en": "April"
+   },
+   {
+    "fr": "mai",
+    "bn_pron": "মে",
+    "en_pron": "MEH",
+    "bn": "মে",
+    "en": "May"
+   },
+   {
+    "fr": "juin",
+    "bn_pron": "ঝ়ুয়্যাঁ",
+    "en_pron": "ZHWEHN",
+    "bn": "জুন",
+    "en": "June"
+   },
+   {
+    "fr": "juillet",
+    "bn_pron": "ঝ়ুইয়ে",
+    "en_pron": "zhwee-YEH",
+    "bn": "জুলাই",
+    "en": "July"
+   },
+   {
+    "fr": "août",
+    "bn_pron": "উত",
+    "en_pron": "OOT",
+    "bn": "আগস্ট",
+    "en": "August",
+    "note_bn": "অনেকে শুধু 'উ' বলেন; দুটোই চলে।"
+   },
+   {
+    "fr": "septembre",
+    "bn_pron": "সেপ্তাঁব্র়",
+    "en_pron": "sep-TAHMBR",
+    "bn": "সেপ্টেম্বর",
+    "en": "September"
+   },
+   {
+    "fr": "octobre",
+    "bn_pron": "ওক্তোব্র়",
+    "en_pron": "ok-TOBR",
+    "bn": "অক্টোবর",
+    "en": "October"
+   },
+   {
+    "fr": "novembre",
+    "bn_pron": "নোভ়াঁব্র়",
+    "en_pron": "noh-VAHMBR",
+    "bn": "নভেম্বর",
+    "en": "November"
+   },
+   {
+    "fr": "décembre",
+    "bn_pron": "দেসাঁব্র়",
+    "en_pron": "day-SAHMBR",
+    "bn": "ডিসেম্বর",
+    "en": "December"
+   }
+  ],
+  "seasons": [
+   {
+    "fr": "le printemps",
+    "bn_pron": "লে° প্র়্যাঁতাঁ",
+    "en_pron": "luh prehn-TAHN",
+    "bn": "বসন্তকাল",
+    "en": "spring",
+    "note_bn": "au printemps = বসন্তে (বাকি তিনটিতে en)।"
+   },
+   {
+    "fr": "l'été (m.)",
+    "bn_pron": "লেতে",
+    "en_pron": "lay-TAY",
+    "bn": "গ্রীষ্মকাল",
+    "en": "summer",
+    "note_bn": "en été = গ্রীষ্মে।"
+   },
+   {
+    "fr": "l'automne (m.)",
+    "bn_pron": "লোতোন",
+    "en_pron": "loh-TON",
+    "bn": "শরৎকাল",
+    "en": "autumn",
+    "note_bn": "m চুপ। en automne = শরতে।"
+   },
+   {
+    "fr": "l'hiver (m.)",
+    "bn_pron": "লিভ়ের়",
+    "en_pron": "lee-VEHR",
+    "bn": "শীতকাল",
+    "en": "winter",
+    "note_bn": "en hiver = শীতে।"
+   }
+  ],
+  "parts_of_day": [
+   {
+    "fr": "le matin",
+    "bn_pron": "লে° মাত্যাঁ",
+    "en_pron": "luh mah-TEHN",
+    "bn": "সকাল",
+    "en": "morning"
+   },
+   {
+    "fr": "midi",
+    "bn_pron": "মিদি",
+    "en_pron": "mee-DEE",
+    "bn": "দুপুর ১২টা",
+    "en": "noon",
+    "note_bn": "সাধারণত আর্টিকেল ছাড়া: à midi = দুপুর ১২টায়।"
+   },
+   {
+    "fr": "l'après-midi (m.)",
+    "bn_pron": "লাপ্র়ে মিদি",
+    "en_pron": "lah-preh mee-DEE",
+    "bn": "বিকেল",
+    "en": "afternoon"
+   },
+   {
+    "fr": "le soir",
+    "bn_pron": "লে° সোয়ার়",
+    "en_pron": "luh SWAHR",
+    "bn": "সন্ধ্যা",
+    "en": "evening"
+   },
+   {
+    "fr": "la nuit",
+    "bn_pron": "লা নুই",
+    "en_pron": "lah NWEE",
+    "bn": "রাত",
+    "en": "night"
+   },
+   {
+    "fr": "minuit",
+    "bn_pron": "মিনুই",
+    "en_pron": "mee-NWEE",
+    "bn": "মধ্যরাত (রাত ১২টা)",
+    "en": "midnight",
+    "note_bn": "আর্টিকেল ছাড়া: à minuit।"
+   }
+  ],
+  "time_telling": [
+   {
+    "fr": "Quelle heure est-il ?",
+    "bn_pron": "কে লে°র় এ তিল",
+    "en_pron": "keh-luhr eh-TEEL",
+    "bn": "কয়টা বাজে?",
+    "en": "What time is it?"
+   },
+   {
+    "fr": "Il est une heure.",
+    "bn_pron": "ই লে তি° নে°র়",
+    "en_pron": "ee-leh tü-NUHR",
+    "bn": "একটা বাজে।",
+    "en": "It is one o'clock.",
+    "note_bn": "heure স্ত্রীলিঙ্গ, তাই une।"
+   },
+   {
+    "fr": "Il est deux heures.",
+    "bn_pron": "ই লে দে° জ়ে°র়",
+    "en_pron": "ee-leh duh-ZUHR",
+    "bn": "দুটো বাজে।",
+    "en": "It is two o'clock."
+   },
+   {
+    "fr": "Il est trois heures et quart.",
+    "bn_pron": "ই লে ত্র়োয়া জ়ে°র় এ কার়",
+    "en_pron": "ee-leh trwah-zuhr ay KAHR",
+    "bn": "সোয়া তিনটা বাজে।",
+    "en": "It is a quarter past three.",
+    "note_bn": "et quart = সোয়া — বাংলার মতোই 'চতুর্থাংশ' দিয়ে।"
+   },
+   {
+    "fr": "Il est quatre heures et demie.",
+    "bn_pron": "ই লে কাত্র়ে°র় এ দে°মি",
+    "en_pron": "ee-leh kah-truhr ay duh-MEE",
+    "bn": "সাড়ে চারটা বাজে।",
+    "en": "It is half past four.",
+    "note_bn": "et demie = সাড়ে।"
+   },
+   {
+    "fr": "Il est cinq heures moins le quart.",
+    "bn_pron": "ই লে স্যাঁ কে°র় মোয়্যাঁ লে° কার়",
+    "en_pron": "ee-leh sehn-kuhr mwehn luh KAHR",
+    "bn": "পৌনে পাঁচটা বাজে।",
+    "en": "It is a quarter to five.",
+    "note_bn": "moins le quart = 'এক-চতুর্থাংশ কম' — ঠিক বাংলার 'পৌনে'।"
+   },
+   {
+    "fr": "Il est midi.",
+    "bn_pron": "ই লে মিদি",
+    "en_pron": "ee-leh mee-DEE",
+    "bn": "দুপুর ১২টা বাজে।",
+    "en": "It is noon."
+   },
+   {
+    "fr": "Il est minuit.",
+    "bn_pron": "ই লে মিনুই",
+    "en_pron": "ee-leh mee-NWEE",
+    "bn": "রাত ১২টা বাজে।",
+    "en": "It is midnight."
+   },
+   {
+    "fr": "Il est dix-huit heures trente.",
+    "bn_pron": "ই লে দিজ়ুই তে°র় ত্র়াঁত",
+    "en_pron": "ee-leh dee-zwee-tuhr TRAHNT",
+    "bn": "সন্ধ্যা সাড়ে ছয়টা (১৮:৩০)।",
+    "en": "It is 6:30 p.m. (18:30).",
+    "note_bn": "ট্রেন, অফিস ও দোকানে ২৪ ঘণ্টার হিসাব চলে; 18h30 লেখা হয়।"
+   },
+   {
+    "fr": "À quelle heure ?",
+    "bn_pron": "আ কে লে°র়",
+    "en_pron": "ah keh-LUHR",
+    "bn": "কয়টায়?",
+    "en": "At what time?"
+   }
+  ],
+  "date_examples": [
+   {
+    "fr": "Nous sommes le lundi 3 mars.",
+    "bn_pron": "নু সোম লে° ল্যাঁদি ত্র়োয়া মার়স",
+    "en_pron": "noo som luh lehn-dee trwah MAHRS",
+    "bn": "আজ সোমবার, ৩ মার্চ।",
+    "en": "Today is Monday 3 March.",
+    "note_bn": "তারিখে সাধারণ সংখ্যা (trois), ক্রমবাচক নয়; আগে le বসে।"
+   },
+   {
+    "fr": "le premier janvier",
+    "bn_pron": "লে° প্র়ে°মিয়ে ঝ়াঁভ়িয়ে",
+    "en_pron": "luh pruh-myay zhahn-VYAY",
+    "bn": "১ জানুয়ারি",
+    "en": "1 January",
+    "note_bn": "শুধু মাসের প্রথম দিনে premier: le 1er janvier।"
+   },
+   {
+    "fr": "Je suis né le 15 août 1995.",
+    "bn_pron": "ঝ়ে° সুই নে লে° ক্যাঁজ় উত মিল নে°ফ় সাঁ কাত্র় ভ়্যাঁ ক্যাঁজ়",
+    "en_pron": "zhuh swee nay luh kehnz oot meel nuhf sahn katr-vehn-KEHNZ",
+    "bn": "আমার জন্ম ১৫ আগস্ট ১৯৯৫।",
+    "en": "I was born on 15 August 1995.",
+    "note_bn": "নারী লিখবেন née (উচ্চারণ একই)। ১৯৯৫ = mille neuf cent quatre-vingt-quinze।"
+   },
+   {
+    "fr": "On est quel jour aujourd'hui ?",
+    "bn_pron": "ওঁ নে কেল ঝ়ুর় ওঝ়ুর়দুই",
+    "en_pron": "ohn-neh kehl zhoor oh-zhoor-DWEE",
+    "bn": "আজ কী বার?",
+    "en": "What day is it today?",
+    "note_bn": "সংখ্যায় তারিখ: দিন/মাস/বছর — 03/03/2026, বাংলাদেশের মতোই।"
+   }
+  ],
+  "time_words": [
+   {
+    "fr": "hier",
+    "bn_pron": "ইয়ের়",
+    "en_pron": "YEHR",
+    "bn": "গতকাল",
+    "en": "yesterday"
+   },
+   {
+    "fr": "aujourd'hui",
+    "bn_pron": "ওঝ়ুর়দুই",
+    "en_pron": "oh-zhoor-DWEE",
+    "bn": "আজ",
+    "en": "today"
+   },
+   {
+    "fr": "demain",
+    "bn_pron": "দে°ম্যাঁ",
+    "en_pron": "duh-MEHN",
+    "bn": "আগামীকাল",
+    "en": "tomorrow",
+    "note_bn": "বাংলার মতো 'কাল' দিয়ে দুই দিক বোঝায় না; গতকাল আর আগামীকালের আলাদা শব্দ।"
+   },
+   {
+    "fr": "avant-hier",
+    "bn_pron": "আভ়াঁ তিয়ের়",
+    "en_pron": "ah-vahn-TYEHR",
+    "bn": "গত পরশু",
+    "en": "the day before yesterday"
+   },
+   {
+    "fr": "après-demain",
+    "bn_pron": "আপ্র়ে দে°ম্যাঁ",
+    "en_pron": "ah-preh duh-MEHN",
+    "bn": "আগামী পরশু",
+    "en": "the day after tomorrow"
+   },
+   {
+    "fr": "maintenant",
+    "bn_pron": "ম্যাঁতনাঁ",
+    "en_pron": "mehnt-NAHN",
+    "bn": "এখন",
+    "en": "now"
+   },
+   {
+    "fr": "la semaine prochaine",
+    "bn_pron": "লা সে°মেন প্র়োশেন",
+    "en_pron": "lah suh-mehn proh-SHEN",
+    "bn": "আগামী সপ্তাহ",
+    "en": "next week"
+   },
+   {
+    "fr": "l'année dernière (f.)",
+    "bn_pron": "লানে দের়নিয়ের়",
+    "en_pron": "lah-nay dehr-NYEHR",
+    "bn": "গত বছর",
+    "en": "last year"
+   }
+  ],
+  "festivals": [
+   {
+    "name": {
+     "fr": "le 14 Juillet",
+     "bn_pron": "লে° কাতোর়জ় ঝ়ুইয়ে",
+     "en_pron": "luh kah-torz zhwee-YEH",
+     "bn": "ফ্রান্সের জাতীয় দিবস",
+     "en": "French National Day (Bastille Day)"
+    },
+    "when_bn": "প্রতি বছর ১৪ জুলাই (ফ্রান্স)।",
+    "story_bn": "১৭৮৯ সালের ১৪ জুলাই প্যারিসের বাস্তিল দুর্গ-কারাগারের পতন ফরাসি বিপ্লবের প্রতীক হয়ে আছে। এদিন সকালে শঁজেলিজে (Champs-Élysées)-তে কুচকাওয়াজ হয়, রাতে সারা দেশে আতশবাজি আর পাড়ায় পাড়ায় দমকল-কর্মীদের নাচের আসর (bal des pompiers) বসে।"
+   },
+   {
+    "name": {
+     "fr": "l'Aïd el-Fitr",
+     "bn_pron": "লাইদ এল ফ়িত্র়",
+     "en_pron": "lah-eed ehl FEETR",
+     "bn": "ঈদুল ফিতর",
+     "en": "Eid al-Fitr",
+     "note_bn": "সেনেগালে একে বলে la Korité (কোর়িতে)।"
+    },
+    "when_bn": "শাওয়াল মাসের ১ তারিখ, রমজানের পর (চাঁদ দেখার ওপর নির্ভর করে)।",
+    "story_bn": "মরক্কো, আলজেরিয়া, তিউনিসিয়া থেকে সেনেগাল-মালি, আর ফ্রান্সের লক্ষ লক্ষ মুসলিম পরিবারে এটি বছরের সবচেয়ে আনন্দের দিন। নতুন পোশাক, ঈদের নামাজ, আত্মীয়-প্রতিবেশীর বাড়ি ঘোরা, মাগরেবি পরিবারে মিষ্টি আর পুদিনা চা। শুভেচ্ছা: «Aïd moubarak !» বা «Bonne fête !»।"
+   },
+   {
+    "name": {
+     "fr": "la Tabaski",
+     "bn_pron": "লা তাবাস্কি",
+     "en_pron": "lah tah-bahs-KEE",
+     "bn": "ঈদুল আজহা (পশ্চিম আফ্রিকায়)",
+     "en": "Eid al-Adha (West Africa)",
+     "note_bn": "ফ্রান্সে বলা হয় l'Aïd el-Kébir।"
+    },
+    "when_bn": "জিলহজ মাসের ১০ তারিখ।",
+    "story_bn": "সেনেগাল, মালি, গিনি, আইভরি কোস্টের মতো পশ্চিম আফ্রিকার ফরাসিভাষী দেশে কুরবানির ঈদের নাম তাবাস্কি। নবি ইব্রাহিম (আ.)-এর ত্যাগের স্মরণে পশু কুরবানি, মাংস ভাগ করে আত্মীয় ও দরিদ্রদের দেওয়া — বাংলাদেশের কুরবানির ঈদের সাথে অনেক মিল। শহরে কাজ করা মানুষ এ সময় দলে দলে গ্রামে ফেরেন।"
+   },
+   {
+    "name": {
+     "fr": "Noël (m.)",
+     "bn_pron": "নোয়েল",
+     "en_pron": "noh-EHL",
+     "bn": "বড়দিন",
+     "en": "Christmas"
+    },
+    "when_bn": "২৫ ডিসেম্বর।",
+    "story_bn": "খ্রিস্টানদের কাছে ঈসা (আ.)-এর জন্মের উৎসব, ফরাসিভাষী বিশ্বজুড়ে সবচেয়ে বড় পারিবারিক ছুটি। ২৪ ডিসেম্বর রাতে পরিবার একসাথে খায় (le réveillon), শহরে বসে বড়দিনের বাজার; আলজাস অঞ্চলের স্ত্রাসবুর্গের বাজার ফ্রান্সের প্রাচীনতমগুলোর একটি। সহকর্মীকে শুভেচ্ছা জানাতে পারেন: «Joyeux Noël !»।"
+   },
+   {
+    "name": {
+     "fr": "la Fête de la musique",
+     "bn_pron": "লা ফ়েত দে° লা মি°জ়িক",
+     "en_pron": "lah feht duh lah mü-ZEEK",
+     "bn": "সংগীত উৎসব",
+     "en": "Music Day"
+    },
+    "when_bn": "২১ জুন, বছরের দীর্ঘতম দিন।",
+    "story_bn": "১৯৮২ সালে ফ্রান্সের সংস্কৃতি মন্ত্রণালয় এটি শুরু করে: এক সন্ধ্যায় যে কেউ রাস্তায় নেমে বিনা পয়সায় গান-বাজনা করতে পারেন। আজ এটি বিশ্বের শতাধিক দেশে পালিত হয়।"
+   },
+   {
+    "name": {
+     "fr": "le Carnaval de Québec",
+     "bn_pron": "লে° কার়নাভ়াল দে° কেবেক",
+     "en_pron": "luh kahr-nah-vahl duh kay-BEK",
+     "bn": "কেবেক শীত-কার্নিভাল",
+     "en": "Quebec Winter Carnival"
+    },
+    "when_bn": "জানুয়ারির শেষ থেকে ফেব্রুয়ারি (কানাডা)।",
+    "story_bn": "কানাডার ফরাসিভাষী প্রদেশ কেবেকে প্রচণ্ড শীতকে উৎসবে বদলে দেওয়া হয়: বরফের প্রাসাদ, তুষার-ভাস্কর্য, বরফ-জমা নদীতে নৌকাবাইচ। উৎসবের প্রতীক লাল টুপির হাসিখুশি তুষার-মানব Bonhomme Carnaval।"
+   },
+   {
+    "name": {
+     "fr": "la fête de l'Indépendance d'Haïti",
+     "bn_pron": "লা ফ়েত দে° ল্যাঁদেপাঁদাঁস দাইতি",
+     "en_pron": "lah feht duh lehn-day-pahn-dahns dah-ee-TEE",
+     "bn": "হাইতির স্বাধীনতা দিবস",
+     "en": "Haitian Independence Day"
+    },
+    "when_bn": "১ জানুয়ারি।",
+    "story_bn": "১৮০৪ সালের ১ জানুয়ারি হাইতি স্বাধীন হয় — দাসত্ব থেকে মুক্ত হওয়া মানুষের গড়া প্রথম স্বাধীন রাষ্ট্র। এদিন প্রতিটি পরিবার রান্না করে কুমড়ার স্যুপ soupe joumou, যা একসময় শুধু দাস-মালিকদের খাবার ছিল; ২০২১ সালে ইউনেস্কো একে বিশ্বের অধরা সাংস্কৃতিক ঐতিহ্যের তালিকায় তুলেছে।"
+   },
+   {
+    "name": {
+     "fr": "la fête nationale belge",
+     "bn_pron": "লা ফ়েত নাসিয়োনাল বেলঝ়",
+     "en_pron": "lah feht nah-syoh-nahl BELZH",
+     "bn": "বেলজিয়ামের জাতীয় দিবস",
+     "en": "Belgian National Day"
+    },
+    "when_bn": "২১ জুলাই।",
+    "story_bn": "১৮৩১ সালের ২১ জুলাই বেলজিয়ামের প্রথম রাজা লেওপোল্ড শপথ নেন। ব্রাসেলসে কুচকাওয়াজ, লোকমেলা আর আতশবাজি হয়। বেলজিয়ামে ফরাসি, ডাচ আর জার্মান — তিনটিই সরকারি ভাষা, তাই শুভেচ্ছাও শোনা যায় তিন ভাষায়।"
+   }
+  ]
+ },
+ "ch10": {
+  "intro_bn": "একটা বাড়ির কাঠামো দাঁড় হয়ে গেলে ইট-পাথর বদলে দেওয়া সহজ। ভাষাও তাই। এই অধ্যায়ে ফরাসির ১২টি মূল বাক্য-কাঠামো, প্রতিটি একটি করে প্রতিস্থাপন-ছকে (substitution table)। ছকের এক কলাম থেকে কর্তা আর ক্রিয়া, আরেক কলাম থেকে বাকি অংশ নিয়ে জুড়ে দিলেই নতুন, সঠিক বাক্য। শব্দভান্ডার বাড়ার সাথে সাথে এই ১২টি কাঠামো দিয়েই আপনি হাজারো বাক্য বানাবেন। মনে রাখুন, এটা পূর্ণ ব্যাকরণ নয়, ব্যাকরণের ঝলক; পুরো কাঠামো মধ্যম স্তরের কাজ।",
+  "word_order_bn": "বাংলা বাক্যে ক্রিয়া থাকে শেষে: 'আমি ভাত খাই' — কর্তা, কর্ম, ক্রিয়া (SOV)। ফরাসি ইংরেজির মতো: 'Je mange du riz' — আমি খাই ভাত — কর্তা, ক্রিয়া, কর্ম (SVO)। তাই বাংলায় ভেবে ফরাসিতে বলার সময় সবচেয়ে বড় কাজ হলো ক্রিয়াকে টেনে কর্তার ঠিক পরে আনা। আরেকটি পার্থক্য: বাংলায় পরসর্গ বসে শব্দের পরে ('ঘরের মধ্যে', 'ঢাকা থেকে'), ফরাসিতে উপসর্গ বসে আগে (dans la maison, de Dhaka)। আর বিশেষণ সাধারণত বিশেষ্যের পরে বসে: une voiture rouge (একটা গাড়ি লাল) — বাংলার উল্টো। তবে ব্যতিক্রমও আছে: কয়েকটি ছোট, বহুল ব্যবহৃত বিশেষণ আগে বসে (un petit café, une belle maison)। একটা মজার ব্যতিক্রম কর্ম-সর্বনামে: 'আমি তাকে দেখি' = je le vois — এখানে ফরাসিও বাংলার মতো কর্মকে ক্রিয়ার আগে বসায়!",
+  "patterns": [
+   {
+    "no": 1,
+    "title_bn": "X হলো Y (être)",
+    "title_en": "X is Y (être)",
+    "explain_bn": "être (এত্র়, 'হওয়া') ফরাসির সবচেয়ে গুরুত্বপূর্ণ ক্রিয়া: পরিচয়, পেশা, দেশ, অবস্থা, জায়গা — সব বলা হয় এটি দিয়ে। এটি অনিয়মিত, তাই ছয়টি রূপ ছড়ার মতো মুখস্থ করুন: je suis, tu es, il est, nous sommes, vous êtes, ils sont। পেশার আগে আর্টিকেল বসে না: Je suis ingénieur।",
+    "bangla_compare_bn": "বাংলায় বর্তমান কালে 'হওয়া' ক্রিয়াটা প্রায়ই উধাও: 'আমি ছাত্র', 'সে ডাক্তার'। ফরাসিতে তা চলবে না — ক্রিয়া ছাড়া বাক্যই হয় না: Je suis étudiant (আক্ষরিক: আমি হই ছাত্র)। আর বাংলার মতো ক্রিয়া শেষে নয়, কর্তার ঠিক পরে বসে।",
+    "model": {
+     "fr": "Je suis étudiant.",
+     "bn_pron": "ঝ়ে° সুই জ়েতি°দিয়াঁ",
+     "en_pron": "zhuh swee-zay-tü-DYAHN",
+     "bn": "আমি ছাত্র।",
+     "en": "I am a student.",
+     "note_bn": "ছাত্রী: Je suis étudiante (… দিয়াঁত)।"
+    },
+    "table": {
+     "headers": [
+      "কর্তা + ক্রিয়া",
+      "উচ্চারণ",
+      "অর্থ",
+      "যা বসাতে পারেন"
+     ],
+     "rows": [
+      [
+       "Je suis",
+       "ঝ়ে° সুই",
+       "আমি (হই)",
+       "étudiant · fatigué · bangladais"
+      ],
+      [
+       "Tu es",
+       "তি° এ",
+       "তুমি (হও)",
+       "content · malade · prêt"
+      ],
+      [
+       "Il / Elle est",
+       "ইল / এল এ",
+       "সে (হয়)",
+       "médecin · gentil · ici"
+      ],
+      [
+       "Nous sommes",
+       "নু সোম",
+       "আমরা (হই)",
+       "à Paris · amis · prêts"
+      ],
+      [
+       "Vous êtes",
+       "ভ়ু জ়েত",
+       "আপনি / তোমরা (হন)",
+       "très gentil · en retard"
+      ],
+      [
+       "Ils / Elles sont",
+       "ইল / এল সোঁ",
+       "তারা (হয়)",
+       "au travail · ingénieurs"
+      ]
+     ]
+    },
+    "examples": [
+     {
+      "fr": "Elle est médecin.",
+      "bn_pron": "এ লে মেদস্যাঁ",
+      "en_pron": "eh-leh mayd-SEHN",
+      "bn": "সে (নারী) ডাক্তার।",
+      "en": "She is a doctor."
+     },
+     {
+      "fr": "Nous sommes bangladais.",
+      "bn_pron": "নু সোম বাঁগ্লাদে",
+      "en_pron": "noo som bahn-glah-DEH",
+      "bn": "আমরা বাংলাদেশি।",
+      "en": "We are Bangladeshi.",
+      "note_bn": "নারীবাচক: bangladaise (বাঁগ্লাদেজ়)।"
+     },
+     {
+      "fr": "Vous êtes très gentil.",
+      "bn_pron": "ভ়ু জ়েত ত্র়ে ঝ়াঁতি",
+      "en_pron": "voo-zeht treh zhahn-TEE",
+      "bn": "আপনি খুব সদয়।",
+      "en": "You are very kind."
+     },
+     {
+      "fr": "Le magasin est fermé.",
+      "bn_pron": "লে° মাগাজ়্যাঁ এ ফ়ের়মে",
+      "en_pron": "luh mah-gah-zehn eh fehr-MAY",
+      "bn": "দোকানটা বন্ধ।",
+      "en": "The shop is closed."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_bn": "আমার আছে (avoir)",
+    "title_en": "I have (avoir)",
+    "explain_bn": "avoir (আভ়োয়ার়, 'থাকা / আছে') দিয়ে মালিকানা বলা হয়: জিনিস, পরিবার, সময়। শুধু তাই নয়, ফরাসিতে বয়স, খিদে, তৃষ্ণা, ভয়, শীত-গরম লাগা — এসবও avoir দিয়ে: j'ai 30 ans, j'ai faim, j'ai froid। রূপগুলো: j'ai, tu as, il a, nous avons, vous avez, ils ont।",
+    "bangla_compare_bn": "বাংলায় মালিকানা বলি 'আমার একটা গাড়ি আছে' — 'আমার' (সম্বন্ধ) + 'আছে'। ফরাসিতে কর্তা সরাসরি 'আমি' আর ক্রিয়া 'রাখি': J'ai une voiture (আক্ষরিক: আমি রাখি একটা গাড়ি)। মজার মিল: বাংলায় যেমন 'আমার খিদে পেয়েছে', ফরাসিতেও খিদেটা 'আছে': j'ai faim।",
+    "model": {
+     "fr": "J'ai une voiture.",
+     "bn_pron": "ঝ়ে ই°ন ভ়োয়াতি°র়",
+     "en_pron": "zhay ün vwah-TÜR",
+     "bn": "আমার একটা গাড়ি আছে।",
+     "en": "I have a car."
+    },
+    "table": {
+     "headers": [
+      "কর্তা + ক্রিয়া",
+      "উচ্চারণ",
+      "অর্থ",
+      "যা বসাতে পারেন"
+     ],
+     "rows": [
+      [
+       "J'ai",
+       "ঝ়ে",
+       "আমার আছে",
+       "une voiture · deux enfants · faim"
+      ],
+      [
+       "Tu as",
+       "তি° আ",
+       "তোমার আছে",
+       "le temps · raison"
+      ],
+      [
+       "Il / Elle a",
+       "ইল আ / এ লা",
+       "তার আছে",
+       "un rendez-vous · 30 ans"
+      ],
+      [
+       "Nous avons",
+       "নু জ়াভ়োঁ",
+       "আমাদের আছে",
+       "une maison · un problème"
+      ],
+      [
+       "Vous avez",
+       "ভ়ু জ়াভ়ে",
+       "আপনার আছে",
+       "une chambre · le wifi"
+      ],
+      [
+       "Ils / Elles ont",
+       "ইল জ়োঁ / এল জ়োঁ",
+       "তাদের আছে",
+       "froid · un chien"
+      ]
+     ]
+    },
+    "examples": [
+     {
+      "fr": "J'ai deux enfants.",
+      "bn_pron": "ঝ়ে দে° জ়াঁফ়াঁ",
+      "en_pron": "zhay duh-zahn-FAHN",
+      "bn": "আমার দুটি সন্তান আছে।",
+      "en": "I have two children."
+     },
+     {
+      "fr": "Vous avez une chambre ?",
+      "bn_pron": "ভ়ু জ়াভ়ে ই°ন শাঁব্র়",
+      "en_pron": "voo-zah-vay ün SHAHMBR",
+      "bn": "আপনাদের কাছে কি কোনো রুম খালি আছে?",
+      "en": "Do you have a room?"
+     },
+     {
+      "fr": "J'ai faim.",
+      "bn_pron": "ঝ়ে ফ়্যাঁ",
+      "en_pron": "zhay FEHN",
+      "bn": "আমার খিদে পেয়েছে।",
+      "en": "I am hungry.",
+      "note_bn": "তৃষ্ণা: j'ai soif (ঝ়ে সোয়াফ়)।"
+     },
+     {
+      "fr": "Elle a un rendez-vous.",
+      "bn_pron": "এ লা অ্যাঁ র়াঁদেভ়ু",
+      "en_pron": "eh-lah ehn rahn-day-VOO",
+      "bn": "তার একটা অ্যাপয়েন্টমেন্ট আছে।",
+      "en": "She has an appointment."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_bn": "কোথাও কিছু আছে (il y a)",
+    "title_en": "There is / there are (il y a)",
+    "explain_bn": "il y a (ইলিয়া) একটি স্থির বাক্যাংশ, একবচন-বহুবচন সবখানে একই: il y a un problème, il y a deux banques। 'নেই' বলতে il n'y a pas de; প্রশ্ন করতে est-ce qu'il y a…? মনে রাখুন: avoir 'কার আছে' বলে, il y a বলে 'কোথায় আছে'।",
+    "bangla_compare_bn": "বাংলায় 'এখানে একটা মসজিদ আছে' আর 'আমার একটা গাড়ি আছে' — দুটোতেই 'আছে'। ফরাসি এ দুটো আলাদা করে: অস্তিত্ব বা অবস্থানের 'আছে' = il y a, মালিকানার 'আছে' = avoir। বাংলায় 'আছে' বাক্যের শেষে, ফরাসিতে il y a বাক্যের শুরুতে।",
+    "model": {
+     "fr": "Il y a une mosquée près d'ici.",
+     "bn_pron": "ইলিয়া ই°ন মোস্কে প্র়ে দিসি",
+     "en_pron": "eel-yah ün mos-kay preh dee-SEE",
+     "bn": "কাছেই একটা মসজিদ আছে।",
+     "en": "There is a mosque near here."
+    },
+    "table": {
+     "headers": [
+      "গঠন",
+      "উচ্চারণ",
+      "অর্থ",
+      "যা বসাতে পারেন"
+     ],
+     "rows": [
+      [
+       "Il y a",
+       "ইলিয়া",
+       "আছে",
+       "un / une / des + বিশেষ্য"
+      ],
+      [
+       "Il n'y a pas de / d'",
+       "ইল নিয়া পা দে°",
+       "নেই",
+       "bus · eau · place"
+      ],
+      [
+       "Est-ce qu'il y a… ?",
+       "এস কিলিয়া",
+       "… আছে কি?",
+       "une pharmacie · un hôtel"
+      ],
+      [
+       "Il y a combien de… ?",
+       "ইলিয়া কোঁবিয়্যাঁ দে°",
+       "কতগুলো আছে?",
+       "personnes · chambres"
+      ]
+     ]
+    },
+    "examples": [
+     {
+      "fr": "Il y a un problème.",
+      "bn_pron": "ইলিয়া অ্যাঁ প্র়োব্লেম",
+      "en_pron": "eel-yah ehn proh-BLEHM",
+      "bn": "একটা সমস্যা আছে।",
+      "en": "There is a problem."
+     },
+     {
+      "fr": "Il n'y a pas de bus aujourd'hui.",
+      "bn_pron": "ইল নিয়া পা দে° বি°স ওঝ়ুর়দুই",
+      "en_pron": "eel nyah pah duh büs oh-zhoor-DWEE",
+      "bn": "আজ কোনো বাস নেই।",
+      "en": "There is no bus today."
+     },
+     {
+      "fr": "Est-ce qu'il y a une pharmacie ?",
+      "bn_pron": "এস কিলিয়া ই°ন ফ়ার়মাসি",
+      "en_pron": "ehs keel-yah ün fahr-mah-SEE",
+      "bn": "আশেপাশে কোনো ফার্মেসি আছে কি?",
+      "en": "Is there a pharmacy?"
+     },
+     {
+      "fr": "Il y a beaucoup de monde.",
+      "bn_pron": "ইলিয়া বোকু দে° মোঁদ",
+      "en_pron": "eel-yah boh-koo duh MOHND",
+      "bn": "অনেক ভিড়।",
+      "en": "There are a lot of people.",
+      "note_bn": "আক্ষরিক: 'অনেক দুনিয়া আছে'!"
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_bn": "আমি চাই / আমার দরকার (vouloir / avoir besoin de)",
+    "title_en": "I want / I need (vouloir / avoir besoin de)",
+    "explain_bn": "vouloir (ভ়ুলোয়ার়) মানে চাওয়া: পরে বিশেষ্য (je veux un café) বা ক্রিয়ার মূল রূপ (je veux partir) বসে। দরকার বলতে avoir besoin de (আক্ষরিক: 'দরকার রাখা'): j'ai besoin d'un médecin। দোকান বা অফিসে je veux একটু রূঢ় শোনায়; সেখানে ১২ নম্বর ছাঁচের je voudrais ব্যবহার করুন।",
+    "bangla_compare_bn": "বাংলার 'আমার একজন ডাক্তার দরকার' আর ফরাসির j'ai besoin d'un médecin প্রায় একই ছাঁচের — 'আমার দরকার আছে'। পার্থক্য শুধু ক্রম: বাংলায় 'দরকার' শেষে, ফরাসিতে besoin আগে, জিনিসটা পরে।",
+    "model": {
+     "fr": "J'ai besoin d'un médecin.",
+     "bn_pron": "ঝ়ে বে°জ়োয়্যাঁ দ্যাঁ মেদস্যাঁ",
+     "en_pron": "zhay buh-zwehn dehn mayd-SEHN",
+     "bn": "আমার একজন ডাক্তার দরকার।",
+     "en": "I need a doctor."
+    },
+    "table": {
+     "headers": [
+      "কর্তা + ক্রিয়া",
+      "উচ্চারণ",
+      "অর্থ",
+      "যা বসাতে পারেন"
+     ],
+     "rows": [
+      [
+       "Je veux",
+       "ঝ়ে° ভ়ে°",
+       "আমি চাই",
+       "un café · partir · apprendre"
+      ],
+      [
+       "Tu veux",
+       "তি° ভ়ে°",
+       "তুমি চাও",
+       "du thé ? · venir ?"
+      ],
+      [
+       "Il / Elle veut",
+       "ইল / এল ভ়ে°",
+       "সে চায়",
+       "travailler · dormir"
+      ],
+      [
+       "Nous voulons",
+       "নু ভ়ুলোঁ",
+       "আমরা চাই",
+       "visiter Paris"
+      ],
+      [
+       "Vous voulez",
+       "ভ়ু ভ়ুলে",
+       "আপনি চান",
+       "du thé ? · un sac ?"
+      ],
+      [
+       "Ils / Elles veulent",
+       "ইল / এল ভ়ে°ল",
+       "তারা চায়",
+       "jouer · manger"
+      ],
+      [
+       "J'ai besoin de / d'",
+       "ঝ়ে বে°জ়োয়্যাঁ দে°",
+       "আমার দরকার",
+       "un médecin · aide · dormir"
+      ]
+     ]
+    },
+    "examples": [
+     {
+      "fr": "Je veux apprendre le français.",
+      "bn_pron": "ঝ়ে° ভ়ে° আপ্র়াঁদ্র় লে° ফ়্র়াঁসে",
+      "en_pron": "zhuh vuh ah-prahndr luh frahn-SEH",
+      "bn": "আমি ফরাসি শিখতে চাই।",
+      "en": "I want to learn French."
+     },
+     {
+      "fr": "Vous voulez du thé ?",
+      "bn_pron": "ভ়ু ভ়ুলে দি° তে",
+      "en_pron": "voo voo-lay dü TAY",
+      "bn": "আপনি কি চা নেবেন?",
+      "en": "Would you like some tea?"
+     },
+     {
+      "fr": "J'ai besoin d'aide.",
+      "bn_pron": "ঝ়ে বে°জ়োয়্যাঁ দেদ",
+      "en_pron": "zhay buh-zwehn DEHD",
+      "bn": "আমার সাহায্য দরকার।",
+      "en": "I need help."
+     },
+     {
+      "fr": "Nous avons besoin d'un taxi.",
+      "bn_pron": "নু জ়াভ়োঁ বে°জ়োয়্যাঁ দ্যাঁ তাক্সি",
+      "en_pron": "noo-zah-vohn buh-zwehn dehn tahk-SEE",
+      "bn": "আমাদের একটা ট্যাক্সি দরকার।",
+      "en": "We need a taxi."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_bn": "এখনকার কাজ (-er ক্রিয়া)",
+    "title_en": "Present action (-er verbs)",
+    "explain_bn": "ফরাসি ক্রিয়ার প্রায় ৯০ শতাংশ -er দিয়ে শেষ হয় (parler, manger, travailler, habiter), আর সবার রূপ একই নিয়মে বদলায়: -er ফেলে দিয়ে বসান -e, -es, -e, -ons, -ez, -ent। সুখবর: je parle, tu parles, il parle, ils parlent — লেখায় চার রকম হলেও উচ্চারণে চারটিই 'পার়ল'! শুধু nous parlons আর vous parlez আলাদা শোনায়।",
+    "bangla_compare_bn": "বাংলায় ক্রিয়ার রূপ কর্তার সাথে বদলায়: আমি বলি, তুমি বলো, সে বলে, আপনি বলেন — ফরাসিও তাই, তাই এ ধারণা আপনার কাছে নতুন নয়। আরেকটা সুবিধা: ফরাসি বর্তমান কাল একাই বাংলার 'বলি' আর 'বলছি' দুটোরই কাজ করে: je parle = আমি বলি / আমি বলছি। ক্রম বদলায়: বাংলা 'আমি বাংলা বলি' (কর্তা-কর্ম-ক্রিয়া), ফরাসি 'আমি বলি বাংলা' (কর্তা-ক্রিয়া-কর্ম)।",
+    "model": {
+     "fr": "Je parle bengali.",
+     "bn_pron": "ঝ়ে° পার়ল ব্যাঁগালি",
+     "en_pron": "zhuh pahrl behn-gah-LEE",
+     "bn": "আমি বাংলা বলি।",
+     "en": "I speak Bengali.",
+     "note_bn": "ফরাসিতে বাংলা ভাষার নাম le bengali।"
+    },
+    "table": {
+     "headers": [
+      "কর্তা + ক্রিয়া",
+      "উচ্চারণ",
+      "অর্থ",
+      "যা বসাতে পারেন"
+     ],
+     "rows": [
+      [
+       "je parle",
+       "ঝ়ে° পার়ল",
+       "আমি বলি / বলছি",
+       "français · bengali"
+      ],
+      [
+       "tu parles",
+       "তি° পার়ল",
+       "তুমি বলো",
+       "anglais ?"
+      ],
+      [
+       "il / elle parle",
+       "ইল / এল পার়ল",
+       "সে বলে",
+       "arabe · vite"
+      ],
+      [
+       "nous parlons",
+       "নু পার়লোঁ",
+       "আমরা বলি",
+       "ensemble"
+      ],
+      [
+       "vous parlez",
+       "ভ়ু পার়লে",
+       "আপনি বলেন",
+       "lentement ?"
+      ],
+      [
+       "ils / elles parlent",
+       "ইল / এল পার়ল",
+       "তারা বলে",
+       "beaucoup"
+      ],
+      [
+       "একই নিয়মে",
+       "—",
+       "—",
+       "travailler · habiter · manger · aimer · acheter"
+      ]
+     ]
+    },
+    "examples": [
+     {
+      "fr": "J'habite à Marseille.",
+      "bn_pron": "ঝ়াবিত আ মার়সেই",
+      "en_pron": "zhah-beet ah mahr-SEHY",
+      "bn": "আমি মার্সেইতে থাকি।",
+      "en": "I live in Marseille."
+     },
+     {
+      "fr": "Nous travaillons le samedi.",
+      "bn_pron": "নু ত্র়াভ়াইয়োঁ লে° সাম্‌দি",
+      "en_pron": "noo trah-vah-yohn luh sahm-DEE",
+      "bn": "আমরা শনিবারে কাজ করি।",
+      "en": "We work on Saturdays."
+     },
+     {
+      "fr": "Elle mange avec sa famille.",
+      "bn_pron": "এল মাঁঝ় আভ়েক সা ফ়ামিয়",
+      "en_pron": "ehl mahnzh ah-vehk sah fah-MEEY",
+      "bn": "সে পরিবারের সাথে খায়।",
+      "en": "She eats with her family."
+     },
+     {
+      "fr": "Vous aimez le café ?",
+      "bn_pron": "ভ়ু জ়েমে লে° কাফ়ে",
+      "en_pron": "voo-zay-may luh kah-FAY",
+      "bn": "আপনি কি কফি পছন্দ করেন?",
+      "en": "Do you like coffee?"
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "title_bn": "অতীতের কাজ (passé composé)",
+    "title_en": "Past action (passé composé)",
+    "explain_bn": "দৈনন্দিন কথায় অতীত বলার প্রধান উপায় passé composé: avoir-এর বর্তমান রূপ + মূল ক্রিয়ার অতীত রূপ (participe)। -er ক্রিয়ার participe হলো -é: parler → parlé, manger → mangé। উচ্চারণ মূল রূপের মতোই (পার়লে)! যাওয়া-আসা-পৌঁছানো-জন্মানোর মতো কিছু গতির ক্রিয়ায় avoir-এর বদলে être বসে: je suis allé(e), elle est arrivée।",
+    "bangla_compare_bn": "বাংলাও অতীতের জন্য দুই টুকরো জোড়ে: 'খেয়েছি' = খেয়ে + আছি। ফরাসিতেও তাই: j'ai mangé = আমি আছি + খাওয়া। দুটো ভাষাই 'আছে' জাতীয় সাহায্যকারী ক্রিয়া দিয়ে সম্পন্ন কাজ বোঝায় — শুধু বাংলায় টুকরো দুটো এক শব্দে মিশে গেছে, ফরাসিতে আলাদা।",
+    "model": {
+     "fr": "J'ai mangé.",
+     "bn_pron": "ঝ়ে মাঁঝ়ে",
+     "en_pron": "zhay mahn-ZHAY",
+     "bn": "আমি খেয়েছি।",
+     "en": "I have eaten / I ate."
+    },
+    "table": {
+     "headers": [
+      "কর্তা + ক্রিয়া",
+      "উচ্চারণ",
+      "অর্থ",
+      "যা বসাতে পারেন"
+     ],
+     "rows": [
+      [
+       "j'ai parlé",
+       "ঝ়ে পার়লে",
+       "আমি বলেছি",
+       "avec le directeur"
+      ],
+      [
+       "tu as mangé",
+       "তি° আ মাঁঝ়ে",
+       "তুমি খেয়েছ",
+       "?"
+      ],
+      [
+       "il / elle a travaillé",
+       "ইল আ / এ লা ত্র়াভ়াইয়ে",
+       "সে কাজ করেছে",
+       "hier · toute la nuit"
+      ],
+      [
+       "nous avons acheté",
+       "নু জ়াভ়োঁ আশ্‌তে",
+       "আমরা কিনেছি",
+       "du pain · des billets"
+      ],
+      [
+       "vous avez fini",
+       "ভ়ু জ়াভ়ে ফ়িনি",
+       "আপনি শেষ করেছেন",
+       "?"
+      ],
+      [
+       "ils / elles ont visité",
+       "ইল জ়োঁ / এল জ়োঁ ভ়িজ়িতে",
+       "তারা ঘুরে দেখেছে",
+       "le musée"
+      ],
+      [
+       "je suis allé(e)",
+       "ঝ়ে° সুই জ়ালে",
+       "আমি গিয়েছি (être)",
+       "à la mosquée · à Lyon"
+      ]
+     ]
+    },
+    "examples": [
+     {
+      "fr": "Hier, j'ai travaillé.",
+      "bn_pron": "ইয়ের় ঝ়ে ত্র়াভ়াইয়ে",
+      "en_pron": "yehr zhay trah-vah-YAY",
+      "bn": "গতকাল আমি কাজ করেছি।",
+      "en": "Yesterday I worked."
+     },
+     {
+      "fr": "Nous avons visité Paris.",
+      "bn_pron": "নু জ়াভ়োঁ ভ়িজ়িতে পার়ি",
+      "en_pron": "noo-zah-vohn vee-zee-tay pah-REE",
+      "bn": "আমরা প্যারিস ঘুরে দেখেছি।",
+      "en": "We visited Paris."
+     },
+     {
+      "fr": "Elle est arrivée à Lyon.",
+      "bn_pron": "এ লে তার়িভ়ে আ লিয়োঁ",
+      "en_pron": "eh-leh-tah-ree-vay ah LYOHN",
+      "bn": "সে লিয়োঁতে পৌঁছেছে।",
+      "en": "She has arrived in Lyon.",
+      "note_bn": "être-এর সাথে কর্তা নারী হলে participe-এ e যোগ হয়: arrivée।"
+     },
+     {
+      "fr": "Vous avez fini ?",
+      "bn_pron": "ভ়ু জ়াভ়ে ফ়িনি",
+      "en_pron": "voo-zah-vay fee-NEE",
+      "bn": "আপনার কি শেষ হয়েছে?",
+      "en": "Have you finished?"
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "title_bn": "ভবিষ্যতের কাজ (aller + ক্রিয়া)",
+    "title_en": "Future action (aller + infinitive)",
+    "explain_bn": "ভবিষ্যৎ বলার সবচেয়ে সহজ ও চলতি উপায় futur proche: aller ('যাওয়া') + ক্রিয়ার মূল রূপ। je vais manger = আমি খাব। আপনাকে শুধু aller-এর ছয়টি রূপ জানতে হবে (je vais, tu vas, il va, nous allons, vous allez, ils vont); পরের ক্রিয়াটা কখনো বদলায় না।",
+    "bangla_compare_bn": "ইংরেজির 'I am going to eat'-এর মতো, আর বাংলার 'আমি খেতে যাচ্ছি'-র সাথেও ছাঁচটা মেলে — তবে বাংলায় এটা 'কোথাও যাওয়া' বোঝায়, ফরাসিতে শুধু 'ভবিষ্যতে করব'। বাংলায় ভবিষ্যৎ এক শব্দে ('খাব'), ফরাসিতে দুই শব্দে, আর কাল-চিহ্ন (vais) মূল ক্রিয়ার আগে বসে।",
+    "model": {
+     "fr": "Je vais travailler demain.",
+     "bn_pron": "ঝ়ে° ভ়ে ত্র়াভ়াইয়ে দে°ম্যাঁ",
+     "en_pron": "zhuh veh trah-vah-yay duh-MEHN",
+     "bn": "আমি আগামীকাল কাজ করব।",
+     "en": "I am going to work tomorrow."
+    },
+    "table": {
+     "headers": [
+      "কর্তা + ক্রিয়া",
+      "উচ্চারণ",
+      "অর্থ",
+      "যা বসাতে পারেন"
+     ],
+     "rows": [
+      [
+       "je vais",
+       "ঝ়ে° ভ়ে",
+       "আমি …ব",
+       "manger · partir · appeler"
+      ],
+      [
+       "tu vas",
+       "তি° ভ়া",
+       "তুমি …বে",
+       "venir ?"
+      ],
+      [
+       "il / elle va",
+       "ইল / এল ভ়া",
+       "সে …বে",
+       "pleuvoir · arriver"
+      ],
+      [
+       "nous allons",
+       "নু জ়ালোঁ",
+       "আমরা …ব",
+       "voyager · prier"
+      ],
+      [
+       "vous allez",
+       "ভ়ু জ়ালে",
+       "আপনি …বেন",
+       "rester ?"
+      ],
+      [
+       "ils / elles vont",
+       "ইল / এল ভ়োঁ",
+       "তারা …বে",
+       "partir · étudier"
+      ]
+     ]
+    },
+    "examples": [
+     {
+      "fr": "Nous allons manger au restaurant.",
+      "bn_pron": "নু জ়ালোঁ মাঁঝ়ে ও র়েস্তোর়াঁ",
+      "en_pron": "noo-zah-lohn mahn-zhay oh res-toh-RAHN",
+      "bn": "আমরা রেস্তোরাঁয় খাব।",
+      "en": "We are going to eat at the restaurant."
+     },
+     {
+      "fr": "Il va pleuvoir.",
+      "bn_pron": "ইল ভ়া প্লে°ভ়োয়ার়",
+      "en_pron": "eel vah pluh-VWAHR",
+      "bn": "বৃষ্টি হবে।",
+      "en": "It is going to rain."
+     },
+     {
+      "fr": "Je vais vous appeler.",
+      "bn_pron": "ঝ়ে° ভ়ে ভ়ু জ়াপ্‌লে",
+      "en_pron": "zhuh veh voo-zah-PLAY",
+      "bn": "আমি আপনাকে ফোন করব।",
+      "en": "I am going to call you."
+     },
+     {
+      "fr": "Ils vont partir à huit heures.",
+      "bn_pron": "ইল ভ়োঁ পার়তির় আ উই তে°র়",
+      "en_pron": "eel vohn pahr-teer ah wee-TUHR",
+      "bn": "তারা আটটায় রওনা দেবে।",
+      "en": "They are going to leave at eight."
+     }
+    ]
+   },
+   {
+    "no": 8,
+    "title_bn": "না-বাচক (ne … pas)",
+    "title_en": "Negation (ne … pas)",
+    "explain_bn": "ফরাসিতে 'না' দুই টুকরো, আর তারা ক্রিয়াকে দুপাশ থেকে জড়িয়ে ধরে: ne + ক্রিয়া + pas। স্বরের আগে ne হয় n': je n'ai pas। 'কোনো … নেই' বলতে un/une/du-এর বদলে de বসে: j'ai une voiture → je n'ai pas de voiture। চলতি কথায় ফরাসিরা প্রায়ই ne গিলে ফেলেন (je sais pas), তবে লেখায় ও ভদ্র কথায় দুটোই রাখুন।",
+    "bangla_compare_bn": "দারুণ মিল: বাংলায় 'না' বসে ক্রিয়ার পরে — 'আমি বলি না'। ফরাসির আসল না-বাচক শব্দ pas-ও বসে ক্রিয়ার পরে: je parle pas! শুধু ভদ্র ফরাসি ক্রিয়ার আগে একটা ne-ও বসায়। তাই বাংলাভাষী এখানে ইংরেজিভাষীর চেয়ে সহজে মানিয়ে নেন।",
+    "model": {
+     "fr": "Je ne parle pas français.",
+     "bn_pron": "ঝ়ে° নে° পার়ল পা ফ়্র়াঁসে",
+     "en_pron": "zhuh nuh pahrl pah frahn-SEH",
+     "bn": "আমি ফরাসি বলি না।",
+     "en": "I don't speak French."
+    },
+    "table": {
+     "headers": [
+      "না-বাচক রূপ",
+      "উচ্চারণ",
+      "অর্থ",
+      "যা বসাতে পারেন"
+     ],
+     "rows": [
+      [
+       "Je ne suis pas",
+       "ঝ়ে° নে° সুই পা",
+       "আমি … নই",
+       "fatigué · d'ici"
+      ],
+      [
+       "Je n'ai pas",
+       "ঝ়ে° নে পা",
+       "আমার … নেই",
+       "de voiture · le temps"
+      ],
+      [
+       "Je ne parle pas",
+       "ঝ়ে° নে° পার়ল পা",
+       "আমি বলি না",
+       "anglais · vite"
+      ],
+      [
+       "Il ne travaille pas",
+       "ইল নে° ত্র়াভ়াই পা",
+       "সে কাজ করে না",
+       "le dimanche"
+      ],
+      [
+       "Je ne mange pas de",
+       "ঝ়ে° নে° মাঁঝ় পা দে°",
+       "আমি … খাই না",
+       "viande · sucre"
+      ],
+      [
+       "Je n'ai pas compris",
+       "ঝ়ে° নে পা কোঁপ্র়ি",
+       "আমি বুঝিনি",
+       "—"
+      ]
+     ]
+    },
+    "examples": [
+     {
+      "fr": "Je ne mange pas de viande.",
+      "bn_pron": "ঝ়ে° নে° মাঁঝ় পা দে° ভ়িয়াঁদ",
+      "en_pron": "zhuh nuh mahnzh pah duh VYAHND",
+      "bn": "আমি মাংস খাই না।",
+      "en": "I don't eat meat."
+     },
+     {
+      "fr": "Il n'est pas là.",
+      "bn_pron": "ইল নে পা লা",
+      "en_pron": "eel neh pah LAH",
+      "bn": "সে এখানে নেই।",
+      "en": "He is not here."
+     },
+     {
+      "fr": "Nous n'avons pas de voiture.",
+      "bn_pron": "নু নাভ়োঁ পা দে° ভ়োয়াতি°র়",
+      "en_pron": "noo nah-vohn pah duh vwah-TÜR",
+      "bn": "আমাদের গাড়ি নেই।",
+      "en": "We don't have a car."
+     },
+     {
+      "fr": "Ce n'est pas grave.",
+      "bn_pron": "সে° নে পা গ্র়াভ়",
+      "en_pron": "suh neh pah GRAHV",
+      "bn": "কোনো ব্যাপার না / অসুবিধা নেই।",
+      "en": "It doesn't matter."
+     }
+    ]
+   },
+   {
+    "no": 9,
+    "title_bn": "হ্যাঁ/না প্রশ্ন (est-ce que / সুর)",
+    "title_en": "Yes/no questions (est-ce que / intonation)",
+    "explain_bn": "হ্যাঁ/না প্রশ্নের তিন উপায়, সহজ থেকে আনুষ্ঠানিক: (১) সাধারণ বাক্য, শুধু শেষে সুর তুলুন: Vous parlez anglais ? (২) শুরুতে Est-ce que (এস কে°) বসান: Est-ce que vous parlez anglais ? (৩) কর্তা-ক্রিয়া উল্টে হাইফেন দিন: Parlez-vous anglais ? শুরুতে দ্বিতীয়টি সবচেয়ে নিরাপদ — সব জায়গায় চলে। উত্তর: oui (হ্যাঁ), non (না), আর না-বাচক প্রশ্নের 'হ্যাঁ' উত্তরে si।",
+    "bangla_compare_bn": "বাংলায় প্রশ্ন বানাতে বাক্যে শুধু 'কি' জুড়ে দিই: 'আপনি কি ইংরেজি বলেন?' ফরাসির est-ce que ঠিক এই 'কি'-র কাজ করে — বাক্যের বাকি অংশ একটুও বদলায় না, শুধু সামনে বসে। আর বাংলার মতোই ফরাসিতেও প্রশ্নে গলার সুর শেষে ওপরে ওঠে।",
+    "model": {
+     "fr": "Est-ce que vous parlez anglais ?",
+     "bn_pron": "এস কে° ভ়ু পার়লে আঁগ্লে",
+     "en_pron": "ehs-kuh voo pahr-lay ahn-GLEH",
+     "bn": "আপনি কি ইংরেজি বলেন?",
+     "en": "Do you speak English?"
+    },
+    "table": {
+     "headers": [
+      "উপায়",
+      "উদাহরণ",
+      "উচ্চারণ",
+      "কখন"
+     ],
+     "rows": [
+      [
+       "সুর তোলা",
+       "Vous parlez anglais ?",
+       "ভ়ু পার়লে আঁগ্লে ↗",
+       "চলতি কথায়"
+      ],
+      [
+       "Est-ce que + বাক্য",
+       "Est-ce que vous parlez anglais ?",
+       "এস কে° ভ়ু পার়লে আঁগ্লে",
+       "সব জায়গায় (নিরাপদ)"
+      ],
+      [
+       "ক্রিয়া-কর্তা উল্টে",
+       "Parlez-vous anglais ?",
+       "পার়লে ভ়ু জ়াঁগ্লে",
+       "আনুষ্ঠানিক, লেখায়"
+      ],
+      [
+       "উত্তর",
+       "Oui. / Non. / Si.",
+       "উই / নোঁ / সি",
+       "si = না-বাচক প্রশ্নের 'হ্যাঁ'"
+      ]
+     ]
+    },
+    "examples": [
+     {
+      "fr": "Tu es prêt ?",
+      "bn_pron": "তি° এ প্র়ে",
+      "en_pron": "tü eh PREH",
+      "bn": "তুমি তৈরি?",
+      "en": "Are you ready?",
+      "note_bn": "শুধু সুর তুলে প্রশ্ন।"
+     },
+     {
+      "fr": "Est-ce que le magasin est ouvert ?",
+      "bn_pron": "এস কে° লে° মাগাজ়্যাঁ এ তুভ়ের়",
+      "en_pron": "ehs-kuh luh mah-gah-zehn eh-too-VEHR",
+      "bn": "দোকানটা কি খোলা?",
+      "en": "Is the shop open?"
+     },
+     {
+      "fr": "Avez-vous une table pour deux ?",
+      "bn_pron": "আভ়ে ভ়ু জ়ি°ন তাব্ল় পুর় দে°",
+      "en_pron": "ah-vay voo-zün tahbl poor DUH",
+      "bn": "দুজনের জন্য কোনো টেবিল আছে?",
+      "en": "Do you have a table for two?"
+     },
+     {
+      "fr": "Oui, bien sûr.",
+      "bn_pron": "উই বিয়্যাঁ সি°র়",
+      "en_pron": "wee byehn SÜR",
+      "bn": "হ্যাঁ, অবশ্যই।",
+      "en": "Yes, of course."
+     }
+    ]
+   },
+   {
+    "no": 10,
+    "title_bn": "প্রশ্নবোধক শব্দ (où, quand, comment…)",
+    "title_en": "Wh-questions (où, quand, comment…)",
+    "explain_bn": "কোথায়, কখন, কীভাবে, কেন, কে, কী, কত, কোন — এই আটটি শব্দ জানলে প্রায় যেকোনো তথ্য চাইতে পারবেন। আনুষ্ঠানিক রীতিতে প্রশ্নশব্দ শুরুতে বসে আর ক্রিয়া-কর্তা উল্টে যায়: Où habitez-vous ? চলতি কথায় প্রশ্নশব্দ শেষেও বসতে পারে: Vous habitez où ? আর মাঝামাঝি নিরাপদ রূপ: Où est-ce que vous habitez ?",
+    "bangla_compare_bn": "বাংলায় প্রশ্নশব্দ বসে ক্রিয়ার ঠিক আগে, বাক্যের মাঝে: 'আপনি কোথায় থাকেন?' ফরাসির চলতি রূপ Vous habitez où ? বাংলার কাছাকাছি — শুধু où বসে ক্রিয়ার পরে। আনুষ্ঠানিক রূপে প্রশ্নশব্দ একেবারে সামনে চলে যায়, ইংরেজির মতো।",
+    "model": {
+     "fr": "Où habitez-vous ?",
+     "bn_pron": "উ আবিতে ভ়ু",
+     "en_pron": "oo ah-bee-tay VOO",
+     "bn": "আপনি কোথায় থাকেন?",
+     "en": "Where do you live?"
+    },
+    "table": {
+     "headers": [
+      "প্রশ্নশব্দ",
+      "উচ্চারণ",
+      "অর্থ",
+      "উদাহরণ"
+     ],
+     "rows": [
+      [
+       "Où",
+       "উ",
+       "কোথায়",
+       "Où est la gare ?"
+      ],
+      [
+       "Quand",
+       "কাঁ",
+       "কখন",
+       "Quand arrivez-vous ?"
+      ],
+      [
+       "Comment",
+       "কোমাঁ",
+       "কীভাবে / কেমন",
+       "Comment allez-vous ?"
+      ],
+      [
+       "Pourquoi",
+       "পুর়কোয়া",
+       "কেন",
+       "Pourquoi pas ?"
+      ],
+      [
+       "Qui",
+       "কি",
+       "কে",
+       "Qui est-ce ?"
+      ],
+      [
+       "Qu'est-ce que",
+       "কেস কে°",
+       "কী",
+       "Qu'est-ce que c'est ?"
+      ],
+      [
+       "Combien",
+       "কোঁবিয়্যাঁ",
+       "কত",
+       "C'est combien ?"
+      ],
+      [
+       "Quel / Quelle",
+       "কেল",
+       "কোন / কী",
+       "Quelle heure est-il ?"
+      ]
+     ]
+    },
+    "examples": [
+     {
+      "fr": "Vous habitez où ?",
+      "bn_pron": "ভ়ু জ়াবিতে উ",
+      "en_pron": "voo-zah-bee-tay OO",
+      "bn": "আপনি কোথায় থাকেন?",
+      "en": "Where do you live? (informal)"
+     },
+     {
+      "fr": "Comment vous appelez-vous ?",
+      "bn_pron": "কোমাঁ ভ়ু জ়াপ্‌লে ভ়ু",
+      "en_pron": "koh-mahn voo-zah-play VOO",
+      "bn": "আপনার নাম কী?",
+      "en": "What is your name?"
+     },
+     {
+      "fr": "Pourquoi apprenez-vous le français ?",
+      "bn_pron": "পুর়কোয়া আপ্র়ে°নে ভ়ু লে° ফ়্র়াঁসে",
+      "en_pron": "poor-kwah ah-pruh-nay voo luh frahn-SEH",
+      "bn": "আপনি ফরাসি শিখছেন কেন?",
+      "en": "Why are you learning French?"
+     },
+     {
+      "fr": "Combien coûte le billet ?",
+      "bn_pron": "কোঁবিয়্যাঁ কুত লে° বিয়ে",
+      "en_pron": "kohn-byehn koot luh bee-YAY",
+      "bn": "টিকিটের দাম কত?",
+      "en": "How much is the ticket?"
+     }
+    ]
+   },
+   {
+    "no": 11,
+    "title_bn": "পারা ও করতেই হবে (pouvoir / devoir)",
+    "title_en": "Can / must (pouvoir / devoir)",
+    "explain_bn": "pouvoir (পুভ়োয়ার়) = পারা, devoir (দে°ভ়োয়ার়) = করতেই হবে। দুটোর পরেই ক্রিয়ার মূল রূপ বসে: je peux venir, je dois partir। অনুমতি চাইতেও pouvoir: Je peux entrer ? (ভেতরে আসতে পারি?) নিষেধ বলতে on ne peut pas (এখানে … করা যায় না)।",
+    "bangla_compare_bn": "বাংলায় 'আমি যেতে পারি' — কর্তা 'আমি' — ফরাসির je peux partir-এর মতোই। কিন্তু বাধ্যবাধকতায় বাংলা ছাঁচ বদলায়: 'আমাকে যেতে হবে' (কর্তা 'আমাকে', ক্রিয়া 'হবে')। ফরাসিতে সোজা 'আমি'-ই কর্তা: je dois partir (আমি বাধ্য যেতে)। 'আমাকে' ভেবে me দিয়ে শুরু করবেন না।",
+    "model": {
+     "fr": "Je peux payer par carte ?",
+     "bn_pron": "ঝ়ে° পে° পেইয়ে পার় কার়ত",
+     "en_pron": "zhuh puh pay-yay pahr KAHRT",
+     "bn": "আমি কি কার্ডে দাম দিতে পারি?",
+     "en": "Can I pay by card?"
+    },
+    "table": {
+     "headers": [
+      "pouvoir / devoir",
+      "উচ্চারণ",
+      "অর্থ",
+      "যা বসাতে পারেন"
+     ],
+     "rows": [
+      [
+       "je peux / je dois",
+       "ঝ়ে° পে° / ঝ়ে° দোয়া",
+       "আমি পারি / আমাকে হবে",
+       "partir · payer · prier"
+      ],
+      [
+       "tu peux / tu dois",
+       "তি° পে° / তি° দোয়া",
+       "তুমি পারো / তোমাকে হবে",
+       "venir · attendre"
+      ],
+      [
+       "il peut / il doit",
+       "ইল পে° / ইল দোয়া",
+       "সে পারে / তাকে হবে",
+       "travailler"
+      ],
+      [
+       "nous pouvons / nous devons",
+       "নু পুভ়োঁ / নু দে°ভ়োঁ",
+       "আমরা পারি / আমাদের হবে",
+       "rester · payer"
+      ],
+      [
+       "vous pouvez / vous devez",
+       "ভ়ু পুভ়ে / ভ়ু দে°ভ়ে",
+       "আপনি পারেন / আপনাকে হবে",
+       "signer ici"
+      ],
+      [
+       "ils peuvent / ils doivent",
+       "ইল পে°ভ় / ইল দোয়াভ়",
+       "তারা পারে / তাদের হবে",
+       "partir"
+      ]
+     ]
+    },
+    "examples": [
+     {
+      "fr": "Je dois partir.",
+      "bn_pron": "ঝ়ে° দোয়া পার়তির়",
+      "en_pron": "zhuh dwah pahr-TEER",
+      "bn": "আমাকে যেতে হবে।",
+      "en": "I must leave."
+     },
+     {
+      "fr": "Vous pouvez m'aider ?",
+      "bn_pron": "ভ়ু পুভ়ে মেদে",
+      "en_pron": "voo poo-vay meh-DAY",
+      "bn": "আপনি কি আমাকে সাহায্য করতে পারেন?",
+      "en": "Can you help me?"
+     },
+     {
+      "fr": "On ne peut pas fumer ici.",
+      "bn_pron": "ওঁ নে° পে° পা ফ়ি°মে ইসি",
+      "en_pron": "ohn nuh puh pah fü-may ee-SEE",
+      "bn": "এখানে ধূমপান করা যায় না।",
+      "en": "You can't smoke here."
+     },
+     {
+      "fr": "Je dois prier.",
+      "bn_pron": "ঝ়ে° দোয়া প্র়িয়ে",
+      "en_pron": "zhuh dwah pree-YAY",
+      "bn": "আমাকে নামাজ পড়তে হবে।",
+      "en": "I have to pray.",
+      "note_bn": "কর্মস্থলে নামাজের সময় চাইতে কাজে লাগবে।"
+     }
+    ]
+   },
+   {
+    "no": 12,
+    "title_bn": "ভদ্র অনুরোধ (je voudrais / pourriez-vous)",
+    "title_en": "Polite request (je voudrais / pourriez-vous)",
+    "explain_bn": "দোকান, অফিস, রেস্তোরাঁয় সবচেয়ে কাজের ছাঁচ। je voudrais (ঝ়ে° ভ়ুদ্র়ে, 'আমি চাইতাম') হলো je veux-এর ভদ্র রূপ। অন্যকে কিছু করতে বলতে pourriez-vous… ? ('আপনি কি … পারতেন?')। শেষে s'il vous plaît জুড়ে দিন — ফরাসিভাষী দেশে এই তিনটি শব্দ অনেক দরজা খুলে দেয়।",
+    "bangla_compare_bn": "বাংলায় ভদ্রতা আসে ক্রিয়ার রূপে: 'দিন', 'দেবেন কি?', 'দিতে পারবেন?' ফরাসিতে ভদ্রতা আসে কালের নরম রূপে (conditionnel): je voudrais, pourriez-vous। বাংলার 'দয়া করে' = s'il vous plaît, তবে বাংলায় এটা বাক্যের শুরুতে, ফরাসিতে সাধারণত শেষে।",
+    "model": {
+     "fr": "Je voudrais un billet pour Lyon, s'il vous plaît.",
+     "bn_pron": "ঝ়ে° ভ়ুদ্র়ে অ্যাঁ বিয়ে পুর় লিয়োঁ সিল ভ়ু প্লে",
+     "en_pron": "zhuh voo-dreh ehn bee-yay poor lyohn seel voo PLEH",
+     "bn": "লিয়োঁর একটা টিকিট চাই, দয়া করে।",
+     "en": "I would like a ticket to Lyon, please."
+    },
+    "table": {
+     "headers": [
+      "ছাঁচ",
+      "উচ্চারণ",
+      "অর্থ",
+      "যা বসাতে পারেন"
+     ],
+     "rows": [
+      [
+       "Je voudrais…",
+       "ঝ়ে° ভ়ুদ্র়ে",
+       "আমি … চাই (ভদ্রভাবে)",
+       "un billet · réserver une table"
+      ],
+      [
+       "Pourriez-vous… ?",
+       "পুর়িয়ে ভ়ু",
+       "আপনি কি … পারবেন?",
+       "m'aider · répéter · parler lentement"
+      ],
+      [
+       "Est-ce que je pourrais… ?",
+       "এস কে° ঝ়ে° পুর়ে",
+       "আমি কি … পারি?",
+       "entrer · avoir l'addition"
+      ],
+      [
+       "…, s'il vous plaît.",
+       "সিল ভ়ু প্লে",
+       "দয়া করে",
+       "যেকোনো অনুরোধের শেষে"
+      ]
+     ]
+    },
+    "examples": [
+     {
+      "fr": "Pourriez-vous parler plus lentement ?",
+      "bn_pron": "পুর়িয়ে ভ়ু পার়লে প্লি° লাঁত্‌মাঁ",
+      "en_pron": "poo-ryay voo pahr-lay plü lahnt-MAHN",
+      "bn": "আরেকটু আস্তে বলবেন?",
+      "en": "Could you speak more slowly?"
+     },
+     {
+      "fr": "Je voudrais réserver une table.",
+      "bn_pron": "ঝ়ে° ভ়ুদ্র়ে র়েজ়ের়ভ়ে ই°ন তাব্ল়",
+      "en_pron": "zhuh voo-dreh ray-zehr-vay ün TAHBL",
+      "bn": "আমি একটা টেবিল বুক করতে চাই।",
+      "en": "I would like to book a table."
+     },
+     {
+      "fr": "Est-ce que je pourrais avoir l'addition ?",
+      "bn_pron": "এস কে° ঝ়ে° পুর়ে আভ়োয়ার় লাদিসিয়োঁ",
+      "en_pron": "ehs-kuh zhuh poo-reh ah-vwahr lah-dee-SYOHN",
+      "bn": "বিলটা পেতে পারি?",
+      "en": "Could I have the bill?"
+     },
+     {
+      "fr": "Pourriez-vous m'aider, s'il vous plaît ?",
+      "bn_pron": "পুর়িয়ে ভ়ু মেদে সিল ভ়ু প্লে",
+      "en_pron": "poo-ryay voo meh-day seel voo PLEH",
+      "bn": "আমাকে একটু সাহায্য করবেন, দয়া করে?",
+      "en": "Could you help me, please?"
+     }
+    ]
+   }
+  ],
+  "previews": [
+   {
+    "title_bn": "লিঙ্গ ও আর্টিকেল",
+    "text_bn": "ফরাসিতে প্রতিটি বিশেষ্য হয় পুংলিঙ্গ, নয় স্ত্রীলিঙ্গ — মানুষ তো বটেই, টেবিল-চেয়ার-সূর্য-চাঁদও: le soleil (পুং), la lune (স্ত্রী)। আর্টিকেল লিঙ্গ বলে দেয়: le / un (পুং), la / une (স্ত্রী), স্বরের আগে l'। বাংলায় এমন লিঙ্গ নেই (আমরা বলি 'সে', নারী-পুরুষ সবার জন্য), তাই এটাই আপনার সবচেয়ে বড় নতুন অভ্যাস। কৌশল: প্রতিটি শব্দ আর্টিকেলসহ শিখুন — এই বইয়ের প্রতিটি বিশেষ্য তাই আর্টিকেলসহ দেওয়া। বিশেষণও লিঙ্গ মেনে বদলায় (petit → petite)। মধ্যম স্তরে আপনি শিখবেন কোন শব্দশেষ কোন লিঙ্গের ইঙ্গিত দেয় (-tion স্ত্রী, -ment পুং…)।"
+   },
+   {
+    "title_bn": "বহুবচন",
+    "text_bn": "লেখায় বহুবচন সাধারণত -s যোগ করে: une maison → des maisons; কিছু শব্দে -x: un gâteau → des gâteaux। কিন্তু মজার ব্যাপার, শেষের s চুপ বলে maison আর maisons শুনতে একই! কান তাহলে বহুবচন বোঝে কীভাবে? আর্টিকেল দিয়ে: le / la (লে° / লা) বনাম les (লে), un / une বনাম des। বাংলায় যেমন '-গুলো', '-রা' যোগ হয়, অথবা 'অনেক' থাকলে আলাদা চিহ্ন লাগে না ('অনেক বই'), ফরাসিতে কিন্তু সবসময় বহুবচন চিহ্ন লাগে: beaucoup de livres। মধ্যম স্তরে অনিয়মিত বহুবচন (un œil → des yeux) শিখবেন।"
+   },
+   {
+    "title_bn": "tu না vous?",
+    "text_bn": "বাংলায় আমাদের তিন স্তর: আপনি, তুমি, তুই। ফরাসিতে দুটি: vous (সম্মান, অপরিচিত, বা একাধিক মানুষ) আর tu (পরিবার, বন্ধু, শিশু, সমবয়সী সহপাঠী)। ক্রিয়াও বদলায়: vous parlez বনাম tu parles। নিয়ম সহজ: সন্দেহ হলে vous। অপর পক্ষ «on peut se tutoyer ?» (তুমি বলতে পারি?) বললে তবেই tu-তে যান। তুই-এর মতো আলাদা ঘনিষ্ঠ বা অবজ্ঞার স্তর ফরাসিতে নেই। পরবর্তী অধ্যায়ে এ নিয়ে বিস্তারিত।"
+   },
+   {
+    "title_bn": "অন্যান্য কাল",
+    "text_bn": "এই বইয়ে আপনি তিনটি কাল দিয়ে কাজ চালাচ্ছেন: বর্তমান (je parle), অতীত (j'ai parlé) আর নিকট-ভবিষ্যৎ (je vais parler) — দৈনন্দিন কথার বেশির ভাগ এতেই হয়ে যায়। মধ্যম স্তরে অপেক্ষা করছে: imparfait (je parlais, 'আমি বলতাম' — বাংলার 'করতাম'-এর মতো অভ্যাসগত অতীত), futur simple (je parlerai, 'আমি বলব' — এক শব্দে ভবিষ্যৎ), conditionnel (je parlerais, 'আমি বলতাম/বলতে পারতাম' — je voudrais এরই অংশ), আর subjonctif (ইচ্ছা, সন্দেহ, প্রয়োজন বোঝাতে বিশেষ রূপ)। ভয় পাবেন না: সবগুলোর ভিত্তি আপনি এই অধ্যায়ে গেঁথে ফেলেছেন।"
+   }
+  ]
+ },
+ "ch11": {
+  "intro_bn": "প্যারিসের এক বেকারিতে প্রথম দিন: আপনি কাউন্টারে গিয়ে হাসিমুখে বললেন, «Une baguette, s'il vous plaît.» বিক্রেতা একটু থেমে, ভুরু তুলে বললেন, «Bonjour d'abord !» — 'আগে তো বোঁঝ়ুর় বলুন!' ভাষায় আপনার কোনো ভুল ছিল না, ভুল ছিল রীতিতে। ভাষা শুধু শব্দ নয়, মানুষের সাথে চলার নিয়মও। এই অধ্যায়ে দেখবেন ফরাসিভাষীরা কীভাবে অভিবাদন করেন, কাকে tu আর কাকে vous বলেন, টেবিলে-দোকানে-অফিসে কী আশা করেন। বাংলার আদবের সাথে মিলিয়ে দেখলে দেখবেন, ভদ্রতার মূল কথা দুই সংস্কৃতিতেই এক: সম্মান দিলে সম্মান মেলে।",
+  "greetings": [
+   {
+    "fr": "Bonjour",
+    "bn_pron": "বোঁঝ়ুর়",
+    "en_pron": "bohn-ZHOOR",
+    "bn": "শুভ দিন / হ্যালো",
+    "en": "hello / good day",
+    "note_bn": "সকাল থেকে সন্ধ্যা পর্যন্ত, প্রথম দেখায়।"
+   },
+   {
+    "fr": "Bonsoir",
+    "bn_pron": "বোঁসোয়ার়",
+    "en_pron": "bohn-SWAHR",
+    "bn": "শুভ সন্ধ্যা",
+    "en": "good evening",
+    "note_bn": "সন্ধ্যার পর দেখা হলে।"
+   },
+   {
+    "fr": "Salut",
+    "bn_pron": "সালি°",
+    "en_pron": "sah-LÜ",
+    "bn": "এই যে / হাই; বিদায়",
+    "en": "hi; bye",
+    "note_bn": "শুধু বন্ধু ও পরিচিত সমবয়সীদের সাথে।"
+   },
+   {
+    "fr": "Bonne nuit",
+    "bn_pron": "বোন নুই",
+    "en_pron": "bon NWEE",
+    "bn": "শুভ রাত্রি",
+    "en": "good night",
+    "note_bn": "শুধু ঘুমাতে যাওয়ার আগে, সন্ধ্যার শুভেচ্ছা হিসেবে নয়।"
+   },
+   {
+    "fr": "Au revoir",
+    "bn_pron": "ও র়ে°ভ়োয়ার়",
+    "en_pron": "oh ruh-VWAHR",
+    "bn": "বিদায় / আবার দেখা হবে",
+    "en": "goodbye"
+   },
+   {
+    "fr": "Comment allez-vous ?",
+    "bn_pron": "কোমাঁ তালে ভ়ু",
+    "en_pron": "koh-mahn-tah-lay VOO",
+    "bn": "আপনি কেমন আছেন?",
+    "en": "How are you?",
+    "note_bn": "আনুষ্ঠানিক। বন্ধুকে: Comment ça va ? / Ça va ?"
+   },
+   {
+    "fr": "Ça va ?",
+    "bn_pron": "সা ভ়া",
+    "en_pron": "sah VAH",
+    "bn": "কেমন আছ? / সব ঠিক?",
+    "en": "How's it going?",
+    "note_bn": "উত্তরও একই, সুর নামিয়ে: Ça va. (ভালো আছি।)"
+   },
+   {
+    "fr": "Très bien, merci.",
+    "bn_pron": "ত্র়ে বিয়্যাঁ মের়সি",
+    "en_pron": "treh byehn mehr-SEE",
+    "bn": "খুব ভালো, ধন্যবাদ।",
+    "en": "Very well, thank you.",
+    "note_bn": "পাল্টা জিজ্ঞেস করুন: Et vous ? (এ ভ়ু)"
+   },
+   {
+    "fr": "Enchanté",
+    "bn_pron": "আঁশাঁতে",
+    "en_pron": "ahn-shahn-TAY",
+    "bn": "পরিচিত হয়ে খুশি হলাম",
+    "en": "pleased to meet you",
+    "note_bn": "নারী লিখবেন enchantée; উচ্চারণ একই।"
+   },
+   {
+    "fr": "Bonne journée !",
+    "bn_pron": "বোন ঝ়ুর়নে",
+    "en_pron": "bon zhoor-NAY",
+    "bn": "দিনটা ভালো কাটুক!",
+    "en": "Have a nice day!",
+    "note_bn": "বিদায়ের সময়, বিশেষ করে দোকান থেকে বেরোতে।"
+   }
+  ],
+  "tu_vous_bn": "বাংলায় সম্বোধনের তিন ধাপ: আপনি (সম্মান ও দূরত্ব), তুমি (ঘনিষ্ঠতা ও স্নেহ), তুই (খুব ঘনিষ্ঠ, কখনো অবজ্ঞা)। ফরাসিতে মাত্র দুই ধাপ। vous (ভ়ু) ঠিক আমাদের 'আপনি'-র মতো: অপরিচিত, বয়সে বড়, দোকানি, শিক্ষক, বস, ডাক্তার, সরকারি কর্মকর্তা — সবাইকে vous। tu (তি°) আমাদের 'তুমি' আর 'তুই' মিলিয়ে: পরিবার, বন্ধু, শিশু, পোষা প্রাণী, আর তরুণদের মধ্যে প্রায়ই প্রথম দেখাতেই। একটা পার্থক্য মাথায় রাখুন: vous আবার বহুবচনও — একাধিক মানুষকে, বন্ধু হলেও, vous বলতে হয় (বাংলার 'তোমরা')। tu-তে যাওয়ার সিদ্ধান্ত সাধারণত বড় বা উচ্চপদস্থ জন নেন; তিনি বলবেন «On peut se tutoyer ?» বা «Tu peux me tutoyer.» তার আগে নিজে থেকে tu বলা অসম্মান মনে হতে পারে, ঠিক যেমন অপরিচিত বয়স্ককে বাংলায় 'তুমি' বললে লাগে। কানাডার কেবেকে tu অনেক বেশি চলে, আবার পশ্চিম আফ্রিকায় বড়দের প্রতি সম্মান প্রকাশ বাংলার মতোই গুরুত্বপূর্ণ। সন্দেহ হলে vous — এতে কখনো ভুল হয় না।",
+  "address": [
+   {
+    "fr": "Monsieur",
+    "bn_pron": "মে°সিয়ে°",
+    "en_pron": "muh-SYUH",
+    "bn": "জনাব / স্যার",
+    "en": "Mr / sir",
+    "note_bn": "সংক্ষেপে M.। নামের আগে: Monsieur Diallo।"
+   },
+   {
+    "fr": "Madame",
+    "bn_pron": "মাদাম",
+    "en_pron": "mah-DAHM",
+    "bn": "বেগম / ম্যাডাম",
+    "en": "Mrs / Ms / madam",
+    "note_bn": "সংক্ষেপে Mme। আজকাল বিবাহিত-অবিবাহিত সব প্রাপ্তবয়স্ক নারীর জন্য।"
+   },
+   {
+    "fr": "Mademoiselle",
+    "bn_pron": "মাদ্‌মোয়াজ়েল",
+    "en_pron": "mahd-mwah-ZEL",
+    "bn": "কুমারী (পুরোনো রীতি)",
+    "en": "Miss",
+    "note_bn": "ফ্রান্সে সরকারি ফর্ম থেকে ২০১২ সালে বাদ পড়েছে; প্রাপ্তবয়স্ক নারীকে Madame বলাই নিরাপদ।"
+   },
+   {
+    "fr": "Messieurs dames",
+    "bn_pron": "মেসিয়ে° দাম",
+    "en_pron": "may-syuh DAHM",
+    "bn": "ভদ্রমহোদয়গণ (সবাইকে একসাথে)",
+    "en": "ladies and gentlemen",
+    "note_bn": "ছোট দোকান বা ক্যাফেতে ঢুকে সবাইকে: Bonjour messieurs dames !"
+   },
+   {
+    "fr": "Docteur",
+    "bn_pron": "দোকতে°র়",
+    "en_pron": "dok-TUHR",
+    "bn": "ডাক্তার সাহেব",
+    "en": "Doctor",
+    "note_bn": "চিকিৎসককে সম্বোধনে: Bonjour docteur।"
+   },
+   {
+    "fr": "Maître",
+    "bn_pron": "মেত্র়",
+    "en_pron": "MEHTR",
+    "bn": "উকিল সাহেব (সম্বোধন)",
+    "en": "title for a lawyer or notary",
+    "note_bn": "আইনজীবী ও নোটারিকে সম্বোধনে: Maître Dupont।"
+   }
+  ],
+  "customs": [
+   {
+    "title_bn": "লা বিজ (la bise): গালে গাল",
+    "text_bn": "ফ্রান্সে বন্ধু ও পরিবারের মধ্যে দেখা হলে দুই গালে হালকা গাল ছুঁইয়ে মুখে চুমুর শব্দ করার রীতি আছে, যার নাম la bise। অঞ্চলভেদে সংখ্যা এক থেকে চার। অফিসে বা প্রথম পরিচয়ে সাধারণত করমর্দন (une poignée de main)। আপনি যদি ধর্মীয় বা ব্যক্তিগত কারণে বিপরীত লিঙ্গের সাথে bise বা করমর্দন না করেন, হাসিমুখে বুকে হাত রেখে বলুন: «Excusez-moi, je ne fais pas la bise, mais je suis très content de vous voir.» — বেশির ভাগ মানুষ সম্মান করেন, বিশেষ করে আগে থেকে ভদ্রভাবে জানালে।"
+   },
+   {
+    "title_bn": "সময়ানুবর্তিতা",
+    "text_bn": "কাজের মিটিং, ডাক্তার, সরকারি অফিস বা চাকরির সাক্ষাৎকারে ঠিক সময়ে, পারলে পাঁচ মিনিট আগে পৌঁছান; দেরি হলে আগেই ফোন বা মেসেজ করুন। ট্রেন নির্ধারিত সময়ে ছেড়ে যায়। মজার ব্যতিক্রম: কারও বাসায় রাতের দাওয়াতে ঠিক কাঁটায় কাঁটায় পৌঁছানো একটু আগেভাগে মনে হতে পারে; ১০-১৫ মিনিট দেরি সেখানে ভদ্রতা হিসেবেই ধরা হয় (le quart d'heure de politesse)।"
+   },
+   {
+    "title_bn": "খাবার ও টেবিলের আদব",
+    "text_bn": "ফ্রান্সে খাওয়া একটি সামাজিক অনুষ্ঠান: দুপুরের খাবারে এক ঘণ্টা বা তারও বেশি সময় লাগা স্বাভাবিক, রাতের খাবার সাধারণত সন্ধ্যা ৭টা-৮টার পর। খাওয়া শুরুর আগে বলা হয় «Bon appétit !»। দুই হাত টেবিলের ওপর রাখুন (কোলে নয়), রুটি প্লেটের পাশে টেবিলেই রাখা চলে। দাওয়াতে হালাল খাবার নিয়ে আগেই নম্রভাবে জানিয়ে দিন — «Je ne mange que de la viande halal» (আমি শুধু হালাল মাংস খাই) — অনেক আয়োজক তখন মাছ বা সবজির পদ রাখেন।"
+   },
+   {
+    "title_bn": "দোকানে ঢুকেই «Bonjour»",
+    "text_bn": "ফরাসি দৈনন্দিন জীবনের সবচেয়ে গুরুত্বপূর্ণ অলিখিত নিয়ম: কোনো দোকান, বেকারি, ফার্মেসি, অফিস বা বাসে ঢুকে প্রথমেই «Bonjour» (সন্ধ্যায় «Bonsoir»), তারপর প্রয়োজনের কথা। Bonjour না বলে সরাসরি 'একটা বাগেত' চাইলে বিক্রেতা রূঢ় আচরণ মনে করতে পারেন। বেরোনোর সময় «Merci, au revoir, bonne journée !»। বাংলাদেশে আমরা যেমন সালাম দিয়ে কথা শুরু করি, এটা অনেকটা সেই রীতি।"
+   },
+   {
+    "title_bn": "উপহার",
+    "text_bn": "কারও বাসায় দাওয়াতে খালি হাতে না যাওয়াই রীতি। ভালো উপহার: ফুল, চকলেট, পেস্ট্রি, বা নিজের দেশের মিষ্টি বা চা — বাংলাদেশের চা বা মিষ্টি নিয়ে গেলে সুন্দর আলাপও শুরু হবে। ফুল দিলে জেনে রাখুন, চন্দ্রমল্লিকা (chrysanthèmes) ফ্রান্সে কবরে দেওয়ার ফুল হিসেবে পরিচিত। উপহার পেলে সাধারণত সামনেই খুলে ধন্যবাদ জানানো হয়।"
+   },
+   {
+    "title_bn": "গণপরিবহনে নীরবতা",
+    "text_bn": "মেট্রো, বাস ও ট্রেনে ফরাসিরা সাধারণত নিচু স্বরে কথা বলেন বা চুপচাপ বই পড়েন। জোরে ফোনে কথা বলা বা স্পিকারে ভিডিও চালানো বিরক্তিকর মনে করা হয়; হেডফোন ব্যবহার করুন। বয়স্ক, অন্তঃসত্ত্বা ও প্রতিবন্ধী যাত্রীদের জন্য সংরক্ষিত আসন ছেড়ে দিন। ট্রেনে উঠে টিকিট যাচাই (composter) করার নিয়ম থাকলে ভুলবেন না; টিকিটবিহীন ভ্রমণে জরিমানা হয়।"
+   },
+   {
+    "title_bn": "কাজের সংস্কৃতি",
+    "text_bn": "ফরাসি কর্মস্থলে আনুষ্ঠানিকতা ও সরাসরি মত প্রকাশ — দুটোই আছে। সহকর্মী নিজে tu বলার প্রস্তাব না দেওয়া পর্যন্ত vous ব্যবহার করুন। সকালে অফিসে ঢুকে সবাইকে Bonjour বলা জরুরি। আইনে সাপ্তাহিক কর্মঘণ্টা সাধারণত ৩৫, বছরে কমপক্ষে পাঁচ সপ্তাহ বেতনসহ ছুটি; দুপুরের খাবারের বিরতি সম্মান করা হয়, আর ছুটির দিনে কাজের ইমেল না পাঠানোই ভালো। ইমেল শেষ হয় «Cordialement» (সৌজন্যসহ) দিয়ে।"
+   },
+   {
+    "title_bn": "ধর্ম ও লাইসিতে (laïcité)",
+    "text_bn": "ফ্রান্সের প্রজাতন্ত্র laïcité (লাইসিতে) নীতির ওপর দাঁড়িয়ে: ১৯০৫ সালের আইন অনুযায়ী রাষ্ট্র কোনো ধর্মকে সরকারি ধর্ম হিসেবে স্বীকৃতি দেয় না, আবার প্রত্যেকের বিশ্বাস ও উপাসনার স্বাধীনতা রক্ষা করে। বাস্তবে এর অর্থ: সরকারি কর্মচারীরা কর্মরত অবস্থায় ধর্মীয় প্রতীক পরেন না, আর সরকারি প্রাথমিক ও মাধ্যমিক স্কুলে শিক্ষার্থীদের জন্য দৃশ্যমান ধর্মীয় প্রতীক নিষিদ্ধ (২০০৪ সালের আইন); কিন্তু রাস্তা, বিশ্ববিদ্যালয় আর নিজের জীবনে আপনি স্বাধীনভাবে ধর্ম পালন করতে পারেন। ফ্রান্সে বহু মসজিদ, হালাল দোকান আর বড় মুসলিম সম্প্রদায় আছে। অন্যদিকে অনেক ফরাসি ধর্ম নিয়ে ব্যক্তিগত আলোচনা এড়িয়ে চলেন; কেউ জানতে চাইলে শান্তভাবে, আন্তরিকভাবে উত্তর দিন। বেলজিয়াম, সুইজারল্যান্ড, কানাডা, সেনেগাল বা মরক্কোতে রাষ্ট্র ও ধর্মের সম্পর্ক আলাদা — প্রতিটি দেশের নিয়ম জেনে নিন।"
+   }
+  ]
+ },
+ "writing2": [
+  {
+   "stars": 2,
+   "title_bn": "দাম, ফোন নম্বর আর তারিখ কথায় লিখুন",
+   "instruction_bn": "নিচের সংখ্যাগুলো ফরাসি শব্দে লিখুন: ৩ ইউরো ৫০ সেন্ট, ফোন নম্বর ০৬ ২৫ ৭১ ৮০ ৯৯ (দুই অঙ্ক করে), আর ১৬ ডিসেম্বর ১৯৭১।",
+   "example": "12 € → douze euros",
+   "lines": 4,
+   "answer": "trois euros cinquante · zéro six, vingt-cinq, soixante et onze, quatre-vingts, quatre-vingt-dix-neuf · le seize décembre mille neuf cent soixante et onze"
+  },
+  {
+   "stars": 2,
+   "title_bn": "আজকের তারিখ ও আমার দিনলিপি",
+   "instruction_bn": "প্রথম লাইনে আজকের বার ও তারিখ লিখুন। তারপর আপনার সাধারণ একটি দিনের পাঁচটি কাজ সময়সহ লিখুন (à + সময়)।",
+   "example": "Nous sommes le mardi 14 octobre. — À sept heures, je mange.",
+   "lines": 6,
+   "answer": "Nous sommes le lundi 3 mars. À six heures, je prie. À sept heures, je mange. À huit heures, je vais au travail. À midi, je déjeune. À dix-huit heures, je rentre à la maison."
+  },
+  {
+   "stars": 2,
+   "title_bn": "ব্যক্তিগত তথ্যের ফর্ম",
+   "instruction_bn": "সপ্তম অধ্যায়ের ফর্মের মতো একটি ফর্ম পূরণ করুন: Nom, Prénom, Âge, Adresse, Profession, Nationalité। বয়স সংখ্যায় নয়, কথায় লিখুন।",
+   "example": "Nom : HOSSAIN",
+   "lines": 6,
+   "answer": "Nom : HOSSAIN · Prénom : Karim · Âge : trente-deux ans · Adresse : 12, rue Victor-Hugo, 75011 Paris · Profession : ingénieur · Nationalité : bangladaise (nationalité স্ত্রীলিঙ্গ শব্দ, তাই ফর্মে বিশেষণটিও স্ত্রীলিঙ্গ রূপে লেখা হয়)"
+  },
+  {
+   "stars": 3,
+   "title_bn": "১২টি ছাঁচে ২৪টি বাক্য",
+   "instruction_bn": "দশম অধ্যায়ের প্রতিটি ছাঁচ দিয়ে নিজের জীবন নিয়ে দুটি করে বাক্য লিখুন — মোট ২৪টি। প্রতিস্থাপন-ছক থেকে শব্দ নিন। নিজেকে যাচাই করুন: ক্রিয়া কর্তার পরে বসেছে? না-বাচকে ne আর pas দুটোই আছে?",
+   "example": "(ছাঁচ ১) Je suis bangladais. Je suis étudiant.",
+   "lines": 24,
+   "answer": "নমুনা: (১) Je suis bangladais. Ma sœur est médecin. (২) J'ai deux frères. J'ai vingt-cinq ans. (৩) Il y a une mosquée près d'ici. Il n'y a pas de bus le dimanche. (৪) Je veux apprendre le français. J'ai besoin d'un appartement. (৫) J'habite à Lyon. Je travaille dans un restaurant. (৬) J'ai mangé du riz. Hier, j'ai appelé ma mère. (৭) Je vais voyager en juillet. Nous allons prier à la mosquée. (৮) Je ne parle pas italien. Je n'ai pas de voiture. (৯) Est-ce que vous parlez anglais ? Tu es prêt ? (১০) Où habitez-vous ? Combien coûte le billet ? (১১) Je peux payer par carte ? Je dois partir. (১২) Je voudrais un thé, s'il vous plaît. Pourriez-vous répéter ?"
+  },
+  {
+   "stars": 2,
+   "title_bn": "প্রশ্ন ও না-বাচক বানান",
+   "instruction_bn": "নিচের পাঁচটি বিবৃতিকে est-ce que দিয়ে প্রশ্নে, আর পাঁচটিকে ne … pas দিয়ে না-বাচকে রূপান্তর করুন। বিবৃতি: (ক) Vous parlez anglais. (খ) Il est médecin. (গ) Tu as faim. (ঘ) Elle habite ici. (ঙ) Vous avez une chambre.",
+   "example": "Vous parlez anglais. → Est-ce que vous parlez anglais ? / Vous ne parlez pas anglais.",
+   "lines": 10,
+   "answer": "প্রশ্ন: Est-ce que vous parlez anglais ? · Est-ce qu'il est médecin ? · Est-ce que tu as faim ? · Est-ce qu'elle habite ici ? · Est-ce que vous avez une chambre ? — না-বাচক: Vous ne parlez pas anglais. · Il n'est pas médecin. · Tu n'as pas faim. · Elle n'habite pas ici. · Vous n'avez pas de chambre."
+  },
+  {
+   "stars": 3,
+   "title_bn": "আমার পরিবার",
+   "instruction_bn": "আপনার পরিবার নিয়ে পাঁচটি বাক্য লিখুন: কারা আছেন, তাঁদের বয়স, কে কী করেন, কে কোথায় থাকেন। নিজেকে যাচাই করুন: avoir দিয়ে বয়স বলেছেন? mon / ma ঠিকমতো বসিয়েছেন?",
+   "example": "J'ai une sœur et deux frères.",
+   "lines": 5,
+   "answer": "J'ai une sœur et deux frères. Mon père a soixante ans. Ma mère est professeure. Mon frère travaille à Dubaï. Ma famille habite à Chittagong."
+  },
+  {
+   "stars": 3,
+   "title_bn": "আমার বাসা বা ঘর",
+   "instruction_bn": "আপনার বাসা বা ঘরের বর্ণনা দিন পাঁচটি বাক্যে। il y a, être, avoir আর কয়েকটি বিশেষণ ব্যবহার করুন। নিজেকে যাচাই করুন: বিশেষণ বিশেষ্যের পরে বসিয়েছেন (une chambre propre)?",
+   "example": "J'habite dans un petit appartement.",
+   "lines": 5,
+   "answer": "J'habite dans un petit appartement. Il y a deux chambres et une cuisine. Ma chambre est propre et calme. Il y a un lit, une table et une fenêtre. L'appartement est au troisième étage."
+  },
+  {
+   "stars": 3,
+   "title_bn": "বাংলা থেকে ফরাসি",
+   "instruction_bn": "পাঁচটি বাংলা বাক্য ফরাসিতে অনুবাদ করুন। আগে ঠিক করুন কোন ছাঁচ লাগবে, তারপর ক্রিয়াকে কর্তার পরে আনুন। বাক্য: (১) আমার নাম রহিমা। (২) আমি ঢাকায় থাকি। (৩) কাছে কি কোনো ফার্মেসি আছে? (৪) আমি মাংস খাই না। (৫) আমি একটা কফি চাই, দয়া করে।",
+   "example": "আমি ছাত্র। → Je suis étudiant.",
+   "lines": 5,
+   "answer": "Je m'appelle Rahima. · J'habite à Dhaka. · Est-ce qu'il y a une pharmacie près d'ici ? · Je ne mange pas de viande. · Je voudrais un café, s'il vous plaît."
+  }
+ ],
+ "checkpoint3": {
+  "build_bn": "নিচের প্রতিটি সারিতে একটি ফরাসি বাক্যের শব্দগুলো এলোমেলো করে দেওয়া আছে। সঠিক ক্রমে সাজিয়ে পুরো বাক্যটি লিখুন, তারপর জোরে পড়ুন। মনে রাখুন: কর্তা, তারপর ক্রিয়া, তারপর বাকি অংশ; না-বাচকে ne আর pas ক্রিয়ার দুপাশে।",
+  "build": [
+   {
+    "words": [
+     "bangladais",
+     "Je",
+     "suis",
+     "."
+    ],
+    "answer": "Je suis bangladais."
+   },
+   {
+    "words": [
+     "une",
+     "Vous",
+     "chambre",
+     "avez",
+     "?"
+    ],
+    "answer": "Vous avez une chambre ?"
+   },
+   {
+    "words": [
+     "pas",
+     "Je",
+     "comprends",
+     "ne",
+     "."
+    ],
+    "answer": "Je ne comprends pas."
+   },
+   {
+    "words": [
+     "travailler",
+     "demain",
+     "vais",
+     "Je",
+     "."
+    ],
+    "answer": "Je vais travailler demain."
+   },
+   {
+    "words": [
+     "vous",
+     "Où",
+     "habitez",
+     "est-ce que",
+     "?"
+    ],
+    "answer": "Où est-ce que vous habitez ?"
+   },
+   {
+    "words": [
+     "café",
+     "voudrais",
+     "s'il vous plaît",
+     "un",
+     "Je",
+     ",",
+     "."
+    ],
+    "answer": "Je voudrais un café, s'il vous plaît."
+   }
+  ],
+  "quiz": [
+   {
+    "q_bn": "৮০ ফরাসিতে কী?",
+    "a": "quatre-vingts।"
+   },
+   {
+    "q_bn": "সুইজারল্যান্ড ও বেলজিয়ামে ৭০-কে কী বলে?",
+    "a": "septante।"
+   },
+   {
+    "q_bn": "'এক লাখ' ফরাসিতে বলুন।",
+    "a": "cent mille।"
+   },
+   {
+    "q_bn": "'সাড়ে চারটা বাজে' ফরাসিতে বলুন।",
+    "a": "Il est quatre heures et demie."
+   },
+   {
+    "q_bn": "ফরাসিতে মাস ও বারের নাম কি বড় হাতের অক্ষরে শুরু হয়?",
+    "a": "না, ছোট হাতের অক্ষরে (lundi, mars)।"
+   },
+   {
+    "q_bn": "hier আর demain-এর অর্থ কী?",
+    "a": "hier = গতকাল, demain = আগামীকাল।"
+   },
+   {
+    "q_bn": "বাংলা বাক্যের ক্রম SOV; ফরাসির ক্রম কী?",
+    "a": "SVO (কর্তা-ক্রিয়া-কর্ম)।"
+   },
+   {
+    "q_bn": "'আমি ছাত্র' ফরাসিতে বলতে কোন ক্রিয়া লাগে, যা বাংলায় লুকিয়ে থাকে?",
+    "a": "être: Je suis étudiant."
+   },
+   {
+    "q_bn": "ফরাসিতে বয়স বলতে কোন ক্রিয়া ব্যবহৃত হয়?",
+    "a": "avoir: J'ai trente ans."
+   },
+   {
+    "q_bn": "'কাছে একটা ব্যাংক আছে' — avoir না il y a?",
+    "a": "il y a: Il y a une banque près d'ici."
+   },
+   {
+    "q_bn": "Je parle français বাক্যটিকে না-বাচক করুন।",
+    "a": "Je ne parle pas français."
+   },
+   {
+    "q_bn": "বাংলার প্রশ্নবোধক 'কি'-র কাজ ফরাসিতে কোন বাক্যাংশ করে?",
+    "a": "Est-ce que।"
+   },
+   {
+    "q_bn": "'আমি আগামীকাল কাজ করব' — futur proche দিয়ে বলুন।",
+    "a": "Je vais travailler demain."
+   },
+   {
+    "q_bn": "অপরিচিত বয়স্ক মানুষকে tu না vous বলবেন?",
+    "a": "vous।"
+   },
+   {
+    "q_bn": "ফ্রান্সে দোকানে ঢুকে প্রথমে কী বলা জরুরি?",
+    "a": "Bonjour (সন্ধ্যায় Bonsoir)।"
+   }
+  ]
+ }
+}
