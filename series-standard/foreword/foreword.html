@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="utf-8">
+<title>লেখকের কথা — Author's Foreword (series template, Bangla only)</title>
+<!--
+  SERIES TEMPLATE — Author's Foreword (লেখকের কথা)
+  Bangla only. Identical in every book of the series; only the running footer
+  ("[ভাষা] ভাষার দরজা") changes per book. Trim 7 x 10 in, no bleed, 0.75 in safe margins.
+  Front-matter pages iii–ix (7 pages). The page after it (x) starts "বইটি কীভাবে পড়বেন".
+-->
+<style>
+@font-face{font-family:"BnSerif";src:url(fonts/noto-serif-bengali-bengali-400-normal.woff2) format("woff2");font-weight:400;}
+@font-face{font-family:"BnSerif";src:url(fonts/noto-serif-bengali-bengali-700-normal.woff2) format("woff2");font-weight:700;}
+@font-face{font-family:"BnSans";src:url(fonts/noto-sans-bengali-bengali-600-normal.woff2) format("woff2");font-weight:600;}
+@font-face{font-family:"Arabic";src:url(fonts/amiri-arabic-400-normal.woff2) format("woff2");font-weight:400;}
+@font-face{font-family:"Arabic";src:url(fonts/amiri-arabic-700-normal.woff2) format("woff2");font-weight:700;}
+@font-face{font-family:"LatSerif";src:url(fonts/noto-serif-latin-400-normal.woff2) format("woff2");}
+
+:root{
+  --ink:#24302f; --muted:#5d6b69; --teal:#1f5f5b; --teal-l:#e6f0ee;
+  --gold:#b8892d; --gold-l:#f6ecd6; --paper:#fbf7ef; --line:#d9cbb0;
+}
+@page{size:7in 10in;margin:0;}
+*{box-sizing:border-box;margin:0;padding:0;}
+html,body{background:#9a9a9a;}
+body{font-family:"BnSerif","Arabic","LatSerif",serif;color:var(--ink);font-size:13.2pt;line-height:1.8;}
+.page{width:7in;height:10in;background:var(--paper);position:relative;overflow:hidden;
+  margin:0 auto 0.25in;padding:0.8in 0.78in 0.85in;display:flex;flex-direction:column;page-break-after:always;}
+@media print{html,body{background:none;}.page{margin:0;}}
+p{margin:0 0 0.12in;text-align:justify;}
+b{color:var(--teal);font-weight:700;}
+.ar{font-family:"Arabic",serif;direction:rtl;unicode-bidi:isolate;}
+
+/* running head + folio */
+.runhead{position:absolute;top:0.38in;left:0.78in;right:0.78in;display:flex;justify-content:space-between;
+  font-family:"BnSans";font-weight:600;font-size:8.5pt;color:var(--muted);
+  border-bottom:0.75pt solid var(--line);padding-bottom:0.05in;}
+.folio{position:absolute;bottom:0.38in;left:0;right:0;text-align:center;font-family:"BnSans";font-weight:600;
+  font-size:9pt;color:var(--gold);}
+.folio::before,.folio::after{content:"";display:inline-block;width:0.5in;height:0.75pt;background:var(--line);vertical-align:middle;margin:0 0.12in;}
+
+/* section heading with star */
+h2{font-family:"BnSans";font-weight:600;font-size:17.5pt;color:var(--teal);line-height:1.35;
+  display:flex;align-items:center;gap:0.12in;margin:0.02in 0 0.14in;}
+h2 svg{flex:none;width:0.26in;height:0.26in;}
+h2::after{content:"";flex:1;height:0.75pt;background:linear-gradient(90deg,var(--gold),transparent);}
+
+/* Qur'an panel */
+.ayah{border:1.2pt solid var(--gold);background:#fff;border-radius:3pt;position:relative;
+  padding:0.2in 0.26in 0.14in;margin:0.06in 0 0.18in;box-shadow:inset 0 0 0 3pt #fff, inset 0 0 0 3.75pt var(--gold-l);}
+.ayah .ar{font-size:22pt;line-height:1.9;text-align:center;color:var(--teal);}
+.ayah .bn{text-align:center;font-size:12.8pt;margin-top:0.06in;}
+.ayah .ref{display:block;text-align:center;margin-top:0.08in;font-family:"BnSans";font-weight:600;font-size:10pt;color:var(--gold);}
+.ayah .tag{position:absolute;top:-0.12in;left:50%;transform:translateX(-50%);background:var(--paper);padding:0 0.1in;
+  font-family:"BnSans";font-weight:600;font-size:9.5pt;color:var(--gold);}
+.ayah.sm{padding:0.13in 0.2in 0.1in;margin-bottom:0.14in;}
+.ayah.sm .ar{font-size:19pt;line-height:1.7;}
+
+/* Hadith panel */
+.hadith{border-right:4pt solid var(--teal);background:var(--teal-l);padding:0.14in 0.22in 0.12in;margin:0.04in 0 0.17in;border-radius:3pt 0 0 3pt;}
+.hadith .ar{font-size:19pt;line-height:1.75;text-align:right;color:var(--teal);margin-bottom:0.04in;}
+.hadith .bn{font-size:12.8pt;}
+.hadith .ref{display:block;text-align:left;font-family:"BnSans";font-weight:600;font-size:10pt;color:var(--teal);margin-top:0.05in;}
+.hadith .tag{font-family:"BnSans";font-weight:600;font-size:9.5pt;color:var(--teal);display:block;margin-bottom:0.02in;}
+
+/* poetry */
+.poem{text-align:center;margin:0.08in 0.4in 0.16in;padding:0.12in 0;border-top:0.75pt solid var(--line);border-bottom:0.75pt solid var(--line);}
+.poem .l{font-size:15pt;font-weight:700;color:var(--ink);line-height:1.8;}
+.poem .by{font-family:"BnSans";font-weight:600;font-size:8.8pt;color:var(--muted);}
+
+/* opener */
+.opener{padding-top:0.75in;}
+.arch{width:100%;height:2.9in;position:relative;margin-bottom:0.2in;}
+.arch svg{position:absolute;inset:0;width:100%;height:100%;}
+.arch .bism{position:absolute;left:0;right:0;top:1.2in;text-align:center;font-size:28pt;color:var(--teal);}
+.kicker{text-align:center;font-family:"BnSans";font-weight:600;font-size:12pt;color:var(--gold);}
+h1{text-align:center;font-family:"BnSans";font-weight:600;font-size:30pt;color:var(--teal);line-height:1.3;margin:0.04in 0 0.04in;}
+.subt{text-align:center;font-size:12pt;color:var(--muted);font-style:italic;margin-bottom:0.22in;}
+.salute{text-align:center;font-size:14pt;margin-bottom:0.16in;}
+.dropcap::first-letter{font-family:"BnSans";font-weight:600;float:left;font-size:34pt;line-height:1;color:var(--gold);padding:0.04in 0.08in 0 0;}
+
+/* map */
+figure{margin:0.04in 0 0.12in;}
+figure svg{width:100%;height:auto;display:block;border:0.75pt solid var(--line);border-radius:3pt;background:#fff;}
+figcaption{font-family:"BnSans";font-weight:600;font-size:9.5pt;color:var(--muted);text-align:center;margin-top:0.05in;line-height:1.5;}
+
+/* virtues */
+.virtues{display:grid;grid-template-columns:1fr 1fr;gap:0.16in;margin:0.04in 0 0.1in;}
+.v{background:#fff;border:0.75pt solid var(--line);border-top:3pt solid var(--gold);border-radius:3pt;padding:0.16in 0.18in 0.14in;}
+.v.wide{grid-column:1 / span 2;}
+.v .h{display:flex;align-items:center;gap:0.08in;font-family:"BnSans";font-weight:600;color:var(--teal);font-size:14pt;}
+.v .n{width:0.27in;height:0.27in;border-radius:50%;background:var(--teal);color:#fff;font-size:9.5pt;display:flex;align-items:center;justify-content:center;flex:none;}
+.v p{font-size:12pt;line-height:1.6;margin:0.03in 0 0;text-align:left;}
+
+/* stat */
+.stat{display:flex;gap:0.2in;align-items:center;background:var(--gold-l);border-radius:3pt;padding:0.14in 0.2in;margin:0.02in 0 0.16in;}
+.stat .big{font-family:"BnSans";font-weight:600;font-size:30pt;color:var(--gold);line-height:1;white-space:nowrap;}
+.stat .txt{font-size:12.2pt;line-height:1.55;}
+.stat .txt b{color:var(--ink);}
+
+/* closing */
+.dua{text-align:center;font-size:13.5pt;margin:0.12in 0 0.06in;}
+.amin{text-align:center;font-size:15pt;color:var(--teal);}
+.sign{margin-top:auto;display:flex;justify-content:flex-end;align-items:flex-end;gap:0.18in;}
+.sign .logo{width:0.85in;height:0.85in;border:1pt dashed var(--gold);border-radius:50%;display:flex;align-items:center;justify-content:center;
+  font-family:"BnSans";font-weight:600;font-size:7.5pt;color:var(--gold);text-align:center;line-height:1.3;}
+.sign .who{text-align:right;}
+.sign .script{font-family:"Segoe Script","Brush Script MT",cursive;font-size:20pt;color:#1f3a93;line-height:1;margin-bottom:0.06in;}
+.sign .name{font-family:"BnSans";font-weight:600;font-size:14pt;color:var(--teal);border-top:1pt solid var(--gold);padding-top:0.05in;}
+.sign .role{font-size:10.8pt;color:var(--muted);line-height:1.55;}
+.endstar{text-align:center;margin:0.1in 0 0.08in;}
+.tight .ayah .ar{font-size:20pt;line-height:1.75;}
+.tight .ayah{padding-top:0.16in;padding-bottom:0.1in;}
+.tight .ayah.sm .ar{font-size:17pt;line-height:1.5;}
+.tight p{line-height:1.74;}
+</style>
+</head>
+<body>
+
+<!-- reusable ornaments -->
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <symbol id="star" viewBox="0 0 40 40">
+      <rect x="9" y="9" width="22" height="22" fill="none" stroke="#b8892d" stroke-width="2"/>
+      <rect x="9" y="9" width="22" height="22" fill="none" stroke="#b8892d" stroke-width="2" transform="rotate(45 20 20)"/>
+      <circle cx="20" cy="20" r="4" fill="#1f5f5b"/>
+    </symbol>
+  </defs>
+</svg>
+
+<!-- ============ PAGE iii — OPENER ============ -->
+<div class="page opener">
+  <div class="arch">
+    <svg viewBox="0 0 540 245" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
+      <!-- mihrab-style arch -->
+      <path d="M110 240 V120 Q110 40 270 12 Q430 40 430 120 V240" fill="#fff" stroke="#b8892d" stroke-width="2.2"/>
+      <path d="M124 240 V124 Q124 54 270 27 Q416 54 416 124 V240" fill="none" stroke="#e8d9b5" stroke-width="1.2"/>
+      <!-- keystone star -->
+      <g transform="translate(250 0)"><use href="#star" width="40" height="40"/></g>
+      <!-- side rosettes -->
+      <g transform="translate(40 150)"><use href="#star" width="34" height="34"/></g>
+      <g transform="translate(466 150)"><use href="#star" width="34" height="34"/></g>
+      <line x1="20" y1="240" x2="520" y2="240" stroke="#b8892d" stroke-width="1.2"/>
+      <!-- small dots along the base -->
+      <g fill="#1f5f5b"><circle cx="70" cy="240" r="2.5"/><circle cx="470" cy="240" r="2.5"/><circle cx="270" cy="240" r="2.5"/></g>
+    </svg>
+    <div class="bism ar">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</div>
+  </div>
+  <div class="kicker">লেখকের কথা</div>
+  <h1>একটি ভাষা, একটি দরজা</h1>
+  <div class="subt">ভাষা শেখা, চরিত্র গঠন ও দাওয়াতের দায়িত্ব</div>
+  <div class="salute">প্রিয় পাঠক,<br>আসসালামু আলাইকুম ওয়া রাহমাতুল্লাহি ওয়া বারাকাতুহ।</div>
+  <p class="dropcap">আপনি যে বইটি হাতে নিয়েছেন, সেটি একটি নতুন ভাষার দরজা। কিন্তু আমি বিশ্বাস করি, এটি শুধু একটি ভাষার দরজা নয়, একটি নতুন জগতের, নতুন মানুষের এবং নতুন দায়িত্বের দরজা। এই বিশ্বাস আমার নিজের নয়; আমি তা পেয়েছি আল্লাহর কিতাব আর তাঁর রাসূল ﷺ-এর জীবন থেকে।</p>
+  <div class="folio">iii</div>
+</div>
+
+<!-- ============ PAGE iv — LANGUAGE AS A SIGN ============ -->
+<div class="page tight">
+  <div class="runhead"><span>লেখকের কথা</span><span>[ভাষা] ভাষার দরজা</span></div>
+  <h2><svg><use href="#star"/></svg>ভাষা — আল্লাহর এক নিদর্শন</h2>
+  <p>আল্লাহ তাআলা বলেন:</p>
+  <div class="ayah"><span class="tag">আল-কুরআন</span>
+    <div class="ar">وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْعَالِمِينَ</div>
+    <div class="bn">«আর তাঁর নিদর্শনসমূহের মধ্যে রয়েছে আসমান ও জমিনের সৃষ্টি এবং তোমাদের ভাষা ও বর্ণের বৈচিত্র্য। নিশ্চয়ই এতে জ্ঞানীদের জন্য রয়েছে নিদর্শন।»</div>
+    <span class="ref">সূরা আর-রূম ৩০:২২</span>
+  </div>
+  <p>ভেবে দেখুন: আকাশ আর পৃথিবীর সৃষ্টির পাশেই আল্লাহ উল্লেখ করেছেন মানুষের ভাষার বৈচিত্র্যকে। পৃথিবীর সাত হাজারেরও বেশি ভাষা তাই কোনো বিভেদের দেয়াল নয়; প্রতিটি ভাষা আল্লাহর কুদরতের একেকটি আয়না। মানবজাতির প্রথম শিক্ষাও ছিল ভাষারই শিক্ষা:</p>
+  <div class="ayah sm">
+    <div class="ar">وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا</div>
+    <div class="bn">«এবং তিনি আদমকে সবকিছুর নাম শিক্ষা দিলেন।»</div>
+    <span class="ref">সূরা আল-বাকারা ২:৩১</span>
+  </div>
+  <p>আর সূরা আর-রাহমানে আল্লাহ মানুষকে সৃষ্টি করার পরপরই উল্লেখ করেছেন: <span class="ar" style="font-size:14pt;color:var(--teal)">عَلَّمَهُ الْبَيَانَ</span> — «তিনি তাকে শিখিয়েছেন মনের ভাব প্রকাশ করতে» (৫৫:৪)। আল্লাহ আমাদের নানা জাতি ও গোত্রে বিভক্ত করেছেন একটি উদ্দেশ্যে: <span class="ar" style="font-size:14pt;color:var(--teal)">لِتَعَارَفُوا</span> — «যেন তোমরা একে অপরকে চিনতে পারো» (সূরা আল-হুজুরাত ৪৯:১৩)। আর মানুষকে চেনার প্রথম চাবিই হলো তার ভাষা।</p>
+  <div class="folio">iv</div>
+</div>
+
+<!-- ============ PAGE v — THE WAY OF THE PROPHETS ============ -->
+<div class="page">
+  <div class="runhead"><span>লেখকের কথা</span><span>[ভাষা] ভাষার দরজা</span></div>
+  <h2><svg><use href="#star"/></svg>নবীদের পদ্ধতি — মানুষের ভাষায় মানুষের কাছে</h2>
+  <p>আল্লাহ বলেন:</p>
+  <div class="ayah"><span class="tag">আল-কুরআন</span>
+    <div class="ar">وَمَا أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُمْ</div>
+    <div class="bn">«আমি প্রত্যেক রাসূলকে তাঁর জাতির ভাষাতেই পাঠিয়েছি, যাতে তিনি তাদের কাছে স্পষ্টভাবে বর্ণনা করতে পারেন।»</div>
+    <span class="ref">সূরা ইবরাহীম ১৪:৪</span>
+  </div>
+  <p>এটিই দাওয়াতের চিরন্তন নীতি: বার্তা যত মহানই হোক, তা পৌঁছায় শ্রোতার ভাষায়। আলী (রা.) বলেছেন:</p>
+  <div class="hadith"><span class="tag">আসার · সাহাবির বাণী</span>
+    <div class="bn">«মানুষের সাথে এমনভাবে কথা বলো, যা তারা বোঝে।»</div>
+    <span class="ref">সহীহ বুখারী ১২৭</span>
+  </div>
+  <p>আর আল্লাহর নির্দেশ:</p>
+  <div class="ayah sm">
+    <div class="ar">ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ</div>
+    <div class="bn">«তোমার রবের পথে আহ্বান করো প্রজ্ঞা ও সুন্দর উপদেশের মাধ্যমে।»</div>
+    <span class="ref">সূরা আন-নাহল ১৬:১২৫</span>
+  </div>
+  <p style="text-align:center;font-size:13pt;font-weight:700;color:var(--teal);margin-top:0.1in;">যে ভাষা আমি বুঝি না, সে ভাষায় প্রজ্ঞা আর সুন্দর উপদেশ কীভাবে পৌঁছাব?</p>
+  <div class="folio">v</div>
+</div>
+
+<!-- ============ PAGE vi — THE SAHABA (1) + MAP ============ -->
+<div class="page">
+  <div class="runhead"><span>লেখকের কথা</span><span>[ভাষা] ভাষার দরজা</span></div>
+  <h2><svg><use href="#star"/></svg>সাহাবায়ে কেরাম — ভাষা যাঁদের দাওয়াতের হাতিয়ার ছিল</h2>
+  <p>রাসূলুল্লাহ ﷺ নিজে একজন সাহাবিকে বিদেশি ভাষা শিখতে নির্দেশ দিয়েছিলেন। যায়েদ ইবনে সাবিত (রা.) বলেন:</p>
+  <div class="hadith"><span class="tag">হাদিস</span>
+    <div class="bn">«রাসূলুল্লাহ ﷺ আমাকে ইহুদিদের লিখন-ভাষা শিখতে আদেশ দিলেন… অর্ধ মাসও পার হয়নি, আমি তা শিখে ফেললাম। এরপর তিনি তাদের কাছে চিঠি লিখতে চাইলে আমি লিখে দিতাম, আর তারা তাঁকে চিঠি লিখলে আমি পড়ে শোনাতাম।»</div>
+    <span class="ref">জামে আত-তিরমিযী ২৭১৫ · সুনান আবু দাউদ ৩৬৪৫</span>
+  </div>
+  <p>ভাবুন, মাত্র পনেরো দিনের নিষ্ঠা একজন তরুণ সাহাবিকে বানিয়ে দিল রাষ্ট্রের অনুবাদক এবং পরবর্তীকালে কুরআন সংকলনের অন্যতম প্রধান দায়িত্বশীল।</p>
+  <figure>
+    <svg viewBox="0 0 600 270" style="height:3.3in" role="img" aria-label="মদিনা থেকে রোম, পারস্য, মিশর ও হাবশায় দাওয়াতি পত্র; পরবর্তীকালে বাংলায় ইসলাম">
+      <defs>
+        <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#b8892d"/></marker>
+        <marker id="ah2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#1f5f5b"/></marker>
+        <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="0.9" fill="#e4d8bf"/></pattern>
+      </defs>
+      <rect width="600" height="270" fill="url(#dots)"/>
+      <!-- routes -->
+      <path d="M262 160 Q210 80 150 52" fill="none" stroke="#b8892d" stroke-width="2.4" marker-end="url(#ah)"/>
+      <path d="M262 160 Q320 70 395 62" fill="none" stroke="#b8892d" stroke-width="2.4" marker-end="url(#ah)"/>
+      <path d="M262 160 Q190 140 128 128" fill="none" stroke="#b8892d" stroke-width="2.4" marker-end="url(#ah)"/>
+      <path d="M262 160 Q220 215 180 228" fill="none" stroke="#b8892d" stroke-width="2.4" marker-end="url(#ah)"/>
+      <path d="M262 160 Q420 220 548 172" fill="none" stroke="#1f5f5b" stroke-width="2" stroke-dasharray="6 6" marker-end="url(#ah2)"/>
+      <!-- nodes -->
+      <g font-family="BnSans" font-weight="600">
+        <circle cx="262" cy="160" r="11" fill="#1f5f5b"/><circle cx="262" cy="160" r="16" fill="none" stroke="#1f5f5b" stroke-width="1.2"/>
+        <text x="262" y="196" text-anchor="middle" font-size="15" fill="#1f5f5b">মদিনা</text>
+
+        <circle cx="146" cy="50" r="7" fill="#b8892d"/>
+        <text x="132" y="30" text-anchor="middle" font-size="13" fill="#24302f">রোম সাম্রাজ্য</text>
+        <text x="132" y="78" text-anchor="middle" font-size="10.5" fill="#5d6b69">সম্রাট হিরাক্লিয়াস</text>
+
+        <circle cx="400" cy="62" r="7" fill="#b8892d"/>
+        <text x="420" y="45" text-anchor="middle" font-size="13" fill="#24302f">পারস্য</text>
+        <text x="430" y="88" text-anchor="middle" font-size="10.5" fill="#5d6b69">সম্রাট কিসরা</text>
+
+        <circle cx="124" cy="128" r="7" fill="#b8892d"/>
+        <text x="72" y="124" text-anchor="middle" font-size="13" fill="#24302f">মিশর</text>
+        <text x="72" y="142" text-anchor="middle" font-size="10.5" fill="#5d6b69">শাসক মুকাওকিস</text>
+
+        <circle cx="176" cy="230" r="7" fill="#b8892d"/>
+        <text x="100" y="228" text-anchor="middle" font-size="13" fill="#24302f">হাবশা</text>
+        <text x="100" y="246" text-anchor="middle" font-size="10.5" fill="#5d6b69">বাদশাহ নাজ্জাশি</text>
+
+        <circle cx="552" cy="170" r="9" fill="#1f5f5b"/>
+        <text x="548" y="150" text-anchor="middle" font-size="14" fill="#1f5f5b">বাংলা</text>
+        <text x="520" y="205" text-anchor="middle" font-size="10.5" fill="#5d6b69">পরবর্তী শতাব্দীগুলোতে</text>
+        <text x="520" y="220" text-anchor="middle" font-size="10.5" fill="#5d6b69">বণিক ও আলেমদের হাত ধরে</text>
+      </g>
+      <!-- legend -->
+      <g font-family="BnSans" font-weight="600" font-size="10.5" fill="#5d6b69">
+        <line x1="318" y1="250" x2="346" y2="250" stroke="#b8892d" stroke-width="2.4"/><text x="352" y="254">দাওয়াতি পত্র</text>
+        <line x1="440" y1="250" x2="468" y2="250" stroke="#1f5f5b" stroke-width="2" stroke-dasharray="6 6"/><text x="474" y="254">দাওয়াতের ধারা</text>
+      </g>
+    </svg>
+    <figcaption>রাসূলুল্লাহ ﷺ-এর দাওয়াতি পত্রের গন্তব্য এবং পরবর্তীকালে বাংলায় ইসলামের আগমন<br>প্রতীকী চিত্র — মানচিত্রের মাপ অনুযায়ী নয়</figcaption>
+  </figure>
+  <div class="folio">vi</div>
+</div>
+
+<!-- ============ PAGE vii — THE SAHABA (2) + BENGAL ============ -->
+<div class="page">
+  <div class="runhead"><span>লেখকের কথা</span><span>[ভাষা] ভাষার দরজা</span></div>
+  <p>রাসূলুল্লাহ ﷺ যখন রোমের সম্রাট হিরাক্লিয়াসের কাছে দাওয়াতি পত্র পাঠালেন, সম্রাট তাঁর দোভাষীকে ডেকে সেই পত্র ও তার বাহকদের কথা বুঝে নিয়েছিলেন (সহীহ বুখারী ৭)। পারস্য, মিশর ও হাবশার শাসকদের কাছেও পৌঁছেছিল তাঁর পত্র। হাবশার বাদশাহ নাজ্জাশির দরবারে জাফর ইবনে আবি তালিব (রা.) এমন বাগ্মিতায় ইসলামের পরিচয় তুলে ধরেছিলেন যে বাদশাহর চোখ অশ্রুসিক্ত হয়েছিল (মুসনাদ আহমাদ ১৭৪০)। রাসূল ﷺ-এর নির্দেশ ছিল:</p>
+  <div class="hadith"><span class="tag">হাদিস</span>
+    <div class="ar">بَلِّغُوا عَنِّي وَلَوْ آيَةً</div>
+    <div class="bn">«আমার পক্ষ থেকে একটি আয়াত হলেও পৌঁছে দাও।»</div>
+    <span class="ref">সহীহ বুখারী ৩৪৬১</span>
+  </div>
+  <p>সাহাবায়ে কেরাম এই আমানত নিয়ে ছড়িয়ে পড়েছিলেন পারস্য থেকে আফ্রিকা পর্যন্ত। যেখানে গেছেন, সেখানকার মানুষের ভাষা ও হৃদয় দুটোই জয় করেছেন।</p>
+  <p>সেই ধারাতেই ইসলাম একদিন পৌঁছেছিল আমাদের এই বাংলায়, বণিক আর আলেমদের হাত ধরে, যাঁরা এ দেশের মানুষের ভাষায় কথা বলতে শিখেছিলেন। এরপর বাংলার মুসলিম কবিরা বাংলাতেই লিখেছেন দ্বীনের কথা। কবি আবদুল হাকিম সতেরো শতকে দৃপ্ত কণ্ঠে বলেছিলেন:</p>
+  <div class="poem">
+    <div class="l">যে সবে বঙ্গেতে জন্মি হিংসে বঙ্গবাণী,<br>সে সব কাহার জন্ম নির্ণয় ন জানি।</div>
+    <div class="by">— কবি আবদুল হাকিম, «নূরনামা» (সতেরো শতক)</div>
+  </div>
+  <p>আমরা যে ভাষায় আজ কুরআনের অর্থ পড়ি, তা-ও কারও না কারও ভাষা শেখার ফসল।</p>
+  <div class="folio">vii</div>
+</div>
+
+<!-- ============ PAGE viii — CHARACTER ============ -->
+<div class="page">
+  <div class="runhead"><span>লেখকের কথা</span><span>[ভাষা] ভাষার দরজা</span></div>
+  <h2><svg><use href="#star"/></svg>ভাষা শেখা — চরিত্র গঠনের এক অনুশীলন</h2>
+  <p>রাসূলুল্লাহ ﷺ বলেছেন:</p>
+  <div class="hadith"><span class="tag">হাদিস</span>
+    <div class="ar">إِنَّمَا بُعِثْتُ لِأُتَمِّمَ صَالِحَ الْأَخْلَاقِ</div>
+    <div class="bn">«আমাকে পাঠানো হয়েছে উত্তম চরিত্রকে পূর্ণতা দেওয়ার জন্য।»</div>
+    <span class="ref">মুসনাদ আহমাদ ৮৯৫২ · আল-আদাবুল মুফরাদ ২৭৩</span>
+  </div>
+  <p>আমার অভিজ্ঞতায়, নতুন ভাষা শেখা নিজেই এক চরিত্র গঠনের পাঠশালা:</p>
+  <div class="virtues">
+    <div class="v"><div class="h"><span class="n">১</span>বিনয়</div><p>নতুন ভাষায় আমরা আবার শিশুর মতো ভুল করি, আর ভুল মেনে নিতে শিখি।</p></div>
+    <div class="v"><div class="h"><span class="n">২</span>সবর</div><p>প্রতিদিন অল্প অল্প চর্চা ধৈর্য আর অধ্যবসায় শেখায়।</p></div>
+    <div class="v"><div class="h"><span class="n">৩</span>শোনার আদব</div><p>অন্যের ভাষা শিখতে হলে আগে মন দিয়ে শুনতে হয়।</p></div>
+    <div class="v"><div class="h"><span class="n">৪</span>সহমর্মিতা</div><p>যার ভাষা জানি, তার আনন্দ-বেদনা, সংস্কৃতি আর দৃষ্টিভঙ্গি বুঝতে পারি।</p></div>
+    <div class="v wide"><div class="h"><span class="n">৫</span>আমানতদারিতা</div><p>যে কথা অনুবাদ করি, তা সঠিকভাবে পৌঁছে দেওয়া এক বড় আমানত।</p></div>
+  </div>
+  <div class="folio">viii</div>
+</div>
+
+<!-- ============ PAGE ix — RELEVANCE TODAY + SIGNATURE ============ -->
+<div class="page">
+  <div class="runhead"><span>লেখকের কথা</span><span>[ভাষা] ভাষার দরজা</span></div>
+  <h2><svg><use href="#star"/></svg>আজ কেন এটি আরও বেশি প্রাসঙ্গিক</h2>
+  <div class="stat"><div class="big">১ কোটি+</div>
+    <div class="txt"><b>বাংলাদেশি আজ পৃথিবীর নানা প্রান্তে</b> কাজ করছেন, পড়ছেন, বসবাস করছেন: মধ্যপ্রাচ্যে, মালয়েশিয়ায়, জাপানে, কোরিয়ায়, ইউরোপে, আমেরিকায়।</div></div>
+  <p>তাঁদের প্রত্যেকে নিজের অজান্তেই ইসলাম ও বাংলাদেশের একেকজন প্রতিনিধি। যিনি কর্মস্থলের ভাষা জানেন, তিনি শুধু ভালো বেতনই পান না; তিনি ঠকেন কম, সম্মান পান বেশি, আর সুন্দর আচরণে মানুষের হৃদয়ে পৌঁছাতে পারেন। মনে রাখবেন, অনেক সময় সবচেয়ে শক্তিশালী দাওয়াত হলো একজন সৎ, ভদ্র, সহমর্মী মানুষের প্রতিদিনের আচরণ, আর সেই আচরণকে ভাষাই কথায় রূপ দেয়।</p>
+  <p>যে কেউ এই বই পড়তে পারেন: শিক্ষার্থী, প্রবাসী কর্মী, পেশাজীবী কিংবা শুধুই কৌতূহলী পাঠক। প্রত্যেককে আমি সাদর আমন্ত্রণ জানাই। আমার একটাই আশা: এই বই আপনার কাছে শুধু শব্দ আর ব্যাকরণের ভাণ্ডার হবে না, হবে মানুষকে চেনার আর ভালোর পথে ডাকার এক যাত্রার শুরু।</p>
+  <div class="endstar"><svg width="26" height="26"><use href="#star"/></svg></div>
+  <div class="dua">আল্লাহ তাআলা আমাদের সবার জ্ঞানে বরকত দিন,<br>আমাদের জবানকে সত্য ও কল্যাণের বাহক বানান।</div>
+  <div class="amin">আমীন।</div>
+  <div class="sign">
+    <div class="logo">মাকতাবাতু<br>লোগো</div>
+    <div class="who">
+      <div class="script">Minhaz Reza</div>
+      <div class="name">হাফেজ আবদুল্লাহ মুহাম্মদ মিনহাজ রেজা</div>
+      <div class="role">স্বত্বাধিকারী, মাকতাবাতু কুনুজুল আখিরাহ<br>প্রতিষ্ঠাতা, কুনুজুল আখিরাহ চ্যারিটেবল ট্রাস্ট<br>ঢাকা, বাংলাদেশ</div>
+    </div>
+  </div>
+  <div class="folio">ix</div>
+</div>
+
+</body>
+</html>
