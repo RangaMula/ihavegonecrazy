@@ -29,7 +29,7 @@ Every book uses the same fixed quantities so the series feels like one product:
 
 | Unit | Fixed count |
 |---|---|
-| Core vocabulary | **500 words** in 20 themes of 25 |
+| Core vocabulary | **500 words**: 16 themes × 25 + 50 verbs + 50 adjectives (master list: `vocabulary/CORE-500.md`) |
 | Sentence patterns | **12** |
 | Real-life dialogues | **20** (2 pages each) |
 | Graded reading texts | **6** |
@@ -147,7 +147,7 @@ kids series.
 |---|---|---|---|
 | 8 | **সংখ্যা — Numbers** | 10 | 0–20, tens, 100, 1,000, lakh vs million (**compared with Bangla's লাখ-কোটি**), ordinals. Real use: prices, phone numbers, ages, addresses, money and currency |
 | 9 | **সময় ও পঞ্জিকা — Time & Calendar** | 10 | Days, months (plus a local calendar if one exists: Hijri, Japanese era, Chinese zodiac), seasons, telling time, dates, "yesterday/today/tomorrow". Includes a cultural calendar of festivals |
-| 10 | **প্রয়োজনীয় ৫০০ শব্দ — The Core 500** | 30 | 20 themes × 25 words, every word in a Triple Row: people & family · body & health · food & drink · home · city & directions · transport · shopping & money · work & office · education · nature & weather · feelings · time words · question words · common verbs (50) · common adjectives (50) · religion & culture · technology · travel & documents · emergency · connecting words |
+| 10 | **প্রয়োজনীয় ৫০০ শব্দ — The Core 500** | 30 | Every word in a Triple Row. **16 themes × 25:** pronouns & little words · questions & key expressions · people & family · body & health · food & drink · home & household · city & directions · transport & travel · shopping & money · work & professions · education & communication · nature, weather & animals · time words · feelings & character · religion, culture & festivals · documents, safety & emergency. **Plus 50 verbs and 50 adjectives.** Numbers and calendar words are in Ch. 8–9, not counted here. Full list: `vocabulary/CORE-500.md` |
 | 11 | **বাক্যের কাঠামো — The Sentence Skeleton** | 20 | **12 core patterns**, each one compared with Bangla word order (e.g. Bangla SOV vs English SVO) and taught with a **substitution table**: (1) X is Y, (2) I have, (3) there is, (4) I want/need, (5) present action, (6) past action, (7) future action, (8) negation, (9) yes/no questions, (10) wh-questions, (11) can/must, (12) polite request. Plus one-page previews of gender, plurals, formality and cases as "what intermediate will teach you" |
 | 12 | **ভদ্রতা ও সংস্কৃতি — Politeness & Culture** | 8 | Greetings by time and situation, forms of address (formal and informal, honorifics compared with Bangla আপনি/তুমি/তুই), gestures, gifts, table manners, taboos, religious sensitivities, business etiquette |
 | ✍️ | **লেখার অনুশীলন ২ — শব্দ থেকে বাক্য · Writing Practice 2: Words to Sentences** | 4 | 8 tasks: write prices, phone numbers and dates in words · write today's date and your daily timetable · fill a personal-details form (name, age, address, profession, nationality) · write 2 sentences with each of the 12 patterns · turn 5 statements into questions and 5 into negatives · describe your family in 5 sentences · describe your home or room in 5 sentences · translate 5 short Bangla sentences |
