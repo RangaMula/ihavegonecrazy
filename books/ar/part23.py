@@ -212,9 +212,9 @@ def tr_wrap(rows, tick=False, numbered=True, compact=True):
     w = [("t", 0.2)] if tick else []
     w += [("n", 0.32)] if numbered else []
     rest = 5.56 - sum(x for _, x in w)
-    w += [(k, rest * f) for k, f in (("fr", 0.25), ("bp", 0.21), ("ep", 0.2), ("bn", 0.19), ("en", 0.15))]
+    w += [(k, rest * f) for k, f in (("fr", 0.19), ("bp", 0.23), ("ep", 0.2), ("bn", 0.2), ("en", 0.18))]
     cg = "<colgroup>%s</colgroup>" % "".join('<col style="width:%.2fin">' % x for _, x in w)
-    return ('<table class="tr%s" style="table-layout:fixed;">' + cg + '<thead><tr>%s%s<th>Français</th><th>বাংলা উচ্চারণ</th><th>Pronunciation</th><th>বাংলা অর্থ</th>'
+    return ('<table class="tr%s" style="table-layout:fixed;">' + cg + '<thead><tr>%s%s<th>العربية</th><th>বাংলা উচ্চারণ</th><th>Pronunciation</th><th>বাংলা অর্থ</th>'
             '<th>English</th></tr></thead><tbody>%s</tbody></table>') % (
         " compact" if compact else "", "<th></th>" if tick else "", "<th></th>" if numbered else "", "".join(rows))
 

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Build book.html for ফরাসি ভাষার দরজা. Then run render.js to get the PDF and overflow report."""
+"""Build book.html for আরবি ভাষার দরজা. Then run render.js to get the PDF and overflow report."""
 import os, sys
 import engine
 from engine import page, PAGES

@@ -15,7 +15,7 @@ table.wj th{font-family:BnSans,Lat;font-weight:600;font-size:7.6pt;color:#fff;ba
 table.wj td{padding:0.025in 0.04in;border-bottom:0.5pt solid var(--line);vertical-align:top;overflow-wrap:anywhere;}
 table.wj tr:nth-child(even) td{background:#fffdf8;}
 table.wj td.n{color:var(--gold);font-family:BnSans;font-weight:600;}
-table.wj td.c-fr{font-family:Lat,LatX;font-weight:700;color:var(--accent);}
+table.wj td.c-fr{font-family:Arabic,serif;font-weight:700;color:var(--accent);direction:rtl;text-align:right;font-size:12.2pt;line-height:1.35;padding-top:0.005in;padding-bottom:0.005in;}
 table.wj td.c-bp{font-family:BnSerif;}
 table.wj td.c-ep{font-family:Lat;font-style:italic;color:var(--muted);font-size:8.2pt;}
 table.wj td.c-en{font-family:Lat;color:var(--muted);font-size:8.3pt;}
@@ -34,7 +34,7 @@ table.wj .note{font-size:7.4pt;color:var(--muted);font-family:BnSans;line-height
 .cc{background:#fff;border:0.75pt solid var(--line);border-top:2.5pt solid var(--accent);border-radius:3pt;padding:0.07in 0.1in 0.06in;font-size:9pt;line-height:1.35;}
 .cc .top{display:flex;gap:0.07in;align-items:flex-start;}
 .cc .ic{font-size:17pt;line-height:1;}
-.cc .fr{font-family:Lat,LatX;font-weight:700;color:var(--accent);font-size:10.5pt;line-height:1.25;}
+.cc .fr{font-family:Arabic,serif;font-weight:700;color:var(--accent);font-size:14pt;line-height:1.35;direction:rtl;}
 .cc .pr{font-size:8.3pt;color:var(--muted);}
 .cc .pr i{font-family:Lat;}
 .cc .mn{font-size:9.2pt;margin-top:0.02in;}
@@ -47,13 +47,13 @@ table.wj .note{font-size:7.4pt;color:var(--muted);font-family:BnSans;line-height
 .stampbox{display:flex;align-items:center;gap:0.18in;border:1.5pt dashed var(--accent);border-radius:8pt;padding:0.1in 0.16in;margin-top:0.1in;}
 .stampbox .sc{width:0.8in;height:0.8in;border:2pt dashed var(--accent);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:24pt;flex:none;}
 .milestone{flex:1;display:flex;flex-direction:column;}
-.milestone .ban{background:linear-gradient(135deg,#174d33,#24418f);color:#fff;border-radius:8pt;padding:0.2in 0.25in;text-align:center;}
+.milestone .ban{background:linear-gradient(135deg,#174d33,#8b3a1a);color:#fff;border-radius:8pt;padding:0.2in 0.25in;text-align:center;}
 .milestone .ban .t{font-family:BnSans;font-weight:700;font-size:26pt;line-height:1.2;}
-.ban2{background:linear-gradient(135deg,#174d33,#24418f);color:#fff;border-radius:8pt;padding:0.14in 0.2in;margin:0.12in 0 0.06in;}
+.ban2{background:linear-gradient(135deg,#174d33,#8b3a1a);color:#fff;border-radius:8pt;padding:0.14in 0.2in;margin:0.12in 0 0.06in;}
 .ban2 .t{font-family:BnSans;font-weight:700;font-size:18pt;}
 .ban2 .n{color:#f3e3bd;font-size:24pt;}
 .ban2 .c{font-size:11pt;line-height:1.5;margin-top:0.03in;}
-.secop2{display:flex;gap:0.18in;align-items:stretch;background:#f3f6fb;border-radius:8pt;padding:0.14in 0.18in;margin-bottom:0.08in;}
+.secop2{display:flex;gap:0.18in;align-items:stretch;background:#f7f0e8;border-radius:8pt;padding:0.14in 0.18in;margin-bottom:0.08in;}
 .secop2 .sl{flex:none;text-align:center;border-right:2pt solid var(--gold);padding-right:0.16in;}
 .secop2 .stage{font-family:BnSans;font-weight:600;color:var(--gold);font-size:9.5pt;}
 .secop2 .sno{font-family:BnSans;font-weight:700;color:var(--accent);font-size:44pt;line-height:1.05;}
@@ -79,14 +79,14 @@ def row_height(w):
     return 0.032 + 0.152 * lines   # inches
 
 def wj_table(words, start):
-    cols = ('<colgroup><col style="width:0.17in"><col style="width:0.4in"><col style="width:1.12in"><col style="width:1.0in">'
-            '<col style="width:1.0in"><col style="width:1.05in"><col style="width:0.84in"></colgroup>')
+    cols = ('<colgroup><col style="width:0.17in"><col style="width:0.4in"><col style="width:0.92in"><col style="width:1.12in">'
+            '<col style="width:1.02in"><col style="width:1.05in"><col style="width:0.9in"></colgroup>')
     rows = "".join('<tr><td>☐</td><td class="n">%s</td><td class="c-fr">%s</td><td class="c-bp">%s</td><td class="c-ep">%s</td>'
                    '<td class="c-bn">%s%s</td><td class="c-en">%s</td></tr>' % (
                        bn(i), E(w["fr"]), E(w["bn_pron"]), E(w["en_pron"]), E(w["bn"]),
                        ('<div class="note">%s</div>' % E(w["note_bn"])) if w.get("note_bn") else "", E(w["en"]))
                    for i, w in enumerate(words, start))
-    return ('<table class="wj">%s<thead><tr><th></th><th></th><th>Français</th><th>বাংলা উচ্চারণ</th><th>Pronunciation</th>'
+    return ('<table class="wj">%s<thead><tr><th></th><th></th><th>العربية</th><th>বাংলা উচ্চারণ</th><th>Pronunciation</th>'
             '<th>বাংলা অর্থ</th><th>English</th></tr></thead><tbody>%s</tbody></table>') % (cols, rows)
 
 def real_row_height(w, n):
@@ -166,17 +166,17 @@ def section_pages(sec, before, f):
 def milestone_flow(m, f):
     f.add("""<div class="ban2"><div class="t">অভিনন্দন! <span class="n">%s</span> শব্দ আপনার ঝুলিতে</div><div class="c">%s</div></div>""" % (
         bn(m["total"]), E(m["celebration_bn"])), 1.2, keep=True)
-    f.h2raw(h2("পুরস্কারের পাঠ: %s" % E(m["title_bn"])) + '<p class="small">এই লেখার প্রতিটি শব্দ আপনি আগেই শিখেছেন। প্রথমে শুধু ফরাসি লাইনগুলো পড়ুন, তারপর অর্থ মিলিয়ে নিন।</p>')
-    f.add('<div style="background:#fff;border:1pt solid var(--line);border-radius:4pt;padding:0.1in 0.14in;font-family:Lat,LatX;font-size:11pt;line-height:1.55;margin-bottom:0.08in;">'
-          '<div class="frw" style="font-size:12.5pt;margin-bottom:0.03in;">%s</div>%s</div>' % (E(m.get("title_fr", "")), " ".join(E(it["fr"]) for it in m["reading"])), 2.0)
+    f.h2raw(h2("পুরস্কারের পাঠ: %s" % E(m["title_bn"])) + '<p class="small">এই লেখার প্রতিটি শব্দ আপনি আগেই শিখেছেন। প্রথমে শুধু আরবি লাইনগুলো পড়ুন, তারপর অর্থ মিলিয়ে নিন।</p>')
+    f.add('<div style="background:#fff;border:1pt solid var(--line);border-radius:4pt;padding:0.1in 0.14in;font-family:Arabic,serif;font-size:15pt;line-height:1.75;margin-bottom:0.08in;direction:rtl;text-align:right;">'
+          '<div class="frw" style="font-size:16pt;margin-bottom:0.03in;text-align:center;display:block;">%s</div>%s</div>' % (E(m.get("title_fr", "")), " ".join(E(it["fr"]) for it in m["reading"])), 2.0)
     for it in m["reading"]:
         f.add(tr_line(it), 0.75)
     f.add(box("know", "পাসপোর্টে ব্যাজ", "<p>ভাষার পাসপোর্টের ‘পর্বের ব্যাজ’ পাতায় এই পর্বের ব্যাজটিতে রং করুন।</p>"), 0.6)
 
 def wj_table_rows(rows):
-    cols = ('<colgroup><col style="width:0.17in"><col style="width:0.4in"><col style="width:1.12in"><col style="width:1.0in">'
-            '<col style="width:1.0in"><col style="width:1.05in"><col style="width:0.84in"></colgroup>')
-    return ('<table class="wj">%s<thead><tr><th></th><th></th><th>Français</th><th>বাংলা উচ্চারণ</th><th>Pronunciation</th>'
+    cols = ('<colgroup><col style="width:0.17in"><col style="width:0.4in"><col style="width:0.92in"><col style="width:1.12in">'
+            '<col style="width:1.02in"><col style="width:1.05in"><col style="width:0.9in"></colgroup>')
+    return ('<table class="wj">%s<thead><tr><th></th><th></th><th>العربية</th><th>বাংলা উচ্চারণ</th><th>Pronunciation</th>'
             '<th>বাংলা অর্থ</th><th>English</th></tr></thead><tbody>%s</tbody></table>') % (cols, "".join(rows))
 
 def load():
@@ -194,12 +194,12 @@ def build():
     if not secs:
         return
     page(part_opener("৪", "শব্দের যাত্রা", "The 2,000-Word Journey",
-         "এবার শুরু দীর্ঘ এক যাত্রা। কল্পনা করুন, আপনি বিমান থেকে নামলেন এক ফরাসিভাষী দেশে। প্রথমে সালাম-পরিচয়, তারপর থাকার জায়গা, বাজার, "
+         "এবার শুরু দীর্ঘ এক যাত্রা। কল্পনা করুন, আপনি বিমান থেকে নামলেন এক আরবিভাষী দেশে। প্রথমে সালাম-পরিচয়, তারপর থাকার জায়গা, বাজার, "
          "রান্নাঘর, কাজ আর পড়াশোনা। তারপর দেশটিকে চেনা, তার মানুষকে চেনা, আর শেষে ভাষাটিকে আপন করে নেওয়া। ২০টি অংশ, প্রতিটিতে ১০০টি শব্দ, "
          "আর প্রতিটি অংশ শেষে আপনার পাসপোর্টে একটি সিল।",
          [("পর্ব ১", "পৌঁছানো · অংশ ১–৪"), ("পর্ব ২", "দিনযাপন · অংশ ৫–৮"), ("পর্ব ৩", "কাজ ও শেখা · অংশ ৯–১০"),
           ("পর্ব ৪", "দেশটিকে চেনা · অংশ ১১–১৩"), ("পর্ব ৫", "মানুষকে চেনা · অংশ ১৪–১৭"), ("পর্ব ৬", "আপন করে নেওয়া · অংশ ১৮–২০")]),
-         anchor="part4", folio=False, bg="#f3f6fb")
+         anchor="part4", folio=False, bg="#f7f0e8")
     for sec in secs:
         f = Flow("অংশ %s · %s" % (bn(sec["no"]), sec["title_bn"]), "sec%d" % sec["no"])
         section_pages(sec, (sec["no"] - 1) * 100, f)

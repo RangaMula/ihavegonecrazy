@@ -7,11 +7,11 @@ from part23 import Flow, quiz_page, writing_pages, writing_flow, quiz_block, h_t
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 def num_table(items):
-    rows = "".join('<tr><td style="font-family:Lat;font-weight:700;color:var(--gold);font-size:11pt;">%s</td><td class="c-fr">%s</td><td class="c-bp">%s</td>'
+    rows = "".join('<tr><td style="font-family:Lat;font-weight:700;color:var(--gold);font-size:11pt;">%s <span style="font-family:Arabic;font-size:12pt;">%s</span></td><td class="c-fr">%s</td><td class="c-bp">%s</td>'
                    '<td class="c-ep">%s</td><td class="c-bn">%s%s</td></tr>' % (
-                       E(str(n.get("n", ""))), E(n["fr"]), E(n["bn_pron"]), E(n["en_pron"]), E(n["bn"]),
+                       E(str(n.get("n", ""))), str(n.get("n", "")).translate(str.maketrans("0123456789", "٠١٢٣٤٥٦٧٨٩")), E(n["fr"]), E(n["bn_pron"]), E(n["en_pron"]), E(n["bn"]),
                        ('<div class="note">%s</div>' % E(n["note_bn"])) if n.get("note_bn") else "") for n in items)
-    return ('<table class="tr compact"><thead><tr><th>সংখ্যা</th><th>Français</th><th>বাংলা উচ্চারণ</th><th>Pronunciation</th><th>বাংলা</th></tr></thead>'
+    return ('<table class="tr compact"><thead><tr><th>সংখ্যা</th><th>العربية</th><th>বাংলা উচ্চারণ</th><th>Pronunciation</th><th>বাংলা</th></tr></thead>'
             '<tbody>%s</tbody></table>') % rows
 
 def pattern_block(f, pt):
@@ -28,7 +28,7 @@ def pattern_block(f, pt):
     if tb.get("rows"):
         th = "".join("<th>%s</th>" % E(h) for h in tb.get("headers", []))
         tr = "".join("<tr>%s</tr>" % "".join('<td class="c-fr" style="font-weight:600;">%s</td>' % E(c) for c in r) for r in tb["rows"])
-        f.add('<div class="small" style="margin-bottom:0.02in;">বদলে বদলে বলুন (substitution table):</div><table class="tr"><thead><tr>%s</tr></thead><tbody>%s</tbody></table>' % (th, tr),
+        f.add('<div class="small" style="margin-bottom:0.02in;">বদলে বদলে বলুন (substitution table, ডান থেকে বাঁয়ে পড়ুন):</div><table class="tr" dir="rtl"><thead><tr>%s</tr></thead><tbody>%s</tbody></table>' % (th, tr),
               0.45 + 0.27 * len(tb["rows"]))
     f.lines(pt.get("examples", []))
 
@@ -38,19 +38,19 @@ def build():
         return
     d = json.load(open(p, encoding="utf-8"))
     page(part_opener("৩", "ভাষার ইট-পাথর", "Building Blocks",
-         "ধ্বনি আর অক্ষর জানা হলো; এবার ভাষার ইট-পাথর। গোনা, সময় বলা, তারিখ লেখা, আর ১২টি মূল কাঠামো দিয়ে নিজের বাক্য নিজে বানানো। "
-         "পর্ব শেষে জানবেন ফরাসিভাষী মানুষের ভদ্রতার রীতিনীতি, যাতে প্রথম সাক্ষাতেই মন জয় করতে পারেন।",
+         "ধ্বনি আর হরফ জানা হলো; এবার ভাষার ইট-পাথর। গোনা, সময় বলা, হিজরি ও ইংরেজি তারিখ, আর ১২টি মূল কাঠামো দিয়ে নিজের বাক্য নিজে বানানো। "
+         "পর্ব শেষে জানবেন আরব মানুষের আতিথেয়তা আর ভদ্রতার রীতিনীতি, যাতে প্রথম সাক্ষাতেই মন জয় করতে পারেন।",
          [("অধ্যায় ৮", "সংখ্যা"), ("অধ্যায় ৯", "সময় ও পঞ্জিকা"), ("অধ্যায় ১০", "বাক্যের কাঠামো"), ("অধ্যায় ১১", "ভদ্রতা ও সংস্কৃতি"), ("✍️", "লেখার অনুশীলন ২")]),
-         anchor="part3", folio=False, bg="#f3f6fb")
+         anchor="part3", folio=False, bg="#f7f0e8")
 
     # ---- Ch. 8 numbers
     c = d["ch8"]; f = Flow("৮ · সংখ্যা", "ch8")
     f.title(chapter_title(8, "সংখ্যা", "Numbers"))
     f.paras(c.get("intro_bn", []))
     nums = c.get("numbers", [])
-    f.rows(lambda rs: '<table class="tr compact" style="table-layout:fixed;"><colgroup><col style="width:0.55in"><col style="width:1.45in"><col style="width:1.25in"><col style="width:1.15in"><col style="width:1.16in"></colgroup><thead><tr><th>সংখ্যা</th><th>Français</th><th>বাংলা উচ্চারণ</th><th>Pronunciation</th><th>বাংলা</th></tr></thead><tbody>%s</tbody></table>' % "".join(rs),
+    f.rows(lambda rs: '<table class="tr compact" style="table-layout:fixed;"><colgroup><col style="width:0.8in"><col style="width:1.4in"><col style="width:1.2in"><col style="width:1.05in"><col style="width:1.11in"></colgroup><thead><tr><th>সংখ্যা</th><th>العربية</th><th>বাংলা উচ্চারণ</th><th>Pronunciation</th><th>বাংলা</th></tr></thead><tbody>%s</tbody></table>' % "".join(rs),
            [num_table([n]).split("<tbody>")[1].split("</tbody>")[0] for n in nums])
-    for key, title, kind in (("belgium_swiss_bn", "বেলজিয়াম ও সুইজারল্যান্ডে", "culture"), ("lakh_bn", "লাখ-কোটি বনাম মিলিয়ন", "link")):
+    for key, title, kind in (("digits_bn", "আরবি অঙ্ক ٠١٢٣: বাংলা অঙ্কের আত্মীয়", "link"), ("gender_bn", "সংখ্যার লিঙ্গ: উল্টো নিয়ম", "warn")):
         if c.get(key):
             f.box(kind, title, c[key])
     if c.get("ordinals"):
@@ -64,14 +64,14 @@ def build():
     # ---- Ch. 9 time
     c = d["ch9"]; f = Flow("৯ · সময় ও পঞ্জিকা", "ch9")
     f.title(chapter_title(9, "সময় ও পঞ্জিকা", "Time & Calendar"))
-    for key, title in (("days", "সপ্তাহের দিন"), ("months", "মাসের নাম"), ("seasons", "ঋতু"), ("parts_of_day", "দিনের ভাগ"), ("time_words", "সময়ের শব্দ")):
+    for key, title in (("days", "সপ্তাহের দিন"), ("months", "হিজরি মাস"), ("months_greg", "ইংরেজি (গ্রেগরীয়) মাস"), ("seasons", "ঋতু"), ("parts_of_day", "দিনের ভাগ"), ("time_words", "সময়ের শব্দ")):
         if c.get(key):
             f.h2(title); f.table(c[key], compact=True, tick=True)
     for key, title in (("time_telling", "কয়টা বাজে?"), ("date_examples", "তারিখ বলা")):
         if c.get(key):
             f.h2(title); f.lines(c[key])
     if c.get("festivals"):
-        f.h2("ফরাসিভাষী বিশ্বের উৎসব-পঞ্জিকা")
+        f.h2("আরব বিশ্বের উৎসব ও বিশেষ দিন")
         for fe in c["festivals"]:
             nm = fe["name"]
             f.add(('<div class="cc" style="margin-bottom:0.08in;background:#fff;border:0.75pt solid var(--line);border-left:3pt solid var(--accent);padding:0.07in 0.12in;">'
@@ -85,7 +85,7 @@ def build():
     f.title(chapter_title(10, "বাক্যের কাঠামো", "The Sentence Skeleton"))
     f.paras(c.get("intro_bn", []))
     if c.get("word_order_bn"):
-        f.box("link", "বাক্যের ক্রম: বাংলা বনাম ফরাসি", c["word_order_bn"])
+        f.box("link", "বাক্যের ক্রম: বাংলা বনাম আরবি", c["word_order_bn"])
     for i, pt in enumerate(c.get("patterns", [])):
         if i:
             f.add('<div style="height:0.12in;border-top:1.5pt solid var(--gold);margin-top:0.08in;"></div>', 0.2)
@@ -102,8 +102,8 @@ def build():
     f.paras(c.get("intro_bn", []))
     if c.get("greetings"):
         f.h2("অভিবাদন"); f.table(c["greetings"], compact=True)
-    if c.get("tu_vous_bn"):
-        f.box("link", "tu না vous? (তুমি না আপনি?)", c["tu_vous_bn"])
+    if c.get("ant_anti_bn"):
+        f.box("link", "أَنْتَ، أَنْتِ، أَنْتُمْ: 'তুমি' বদলায় লিঙ্গ আর বচনে", c["ant_anti_bn"])
     if c.get("address"):
         f.h2("সম্বোধন"); f.table(c["address"], compact=True)
     for cu in c.get("customs", []):

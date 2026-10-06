@@ -3,12 +3,16 @@
 build.py numbers the pages, fills the table of contents and writes book.html."""
 import html as _html
 
-BOOK_TITLE_BN = "ফরাসি ভাষার দরজা"
+BOOK_TITLE_BN = "আরবি ভাষার দরজা"
 PAGES = []          # list of dicts: {html, cls, bg, folio_style, head, anchor}
 ANCHORS = {}        # anchor -> page index (filled at build)
 
+import re as _re
+_AR = "\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF"
+_AR_RUN = _re.compile("[%s](?:[%s\\s\u060C\u061F\u061B.!:()«»0-9\u0660-\u0669-]*[%s])?" % (_AR, _AR, _AR))
 def E(s):
-    return _html.escape(s or "", quote=False)
+    """Escape text and wrap every Arabic run in an isolated right-to-left span (correct font, size and bidi)."""
+    return _AR_RUN.sub(lambda m: '<span class="ar">%s</span>' % m.group(0), _html.escape(s or "", quote=False))
 
 BN_DIG = str.maketrans("0123456789", "০১২৩৪৫৬৭৮৯")
 def bn(n):
@@ -48,9 +52,9 @@ def tr_table(items, tick=False, compact=False, start=1, numbered=True, show_note
     headt = '<th></th>' if tick else ""
     w = ([0.2] if tick else []) + ([0.32] if numbered else [])
     rest = 5.56 - sum(w)
-    w += [rest * f for f in (0.25, 0.21, 0.2, 0.19, 0.15)]
+    w += [rest * f for f in (0.19, 0.23, 0.2, 0.2, 0.18)]
     cg = "<colgroup>%s</colgroup>" % "".join('<col style="width:%.2fin">' % x for x in w)
-    return ('<table class="tr%s" style="table-layout:fixed;">' + cg + '<thead><tr>%s%s<th>Français</th><th>বাংলা উচ্চারণ</th><th>Pronunciation</th>'
+    return ('<table class="tr%s" style="table-layout:fixed;">' + cg + '<thead><tr>%s%s<th>العربية</th><th>বাংলা উচ্চারণ</th><th>Pronunciation</th>'
             '<th>বাংলা অর্থ</th><th>English</th></tr></thead><tbody>%s</tbody></table>') % (
                 " compact" if compact else "", headt, headn, "".join(rows))
 
@@ -98,7 +102,7 @@ CSS = r"""
 @font-face{font-family:"Arabic";src:url(assets/fonts/amiri-arabic-400-normal.woff2);font-weight:400;}
 @font-face{font-family:"Arabic";src:url(assets/fonts/amiri-arabic-700-normal.woff2);font-weight:700;}
 :root{--ink:#22302d;--muted:#5d6b69;--brand:#174d33;--brand-l:#e7f0ea;--gold:#b8892d;--gold-l:#f6ecd6;
-  --accent:#24418f;--accent-l:#e8edf8;--paper:#fbf7ef;--line:#d9cbb0;}
+  --accent:#8b3a1a;--accent-l:#f7ebe3;--paper:#fbf7ef;--line:#d9cbb0;}
 @page{size:7in 10in;margin:0;}
 *{box-sizing:border-box;margin:0;padding:0;}
 html,body{background:#9a9a9a;}
@@ -108,8 +112,9 @@ body{font-family:"Lat","LatX","BnSerif","Arabic",serif;color:var(--ink);font-siz
 @media print{html,body{background:none;}.page{margin:0;}}
 p{margin:0 0 0.08in;text-align:justify;}
 b,strong{font-weight:700;color:var(--brand);}
-.frw{font-family:"Lat","LatX",serif;color:var(--accent);font-weight:700;}
-.ar{font-family:"Arabic",serif;direction:rtl;unicode-bidi:isolate;}
+.frw{font-family:"Arabic",serif;color:var(--accent);font-weight:700;direction:rtl;unicode-bidi:isolate;font-size:1.18em;}
+.ar{font-family:"Arabic",serif;direction:rtl;unicode-bidi:isolate;font-size:1.15em;line-height:1.4;}
+.frw .ar,.c-fr .ar,.l1 .ar,.ar .ar{font-size:1em;}
 .runhead{position:absolute;top:0.36in;left:0.72in;right:0.72in;display:flex;justify-content:space-between;
   font-family:"BnSans";font-weight:600;font-size:8.3pt;color:var(--muted);border-bottom:0.75pt solid var(--line);padding-bottom:0.04in;}
 .folio{position:absolute;bottom:0.36in;left:0;right:0;text-align:center;font-family:"BnSans","Lat";font-weight:600;font-size:9pt;color:var(--gold);}
@@ -131,22 +136,23 @@ table.tr td{padding:0.035in 0.05in;border-bottom:0.6pt solid var(--line);vertica
 table.tr tr:nth-child(even) td{background:#fffdf8;}
 table.tr td.n{color:var(--gold);font-family:"BnSans";font-weight:600;width:0.25in;}
 table.tr td.tk{width:0.18in;color:var(--muted);}
-table.tr td.c-fr{font-family:"Lat","LatX";font-weight:700;color:var(--accent);}
+table.tr td.c-fr{font-family:"Arabic",serif;font-weight:700;color:var(--accent);direction:rtl;text-align:right;font-size:13.2pt;line-height:1.45;padding-top:0.01in;padding-bottom:0.01in;}
 table.tr td.c-bp{font-family:"BnSerif";}
 table.tr td.c-ep{font-family:"Lat";font-style:italic;color:var(--muted);font-size:8.8pt;}
 table.tr td.c-en{font-family:"Lat";color:var(--muted);font-size:9pt;}
 table.tr .note{font-size:8pt;color:var(--muted);font-family:"BnSans";}
 table.tr.compact{font-size:9pt;}
+table.tr.compact td.c-fr{font-size:12.5pt;}
 table.tr.compact td{padding:0.025in 0.045in;}
 /* Triple Row line */
 .trl{border-left:3pt solid var(--accent);background:#fff;padding:0.045in 0.11in;margin:0 0 0.05in;border-radius:0 3pt 3pt 0;}
-.trl .l1{font-family:"Lat","LatX";font-weight:700;color:var(--accent);font-size:12pt;line-height:1.35;}
+.trl .l1{font-family:"Arabic",serif;font-weight:700;color:var(--accent);font-size:15pt;line-height:1.55;direction:rtl;text-align:right;}
 .trl .l2{font-size:10pt;line-height:1.4;}
 .trl .l2 .bp{font-family:"BnSerif";margin-right:0.14in;}
 .trl .l2 .ep{font-family:"Lat";font-style:italic;color:var(--muted);font-size:9.3pt;}
 .trl .l3{font-size:10.3pt;line-height:1.45;}
 .trl .l3 .en{font-family:"Lat";color:var(--muted);font-size:9.3pt;}
-.trl.big .l1{font-size:16pt;}
+.trl.big .l1{font-size:19pt;}
 /* boxes */
 .box{border-radius:3pt;padding:0.08in 0.13in 0.05in;margin:0.05in 0 0.09in;}
 .box .bt{font-family:"BnSans";font-weight:600;font-size:10.5pt;margin-bottom:0.03in;}
@@ -207,5 +213,5 @@ def render(extra_css=""):
         fol = ('<div class="folio">%s</div>' % p["label"]) if p["folio"] else ""
         style = (' style="background:%s"' % p["bg"]) if p["bg"] else ""
         out.append('<div class="page %s"%s>%s%s%s</div>' % (p["cls"], style, head, body, fol))
-    return ('<!DOCTYPE html><html lang="bn"><head><meta charset="utf-8"><title>%s — Introduction to French (2nd edition)</title>'
+    return ('<!DOCTYPE html><html lang="bn"><head><meta charset="utf-8"><title>%s — Introduction to Arabic</title>'
             '<style>%s%s</style></head><body>%s</body></html>') % (BOOK_TITLE_BN, CSS, extra_css, "".join(out))
