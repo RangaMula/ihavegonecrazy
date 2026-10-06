@@ -9,7 +9,7 @@ starts with the full plan and none of the old mistakes.
 | **PLAYBOOK.md** (this file) | Author's decisions, workflow, agent briefs, file formats, lessons learned, QA checklist |
 | `BOOK-STRUCTURE.md` | The book's chapter-by-chapter specification |
 | `SERIES-ROADMAP.md` | The order in which books are made (18 languages in 4 waves) |
-| `KDP-ARABIC-LANGUAGES.md` | The 38-language list from the KDP Arabic series, compared with the roadmap |
+| `MASTER-LANGUAGE-LIST.md` | All 143 deliverable languages, tiered A/B/C (supersedes `KDP-ARABIC-LANGUAGES.md`) |
 | `vocabulary/WORD-JOURNEY.md` | The 2,000-word journey: 6 stages, 20 sections, 80 sets |
 | `foreword/` | The author's Bangla foreword (identical in every book) |
 | `brand/` | Publisher logos |
@@ -229,3 +229,22 @@ All files live in `books/<code>/data/`, as UTF-8 JSON. The **Triple Row** object
 - [ ] Ch. 16 present with the 70/30 balance; the Qur'an translation is named and listed in References
 - [ ] References page updated for this language
 - [ ] Committed and pushed; the PDF sent; the open items listed for the author
+
+---
+
+## 11. Right-to-left books (Arabic, then Urdu and Persian)
+
+Learned while starting `books/ar/` (Arabic). Reuse this for every Arabic-script book.
+
+- **`engine.E()` wraps every Arabic run** in `<span class="ar">` (Amiri font, `direction:rtl`, `unicode-bidi:isolate`). So Arabic inside
+  Bangla notes and paragraphs (e.g. «বহুবচন: كُتُب (কুতুব)») displays in the right order and size without any markup in the data.
+- Target-text CSS (`.frw`, `td.c-fr`, `.trl .l1`, `.dl .f`, `.cc .fr`, `.faq .frq/.afr`) is switched to the Arabic font, right-aligned, and about 30% larger than the Latin size,
+  because Amiri with full harakat looks small at Latin sizes. Give it a line-height of about 1.45–1.8.
+- Column shares in Triple Row tables change: Arabic needs **less** width than French (fr 0.19, bp 0.23, ep 0.20, bn 0.20, en 0.18 of the free width).
+- Substitution tables (Ch. 10) get `dir="rtl"`, so they read right to left.
+- The letter card (Ch. 6) shows the **4 positional forms** (একা · শুরুতে · মাঝে · শেষে) under the big letter instead of a tracing line.
+- The Bangla pronunciation notation for Arabic is in `books/ar/STYLE.md` §3: nukta letters থ় দ় হ় খ় গ় ক় জ় স় ফ়, ড/ট/য for ض/ط/ظ,
+  ʿ for ع, ʾ for hamza, ː for long vowels, short a always া (never অ), and the pause rule. Urdu and Persian should start from this table.
+- The nukta on থ দ হ খ গ ক স renders correctly in Noto Serif/Sans Bengali (a small dot below). ː falls back to a colon-like glyph, which is acceptable.
+- `books/ar/validate.py` is the data validator (counts, fields, Latin letters in Arabic, duplicates across the 2,000 after stripping harakat and ال,
+  reuse of the Ch. 4 list, banned words). Copy it for the next book.
