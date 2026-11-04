@@ -92,6 +92,7 @@ p {{ margin:0 0 0.12in }}
 .blankmsg {{ position:absolute; bottom:0.25in; width:100%; text-align:center; font:400 8.5pt 'Nunito',sans-serif; color:#777 }}
 .grid {{ display:grid; gap:0.12in }}
 ul,ol {{ margin:0 0 0.12in 0.2in; padding-left:0.15in }}
+{L.get("extra_css", "")}
 """
 
 
