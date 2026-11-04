@@ -293,6 +293,10 @@ it keeps the next page clean.</div>
             out.append(f'<path d="{m["land"]}" fill="#fff" stroke="#111" stroke-width="3" stroke-linejoin="round"/>')
         for c, d in m.get("countries", {}).items():
             out.append(f'<path d="{d}" fill="#fff" stroke="#111" stroke-width="{6 if c == M.get("bold") else 2.5}" stroke-linejoin="round"/>')
+        for key, rx, ry, rot in M.get("areas", []):
+            x, y = pts[key]
+            out.append(f'<ellipse cx="{x:.1f}" cy="{y:.1f}" rx="{rx}" ry="{ry}" transform="rotate({rot} {x:.1f} {y:.1f})" '
+                       f'fill="none" stroke="#111" stroke-width="5" stroke-dasharray="18 12"/>')
         for key, label, dx, dy, anchor, starred in M["cities"]:
             x, y = pts[key]
             mk = (f'<polygon points="{star(x, y)}" fill="#fff" stroke="#111" stroke-width="3"/>' if starred

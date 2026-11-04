@@ -32,8 +32,13 @@ COLS = {  # colour roles a b c d e per picture
     "ship": ("#fff", BLUE, GREEN, YEL, CORAL), "umbrella": ("#fff", CORAL, BLUE, YEL, YEL),
 }
 
+DEFAULT_COLS = ("#fff", BLUE, GREEN, YEL, CORAL)
+COLS.update({"pineapple": ("#fff", BLUE, GREEN, YEL, CORAL), "coconut": ("#fff", "#A47148", GREEN, "#F5F0E1", YEL),
+             "apple": ("#fff", BLUE, GREEN, YEL, "#E63946"), "lemon": ("#fff", BLUE, GREEN, YEL, CORAL),
+             "mountain": ("#fff", "#8D99AE", GREEN, YEL, YEL)})
+
 def cpic(key, width, **args):
-    a, b, c, d, e = COLS[key]
+    a, b, c, d, e = COLS.get(key, DEFAULT_COLS)
     return (f'<div style="width:{width}in">' +
             pic(key, style=f"--a:{a};--b:{b};--c:{c};--d:{d};--e:{e}", **args) + "</div>")
 

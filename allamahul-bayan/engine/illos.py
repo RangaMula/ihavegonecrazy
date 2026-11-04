@@ -669,3 +669,144 @@ PICS.update(pomegranate=pomegranate, tamarind=tamarind, wool=wool, mortar=mortar
             broom=broom, fig=fig, envelope=envelope, jar=jar, bowarrow=bowarrow, kite=kite, corn=corn,
             gears=gears, roti=roti, clouds=clouds, honey=honey, ladder=ladder, triangle=triangle, kaaba=kaaba,
             box=box, tasbih=tasbih, globe=globe, soap=soap, ewer=ewer, teacup=teacup, ice=ice, balloon=balloon)
+
+
+# ---- batch 3: more objects for Punjabi, Gujarati, Marathi, Nepali ----
+def potato():
+    eyes = "".join(P(f"M{x} {y} q4 -4 8 0", "n t") for x, y in [(70, 92), (110, 80), (130, 120), (86, 130), (60, 118)])
+    return (P("M40 110 C34 70 80 52 120 58 C160 64 176 96 164 128 C152 160 100 170 70 158 C50 150 42 132 40 110 Z", "b")
+            + eyes + P("M140 150 C150 130 176 130 184 150 C190 170 166 182 150 176 C140 172 136 162 140 150 Z", "b") + ground(184))
+
+def brick():
+    rows = []
+    for r in range(4):
+        y = 70 + r * 28
+        off = 0 if r % 2 == 0 else 26
+        for k in range(4):
+            x = 20 + off + k * 52
+            if x + 48 <= 186:
+                rows.append(R(x, y, 48, 24, "e" if (r + k) % 2 else "b", 3))
+    return "".join(rows) + ground(186)
+
+def cardamom():
+    pods = "".join(f'<g transform="rotate({r} {x} {y})">' + E(x, y, 16, 30, "c") +
+                   P(f"M{x} {y-28} L{x} {y+28}", "n t") + P(f"M{x} {y-30} l0 -8", "n") + "</g>"
+                   for x, y, r in [(70, 100, -25), (110, 90, 10), (140, 130, 35), (90, 146, -60)])
+    return pods + "".join(C(x, y, 4, "b") for x, y in [(50, 160), (60, 168), (164, 70)])
+
+def dew():
+    drops = "".join(P(f"M{x} {y} q-9 14 0 20 q9 -6 0 -20", "b") for x, y in [(80, 70), (120, 84), (100, 112), (60, 116), (140, 120)])
+    return (P("M20 170 C40 80 120 40 186 28 C170 100 120 160 20 170 Z", "c")
+            + P("M20 170 C70 130 130 80 186 28", "n t") + drops)
+
+def water():
+    return (P("M56 40 L144 40 L132 182 L68 182 Z", "a") + P("M60 80 L140 80 L132 182 L68 182 Z", "b")
+            + P("M76 100 q4 -6 10 -6 M96 130 q4 -6 10 -6", "n t") + E(100, 40, 44, 6, "a"))
+
+def pear():
+    return (P("M100 36 C116 36 120 60 124 76 C150 92 168 122 160 152 C152 178 124 186 100 186 C76 186 48 178 40 152 C32 122 50 92 76 76 C80 60 84 36 100 36 Z", "c")
+            + P("M100 36 L104 18", "n") + leaf(104, 24, -30, 34) + P("M58 120 C54 134 56 146 62 156", "n t"))
+
+def olive():
+    olives = "".join(f'<g transform="rotate({r} {x} {y})">' + E(x, y, 11, 16, "c") + C(x - 3, y - 6, 2.5, "n") + "</g>"
+                     for x, y, r in [(70, 120, 20), (120, 96, -15), (150, 140, 10)])
+    leaves = "".join(leaf(x, y, a, 40, "b") for x, y, a in [(40, 60, 30), (70, 70, -20), (100, 60, 40), (130, 70, -30), (160, 60, 20)])
+    return P("M20 50 C80 80 140 70 190 50", "n") + leaves + olives
+
+def pineapple():
+    scales = "".join(L(60 + 12 * k, 76, 40 + 12 * k, 180, "n t") + L(140 - 12 * k, 76, 160 - 12 * k, 180, "n t") for k in range(0, 8, 2))
+    crown = "".join(P(f"M100 76 C{100+dx} 60 {100+dx*1.4} 40 {100+dx*1.6} {24 if abs(dx) < 20 else 34} C{100+dx*0.8} 50 {100+dx*0.3} 66 100 76 Z", "c")
+                    for dx in (-30, -12, 12, 30))
+    body = "M100 76 C140 76 156 110 154 140 C150 172 126 184 100 184 C74 184 50 172 46 140 C44 110 60 76 100 76 Z"
+    _clip[0] += 1
+    cid = f"pine{_clip[0]}"
+    return (f'<clipPath id="{cid}"><path d="{body}"/></clipPath>' + P(body, "d")
+            + f'<g clip-path="url(#{cid})">{scales}</g>' + P(body, "n") + crown)
+
+_clip = [0]
+
+def anvil():
+    return (P("M30 70 L150 70 C150 88 170 90 190 84 L176 106 L140 106 L132 116 L68 116 L60 106 L44 106 C34 96 30 84 30 70 Z", "b")
+            + P("M72 116 L128 116 L136 160 L64 160 Z", "b") + R(46, 160, 108, 20, "c", 3) + ground(186))
+
+def pillow():
+    return (P("M30 70 C70 56 130 56 170 70 C182 100 182 130 170 156 C130 170 70 170 30 156 C18 130 18 100 30 70 Z", "e")
+            + P("M30 70 C24 62 18 60 14 62 M170 70 C176 62 182 60 186 62 M30 156 C24 164 18 166 14 164 M170 156 C176 164 182 166 186 164", "n")
+            + star(100, 112, 22, 10, "d", 8))
+
+def coconut():
+    return (C(84, 120, 56, "b") + P("M60 92 q6 -6 12 0 M84 84 q6 -6 12 0", "n t") + C(68, 104, 5, "n") + C(84, 98, 5, "n") + C(78, 116, 5, "n")
+            + P("M120 180 C120 140 150 124 186 130 C190 166 160 186 120 180 Z", "a") + P("M128 176 C130 146 154 134 178 138 C180 164 158 180 128 176 Z", "d")
+            + ground(186))
+
+def window():
+    return (P("M40 186 L40 70 C40 36 70 18 100 14 C130 18 160 36 160 70 L160 186 Z", "c")
+            + P("M54 172 L54 74 C54 48 76 32 100 28 C124 32 146 48 146 74 L146 172 Z", "b")
+            + L(100, 28, 100, 172) + L(54, 100, 146, 100) + R(28, 172, 144, 14, "a", 3)
+            + C(130, 60, 12, "d") + P("M64 140 q8 -6 16 0", "n t"))
+
+def lemon():
+    return (P("M24 110 C30 74 70 58 104 60 C140 62 170 84 176 110 C170 138 140 160 104 160 C70 160 30 146 24 110 Z", "d")
+            + P("M20 110 L28 104 M180 110 L172 116", "n") + leaf(120, 62, -40, 36)
+            + P("M58 96 C54 106 54 118 60 128", "n t"))
+
+def apple():
+    return (P("M100 56 C120 40 168 44 170 96 C172 150 132 182 112 176 C104 174 96 174 88 176 C68 182 28 150 30 96 C32 44 80 40 100 56 Z", "e")
+            + P("M100 56 C98 42 100 30 108 20", "n") + leaf(106, 32, -20, 36) + P("M56 90 C52 104 52 118 58 130", "n t"))
+
+def tap():
+    return (R(14, 40, 70, 30, "c", 4) + R(84, 46, 60, 18, "b", 4) + P("M144 46 C170 46 176 60 176 76 L160 76 C160 66 156 64 144 64 Z", "b")
+            + R(100, 24, 16, 22, "d", 3) + R(88, 18, 40, 10, "d", 4)
+            + "".join(P(f"M168 {96+26*k} q-7 11 0 16 q7 -5 0 -16", "b") for k in range(3)) + E(168, 182, 26, 6, "b"))
+
+def pennant():
+    return (R(46, 16, 8, 170, "c", 3) + C(50, 12, 6, "d") + P("M54 30 L176 66 L54 102 Z", "e")
+            + P("M80 50 L80 82", "n t") + R(30, 180, 40, 8, "a", 2))
+
+def building():
+    wins = "".join(R(x, y, 18, 20, "d", 2) for x in (52, 82, 112) for y in (60, 92, 124))
+    return (R(40, 40, 100, 140, "b", 2) + R(30, 30, 120, 12, "c", 2) + wins + R(80, 152, 24, 28, "e", 2)
+            + R(140, 100, 40, 80, "c", 2) + R(150, 112, 10, 12, "a") + R(150, 140, 10, 12, "a") + ground(182))
+
+def sugarcane():
+    def cane(x, cls):
+        return (R(x, 30, 16, 156, cls, 6) + "".join(L(x, y, x + 16, y, "n") for y in (60, 92, 124, 156)))
+    return cane(56, "c") + cane(92, "b") + cane(128, "c") + leaf(64, 30, -120, 40) + leaf(100, 30, -60, 44) + leaf(136, 30, -40, 40)
+
+def ring():
+    return (C(100, 120, 56, "d") + C(100, 120, 40, "a")
+            + poly([(82, 64), (118, 64), (130, 48), (100, 22), (70, 48)], "e") + P("M70 48 L130 48 M100 22 L92 48 L100 64 L108 48 Z", "n t"))
+
+def spoon():
+    return (f'<g transform="rotate(-35 100 100)">' + E(100, 52, 30, 40, "b") + E(100, 50, 20, 28, "a")
+            + R(94, 88, 12, 100, "b", 6) + "</g>"
+            + f'<g transform="rotate(30 130 110)">' + R(124, 50, 12, 110, "c", 6) + P("M118 30 L118 58 M130 30 L130 58 M142 30 L142 58 M116 56 L144 56 L136 70 L124 70 Z", "c") + "</g>")
+
+def scale():
+    return (L(100, 30, 100, 160) + R(70, 160, 60, 14, "c", 4) + L(30, 50, 170, 50) + C(100, 30, 6, "d")
+            + P("M30 50 L14 110 M30 50 L46 110 M170 50 L154 110 M170 50 L186 110", "n t")
+            + P("M8 110 L52 110 C48 128 12 128 8 110 Z", "b") + P("M148 110 L192 110 C188 128 152 128 148 110 Z", "b"))
+
+def almond():
+    nuts = "".join(f'<g transform="rotate({r} {x} {y})">' + P(f"M{x} {y-30} C{x+18} {y-10} {x+16} {y+20} {x} {y+30} C{x-16} {y+20} {x-18} {y-10} {x} {y-30} Z", "b")
+                   + P(f"M{x-4} {y-14} q-4 14 0 28", "n t") + "</g>" for x, y, r in [(60, 110, -30), (100, 90, 0), (140, 110, 30), (80, 150, -70), (124, 152, 70)])
+    return nuts
+
+def well():
+    return (R(40, 110, 120, 70, "b", 4) + "".join(L(40, y, 160, y, "n t") for y in (132, 156))
+            + "".join(L(x, 110, x, 132, "n t") for x in (70, 100, 130)) + E(100, 110, 60, 12, "a")
+            + L(52, 110, 52, 40) + L(148, 110, 148, 40) + P("M40 44 L100 20 L160 44 Z", "c")
+            + L(52, 62, 148, 62) + L(100, 62, 100, 82) + R(88, 82, 24, 22, "d", 3))
+
+def mirror():
+    return (E(100, 84, 56, 66, "d") + E(100, 84, 44, 54, "a") + P("M78 60 L94 44 M80 82 L112 50", "n t")
+            + R(92, 150, 16, 34, "d", 6) + E(100, 186, 30, 6, "c"))
+
+def walnut():
+    return (P("M100 30 C148 30 172 70 168 110 C164 152 134 176 100 176 C66 176 36 152 32 110 C28 70 52 30 100 30 Z", "b")
+            + L(100, 30, 100, 176) + P("M60 70 q12 10 0 22 q-12 10 0 22 q12 10 0 22 M140 70 q-12 10 0 22 q12 10 0 22 q-12 10 0 22", "n t"))
+
+PICS.update(potato=potato, brick=brick, cardamom=cardamom, dew=dew, water=water, pear=pear, olive=olive,
+            pineapple=pineapple, anvil=anvil, pillow=pillow, coconut=coconut, window=window, lemon=lemon, apple=apple,
+            tap=tap, pennant=pennant, building=building, sugarcane=sugarcane, ring=ring, spoon=spoon, scale=scale,
+            almond=almond, well=well, mirror=mirror, walnut=walnut)
