@@ -82,7 +82,7 @@ p {{ margin:0 0 0.12in }}
 .lp-pic {{ display:flex; gap:0.15in; height:3.15in; margin-top:0.16in; padding:0.1in 0.18in; align-items:center }}
 .lp-pic .ill {{ width:2.9in; height:2.9in }}
 .lp-word {{ flex:1; text-align:center }}
-.lp-word .w {{ font-size:40pt; line-height:1.35 }}
+.lp-word .w {{ font-size:40pt; line-height:1.6; margin-top:0.06in }}
 .lp-word .t {{ font:italic 400 17pt 'Nunito',sans-serif }}
 .lp-word .m {{ font:700 16pt 'Nunito',sans-serif; margin-top:2px }}
 .lp-trace {{ margin-top:0.16in; height:1.42in; padding:0.06in 0.15in }}

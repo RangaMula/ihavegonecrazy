@@ -40,3 +40,31 @@ branch `claude/sweet-euler-11udki`. Project folder: `allamahul-bayan/book-01-ben
 3. Upload to KDP, then order a proof copy.
 4. Mirror this folder to `G:\My Drive\Claude Workspace\Maktabatu Kunujul Akhirah\` + `E:\Claude Backup`. This cloud
    session cannot reach the local drives; pull the branch from GitHub.
+
+---
+
+## Part 2: "Continue to create for all available indian subcontinent languages"
+
+### Decisions
+- Scope: 17 major South Asian languages with their own alphabet and official status (table in
+  `allamahul-bayan/README.md`). Smaller languages (Kashmiri, Konkani, Maithili, Santali and others) are listed for later.
+- Built one shared engine (`allamahul-bayan/engine/`) with one data file per language (`allamahul-bayan/languages/`).
+  The Bengali book was rebuilt through it and came out identical (120 pp).
+- Maps for the new books show coastlines only, with no political borders (avoids Kashmir and Nepal border
+  disputes), plus a dashed area for the region. Bengali keeps its Bangladesh–India border map.
+- Every picture is object-only; about 60 new drawings were added (pomegranate, kite, kaaba, tasbih, ewer for wudu, olive …).
+- Urdu: right-to-left letter order and tracing, joined forms (start, middle, end) for each letter, Nastaliq words.
+- Rare letters (ङ ञ and similar) get a short note explaining their modern spelling.
+
+### Built (all checked for page count, trim size and odd-page/blank-back parity)
+1 Bengali 120 pp · 2 Hindi 122 · 3 Urdu 94 · 4 Punjabi 116 · 5 Gujarati 118 · 6 Marathi 118 · 7 Tamil 92 ·
+8 Telugu 120 · 9 Kannada 118 · 10 Malayalam 122 · 11 Odia 116 · 12 Assamese 120 · 13 Nepali 118
+
+### Not built yet
+14 Sinhala, 15 Sindhi, 16 Pashto, 17 Dhivehi. The engine is ready, but the word lists need a native speaker.
+
+### Next steps (owner)
+1. Native-speaker proofread for every book (Odia and Assamese first), plus the scholar check of pp. 4–5.
+2. Decide on ISBNs (own ISBNs → imprint shows as Maktabatu Kunujul Akhirah).
+3. Upload to KDP one by one, then order proof copies.
+4. Mirror `allamahul-bayan/` to G: and E: (this cloud session cannot reach them).

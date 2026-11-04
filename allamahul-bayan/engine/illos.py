@@ -810,3 +810,47 @@ PICS.update(potato=potato, brick=brick, cardamom=cardamom, dew=dew, water=water,
             pineapple=pineapple, anvil=anvil, pillow=pillow, coconut=coconut, window=window, lemon=lemon, apple=apple,
             tap=tap, pennant=pennant, building=building, sugarcane=sugarcane, ring=ring, spoon=spoon, scale=scale,
             almond=almond, well=well, mirror=mirror, walnut=walnut)
+
+
+# ---- batch 4: Dravidian-language words ----
+def swing():
+    return (R(16, 16, 168, 12, "c", 5) + L(30, 28, 30, 186) + L(170, 28, 170, 186)
+            + L(70, 28, 64, 132) + L(130, 28, 136, 132) + R(54, 132, 92, 14, "b", 5)
+            + leaf(30, 40, 200, 30) + leaf(170, 40, -20, 30) + ground(186))
+
+def ball():
+    return (C(100, 104, 70, "b") + P("M30 104 C60 80 140 80 170 104", "n") + P("M30 104 C60 128 140 128 170 104", "n")
+            + P("M100 34 C80 70 80 138 100 174", "n") + P("M100 34 C120 70 120 138 100 174", "n")
+            + P("M60 60 C70 50 84 44 96 42", "n t") + E(100, 182, 40, 6, "c"))
+
+def house():
+    return (P("M24 92 L100 30 L176 92 Z", "e") + R(40, 92, 120, 88, "b", 2) + R(84, 130, 32, 50, "d", 2)
+            + R(52, 108, 24, 22, "a", 2) + R(124, 108, 24, 22, "a", 2) + L(64, 108, 64, 130, "n t") + L(136, 108, 136, 130, "n t")
+            + R(130, 40, 16, 34, "c", 2) + ground(182))
+
+def feather():
+    barbs = "".join(L(100 + 2 * k, 40 + 12 * k, 70 + 2 * k, 30 + 12 * k, "n t") + L(100 + 2 * k, 40 + 12 * k, 130 + 2 * k, 30 + 12 * k, "n t")
+                    for k in range(1, 10))
+    body = "M100 20 C150 40 160 110 116 160 L100 176 L84 160 C40 110 50 40 100 20 Z"
+    _clip[0] += 1
+    cid = f"fea{_clip[0]}"
+    return (f'<clipPath id="{cid}"><path d="{body}"/></clipPath>' + P(body, "b")
+            + f'<g clip-path="url(#{cid})">{barbs}</g>' + P(body, "n") + P("M100 20 L104 188", "n"))
+
+def stool():
+    return (E(100, 64, 70, 18, "e") + P("M30 64 L30 80 C30 92 170 92 170 80 L170 64", "e")
+            + P("M50 88 L36 182 M150 88 L164 182 M80 92 L74 182 M120 92 L126 182", "n") + L(44, 140, 156, 140, "n") + ground(184))
+
+def onion():
+    return (P("M100 40 C150 60 172 110 152 148 C138 172 62 172 48 148 C28 110 50 60 100 40 Z", "e")
+            + P("M100 40 C82 70 78 130 92 168 M100 40 C118 70 122 130 108 168", "n t")
+            + P("M100 40 C96 26 98 16 104 8 M100 40 C108 28 116 22 124 18", "n")
+            + P("M76 168 l-6 14 M100 172 l0 14 M124 168 l6 14", "n t"))
+
+def plane():
+    return (P("M20 104 C20 92 40 88 60 88 L150 88 C170 88 186 96 186 104 C186 112 170 120 150 120 L60 120 C40 120 20 116 20 104 Z", "b")
+            + P("M90 90 L120 34 L136 34 L118 90 Z", "c") + P("M90 118 L120 174 L136 174 L118 118 Z", "c")
+            + P("M30 92 L22 62 L38 62 L52 90 Z", "d") + "".join(C(x, 102, 5, "a") for x in (76, 96, 116, 136))
+            + C(166, 100, 6, "a") + cloud(120, 196, 0.5) + cloud(10, 196, 0.45))
+
+PICS.update(swing=swing, ball=ball, house=house, feather=feather, stool=stool, onion=onion, plane=plane)

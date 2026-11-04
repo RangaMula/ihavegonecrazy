@@ -46,9 +46,12 @@ def build(d):
             phon = (f'<div class="nt" style="font-size:17pt">◌{v["sign"]} <span class="small" style="font-family:Nunito">'
                     f'({v["sign_name"]})</span></div>'
                     f'<div class="nt" style="font-size:17pt">{base} + ◌{v["sign"]} = {ex}</div>')
-        else:
+        elif v is d["vowels"][0]:
             phon = (f'<div style="font-size:11.5pt">No sign! {_span(v["letter"])} hides inside every consonant: '
                     f'{_span(base + " = " + base + vir + " + " + v["letter"])}</div>')
+        else:
+            phon = '<div style="font-size:11.5pt">A special letter — it has no vowel sign of its own.</div>'
+
         vitems.append(dict(v, phon=phon, phon_label=f"{lang} phonetics · vowel sign"))
 
     citems = []
