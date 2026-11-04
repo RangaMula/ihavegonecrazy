@@ -1,0 +1,11 @@
+{
+  "name": "allamahul-bayan-book-01-bengali",
+  "private": true,
+  "type": "module",
+  "description": "Build tooling for the Bengali alphabet coloring book (map data only)",
+  "dependencies": {
+    "d3-geo": "^3.1.1",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  }
+}
