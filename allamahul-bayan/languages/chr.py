@@ -210,6 +210,8 @@ syllable: <b>Ꮝ + Ꭺ</b> = <i>sgo</i>, as in ᏍᎪᎯ (ten).</div>
 ‘j’ in many homes: <b>ᏣᎳᎩ</b> (Cherokee) sounds like <i>jah-lah-gee</i>.</div>"""),
 ]
 
+SECTIONS[0].update(native=" ".join(SYL[v] for v in "aeiouv"), native_tr="a · e · i · o · u · v")
+
 LANG = build(dict(
     code="chr", folder="book-54-cherokee", series_no=54, isbn="", draft=True,
     name="Cherokee", native="ᏣᎳᎩ", native_tr="jah-lah-gee (tsalagi)", name_word="ᏚᏙᎥ", write_word="ᎪᏪᎳ",
@@ -246,7 +248,7 @@ LANG = build(dict(
                           "<i>la</i>, and <span class=\"nt\">Ꮪ</span> looks like S but says <i>du</i>."),
     ],
     hello_pics=[("corn", {}), ("mountain", {}), ("tree", {})],
-    map=region_map(frame=[[-101.0, 25.0], [-73.0, 45.0]],
+    map=region_map(frame=[[-100.0, 24.0], [-70.0, 44.0]],
                    points=dict(tahlequah=[-94.97, 35.92], cherokeenc=[-83.31, 35.48]),
                    area=None,
                    cities=[("tahlequah", "Tahlequah", 0, -18, "middle", False), ("cherokeenc", "Cherokee", 0, -18, "middle", False)],
@@ -254,7 +256,7 @@ LANG = build(dict(
                    caption="The circle shows the south-east of North America.",
                    legend="<b>Color it:</b> the land <b>green</b> · the sea <b>blue</b>. <b>Find it:</b> Cherokee is spoken around "
                           "<b>Tahlequah</b> in Oklahoma and around the town of <b>Cherokee</b> in the mountains of North Carolina.",
-                   seas=[("Gulf of Mexico", -90.0, 26.5), ("Atlantic Ocean", -76.0, 30.0)]),
+                   seas=[("Gulf of Mexico", -90.0, 26.5), ("Atlantic Ocean", -75.0, 30.5)]),
     digits=[("0", cw("tla") + " " + cw("go-s-di"), "tlah gohs-dee", "zero (“nothing”)"), ("1", cw("sa-quu"), "sah-gwoo", "one"),
             ("2", cw("ta-li"), "tah-lee", "two"), ("3", cw("tso-i"), "joh-ee", "three"), ("4", cw("nv-gi"), "nuhn-gee", "four"),
             ("5", cw("hi-s-gi"), "hees-gee", "five"), ("6", cw("su-da-li"), "soo-dah-lee", "six"),

@@ -146,7 +146,7 @@ LANG = build(dict(
     font_credit="M PLUS Rounded 1c",
     phon_feature="each letter’s row in the fifty-sound chart and its katakana twin (か · カ)",
     letters_word="Hiragana Letters",
-    extra_css=".hl{border:2.5px solid #111;border-radius:8px;padding:0 4px} .dash > .ntd{font-size:20pt !important}",
+    extra_css=".hl{border:2.5px solid #111;border-radius:8px;padding:0 4px} .dash > .ntd{font-size:20pt !important} .grid > .box > .ntd{font-size:17pt !important;line-height:1.3 !important}",
     sections=[
         section(VOWELS, label="HIRAGANA", chip="THE VOWELS", title="The Vowels", native="あいうえお",
                 native_tr="a i u e o — the five vowels", intro_html=INTRO_VOWELS, chart_title="vowels", chart_cols=5,

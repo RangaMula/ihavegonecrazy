@@ -86,13 +86,13 @@ The little mark <b>ʼ</b> (as in <i>naʼura</i>, <i>aʼa</i>) is a short catch i
                           "<i>lokaci</i> (time)."),
     ],
     hello_pics=[("ewer", {}), ("dates", {}), ("mosque", {})],
-    map=region_map(frame=[[-1.0, 3.0], [19.0, 21.0]],
+    map=region_map(frame=[[1.0, 3.5], [16.0, 18.5]],
                    points=dict(kano=[8.52, 12.00], sokoto=[5.24, 13.06], zaria=[7.72, 11.08], maradi=[7.10, 13.50], zinder=[8.99, 13.80]),
-                   area=(7.6, 12.4, 250, 150), area_rot=-5,
+                   area=(7.6, 12.4, 330, 200), area_rot=-5,
                    cities=[("kano", "Kano", 14, 8, "start", False), ("sokoto", "Sokoto", -14, 8, "end", False),
                            ("zaria", "Zaria", -14, 12, "end", False), ("maradi", "Maradi", -14, -4, "end", False),
                            ("zinder", "Zinder", 14, -2, "start", False)],
-                   label="WEST AFRICA", label_at=[3.0, 18.5], marker=[8.0, 12.0],
+                   label="WEST AFRICA", label_at=[3.0, 16.8], marker=[8.0, 12.0],
                    caption="The circle shows Hausaland, in West Africa, on the world map.",
                    legend="<b>Color it:</b> the land <b>green</b> (or <b>yellow</b> for the desert in the north) · the ocean <b>blue</b>. "
                           "<b>Find it:</b> Hausa is spoken in Kano, Zaria, Sokoto, Maradi, Zinder and far beyond. The dashed line shows "

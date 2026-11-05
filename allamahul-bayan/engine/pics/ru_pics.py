@@ -116,12 +116,14 @@ def bagel():
 
 
 def nail():
-    """Nails and a wooden board (ексер)."""
-    board = R(16, 138, 168, 40, "b", 6)
-    grain = P("M28 150 C60 146 90 156 120 150 M60 166 C90 160 130 170 170 164", "n t")
-    standing = R(64, 44, 12, 94, "a") + E(70, 42, 24, 7, "c")
-    lying = P("M118 118 L166 118 L180 124 L166 130 L118 130 Z", "a") + E(114, 124, 6, 16, "c")
-    return board + grain + standing + lying
+    """Three big nails (ексер)."""
+    def one(x, y, ang, size=1.0):
+        k = size
+        shaft = P(f"M{-8*k} 0 L{8*k} 0 L{8*k} {108*k} L0 {128*k} L{-8*k} {108*k} Z", "a")
+        head = R(-24 * k, -14 * k, 48 * k, 14 * k, "c", 4)
+        lines = P(f"M{-8*k} {16*k} L{8*k} {11*k} M{-8*k} {27*k} L{8*k} {22*k}", "n t")
+        return f'<g transform="translate({x} {y}) rotate({ang})">' + shaft + head + lines + "</g>"
+    return one(58, 18, -22, 1.2) + one(146, 24, 22, 1.1) + one(34, 172, -90, 1.0) + ground(186)
 
 
 def lantern():
