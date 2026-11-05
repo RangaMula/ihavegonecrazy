@@ -52,7 +52,7 @@ GROUPS = [
     L("Tsh", "tsh", "tsha", "ts’hah", "‘ts’ with a strong puff of air", "tshimo", "TS’HEE-moh", "field, farm", "corn"),
 ]
 
-LANG = AF and build(dict(
+LANG = build(dict(
     code="tn", folder="book-78-setswana", series_no=78, isbn="", draft=True,
     name="Setswana", native="Setswana", native_tr="seh-TSWAH-nah", name_word="leina", write_word="kwala",
     title_native="Ditlhaka tsa me tsa ntlha tsa Setswana", title_letters="AaBbDd", belongs_native="Buka e ke ya",
