@@ -35,6 +35,9 @@ GLYPH_FONTS = ["baloo-2-latin-800-normal.woff2", "baloo-2-latin-ext-800-normal.w
                "noto-sans-latin-ext-800-normal.woff2"]
 FONT_CREDIT = "Baloo 2, Noto Sans"
 
+# ten phrase rows (greeting + reply) need a little less height than the engine default
+EXTRA_CSS = '.ntd[style*="font-size:19pt"]{font-size:17pt !important;line-height:1.3 !important}' 
+
 
 def maker(phon_label, vowels, vowel_examples="b d k m n"):
     """Return L(cap, small, name, name_tr, sound, word, tr, meaning, pic, ...) for one book.

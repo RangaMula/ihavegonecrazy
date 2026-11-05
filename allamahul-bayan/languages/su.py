@@ -152,7 +152,7 @@ LANG = build(dict(
     fonts=fontset("Noto Sans Sundanese", FONT, "Noto Sans Sundanese", FONT)[:2],
     disp_family="Noto Sans Sundanese", text_family="Noto Sans Sundanese",
     glyph_font=f"{FONT}-700-normal.woff2", font_credit="Noto Sans Sundanese",
-    extra_css="h1,h2{line-height:1.45} h3{line-height:1.6} .lp-name{line-height:1.5}",
+    extra_css="h1,h2{line-height:1.45} h3{line-height:1.6} .lp-name{line-height:1.5} .dash .ntd{line-height:2 !important}",
     letters_word="Letters and Signs",
     phon_feature="a syllable chart for every letter (ᮊ <i>ka</i>, ᮊᮤ <i>ki</i>, ᮊᮥ <i>ku</i>…)",
     sections=SECTIONS,

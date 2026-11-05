@@ -2,7 +2,7 @@
 """Book 62 - Swahili (Kiswahili, Latin script: 24 letters + 6 letter pairs). Allamahul Bayan Series. REVIEW DRAFT."""
 from generic import build, section
 from maps import region_map
-from _afrolatin import afro_fonts, GLYPH_FONTS, FONT_CREDIT, maker
+from _afrolatin import afro_fonts, GLYPH_FONTS, FONT_CREDIT, EXTRA_CSS, maker
 
 L = maker("Swahili name · syllables", ["a", "e", "i", "o", "u"])
 
@@ -55,7 +55,7 @@ LANG = build(dict(
     belongs_pic="mango", alphabet_native="alfabeti", numbers_native="nambari", numbers_tr="nam-BA-ree",
     phrases_native="Maneno ya kwanza",
     fonts=afro_fonts(), disp_family="Baloo 2", text_family="Nunito",
-    glyph_font=GLYPH_FONTS, font_credit=FONT_CREDIT,
+    glyph_font=GLYPH_FONTS, font_credit=FONT_CREDIT, extra_css=EXTRA_CSS,
     phon_feature="each letter’s Swahili name and its syllables (ba, be, bi, bo, bu)",
     sections=[
         section(LETTERS, native="herufi za Kiswahili", native_tr="heh-ROO-fee za kee-swa-HEE-lee — “the Swahili letters”",

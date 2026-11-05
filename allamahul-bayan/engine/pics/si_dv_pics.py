@@ -93,5 +93,18 @@ def dv_cheese():
             + C(46, 118, 5, "a") + E(132, 74, 9, 4, "a") + E(96, 86, 7, 3, "a") + ground(184))
 
 
+def coconuts():
+    """A bunch of three coconuts hanging under a palm frond (no 'eyes', so it never looks like a face)."""
+    return (P("M100 34 C74 18 40 20 14 40 C44 34 74 38 98 50 Z", "c") + P("M100 34 C126 18 160 20 186 40 C156 34 126 38 102 50 Z", "c")
+            + P("M60 30 l-6 12 M40 32 l-4 10 M140 30 l6 12 M160 32 l4 10", "n t")
+            + R(94, 40, 12, 40, "d", 4)
+            + E(70, 112, 30, 38, "b", -18) + E(130, 112, 30, 38, "b", 18) + E(100, 144, 33, 38, "b")
+            + P("M60 84 C52 100 52 126 62 144 M80 82 C86 100 86 124 78 146", "n t")
+            + P("M140 84 C148 100 148 126 138 144 M120 82 C114 100 114 124 122 146", "n t")
+            + P("M88 114 C82 134 84 160 96 180 M112 114 C118 134 116 160 104 180", "n t")
+            + E(100, 82, 14, 7, "d"))
+
+
 PICS = {"si_hopper": si_hopper, "si_plant": si_plant, "si_branch": si_branch, "si_key": si_key, "si_sticks": si_sticks,
-        "dv_island": dv_island, "dv_toffee": dv_toffee, "dv_cheese": dv_cheese}
+        "dv_island": dv_island, "dv_toffee": dv_toffee, "dv_cheese": dv_cheese,
+        "si_coconut": coconuts, "dv_coconut": coconuts}

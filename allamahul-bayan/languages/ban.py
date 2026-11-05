@@ -146,7 +146,7 @@ LANG = build(dict(
     fonts=fontset("Noto Sans Balinese", FONT, "Noto Sans Balinese", FONT)[:2],
     disp_family="Noto Sans Balinese", text_family="Noto Sans Balinese",
     glyph_font=f"{FONT}-700-normal.woff2", font_credit="Noto Sans Balinese",
-    extra_css="h1,h2{line-height:1.5} h3{line-height:1.7} .lp-name{line-height:1.6}",
+    extra_css="h1{line-height:1.5} h2{line-height:1.85} h3{line-height:1.7} .lp-name{line-height:1.6} .lp-word .w{line-height:1.9} .dash .ntd{line-height:2 !important;padding-bottom:10px}",
     letters_word="Letters and Signs",
     phon_feature="a syllable chart for every letter (ᬓ <i>ka</i>, ᬓᬶ <i>ki</i>, ᬓᬸ <i>ku</i>…)",
     sections=SECTIONS,
@@ -187,7 +187,7 @@ LANG = build(dict(
                           "the seas <b>blue</b>. <b>Find it:</b> Balinese is spoken in Denpasar, Singaraja, Negara and Amlapura. "
                           "Java is the big island to the west; Lombok is to the east.",
                    seas=[("Bali Sea", 114.9, -6.55), ("Indian Ocean", 115.2, -10.1), ("Java", 113.7, -7.95),
-                         ("Lombok", 116.3, -8.45)], world_r=10),
+                         ("Lombok", 116.32, -8.72)], world_r=10),
     digits=[("᭐", "ᬦᭀᬮ᭄", "nol", "zero"), ("᭑", "ᬩᭂᬲᬶᬓ᭄", "besik", "one"), ("᭒", "ᬤᬸᬯ", "dua", "two"), ("᭓", "ᬢᭂᬮᬸ", "telu", "three"),
             ("᭔", "ᬧᬧᬢ᭄", "papat", "four"), ("᭕", "ᬮᬶᬫ", "lima", "five"), ("᭖", "ᬦᭂᬫ᭄", "nem", "six"), ("᭗", "ᬧᬶᬢᬸ", "pitu", "seven"),
             ("᭘", "ᬓᬸᬢᬸᬲ᭄", "kutus", "eight"), ("᭙", "ᬲᬶᬬ", "sia", "nine")],

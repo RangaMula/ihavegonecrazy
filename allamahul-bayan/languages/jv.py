@@ -153,7 +153,7 @@ LANG = build(dict(
     fonts=fontset("Noto Sans Javanese", FONT, "Noto Sans Javanese", FONT)[:2],
     disp_family="Noto Sans Javanese", text_family="Noto Sans Javanese",
     glyph_font=f"{FONT}-700-normal.woff2", font_credit="Noto Sans Javanese",
-    extra_css="h1,h2{line-height:1.5} h3{line-height:1.7} .lp-name{line-height:1.6}",
+    extra_css="h1,h2{line-height:1.5} h3{line-height:1.7} .lp-name{line-height:1.6} .dash .ntd{line-height:2 !important;padding-bottom:10px}",
     letters_word="Letters and Signs",
     phon_feature="a syllable chart for every letter (ꦏ <i>ka</i>, ꦏꦶ <i>ki</i>, ꦏꦸ <i>ku</i>…)",
     sections=SECTIONS,

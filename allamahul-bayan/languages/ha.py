@@ -2,7 +2,7 @@
 """Book 63 - Hausa (Boko, the Latin-script alphabet: 28 letters incl. Ɓ Ɗ Ƙ Ƴ, Sh, Ts). Allamahul Bayan Series. REVIEW DRAFT."""
 from generic import build, section
 from maps import region_map
-from _afrolatin import afro_fonts, GLYPH_FONTS, FONT_CREDIT, maker
+from _afrolatin import afro_fonts, GLYPH_FONTS, FONT_CREDIT, EXTRA_CSS, maker
 
 L = maker("Hausa name · syllables", ["a", "e", "i", "o", "u"])
 
@@ -53,7 +53,7 @@ LANG = build(dict(
     belongs_pic="dates", alphabet_native="haruffa", numbers_native="lambobi", numbers_tr="lam-bo-bee",
     phrases_native="Kalmomin farko",
     fonts=afro_fonts(), disp_family="Baloo 2", text_family="Nunito",
-    glyph_font=GLYPH_FONTS, font_credit=FONT_CREDIT,
+    glyph_font=GLYPH_FONTS, font_credit=FONT_CREDIT, extra_css=EXTRA_CSS,
     phon_feature="each letter’s Hausa name and its syllables (ba, be, bi, bo, bu)",
     sections=[section(LETTERS, native="haruffan Hausa", native_tr="ha-roof-fan how-sa — “the Hausa letters”",
                       chart_cols=7, warmup_cols=7,

@@ -81,7 +81,7 @@ CONSONANTS = [
     C("න", "dantaja nayanna", "‘n’ as in “net”", "නැව", "næva", "ship", "ship", name="දන්තජ නයන්න"),
     C("ඳ", "sanyaka dayanna", "a half-nasal ‘nd’: a tiny ‘n’ slides into a soft ‘d’, like “candle” said quickly", "රට ඉඳි",
       "raṭa indi", "dates", "dates", name="සඤ්ඤක දයන්න", note=inside("ඳ", "ඉඳි")),
-    C("ප", "payanna", "‘p’ as in “pen” (no puff of air)", "පොල්", "pol", "coconut", "coconut", name="පයන්න"),
+    C("ප", "payanna", "‘p’ as in “pen” (no puff of air)", "පොල්", "pol", "coconut", "si_coconut", name="පයන්න"),
     C("ඵ", f"{MP_TR} payanna", "‘p’ — " + SAME.format("ප"), "ඵලය", "phalaya", "fruit", "basket", name=f"{MP} පයන්න"),
     C("බ", "bayanna", "‘b’ as in “ball”", "බත්", "bat", "cooked rice", "rice", name="බයන්න"),
     C("භ", f"{MP_TR} bayanna", "‘b’ — " + SAME.format("බ"), "භෝජනය", "bhōjanaya", "a meal", "plate", name=f"{MP} බයන්න"),
@@ -167,7 +167,7 @@ LANG = build(dict(
         ("Did you know?", "Sri Lanka is famous for its <b>tea</b> (<span class='nt'>තේ</span> <i>tē</i>), its coconuts "
                           "(<span class='nt'>පොල්</span> <i>pol</i>) and its crispy <b>hoppers</b> (<span class='nt'>ආප්ප</span> <i>aappa</i>)."),
     ],
-    hello_pics=[("teacup", {}), ("coconut", {}), ("mosque", {})],
+    hello_pics=[("teacup", {}), ("si_coconut", {}), ("mosque", {})],
     map=region_map(
         frame=[[78.6, 5.6], [82.9, 9.9]],
         points=dict(colombo=[79.86, 6.93], kandy=[80.64, 7.29], galle=[80.22, 6.03], anuradhapura=[80.40, 8.31]),

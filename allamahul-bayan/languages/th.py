@@ -272,9 +272,9 @@ LANG = build(dict(
                    label="THAILAND", label_at=[101.6, 15.2], marker=[101.0, 14.0],
                    caption="The circle shows Thailand on the world map.",
                    legend="<b>Color it:</b> the land <b>green</b> · the seas <b>blue</b>. <b>Find it:</b> Thai is spoken all over "
-                          "Thailand: in Bangkok ★ by the Gulf of Thailand, in Chiang Mai in the northern hills, in Khon Kaen, "
+                          "Thailand: in Bangkok ★ by the sea, in Chiang Mai in the northern hills, in Khon Kaen, "
                           "and in Phuket and Hat Yai in the south.",
-                   seas=[("Andaman Sea", 96.3, 8.2), ("Gulf of Thailand", 102.3, 9.2), ("South China Sea", 106.2, 6.2)],
+                   seas=[("Andaman Sea", 96.2, 12.6), ("South China Sea", 106.2, 6.2)],
                    world_r=13),
     digits=[("๐", "ศูนย์", "suun", "zero"), ("๑", "หนึ่ง", "neung", "one"), ("๒", "สอง", "sawng", "two"),
             ("๓", "สาม", "saam", "three"), ("๔", "สี่", "sii", "four"), ("๕", "ห้า", "haa", "five"),

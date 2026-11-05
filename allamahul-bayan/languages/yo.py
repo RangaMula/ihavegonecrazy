@@ -2,7 +2,7 @@
 """Book 64 - Yoruba (Latin script: 25 letters incl. Ẹ Ọ Ṣ GB, with tone marks). Allamahul Bayan Series. REVIEW DRAFT."""
 from generic import build, section
 from maps import region_map
-from _afrolatin import afro_fonts, GLYPH_FONTS, FONT_CREDIT, maker
+from _afrolatin import afro_fonts, GLYPH_FONTS, FONT_CREDIT, EXTRA_CSS, maker
 
 L = maker("Yoruba name · syllables", ["a", "e", "ẹ", "i", "o", "ọ", "u"])
 
@@ -48,7 +48,7 @@ LANG = build(dict(
     belongs_pic="banana", alphabet_native="álífábẹ́ẹ̀tì", numbers_native="òǹkà", numbers_tr="oh-n-kah",
     phrases_native="Ọ̀rọ̀ àkọ́kọ́",
     fonts=afro_fonts(), disp_family="Baloo 2", text_family="Nunito",
-    glyph_font=GLYPH_FONTS, font_credit=FONT_CREDIT,
+    glyph_font=GLYPH_FONTS, font_credit=FONT_CREDIT, extra_css=EXTRA_CSS,
     phon_feature="each letter’s Yoruba name and its syllables (ba, be, bẹ, bi, bo, bọ, bu)",
     sections=[section(LETTERS, native="álífábẹ́ẹ̀tì Yorùbá", native_tr="ah-LEE-FAH-BEH-eh-tee yoh-roo-BAH — “the Yoruba alphabet”",
                       chart_cols=7, warmup_cols=5,

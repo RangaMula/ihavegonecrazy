@@ -122,8 +122,8 @@ LANG = build(dict(
     map=south_asia_map(
         points=dict(darbhanga=[85.90, 26.15], madhubani=[86.07, 26.35], janakpur=[85.92, 26.73], muzaffarpur=[85.39, 26.12],
                     area=[86.1, 26.4], label=[86.0, 23.4]),
-        area=(70, 30, -5), label="MITHILA",
-        cities=[("darbhanga", "Darbhanga", 6, 26, "middle", True), ("janakpur", "Janakpur", 0, -12, "middle", False)],
+        area=(62, 30, -5), label="MITHILA",
+        cities=[("darbhanga", "Darbhanga", -12, 10, "end", True), ("janakpur", "Janakpur", 12, -4, "start", False)],
         marker=[86.0, 26.4], caption="The circle shows Mithila on the world map.",
         legend="<b>Color it:</b> Mithila (inside the dashed line) <b>yellow</b> · the rest of the land <b>green</b> · the seas <b>blue</b>. "
                "Draw little blue ponds inside it! <b>Find it:</b> Darbhanga ★ is the biggest Maithili city in Bihar; "

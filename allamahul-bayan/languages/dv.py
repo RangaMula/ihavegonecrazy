@@ -10,7 +10,7 @@ from maps import region_map
 FILI = [("ަ", "a"), ("ާ", "aa"), ("ި", "i"), ("ީ", "ee"), ("ު", "u"), ("ޫ", "oo"),
         ("ެ", "e"), ("ޭ", "ey"), ("ޮ", "o"), ("ޯ", "oa")]
 SUKUN = "ް"
-PH = "The letter with its fili (vowel signs)"
+PH = "Letter + fili (vowel signs)"
 
 
 def nt(t):
@@ -18,8 +18,8 @@ def nt(t):
 
 
 def fili_grid(c, tr):
-    cells = "".join(f'<div style="text-align:center"><div class="nt" style="font-size:17pt;line-height:1.55">{c}{f}</div>'
-                    f'<div class="small" style="font-size:8.5pt;line-height:1;direction:ltr">{tr}{v}</div></div>'
+    cells = "".join(f'<div style="text-align:center"><div class="nt" style="font-size:15pt;line-height:1.6">{c}{f}</div>'
+                    f'<div class="small" style="font-size:8.5pt;line-height:1.1;margin-top:1px;direction:ltr">{tr}{v}</div></div>'
                     for f, v in FILI)
     return f'<div style="display:grid;grid-template-columns:repeat(5,1fr);gap:1px 2px;direction:rtl">{cells}</div>'
 
@@ -35,7 +35,7 @@ def inside(c, word):
 LETTERS = [
     T("ހ", "ހާ", "haa", "h", "‘h’ as in “hat”", "ހަނދު", "handhu", "the moon", "moon"),
     T("ށ", "ށަވިޔަނި", "shaviyani", "sh", "‘sh’ as in “shoe” — but at the end of a word (ށް) it says ‘h’",
-      "ކާށި", "kaashi", "coconut", "coconut", note=inside("ށ", "ކާށި")),
+      "ކާށި", "kaashi", "coconut", "dv_coconut", note=inside("ށ", "ކާށި")),
     T("ނ", "ނޫނު", "noonu", "n", "‘n’ as in “net”", "ނަމާދު", "namaadhu", "prayer (salah)", "prayermat",
       note=f"With no fili, {nt('ނ')} glides into the next letter: {nt('ހަނދު')} <i>handhu</i>, {nt('އަނބު')} <i>anbu</i>."),
     T("ރ", "ރާ", "raa", "r", "a tapped ‘r’ — flick the tongue once", "ރޮށި", "roshi", "flatbread (roshi)", "roti"),
@@ -77,25 +77,25 @@ FILI_INFO = [("ަ", "އަބަފިލި", "abafili", "a", "‘a’ in “about”"
              ("ޮ", "އޮބޮފިލި", "obofili", "o", "‘o’ in “on”"), ("ޯ", "އޯބޯފިލި", "oaboafili", "oa", "‘o’ in “go”, long")]
 
 _rows = "".join(
-    f'<tr><td class="nt" style="font-size:18pt">◌{s}</td><td><span class="nt" style="font-size:12pt">{n}</span> '
+    f'<tr><td><span class="nt" style="font-size:12pt">{n}</span> '
     f'<i class="small">{ntr}</i></td><td class="small">{snd}</td>'
-    f'<td class="nt" style="font-size:18pt">ބ{s}</td><td class="tr">b{v}</td><td class="nt" style="font-size:18pt">އ{s}</td>'
+    f'<td class="nt" style="font-size:16pt">ބ{s}</td><td class="tr">b{v}</td><td class="nt" style="font-size:16pt">އ{s}</td>'
     f'<td class="tr">{v}</td></tr>' for s, n, ntr, v, snd in FILI_INFO)
-_rows += (f'<tr><td class="nt" style="font-size:18pt">◌{SUKUN}</td><td><span class="nt" style="font-size:12pt">ސުކުން</span> '
-          f'<i class="small">sukun</i></td><td class="small">no vowel</td><td class="nt" style="font-size:18pt">ބ{SUKUN}</td>'
-          f'<td class="tr">b</td><td class="nt" style="font-size:18pt">އ{SUKUN}</td><td class="small">doubles the next letter</td></tr>')
+_rows += (f'<tr><td><span class="nt" style="font-size:12pt">ސުކުން</span> '
+          f'<i class="small">sukun</i></td><td class="small">no vowel</td><td class="nt" style="font-size:16pt">ބ{SUKUN}</td>'
+          f'<td class="tr">b</td><td class="nt" style="font-size:16pt">އ{SUKUN}</td><td class="small">doubles the next letter</td></tr>')
 
 INTRO = f"""<p>Dhivehi is written <b>from right to left</b>, like the Qur’an. Thaana has <b>24 basic letters</b>, and every one of
 them is a consonant. The vowels are small strokes called <b>fili</b> (<span class="nt">ފިލި</span>).</p>
 <div class="box" style="margin:0.08in 0"><h3>Every letter wears a fili</h3>In a word, each letter carries a fili <b>above</b> or
 <b>below</b> it — or the little circle <b>sukun</b>, which means “no vowel”. In this book the big letters are shown bare so you
 can color them, and each letter page shows the letter with all ten fili.
-<div style="text-align:center;margin-top:3px"><span class="nt" style="font-size:22pt">ބ + ◌ި + ސ + ◌ް = ބިސް</span>
-&nbsp; <i>b + i + s = bis</i> (egg)</div></div>
+<div style="text-align:center;margin-top:3px"><span class="nt" style="font-size:22pt;line-height:2">ބި + ސް = ބިސް</span>
+&nbsp; <i>bi + s = bis</i> (egg)</div></div>
 <table class="ft" style="width:100%;border-collapse:collapse;text-align:center;margin-top:0.06in">
-<tr style="font:600 10pt Fredoka"><th>Fili</th><th>Name</th><th>Sound</th><th colspan="2">With <span class="nt">ބ</span></th>
+<tr style="font:600 10pt Fredoka"><th>Fili name</th><th>Sound</th><th colspan="2">With <span class="nt">ބ</span></th>
 <th colspan="2">Start of a word</th></tr>{_rows}</table>
-<style>.ft td,.ft th{{border-bottom:1.5px solid #bbb;padding:0 4px;line-height:1.5}}</style>
+<style>.ft td,.ft th{{border-bottom:1.5px solid #bbb;padding:0 4px;line-height:1.72}}</style>
 <p class="small" style="margin-top:0.08in">A vowel at the start of a word sits on <span class="nt">އ</span> <i>alifu</i>, which has no sound of
 its own: <span class="nt">އަނބު</span> <i>anbu</i> (mango).</p>"""
 
@@ -115,8 +115,8 @@ LANG = build(dict(
     disp_family="Noto Sans Thaana", text_family="Noto Sans Thaana",
     glyph_font=["noto-sans-thaana-thaana-800-normal.woff2", "baloo-2-latin-800-normal.woff2"],
     font_credit="Noto Sans Thaana",
-    extra_css=(".nt{line-height:1.8} .lp-name{font-size:22pt;line-height:1.7} .lp-word .w{font-size:40pt;line-height:1.7}"
-               " .ft .small,.ft .tr{direction:ltr}"),
+    extra_css=(".nt{line-height:1.8} .lp-name{font-size:21pt;line-height:1.45} .lp-word .w{font-size:40pt;line-height:1.7}"
+               " .ft .small,.ft .tr{direction:ltr} h1 + p.tr{margin-top:12px !important}"),
     phon_feature="every letter written with all ten fili, the Thaana vowel signs (ހަ ހާ ހި ހީ…)",
     sections=[section(LETTERS, title="The Thaana Letters", native="ތާނަ އަކުރު",
                       native_tr="thaana akuru — “the Thaana letters”", chart_cols=6, warmup_cols=6, intro_html=INTRO)],

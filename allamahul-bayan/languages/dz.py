@@ -186,12 +186,12 @@ or <b>under</b> a letter and change its “a” into <i>i, u, e</i> or <i>o</i>.
     map=region_map(frame=[[84.0, 20.5], [96.0, 32.0]],
                    points=dict(thimphu=[89.64, 27.47], punakha=[89.86, 27.58], paro=[89.41, 27.43], trashigang=[91.55, 27.33]),
                    area=(90.45, 27.4, 150, 80),
-                   cities=[("thimphu", "Thimphu", -14, 34, "end", True), ("punakha", "Punakha", 6, -16, "start", False),
-                           ("paro", "Paro", -14, -10, "end", False), ("trashigang", "Trashigang", 12, 28, "start", False)],
+                   cities=[("thimphu", "Thimphu", -16, 30, "end", True), ("punakha", "Punakha", 10, -14, "start", False),
+                           ("trashigang", "Trashigang", 12, 28, "start", False)],
                    label="BHUTAN", label_at=[90.45, 28.75], marker=[90.45, 27.4],
                    caption="The circle shows Bhutan on the world map.",
                    legend="<b>Color it:</b> the land <b>green</b> · the sea <b>blue</b> · the high mountains <b>white</b>. <b>Find it:</b> "
-                          "Dzongkha is spoken across Bhutan (inside the dashed line), in towns like Thimphu, Paro, Punakha and Trashigang.",
+                          "Dzongkha is spoken across Bhutan (inside the dashed line), in towns like Thimphu (the capital), Punakha and Trashigang.",
                    seas=[("Bay of Bengal", 89.0, 21.2)]),
     digits=[("༠", "ཀླད་ཀོར", "lä-kor", "zero"), ("༡", "གཅིག", "chi", "one"), ("༢", "གཉིས", "nyi", "two"),
             ("༣", "གསུམ", "sum", "three"), ("༤", "བཞི", "zhi", "four"), ("༥", "ལྔ", "nga", "five"),
@@ -220,6 +220,8 @@ or <b>under</b> a letter and change its “a” into <i>i, u, e</i> or <i>o</i>.
                  "(Assalamu alaikum, Jazakallahu khairan, Mashallah) are sound-spellings in Tibetan script and should be approved "
                  "by a Bhutanese Muslim reader. The picture for རྔ is a plain drum and for རྫོང a plain fortress building, with no "
                  "religious details."),
+    extra_css=("span.nt{font-size:1.6em;line-height:1} .lp-word .lbl{line-height:2.1} "
+               ".box > .ntd{line-height:1.65 !important}"),
     tiles="ཀཁགངཅཆ", cover_pics=["dz_chilli", "apple", "flower", "mountain"], title_size=48,
     speakers_blurb="Dzongkha is the national language of the Kingdom of Bhutan, high in the Himalaya mountains.",
     sample_words=[("ཀུ་ཤུ", "ku-shu", "apple"), ("མེ་ཏོག", "me-tog", "flower"), ("ཨེ་མ", "e-ma", "chilli")],
