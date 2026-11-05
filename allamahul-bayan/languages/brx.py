@@ -95,7 +95,7 @@ LANG = build(dict(
           note=_rare("Bodo words prefer <span class='nt'>फ</span>; <span class='nt'>पेन</span> comes from English.")),
         C("फ", "pho", "‘p’ with a puff of air", "फान्थौ", "phaanthwu", "eggplant (brinjal)", "brx_eggplant"),
         C("ब", "bo", "‘b’ as in “ball”", "बिबार", "bibaar", "flower", "flower"),
-        C("भ", "bho", "‘b’ with a breath — a rare letter", "भात", "bhaat", "rice on a plate", "plate",
+        C("भ", "bho", "‘b’ with a breath — a rare letter", "भात", "bhaat", "boiled rice (served on a plate)", "plate",
           note=_loan("In Bodo, cooked rice is <span class='nt'>ओंखाम</span> <i>wngkhaam</i>.")),
         C("म", "mo", "‘m’ as in “moon”", "मुलि", "muli", "medicine", "medicine"),
         C("य", "yo", "‘y’ as in “yes” — a rare letter", "यन्त्र", "yontro", "machine", "gears", note=_loan()),
@@ -130,8 +130,8 @@ LANG = build(dict(
     hello_pics=[("mai_bamboo", {}), ("banana", {}), ("brx_orange", {})],
     map=south_asia_map(
         points=dict(kokrajhar=[90.27, 26.40], udalguri=[92.10, 26.75], guwahati=[91.74, 26.14], area=[91.1, 26.6], label=[90.4, 29.4]),
-        area=(42, 16, -8), label="BODOLAND",
-        cities=[("kokrajhar", "Kokrajhar", -8, 26, "end", True), ("udalguri", "Udalguri", 10, -6, "start", False)],
+        area=(56, 20, -8), label="BODOLAND",
+        cities=[("kokrajhar", "Kokrajhar", -8, 26, "end", True), ("udalguri", "Udalguri", 10, -12, "start", False)],
         marker=[91.2, 26.6], caption="The circle shows Bodoland in Assam on the world map.", frame=[[66.5, 6.0], [98.0, 33.5]],
         legend="<b>Color it:</b> Bodoland (inside the dashed line) <b>yellow</b> · the rest of the land <b>green</b> · the seas <b>blue</b>. "
                "Draw the wide Brahmaputra river just below it! <b>Find it:</b> Kokrajhar ★ is the main town of Bodoland."),

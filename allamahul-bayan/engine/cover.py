@@ -99,10 +99,11 @@ body {{ width:{W + 0.05}in; height:{H}in; position:relative; overflow:hidden; ba
   <div style="width:0.75in">{mark_svg()}</div>
   <div class="fd" style="font-size:13pt;text-align:left;line-height:1.2">{SERIES['publisher']}<br><span class="ar" style="font-size:14pt">{SERIES['publisher_ar']}</span></div>
 </div>"""
-    spine_html = f"""
-<div class="abs" style="left:{SX}in;top:0;width:{spine}in;height:{H}in;background:{TEAL}"></div>
+    # KDP allows spine text only on books with more than 79 pages.
+    spine_text = "" if pages <= 79 else f"""
 <div class="abs" style="left:{SX + spine/2}in;top:{H/2}in;transform:translate(-50%,-50%) rotate(90deg);white-space:nowrap;
      color:#fff;font:600 8.5pt 'Fredoka';letter-spacing:.06em">{L['title'].upper()} &nbsp;·&nbsp; ALLAMAHUL BAYAN SERIES {L['series_no']} &nbsp;·&nbsp; {SERIES['author_short'].upper()}</div>"""
+    spine_html = f'<div class="abs" style="left:{SX}in;top:0;width:{spine}in;height:{H}in;background:{TEAL}"></div>' + spine_text
     bx = BLEED
     bullets = "<br>\n".join(f"✓ {b}" for b in C["bullets"])
     back = f"""

@@ -735,7 +735,8 @@ def pillow():
             + star(100, 112, 22, 10, "d", 8))
 
 def coconut():
-    return (C(84, 120, 56, "b") + P("M60 92 q6 -6 12 0 M84 84 q6 -6 12 0", "n t") + C(68, 104, 5, "n") + C(84, 98, 5, "n") + C(78, 116, 5, "n")
+    # no "eyes": three holes on a coconut read as a face, so the shell gets fibre strokes instead
+    return (C(84, 120, 56, "b") + P("M44 96 q10 -6 18 2 M70 76 q8 -6 16 0 M100 72 q8 -2 14 6 M40 130 q10 -4 16 4 M118 150 q8 -6 14 0 M70 160 q8 -4 14 2", "n t")
             + P("M120 180 C120 140 150 124 186 130 C190 166 160 186 120 180 Z", "a") + P("M128 176 C130 146 154 134 178 138 C180 164 158 180 128 176 Z", "d")
             + ground(186))
 

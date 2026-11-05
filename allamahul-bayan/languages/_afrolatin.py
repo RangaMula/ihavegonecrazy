@@ -24,6 +24,7 @@ def afro_fonts():
                 ("Baloo 2", w, "normal", f"baloo-2-vietnamese-{w}-normal.woff2", VIET),
                 ("Baloo 2", w, "normal", f"nunito-latin-ext-{w}-normal.woff2", HOOKS),
                 ("Baloo 2", w, "normal", f"noto-sans-latin-ext-{w}-normal.woff2", NOTO),
+                ("Nunito", w, "normal", f"nunito-latin-ext-{w}-normal.woff2", HOOKS),
                 ("Nunito", w, "normal", f"nunito-vietnamese-{w}-normal.woff2", VIET),
                 ("Nunito", w, "normal", f"noto-sans-latin-ext-{w}-normal.woff2", NOTO)]
     return out

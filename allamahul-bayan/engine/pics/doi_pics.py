@@ -4,8 +4,8 @@ from illos import P, C, E, R, L, leaf, ground
 
 
 def _bean(x, y, rot, s=1.0, cls="e"):
-    d = (f"M{-16*s} {-2*s} C{-16*s} {-14*s} {-2*s} {-14*s} {2*s} {-7*s} C{6*s} {-13*s} {18*s} {-11*s} {18*s} 0 "
-         f"C{18*s} {11*s} {6*s} {13*s} 0 {11*s} C{-9*s} {13*s} {-16*s} {9*s} {-16*s} {-2*s} Z")
+    d = (f"M{-20*s} 0 C{-20*s} {-11*s} {-10*s} {-12*s} 0 {-8*s} C{10*s} {-12*s} {20*s} {-11*s} {20*s} 0 "
+         f"C{20*s} {10*s} {10*s} {12*s} 0 {11*s} C{-10*s} {12*s} {-20*s} {10*s} {-20*s} 0 Z")
     return f'<g transform="translate({x} {y}) rotate({rot})">' + P(d, cls) + "</g>"
 
 

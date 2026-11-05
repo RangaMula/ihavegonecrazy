@@ -38,7 +38,7 @@ LETTERS = [
 
 PAIRS = [
     L("Dh", "dh", "dha", "thah", "‘th’ as in “this” (buzzy)", "dhoruba", "tho-ROO-ba", "storm", "raincloud"),
-    L("Gh", "gh", "gha", "ghah", "a soft gargled ‘g’ from the back of the throat, like Arabic غ", "ghuba", "GHOO-ba",
+    L("Gh", "gh", "gha", "ghah", "a soft gargled ‘g’ from the back of the throat, like Arabic <span class='ar'>غ</span>", "ghuba", "GHOO-ba",
       "bay (where the sea curves into the land)", "waves"),
     L("Ng’", "ng’", "ng’a", "ngah", "‘ng’ as in “sing” — but Swahili can start a word with it!", "kung’aa", "koo-NGA-a",
       "to shine, to sparkle", "star", note="Ng’ hardly ever starts a word you can draw. Find it inside <i>kung’aa</i>!",

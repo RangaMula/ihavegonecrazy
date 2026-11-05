@@ -20,7 +20,7 @@ LETTERS = [
     L("G", "g", "gị", "gih", "‘g’ as in “go” (always hard)", "ugegbe anya", "oo-geh-gbeh ah-nyah", "glasses (“eye mirror”)", "glasses"),
     L("Gb", "gb", "gbị", "gbih", "‘g’ and ‘b’ said <b>together</b>, at the same time", "ụgbọ mmiri", "u-gbaw m-mee-ree",
       "ship (“water vehicle”)", "ship", note=TWO.format("Gb")),
-    L("Gh", "gh", "ghị", "ghih", "a soft gargled ‘g’ from the back of the throat, like Arabic غ", "ịgha mkpụrụ", "ih-ghah m-kpu-ru",
+    L("Gh", "gh", "ghị", "ghih", "a soft gargled ‘g’ from the back of the throat, like Arabic <span class='ar'>غ</span>", "ịgha mkpụrụ", "ih-ghah m-kpu-ru",
       "sowing seeds", "paddy", note=TWO.format("Gh")),
     L("Gw", "gw", "gwụ", "gwu", "‘gw’ as in “Gwen”, with round lips", "ọgwụ", "aw-gwu", "medicine", "medicine", note=TWO.format("Gw")),
     L("H", "h", "hị", "hih", "‘h’ as in “hat”", "ahịhịa", "ah-hih-hih-ah", "grass", "ig_grass"),

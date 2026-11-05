@@ -179,7 +179,7 @@ Capitals start a sentence or a name: <span class="nt" style="font-size:16pt">{ad
              (ad("musiɗɗo gorko · musiɗɗo debbo"), "mu-SIƊ-ɗo GOR-ko · mu-SIƊ-ɗo DEB-bo", "Brother · Sister"),
              (ad("Eey · Alaa"), "eey · a-LAA", "Yes · No"),
              (excl("Miɗo jaŋnga Pulaar!"), "MI-ɗo JANG-nga pu-LAAR!", "I am learning Fula!")],
-    cheer=(excl("Maasha Allah! A waɗii moƴƴa!"), "MAA-sha AL-lah! a wa-ƊII MOƳ-ƴa!", "Mashallah! You did well!"),
+    cheer=(excl("Maasha Allah!") + " " + excl("A waɗii moƴƴa!"), "MAA-sha AL-lah! a wa-ƊII MOƳ-ƴa!", "Mashallah! You did well!"),
     facts_source="speaker numbers from <b>Ethnologue</b> (SIL International, all Fula varieties together); the story of Adlam from "
                  "the <b>Unicode Standard</b> (Adlam block, 2016) and its inventors’ published accounts.",
     book_pic=dict(left="𞤀 𞤁 𞤂", right="𞤃 𞤄 𞤅"),
