@@ -54,14 +54,14 @@ body {{ font-family:'Nunito','{T}',sans-serif; font-size:13pt; line-height:1.4 }
 .inner {{ position:relative; width:100%; height:100% }}
 .pno {{ position:absolute; bottom:0.3in; width:7.1in; text-align:center; font:600 10pt 'Fredoka',sans-serif; color:#555 }}
 .page .pno {{ left:0.8in }} .page.even .pno {{ left:0.6in }}
-h1,h2,h3 {{ font-family:'Fredoka','{D}',sans-serif; font-weight:600; margin:0 }}
+h1,h2,h3 {{ font-family:'Fredoka','Nunito','{D}',sans-serif; font-weight:600; margin:0 }}
 h1 {{ font-size:30pt; line-height:1.15 }}
 h2 {{ font-size:22pt; line-height:1.2 }}
 h3 {{ font-size:14pt }}
 p {{ margin:0 0 0.12in }}
 .frame {{ border:3px solid #111; border-radius:22px }}
 .dash {{ border:2.5px dashed #111; border-radius:18px }}
-.chip {{ display:inline-block; border:2px solid #111; border-radius:999px; padding:1px 12px; font:600 11pt 'Fredoka','{T}',sans-serif }}
+.chip {{ display:inline-block; border:2px solid #111; border-radius:999px; padding:1px 12px; font:600 11pt 'Fredoka','Nunito','{T}',sans-serif }}
 .muted {{ color:#444 }}
 .small {{ font-size:10.5pt }}
 .ill {{ display:block }}
@@ -77,7 +77,7 @@ p {{ margin:0 0 0.12in }}
 .lp-letter {{ width:3.95in; height:4.05in; padding:0.12in; position:relative }}
 .lp-info {{ flex:1; display:flex; flex-direction:column; gap:0.09in }}
 .box {{ border:2px solid #111; border-radius:14px; padding:0.07in 0.13in }}
-.lbl {{ font:600 9pt 'Fredoka','{T}',sans-serif; text-transform:uppercase; letter-spacing:.06em; color:#333 }}
+.lbl {{ font:600 9pt 'Fredoka','Nunito','{T}',sans-serif; text-transform:uppercase; letter-spacing:.06em; color:#333 }}
 .lp-name {{ font:700 22pt '{T}',sans-serif; line-height:1.35 }}
 .lp-pic {{ display:flex; gap:0.15in; height:3.15in; margin-top:0.16in; padding:0.1in 0.18in; align-items:center }}
 .lp-pic .ill {{ width:2.9in; height:2.9in }}

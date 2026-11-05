@@ -114,7 +114,7 @@ That is why {_span(base)} is said <i>{d["base_tr"]}</i>, not just <i>{d["base_tr
                  f"<b>Easy English sound guides</b> plus {lang} phonetics ({_span(base + vir + ' + ' + inh + ' = ' + base)})",
                  f"<b>A word and picture for every letter</b>: {sw}…",
                  "<b>Pencil tracing rows</b> and warm-up pages for vowels and consonants",
-                 f"<b>Map to color</b>, {lang} numbers {_span(d['digits'][0][0] + '–' + d['digits'][9][0])}, first phrases and a certificate",
+                 f"<b>Map to color</b>, {lang} numbers {_span(d['digits'][0][0])}–{_span(d['digits'][9][0])}, first phrases and a certificate",
                  "<b>Single-sided coloring pages</b> so markers never ruin the next picture"])
     L["kdp"] = dict(
         market=d.get("market", "Amazon.com (also Amazon.co.uk and Amazon.ca)"),

@@ -60,7 +60,7 @@ def build(d):
                  f"<b>Easy English sound guides</b> plus {d['phon_feature']}",
                  f"<b>A word and picture for every letter</b>: {sw}…",
                  "<b>Pencil tracing rows</b> and a warm-up page for every part of the alphabet",
-                 f"<b>Map to color</b>, {lang} numbers {_span(dg[0][0] + '–' + dg[9][0])}, first phrases and a certificate",
+                 f"<b>Map to color</b>, {lang} numbers {_span(dg[0][0])}–{_span(dg[9][0])}, first phrases and a certificate",
                  "<b>Single-sided coloring pages</b> so markers never ruin the next picture"])
     L["kdp"] = dict(
         market=d.get("market", "Amazon.com (also Amazon.co.uk and Amazon.ca)"),

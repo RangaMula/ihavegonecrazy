@@ -114,7 +114,9 @@ def waves():
     sun = C(150, 48, 22, "d") + "".join(
         L(150 + 30 * math.cos(math.radians(a)), 48 + 30 * math.sin(math.radians(a)),
           150 + 40 * math.cos(math.radians(a)), 48 + 40 * math.sin(math.radians(a))) for a in range(0, 360, 45))
-    return sun + cloud(26, 70, 0.7) + sea + sea2 + P("M30 170 q10 -8 20 0 M120 172 q10 -8 20 0", "n t")
+    curls = "".join(P(f"M{x} {y} c-10 -14 14 -22 20 -8 c3 6 -4 10 -8 6", "n") for x, y in [(36, 112), (92, 104), (150, 106)])
+    foam = "".join(P(f"M{x} {y} q8 -6 16 0 t16 0", "n t") for x, y in [(24, 132), (100, 128), (40, 164), (130, 164)])
+    return sun + cloud(26, 70, 0.7) + sea + sea2 + curls + foam + P("M30 178 q10 -8 20 0 M120 180 q10 -8 20 0", "n t")
 
 def seasons():
     out = []
