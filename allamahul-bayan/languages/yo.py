@@ -82,9 +82,9 @@ LANG = build(dict(
     map=region_map(frame=[[-0.5, 2.5], [10.5, 13.5]],
                    points=dict(lagos=[3.38, 6.52], ibadan=[3.90, 7.38], ilorin=[4.55, 8.50], akure=[5.20, 7.25], portonovo=[2.63, 6.50]),
                    area=(3.9, 7.6, 230, 190), area_rot=-10,
-                   cities=[("lagos", "Lagos", 14, 18, "start", False), ("ibadan", "Ibadan", -14, 8, "end", False),
+                   cities=[("lagos", "Lagos", 8, 26, "start", False), ("ibadan", "Ibadan", -14, 8, "end", False),
                            ("ilorin", "Ilorin", 14, 8, "start", False), ("akure", "Akure", 14, 8, "start", False),
-                           ("portonovo", "Porto-Novo", -14, 8, "end", False)],
+                           ("portonovo", "Porto-Novo", -10, -12, "end", False)],
                    label="WEST AFRICA", label_at=[0.5, 12.3], marker=[4.0, 8.0],
                    caption="The circle shows Yorubaland, in West Africa, on the world map.",
                    legend="<b>Color it:</b> the land <b>green</b> · the ocean <b>blue</b>. <b>Find it:</b> Yoruba is spoken in Lagos, Ibadan, "
