@@ -298,3 +298,6 @@ MPLUS = {
 
 LANG["fonts"] = [("M PLUS Rounded 1c", w, "normal", f, r) for w, fs in MPLUS.items() for f, r in fs]
 LANG["glyph_font"] = [f for f, _ in MPLUS[800]]
+
+# headings (Fredoka) fall back to the display family for ā ḥ ū …: borrow Baloo 2 latin-ext for those
+LANG["fonts"] += [("M PLUS Rounded 1c", w, "normal", f"baloo-2-latin-ext-{w}-normal.woff2", "U+0100-024F,U+1E00-1EFF") for w in (700,)]

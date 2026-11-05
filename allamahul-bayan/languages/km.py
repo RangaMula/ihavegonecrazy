@@ -95,6 +95,7 @@ LANG = build(dict(
     disp_family="Kantumruy Pro", text_family="Noto Sans Khmer",
     glyph_font=["noto-sans-khmer-khmer-800-normal.woff2"],
     font_credit="Noto Sans Khmer, Kantumruy Pro",
+    extra_css="span.nt{font-size:1.15em}",
     phon_feature="Khmer phonetics: each consonant’s <i>voice</i> (a-voice or o-voice) and how it reads with a vowel sign",
     sections=[
         section(CONSONANTS, label="CONSONANT", chip="PART 1", title="The Consonants", native="ព្យញ្ជនៈ",

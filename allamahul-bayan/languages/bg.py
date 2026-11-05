@@ -60,7 +60,8 @@ LETTERS = [
 
 EXTRA_CSS = ('.grid[style="margin-top:0.08in"]{gap:0.08in!important}'
              '.box[style*="justify-content:space-between;align-items:center;gap:0.2in"]{padding:0.04in 0.13in!important}')
-CYR = [("Nunito Cyrillic", w, "normal", f"nunito-cyrillic-{w}-normal.woff2", None) for w in (400, 700, 800)]
+CYR = ([("Nunito Cyrillic", w, "normal", f"nunito-latin-{w}-normal.woff2", "U+0000-00FF,U+2000-206F") for w in (400, 700, 800)]
+       + [("Nunito Cyrillic", w, "normal", f"nunito-cyrillic-{w}-normal.woff2", None) for w in (400, 700, 800)])
 
 LANG = build(dict(
     code="bg", folder="book-39-bulgarian", series_no=39, isbn="", draft=True,
@@ -98,9 +99,9 @@ but they say <i>v, n, r, s, oo, kh</i>. And <span class="nt"><b>Щ</b></span> sa
         ("How is it written?", "In the <b>Cyrillic alphabet</b>, from <b>left to right</b>."),
         ("How many letters?", "<b>30 letters</b>. <span class=\"nt\"><b>Ъ</b></span> is a real vowel in Bulgarian."),
         ("“The” at the end!", "Bulgarian puts the word for “the” on the <b>end</b> of a word: <span class=\"nt\">книга</span> "
-                              "(a book) → <span class=\"nt\">книгата</span> (the book)."),
+                              "(a book) becomes <span class=\"nt\">книгата</span> (the book)."),
         ("Did you know?", "Some Bulgarian words came from Arabic through Turkish: <span class=\"nt\">джамия</span> "
-                          "(<i>mosque</i>) from <i>jāmiʿ</i>, and <span class=\"nt\">халва</span> (<i>halva</i>) from <i>ḥalwā</i>."),
+                          "(<i>mosque</i>) from <b>jāmiʿ</b>, and <span class=\"nt\">халва</span> (<i>halva</i>) from <i>ḥalwā</i>."),
     ],
     hello_pics=[("flower", {}), ("mountain", {}), ("mosque", {})],
     map=region_map(frame=[[21.0, 39.6], [30.4, 46.4]],

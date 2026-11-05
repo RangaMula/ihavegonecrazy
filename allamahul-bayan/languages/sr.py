@@ -58,7 +58,8 @@ LETTERS = [
 
 EXTRA_CSS = ('.grid[style="margin-top:0.08in"]{gap:0.08in!important}'
              '.box[style*="justify-content:space-between;align-items:center;gap:0.2in"]{padding:0.04in 0.13in!important}')
-CYR = [("Nunito Cyrillic", w, "normal", f"nunito-cyrillic-{w}-normal.woff2", None) for w in (400, 700, 800)]
+CYR = ([("Nunito Cyrillic", w, "normal", f"nunito-latin-{w}-normal.woff2", "U+0000-00FF,U+2000-206F") for w in (400, 700, 800)]
+       + [("Nunito Cyrillic", w, "normal", f"nunito-cyrillic-{w}-normal.woff2", None) for w in (400, 700, 800)])
 
 LANG = build(dict(
     code="sr", folder="book-40-serbian", series_no=40, isbn="", draft=True,
@@ -99,7 +100,7 @@ but they say <i>v, n, r, s, oo, kh, y</i>. Watch out for them!</div>
         ("How many letters?", "<b>30 letters</b>, one for each sound, including <span class=\"nt\"><b>Ђ Ј Љ Њ Ћ Џ</b></span>."),
         ("One letter, one sound", "In the 1800s the scholar <b>Vuk Karadžić</b> set out the alphabet so that every sound has its own letter."),
         ("Did you know?", "Some Serbian words came from Arabic through Turkish: <span class=\"nt\">џамија</span> "
-                          "(<i>mosque</i>) from <i>jāmiʿ</i>, and <span class=\"nt\">џеп</span> (<i>pocket</i>) from <i>jayb</i>."),
+                          "(<i>mosque</i>) from <b>jāmiʿ</b>, and <span class=\"nt\">џеп</span> (<i>pocket</i>) from <i>jayb</i>."),
     ],
     hello_pics=[("apple", {}), ("swing", {}), ("mosque", {})],
     map=region_map(frame=[[16.0, 40.6], [25.6, 47.6]],

@@ -108,7 +108,8 @@ LANG = build(dict(
     glyph_font=None,
     font_credit="Jua (BM JUA) and Noto Sans KR",
     phon_feature="how each letter joins others into a syllable block (ㄱ + ㅏ = 가)",
-    letters_word="Letters",
+    letters_word="Hangeul Letters",
+    extra_css=".grid > .box > .ntd{font-size:17pt !important;line-height:1.35 !important}",
     sections=[
         section(VOWELS, label="VOWEL", chip="THE VOWELS", title="The Vowels", native="모음",
                 native_tr="mo-eum — “vowels”", intro_html=VOWEL_INTRO, chart_title="vowels", chart_cols=5,
@@ -148,7 +149,7 @@ LANG = build(dict(
                    area=(127.45, 38.0, 250, 440), area_rot=-14,
                    cities=[("seoul", "Seoul", 14, 8, "start", False), ("busan", "Busan", 14, 8, "start", False),
                            ("pyongyang", "Pyongyang", 14, 8, "start", False), ("jeju", "Jeju", 14, 8, "start", False)],
-                   label="KOREA", label_at=[128.4, 40.9], marker=[127.6, 37.5],
+                   label="KOREA", label_at=[128.0, 40.55], marker=[127.6, 37.5],
                    caption="The circle shows Korea on the world map.",
                    legend="<b>Color it:</b> the land <b>green</b> · the sea <b>blue</b>. <b>Find it:</b> Korean is spoken all over "
                           "the Korean Peninsula, in Seoul, Busan, Pyongyang and on Jeju Island, and by Korean families around the world.",
@@ -278,3 +279,7 @@ NOTO_KR = {
 LANG["fonts"] = ([("Jua", w, "normal", f, r) for w in (400, 700, 800) for f, r in JUA]
                  + [("Noto Sans KR", w, "normal", f, r) for w, fs in NOTO_KR.items() for f, r in fs])
 LANG["glyph_font"] = [f for f, _ in JUA]
+
+# headings (Fredoka) fall back to the display family for ā ḥ ū …: borrow Baloo 2 latin-ext for those
+LANG["fonts"] += [(fam, 700, "normal", "baloo-2-latin-ext-700-normal.woff2", "U+0100-024F,U+1E00-1EFF")
+                  for fam in ("Jua", "Noto Sans KR")]

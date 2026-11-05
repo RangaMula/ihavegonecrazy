@@ -36,7 +36,7 @@ def J(ch, name, name_tr, sound, word, tr, meaning, pic, kind="dual", note=None, 
 
 S = "<span class='nt'>{}</span>".format
 ARABIC = "Used mostly in words that come from Arabic."
-JAWI = "A Jawi letter: Arabic has no letter for this sound."
+JAWI = "A special Jawi letter."
 
 LETTERS = [
     J("ا", "اليف", "alif", "‘a’ as in “father”; at the start of a word it can also carry ‘e’, ‘i’ or ‘u’", "اون", "awan", "cloud",
@@ -72,9 +72,9 @@ LETTERS = [
     J("غ", "غين", "ghain", "a soft gargled ‘gh’ from the back of the throat", "مغرب", "Maghrib", "sunset — the time of the evening prayer",
       "ms_sunset", note="Find " + S("غ") + " in the middle of " + S("مغرب") + ".", extra=ARABIC),
     J("ڠ", "ڠا", "nga", "‘ng’ as in “sing” — written <b>ng</b> in Rumi", "بوڠا", "bunga", "flower", "flower",
-      note="Find " + S("ڠ") + " in the middle of " + S("بوڠا") + "!", extra=JAWI + " Three dots above " + S("ع") + "."),
+      note="Find " + S("ڠ") + " in the middle of " + S("بوڠا") + "!", extra=JAWI + " " + S("ع") + " with three dots."),
     J("ف", "فا", "fa", "‘f’ as in “fan”", "فجر", "fajar", "dawn", "sunrise"),
-    J("ڤ", "ڤا", "pa", "‘p’ as in “pen”", "ڤيسڠ", "pisang", "banana", "banana", extra=JAWI + " Three dots above " + S("ف") + "."),
+    J("ڤ", "ڤا", "pa", "‘p’ as in “pen”", "ڤيسڠ", "pisang", "banana", "banana", extra=JAWI + " " + S("ف") + " with three dots."),
     J("ق", "قاف", "qaf", "‘k’ said far back in the throat (in Malay, often just ‘k’)", "قلم", "kalam", "pen", "pen"),
     J("ک", "کاف", "kaf", "‘k’ as in “kite”", "کتوڤت", "ketupat", "ketupat — rice cooked in a woven palm-leaf case for Hari Raya",
       "ms_ketupat"),
@@ -95,7 +95,7 @@ LETTERS = [
       "Duha — the bright late-morning time", "sun", kind="final", note="Find " + S("ى") + " at the end of " + S("ضحى") + "!",
       extra="It looks like " + S("ي") + " without its dots."),
     J("ڽ", "ڽا", "nya", "‘ny’ as in “canyon” — written <b>ny</b> in Rumi", "ڽيور", "nyiur", "coconut palm", "ms_palm",
-      extra=JAWI + " Three dots below."),
+      extra=JAWI + " Dots above when alone, below when joined."),
 ]
 
 INTRO = """<p>Jawi is written <b>from right to left</b>. Open your book at any letter page and start reading on the right!</p>

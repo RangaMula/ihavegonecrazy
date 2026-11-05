@@ -120,10 +120,10 @@ LANG = build(dict(
     hello_pics=[("kok_cashew", {}), ("coconut", {}), ("boat", {})],
     map=south_asia_map(
         points=dict(panaji=[73.83, 15.49], margao=[73.96, 15.28], karwar=[74.13, 14.81], mangaluru=[74.86, 12.91],
-                    area=[74.05, 14.9], label=[78.6, 15.6]),
-        area=(20, 50, -18), label="KONKAN",
-        cities=[("panaji", "Panaji", -12, 6, "end", True), ("karwar", "Karwar", 12, 10, "start", False),
-                ("mangaluru", "Mangaluru", 12, 8, "start", False)],
+                    area=[74.0, 14.8], label=[79.6, 17.2]),
+        area=(30, 92, -16), label="KONKAN",
+        cities=[("panaji", "Panaji", -20, 4, "end", True), ("karwar", "Karwar", 20, 10, "start", False),
+                ("mangaluru", "Mangaluru", 20, 8, "start", False)],
         marker=[74.0, 15.0], caption="The circle shows Goa and the Konkan coast on the world map.",
         legend="<b>Color it:</b> the Konkan coast (inside the dashed line) <b>yellow</b> · the rest of the land <b>green</b> · the sea "
                "<b>blue</b>. Draw coconut palms along the beach! <b>Find it:</b> Panaji ★ is the capital of Goa; Karwar and Mangaluru "

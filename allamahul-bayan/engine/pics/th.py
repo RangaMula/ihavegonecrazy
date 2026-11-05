@@ -234,6 +234,27 @@ def bananaleaf():
             + P("M18 186 C70 128 130 64 186 18", "n") + veins)
 
 
+def junk():
+    """Sam-phao: an old wooden sailing ship with ribbed sails."""
+    sail1 = P("M84 30 C100 26 116 30 122 36 L126 132 L84 132 Z", "c")
+    sail2 = P("M134 54 C146 50 158 54 162 58 L166 132 L134 132 Z", "d")
+    battens = ("".join(L(84, y, 124, y, "n t") for y in (54, 78, 102))
+               + "".join(L(134, y, 164, y, "n t") for y in (78, 104)))
+    return (sail1 + sail2 + battens + R(78, 26, 7, 116, "b", 2) + R(128, 48, 7, 94, "b", 2)
+            + P("M10 120 C40 138 160 140 190 112 C186 148 168 172 138 174 L62 174 C34 172 16 150 10 120 Z", "b")
+            + P("M30 142 C70 150 130 150 172 140", "n t")
+            + P("M4 184 C24 176 44 192 64 184 C84 176 104 192 124 184 C144 176 164 192 196 182", "n"))
+
+
+def ongjar():
+    """Ong: a big round clay water jar."""
+    return (P("M66 48 L134 48 L136 62 C174 78 180 132 154 166 C144 180 56 180 46 166 C20 132 26 78 64 62 Z", "b")
+            + R(58, 38, 84, 14, "c", 6)
+            + P("M34 100 C80 112 120 112 166 100 M36 130 C80 142 120 142 164 130", "n t")
+            + "".join(C(x, 118, 5, "d") for x in (52, 76, 100, 124, 148))
+            + ground(180))
+
+
 def flag():
     """A flag with stripes to color (any colours you like)."""
     stripes = [(30, 14, "c"), (44, 12, "a"), (56, 26, "d"), (82, 12, "a"), (94, 14, "c")]
@@ -247,4 +268,4 @@ PICS = {"th_bottle": bottle, "th_hammer": hammer, "th_bell": bell, "th_rambutan"
         "th_pedestal": pedestal, "th_grandstand": grandstand, "th_gem": gem, "th_bag": bag, "th_leaf": leafbig,
         "th_lid": lid, "th_phaan": phaan, "th_pumpkin": pumpkin, "th_eraser": eraser, "th_sala": sala,
         "th_paper": paper, "th_chest": chest, "th_basin": basin, "th_chula": chula,
-        "th_helicopter": helicopter, "th_key": key, "th_bed": bed, "th_bananaleaf": bananaleaf, "th_flag": flag}
+        "th_helicopter": helicopter, "th_key": key, "th_bed": bed, "th_bananaleaf": bananaleaf, "th_flag": flag, "th_junk": junk, "th_ongjar": ongjar}

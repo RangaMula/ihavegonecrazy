@@ -100,7 +100,7 @@ CONSONANTS = [
     CN("ฟ", "ฟอ ฟัน", "faw fan", "L", "f", "‘f’ as in “fan”", "-p", "ฟักทอง", "fak-thawng", "pumpkin", "th_pumpkin",
        why="body", name_mean="tooth"),
     CN("ภ", "ภอ สำเภา", "phaw sam-phao", "L", "ph", f"‘p’ {ASP}, as in “pen”", "-p", "สำเภา", "sam-phao",
-       "sailing junk (an old ship)", "ship",
+       "junk (an old sailing ship)", "th_junk",
        note=f"This is the letter’s own name word: {NT('สำเภา')}. Find {NT('ภ')} at the end!"),
     CN("ม", "มอ ม้า", "maw maa", "L", "m", "‘m’ as in “moon”", "-m", "มะม่วง", "ma-muang", "mango", "mango",
        why="animal", name_mean="horse"),
@@ -147,7 +147,7 @@ def VW(carrier, sign, name, name_tr, sound, where, length, ex, ex_tr, word, tr, 
 
 VOWELS = [
     VW("อะ", "◌ะ", "สระอะ", "sa-ra a", "a short ‘a’ as in “cup”, cut off quickly", "after", "short", "กะ", "ga",
-       "มะพร้าว", "ma-phraao", "coconut", "coconut"),
+       "มะนาว", "ma-naao", "lime", "lemon"),
     VW("อา", "◌า", "สระอา", "sa-ra aa", "a long ‘aa’ as in “father”", "after", "long", "กา", "gaa",
        "นาฬิกา", "naa-li-gaa", "clock", "clock"),
     VW("อิ", "◌ิ", "สระอิ", "sa-ra i", "a short ‘i’ as in “sit”", "above", "short", "กิ", "gi",
@@ -168,7 +168,7 @@ VOWELS = [
     VW("แอ", "แ◌", "สระแอ", "sa-ra ae", "a long ‘a’ as in “cat”", "before", "long", "แก", "gae",
        "แตงโม", "dtaeng-moo", "watermelon", "watermelon"),
     VW("โอ", "โ◌", "สระโอ", "sa-ra oo", "a long ‘o’ as in “go” (with no ‘w’ at the end)", "before", "long", "โก",
-       "goo", "โอ่ง", "oong", "big water jar", "jar"),
+       "goo", "โอ่ง", "oong", "big water jar", "th_ongjar"),
     VW("ออ", "◌อ", "สระออ", "sa-ra aw", "a long ‘aw’ as in “saw”", "after", "long", "กอ", "gaw",
        "ช้อน", "chawn", "spoon", "spoon"),
     VW("เอีย", "เ◌ีย", "สระเอีย", "sa-ra ia", "‘ee-a’, sliding together, as in “Mia”", "around", "long", "เกีย",
@@ -197,7 +197,7 @@ Two of them, {NT('ฃ')} and {NT('ฅ')}, are no longer used in words, but they 
 picked another word with the same letter. The page always tells you the real name word.</div>
 <div class="box" style="margin:0.1in 0"><h3>Three families of letters</h3>Every consonant is <b>middle-class</b>,
 <b>high-class</b> or <b>low-class</b>. The class helps decide the <b>tone</b> of a word:
-<div class="small" style="margin-top:3px">middle {NT('ก จ ฎ ฏ ด ต บ ป อ')} · high {NT('ข ฃ ฉ ฐ ถ ผ ฝ ศ ษ ส ห')} · low: all the others</div></div>
+<div style="margin-top:3px;font-size:12pt">middle {NT('ก จ ฎ ฏ ด ต บ ป อ')} · high {NT('ข ฃ ฉ ฐ ถ ผ ฝ ศ ษ ส ห')} · low: all the others</div></div>
 <div class="box"><h3>Thai has tones!</h3>Thai has <b>five tones</b> — mid, low, falling, high and rising — so
 the same sound can mean different things. Four little marks above a letter help show the tone:
 <div class="nt" style="font-size:18pt;text-align:center">ก่ · ก้ · ก๊ · ก๋</div>
@@ -274,7 +274,7 @@ LANG = build(dict(
                    legend="<b>Color it:</b> the land <b>green</b> · the seas <b>blue</b>. <b>Find it:</b> Thai is spoken all over "
                           "Thailand: in Bangkok ★ by the Gulf of Thailand, in Chiang Mai in the northern hills, in Khon Kaen, "
                           "and in Phuket and Hat Yai in the south.",
-                   seas=[("Andaman Sea", 96.6, 10.5), ("Gulf of Thailand", 101.6, 10.4), ("South China Sea", 106.2, 7.0)],
+                   seas=[("Andaman Sea", 96.3, 8.2), ("Gulf of Thailand", 102.3, 9.2), ("South China Sea", 106.2, 6.2)],
                    world_r=13),
     digits=[("๐", "ศูนย์", "suun", "zero"), ("๑", "หนึ่ง", "neung", "one"), ("๒", "สอง", "sawng", "two"),
             ("๓", "สาม", "saam", "three"), ("๔", "สี่", "sii", "four"), ("๕", "ห้า", "haa", "five"),

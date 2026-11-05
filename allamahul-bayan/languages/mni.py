@@ -16,7 +16,10 @@ def phon_box(big, small, rule=None):
 
 def K(ch, name, rom, sound, word, tr, meaning, pic, args=None, note=None, rule=None, partner=None):
     """A consonant letter (Iyek Ipee or Lom Iyek)."""
-    small = f"Its name is «{rom}». With vowel signs: {NT.format(f'{ch}ꯥ {ch}ꯤ {ch}ꯨ {ch}ꯦ')}"
+    if ch in "ꯎꯏ":
+        small = f"Its name is «{rom}». A vowel letter: it starts a word on its own, without ꯑ."
+    else:
+        small = f"Its name is «{rom}». With vowel signs: {NT.format(f'{ch}ꯥ {ch}ꯤ {ch}ꯨ {ch}ꯦ')}"
     if partner:
         p, how = partner
         small += f"<br>Partner letter: {NT.format(p)} — {how}"
@@ -97,19 +100,19 @@ CHEITAP = [
 
 LONSUM = [
     F("ꯛ", "ꯀ", "ꯀꯣꯛ ꯂꯣꯟꯁꯨꯝ", "kok lonsum", "a short ‘k’ that stops the word", "ꯆꯥꯛ", "chaak", "rice (cooked)", "rice",
-      how=NT.format("ꯆ + ꯥ + ꯛ = ꯆꯥꯛ")),
+      how=NT.format("ꯆ + ◌ꯥ + ꯛ = ꯆꯥꯛ")),
     F("ꯜ", "ꯂ", "ꯂꯥꯏ ꯂꯣꯟꯁꯨꯝ", "lai lonsum", "‘l’ at the end, as in “ball”", "ꯂꯩꯆꯤꯜ", "LEI-chil", "cloud", "clouds",
-      how=NT.format("ꯆ + ꯤ + ꯜ = ꯆꯤꯜ")),
+      how=NT.format("ꯆ + ◌ꯤ + ꯜ = ꯆꯤꯜ")),
     F("ꯝ", "ꯃ", "ꯃꯤꯠ ꯂꯣꯟꯁꯨꯝ", "mit lonsum", "‘m’ at the end, as in “drum”", "ꯊꯨꯝ", "thoom", "salt", "salt", dict(label="ꯊꯨꯝ"),
-      how=NT.format("ꯊ + ꯨ + ꯝ = ꯊꯨꯝ")),
+      how=NT.format("ꯊ + ◌ꯨ + ꯝ = ꯊꯨꯝ")),
     F("ꯞ", "ꯄ", "ꯄꯥ ꯂꯣꯟꯁꯨꯝ", "pa lonsum", "a short ‘p’ that stops the word", "ꯈꯣꯡꯎꯞ", "KHONG-oop", "shoe", "mni_shoe",
       how=NT.format("ꯎ + ꯞ = ꯎꯞ")),
     F("ꯟ", "ꯅ", "ꯅꯥ ꯂꯣꯟꯁꯨꯝ", "na lonsum", "‘n’ at the end, as in “sun”", "ꯈꯥꯃꯦꯟ ꯑꯁꯤꯟꯕ", "KHAA-men a-SIN-ba", "tomato", "tomato",
-      how=NT.format("ꯃ + ꯦ + ꯟ = ꯃꯦꯟ")),
+      how=NT.format("ꯃ + ◌ꯦ + ꯟ = ꯃꯦꯟ")),
     F("ꯠ", "ꯇ", "ꯇꯤꯜ ꯂꯣꯟꯁꯨꯝ", "til lonsum", "a short ‘t’ that stops the word", "ꯅꯨꯃꯤꯠ", "NOO-mit", "sun", "sun",
-      how=NT.format("ꯃ + ꯤ + ꯠ = ꯃꯤꯠ")),
+      how=NT.format("ꯃ + ◌ꯤ + ꯠ = ꯃꯤꯠ")),
     F("ꯡ", "ꯉ", "ꯉꯧ ꯂꯣꯟꯁꯨꯝ", "ngou lonsum", "‘ng’ at the end, as in “sing”", "ꯆꯨꯝꯊꯥꯡ", "CHOOM-thaang", "rainbow", "rainbow",
-      how=NT.format("ꯊ + ꯥ + ꯡ = ꯊꯥꯡ")),
+      how=NT.format("ꯊ + ◌ꯥ + ꯡ = ꯊꯥꯡ")),
     F("ꯢ", "ꯏ", "ꯏ ꯂꯣꯟꯁꯨꯝ", "ee lonsum", "a short ‘i’ that ends a sound, as in “eye”", "ꯂꯥꯢꯔꯤꯛ", "LAI-rik", "book", "book",
       dict(left="ꯀ ꯁ ꯂ", right="ꯃ ꯄ ꯅ"),
       note="Many books write this word with " + NT.format("ꯏ") + " instead: " + NT.format("ꯂꯥꯏꯔꯤꯛ") + "."),
@@ -147,7 +150,7 @@ INTRO_LONSUM = """<p><b>Lonsum Iyek</b> are the <b>8 final letters</b>. When a s
 and loses its hidden vowel.</p>
 <div class="box" style="margin:0.1in 0"><h3>Before and after</h3>
 <div class="nt" style="font-size:19pt;line-height:1.7;margin-top:4px">ꯀ → ꯛ · ꯂ → ꯜ · ꯃ → ꯝ · ꯄ → ꯞ<br>ꯅ → ꯟ · ꯇ → ꯠ · ꯉ → ꯡ · ꯏ → ꯢ</div></div>
-<div class="box"><h3>Try it</h3><span class="nt">ꯌ + ꯨ + ꯝ = ꯌꯨꯝ</span> «yoom», “house”. Without the final letter it would be
+<div class="box"><h3>Try it</h3><span class="nt">ꯌ + ◌ꯨ + ꯝ = ꯌꯨꯝ</span> «yoom», “house”. Without the final letter it would be
 <span class="nt">ꯌꯨ</span> «yu».</div>"""
 
 LANG = build(dict(

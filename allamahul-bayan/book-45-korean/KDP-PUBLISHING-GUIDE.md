@@ -12,14 +12,14 @@ Upload files (both in `output/`):
 ## 1. Paperback details
 
 - **Language:** English · **Book title:** My First Korean Alphabet
-- **Subtitle:** A Coloring Book to Learn, Trace & Say the 24 Korean Letters with English Phonetics
+- **Subtitle:** A Coloring Book to Learn, Trace & Say the 24 Korean Hangeul Letters with English Phonetics
 - **Series:** Allamahul Bayan Series — **Series number:** 45 · **Edition:** 1
 - **Author:** Hafez Abdullah Muhammad Minhaz Reza · **Contributors:** none (the AI assistance is declared in the AI-content questions)
 - **Description** (HTML box):
 
 ```html
 <p><b>Color your way into Korean — one letter at a time!</b></p>
-<p>Korean is spoken by about 80 million people in Korea and around the world. This big, friendly coloring book introduces young children to <b>24 letters</b> of Korean <b>through English</b>, so no Korean is needed at home.</p>
+<p>Korean is spoken by about 80 million people in Korea and around the world. This big, friendly coloring book introduces young children to <b>24 hangeul letters</b> of Korean <b>through English</b>, so no Korean is needed at home.</p>
 <ul>
 <li><b>Every letter on its own page:</b> a giant letter to color, with its name written in Korean <i>and</i> in English letters</li>
 <li><b>Easy English sound guides</b> plus how each letter joins others into a syllable block (ㄱ + ㅏ = 가)</li>

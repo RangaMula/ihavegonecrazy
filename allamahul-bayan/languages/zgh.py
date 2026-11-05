@@ -126,7 +126,7 @@ The little mark <span class="ntd" style="font-size:18pt">ⵯ</span> means “rou
     map=region_map(frame=[[-13.5, 28.3], [-0.5, 37.6]],
                    points=dict(rabat=[-6.84, 34.02], agadir=[-9.60, 30.42], marrakesh=[-7.99, 31.63], fes=[-5.00, 34.03],
                                alhoceima=[-3.93, 35.25]),
-                   area=(-7.4, 31.2, 175, 85), area_rot=-25,
+                   area=(-6.9, 31.5, 200, 80), area_rot=-30,
                    cities=[("rabat", "Rabat", 12, 8, "start", True), ("agadir", "Agadir", 12, 8, "start", False),
                            ("marrakesh", "Marrakesh", 12, 8, "start", False), ("fes", "Fes", 12, 8, "start", False),
                            ("alhoceima", "Al Hoceima", 12, -8, "start", False)],

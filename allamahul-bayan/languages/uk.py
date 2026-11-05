@@ -64,7 +64,8 @@ LETTERS = [
 
 EXTRA_CSS = ('.grid[style="margin-top:0.08in"]{gap:0.08in!important}'
              '.box[style*="justify-content:space-between;align-items:center;gap:0.2in"]{padding:0.04in 0.13in!important}')
-CYR = [("Nunito Cyrillic", w, "normal", f"nunito-cyrillic-{w}-normal.woff2", None) for w in (400, 700, 800)]
+CYR = ([("Nunito Cyrillic", w, "normal", f"nunito-latin-{w}-normal.woff2", "U+0000-00FF,U+2000-206F") for w in (400, 700, 800)]
+       + [("Nunito Cyrillic", w, "normal", f"nunito-cyrillic-{w}-normal.woff2", None) for w in (400, 700, 800)])
 
 LANG = build(dict(
     code="uk", folder="book-38-ukrainian", series_no=38, isbn="", draft=True,

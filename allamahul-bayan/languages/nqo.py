@@ -132,7 +132,7 @@ In Bambara it says ‘g’ as in “go”; in Maninka it says ‘gb’, with bot
     map=region_map(frame=[[-18.0, 4.5], [0.5, 22.0]],
                    points=dict(bamako=[-8.00, 12.64], segou=[-6.27, 13.43], kankan=[-9.31, 10.38], sikasso=[-5.67, 11.32],
                                kayes=[-11.44, 14.45]),
-                   area=(-8.0, 12.4, 120, 90), area_rot=0,
+                   area=(-8.0, 12.2, 150, 115), area_rot=0,
                    cities=[("bamako", "Bamako", 12, 8, "start", True), ("segou", "Ségou", 12, 8, "start", False),
                            ("kankan", "Kankan", 12, 8, "start", False), ("sikasso", "Sikasso", 12, 8, "start", False),
                            ("kayes", "Kayes", 12, -8, "start", False)],
