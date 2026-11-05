@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Book 73 - Wolof (Latin script, official CLAD spelling, 27 letters). Allamahul Bayan Series. REVIEW DRAFT.
+"""Book 73 - Wolof (Latin script, official CLAD spelling, 26 letters). Allamahul Bayan Series. REVIEW DRAFT.
 Big letter = capital + small ("Aa"), as in languages/es.py."""
 from generic import build, section, fontset
 from maps import region_map
@@ -57,7 +57,7 @@ LANG = build(dict(
     phon_feature="each letter’s Wolof syllable row (ba be bë bi bo bu), including the Wolof letters Ë, Ñ and Ŋ",
     sections=[section(LETTERS, native="araf yi", native_tr="AH-rahf yee — “the letters”",
                       chart_cols=7, warmup_cols=6,
-                      intro_html="""<p>Wolof is written with <b>27 letters</b> in the official Latin spelling, including three that English
+                      intro_html="""<p>This book teaches the <b>26 capital-and-small letters</b> of the official Latin spelling, including three that English
 does not have: <b>Ë</b>, <b>Ñ</b> and <b>Ŋ</b>. <b>H, V</b> and <b>Z</b> appear only in borrowed words.</p>
 <div class="box" style="margin:0.1in 0"><h3>Little marks on vowels</h3><b>à</b> is a short, sharp a; <b>é</b> and <b>ó</b> are closed
 (like “day” and “go”); <b>ë</b> is the soft ‘u’ of “but”. A double vowel is long: <i>ceeb</i>, <i>suuf</i>.</div>
@@ -78,7 +78,7 @@ and <b>Q</b> like Arabic <span class="ar">ق</span>. Wolof has borrowed many wor
         ("How is it written?", "In the <b>Latin alphabet</b>, from <b>left to right</b>, with the extra letters <b>Ë, Ñ, Ŋ</b>."),
         ("Written in Arabic letters too", "For centuries Wolof has also been written in Arabic letters, called <b>Wolofal</b> "
                                           "(Wolof Ajami). Scholars wrote poems in Wolofal, and it is still learnt in Qur’an schools."),
-        ("How many letters?", "<b>27 letters</b> in this book."),
+        ("How many letters?", "<b>26 letters</b> in this book, plus the accented vowels <b>à é ó</b>."),
         ("Did you know?", "Most Wolof speakers are Muslim. The two Eids are called <b>Korite</b> (Eid al-Fitr) and <b>Tabaski</b> "
                           "(Eid al-Adha), and the greeting is <i>Asalaa maalekum!</i>"),
     ],

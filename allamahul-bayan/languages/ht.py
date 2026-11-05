@@ -61,7 +61,7 @@ PAIRS = [
 LANG = build(dict(
     code="ht", folder="book-87-haitian-creole", series_no=87, isbn="", draft=True,
     name="Haitian Creole", native="kreyòl ayisyen", native_tr="kray-OL ah-yee-SYEN", name_word="non", write_word="ekri",
-    title_native="Premye abese mwen an kreyòl", title_letters="AaÈèOuou", belongs_native="Liv sa a se pou",
+    title_native="Premye abese mwen an kreyòl", title_letters="AaÈèÒò", belongs_native="Liv sa a se pou",
     belongs_pic="star", alphabet_native="alfabè a", numbers_native="chif yo", numbers_tr="sheef yoh",
     phrases_native="Premye mo yo", letters_word="Letters and Sounds",
     fonts=AF.afro_fonts(), disp_family="Baloo 2", text_family="Nunito",
@@ -145,7 +145,7 @@ on its own — it tells you to send the vowel through your nose.</div>
     review_note="Check: <i>hamak</i> for H (H is rare; a better H word is welcome); <i>eskalye</i> (stairs) for E; <i>bilding</i> for NG; "
                 "<i>uit</i> for UI (or <i>kuiyè</i>, spoon); letter names «be, de, fe…»; <i>bannann</i>, <i>zanmann</i>, <i>yanm</i> spellings; "
                 "the sound guide for R; the title <i>Premye abese mwen an kreyòl</i>; and the cheer <i>Bravo, ou fè l byen</i>.",
-    tiles="AÈKOuChZ"[:0] + "AÈKMSZ", cover_pics=["mango", "coconut", "boat", "sun"],
+    tiles="AÈKMÒZ", cover_pics=["mango", "coconut", "boat", "sun"],
     speakers_blurb="Haitian Creole (Kreyòl) is spoken by about 12 million people in Haiti and around the world.",
     sample_words=[("solèy", "soh-LEY", "sun"), ("kokoye", "koh-koh-YAY", "coconut"), ("zetwal", "zay-TWAHL", "star")],
     keywords=["haitian creole alphabet book for kids", "learn kreyol for children", "kreyol ayisyen coloring book",
