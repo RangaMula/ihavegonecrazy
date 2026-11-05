@@ -146,7 +146,7 @@ LANG = build(dict(
     font_credit="M PLUS Rounded 1c",
     phon_feature="each letter’s row in the fifty-sound chart and its katakana twin (か · カ)",
     letters_word="Hiragana Letters",
-    extra_css=".hl{border:2.5px solid #111;border-radius:8px;padding:0 4px}",
+    extra_css=".hl{border:2.5px solid #111;border-radius:8px;padding:0 4px} .dash > .ntd{font-size:20pt !important}",
     sections=[
         section(VOWELS, label="HIRAGANA", chip="THE VOWELS", title="The Vowels", native="あいうえお",
                 native_tr="a i u e o — the five vowels", intro_html=INTRO_VOWELS, chart_title="vowels", chart_cols=5,
@@ -211,7 +211,7 @@ LANG = build(dict(
              ("おかあさん · おとうさん", "okaasan · otoosan", "Mother · Father"),
              ("おにいさん · おねえさん", "oniisan · oneesan", "Big brother · Big sister"),
              ("はい · いいえ", "hai · iie", "Yes · No"),
-             ("にほんごを べんきょう しています！", "nihongo o benkyoo shite imasu!", "I am learning Japanese!")],
+             ("にほんごを ならって います！", "nihongo o naratte imasu!", "I am learning Japanese!")],
     cheer=("マーシャーアッラー！ よく できました！", "maashaa-allaah! yoku dekimashita!", "Mashallah! Well done!"),
     facts_source="speaker numbers from <b>Ethnologue</b> (SIL International); the first-year kanji list from Japan’s "
                  "<b>Ministry of Education (MEXT)</b>.",

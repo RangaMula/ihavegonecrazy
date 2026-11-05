@@ -90,15 +90,16 @@ def iu_parka():
 
 
 def iu_sled():
-    return (P("M14 150 L176 150 C192 150 192 128 180 126 L172 126 L172 138 L20 138 Z", "b")
-            + P("M14 120 L176 120 C192 120 192 98 180 96 L172 96 L172 108 L20 108 Z", "b")
-            + "".join(R(x, 82, 16, 70, "d", 3) for x in (36, 70, 104, 138))
-            + P("M30 160 l150 0", "n t") + ground(176))
+    slats = "".join(poly([(x, 132), (x + 16, 132), (x + 40, 96), (x + 24, 96)], "d") for x in (22, 58, 94, 130))
+    return (P("M40 96 L170 96 C184 96 190 86 184 76 L176 78 C180 84 176 88 168 88 L40 88 Z", "b")
+            + slats
+            + P("M12 142 L166 142 C182 142 190 128 184 116 L176 118 C180 126 174 132 164 132 L12 132 Z", "b")
+            + ground(170) + P("M30 156 h60 M110 160 h50", "n t"))
 
 
 def iu_hat():
     return (P("M40 140 C40 70 160 70 160 140 Z", "b") + R(34, 136, 132, 30, "d", 10)
-            + C(100, 54, 18, "e") + P("M60 150 h80 M70 120 C80 96 120 96 130 120", "n t")
+            + C(100, 76, 16, "e") + P("M60 150 h80 M70 120 C80 96 120 96 130 120", "n t")
             + P("M56 108 l8 -8 l8 8 l8 -8 l8 8 l8 -8 l8 8 l8 -8 l8 8 l8 -8 l8 8", "n t") + ground(182))
 
 
@@ -137,7 +138,7 @@ def iu_island():
 
 
 def iu_qulliq():
-    flames = "".join(P(f"M{x} 96 C{x-8} 82 {x-2} 74 {x} 62 C{x+2} 74 {x+8} 82 {x} 96 Z", "e") for x in (52, 78, 104, 130, 150))
+    flames = "".join(P(f"M{x} 98 C{x-14} 84 {x-6} 72 {x} 56 C{x+6} 72 {x+14} 84 {x} 98 Z", "e") for x in (54, 82, 110, 138))
     return (flames + P("M30 98 L170 98 C166 136 132 156 100 156 C68 156 34 136 30 98 Z", "d")
             + P("M44 108 L156 108", "n t") + R(70, 156, 60, 16, "b", 4) + ground(176))
 
@@ -158,7 +159,7 @@ def iu_bay():
 
 
 def iu_three():
-    return (f'<text x="100" y="78" text-anchor="middle" font-size="76" font-family="Fredoka">3</text>'
+    return (f'<text x="100" y="78" text-anchor="middle" font-size="76" style="font-family:Fredoka">3</text>'
             + _flake(40, 136, 26) + _flake(100, 136, 26) + _flake(160, 136, 26) + ground(182))
 
 

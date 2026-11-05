@@ -170,8 +170,8 @@ LANG = build(dict(
                  "On a vowel page it shows the small sign the vowel turns into after a consonant.",
     standard="standard Sundanese as taught in West Java (Priangan / Bandung)",
     hello=[
-        ("Who speaks it?", "About <b>32 million people</b> speak Sundanese as their first language — the second-largest "
-                           "language of Indonesia.<sup>³</sup>"),
+        ("Who speaks it?", "About <b>32 million people</b> speak Sundanese as their first language — one of the biggest "
+                           "languages of Indonesia.<sup>³</sup>"),
         ("Where?", "In the western part of the island of <b>Java</b> in Indonesia: the provinces of <b>West Java</b> and "
                    "<b>Banten</b>, around the city of Bandung."),
         ("How is it written?", "Today mostly in Latin letters, and also in <b>Aksara Sunda</b>, from <b>left to right</b>. "
@@ -186,7 +186,7 @@ LANG = build(dict(
     map=region_map(frame=[[104.0, -10.5], [110.5, -4.0]],
                    points=dict(bandung=[107.61, -6.91], bogor=[106.80, -6.60], cirebon=[108.55, -6.71],
                                tasik=[108.22, -7.33], jakarta=[106.85, -6.21]),
-                   area=(107.3, -6.95, 300, 105), area_rot=10,
+                   area=(107.2, -6.95, 290, 92), area_rot=12,
                    cities=[("bandung", "Bandung", 14, 26, "start", False), ("bogor", "Bogor", -14, 22, "end", False),
                            ("cirebon", "Cirebon", 12, -12, "start", False), ("tasik", "Tasikmalaya", 12, 28, "start", False),
                            ("jakarta", "Jakarta", -10, -18, "end", True)],

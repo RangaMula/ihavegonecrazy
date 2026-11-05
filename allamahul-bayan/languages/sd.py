@@ -171,7 +171,7 @@ LANG = dict(
                    cities=[("karachi", "Karachi", -14, 30, "end", True), ("hyderabad", "Hyderabad", 14, -10, "start", False),
                            ("sukkur", "Sukkur", 14, 8, "start", False), ("larkana", "Larkana", -14, 8, "end", False),
                            ("thatta", "Thatta", 4, 34, "start", False)],
-                   label="SINDH", label_at=[68.6, 28.75], marker=[68.5, 26.0],
+                   label="SINDH", label_at=[68.6, 28.35], marker=[68.5, 26.0],
                    caption="The circle shows Sindh on the world map.",
                    legend="<b>Color it:</b> Sindh (inside the dashed line) <b>yellow</b> · the rest of the land <b>green</b> · the sea "
                           "<b>blue</b>. <b>Find it:</b> Karachi ★ is the biggest city of Sindh. Sindhi is also spoken in Hyderabad, "

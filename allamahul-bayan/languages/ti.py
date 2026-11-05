@@ -18,8 +18,8 @@ def W(text, pt):
 LETTERS = [
     L("ሀ", "h", "ሀ", "he", "‘h’ as in “hat”", "ህንጻ", "hin-ts'a", "building", "building"),
     L("ለ", "l", "ለ", "le", "‘l’ as in “lamp”", "ሎሚ", "lo-mi", "lemon", "lemon"),
-    L("ሐ", "ḥ", "ሐ", "ḥe", "a strong, breathy ‘h’ from deep in the throat, like the Arabic letter ح", "ሕብሪ", "ḥib-ri",
-      "colour", "palette", note="Muslim children know this sound from the Qur’an: it is the Arabic <span class='ar'>ح</span>."),
+    L("ሐ", "ḥ", "ሐ", "ḥe", "a strong, breathy ‘h’ from deep in the throat, like the Arabic letter <span class='ar' style='font-size:16pt;line-height:1'>ح</span>", "ሕብሪ", "ḥib-ri",
+      "colour", "palette", note="Muslim children know this sound from the Qur’an: it is the Arabic <span class='ar' style='font-size:15pt;line-height:1'>ح</span>."),
     L("መ", "m", "መ", "me", "‘m’ as in “moon”", "መንበር", "men-ber", "chair, stool", "stool"),
     L("ረ", "r", "ረ", "re", "a quick tapped ‘r’, as in Spanish “pero”", "ሩዝ", "ruz", "rice", "rice"),
     L("ሰ", "s", "ሰ", "se", "‘s’ as in “sun”", "ሰዓት", "se-ʿat", "clock", "clock"),
@@ -43,8 +43,8 @@ LETTERS = [
     L("ኸ", "kh", "ኸ", "khe", "a soft, scratchy ‘kh’: ከ said softly after a vowel", "ኮኾብ", "ko-khob", "star", "star", inside=True,
       note="<span class='nt'>ኸ</span> hardly ever starts a word. Find <span class='nt'>ኾ</span> in the middle of <span class='nt'>ኮኾብ</span>!"),
     L("ወ", "w", "ወ", "we", "‘w’ as in “water”", "ወርሒ", "wer-ḥi", "moon; month", "moon"),
-    L("ዐ", "ʿ", "ዐ", "ʿe", "a squeezed sound from deep in the throat, like the Arabic letter ع", "ዕምባባ", "ʿim-ba-ba", "flower", "flower",
-      note="Muslim children know this sound from the Qur’an: it is the Arabic <span class='ar'>ع</span>."),
+    L("ዐ", "ʿ", "ዐ", "ʿe", "a squeezed sound from deep in the throat, like the Arabic letter <span class='ar' style='font-size:16pt;line-height:1'>ع</span>", "ዕምባባ", "ʿim-ba-ba", "flower", "flower",
+      note="Muslim children know this sound from the Qur’an: it is the Arabic <span class='ar' style='font-size:15pt;line-height:1'>ع</span>."),
     L("ዘ", "z", "ዘ", "ze", "‘z’ as in “zoo”", "ዝናብ", "zi-nab", "rain", "raincloud"),
     L("ዠ", "zh", "ዠ", "zhe", "‘zh’ like the ‘s’ in “measure” — a rare letter", W("ቴሌቪዥን", 36), "té-lé-vi-zhin", "television", "am_tv",
       inside=True, note="<span class='nt'>ዠ</span> is found only in borrowed words. Find <span class='nt'>ዥ</span> in <span class='nt'>ቴሌቪዥን</span>!"),
@@ -97,8 +97,8 @@ LANG = build(dict(
         "Vowels: <b>e</b> as in “the” · <b>u</b> as in “rule” · <b>i</b> as in “ski” · <b>a</b> as in “father” · "
         "<b>é</b> as in “café” · <b>o</b> as in “go”. <b>(i)</b> is a very quick ‘i’, often silent.",
         "An <b>apostrophe after a consonant</b> (<i>q, t', ch', p', ts'</i>) marks a <b>popped</b> sound: hold your breath, then let it burst out.",
-        "<b>ḥ</b> is the Arabic <span class='ar'>ح</span>; <b>ʿ</b> is the Arabic <span class='ar'>ع</span>; <b>kh</b> and <b>qh</b> are soft, "
-        "scratchy sounds like the Arabic <span class='ar'>خ</span>.",
+        "<b>ḥ</b> is the Arabic <span class='ar' style='font-size:15pt;line-height:1'>ح</span>; <b>ʿ</b> is the Arabic <span class='ar' style='font-size:15pt;line-height:1'>ع</span>; <b>kh</b> and <b>qh</b> are soft, "
+        "scratchy sounds like the Arabic <span class='ar' style='font-size:15pt;line-height:1'>خ</span>.",
         "<b>ny</b> as in “canyon”; <b>zh</b> like the ‘s’ in “measure”. Hyphens split the syllables; say them all evenly."],
     phon_explain="The box marked <i>The … family · 7 sounds</i> shows the letter’s <b>whole family</b>: the base letter and its "
                  "six vowel forms, each with its sound. The shaded form is the one used in the word on that page.",
@@ -110,7 +110,7 @@ LANG = build(dict(
         ("How is it written?", "In the <b>fidel</b> (<span class='nt'>ፊደል</span>), from <b>left to right</b>, like Amharic. Each letter is a whole syllable, like <i>ba</i> or <i>mo</i>."),
         ("How many letters?", f"<b>{len(LETTERS)} letter families</b>, each with <b>7 forms</b>: more than 200 letters, all made from a few simple shapes!"),
         ("Sounds you know!", "Tigrinya has the throat sounds <span class='nt'>ሐ</span> and <span class='nt'>ዐ</span>: they are the Arabic "
-                             "<span class='ar'>ح</span> and <span class='ar'>ع</span> that Muslim children read in the Qur’an."),
+                             "<span class='ar' style='font-size:15pt;line-height:1'>ح</span> and <span class='ar' style='font-size:15pt;line-height:1'>ع</span> that Muslim children read in the Qur’an."),
         ("Did you know?", "The first Muslims to leave Makkah for safety travelled to <b>al-Ḥabasha</b> (Abyssinia), where the just king, "
                           "<b>an-Najāshī</b>, welcomed and protected them."),
     ],

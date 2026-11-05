@@ -101,8 +101,7 @@ LETTERS = [
 INTRO = """<p>Jawi is written <b>from right to left</b>. Open your book at any letter page and start reading on the right!</p>
 <div class="box" style="margin:0.1in 0"><h3>Arabic letters, plus six more</h3>Jawi uses the Arabic letters and adds six of its own for
 Malay sounds:
-<div style="font-size:22pt;text-align:center;direction:ltr;line-height:1.7"><span class="ntd">چ</span> c &nbsp; <span class="ntd">ڠ</span> ng &nbsp;
-<span class="ntd">ڤ</span> p &nbsp; <span class="ntd">ݢ</span> g &nbsp; <span class="ntd">ۏ</span> v &nbsp; <span class="ntd">ڽ</span> ny</div></div>
+<div style="text-align:center;direction:rtl"><div style="display:inline-block;width:0.75in;text-align:center"><div class="ntd" style="font-size:24pt;line-height:1.5">چ</div><div><i>c</i></div></div><div style="display:inline-block;width:0.75in;text-align:center"><div class="ntd" style="font-size:24pt;line-height:1.5">ڠ</div><div><i>ng</i></div></div><div style="display:inline-block;width:0.75in;text-align:center"><div class="ntd" style="font-size:24pt;line-height:1.5">ڤ</div><div><i>p</i></div></div><div style="display:inline-block;width:0.75in;text-align:center"><div class="ntd" style="font-size:24pt;line-height:1.5">ݢ</div><div><i>g</i></div></div><div style="display:inline-block;width:0.75in;text-align:center"><div class="ntd" style="font-size:24pt;line-height:1.5">ۏ</div><div><i>v</i></div></div><div style="display:inline-block;width:0.75in;text-align:center"><div class="ntd" style="font-size:24pt;line-height:1.5">ڽ</div><div><i>ny</i></div></div></div></div>
 <div class="box" style="margin:0.1in 0"><h3>Letters hold hands</h3>Most letters <b>join</b> to the letter after them and change shape a little:
 <div class="ntd" style="font-size:24pt;text-align:center;direction:rtl;line-height:1.7">ب + و + ل + ن = <span class="nt">بولن</span></div>
 <div style="text-align:center"><i>b + u + l + n = bulan</i> (moon)</div></div>
@@ -158,12 +157,12 @@ LANG = build(dict(
                    cities=[("kl", "Kuala Lumpur", -12, 8, "end", False), ("bsb", "Bandar Seri Begawan", 0, -14, "middle", False),
                            ("sg", "Singapore", 12, 14, "start", False), ("pattani", "Pattani", -12, -6, "end", False),
                            ("kotabharu", "Kota Bharu", 12, 4, "start", False), ("kuching", "Kuching", 12, 14, "start", False)],
-                   label="BORNEO", label_at=[114.5, 1.0], marker=[108.0, 3.0],
+                   label="BORNEO", label_at=[115.2, -0.8], marker=[108.0, 3.0],
                    caption="The circle shows Malaysia, Brunei and Singapore on the world map.",
                    legend="<b>Color it:</b> the land <b>green</b> · the sea <b>blue</b>. <b>Find it:</b> Malay is spoken in Kuala Lumpur "
                           "and Kota Bharu (Malaysia), Kuching on the island of Borneo, Bandar Seri Begawan (Brunei), Singapore and Pattani "
                           "(southern Thailand).",
-                   seas=[("Strait of Malacca", 98.5, 3.2), ("Java Sea", 111.0, -4.6)], world_r=18),
+                   seas=[("Andaman Sea", 97.8, 9.5), ("Java Sea", 111.0, -4.6)], world_r=18),
     digits=[("٠", "سيفر", "sifar", "zero"), ("١", "ساتو", "satu", "one"), ("٢", "دوا", "dua", "two"), ("٣", "تيݢ", "tiga", "three"),
             ("٤", "امڤت", "empat", "four"), ("٥", "ليم", "lima", "five"), ("٦", "انم", "enam", "six"), ("٧", "توجوه", "tujuh", "seven"),
             ("٨", "لاڤن", "lapan", "eight"), ("٩", "سمبيلن", "sembilan", "nine")],

@@ -185,7 +185,6 @@ LANG = build(dict(
             ("8", "අට", "aṭa", "eight"), ("9", "නවය", "navaya", "nine")],
     phrases=[("අස්සලාමු අලෛකුම්", "assalaamu alaikum", "Peace be upon you (the Muslim greeting)"),
              ("වලෛකුමුස් සලාම්", "va alaikumus salaam", "And upon you be peace (the reply)"),
-             ("ආයුබෝවන්!", "aayubōvan!", "Hello! (“May you live long!”)"),
              ("මගේ නම …", "magē nama …", "My name is …"),
              ("ස්තූතියි", "stuutiyi", "Thank you"),
              ("ජසාකල්ලාහු ඛයිරන්", "jazaakallaahu khairan", "May Allah reward you with good"),

@@ -126,7 +126,7 @@ from Russian, Arabic and Persian. They are still part of the alphabet, so we lea
                    caption="The circle shows Kazakhstan on the world map.",
                    legend="<b>Color it:</b> the land <b>green</b> and <b>yellow</b> like the steppe · the sea <b>blue</b>. <b>Find it:</b> Kazakh is "
                           "spoken in Astana, Almaty, Shymkent, Atyrau and all across the wide steppe of Central Asia.",
-                   seas=[("Caspian Sea", 51.0, 41.0)], world_r=16),
+                   seas=[("Caspian Sea", 51.6, 42.4)], world_r=16),
     digits=[("0", "нөл", "nöl", "zero"), ("1", "бір", "bir", "one"), ("2", "екі", "ye-KI", "two"), ("3", "үш", "üsh", "three"),
             ("4", "төрт", "tört", "four"), ("5", "бес", "bes", "five"), ("6", "алты", "al-TUH", "six"), ("7", "жеті", "zhe-TI", "seven"),
             ("8", "сегіз", "se-GIZ", "eight"), ("9", "тоғыз", "to-GHUHZ", "nine")],
