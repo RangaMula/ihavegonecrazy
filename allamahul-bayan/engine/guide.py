@@ -10,7 +10,10 @@ def write(L, path, pages, spine, W):
     bullets = "\n".join(f"<li>{b}</li>" for b in K["desc_bullets"])
     kw = "\n".join(f"  {i}. {k}" for i, k in enumerate(K["keywords"], 1))
     cats = "\n".join(f"  {i}. {c}" for i, c in enumerate(K["categories"], 1))
-    txt = f"""# KDP Publishing Guide — {L['title']} ({SERIES['name']}, Book {L['series_no']})
+    banner = ("> **REVIEW DRAFT.** This book prints a “review draft” notice on its title and copyright pages. "
+              "Have a native speaker check it, then set `draft=False` in the language file and rebuild before uploading.\n\n"
+              if L.get("draft") else "")
+    txt = banner + f"""# KDP Publishing Guide — {L['title']} ({SERIES['name']}, Book {L['series_no']})
 
 Upload files (both in `output/`):
 

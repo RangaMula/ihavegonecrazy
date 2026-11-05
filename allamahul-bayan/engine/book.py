@@ -96,6 +96,14 @@ ul,ol {{ margin:0 0 0.12in 0.2in; padding-left:0.15in }}
 """
 
 
+DRAFT_TITLE = ('<div style="margin-top:0.25in;font:600 11pt Fredoka;border:2px dashed #111;border-radius:10px;'
+               'padding:4px 10px;display:inline-block">REVIEW DRAFT — not for publication</div>')
+DRAFT_BOX = ('<div class="frame" style="padding:0.15in 0.2in;font-size:11.5pt"><b>REVIEW DRAFT — DO NOT PUBLISH YET.</b> '
+             'The letter names, sound guides, words, transliterations and phrases in this book were drafted with AI and '
+             'have not yet been checked by a native speaker. After review, set <code>draft=False</code> in the language '
+             'file and rebuild; this notice then disappears.</div>')
+
+
 class Book:
     def __init__(self, L):
         self.L = L
@@ -142,12 +150,14 @@ class Book:
   <div style="margin:0.5in auto 0;width:1.25in">{mark_svg()}</div>
   <div style="font:600 13pt 'Fredoka';margin-top:4px">{SERIES['publisher']}</div>
   <div class="ar" style="font-size:14pt">{SERIES['publisher_ar']}</div>
+  {DRAFT_TITLE if L.get('draft') else ''}
 </div>""", "front", number=False)
 
     def copyright_page(self):
         L, S = self.L, SERIES
         isbn = f"<p><b>ISBN:</b> {L['isbn']}</p>" if L.get("isbn") else ""
         self.add(f"""
+{DRAFT_BOX if L.get('draft') else ''}
 <div style="position:absolute;bottom:0.2in;left:0;right:0;font-size:10.5pt;line-height:1.5">
   <p><b>{L['title']}</b> — <span class="nt">{L['title_native']}</span><br>{S['name']}, Book {L['series_no']}</p>
   <p>Text copyright © {S['year']} {S['author']}. All rights reserved.<br>

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Book 5 - Gujarati. Allamahul Bayan Series."""
 from indic import build, vowel as V, cons as C, fontset, COMMON_NOTES
-from _southasia import south_asia_map
+from maps import south_asia_map
 
 LANG = build(dict(
     code="gu", folder="book-05-gujarati", series_no=5, isbn="",

@@ -854,3 +854,22 @@ def plane():
             + C(166, 100, 6, "a") + cloud(120, 196, 0.5) + cloud(10, 196, 0.45))
 
 PICS.update(swing=swing, ball=ball, house=house, feather=feather, stool=stool, onion=onion, plane=plane)
+
+
+# ---- plug-in pictures: every engine/pics/<name>.py may define PICS = {key: function} ----
+def _load_plugins():
+    import importlib, os, sys
+    d = os.path.join(os.path.dirname(os.path.abspath(__file__)), "pics")
+    if not os.path.isdir(d):
+        return
+    if d not in sys.path:
+        sys.path.insert(0, d)
+    for f in sorted(os.listdir(d)):
+        if f.endswith(".py") and not f.startswith("_"):
+            try:
+                m = importlib.import_module(f[:-3])
+                PICS.update(getattr(m, "PICS", {}))
+            except Exception as e:  # one broken plug-in must never stop other books from building
+                print(f"WARNING: picture plug-in {f} failed to load: {e!r}", file=sys.stderr)
+
+_load_plugins()

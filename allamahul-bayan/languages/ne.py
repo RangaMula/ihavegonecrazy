@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Book 13 - Nepali (Devanagari). Allamahul Bayan Series."""
 from indic import build, vowel as V, cons as C, fontset, COMMON_NOTES
-from _southasia import south_asia_map
+from maps import south_asia_map
 
 LANG = build(dict(
     code="ne", folder="book-13-nepali", series_no=13, isbn="",

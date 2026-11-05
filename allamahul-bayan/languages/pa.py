@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Book 4 - Punjabi (Gurmukhi script). Allamahul Bayan Series."""
 from indic import build, vowel as V, cons as C, fontset, COMMON_NOTES
-from _southasia import south_asia_map
+from maps import south_asia_map
 
 TONE = "In Punjabi this letter carries a <i>tone</i>: at the start of a word it sounds like ‘{}’ said with the voice dipping low."
 

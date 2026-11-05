@@ -49,7 +49,20 @@ def outline(text, fname):
     return sp.getCommands(), (b[0], b[1], b[2], b[3])
 
 
+def pick_font(text, font):
+    """font may be one file or a list of files; use the first that has every character of `text`."""
+    if isinstance(font, str):
+        return font
+    skip = {0x200C, 0x200D, 0x25CC, 0xFE0F, 0x20}
+    for f in font:
+        cmap = _font(f)[0].getBestCmap()
+        if all(ord(ch) in cmap or ord(ch) in skip for ch in text):
+            return f
+    return font[0]
+
+
 def letter_svg(text, font, mode="color", min_box=650, pad=0.10, cls="glyph"):
+    font = pick_font(text, font)
     """mode='color' -> thick black outline, white inside (to color in)
        mode='trace' -> grey dashed outline only (to trace over with a pencil)
        any other value -> treated as a fill colour (cover art)"""

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Book 7 - Tamil. Allamahul Bayan Series."""
 from indic import build, vowel as V, cons as C, fontset
-from _southasia import south_asia_map
+from maps import south_asia_map
 
 MID = "Find <span class='nt'>{}</span> in the middle of <span class='nt'>{}</span> — it never starts a Tamil word."
 END = "Look for <span class='nt'>{}</span> at the end of <span class='nt'>{}</span>!"
