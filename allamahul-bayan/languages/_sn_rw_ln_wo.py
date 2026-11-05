@@ -35,7 +35,7 @@ def maker(phon_label, vowels, vowel_examples="b k m n"):
     def L(cap, small, name, name_tr, sound, word, tr, meaning, pic, args=None, note=None, rule=None, vowel=False, row=None):
         if row is None:
             row = (" · ".join(c + small for c in vowel_examples.split()) if vowel
-                   else " · ".join(small + v for v in vowels))
+                   else " · ".join(small + v for v in vowels.split()))
         phon = (f'<div class="nt" style="font-size:20pt">{cap} {small} — «{name}»</div>'
                 f'<div class="nt" style="font-size:15pt;margin-top:2px">{row}</div>'
                 + (f'<div class="small">{rule}</div>' if rule else ""))
