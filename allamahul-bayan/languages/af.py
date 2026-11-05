@@ -105,7 +105,7 @@ Two dots — <b>ë ï</b> — say “start a new sound here”: <i>re-ën</i> (r
                    caption="The circle shows southern Africa on the world map.",
                    legend="<b>Color it:</b> the land <b>green</b> · the oceans <b>blue</b>. <b>Find it:</b> Afrikaans is spoken in Cape Town, "
                           "Upington, Bloemfontein, Pretoria, Gqeberha and Windhoek. The dashed line shows where many Afrikaans speakers live.",
-                   seas=[("Atlantic Ocean", 16.2, -31.0), ("Indian Ocean", 30.0, -34.7)], world_r=14),
+                   seas=[("Atlantic Ocean", 15.9, -31.2), ("Indian Ocean", 30.0, -34.7)], world_r=14),
     digits=[("0", "nul", "NUL", "zero"), ("1", "een", "EE-un", "one"), ("2", "twee", "TWEE-uh", "two"),
             ("3", "drie", "DREE", "three"), ("4", "vier", "FEER", "four"), ("5", "vyf", "FAYF", "five"),
             ("6", "ses", "SES", "six"), ("7", "sewe", "SEE-vuh", "seven"), ("8", "agt", "AKHT", "eight"),
