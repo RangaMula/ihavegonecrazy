@@ -120,7 +120,7 @@ on its own — it tells you to send the vowel through your nose.</div>
                    cities=[("pap", "Port-au-Prince", 12, 4, "start", False), ("cap", "Cap-Haïtien", 12, -6, "start", False),
                            ("cayes", "Les Cayes", -12, 16, "end", False), ("gonaives", "Gonaïves", -12, 4, "end", False),
                            ("jacmel", "Jacmel", 12, 18, "start", False)],
-                   label="HAITI", label_at=[-74.0, 20.6], marker=[-72.5, 19.0],
+                   label="HAITI", label_at=[-72.6, 20.55], marker=[-72.5, 19.0],
                    caption="The circle shows Haiti in the Caribbean on the world map.",
                    legend="<b>Color it:</b> the land <b>green</b> · the sea <b>blue</b>. <b>Find it:</b> Kreyòl is spoken in Port-au-Prince, "
                           "Cap-Haïtien, Gonaïves, Jacmel and Les Cayes. The dashed line shows Haiti, on the western part of the island.",

@@ -10,7 +10,7 @@ LETTERS = [
     L("A", "a", "a", "ah", "‘a’ as in “father”", "apole", "ah-POH-leh", "apple", "apple", vowel=True),
     L("B", "b", "ba", "bah", "‘b’ as in “ball” (soft, lips barely touching)", "buka", "BOO-kah", "book", "book",
       args=dict(left="A B D", right="E F G")),
-    L("D", "d", "da", "dah", "‘d’ as in “door” — in Setswana it comes before <b>i</b> and <b>u</b>", "dithunya", "dee-TOO-nyah",
+    L("D", "d", "da", "dah", "‘d’ as in “door” — in Setswana it comes before <b>i</b> and <b>u</b>", "dithunya", "dee-T’HOO-nyah",
       "flowers", "flower", rule="la · le · lo but di · du: L turns into D before i and u!"),
     L("E", "e", "e", "eh", "‘e’ as in “bed”, or ‘ay’ as in “day”", "lee", "LEH-eh", "egg", "egg", vowel=True,
       note="Few Setswana naming words start with E. Find it twice in <i>lee</i> — say each e!"),
