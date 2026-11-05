@@ -13,14 +13,13 @@ VOW = ["i", "u", "a"]
 ROWS = [  # consonant, (i, u, a, final), English sound guide for the consonant
     ("", "ᐃᐅᐊ", ""),
     ("p", "ᐱᐳᐸᑉ", "‘p’ as in “pen”"), ("t", "ᑎᑐᑕᑦ", "‘t’ as in “top”"), ("k", "ᑭᑯᑲᒃ", "‘k’ as in “kite”"),
-    ("g", "ᒋᒍᒐᒡ", "a soft, breathy ‘g’ (the throat does not quite close)"), ("m", "ᒥᒧᒪᒻ", "‘m’ as in “moon”"),
+    ("g", "ᒋᒍᒐᒡ", "a soft, breathy ‘g’"), ("m", "ᒥᒧᒪᒻ", "‘m’ as in “moon”"),
     ("n", "ᓂᓄᓇᓐ", "‘n’ as in “net”"), ("s", "ᓯᓱᓴᔅ", "‘s’ as in “sun”"), ("l", "ᓕᓗᓚᓪ", "‘l’ as in “lamp”"),
     ("j", "ᔨᔪᔭᔾ", "‘y’ as in “yes” (written j)"), ("v", "ᕕᕗᕙᕝ", "‘v’ as in “van”"),
-    ("r", "ᕆᕈᕋᕐ", "a gargled ‘r’ from the back of the throat, like French ‘r’"),
+    ("r", "ᕆᕈᕋᕐ", "a gargled ‘r’ from the throat, like French ‘r’"),
     ("q", "ᕿᖁᖃᖅ", "a ‘k’ said far back in the throat, like Arabic ق"), ("ng", "ᖏᖑᖓᖕ", "‘ng’ as in “sing”"),
 ]
-VSND = dict(i="‘i’ as in “sit” (a little like “see”)", u="‘u’ as in “put” (a little like “moon”)",
-            a="‘a’ as in “father”, but short")
+VSND = dict(i="‘i’ as in “sit”", u="‘u’ as in “put”", a="‘a’ as in “father”, but short")
 
 
 def long_form(ch):
@@ -41,13 +40,15 @@ def phon(row, k):
     fin = (f' &nbsp;<span style="font-size:16pt;color:#444">{chars[3]}</span>') if len(chars) > 3 else ""
     lf = long_form(chars[k])
     tr = (cons + VOW[k])
-    longline = (f'<div class="small" style="margin-top:3px">With a dot it is long: <span class="nt" style="font-size:16pt">{lf}</span> '
-                f'<i>{tr}{VOW[k]}</i></div>') if lf else ""
-    finline = (f'<div class="small">Small and high, <span class="nt" style="font-size:14pt">{chars[3]}</span> is just <i>{cons}</i> '
-               f'(a “final”).</div>') if len(chars) > 3 else ""
+    bits = []
+    if len(chars) > 3:
+        bits.append(f'final <span class="nt" style="font-size:14pt">{chars[3]}</span> = <i>{cons}</i>')
+    if lf:
+        bits.append(f'long <span class="nt" style="font-size:14pt">{lf}</span> = <i>{tr}{VOW[k]}</i>')
     how = f"<i>{cons}</i> + <i>{VOW[k]}</i>" if cons else f"the vowel <i>{VOW[k]}</i>"
-    return (f'<div class="nt" style="font-size:24pt;line-height:1.5">{" ".join(cells)}{fin}</div>'
-            f'<div class="small">{how} — the shape points {["up", "right", "left"][k]}</div>{finline}{longline}')
+    return (f'<div class="nt" style="font-size:24pt;line-height:1.45">{" ".join(cells)}{fin}</div>'
+            f'<div class="small">{how}: the shape points {["up", "right", "left"][k]}</div>'
+            f'<div class="small">{" · ".join(bits)}</div>')
 
 
 def S(ch, word, tr, meaning, pic, args=None, note=None):
@@ -61,15 +62,13 @@ def S(ch, word, tr, meaning, pic, args=None, note=None):
     raise KeyError(ch)
 
 
-def inside(ch, word):
-    return f'Find <span class="nt">{ch}</span> inside <span class="nt">{word}</span>!'
+def inside(ch, word=None):
+    return f'Find <span class="nt">{ch}</span> inside the word!'
 
 
-NEVER_L = "Inuktitut words never start with ᓕ ᓗ ᓚ. "
-NEVER_R = "Inuktitut words never start with ᕆ ᕈ ᕋ. "
-NEVER_NG = "Inuktitut words never start with ᖏ ᖑ ᖓ. "
-NEVER_G = "Hardly any Inuktitut words start with ᒋ ᒍ ᒐ. "
-FEW_J = "Few Inuktitut words start with ᔨ ᔪ ᔭ. "
+def never(row, ch, few=False):
+    return (f'{"Few" if few else "No"} Inuktitut words start with <span class="nt">{row}</span>. ' + inside(ch))
+
 
 VOWELS = [
     S("ᐃ", "ᐃᒡᓗ", "iglu", "house", "house", note="English “igloo” comes from this word!"),
@@ -86,12 +85,12 @@ SYLL = [
     S("ᑭ", "ᑭᑭᐊᖅ", "kikiaq", "nail", "iu_nail"),
     S("ᑯ", "ᑰᒃ", "kuuk", "river", "iu_river", note="The dot on <span class='nt'>ᑰ</span> makes the vowel long: <i>kuu</i>."),
     S("ᑲ", "ᑲᒥᒃ", "kamik", "boot (a warm skin boot)", "iu_kamik"),
-    S("ᒋ", "ᐊᑎᒋ", "atigi", "parka (an inner coat)", "iu_parka", note=NEVER_G + inside("ᒋ", "ᐊᑎᒋ")),
+    S("ᒋ", "ᐊᑎᒋ", "atigi", "parka (an inner coat)", "iu_parka", note=never("ᒋ ᒍ ᒐ", "ᒋ", few=True)),
     S("ᒍ", "ᓂᕆᒍᒪᔪᖓ", "nirigumajunga", "I want to eat!", "plate",
-      note=NEVER_G + "ᒍ is often heard in word endings, like <i>-guma-</i> “want to”. " + inside("ᒍ", "ᓂᕆᒍᒪᔪᖓ")),
-    S("ᒐ", "ᐃᒐᓛᖅ", "igalaaq", "window", "window", note=NEVER_G + inside("ᒐ", "ᐃᒐᓛᖅ")),
-    S("ᒥ", "ᐅᒥᐊᖅ", "umiaq", "boat", "boat", note=inside("ᒥ", "ᐅᒥᐊᖅ")),
-    S("ᒧ", "ᖃᒧᑎᒃ", "qamutik", "sled", "iu_sled", note=inside("ᒧ", "ᖃᒧᑎᒃ")),
+      note="Few words start with <span class='nt'>ᒍ</span>; it lives in endings like <i>-guma-</i> “want to”."),
+    S("ᒐ", "ᐃᒐᓛᖅ", "igalaaq", "window", "window", note=never("ᒋ ᒍ ᒐ", "ᒐ", few=True)),
+    S("ᒥ", "ᐅᒥᐊᖅ", "umiaq", "boat", "boat", note=inside("ᒥ")),
+    S("ᒧ", "ᖃᒧᑎᒃ", "qamutik", "sled", "iu_sled", note=inside("ᒧ")),
     S("ᒪ", "ᒪᓐᓂᒃ", "mannik", "egg", "egg"),
     S("ᓂ", "ᓂᓚᒃ", "nilak", "fresh-water ice (melted for drinking)", "ice"),
     S("ᓄ", "ᓄᕗᔭᖅ", "nuvujaq", "cloud", "clouds"),
@@ -100,25 +99,25 @@ SYLL = [
     S("ᓱ", "ᓱᓗᒃ", "suluk", "feather", "feather"),
     S("ᓴ", "ᓴᕕᒃ", "savik", "knife (also the word for metal)", "iu_knife"),
     S("ᓕ", "ᐃᓕᓐᓂᐊᕐᕕᒃ", "ilinniarvik", "school — “the place for learning”", "book",
-      args=dict(left="ᐃ ᐅ ᐊ", right="ᐱ ᐳ ᐸ"), note=NEVER_L + inside("ᓕ", "ᐃᓕᓐᓂᐊᕐᕕᒃ")),
-    S("ᓗ", "ᐅᓪᓗᕆᐊᖅ", "ulluriaq", "star", "star", note=NEVER_L + inside("ᓗ", "ᐅᓪᓗᕆᐊᖅ")),
-    S("ᓚ", "ᕿᓚᒃ", "qilak", "sky", "rainbow", note=NEVER_L + inside("ᓚ", "ᕿᓚᒃ")),
-    S("ᔨ", "ᐊᔾᔨᙳᐊᖅ", "ajjinnguaq", "picture, photo", "iu_picture", note=FEW_J + inside("ᔨ", "ᐊᔾᔨᙳᐊᖅ")),
-    S("ᔪ", "ᐅᒥᐊᕐᔪᐊᖅ", "umiarjuaq", "ship — “big boat”", "ship", note=FEW_J + inside("ᔪ", "ᐅᒥᐊᕐᔪᐊᖅ")),
-    S("ᔭ", "ᐅᔭᕋᒃ", "ujarak", "stone, rock", "iu_stone", note=FEW_J + inside("ᔭ", "ᐅᔭᕋᒃ")),
-    S("ᕕ", "ᐃᒡᓗᕕᒐᖅ", "igluvigaq", "snow house", "iu_igloo", note=inside("ᕕ", "ᐃᒡᓗᕕᒐᖅ")),
-    S("ᕗ", "ᓄᓇᕗᑦ", "Nunavut", "Nunavut — “our land”", "mountain", note=inside("ᕗ", "ᓄᓇᕗᑦ")),
-    S("ᕙ", "ᐃᕙᓗ", "ivalu", "sewing thread (made from sinew)", "wool", note=inside("ᕙ", "ᐃᕙᓗ")),
-    S("ᕆ", "ᑕᕆᐅᖅ", "tariuq", "the sea, salt water", "waves", note=NEVER_R + inside("ᕆ", "ᑕᕆᐅᖅ")),
-    S("ᕈ", "ᐱᕈᖅᓯᐊᖅ", "piruqsiaq", "plant, flower — “something that grows”", "flower", note=NEVER_R + inside("ᕈ", "ᐱᕈᖅᓯᐊᖅ")),
-    S("ᕋ", "ᑎᑎᕋᐅᑦ", "titiraut", "pencil — “something to write with”", "pen", note=NEVER_R + inside("ᕋ", "ᑎᑎᕋᐅᑦ")),
+      args=dict(left="ᐃ ᐅ ᐊ", right="ᐱ ᐳ ᐸ"), note=never("ᓕ ᓗ ᓚ", "ᓕ")),
+    S("ᓗ", "ᐅᓪᓗᕆᐊᖅ", "ulluriaq", "star", "star", note=never("ᓕ ᓗ ᓚ", "ᓗ")),
+    S("ᓚ", "ᕿᓚᒃ", "qilak", "sky", "rainbow", note=never("ᓕ ᓗ ᓚ", "ᓚ")),
+    S("ᔨ", "ᐊᔾᔨᙳᐊᖅ", "ajjinnguaq", "picture, photo", "iu_picture", note=never("ᔨ ᔪ ᔭ", "ᔨ", few=True)),
+    S("ᔪ", "ᐅᒥᐊᕐᔪᐊᖅ", "umiarjuaq", "ship — “big boat”", "ship", note=never("ᔨ ᔪ ᔭ", "ᔪ", few=True)),
+    S("ᔭ", "ᐅᔭᕋᒃ", "ujarak", "stone, rock", "iu_stone", note=never("ᔨ ᔪ ᔭ", "ᔭ", few=True)),
+    S("ᕕ", "ᐃᒡᓗᕕᒐᖅ", "igluvigaq", "snow house", "iu_igloo", note=inside("ᕕ")),
+    S("ᕗ", "ᓄᓇᕗᑦ", "Nunavut", "Nunavut — “our land”", "mountain", note=inside("ᕗ")),
+    S("ᕙ", "ᐃᕙᓗ", "ivalu", "sewing thread (made from sinew)", "wool", note=inside("ᕙ")),
+    S("ᕆ", "ᑕᕆᐅᖅ", "tariuq", "the sea, salt water", "waves", note=never("ᕆ ᕈ ᕋ", "ᕆ")),
+    S("ᕈ", "ᐱᕈᖅᓯᐊᖅ", "piruqsiaq", "plant, flower — “something that grows”", "flower", note=never("ᕆ ᕈ ᕋ", "ᕈ")),
+    S("ᕋ", "ᑎᑎᕋᐅᑦ", "titiraut", "pencil — “something to write with”", "pen", note=never("ᕆ ᕈ ᕋ", "ᕋ")),
     S("ᕿ", "ᕿᑭᖅᑕᖅ", "qikiqtaq", "island", "iu_island"),
     S("ᖁ", "ᖁᓪᓕᖅ", "qulliq", "stone oil lamp", "iu_qulliq"),
     S("ᖃ", "ᖃᔭᖅ", "qajaq", "kayak", "iu_kayak", note="English “kayak” comes from this word!"),
-    S("ᖏ", "ᑲᖏᖅᓱᒃ", "kangiqsuk", "bay (sea reaching into the land)", "iu_bay", note=NEVER_NG + inside("ᖏ", "ᑲᖏᖅᓱᒃ")),
+    S("ᖏ", "ᑲᖏᖅᓱᒃ", "kangiqsuk", "bay (sea reaching into the land)", "iu_bay", note=never("ᖏ ᖑ ᖓ", "ᖏ")),
     S("ᖑ", "ᑐᖑᔪᖅᑐᖅ", "tungujuqtuq", "it is blue — color the sea and sky blue!", "iu_blue",
-      note=NEVER_NG + inside("ᖑ", "ᑐᖑᔪᖅᑐᖅ")),
-    S("ᖓ", "ᐱᖓᓱᑦ", "pingasut", "three", "iu_three", note=NEVER_NG + inside("ᖓ", "ᐱᖓᓱᑦ")),
+      note=never("ᖏ ᖑ ᖓ", "ᖑ")),
+    S("ᖓ", "ᐱᖓᓱᑦ", "pingasut", "three", "iu_three", note=never("ᖏ ᖑ ᖓ", "ᖓ")),
 ]
 
 GRID = "".join(f'<tr><td style="font:600 12pt Nunito;padding:0 8px">{r[0] or "—"}</td>'

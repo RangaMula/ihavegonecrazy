@@ -145,7 +145,7 @@ def cassava():
 
 def sadza():
     """sadza (Shona): a white mound of maize porridge with green relish on a plate."""
-    leaves = "".join(leaf(x, y, a, 22, "c") for x, y, a in [(124, 130, -20), (138, 138, -10), (150, 126, -60), (132, 118, -40)])
+    leaves = "".join(leaf(x, y, a, 30, "c") for x, y, a in [(122, 132, -20), (138, 142, -10), (152, 128, -60), (130, 118, -40)])
     return (E(100, 150, 84, 24, "a") + E(100, 146, 66, 16, "n t")
             + P("M32 146 C30 100 56 78 80 78 C106 78 124 100 122 146 Z", "a")
             + P("M48 112 C54 98 66 90 80 90", "n t") + leaves
@@ -213,10 +213,19 @@ def alluwa():
             + L(170, 156, 194, 96) + L(176, 158, 196, 104, "n t"))
 
 
+def road():
+    """yoon (Wolof): a road winding away to the hills."""
+    return (C(150, 46, 18, "d") + cloud(26, 58, 0.55, "a")
+            + P("M14 104 C44 84 70 86 96 100 C118 84 150 80 186 98 L186 120 L14 120 Z", "c")
+            + P("M92 120 C86 136 60 150 40 186 L118 186 C116 160 110 138 106 120 Z", "b")
+            + P("M99 124 L97 132 M93 142 L89 152 M84 162 L78 176", "n")
+            + leaf(150, 160, -100, 26, "c") + leaf(150, 160, -60, 26, "c") + leaf(30, 150, -110, 22, "c") + leaf(30, 150, -70, 22, "c") + ground(186))
+
+
 PICS = {
     "sn_rocks": rocks, "sn_sand": sand, "sn_fire": fire, "sn_baobab": baobab, "sn_pumpkin": pumpkin,
     "sn_pawpaw": pawpaw, "sn_sadza": sadza, "sn_wheel": wheel,
     "rw_key": key, "rw_tent": tent,
     "ln_forest": forest, "ln_chilli": chilli, "ln_okra": okra, "ln_orange": orange, "ln_bicycle": bicycle,
-    "wo_millet": millet, "wo_cassava": cassava, "wo_bread": bread, "wo_alluwa": alluwa,
+    "wo_millet": millet, "wo_cassava": cassava, "wo_bread": bread, "wo_alluwa": alluwa, "wo_road": road,
 }

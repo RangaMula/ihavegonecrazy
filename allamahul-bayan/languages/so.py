@@ -106,7 +106,7 @@ the sound a little longer: <i>bar</i> and <i>baar</i> are different words!</div>
     map=region_map(frame=[[37.0, -3.0], [55.0, 15.0]],
                    points=dict(mogadishu=[45.34, 2.04], djibouti=[43.15, 11.59], hargeisa=[44.06, 9.56], kismayo=[42.54, -0.36],
                                bosaso=[49.18, 11.28]),
-                   area=(45.0, 5.5, 190, 250),
+                   area=(46.0, 6.5, 240, 290),
                    cities=[("mogadishu", "Mogadishu", 14, 8, "start", False), ("djibouti", "Djibouti", -14, 8, "end", False),
                            ("hargeisa", "Hargeisa", -14, 18, "end", False), ("kismayo", "Kismayo", -14, 8, "end", False),
                            ("bosaso", "Bosaso", 14, -8, "start", False)],
@@ -128,7 +128,7 @@ the sound a little longer: <i>bar</i> and <i>baar</i> are different words!</div>
              ("walaalkay · walaashay", "wa-laal-kay · wa-laa-shay", "My brother · My sister"),
              ("haa · maya", "haa · ma-ya", "Yes · No"),
              ("Waxaan baranayaa af-Soomaali!", "wa-hhaan ba-ra-na-yaa af soo-maa-li", "I am learning Somali!")],
-    cheer=("Maashaa Allah! Aad baad u fiicantahay!", "maa-shaa al-lah! aad baad oo fee-'an-ta-hay", "Mashallah! Well done — you are very good!"),
+    cheer=("Maashaa Allah! Aad u fiican!", "maa-shaa al-lah! aad oo fee-'an", "Mashallah! Well done, very good!"),
     facts_source="speaker numbers from <b>Ethnologue</b> (SIL International).",
     book_pic=dict(left="B T J", right="X C Q"),
     review_note="Machine-drafted: a native Somali speaker must check every word, the Somali book title, section names, "
