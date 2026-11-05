@@ -140,7 +140,7 @@ LANG = build(dict(
         ("How is it written?", "In <b>Thaana</b>, from <b>right to left</b>. The vowels are little strokes called <b>fili</b>, "
                                "written above or below each letter."),
         ("How many letters?", "<b>24</b> basic letters, plus dotted letters for Arabic words: "
-                              "<span class='nt'>ޘ ޙ ޚ ޛ ޜ ޝ ޞ ޟ ޠ ޡ ޢ ޣ ޤ ޥ</span>."),
+                              "<span class='nt'>ޘ ޙ ޚ ޛ ޜ ޝ ޞ ޟ ޠ ޡ ޢ ޣ ޤ ޥ</span>"),
         ("Letters from numbers!", "The first nine letters, <span class='nt'>ހ</span> to <span class='nt'>ވ</span>, were made from "
                                   "the Arabic numerals 1–9, and the next nine from old Dhivehi numerals."),
         ("Letters on the map", "The atolls have letter names in alphabet order, from north to south: Haa Alifu, Shaviyani, "

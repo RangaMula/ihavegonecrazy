@@ -36,7 +36,10 @@ GLYPH_FONTS = ["baloo-2-latin-800-normal.woff2", "baloo-2-latin-ext-800-normal.w
 FONT_CREDIT = "Baloo 2, Noto Sans"
 
 # ten phrase rows (greeting + reply) need a little less height than the engine default
-EXTRA_CSS = '.ntd[style*="font-size:19pt"]{font-size:17pt !important;line-height:1.3 !important}' 
+EXTRA_CSS = ('.ntd[style*="font-size:19pt"]{font-size:17pt !important;line-height:1.3 !important}'
+             '.grid[style="margin-top:0.08in"]{gap:0.08in !important}'
+             'div[style*="gap:0.35in;margin-top:0.3in"]{margin-top:0.15in !important}'
+             'div[style*="gap:0.35in;margin-top:0.3in"]>div{width:1.15in !important}')
 
 
 def maker(phon_label, vowels, vowel_examples="b d k m n"):
