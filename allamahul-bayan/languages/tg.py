@@ -81,7 +81,7 @@ LANG = build(dict(
                       intro_html="""<p>Tajik is written with <b>35 Cyrillic letters</b>. Six of them are special Tajik letters:
 <b>Ғ Ӣ Қ Ӯ Ҳ Ҷ</b>.</p>
 <div class="box" style="margin:0.1in 0"><h3>Letters with a little mark</h3>Look closely! Each special letter is a familiar letter with
-a small line, tail or bar: <b>Г→Ғ</b>, <b>И→Ӣ</b>, <b>К→Қ</b>, <b>У→Ӯ</b>, <b>Х→Ҳ</b>, <b>Ч→Ҷ</b>. The little mark changes the sound.</div>
+a small line, tail or bar: <b>Г–Ғ</b>, <b>И–Ӣ</b>, <b>К–Қ</b>, <b>У–Ӯ</b>, <b>Х–Ҳ</b>, <b>Ч–Ҷ</b>. The little mark changes the sound.</div>
 <div class="box" style="margin:0.1in 0"><h3>A Persian language</h3>Tajik is a form of <b>Persian</b>. Many words are shared with Persian
 and Dari, and many come from Arabic: <i>китоб</i> (book), <i>масҷид</i> (mosque), <i>Қуръон</i>.</div>
 <div class="box"><h3>Big and small</h3>Each page shows the <b>capital letter</b> and the <b>small letter</b> side by side: <b>Ҷҷ</b>. Color both!</div>""")],
