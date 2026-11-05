@@ -4,7 +4,7 @@ The 24 basic Thaana letters in their traditional order (ހ ށ ނ ރ ބ ޅ ކ އ 
 The fili (vowel signs) are taught on the section intro page and on every letter page.
 Transliteration follows the Maldivian Latin habit (dh, th = teeth; d, t = curled back; lh; ey, oa long e/o).
 Picture plug-ins (dv_*) live in engine/pics/si_dv_pics.py."""
-from generic import build, letter, section, fontset
+from generic import build, letter, section
 from maps import region_map
 
 FILI = [("ަ", "a"), ("ާ", "aa"), ("ި", "i"), ("ީ", "ee"), ("ު", "u"), ("ޫ", "oo"),
@@ -99,13 +99,19 @@ can color them, and each letter page shows the letter with all ten fili.
 <p class="small" style="margin-top:0.08in">A vowel at the start of a word sits on <span class="nt">އ</span> <i>alifu</i>, which has no sound of
 its own: <span class="nt">އަނބު</span> <i>anbu</i> (mango).</p>"""
 
+# Noto Sans Thaana draws its letters small next to Latin text, so the @font-face is scaled up (size-adjust),
+# and limited to Thaana (+ ﷲ, ◌, ZWJ/ZWNJ/marks) so Latin characters keep using Nunito.
+THAANA_RANGE = "U+0780-07BF,U+FDF2,U+25CC,U+200C-200F;size-adjust:145%"
+THAANA_FONTS = [("Noto Sans Thaana", w, "normal", f"noto-sans-thaana-thaana-{w}-normal.woff2", THAANA_RANGE)
+                for w in (400, 700, 800)]
+
 LANG = build(dict(
     code="dv", folder="book-17-dhivehi", series_no=17, isbn="", draft=True, dir="rtl",
     name="Dhivehi", native="ދިވެހި", native_tr="dhivehi", name_word="ނަން", write_word="ލިޔެލާ",
     title_native="އަހަރެންގެ ފުރަތަމަ ދިވެހި އަކުރު", title_letters="ހށނރބޅ", belongs_native="މި ފޮތަކީ އަހަރެންގެ ފޮތް",
     belongs_pic="dv_island", alphabet_native="ތާނަ", numbers_native="އަދަދު", numbers_tr="adhadhu",
     phrases_native="ފުރަތަމަ ބަސްތައް",
-    fonts=fontset("Noto Sans Thaana", "noto-sans-thaana-thaana", "Noto Sans Thaana", "noto-sans-thaana-thaana")[:3],
+    fonts=THAANA_FONTS,
     disp_family="Noto Sans Thaana", text_family="Noto Sans Thaana",
     glyph_font=["noto-sans-thaana-thaana-800-normal.woff2", "baloo-2-latin-800-normal.woff2"],
     font_credit="Noto Sans Thaana",

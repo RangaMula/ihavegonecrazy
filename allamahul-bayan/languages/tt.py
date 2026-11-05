@@ -114,9 +114,9 @@ Russian and other languages. They are still part of the alphabet, so we learn th
     hello_pics=[("kk_strawberry", {}), ("apple", {}), ("mosque", {})],
     map=region_map(frame=[[30.0, 40.0], [70.0, 62.0]],
                    points=dict(kazan=[49.12, 55.79], chelny=[52.40, 55.74], ufa=[55.97, 54.74]),
-                   area=(51.0, 55.4, 150, 90), cities=[("kazan", "Kazan", -14, -12, "end", False),
-                                                     ("chelny", "Naberezhnye Chelny", 10, 30, "start", False),
-                                                     ("ufa", "Ufa", 14, -10, "start", False)],
+                   area=(51.0, 55.4, 150, 90), cities=[("kazan", "Kazan", -14, 8, "end", False),
+                                                     ("chelny", "Naberezhnye Chelny", 0, -18, "middle", False),
+                                                     ("ufa", "Ufa", 14, 8, "start", False)],
                    label="THE VOLGA LANDS", label_at=[50.0, 50.5], marker=[50.0, 55.5],
                    caption="The circle shows Tatarstan on the world map.",
                    legend="<b>Color it:</b> the land <b>green</b> · the seas <b>blue</b>. <b>Find it:</b> Tatar is spoken in Kazan "
