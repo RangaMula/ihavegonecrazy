@@ -57,5 +57,14 @@ def peas():
             + C(70, 168, 10, "b") + C(94, 172, 10, "b") + C(118, 166, 10, "b") + ground(184))
 
 
-PICS = dict(my_car=K.car, my_pencil=K.pencil, my_durian=K.durian, my_gourd=K.gourd, my_bamboo=K.bamboo,
+def cabbage():
+    return (P("M100 50 C150 50 178 86 176 122 C174 160 140 184 100 184 C60 184 26 160 24 122 C22 86 50 50 100 50 Z", "c")
+            + P("M100 74 C132 74 150 100 148 126 C146 152 126 168 100 168 C74 168 54 152 52 126 C50 100 68 74 100 74 Z", "b")
+            + P("M100 96 C118 96 128 110 126 126 C124 142 114 150 100 150 C86 150 76 142 74 126 C72 110 82 96 100 96 Z", "a")
+            + P("M100 150 C98 130 100 112 108 98 M74 126 C90 124 104 128 116 140", "n t")
+            + P("M40 100 C56 108 66 124 70 146 M160 100 C144 108 134 124 130 146", "n t")
+            + leaf(100, 52, -110, 30) + ground(186))
+
+
+PICS = dict(my_cabbage=cabbage, my_car=K.car, my_pencil=K.pencil, my_durian=K.durian, my_gourd=K.gourd, my_bamboo=K.bamboo,
             my_chilli=chilli, my_fan=fan, my_youtiao=youtiao, my_hat=hat, my_peas=peas)

@@ -69,5 +69,5 @@ Printing ≈ **US $1.89** ($1.00 + 74 × $0.012). At **$8.99** royalty ≈ **$3.
 
 1. A ḥāfiẓ or scholar checks the Qur’an text on pages 4–5.
 2. **A native Arabic speaker proofreads every letter name, sound guide, word, transliteration and phrase.**
-   Check every voweled word and letter name (especially the endings: words are shown in pause form, without a final case vowel), the transliterations, ضَوْء for ض and غَيْمَة for غ, and the Qur’an references on the letter pages (several are plural or related forms: أَبَارِيق 56:18). Speaker number (about 380 million) needs a current Ethnologue check.
+   Check every voweled word and letter name (especially the endings: words are shown in pause form, without a final case vowel), the transliterations, ضَوْء for ض and غَيْمَة for غ, and the Qur’an references on the letter pages (each names one verse where the word appears). Speaker number (about 380 million) needs a current Ethnologue check.
 3. Order a printed proof copy.

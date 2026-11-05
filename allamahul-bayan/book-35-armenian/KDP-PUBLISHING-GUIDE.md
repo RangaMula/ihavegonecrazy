@@ -69,5 +69,5 @@ Printing ≈ **US $2.15** ($1.00 + 96 × $0.012). At **$8.99** royalty ≈ **$3.
 
 1. A ḥāfiẓ or scholar checks the Qur’an text on pages 4–5.
 2. **A native Armenian speaker proofreads every letter name, sound guide, word, transliteration and phrase.**
-   Check: the 39-letter order used in Armenian schools (Ու after Ց, և after Ք) and how և / Ու are shown as big letters; Eastern Armenian letter names (յի, ըթ, լյուն, տյուն, փյուր); the Armenian spellings of the Islamic phrases (Ասսալամու ալեյքում, Վա ալեյքում ասսալամ, Ջազաքալլահու խայրան, Մաշալլահ); the name plate 'Այս գիրքը պատկանում է' (a name after it needs a dative ending); word choices ֆինիկ (dates; or արմավ?), ճրագ (oil lamp), ուլունք (beads), քար (stone/stones), յոթ (seven, shown as the number 7), աղ for Ղ; the speaker number.
+   Check: the 39-letter order used in Armenian schools (Ու after Ց, և after Ք) and how և / Ու are shown as big letters; Eastern Armenian letter names (յի, ըթ, լյուն, տյուն, փյուր); the Armenian spellings of the Islamic phrases (Ասսալամու ալեյքում, Վա ալեյքում ասսալամ, Ջազաքալլահու խայրան, Մաշալլահ); the name plate 'Այս գիրքը պատկանում է' (a name after it needs a dative ending); word choices ֆինիկ (dates; or արմավ?), ճրագ (oil lamp), ուլունք (beads), քար (stone/stones), յոթ (seven, shown as seven stars), աղ for Ղ; the speaker number.
 3. Order a printed proof copy.

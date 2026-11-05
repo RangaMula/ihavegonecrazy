@@ -7,12 +7,19 @@ from illos import P, C, E, R, L, leaf, cloud, ground
 # ---------------- Sinhala ----------------
 def si_hopper():
     """Aappa (hoppers): a bowl-shaped crispy pancake with a soft middle, on a plate."""
-    lace = "".join(P(f"M{x} {y} q4 -6 8 0", "n t") for x, y in
-                   [(40, 92), (54, 100), (70, 104), (88, 106), (106, 106), (124, 104), (140, 100), (154, 94)])
-    one = lambda dx, s: (P(f"M{30*s+dx} 90 C{34*s+dx} 126 {64*s+dx} 152 {100*s+dx} 152 C{136*s+dx} 152 {166*s+dx} 126 {170*s+dx} 90 Z", "b"))
-    return (E(100, 166, 84, 16, "c") + E(100, 162, 64, 9, "a")
-            + one(0, 1) + E(100, 90, 70, 20, "a") + E(100, 98, 32, 10, "d") + C(100, 96, 8, "e") + lace
-            + P("M76 60 c-8 -10 8 -16 0 -28 M100 56 c-8 -10 8 -16 0 -28 M124 60 c-8 -10 8 -16 0 -28", "n t"))
+    # wavy, crispy rim: little scallops all round the top opening
+    import math
+    rim = []
+    for k in range(25):
+        a = math.radians(180 + k * 15)
+        r = 72 if k % 2 == 0 else 66
+        rim.append(f"{100 + r * math.cos(a):.1f} {84 + r * 0.32 * math.sin(a):.1f}")
+    rim_d = "M" + " L".join(rim) + " Z"
+    return (E(100, 168, 86, 15, "c") + E(100, 164, 64, 8, "a")
+            + P("M28 84 C32 124 62 156 100 156 C138 156 168 124 172 84 Z", "b")
+            + P(rim_d, "a") + P("M54 100 C70 120 130 120 146 100 C130 108 70 108 54 100 Z", "d")
+            + P("M40 120 C56 132 70 138 84 140 M160 120 C144 132 130 138 116 140", "n t")
+            + P("M78 54 c-8 -10 8 -16 0 -28 M100 50 c-8 -10 8 -16 0 -28 M122 54 c-8 -10 8 -16 0 -28", "n t"))
 
 
 def si_plant():

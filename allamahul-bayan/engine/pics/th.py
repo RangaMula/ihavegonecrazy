@@ -54,7 +54,7 @@ def cymbals():
                 + C(cx, cy - 20, 5, "b") + "</g>")
     return (P("M58 104 C60 40 140 40 142 104", "n") + C(100, 52, 6, "e")
             + cym(58, 124, -18) + cym(142, 124, 18)
-            + P("M90 160 C96 168 104 168 110 160", "n t") + P("M84 176 C94 186 106 186 116 176", "n t"))
+            + P("M14 150 L4 160 M20 164 L12 178 M186 150 L196 160 M180 164 L188 178", "n t"))
 
 
 def chain():
@@ -79,16 +79,11 @@ def grass():
             + C(46, 112, 4, "d") + ground(182))
 
 
-def chada():
-    """Chada: the tall pointed crown of Thai classical dance (drawn plain, as an object)."""
-    return (P("M54 146 C36 140 30 112 44 98 C48 118 54 130 64 136 Z", "e")
-            + P("M146 146 C164 140 170 112 156 98 C152 118 146 130 136 136 Z", "e")
-            + P("M52 182 C50 160 58 146 70 140 L130 140 C142 146 150 160 148 182 Z", "c")
-            + R(56, 130, 88, 16, "d", 5) + C(100, 138, 6, "e")
-            + R(66, 114, 68, 16, "b", 6) + R(74, 98, 52, 16, "c", 6)
-            + R(82, 82, 36, 16, "b", 6) + R(88, 66, 24, 16, "c", 5)
-            + P("M90 66 C94 46 98 30 100 12 C102 30 106 46 110 66 Z", "d")
-            + "".join(C(x, 122, 3, "n") for x in (80, 100, 120)) + C(100, 106, 3, "n"))
+def crown():
+    return (P("M40 132 L36 70 L70 104 L100 54 L130 104 L164 70 L160 132 Z", "c")
+            + C(36, 64, 9, "e") + C(100, 48, 10, "e") + C(164, 64, 9, "e")
+            + R(36, 128, 128, 32, "d", 6) + C(68, 144, 7, "e") + E(100, 144, 10, 8, "b") + C(132, 144, 7, "e")
+            + P("M70 116 L70 108 M130 116 L130 108", "n t") + ground(176))
 
 
 def goad():
@@ -125,8 +120,10 @@ def gem():
 def bag():
     return (P("M64 82 C32 110 34 176 70 182 L130 182 C166 176 168 110 136 82 Z", "b")
             + P("M76 84 C64 60 92 56 100 70 C108 56 136 60 124 84 Z", "c")
-            + P("M62 88 C90 98 110 98 138 88", "n") + E(84, 104, 12, 7, "d", 30) + E(116, 104, 12, 7, "d", -30)
-            + "".join(C(x, y, 5, "e") for x, y in [(70, 140), (100, 128), (130, 140), (86, 162), (116, 162)]))
+            + P("M62 88 C90 98 110 98 138 88", "n") + P("M138 88 C150 96 154 110 148 122", "n")
+            + R(140, 120, 18, 24, "d", 4)
+            + "".join(C(x, y, 4, "e") for x, y in [(60, 120), (84, 112), (108, 124), (60, 150), (84, 140), (108, 154),
+                                                    (132, 160), (84, 170), (126, 108)]))
 
 
 def leafbig():
@@ -246,7 +243,7 @@ def flag():
 
 
 PICS = {"th_bottle": bottle, "th_hammer": hammer, "th_bell": bell, "th_rambutan": rambutan,
-        "th_cymbals": cymbals, "th_chain": chain, "th_grass": grass, "th_chada": chada, "th_goad": goad,
+        "th_cymbals": cymbals, "th_chain": chain, "th_grass": grass, "th_crown": crown, "th_goad": goad,
         "th_pedestal": pedestal, "th_grandstand": grandstand, "th_gem": gem, "th_bag": bag, "th_leaf": leafbig,
         "th_lid": lid, "th_phaan": phaan, "th_pumpkin": pumpkin, "th_eraser": eraser, "th_sala": sala,
         "th_paper": paper, "th_chest": chest, "th_basin": basin, "th_chula": chula,

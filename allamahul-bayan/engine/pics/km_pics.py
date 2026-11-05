@@ -96,9 +96,9 @@ def bell():
 
 
 def apple_or_banana():
-    return (f'<g transform="translate(-4 34) scale(0.6)">{apple()}</g>'
-            f'<g transform="translate(84 34) scale(0.6)">{banana()}</g>'
-            + P("M96 60 C96 48 108 44 112 52 C116 60 102 64 102 74", "n") + C(102, 84, 2.5, "n"))
+    return (f'<g transform="translate(0 56) scale(0.5)">{apple()}</g>'
+            f'<g transform="translate(100 56) scale(0.5)">{banana()}</g>'
+            + P("M86 26 C86 10 114 8 114 24 C114 36 100 38 100 50", "n") + C(100, 60, 3, "n"))
 
 
 PICS = dict(km_pencil=pencil, km_bed=bed, km_gourd=gourd, km_table=table, km_stones=stones, km_durian=durian,

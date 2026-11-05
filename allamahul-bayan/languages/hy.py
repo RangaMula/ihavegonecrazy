@@ -43,7 +43,7 @@ LETTERS = [
        args=dict(label="աղ"), note="Few words start with <span class='nt'>ղ</span>. Find it at the end of <span class='nt'>աղ</span>!"),
     Lt("Ճ", "ճ", "ճե", "che", "‘ch’ as in “church”" + NOPUFF, "ճրագ", "chuh-RAG", "oil lamp", "hy_lamp"),
     Lt("Մ", "մ", "մեն", "men", "‘m’ as in “moon”", "մեղր", "meghr", "honey", "honey"),
-    Lt("Յ", "յ", "յի", "yee", "‘y’ as in “yes”", "յոթ", "yot", "seven", "one", args=dict(digit="7")),
+    Lt("Յ", "յ", "յի", "yee", "‘y’ as in “yes”", "յոթ", "yot", "seven", "hy_seven"),
     Lt("Ն", "ն", "նու", "noo", "‘n’ as in “net”", "նուռ", "noorr", "pomegranate", "pomegranate"),
     Lt("Շ", "շ", "շա", "sha", "‘sh’ as in “ship”", "շուշան", "shoo-SHAN", "lily", "lily"),
     Lt("Ո", "ո", "ո", "vo", "‘vo’ at the start of a word; ‘o’ as in “dog” inside a word", "ոլոռ", "vo-LORR", "peas", "hy_peas"),
@@ -147,7 +147,7 @@ are written with two joined shapes, but each one counts as a single letter.</div
                  "letters; Eastern Armenian letter names (յի, ըթ, լյուն, տյուն, փյուր); the Armenian spellings of the Islamic phrases "
                  "(Ասսալամու ալեյքում, Վա ալեյքում ասսալամ, Ջազաքալլահու խայրան, Մաշալլահ); the name plate 'Այս գիրքը պատկանում է' "
                  "(a name after it needs a dative ending); word choices ֆինիկ (dates; or արմավ?), ճրագ (oil lamp), "
-                 "ուլունք (beads), քար (stone/stones), յոթ (seven, shown as the number 7), աղ for Ղ; the speaker number."),
+                 "ուլունք (beads), քար (stone/stones), յոթ (seven, shown as seven stars), աղ for Ղ; the speaker number."),
     tiles="ԱԲԳԴԵԶ", cover_pics=["pomegranate", "hy_apricot", "kite", "mountain"], title_size=46,
     speakers_blurb="Armenian is spoken by more than 5 million people in Armenia and around the world.",
     sample_words=[("ծիրան", "tsee-RAN", "apricot"), ("նուռ", "noorr", "pomegranate"), ("արև", "a-REV", "sun")],

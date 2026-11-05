@@ -71,7 +71,7 @@ INTRO = f"""<p>Amharic is written with the <b>fidel</b> (<span class="nt">ፊደ
 <div class="box" style="margin:0.08in 0"><h3>One family, seven sounds</h3>
 Each family starts with its <b>base letter</b> (the 1st form). Small changes to its shape give six more forms, one for each vowel.
 Read the grid across: <i>le, lu, li, la, lé, l(i), lo</i>.
-{grid_table([("ለ", "l"), ("መ", "m"), ("በ", "b")])}
+{grid_table([("ለ", "l"), ("መ", "m"), ("በ", "b"), ("ሰ", "s")])}
 <span class="small">The forms are called <span class="nt">ግዕዝ ካዕብ ሣልስ ራብዕ ኃምስ ሳድስ ሳብዕ</span>
 (<i>ge'ez, ka'ib, salis, rabi', hamis, sadis, sabi'</i>): 1st to 7th.</span></div>
 <div class="box" style="margin:0.08in 0"><h3>Spot the vowel marks</h3>

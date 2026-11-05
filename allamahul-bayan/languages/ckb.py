@@ -93,7 +93,7 @@ INTRO = """<p>Kurdish (Sorani) is written <b>from right to left</b>. Open your b
 every word aloud: <span class="nt">ا ە و ۆ ی ێ</span>. At the start of a word a vowel comes after the silent <span class="nt">ئ</span>:
 <span class="nt">ئاو</span> <i>aw</i> (water).</div>
 <div class="box" style="margin:0.1in 0"><h3>The little ‘v’ mark</h3>A small ‘v’ makes a new Kurdish sound:
-<div class="ntd" style="font-size:24pt;text-align:center;direction:rtl;line-height:1.7">ر → ڕ &nbsp;&nbsp; ل → ڵ &nbsp;&nbsp; و → ۆ &nbsp;&nbsp; ی → ێ</div>
+<div style="font-size:24pt;text-align:center;direction:ltr;line-height:1.7"><span class="ntd">ر</span> → <span class="ntd">ڕ</span> &nbsp;&nbsp;&nbsp; <span class="ntd">ل</span> → <span class="ntd">ڵ</span> &nbsp;&nbsp;&nbsp; <span class="ntd">و</span> → <span class="ntd">ۆ</span> &nbsp;&nbsp;&nbsp; <span class="ntd">ی</span> → <span class="ntd">ێ</span></div>
 <div style="text-align:center">r → rolled ṟ · l → heavy ḷ · w → o · y → ê</div></div>
 <div class="box"><h3>Letters hold hands</h3>Most letters <b>join</b> to the next one. These never join forward:
 <span class="nt" style="font-size:16pt">ا د ر ڕ ز ژ ە و ۆ</span>. Each page shows the letter’s shapes.</div>"""
@@ -135,7 +135,7 @@ LANG = build(dict(
     ],
     hello_pics=[("mountain", {}), ("pomegranate", {}), ("pen", {})],
     chart_note="Read the alphabet from <b>right to left</b>, row by row — the same order as in this book.",
-    map=region_map(frame=[[38.5, 30.5], [51.5, 41.5]],
+    map=region_map(frame=[[38.5, 30.5], [52.5, 42.0]],
                    points=dict(erbil=[44.01, 36.19], sulaymaniyah=[45.43, 35.56], sanandaj=[47.00, 35.31],
                                mahabad=[45.72, 36.76], koya=[44.63, 36.08]),
                    area=(45.6, 35.9, 85, 55), area_rot=-30,
@@ -145,7 +145,7 @@ LANG = build(dict(
                    caption="The circle shows the Zagros Mountains on the world map.",
                    legend="<b>Color it:</b> the land <b>green</b> · the sea <b>blue</b>. <b>Find it:</b> Sorani Kurdish is spoken "
                           "in cities such as Erbil and Sulaymaniyah in northern Iraq, and Sanandaj and Mahabad in western Iran.",
-                   seas=[("Caspian Sea", 50.4, 39.6)], world_r=16),
+                   seas=[("Caspian Sea", 51.0, 38.9)], world_r=16),
     digits=[("٠", "سفر", "sifr", "zero"), ("١", "یەک", "yek", "one"), ("٢", "دوو", "doo", "two"), ("٣", "سێ", "sê", "three"),
             ("٤", "چوار", "chwar", "four"), ("٥", "پێنج", "pênj", "five"), ("٦", "شەش", "shesh", "six"), ("٧", "حەوت", "hewt", "seven"),
             ("٨", "هەشت", "hesht", "eight"), ("٩", "نۆ", "no", "nine")],

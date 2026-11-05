@@ -186,7 +186,7 @@ LANG = build(dict(
     book_pic=dict(left="ث ج ح", right="ا ب ت"),
     review_note="Check every voweled word and letter name (especially the endings: words are shown in pause form, without a final "
                 "case vowel), the transliterations, ضَوْء for ض and غَيْمَة for غ, and the Qur’an references on the letter pages "
-                "(several are plural or related forms: أَبَارِيق 56:18). Speaker number (about 380 million) needs a current Ethnologue check.",
+                "(each names one verse where the word appears). Speaker number (about 380 million) needs a current Ethnologue check.",
     tiles="ابتثجح", cover_pics=["pen", "mosque", "dates", "moon"], title_size=48,
     speakers_blurb="Arabic is the language of the Qur’an and is spoken by about 380 million people across North Africa and West Asia.",
     sample_words=[("قَلَم", "qalam", "pen"), ("مَسْجِد", "masjid", "mosque"), ("كِتَاب", "kitaab", "book")],

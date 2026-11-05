@@ -145,8 +145,28 @@ def raspberry():
 
 
 
+def stars_to_count(n):
+    """n stars to count (for number words)."""
+    if n == 2:
+        pos = [(62, 100, 40), (140, 100, 40)]
+    else:  # 7: a row of 4 over a row of 3
+        pos = [(31 + 46 * i, 72, 23) for i in range(4)] + [(54 + 46 * i, 136, 23) for i in range(3)]
+    return "".join(star(x, y, r, r * 0.45, "dea"[i % 3]) for i, (x, y, r) in enumerate(pos))
+
+
+def milk():
+    """A bottle of milk and a full glass."""
+    return (P("M54 64 L54 46 L90 46 L90 64 C108 76 112 92 112 110 L112 176 C112 182 108 186 102 186 "
+              "L42 186 C36 186 32 182 32 176 L32 110 C32 92 36 76 54 64 Z", "a")
+            + R(50, 30, 44, 18, "d", 4) + R(32, 118, 80, 40, "b", 2)
+            + P("M128 98 L176 98 L168 186 L136 186 Z", "a") + P("M131 118 L173 118", "n t")
+            + ground(186))
+
+
 PICS = {
     "el_bread": bread, "el_logs": logs,
     "hy_apricot": round_fruit, "hy_strawberry": strawberry, "hy_lamp": lamp, "hy_peas": peas,
     "hy_basil": basil, "hy_cucumber": cucumber, "hy_wheat": wheat, "hy_beads": beads, "hy_stones": stones,
-    "ka_peach": round_fruit, "ka_bread": bread, "ka_snowdrop": snowdrop, "ka_raspberry": raspberry,}
+    "ka_peach": round_fruit, "ka_bread": bread, "ka_snowdrop": snowdrop, "ka_raspberry": raspberry,
+    "hy_seven": lambda: stars_to_count(7), "ka_two": lambda: stars_to_count(2), "ka_milk": milk,
+}
