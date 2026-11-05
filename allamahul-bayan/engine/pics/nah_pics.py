@@ -22,20 +22,21 @@ def nopal():
     fruit = lambda x, y: E(x, y, 8, 11, "d") + L(x - 4, y - 11, x + 4, y - 11, "n t")
     return (pad(100, 138, 32, 40, 0) + pad(64, 88, 24, 32, -28) + pad(138, 84, 24, 32, 26) + pad(100, 50, 17, 23, 0)
             + fruit(52, 54) + fruit(152, 48) + fruit(100, 20) + fruit(78, 60)
-            + P("M78 178 L84 160 H116 L122 178 Z", "b") + ground(180))
+            + ground(178))
 
 
 def petlatl():
     """A woven palm mat (Nahuatl petlatl, K'iche' pop) with a checker weave, lying flat."""
     out = []
-    x0, y0, cw, ch, sk = 30, 70, 24, 18, 10   # cells, skewed to the right as rows go down
+    x0, y0, cw, ch, sk = 26, 62, 23, 22, 12   # cells, skewed to the right as rows go down
     for r in range(5):
         for c in range(6):
             x = x0 + c * cw + r * sk * 0.6; y = y0 + r * ch
             cls = "b" if (r + c) % 2 else "a"
             out.append(poly([(x, y), (x + cw, y), (x + cw + sk * 0.6, y + ch), (x + sk * 0.6, y + ch)], cls))
-    # a rolled end on the right
-    out.append(P("M174 70 C186 70 192 84 186 96 L196 160 C202 172 188 180 180 160", "n"))
+    for r in range(5):   # a short fringe of loose palm strips at both ends
+        x = x0 + r * sk * 0.6; y = y0 + r * ch + ch / 2
+        out.append(L(x - 2, y, x - 12, y, "n t")); out.append(L(x + 6 * cw + 8, y, x + 6 * cw + 18, y, "n t"))
     return "".join(out) + ground(176)
 
 
@@ -63,7 +64,7 @@ def sapote():
 def amaranth():
     """An amaranth plant (wawtli) with a tall drooping plume of tiny seeds and broad leaves."""
     stem = P("M100 182 C100 140 98 100 100 64", "n")
-    plume = "".join(E(100 + 1.5 * i * i / 6, 64 - i * 11, 13 - i * 0.9, 9, "d", 10 + i * 4) for i in range(6))
+    plume = "".join(E(100 + 1.1 * i * i, 64 - i * 10, 12 - i * 0.9, 8, "d", 10 + i * 9) for i in range(6))
     side = "".join(E(78 - i * 6, 92 - i * 9, 8 - i, 6, "d", -30) for i in range(3)) + \
            "".join(E(122 + i * 6, 96 - i * 9, 8 - i, 6, "d", 30) for i in range(3))
     arms = P("M100 110 C92 104 84 98 80 90", "n") + P("M100 114 C108 108 116 104 120 96", "n")
