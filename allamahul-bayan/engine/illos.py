@@ -858,16 +858,22 @@ PICS.update(swing=swing, ball=ball, house=house, feather=feather, stool=stool, o
 
 # ---- plug-in pictures: every engine/pics/<name>.py may define PICS = {key: function} ----
 def _load_plugins():
-    import importlib, os, sys
+    """Load every engine/pics/*.py under a private module name (pics_<file>) so a picture file can
+    share its name with a language file (pics/syr.py vs languages/syr.py) without clashing."""
+    import importlib.util, os, sys
     d = os.path.join(os.path.dirname(os.path.abspath(__file__)), "pics")
     if not os.path.isdir(d):
         return
     if d not in sys.path:
-        sys.path.insert(0, d)
+        sys.path.append(d)  # AFTER engine/ and languages/, so language modules always win name clashes
     for f in sorted(os.listdir(d)):
         if f.endswith(".py") and not f.startswith("_"):
+            name = "pics_" + f[:-3]
             try:
-                m = importlib.import_module(f[:-3])
+                spec = importlib.util.spec_from_file_location(name, os.path.join(d, f))
+                m = importlib.util.module_from_spec(spec)
+                sys.modules[name] = m
+                spec.loader.exec_module(m)
                 PICS.update(getattr(m, "PICS", {}))
             except Exception as e:  # one broken plug-in must never stop other books from building
                 print(f"WARNING: picture plug-in {f} failed to load: {e!r}", file=sys.stderr)
