@@ -1,64 +1,59 @@
-# Allamahul Bayan Series — alphabet coloring books for the languages of South Asia
+# Allamahul Bayan Series — alphabet coloring books for the languages of the world
 
 Published by **Maktabatu Kunujul Akhirah** (an imprint of the Kunujul Akhirah Charitable Trust) ·
 written by **Hafez Abdullah Muhammad Minhaz Reza** · illustrations AI-assisted.
 
 The series is named after Surah Ar-Raḥmān 55:4, *ʿallamahul-bayān*: “He taught him clear expression.”
-Every book teaches one language's alphabet **through English**, with its own coloring line art.
+Every book teaches one language's alphabet **through English**: each letter is shown in its own script, with an
+English transliteration and sound guide, a picture word to color, and tracing rows. Every book is KDP-ready:
+an 8.5 × 11 in black-and-white interior with no bleed, a full-colour wrap cover with the spine sized to the page
+count, and a `KDP-PUBLISHING-GUIDE.md`.
 
-Each book is KDP-ready: an 8.5 × 11 in black-and-white interior with no bleed, a full-colour wrap cover
-with the spine sized to the page count, and a `KDP-PUBLISHING-GUIDE.md` with the description,
-keywords, categories, price and AI disclosure.
+**→ The list of all 88 books, with page counts and review status, is in [SERIES-STATUS.md](SERIES-STATUS.md).**
 
-## Status
+| Range | Region |
+|---|---|
+| 1–26 | South Asia: Bengali, Hindi, Urdu, Punjabi, Gujarati, Marathi, Tamil, Telugu, Kannada, Malayalam, Odia, Assamese, Nepali, Sinhala, Sindhi, Pashto, Dhivehi, Kashmiri, Balochi, Santali, Manipuri, Konkani, Maithili, Dogri, Bodo, Dzongkha |
+| 27–33 | Arabic script and the Middle East: Arabic, Persian, Uyghur, Kurdish (Sorani), Malay (Jawi), Hebrew, Assyrian (Syriac) |
+| 34–44 | Greek, Armenian, Georgian and the Cyrillic alphabets: Russian, Ukrainian, Bulgarian, Serbian, Kazakh, Tatar, Tajik, Mongolian |
+| 45–53 | East and Southeast Asia: Korean, Japanese, Thai, Lao, Khmer, Burmese, Javanese, Sundanese, Balinese |
+| 54–55 | North American syllabaries: Cherokee, Inuktitut |
+| 56–61 | African scripts: Amharic, Tigrinya, Tamazight (Tifinagh), Bambara (N'Ko), Fula (Adlam), Vai |
+| 62–79 | African Latin-script languages: Swahili, Hausa, Yoruba, Igbo, Somali, Oromo, Zulu, Xhosa, Shona, Kinyarwanda, Lingala, Wolof, Malagasy, Twi, Afrikaans, Sesotho, Setswana, Luganda |
+| 80–88 | Latin America and the Caribbean: Spanish, Portuguese, Quechua, Guaraní, Aymara, Nahuatl, K'iche', Haitian Creole, Mapudungun |
 
-| # | Book | Script | Letters | Pages | Folder |
-|---|---|---|---|---|---|
-| 1 | Bengali | Bengali | 50 | 120 | `book-01-bengali/` |
-| 2 | Hindi | Devanagari | 51 | 122 | `book-02-hindi/` |
-| 3 | Urdu | Perso-Arabic (Nastaliq), right-to-left | 38 | 94 | `book-03-urdu/` |
-| 4 | Punjabi | Gurmukhi | 48 | 116 | `book-04-punjabi/` |
-| 5 | Gujarati | Gujarati | 49 | 118 | `book-05-gujarati/` |
-| 6 | Marathi | Devanagari | 49 | 118 | `book-06-marathi/` |
-| 7 | Tamil | Tamil | 36 | 92 | `book-07-tamil/` |
-| 8 | Telugu | Telugu | 50 | 120 | `book-08-telugu/` |
-| 9 | Kannada | Kannada | 49 | 118 | `book-09-kannada/` |
-| 10 | Malayalam | Malayalam | 51 | 122 | `book-10-malayalam/` |
-| 11 | Odia | Odia | 49 | 116 | `book-11-odia/` |
-| 12 | Assamese | Assamese (Bengali-Assamese) | 50 | 120 | `book-12-assamese/` |
-| 13 | Nepali | Devanagari | 49 | 118 | `book-13-nepali/` |
-| 14 | Sinhala | Sinhala | — | — | *not started: needs a native-speaker word list* |
-| 15 | Sindhi | Perso-Arabic | — | — | *not started* |
-| 16 | Pashto | Perso-Arabic | — | — | *not started* |
-| 17 | Dhivehi | Thaana, right-to-left | — | — | *not started* |
+Chinese is not included because it has no alphabet.
 
-Later candidates: Kashmiri, Konkani, Maithili, Santali (Ol Chiki), Manipuri (Meitei Mayek), Dogri, Bodo, Balochi.
+## Before publishing any book
 
-**None of these books is ready to publish without two human checks.** First, a ḥāfiẓ or scholar must review
-the Qur'an pages (pp. 4–5, the same in every book). Second, a native speaker must proofread each book's letter
-names, sound guides, words and transliterations. Each book's KDP guide lists the points to check
-first. Odia and Assamese were drafted from less source material than the others and need the most careful review.
+1. **Native-speaker proofread.** Books 1–13 were written first and checked by eye. Books 14–88 were drafted by
+   parallel AI agents, often without access to dictionaries, and print a **REVIEW DRAFT** notice on the title and copyright
+   pages. Each book's `review_note`, which is repeated in its KDP guide, lists exactly what to check.
+2. **Qur'an check.** A ḥāfiẓ or scholar must review pages 4–5, which are the same in every book.
+3. After review, set `draft=False` in `languages/<code>.py`, run `python3 build.py <code>`, and order a printed proof.
 
 ## House rules (Maktabatu Kunujul Akhirah)
 
-- Pictures show objects, plants and nature only: no people, no animals, no faces.
-- Every word appears three ways: native script, transliteration (doubled vowels are long) and English meaning.
-- Every Qur'an quote carries its surah:verse and a superscript that resolves on the References page.
+- Pictures show objects, plants and nature only: no people, no animals, no faces, and no religious symbols of other faiths.
+- Every word appears three ways: native script, transliteration and English meaning.
+- Every Qur'an quote has its surah:verse and a superscript that points to the References page.
 - Each coloring page is on the right with a blank back. The certificate is on an odd page with a blank back.
-- Maps show coastlines only, with no political borders, plus a dashed area around the region where the
-  language is spoken. Bengali is the exception: it uses the Bangladesh–India borders.
+- Maps show coastlines only, with no political borders and no disputed names. Bengali is the exception: it uses the Bangladesh–India borders.
+- Facts are neutral and child-friendly. The phrases page always includes the Muslim greeting pair and *Jazakallahu khairan*.
 
 ## How it is built
 
 ```
 allamahul-bayan/
-  build.py            python3 build.py hi ur …   or   python3 build.py all
-  engine/             shared generator: book.py (interior), cover.py, guide.py, indic.py (Indic-script helper),
-                      glyphs.py (HarfBuzz-shaped letter outlines), illos.py (≈110 object drawings), brand.py,
-                      series.py (series facts + Qur'an quotes), render.mjs, make_map.mjs
-  languages/          one data file per book: bn hi ur pa gu mr ta te kn ml or as ne (+ _southasia.py map helper)
-  fonts/              all SIL Open Font License (Baloo family per script, Noto Sans per script, Fredoka, Nunito, Amiri …)
-  book-NN-<name>/     output/interior.pdf, output/cover.pdf, KDP-PUBLISHING-GUIDE.md
+  build.py          python3 build.py <code> [<code> …]   or   python3 build.py all
+  status.py         python3 status.py  -> SERIES-STATUS.md
+  AGENT_BRIEF.md    the instructions every book agent followed
+  engine/           book.py (interior), cover.py, guide.py, glyphs.py (HarfBuzz letter outlines),
+                    indic.py (Brahmic scripts), generic.py (all other alphabets), maps.py, illos.py (picture library),
+                    pics/ (picture plug-ins added per language), brand.py, series.py, render.mjs, make_map.mjs
+  languages/        one data file per book (<code>.py) + shared helpers (_*.py)
+  fonts/            SIL Open Font License fonts for every script
+  book-NN-<name>/   output/interior.pdf, output/cover.pdf, KDP-PUBLISHING-GUIDE.md
 ```
 
 Setup, run once:
@@ -71,12 +66,10 @@ cd allamahul-bayan/engine && npm install
 pip install fonttools brotli skia-pathops uharfbuzz pypdf
 ```
 
-Rebuild everything (needs Playwright with Chromium):
+To rebuild every book (needs Playwright with Chromium):
 
 ```bash
-cd allamahul-bayan && python3 build.py all
+cd allamahul-bayan && python3 build.py all && python3 status.py
 ```
 
-To fix a word, edit `languages/<code>.py` and rebuild that book. To add a language, copy the closest file:
-`hi.py` or `pa.py` for an Indic script, `ur.py` for a Perso-Arabic one. Any picture key the library lacks
-is added in `engine/illos.py`.
+To fix a word, edit `languages/<code>.py` and rebuild that book. To add a language, copy the closest existing file.
