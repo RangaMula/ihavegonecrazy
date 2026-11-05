@@ -30,6 +30,7 @@ def maker(phon_label, vowels="a e i o u"):
 
     def L(cap, name, name_tr, sound, word, tr, meaning, pic, args=None, note=None, rule=None, row=None, vowel=False):
         small = cap.lower()
+        cap = cap.capitalize()                      # "KH" -> "Kh"
         big = cap + small if len(cap) == 1 else f"{cap} {small}"
         if row is None:
             row = ("" if vowel else " · ".join(small + v for v in vs))
