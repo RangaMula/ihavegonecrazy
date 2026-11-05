@@ -5,7 +5,7 @@ from generic import build, section, fontset
 from maps import region_map
 from _sn_rw_ln_wo import fonts, GLYPH_FONTS, maker, inside
 
-L = maker("Kinyarwanda syllables · ba be bi bo bu", "a e i o u")
+L = maker("Kinyarwanda syllables", "a e i o u")
 
 
 def pre(cap, parts):
@@ -85,16 +85,16 @@ find the letter <b>right after</b> that little vowel: <i>i·<b>g</b>iti</i> (tre
                           "in beautiful zigzag patterns."),
     ],
     hello_pics=[("basket", {}), ("mountain", {}), ("mosque", {})],
-    map=region_map(frame=[[22.0, -14.0], [42.0, 6.0]],
+    map=region_map(frame=[[25.0, -12.0], [42.0, 5.0]],
                    points=dict(kigali=[30.06, -1.95], huye=[29.74, -2.60], musanze=[29.63, -1.50]),
-                   area=(29.9, -2.0, 60, 60),
+                   area=(29.9, -2.0, 75, 70),
                    cities=[("kigali", "Kigali", 14, 6, "start", False), ("huye", "Huye", 12, 16, "start", False),
                            ("musanze", "Musanze", -12, -6, "end", False)],
-                   label="RWANDA", label_at=[30.0, 1.6], marker=[30.0, -2.0],
+                   label="RWANDA", label_at=[29.9, 0.3], marker=[30.0, -2.0],
                    caption="The circle shows the middle of Africa on the world map.",
                    legend="<b>Color it:</b> the land <b>green</b> · the ocean <b>blue</b>. <b>Find it:</b> Kinyarwanda is spoken all over "
                           "Rwanda: in the capital Kigali, in Huye and in Musanze near the volcanoes. The dashed line shows Rwanda.",
-                   seas=[("Indian Ocean", 39.6, -10.0)], world_r=13),
+                   seas=[("Indian Ocean", 40.6, -10.2)], world_r=13),
     digits=[("0", "zeru", "ZEH-roo", "zero"), ("1", "rimwe", "REE-mweh", "one"), ("2", "kabiri", "kah-BEE-ree", "two"),
             ("3", "gatatu", "gah-TAH-too", "three"), ("4", "kane", "KAH-neh", "four"), ("5", "gatanu", "gah-TAH-noo", "five"),
             ("6", "gatandatu", "gah-tahn-DAH-too", "six"), ("7", "karindwi", "kah-REEN-dwee", "seven"),

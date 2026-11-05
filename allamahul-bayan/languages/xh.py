@@ -87,7 +87,7 @@ or <b>um-</b>: <i>i</i>-qanda (egg), <i>i</i>-cephe (spoon). The letter you are 
 <i>ba · be · bi · bo · bu</i>. Say it like a song!</div>"""),
         section(PAIRS, label="LETTER PAIR", chip="LETTER PAIRS", title="Letter Pairs",
                 native="bh · dl · hl · kh · ny · ph · th · ty", native_tr="eight pairs that make one sound each",
-                chart_title="letter pairs", chart_cols=8, warmup_title="the letter pairs", warmup_cols=4,
+                chart_title="letter pairs", chart_cols=4, warmup_title="the letter pairs", warmup_cols=4,
                 intro_html="""<p>Many Xhosa sounds are written with <b>two letters</b>. Each pair is <b>one sound</b>.</p>
 <div class="box" style="margin:0.1in 0"><h3>A puff of air</h3>An <b>H</b> after a letter often adds a puff of air: <b>KH PH TH</b>.
 So <b>PH</b> is never ‘f’ and <b>TH</b> is never the ‘th’ of “think”.</div>

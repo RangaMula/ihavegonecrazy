@@ -119,7 +119,7 @@ def bread():
                 + P(f"M{cx-rx*0.45} {cy-ry*0.55} l{rx*0.25} {-ry*0.25} M{cx-rx*0.05} {cy-ry*0.7} l{rx*0.25} {-ry*0.2} "
                     f"M{cx+rx*0.35} {cy-ry*0.55} l{rx*0.2} {-ry*0.2}", "n t"))
     return (E(100, 158, 88, 20, "a") + E(100, 154, 70, 13, "e")
-            + loaf(60, 150, 36, 40, "d") + loaf(140, 150, 36, 40, "d") + loaf(100, 140, 40, 56, "b") + ground(186))
+            + loaf(50, 154, 30, 34, "d") + loaf(150, 154, 30, 34, "d") + loaf(100, 148, 36, 50, "b") + ground(186))
 
 
 def snow():
@@ -145,7 +145,8 @@ def logs():
 
 def leaf_big():
     """Laphi / tapül: a big leaf on a twig, and a small one."""
-    veins = "".join(P(f"M{100 + k*8} {120 - k*12} l{-20} {-8} M{100 + k*8} {120 - k*12} l{12} {18}", "n t") for k in range(-1, 4))
+    veins = "".join(P(f"M{100 + 32*t:.1f} {120 - 94*t:.1f} l-14 -2 M{100 + 32*t:.1f} {120 - 94*t:.1f} l13 -8", "n t")
+                    for t in (0.2, 0.38, 0.56, 0.74))
     return (P("M60 170 C76 152 90 136 100 120", "n")
             + P("M100 120 C70 96 72 50 132 26 C150 70 146 118 100 120 Z", "c")
             + P("M100 120 C110 92 120 60 132 26", "n t") + veins

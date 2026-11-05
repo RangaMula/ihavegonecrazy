@@ -100,7 +100,7 @@ LANG = build(dict(
                    caption="The circle shows Madagascar on the world map.",
                    legend="<b>Color it:</b> the land <b>green</b> · the ocean <b>blue</b>. <b>Find it:</b> Malagasy is spoken all over the island, "
                           "in Antananarivo, Toamasina, Mahajanga, Fianarantsoa, Toliara and Antsiranana.",
-                   seas=[("Indian Ocean", 52.5, -21.0), ("Mozambique Channel", 41.8, -18.5)], world_r=14),
+                   seas=[("Indian Ocean", 52.5, -21.0), ("Mozambique Channel", 42.0, -25.3)], world_r=14),
     digits=[("0", "aotra", "OW-tchah", "zero"), ("1", "iray", "ee-RAI", "one"), ("2", "roa", "ROO-ah", "two"),
             ("3", "telo", "TEH-loo", "three"), ("4", "efatra", "EH-fah-tchah", "four"), ("5", "dimy", "DEE-mee", "five"),
             ("6", "enina", "EH-nee-nah", "six"), ("7", "fito", "FEE-too", "seven"), ("8", "valo", "VAH-loo", "eight"),
