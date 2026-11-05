@@ -116,7 +116,7 @@ LANG = build(dict(
     glyph_font=["noto-sans-thaana-thaana-800-normal.woff2", "baloo-2-latin-800-normal.woff2"],
     font_credit="Noto Sans Thaana",
     extra_css=(".nt{line-height:1.8} .lp-name{font-size:21pt;line-height:1.45} .lp-word .w{font-size:40pt;line-height:1.7}"
-               " .ft .small,.ft .tr{direction:ltr} h1 + p.tr{margin-top:12px !important}"),
+               " .ft .small,.ft .tr{direction:ltr} h1 + p.tr{margin-top:12px !important} .dash > .ntd{margin-top:12px}"),
     phon_feature="every letter written with all ten fili, the Thaana vowel signs (ހަ ހާ ހި ހީ…)",
     sections=[section(LETTERS, title="The Thaana Letters", native="ތާނަ އަކުރު",
                       native_tr="thaana akuru — “the Thaana letters”", chart_cols=6, warmup_cols=6, intro_html=INTRO)],

@@ -141,7 +141,7 @@ LANG = build(dict(
     phrases=[("अस्सलामु अलैकुम", "assalaamu alaikum", "Peace be upon you (the Muslim greeting)"),
              ("व अलैकुम अस्सलाम", "va alaikum assalaam", "And upon you be peace (the reply)"),
              ("आंनि मुंआ …", "aangni mung-aa …", "My name is …"),
-             ("सबैकोर", "sabwikor", "Thank you"),
+             ("सबैकोर", "sabaikor", "Thank you"),
              ("जज़ाकल्लाहु ख़ैरन", "jazaakallaahu khairan", "May Allah reward you with good"),
              ("आइ · आफा", "aai · aaphaa", "Mother · Father"),
              ("आदा · आबो", "aadaa · aabw", "Big brother · Big sister"),
