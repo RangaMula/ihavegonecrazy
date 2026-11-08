@@ -1,0 +1,28 @@
+# War with Lisuarte
+
+- **Tradition:** Spain (Europe)
+- **Source book:** *Legends & Romances of Spain*
+- **Author / collector / translator:** Spence, Lewis (author, d. 1955)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Meanwhile Amadis had dispatched an embassy to the Court of Lisuarte, requesting the hand of Oriana, but the stubborn old monarch gave a stern refusal and sent him his defiance. El Patin, Emperor of Rome, had by this time arrived in Britain, and was busy concerting measures against Amadis. Soon a mighty host was gathered together, and marched to seek the army of Amadis, who, taking time by the forelock, had invaded Britain, and now advanced to meet the forces of Lisuarte and the Emperor.
+
+The friends of Amadis had not failed him. In the first place his father, King Perion, was behind him with the whole force of Gaul. Ireland had sent a large contingent, and his old friends, the King of Bohemia and the Emperor of Constantinople, had furnished him with well-equipped legions, all of which were under the skilled leadership of King Perion. Moreover, the army was accompanied by Oriana, Grasinda, and the other dames and princesses who had come to the Firm Island, and their presence heartened the champions to deeds of high emprise. Meanwhile Archelaus the enchanter and his allies dogged the progress of Lisuarte’s forces in the hope of taking them at a disadvantage.
+
+The Proud Circumstance of Chivalry
+
+Presently the armies came within sight of one another. Their meeting-place was a great plain, and for miles nothing was to be seen but the blaze of armour and gay surcoats, the waving of plumes and banners, and all the proud circumstance of chivalry. For two days the armies lay in sight of one another. Then they advanced to the charge with such a tumult of drums and cymbals, trumpets and clarions that it could be heard many a league away. They met with a crash like thunder, and the noise which arose from the clash of swords upon armour was like that of a thousand hammers upon as many anvils.
+
+Amadis led the van. Challenged by Gasquilan, the haughty King of Sweden, he charged him, and dashed him from the saddle with such force that he lay as dead. But in the encounter Amadis fell from his horse. Quadragante, who was close to him, unhorsed a Roman knight, and gave his destrier to the steedless hero, who, followed by Gandalin and other paladins, attacked the flank of the Romans with great fierceness. Meanwhile Quadragante did fearful execution on their front, few of the enemy being able to withstand his giant might for long.
+
+The Roman army now showed signs of falling into confusion, but at that moment the Emperor came up with a reinforcement of five thousand men. He headed the charge in person, crying, “Rome! Rome!” and brandishing a great sword in his hand. Encountering Quadragante, he received such a buffet from the giant knight as made him give back and seek shelter among his own men.
+
+Now Amadis, surrounded by his bravest paladins, performed deeds of valour which were a wonder in the eyes of both friends and enemies. The Romans began to give ground before the terrific blows he dealt on all sides, and at last broke and fled. So greatly had his forces suffered, however, that he refrained from pursuing his beaten enemies, and as yet the army of Lisuarte had taken no part in the fighting, so that he thought it better to spare his own men, who must meet Lisuarte’s force anon.
+
+On the following day King Lisuarte marshalled his army, and now King Perion came up with his forces, which had been held in reserve. The battle had not been long in progress, however, when Amadis encountered the Roman Emperor, and with such a blow as even he had seldom delivered ended his career. When the Romans and Britons saw that their leader was slain they began to give way, and Lisuarte, observing this, sought to withdraw his men in good order. Seeing that he retreated, and fearing for Lisuarte’s personal safety, Amadis took advantage of the darkness which was now falling to withdraw his troops rather than pursue, so that the King was able to effect an orderly retiral.
+
+When the holy hermit Nasciano heard of the great discord between the kings he resolved to make an endeavour to prevent further slaughter, and although he was old and infirm he succeeded in making his way to the camp of King Lisuarte. He did not arrive, however, until the two battles which have just been described had been fought. Making himself known to the King, he revealed to him that Oriana had promised marriage to Amadis and that Esplandian was their son. On hearing this the King was greatly troubled, and blamed the lovers for their secrecy, remarking, with justice, that many valuable lives would have been spared had they seen fit to trust him. He requested the hermit to approach Amadis with a view to the conclusion of peace between them, and this the good man was only too pleased to do. Accompanied by Esplandian, he betook himself to the camp of Amadis, where he was courteously received. The hermit first revealed Esplandian’s identity to the boy’s father, and Amadis cordially embraced his son. But he did not forget his pacific mission. Before he left Amadis he had smoothed over all the differences between him and the proud old King Lisuarte, and it was arranged that their ambassadors should meet, with the object of cementing a generous and lasting peace.

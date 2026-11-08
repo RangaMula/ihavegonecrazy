@@ -1,0 +1,24 @@
+# Tibble Castle and Klinta Spring
+
+- **Tradition:** Sweden (Europe)
+- **Source book:** *Swedish Fairy Tales*
+- **Author / collector / translator:** Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+At Tibble, in the parish of Bedelunda, there stood, in former days, so it is said, a castle, of which the most careful search fails to reveal any remnant now.
+
+In the castle dwelt a lady of royal descent, with her young and beautiful daughter. One day there came to it a prince, who was received with great pomp, and it was not long until an ardent love had sprung up between the young people. Knowing that many eyes were upon them, keeping expressions in check, they agreed to meet each other on a certain night at Klinta Spring, situated south of the castle near Klinta Mountain.
+
+Late in the evening, when all its inhabitants were asleep, and it had become quiet in the castle, the young lady crept quietly from her room down to the castle gate, but the porter refused to open it for her. Thinking gold might persuade him, she drew from her hand a ring which she tendered him, but he was not so easily bribed. Then she took a gold chain from her neck, proffering it with the ring; such a temptation the old man could not resist, and quietly allowed her to pass, with the condition that she should return before dawn.
+
+When she arrived at the spring she thought she saw the prince sitting upon a stone near by, and, approaching him, she threw herself into his arms. But, instead of that of her lover, she found herself in the embrace [ ] of the Mountain King of Klinta Mountain, who lifted her up and bore her into the mountain. Before reaching the interior of the mountain, however, she succeeded in slipping the crown he wore from the giant’s head and hanging it, as she passed, upon the branch of a pine tree so that the prince could see that she had kept her appointment.
+
+When they reached the inside of the mountain, the giant laid the young woman carefully down upon the “star spread” in his chamber, where she fell asleep, after which he went to his mother and told her what a beautiful discovery he had made. Meantime the prince came to the spring. When he failed to find his mistress there he walked around the meadow and came, finally, to the mountain, where his attention was attracted to the crown hanging in the tree. He now understood what had happened, and in anguish drew his sword and pierced his body with it. When the young woman awoke, the giant woman commanded her son to carry her back to the spring. “But,” added she, “before you reach there three lives will have been forfeited.”
+
+And so it happened. While the giant was carrying the young woman to the spring she breathed her last and was laid by the giant at the side of the prince. Meanwhile the porter, in remorse over his deed, had thrown himself from the tower, and thus ended his days.
+
+The prince and his love were laid upon a golden wagon and conveyed to a beautiful green meadow on an eminence near Gryta and there interred. Even the wagon and sword were buried in the mound, which [ ] every spring is surrounded by a hedge of white, blooming bird cherry, but both wagon and sword shall, in time, be dug up, when he who is first to see the latter shall receive his mortal wound therefrom. [ ]

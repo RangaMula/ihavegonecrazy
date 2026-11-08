@@ -1,0 +1,22 @@
+# The Fool
+
+- **Tradition:** Italy (Europe)
+- **Source book:** *Italian Popular Tales*
+- **Author / collector / translator:** Crane, Thomas Frederick (author, d. 1927)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #23634 — https://www.gutenberg.org/ebooks/23634 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Once upon a time there was a mother who had a son with little brains. One morning she said: "We must get up early, for we have to make bread." So they both rose early and began to make bread. The mother made the loaves, but took no pains to make them the same size. Her son said to her finally: "How small you have made this loaf, mother!" "Oh!" said she, "it does not matter whether they are big or little; for the proverb says: 'Large and small, all must go to mass.'" "Good, good!"
+
+When the bread was made, instead of carrying it to the baker's, the son took it to the church, for it was the hour for mass, saying: "My mother said that, 'Large and small, all must go to mass.'" So he threw the loaves down in the middle of the church. Then he went home to his mother and said: "I have done what you told me to do." "Good! did you take the bread to the baker's?" "Oh! mother, if you had seen how they all looked at me!" "You might also have cast an eye on them in return," said his mother. "Wait, wait, I will cast an eye at them, too," he exclaimed, and went to the stable and cut out the eyes of all the animals, and putting them in a handkerchief, went to the church and when any man or woman looked at him he threw an eye at them.
+
+When his mother learned what he had done she took to her bed and sent her son for a physician. When the doctor came he felt her pulse and said: "Oh! how weak this poor woman is!" Then he told the son that he must take good care of his mother and make her some very thin broth and give her a bowlful every minute. The son promised to obey him and went to the market and bought a sparrow and put on the fire a pail of water. When it boiled he put in the sparrow and waited until it boiled up two or three times, and then took a bowl of the broth to his mother, and repeated the dose as fast as he could.
+
+The next day the physician found the poor woman weaker than ever, and told her son he must put something heavy on her so as to throw her into a perspiration. When the doctor had gone the son piled all the heavy furniture in the room on her, and when she could no longer breathe he ran for the doctor again. This time the doctor saw that nothing was to be done, and advised her son to have her confess and prepare for death. So her son dressed her and carried her to church and sat her in the confessional and told the priest that some one was waiting for him and then went home. The priest soon saw that the woman was dead and went to find her son. When the son heard that his mother was dead, he declared that the priest had killed her, and began to beat him.
+
+* * *
+
+There are many stories in Italy which turn on the tricks played by a sharper on his credulous friends; a good specimen of the class is the following from Sicily (Pitrè, No. 157):

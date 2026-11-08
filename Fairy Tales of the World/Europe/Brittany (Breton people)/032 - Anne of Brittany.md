@@ -1,0 +1,16 @@
+# Anne of Brittany
+
+- **Tradition:** Brittany (Breton people) (Europe)
+- **Source book:** *Legends & Romances of Brittany*
+- **Author / collector / translator:** Spence, Lewis (author, d. 1955)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+The next event of importance in Breton history is the enforced marriage of Anne of Brittany, Duchess of that country in her own right, to Charles VIII of France, son of Louis XI, which event took place in 1491. Anne, whose father, Duke Francis II, had but recently died, had no option but to espouse Charles, and on his death she married Louis XII, his successor. Francis I, who succeeded Louis XII on the throne of France, and who married Claude, daughter of Louis XII and Anne, annexed the duchy in 1532, providing for its privileges. But beneath the cramping hand of French power the privileges of the province were greatly reduced. From this time the history of Brittany is merged in that of France, of which country it becomes one of the component parts in a political if not a racial sense.
+
+We shall not in this place deal with the people of modern Brittany, their manners and customs, reserving the subject for a later chapter, but shall ask the reader to accompany us while we traverse the enchanted ground of Breton story.
+
+* * *

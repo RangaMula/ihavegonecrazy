@@ -1,0 +1,12 @@
+# Vampires
+
+- **Tradition:** Serbia (Europe)
+- **Source book:** *Hero Tales and Legends of the Serbians*
+- **Author / collector / translator:** Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+The belief in the existence of vampires is universal throughout the Balkans, and indeed it is not uncommon in certain parts of western Europe. Some assert that this superstition must be connected with the belief generally held in the Orthodox Church that the bodies of those who have died while under excommunication by the Church are incorruptible, and such bodies, being taken possession of by evil spirits, appear before men in lonely places and murder them. In Montenegro vampires are called lampirs or tenatz , and it is thought that they suck the blood of sleeping men, and also of cattle and other animals, returning to their graves after their nocturnal excursions changed into mice. In order to discover the grave where the vampire is, the Montenegrins take out a black horse, without blemish, and lead it to the cemetery. The suspected corpse is dug up, pierced with stakes and burnt. The authorities, of course, are opposed to such superstitious practices, but some communities have threatened to abandon their dwellings, and thus leave whole villages deserted, unless allowed to ensure their safety in their own way. The code of the Emperor Doushan the Powerful provides that a village in which bodies of dead persons have been exhumed and burnt shall be punished as severely as if a murder had been committed; and that a resnik , that is, the priest who officiates at a ceremony of that kind, shall be anathematized. Militchevitch, a famous Serbian ethnographist, relates an incident where a resnik, as late as the beginning of the nineteenth century, read prayers out of the apocrypha of Peroon when an exorcism was required. The revolting custom has been completely suppressed in Serbia. In Montenegro the Archbishop Peter II. endeavoured to uproot it, but without entire success. In Bosnia, Istria and Bulgaria it is also sometimes heard of. The belief in vampires is a superstition widely spread throughout Roumania, Albania and Greece.

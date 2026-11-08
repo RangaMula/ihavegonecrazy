@@ -1,0 +1,18 @@
+# Marko learns his Fate
+
+- **Tradition:** Serbia (Europe)
+- **Source book:** *Hero Tales and Legends of the Serbians*
+- **Author / collector / translator:** Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Marko followed the veela’s instruction, and when he arrived upon the mountain top, he looked to the right and to the left, and truly, he saw the two tall straight fir-trees just as she described them, and he did everything she had counselled him to do. When he looked into the spring he saw his face reflected in the water, and lo! his fate was written on its surface!...
+
+Then he shed many bitter tears, and spoke in this wise: “O thou treacherous world, once my fairy flower! Thou wert lovely—but I sojourned for too short a time with thee: yea for about three hundred years! The hour has come for me to depart!” Then he drew his sabre and hastened to Sharatz; with one stroke he smote off his head. Never should he be mounted by the Turk; never should a Turkish burden be placed upon his proud shoulders; never should he carry the dyugoom from the well for the hated Moslem!
+
+Marko now dug a grave for his faithful Sharatz and interred him with more honour than he had buried Andreas, his own brother. Then he broke his sabre in four that it might not fall into the hands of a Moslem, and that the Turk might not brandish it with something of his own power, lest the curse of Christendom should fall upon him. Marko next broke his lance in seven pieces throwing the fragments into the branches of the fir-tree. Then he took his terrible club in his right hand, and swiftly flung it from the Ourvinian mountain far into the dark sapphire sea, with the words: “When my club returns from the depths of the ocean, then shall come a hero as great as Marko!” When he had scattered thus all his weapons, he drew from his belt a golden tablet upon which he inscribed this message: “To him who passes over this mountain, and to him who seeks the spring by the fir-trees and finds Marko’s body: know that Marko is dead. There are here three purses filled with golden ducats. One shall be Marko’s gift to him who digs his grave: the second shall be used to adorn churches; the gold in the third shall be distributed among the blind and maimed, that they may wander in peace through the land and with hymns laud Marko’s deeds and feats of glory!”
+
+When Marko had thus written he bound the tablet to a branch that it might be seen by the passers-by. He spread his cloak on the grass beneath the fir-trees, made the sign of the holy cross, drew over his eyes his fur cap and laid himself down....

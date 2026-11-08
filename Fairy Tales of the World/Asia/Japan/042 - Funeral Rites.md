@@ -1,0 +1,18 @@
+# Funeral Rites
+
+- **Tradition:** Japan (Asia)
+- **Source book:** *Tales of Old Japan*
+- **Author / collector / translator:** Redesdale, Algernon Bertram Freeman-Mitford, Baron (author, d. 1916)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #13015 — https://www.gutenberg.org/ebooks/13015 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+### (FROM THE "SHO-REI HIKKI.")
+
+On the death of a parent, the mourning clothes worn are made of coarse hempen cloth, and during the whole period of mourning these must be worn night and day. As the burial of his parents is the most important ceremony which a man has to go through during his whole life, when the occasion comes, in order that there be no confusion, he must employ some person to teach him the usual and proper rites. Above all things to be reprehended is the burning of the dead: they should be interred without burning. The ceremonies to be observed at a funeral should by rights have been learned before there is occasion to put them in practice. If a man have no father or mother, he is sure to have to bury other relations; and so he should not disregard this study. There are some authorities who select lucky days and hours and lucky places for burying the dead, but this is wrong; and when they talk about curses being brought upon posterity by not observing these auspicious seasons and places, they make a great mistake. It is a matter of course that an auspicious day must be chosen so far as avoiding wind and rain is concerned, that men may bury their dead without their minds being distracted; and it is important to choose a fitting cemetery, lest in after days the tomb should be damaged by rain, or by men walking over it, or by the place being turned into a field, or built upon. When invited to a friend's or neighbour's funeral, a man should avoid putting on smart clothes and dresses of ceremony; and when he follows the coffin, he should not speak in a loud voice to the person next him, for that is very rude; and even should he have occasion to do so, he should avoid entering wine-shops or tea-houses on his return from the funeral.
+
+The list of persons present at a funeral should be written on slips of paper, and firmly bound together. It may be written as any other list, only it must not be written beginning at the right hand, as is usually the case, but from the left hand (as is the case in European books).
+
+On the day of burial, during the funeral service, incense is burned in the temple before the tablet on which is inscribed the name under which the dead person enters salvation. The incense-burners, having washed their hands, one by one, enter the room where the tablet is exposed, and advance half-way up to the tablet, facing it; producing incense wrapped in paper from their bosoms, they hold it in their left hands, and, taking a pinch with the right hand, they place the packet in their left sleeve. If the table on which the tablet is placed be high, the person offering incense half raises himself from his crouching position; if the table be low, he remains crouching to burn the incense, after which he takes three steps backwards, with bows and reverences, and retires six feet, when he again crouches down to watch the incense-burning, and bows to the priests who are sitting in a row with their chief at their head, after which he rises and leaves the room. Up to the time of burning the incense no notice is taken of the priest. At the ceremony of burning incense before the grave, the priests are not saluted. The packet of incense is made of fine paper folded in three, both ways.

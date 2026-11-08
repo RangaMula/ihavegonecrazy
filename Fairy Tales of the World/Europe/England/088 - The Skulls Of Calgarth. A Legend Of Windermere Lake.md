@@ -1,0 +1,18 @@
+# The Skulls Of Calgarth. A Legend Of Windermere Lake
+
+- **Tradition:** England (Europe)
+- **Source book:** *Tales and Legends of the English Lakes*
+- **Author / collector / translator:** Armistead, Wilson (author, d. 1868)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #42359 — https://www.gutenberg.org/ebooks/42359 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+T HIS old mansion of Calgarth, on the banks of Lake Windermere, is built much in the style of Levens and Sizergh. Some of the rooms have been elegantly finished; but, having been a long time in the possession of farmers, who occupy but a part of it, it is much gone out of repair, and has, on the whole, a melancholy appearance. This circumstance, in concurrence with the superstitious notions which have ever been common in country places, and the particular mentioned hereafter, have probably given rise to a report, which has long prevailed, that the house is haunted. And many are the stories of frightful visions and mischievous deeds which the goblins of the place are said to have performed, to terrify and distress the harmless neighbourhood. These fables are not yet entirely disbelieved. Spectres still are seen, and there are two human skulls, which have lain in the window of a large room as long as can be remembered, whose history and reputed properties are too singular not to contribute something to this story of "the haunted house," and to let them be passed over in this route.
+
+It has been a popular tale in these parts of immemorial standing, that these skulls formerly belonged to two poor old people, who were unjustly executed for a robbery; to perpetuate their innocence, some ghost brought them there; and that they are, for that end, indestructible, and in effect, "immoveable." For, it is said, to what place soever they were taken, or however used, they were still presently seen again in their old dormitory, the window. As the report goes, they have been buried, burned, powdered, and dispersed in the winds, and upon the lake, several times, to no purpose as to their removal and destruction: so far, says common fame. Certain it is these human remains still exist, and it would be thought an impeachment of the taste and curiosity of the nymphs and swains of the neighbouring villages, if they could not say they had once seen the skulls of Calgarth.
+
+As a more rational account of the matter (though still lame and unsatisfactory), it is told by some, that there formerly lived in the house a famous doctress, who had two skeletons by her, for the usual purposes of her profession; and the skulls happening to meet with better preservation than the rest of the bones, they were accidentally honoured with this singular notice. But, be their origin what it may, their legend is too whimsical and improbable to deserve being recorded, otherwise than as an instance of the never-failing credulity of ignorance and superstition.
+
+* * *

@@ -1,0 +1,18 @@
+# The Dragon Of Zirl
+
+- **Tradition:** Austria (Tyrol) (Europe)
+- **Source book:** *Tales and Legends of the Tyrol*
+- **Author / collector / translator:** Günther, Marie A., countess (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+Close to the bridge of Zirl, on the route to Inzing, in the Tyrol, lies the famous Dragon Meadow. The men of Inzing and Zirl remember still very well that when they were boys, an enormous thick long worm was washed by the swollen river Wildbach out of a cavern which stood on its banks, and which was called Hundstall. In this cavern the monster had resided for centuries, and had done endless damage in the surrounding country to both man and beast; he was generally called the dragon, and he killed and devoured all living creatures that ventured in his neighbourhood.
+
+Through the cavern in the summer time flows a little stream which in the winter is almost quite dry, and so it was too at that time; but still it was strong enough to sweep the monster out, for when in the spring the warm weather suddenly arrived, the little stream became, from the melting snow, a roaring torrent, which undermined the rocky cavern of the dragon in the Hundstall, and swept out huge pieces of rock together with the monster himself, inundated the meadow, and left everything together on the spot which has been called ever since the Dragon Meadow. Even now the breach made in the mountain by the torrent is to be seen.
+
+The brute was a gigantic snake with the head of a dragon, two large ears, and hideous fierce fiery eyes. He was half dead when washed out of his hole, but in spite of that he was seen writhing his huge body about among the rocks. Nobody dare approach him, so they shot him from a distance with cannons. “He was a lindworm,” said the old mountaineer Mader of Zirl, who has hunted there for more than sixty years, and who has faithfully preserved this history. And as something to be especially remembered, he added, “the half-dead lindworm had gasped so fearfully that it had been terrifying to see and listen to him, even from a distance.” “One could not tell either,” he said, “whether he was not spitting venom,” for even now not an atom of green will grow on the meadow where he died.
+
+* * *

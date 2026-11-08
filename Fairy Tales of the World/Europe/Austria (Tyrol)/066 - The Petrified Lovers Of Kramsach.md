@@ -1,0 +1,16 @@
+# The Petrified Lovers Of Kramsach
+
+- **Tradition:** Austria (Tyrol) (Europe)
+- **Source book:** *Tales and Legends of the Tyrol*
+- **Author / collector / translator:** Günther, Marie A., countess (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+Near Kramsach, in the Under-Inn valley, on the spot where the Brandenberg Achenthal commences, lie on the Middle Mountain some small lakes, and above the farms called Mösern and Freundsheim, about three miles above Kramsach, stands another beautiful lake, close beneath the Mooswand mountain, and above the lake is still to be seen the ruin of an old stronghold, called the Gruckenbühl. The daughter of the last Baron who resided there was passionately fond of a poor forester, and when the proud and cruel Baron came to hear of the secret rendezvous between his daughter and the huntsman, he ordered him, one pitch-dark night, to be chased out of the castle by the hounds, and, in the hurry of the flight, the poor fellow fell over a rock into the See, and was drowned.
+
+After this act of cruelty and injustice, the poor girl wandered about silent and abstracted, and would neither enter into any amusement, nor take part in any ordinary pursuit of life. One day she went with her maid down to the lake, and, as she looked into its gloomy depths, she saw the dead body of her lover, and, in the frenzy of grief, she threw herself down into the water. The maid ran home recounting this misfortune, and when the wicked Baron, with all his retinue, arrived on the borders of the lake, neither the body of his poor daughter nor that of the forester were to be found. The two lovers had been changed into rocks, both of which rise out of the lake, like little islands; the one overgrown with ferns and water weeds, and the other bare as a polished piece of granite.
+
+* * *

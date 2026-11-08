@@ -1,0 +1,13 @@
+# The Herdsman and the Lost Bull
+
+- **Tradition:** Greece (Aesop and folk tales) (Europe)
+- **Source book:** *Aesop's Fables
+Translated by George Fyler Townsend*
+- **Author / collector / translator:** Aesop (author); Townsend, George Fyler (translator, d. 1900)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+A HERDSMAN tending his flock in a forest lost a Bull-calf from the fold. After a long and fruitless search, he made a vow that, if he could only discover the thief who had stolen the Calf, he would offer a lamb in sacrifice to Hermes, Pan, and the Guardian Deities of the forest. Not long afterwards, as he ascended a small hillock, he saw at its foot a Lion feeding on the Calf. Terrified at the sight, he lifted his eyes and his hands to heaven, and said: “Just now I vowed to offer a lamb to the Guardian Deities of the forest if I could only find out who had robbed me; but now that I have discovered the thief, I would willingly add a full-grown Bull to the Calf I have lost, if I may only secure my own escape from him in safety.”

@@ -1,0 +1,30 @@
+# The Pet Donkey
+
+- **Tradition:** Dakota-Lakota (Sioux) people (Americas)
+- **Source book:** *Myths and Legends of the Sioux*
+- **Author / collector / translator:** McLaughlin, Marie L. (author, d. 1931)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #341 — https://www.gutenberg.org/ebooks/341 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+There was a chief’s daughter once who had a great many relations so that everybody knew she belonged to a great family.
+
+When she grew up she married and there were born to her twin sons. This caused great rejoicing in her father’s camp, and all the village women came to see the babes. She was very happy.
+
+As the babes grew older, their grandmother made for them two saddle bags and brought out a donkey.
+
+“My two grandchildren,” said the old lady, “shall ride as is becoming to children having so many relations. Here is this donkey. He is patient and surefooted. He shall carry the babes in the saddle bags, one on either side of his back.”
+
+It happened one day that the chief’s daughter and her husband were making ready to go on a camping journey. The father, who was quite proud of his children, brought out his finest pony, and put the saddle bags on the pony’s back.
+
+“There,” he said, “my sons shall ride on the pony, not on a donkey; let the donkey carry the pots and kettles.”
+
+So his wife loaded the donkey with the household things. She tied the tepee poles into two great bundles, one on either side of the donkey’s back; across them she put the travois net and threw into it the pots and kettles and laid the skin tent across the donkey’s back.
+
+But no sooner done than the donkey began to rear and bray and kick. He broke the tent poles and kicked the pots and kettles into bits and tore the skin tent. The more he was beaten the more he kicked.
+
+At last they told the grandmother. She laughed. “Did I not tell you the donkey was for the children,” she cried. “He knows the babies are the chief’s children. Think you he will be dishonored with pots and kettles?” and she fetched the children and slung them over the donkey’s back, when he became at once quiet again.
+
+The camping party left the village and went on their journey. But the next day as they passed by a place overgrown with bushes, a band of enemies rushed out, lashing their ponies and sounding their war whoop. All was excitement. The men bent their bows and seized their lances. After a long battle the enemy fled. But when the camping party came together again—where were the donkey and the two babes? No one knew. For a long time they searched, but in vain. At last they turned to go back to the village, the father mournful, the mother wailing. When they came to the grandmother’s tepee, there stood the good donkey with the two babes in the saddle bags.

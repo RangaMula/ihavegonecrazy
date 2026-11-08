@@ -1,0 +1,54 @@
+# How the Fog Came
+
+- **Tradition:** Inuit (Eskimo) peoples (Americas)
+- **Source book:** *Eskimo Folk-Tales*
+- **Author / collector / translator:** Rasmussen, Knud (editor, d. 1933); Worster, W. J. Alexander (William John Alexander) (translator, d. 1929)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #28932 — https://www.gutenberg.org/ebooks/28932 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+There was a Mountain Spirit, which stole corpses from their graves and ate them when it came home. And a man, wishing to see who did this thing, let himself be buried alive. The Spirit came, and saw the new grave, and dug up the body, and carried it off.
+
+The man had stuck a flat stone in under his coat, in case the Spirit should try to stab him.
+
+On the way, he caught hold of all the willow twigs whenever they passed any bushes, and made himself as heavy as he could, so that the Spirit was forced to put forth all its strength.
+
+At last the Spirit reached its house, and flung down the body on the floor. And then, being weary, it lay down to sleep, while its wife went out to gather wood for the cooking.
+
+“Father, father, he is opening his eyes,” cried the children, when the dead man suddenly looked up.
+
+“Nonsense, children, it is a dead body, which I have dropped many times among the twigs on the way,” said the father.
+
+But the man rose up, and killed the Mountain Spirit and its children, and fled away as fast as he could. The Mountain Spirit’s wife saw him, and mistook him for her husband.
+
+“Where are you going?” she cried.
+
+The man did not answer, but fled on. And the woman, thinking something must be wrong, ran after him.
+
+And as he was running over level ground, he cried:
+
+“Rise up, hills!”
+
+And at once many hills rose up.
+
+Then the Mountain Spirit’s wife lagged behind, having to climb up so many hills.
+
+The man saw a little stream, and sprang across.
+
+“Flow over your banks!” he cried to the stream. And now it was impossible for her to get across.
+
+“How did you get across?” cried the woman.
+
+“I drank up the water. Do you likewise.”
+
+And the woman began gulping it down.
+
+Then the man turned round towards her, and said:
+
+“Look at the tail of your tunic; it is hanging down between your legs.”
+
+And when she bent down to look, her belly burst.
+
+And as she burst, a steam rose up out of her, and turned to fog, which still floats about to this day among the hills.

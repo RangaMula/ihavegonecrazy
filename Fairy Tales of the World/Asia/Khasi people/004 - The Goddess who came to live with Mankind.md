@@ -1,0 +1,46 @@
+# The Goddess who came to live with Mankind
+
+- **Tradition:** Khasi people (Asia)
+- **Source book:** *Folk-Tales of the Khasis*
+- **Author / collector / translator:** Rafy, Mrs. (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #37884 — https://www.gutenberg.org/ebooks/37884 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+( A Legend of the Shillong Peak )
+
+Shillong Peak is the highest mountain in the Khasi Hills, and although it bears such a prosaic name in our days, the mountain was a place of renown in the days of the Ancient Khasis, full of romance and mystery, sacred to the spirits and to the gods. In those days the mountain itself, and the whole country to the north of it, was one vast forest, where dwelt demons and dragons, who cast evil spells and caused dire sickness to fall upon any unfortunate person who happened to spend a night in that wild forest.
+
+In the mountain there lived a god. At first the Ancients had no clear revelation about this deity; they were vaguely aware of his existence, but there was no decree that sacrifices should be offered to him. After a time there arose among the Khasis a very wise man of the name of U Shillong who was endowed with great insight to understand the mysteries, and he discovered that the god of the mountain was great and powerful, and sacrifice and reverence should be offered to him, and he taught his neighbours how to perform the rites acceptably. The name of the deity was not revealed, so the people began to call him “U ’Lei Shillong” (the god of U Shillong) after the name of the man who first paid him homage. Then gradually he came to be called “the god Shillong,” and in time the mountain itself was called the mountain of Shillong, and from this is derived the name of the present town of Shillong.
+
+At the Foot of Mount Shillong.
+
+Possibly the god Shillong was, and remains, one of the best-known and most generally reverenced of all the Khasi gods, for even on the far hill-tops of Jaintia altars have been raised to his service and honour. Although sacrifices are being offered to him at distant shrines, the abode of the god is in the Shillong mountain, more especially in the sacred grove on the summit of the peak itself, which is such a familiar landmark in the country.
+
+Judging from tradition, this deity was regarded as a benign and benevolent being, forbearing in his attitude towards mankind, who were privileged to hunt in his forests unhindered by dangers and sicknesses, and the dances of mankind were acceptable in his sight. He frequently assisted them in their misfortunes and helped them to overcome the oppression of demons. It was he who endowed U Suidnoh with wisdom to fight and to conquer U Thlen, the great snake-god and vampire from Cherrapoonjee, and it was by his intervention that Ka Thei and her sister were delivered from the grasp of the merciless demon, U Ksuid Tynjang.
+
+Tradition also points out that this famous deity had a wife and family, and three at least of his daughters are renowned in Khasi folk-lore. One of them transformed herself into the likeness of a Khasi maiden and came to live with mankind, where she became the ancestress of a race of chiefs. Two other daughters, out of playfulness, transformed themselves into two rivers, and are with us in that form to this day. This is the story of the goddess who came to live with mankind:
+
+Many hundreds of years ago, near the place now known as Pomlakrai, there was a cave called the Cave of Marai, near to which stood a high perpendicular rock around which the youthful cow-herds of the time used to play. They gathered there from different directions, and passed the time merrily, practising archery and playing on their flutes, while keeping an eye on their herds. The rock was too high for them to attempt to climb it, and it was always spoken of as “the rock on which the foot of man never trod.”
+
+On a certain day, when the lads came as usual to the familiar rendezvous, they were surprised to see, sitting on the top of the rock, a fair young girl watching them silently and wistfully. The children, being superstitious, took fright at sight of her and ran in terror to Mylliem, their village, leaving the cattle to shift for themselves. When they told their news, the whole village was roused and men quickly gathered to the public meeting-place to hold a consultation. They decided to go and see for themselves if the apparition seen by the children was a real live child, or if they had been deluded by some spell or enchantment. Under the guidance of the lads, they hurried to the place on the hill where the rock stood, and there, as the boys had stated, sat a fair and beautiful child.
+
+The clothes worn by the little girl were far richer than any worn by their own women-folk, so they judged that she belonged to some rich family, and she was altogether so lovely that the men gazed open-mouthed at her, dazzled by her beauty. Their sense of chivalry soon asserted itself, however, and they began to devise plans to rescue the maiden from her perilous position. To climb up the face of that steep rock was an impossible feat; so they called to her, but she would not answer; they made signs for her to descend, but she did not stir, and the men felt baffled and perplexed.
+
+Chief among the rescuers was a man called U Mylliem Ngap, who was remarkable for his sagacity and courage. When he saw that the child refused to be coaxed, he attributed it to her fear to venture unaided down that steep and slippery rock. So he sent some of his comrades to the jungle to cut down some bamboos, which he joined together and made into a pole long enough to reach the top of the rock. Then he beckoned to the child to take hold of it, but she sat on unmoved.
+
+By this time the day was beginning to wane, yet the child did not stir and the rescuers were growing desperate. To leave her to her fate on that impregnable rock would be little less than cold-blooded murder, for nothing but death awaited her. They began to lament loudly, as people lament when mourning for their dead, but the child sat on in the same indifferent attitude.
+
+Just then U Mylliem Ngap noticed a tuft of wild flowers growing near the cave, and he quickly gathered a bunch and fastened it to the end of the long pole and held it up to the maiden’s view. The moment she saw the flowers, she gave a cry of delight and held out her hand to take them. U Mylliem Ngap promptly lowered the pole and the child moved towards it, but before she could grasp the flowers the pole was again lowered; so, little by little, step by step, as the men watched with bated breath, the little maid reached the ground in safety.
+
+U Mylliem Ngap, with general consent, constituted himself her champion. He called her “Pah Syntiew,” which means “Lured by Flowers,” for her name and her origin were unknown. He took her to his own home and adopted her as his own daughter, cherishing her with fondness and affection, which the child fully requited.
+
+Ka Pah Syntiew, as she grew up, fulfilled all the promises of her childhood and developed into a woman of incomparable beauty and her fame went abroad throughout the country. She was also gifted and wise beyond all the maidens of the neighbourhood, and was the chosen leader at all the Khasi dances and festivals. She taught the Khasi girls to dance and to sing, and it was she who instituted the Virgins’ Dance, which remains popular to this day among the Khasis. Her foster-father, seeing she possessed so much discretion and wisdom, used to consult her in all his perplexities and seek her advice in all matters pertaining to the ruling of the village. She displayed such tact and judgement that people from other villages brought their disputes to her to be settled, and she was acknowledged to be wiser and more just than any ruler in the country, and they began to call her “Ka Siem” (the Chiefess, or the Queen).
+
+When she came of age, U Mylliem Ngap gave her in marriage to a man of prowess and worth, who is mentioned in Khasi lore as “U Kongor Nongjri.” She became the mother of many sons and daughters, who were all noble and comely.
+
+After her children had grown up, Ka Pah Syntiew called them all to her one day and revealed to them the secret of her birth. She was the daughter of U ’Lei Shillong, the mountain god, permitted by her father to dwell for a period among mankind, and at last the time was at hand for her to return to her native element.
+
+Not long after this Ka Pah Syntiew walked away in the direction of the cave of Marai, and no one dared to accompany her, for it was realised that her hour of departure had come. From that day she disappeared from mortal ken. Her descendants are known to this day as two of the leading families of Khasi chiefs, or Siems, and in common parlance these two families, those of Khairim and Mylliem, are still called “the Siems (the Chiefs) of Shillong,” or “the Siems of the god.”

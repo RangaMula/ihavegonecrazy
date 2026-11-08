@@ -1,0 +1,14 @@
+# The Koeri and the Barber
+
+- **Tradition:** Santal people (Asia)
+- **Source book:** *Folklore of the Santal Parganas*
+- **Author / collector / translator:** Bompas, Cecil Henry (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #11938 — https://www.gutenberg.org/ebooks/11938 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+There was a well-to-do man of the Koeri (cultivating) caste and opposite his house lived a barber who was very poor; and the barber thought that if he carried on his cultivation just as the Koeri did he might get better results; so every day he made some pretext to visit the Koeri’s house and hear what work he was going to do the next day, and with the same object he would listen outside his house at night; and he exactly imitated the Koeri: he yoked his cattle and unyoked them, he ploughed and sowed and transplanted just when the Koeri did and the result was good, for that year he got a very fine crop. But he was not content with this and resolved to continue to copy the Koeri; the Koeri suspected what the barber was doing and did not like it. So he resolved to put the matter to the test and at the same time teach the barber to mind his own business. In January they both planted sugar cane, and one day when the crop was half grown the barber was sitting at the Koeri’s house and the Koeri gave orders to his servants to put the leveller over the crop the next day and break it down; this was only a pretence of the Koeri’s, but the barber went away and the next day crushed his sugar cane crop with the leveller, the whole village laughed to see what he had done; but it turned out that each root of the barber’s sugar cane sent up a number of shoots and in the end he had a much heavier crop than the Koeri.
+
+Another day the Koeri announced that he was going to sow but (pulse) and therefore ordered his servants to bring out the seed and roast it well, that it might germinate quickly; and the barber hearing this went off and had his seed but roasted and the next day he sowed it, but only a very few seeds germinated, while the crop of the Koeri which had not really been roasted sprouted finely. The barber asked the Koeri why his crop had not come up well, and the Koeri told him that it must be because he had not roasted the seed enough; the few seeds that had come up must have been those which had been roasted most. But in the end the laugh was against the Koeri, for the few seeds of the barber’s which germinated, produced such fine plants that when he came to thresh them out he had more grain than the Koeri, and so in 3 or 4 years the barber became the richer man of the two.

@@ -1,0 +1,14 @@
+# Beaver Gives a Feast
+
+- **Tradition:** Ojibwe and Algonquin peoples (Americas)
+- **Source book:** *Myths and Folk-lore of the Timiskaming Algonquin and Timagami Ojibwa*
+- **Author / collector / translator:** Speck, F. G. (author, d. 1950)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #66509 — https://www.gutenberg.org/ebooks/66509 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+All the animals, once upon a time, were camped together—the Beaver, the Otter, the Muskrat, and the others. Their chief was Beaver. Every once in a while he would give a big feast, build a big wigwam, and invite all the men and women to come in and eat with him. He would tell them, “Well, I want to give a feast.” Then they would come in, sit around the inside of his big wigwam and pass the food around from one to the other. He would provide lots of grease in birch-bark dishes. Now, one time, when he gave one of his feasts, Beaver cut his grease [ ] supply into cakes which he served around to his guests. Every time he passed a cake to a guest, pepedit. Indeed, every time he moved, pepedit, or when he would go and cut a new block of grease. Now every time the Beaver broke wind, the Otter laughed. He did not seem to know that this would offend the Beaver, because he was a little foolish. The other guests told the Otter, “You mustn’t laugh when Beaver does that; he is our chief.” Despite this, every time they went to a feast, castore pedente , the Otter laughed at him.
+
+So one time the Beaver sent a man to invite all the people to another feast. He sent the messages all through the camp. Now the people told the Otter this time, “You must not come; you never keep your mouth shut; you always laugh. If you only knew enough to keep still like the rest of us, it would be all right, but you had better stay home.” “Oh well, all right,” said the Otter, “I’ll stay back.” All went to the feast except the Otter. But he asked the others, “You will have to bring my share to me, since I can’t come. Tell the chief to send me my share.” The others agreed and went to attend the feast; but they asked him, “How big a piece of grease do you want?” The Otter replied, “Bring me a piece the size of my forearm. ” (The otter has a very small forearm.) When the guests arrived at the feast, the Beaver chief saw that the Otter was not with them. Said he, “Where, indeed, is Otter? I like him because he is so funny.” They informed him that the Otter had not come, but that he wanted the chief to send him a piece of grease as large as his forearm. The Beaver cut a piece that size and sent it to the Otter; that is all the Otter got. He did not get very much because he had such a short forearm. That is the end of my story.

@@ -1,0 +1,20 @@
+# Ned Quayle’S Story Of The Fairy Pig
+
+- **Tradition:** Isle of Man (Manx people) (Europe)
+- **Source book:** *Manx Fairy Tales*
+- **Author / collector / translator:** Morrison, Sophia (author, d. 1917)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #51762 — https://www.gutenberg.org/ebooks/51762 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+When I was a little boy, we lived over by Sloc. One day, when I was six years old, my mother and my grandmother went up the mountain to make hay and I was left by myself. It was getting rather late, and they had not come back, so I was frightened, and started off up the mountain to try and find them. I had not gone far when I saw running before me a little snow-white pig. At first I thought it was some neighbour’s pig and I tried to catch it, but it ran from me and I ran after it. As it went I saw that it was not like an ordinary pig—its tail was feathery and spread out like a fan, and it had long lapping ears that swept the ling. Now and again it turned its head and looked at me, and its eyes were burning like fire. We went higher and higher up the mountain, and all of a sudden I found myself at the edge of a steep brow and was all but over. I turned just in time, and ran as hard as I could go down the mountain and the pig after me. When I looked back over my shoulder, I saw that it was jumping over the big stones and rocks on the mountain side as if they had been butts of ling. I thought it would catch me; it was close behind me when I ran in at our garden gate, but I was just in time, and I slammed the door upon it.
+
+I told my mother and my grandmother what had happened, and my grandmother said it was a Fairy Pig. I was not like myself that night; I could not eat any supper, and I went soon to my bed; I could not sleep, but lay tossing about; and was burning hot. After a time my mother opened the door to see if I was asleep, and when she looked at me, HER EYES WERE LIKE THE PIG’S EYES. I felt a sharp pain go through my right leg like a stab. After that the pain never left me; it was so bad that I could not bear to be touched, and I could eat nothing. I grew worse and worse, and after some days my father said he would take me to a Charmer at Castletown. They lifted me in the sheet, four men taking the four corners, and carried me to a cart. Never will I forget the shaking and jolting I had in that cart. When we got to Castletown I was more dead than alive.
+
+The Charmer lived in Arbory Street and they took me to his house. When he saw me he said that they must all go away and leave me alone with him, so my father and my mother went to wait for me at The George. The Charmer carried me to a room upstairs and sent his wife away, and laid me on the floor and locked the door. Then he took down a big book and placed it on the floor beside me. He opened it at the picture of a little plant—I can see the plant to this day—and he pointed with his left hand to the picture, and with his right hand he made the sign of the cross on my leg, where the stab went through me, and said:
+
+‘Ta mee skeaylley yn guin shoh ayns ennym yn Ayr, as y Vac, as y Spyrryd Noo, Ned Quayle. My she guin, ayns ennym y Chiarn, ta mee skealley eh ass yn eill, ass ny fehyn, as ass ny craueyn,’ which means in English—I spread this fairy shot in the name of the Father, and of the Son, and of the Holy Ghost, Ned Quayle. If it is a fairy shot, in the name of the Lord, I spread it out of the flesh, out of the sinews, and out of the bones. That minute the pain left me. I felt very hungry, and the Charmer’s wife set me at a table and gave me dinner. The Charmer went to fetch my father and my mother, and when they came in I was eating like two.
+
+The Charmer told my mother I must not go on the mountain alone between the lights again. The pain never came back. I have been sound from that day to this, but I have the mark on my leg where the stab went through as clear as glass to the bone.

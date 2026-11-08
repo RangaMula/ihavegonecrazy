@@ -1,0 +1,24 @@
+# Legend Of The Calle De Los Parados
+
+- **Tradition:** Mexico (Americas)
+- **Source book:** *Legends of the City of Mexico*
+- **Author / collector / translator:** Janvier, Thomas A. (Thomas Allibone) (author, d. 1913)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #45852 — https://www.gutenberg.org/ebooks/45852 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Two dead lovers, Señor, stand always in the Calle de los Parados, one at each end of it; and that is why—because they remain steadfastly on parade there, though it is not everybody who happens to see their yellow skeletons on those corners—the street of the Parados is so named.
+
+As you may suppose, Señor, the lovers now being dry skeletons, what brought them there happened some time ago. Just when it happened, I do not know precisely; but it was when an excellent gentleman, who was an officer in the Royal Mint, lived in the fine house that is in the middle of the street on the south side of it, and had living with him a very beautiful daughter whose hair was like spun gold. This gentleman was named Don José de Vallejo y Hermosillo; and his daughter was named (because her mother was of the noble family of Vezca) Doña María Ysabel de Vallejo y Vezca; and she was of great virtue and sweetness, and was twenty-two years old.
+
+All the young men of the City sought her in marriage; but there were two who were more than any of the others in earnest about it. One of these was Don Francisco Puerto y Solis, a lieutenant of dragoons: who had to offer her only his good looks—he was a very handsome gentleman—and the hope of what he might get for himself with his sword. The other one was the Señor Don Antonio Miguel del Cardonal, Conde de Valdecebro—who also was a handsome gentleman, and who owned mills in Puebla of the Angels, and a very great hacienda, and was so rich that it was the whole business of two old notaries to count his gold.
+
+And these two posted themselves every day in the street in which was Doña María's home—one at the corner of the Calle del Reloj, the other at the corner of the Calle de Santa Catarina—that they might look at her when she came forth from her house; and that she might see them waiting to get sight of her, and so know that they loved her. It was the same custom then, Señor, as it is to-day. In that way all of our polite young men make love.
+
+And just as our young ladies nowadays wait and wait and think and think before they make their hearts up, so Doña María waited and thought then—and the time slipped on and on, and neither the Lieutenant nor the Conde knew what was in her mind. Then there happened, Señor, a very dismal thing. A pestilence fell upon the City, and of that pestilence Doña María sickened and died. But it chanced that neither of her lovers was on his corner when they took her out from her house to bury her—you see, Señor, even lovers must eat and sleep sometimes, and they could not be always on their watch for her—and in that way it happened that neither of them knew that she was dead and gone. Therefore they kept on standing on their parade quite as usual—coming steadfastly to their corners day after day, and month after month, and year after year. And although, after a while, they died too, they still stood at their posts—just as though they and Doña María still were alive. And there, on their corners, they have remained until this very day.
+
+It is told, Señor, that once in broad daylight half the City saw those honest waiting skeletons. It was on a day when there was a great festival for the incoming of a new Viceroy, and they were seen by the crowd that waited in the atrium of the church of Santa Catarina to see the procession pass. But that was some hundreds of years ago, Señor. Now, for the most part, it is at night and by moonlight that they are seen. I have not happened to see them myself—but then I do not often go that way.
+
+* * *

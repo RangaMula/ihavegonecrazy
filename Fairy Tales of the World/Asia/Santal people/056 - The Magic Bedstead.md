@@ -1,0 +1,16 @@
+# The Magic Bedstead
+
+- **Tradition:** Santal people (Asia)
+- **Source book:** *Folklore of the Santal Parganas*
+- **Author / collector / translator:** Bompas, Cecil Henry (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #11938 — https://www.gutenberg.org/ebooks/11938 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+Once upon a time a carpenter made a bedstead, and when it was ready he put it in his verandah. At night he heard the four legs of the bedstead talking together and saying: “We will save the life of anyone who sleeps on this bedstead and protect him from his enemies.” When the carpenter heard this, he decided not to part with the bed for less than a hundred rupees. So next day he went out to try and get this price for the bed, but people laughed at him and said that no one could pay such a price but the Raja; so he went to the Raja and the Raja asked why he wanted one hundred rupees for a bedstead that was apparently worth only five or six annas. The carpenter answered that the bed would protect its owner from all enemies; the Raja doubted at first but as the man persisted in his story, he agreed to buy the bed, but he stipulated that if he found the story about it not to be true, he should take back his money.
+
+One night the king lay awake on the bed and he heard the legs of the bed talking, so he lay still and listened: and they said that the Raja was in danger and that they must try to save him. So one leg loosened itself from the bed and went away outside and it found a tiger which had come to eat the Raja, and it beat the tiger to death, and then came back and fixed itself into its place again. Soon a second leg said that it would go outside; so it went and that leg met a leopard and a bear and it beat them to death and returned. Then the third leg said that it was its turn, and it went outside and it found four burglars digging a hole through the wall of the palace, and it set upon them and broke their legs and left them lying there. When this one returned, the fourth leg went out and it heard a voice in the sky saying: “The Raja is very cunning, I will send a snake which shall hide in his shoe and when he puts the shoe on in the morning, it will bite him and he will die.” When this leg came back, each one told the others what it had seen and done, and the Raja heard them and lay awake till morning, and at dawn he called his servants and sent them outside the palace and there they found the tiger and leopard and bear lying dead, and the four thieves with their legs broken. Then the Raja believed what the legs had said and he would not get up but first ordered his servants to make a fire in the courtyard and he had all his shoes thrown into the fire and then he got up.
+
+After this the Raja ordered that great care was to be taken of the bedstead and that anyone who sat on it should be put to death; and he himself used not to sleep in it anymore but he kept it in his bedroom that it might protect him.

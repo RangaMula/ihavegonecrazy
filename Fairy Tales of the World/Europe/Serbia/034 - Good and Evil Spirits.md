@@ -1,0 +1,16 @@
+# Good and Evil Spirits
+
+- **Tradition:** Serbia (Europe)
+- **Source book:** *Hero Tales and Legends of the Serbians*
+- **Author / collector / translator:** Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Spirits are usually good; in Montenegro the people believe that each house has its Guardian-Spirit, whom they call syen or syenovik . Such syens can enter into the body of a man, a dog, a snake, or even a hen. In the like manner every forest, lake, and mountain has each its syen, which is called by a Turkish word djin . So, for example, the djin of the mountain Riyetchki Kom, near the northern side of the lake of Scutari, does not allow passers-by to touch a branch or a leaf in the perpetually green woods on the mountain side, and if any traveller should gather as much as a flower or a leaf he is instantly pursued by a dense fog and perceives miraculous and terrifying visions in the air. The Albanians dread similar spirits of the woods in the region round Lurya, where they do not dare touch even the dry branches of fallen firs and larches. This recalls the worship of sacred bushes common among the ancient Lithuanians.
+
+Besides the good spirits there appear evil spirits ( byess ), demons, and devils ( dyavo ), whom the Christians considered as pagan gods, and other evil spirits ( zli doossi ) too, who exist in the bodies of dead or of living men. These last are called vookodlaks or Vlkodlaks (i.e. vook , meaning ‘wolf,’ and dlaka , meaning ‘hair’), and, according to the popular belief, they cause solar and lunar eclipses. This recalls the old Norse belief that the sun and moon were continually pursued by hungry wolves, a similar attempt to explain the same natural phenomena. Even to-day Serbian peasants believe that eclipses of the sun and moon are caused by their becoming the prey of a hungry dragon, who tries to swallow them. In other parts of Serbia it is generally believed that such dragons are female beings. These mischievous and very powerful creatures are credited with the destruction of cornfields and vineyards, for they are responsible for the havoc wrought by the hail-carrying clouds. When the peasants observe a partial eclipse of the moon or the sun, believing that a hailstorm is imminent, they gather in the village streets, and all—men, women, and children—beat pots and pans together, fire pistols, and ring bells in order to frighten away the threatening monster.
+
+In Montenegro, Herzegovina, and Bocca Cattaro the people believe that the soul of a sleeping man is wafted by the winds to the summit of a mountain, and, when a number of such has assembled, they become fierce giants who uproot trees to use as clubs and hurl rocks and stones at one another. Their hissing and groans are heard especially during the nights in spring and autumn. Those struggling crowds are not composed merely of human souls, but include the spirits of many animals, such as oxen, dogs, and even cocks, but oxen especially join in the struggles.

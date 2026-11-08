@@ -1,0 +1,20 @@
+# The City Under Sea
+
+- **Tradition:** Isle of Man (Manx people) (Europe)
+- **Source book:** *Manx Fairy Tales*
+- **Author / collector / translator:** Morrison, Sophia (author, d. 1917)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #51762 — https://www.gutenberg.org/ebooks/51762 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Now where Langness runs its long nose into the sea, and on a place now always covered by the waves, there was once a fine city with many towers and gilded domes. Great ships went sailing from its port to all parts of the world, and round it were well-grassed lands with cattle and sheep. Even now sailors sometimes see it through the clear, deep waters, and hear dimly the bleating of sheep, the barking of dogs, and the muffled chiming of bells—‘Nane, jees, three, kiare, queig.’ But no man can walk its streets.
+
+For once upon a time, in the days when there were giants in the Isle of Mann, Finn Mac Cool had his home near this city. He lived at the Sound to keep his eye on Erinn, and to watch the sea. But he was very seldom in Mann, and wherever he was he was always doing some mischief, so that his enemies were many. One day he was in such a hurry to reach his home that he jumped from Erinn and landed in the island on the rocks above the Sound. He came down with such force that he left his footmarks in the hard stone, and the place has been called ever since, Slieu ynnyd ny Cassyn, or the Mountain of the place of the Feet. His first act when he reached home was to get in a red rage with the people of the city close by; his next act was to turn them all into blocks of granite. In his passion he struck the ground so hard with his club that he made a great dent in it—the waves rushed into the deep hollow and the roaring sea drowned the din of the city. Its towers and domes were covered by the green water; its streets and market-place, its harbour and its crowded quays, disappeared from sight. And there it lies to this day.
+
+But there is a strange story told of a man that went down to it more than two hundred years ago. A ship was searching for sunken treasure in those parts and this man was let down to the bottom of the sea in a kind of ancient diving bell. He was to pull the rope when he wished to be let down further. He pulled and pulled till the men on the ship knew that he was as deep down in the sea as the moon is high up in the sky; then there was no more rope and they had to draw him up again. When he was on deck he told them that if he could have gone further he would have made the most wonderful discoveries. They begged him to tell them what he had seen, and when he had drunk a cup of wine he told his story.
+
+First he had passed through the waters in which the fishes live; then he came into the clear and peaceful region where storms never come, and saw the bottom of the World-under-Sea shining with coral and bright pebbles. When the diving bell rested on the ground he looked through its little windows and saw great streets decorated with pillars of crystal glittering like diamonds, and beautiful buildings made of mother-of-pearl, with shells of every colour set in it. He longed to go into one of these fine houses, but he could not leave his diving bell, or he would have been drowned. He managed to move it close to the entrance of a great hall, with a floor of pearls and rubies and all sorts of precious stones, and with a table and chair of amber. The walls were of jasper, and strings of lovely jewels were hanging on them. The man wished to carry some away with him, but he could not reach them—the rope was at an end. As he rose up again towards the air he met many handsome Mermen and beautiful Mermaids, but they were afraid of him, and swam away as fast as they could.
+
+That was the end of the man’s story. After that he grew so sad with longing to go back to the World-under-Sea and stay there for ever, that he cared for nothing on earth, and soon died of grief.

@@ -1,0 +1,70 @@
+# Madge Figgy, The Wrecker
+
+- **Tradition:** Cornwall (Cornish people) (Europe)
+- **Source book:** *Cornwall's Wonderland*
+- **Author / collector / translator:** Quiller-Couch, Mabel (author, d. 1924)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #26755 — https://www.gutenberg.org/ebooks/26755 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Those of you who know Land's End, and that part of it called Tol-pedn-penwith, cannot fail to have been struck by a huge cliff there, in shape like a ladder, or flight of steps, formed of massive blocks of granite, piled one upon another, and on the top of which there is perched what looks like, and is, a monstrous granite chair.
+
+'Madge Figgy's Chair' is its name, for in it Madge Figgy, who was a wrecker by trade, used to sit and call up the storms, and here, while the rough, cruel Atlantic boiled and lashed in impotent fury over the face of the ladder, Madge sat cool and unconcerned, keeping a sharp look out for any vessels coming in on that terrible coast.
+
+As well as being a wrecker, Madge Figgy was one of the most cruel and wicked witches in the county; and hour after hour she would sit in her chair plotting mischief, or hurling curses at any unfortunate person or thing who had happened to offend her. The poor country-folk were afraid of their very lives of her, and whatever wicked things she told them to do, they had to do them, for they knew her power and lived in terror of offending her.
+
+Amongst the witches she was the leader in all their frolics and revels and wickedness. Getting astride her broomstick she would fly right away across the sea to some foreign land, a band of her friends and cronies after her, and right well did they enjoy themselves,—which was more than anyone else did who came across them while on their wicked revels.
+
+Madge Figgy's home was in a little cottage in a cove not far from her ladder and chair, and this cove was a nest of a gang of the worst wreckers in Cornwall, gathered together by old Madge to help her in her cruel work. No one can count how many noble vessels they lured on to the rocks of that dangerous coast, how many bodies they stripped and cast back into the sea again; while as for the treasure they had divided amongst themselves!— they had quite enough to live on for the rest of their lives, even if they never did another stroke of mischief. That, though, was not what they cared about. They loved wrecking and robbing, and all their evil ways, and would have been quite miserable if they had had to live quiet, respectable stay-at-home lives.
+
+Where all were so wicked there were none to shame them into being any better, and they flaunted their stolen riches as shamelessly as though they had come by everything honestly. It was quite a common sight to see the great, clumsy country-women and girls going about their work dressed in costly silks and velvets, all of the richest character and most beautiful colouring, digging and ploughing, cooking and scrubbing with valuable jewellery on their great arms and their coarse red hands, sparkling gems in their ears, and very likely a tiara that would have made a queen envious, fastened round their untidy, unbrushed hair.
+
+Of all the crew, though, Madge and her husband were the very worst. Most of them did abide by the old saying, 'Honour amongst wreckers,' but not those two. If they could cheat or trick even their friends they would do so; and did, too, very often.
+
+One particularly stormy day, Madge Figgy sat in her great chair in high glee. A tempest such as was seldom known, even on that coast, was raging round her, and close on to the rocks below her was drifting a Portuguese Indiaman which she had lured in to be dashed to fragments on the terrible rocks by the boiling, maddened breakers which towered up like mountains, then broke and fell with all their force on the helpless vessel.
+
+Madge Figgy kicked her heels and clapped her hands with joy as she watched, for the huge vessel laden with valuables of the costliest kind was a prize such as they did not often get, and Madge in her mind was already reckoning up her gains. Far better for the Indiaman had she dropped her treasure overboard and sent it to the bottom of the sea, where she would be ere long; for Madge could tell at any distance what a ship's cargo was worth, and if it was a small one she let the vessel sail on in peace.
+
+Up aloft was the old witch dancing and singing, and down below struggled the perishing crew, captain, sailors, passengers, men, women and children, shrieking aloud for help, but seeing never a living creature coming to give them a hand. Their cries might have melted hearts of iron, but not the hearts of those who were hiding behind the rocks watching with greedy interest for the moment when they might go down and seize their prey. One by one the cries ceased as the sea swallowed up the poor struggling creatures, then presently the vessel broke up, and in on the waves came floating cases, casks, chests, broken spars, mingled with the dead bodies of men and women and little babies.
+
+As fast as they appeared they were seized on, and quickly stripped of everything that was of value, the ladies were robbed of their jewels and dresses, and even of their long hair, and even the babies were robbed of the necklaces which still hung around their chubby necks.
+
+When the bodies were stripped they were not thrown into the sea again, but were carried away and buried in a great green hollow near Perloe Cove, with a stone at the head of each to mark the spot. Though the graves cannot be distinguished now, the hollow may yet be seen.
+
+For weeks after the wreck of the Portuguese Indiaman, the wreckers were continually finding gold and jewels washed in to the sand, and now and again more bodies were washed ashore, all richly dressed. Oh, it was a fine haul the wreckers had after that black storm, but one very curious thing happened such as had never happened before.
+
+Amongst the bodies washed in was that of a beautiful lady, dressed in the richest of robes, and wearing more magnificent jewellery than any of the other poor creatures. In addition to her jewellery, too, she had, fastened about her, a very large amount of money and treasure, as though, poor lady, she had thought that she could not only save herself, but a great deal else as well.
+
+When Madge Figgy, who had claimed this body, had finished stripping it, she stood gazing at it very attentively for a long time. She appeared to be troubled about something, almost frightened, in fact, and turning to the rest of the gang she forbade them to divide any of the spoil, or even to touch a single thing.
+
+There was a fine row at that, of course, for they had all been counting on a rich share, and they vowed they would have it, too! They quarrelled, and fought, and a good deal of blood was spilt, but Madge took care of herself and got the better of them all, too, for it would have taken more than a gang of wreckers to outwit that wicked old woman.
+
+She declared that there was a mark on the body which she understood, though no one else could, and that if they divided any of the things belonging to it, ill-luck would befall them all, and no one knew where it would end.
+
+"Trust a witch to know a witch!" she cried. She got her way, as she generally did, for they were all afraid of her, and everything belonging to the poor lady was put into a chest which stood in Madge's kitchen, while the body was carried to the hollow and buried with the others.
+
+The very night, though, after they had laid her in her grave, a very curious thing happened. Out from the grave there came, as soon as darkness fell, a little blue light. For a moment it flickered and gleamed on the newly made mound, then glided swiftly away up over the cliffs until it reached Madge Figgy's great granite chair. Up into the chair it glided, and there it stayed for a long time, a weird, mysterious gleam, looking most uncanny in the darkness. Then out of the chair it glided and made its way to Madge Figgy's cottage, where it floated across the threshold and straight to the chest where the dead lady's belongings lay.
+
+All the wreckers were watching it, and all, except old Madge, were very nearly terrified out of their senses. They felt sure that at last their wickedness was to meet with its punishment, that the Evil One had come to carry them away, and their hours on earth were numbered.
+
+Madge Figgy tried hard to laugh away their fears and cheer them up. She wanted no 'chicken-hearts' about her, men who would refuse to take part in her wicked work, or even carry tales where she did not want them carried.
+
+"Get along, you great stupids, you!" cried Madge, trying to put some spirit into them, "it will all come right in time. I know all about it!"
+
+It took a long time, though, and the people began to lose faith in Madge's cleverness; for three long months the little blue flame crept out of the dead lady's grave at nightfall, glided to Madge Figgy's chair, and then to the chest in the cottage, and nothing could stop it.
+
+At the end of three months, when the people of the Cove were feeling they could not bear this thing any longer, there came to Madge's cottage one day a curiously dressed stranger. From his appearance all who saw him concluded that he was a foreigner, but from what part of the world he came no one could tell, for never a word escaped his lips.
+
+Madge Figgy's old husband, who was home alone when the stranger arrived, was very nearly scared to death. Firstly because the sight of a stranger always frightened any of that wicked crew, and secondly because of the man's signs and curious gesticulations. Old Figgy thought that he was a madman, sure enough.
+
+After some time, though, and a good many signs and misunderstandings, the old man gathered that the stranger wished to see the graves of the poor souls who went down in the wreck of the Portuguese Indiaman. Old Figgy put on his cap readily enough to show him the way, only too thankful to get him out of the house; but as soon as ever they had started on the right road, the stranger did not need any further guidance, he walked on by himself straight to the hollow, and making his way direct to the grave of the Portuguese lady he threw himself on it passionately, and broke into the most violent outburst of grief imaginable.
+
+For some time old Figgy stood watching him in astonishment, until the foreigner, looking up, caught sight of him, and signed to him to go away; then returning to the grave, again, he threw himself on it once more and stayed there weeping and moaning until nightfall.
+
+When darkness crept on up rose the little blue flame from the grave as before, but, instead of going to Madge Figgy's chair it made its way to the cottage, and gliding on to the chest, gleamed there with twice its usual brilliancy.
+
+The foreigner, who had followed the flame closely, went, without let or hindrance from the old witch or anyone, straight to the chest, and clearing away with one sweep all the rubbish and lumber which were piled on it, opened it as if he had known it all his life, picked out everything in it that had belonged to the lady, then, without touching anything else that the chest contained, closed it again, and, after giving liberal gifts to every wrecker in the place, departed as mysteriously as he had come.
+
+Anything of his history, or whence he came, was never discovered, but from the moment he left Madge Figgy's cottage neither he nor the little blue flame was ever seen again by any of them.

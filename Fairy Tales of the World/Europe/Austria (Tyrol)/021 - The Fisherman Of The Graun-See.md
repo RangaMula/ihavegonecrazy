@@ -1,0 +1,18 @@
+# The Fisherman Of The Graun-See
+
+- **Tradition:** Austria (Tyrol) (Europe)
+- **Source book:** *Tales and Legends of the Tyrol*
+- **Author / collector / translator:** Günther, Marie A., countess (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+In following the valley of Etsch, and after leaving the village of Haid, the traveller arrives first at the lake called Haider-See, and then in about an hour’s walking on the borders of the Graun-See, above which on the side of the mountain, lies, in a most picturesque situation, the little hamlet of Graun. There every garrulous old woman or little village child can tell him how often when evening sets in the fairies have been seen floating like flickering candles round the lofty peak above, or heard singing sweetly on calm moonlight nights before the entrance to their caves. This spot on the mountain bears to the present day the name of Zur Salig (to the holy ones).
+
+On a beautiful autumn evening some forty years ago, a fisherman in his little barque was setting his nets in the See. The night was mild and beautiful, and the air so clear and pure that he could distinctly hear the sheep-bells on the surrounding mountains, and the Angelus as it rang from the hamlets of Reschen, Graun, Haid, even as far as the distant village of Burgeis; and the sound of the bells of the monastery of Sancta Maria, which lies above it, came wafting solemnly and softly over the water. The moon rose slowly in silent majesty above the surrounding mountains, lighting up every distant peak, and turning the lake into a bed of liquid silver, and as the distant song of the Holy Fräulein struck the ear of the poor fisherman, he abandoned his nets and listened entranced.
+
+The moonlight faded slowly away, and the darkness of night set in, yet still he remained motionless in his boat, dreaming of the angel’s song he had heard from Heaven. Morning broke, and still he sat there with his hand on the rudder, and his eyes riveted on the abode of the Holy Ones. His comrades came and called him, but he did not answer; they went to him and found him dead. He lies buried in the little churchyard of Graun, and every villager can point out his grave.
+
+* * *

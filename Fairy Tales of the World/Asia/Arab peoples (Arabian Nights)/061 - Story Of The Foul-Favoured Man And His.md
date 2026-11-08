@@ -1,0 +1,32 @@
+# Story Of The Foul-Favoured Man And His
+
+- **Tradition:** Arab peoples (Arabian Nights) (Asia)
+- **Source book:** *Tales from the Arabic — Complete*
+- **Author / collector / translator:** Payne, John (translator, d. 1916)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #5245 — https://www.gutenberg.org/ebooks/5245 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+FAIR WIFE.
+
+There was once a man of the Arabs who had a number of sons, and amongst them a boy, never was seen a fairer than he of favour nor a more accomplished in loveliness, no, nor a more perfect of wit. When he came to man's estate, his father married him to the daughter of one of his uncles, and she excelled not in beauty, neither was she praiseworthy of attributes; wherefore she pleased not the youth, but he bore with her, for kinship's sake.
+
+One day, he went forth in quest of certain stray camels of his and fared on all his day and night till eventide, when he [came to an Arab encampment and] was fain to seek hospitality of one of the inhabitants. So he alighted at one of the tents of the camp and there came forth to him a man of short stature and loathly aspect, who saluted him and lodging him in a corner of the tent, sat entertaining him with talk, the goodliest that might be. When his food was dressed, the Arab's wife brought it to the guest, and he looked at the mistress of the tent and saw a favour than which no goodlier might be. Indeed, her beauty and grace and symmetry amazed him and he abode confounded, looking now at her and now at her husband. When his looking grew long, the man said to him, 'Harkye, O son of the worthy! Occupy thyself with thine own concerns, for by me and this woman hangeth a rare story, that is yet goodlier than that which thou seest of her beauty; and when we have made an end of our food, I will tell it thee.'
+
+So, when they had made an end of eating and drinking, the young man asked his host for the story, and he said, 'Know that in my youth I was even as thou seest me in the matter of loathliness and foul favour; and I had brethren of the comeliest of the folk; wherefore my father preferred them over me and used to show them kindness, to my exclusion, and employ me, in their room [in menial service], like as one employeth slaves. One day, a she-camel of his went astray and he said to me, "Go thou forth in quest of her and return not but with her." Quoth I, "Send other than I of thy sons." But he would not consent to this and reviled me and insisted upon me, till the matter came to such a pass with him that he took a whip and fell to beating me. So I arose and taking a riding-camel, mounted her and sallied forth at a venture, purposing to go out into the deserts and return to him no more. I fared on all my night [and the next day] and coming at eventide to [the encampment of] this my wife's people, alighted down with her father, who was a very old man, and became his guest.
+
+When the night was half spent, I arose [and went forth the tent] to do an occasion of mine, and none knew of my case save this woman. The dogs misdoubted of me and followed me and gave not over besetting me, till I fell on my back into a deep pit, wherein was water, and one of the dogs fell in with me. The woman, who was then a girl in the first bloom of youth, full of strength and spirit, was moved to pity on me, for that wherein I was fallen, and coming to me with a rope, said to me, "Lay hold of this rope." So I laid hold of the rope and clung to it and she pulled me up; but, when I was halfway up, I pulled her [down] and she fell with me into the pit; and there we abode three days, she and I and the dog.
+
+When her people arose in the morning and saw her not, they sought her in the camp, but, finding her not and missing me also, doubted not but she had fled with me. Now she had four brothers, as they were falcons, and they mounted and dispersed in quest of us. When the day dawned [on the fourth morning], the dog began to bark and the other dogs answered him and coming to the mouth of the pit, stood howling to him. My wife's father, hearing the howling of the dogs, came up and standing at the brink of the pit, [looked in and] beheld a marvel. Now he was a man of valour and understanding, an elder versed[FN#62] in affairs so he fetched a rope and bringing us both forth, questioned us of our case. I told him all that had betided and he abode pondering the affair.
+
+Presently, her brothers returned, whereupon the old man acquainted them with the whole case and said to them, "O my sons, know that your sister purposed not aught but good, and if ye slay this man, ye will earn abiding reproach and ye will wrong him, ay, and wrong yourselves and your sister, to boot; for indeed there appeareth no cause [of offence] such as calleth for slaughter, and it may not be denied that this incident is a thing the like whereof may well betide and that he may well have been baffled by the like of this chance." Then he turned to me and questioned me of my lineage; so I set forth to him my genealogy and he said, "A man of equal rank, honourable [and] understanding." And he offered me [his daughter in] marriage. I consented to him of this and marrying her, took up my abode with him and God the Most High hath opened on me the gates of weal and fortune, so that I am become the most abounding in substance of the folk of the tribe; and He hath stablished me in that which He hath given me of His bounties.'
+
+The young man marvelled at his story and lay the night with him; and when he arose in the morning, he found his strays. So he took them and returning [to his family.], acquainted them with what he had seen and that which had betided him. Nor," added the vizier, "is this more marvellous or rarer than the story of the king who lost kingdom and wealth and wife and children and God restored them unto him and requited him with a kingdom more magnificent than that which he had lost and goodlier and rarer and greater of wealth and elevation."
+
+The vizier's story pleased the king and he bade depart to his dwelling.
+
+The Twenty-Sixth Night of the Month.
+
+When came the night, the king summoned his vizier and bade him tell the story of the king who lost kingdom and wife and wealth. "Hearkening and obedience," replied Er Rehwan. "Know, O king, that

@@ -1,0 +1,22 @@
+# Why the Ant is not so Venomous as the Snake
+
+- **Tradition:** Philippines (Asia)
+- **Source book:** *Filipino Popular Tales*
+- **Author / collector / translator:** Fansler, Dean Spruill (editor)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #8299 — https://www.gutenberg.org/ebooks/8299 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+Narrated by Francisco M. Africa of Lipa, Batangas. This is a Tagalog story.
+
+God first created the earth. Then he took a rock from the earth and threw it on the terrestrial surface. When the rock was broken into many small pieces, he breathed into them the breath of life, and they became living creatures. At first these creatures, though differing in shapes and sizes, were not given different powers.
+
+Among these creatures of God’s were the snake and the ant. One day the snake went to God to ask for power. It said, “I come to thee, O God! to ask for thy favor. The world thou hast just created is wild with confusion. I have come to ask thee to give me the special power to kill all those that are rebellious and troublesome.”
+
+“Go back to your fellow-creatures!” answered God. “Hereafter you are endowed with the power to store in your teeth this poison. When you bite the vile and contemptible, inject into the wound some of this poison, and they will be killed; but first of all, observe their actions, and be conscientious and thoughtful.” Then God gave the snake the poison. The snake returned to the earth in great joy.
+
+When the ant heard that the snake was endowed with such power, it at once went to God to ask that the same privilege be granted it. The ant found God on his heavenly throne, instructing his host of angels. The ant approached God, and addressed him thus: “O thou almighty God! my brother the snake has been granted a great privilege by thee. Why art thou so unkind to me? Give me the same power, and I will be of great aid to the snake in destroying sinners.” God, thinking that the snake might need an assistant, gave the ant the same privilege that he had given the snake.
+
+The ant was so greatly overjoyed, that it ran as fast as it could to the earth. When God saw it running, he called to the ant, but it paid no attention to him. Then God, being very much enraged, took away some of the ant’s power, lest the ant might use it unreasonably. And so to-day the ant’s bite is not so poisonous as the snake’s.

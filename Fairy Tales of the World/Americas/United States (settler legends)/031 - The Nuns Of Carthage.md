@@ -1,0 +1,14 @@
+# The Nuns Of Carthage
+
+- **Tradition:** United States (settler legends) (Americas)
+- **Source book:** *Myths and Legends of Our Own Land — Complete*
+- **Author / collector / translator:** Skinner, Charles M. (Charles Montgomery) (author, d. 1907)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #6615 — https://www.gutenberg.org/ebooks/6615 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+At Carthage, New York, where the Black River bends gracefully about a point, there was a stanch old house, built in the colonial fashion and designed for the occupancy of some family of hospitality and wealth, but the family died out or moved away, and for some years it remained deserted. During the war of 1812 the village gossips were excited by the appearance of carpenters, painters and upholsterers, and it was evident that the place was to be restored to its manorial dignities; but their curiosity was deepened instead of satisfied when, after the house had been put in order and high walls built around it, the occupants presented themselves as four young women in the garb of nuns. Were they daughters of the family? Were they English sympathizers in disguise, seeking asylum in the days of trouble? Had they registered a vow of celibacy until their lovers should return from the war? Were they on a secret and diplomatic errand? None ever knew, at least in Carthage. The nuns lived in great privacy, but in a luxury before unequalled in that part of the country. They kept a gardener, they received from New York wines and delicacies that others could not afford, and when they took the air, still veiled, it was behind a splendid pair of bays.
+
+One afternoon, just after the close of the war, a couple of young American officers went to the convent, and, contrary to all precedent, were admitted. They remained within all that day, and no one saw them leave, but a sound of wheels passed through the street that evening. Next day there were no signs of life about the place, nor the day following, nor the next. The savage dog was quiet and the garden walks had gone unswept. Some neighbors climbed over the wall and reported that the place had been deserted. Why and by whom no one ever knew, but a cloud remained upon its title until a recent day, for it was thought that at some time the nuns might return.

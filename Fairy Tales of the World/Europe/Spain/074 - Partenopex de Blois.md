@@ -1,0 +1,20 @@
+# Partenopex de Blois
+
+- **Tradition:** Spain (Europe)
+- **Source book:** *Legends & Romances of Spain*
+- **Author / collector / translator:** Spence, Lewis (author, d. 1955)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+The beautiful and highly finished romance of Partenopex de Blois was written in the Catalonian dialect in the thirteenth century, and printed at Tarragona in 1488. That the tale was originally French is highly probable, but it is no mere translation, and the treatment it has received in the course of adaptation has undoubtedly made it a thing as wholly Catalonian as The Cid is Castilian. Here is the story of the knight Partenopex.
+
+On the death of the Emperor Julian of Greece the rule of his kingdom devolved upon his daughter Melior, a maiden of extraordinary talents, who was, moreover, possessed of a deep knowledge regarding the hidden sciences. Notwithstanding her ability, however, her advisers did not think it fitting that she should rule alone, and insisted that she should address herself to the task of selecting a husband. They granted her a space of two years in which to make choice of a suitable consort, and in order that she might be able to select a parti of a rank sufficiently illustrious to match with her own, she dispatched embassies to all the principal courts of Europe, bidding their members to inquire diligently into the credentials of all eligible princes.
+
+At this time there lived in France a youth of much beauty and promise in arms called Partenopex de Blois, nephew to the King of Paris. While following the train of his royal uncle in the chase one day, in the green shades of the Forest of Ardennes, he became separated from the rest of the party and lost his way. Forced to spend the night in the forest, he awoke with the dawn, and, in trying to find his bearings, came to the seashore. To his surprise, he beheld a splendid vessel moored near to the land. In the hope that its crew would be able to direct him as to the path he should take to reach home, he went on board the ship, but found her deserted. He was about to quit the vessel when she began to move, and, gaining speed, cleaved the water with such velocity that to attempt to leave her was impossible. After a voyage as short as it was swift, Partenopex found himself moored in a bay in a country of the most enchanting description.
+
+Disembarking, the youth walked inland, and soon came to the walls of a stately castle. He entered, and, to his surprise, found it as deserted as the vessel which had brought him thither. The principal chamber was illuminated by the sparkle of countless diamonds, and the young knight, who was by this time famished with hunger, was pleased to see an exquisite repast spread on the table before him. He was soon to learn the magical nature of all things in that enchanted castle, for the dainties with which the table groaned found their own way to his lips, and when he had refreshed himself sufficiently a lighted torch appeared as if suspended in the air, and preceded him to a bed-chamber, where he was undressed by invisible hands.
+
+As he lay in bed thinking upon the extraordinary nature of the adventure which had befallen him a lady entered the apartment, and introduced herself as Melior, the Empress of Greece. She told the young knight that she had fallen in love with him from the account of her ambassadors, and had contrived to bring him to her castle by dint of the powers of magic she possessed. She commanded him to remain at the castle, but warned him that if he attempted to see her again before two years had elapsed the result would be the loss of her affection. She then quitted the apartment, which was entered in the morning by her sister Uracla, who brought him the most splendid apparel.

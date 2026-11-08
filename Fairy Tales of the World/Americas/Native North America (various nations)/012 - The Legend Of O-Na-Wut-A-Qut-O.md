@@ -1,0 +1,60 @@
+# The Legend Of O-Na-Wut-A-Qut-O
+
+- **Tradition:** Native North America (various nations) (Americas)
+- **Source book:** *Folk-Lore and Legends: North American Indian*
+- **Author / collector / translator:** Anonymous / traditional
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #22072 — https://www.gutenberg.org/ebooks/22072 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+A long time ago there lived an aged Odjibwa and his wife on the shores of Lake Huron. They had an only son, a very beautiful boy, named O-na-wut-a-qut-o, or He that catches the clouds. The family were of the totem of the beaver. The parents were very proud of their son, and wished to make him a celebrated man; but when he reached the proper age he would not submit to the We-koon-de-win, or fast. When this time arrived they gave him charcoal instead of his breakfast, but he would not blacken his face. If they denied him food he sought bird’s eggs along the shore, or picked up the heads of fish that had been cast away, and broiled them. One day they took away violently the food he had prepared, and cast him some coals in place of it. This act decided him. He took the coals and blackened his face and went out of the lodge. He did not return, but lay down without to sleep. As he lay, a very beautiful girl came down from the clouds and stood by his side.
+
+“O-na-wut-a-qut-o,” she said, “I am come for you. Follow in my footsteps.”
+
+The young man rose and did as he was bid. Presently he found himself ascending above the tops of the trees, and gradually he mounted up step by step into the air, and through the clouds. At length his guide led him through an opening, and he found himself standing with her on a beautiful plain.
+
+A path led to a splendid lodge, into which O-na-wut-a-qut-o followed his guide. It was large, and divided into two parts. At one end he saw bows and arrows, clubs and spears, and various warlike instruments tipped with silver. At the other end were things exclusively belonging to women. This was the house of his fair guide, and he saw that she had on a frame a broad rich belt of many colours that she was weaving.
+
+“My brother is coming,” she said, “and I must hide you.”
+
+Putting him in one corner she spread the belt over him, and presently the brother came in very richly dressed, and shining as if he had points of silver all over him. He took down from the wall a splendid pipe, and a bag in which was a-pa-ko-ze-gun, or smoking mixture. When he had finished smoking, he laid his pipe aside, and said to his sister—
+
+“Nemissa,” (elder sister) “when will you quit these practices? Do you forget that the greatest of the spirits has commanded that you shall not take away the children from below? Perhaps you think you have concealed O-na-wut-a-qut-o, but do I not know of his coming? If you would not offend me, send him back at once.”
+
+These words did not, however, alter his sister’s purpose. She would not send him back, and her brother, finding that she was determined, called O-na-wut-a-qut-o from his hiding-place.
+
+“Come out of your concealment,” said he, “and walk about and amuse yourself. You will grow hungry if you remain there.”
+
+At these words O-na-wut-a-qut-o came forth from under the belt, and the brother presented a bow and arrows, with a pipe of red stone, richly ornamented, to him. In this way he gave his consent to O-na-wut-a-qut-o’s marriage with his sister, and from that time the youth and the girl became husband and wife.
+
+O-na-wut-a-qut-o found everything exceedingly fair and beautiful around him, but he found no other people besides his wife and her brother. There were flowers on the plains, there were bright and sparkling streams, there were green valleys and pleasant trees, there were gay birds and beautiful animals, very different from those he had been accustomed to. There was also day and night as on the earth, but he observed that every morning the brother regularly left the lodge and remained absent all day, and every evening his sister departed, but generally for only a part of the night.
+
+O-na-wut-a-qut-o was curious to solve this mystery, and obtained the brother’s consent to accompany him in one of his daily journeys. They travelled over a smooth plain which seemed to stretch to illimitable distances all around. At length O-na-wut-a-qut-o felt the gnawings of hunger and asked his companion if there was no game about.
+
+“Patience, my brother,” replied he; “we shall soon reach the spot where I eat my dinner, and you will then see how I am provided.”
+
+After walking on a long time they came to a place where several fine mats were spread, and there they sat down to refresh themselves. At this place there was a hole in the sky and O-na-wut-a-qut-o, at his companion’s request, looked through it down upon the earth. He saw below the great lakes and the villages of the Indians. In one place he saw a war-party stealing on the camp of their enemies. In another he saw feasting and dancing. On a green plain some young men were playing at ball, and along the banks of a stream were women employed in gathering the a-puk-wa for mats.
+
+“Do you see,” asked the brother, “that group of children playing beside a lodge? Observe that beautiful and active lad,” said he, at the same time darting something from his hand. The child immediately fell on the ground, and was carried by his companions into the lodge.
+
+O-na-wut-a-qut-o and his companion watched and saw the people below gathering about the lodge. They listened to the she-she-gwau of the meeta, to the song he sang asking that the child’s life might be spared. To this request O-na-wut-a-qut-o’s companion made answer—
+
+“Send me up the sacrifice of a white dog.”
+
+A feast was immediately ordered by the parents of the child. The white dog was killed, his carcass was roasted, all the wise men and medicine-men of the village assembling to witness the ceremony.
+
+“There are many below,” said O-na-wut-a-qut-o’s companion, “whom you call great in medical skill. They are so, because their ears are open; and they are able to succeed, because when I call they hear my voice. When I have struck one with sickness they direct the people to look to me, and when they make me the offering I ask, I remove my hand from off the sick person and he becomes well.”
+
+While he was saying this, the feast below had been served. Then the master of the feast said—
+
+“We send this to thee, Great Manito,” and immediately the roasted animal came up. Thus O-na-wut-a-qut-o and his companion got their dinner, and after they had eaten they returned to the lodge by a different path.
+
+In this manner they lived for some time, but at last the youth got weary of the life. He thought of his friends, and wished to go back to them. He could not forget his native village and his father’s lodge, and he asked his wife’s permission to return. After some persuasion she consented.
+
+“Since you are better pleased,” she said, “with the cares and ills and poverty of the world, than with the peaceful delights of the sky and its boundless prairies, go. I give you my permission, and since I have brought you hither I will conduct you back. Remember, however, that you are still my husband. I hold a chain in my hand by which I can, whenever I will, draw you back to me. My power over you will be in no way diminished. Beware, therefore, how you venture to take a wife among the people below. Should you ever do so, you will feel what a grievous thing it is to arouse my anger.”
+
+As she uttered these words her eyes sparkled, and she drew herself up with a majestic air. In the same moment O-na-wut-a-qut-o awoke. He found himself on the ground near his father’s lodge, on the very spot where he had thrown himself down to sleep. Instead of the brighter beings of a higher world, he found around him his parents and their friends. His mother told him that he had been absent a year. For some time O-na-wut-a-qut-o remained gloomy and silent, but by degrees he recovered his spirits, and he began to doubt the reality of all he had seen and heard above. At last he even ventured to marry a beautiful girl of his own tribe. But within four days she died. Still he was forgetful of his first wife’s command, and he married again. Then one night he left his lodge, to which he never returned. His wife, it is believed, recalled him to the sky, where he still dwells, walking the vast plains.
+
+* * *

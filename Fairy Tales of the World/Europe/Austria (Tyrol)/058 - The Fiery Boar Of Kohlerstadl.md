@@ -1,0 +1,22 @@
+# The Fiery Boar Of Kohlerstadl
+
+- **Tradition:** Austria (Tyrol) (Europe)
+- **Source book:** *Tales and Legends of the Tyrol*
+- **Author / collector / translator:** Günther, Marie A., countess (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+On the main road from the village of Mutters to the hamlet of Götzens lies a brown wooden hut in the middle of a lovely flowery plain, which is called the “Broat-Wiese” (broad meadow). The road leads through dells and valleys, and in passing through this grand and desolate spot, the traveller is unable to overcome a certain sense of awe, which overhangs this dreaded spot, particularly should he happen to pass that way after the shades of evening have fallen. The hut is an old hay-shed, which has the resemblance of a large dark coffin; close to this hut stands a little chapel, erected to the memory of a poor traveller, who was frozen to death on that spot, in the year 1815.
+
+This place is decried and avoided, on account of the fearful apparition, which is said to wander round the spot; and many a one who has tried to pass that way during the night has been glad to return safely back again to the village. Close by lies a dense forest of fir-trees, the rendezvous of tribes of ravens, which render the surroundings still more dismal with their ominous croakings. If, perchance, the traveller hears the cuckoo, he crosses himself, for it bears in the Tyrol the reputation of being the devil’s own bird, and the evil one himself, the worst of the phantoms, rejoices in adopting his voice.
+
+There has frequently been seen upon the plain, close by the hut, which is called the Kohlerstadl, a fiery wild boar, and many people are of the opinion that the old monster of the Unholdenhof, of which has been spoken in the preceding legend, wanders about there in that form, while others say that this same fiery boar is a devil’s phantom; and there are numberless people who have seen it.
+
+A rich peasant of Natters, whose name is Klaus Sinnis, went up one day with his hay-cart to a meadow-valley, called Götzens-Lufens, and as he passed by the Kohlerstadl it was already growing dark, and night was coming on very fast. There suddenly the fiery boar rushed before his horses, which began to rear and kick, and he was unable to get them on one step further, so that he was compelled to return home with his empty cart.
+
+A herdsman of Götzens was driving his cows home from Mutters, and close by the dreaded spot he met the boar, tearing madly round in a circle. On catching sight of this hideous phantom, the cows set up their tails and rushed wildly off in every direction, so that most of them fell down the precipices and were lost.
+
+Others have seen on the same spot black dogs, and heard unearthly screams and howls which have pierced to their very soul.

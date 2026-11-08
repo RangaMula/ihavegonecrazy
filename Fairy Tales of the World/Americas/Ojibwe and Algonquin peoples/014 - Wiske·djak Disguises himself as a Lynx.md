@@ -1,0 +1,16 @@
+# Wiske·djak Disguises himself as a Lynx
+
+- **Tradition:** Ojibwe and Algonquin peoples (Americas)
+- **Source book:** *Myths and Folk-lore of the Timiskaming Algonquin and Timagami Ojibwa*
+- **Author / collector / translator:** Speck, F. G. (author, d. 1950)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #66509 — https://www.gutenberg.org/ebooks/66509 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+One time in winter Wiske·djak was going along and fell upon an Indian’s trail. He followed the tracks of the snowshoes and soon came to a place where the Indian had set his rabbit snares. Wiske·djak saw the rabbits in the snares. He followed on and finally came to where a Lynx was caught in a snare. He thought it was a very curious looking creature. The Lynx’s eyes were bulging out from being choked in the snare, and his teeth showed. Now Wiske·djak admired the Lynx’s bulging eyes. “Don’t you think your eyes are very pretty?” he asked the Lynx. “No, not very,” answered the Lynx, because every thing living or dead had to reply when Wiske·djak asked it a question. Wiske·djak was very eager to get pretty eyes like the Lynx’s, so he made a fire and roasted the poor Lynx to get its skin off. Then Wiske·djak took out his own eyes and pulled the Lynx’s skin on over his own head, so that the bulging eyes of the Lynx fitted into his own eye sockets.
+
+Then Wiske·djak went on his travels, very well pleased with his looks. But he found out that with the Lynx’s eyes he could only see well at night. So after a while he became dissatisfied with the new eyes, but he had thrown his own away, so he had to make the best of it. He could only travel at night on account of his new eyes. So he had to make his living on rabbits, stealing them from the Indians’ snares. They were all he could get. One day, as he was going along, he stopped and looked at his tracks. Then he discovered that his paws were big and broad and so spread out when he walked that they resembled snowshoes. They were so broad that he could walk over the snow without snowshoes. So he went on. [ ]
+
+One day he decided to watch the Indians, so he sat down on a log near a hunter’s path and waited for someone to come along. He waited all night and part of the day. Finally some Indians came along the path to visit their rabbit snares. As they passed they found the rabbits stolen from all their snares, but they did not mind it very much. Some time after, one of the Indians’ little children came along the trail and saw Wiske·djak with his big face and bulging eyes sitting on the stump. The child ran back to camp and told his parents that he saw a big wildcat with bulging eyes staring at him from a stump. Then the father of the child took his “arrow-head club,” and went to where the child said he saw the wildcat. Then he started clubbing Wiske·djak to kill him. The fight was getting pretty bad, when Wiske·djak cried out, “Hold on, hold on! it isn’t a lynx, it is Wiske·djak that you are pounding to death!” And Wiske·djak tore off the lynx skin, and pitched it away. Then he took to the bush. That’s the last I saw of him.

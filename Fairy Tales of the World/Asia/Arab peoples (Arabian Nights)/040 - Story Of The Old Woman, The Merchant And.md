@@ -1,0 +1,32 @@
+# Story Of The Old Woman, The Merchant And
+
+- **Tradition:** Arab peoples (Arabian Nights) (Asia)
+- **Source book:** *Tales from the Arabic — Complete*
+- **Author / collector / translator:** Payne, John (translator, d. 1916)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #5245 — https://www.gutenberg.org/ebooks/5245 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+THE KING.
+
+There was once in a city of Khorassan a family of affluence and distinction, and the townsfolk used to envy them for that which God had vouchsafed them. As time went on, their fortune ceased from them and they passed away, till there remained of them but one old woman. When she grew feeble and decrepit, the townsfolk succoured her not with aught, but put her forth of the city, saying, 'This old woman shall not harbour with us, for that we do her kindness and she requiteth us with evil.' So she took shelter in a ruined place and strangers used to bestow alms upon her, and on this wise she abode a while of time.
+
+Now the uncle's son of the king of the city had aforetime disputed [the kingship] with him, and the people misliked the king; but God the Most High decreed that he should get the better of his cousin. However, jealousy of him abode in his heart and he acquainted the vizier, who hid it not and sent [him] money. Moreover, he fell to summoning [all strangers who came to the town], man after man, and questioning them of their faith and their worldly estate, and whoso answered him not [to his liking], he took his good.[FN#231] Now a certain wealthy man of the Muslims was on a journey and it befell that he arrived at that city by night, unknowing what was to do, and coming to the ruin aforesaid, gave the old woman money and said to her, 'No harm upon thee.' Whereupon she lifted up her voice and prayed [for him], He set down his merchandise by her [and abode with her] the rest of the night and the next day.
+
+Now thieves had followed him, so they might rob him of his good, but availed not unto aught; wherefore he went up to the old woman and kissed her head and exceeded in munificence to her. Then she [warned him of that which awaited strangers entering the town and] said to him, 'I like not this for thee and I fear mischief for thee from these questions that the vizier hath appointed for the confrontation of the ignorant.' And she expounded to him the case according to its fashion. Then said she to him, 'But have no concern: only carry me with thee to thy lodging, and if he question thee of aught, whilst I am with thee, I will expound the answers to thee.' Se he carried her with him to the city and established her in his lodging and entreated her kindly.
+
+Presently, the vizier heard of the merchant's coming; so he sent to him and let bring him to his house and talked with him awhile of his travels and of that which he had abidden therein, and the merchant answered him thereof. Then said the vizier, 'I will put certain questions to thee, which if thou answer me, it will be well [for thee].' And the merchant rose and made him no answer. Quoth the vizier, 'What is the weight of the elephant?' The merchant was perplexed and returned him no answer and gave himself up for lost. Then said he, 'Grant me three days' time.' So the vizier granted him the delay he sought and he returned to his lodging and related what had passed to the old woman, who said, 'When the morrow cometh, go to the vizier and say to him, "Make a ship and launch it on the sea and put in it an elephant, and when it sinketh in the water, [under the beast's weight], mark the place to which the water riseth. Then take out the elephant and cast in stones in its place, till the ship sink to the mark aforesaid; whereupon do thou take out the stones and weigh them and thou wilt know the weight of the elephant"'
+
+So, when he arose in the morning, he repaired to the vizier and repeated to him that which the old woman had taught him; whereat the vizier marvelled and said to him, 'What sayst thou of a man, who seeth in his house four holes, and in each a viper offering to come out and kill him, and in his house are four staves and each hole may not be stopped but with the ends of two staves? How shall he stop all the holes and deliver himself from the vipers?' When the merchant heard this, there betided him [of concern] what made him forget the first and he said to the vizier, 'Grant me time, so I may consider the answer.' 'Go out,' replied the vizier, 'and bring me the answer, or I will seize thy good.'
+
+The merchant went out and returned to the old woman, who, seeing him changed of colour, said to him, 'What did he ask thee, [may God confound] his hoariness?' So he acquainted her with the case and she said to him, 'Fear not; I will bring thee forth of this [strait].' Quoth he, 'God requite thee with good!' And she said, 'To-morrow go to him with a stout heart and say, "The answer to that whereof thou askest me is that thou put the heads of two staves into one of the holes; then take the other two staves and lay them across the middle of the first two and stop with their heads the second hole and with their butts the fourth hole. Then take the butts of the first two staves and stop with them the third hole."'[FN#232]
+
+So he repaired to the vizier and repeated to him the answer; and he marvelled at its justness and said to him, 'Go; by Allah, I will ask thee no more questions, for thou with thy skill marrest my foundation.'[FN#233] Then he entreated him friendly and the merchant acquainted him with the affair of the old woman; whereupon quoth the vizier, 'Needs must the man of understanding company with those of understanding.' Thus did this weak woman restore to that man his life and good on the easiest wise. Nor," added the vizier, "is this more extraordinary than the story of the credulous husband."
+
+When the king heard this story, he said, "How like is this to our own case!" Then he bade the vizier retire to his lodging; so he withdrew to his house and on the morrow he abode at home [till the king should summon him to his presence.]
+
+The Ninth Night of the Month.
+
+When the night came, the king sat in his privy chamber and sending after the vizier, sought of him the promised story; and he said, "Know, O august king, that

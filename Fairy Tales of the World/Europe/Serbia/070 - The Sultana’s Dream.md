@@ -1,0 +1,18 @@
+# The Sultana’s Dream
+
+- **Tradition:** Serbia (Europe)
+- **Source book:** *Hero Tales and Legends of the Serbians*
+- **Author / collector / translator:** Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+That night the Sultana had a strange dream, in which the figure of a man appeared before her, saying: “There is within the Empire of Serbia a vast plain Kossovo; in that plain there is a city Prilip; and in that city dwells the Royal Prince Marko who is known among all men as a truly great hero.”
+
+And the man went on to advise the Sultana to send, without delay, a message to Prince Marko and beg him to become her son-in-God, and at the same time to offer him immense fortune, for he was without doubt the only one living likely to vanquish the terrible Moor and save her daughter from a shameful fate. The next morning she sped to the Sultan’s apartments and told him of her dream. The Sultan immediately wrote a firman and sent it to Prince Marko at Prilip, beseeching him to journey with all speed to Istamboul and accept the challenge of the Moor, and if he should succeed in saving the Princess the Sultan would give him three tovars of pure golden ducats.
+
+When Marko read the firman, he said to the Sultan’s young courier, a native of Tartary: “In the name of God go back, thou Sultan’s messenger, and greet thy master—my father-in-God—tell him that I dare not face the Moor. Do we not, all of us, know that he is invincible? If he should cleave my head asunder, of what avail would three tovars, or three thousand tovars, of gold be to me?”
+
+The young Tartar brought back Marko’s answer which caused the Sultana so much grief, that she determined to send a letter to him herself, once more beseeching him to accept the challenge and this time increasing the reward to five tovars of pure gold. But Marko, though generally so chivalrous and courteous to all women, remained inexorable, replying that he would not meet the Moor in combat even if he were to be presented with all the treasure the Sultan possessed; for he did not dare.

@@ -1,0 +1,64 @@
+# The Midnight Dance
+
+- **Tradition:** Russia (Europe)
+- **Source book:** *Russian Folk-Tales*
+- **Author / collector / translator:** Afanas'ev, A. N. (Aleksandr Nikolaevich) (author, d. 1871); Magnus, Leonard A. (Leonard Arthur) (translator, d. 1924)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #62509 — https://www.gutenberg.org/ebooks/62509 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Once upon a time there was a king who was a widower. He had twelve daughters: each was fairer than the others. Every night these princesses went where nobody knew: it was only for twenty-four hours, and they always wore out a new pair of shoes. Now the king had no shoes ready for them, and he wanted to know where they went at night and what they did. So he made a feast ready, and he summoned all the kings and korolévichi , all the boyárs , and the merchants and the simple folk, to it, and he asked them, “Can any of you guess this riddle? Whoever guesses it I will give him my beloved daughter as a wife and a half of my kingdom as a dowry.”
+
+No one was able to find out where the princesses went at night. Only one poor nobleman cried out, “Your kingly Majesty, I will find out!”
+
+“Very well; go and find out.”
+
+So then the poor nobleman began pondering and saying to himself, “What have I done? I have undertaken to find out, and I don’t know myself. If I don’t find out now, possibly the king will put me under arrest.”
+
+So he went out of the palace beyond the city, and went on and on, and at last he met an old woman on the road who asked him, “What are you thinking of, doughty youth?”
+
+And he answered, “How should I, Bábushka, not become thoughtful? I have undertaken to discover for the king where his daughters go by night.”
+
+“Oh, this is a difficult task, but it can be done. Here, 107 I will give you the cap of invisibility; with that you cannot be seen. Now, remember, when you go to sleep the princesses will pour a sleeping-draught out for you: you turn to the wall and pour it into the bed and do not drink it.”
+
+So the poor nobleman thanked the old woman and returned to the palace. Night-time approached and they gave him a room next to that in which the princesses slept. So he lay on the bed and began to keep watch. Then one of the princesses brought sleeping-drugs in wine and asked him to drink her health. He could not refuse, and so he took the goblet, turned to the wall, and poured it into the bed. At midnight the princesses went to look whether he was asleep or not. Then the poor nobleman pretended to be as sound asleep as a log, and himself kept a keen look out for every noise.
+
+“Now, sisters, our watchman has gone to sleep: it is time we set out on our promenade: it is time.”
+
+So they all put on their best clothes, and the elder sister went to her bedside, moved the bed, and an entrance into the subterranean realm instantly opened up beneath, leading to the home of the Accursèd Tsar.
+
+They all went down a flight of stairs, and the poor nobleman quietly got off his bed, put on the cap of invisibility, and followed them. He, without noticing, touched the youngest princess’s dress: she was frightened and said to her sisters, “O my sisters, somebody has stepped on my dress. This is a foretokening of woe.”
+
+“Nonsense; it does not mean anything of the sort!”
+
+So they all went down the flight of steps into a grove, and in that grove there were golden flowers. Then the poor nobleman broke off and plucked a single sprig, and the entire grove rustled.
+
+“Oh, sisters,” said the youngest sister, “some unfortunate thing is injuring us. Did you hear how the grove rustled?”
+
+108 “Do not fear; this is the music in the Accursèd Tsar’s realm.”
+
+So they went into the Tsar’s palace. He, with his lacqueys, met them; music sounded; and they began dancing: and they danced until their shoes were worn thin. Then the Tsar bade wine to be served to his guests. The poor nobleman took a single goblet from under his nose, poured out the wine, and put the cup into his pocket.
+
+At last the rout was over, and the princesses bade farewell to their cavaliers, promised to come another night, turned back home, undressed and lay down to sleep.
+
+Then the king summoned the poor nobleman, and asked him, “Did you keep watch on my daughters?”
+
+“Yes, I did, your Majesty.”
+
+“Where did they go?”
+
+“Into the subterranean realm, to the Accursèd Tsar, where they danced all night long.”
+
+So the king summoned his daughters, and began cross-examining them. “Where do you go at night?”
+
+So the princesses tried a feint: “We have not been anywhere.”
+
+“Were you not with the Accursèd Tsar? There is this poor nobleman who can turn evidence on you. He is able to convict you.”
+
+“What do you mean, bátyushka? He can convict us when all night he slept the sleep of the dead?”
+
+Then the poor nobleman brought the golden flower out of his pocket, and the goblet, and said, “There is the testimony.”
+
+What could they do? The princesses had to acknowledge their guilt, and the king bade the entrance to the subterranean realm be slated up. And he married the poor nobleman to the youngest daughter, and they lived happily ever after.

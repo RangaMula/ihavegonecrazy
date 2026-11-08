@@ -1,0 +1,36 @@
+# Why Does The Spider Hang On A Thread?
+
+- **Tradition:** Romania (Europe)
+- **Source book:** *Rumanian Bird and Beast Stories Rendered into English*
+- **Author / collector / translator:** Gaster, Moses (translator, d. 1939)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #43059 — https://www.gutenberg.org/ebooks/43059 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+The Story of the Spider and Lady Mary.
+
+One day a spider, meeting the Holy Mother, challenged her as to which of the two could spin the finer thread. The Holy Mother accepted the challenge, and started to spin a very fine thread indeed. But, however fine her thread was, the yarn spun by the spider was much finer, and then, to add to the discomfiture of the Holy Mother, the spider let himself down on one of its threads and remained dangling, and, turning to the Holy Mother, he said to her: “Can you do anything like it?” And the Holy Mother replied, “No”; and being angry she cursed the spider, and said, “Thy web shall be of no use to anyone, and because of thy spite, whoever kills thee shall be forgiven three of his sins.”
+
+* * *
+
+We meet the spider again in controversy with the Holy Mother on a more dramatic occasion.
+
+* * *
+
+She was searching for her son, and going to St. John, she asked him what had happened to him, as she had not seen him for some time. “The cruel people have taken him and are torturing him.” Going on her way she met the carpenters, who said to her that instead of making a light cross they had made a heavy cross. She cursed them, saying, “May you work all the year and see no profit.”
+
+Then she met the smiths, who, instead of making short nails, had made long nails, and she cursed them likewise. She came to the gate of the palace of Pilate, and on her touching the gate, it opened, and going in, she saw all that happened. On her way, weeping and crying, she met a flight of swallows, who asked her why she was crying and weeping, and she replied, “My only son has been taken away from me.” And they replied, “Do not weep and do not cry, for three days hence thou shalt see him alive, thou and thy friends.”
+
+And the Holy Mother blessed them, that they should always be welcome in the house of the people, that they should nest on the roofs, and that no one should disturb them, and that whosoever should kill a swallow should be guilty of three sins.
+
+Going further, she met the spider, and the spider asked her why she was weeping and crying, and she replied, “My only son has been taken away.” And the spider replied, “You may cry till the day of doom; what is gone is gone, and can never come back again.” Next to the spider was standing the mouse, and the mouse chimed in: so the Holy Mother cursed him and went on her way, but finding that her way led her nowhere, she came back the same road.
+
+When she had gone, the mouse said to the spider: “The Holy Mother has not blessed us, so I think you had better make a rope and stretch it from tree to tree, and I will dig a pit underneath, and when she comes back we will hang her by the rope and throw her into the pit.”
+
+But the Holy Mother knew what they were plotting, and when she came back, she said:
+
+“Thou ugly and spiteful spider, worms shall settle on thee, and by thy own rope shalt thou hang. All the days of thy life an unclean animal shalt thou be. And thou, O mouse, who hast plotted against me, thy habitation shall be henceforth in the pits and hollows of the earth, and thou shalt be an unclean beast. Whatever thou touchest shall be defiled, and whoever kills thee or the spider shall be forgiven three sins.” And so it has remained to this very day, the spider hanging on its own rope, and the mouse lying hidden under the earth, and both are killed by men and beasts.
+
+This same legend has become a carol which is also used as a charm.

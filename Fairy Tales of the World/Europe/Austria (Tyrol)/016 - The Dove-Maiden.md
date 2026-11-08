@@ -1,0 +1,226 @@
+# The Dove-Maiden
+
+- **Tradition:** Austria (Tyrol) (Europe)
+- **Source book:** *Household stories from the Land of Hofer; or, Popular Myths of Tirol*
+- **Author / collector / translator:** Busk, Rachel Harriette (author, d. 1907)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #44746 — https://www.gutenberg.org/ebooks/44746 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+In the days when heathenism still disputed the advance of Christianity in Tirol, there lived a nobleman in a castle, of which no trace now remains, overlooking the egg-shaped Lago di Molveno. The nobleman and his family had embraced the teaching of St. Vigilius, and were among his most pious and obedient disciples. Eligio, his eldest son, however, had two faults which led him into great trouble, as our story will show; but as he was of a good disposition, and was always desirous to make amends for his wrong-doing, he found help and favour, which kept him right in the main. His two faults were—an excess of fondness for card-playing and an inclination to think he knew better than his elders, which led him to go counter to good advice.
+
+It so happened that whenever he played at cards he always won; and this made it such a pleasure that he could not be persuaded to leave it off, though he knew he was wasting all the time he ought to have devoted to more manly pursuits. Nor was there for a long time any lack of people to play with him, for every one said his luck must turn at last, and each thought he should be the fortunate person in whose favour this would happen. But when at last they found he still won, and won on, they got shy of the risk, and refused to incur it any more.
+
+When Eligio found this to be the case, he determined to travel abroad, and play against strangers. His parents tried to make use of the opportunity to lead him to break with his bad habit, but it was of no avail, and, as experience is a good school, they agreed to let him go forth and see what the world was made of.
+
+It was a brave sight as he descended the terrace of the castle accoutred in the noble array befitting his rank, and with a retinue of followers handsomely attired too. But his lady mother watched him depart with a boding heart, and then went into the chapel to pray that he might be preserved amid all dangers.
+
+Nothing particular occurred to mar the pleasure of travel for several days, till he came to a large and fertile plain, studded with many towns, whose white stone-built houses sparkled in the sun. “Ha! now we come to life and human kind again!” cried Eligio; and putting spurs to his steed he rode joyously to the first of these smiling towns. It had no lofty towers, no heaven-pointing spires—nowhere was seen the sign of the saving cross, which from boyhood he had been taught to reverence and to see planted every where before him in consecration of every affair of life. But there were sounds of mirth and revelry, as of a perpetual feast, and all around the place was gay with dancers and mummers, musicians, dice-throwers, and card-players. Eligio wandered about till he saw a number of these making up a fresh party, and courteously asked to be allowed to join them. They accepted his company willingly, and fortune favoured him as usual. Again and again he tried, and it was always the same. It was as much as his train of followers, numerous as they were, could do to gather in and take charge of all his gains. The stranger’s unvarying luck became the talk of the place, and all the people collected to see him play.
+
+Towards evening there came amid the crowd a tall man of serious mien, who, having watched his play with much attention, said to him, as he saw him complete a game which gave him once more the benefit of a considerable haul,—
+
+“Truly, you are an expert player, young man; I had thought myself hitherto the best of our countryside, but I doubt me if I should be right to measure my skill with yours. However, you must be tired with your long travel and with the excitement of the day’s play, and if you will honour my poor board with your presence at dinner I will ask you afterwards to let me try my power against yours with the cards.”
+
+Eligio thanked him for his courteous speech, and assured him he should have the greatest pleasure in doing as he wished.
+
+The stranger then led him to his abode, which was appointed with a sumptuousness such as had never entered into Eligio’s dreams in his mountain home. Marble courts and fountains, surrounded by bowers of exquisite flowers, formed the approach, and then they passed beneath endless-seeming arcades of polished marble into a vast alcove encrusted with alabaster of many colours, the dim light only reaching through its clear golden veins, no sound disturbing its still repose but the cool murmur of a fountain which fed a marble lake. Here noiseless attendants advanced, and, having helped Eligio and his host to undress, afforded him a delicious bath, complete with ministrations of unguents and scents—very different from the plunge into the icy waters of the Lago di Molveno, which was his greatest luxury at home.
+
+They now arrayed him in an entirely new suit of superb attire; and then, to the sound of hushed music, led him and his host through the arched corridors to a banqueting-hall, where every thing of the choicest was ready laid.
+
+Nothing could have been more delightful than the charming and accomplished conversation of his hospitable entertainer, who, when the long succession of various viands was at length exhausted, proposed that they should repair to an upper room and commence their game.
+
+Delighted as Eligio had been with his extraordinary entertainment, he was yet burning to try his luck with his obliging host, and accordingly followed him with alacrity to a divan spread on the roof, having for its only covering a leafy pergola , and lighted by lamps contrived with such art that they seemed to be the very bunches of grapes themselves which gave the rays.
+
+The cards were brought, and the friends set to work. The first game was a long one; the host seemed to be in great fear of not succeeding, and pondered every throw. Eligio played in his own rough-and-ready style, expecting luck to come as it always had—he never troubled himself how .
+
+But this time luck did not come to him, and his entertainer was the winner! The stakes were large, but his hospitable friend had been so urbane throughout, that he could not show any ill-will. His attendants were called in, and paid the debt.
+
+The winner put up the cards as though he did not wish to play again.
+
+“Come, you must give me my revenge,” said Eligio.
+
+“Oh, certainly, if you wish it ,” he replied; and they played again. This time Eligio paid more attention to his style, and calculated every card he played; but it was of no use, he was beaten again. Caring more for the disappointment than the loss, he saw the money counted out without a sigh; but the unusual sense of having been overcome rankled in his mind. He had offered to play high because it seemed required by the princely character of the house where he had been so sumptuously received; and of all the treasure he had brought with him, and of all he had won through a day’s undeviating luck, there only remained enough to repeat the stakes. Nevertheless he pledged the same sum once more, and they played again.
+
+This time fortune seemed to have come back to him. All went right up to the end; Eligio’s heart felt lightened. So luck was coming back, was it? He played with an interest which he had almost ceased to find—but his adversary threw down his last card which reversed every thing, and once more he was the winner!
+
+Eligio called in his followers, and ordered them to pay out the last farthing of his treasure; but even this distressed him less than having nothing more to stake, whereby to have a chance of retrieving his luck. “Let be,” said his new friend, soothingly; “perhaps to-morrow your luck will turn. Come down with me to supper, and have a quiet night’s rest, and think no more about the play.”
+
+“I can’t rest, and I can’t eat!” said Eligio; “I can do nothing till my luck turns. I must stake something . Ah! there’s my horse—but that’s not enough. Put along with it all my retainers. If I lose, they shall be yours, and serve you.”
+
+“Since you insist, I have no objection,” said his host. “My men know their service well, and will not shame you if you win and I have to render you an equal number of them; and for your horse, I can match him, how good soever he may be, with the swiftest Arab in the whole world.”
+
+Eligio sat down, hardly heeding his words, intent only on re-establishing his success. But his pains were vain; the game went against him like the last, and, scarcely mastering his vexation, he called in his retainers and told them they had passed into the service of the new master.
+
+But this only left him in the same position as before. Still he wanted to retrieve his fortune, and again he had no stake.
+
+“Leave it for to-night,” recommended his host; “better times will come with the morrow.” But Eligio would not hear of it; the passion and excitement were too strong within him; he could not turn to other thoughts.
+
+“Myself! my life! that is all I have left to play. Will you accept the wager of my life?”
+
+“If you insist,” replied his host, “I have no objection, but it is an odd sort of play. I really never heard of such a thing before; but any thing to oblige you—though I really advise you to leave it till the morning, when you are cooler.”
+
+And all the time he was a magician of the heathen, who had invited Eligio for the express purpose of bringing him to this strait; but, as he saw how impetuous and excited he was, he knew that he would but fall into his snare the more surely for whetting his ardour with a little opposition.
+
+Eligio would, indeed, listen to no mention of delay, and they sat down and played—with the same result as before! His life was now at the magician’s disposal, and he stood in a desponding attitude, waiting to hear what the magician decided to do with him.
+
+As he stood there, however, a great cry rose in the room beyond—a cry of a young maiden’s voice in distress—and from under the usciale came running, in terror for its life, a sleek white rat, and behind it, in close pursuit, a bouncing cat. “Save my rat! oh, save my white rat!” cried the maiden’s voice; and her steps approached as if she would have run into the room after her pet. “Keep back, child! keep back! Enter not, for your life!” cried the magician, sternly; and nothing more was heard but the gentle maiden’s sobs.
+
+Quick as thought, however, Eligio had started from his despondent attitude at the sound of her distressful voice, and with one blow had stamped the life out of the treacherous cat. The little white rat, freed from fear of its tormentor, returned softly to its mistress, and an exclamation of joy was Eligio’s reward.
+
+“Who have you got there, father? Mayn’t I come in and thank him?” said the maiden, prettily pleading.
+
+“On no account. Don’t think of it!” was the magician’s angry reply.
+
+“Then you must do something for him instead. Ask him what he wants, and do it for him, whatever it is.”
+
+“Very well, that’ll do; go back to your own apartment,” replied the magician, impatiently.
+
+“No, it won’t do, like that. You don’t say it as if you meant it. Promise me you will give him something nice, and I will go. It’s only fair, for he has done me a great pleasure, and you mustn’t be ungrateful.”
+
+“It is enough reward, fair maiden, to hear from your sweet voice that you are satisfied with me,” Eligio ventured to say; but this made the magician more angry, and, to ensure his daughter’s departure, he promised he would do as she wished, but forbade either of them to speak a single word more to the other.
+
+“I have promised my daughter to give you a good gift,” he said, when he had satisfied himself that she was gone to a distance; “and under present circumstances I do not see that I can give you a better boon than to grant you a year of the life which you have lost to me. Go home and bid adieu to your friends, and be sure that you are back here by this day year, or woe be to your whole house!”
+
+Eligio now began to suspect that he had fallen into the power of one of those against whom he had been often warned. No ordinary mortal could have cared to win his life; no ordinary mortal could have threatened woe on his whole house. But the more convinced he felt of this, the more terrible he felt was the spell that bound him.
+
+Sad and crestfallen he looked as he toiled his way back to the castle on the Lago di Molveno, and very different from the brave order with which he had started.
+
+When his parents saw him all alone, and looking so forlorn, they knew that his bad habit had got him into trouble, but he looked so sad that they said nothing; but by little and little he told them all. It was a year of mourning that succeeded that day; a year so sad that it seemed no boon the maiden had procured him, but a prolonged torment, yet when that thought came he spurned it from him, as ungrateful to her who had meant him well. In fact his only solace was to recall that clear, ringing voice so full of sympathy, and to picture to himself the slender throat and rosy lips through which it must have passed, the softly-blushing cheeks between which those lips must have been set, and the bright, laughing, trusting eyes that must have beamed over them, till he seemed quite to know and love her.
+
+But then, again, of what use? was not his year nearly run out? Was not her father determined they should not meet? Was it not a greater torture to die knowing there was one left behind he might have loved, than to have died that night alone, as he had been then?
+
+Meantime the year was drawing to a close, and, not to give an appearance of shrinking from his plighted word, Eligio started betimes to render his life up to him who had won it of him. It was a sad parting with his parents, but he held up through it bravely; and when they advised him to take a large sum of money with him to buy himself off, though he felt it would be of no use, he would not say them nay, as he had so often done before.
+
+With a heavy heart he set out; and first he stopped at the chapel of St. Anthony, at the foot of the hill, where dwelt an old hermit, to make his peace with heaven before he was called to lay down his life. Then he rose and pursued his way.
+
+As he journeyed farther he met a hermit coming towards him who he thought was the same he had spoken with in the chapel. “Tell me, father,” he said, “how comes it that you, whom I left behind me in the chapel, are now coming towards me on the road?”
+
+“I am not the hermit whom you left behind you in the chapel,” replied the advancing figure, gravely. “But I have heard all you confided to him, for I am St. Anthony; and because I am satisfied with the good disposition I have observed in you, I am come to give you help.”
+
+Eligio fell on his knees full of thankfulness, for never had he felt more in need of help than now.
+
+“Something I know, my son, of the ways of these men who hunt the lambs of our flock to destroy them, and I am minded to save you from the one into whose power you have fallen, and with you the fair maiden whose voice charmed you in his house.”
+
+Eligio started with joyful surprise, and clasped the saint’s feet in token of gratitude.
+
+“She is not his daughter, as you have supposed,” continued the saint, “but a child of our people, whom he stole from us. And now you must attend to my bidding, and do it exactly, or you will fail, and lose her life as well as your own.”
+
+Eligio felt the reproach, for he knew how often he had preferred his own way to the advice of his elders, but he was humble now in his distress, and listened very attentively to the directions prescribed to him.
+
+“Continue this public road towards the city,” then said St. Anthony, “till you get to the last milestone; then count the tenth tree that you pass on the right hand and the eleventh on the left hand, and you will see a scarcely perceptible track through the brake to the right. Follow that track till you come to a knoll of ilex-trees, there lie down and rest; but to-morrow morning awake at daybreak and lie in wait, and you shall see a flock of white doves come before you. They will lay aside their feathers and hide them, but you must watch them very closely, for they are the magician’s daughters; but among them will be she whom I commission you to deliver. You must observe where she puts her feathers, for the maidens will all then go away for the rest of the day in their own natural form. As soon as they are gone, take her feathers from their hiding-place and possess yourself of them. In the evening they will all come back and resume their dove form and fly away, but your maiden will continue seeking hers; then come forward and tell her that you want her help to overcome the sorceries of the magician. Remember this well, my son, and for the rest do as she bids you.” So saying, the saint raised his hands in blessing, and passed on his way to the chapel, where he had to instruct the hermit in the conduct he had to pursue in the manifold dangers with which he was surrounded from the malice of the heathen.
+
+Eligio walked briskly along, once more filled with the hope and energy incident to his youth and character. “Why should I count the trees?” he said to himself; “surely, it will do if I look out for the track when I come to the brake!” But the terrible warning he had had was too recent that he should forget its lessons already. “Perhaps it’s better to keep to the letter. The saint laid great stress on my doing exactly as he bid me; it is better to be on the safe side, for another worthier life than mine is concerned with me, this time.”
+
+So he walked on steadily till he came to the last mile, and then counted the trees conscientiously, till he found the path through the brake, and made his way to the ilex grove, where he laid him down and slept peacefully. But long before daybreak he was awake with the anxiety not to be behindhand, and closely he watched for the arrival of the enchanted doves.
+
+With the first streaks of daylight they came flying, as the saint had predicted, and, having flung off their covering of white feathers, each sought out a snug place under the heather where to deposit them. It required close watching, indeed, to make out which was his maiden; but, as they all chatted together, after the manner of maidens, Eligio knew he could trust himself to recognize her voice, and, guided by that, he kept his eyes hard fixed on her whose tones he recognized, that he might be sure to distinguish where she laid by her disguise. It was not light enough to satisfy himself whether her features corresponded with the idea he had built up in his own mind; but the grace of her form, as she passed by in her simple white, loosely-flowing dress, with a chaplet of roses for her only ornament; only made him the more anxious to behold her face.
+
+The maidens walked away, and Eligio took possession of the feathery covering, which he laid up in his bosom as a precious token, and took it out again and gazed at it, and kissed it, and laid it by again a thousand times, for it was his only solace through the long day of waiting.
+
+At last evening came, and he resumed his post of observation. The maidens returned; each sought out and resumed her dove’s feathers and flew away; only the one was left, seeking hers in vain. Then Eligio came forward, and said, respectfully, “Fair lady, I know what it is you seek, and I will help you to find it; but first promise to do me a great favour.”
+
+The maiden started, for she too recognized his voice. Their eyes met, and both owned, in the depth of their own hearts, that the other bore the very image which for a year past their fancy had conjured up.
+
+“That will I, willingly, good sir!” she replied, in her sweetest tones; “for, an’ I mistake not, I owe you a debt of gratitude before to-day. The treacherous cat that you killed so opportunely was no cat, but a cruel Angana ; and the white rat concerned me so nearly, because it was no rat, but my dear nurse, whom the magician turned into a rat when he stole me from my father’s house. So believe if I was not anxious to save her, and if I ought not to be grateful to him who preserved her to me! so tell me, what can I do to help you, and, whatever it may be, I will do it to the utmost of my power.”
+
+“St. Anthony appeared to me as I came along this way,” rejoined Eligio, “and he told me that you had been stolen from Christian parents and brought up by this heathen mage, and that you would help me to get out of his power; but he also seemed to say that I should have the happiness of helping you to leave this dreadful abode, and restoring you to Christendom.”
+
+“Said he so?” answered the maiden, with intense earnestness; “then my heart did not deceive me when I first heard your voice: you are indeed he with the thread of whose life mine is woven, and without whom I could not be set free.”
+
+When Eligio heard that, he was full of gladness, and he said, “Let us escape, then! What should prevent us from leaving this country together? When I saw the magician before, the laws of hospitality made him sacred to my sword; but now—now that I have learnt I have a right to defend your life—I defy him, and all his arts!”
+
+“You are brave, I see; and it is well,” she replied; “but it is not so you can discard his power. By your own error you gave him power over you, and now you are his; you can only be free by his will.”
+
+“By his will!” cried Eligio, in despair; “then shall I never be free!”
+
+“Art must be met by art,” she continued. “His art is all round you, though you see not its meshes; and by art we must bring him to renounce his claim on you. Trust me, and I will show you how it is to be done. He would force me to learn his arts when I begged him not, and now I know many things which will serve us. I can see the threads of his toils woven all around you; you cannot escape from them till he speaks you free.”
+
+“Tell me, then, what I must do,” said Eligio; and he mentally resolved as he spoke, that he would this time implicitly obey what she told him.
+
+She remained thinking for a time, as if reckoning out a problem. Then she said, “For this first time I must act. On the fatal day you must present yourself according to your oath. I will take care to be with him when they tell him you are come; and when I hear your name, I will plead, as I did before, that he should not sacrifice you at once, but give you some hard trial in which, if you succeed, he shall speak you free. To silence my importunity, he will agree to this, intending to give you so hard a trial that you should not succeed. But you come to me in my bower, cooing three times like a dove, for a signal, at this same evening hour, and tell me what it is, and I will find the means in my books to carry you through the trial. So that, whatever he proposes to you, be not disconcerted, but accept and undertake it with a good heart. And now, give me my dove’s feathers quickly, for already they will be questioning why I am so long behind.” And without waiting to let him take so much as another gaze at her, she assumed her dove shape, and flew away.
+
+The next day Eligio went, with a lighter heart than he had borne for a long time past, to give himself up to the magician. The magician, won over by the maiden’s importunity, offered him his liberty on condition of his performing successfully the difficult feat that he should impose on him.
+
+“Any thing you please to impose on me, I am ready to perform,” replied Eligio.
+
+The magician smiled, with a ghastly, sardonic smile, while he paused, and tried to think of the most terrible trial he could impose.
+
+“Since you were here last,” he said, at length, “I have grown a little deaf, and I am told that the only cure there is for me is the singing of the phœnix-bird. The first thing you have to do is to find me the phœnix-bird, that its singing may heal me.”
+
+“I will do my best; and hope I may be the means of curing your malady,” said Eligio, courteously; but the magician, seeing him of such good courage, began to fear he really might succeed, and added, hastily, “But, mind, I only allow you three days for your search!”
+
+“Three days are but little to find the phœnix-bird,” replied Eligio; “nevertheless, I will do my best;” and without waiting to listen to any further restrictions, he started on his way, saying, “If I have only three days, I have no time to lose.”
+
+At the approach of the evening hour Eligio found his way to his maiden’s bower, and having attracted her attention by cooing three times like a dove, told her what was the trial the magician had imposed.
+
+“The phœnix-bird!” she said, and she looked rather blank; “he has chosen a difficult task indeed. But wait a bit; I think I can find it out;” and she went back and took down scroll after scroll, and turned them over so long, that Eligio began to fear that she would not be able to help him after all. At last she came back to him, looking grave.
+
+“It is more difficult even than I thought,” she said; “and three days is but short time to do it in. You must start this night, without losing a minute. Set out by the stony path outside the town, and ride ahead till you come to a forest, where a bear will come out upon you. The moment you see him, spring from your horse, and cut its throat with your hunting-knife; but if you hesitate a moment he will fall upon you, and devour you. If, however, you kill your horse dexterously, as you will, the bear will be satisfied with its flesh. You must wait standing by till he has eaten his fill, and watch for the moment when he is about to turn away again, then spring on his back, and he will take you to the castle where the phœnix-bird is kept; but if you lose that particular moment, he will return to his cave, and you will never have a chance of reaching the phœnix-bird!”
+
+“Rely on me; your directions shall be punctually obeyed,” said Eligio, and he stooped to kiss her hand. But she would not allow this, and told him he had not an instant to spare.
+
+Eligio mounted his horse, and rode away over the stony path outside the city, and pursued it all night, till at daybreak he reached the thick forest, when a bear came out upon him; Eligio sprang deftly from his horse, and plunging his hunting-knife into his throat, flung the carcase across the path. The bear fell upon the dead horse, and Eligio watched for the moment when he should have finished his repast; but, as he was long about it, he thought to himself, “Why not jump upon him at once? and then I shall be ready to start with him when he has done, without so much anxiety about catching the right instant.” So said, so done; but the bear was not at all the docile animal he had expected.
+
+“Don’t disturb me when I’m feeding!” he growled, and shook our hero off into a bed of nettles.
+
+Eligio owned to himself he would have done better to follow the directions of those wiser than he, and waited, with as much patience as the stinging of the nettles would allow him, till the brute was ready to start, and then made a bold leap on to his back, which made him turn round.
+
+“Well sprung, this time!” growled the bear; “and as you have managed that part of the business so well I have no objection to do what you require. But you must attend to what I have to tell you. Keep your seat steadily, for I have to go swiftly; but speak not a word, and when I bring you to the palace where the phœnix-bird is kept, look not to the right hand or the left, but walk straight before you, through terrace, and galleries, and corridors, till you come to a dismal, deserted-looking aviary, where the phœnix-bird evermore sits on his perch. Put this hood over him, and bring him away with you; but listen not to the songs of the other birds all around, and, above all, touch not the golden owl which sits in the shade above!”
+
+Eligio promised to attend to all the bear told him, and took a firm seat on his back. The bear bounded away with an awkward gait, but Eligio was an accomplished cavalier, and was nothing daunted. After many hours’ rough riding, they came to a vast palace, which he understood by the bear’s halting was the abode of the phœnix-bird; so he dismounted, and walked straight along the terraces, and galleries, and corridors, till he came to a sorry aviary where a thousand birds of gay plumage fluttered and chirped around. Faithful to his promise, Eligio stopped to look at none of them; but walked straight up to the perch of the phœnix-bird. When, however, he saw him, he began to reason in place of obeying. “What can be the use of taking a shabby old bird like that? he looks like a fowl plucked ready for cooking! surely, some of these gay-plumaged birds are better worth taking!” and then his eye caught the golden owl snugly ensconced in the shady bower above. “Ah! that’s a bird worth having, that is now! that’s worth coming a perilous journey for; something to be proud of when you’ve got it! That’s the bird for me!” and, springing upon a ledge of rock, he threw the hood the bear had given him over the head of the golden owl, and brought it down. He had scarcely touched the golden owl, however, when the whole assemblage of other birds, which had taken no notice of him before, suddenly began screeching forth their highest notes. Their cries brought a crowd of servants, who surrounded him and held him fast, while the lord of the palace came down, and severely asked an account of his conduct.
+
+Eligio told his story with a frankness which, in some measure, conciliated the old lord; but the offence was too great to be passed over. “The phœnix-bird,” he said, “might have been taken by him who had courage to take it after the prescribed manner; but the other birds it was sacrilege to meddle with, and the golden owl he had been expressly forbidden, of all others, to touch; and though he granted him his life, he condemned him to perpetual durance.” The servants dragged him off to a deep dungeon, where he had nothing to do but to bewail his folly.
+
+Night fell around, and nothing could be more hopeless than his position. His cell was hewn out of the earth; the iron door through which he had been thrust had been made fast with bolts and chains, and the only window which admitted the free air was strongly fitted with iron bars.
+
+Eligio was generous enough, in his utter desolation, to grieve more over his unfulfilled mission and wasted opportunities, than over his personal hardships. “Oh, my beautiful Dove-Maiden!” he exclaimed, “shall I, then, never see you again? Must you be left for aye to the power of the horrid pagan enchanter, because I, by my insensate folly, have failed in restoring you to the brightness of the Christian faith?” and when he thought of her fate, he wept again.
+
+“St Anthony! St. Anthony!” he cried, a little after, “you befriended me once; give me one chance again! This once but send me forth again with the mission of liberating her , and then let me come back and pass my life in penance; but let not her suffer through my fault!”
+
+By a mechanical instinct he had placed himself near the window, as the type of freedom to him, and now he thought he heard a low grunt on the other side of it, close to his ear. The sound was not melodious, but yet he fancied there was something friendly in its tone. He raised himself up, and saw two white boar’s tusks between the bars. His solitude was so utter that even the visit of a wild boar was a solace of companionship; but much greater was his pleasure when he found that his uncouth visitor was grubbing up the earth round the iron bars and the stones which held them, and had already loosened one.
+
+“How now, good boar!” cried Eligio; “are you really come to release me?”
+
+“Yes,” said the boar, as he paused for a moment to take breath; “St. Anthony has heard you, and has sent me to give the fresh chance you ask for; and if you this time but keep your promise, and do as you are bid, he will not exact the performance of the lifelong penance you offer to perform; but after you have released the Dove-Maiden, you shall live with her the rest of your life in holy union and companionship.”
+
+In a transport of delight Eligio set to work to co-operate with the boar in unearthing the massive stanchions; and when they had loosened three he was able to force himself through the narrow opening.
+
+“Now return to the aviary,” said the boar; “look neither to right nor left, but bring away the phœnix-bird; and speak not a word, but mount on my back, and I will carry you back to the city. But make all haste, or the three days will have expired, and then all will be lost!”
+
+This time Eligio followed his instructions implicitly, and got back to the town just in time to present the magician with the phœnix-bird before the expiring of his three days’ grace. The magician was surprised indeed to find he had been successful, but could not recall his word, so he was forced to pronounce him free; and Eligio immediately repaired to the Dove-Maiden to thank her for her succour, and to ask what was next to be done to set her free too, that they might go away together to Christian lands, and live for each other in holy union.
+
+“As for me,” replied the maiden, blushing, “I shall be free by virtue of your freedom when you have performed one trial well, and without altering according to your own ideas the directions prescribed for you. And now the first thing is, to obtain the release of my dear nurse from the horrid form in which the magician has disguised her. To keep her in that shape, she is forced to eat a live mouse every week; and as nothing else is given her that she can eat, and as she is very ravenous by the time the week comes round, she is forced to eat the mouse. But if the mouse be killed by a sword consecrated to Christian chivalry, and it is dead before she eats it, the spell will be broken, and she will resume her natural form.”
+
+Eligio said this was an easy matter. She had only to tell him on what day the feeding took place, and where.
+
+“It has its difficulties, too,” replied the Dove-Maiden; “for if any blood of the mouse be spilt, the magician will know that I have instructed you, and he will play us some bad turn. To prevent this, you must cut the mouse in two by drawing your sword towards you; then all the blood will be caught on the sword, and you must make the rat lick it off afterwards.” Then she showed him where the mouse was brought, and told him to be on the watch at sunset that very night.
+
+Sunset accordingly found Eligio in close watch, his sword ready in his hand. But he thought, “As for how to use a sword, my pretty Dove-Maiden knows nothing about that. Who ever heard of drawing a sword towards one? Why, if any one saw me they would laugh, and say, ‘Take care of your legs!’ I know how to cut a mouse in two so quickly that no blood shall be spilt; and that’s all that matters.” So, you see, he would do it his own way; and the consequence was that three drops of blood were spilt on the ground However, the white rat got a dead mouse to eat instead of a live one, and immediately appeared in her proper woman’s form.
+
+When Eligio went to visit the Dove-Maiden after this, she spoke no word of reproach, but she told him she knew some trouble would befall them in consequence of those three drops of blood. She could not tell what it would be: they must do their best to provide against it when the time came. The next thing he had to do was, to go by midnight to the magician’s stables under the rock, and take out thence the swiftest horse in the whole world, and he was to know it by the token that it was the thinnest horse he ever saw; its eyeballs and its ribs were all that could be seen of it; and its tail was only one hair! This he was to saddle and bring under her window; and then all three would ride away on it together.
+
+Eligio went down into the magician’s stable under the rock by midnight, and there he saw the lean horse, with his protruding ribs and eyeballs, and whose tail was only one hair. But he said to himself, “My pretty Dove-Maiden hasn’t much experience in horseflesh; that can’t be the swiftest horse in the world. Why, it would sink to the ground with our weight alone, let alone trying to move under us! That high-couraged chestnut there, with the powerful shoulders— that is the horse to hold out against fatigue, and put miles of distance behind you! I think I know a good horse to go when I see one!” So he saddled the high-couraged chestnut, and led it under the Dove-Maiden’s window.
+
+When she saw the stout chestnut instead of the lean horse, she could not suppress a cry of disappointment.
+
+“What have you done?” she said. “You have left the swiftest horse in the world behind; and now the magician can overtake us, nor can we escape him!”
+
+Eligio hung his head, and stammered out a proposal to go and change the horse. But she told him it was too late; the stable-door was only open at midnight. He could not now get in till the next night; and if they left their escape till then, the magician would find out the disenchantment of the white rat, and from that suspect their scheme; and would then surround them with such a maze of difficulties, that it would take her years to learn how to solve them; whereas she had promised St. Anthony to have nothing more to do with the books of magic, but to burn them all, and go and live with a Christian husband, far from all these things. There was nothing to be done, therefore, but to start at once with their best speed, only keeping on the watch for the pursuer, who would inevitably come.
+
+Away went the high-couraged chestnut, with the speed of the wind, and as if his threefold burden had been light as air. But how swiftly soever he went, the lean horse was swifter; and before the end of the second day’s journey they saw, at no distance, his fire-darting eyeballs and smoking ribs, and his tail of one hair stretched out far behind.
+
+When the Dove-Maiden saw the magician coming after them on this weird mount, she called to her companions to jump down; and she turned the horse into a wayside chapel of St. Anthony, and herself into a peasant girl weaving chaplets on the grass outside.
+
+“Have you seen a chestnut steed pass this way, with a young man and maiden, pretty child?” said the magician, bending low over his horse’s neck to pat the peasant girl’s cheek, but without recognizing her. The Dove-Maiden started aside from his touch; but she answered,—
+
+“Yes, good sir; they are gone into the chapel; and if you will go in, there you will find them.”
+
+“Oh! I’ve got into the land of the Christians, have I?” said the magician to himself. “I think I had better make the best of my way home, and not trust myself there.” So he mounted his fiery steed, and rode away.
+
+Then the Dove-Maiden restored herself and her companions to their former shapes, and they soon reached home, where Eligio was received with joyful acclamations by all. But to his intense surprise and disappointment, his mother did not welcome his beautiful Dove-Maiden with any thing like satisfaction.
+
+“That is because of the three drops of the mouse’s blood incautiously spilt,” she whispered, when he deplored it to her; “but I have a spell against that also. Let me into your mother’s room when she is asleep, to-night, and I will anoint her eyes with an ointment with shall make her look on me for ever after with a loving glance. It was done as she said, and next morning Eligio’s mother received her lovingly to her arms as a daughter.
+
+After this, the Dove-Maiden burnt her magic books, and her nuptials with Eligio were celebrated with great rejoicings throughout the valley. They lived together for the rest of their days, in holy union, and the poor Christians of the whole countryside blessed their charity.

@@ -1,0 +1,27 @@
+# The Soldier Of Kang-Wha
+
+- **Tradition:** Korea (Asia)
+- **Source book:** *Korean Folk Tales
+Imps, Ghosts and Faries*
+- **Author / collector / translator:** Yi, Yuk (author, d. 1498); Im, Pang (author, d. 1724); Gale, James Scarth (translator, d. 1937)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #51002 — https://www.gutenberg.org/ebooks/51002 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+[The East says that the air is full of invisible constituents that, once taken in hand and controlled, will take on various forms of life. The man of Kang-wha had acquired the art of calling together the elements necessary for the butterfly. This, too, comes from Taoism, and is called son-sul , Taoist magic]
+
+### The Story
+
+There was a soldier once of Kang-wha who was the chief man of his village; a low-class man, he was, apparently, without any gifts. One day his wife, overcome by a fit of jealousy, sat sewing in her inner room. It was midwinter, and he was obliged to be at home; so, with intent to cheer her up and take her mind off the blues, he said to her, “Would you like to see me make some butterflies?”
+
+His wife, more angry than ever at this, rated him for his impudence, and paid no further attention.
+
+The soldier then took her workbasket and from it selected bits of silk of various colours, tucked them into his palm, closed his hand upon them, and repeated a prayer, after which he threw the handful into the air. Immediately beautiful butterflies filled the room, dazzling the eyes and shining in all the colours of the silk itself.
+
+The wife, mystified by the wonder of it, forgot her anger. The soldier a little later opened his hand, held it up, and they all flew into it. He closed it tight and then again opened his hand, and they were pieces of silk only. His wife alone saw this; it was unknown to others. No such strange magic was ever heard of before.
+
+In 1637, when Kang-wha fell before the Manchus, all the people of the place fled crying for their lives, while the soldier remained undisturbed at his home, eating his meals with his wife and family just as usual. He laughed at the neighbours hurrying by. Said he, “The barbarians will not touch this town; why do you run so?” Thus it turned out that, while the whole island was devastated, the soldier’s village escaped.
+
+Im Bang.

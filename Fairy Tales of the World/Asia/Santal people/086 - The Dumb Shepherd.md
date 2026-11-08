@@ -1,0 +1,22 @@
+# The Dumb Shepherd
+
+- **Tradition:** Santal people (Asia)
+- **Source book:** *Folklore of the Santal Parganas*
+- **Author / collector / translator:** Bompas, Cecil Henry (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #11938 — https://www.gutenberg.org/ebooks/11938 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+There was once a very rich and powerful Raja and in his heart he thought that there was no one so powerful in the world as himself; thus he thought but he told no one of his thought. One day he made up his mind to see whether others could guess what he was thinking, so he called together his officers and servants and dependants and bade them tell him what thought was in his heart. Many of them made guesses, but not one gave an answer which satisfied the Raja.
+
+Then the Raja told his dewan that he must without fail find some one who would, guess his thought, and he gave the dewan exactly one month’s time in which to search. The dewan searched high and low but all in vain, and as the time drew near he grew more and more anxious, for he feared that he would fall into disgrace. But he had a daughter and she consoled him and told him to cheer up, as she would find a man on the day fixed to read the Raja’s thoughts. The dewan had to take what comfort he could from this promise, and when the appointed day arrived, his daughter brought a dumb shepherd whom they employed and bade her father take him to the Raja. The dewan thought it very unlikely that the dumb shepherd would succeed where others had failed, but he saw no alternative to following his daughter’s advice.
+
+So the dewan presented himself before the Raja with the dumb shepherd and found a large company assembled to see what happened. The two stood before the Raja and the dumb man looked at the Raja. Then the Raja held up one finger, at this the dumb shepherd held up two fingers. Then the Raja held up three fingers, but at this the dumb man made signs of dissent and ran away as fast as he could. Then the Raja laughed and seemed very pleased and praised the dewan for having brought him such a clever man, and gave the dewan a rich reward.
+
+The dewan was still at a loss to know what had happened, and begged the Raja to explain what had passed between him and the shepherd. “When I held up one finger,” said the Raja “I asked him whether I alone was Raja, and he by holding up two reminded me that there was God, who was as powerful as I am. Then I asked him whether there was any third, and he vehemently denied that there was. Thus he has read my thoughts, for I have always been thinking that I alone am powerful, but he has reminded me that there is God as well, but no third.”
+
+Then they all went their ways, and that night the dewan questioned the dumb shepherd as to how he had been able to understand the Raja: and the dumb man explained “I have only three sheep of my own, and when I appeared before the Raja he held up one finger, meaning that he wanted me to give him one of my sheep, and as he is a great Raja I offered to give him two; but when he held up three ringers to show that he wanted to take all three from me, I thought that he was going too far and so I ran away.”
+
+By this lucky chance the dewan earned his reward from the Raja.

@@ -1,0 +1,15 @@
+# THE HUSSAR AND THE SERVANT GIRL. Kriza xix
+
+- **Tradition:** Hungary (Magyar people) (Europe)
+- **Source book:** *The Folk-Tales of the Magyars
+Collected by Kriza, Erdélyi, Pap, and Others*
+- **Author / collector / translator:** Kropf, Lajos (editor); Jones, W. Henry (editor); Kriza, János (contributor, d. 1875); Pap, Gyula (contributor, d. 1931); Erdélyi, János (contributor, d. 1868)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #42981 — https://www.gutenberg.org/ebooks/42981 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+Cf. Dasent , "The Dancing Gang," p. 507; and the "Drop of Honey," in Payne's Arabian Nights , vol. v. p. 275, where, we are told, "a certain man used to hunt the wild beasts in the desert, and one day he came upon a grotto in the mountains, where he found a hollow full of bees' honey. So he took somewhat thereof in a water-skin he had with him, and, throwing it over his shoulder, carried it to the city, followed by a hunting dog which was dear to him. He stopped at the shop of an oilman, and offered him the honey for sale, and he bought it. Then he emptied it out of the skin, that he might see it, and in the act a drop fell to the ground; whereupon the flies flocked to it, and a bird swooped down upon the flies. Now, the oilman had a cat, which pounced upon the bird, and the huntsman's dog, seeing the cat, sprang upon it and killed it; whereupon the oilman ran at the dog and killed it; and the huntsman in turn leapt upon the oilman and killed him. Now the oilman was of one village and the huntsman of another; and when the people of the two places heard what had passed, they took up arms and rose on one another in anger, and there befel a sore battle; nor did the sword cease to play amongst them till there died of them much people; none knoweth their number save God the Most High." See also, " The Book of Sindibad ," Folk-Lore Society, 1882, p. 133.
+
+* * *

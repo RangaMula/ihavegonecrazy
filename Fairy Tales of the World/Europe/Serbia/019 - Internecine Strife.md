@@ -1,0 +1,18 @@
+# Internecine Strife
+
+- **Tradition:** Serbia (Europe)
+- **Source book:** *Hero Tales and Legends of the Serbians*
+- **Author / collector / translator:** Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Internecine strife is an unfortunate feature to be noticed throughout Serbian history, and constantly we see energy wasted in futile dissensions among various members of ruling families, who criminally and fatally neglected national interests, in pursuit by legitimate or illegitimate means of their personal ambitions. This has at all times hindered the Serbian nation from becoming a powerful political unit, although efforts were made by many of the rulers to realize this policy.
+
+In 1169 a dynasty destined to rule Serbia for more than two centuries (1169–1372) within ever-changing political boundaries, was founded by the celebrated Grand Djoupan Stephan Nemanya (1169–1196) who was created Duke (grand djoupan) of Serbia by the Byzantine Emperor after he had instigated a revolution, the result of which was favourable to his pretensions. By his bravery and wisdom he succeeded not only in uniting under his rule the provinces held by his predecessors, but also in adding those which never had been Serbian before, and he placed Ban Koulin, an ally, upon the throne of Bosnia. Furthermore he strengthened the orthodox religion in his state by building numerous churches and monasteries, and by banishing the heretic Bogoumils. Feeling the weakness of advanced age, and wishing to give fresh proof of his religious faith to his people, the aged Nemanya abdicated in 1196, in favour of his able second son Stevan, and withdrew into a monastery. On his accession in the year 1217 Stevan assumed the title of King of Serbia.
+
+When the crusaders vanquished Constantinople, Sava, Stevan’s youngest brother, obtained from the Greek patriarch the autonomy of the Serbian Church (1219), and became the first Serbian archbishop.
+
+Stevan was succeeded by his son Radoslav (1223–1233), who was dethroned by his brother Vladislav (1233–1242), who was removed from the throne by his third brother Ourosh the Great (1242–1276). Ourosh increased his territory and established the reputation of Serbia abroad. In his turn, he was dethroned by his son Dragoutin (1276–1281), who, owing to the failure of a campaign against the Greeks, retired from the throne in favour of a younger brother Miloutin (1281–1321), reserving, however, for himself a province in the north of the State. Soon afterward Dragoutin received from his mother-in-law, the queen of Hungary, the lands between the Rivers Danube Sava and Drina, and assumed the title of King of Sirmia . Dragoutin, while still alive, yielded his throne and a part of his lands to Miloutin, and another part remained under the suzerainty of the King of Hungary. Miloutin is considered one of the most remarkable descendants of Nemanya. After his death the usual discord obtained concerning the succession to the throne. Order was re-established by Miloutin’s son, Stevan Detchanski (1321–1331), who defeated the Bulgarians in the famous battle of Velbouzd, and brought the whole of Bulgaria under his sway. Bulgaria remained a province of Serbia until the Ottoman hordes overpowered both.

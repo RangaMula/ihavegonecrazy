@@ -1,0 +1,49 @@
+# Fairy Mothers And Human Midwives
+
+- **Tradition:** Wales (Europe)
+- **Source book:** *Welsh Folk-Lore
+a Collection of the Folk-Tales and Legends of North Wales*
+- **Author / collector / translator:** Owen, Elias (author, d. 1899)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #20096 — https://www.gutenberg.org/ebooks/20096 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Fairies are represented in Wales as possessing all the passions, appetites, and wants of human beings.  There are many tales current of their soliciting help and favours in their need from men and women. Just as uncivilized nations acknowledge the superiority of Europeans in medicine, so did the Fairies resort in perplexing cases to man for aid.  There is a class of tales which has reached our days in which the Fairy lady, who is about to become a mother, obtains from amongst men a midwife, whom she rewards with rich presents for her services. Variants of this story are found in many parts of Wales, and in many continental countries.  I will relate a few of these legends.
+
+### Denbighshire Version of a Fairy Mother and Human Midwife
+
+The following story I received from the lips of David Roberts, whom I have previously mentioned, a native of Denbighshire, and he related the tale as one commonly known.  As might be expected, he locates the event in Denbighshire, but I have no recollection that he gave names. His narrative was as follows:—
+
+A well-known midwife, whose services were much sought after in consequence of her great skill, had one night retired to rest, when she was disturbed by a loud knocking at her door.  She immediately got up and went to the door, and there saw a beautiful carriage, which she was urgently requested to enter at once to be conveyed to a house where her help was required.  She did so, and after a long drive the carriage drew up before the entrance to a large mansion, which she had never seen before.  She successfully performed her work, and stayed on in the place until her services were no longer required.  Then she was conveyed home in the same manner as she had come, but with her went many valuable presents in grateful recognition of the services she had rendered.
+
+The midwife somehow or other found out that she had been attending a Fairy mother.  Some time after her return from Fairy land she went to a fair, and there she saw the lady whom she had put to bed nimbly going from stall to stall, and making many purchases.  For awhile she watched the movements of the lady, and then presuming on her limited acquaintance, addressed her, and asked how she was.  The lady seemed surprised and annoyed at the woman’s speech, and instead of answering her, said, “And do you see me?”  “Yes, I do,” said the midwife.  “With which eye?” enquired the Fairy. “With this,” said the woman, placing her hand on the eye. No sooner had she spoken than the Fairy lady touched that eye, and the midwife could no longer see the Fairy.
+
+Mrs. Lowri Wynn, Clocaenog, near Ruthin, who has reached her eightieth year, and is herself a midwife, gave me a version of the preceding which differed therefrom in one or two particulars.  The Fairy gentleman who had driven the woman to and from the Hall was the one that was seen in the fair, said Mrs. Wynn, and he it was that put out the eye or blinded it, she was not sure which, of the inquisitive midwife, and Lowri thought it was the left eye.
+
+### Merionethshire Version of the Fairy Mother and Human Midwife
+
+A more complete version of this legend is given in the Gordofigion , pp. 97, 98.  The writer says:—
+
+“Yr oedd bydwraig yn Llanuwchllyn wedi cael ei galw i Goed y Garth, sef Siambra Duon—cartref y Tylwyth Têg—at un o honynt ar enedigaeth baban.  Dywedasant wrthi am gymeryd gofal rhag, cyffwrdd y dwfr oedd ganddi yn trin y babi yn agos i’w llygaid; ond cyffyrddodd y wraig â’r llygad aswy yn ddigon difeddwl. Yn y Bala, ymhen ychydig, gwelai y fydwraig y gwr, sef tad y babàn, a dechreuodd ei holi pa sut yr oeddynt yn Siambra Duon? pa fodd yr oedd y wraig? a sut ’roedd y teulu bach i gyd?  Edrychai yntau arni yn graff, a gofynodd, ‘A pha lygad yr ydych yn fy ngweled i?’  ‘A hwn,’ ebe hithau, gan gyfeirio at ei llygad aswy.  Tynodd yntau y llygad hwnw o’i phen, ac yna nis gallai’r wraig ei ganfod.”
+
+This in English is:—
+
+There was a midwife who lived at Llanuwchllyn, who was called to Coed y Garth, that is, to Siambra Duon, the home of the Tylwyth Têg, to attend to one of them in child birth.  They told her to be careful not to touch her eyes with the water used in washing the baby, but quite unintentionally the woman touched her left eye.  Shortly afterwards the midwife saw the Fairy’s husband at Bala, and she began enquiring how they all were at Siambra Duon, how the wife was, and how the little family was?  He looked at her intently, and then asked, “With which eye do you see me?”  “With this,” she said, pointing to her left eye.  He plucked that eye out of her head, and so the woman could not see him.
+
+With regard to this tale, the woman’s eye is said to have been plucked out; in the first tale she was only deprived of her supernatural power of sight; in other versions the woman becomes blind with one eye.
+
+Professor Rhys in Y Cymmrodor , vol. iv., pp. 209, 210, gives a variant of the midwife story which differs in some particulars from that already related.  I will call this the Corwrion version.
+
+### The Corwrion Version
+
+One of the Fairies came to a midwife who lived at Corwrion and asked her to come with him and attend on his wife.  Off she went with him, and she was astonished to be taken into a splendid palace.  There she continued to go night and morning to dress the baby for some time, until one day the husband asked her to rub her eyes with a certain ointment he offered her.  She did so and found herself sitting on a tuft of rushes, and not in a palace.  There was no baby, and all had disappeared.  Some time afterwards she happened to go to the town, and whom should she see busily buying various wares but the Fairy on whose wife she had been attending.  She addressed him with the question, “How are you, to-day?”  Instead of answering her he asked, “How do you see me?”  “With my eyes,” was the prompt reply.  “Which eye?” he asked.  “This one,” said she, pointing to it; and instantly he disappeared, never more to be seen by her.
+
+There is yet one other variant of this story which I will give, and for the sake of reference I will call it the Nanhwynan version.  It appears in the Brython , vol. ix., p. 251, and Professor Rhys has rendered it into English in Y Cymmrodor , vol. ix., p. 70.  I will give the tale as related by the Professor.
+
+### The Nanhwynan Version
+
+“Once on a time, when a midwife from Nanhwynan had newly got to the Hafodydd Brithion to pursue her calling, a gentleman came to the door on a fine grey steed and bade her come with him at once.  Such was the authority with which he spoke, that the poor midwife durst not refuse to go, however much it was her duty to stay where she was.  So she mounted behind him, and off they went like the flight of a swallow, through Cwmllan, over the Bwlch, down Nant yr Aran, and over the Gadair to Cwm Hafod Ruffydd, before the poor woman had time to say ‘Oh.’  When they had got there she saw before her a magnificent mansion, splendidly lit up with such lamps as she had never before seen.  They entered the court, and a crowd of servants in expensive liveries came to meet them, and she was at once led through the great hall into a bed-chamber, the like of which she had never seen. There the mistress of the house, to whom she had been fetched, was awaiting her.  She got through her duties successfully, and stayed there until the lady had completely recovered; nor had she spent any part of her life so merrily.  There was there nought but festivity day and night: dancing, singing, and endless rejoicing reigned there.  But merry as it was, she found she must go, and the nobleman gave her a large purse, with the order not to open it until she had got into her own house; then he bade one of his servants escort her the same way she had come.  When she reached home she opened the purse, and, to her great joy, it was full of money, and she lived happily on those earnings to the end of her life.”
+
+Such are these tales.  Perhaps they are one and all fragments of the same story.  Each contains a few shreds that are wanting in the others.  All, however, agree in one leading idea, that Fairy mothers have, ere now, obtained the aid of human midwives, and this one fact is a connecting link between the people called Fairies and our own remote forefathers.

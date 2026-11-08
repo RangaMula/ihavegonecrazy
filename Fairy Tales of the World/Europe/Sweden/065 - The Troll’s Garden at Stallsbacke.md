@@ -1,0 +1,20 @@
+# The Troll’s Garden at Stallsbacke
+
+- **Tradition:** Sweden (Europe)
+- **Source book:** *Swedish Fairy Tales*
+- **Author / collector / translator:** Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+In the forest north of Stora Djulö, in the parish of Stora Malm, lies a hill called Stallsbacke—Stall Hill—because King Charles XI. is said to have had his stable there on one of his journeys.
+
+Within the forest near the hill there is an enchanted garden where many a man has gone astray, and has been compelled to wander the whole night [ ] through, because he did not know that turning his coat inside out, or throwing fire at the sun, would give him the key to his deliverance.
+
+Many have, during these wanderings, been imprisoned in the enchanted garden, but not all have liberated themselves from the enchantment as old Löfberg, the steward from Stora Djulö, succeeded in doing.
+
+Late one Thursday evening, while traveling the path from the pasture home to the mansion, he found himself suddenly in the presence of a high wall with grated gates, beyond which was visible the most beautiful garden ever seen by man. The moon was high in the heavens, and Löfberg could distinguish objects as clearly as in daylight. He saw that the trees hung full of fruit, and that the bushes were bowed with berries, which glistened like precious stones. When he had viewed the magnificent sight a few minutes, and was about to go on, an old man, who proclaimed himself the gardener, presented himself, and invited Löfberg to go in and gather of the fruit what he pleased. But Löfberg was too wise for this. He understood that what he saw was the work of the Trolls, and answered that at home there was a much more beautiful garden, and that he had no occasion to go into strange gardens to get a few rotten, sour apples.
+
+This he should not have said. Suddenly there came up a strong wind, which blew his hat over the wall, and, as Löfberg left it behind him and hastened home, there came a crash in the forest, whereupon the vision suddenly melted away. [ ]

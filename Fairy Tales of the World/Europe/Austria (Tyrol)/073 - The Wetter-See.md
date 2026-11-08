@@ -1,0 +1,18 @@
+# The Wetter-See
+
+- **Tradition:** Austria (Tyrol) (Europe)
+- **Source book:** *Tales and Legends of the Tyrol*
+- **Author / collector / translator:** Günther, Marie A., countess (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+Close beneath the mountain Gerlos, in the Zillerthal, lies the “Wetter-See” (weather-lake), into which no one dares to throw a stone, and it is not advisable for even a stranger to do so, or he would find himself involved in great trouble from the surrounding mountaineers, among whom still exists the firm belief, which has been corroborated by hundreds of examples, that directly a stone has been thrown into the lake fearful thunderstorms arise, accompanied by devastating hail and wind.
+
+The See lies in a desolate basin on the heights of the mountains, and every one who is shown the lake hears from his guide, or any cowherd, the following legend: A shepherd arrived one day on the borders of the See, where he saw a huge golden chain lying, the other end of which remained in the water. Just as he stooped to grasp it he saw, glittering on the other side of the lake, one of much larger size, so he left the first to go and take the other; but as he approached it and was about to put his hand upon it, both chains disappeared under the water, while the poor fellow stood stupefied with amazement on the shore.
+
+People say that “the herdsman was too avaricious; for, had he been content with the one chain which was within his grasp, he would never have lost them both.” As the chains are said to appear from time to time, people are still on the look-out for them, because they are of such enormous length that he who finds one of them would be rich during all his days.
+
+* * *

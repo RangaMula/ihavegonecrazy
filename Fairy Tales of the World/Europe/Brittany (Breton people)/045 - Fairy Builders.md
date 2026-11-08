@@ -1,0 +1,26 @@
+# Fairy Builders
+
+- **Tradition:** Brittany (Breton people) (Europe)
+- **Source book:** *Legends & Romances of Brittany*
+- **Author / collector / translator:** Spence, Lewis (author, d. 1955)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+For the most part, then, the megaliths, in the opinion of the Breton peasant, are not the handiwork of man. He would rather refer their origin to spirits, giants, or fiends. If he makes any exception to this supernatural attribution, it is in favour of the saints he reverences so profoundly. The fairies, he says, harnessed their oxen to the mighty stones, selected a site, and dragged them thither to form a dwelling, or perhaps a cradle for the infant fays they were so fond of exchanging for human children. Thus the Roches aux Fées near Saint-Didier, in Ille-et-Vilaine, were raised by fairy hands, the elves collecting “all the big stones in the country” and carrying them thither in their aprons. These architectural sprites then mounted on each other’s shoulders in order that they might reach high enough to place the mighty monoliths securely in position. This practice they also followed in building the dolmen near the wood of Rocher, on the road from Dinan to Dol, say the people of that country-side.
+
+But the actual purpose of the megaliths has not been neglected by tradition, for a venerable farmer at Rouvray stated that the fairies were wont to honour after their death those who had made good use of their lives and built the dolmens to contain their ashes. The presence of such a shrine in a country-side was a guarantee of abundance and prosperity therein, as a subtle and indefinable charm spread from the saintly remnants and communicated itself to everything in the neighbourhood. The fairy builders, says tradition, went about their work in no haphazard manner. Those among them who possessed a talent for design drew the plans of the proposed structure, the less gifted acting as carriers, labourers, and masons. Apron-carrying was not their only method of porterage, for some bore the stones on their heads, or one under each arm, as when they raised the Roche aux Fées in Retiers, or the dolmen in La Lande Marie. The space of a night was usually sufficient in which to raise a dolmen. But though ‘run up’ with more than Transatlantic dispatch, in view of the time these structures have endured for, any charge of jerry-building against their elfin architects must fall to the ground. Daylight, too, frequently surprised the fairy builders, so that they could not finish their task, as many a ‘roofless’ dolmen shows.
+
+There are many Celtic parallels to this belief. For example, it is said that the Picts, or perhaps the fairies, built the original church of Corstorphine, near Edinburgh, and stood in a row handing the stones on, one to another, from Ravelston Quarry, on the adjacent hill of Corstorphine. Such is the local folk-tale; and it has its congeners in Celtic and even in Hindu myth. Thus in the Highland tale of Kennedy and the claistig , or fairy, whom he captured, and whom he compelled to build him a house in one night, we read that she set her people to work speedily:
+
+And they brought flags and stones
+
+From the shores of Cliamig waterfall,
+
+Reaching them from hand to hand.
+
+Again, the Round Tower of Ardmore, in Ireland, was built with stones brought from Slieve Grian, a mountain some four or five miles distant, “without horse or wheel,” the blocks being passed from hand to hand from the quarry to the site of the building. The same tradition applied to the Round Tower of Abernethy, in Perthshire, only it is in this case demonstrated that the stone of which the tower is composed was actually taken from the traditional quarry, even the very spot being geologically identified. In like manner, too, was Rama’s bridge built by the monkey host in Hindu myth, as recounted in the Mahābhārata and the Rāmāyana .
+
+Tales, as apart from beliefs, are not often encountered in connexion with the monuments. Indeed, Sébillot, in the course of his researches, found only some dozen of these all told. They are very brief, and appear for the most part to deal with fairies who have been shut up by the power of magic in a dolmen. Tales of spirits enclosed in trees, and even in pillars, are not uncommon, and lately I have heard a peculiarly fearsome ghost story which comes from Belgium, in which it is related how certain spirits had become enclosed in a pillar in an ancient abbey, for the saintly occupants of which they made it particularly uncomfortable. Mr George Henderson, in one of the most masterly and suggestive studies of Celtic survivals ever published, states that stones in the Highlands of Scotland were formerly believed to have souls, and that those too large to be moved “were held to be in intimate connexion with spirits.” Pillared stones are not employed in building dwellings in the Highlands, ill luck, it is believed, being sure to follow their use in this manner, while to ‘meddle’ with stones which tradition connects with Druidism is to court fatality.

@@ -1,0 +1,54 @@
+# The Poor Rock
+
+- **Tradition:** Spain (Europe)
+- **Source book:** *Legends & Romances of Spain*
+- **Author / collector / translator:** Spence, Lewis (author, d. 1955)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+In due time they reached the sea-shore, and, giving his horse to the mariners, Amadis accompanied the hermit on board a vessel and sailed to the Poor Rock, as the holy man had named his place of hermitage. And here Amadis partook of the austerities of the hermit, “not for devotion but for despair, forgetting his great renown in arms and hoping and expecting death—all for the anger of a woman!”
+
+Durin, Oriana’s messenger, journeyed back to the British Court and told his mistress how Amadis had received her letter, and of the manner in which her knight had achieved the adventure of the Firm Island. Then Oriana knew that Amadis must have remained true to her. When she learned that he had gone into the desert to die, her shame and anguish knew no bounds, and she wrote a letter of deep contrition to her lover, and dispatched it to him by one of her women called ‘the Damsel of Denmark,’ a sister of Durin.
+
+After they had set out, the knight whom Amadis had vanquished on the evening of the day on which he learned of Oriana’s cruelty arrived at the British Court, bringing with him the armour of Amadis, which he had found, some time after his encounter with him, at the edge of a deep fountain. And when she heard his story Oriana believed her lover to be dead, and in great grief shut herself in her apartments, refusing all comfort.
+
+Meanwhile, calling to mind the great misery he had endured, Amadis made this song in his passion:
+
+Farewell to victory,
+
+To warlike glory and to knightly play.
+
+Ah, wherefore should I live to weep and sigh?
+
+Far greater honour would it be to die!
+
+With kindly death my wretchedness shall cease,
+
+And from my torments shall I find release.
+
+Love will be unremembered in the shade,
+
+The deep unkindness of a cruel maid,
+
+Who in her pride hath slain not me alone,
+
+But all the deeds for glory I have done!
+
+At this time the lady Corisanda, who loved Florestan, chanced to visit the Poor Rock, and her damsels heard the story of Amadis, who told them that his name was Beltenebros, but that the song had been made by one Amadis, whom he had known. On her return to the British Court, Corisanda’s maidens sang the song to Oriana as the composition of Amadis. And she knew that Amadis and Beltenebros were one and the same.
+
+Now the Damsel of Denmark, who had been sent to search for Amadis, was driven by tempest to the foot of the Poor Rock. Landing with Durin and an attendant, Enil, she found Amadis praying in the chapel, and when he beheld the Damsel’s face he fainted away.
+
+This extreme sensitiveness to love is characteristic of the late Middle Ages, however absurd and overdrawn it may appear to us. That Amadis fainted at the mere sight of one who had served his lady seems to us ridiculous, and that he should imprison himself upon a barren rock for the remainder of his life because she had been unkind to him is to the modern reader more than a little grotesque.
+
+Shall I, wasting in despair,
+
+Die because a woman’s fair?
+
+But we must deal gently with the ideas of the past, as with one of those faded samplers of our great-grandmothers, which, if we handle it carelessly, is apt to fall to pieces. When we think of the manner in which Dante and Petrarch had established the worship of woman, and how the Courts of Love had completed the work they had begun, can we wonder that men bred in this creed, and regarding the worship of womankind as second to that of God alone, were apt to become disconsolate and despairing if the object of their devotion condemned or deserted them? Again, exalted and sensitive minds in all ages have been peculiarly amenable to feminine criticism, as we can see in perusing the biographies of such men as Goethe. Genius, too, which itself nearly always abundantly partakes of the nature of the feminine, is prone to adopt this ultra-reverent attitude, as the sonnets of Shakespeare and the poems of Lovelace and many another singer show. The rough, manly common sense of the average male is too often denied it, and, man and woman in itself, it must suffer the emotions of both sexes.
+
+But, if maintained within rational bounds, this reverence for women in general and for the best type of woman in particular must be regarded as one of the great binding forces of humanity, a thing which has accomplished perhaps more than aught else for the world’s refinement and advance. And here, even in a work of romance, which perhaps, after all, is the fitting place for such an exhortation, I would appeal to the younger generation of to-day to look backward with eyes of kindness upon the tender beauty and infinite charm of a creed which, if it is not entirely dead, is in a manner moribund. I do not ask our youths and maidens to imitate its fantastic features or its extravagances. But I do entreat them to regard its fine spirit, its considerate chivalry, and, above all, the modest reserve and lofty intention which were its chief characteristics. It is a good sign of the times that the sexes are growing to know each other better. But we must be wary of the familiarity that breeds contempt. Let us retain a little more of the serious beauty of the old intercourse between man and woman, and learn to beware of a flippancy of attitude and laxity of demeanour which in later years we shall certainly look back upon with a good deal of vexation and self-reproach.
+
+When he had regained consciousness, the Damsel of Denmark gave Amadis Oriana’s letter, beseeching him to return to her and receive her atonement for the wrong she had done him. He took leave of the good hermit, and, embarking upon the ship in which the Damsel had arrived, set sail for the Firm Island, where he rested, as he was yet too weak to make the long journey to England. But at the end of ten days he took Enil for his squire and, accompanied by Durin and the Damsel, set out for the English Court.

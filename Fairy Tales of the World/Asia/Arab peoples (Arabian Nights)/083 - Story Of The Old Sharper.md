@@ -1,0 +1,16 @@
+# Story Of The Old Sharper
+
+- **Tradition:** Arab peoples (Arabian Nights) (Asia)
+- **Source book:** *Tales from the Arabic — Complete*
+- **Author / collector / translator:** Payne, John (translator, d. 1916)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #5245 — https://www.gutenberg.org/ebooks/5245 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+'There was once an old man renowned for roguery, and he went, he and his mates, to one of the markets and stole thence a parcel of stuffs. Then they separated and returned each to his quarter. Awhile after this, the old man assembled a company of his fellows and one of them pulled out a costly piece of stuff and said, "Will any one of you sell this piece of stuff in its own market whence it was stolen, that we may confess his [pre-eminence in] sharping?" Quoth the old man, "I will;" and they said, "Go, and God the Most High prosper thee!"
+
+So on the morrow, early, he took the stuff and carrying it to the market whence it had been stolen, sat down at the shop whence it had been stolen and gave it to the broker, who took it and cried it for sale. Its owner knew it and bidding for it, [bought it] and sent after the chief of the police, who seized the sharper and seeing him an old man of venerable appearance, handsomely clad, said to him, "Whence hadst thou this piece of stuff?" "I had it from this market," answered he, "and from yonder shop where I was sitting." Quoth the prefect, "Did its owner sell it to thee?" "Nay," replied the thief; "I stole it and other than it." Then said the magistrate, "How camest thou to bring it [for sale] to the place whence thou stolest it?" And he answered, "I will not tell my story save to the Sultan, for that I have an advertisement[FN#154] wherewith I would fain bespeak him." Quoth the prefect, "Name it." And the thief said, "Art thou the Sultan?" "No," replied the other; and the old man said, "I will not tell it but to himself."
+
+So the prefect carried him up to the Sultan and he said, "I have an advertisement for thee, O my lord." "What is thine advertisement?" asked the Sultan; and the thief said, "I repent and will deliver into thy hand all who are evildoers; and whomsoever I bring not, I will stand in his stead." Quoth the Sultan, "Give him a dress of honour and accept his profession of repentance." So he went down from the presence and returning to his comrades, related to them that which had passed and they confessed his subtlety and gave him that which they had promised him. Then he took the rest of the stolen goods and went up with them to the Sultan. When the latter saw him, he was magnified in his eyes and he commanded that nought should be taken from him. Then, when he went down, [the Sultan's] attention was diverted from him, little by little, till the case was forgotten, and so he saved the booty [for himself].' The folk marvelled at this and the fifteenth officer came forward and said, 'Know that among those who make a trade of knavery are those whom God the Most High taketh on their own evidence against themselves.' 'How so?' asked they; and he said.

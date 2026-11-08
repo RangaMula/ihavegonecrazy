@@ -1,0 +1,14 @@
+# Its Only Manuscript
+
+- **Tradition:** Spain (Europe)
+- **Source book:** *Legends & Romances of Spain*
+- **Author / collector / translator:** Spence, Lewis (author, d. 1955)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+But one manuscript of the Poema del Cid is known, the handiwork of a certain Per or Pedro the Abbot. About the third quarter of the eighteenth century, Sanchez, the royal librarian, was led to suspect through certain bibliographical references that such a manuscript might exist in the neighbourhood of Bivar, the birthplace of the hero of the poem, and he succeeded in unearthing it in that village. The date at the end is given as Mille CCXLV, and authorities are not agreed as to its significance, some holding that a vacant space showing an erasure after the second C is intentional, and that it should read 1245 (1207 new style). Others believe that 1307 is the true date of the MS. However that may be, the poem itself is referred to a period not earlier than the middle of the twelfth nor later than the middle of the thirteenth century.
+
+As we possess it, the manuscript is in a rather mutilated and damaged condition. The commencement and title are lost, a page in the middle is missing, and the end has been sadly patched by an unskilful hand. Sanchez states, in his Poesías Castellanas anteriores al Siglo XV (1779–90) that he had seen a copy made in 1596 which showed that the MS. had the same deficiencies then as now.

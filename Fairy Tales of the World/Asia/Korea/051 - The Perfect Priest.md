@@ -1,0 +1,19 @@
+# The Perfect Priest
+
+- **Tradition:** Korea (Asia)
+- **Source book:** *Korean Folk Tales
+Imps, Ghosts and Faries*
+- **Author / collector / translator:** Yi, Yuk (author, d. 1498); Im, Pang (author, d. 1724); Gale, James Scarth (translator, d. 1937)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #51002 — https://www.gutenberg.org/ebooks/51002 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+There was once a priest called Namnu who had perfected his ways in the Buddhistic doctrine. Whenever he had clothing of his own he would willingly undress and give it to those who were cold. His spirit was gentle with no creases or corners in it. Everybody, high and low, rich and poor, called him by the nickname of Softy. Whenever he saw any one sentenced to a flogging in the temple or official yamen , Namnu invariably begged that he might take the culprit’s place. Once, when there was a great function in progress at Pagoda Temple and many high officials were assembled, Softy, too, was seen kneeling at the side and taking part. He suddenly remarked to Prince Hong of Yon-san, “You are indeed a very great man.”
+
+Hong replied, “What do you mean by ‘great man,’ you impudent brat? Take that,” and he gave him a box with his fist on the ear. Softy laughed, and said, “Please, Hong, don’t do that, it hurts! it hurts!”
+
+Later I was in the train of Prince Yi of Yun-song, and other high officials were present, when we stopped for a little before the Temple. Softy was there, and he looked at Yi and said, “I know your face, but I have forgotten your name.” Afterwards he said, “Oh, I remember now, you are Yi Sok-hyong.” The priests of the monastery who heard this familiarity were scandalized, and hurried to make no end of apology to the Prince, saying, “Softy was born so, God made him so. Please, Your Excellency, forgive him.” The Prince forgave him and so he was not disturbed.
+
+Yi Ryuk.

@@ -1,0 +1,26 @@
+# The Lovers' Vows: A Tale Of Furness Abbey
+
+- **Tradition:** England (Europe)
+- **Source book:** *Tales and Legends of the English Lakes*
+- **Author / collector / translator:** Armistead, Wilson (author, d. 1868)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #42359 — https://www.gutenberg.org/ebooks/42359 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+I  CAN just remember the circumstance; it happened when I was a boy and went to Urswick school. Matilda—I will not mention her other name, because her friends are still living—Matilda was one of the loveliest females I ever knew. Her father had a small estate at ——, near Stainton; and she being his only child, he fondly imagined that her beauty and her fortune would procure her a respectable match. But alas! how often do your parents err in their calculations on the happiness which, they fondly imagine, will arise from the conduct of their children!
+
+Matilda had accompanied James, a neighbouring farmer's son, to school, when infancy gave room to no other thoughts but those of play. James had ever distinguished the lovely Matilda for his playmate; for her he had collected the deepest tinged May gowlings that grew in the meadows below the village; he spared no pains to procure the finest specimens of hawthorn blossoms, to place in her bonnet; and would artlessly compliment her on her appearance under the flowery wreath. He was always ready to assist her in conning her lessons at school, and oftener wrought her questions than she did herself.
+
+At an early age James was removed from school, and bound to an Ulverstone trader. Matilda and James met or heard of each other no more, till he had completed his eighteenth year, and the hard and active service in which he was employed had given his fine manly form an appearance at once imposing and captivating. Matilda, too, was improved in every eye, but particularly in James'. Never had James seen so lovely a maid as his former playmate. That friendship which had been so closely cemented in infancy, required very little assistance from the blind god to ripen it into love. Their youthful hearts were disengaged; they had neither of them ever felt an interest for any person, equal to what they had felt for each other; and they soon resolved to render their attachment as binding and as permanent, as it was pure and undivided.
+
+The period had arrived when James must again trust himself to the faithless deep, when he must leave his Matilda to have her fidelity tried by other suitors; and she must trust her James to the temptation of foreign beauties. Both, therefore, were willing to bind themselves by some solemn pledge to live but for each other.
+
+For this purpose, they repaired, on the evening before James' departure, to the ruins of Furness Abbey. It was a fine autumnal evening; the sun had set in the greatest beauty; and the moon was hastening up the eastern sky, through a track slightly interspersed with thin fleecy clouds, which added to its beauty, rather than impaired it. They knelt in the roofless quire, near where the altar formerly stood; and, fondly locked in each other's arms, they repeated, in the presence of heaven, their vows of deathless love. James was dressed in his best seaman's dress—a blue jacket, with a multitude of silver-plated buttons, and white trowsers; while Matilda leaned on his neck in a dress of the purest white muslin, carelessly wrapped in a shawl of light blue.
+
+I have been thus particular, said the narrator in describing their dresses, because this is the picture I would paint:—I would sketch an east view of the abbey, looking in at the large east window, where two lovers were kneeling, folded in each other's arms—the moonbeams just striking upon the most prominent parts of their figures—the deep shadows occasioned by the broken columns and scattered fragments, should recede into the distance—the dark gray ruins, and the deep green and brown of the oaks, slightly but brilliantly gilded by the moon, should peep out of the lengthened gloom with sparkling effect. But on the figures I would bestow the greatest attention. What manly vigour I would give to his attitude! What sweetness, what loveliness to hers!
+
+But what became of the betrothed lovers? Their fate was a melancholy one. James returned to his ship, and never returned from his voyage. He was killed by the first broadside of a French privateer, which the captain foolishly ventured to engage with. For Matilda, she regularly went to the Abbey to visit the spot where she last saw him; and there she would stand for hours, with her hands clasped on her breast, gazing on that heaven which alone had been witness to their mutual vows. Indeed, I think this would make a picture almost equal to the other. How fine a contrast would the light and fairy form of Matilda make with the broken fragments of the ruined Abbey; it would give a life and effect to the picture which you have no conception of. I am confident if you once drew a picture of this kind, you would never again sketch a scene without a story to it.
+
+* * *

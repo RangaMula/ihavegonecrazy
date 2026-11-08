@@ -1,0 +1,23 @@
+# The Friday Story
+
+- **Tradition:** Deccan (Marathi people) (Asia)
+- **Source book:** *Deccan Nursery Tales
+or, Fairy Tales from the South*
+- **Author / collector / translator:** Kincaid, C. A. (Charles Augustus) (author, d. 1954)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #11167 — https://www.gutenberg.org/ebooks/11167 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Once upon a time there was a town called Atpat. In it there lived a miserably poor Brahman. He had a wife who was as poor as he was. One day she felt her poverty so much that she went to a gossip of hers who lived close by and told her all about her troubles. The neighbour could suggest nothing better than that the poor woman should worship the goddess Shukra or Venus. So she told the Brahman woman to fast every Friday through the month of Shravan. Every Friday evening she should invite a married lady friend to her house. She should bathe her friend’s feet. She should give her sweetened milk to drink and fill her lap with wheat cakes and bits of cocoa-nut. She should continue to worship Shukra in this way every Friday for a whole year, and in the end the goddess would certainly do something for her. The Brahman woman thought the advice good, and every Friday she worshipped Shukra and had a married friend to dine with her just as her neighbour had advised her.
+
+“And fill her lap with wheat cakes and bits of cocoa-nut”
+
+Now the Brahman woman had a rich brother living in the same town, who one day invited one thousand Brahmans to dine. At the same time he invited all the townspeople with the single exception of his sister. The poor lady thought that she must have been left out by accident, and that there would be no harm in going, even although uninvited. She put on her silk dining-clothes, and, taking her children with her, went off to the dinner. She seated herself close to her children, and was eating away when her brother came round serving ghee. When he saw his sister he shouted at her, “You have neither nice clothes nor nice jewelry. You have made me a laughing-stock by coming as you have come. I shall not turn you out, but do not come to-morrow.”
+
+Next day she did not want to go, but her children, who had enjoyed the previous day’s feast, persuaded their mother to take them again to her brother’s house. Once more she went and sat down with her children among the rows of feasters. Her brother saw her as before when he came round serving the ghee. He shouted at her, “A beggar woman must, I suppose, act like a village sow, and will not go away although told to. But do not come to-morrow. If you do, I’ll have you turned out.” Next day, however, she again went with her children to her brother’s house. But near the entrance his servants caught her and turned her out before she could eat anything. She went home sad and hungry and prayed to Shukra. Now the goddess had been pleased with her devotion and so took pity on her. She helped the poor woman’s husband so that he rapidly acquired great wealth. When her husband had become very rich she asked her brother to dinner. But the brother remembered how he had treated her and was ashamed to accept. He pressed her to dine with him first, and begged so hard that she at last consented. Next day she put on all her jewels and her finest clothes. Her brother gave her a wooden platform to sit on and plates made out of leaves from which to eat her dinner. Before she sat down she took off her gold-embroidered shawl and put it close to her plate. Her brother saw her, but thought she did it because she felt the room hot. She then placed her jewelry on the wooden platform. Her brother thought that she did it because she felt the jewelry heavy. She took a portion of rice and placed it on her necklace. She put a portion of vegetables on her pendant, and a sweet ball she placed on her jewelled star.
+
+Her brother at last asked her, “What are you doing?” She said, “I am giving to the guests whom you really invited.” But he did not understand, and asked, “Why do you not begin to eat?” She said, “I have not been invited to this dinner. It was given in honour of my finery and not of me. I had my dinner the day when you gave the feast to the one thousand Brahmans.”
+
+The brother felt thoroughly ashamed of himself. He threw himself at his sister’s feet and begged for her forgiveness. So she forgave him and sat down to dinner. And the brother in turn went to her house and dined with her. And Shukra was pleased with both sister and brother, and they all lived happily ever afterwards. May I and my readers do the same.

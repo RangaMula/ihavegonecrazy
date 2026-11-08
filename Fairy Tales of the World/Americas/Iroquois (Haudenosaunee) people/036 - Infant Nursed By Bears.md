@@ -1,0 +1,16 @@
+# Infant Nursed By Bears
+
+- **Tradition:** Iroquois (Haudenosaunee) people (Americas)
+- **Source book:** *Myths of the Iroquois. (1883 N 02 / 1880-1881 (pages 47-116))*
+- **Author / collector / translator:** Smith, Erminnie A. (Erminnie Adele) (author, d. 1886)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #46140 — https://www.gutenberg.org/ebooks/46140 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+A man and his wife and child went off hunting from an Indian village and encamped a long way from home. At first, good luck attended the hunter, who brought into camp plenty of deer and other game. At last, game became scarce, and day after day the hunter returned empty-handed and famishing with hunger. Before leaving, the hunter resolved to try his luck once more. Soon after he had left the camp his wife, in searching for roots, found a hole in a large tree in which was a black bear. This she succeeded in killing, and after cutting it up and cooking some for herself and child she carefully secreted the remainder from her husband. But the boy hid a piece for his father, who soon returned, very weary. Then the hunter was enraged at the conduct of his wife, whom he forced to eat of the meat until she died, with her little infant to which she had given birth the same hour.
+
+Then the hunter buried his wife and threw the infant into the hollow tree. After this the hunter had better luck, and continued to live in the same place with his little boy. In the course of time he found that his little son must have had company, for little foot-prints were to be seen around his wigwam. So he left a second small bow and arrow, which, in time, he found had been used, and his son told him that a small boy had been playing with him. The next day the father watched and saw a little boy leave the tree where he had placed what he supposed to be the dead child. Then he entered his home and said to the child, "You are my child"; but the boy could not understand him, and was frightened and uneasy, and ran away to the tree, where the hunter discovered he had been nourished and cared for by a friendly bear. The hunter would not kill the kind benefactor, but took some of the soft bed of dried bark, to which the child had been accustomed, to his home, whereupon the child was happy and contented to remain with his father and brother.
+
+In time the two excelled in hunting and brought home owls and strange birds. Finally, they told their father they were going to the far west to kill the great beasts which were harming the human race. The hunter, who perceived that the children were becoming very strange, was afraid of them and consented. Then they bade him go back to his native home and get three of the bravest warriors to follow them to the west, where the warriors would find the carcasses of the animals [pg 85] which they would kill. So he went home and told his story, and the warriors started out and finally found traces of the boys, and in time found the carcasses of the animals almost reduced to bones. Two of the men died of the stench.

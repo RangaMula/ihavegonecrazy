@@ -1,0 +1,20 @@
+# The Spirit-Guarded Cave
+
+- **Tradition:** Laos (Asia)
+- **Source book:** *Laos Folk-Lore of Farther India*
+- **Author / collector / translator:** Fleeson, Katherine Neville (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #35564 — https://www.gutenberg.org/ebooks/35564 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+When the people of the far north were molested by their foes and were in continual fear, they consulted together, saying, “Our lives are spent in trying to escape from our enemies and no joy can be ours. Let us flee to the south country where, if the people make slaves of us, we can, at least, know that our lives will be spared, and life, even in slavery, is better than this constant fear of our enemies destroying both ourselves and our dwelling-places and taking our cattle for their own.” Therefore, they gathered together all their household goods, secreted their money and jewels about their persons, and, loading their cattle with rice, they commenced their toilsome journey through the narrow jungle paths and across the high mountains on their way to the south, where they hoped for peace and safety. The way was long and difficult, and the rice was all eaten and the cattle killed and consumed before they had nearly reached their journey’s end. Then the fugitives commenced to use their money to buy food that they might have strength 21 for the journey, and they whispered one to another that the people looked with covetous eyes on their hoard of money and jewels, and they feared they would be slain because of the greed of the people.
+
+One man, wiser than the others, said, “Why do we endanger our lives for our possessions? Can we not find some secret place in which to leave our money and jewels, and when brighter days come to us we can return and find them even as we left them?”
+
+All the people cried, “Your words are wise. Let us do accordingly,” and as these people were loved of the spirits, they were led to a deep cave in the midst of a wood where man seldom came, and there they left their possessions in the care of the spirits who promised to guard them until in the days, when life being brighter and more secure, the owners would come and claim them.
+
+The people journeyed on to the south country, and there lived as slaves. Many generations of them lived and died, but they could not escape nor come to claim the vast wealth and jewels which they had left in care of the spirits of the cave.
+
+The story became known, and the inhabitants of all the surrounding countries went to the 22 cave and sought to secure the treasure. But such was the care of the spirits that no man with safety could enter the cave. A light was instantly extinguished, if let down into the deep pit leading into the chamber where the treasure was, for the spirits blew their breath upon it and it was no more. All devices were tried to obtain the treasure, and from all parts of the country the people came to try to overcome the charm which the spirits had placed upon the cave, but no one was able to break it. One man went even into the treasure chamber and filled his hands with the precious stones, but he was overcome by a deadly sickness and was forced to replace the jewels in the treasure chest and flee for his life so as to escape the wrath of the guarding spirits. Even the white, foreign strangers, who have come into the land and placed their strong hands on the elephants and the trees of the forest and claimed them for their use, were baffled and driven back by the faithful spirits when they endeavored to enter the treasure chamber, and for all time this treasure shall remain there, for, if the white foreigner, by his wisdom, or by his craft, fails to obtain it, verily it will remain untouched forever.

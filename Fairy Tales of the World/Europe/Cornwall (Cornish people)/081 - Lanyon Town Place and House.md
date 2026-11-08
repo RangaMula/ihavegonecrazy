@@ -1,0 +1,14 @@
+# Lanyon Town Place and House
+
+- **Tradition:** Cornwall (Cornish people) (Europe)
+- **Source book:** *Stories and folk-lore of West Cornwall. Third Series*
+- **Author / collector / translator:** Bottrell, William (author, d. 1881)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #75799 — https://www.gutenberg.org/ebooks/75799 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+As we proceed on the Morvah road toward Lanyon, the rugged top of Carn Galva is seen rising over the northern hills. The first sight of this huge carn, piled up against the sky, suggests the thought that the good old giant who lived there in ancient times could not have selected a better place for his stronghold. We now approach the town-place of Lanyon, Lanion, or rather Lanine, for every one here calls the place by the latter name, as well as the family, who probably took their name from this, their ancient home. If you enquire of any person hereabouts for Lanyon, they will wonder where you came from, and it is not at all easy for a stranger to get any information out of our good folk by abrupt questioning, which they detest. The best way is to tell them frankly what you want. Then, they will do their utmost to gratify your wishes. So now we are here, we shall always speak of the place as Lanine, and tell a yarn to get two in return.
+
+Many fanciful meanings have been given for the name of Lanyon or Lenine; yet there appears to be little doubt that the name is a contraction of Lanython, which is composed of Lan , an enclosure, and Ython , or Eithin , furze (the adjective comes after the noun in Cornish); or the name may be simply the plural form of Lan. This word Lan (often contracted into la) enters into the construction of many names of ancient places, as Landithy, Lamoran, Lamorna, &c. In Wales and Brittany, names are equally common, which are formed of Llan or lan, followed by some qualifying word; and as some of the oldest settlements or enclosures were the first places in which Churches were erected, the word Lan came to be regarded as designating the Church. In Lamorna and other similar words the n is dropped, from a natural disposition to avoid the exertion which the pronunciation of certain combinations of consonants entails on the speaker. The strongly-built dwelling-house of Lenine shows that Madron masons of the last century were good craftsmen. Note the sturdy strength of the broad chimney-stacks, which seem determined to put a hard face on all the fierce blasts they encounter in this unsheltered place. The sturdy expression of this simple building harmonises well with the bleak character of surrounding scenery.

@@ -1,0 +1,14 @@
+# Possible Moorish Influence on Spanish Romance
+
+- **Tradition:** Spain (Europe)
+- **Source book:** *Legends & Romances of Spain*
+- **Author / collector / translator:** Spence, Lewis (author, d. 1955)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+There is indeed evidence—pressed down and flowing over—that the age-long death-grapple with the Saracen powerfully affected Spanish romantic fiction. But was this influence a direct one, arising out of the contiguity and constant perusal of the body of Moorish fiction, or did it proceed from the atmosphere of wonder which the Saracen left behind him in Spain, the illusions of which were mightily assisted by the marvels of his architecture and his art? One can scarcely find a Spanish romance that is not rich in reference to the Moor, who is usually alluded to as a caballero and a worthy foe. But is it the real Moor whom we encounter in these tall folios, which beside our modern volumes seem as stately galleons might in the company of ocean-going tramps, or is it the Saracen of romance, an Oriental of fiction, like the Turk of Byronic literature? The question of the influence of Moorish literature upon Spanish romance has been shrouded by the most unfortunate popular misconceptions. Let us briefly examine the spirit of Arabic literary invention, and see in how far it was capable of influencing Castilian art and imagination.
+
+The history of the development of the Arabic language from the dialect of a wandering desert people to a tongue the poetic possibilities and colloquial uses of which are perhaps unrivalled is in itself sufficient to furnish a whole volume of romantic episode. The form in which it was introduced into Spain in the early eighth century can scarcely fail to arouse the admiration of the lover of literary perfection. As a literary medium its development was rapid and effective. It is, indeed, as if the tones of a harsh trumpet had by degrees become merged into those of a silver clarion whose notes ring out ever more clearly, until at length they arrive at a keenness so intense as to become almost intolerably piercing. This eloquent language, the true speech of the literary aristocrat, has through the difficulty of its acquirement and the bewildering nature of its written characters remained almost unknown to the great mass of Europeans—unknown, too, because the process of translation is inadequate to the proper conveyance of its finer shades and subtler intimations. Even to the greater number of the Arabs of Spain the highly polished verse in which their literature was so rich was unknown. How much more, then, was it a force removed from the Castilian or the Catalan?

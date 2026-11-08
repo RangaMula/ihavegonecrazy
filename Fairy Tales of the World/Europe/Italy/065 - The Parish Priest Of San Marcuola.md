@@ -1,0 +1,16 @@
+# The Parish Priest Of San Marcuola
+
+- **Tradition:** Italy (Europe)
+- **Source book:** *Italian Popular Tales*
+- **Author / collector / translator:** Crane, Thomas Frederick (author, d. 1927)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #23634 — https://www.gutenberg.org/ebooks/23634 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Once upon a time there was a parish priest at San Marcuola, here in Venice, who was a very good man. He couldn't bear to see women in church with hats or bonnets on their heads, and he had spirit enough to go and make them take them off. "For," said he, "the church is the house of God; and what is not permitted to men ought not to be permitted to women." But when a woman had a shawl over her shoulders he would have her throw it over her head, that she might not be stared at and ogled. But this priest had one fault: he did not believe in ghosts; and one day he was preaching a sermon, and in this sermon he said to the people: "Listen, now, dearly beloved brethren. This morning, when I came into the church here, there comes up to me one of my flock, and she says to me, all in a flutter: 'Oh, Father, what a fright I have had this night! I was asleep in my bed, and the ghosts came and twitched away my coverlet!' But I answered her: 'Dear daughter, that is not possible; because where the dead are, there they stay .'" And so he declared before all the congregation that it was not true that the dead could come back and be seen and heard. In the evening the priest went to bed as usual, and about midnight he heard the house-bell ring loudly. The servant went out on to the balcony and saw a great company of people in the street, and she called out: "Who's there?" and they asked her if the Priest of San Marcuola was at home. And she said Yes; but he was in bed. Then they said he must come down. But the priest, when he heard about it, refused to go. They then began to ring the bell again and tell the servant to call her master; and the priest said he wouldn't go anywhere. Then all the doors burst open, and the whole company marched up-stairs into the priest's bedroom, and bade him get up and dress himself and come with them; and he was obliged to do what they said. When they reached a certain spot they set him in the midst of them, and they gave him so many knocks and cuffs that he didn't know which side to turn himself; and then they said: "This is for a remembrance of the poor defunct;" and upon that they all vanished away and were seen no more, and the poor priest went back home, bruised from head to foot. And so the ghosts proved plain enough that it isn't true to say: " Where the dead are, there they stay ."
+
+* * *
+
+The story of Don Juan appears in the seventh legend, entitled:

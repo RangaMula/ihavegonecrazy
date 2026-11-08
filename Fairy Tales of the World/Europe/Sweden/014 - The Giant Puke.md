@@ -1,0 +1,32 @@
+# The Giant Puke
+
+- **Tradition:** Sweden (Europe)
+- **Source book:** *Swedish Fairy Tales*
+- **Author / collector / translator:** Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+In the parish of Lofta in the department of North Tjust there lies, near the sea, a mountain called Puke Mountain. From the land side running into the mountain, there is a long fissure terminating in a cave or hall, where formerly lived a giant called Puke, concerning whom many stories are still quite prevalent among the people.
+
+When the church at Lofta was built the giant was sorely tormented by the church bells. He suffered great discomfort even from the water courses which gurgled out of the mountain, and in a meadow directly north of Lofta Church, was formed a pond, Kofre Spring, in which holy baptism was sometimes performed.
+
+Puke often declared that he must depart from his mountain because of Kofre Spring and Lofta scolding, meaning the church bells in Lofta.
+
+One Sunday the Giant was more than usually disturbed by the long continued bell ringing, and sent his daughter to the top of the mountain, from which, with her apron strings converted into a sling, she threw an [ ] enormous stone at the church tower. But the force was too great, and the stone fell upon the other side of the church, where it lies to this day, as large as a good sized cottage.
+
+Some days later the giant maiden, while wandering over the surrounding country, was attracted by three children at play on a hill near by. They had discovered a fallen branch of an oak tree, and to this they had fastened a rope, pretending it was a plow, which one was holding as the others dragged it over the ground. Surprised at this curious implement and the small creatures, she gathered them all into her apron and ran home with them to her giant father. He, however, found no pleasure in the intended playthings but said only:
+
+“Take them out again, our time is past; it is now these who shall rule over us.”
+
+In the end Puke became dissatisfied with everything and moved to Götland, where he was some time later found by a ship’s master, to whom he gave a box, and bade him offer it upon the altar at Lofta while the people were in church, cautioning him strongly not to open it before.
+
+“If you do as I bid you,” said the Giant, “you will find, under the left fore-foot of Lofta’s white mare—meaning the church—a key, with which you are to proceed to Puke Mountain. There you will see a door, which you shall open. When you are inside you will meet two black dogs. Do not be afraid of them, but press forward into the room, where you will find a table and upon it many beautiful silver vessels. Of [ ] them you may take the largest, but if you take anything more, misfortune will surely overtake you.”
+
+The captain kept this all in mind, but when he approached Puke Mountain, on his journey homeward, the conversation of the ship’s people was turned to the box. After many deliberations, it was determined to throw it overboard onto a small island which lay near by. This was done, and upon the instant the island was in flames, and even to-day it is brown and desolate as if it had recently been swept by a fire. [ ]
+
+* * *
+
+This legend is a complex of different giant stories localized at Puke Berg—Puke Mountain. Nearly every parish has its legend, in which the resident giant has been angered with the noise of the church bells, and has sought to destroy his disturber. The legend of the giantess who took the children from their plowing and bore them to her giant parent is not confined to the Giant Puke. Similar legends are current in Kläppe, in Oldesborg parish, in Dalland, etc.  ↑

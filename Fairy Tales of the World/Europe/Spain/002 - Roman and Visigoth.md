@@ -1,0 +1,14 @@
+# Roman and Visigoth
+
+- **Tradition:** Spain (Europe)
+- **Source book:** *Legends & Romances of Spain*
+- **Author / collector / translator:** Spence, Lewis (author, d. 1955)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+When in the early part of the fifth century the Visigoths, following in the wake of the Vandal folk, entered Romanized Spain, they did not build upon the ruins of its civilization, but retained the habits of their northern homeland and for some generations seem to have been little impressed with Roman culture. Nor did the Latin speech of the people they had conquered at first find favour among them, although, dwelling as they had done on the very flanks of the Empire, they were certainly not ignorant of it. They found the people of the Peninsula as little inclined to relinquish the cultivated language in which their compatriots Martial, Lucan, and Seneca had contributed to the triumphs of Roman letters. A military autocracy is not usually successful in imposing its language upon a subject people unless it possesses the dual advantages of an ascendancy in arms and literary capacity, and the Visigoths, unable to compete in this latter respect with the highly civilized colonists of Hispania, fell, with the passing of the generations, into the easy acceptance of the Roman tongue. Their illiteracy, however, was not the sole reason for their partial defeat in the give-and-take of linguistic strife, for, though powerful in military combination, they were greatly outmatched in numbers. As invaders they had brought few women with them, and had perforce to intermarry with native wives, who taught their children the Roman tongue. The necessary intercourse between conqueror and conquered in time produced a sort of pidgin-Latin, which stood in much the same relation to the classic speech of Rome as the trade languages of the Pacific did to English.
+
+The use of Latin as a literary tongue in that part of Spain where the Castilian speech was evolved considerably retarded its development from the condition of a patois to a language proper. Nevertheless it continued to advance. The processes by which it did so are surprisingly obscure, but the circumstance of its literary fixity in the early eleventh century is proof that it must have achieved colloquial perfection at least before the era of the Moorish invasion. The Saracen conquest, by forcing it into the bleak north-west, did it small disservice, for there it had to contend with other dialects of the Roman tongue, which enriched its vocabulary, and over which, ultimately, it gained almost complete ascendancy as a literary language.

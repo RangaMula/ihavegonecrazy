@@ -1,0 +1,25 @@
+# The Nine-Pin Game Of Margaretha Maultasch
+
+- **Tradition:** Austria (Tyrol) (Europe)
+- **Source book:** *Tales and Legends of the Tyrol*
+- **Author / collector / translator:** Günther, Marie A., countess (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+In the ruins of the castle of Maultasch are also said to lie a set of golden nine-pins which appear above the ground and blossom every hundred years. This set of nine-pins belonged to Margaretha Maultasch, whose gamekeeper “Georg” stole and buried it when his mistress ceded the Tyrol to Austria, at Botzen, in 1363. Two days after he had buried it he was struck by an apoplectic fit and died, and nobody knew anything of the treasure. Since that time he is compelled in expiation of his crime to wander about in the castle in the form of a hideous ghost and guard the hidden treasure, and at midnight he sets up the nine-pins while sighing, and throws the golden ball against the large castle gate, which then flies open with a fearful noise. Then appear all the old counts of the Tyrol and Görz, some of them with crowns on their heads, followed by Margaretha Maultasch bearing an enormously massive necklace of pure gold, and the richest diamonds. They then begin to play, and the unhappy spirit of Georg is obliged to set up the nine-pins, but the ball always bounds against his feet so painfully that his cries very often are heard over Botzen and as far as Sigmundskron.
+
+Only he who succeeds in digging up the treasure will be the means of redeeming Georg; but as it is most difficult to find the proper way and right moment, it has almost become an impossibility.
+
+It is not long since that, in the favourable hour, an egg-woman went up the way which leads to the castle. The poor soul of Georg took the egg basket off her head, and put it down close to the tower on the very spot where the nine-pins lay buried. All at once there was nothing in the basket but ten black coals instead of eggs. “Throw your rosary quickly upon them,” said the ghost; but unfortunately the woman had no rosary with her, and so the happy hour passed by again without being taken advantage of. The ten coals which were to be changed into the nine-pins and ball, became again ordinary eggs, and only in another hundred years will this fortunate hour return again.
+
+The ghost climbed up the highest tower rock, crying and sighing his ordinary lamentations:—
+
+“He who will redeem me
+From the power of the Evil One,
+Must in the castle’s grounds
+Find nine-pins and ball
+Which I stole from the Princess,
+Which I hid from the Princess.”

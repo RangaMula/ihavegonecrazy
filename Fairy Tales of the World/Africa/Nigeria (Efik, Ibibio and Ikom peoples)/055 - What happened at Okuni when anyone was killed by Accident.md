@@ -1,0 +1,18 @@
+# What happened at Okuni when anyone was killed by Accident
+
+- **Tradition:** Nigeria (Efik, Ibibio and Ikom peoples) (Africa)
+- **Source book:** *Ikom folk stories from Southern Nigeria*
+- **Author / collector / translator:** Dayrell, Elphinstone (author, d. 1917)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #70959 — https://www.gutenberg.org/ebooks/70959 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Many years ago there were two small boys living at Okuni, named Ori Namfup and Ori, they were great friends and always used to play together. One day in the rainy season when the native pear trees were covered with fruit, Ori said to his friend let us climb up to the top of two of these pear trees, and when we are high up we can play at stoning one another. They very soon climbed up to the highest branches of the trees, collecting the fruit as they went, and started throwing them at one another, when suddenly Ori lost his hold and fell to the ground, breaking his neck. Ori Namfup was very frightened, and ran into the town and told the people that Ori had fallen from a tree, and was dead. His friends then came and carried the body of Ori to the head chief. When the father of Ori heard that his son was dead, he went to the chief and demanded that Ori Namfup’s father should give him two slaves to replace the son he had lost. But the chief refused, and said that as Ori had been killed accidentally it was not right that two slaves should be given as compensation. But Ori’s father being obstinate and very headstrong, insisted upon his claim so fiercely that the chief gave in and ordered the slaves to be paid. Ori Namfup’s father then bought two slaves and handed them over to Ori’s father, in order to settle the matter and so that there should be no bad feeling between them.
+
+The chiefs then made a law that, for the future, whenever a man killed another by accident, he should pay two slaves to the father of the dead man, but he should not be killed as he would have been if he had killed the man on purpose.
+
+Told by Ennenni of Okuni.—[E.D., 19.6.10.]
+
+* * *

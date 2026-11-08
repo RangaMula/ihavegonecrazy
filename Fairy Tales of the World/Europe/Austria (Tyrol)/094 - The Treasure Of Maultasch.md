@@ -1,0 +1,18 @@
+# The Treasure Of Maultasch
+
+- **Tradition:** Austria (Tyrol) (Europe)
+- **Source book:** *Tales and Legends of the Tyrol*
+- **Author / collector / translator:** Günther, Marie A., countess (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+Above the route which leads from Meran to Botzen, not far from Terlan, are to be seen the ruins of the old castle of Maultasch, which was once the favourite residence of a Princess of the same name, and from her appears to have inherited this name, while another legend says the Princess derived her name from the castle.
+
+There have been two different parts of this building, the principal one of which used to stand below in the valley to guard the route, and on that spot is still to be seen a hole in the rock, which leads into an underground passage, through which Margaretha Maultasch, the last proprietress of the castle, used to ascend to the upper part of it on the heights above, called Neuhaus.
+
+In this passage is said to lie a hidden treasure, guarded by a fearful keeper, who is said to be the devil himself. Many people have tried to get at this treasure, but no one has ever succeeded; and the inhabitants of the surrounding country recount that, some years ago, two young peasants of Meran had resolved upon going to take the envied treasure. On their way there, they said to one another, “To-day the devil will never escape us.” So they entered the passage, and began to repeat the incantations they had learnt by heart for the purpose, while throwing around them consecrated powders; but all at once a huge black dog rushed upon them, and they fled away, terrified to death, believing that the devil himself was at their heels; and, since that time, no one has ever again tried to discover the treasure of Maultasch.
+
+* * *

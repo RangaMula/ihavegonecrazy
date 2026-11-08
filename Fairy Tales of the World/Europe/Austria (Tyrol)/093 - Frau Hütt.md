@@ -1,0 +1,20 @@
+# Frau Hütt
+
+- **Tradition:** Austria (Tyrol) (Europe)
+- **Source book:** *Tales and Legends of the Tyrol*
+- **Author / collector / translator:** Günther, Marie A., countess (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+In the times of the giants, whom all Tyrolians believe to have resided in the Tyrol during the life of Noah, there lived high on the mountain, on whose foot the capital of the Tyrol has since been built, a giant Queen, whose name was Frau Hütt. Her empire was composed of magnificent forests and Alpine meadows, as beautiful, and even still more beautiful than the far-famed Rose Garden of King Laurin, and her palace was so rich and magnificent that from every part of the surrounding valleys it looked like a tower of diamonds.
+
+Frau Hütt had a son, whom she loved beyond all measure, and one day it happened that the giant boy went to pull up a pine-tree, for the purpose of making himself a walking-stick; but as the pine was standing on the borders of a deep mossy swamp, the ground gave way under his feet, and he fell, together with the tree, into the quagmire. His enormous strength fortunately helped him out of this unlooked-for bath, but he arrived home as black as a nigger, and his clothes infected the whole palace of his mother, who comforted her dear son, and ordered the servants to undress him, and clean his mud-covered body with crumbs of bread and cake. But the servants had scarcely commenced to execute this sinful command when a heavy thunderstorm came on and enveloped all in a dreadful darkness, while violent earthquakes shook the whole mountain.
+
+The palace of Frau Hütt was shattered into one vast ruin, and then enormous mountains of rock and thundering avalanches began to fall, and in the space of a few hours all the paradisiacal Alp-land, which formed the empire of Frau Hütt was destroyed, the forests were swept away, the beautiful fields and uplands were covered with rocks and stones, and round about nothing was to be seen but a large desert, upon which not even one little piece of grass has ever grown since.
+
+Frau Hütt was changed into a rock, and there she stands up to the present day, holding her petrified son in her arms, and thus she must remain until the end of the world.
+
+* * *

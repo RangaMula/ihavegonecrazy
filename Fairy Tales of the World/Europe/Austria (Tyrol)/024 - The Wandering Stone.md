@@ -1,0 +1,18 @@
+# The Wandering Stone
+
+- **Tradition:** Austria (Tyrol) (Europe)
+- **Source book:** *Tales and Legends of the Tyrol*
+- **Author / collector / translator:** Günther, Marie A., countess (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+In the Zillerthal, about half an hour’s walk from the little village of Fügen, in a small valley on the right-hand side of the entrance to the vast forest of Benkerwald, lies a piece of rock some two cubic feet in measure, bearing on its top side a rude cross chiselled in the stone. The rock is noted all over the country, for each time it is removed from its resting-place by some supernatural agency, it returns again to the same spot. Why it wanders in this strange manner nobody knows, but why it stands there is known to every little village child in the surrounding country.
+
+At the end of the last century two peasant women of Fügen were engaged by the day in cutting corn at the adjacent farm of Wieseck, on the Pancraz mountain. The farmer, anxious to get in his corn while the fine weather lasted, promised to increase their wages if they hastened on with their work. At this promise both the girls redoubled their efforts, but at the end of the week instead of paying them alike, the farmer in augmentation of their wages gave to one of them two loaves of bread, while to the other he gave but one. On their way home close to Fügen, and on the spot where now lies the stone, the two women began to quarrel about the bread, and at last the dispute grew so hot that they fell to fight with their sickles, and, like tigresses, the sight of blood seemed only to increase their ferocity; and what seems to be incredible, but which is nevertheless perfectly true, they fought until they both fell down and bled to death on the spot. Here they were buried, and over them was placed the stone which still remains there, but none of the villagers will pass that way after nightfall.
+
+There are numberless people who have convinced themselves of the wonderful property of the ‘Wandelstein,’ and many are the warnings given by the country folk to travellers who seek to pass there after the sun has set.
+
+* * *

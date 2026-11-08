@@ -1,0 +1,25 @@
+# The Snake And The Porcupine
+
+- **Tradition:** Wabanaki (Algonquian) peoples (Americas)
+- **Source book:** *In Indian Tents
+Stories Told by Penobscot, Passamaquoddy and Micmac Indians to Abby L. Alger*
+- **Author / collector / translator:** Alger, Abby Langdon (author, d. 1917)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #51908 — https://www.gutenberg.org/ebooks/51908 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+There were once two men who lived a long way apart: one was poor and had nothing but his hunting-grounds; the other was rich, but he wanted the poor man’s land. The poor man’s poohegan, or attendant spirit, was a snake; the rich man’s poohegan was a porcupine.
+
+The Porcupine went to visit the Snake; but at first the Snake refused to let him in, saying: “I will stick my arrow into you.”
+
+The Porcupine said: “Then I will stab you with my sword.”
+
+The Snake said: “My arrow has only one barb; but it is a good one.” And he ran out his tongue to show the barb.
+
+The Porcupine said: “My tail is full of swords; but I will guard them very carefully if you will let me come in, for my home is far away.”
+
+The Snake said: “I am here with my children, and am very poor. It is not for the rich to come to the poor for help; but rather for the poor man to visit the rich. If one of my children were to go to your house, you would kill him. Then why do you come here?”
+
+However, the Porcupine promised so fairly that the Snake at last let him in. All went well at first; but in the morning the Porcupine began to quarrel, killed the whole Snake family, and took possession of their land.

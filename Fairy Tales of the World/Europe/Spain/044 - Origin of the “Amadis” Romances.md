@@ -1,0 +1,14 @@
+# Origin of the “Amadis” Romances
+
+- **Tradition:** Spain (Europe)
+- **Source book:** *Legends & Romances of Spain*
+- **Author / collector / translator:** Spence, Lewis (author, d. 1955)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+The first Peninsular version of Amadis appeared in a Portuguese dress, and was the work of a Lusitanian knight, Joham de Lobeira (1261–1325), who was born at Porto, fought at Aljubarrota, where he was knighted upon the field by King Joham of happy memory, and died at Elvas. But Southey’s protestations notwithstanding, everything points to France as being the original home of the romance, and there is even a reference in Portuguese literature to the circumstance that a certain Pedro de Lobeira translated Amadis from the French by order of the Infante Dom Pedro, son of Joham I. The original French tale has vanished without leaving a trace that it ever existed, save in the Peninsular versions to which it gave birth, and we are no more fortunate as regards the Portuguese rendering. A manuscript copy of Lobeira’s romance was known to exist at the close of the sixteenth century in the archives of the Dukes of Arveiro at Lisbon, and appears to have been extant as late as 1750. After that period, however, it disappears from the sight of the bibliophile, and all the evidence points to its having been destroyed at the earthquake at Lisbon in 1755, along with the ducal palace in which it was housed.
+
+Its fame, as well as its matter, was, however, kept alive by the Spanish version, and if we must regard Portugal as the original home of Amadis in the Peninsula, it is to the genius of Castile that we owe not only its preservation, but its possible improvement. At some time between 1492 and 1508 Garcia Ordoñez de Montalvo, governor of the city of Medina del Campo, addressed himself to the task of its translation and adaptation. At what precise date it was first printed is obscure. Early copies are lacking, but we learn that the Spanish conquerors of Mexico remarked upon the resemblance of that city to the places of enchantment spoken of in Amadis . This occurred in 1519, not 1549, as stated by Southey. They may, perhaps, have referred to the Portuguese version, but in any case an edition of Amadis is known to have been published in that year, and another at Seville in 1547. Reference has already been made to the numerous translations of the romance in all languages, and to the equally manifold continuations of it by several hands, but it is necessary to remark that only the first four books of Amadis —that is, those which constitute the Amadis proper—were written by Montalvo, the remainder being the independent and original work of imitators.

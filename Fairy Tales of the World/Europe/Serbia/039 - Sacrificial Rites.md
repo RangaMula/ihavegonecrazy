@@ -1,0 +1,14 @@
+# Sacrificial Rites
+
+- **Tradition:** Serbia (Europe)
+- **Source book:** *Hero Tales and Legends of the Serbians*
+- **Author / collector / translator:** Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+From translations of the Greek legends of the saints, the exact terminology of the sacrificial ceremonies and the places where they had been made is well known. Procopius mentions oxen as the animals generally offered for sacrifice, but we find that calves, goats, and sheep, in addition to oxen, were used by the Polapic Slavs and Lithuanians, and that, according to Byzantine authorities, the Russians used even birds as well. In Montenegro, on the occasion of raising a new building, a ram or a cock is usually slaughtered in order that a corner-stone may be besprinkled with its blood, and, at the ceremony of inaugurating a new fountain, a goat is killed. Tradition tells of how Prince Ivan Tzrnoyevitch once shot in front of a cavern an uncommonly big wild goat that, being quite wet, shook water from its coat so that instantly a river began to flow thence. This stream is called even now the River of Tzrnoyevitch. The story reminds one of the goats’ horns and bodies of goats which are seen on the altar dedicated to the Illyrian god, Bind, near a fountain in the province of Yapod.
+
+It is a fact that Russians and Polapic Slavs used to offer human sacrifices. Mention of such sacrifices among the Southern Slavs is found only in the cycle of myths relating to certain buildings, which, it was superstitiously believed, could be completed only if a living human being were buried or immured. Such legends exist among the Serbians and Montenegrins concerning the building of the fortress Skadar (Scutari) and the bridge near Vishegrad; with the Bulgarians in reference to building the fort Lidga-Hyssar, near Plovdiv, and the Kadi-Köpri (Turkish for ‘the bridge of the judge’) on the river Struma; and again among modern Greeks in their history of the bridge on the river Arta, and the Roumanians of the church ‘Curtea de Ardyesh.’ It seems very likely that certain enigmatic bas-reliefs, representing oval human faces with just the eyes, nose and mouth, which are found concealed under the cemented surface of the walls of old buildings have some connexion with the sacrificial practice referred to. There are three such heads in the fortress of Prince Dyouragy Brankovitch at Smederevo (Semendria), not far from Belgrade, on the inner side of the middle donjon fronting the Danube, and two others in the monastery Rila on the exterior wall close to the Doupitchka Kapiya.

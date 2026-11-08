@@ -1,0 +1,32 @@
+# Wainamoinen'S Search For Aino
+
+- **Tradition:** Finland (Europe)
+- **Source book:** *Finnish Legends for English Children*
+- **Author / collector / translator:** Eivind, R. (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #24948 — https://www.gutenberg.org/ebooks/24948 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+WHEN the news reached Wainamoinen he began to weep most bitterly, and the tears fell all that day and night; but the next day he hastened to the water's edge and prayed to the god of dreams to tell him where the water-gods dwelt. And the dream-god answered him lazily, and told him where the island was around which the sea-gods and the mermaids lived.
+
+Then Wainamoinen hastened to his boat-house, and chose a copper boat, and in it placed fishing lines and hooks and nets, and when all was ready he rowed off swiftly towards the forest-covered island which the dream-god had told him of. No sooner had he arrived there than he began to fish, using a line of silver and a hook of gold. But for many days he fished in vain, yet still he persevered. At last one day a wondrous fish was caught, and it played about and struggled a long time until at length it was exhausted, and the hero landed it in the boat.
+
+When Wainamoinen saw it he was astonished at its beauty, but after gazing at it for some time he drew out his knife and was about to cut it up ready for eating. But no sooner had he touched the fish with his knife than it leapt from the bottom of the boat and dived under the water. Then it rose again out of his reach and said to him: 'O ancient minstrel, I did not come hither to be eaten by thee, merely to give thee food for a day.'
+
+'Why didst thou come then?' asked Wainamoinen.
+
+'I came, O minstrel, to rest in thine arms and to be thy companion and wife for ever,' the fish replied; 'to keep thy home in order and to do whatever thou pleased. For I am not a fish; I am no salmon of the Northern Seas, but Youkahainen's youngest sister. I am the one thou wert fishing for—Aino, whom thou lovest. Once thou wert wise, but now art foolish, cruel. Thou didst not know enough to keep me, but wouldst eat me for thy dinner!'
+
+Then Wainamoinen begged her to return to him, but the fish replied: 'Nevermore will Aino's spirit come to thee to be so treated,' and as it spoke the fish dived out of sight.
+
+Still Wainamoinen did not give up, but took out his nets and began dragging the waters. And he dragged all the waters in the lands of Lapland and of Kalevala, and caught fish of every sort, only Aino, now the water-maiden, never came into his net. 'Fool that I am,' he said at length, 'surely I was once wise, had at least a bit of wisdom, but now all my power has left me. For I have had Aino in my boat, but did not know until too late that I had even caught her.' And with these words he gave up his search and set off to his home in Kalevala. And on his way he mourned that the joyous song of the sacred cuckoo had ceased, and he sang: 'I shall never learn the secret how to live and prosper. If only my ancient mother were still living, she could give me good advice that this sorrow might leave me.'
+
+Then his mother awoke from her tomb in the depths and spoke to him: 'Thy mother was but sleeping, and I'll now advise thee how this sorrow may pass over. Go at once to the Northland, where dwell wise and lovely maidens, far lovelier than Aino. Take one of them for thy wife; she will make thee happy and be an honour to thy home.'
+
+·····
+
+'I don't think he had much of a heart if he could be consoled so easily as all that,' said Mother Stina, a little indignantly.
+
+'Wait and you shall see,' said old Father Mikko with a smile; and he continued.

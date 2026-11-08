@@ -1,0 +1,20 @@
+# Funeral Customs
+
+- **Tradition:** Serbia (Europe)
+- **Source book:** *Hero Tales and Legends of the Serbians*
+- **Author / collector / translator:** Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+During the siege of Constantinople in the year 626, the Southern Slavs burnt the bodies of their dead. The Russians did the same during the battles near Silistria, 971, and subsequently commemorative services were held in all parts of Russia, and the remains of the dead were buried.
+
+The Slavs of north Russia used to keep the ashes of the dead in a small vessel, which they would place on a pillar by the side of a public road; that custom persisted with the Vyatitchs of southern Russia as late as 1100.
+
+These funeral customs have been retained longest by the Lithuanians; the last recorded instance of a pagan burial was when Keystut, brother of the Grand Duke Olgerd, was interred in the year 1382, that is to say, he was burnt together with his horses and arms, falcons and hounds.
+
+There are in existence upright stones, mostly heavy slabs of stone, many of them broken, or square blocks and even columns, which were called in the Middle Ages kami , or bileg , and now stetyak or mramor . Such stones are to be found in large numbers close together; for example, there are over 6000 in the province of Vlassenitza, and some 22,000 in the whole of Herzegovina; some can be seen also in Dalmatia, for instance, in Kanovli, and in Montenegro, at Nikshitch; in Serbia, however, they are found only in Podrigne. These stones are usually decorated with figures, which appear to be primitive imitations of the work of Roman sculptors: arcades on columns, plant designs, trees, swords and shields, figures of warriors carrying their bows, horsemen, deer, bears, wild-boars, and falcons; there are also oblong representations of male and female figures dancing together and playing games.
+
+The symbol of the Cross indicates the presence of Christianity. Inscriptions appear only after the eleventh century. But many tombstones plainly had their origin in the Middle Ages. Some tombs, situated far from villages, are described by man’s personal name in the chronicles relating to the demarcations of territories, for example, Bolestino Groblye (the cemetery of Bolestino) near Ipek; Druzetin Grob (the tomb of Druzet). In Konavla, near Ragusa, there was in the year 1420 a certain point where important cross-roads met, known as ‘Obugonov Grob.’ Even in our day there is a tombstone here without inscription, called ‘Obugagn Greb.’ It is the grave of the Governor Obuganitch, a descendant of the family of Lyoubibratitch, famous in the fourteenth century.

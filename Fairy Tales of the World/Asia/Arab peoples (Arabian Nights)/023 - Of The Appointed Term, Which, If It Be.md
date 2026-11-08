@@ -1,0 +1,23 @@
+# Of The Appointed Term, Which, If It Be
+
+- **Tradition:** Arab peoples (Arabian Nights) (Asia)
+- **Source book:** *Tales from the Arabic — Complete*
+- **Author / collector / translator:** Payne, John (translator, d. 1916)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #5245 — https://www.gutenberg.org/ebooks/5245 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+ADVANCED, MAY NOT BE DEFERRED AND IF IT BE
+DEFERRED, MAY NOT BE ADVANCED.
+
+When it was the tenth day, (now this day was called El Mihrjan[FN#129] and it was the day of the coming in of the folk, gentle and simple, to the king, so they might give him joy and salute him and go forth), the counsel of the viziers fell of accord that they should speak with a company of the notables of the city [and urge them to demand of the king that he should presently put the youth to death]. So they said to them, "When ye go in to-day to the king and salute him, do ye say to him, 'O king, (to God be the praise!) thou art praiseworthy of policy and governance, just to all thy subjects; but this youth, to whom thou hast been bountiful, yet hath he reverted to his base origin and wrought this foul deed, what is thy purpose in his continuance [on life]? Indeed, thou hast prisoned him in thy house, and every day thou hearest his speech and thou knowest not what the folk say.'" And they answered with "Hearkening and obedience."
+
+So, when they entered with the folk and had prostrated themselves before the king and given him joy and he had raised their rank, [they sat down]. Now it was the custom of the folk to salute and go forth, so, when they sat down, the king knew that they had a word that they would fain say. So he turned to them and said, "Ask your need." And the viziers also were present. Accordingly, they bespoke him with all that these latter had taught them and the viziers also spoke with them; and Azadbekht said to them, "O folk, I know that this your speech, there is no doubt of it, proceedeth from love and loyal counsel to me, and ye know that, were I minded to slay half these folk, I could avail to put them to death and this would not be difficult to me; so how shall I not slay this youth and he in my power and under the grip of my hand? Indeed, his crime is manifest and he hath incurred pain of death and I have only deferred his slaughter by reason of the greatness of the offence; for, if I do this with him and my proof against him be strengthened, my heart is healed and the heart of the folk; and if I slay him not to-day, his slaughter shall not escape me to-morrow."
+
+Then he bade fetch the youth and when he was present before him, he prostrated himself to him and prayed for him; whereupon quoth the king to him, "Out on thee! How long shall the folk upbraid me on thine account and blame me for delaying thy slaughter? Even the people of my city blame me because of thee, so that I am grown a talking-stock among them, and indeed they come in to me and upbraid me [and urge me] to put thee to death. How long shall I delay this? Indeed, this very day I mean to shed thy blood and rid the folk of thy prate."
+
+"O king," answered the youth, "if there have betided thee talk because of me, by Allah, by Allah the Great, those who have brought on thee this talk from the folk are these wicked viziers, who devise with the folk and tell them foul things and evil concerning the king's house; but I trust in God that He will cause their malice to revert upon their heads. As for the king's menace of me with slaughter, I am in the grasp of his hand; so let not the king occupy his mind with my slaughter, for that I am like unto the sparrow in the hand of the fowler; if he will, he slaughtereth him, and if he will, he looseth him. As for the delaying of my slaughter, it [proceedeth] not [from] the king, but from Him in whose hand is my life; for, by Allah, O king, if God willed my slaughter, thou couldst not avail to postpone it, no, not for a single hour. Indeed, man availeth not to fend off evil from himself, even as it was with the son of King Suleiman Shah, whose anxiety and carefulness for the accomplishment of his desire of the new-born child [availed him nothing], for his last hour was deferred how many a time! and God saved him until he had accomplished his [foreordained] period and had fulfilled [the destined term of] his life."
+
+"Out on thee!" exclaimed the king. "How great is thy craft and thy talk! Tell me, what was their story." And the youth said, "O king,

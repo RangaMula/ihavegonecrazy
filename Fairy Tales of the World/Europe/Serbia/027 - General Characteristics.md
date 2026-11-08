@@ -1,0 +1,12 @@
+# General Characteristics
+
+- **Tradition:** Serbia (Europe)
+- **Source book:** *Hero Tales and Legends of the Serbians*
+- **Author / collector / translator:** Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+The Serbians inhabiting the present kingdom of Serbia, having been mixed with the ancient indigenous population of the Balkan Peninsula, have not conserved their true national type. They have mostly brown visages and dark hair; very rarely are blonde or other complexions to be seen. Boshnyaks (Serbians inhabiting Bosnia) are considered to be the most typical Serbians, they having most strongly retained the national characteristics of the pure Southern-Slavonic race. The average Serbian has a rather lively temperament; he is highly sensitive and very emotional. His enthusiasm is quickly roused, but most emotions with him are, as a rule, of short duration. However, he is extremely active and sometimes persistent. Truly patriotic, he is always ready to sacrifice his life and property for national interests, which he understands particularly well, thanks to his intimate knowledge of the ancient history of his people, transmitted to him from generation to generation through the pleasing medium of popular epic poetry composed in very simple decasyllabic blank verse—entirely Serbian in its origin. He is extremely courageous and always ready for war. Although patriarchal and conservative in everything national, he is ready and willing to accept new ideas. But he has remained behind other countries in agricultural and industrial pursuits. Very submissive in his Zadrooga and obedient to his superiors, he is often despotic when elevated to power. The history of all the Southern Slavs pictures a series of violations, depositions, political upheavals, achieved sometimes by the most cruel means and acts of treachery; all mainly due to the innate and hitherto inexpugnable faults characteristic of the race, such as jealousy and an inordinate desire for power. These faults, of course, have been most apparent in the nobles, hence the decay of the ancient aristocracy throughout the Balkans.

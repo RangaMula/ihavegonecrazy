@@ -1,0 +1,15 @@
+# Tale Of Te Atarahi
+
+- **Tradition:** New Zealand (Maori people) (Oceania)
+- **Source book:** *Maori Religion and Mythology
+Illustrated by Translations of Traditions, Karakia, &c., to Which Are Added Notes on Maori Tenure of Land*
+- **Author / collector / translator:** Shortland, Edward (author, d. 1893)
+- **Original language of this text:** ['en', 'mi']
+- **Source:** Project Gutenberg eBook #42218 — https://www.gutenberg.org/ebooks/42218 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+There was a man named Te Atarahi, who remained five nights and five days in the Reinga, and then returned to life. On the fifth day after this man died, two women went out to cut flax leaves. While so employed they observed the flower stalks of the flax springing up every now and then, at a little distance from them. Then one of the women remarked to her companion—“There is some one sucking the juice of the korari flowers.” By degrees this person came nearer, and was seen by the woman, who said “the man is like Te Atarahi, why, it surely is Te Atarahi.” Her companion replied—“It cannot be Te Atarahi, he is dead.” Then they both looked carefully, and saw that the skin of the man was wrinkled and hanging loose about his back and shoulders, and that the hair of his head was all gone.
+
+So the women returned to the Pa , and told how they had seen Te Atarahi. “Are you quite sure it was Te Atarahi?” said the men of the Pa . And the women answered, “His appearance was like Te Atarahi, but the hair of his head was all gone, and his skin hung loose in folds about his back.” Then one was sent to look at the grave where Te Atarahi had been buried. He found the grave undisturbed, so he returned and said “Sirs, the body is well buried, it has not been disturbed.” Then the men went, and examined the place carefully on every side, and found an opening on one side, a little way off. Then they went to the place where Te Atarahi had been seen by the women, and there found the man seated on a ti tree. They at once knew him to be Te Atarahi; so they sent for the tohunga . The tohunga , came and repeated a karakia , after which, the man was removed to the sacred place, and the tohunga remained with him constantly repeating karakia , while the people of the Pa stood without looking on. There the man remained many days, food being brought for him. Time passed, and he began to have again the appearance of a Maori man. At length he recovered and got quite well. Then he told how he had been in the Reigna, how his relations came about him, and bid him not to touch the food, and sent him back to the land of Light. He spoke also of the excellence of the state in which the people of the Reigna dwelt, of their food, of their choice delicacy the ngaro , of the numbers of their Pa , and the multitude of the dwellers there, all which agreed with what the Atua have said, when they visit men on earth.

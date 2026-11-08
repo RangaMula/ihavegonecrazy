@@ -1,0 +1,44 @@
+# Les Deux Aumônes
+
+- **Tradition:** France (Europe)
+- **Source book:** *Contes et légendes. 1re Partie*
+- **Author / collector / translator:** Guerber, H. A. (Hélène Adeline) (author, d. 1929)
+- **Original language of this text:** ['en', 'fr']
+- **Source:** Project Gutenberg eBook #18873 — https://www.gutenberg.org/ebooks/18873 (copied via the GITenberg mirror)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Une pauvre vieille femme était assise au bord de la route. Elle avait froid, car la neige tombait; et elle avait faim, car elle n'avait rien mangé de toute la journée. Elle était assise là, et elle attendait patiemment, espérant qu'un voyageur compatissant lui donnerait un peu d'argent pour acheter du pain et du bois pour faire un peu de feu dans sa pauvre petite maison où il faisait si froid.
+
+Le premier homme qui passa la regarda avec compassion, et dit: "Pauvre femme, voilà un temps bien dur pour mendier sur la route. Dieu vous assiste," et il continua son chemin, d'un pas rapide, sans lui donner un seul sou, car il avait de gros gants, et il aurait été obligé de les ôter pour mettre la main dans sa poche. Il aurait eu froid aux doigts en déliant les cordons de sa bourse, et il n'eut pas le courage de s'arrêter.
+
+La pauvre vieille femme, toute désappointée qu'elle était, remercia cependant le voyageur de ses bonnes paroles, et quand il lui dit: "Dieu vous assiste!" elle répondit: "Merci bien, mon bon monsieur, Dieu vous le rende."
+
+Peu de temps après un second voyageur passa en voiture. Il était tout enveloppé dans une ample fourrure, il vit la pauvre femme, et, touché de sa misère, il mit une main dans sa poche et de l'autre baissa la fenêtre de la voiture.
+
+"Oh!" dit-il, "quel terrible froid!" et il appela la pauvre vieille femme, qui arriva aussi vite que possible. Il lui tendit l'argent et s'aperçut seulement alors qu'il s'était trompé, et que c'était une pièce d'or et non pas la petite pièce blanche qu'il pensait donner. "C'est beaucoup trop!" dit-il, et il allait retirer la main, mais le froid lui fit lâcher la pièce d'or, qui tomba dans la neige.
+
+Il ferma la fenêtre, la voiture repartit et il se dit philosophiquement: "C'est trop, mais enfin je suis bien riche, et je puis me payer la fantaisie de faire une bonne action de temps en temps."
+
+La pauvre mendiante, à genoux dans la neige, cherchait la pièce d'or, et ses mains froides fouillaient sans cesse, car la malheureuse femme était non seulement pauvre et âgée, mais elle était aussi aveugle.
+
+Pendant ce temps l'homme riche était rentré chez lui. Assis devant un bon feu, après avoir bien dîné, il dit:
+
+"Il ne fait pas aussi froid que je croyais. J'ai trop donné à cette pauvre femme. Fera-t-elle bon usage de cette pièce d'or? Enfin, ce qui est fait, est fait. J'ai été généreux, très généreux, et Dieu, sans doute, me récompensera, car il aime les bonnes actions."
+
+L'autre voyageur était arrivé à l'auberge où il avait trouvé un bon feu et un bon dîner qui l'attendait. Mais la pensée de la pauvre femme lui revint à la mémoire. Il regretta beaucoup de ne pas lui avoir donné un peu d'argent, et au lieu de s'asseoir devant le feu et de manger la bonne soupe chaude que le domestique apportait, il lui dit: "Mettez deux couverts; je reviens à l'instant!" et sortit en toute hâte.
+
+Il arriva bientôt à l'endroit où il avait vu la vieille femme et la trouva fouillant dans la neige.
+
+"Que cherchez-vous là, ma bonne femme?"
+
+"Une aumône, qu'un monsieur m'a jetée!"
+
+"Oh! elle est perdue dans la neige. Venez avec moi; nous irons à l'auberge, où un bon feu nous attend, et la soupe aussi."
+
+Le voyageur s'aperçut alors pour la première fois que la vieille femme était aveugle, il la prit donc par le bras et la conduisit à l'auberge, où il l'installa à table, devant le feu, et lui fit manger un bon dîner.
+
+Deux anges ce jour-là prirent la plume, l'un pour effacer la mention de la pièce d'or sur le livre où le maître de la voiture inscrivait tous ses bienfaits, et l'autre pour inscrire sur le livre du piéton le bon dîner de la pauvre mendiante.
+
+* * *
