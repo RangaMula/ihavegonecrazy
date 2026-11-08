@@ -1,0 +1,62 @@
+{
+ "id": "eu-brittany-breton-people-021",
+ "title": {
+  "id": "title",
+  "source": "Wax for Wine"
+ },
+ "tradition": "Brittany (Breton people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Brittany",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Brittany (Breton people)/021 - Wax for Wine.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 7,
+  "words": 228
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The monks of Dol were renowned bee-farmers, as we learn from an anecdote told by Count Montalembert in his Moines d’Occident ."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One day when St Samson of Dol, and St Germain, Bishop of Paris, were conversing on the respective merits of their monasteries, St Samson said that his monks were such good and careful preservers of their bees that, besides the honey which the bees yielded in abundance, they furnished more wax than was used in the churches for candles during the year, but that the climate not being suitable for the growth of vines, there was great scarcity of wine."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Upon hearing this St Germain replied: “We, on the contrary, produce more wine than we can consume, but we have to buy wax; so, if you will furnish us with wax, we will give you a tenth of our wine.”"
+    },
+    {
+     "id": "p001.s04",
+     "source": "Samson accepted this offer, and the mutual arrangement was continued during the lives of the two saints."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Two British kingdoms were formed in Armorica—Domnonia and Cornubia."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The first embraced the Côtes-du-Nord and Finistère north of the river Élorn, Cornubia, or Cornouaille, as it is now known, being situated below that river, as far south as the river Ellé."
+    },
+    {
+     "id": "p002.s03",
+     "source": "At first these states paid a nominal homage to their native kings in Britain, but on the final fall of the British power they proclaimed a complete independence."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "id": "eu-brittany-breton-people-046",
+ "title": {
+  "id": "title",
+  "source": "Stones that Travel"
+ },
+ "tradition": "Brittany (Breton people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Brittany",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Brittany (Breton people)/046 - Stones that Travel.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 6,
+  "words": 183
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "M. Salomon Reinach tells us of the Breton belief that certain sacred stones go once a year or once a century to ‘wash’ themselves in the sea or in a river, returning to their ancient seats after their ablutions."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The stones in the dolmen of Essé are thought to change their places continually, like those of Callernish and Lewis, and, like the Roman Penates, to have the gift of coming and going if removed from their habitual site."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The megalithic monuments of Brittany are undoubtedly the most remarkable relics of that epoch of prehistoric activity which is now regarded as the immediate forerunner of civilization."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Can it be that they were miraculously preserved by isolation from the remote beginnings of that epoch, or is it more probable that they were constructed at a relatively late period?"
+    },
+    {
+     "id": "p002.s03",
+     "source": "These are questions of profound difficulty, and it is likely that both theories contain a certain amount of truth."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Whatever may have been the origin of her megaliths, Brittany must ever be regarded as a great prehistoric museum, a unique link with a past of hoary antiquity."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  }
+ ]
+}

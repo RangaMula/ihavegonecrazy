@@ -1,0 +1,95 @@
+{
+ "id": "eu-austria-tyrol-051",
+ "title": {
+  "id": "title",
+  "source": "The Alpine Horse-Phantom"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/051 - The Alpine Horse-Phantom.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 11,
+  "words": 326
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "On the high Alp, called Els, in the Hinderdux, resides a mountain spirit, which the inhabitants of the surrounding country are unable to paint horribly enough."
+    },
+    {
+     "id": "p001.s02",
+     "source": "It is described as a terrible horse-phantom, which nobody dare approach, and which snorts fever and death wheresoever it goes."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Many mountaineers and gazelle-hunters have met with their death by this spirit, and only he is safe who has gun, sword, and dogs with him."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "One day a courageous Alpine hunter resolved to go and fight the mountain ghost, so he loaded his rifle with a crossed bullet, and climbed up the mountain."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Not far from the hut, which stands on the Els Alp, is a cross, at which he knelt and repeated a prayer, and he had scarcely left the spot, when a little grey mountain dwarf drew near to him, and begged for a little bread and brandy."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The huntsman shared with the dwarf his bread and smoked-gazelle meat; after which the little grey man told him to go back, and bring his gun, sword, and dogs, or else he would be powerless against the mountain ghost, who otherwise would smash him into pieces."
+    },
+    {
+     "id": "p002.s04",
+     "source": "The gazelle-hunter followed this advice, and soon returned to execute his courageous purpose."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "But it happened far otherwise than he had expected."
+    },
+    {
+     "id": "p003.s02",
+     "source": "The mountain ghost, in the form of a horrible horse, appeared, and galloped upon him with tremendous fury, snorting fire and sulphurous smoke, stamping, and roaring, and neighing so loud, that the very mountain shook with the sound; then he shouted to the huntsman with a voice of thunder, “You rascal, if you had not gun, sword, and dogs with you, I should smash you to pieces.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "At this reception, the huntsman stood like one petrified; his teeth chattered, and all desire to fight with a ghost passed away for ever from his mind."
+    },
+    {
+     "id": "p004.s02",
+     "source": "The horse-phantom then turned his heels and galloped back again to the Gletscherwand, from whence he had come."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p005"
+  }
+ ]
+}

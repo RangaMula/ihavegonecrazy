@@ -1,0 +1,44 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-066",
+ "title": {
+  "id": "title",
+  "source": "The Charger and the Miller"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/066 - The Charger and the Miller.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 115
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A CHARGER, feeling the infirmities of age, was sent to work in a mill instead of going out to battle."
+    },
+    {
+     "id": "p001.s02",
+     "source": "But when he was compelled to grind instead of serving in the wars, he bewailed his change of fortune and called to mind his former state, saying, “Ah!"
+    },
+    {
+     "id": "p001.s03",
+     "source": "Miller, I had indeed to go campaigning before, but I was barbed from counter to tail, and a man went along to groom me; and now I cannot understand what ailed me to prefer the mill before the battle.”"
+    },
+    {
+     "id": "p001.s04",
+     "source": "“Forbear,” said the Miller to him, “harping on what was of yore, for it is the common lot of mortals to sustain the ups and downs of fortune.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

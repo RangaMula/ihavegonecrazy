@@ -1,0 +1,36 @@
+{
+ "id": "eu-brittany-breton-people-041",
+ "title": {
+  "id": "title",
+  "source": "Rocenaud"
+ },
+ "tradition": "Brittany (Breton people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Brittany",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Brittany (Breton people)/041 - Rocenaud.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 2,
+  "words": 89
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Near Carnac is the great dolmen of Rocenaud, the ‘cup-and-ring’ markings on which are thought by the surrounding peasantry to have been made by the knees and elbows of St Roch, who fell upon this stone when he landed from Ireland."
+    },
+    {
+     "id": "p001.s02",
+     "source": "When the natives desire a wind they knock upon the depressions with their knuckles, murmuring spells the while, just as in Scotland in the seventeenth century a tempest was raised by dipping a rag in water and beating it on a stone thrice in the name of Satan."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

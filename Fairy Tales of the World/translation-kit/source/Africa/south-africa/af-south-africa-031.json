@@ -1,0 +1,93 @@
+{
+ "id": "af-south-africa-031",
+ "title": {
+  "id": "title",
+  "source": "When Lion Could Fly"
+ },
+ "tradition": "South Africa",
+ "continent": "Africa",
+ "source_lang": "en",
+ "source_book": "South-African Folk-Tales",
+ "credits": "Honey, James A. (author)",
+ "gutenberg": "Project Gutenberg eBook #38339 — https://www.gutenberg.org/ebooks/38339 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Africa/South Africa/031 - When Lion Could Fly.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 12,
+  "words": 270
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Lion, it is said, used once to fly, and at that time nothing could live before him."
+    },
+    {
+     "id": "p001.s02",
+     "source": "As he was unwilling that the bones of what he caught should be broken into pieces, he made a pair of White Crows watch the bones, leaving them behind at the kraal whilst he went a-hunting."
+    },
+    {
+     "id": "p001.s03",
+     "source": "But one day Great Frog came there, broke the bones in pieces, and said, \"Why can men and animals live no longer?\""
+    },
+    {
+     "id": "p001.s04",
+     "source": "And he added these words, \"When he comes, tell him that I live at yonder pool; if he wishes to see me, he must come there.\""
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Lion, lying in wait (for game), wanted to fly up, but found he could not fly."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Then he got angry, thinking that at the kraal something was wrong, and returned home."
+    },
+    {
+     "id": "p002.s03",
+     "source": "When he arrived he asked, \"What have you done that I cannot fly?\""
+    },
+    {
+     "id": "p002.s04",
+     "source": "Then they answered and said, \"Some one came here, broke the bones into pieces, and said, 'If he want me, he may look for me at yonder pool!'\""
+    },
+    {
+     "id": "p002.s05",
+     "source": "Lion went, and arrived while Frog was sitting at the water's edge, and he tried to creep stealthily upon him."
+    },
+    {
+     "id": "p002.s06",
+     "source": "When he was about to get hold of him, Frog said, \"Ho!\" and, diving, went to the other side of the pool, and sat there."
+    },
+    {
+     "id": "p002.s07",
+     "source": "Lion pursued him; but as he could not catch him he returned home."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "From that day, it is said, Lion walked on his feet, and also began to creep upon (his game); and the White Crows became entirely dumb since the day that they said, \"Nothing can be said of that matter.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  }
+ ]
+}

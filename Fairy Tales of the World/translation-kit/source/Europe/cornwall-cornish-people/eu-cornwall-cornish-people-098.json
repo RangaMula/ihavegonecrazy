@@ -1,0 +1,36 @@
+{
+ "id": "eu-cornwall-cornish-people-098",
+ "title": {
+  "id": "title",
+  "source": "Country Clerks and Country Choirs"
+ },
+ "tradition": "Cornwall (Cornish people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Stories and folk-lore of West Cornwall. Third Series",
+ "credits": "Bottrell, William (author, d. 1881)",
+ "gutenberg": "Project Gutenberg eBook #75799 — https://www.gutenberg.org/ebooks/75799 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Cornwall (Cornish people)/098 - Country Clerks and Country Choirs.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 2,
+  "words": 97
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In conjunction with the good parsons, we have a pleasing remembrance of the respectable, unaffected old clerks, to be found in most of the country churches half a century ago."
+    },
+    {
+     "id": "p001.s02",
+     "source": "In general, the clerks were small farmers sufficiently well educated to be able to read the Bible and church service fluently (occasionally passing over hard words); but, from their having no other books to read in country schools than the universal spelling-book, psalter, and Bible, they were incapable of understanding any work of general literature (as a great part of our agricultural population are now, in fact.)"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

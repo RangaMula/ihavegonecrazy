@@ -1,0 +1,52 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-006",
+ "title": {
+  "id": "title",
+  "source": "The Father And His Sons"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/006 - The Father And His Sons.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 6,
+  "words": 168
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A FATHER had a family of sons who were perpetually quarreling among themselves."
+    },
+    {
+     "id": "p001.s02",
+     "source": "When he failed to heal their disputes by his exhortations, he determined to give them a practical illustration of the evils of disunion; and for this purpose he one day told them to bring him a bundle of sticks."
+    },
+    {
+     "id": "p001.s03",
+     "source": "When they had done so, he placed the faggot into the hands of each of them in succession, and ordered them to break it in pieces."
+    },
+    {
+     "id": "p001.s04",
+     "source": "They tried with all their strength, and were not able to do it."
+    },
+    {
+     "id": "p001.s05",
+     "source": "He next opened the faggot, took the sticks separately, one by one, and again put them into his sons’ hands, upon which they broke them easily."
+    },
+    {
+     "id": "p001.s06",
+     "source": "He then addressed them in these words: “My sons, if you are of one mind, and unite to assist each other, you will be as this faggot, uninjured by all the attempts of your enemies; but if you are divided among yourselves, you will be broken as easily as these sticks.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

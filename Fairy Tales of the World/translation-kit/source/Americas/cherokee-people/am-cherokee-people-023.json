@@ -1,0 +1,74 @@
+{
+ "id": "am-cherokee-people-023",
+ "title": {
+  "id": "title",
+  "source": "The Rabbit Dines The Bear"
+ },
+ "tradition": "Cherokee people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Cherokee",
+ "credits": "Mooney, James (author, d. 1921)",
+ "gutenberg": "Project Gutenberg eBook #45634 — https://www.gutenberg.org/ebooks/45634 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Cherokee people/023 - The Rabbit Dines The Bear.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 10,
+  "words": 178
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The Bear invited the Rabbit to dine with him."
+    },
+    {
+     "id": "p001.s02",
+     "source": "They had beans in the pot, but there was no grease for them, so the Bear cut a slit in his side and let the oil run out until they had enough to cook the dinner."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Rabbit looked surprised, and thought to himself, “That’s a handy way."
+    },
+    {
+     "id": "p001.s04",
+     "source": "I think I’ll try that.”"
+    },
+    {
+     "id": "p001.s05",
+     "source": "When he started home he invited the Bear to come and take dinner with him four days later."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "When the Bear came the Rabbit said, “I have beans for dinner, too."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Now I’ll get the grease for them.”"
+    },
+    {
+     "id": "p002.s03",
+     "source": "So he took a knife and drove it into his side, but instead of oil, a stream of blood gushed out and he fell over nearly dead."
+    },
+    {
+     "id": "p002.s04",
+     "source": "The Bear picked him up and had hard work to tie up the wound and stop the bleeding."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Then he scolded him, “You little fool, I’m large and strong and lined with fat all over; the knife don’t hurt me; but you’re small and lean, and you can’t do such things.”"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

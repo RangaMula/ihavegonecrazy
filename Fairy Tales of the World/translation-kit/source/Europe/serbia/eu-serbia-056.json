@@ -1,0 +1,120 @@
+{
+ "id": "eu-serbia-056",
+ "title": {
+  "id": "title",
+  "source": "The Dodola Rite"
+ },
+ "tradition": "Serbia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Hero Tales and Legends of the Serbians",
+ "credits": "Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)",
+ "gutenberg": "Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Serbia/056 - The Dodola Rite.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 14,
+  "words": 291
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The disasters which Serbian peasants most fear are of two kinds—drought and very violent storms."
+    },
+    {
+     "id": "p001.s02",
+     "source": "In pagan times there was a goddess who, it is believed, ruled the waters and the rain."
+    },
+    {
+     "id": "p001.s03",
+     "source": "When the Serbians were first converted to Christianity, the power of controlling the ocean, rivers, and storms, and the sailing of ships at sea, was attributed to St. Nicholas, and the Dalmatians, sea-going men, still pray only to him; whereas in the heart of Serbia, where the peasants have no conception of what large navigable rivers are, still less of what seas and lakes are like, recourse is taken to the favourite goddess Doda or Dodola whenever there is an unduly long spell of dry weather."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The Dodola rite is a peculiar one."
+    },
+    {
+     "id": "p002.s02",
+     "source": "A maiden, generally a Gipsy, is divested of her usual garments and then thickly wrapped round with grass and flowers so that she is almost concealed beneath them."
+    },
+    {
+     "id": "p002.s03",
+     "source": "She wears a wide wreath of willow branches interwoven with wild flowers around her waist and hips, and in such fantastic attire she has to go from house to house in the village dancing, while each housewife pours over her a pailful of water, and her companions chant a prayer having the refrain, Oy Dodo, oy Dodole , after every single line:"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Fall, O rain! and gentlest dew!"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Oy, Dodo!"
+    },
+    {
+     "id": "p004.s02",
+     "source": "Oy, Dodole!"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Refresh our pasture-lands and fields!"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Oy, Dodo!"
+    },
+    {
+     "id": "p006.s02",
+     "source": "Oy, Dodole!"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "In each verse that follows mention is made of a cereal or other plant, imploring Doda that rain may soon be shed upon it."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Then the cottage women give them presents, either food or money, and the maidens sing other songs for them, always in the same rhythm, give their thanks, offer good wishes, and are gone."
+    }
+   ],
+   "id": "p007"
+  }
+ ]
+}

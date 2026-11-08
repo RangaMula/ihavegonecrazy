@@ -1,0 +1,48 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-063",
+ "title": {
+  "id": "title",
+  "source": "The Wolves and the Sheep"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/063 - The Wolves and the Sheep.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 5,
+  "words": 84
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "“WHY SHOULD there always be this fear and slaughter between us?” said the Wolves to the Sheep."
+    },
+    {
+     "id": "p001.s02",
+     "source": "“Those evil-disposed Dogs have much to answer for."
+    },
+    {
+     "id": "p001.s03",
+     "source": "They always bark whenever we approach you and attack us before we have done any harm."
+    },
+    {
+     "id": "p001.s04",
+     "source": "If you would only dismiss them from your heels, there might soon be treaties of peace and reconciliation between us.”"
+    },
+    {
+     "id": "p001.s05",
+     "source": "The Sheep, poor silly creatures, were easily beguiled and dismissed the Dogs, whereupon the Wolves destroyed the unguarded flock at their own pleasure."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

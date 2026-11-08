@@ -1,0 +1,495 @@
+{
+ "id": "eu-france-079",
+ "title": {
+  "id": "title",
+  "source": "Le Chat Et Le Renard"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Contes et légendes. 1re Partie",
+ "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #18873 — https://www.gutenberg.org/ebooks/18873 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/079 - Le Chat Et Le Renard.md",
+ "stats": {
+  "paragraphs": 29,
+  "segments": 75,
+  "words": 748
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Un paysan avait un chat qui était très méchant et si désagréable que tout le monde le détestait."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Le paysan était fatigué de ce chat, et un jour il le mit dans un grand sac."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Le paysan porta le sac dans le bois (la forêt), et quand il fut arrivé à une grande distance de la maison, il ouvrit le sac, et le méchant chat sortit."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Le chat resta dans la forêt, où il trouva une petite cabane."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Le chat demeura dans cette cabane et mangea beaucoup de souris et d'oiseaux."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Un jour le chat alla se promener dans la forêt et rencontra Mademoiselle Renard."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Elle regarda le chat avec curiosité, et dit: \"Mon beau monsieur, qui êtes-vous?"
+    },
+    {
+     "id": "p002.s05",
+     "source": "Que faites-vous dans la forêt?\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"Je suis le bailli de la forêt."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Mon nom est Ivan."
+    },
+    {
+     "id": "p003.s03",
+     "source": "J'arrive de la Sibérie pour gouverner cette forêt.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Oh,\" dit Mademoiselle Renard."
+    },
+    {
+     "id": "p004.s02",
+     "source": "\"Je vous prie, Monsieur le bailli de la forêt, venez dîner avec moi.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Le chat accepta l'invitation, et au dîner Mademoiselle Renard dit: \"Monsieur le bailli, êtes-vous garçon ou marié?\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"Je suis garçon,\" répondit le chat."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Et moi, je suis demoiselle."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Monsieur le bailli, épousez-moi!\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Le chat consentit à ce mariage, qui fut célébré avec beaucoup de cérémonie."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Le lendemain du mariage, le chat dit à sa femme: \"Madame Renard, j'ai faim; allez à la chasse et apportez-moi un bon dîner.\""
+    },
+    {
+     "id": "p008.s03",
+     "source": "Madame Renard partit."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Elle rencontra le loup, qui dit: \"Oh ma chère amie, je vous cherche depuis longtemps en vain."
+    },
+    {
+     "id": "p008.s05",
+     "source": "Où avez-vous été?\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Chez mon mari, le bailli de la forêt, car je suis mariée!\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"Vous, mariée!\" dit le loup avec surprise."
+    },
+    {
+     "id": "p010.s02",
+     "source": "\"J'aimerais faire visite à votre mari.\""
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"Très-bien,\" dit Madame Renard, \"mais comme mon mari est terrible, je vous conseille d'apporter un agneau."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Déposez l'agneau à la porte, et cachez-vous; sans cela il vous dévorera.\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Le loup courut chercher un agneau pour le chat."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Madame Renard continua sa route."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Elle rencontra l'ours."
+    },
+    {
+     "id": "p012.s04",
+     "source": "L'ours dit: \"Bonjour, ma chère amie."
+    },
+    {
+     "id": "p012.s05",
+     "source": "D'où venez-vous?\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"De la maison de mon mari,\" répondit Madame Renard."
+    },
+    {
+     "id": "p013.s02",
+     "source": "\"Mon mari est le bailli Ivan.\""
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"Oh!\" dit l'ours, \"permettez-moi de faire visite à votre mari.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"Certainement,\" répondit Madame Renard, \"mais mon mari a la mauvaise habitude de dévorer tous les animaux qu'il n'aime pas."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Allez chercher un bœuf."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Apportez-le-lui en hommage."
+    },
+    {
+     "id": "p015.s04",
+     "source": "Le loup apportera un agneau.\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "L'ours partit; il alla chercher un bœuf."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Il rencontra le loup avec un agneau."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Le loup dit: \"Mon ami l'ours, où allez-vous?\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Chez le mari de Madame Renard."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Je lui porte un bœuf."
+    },
+    {
+     "id": "p017.s03",
+     "source": "Où allez-vous, mon cher loup?\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Je vais aussi chez le mari de Madame Renard."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Je lui porte un agneau."
+    },
+    {
+     "id": "p018.s03",
+     "source": "Madame Renard dit que son mari est terrible!\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Les deux animaux continuèrent leur route; ils arrivèrent bientôt près de la maison du chat."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Le loup dit à l'ours: \"Allez, mon ami, frappez à la porte, et dites au mari de Madame Renard que nous avons apporté un bœuf et un agneau.\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"Oh non!\" dit l'ours, \"j'ai peur."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Allez vous-même!\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"Impossible,\" dit le loup, \"mais voilà le lièvre, il ira pour nous.\""
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Le lièvre alla à la cabane."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Le loup se cacha sous les feuilles sèches, et l'ours grimpa sur un arbre."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Quelques minutes après Madame Renard arriva avec le chat, son mari."
+    },
+    {
+     "id": "p023.s02",
+     "source": "\"Oh!\" dit le loup à l'ours."
+    },
+    {
+     "id": "p023.s03",
+     "source": "\"Le mari de Madame Renard est très petit.\""
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"Oui!\" dit l'ours avec mépris, \"il est en effet fort petit!\""
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Le chat arriva."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Il sauta sur le bœuf, et dit avec colère: \"C'est peu, très peu!\""
+    },
+    {
+     "id": "p025.s03",
+     "source": "\"Oh!\" dit l'ours avec surprise; \"il est si petit, et il a un si grand appétit!"
+    },
+    {
+     "id": "p025.s04",
+     "source": "Un taureau est assez grand pour quatre ours."
+    },
+    {
+     "id": "p025.s05",
+     "source": "Il est terrible en effet!\""
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Le loup, caché sous les feuilles, trembla."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Le chat entendit un petit bruit dans les feuilles."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Il pensa qu'une souris était cachée sous les feuilles, et il courut et enfonça ses griffes dans le museau du loup."
+    },
+    {
+     "id": "p026.s04",
+     "source": "Le loup pensa que le chat voulait le dévorer, et il partit vite, vite."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Le chat, qui avait peur du loup, sauta sur l'arbre."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"Oh!\" dit l'ours."
+    },
+    {
+     "id": "p028.s02",
+     "source": "\"Le chat m'a vu, il m'a vu, il va me dévorer!\""
+    },
+    {
+     "id": "p028.s03",
+     "source": "Et l'ours descendit rapidement de l'arbre et suivit le loup."
+    },
+    {
+     "id": "p028.s04",
+     "source": "Madame Renard, qui avait tout vu, cria: \"Mon mari vous dévorera, mon mari vous dévorera!\""
+    },
+    {
+     "id": "p028.s05",
+     "source": "L'ours et le loup racontèrent leurs aventures à tous les autres animaux de la forêt, et tous les animaux avaient peur du chat."
+    },
+    {
+     "id": "p028.s06",
+     "source": "Mais le chat et Madame Renard étaient très heureux, car ils avaient beaucoup de viande à manger."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p029"
+  }
+ ]
+}

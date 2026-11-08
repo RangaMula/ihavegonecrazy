@@ -1,0 +1,40 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-007",
+ "title": {
+  "id": "title",
+  "source": "The Boy Hunting Locusts"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/007 - The Boy Hunting Locusts.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 54
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A BOY was hunting for locusts."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He had caught a goodly number, when he saw a Scorpion, and mistaking him for a locust, reached out his hand to take him."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Scorpion, showing his sting, said: “If you had but touched me, my friend, you would have lost me, and all your locusts too!”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

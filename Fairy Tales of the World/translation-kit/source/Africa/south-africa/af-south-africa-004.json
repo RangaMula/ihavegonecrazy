@@ -1,0 +1,153 @@
+{
+ "id": "af-south-africa-004",
+ "title": {
+  "id": "title",
+  "source": "The Tiger, The Ram, And The Jackal"
+ },
+ "tradition": "South Africa",
+ "continent": "Africa",
+ "source_lang": "en",
+ "source_book": "South-African Folk-Tales",
+ "credits": "Honey, James A. (author)",
+ "gutenberg": "Project Gutenberg eBook #38339 — https://www.gutenberg.org/ebooks/38339 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Africa/South Africa/004 - The Tiger, The Ram, And The Jackal.md",
+ "stats": {
+  "paragraphs": 10,
+  "segments": 18,
+  "words": 418
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Tiger (leopard) was returning home from hunting on one occasion, when he lighted on the kraal of Ram."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Now, Tiger had never seen Ram before, and accordingly, approaching submissively, he said, \"Good day, friend!"
+    },
+    {
+     "id": "p001.s03",
+     "source": "What may your name be?\""
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The other in his gruff voice, and striking his breast with his forefoot, said, \"I am Ram."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Who are you?\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"Tiger,\" answered the other, more dead than alive, and then, taking leave of Ram, he ran home as fast as he could."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Jackal lived at the same place as Tiger did, and the latter going to him, said, \"Friend Jackal, I am quite out of breath, and am half dead with fright, for I have just seen a terrible looking fellow, with a large and thick head, and on my asking him what his name was, he answered, 'I am Ram.'\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"What a foolish fellow you are,\" cried Jackal, \"to let such a nice piece of flesh stand!"
+    },
+    {
+     "id": "p005.s02",
+     "source": "Why did you do so?"
+    },
+    {
+     "id": "p005.s03",
+     "source": "But we shall go to-morrow and eat it together.\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Next day the two set off for the kraal of Ram, and as they appeared over a hill, Ram, who had turned out to look about him, and was calculating where he should that day crop a tender salad, saw them, and he immediately went to his wife and said, \"I fear this is our last day, for Jackal and Tiger are both coming against us."
+    },
+    {
+     "id": "p006.s02",
+     "source": "What shall we do?\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Don't be afraid,\" said the wife, \"but take up the child in your arms, go out with it, and pinch it to make it cry as if it were hungry.\""
+    },
+    {
+     "id": "p007.s02",
+     "source": "Ram did so as the confederates came on."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "No sooner did Tiger cast his eyes on Ram than fear again took possession of him, and he wished to turn back."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Jackal had provided against this, and made Tiger fast to himself with a leathern thong, and said, \"Come on,\" when Ram cried in a loud voice, and pinching his child at the same time, \"You have done well, Friend Jackal, to have brought us Tiger to eat, for you hear how my child is crying for food.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "On these dreadful words Tiger, notwithstanding the entreaties of Jackal to let him go, to let him loose, set off in the greatest alarm, dragged Jackal after him over hill and valley, through bushes and over rocks, and never stopped to look behind him till he brought back himself and half-dead Jackal to his place again."
+    },
+    {
+     "id": "p009.s02",
+     "source": "And so Ram escaped."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p010"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "id": "eu-sweden-022",
+ "title": {
+  "id": "title",
+  "source": "The Bridge Over Kalmarsound"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/022 - The Bridge Over Kalmarsound.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 9,
+  "words": 267
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "North of the village of Wi, in the parish of Källa, lies a large stone called Sekiel’s Stone, after a giantess, Sekiel, who is said to have lived in Borgehaga, in the parish of Högo."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The same giantess had a sister, who was married to a giant named Beard, and lived in the parish of Ryssby on the Småland side of the sound. [ ]"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "That they might visit each other oftener it was agreed between the sisters that they should build a stone bridge over Kalmarsound, the one to build from Ryssby shore, the other from Öland."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The giantess of Småland began first upon her work."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Every day she came with a great load of stones which she cast into the sea, until, finally, she had completed that point of land now called Skägganäs, reaching a quarter of a mile out into the sea."
+    },
+    {
+     "id": "p004.s03",
+     "source": "The giantess on the Öland side also began to build, but when she came with her first load of stones in her apron she was shot through the body with an arrow from a peasant’s bow."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Overcome by the pain, she sat herself to rest upon the before mentioned Sekiel Stone, which has a shallow depression in the top, marking the resting spot of the giantess."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "When she had recovered she again took up her journey, but had proceeded no further than to Persnäs when it began to storm, and she was struck dead by a bolt of lightning."
+    },
+    {
+     "id": "p005.s02",
+     "source": "With her fall the stones slipped from her apron, and there they lie to-day, forming the large grave-mound on Persnäs hills. [ ]"
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

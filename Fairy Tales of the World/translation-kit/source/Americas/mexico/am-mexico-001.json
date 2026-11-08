@@ -1,0 +1,175 @@
+{
+ "id": "am-mexico-001",
+ "title": {
+  "id": "title",
+  "source": "Collected By Thomas A. Janvier"
+ },
+ "tradition": "Mexico",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Legends of the City of Mexico",
+ "credits": "Janvier, Thomas A. (Thomas Allibone) (author, d. 1913)",
+ "gutenberg": "Project Gutenberg eBook #45852 — https://www.gutenberg.org/ebooks/45852 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Mexico/001 - Collected By Thomas A. Janvier.md",
+ "stats": {
+  "paragraphs": 10,
+  "segments": 24,
+  "words": 147
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "MEMBER OF THE FOLK-LORE SOCIETY, LONDON"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "ILLUSTRATED WITH SIX PICTURES BY WALTER APPLETON CLARK AND BY PHOTOGRAPHS OF PLACE"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "HARPER & BROTHERS PUBLISHERS NEW YORK AND LONDON MCMX"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Books by THOMAS A. JANVIER In Old New York."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Illustrations and maps."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Post 8vo $1.75 The Dutch Founding of New York."
+    },
+    {
+     "id": "p005.s04",
+     "source": "Illustrated."
+    },
+    {
+     "id": "p005.s05",
+     "source": "8vo, Half-leather net 2.50 The Aztec Treasure-House."
+    },
+    {
+     "id": "p005.s06",
+     "source": "Ill'd. 8vo 1.50 The Uncle of an Angel."
+    },
+    {
+     "id": "p005.s07",
+     "source": "Ill'd. Post 8vo 1.25 The Passing of Thomas."
+    },
+    {
+     "id": "p005.s08",
+     "source": "Illustrated."
+    },
+    {
+     "id": "p005.s09",
+     "source": "8vo 1.25 In the Sargasso Sea."
+    },
+    {
+     "id": "p005.s10",
+     "source": "Post 8vo 1.25 In Great Waters."
+    },
+    {
+     "id": "p005.s11",
+     "source": "Illustrated."
+    },
+    {
+     "id": "p005.s12",
+     "source": "Post 8vo 1.25 Santa Fe's Partner."
+    },
+    {
+     "id": "p005.s13",
+     "source": "Illustrated."
+    },
+    {
+     "id": "p005.s14",
+     "source": "Post 8vo 1.50 The Christmas Kalends of Provence."
+    },
+    {
+     "id": "p005.s15",
+     "source": "Illustrated."
+    },
+    {
+     "id": "p005.s16",
+     "source": "Post 8vo, net 1.25 HARPER & BROTHERS, PUBLISHERS, N. Y."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Copyright, 1910, by Harper & Brothers ."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "All rights reserved."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Published January, 1910."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Printed in the United States of America."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "TO C. A. J. WITHOUT WHOSE HELP THIS BOOK COULD NOT HAVE BEEN MADE"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p010"
+  }
+ ]
+}

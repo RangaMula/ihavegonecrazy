@@ -1,0 +1,114 @@
+{
+ "id": "eu-sweden-024",
+ "title": {
+  "id": "title",
+  "source": "Elstorps Woods"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/024 - Elstorps Woods.md",
+ "stats": {
+  "paragraphs": 8,
+  "segments": 11,
+  "words": 281
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "During the war between Queen Margarita and Albrecht of Mecklenburg the two armies had an encounter in Southern Halland."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The Queen’s people had encamped upon the plains of Tjarby, a half mile north of Laholm, while the Prince’s adherents were camped in the vicinity of Weinge Church."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "One morning the Queen went, as was her custom to morning prayers in Tjarby Church, but took the precaution to set a guard upon the so-called Queen’s Mountain to warn her of danger."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "While she was buried in her devotions there came a message, informing her that a few unattended knights had been seen in the vicinity."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“There is yet no danger,” said the courageous Queen, and continued her prayers at the altar."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "In a short time another message was brought, informing her that as many as a hundred knights had made their appearance, but the Queen commanded her people to keep still, that yet there was no occasion for alarm."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Finally a message came that all Elstorps Woods seemed to be alive and moving against Tjarby."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Now, my children, for a hard battle, but God will give us the victory,” said the Queen, and springing upon her horse, she marched at the head of her warriors against the enemy."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "The enemy had, as is related in the story of Macbeth, made use of stratagem, for each man carried [ ] before him a green bush, thinking to come upon the queen’s attendants by surprise."
+    },
+    {
+     "id": "p007.s02",
+     "source": "But the queen outwitted him and gained a brilliant victory."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "In gratitude to God, she rebuilt the old church of Tjarby, and since that day no birches higher than a man’s head have grown in Elstorps Woods. [ ]"
+    }
+   ],
+   "id": "p008"
+  }
+ ]
+}

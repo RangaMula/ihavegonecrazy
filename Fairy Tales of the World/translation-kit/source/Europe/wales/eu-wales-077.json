@@ -1,0 +1,76 @@
+{
+ "id": "eu-wales-077",
+ "title": {
+  "id": "title",
+  "source": "Pont-y-Glyn Ghost"
+ },
+ "tradition": "Wales",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Welsh Folk-Lore",
+ "credits": "Owen, Elias (author, d. 1899)",
+ "gutenberg": "Project Gutenberg eBook #20096 — https://www.gutenberg.org/ebooks/20096 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Wales/077 - Pont-y-Glyn Ghost.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 9,
+  "words": 207
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There is a picturesque glen between Corwen and Cerrig-y-Drudion, down which rushes a mountain stream, and over this stream is a bridge, called Pont-y-Glyn."
+    },
+    {
+     "id": "p001.s02",
+     "source": "On the left hand side, a few yards from the bridge, on the Corwen side, is a yawning chasm, through which the river bounds."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Here people who have travelled by night affirm that they have seen ghosts—the ghosts of those who have been murdered in this secluded glen."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "A man who is now a bailiff near Ruthin, but at the time of the appearance of the Ghost to him at Pont-y-Glyn was a servant at Garth Meilio—states that one night, when he was returning home late from Corwen, he saw before him, seated on a heap of stones, a female dressed in Welsh costume."
+    },
+    {
+     "id": "p002.s02",
+     "source": "He wished her good night, but she returned him no answer."
+    },
+    {
+     "id": "p002.s03",
+     "source": "She, however, got up and proceeded down the road, which she filled, so great were her increased dimensions."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Other Spirits are said to have made their homes in the hills not far from Pont-y-Glyn."
+    },
+    {
+     "id": "p003.s02",
+     "source": "There was the Spirit of Ystrad Fawr, a strange Ghost that transformed himself into many things."
+    },
+    {
+     "id": "p003.s03",
+     "source": "I will give the description of this Ghost in the words of the author of Y Gordofigion ."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "id": "as-philippines-098",
+ "title": {
+  "id": "title",
+  "source": "Why the Culing has a Tonsure"
+ },
+ "tradition": "Philippines",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Filipino Popular Tales",
+ "credits": "Fansler, Dean Spruill (editor)",
+ "gutenberg": "Project Gutenberg eBook #8299 — https://www.gutenberg.org/ebooks/8299 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Philippines/098 - Why the Culing has a Tonsure.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 12,
+  "words": 147
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Narrated by Francisco M. Africa."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "In a certain field there lived two birds,—Pogô (“quail”) and Culing (a small black bird that has no feathers on the top of its head)."
+    },
+    {
+     "id": "p002.s02",
+     "source": "One day Pogô, while scratching the ground for food, met Culing."
+    },
+    {
+     "id": "p002.s03",
+     "source": "When Culing saw Pogô, he said in a taunting tone, “Where are you going, lazy one?"
+    },
+    {
+     "id": "p002.s04",
+     "source": "Be more active."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Don’t be as lazy as a leech!”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Pogô became very angry."
+    },
+    {
+     "id": "p003.s02",
+     "source": "“You call me lazy!” he said."
+    },
+    {
+     "id": "p003.s03",
+     "source": "“You are much lazier than I. Let us see which can fly higher into the sky!”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Thereupon Culing agreed, and he began to fly upward until he was lost from sight."
+    },
+    {
+     "id": "p004.s02",
+     "source": "He flew so high, that his head touched the surface of the sky."
+    },
+    {
+     "id": "p004.s03",
+     "source": "As the sky was hot, all the feathers on the top of his head were burned off; and ever since, the culing has had a tonsure."
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

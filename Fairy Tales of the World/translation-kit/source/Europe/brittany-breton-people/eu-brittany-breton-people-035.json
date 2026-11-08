@@ -1,0 +1,44 @@
+{
+ "id": "eu-brittany-breton-people-035",
+ "title": {
+  "id": "title",
+  "source": "Dol"
+ },
+ "tradition": "Brittany (Breton people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Brittany",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Brittany (Breton people)/035 - Dol.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 89
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Dol is situated in the north of the department of Ille-et-Vilaine, not far from the sea-coast."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Near it, in a field called the Champ Dolent (‘Field of Woe’), stands a gigantic menhir, about thirty feet high and said to measure fifteen more underground."
+    },
+    {
+     "id": "p001.s03",
+     "source": "It is composed of grey granite, and is surmounted by a cross."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The early Christian missionaries, finding it impossible to wean the people from frequenting pagan neighbourhoods, surmounted the standing stones with the symbol of their faith, and this in time brought about the result desired."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

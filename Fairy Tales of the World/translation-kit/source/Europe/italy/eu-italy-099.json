@@ -1,0 +1,144 @@
+{
+ "id": "eu-italy-099",
+ "title": {
+  "id": "title",
+  "source": "The Clever Peasant"
+ },
+ "tradition": "Italy",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Italian Popular Tales",
+ "credits": "Crane, Thomas Frederick (author, d. 1927)",
+ "gutenberg": "Project Gutenberg eBook #23634 — https://www.gutenberg.org/ebooks/23634 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Italy/099 - The Clever Peasant.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 23,
+  "words": 533
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a king who, while hunting, saw a peasant working in the fields and asked him: \"How much do you earn in a day?\""
+    },
+    {
+     "id": "p001.s02",
+     "source": "\"Four carlini , your Majesty,\" answered the peasant."
+    },
+    {
+     "id": "p001.s03",
+     "source": "\"What do you do with them?\" continued the king."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The peasant said: \"The first I eat; the second I put out at interest; the third I give back, and the fourth I throw away.\""
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The king rode on, but after a time the peasant's answer seemed very curious to him, so he returned and asked him: \"Tell me, what do you mean by eating the first carlino , putting the second out to interest, giving back the third, and throwing away the fourth?\""
+    },
+    {
+     "id": "p002.s02",
+     "source": "The peasant answered: \"With the first I feed myself; with the second I feed my children, who must care for me when I am old; with the third I feed my father, and so repay him for what he has done for me, and with the fourth I feed my wife, and thus throw it away, because I have no profit from it.\""
+    },
+    {
+     "id": "p002.s03",
+     "source": "\"Yes,\" said the king, \"you are right."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Promise me, however, that you will not tell any one this until you have seen my face a hundred times.\""
+    },
+    {
+     "id": "p002.s05",
+     "source": "The peasant promised and the king rode home well pleased."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "While sitting at table with his ministers, he said: \"I will give you a riddle: A peasant earns four carlini a day; the first he eats; the second he puts out at interest; the third he gives back, and the fourth he throws away."
+    },
+    {
+     "id": "p003.s02",
+     "source": "What is that?\""
+    },
+    {
+     "id": "p003.s03",
+     "source": "No one was able to answer it."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "One of the ministers remembered finally that the king had spoken the day before with the peasant, and he resolved to find the peasant and obtain from him the answer."
+    },
+    {
+     "id": "p004.s02",
+     "source": "When he saw the peasant he asked him for the answer to the riddle, but the peasant answered: \"I cannot tell you, for I have promised the king to tell no one until I have seen his face a hundred times.\""
+    },
+    {
+     "id": "p004.s03",
+     "source": "\"Oh!\" said the minister, \"I can show you the king's face,\" and drew a hundred coins from his purse and gave them to the peasant."
+    },
+    {
+     "id": "p004.s04",
+     "source": "On every coin the king's face was to be seen of course."
+    },
+    {
+     "id": "p004.s05",
+     "source": "After the peasant had looked at each coin once, he said: \"I have now seen the king's face a hundred times, and can tell you the answer to the riddle,\" and told him it."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The minister went in great glee to the king and said: \"Your Majesty, I have found the answer to the riddle; it is so and so.\""
+    },
+    {
+     "id": "p005.s02",
+     "source": "The king exclaimed: \"You can have heard it only from the peasant himself,\" had the peasant summoned, and took him to task."
+    },
+    {
+     "id": "p005.s03",
+     "source": "\"Did you not promise me not to tell it until you had seen my face a hundred times?\""
+    },
+    {
+     "id": "p005.s04",
+     "source": "\"But, your Majesty,\" answered the peasant, \"your minister showed me your picture a hundred times.\""
+    },
+    {
+     "id": "p005.s05",
+     "source": "Then he showed him the bag of money that the minister had given him."
+    },
+    {
+     "id": "p005.s06",
+     "source": "The king was so pleased with the clever peasant that he rewarded him, and made him a rich man for the rest of his life."
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

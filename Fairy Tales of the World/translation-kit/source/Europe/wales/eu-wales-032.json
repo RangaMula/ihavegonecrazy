@@ -1,0 +1,40 @@
+{
+ "id": "eu-wales-032",
+ "title": {
+  "id": "title",
+  "source": "A Fable"
+ },
+ "tradition": "Wales",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Welsh Fairy-Tales and Other Stories",
+ "credits": "Emerson, P. H. (Peter Henry) (editor, d. 1936)",
+ "gutenberg": "Project Gutenberg eBook #8675 — https://www.gutenberg.org/ebooks/8675 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Wales/032 - A Fable.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 50
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Source: Taken verbatim from the same book."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The writer quotes it apropos of the Roman custom of bribing the Britons on the mountain tops."
+    },
+    {
+     "id": "p001.s03",
+     "source": "We are told the fable was delivered by one of the Britons, named Gwrgan Farfdrwch , who spoke to this effect, and then follows the fable."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

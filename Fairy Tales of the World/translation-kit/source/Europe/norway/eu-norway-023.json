@@ -1,0 +1,102 @@
+{
+ "id": "eu-norway-023",
+ "title": {
+  "id": "title",
+  "source": "Why The Bear Is Stumpy-Tailed"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Popular Tales from the Norse",
+ "credits": "Moe, Jørgen Engebretsen (compiler, d. 1882); Asbjørnsen, Peter Christen (compiler, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)",
+ "gutenberg": "Project Gutenberg eBook #8933 — https://www.gutenberg.org/ebooks/8933 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Norway/023 - Why The Bear Is Stumpy-Tailed.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 11,
+  "words": 210
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "One day the Bear met the Fox, who came slinking along with a string of fish he had stolen."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "'Whence did you get those from?' asked the Bear."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "'Oh! my Lord Bruin, I've been out fishing and caught them', said the Fox."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "So the Bear had a mind to learn to fish too, and bade the Fox tell him how he was to set about it."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "'Oh! it's an easy craft for you', answered the Fox, 'and soon learnt."
+    },
+    {
+     "id": "p005.s02",
+     "source": "You've only got to go upon the ice, and cut a hole and stick your tail down into it; and so you must go on holding it there as long as you can."
+    },
+    {
+     "id": "p005.s03",
+     "source": "You're not to mind if your tail smarts a little; that's when the fish bite."
+    },
+    {
+     "id": "p005.s04",
+     "source": "The longer you hold it there the more fish you'll get; and then all at once out with it, with a cross pull sideways, and with a strong pull too.'"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Yes; the Bear did as the Fox had said, and held his tail a long, long time down in the hole, till it was fast frozen in."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Then he pulled it out with a cross pull, and it snapped short off."
+    },
+    {
+     "id": "p006.s03",
+     "source": "That's why Bruin goes about with a stumpy tail this very day."
+    }
+   ],
+   "id": "p006"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-050",
+ "title": {
+  "id": "title",
+  "source": "The Frogs Asking for a King"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/050 - The Frogs Asking for a King.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 8,
+  "words": 177
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "THE FROGS, grieved at having no established Ruler, sent ambassadors to Jupiter entreating for a King."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Perceiving their simplicity, he cast down a huge log into the lake."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Frogs were terrified at the splash occasioned by its fall and hid themselves in the depths of the pool."
+    },
+    {
+     "id": "p001.s04",
+     "source": "But as soon as they realized that the huge log was motionless, they swam again to the top of the water, dismissed their fears, climbed up, and began squatting on it in contempt."
+    },
+    {
+     "id": "p001.s05",
+     "source": "After some time they began to think themselves ill-treated in the appointment of so inert a Ruler, and sent a second deputation to Jupiter to pray that he would set over them another sovereign."
+    },
+    {
+     "id": "p001.s06",
+     "source": "He then gave them an Eel to govern them."
+    },
+    {
+     "id": "p001.s07",
+     "source": "When the Frogs discovered his easy good nature, they sent yet a third time to Jupiter to beg him to choose for them still another King."
+    },
+    {
+     "id": "p001.s08",
+     "source": "Jupiter, displeased with all their complaints, sent a Heron, who preyed upon the Frogs day by day till there were none left to croak upon the lake."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

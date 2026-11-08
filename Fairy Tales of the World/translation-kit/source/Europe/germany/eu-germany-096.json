@@ -1,0 +1,448 @@
+{
+ "id": "eu-germany-096",
+ "title": {
+  "id": "title",
+  "source": "Legends of the Regenstein"
+ },
+ "tradition": "Germany",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends and tales of the Harz Mountains",
+ "credits": "Lauder, Toofie (author, d. 1922)",
+ "gutenberg": "Project Gutenberg eBook #74323 — https://www.gutenberg.org/ebooks/74323 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Germany/096 - Legends of the Regenstein.md",
+ "stats": {
+  "paragraphs": 25,
+  "segments": 69,
+  "words": 1487
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Who that has visited the romantic Harz has not climbed the lordly sandstone mountain, the Reinstein, wondered at its vast chambers hewn in solid rock, and gazed in silent rapture on a prospect more beautiful than that from the Brocken?"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "In the year 479, according to the chroniclers, the sharp contest between the tribes of Thuringia and the Sassen[ ] took place for the possession of the Harz mountains."
+    },
+    {
+     "id": "p002.s02",
+     "source": "McIverich, King of Thuringia, with his army thirsting for war, crossed the mountains to repulse the Sassen then dwelling on the north borders of the Harz."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "[ ]Saxons."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Near Wernigerode a bloody battle was fought, in which the Thuringians were defeated, and five thousand left dead on the field."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Perhaps the Hun Stones still standing between Heimburg and Benzingerode have reference to this fiery collision, and the ancient burial-places discovered in the vicinity were the graves of those fallen in this contest."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "After the battle the Sassen recognized the fact that to their leader, Hatebolt, they owed the victory; and to prove their gratitude they offered to build him a castle on the north borders of the Harz, in any spot he might choose."
+    },
+    {
+     "id": "p006.s02",
+     "source": "So Hatebolt rode till he came to a stone mountain, which was, as if by nature, formed for a stronghold."
+    },
+    {
+     "id": "p006.s03",
+     "source": "It rose rugged and steep from the sandy heath to a mighty rock, and formed a row of impassable cliffs, the western summits of which widened into a table-land sufficiently broad for the site of a castle."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "And Hatebolt pointed to the row of rocks and cried in the language of the Sassen, \"On this Regenstein[ ] my Burg shall stand!\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "[ ] Regenstein , or Reinstein , row of rocks."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "That is the fortress whose magnificent position still delights us, at whose ruins we gaze in amazement, in whose halls and chambers, almost entirely hewn in the rocks, we see the work of a far distant time, when comfort and luxury were unknown in this region."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "From these grey ruins, from the grim vaults, the half-fallen tower, and the deep dungeon, breathes the spirit of the past, and whispers many a legendary note in the ear."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Is it the mysterious Devil's Hole in an ancient vault, with the date 1090, near which house spectres, whose employment it is ever to fill this four feet deep and wide hole with stones; or the opening in one of the largest rock walls, which proclaims a conquest of the castle; or the ruinated chapel, with its tiny Gothic door and two windows, and the aumbry still in the wall at the right on entering, the over-grown moat to the east and south, the arched entrance, the many half-broken flights of stone steps?"
+    },
+    {
+     "id": "p010.s03",
+     "source": "All this has an untold mystic charm."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "The opening in the wall was made at a seizure of the castle, which tradition tells us was accomplished by stratagem."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "The besiegers had lain long before the stronghold in vain, had stormed the walls and the stronger rocks without success, and finally, evidently convinced that the fortress was impregnable, had raised the siege."
+    },
+    {
+     "id": "p012.s02",
+     "source": "And now there were feasting and joy, and the Earl von Regenstein commanded the best wine to be brought."
+    },
+    {
+     "id": "p012.s03",
+     "source": "But for security, in case of another attack, he resolved to lay in fresh provisions, and accordingly sent a messenger to the surrounding villages with an order to the people forthwith to bring the needful supplies."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "In a short time a troop of peasants, men and women, appeared, half-bent from the weight of baskets on their backs, and tubs of butter and cheese under the arm."
+    },
+    {
+     "id": "p013.s02",
+     "source": "The great gates were opened, the drawbridge lowered, and the troop entered."
+    },
+    {
+     "id": "p013.s03",
+     "source": "But once inside, they threw baskets and tubs to the winds, seized their arms, drove back the surprised guard, and at the same time a party in ambush rushed over the drawbridge."
+    },
+    {
+     "id": "p013.s04",
+     "source": "They cut down all that opposed them, but the Earl was nowhere to be found."
+    },
+    {
+     "id": "p013.s05",
+     "source": "When he saw himself outwitted, and that all opposition was useless, and every issue from the fortress in possession of the enemy, he caused himself to be sewed up in a bed, and let down on the north and perpendicular side of the rocks with ropes."
+    },
+    {
+     "id": "p013.s06",
+     "source": "The opening is still shown in one of the rocky chambers through which he is said to have escaped."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Another legend is connected with the dungeon, which is hewn deep down in the rocks."
+    },
+    {
+     "id": "p014.s02",
+     "source": "A captured maiden had been imprisoned here, and had sat long in the darkness of constant night, hearing no sound save that of the raging storms that beat against the rocks."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Escape was impossible."
+    },
+    {
+     "id": "p014.s04",
+     "source": "One day she lay on her bed of straw, and sought comfort in fervent prayer."
+    },
+    {
+     "id": "p014.s05",
+     "source": "And there dawned a distant hope in her mind."
+    },
+    {
+     "id": "p014.s06",
+     "source": "She listened to the storm, and heard the hail beat against the rock walls of the dungeon, hence they must be thin."
+    },
+    {
+     "id": "p014.s07",
+     "source": "Might she perhaps break through the rocks?"
+    },
+    {
+     "id": "p014.s08",
+     "source": "They are only very porous sandstone."
+    },
+    {
+     "id": "p014.s09",
+     "source": "It is a bold thought, no sooner awakened in her mind than put in execution."
+    },
+    {
+     "id": "p014.s10",
+     "source": "She used the ring of the dungeon to break away bits of the rock, and worked many moons till she had an opening large enough to creep through."
+    },
+    {
+     "id": "p014.s11",
+     "source": "But what was her despair to find she stood on a dizzy height, and the fearful depth yawned beneath her."
+    },
+    {
+     "id": "p014.s12",
+     "source": "Still she did not hesitate, but began climbing down the smooth rocks, which offered only here and there a crevice to her aid."
+    },
+    {
+     "id": "p014.s13",
+     "source": "But Tradition, who believeth all things and never faileth, says she reached the foot of the mountain and her father's castle in safety."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Another legend relates how a wealthy countryman had lent an Earl von Regenstein a large sum of money, but when he came to demand payment was repulsed with scorn and derision."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Soon after the Earl did not return from a predatory excursion, and many singular reports were circulated concerning his death."
+    },
+    {
+     "id": "p015.s03",
+     "source": "The countryman hoped for payment from the Earl's heir, but he treated him more roughly than his predecessor had done."
+    },
+    {
+     "id": "p015.s04",
+     "source": "The creditor, on his way home, heard suddenly a loud noise like the crackling of flames."
+    },
+    {
+     "id": "p015.s05",
+     "source": "He looked around and saw a cleft in the mountain, from which issued smoke."
+    },
+    {
+     "id": "p015.s06",
+     "source": "He went and looked in."
+    },
+    {
+     "id": "p015.s07",
+     "source": "It was the mouth of a cave, in the deeps of which pitch and sulphur flames with loud hissing enveloped each other, and in the midst of this fire-gulf he saw a human form, over which the flames swept without consuming it, and which sought, wailing and moaning, to escape, but fell ever back into the boiling heat, with wringing of hands and tearing of hair."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "He soon recognized the Earl, who after some minutes saw the creditor whom he had cheated at the entrance to the cave, and broke out in lamentations and entreaties."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Oh! see how I must suffer for my injustice."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Have pity on my anguish, forgive my crime."
+    },
+    {
+     "id": "p017.s03",
+     "source": "Take my signet ring, go to my successor, tell him what you have seen, warn him not to act as I have done, and to pay my debt, that I may escape from this bed of flames.\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "The countryman hastened to fulfil the commission, showing the signet ring."
+    },
+    {
+     "id": "p018.s02",
+     "source": "He was at once paid with heavy interest, and the castle chaplain received orders to read a mass for the suffering soul."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "On his way home the countryman looked again into the cave, but nothing more was to be seen either of the flames or the guilty Earl."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "The Spectre Maiden of the Regenstein still haunts the ruins."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "How solemnly the old ruinated fortress looks down upon the plain bathed in the rich lights of sunset."
+    },
+    {
+     "id": "p021.s02",
+     "source": "And around the walls and the tower sighs a spirit, and sighs the storm."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Let thy stay there be short and cautious, for the ruins are haunted by night."
+    },
+    {
+     "id": "p022.s02",
+     "source": "A maiden form rises from the dark vault, and wanders to the tower, and to the great gates, and an innocent countenance smiles upon thee."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Guard thyself well, O wanderer; gaze not so deep in the mournful eyes; it is the Spectre-Maiden."
+    },
+    {
+     "id": "p022.s04",
+     "source": "She bows to thee in graceful greeting, she offers thee the full lips to kiss, she beckons, she spreads out the arms."
+    },
+    {
+     "id": "p022.s05",
+     "source": "Oh, follow her not!"
+    },
+    {
+     "id": "p022.s06",
+     "source": "Her breath is poison!"
+    },
+    {
+     "id": "p022.s07",
+     "source": "If thou grant her the kiss, thou wilt fall an irrecoverable prey to death."
+    },
+    {
+     "id": "p022.s08",
+     "source": "Her greeting, her beckon, are not for thee; she waits here for her lover."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "As Crusader, he marched to the Holy Sepulchre."
+    },
+    {
+     "id": "p023.s02",
+     "source": "She is gazing after him from the tower, waiting for his return by the broken drawbridge, and wanders ever in search of him."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "If she meet thee, she will fancy thou art her fallen hero-lover."
+    },
+    {
+     "id": "p024.s02",
+     "source": "If thou dost follow when she beckons, she will draw thee into an open grave with ice-cold arms."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Oh! guard thyself well when in her sight,"
+    },
+    {
+     "id": "p025.s02",
+     "source": "For she haunts the Regenstein by night!"
+    }
+   ],
+   "id": "p025"
+  }
+ ]
+}

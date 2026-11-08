@@ -1,0 +1,93 @@
+{
+ "id": "eu-hungary-magyar-people-069",
+ "title": {
+  "id": "title",
+  "source": "THE BAA-LAMBS. Kriza xiv"
+ },
+ "tradition": "Hungary (Magyar people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "The Folk-Tales of the Magyars",
+ "credits": "Kropf, Lajos (editor); Jones, W. Henry (editor); Kriza, János (contributor, d. 1875); Pap, Gyula (contributor, d. 1931); Erdélyi, János (contributor, d. 1868)",
+ "gutenberg": "Project Gutenberg eBook #42981 — https://www.gutenberg.org/ebooks/42981 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Hungary (Magyar people)/069 - THE BAA-LAMBS. Kriza xiv.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 9,
+  "words": 83
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Cf. \"Saint Peter's Goddaughter,\" in Portuguese Folk-Tales ."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Folk-Lore Society, 1882, p. 54."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Dasent, Tales from the Norse , \"The Seven Foals,\" p. 349."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Naaké, Slavonic Tales: \"The Three Brothers\", p. 254."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Stokes, Indian Fairy Tales , \"The King's Son,\" p. 234; and the Servian tale quoted on p. 294."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Page ."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Kriza notes that the \"rotting, dead dog's head\" occurs in the \"Historiae Tripartitae ex Socrate, Sozomeno et Theodorico in unum collectae,\" by Cassiodorus; ii."
+    },
+    {
+     "id": "p005.s03",
+     "source": "12."
+    },
+    {
+     "id": "p005.s04",
+     "source": "The first edition appeared in 1472."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p006"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "am-iroquois-haudenosaunee-people-009",
+ "title": {
+  "id": "title",
+  "source": "Cusick'S Story Of The Dispersion Of The Great Heads"
+ },
+ "tradition": "Iroquois (Haudenosaunee) people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Iroquois. (1883 N 02 / 1880-1881 (pages 47-116))",
+ "credits": "Smith, Erminnie A. (Erminnie Adele) (author, d. 1886)",
+ "gutenberg": "Project Gutenberg eBook #46140 — https://www.gutenberg.org/ebooks/46140 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Iroquois (Haudenosaunee) people/009 - Cusick'S Story Of The Dispersion Of The Great Heads.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 5,
+  "words": 71
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "An old squaw who resided at Onondaga was alone in her wigwam one evening."
+    },
+    {
+     "id": "p001.s02",
+     "source": "While sitting by the fire parching some acorns one of the monstrous heads made its appearance at the door."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Thinking that the woman was eating coals of fire, by which these monsters were put to flight, it suddenly disappeared, and none of its kind have been seen since that day."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "PL."
+    },
+    {
+     "id": "p002.s02",
+     "source": "XV—THE FLYING HEAD PUT TO FLIGHT."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

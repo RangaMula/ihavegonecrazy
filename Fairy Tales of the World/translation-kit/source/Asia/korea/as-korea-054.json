@@ -1,0 +1,74 @@
+{
+ "id": "as-korea-054",
+ "title": {
+  "id": "title",
+  "source": "A Wonderful Medicine"
+ },
+ "tradition": "Korea",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Korean Folk Tales",
+ "credits": "Yi, Yuk (author, d. 1498); Im, Pang (author, d. 1724); Gale, James Scarth (translator, d. 1937)",
+ "gutenberg": "Project Gutenberg eBook #51002 — https://www.gutenberg.org/ebooks/51002 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Korea/054 - A Wonderful Medicine.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 10,
+  "words": 170
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Prince Cheung had been First Minister of the land for thirty years."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He was a man just and upright, now nearly ninety years of age."
+    },
+    {
+     "id": "p001.s03",
+     "source": "His son was called Whal, and was second in influence only to his father."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Both were greatly renowned in the age in which they lived, and His Majesty treated them with special regard."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Prince Cheung’s home was suddenly attacked by goblins and devils, and when a young official came to call on him, these mysterious beings in broad daylight snatched the hat from his head and crumpled it up."
+    },
+    {
+     "id": "p001.s06",
+     "source": "They threw stones, too, and kept on throwing them so that all the court was reduced to confusion."
+    },
+    {
+     "id": "p001.s07",
+     "source": "Prince Cheung made his escape and went to live in another house, where he prepared a special medicine called sal-kwi-whan (kill-devil-pills), which he offered in prayer."
+    },
+    {
+     "id": "p001.s08",
+     "source": "From that time the goblins departed, and now after five or six years no sign of them has reappeared."
+    },
+    {
+     "id": "p001.s09",
+     "source": "Prince Cheung, too, is well and strong and free from sickness."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Yi Ryuk."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

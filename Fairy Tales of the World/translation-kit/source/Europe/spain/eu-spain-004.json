@@ -1,0 +1,74 @@
+{
+ "id": "eu-spain-004",
+ "title": {
+  "id": "title",
+  "source": "The Rise of Castilian"
+ },
+ "tradition": "Spain",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Spain",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Spain/004 - The Rise of Castilian.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 10,
+  "words": 237
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The evolution of Castilian from the original Latin spoken by the Roman colonists in Spain was complicated by many local circumstances."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Thus in contracting the vocables of the Roman tongue it did not omit the same syllables as the Italian, nor did it give such brevity to them as Provençal or Galician."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Probably because of the greater admixture of Gothic blood among those who spoke it, it is rich in aspirates, and has a stronger framework than almost any of the Romance tongues."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Thus the Latin f is in Castilian frequently altered to h , as hablar = fabulari , ‘to speak.’"
+    },
+    {
+     "id": "p001.s05",
+     "source": "The letter j , which is strongly aspirated, is frequently substituted for the liquid l , so that filius , ‘a son,’ becomes hijo ."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Liquid ll in its turn takes the place of Latin pl , and we find Latin planus , ‘smooth,’ appearing in Castilian as llano ( pron. lyáh-no)."
+    },
+    {
+     "id": "p001.s07",
+     "source": "The Spanish ch supplies the place of the Latin ct , as facto = hecho , dictu = dicho , and so on."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Other proofs of Teutonic association are not lacking."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Thus the g before c and i , which in Gothic and German is a guttural, has the same character in Castilian."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The Spanish conversion of o into ue also resembles the similar change in German, if, for example, we compare Castilian cuerpo and pueblo with the German Körper and Pöbel ."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

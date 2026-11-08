@@ -1,0 +1,103 @@
+{
+ "id": "as-china-029",
+ "title": {
+  "id": "title",
+  "source": "The Ancient Man"
+ },
+ "tradition": "China",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "The Chinese Fairy Book",
+ "credits": "Wilhelm, Richard (editor, d. 1930)",
+ "gutenberg": "Project Gutenberg eBook #29939 — https://www.gutenberg.org/ebooks/29939 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/China/029 - The Ancient Man.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 16,
+  "words": 186
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "O NCE upon a time there was a man named Huang An."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He must have been well over eighty and yet he looked like a youth."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He lived on cinnabar and wore no clothing."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Even in winter he went about without garments."
+    },
+    {
+     "id": "p001.s05",
+     "source": "He sat on a tortoise three feet long."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Once he was asked: “About how old might this tortoise be?”"
+    },
+    {
+     "id": "p001.s07",
+     "source": "He answered: “When Fu Hi first invented fish-nets and eel-pots he caught this tortoise and gave it to me."
+    },
+    {
+     "id": "p001.s08",
+     "source": "And since then I have worn its shield quite flat sitting on it."
+    },
+    {
+     "id": "p001.s09",
+     "source": "The creature dreads the radiance of the sun and moon, so it only sticks its head out of its shell once in two thousand years."
+    },
+    {
+     "id": "p001.s10",
+     "source": "Since I have had the beast, it has already stuck its head out five times.”"
+    },
+    {
+     "id": "p001.s11",
+     "source": "With these words he took his tortoise on his back and went off."
+    },
+    {
+     "id": "p001.s12",
+     "source": "And the legend arose that this man was ten thousand years old."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Note: Cinnabar is frequently used in the preparation of the elixir of life (comp."
+    },
+    {
+     "id": "p002.s02",
+     "source": "No. )."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Fu Hi is “the life-breeding breath.”"
+    },
+    {
+     "id": "p002.s04",
+     "source": "Tortoises live to a great age."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "eu-serbia-020",
+ "title": {
+  "id": "title",
+  "source": "Doushan the Powerful"
+ },
+ "tradition": "Serbia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Hero Tales and Legends of the Serbians",
+ "credits": "Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)",
+ "gutenberg": "Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Serbia/020 - Doushan the Powerful.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 8,
+  "words": 226
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Stevan Detchanski was dethroned by his son Doushan the Powerful (1331–1355), the most notable and most glorious of all Serbian sovereigns."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He aimed to establish his rule over the entire Balkan Peninsula, and having succeeded in overpowering nearly the whole of the Byzantine Empire, except Constantinople, he proclaimed himself, in agreement with the Vlastela (Assembly of Nobles), Tsar of Serbia."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He elevated the Serbian archbishopric to the dignity of the patriarchate."
+    },
+    {
+     "id": "p001.s04",
+     "source": "He subdued the whole of Albania and a part of Greece, while Bulgaria obeyed him almost as a vassal state."
+    },
+    {
+     "id": "p001.s05",
+     "source": "His premature death (some historians assert that he was poisoned by his own ministers) did not permit him to realize the whole of his great plan for Serbia, and under the rule of his younger son Ourosh (1355–1371) nearly all his magnificent work was undone owing to the incessant and insatiable greed of the powerful nobles, who thus paved the way for the Ottoman invasion."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Among those who rebelled against the new Tsar was King Voukashin."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Together with his brother and other lords, he held almost independently the whole territory adjoining Prizrend to the south of the mountain Shar."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "King Voukashin and his brother were defeated in a battle with the Turks on the banks of the River Maritza (1371), and all Serbian lands to the south of Skoplye (Üsküb) were occupied by the Turks."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

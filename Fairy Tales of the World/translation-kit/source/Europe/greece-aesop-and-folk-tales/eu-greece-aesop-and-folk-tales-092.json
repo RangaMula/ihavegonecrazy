@@ -1,0 +1,58 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-092",
+ "title": {
+  "id": "title",
+  "source": "The Huntsman and the Fisherman"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/092 - The Huntsman and the Fisherman.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 6,
+  "words": 118
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A HUNTSMAN, returning with his dogs from the field, fell in by chance with a Fisherman who was bringing home a basket well laden with fish."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The Huntsman wished to have the fish, and their owner experienced an equal longing for the contents of the game-bag."
+    },
+    {
+     "id": "p001.s03",
+     "source": "They quickly agreed to exchange the produce of their day’s sport."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Each was so well pleased with his bargain that they made for some time the same exchange day after day."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Finally a neighbor said to them, “If you go on in this way, you will soon destroy by frequent use the pleasure of your exchange, and each will again wish to retain the fruits of his own sport.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Abstain and enjoy."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

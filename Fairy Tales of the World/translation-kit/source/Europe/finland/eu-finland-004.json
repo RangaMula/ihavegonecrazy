@@ -1,0 +1,668 @@
+{
+ "id": "eu-finland-004",
+ "title": {
+  "id": "title",
+  "source": "Adventure I The Animals Take A Bite"
+ },
+ "tradition": "Finland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Mighty Mikko: A Book of Finnish Fairy Tales and Folk Tales",
+ "credits": "Fillmore, Parker (author, d. 1944)",
+ "gutenberg": "Project Gutenberg eBook #38112 — https://www.gutenberg.org/ebooks/38112 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Finland/004 - Adventure I The Animals Take A Bite.md",
+ "stats": {
+  "paragraphs": 51,
+  "segments": 85,
+  "words": 910
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A Farmer once dug a pit to trap the Animals that had been stealing his grain."
+    },
+    {
+     "id": "p001.s02",
+     "source": "By a strange chance he fell into his own pit and was killed."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The Ermine found him there."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“H’m,” thought the Ermine, “that’s the Farmer himself, isn’t it?"
+    },
+    {
+     "id": "p003.s02",
+     "source": "I better take him before any one else gets him.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "So the Ermine dragged the Farmer’s body out of the pit, put it on a sledge, and then, after taking a bite, began hauling it away."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Presently he met the Squirrel who clapped his hands in surprise."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“God bless you, brother!” the Squirrel exclaimed, “what’s that you’re hauling behind you?”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“It’s the Farmer himself,” the Ermine explained."
+    },
+    {
+     "id": "p007.s02",
+     "source": "“He fell into the pit that he had digged for us poor forest folk and serve him right, too!"
+    },
+    {
+     "id": "p007.s03",
+     "source": "Take a bite of him and then come along and help me pull.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Very well,” the Squirrel said."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "He took a bite of the Farmer and then marched along beside the Ermine, helping him to pull the sledge."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Presently they met Jussi, the Hare."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Jussi looked at them in amazement, his eyes popping out of his head."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Mercy me!” he cried, “what’s that you two are hauling?”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“It’s the Farmer,” the Ermine explained."
+    },
+    {
+     "id": "p012.s02",
+     "source": "“He fell into the pit that he digged for us poor forest folk and serve him right, too!"
+    },
+    {
+     "id": "p012.s03",
+     "source": "Take a bite of him, Jussi, and then come along and help us pull.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "So Jussi, the Hare, took a bite of the Farmer and then marched along beside the Ermine and the Squirrel helping them to pull the sledge."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Next they met Mikko, the Fox."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“Goodness me!”"
+    },
+    {
+     "id": "p015.s02",
+     "source": "Mikko said, “what’s that you three are hauling?”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "The Ermine again explained:"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“It’s the Farmer."
+    },
+    {
+     "id": "p017.s02",
+     "source": "He fell into the pit that he had digged for us poor forest folk and serve him right, too!"
+    },
+    {
+     "id": "p017.s03",
+     "source": "Take a bite of him, Mikko, and then come along and help us pull.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "So Mikko, the Fox, took a bite and then marched along beside the Ermine and the Squirrel and the Hare helping them to pull the sledge."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Next they met Pekka, the Wolf."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“Good gracious!”"
+    },
+    {
+     "id": "p020.s02",
+     "source": "Pekka cried, “what’s that you four are hauling?”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "The Ermine explained:"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“It’s the Farmer."
+    },
+    {
+     "id": "p022.s02",
+     "source": "He fell into the pit that he had digged for us poor forest folk and serve him right, too!"
+    },
+    {
+     "id": "p022.s03",
+     "source": "Take a bite of him, Pekka, and then help us pull.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "So Pekka, the Wolf, took a bite and then marched along beside the Ermine, the Squirrel, the Hare, and the Fox, helping them to pull the sledge."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Next they met Osmo, the Bear."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“Good heavens!”"
+    },
+    {
+     "id": "p025.s02",
+     "source": "Osmo rumbled, “what’s that you five are hauling?”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“It’s the Farmer,” the Ermine explained."
+    },
+    {
+     "id": "p026.s02",
+     "source": "“He fell into the pit that he had digged for us poor forest folk and serve him right, too!"
+    },
+    {
+     "id": "p026.s03",
+     "source": "Take a bite of him, Osmo, and then help us pull.”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "So Osmo, the Bear, took a bite and then marched along beside the Ermine, the Squirrel, the Hare, the Fox, and the Wolf, helping them to pull the sledge."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Well, they pulled and they pulled and whenever they felt tired or hungry they stopped and took a bite until the Farmer was about finished."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Then Pekka, the Wolf, said:"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“See here, brothers, we’ve eaten up every bit of the Farmer except his beard."
+    },
+    {
+     "id": "p030.s02",
+     "source": "What are we going to eat now?”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Osmo, the Bear, grunted out:"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“Huh!"
+    },
+    {
+     "id": "p032.s02",
+     "source": "That’s easy!"
+    },
+    {
+     "id": "p032.s03",
+     "source": "We’ll eat the smallest of us next!”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "He had no sooner spoken than the Squirrel ran up a tree and the Ermine slipped under a stone."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Pekka, the Wolf said:"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“But the smallest have escaped!”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Osmo, the Bear, grunted again:"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "“Huh!"
+    },
+    {
+     "id": "p037.s02",
+     "source": "The smallest now is that pop-eyed Jussi!"
+    },
+    {
+     "id": "p037.s03",
+     "source": "Let’s—”"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "At mention of his name the Hare went loping across the field and was soon at a safe distance."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Osmo, the Bear, put his heavy paw on the Fox’s shoulder."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "“Mikko,” he said, “it’s your turn now for you’re the smallest of us three.”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "Mikko, the Fox, pretended not to be at all afraid."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“That’s true,” he said, “I’m the smallest."
+    },
+    {
+     "id": "p042.s02",
+     "source": "All right, brothers, I’m ready."
+    },
+    {
+     "id": "p042.s03",
+     "source": "But before you eat me I wish you’d take me to the top of the hill."
+    },
+    {
+     "id": "p042.s04",
+     "source": "Down here in the valley it’s so gloomy.”"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“Very well,” the others agreed, “we’ll go where you say."
+    },
+    {
+     "id": "p043.s02",
+     "source": "It is more cheerful there.”"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "As they climbed the hill the Fox whispered to the Wolf:"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“Sst!"
+    },
+    {
+     "id": "p045.s02",
+     "source": "Pekka!"
+    },
+    {
+     "id": "p045.s03",
+     "source": "When you eat me whose turn will it be then?"
+    },
+    {
+     "id": "p045.s04",
+     "source": "Who will be the smallest then?”"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "“Mercy me!” the Wolf cried, “it will be my turn then, won’t it?”"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "The terror of the thought quite took his appetite away."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "“See here, Osmo,” he said to the Bear, “I don’t think it would be right for us to eat Mikko."
+    },
+    {
+     "id": "p048.s02",
+     "source": "You and I and Mikko ought to be friends and live together in peace."
+    },
+    {
+     "id": "p048.s03",
+     "source": "Now let’s take a vote on the matter and we’ll do whatever the majority says."
+    },
+    {
+     "id": "p048.s04",
+     "source": "I vote that we three be friends."
+    },
+    {
+     "id": "p048.s05",
+     "source": "What do you say, Mikko?”"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "The Fox said that he agreed with the Wolf."
+    },
+    {
+     "id": "p049.s02",
+     "source": "It would be much better all around if they three were friends."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "“Well,” grunted Osmo, the Bear, “it’s no use my voting for you two make a majority."
+    },
+    {
+     "id": "p050.s02",
+     "source": "But I must say I’m sorry to have you vote this way for I’m hungry.”"
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "So the three animals, the Bear, the Wolf, and the Fox, agreed henceforward to be friends and planned to live near each other in the woods behind the Farm."
+    }
+   ],
+   "id": "p051"
+  }
+ ]
+}

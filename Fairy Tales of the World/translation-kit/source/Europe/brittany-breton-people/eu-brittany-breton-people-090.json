@@ -1,0 +1,44 @@
+{
+ "id": "eu-brittany-breton-people-090",
+ "title": {
+  "id": "title",
+  "source": "La Roche-Jagu"
+ },
+ "tradition": "Brittany (Breton people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Brittany",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Brittany (Breton people)/090 - La Roche-Jagu.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 101
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "One of the most typical of the châteaux of Brittany is that of La Roche-Jagu, at one time the guardian of the mouth of the river Trieux."
+    },
+    {
+     "id": "p001.s02",
+     "source": "It is built on the top of a hill which overhangs the Trieux, and from one of its battlemented galleries a splendid view of the windings of the river can be obtained."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The wall on this side of the fortress is so thick as to allow of a chapel being hewn out of its solidity."
+    },
+    {
+     "id": "p001.s04",
+     "source": "A most distinctive architectural note is struck by the fourteen wonderful chimney-shafts of cut stone ornamented with iron spikes."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-053",
+ "title": {
+  "id": "title",
+  "source": "The Salt Merchant and His Ass"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/053 - The Salt Merchant and His Ass.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 7,
+  "words": 169
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A PEDDLER drove his Ass to the seashore to buy salt."
+    },
+    {
+     "id": "p001.s02",
+     "source": "His road home lay across a stream into which his Ass, making a false step, fell by accident and rose up again with his load considerably lighter, as the water melted the sack."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Peddler retraced his steps and refilled his panniers with a larger quantity of salt than before."
+    },
+    {
+     "id": "p001.s04",
+     "source": "When he came again to the stream, the Ass fell down on purpose in the same spot, and, regaining his feet with the weight of his load much diminished, brayed triumphantly as if he had obtained what he desired."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The Peddler saw through his trick and drove him for the third time to the coast, where he bought a cargo of sponges instead of salt."
+    },
+    {
+     "id": "p001.s06",
+     "source": "The Ass, again playing the fool, fell down on purpose when he reached the stream, but the sponges became swollen with water, greatly increasing his load."
+    },
+    {
+     "id": "p001.s07",
+     "source": "And thus his trick recoiled on him, for he now carried on his back a double burden."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

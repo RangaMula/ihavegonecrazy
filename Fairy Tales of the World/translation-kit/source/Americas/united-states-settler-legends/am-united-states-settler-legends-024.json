@@ -1,0 +1,66 @@
+{
+ "id": "am-united-states-settler-legends-024",
+ "title": {
+  "id": "title",
+  "source": "Horseheads"
+ },
+ "tradition": "United States (settler legends)",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths and Legends of Our Own Land — Complete",
+ "credits": "Skinner, Charles M. (Charles Montgomery) (author, d. 1907)",
+ "gutenberg": "Project Gutenberg eBook #6615 — https://www.gutenberg.org/ebooks/6615 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/United States (settler legends)/024 - Horseheads.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 8,
+  "words": 290
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The feeling recently created by an attempt to fasten the stupid names of Fairport or of North Elmira on the village in central New York that, off and on for fifty years, had been called Horseheads, caused an inquiry as to how that singular name chanced to be adopted for a settlement."
+    },
+    {
+     "id": "p001.s02",
+     "source": "In 1779, when General Sullivan was retiring toward the base of his supplies after a destructive campaign against the Indians in Genesee County, he stopped near this place and rested his troops."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The country was then rude, unbroken, and still beset with enemies, however, and when the march was resumed it was thought best to gain time over a part of the way by descending the Chemung River on rafts."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "As there were no appliances for building large floats, and the depth of the water was not known, the general ordered a destruction of all impedimenta that could be got rid of, and commanded that the poor and superfluous horses should be killed."
+    },
+    {
+     "id": "p002.s02",
+     "source": "His order was obeyed."
+    },
+    {
+     "id": "p002.s03",
+     "source": "As soon as the troops had gone, the wolves, that were then abundant, came forth and devoured the carcasses of the steeds, so that the clean-picked bones were strewn widely over the camp-ground."
+    },
+    {
+     "id": "p002.s04",
+     "source": "When the Indians ventured back into this region, some of them piled the skulls of the horses into heaps, and these curious monuments were found by white settlers who came into the valley some years later, and who named their village Horseheads, in commemoration of these relics."
+    },
+    {
+     "id": "p002.s05",
+     "source": "The Indians were especially loth to leave this region, for their tradition was that it had been the land of the Senecas from immemorial time, the tribe being descended from a couple that had a home on a hill near Horseheads."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

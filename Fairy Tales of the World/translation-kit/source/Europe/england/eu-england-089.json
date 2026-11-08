@@ -1,0 +1,119 @@
+{
+ "id": "eu-england-089",
+ "title": {
+  "id": "title",
+  "source": "The Luck Of Eden Hall. A Tale Of The Musgraves"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the English Lakes",
+ "credits": "Armistead, Wilson (author, d. 1868)",
+ "gutenberg": "Project Gutenberg eBook #42359 — https://www.gutenberg.org/ebooks/42359 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/089 - The Luck Of Eden Hall. A Tale Of The Musgraves.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 14,
+  "words": 416
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "E DEN HALL, the seat of the chief of the famous border clan of Musgrave, is a large and handsome edifice, on the west bank of the river Eden, built in the taste which prevailed about the time of the Charles's. Being bordered with trees, it forms an elegant feature in the pleasure grounds."
+    },
+    {
+     "id": "p001.s02",
+     "source": "There is here preserved, with scrupulous care, an old and anciently-painted glass goblet, called the \"Luck of Edenhall,\" which would appear, from the following traditionary legend, to be wedded to the fortunes of its present possessors."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The butler, in going to procure water at St. Cuthbert's well, in the neighbourhood (rather an unusual employment for a butler) came suddenly upon a company of fairies, who were feasting and making merry on the green sward."
+    },
+    {
+     "id": "p001.s04",
+     "source": "In their flight they left behind this glass, and one of them returning for it, found it in the hands of the butler."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Seeing that its recovery was hopeless, she flew away, singing aloud—"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The connection of the prosperity of the family with the integrity of an inanimate object, has frequently been one of the playthings of tradition, and traces of the superstition are found in ancient fable."
+    },
+    {
+     "id": "p002.s02",
+     "source": "There is a legend of this kind attached to a pear, preserved in a silver box at Coalstoun, the seat of the Earl of Dalhousie, near Haddington; and there is or was, a glass cap at Muncaster castle, given by Henry VI. to Sir John Pennington, which, from the general opinion of the King's sanctity, and that he entailed with the gift a blessing on the family, was called \"the Luck of Muncaster.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The initials, I. H. S., are marked upon the case containing the goblet at Eden Hall, sufficiently showing the sacred uses to which it was originally appropriated."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Philip, Duke of Wharton, alludes to it in his ballad, called—"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "THE DRINKING MATCH OF EDEN HALL"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "J. H. Wiffen wrote a short poem upon the \"Luck of Eden Hall,\" and the German poet, Upland, has a ballad upon the same subject."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "The Musgraves are a family of great antiquity and reputation."
+    },
+    {
+     "id": "p006.s02",
+     "source": "They came to England with the Conqueror, and settled first in Musgrave, in Westmoreland; then at Hartley Castle, in the same county; and, finally, at their present residence at Eden Hall."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Sir Philip Musgrave, who was commander-in-chief of the king's troops for Cumberland and Westmoreland, in the Parliamentary war, just walks across the stage in Scott's legend of Montrose; but, by mistake the novelist calls him Sir Miles."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p007"
+  }
+ ]
+}

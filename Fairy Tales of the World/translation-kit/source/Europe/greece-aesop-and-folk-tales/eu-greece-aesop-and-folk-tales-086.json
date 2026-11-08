@@ -1,0 +1,70 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-086",
+ "title": {
+  "id": "title",
+  "source": "The Mouse, the Frog, and the Hawk"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/086 - The Mouse, the Frog, and the Hawk.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 9,
+  "words": 180
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A MOUSE who always lived on the land, by an unlucky chance formed an intimate acquaintance with a Frog, who lived for the most part in the water."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The Frog, one day intent on mischief, bound the foot of the Mouse tightly to his own."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Thus joined together, the Frog first of all led his friend the Mouse to the meadow where they were accustomed to find their food."
+    },
+    {
+     "id": "p001.s04",
+     "source": "After this, he gradually led him towards the pool in which he lived, until reaching the very brink, he suddenly jumped in, dragging the Mouse with him."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The Frog enjoyed the water amazingly, and swam croaking about, as if he had done a good deed."
+    },
+    {
+     "id": "p001.s06",
+     "source": "The unhappy Mouse was soon suffocated by the water, and his dead body floated about on the surface, tied to the foot of the Frog."
+    },
+    {
+     "id": "p001.s07",
+     "source": "A Hawk observed it, and, pouncing upon it with his talons, carried it aloft."
+    },
+    {
+     "id": "p001.s08",
+     "source": "The Frog, being still fastened to the leg of the Mouse, was also carried off a prisoner, and was eaten by the Hawk."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Harm hatch, harm catch."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

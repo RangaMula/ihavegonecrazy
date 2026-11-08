@@ -1,0 +1,786 @@
+{
+ "id": "as-japan-095",
+ "title": {
+  "id": "title",
+  "source": "The Nurse"
+ },
+ "tradition": "Japan",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Japanese Fairy Tales",
+ "credits": "James, Grace (author)",
+ "gutenberg": "Project Gutenberg eBook #35853 — https://www.gutenberg.org/ebooks/35853 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Japan/095 - The Nurse.md",
+ "stats": {
+  "paragraphs": 48,
+  "segments": 119,
+  "words": 1411
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Idé the samurai was wedded to a fair wife and had an only child, a boy called Fugiwaka."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Idé was a mighty man of war, and as often as not he was away from home upon the business of his liege lord."
+    },
+    {
+     "id": "p001.s03",
+     "source": "So the child Fugiwaka was reared by his mother and by the faithful woman, his nurse."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Matsu was her name, which is, in the speech of the country, the Pine Tree."
+    },
+    {
+     "id": "p001.s05",
+     "source": "And even as the pine tree, strong and evergreen, was she, unchanging and enduring."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "In the house of Idé there was a very precious sword."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Aforetime a hero of Idé’s clan slew eight-and-forty of his enemies with this sword in one battle."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The sword was Idé’s most sacred treasure."
+    },
+    {
+     "id": "p002.s04",
+     "source": "He kept it laid away in a safe place with his household gods."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Morning and evening the child Fugiwaka came to make salutations before the household gods, and to reverence the glorious memory of his ancestors."
+    },
+    {
+     "id": "p003.s02",
+     "source": "And Matsu, the nurse, knelt by his side."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Morning and evening, “Show me the sword, O Matsu, my nurse,” said Fugiwaka."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "And O Matsu made answer, “Of a surety, my lord, I will show it to you.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Then she brought the sword from its place, wrapped in a covering of red and gold brocade."
+    },
+    {
+     "id": "p006.s02",
+     "source": "And she drew off the covering and she took the sword from its golden sheath and displayed the bright steel to Fugiwaka."
+    },
+    {
+     "id": "p006.s03",
+     "source": "And the child made obeisance till his forehead touched the mats."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "At bedtime O Matsu sang songs and lullabies."
+    },
+    {
+     "id": "p007.s02",
+     "source": "She sang this song:"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Then O Matsu said, “Will you sleep now, my lord Fugiwaka?”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "And the child answered, “I will sleep now, O Matsu.”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“Listen, my lord,” she said, “and, sleeping or waking, remember."
+    },
+    {
+     "id": "p010.s02",
+     "source": "The sword is your treasure."
+    },
+    {
+     "id": "p010.s03",
+     "source": "The sword is your trust."
+    },
+    {
+     "id": "p010.s04",
+     "source": "The sword is your fortune."
+    },
+    {
+     "id": "p010.s05",
+     "source": "Cherish it, guard it, keep it.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Sleeping or waking, I will remember,” said Fugiwaka."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Now in an evil day the mother of Fugiwaka fell sick and died."
+    },
+    {
+     "id": "p012.s02",
+     "source": "And there was mourning in the house of Idé."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Howbeit, when years were past, the samurai took another bride, and he had a son by her and called him Goro."
+    },
+    {
+     "id": "p012.s04",
+     "source": "And after this Idé himself was slain in an ambush, and his retainers brought his body home and laid him with his fathers."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Fugiwaka was chief of the House of Idé."
+    },
+    {
+     "id": "p013.s02",
+     "source": "But the Lady Sadako, his stepmother, was ill-pleased."
+    },
+    {
+     "id": "p013.s03",
+     "source": "Black mischief stirred in her heart; she bent her brows and she brooded as she went her ways, bearing her babe in her arms."
+    },
+    {
+     "id": "p013.s04",
+     "source": "At night she tossed upon her bed."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“My child is a beggar,” she said."
+    },
+    {
+     "id": "p014.s02",
+     "source": "“Fugiwaka is chief of the House of Idé."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Evil fortune betide him!"
+    },
+    {
+     "id": "p014.s04",
+     "source": "It is too much,” said the proud lady."
+    },
+    {
+     "id": "p014.s05",
+     "source": "“I will not brook it; my child a beggar!"
+    },
+    {
+     "id": "p014.s06",
+     "source": "I would rather strangle him with my hands....”"
+    },
+    {
+     "id": "p014.s07",
+     "source": "Thus she spoke and tossed upon her bed, thinking of a plan."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "When Fugiwaka was fifteen years old she turned him out of the house with a poor garment upon his back, barefooted, with never a bite nor a sup nor a gold piece to see him on his way."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“Ah, lady mother,” he said, “you use me ill."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Why do you take my birthright?”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“I know nought of birthrights,” she said."
+    },
+    {
+     "id": "p017.s02",
+     "source": "“Go, make your own fortune if you can."
+    },
+    {
+     "id": "p017.s03",
+     "source": "Your brother Goro is chief of the House of Idé.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "With that she bade them shut the door in his face."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Fugiwaka departed sorrowfully, and at the cross-roads O Matsu, his nurse, met him."
+    },
+    {
+     "id": "p019.s02",
+     "source": "She had made herself ready for a journey: her robe was kilted, she had a staff in her hand and sandals on her feet."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“My lord,” she said, “I am come to follow you to the world’s end.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Then Fugiwaka wept and laid his head upon the woman’s breast."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“Ah,” he said, “my nurse, my nurse!"
+    },
+    {
+     "id": "p022.s02",
+     "source": "And,” he said, “what of my father’s sword?"
+    },
+    {
+     "id": "p022.s03",
+     "source": "I have lost the precious sword of Idé."
+    },
+    {
+     "id": "p022.s04",
+     "source": "The sword is my treasure, the sword is my trust, the sword is my fortune."
+    },
+    {
+     "id": "p022.s05",
+     "source": "I am bound to cherish it, to guard it, to keep it."
+    },
+    {
+     "id": "p022.s06",
+     "source": "But now I have lost it."
+    },
+    {
+     "id": "p022.s07",
+     "source": "Woe is me!"
+    },
+    {
+     "id": "p022.s08",
+     "source": "I am undone, and so is all the House of Idé!”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“Oh, say not so, my lord,” said O Matsu."
+    },
+    {
+     "id": "p023.s02",
+     "source": "“Here is gold; go you your way and I will return and guard the sword of Idé.”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "So Fugiwaka went his way with the gold that his nurse gave him."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "As for O Matsu, she went straightway and took the sword from its place where it lay with the household gods, and she buried it deep in the ground until such time as she might bear it in safety to her young lord."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "But soon the Lady Sadako became aware that the sacred sword was gone."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“It is the nurse!” she cried."
+    },
+    {
+     "id": "p027.s02",
+     "source": "“The nurse has stolen it...."
+    },
+    {
+     "id": "p027.s03",
+     "source": "Some of you bring her to me.”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Then the Lady Sadako’s people laid their hands roughly upon O Matsu and brought her before their mistress."
+    },
+    {
+     "id": "p028.s02",
+     "source": "But for all they could do O Matsu’s lips were sealed."
+    },
+    {
+     "id": "p028.s03",
+     "source": "She spoke never a word, neither could the Lady Sadako find out where the sword was."
+    },
+    {
+     "id": "p028.s04",
+     "source": "She pressed her thin lips together."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“The woman is obstinate,” she said."
+    },
+    {
+     "id": "p029.s02",
+     "source": "“No matter; for such a fault I know the sovereign cure.”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "So she locked O Matsu in a dark dungeon and gave her neither food nor drink."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Every day the Lady Sadako went to the door of the dark dungeon."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“Well,” she said, “where is the sword of Idé?"
+    },
+    {
+     "id": "p031.s02",
+     "source": "Will you say?”"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "But O Matsu answered not a word."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Howbeit she wept and sighed to herself in the darkness—“Alas!"
+    },
+    {
+     "id": "p033.s02",
+     "source": "Alas! never alive may I come to my young lord."
+    },
+    {
+     "id": "p033.s03",
+     "source": "Yet he must have the sword of Idé, and I shall find a way.”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Now after seven days the Lady Sadako sat in the garden-house to cool herself, for it was summer."
+    },
+    {
+     "id": "p034.s02",
+     "source": "The time was evening."
+    },
+    {
+     "id": "p034.s03",
+     "source": "Presently she saw a woman that came towards her through the garden flowers and trees."
+    },
+    {
+     "id": "p034.s04",
+     "source": "Frail and slender was the woman; as she came her body swayed and her slow steps faltered."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“Why, this is strange!” said the Lady Sadako."
+    },
+    {
+     "id": "p035.s02",
+     "source": "“Here is O Matsu, that was locked in the dark dungeon.”"
+    },
+    {
+     "id": "p035.s03",
+     "source": "And she sat still, watching."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "But O Matsu went to the place where she had buried the sword and scratched at the ground with her fingers."
+    },
+    {
+     "id": "p036.s02",
+     "source": "There she was, weeping and moaning and dragging at the earth."
+    },
+    {
+     "id": "p036.s03",
+     "source": "The stones cut her hands and they bled."
+    },
+    {
+     "id": "p036.s04",
+     "source": "Still she tore away the earth and found the sword at last."
+    },
+    {
+     "id": "p036.s05",
+     "source": "It was in its wrapping of gold and scarlet, and she clasped it to her bosom with a loud cry."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "“Woman, I have you now,” shrieked the Lady Sadako, “and the sword of Idé as well!”"
+    },
+    {
+     "id": "p037.s02",
+     "source": "And she leaped from the garden-house and ran at full speed."
+    },
+    {
+     "id": "p037.s03",
+     "source": "She stretched forth her hand to catch O Matsu by the sleeve, but did not have her or the sword either, for both of them were gone in a flash, and the lady beat the empty air."
+    },
+    {
+     "id": "p037.s04",
+     "source": "Swiftly she sped to the dark dungeon, and as she went she called her people to bring torches."
+    },
+    {
+     "id": "p037.s05",
+     "source": "There lay the body of poor O Matsu, cold and dead upon the dungeon floor."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“Send me the Wise Woman,” said the Lady Sadako."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "So they sent for the Wise Woman."
+    },
+    {
+     "id": "p039.s02",
+     "source": "And the Lady Sadako asked, “How long has she been dead?”"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "The Wise Woman said, “She was starved to death; she has been dead two days."
+    },
+    {
+     "id": "p040.s02",
+     "source": "It were well you gave her fit burial; she was a good soul.”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "As for the sword of Idé, it was not found."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "Fugiwaka tossed to and fro upon his lowly bed in a wayside tavern."
+    },
+    {
+     "id": "p042.s02",
+     "source": "And it seemed to him that his nurse came to him and knelt by his side."
+    },
+    {
+     "id": "p042.s03",
+     "source": "Then he was soothed."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "O Matsu said, “Will you sleep now, my lord Fugiwaka?”"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "And he answered, “I will sleep now, O Matsu.”"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“Listen, my lord,” she said, “and, sleeping or waking, remember."
+    },
+    {
+     "id": "p045.s02",
+     "source": "The sword is your treasure."
+    },
+    {
+     "id": "p045.s03",
+     "source": "The sword is your trust."
+    },
+    {
+     "id": "p045.s04",
+     "source": "The sword is your fortune."
+    },
+    {
+     "id": "p045.s05",
+     "source": "Cherish it, guard it, keep it.”"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "The sword was in its wrapping of gold and scarlet, and she laid it by Fugiwaka’s side."
+    },
+    {
+     "id": "p046.s02",
+     "source": "The boy turned over to sleep, and his hand clasped the sword of Idé."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“Waking or sleeping,” he said, “I will remember.”"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "The Beautiful Dancer of Yedo.— P. 250."
+    }
+   ],
+   "id": "p048"
+  }
+ ]
+}

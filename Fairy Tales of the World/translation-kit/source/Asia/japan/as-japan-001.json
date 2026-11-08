@@ -1,0 +1,718 @@
+{
+ "id": "as-japan-001",
+ "title": {
+  "id": "title",
+  "source": "My Lord Bag Of Rice"
+ },
+ "tradition": "Japan",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Japanese Fairy Tales",
+ "credits": "Ozaki, Yei Theodora (author, d. 1932)",
+ "gutenberg": "Project Gutenberg eBook #4018 — https://www.gutenberg.org/ebooks/4018 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Japan/001 - My Lord Bag Of Rice.md",
+ "stats": {
+  "paragraphs": 40,
+  "segments": 114,
+  "words": 2310
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Long, long ago there lived, in Japan a brave warrior known to all as Tawara Toda, or \"My Lord Bag of Rice.\""
+    },
+    {
+     "id": "p001.s02",
+     "source": "His true name was Fujiwara Hidesato, and there is a very interesting story of how he came to change his name."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "One day he sallied forth in search of adventures, for he had the nature of a warrior and could not bear to be idle."
+    },
+    {
+     "id": "p002.s02",
+     "source": "So he buckled on his two swords, took his huge bow, much taller than himself, in his hand, and slinging his quiver on his back started out."
+    },
+    {
+     "id": "p002.s03",
+     "source": "He had not gone far when he came to the bridge of Seta-no-Karashi spanning one end of the beautiful Lake Biwa."
+    },
+    {
+     "id": "p002.s04",
+     "source": "No sooner had he set foot on the bridge than he saw lying right across his path a huge serpent-dragon."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Its body was so big that it looked like the trunk of a large pine tree and it took up the whole width of the bridge."
+    },
+    {
+     "id": "p002.s06",
+     "source": "One of its huge claws rested on the parapet of one side of the bridge, while its tail lay right against the other."
+    },
+    {
+     "id": "p002.s07",
+     "source": "The monster seemed to be asleep, and as it breathed, fire and smoke came out of its nostrils."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "At first Hidesato could not help feeling alarmed at the sight of this horrible reptile lying in his path, for he must either turn back or walk right over its body."
+    },
+    {
+     "id": "p003.s02",
+     "source": "He was a brave man, however, and putting aside all fear went forward dauntlessly."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Crunch, crunch! he stepped now on the dragon's body, now between its coils, and without even one glance backward he went on his way."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "He had only gone a few steps when he heard some one calling him from behind."
+    },
+    {
+     "id": "p004.s02",
+     "source": "On turning back he was much surprised to see that the monster dragon had entirely disappeared and in its place was a strange-looking man, who was bowing most ceremoniously to the ground."
+    },
+    {
+     "id": "p004.s03",
+     "source": "His red hair streamed over his shoulders and was surmounted by a crown in the shape of a dragon's head, and his sea-green dress was patterned with shells."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Hidesato knew at once that this was no ordinary mortal and he wondered much at the strange occurrence."
+    },
+    {
+     "id": "p004.s05",
+     "source": "Where had the dragon gone in such a short space of time?"
+    },
+    {
+     "id": "p004.s06",
+     "source": "Or had it transformed itself into this man, and what did the whole thing mean?"
+    },
+    {
+     "id": "p004.s07",
+     "source": "While these thoughts passed through his mind he had come up to the man on the bridge and now addressed him:"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Was it you that called me just now?\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"Yes, it was I,\" answered the man: \"I have an earnest request to make to you."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Do you think you can grant it to me?\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"If it is in my power to do so I will,\" answered Hidesato, \"but first tell me who you are?\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"I am the Dragon King of the Lake, and my home is in these waters just under this bridge.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"And what is it you have to ask of me?\" said Hidesato."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"I want you to kill my mortal enemy the centipede, who lives on the mountain beyond,\" and the Dragon King pointed to a high peak on the opposite shore of the lake."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"I have lived now for many years in this lake and I have a large family of children and grand-children."
+    },
+    {
+     "id": "p011.s02",
+     "source": "For some time past we have lived in terror, for a monster centipede has discovered our home, and night after night it comes and carries off one of my family."
+    },
+    {
+     "id": "p011.s03",
+     "source": "I am powerless to save them."
+    },
+    {
+     "id": "p011.s04",
+     "source": "If it goes on much longer like this, not only shall I lose all my children, but I myself must fall a victim to the monster."
+    },
+    {
+     "id": "p011.s05",
+     "source": "I am, therefore, very unhappy, and in my extremity I determined to ask the help of a human being."
+    },
+    {
+     "id": "p011.s06",
+     "source": "For many days with this intention I have waited on the bridge in the shape of the horrible serpent-dragon that you saw, in the hope that some strong brave man would come along."
+    },
+    {
+     "id": "p011.s07",
+     "source": "But all who came this way, as soon as they saw me were terrified and ran away as fast as they could."
+    },
+    {
+     "id": "p011.s08",
+     "source": "You are the first man I have found able to look at me without fear, so I knew at once that you were a man of great courage."
+    },
+    {
+     "id": "p011.s09",
+     "source": "I beg you to have pity upon me."
+    },
+    {
+     "id": "p011.s10",
+     "source": "Will you not help me and kill my enemy the centipede?\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Hidesato felt very sorry for the Dragon King on hearing his story, and readily promised to do what he could to help him."
+    },
+    {
+     "id": "p012.s02",
+     "source": "The warrior asked where the centipede lived, so that he might attack the creature at once."
+    },
+    {
+     "id": "p012.s03",
+     "source": "The Dragon King replied that its home was on the mountain Mikami, but that as it came every night at a certain hour to the palace of the lake, it would be better to wait till then."
+    },
+    {
+     "id": "p012.s04",
+     "source": "So Hidesato was conducted to the palace of the Dragon King, under the bridge."
+    },
+    {
+     "id": "p012.s05",
+     "source": "Strange to say, as he followed his host downwards the waters parted to let them pass, and his clothes did not even feel damp as he passed through the flood."
+    },
+    {
+     "id": "p012.s06",
+     "source": "Never had Hidesato seen anything so beautiful as this palace built of white marble beneath the lake."
+    },
+    {
+     "id": "p012.s07",
+     "source": "He had often heard of the Sea King's palace at the bottom of the sea, where all the servants and retainers were salt-water fishes, but here was a magnificent building in the heart of Lake Biwa."
+    },
+    {
+     "id": "p012.s08",
+     "source": "The dainty goldfishes, red carp, and silvery trout, waited upon the Dragon King and his guest."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Hidesato was astonished at the feast that was spread for him."
+    },
+    {
+     "id": "p013.s02",
+     "source": "The dishes were crystallized lotus leaves and flowers, and the chopsticks were of the rarest ebony."
+    },
+    {
+     "id": "p013.s03",
+     "source": "As soon as they sat down, the sliding doors opened and ten lovely goldfish dancers came out, and behind them followed ten red-carp musicians with the koto and the samisen."
+    },
+    {
+     "id": "p013.s04",
+     "source": "Thus the hours flew by till midnight, and the beautiful music and dancing had banished all thoughts of the centipede."
+    },
+    {
+     "id": "p013.s05",
+     "source": "The Dragon King was about to pledge the warrior in a fresh cup of wine when the palace was suddenly shaken by a tramp, tramp! as if a mighty army had begun to march not far away."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Hidesato and his host both rose to their feet and rushed to the balcony, and the warrior saw on the opposite mountain two great balls of glowing fire coming nearer and nearer."
+    },
+    {
+     "id": "p014.s02",
+     "source": "The Dragon King stood by the warrior's side trembling with fear."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"The centipede!"
+    },
+    {
+     "id": "p015.s02",
+     "source": "The centipede!"
+    },
+    {
+     "id": "p015.s03",
+     "source": "Those two balls of fire are its eyes."
+    },
+    {
+     "id": "p015.s04",
+     "source": "It is coming for its prey!"
+    },
+    {
+     "id": "p015.s05",
+     "source": "Now is the time to kill it.\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Hidesato looked where his host pointed, and, in the dim light of the starlit evening, behind the two balls of fire he saw the long body of an enormous centipede winding round the mountains, and the light in its hundred feet glowed like so many distant lanterns moving slowly towards the shore."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Hidesato showed not the least sign of fear."
+    },
+    {
+     "id": "p017.s02",
+     "source": "He tried to calm the Dragon King."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Don't be afraid."
+    },
+    {
+     "id": "p018.s02",
+     "source": "I shall surely kill the centipede."
+    },
+    {
+     "id": "p018.s03",
+     "source": "Just bring me my bow and arrows.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "The Dragon King did as he was bid, and the warrior noticed that he had only three arrows left in his quiver."
+    },
+    {
+     "id": "p019.s02",
+     "source": "He took the bow, and fitting an arrow to the notch, took careful aim and let fly."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "The arrow hit the centipede right in the middle of its head, but instead of penetrating, it glanced off harmless and fell to the ground."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Nothing daunted, Hidesato took another arrow, fitted it to the notch of the bow and let fly."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Again the arrow hit the mark, it struck the centipede right in the middle of its head, only to glance off and fall to the ground."
+    },
+    {
+     "id": "p021.s03",
+     "source": "The centipede was invulnerable to weapons!"
+    },
+    {
+     "id": "p021.s04",
+     "source": "When the Dragon King saw that even this brave warrior's arrows were powerless to kill the centipede, he lost heart and began to tremble with fear."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "The warrior saw that he had now only one arrow left in his quiver, and if this one failed he could not kill the centipede."
+    },
+    {
+     "id": "p022.s02",
+     "source": "He looked across the waters."
+    },
+    {
+     "id": "p022.s03",
+     "source": "The huge reptile had wound its horrid body seven times round the mountain and would soon come down to the lake."
+    },
+    {
+     "id": "p022.s04",
+     "source": "Nearer and nearer gleamed fireballs of eyes, and the light of its hundred feet began to throw reflections in the still waters of the lake."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Then suddenly the warrior remembered that he had heard that human saliva was deadly to centipedes."
+    },
+    {
+     "id": "p023.s02",
+     "source": "But this was no ordinary centipede."
+    },
+    {
+     "id": "p023.s03",
+     "source": "This was so monstrous that even to think of such a creature made one creep with horror."
+    },
+    {
+     "id": "p023.s04",
+     "source": "Hidesato determined to try his last chance."
+    },
+    {
+     "id": "p023.s05",
+     "source": "So taking his last arrow and first putting the end of it in his mouth, he fitted the notch to his bow, took careful aim once more and let fly."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "This time the arrow again hit the centipede right in the middle of its head, but instead of glancing off harmlessly as before, it struck home to the creature's brain."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Then with a convulsive shudder the serpentine body stopped moving, and the fiery light of its great eyes and hundred feet darkened to a dull glare like the sunset of a stormy day, and then went out in blackness."
+    },
+    {
+     "id": "p024.s03",
+     "source": "A great darkness now overspread the heavens, the thunder rolled and the lightning flashed, and the wind roared in fury, and it seemed as if the world were coming to an end."
+    },
+    {
+     "id": "p024.s04",
+     "source": "The Dragon King and his children and retainers all crouched in different parts of the palace, frightened to death, for the building was shaken to its foundation."
+    },
+    {
+     "id": "p024.s05",
+     "source": "At last the dreadful night was over."
+    },
+    {
+     "id": "p024.s06",
+     "source": "Day dawned beautiful and clear."
+    },
+    {
+     "id": "p024.s07",
+     "source": "The centipede was gone from the mountain."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Then Hidesato called to the Dragon King to come out with him on the balcony, for the centipede was dead and he had nothing more to fear."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Then all the inhabitants of the palace came out with joy, and Hidesato pointed to the lake."
+    },
+    {
+     "id": "p026.s02",
+     "source": "There lay the body of the dead centipede floating on the water, which was dyed red with its blood."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "The gratitude of the Dragon King knew no bounds."
+    },
+    {
+     "id": "p027.s02",
+     "source": "The whole family came and bowed down before the warrior, calling him their preserver and the bravest warrior in all Japan."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Another feast was prepared, more sumptuous than the first."
+    },
+    {
+     "id": "p028.s02",
+     "source": "All kinds of fish, prepared in every imaginable way, raw, stewed, boiled and roasted, served on coral trays and crystal dishes, were put before him, and the wine was the best that Hidesato had ever tasted in his life."
+    },
+    {
+     "id": "p028.s03",
+     "source": "To add to the beauty of everything the sun shone brightly, the lake glittered like a liquid diamond, and the palace was a thousand times more beautiful by day than by night."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "His host tried to persuade the warrior to stay a few days, but Hidesato insisted on going home, saying that he had now finished what he had come to do, and must return."
+    },
+    {
+     "id": "p029.s02",
+     "source": "The Dragon King and his family were all very sorry to have him leave so soon, but since he would go they begged him to accept a few small presents (so they said) in token of their gratitude to him for delivering them forever from their horrible enemy the centipede."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "As the warrior stood in the porch taking leave, a train of fish was suddenly transformed into a retinue of men, all wearing ceremonial robes and dragon's crowns on their heads to show that they were servants of the great Dragon King."
+    },
+    {
+     "id": "p030.s02",
+     "source": "The presents that they carried were as follows:"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "First, a large bronze bell."
+    },
+    {
+     "id": "p031.s02",
+     "source": "Second, a bag of rice."
+    },
+    {
+     "id": "p031.s03",
+     "source": "Third, a roll of silk."
+    },
+    {
+     "id": "p031.s04",
+     "source": "Fourth, a cooking pot."
+    },
+    {
+     "id": "p031.s05",
+     "source": "Fifth, a bell."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Hidesato did not want to accept all these presents, but as the Dragon King insisted, he could not well refuse."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "The Dragon King himself accompanied the warrior as far as the bridge, and then took leave of him with many bows and good wishes, leaving the procession of servants to accompany Hidesato to his house with the presents."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "The warrior's household and servants had been very much concerned when they found that he did not return the night before, but they finally concluded that he had been kept by the violent storm and had taken shelter somewhere."
+    },
+    {
+     "id": "p034.s02",
+     "source": "When the servants on the watch for his return caught sight of him they called to every one that he was approaching, and the whole household turned out to meet him, wondering much what the retinue of men, bearing presents and banners, that followed him, could mean."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "As soon as the Dragon King's retainers had put down the presents they vanished, and Hidesato told all that had happened to him."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "The presents which he had received from the grateful Dragon King were found to be of magic power."
+    },
+    {
+     "id": "p036.s02",
+     "source": "The bell only was ordinary, and as Hidesato had no use for it he presented it to the temple near by, where it was hung up, to boom out the hour of day over the surrounding neighborhood."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "The single bag of rice, however much was taken from it day after day for the meals of the knight and his whole family, never grew less—the supply in the bag was inexhaustible."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "The roll of silk, too, never grew shorter, though time after time long pieces were cut off to make the warrior a new suit of clothes to go to Court in at the New Year."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "The cooking pot was wonderful, too."
+    },
+    {
+     "id": "p039.s02",
+     "source": "No matter what was put into it, it cooked deliciously whatever was wanted without any firing—truly a very economical saucepan."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "The fame of Hidesato's fortune spread far and wide, and as there was no need for him to spend money on rice or silk or firing, he became very rich and prosperous, and was henceforth known as My Lord Bag of Rice."
+    }
+   ],
+   "id": "p040"
+  }
+ ]
+}

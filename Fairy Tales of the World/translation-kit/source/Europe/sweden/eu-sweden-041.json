@@ -1,0 +1,261 @@
+{
+ "id": "eu-sweden-041",
+ "title": {
+  "id": "title",
+  "source": "The Cat of Norrhult"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/041 - The Cat of Norrhult.md",
+ "stats": {
+  "paragraphs": 18,
+  "segments": 33,
+  "words": 597
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "On the estate of Norrhult, in the parish of Rumskulla, the people in olden times were very much troubled by Trolls and ghosts."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The disturbances finally became so unbearable that they were compelled to desert house and home, and seek an asylum with their neighbors."
+    },
+    {
+     "id": "p001.s03",
+     "source": "One old man was left behind, and he, because he was so feeble that he could not move with the rest."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Some time thereafter, there came one evening a man having with him a bear, and asked for lodgings for himself and companion."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The old man consented, but expressed doubts about his guest being able to endure the disturbances that were likely to occur during the night."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The stranger replied that he was not afraid of noises, and laid himself down, with his bear, near the old man’s bed."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Only a few hours had passed, when a multitude of Trolls came into the hut and began their usual clatter."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Some of them built the fire in the fireplace, others set the kettle upon the fire, and others again put into the kettle a mess of filth, such as lizards, frogs, worms, etc."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "When the mess was cooked, the table was laid and the Trolls sat down to the repast."
+    },
+    {
+     "id": "p005.s02",
+     "source": "One of them threw a worm to the bear, and said:"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Will you have a fish, Kitty?” [ ]"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Another went to the bear keeper and asked him if he would not have some of their food."
+    },
+    {
+     "id": "p007.s02",
+     "source": "At this the latter let loose the bear, which struck about him so lustily that soon the whole swarm was flying through the door."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Some time after, the door was again opened, and a Troll with mouth so large that it filled the whole opening peeked in."
+    },
+    {
+     "id": "p008.s02",
+     "source": "“Sic him!” said the bear keeper, and the bear soon hunted him away also."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "In the morning the stranger gathered the people of the village around him and directed them to raise a cross upon the estate, and to engrave a prayer on Cross Mountain, where the Trolls dwelt, and they would be freed from their troublesome visitors."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Seven years later a resident of Norrhult went to Norrköping."
+    },
+    {
+     "id": "p010.s02",
+     "source": "On his way home he met a man who asked him where he came from, and, upon being informed, claimed to be a neighbor, and invited the peasant to ride with him on his black horse."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Away they went at a lively trot along the road, the peasant supposed, but in fact high up in the air."
+    },
+    {
+     "id": "p010.s04",
+     "source": "When it became quite dark the horse stumbled so that the peasant came near falling off."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“It is well you were able to hold on,” said the horseman."
+    },
+    {
+     "id": "p011.s02",
+     "source": "“That was the point of the steeple of Linköping’s cathedral that the horse stumbled against."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Listen!” continued he."
+    },
+    {
+     "id": "p011.s04",
+     "source": "“Seven years ago I visited Norrhult."
+    },
+    {
+     "id": "p011.s05",
+     "source": "You then had a vicious cat there; is it still alive?”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Yes, truly, and many more,” said the peasant."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "After a time the rider checked his horse and bade [ ] the peasant dismount."
+    },
+    {
+     "id": "p013.s02",
+     "source": "When the latter looked around him he found himself at Cross Mountain, near his home."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Some time later another Troll came to the peasant’s cottage and asked if that great savage cat still lived."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“Look out!” said the peasant, “she is lying there on the oven, and has seven young ones, all worse than she.”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“Oh!” cried the Troll, and rushed for the door."
+    },
+    {
+     "id": "p016.s02",
+     "source": "From that time no Trolls have ever visited Norrhult. [ ]"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Not longer than thirty years ago a cross, said to be the one raised on this occasion, was still standing in Norrhult. ↑"
+    }
+   ],
+   "id": "p018"
+  }
+ ]
+}

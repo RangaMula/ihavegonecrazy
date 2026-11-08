@@ -1,0 +1,174 @@
+{
+ "id": "eu-scotland-082",
+ "title": {
+  "id": "title",
+  "source": "Brewery Of Eggshells"
+ },
+ "tradition": "Scotland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Celtic Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #7885 — https://www.gutenberg.org/ebooks/7885 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Scotland/082 - Brewery Of Eggshells.md",
+ "stats": {
+  "paragraphs": 10,
+  "segments": 23,
+  "words": 458
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In Treneglwys there is a certain shepherd's cot known by the name of Twt y Cymrws because of the strange strife that occurred there."
+    },
+    {
+     "id": "p001.s02",
+     "source": "There once lived there a man and his wife, and they had twins whom the woman nursed tenderly."
+    },
+    {
+     "id": "p001.s03",
+     "source": "One day she was called away to the house of a neighbour at some distance."
+    },
+    {
+     "id": "p001.s04",
+     "source": "She did not much like going and leaving her little ones all alone in a solitary house, especially as she had heard tell of the good folk haunting the neighbourhood."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Well, she went and came back as soon as she could, but on her way back she was frightened to see some old elves of the blue petticoat crossing her path though it was midday."
+    },
+    {
+     "id": "p002.s02",
+     "source": "She rushed home, but found her two little ones in the cradle and everything seemed as it was before."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "But after a time the good people began to suspect that something was wrong, for the twins didn't grow at all."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The man said: \"They're not ours.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The woman said: \"Whose else should they be?\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "And so arose the great strife so that the neighbours named the cottage after it."
+    },
+    {
+     "id": "p006.s02",
+     "source": "It made the woman very sad, so one evening she made up her mind to go and see the Wise Man of Llanidloes, for he knew everything and would advise her what to do."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "So she went to Llanidloes and told the case to the Wise Man."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Now there was soon to be a harvest of rye and oats, so the Wise Man said to her, \"When you are getting dinner for the reapers, clear out the shell of a hen's egg and boil some potage in it, and then take it to the door as if you meant it as a dinner for the reapers."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Then listen if the twins say anything."
+    },
+    {
+     "id": "p007.s04",
+     "source": "If you hear them speaking of things beyond the understanding of children, go back and take them up and throw them into the waters of Lake Elvyn."
+    },
+    {
+     "id": "p007.s05",
+     "source": "But if you don't hear anything remarkable, do them no injury.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "So when the day of the reap came the woman did all that the Wise Man ordered, and put the eggshell on the fire and took it off and carried it to the door, and there she stood and listened."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Then she heard one of the children say to the other:"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Acorn before oak I knew,"
+    },
+    {
+     "id": "p009.s02",
+     "source": "An egg before a hen,"
+    },
+    {
+     "id": "p009.s03",
+     "source": "But I never heard of an eggshell brew"
+    },
+    {
+     "id": "p009.s04",
+     "source": "A dinner for harvest men."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "So she went back into the house, seized the children and threw them into the Llyn, and the goblins in their blue trousers came and saved their dwarfs and the mother had her own children back and so the great strife ended."
+    }
+   ],
+   "id": "p010"
+  }
+ ]
+}

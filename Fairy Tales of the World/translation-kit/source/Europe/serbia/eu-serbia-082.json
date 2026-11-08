@@ -1,0 +1,122 @@
+{
+ "id": "eu-serbia-082",
+ "title": {
+  "id": "title",
+  "source": "Prince Marko And General Voutcha"
+ },
+ "tradition": "Serbia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Hero Tales and Legends of the Serbians",
+ "credits": "Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)",
+ "gutenberg": "Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Serbia/082 - Prince Marko And General Voutcha.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 19,
+  "words": 422
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Hark!"
+    },
+    {
+     "id": "p001.s02",
+     "source": "Is it thunder or is it an earthquake?"
+    },
+    {
+     "id": "p001.s03",
+     "source": "Neither, but guns are roaring from fort Varadin: General Voutcha is feasting in triumph, for he has captured three Serbian heroes; the first is Milosh of Potzerye, the second is Milan of Toplitza, and the third is Ivan Kosantchitch."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The General has thrown them into the deepest dungeons of his castle, noisome holes where stagnant water lies knee-deep and the bones of warriors lie piled as high as the shoulders of a hero."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Milosh of Potzerye is of noble lineage, unaccustomed to privation and suffering, and he bitterly laments and deplores his fate, as he peers anxiously through the grating of the massive door into the dark passage by which alone succour might come."
+    },
+    {
+     "id": "p002.s02",
+     "source": "And, indeed, after three days he saw a messenger, to whom he called: “O, my brother-in-God!"
+    },
+    {
+     "id": "p002.s03",
+     "source": "Bring me that whereon I may inscribe a missive!”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The man was pleased to be called a brother-in-God of such a famous hero and swiftly brought a roll to Milosh, who inscribed on it the following words: “To the Royal Prince Marko of Prilip: O brother-in-God, thou princely Marko!"
+    },
+    {
+     "id": "p003.s02",
+     "source": "Either thou dost not want to hear more of me or thou hast ceased to care for me!"
+    },
+    {
+     "id": "p003.s03",
+     "source": "Fate has been hard, and I have fallen, O brother, into the hands of a foe."
+    },
+    {
+     "id": "p003.s04",
+     "source": "The Magyar Voutcha has captured me and my two brothers-in-arms."
+    },
+    {
+     "id": "p003.s05",
+     "source": "We have been immured in this vile dungeon for three whole days, and it is impossible that we should remain for another three days and live."
+    },
+    {
+     "id": "p003.s06",
+     "source": "Therefore, if thou wouldst see us again, rescue us, O brother, either by heroic deeds or by ransom!”"
+    },
+    {
+     "id": "p003.s07",
+     "source": "Milosh scratched his cheek and sealed the missive with his blood; he then handed it to the man, together with twelve ducats, and implored him to hasten with it to Prilip."
+    },
+    {
+     "id": "p003.s08",
+     "source": "The messenger rode with all speed, arriving at the city of Prilip on a Sunday morning."
+    },
+    {
+     "id": "p003.s09",
+     "source": "Prince Marko was coming out of church when the courier dashed up to him with the missive."
+    },
+    {
+     "id": "p003.s10",
+     "source": "As the Prince read of the terrible straits in which his friends found themselves tears ran down his cheeks, and he swore that he would save his noble brothers-in-God."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The bard here describes Marko’s preparations in much the same manner as in the ballad, “Prince Marko and the Moorish Chieftain.”"
+    },
+    {
+     "id": "p004.s02",
+     "source": "Next he tells of the journey from Prilip to Varadin, but not without exaggerating as a matter of course, the wonderful alertness of Sharatz, who, on this occasion, swam across the Danube."
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

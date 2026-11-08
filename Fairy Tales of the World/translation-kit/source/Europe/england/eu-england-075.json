@@ -1,0 +1,407 @@
+{
+ "id": "eu-england-075",
+ "title": {
+  "id": "title",
+  "source": "News!"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "More English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #14241 — https://www.gutenberg.org/ebooks/14241 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/075 - News!.md",
+ "stats": {
+  "paragraphs": 31,
+  "segments": 50,
+  "words": 289
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "MR. G. Ha!"
+    },
+    {
+     "id": "p001.s02",
+     "source": "Steward, how are you, my old boy?"
+    },
+    {
+     "id": "p001.s03",
+     "source": "How do things go on at home?"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Bad enough, your honour; the magpie's dead!"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "MR. G. Poor mag! so he's gone."
+    },
+    {
+     "id": "p003.s02",
+     "source": "How came he to die?"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Over-ate himself, Sir."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "MR. G. Did he indeed? a greedy dog."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Why, what did he get that he liked so well?"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Horseflesh; he died of eating horseflesh."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "MR. G. How came he to get so much horseflesh?"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p008.s02",
+     "source": "All your father's horses, Sir."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "MR. G. What! are they dead too?"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Ay, Sir; they died of over-work."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "MR. G. And why were they over-worked?"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p012.s02",
+     "source": "To carry water, Sir."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "MR. G. To carry water, and what were they carrying water for?"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Sure, Sir, to put out the fire."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "MR. G. Fire! what fire?"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Your father's house is burned down to the ground."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "MR. G. My father's house burnt down! and how came it to be on fire?"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p018.s02",
+     "source": "I think, Sir, it must have been the torches."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "MR G. Torches! what torches?"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p020.s02",
+     "source": "At your mother's funeral."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "MR. G. My mother dead?"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Ay, poor lady, she never looked up after it."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "MR. G. After what?"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p024.s02",
+     "source": "The loss of your father."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "MR. G. My father gone too?"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Yes, poor gentleman, he took to his bed as soon as he heard of it."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "MR. G. Heard of what?"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p028.s02",
+     "source": "The bad news, an' it please your honour."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "MR. G. What? more miseries, more bad news!"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "STEWARD."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Yes, Sir, your bank has failed, your credit is lost and you're not worth a shilling in the world."
+    },
+    {
+     "id": "p030.s03",
+     "source": "I make bold, Sir, to come and wait on you about it; for I thought you would like to hear the news."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p031"
+  }
+ ]
+}

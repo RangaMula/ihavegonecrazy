@@ -1,0 +1,80 @@
+{
+ "id": "as-laos-021",
+ "title": {
+  "id": "title",
+  "source": "The Ambitious Priest"
+ },
+ "tradition": "Laos",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Laos Folk-Lore of Farther India",
+ "credits": "Fleeson, Katherine Neville (author)",
+ "gutenberg": "Project Gutenberg eBook #35564 — https://www.gutenberg.org/ebooks/35564 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Laos/021 - The Ambitious Priest.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 7,
+  "words": 173
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There is a tale of an old priest who prayed each day that the gods would give him a jewel of great price—one that had the power to make him fly as a bird."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "A young priest in the temple hearing his prayer, secured the eye of a fish and hid it in his room, and when again the old priest prayed for the jewel, the young priest brought the eye of the fish and gave it to him."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Then was the old priest glad, “Now can I rise up as though on wings and fly from this earth,” said he."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Selecting two large palm leaves, thinking “I must have wings first,” he tried to fly, but could not."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The young priest said, “From here you cannot fly; it is not high enough."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Go up to the roof of the temple and fly from there.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Acting on this suggestion, the old priest went up to the roof, but fell from his high place, and, lo, when they came to him, he was dead!"
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

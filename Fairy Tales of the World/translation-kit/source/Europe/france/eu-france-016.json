@@ -1,0 +1,971 @@
+{
+ "id": "eu-france-016",
+ "title": {
+  "id": "title",
+  "source": "The Parrot"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Old French Fairy Tales",
+ "credits": "Ségur, Sophie, comtesse de (author, d. 1874)",
+ "gutenberg": "Project Gutenberg eBook #30129 — https://www.gutenberg.org/ebooks/30129 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/016 - The Parrot.md",
+ "stats": {
+  "paragraphs": 61,
+  "segments": 146,
+  "words": 1850
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "S ix months had passed since Blondine awaked from her seven years' sleep."
+    },
+    {
+     "id": "p001.s02",
+     "source": "It seemed to the little princess a long time."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The remembrance of her dear father often saddened her heart."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Bonne-Biche and Beau-Minon seemed to divine her thoughts."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Beau-Minon mewed plaintively, and Bonne-Biche heaved the most profound sighs."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Blondine spoke but rarely of that which occupied her thoughts continually."
+    },
+    {
+     "id": "p002.s04",
+     "source": "She feared to offend Bonne-Biche, who had said to her three or four times:"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"Dear Blondine, be patient."
+    },
+    {
+     "id": "p003.s02",
+     "source": "You will see your father when you are fifteen, if you continue wise and good."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Trust me, dear child; do not trouble yourself about the future and above all do not seek to leave us.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "One morning Blondine was alone and very sad."
+    },
+    {
+     "id": "p004.s02",
+     "source": "She was musing upon her singular and monotonous existence."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Suddenly she was disturbed in her reverie by three soft little strokes upon her window."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Raising her head, she perceived a parrot with beautiful green plumage and throat and breast of bright orange."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Surprised at the appearance of a bird entirely unknown to her, she opened the window and invited the parrot to enter."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "What was her amazement when the bird said to her, in a fine sharp voice:"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Good day, Blondine!"
+    },
+    {
+     "id": "p007.s02",
+     "source": "I know that you sometimes have a very tedious time of it, because you have no one to talk to."
+    },
+    {
+     "id": "p007.s03",
+     "source": "I have taken pity upon you and come to have a chat with you."
+    },
+    {
+     "id": "p007.s04",
+     "source": "But I pray you do not mention that you have seen me, for Bonne-Biche would cut my throat if she knew it.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"Why so, beautiful Parrot?"
+    },
+    {
+     "id": "p008.s02",
+     "source": "Bonne-Biche is good; she injures no one and only hates the wicked.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Blondine, listen!"
+    },
+    {
+     "id": "p009.s02",
+     "source": "If you do not promise to conceal my visit from Bonne-Biche and Beau-Minon, I will fly away at once and never return.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"Since you wish it so much, beautiful Parrot, I will promise silence."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Let us chat a little."
+    },
+    {
+     "id": "p010.s03",
+     "source": "It is a long time since I have had an opportunity to converse."
+    },
+    {
+     "id": "p010.s04",
+     "source": "You seem to me gay and witty."
+    },
+    {
+     "id": "p010.s05",
+     "source": "I do not doubt that you will amuse me much.\""
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Blondine listened with delight to the lively talk of the Parrot, who complimented extravagantly her beauty, her wit and her talents."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Blondine was enchanted."
+    },
+    {
+     "id": "p012.s02",
+     "source": "In about an hour the Parrot flew away, promising to return the next day."
+    },
+    {
+     "id": "p012.s03",
+     "source": "In short, he returned every day and continued to compliment and amuse her."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "One morning he struck upon the window and said:"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"Blondine!"
+    },
+    {
+     "id": "p014.s02",
+     "source": "Blondine! open the window, quickly!"
+    },
+    {
+     "id": "p014.s03",
+     "source": "I bring you news of your father."
+    },
+    {
+     "id": "p014.s04",
+     "source": "But above all make no noise unless you want my throat cut.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Blondine was overwhelmed with joy."
+    },
+    {
+     "id": "p015.s02",
+     "source": "She opened the window with alacrity and said: \"Is it true, my beautiful Parrot, that you bring me news of my dear father?"
+    },
+    {
+     "id": "p015.s03",
+     "source": "Speak quickly!"
+    },
+    {
+     "id": "p015.s04",
+     "source": "What is he doing and how is he?\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"Your father is well, Blondine, but he weeps your loss always."
+    },
+    {
+     "id": "p016.s02",
+     "source": "I have promised him to employ all my power to deliver you from your prison but I can do nothing without your assistance.\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"My prison!\" said Blondine."
+    },
+    {
+     "id": "p017.s02",
+     "source": "\"But you are ignorant of all the goodness which Bonne-Biche and Beau-Minon have shown me, of the pains they have lavished upon my education, of all their tenderness and forbearance."
+    },
+    {
+     "id": "p017.s03",
+     "source": "They will be enchanted to find a way of restoring me to my father."
+    },
+    {
+     "id": "p017.s04",
+     "source": "Come with me, beautiful Parrot and I will present you to Bonne-Biche."
+    },
+    {
+     "id": "p017.s05",
+     "source": "Come, I entreat you.\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Ah!"
+    },
+    {
+     "id": "p018.s02",
+     "source": "Blondine,\" said the sharp voice of the Parrot, \"it is you, Princess, who do not know Bonne-Biche and Beau-Minon."
+    },
+    {
+     "id": "p018.s03",
+     "source": "They detest me because I have sometimes succeeded in rescuing their victims from them."
+    },
+    {
+     "id": "p018.s04",
+     "source": "You will never see your father again, Blondine, you will never leave this forest, unless you yourself shall break the charm which holds you here.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"What charm?\" said Blondine."
+    },
+    {
+     "id": "p019.s02",
+     "source": "\"I know of no charm and what interest have Bonne-Biche and Beau-Minon in keeping me a prisoner?\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"Is it not to their interest to enliven their solitude, Blondine?"
+    },
+    {
+     "id": "p020.s02",
+     "source": "There is a talisman which can procure your release."
+    },
+    {
+     "id": "p020.s03",
+     "source": "It is a simple Rose, which, gathered by yourself, will deliver you from your exile and restore you to the arms of your fond father.\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"But there is not a single Rose in the garden."
+    },
+    {
+     "id": "p021.s02",
+     "source": "How then can I gather one?\""
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"I will explain this to you another day, Blondine."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Now I can tell you no more, as I hear Bonne-Biche coming."
+    },
+    {
+     "id": "p022.s03",
+     "source": "But to convince you of the virtues of the Rose, entreat Bonne-Biche to give you one and see what she will say."
+    },
+    {
+     "id": "p022.s04",
+     "source": "To-morrow—to-morrow, Blondine!\""
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "The Parrot flew away, well content to have scattered in Blondine's heart the first seeds of discontent and ingratitude."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "The Parrot had scarcely disappeared when Bonne-Biche entered."
+    },
+    {
+     "id": "p024.s02",
+     "source": "She appeared greatly agitated."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"With whom have you been talking, Blondine?\" looking suspiciously towards the open window."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"With no one, madam,\" said the princess."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"I am certain I heard voices in conversation.\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"I must have been speaking to myself.\""
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Bonne-Biche made no reply."
+    },
+    {
+     "id": "p029.s02",
+     "source": "She was very sad and tears fell from her eyes."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Blondine was also engaged in thought."
+    },
+    {
+     "id": "p030.s02",
+     "source": "The cunning words of the Parrot made her look upon the kindness of Bonne-Biche and Beau-Minon in a totally different light."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "In place of saying to herself that a hind which had the power to speak, to make wild beasts intelligent, to put an infant to sleep for seven years, to dedicate seven years to a tiresome and ignorant little girl, in short, a hind lodged and served like a queen, could be no ordinary criminal; in place of cherishing a sentiment of gratitude for all that Bonne-Biche had done for her, Blondine, alas! believed blindly in the Parrot, the unknown bird of whose character and veracity she had no proof."
+    },
+    {
+     "id": "p031.s02",
+     "source": "She did not remember that the Parrot could have no possible motive for risking its life to render her a service."
+    },
+    {
+     "id": "p031.s03",
+     "source": "Blondine believed it though, implicitly, because of the flattery which the Parrot had lavished upon her."
+    },
+    {
+     "id": "p031.s04",
+     "source": "She did not even recall with gratitude the sweet and happy existence which Bonne-Biche and Beau-Minon had secured to her."
+    },
+    {
+     "id": "p031.s05",
+     "source": "She resolved to follow implicitly the coun sels of the Parrot."
+    },
+    {
+     "id": "p031.s06",
+     "source": "During the course of the day she said to Bonne-Biche:—"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "\"Why, madam, do I not see among your flowers the most lovely and charming of all flowers—the fragrant Rose?\""
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Bonne-Biche was greatly agitated and said in a trembling voice:—"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "\"Blondine!"
+    },
+    {
+     "id": "p034.s02",
+     "source": "Blondine! do not ask for this most perfidious flower, which pierces all who touch it!"
+    },
+    {
+     "id": "p034.s03",
+     "source": "Never speak to me of the Rose, Blondine."
+    },
+    {
+     "id": "p034.s04",
+     "source": "You cannot know what fatal danger this flower contains for you!\""
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "The expression of Bonne-Biche was so stern and severe that Blondine dared not question her further."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "The day passed away sadly enough."
+    },
+    {
+     "id": "p036.s02",
+     "source": "Bonne-Biche was unhappy and Beau-Minon very sad."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Early in the morning, Blondine ran to her window and the Parrot entered the moment she opened it."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "\"Well, my dear Blondine, did you notice the agitation of Bonne-Biche, when you mentioned the Rose?"
+    },
+    {
+     "id": "p038.s02",
+     "source": "I promised you to point out the means by which you could obtain one of these charming flowers."
+    },
+    {
+     "id": "p038.s03",
+     "source": "Listen now to my counsel."
+    },
+    {
+     "id": "p038.s04",
+     "source": "You will leave this park and enter the forest."
+    },
+    {
+     "id": "p038.s05",
+     "source": "I will accompany you and I will conduct you to a garden where you will find the most beautiful Rose in the world!\""
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "\"But how is it possible for me to leave the park?"
+    },
+    {
+     "id": "p039.s02",
+     "source": "Beau-Minon always accompanies me in my walks.\""
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "\"Try to get rid of him,\" said the Parrot; \"but if that is impossible, go in spite of him.\""
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "\"If this Rose is at a distance, will not my absence be perceived?\""
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "\"It is about an hour's walk."
+    },
+    {
+     "id": "p042.s02",
+     "source": "Bonne-Biche has been careful to separate you as far as possible from the Rose in order that you might not find the means to escape from her power.\""
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "\"But why does she wish to hold me captive?"
+    },
+    {
+     "id": "p043.s02",
+     "source": "She is all-powerful and could surely find pleasures more acceptable than educating an ignorant child.\""
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "\"All this will be explained to you in the future, Blondine, when you will be in the arms of your father."
+    },
+    {
+     "id": "p044.s02",
+     "source": "Be firm!"
+    },
+    {
+     "id": "p044.s03",
+     "source": "After breakfast, in some way get away from Beau-Minon and enter the forest."
+    },
+    {
+     "id": "p044.s04",
+     "source": "I will expect you there.\""
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "Blondine promised, and closed the window, fearing that Bonne-Biche would surprise her."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "After breakfast, according to her usual custom, she entered the garden."
+    },
+    {
+     "id": "p046.s02",
+     "source": "Beau-Minon followed her in spite of some rude rebuffs which he received with plaintive mews."
+    },
+    {
+     "id": "p046.s03",
+     "source": "Arrived at the alley which led out of the park, Blondine resolved to get rid of Beau-Minon."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "\"I wish to be alone,\" said she, sternly; \"begone, Beau-Minon!\""
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "Beau-Minon pretended not to understand."
+    },
+    {
+     "id": "p048.s02",
+     "source": "Blondine was impatient and enraged."
+    },
+    {
+     "id": "p048.s03",
+     "source": "She forgot herself so far as to strike Beau-Minon with her foot."
+    },
+    {
+     "id": "p048.s04",
+     "source": "When poor Beau-Minon received this humiliating blow, he uttered a cry of anguish and fled towards the palace."
+    },
+    {
+     "id": "p048.s05",
+     "source": "Blondine trembled and was on the point of recalling him, when a false shame arrested her."
+    },
+    {
+     "id": "p048.s06",
+     "source": "She walked on rapidly to the gate, opened it not without trembling and entered the forest."
+    },
+    {
+     "id": "p048.s07",
+     "source": "The Parrot joined her without delay."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "\"Courage, Blondine! in one hour you will have the Rose and will see your father, who weeps for you.\""
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "At these words, Blondine recovered her resolution which had begun to falter."
+    },
+    {
+     "id": "p050.s02",
+     "source": "She walked on in the path indicated by the Parrot, who flew before her from branch to branch."
+    },
+    {
+     "id": "p050.s03",
+     "source": "The forest, which had seemed so beautiful and attractive near the park of Bonne-Biche, became wilder and more entangled."
+    },
+    {
+     "id": "p050.s04",
+     "source": "Brambles and stones almost filled up the path, the sweet songs of the birds were no longer heard and the flowers had entirely disappeared."
+    },
+    {
+     "id": "p050.s05",
+     "source": "Blondine felt oppressed by an inexplicable restlessness."
+    },
+    {
+     "id": "p050.s06",
+     "source": "The Parrot pressed her eagerly to advance."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "\"Quick, quick, Blondine! time flies!"
+    },
+    {
+     "id": "p051.s02",
+     "source": "If Bonne-Biche perceives your absence you will never again see your father.\""
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "Blondine, fatigued, almost breathless, with her arms torn by the briers and her shoes in shreds, now declared that she would go no further when the Parrot exclaimed:—"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "\"We have arrived, Blondine."
+    },
+    {
+     "id": "p053.s02",
+     "source": "Look! that is the enclosure which separates us from the Rose.\""
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "Blondine saw at a turn in the path a small enclosure, the gate of which was quickly opened by the Parrot."
+    },
+    {
+     "id": "p054.s02",
+     "source": "The soil was arid and stony but a magnificent, majestic rose-bush adorned with one Rose, which was more beautiful than all the roses of the world grew in the midst of this sterile spot."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "\"Take it, Blondine!\" said the parrot; \"you deserve it—you have truly earned it!\""
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "Blondine seized the branch eagerly and in spite of the thorns which pierced her fingers cruelly, she tore it from the bush."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "The Rose was scarcely grasped firmly in her hand, when she heard a burst of mocking laughter."
+    },
+    {
+     "id": "p057.s02",
+     "source": "The Flower fell from her grasp, crying:—"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "\"Thanks, Blondine, for having delivered me from the prison in which Bonne-Biche held me captive."
+    },
+    {
+     "id": "p058.s02",
+     "source": "I am your evil genius!"
+    },
+    {
+     "id": "p058.s03",
+     "source": "Now you belong to me!\""
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "\"Ha! ha!\" now exclaimed the Parrot."
+    },
+    {
+     "id": "p059.s02",
+     "source": "\"Thanks, Blondine!"
+    },
+    {
+     "id": "p059.s03",
+     "source": "I can now resume my form of magician."
+    },
+    {
+     "id": "p059.s04",
+     "source": "You have destroyed your friends for I am their mortal enemy!\""
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "Saying these cruel words, the Parrot and the Rose disappeared, leaving Blondine alone in the forest."
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p061"
+  }
+ ]
+}

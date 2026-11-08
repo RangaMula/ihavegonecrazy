@@ -1,0 +1,50 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-090",
+ "title": {
+  "id": "title",
+  "source": "The Aethiop"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/090 - The Aethiop.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 4,
+  "words": 67
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "THE PURCHASER of a black servant was persuaded that the color of his skin arose from dirt contracted through the neglect of his former masters."
+    },
+    {
+     "id": "p001.s02",
+     "source": "On bringing him home he resorted to every means of cleaning, and subjected the man to incessant scrubbings."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The servant caught a severe cold, but he never changed his color or complexion."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "What’s bred in the bone will stick to the flesh."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

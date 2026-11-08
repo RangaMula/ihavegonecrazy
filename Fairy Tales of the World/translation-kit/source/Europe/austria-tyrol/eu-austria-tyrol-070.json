@@ -1,0 +1,101 @@
+{
+ "id": "eu-austria-tyrol-070",
+ "title": {
+  "id": "title",
+  "source": "The Piller-See"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/070 - The Piller-See.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 11,
+  "words": 368
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Where the lovely Piller-See now lies, with its green rippling waters about one and a half miles long by three-quarters wide, close to the village of St. Ulrich, there used to stand one of the most beautiful and most fertile Alps of the whole Tyrol, belonging formerly to several peasants, who pastured large herds of animals upon it."
+    },
+    {
+     "id": "p001.s02",
+     "source": "They were rich in cows, and grass, and had their beautiful Alp besides to depend upon; so they were the happiest and wealthiest peasants in all the world."
+    },
+    {
+     "id": "p001.s03",
+     "source": "But instead of being grateful to Heaven for all its blessings, they became vain, thinking only of amusement and dancing, and every Sunday and fête-day they passed in all sorts of frivolous pleasures."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The Alp soon assumed the appearance of a heathen garden, and all those who paid no regard to the opinion of the world flocked there to enjoy their guilty pleasure."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The dissolute villagers wanting one day to play at their favourite game of nine-pins, and having neither balls nor pins, seized upon the beautiful alpine which they found in a farm close by, ready for the morrow’s market, and turned it to the purposes of their game; but suddenly the shed in which they were amusing themselves began to give way, and all the surrounding ground, together with the adjacent mountains, sank beneath their feet."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Upon whatever spot they trod the earth slipped from under them, and out of the earth water sprang, and every one of them was drowned in the new-formed lake."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Only a musician who had been forced against his will to climb the Alp and play to them was saved, for, sitting on his chair, he was driven to the borders of the lake by the swelling current."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "This lake is now called the “Piller-See,” which in certain places is fathomless."
+    },
+    {
+     "id": "p003.s02",
+     "source": "One day some people tried to measure its depth, when they heard a hollow voice proceeding from the bottom of the See, calling out:—"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“If you fathom me, I swallow you.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "This, like many other of the Tyrolian lakes, is supposed to have the power of dragging into its fathomless depths all those who are unfortunate enough to fall asleep on its fatal shores."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p006"
+  }
+ ]
+}

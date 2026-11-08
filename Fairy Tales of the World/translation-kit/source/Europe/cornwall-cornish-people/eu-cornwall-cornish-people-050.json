@@ -1,0 +1,69 @@
+{
+ "id": "eu-cornwall-cornish-people-050",
+ "title": {
+  "id": "title",
+  "source": "The St. Levan Stone"
+ },
+ "tradition": "Cornwall (Cornish people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Traditions and Hearthside Stories of West Cornwall, Second Series",
+ "credits": "Bottrell, William (author, d. 1881)",
+ "gutenberg": "Project Gutenberg eBook #41761 — https://www.gutenberg.org/ebooks/41761 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Cornwall (Cornish people)/050 - The St. Levan Stone.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 6,
+  "words": 118
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In St. Levan Churchyard is a cloven rock called St. Levan's stone."
+    },
+    {
+     "id": "p001.s02",
+     "source": "For some reason, now unknown, this must have been a venerated object when the church was built, or it would have been used in the building."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The common notion, however, is that long before St. Levan's time this rock was regarded as sacred, because Merlin prophecied—"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"When, with panniers astride, A pack-horse one can ride Through St. Levan stone, The world will be done.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "It is stated that Merlin came here with King Arthur, when he slaughtered the Danes at the battle of Velan-druchar."
+    },
+    {
+     "id": "p003.s02",
+     "source": "The separation of this prophetic stone is so slow that there appears to be no danger of the world's ending just yet."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  }
+ ]
+}

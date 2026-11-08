@@ -1,0 +1,84 @@
+{
+ "id": "eu-germany-026",
+ "title": {
+  "id": "title",
+  "source": "The Old Man And His Grandson"
+ },
+ "tradition": "Germany",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Grimms' Fairy Tales",
+ "credits": "Grimm, Jacob (author, d. 1863); Grimm, Wilhelm (author, d. 1859)",
+ "gutenberg": "Project Gutenberg eBook #2591 — https://www.gutenberg.org/ebooks/2591 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Germany/026 - The Old Man And His Grandson.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 11,
+  "words": 249
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a very old man, whose eyes had become dim, his ears dull of hearing, his knees trembled, and when he sat at table he could hardly hold the spoon, and spilt the broth upon the table-cloth or let it run out of his mouth."
+    },
+    {
+     "id": "p001.s02",
+     "source": "His son and his son’s wife were disgusted at this, so the old grandfather at last had to sit in the corner behind the stove, and they gave him his food in an earthenware bowl, and not even enough of it."
+    },
+    {
+     "id": "p001.s03",
+     "source": "And he used to look towards the table with his eyes full of tears."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Once, too, his trembling hands could not hold the bowl, and it fell to the ground and broke."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The young wife scolded him, but he said nothing and only sighed."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Then they brought him a wooden bowl for a few half-pence, out of which he had to eat."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "They were once sitting thus when the little grandson of four years old began to gather together some bits of wood upon the ground."
+    },
+    {
+     "id": "p002.s02",
+     "source": "‘What are you doing there?’ asked the father."
+    },
+    {
+     "id": "p002.s03",
+     "source": "‘I am making a little trough,’ answered the child, ‘for father and mother to eat out of when I am big.’"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The man and his wife looked at each other for a while, and presently began to cry."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Then they took the old grandfather to the table, and henceforth always let him eat with them, and likewise said nothing if he did spill a little of anything."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

@@ -1,0 +1,429 @@
+{
+ "id": "eu-france-087",
+ "title": {
+  "id": "title",
+  "source": "Le Renard Et Le Loup"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Contes et légendes. 1re Partie",
+ "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #18873 — https://www.gutenberg.org/ebooks/18873 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/087 - Le Renard Et Le Loup.md",
+ "stats": {
+  "paragraphs": 30,
+  "segments": 57,
+  "words": 665
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Il y avait une fois un homme et une femme."
+    },
+    {
+     "id": "p001.s02",
+     "source": "L'homme était âgé, et la femme aussi."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Un jour l'homme alla à la mer pour pêcher."
+    },
+    {
+     "id": "p001.s04",
+     "source": "L'homme prit beaucoup de poissons."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Il prit de grands poissons, de petits poissons, et des poissons de grandeur moyenne."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Il prit tant de poissons qu'il était impossible de les porter tous, et il les mit dans un char pour les porter à la maison."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "En route l'homme vit un renard couché au milieu de la route."
+    },
+    {
+     "id": "p002.s02",
+     "source": "L'homme descendit de son char."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Il toucha le renard."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Le renard ne bougea pas."
+    },
+    {
+     "id": "p002.s05",
+     "source": "\"Oh!\" dit l'homme \"Le renard est mort."
+    },
+    {
+     "id": "p002.s06",
+     "source": "Voilà un beau cadeau pour ma femme!\""
+    },
+    {
+     "id": "p002.s07",
+     "source": "Il prit le renard."
+    },
+    {
+     "id": "p002.s08",
+     "source": "Il jeta le renard dans le char avec le poisson, et remontant dans le char, il continua son chemin (route)."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Mais le renard n'était pas mort comme le pauvre homme l'avait supposé."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Il jeta tous les poissons du char, l'un après l'autre et quand il eut jeté tous les poissons à terre, il descendit aussi."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Arrivé à la maison, l'homme dit à la femme:"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Ma femme, regardez le beau cadeau que je vous ai apporté.\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"Où est ce cadeau?\" demanda la femme."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Là, dans le char, sur le poisson.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "La bonne femme regarda, et dit: \"Mon mari, il n'y a ni poissons, ni cadeau dans le char.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "L'homme tourna la tête, et vit que les poissons et le renard avaient disparu, et naturellement il était bien désappointé, car il avait pensé obtenir beaucoup d'argent pour son poisson."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Le renard, qui avait pris tout le poisson, était très occupé à manger le poisson quand un loup arriva."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"Bonjour, mon frère,\" dit le loup."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"Bonjour,\" dit le renard."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"Donnez-moi des poissons,\" dit le loup."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"Allez en pêcher,\" répondit le renard."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"Mais je ne sais pas pêcher!\" dit le loup."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"C'est très facile,\" dit le renard."
+    },
+    {
+     "id": "p016.s02",
+     "source": "\"Allez sur la glace, près d'un trou, plongez votre queue dans l'eau, et dites: 'Venez, venez, petits et gros poissons,' et dans quelques minutes tous les poissons viendront se pendre à votre queue.\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Le loup, enchanté, alla à la rivière."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Il alla sur la glace; il trouva un trou; il plongea sa queue dans l'eau, et dit: \"Venez, venez, petits et gros poissons.\""
+    },
+    {
+     "id": "p017.s03",
+     "source": "Le renard arriva alors, et dit tout doucement: \"Que le ciel soit clair, clair, clair; que la queue du loup gèle, gèle, gèle!\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Que dites-vous, mon ami?\" demanda le loup."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"Je vous aide,\" dit le renard, et il partit quelques minutes après."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Le loup resta là toute la nuit, enfin il voulut partir."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Impossible."
+    },
+    {
+     "id": "p020.s03",
+     "source": "La queue était prise dans la glace."
+    },
+    {
+     "id": "p020.s04",
+     "source": "Le loup pensa: \"Oh, j'ai pris tant de poissons qu'il est impossible de les tirer tous hors de l'eau.\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Les femmes du village arrivèrent au trou pour chercher de l'eau."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Quand elles virent le loup, elles se mirent à crier aussi fort que possible:"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"Au loup!"
+    },
+    {
+     "id": "p022.s02",
+     "source": "Au loup!"
+    },
+    {
+     "id": "p022.s03",
+     "source": "Tuez-le, tuez-le.\""
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Tous les hommes arrivèrent avec de grands bâtons."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Les hommes frappèrent le pauvre loup, qui arracha sa queue du trou et partit en toute hâte en hurlant de douleur."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Pendant que les hommes et les femmes étaient occupés à battre le pauvre loup, le renard était entré dans les maisons, et il avait mangé beaucoup de bonnes choses."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Enfin le renard mit la tête dans un seau de pâte, se barbouilla bien, et alla à la rencontre du loup."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Le loup dit: \"Méchant renard, regardez ma pauvre queue!\""
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"Oh!\" dit le renard en gémissant, \"regardez ma pauvre tête!\""
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"Oh!\" dit le loup."
+    },
+    {
+     "id": "p027.s02",
+     "source": "\"Les méchantes gens vous ont battu aussi, mon pauvre petit frère."
+    },
+    {
+     "id": "p027.s03",
+     "source": "Vous êtes plus malade que moi, montez sur mon dos, je vous porterai à la maison.\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Le renard monta sur le dos du loup, et chanta gaiement:"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Mais le loup était trop stupide pour comprendre, et il pensa seulement: \"Mon petit frère est très courageux."
+    },
+    {
+     "id": "p029.s02",
+     "source": "Il a la tête malade, et il chante gaiement."
+    },
+    {
+     "id": "p029.s03",
+     "source": "Moi, qui ai seulement la queue malade, je ne chante pas, oh non, je ne chante pas.\""
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p030"
+  }
+ ]
+}

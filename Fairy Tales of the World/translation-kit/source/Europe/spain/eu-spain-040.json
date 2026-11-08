@@ -1,0 +1,48 @@
+{
+ "id": "eu-spain-040",
+ "title": {
+  "id": "title",
+  "source": "Redress by Combat"
+ },
+ "tradition": "Spain",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Spain",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Spain/040 - Redress by Combat.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 5,
+  "words": 143
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "When this matter had at last been settled, the Cid then advanced his principal grievance against the Infantes, and asked for redress by combat in the lists for the great wrong they had done his daughters."
+    },
+    {
+     "id": "p001.s02",
+     "source": "At this Count Garcia, their spokesman, rose to defend the Infantes."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He pleaded that they were of princely degree, and for that reason alone were justified in casting off the daughters of the Cid."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Then Fernán González, the elder of the Infantes, himself rose to approve the speech of his vassal, and cast fresh scorn upon the alliance he had made, justifying his cowardly action by his princely rank as a thing quite natural and fitting."
+    },
+    {
+     "id": "p001.s05",
+     "source": "At this Pero Bermuez opened the vials of his wrath upon the Infantes, taunting them with cowardice in the affair of the lion and casting defiance of battle in their teeth."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

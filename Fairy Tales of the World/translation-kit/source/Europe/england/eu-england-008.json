@@ -1,0 +1,403 @@
+{
+ "id": "eu-england-008",
+ "title": {
+  "id": "title",
+  "source": "Jack Hannaford"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #7439 — https://www.gutenberg.org/ebooks/7439 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/008 - Jack Hannaford.md",
+ "stats": {
+  "paragraphs": 33,
+  "segments": 46,
+  "words": 679
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was an old soldier who had been long in the wars—so long, that he was quite out-at-elbows, and he did not know where to go to find a living."
+    },
+    {
+     "id": "p001.s02",
+     "source": "So he walked up moors, down glens, till at last he came to a farm, from which the good man had gone away to market."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The wife of the farmer was a very foolish woman, who had been a widow when he married her; the farmer was foolish enough, too, and it is hard to say which of the two was the more foolish."
+    },
+    {
+     "id": "p001.s04",
+     "source": "When you've heard my tale you may decide."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Now before the farmer goes to market says he to his wife: “Here is ten pounds all in gold, take care of it till I come home.”"
+    },
+    {
+     "id": "p002.s02",
+     "source": "If the man had not been a fool he would never have given the money to his wife to keep."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Well, off he went in his cart to market, and the wife said to herself: “I will keep the ten pounds quite safe from thieves;” so she tied it up in a rag, and she put the rag up the parlour chimney."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“There,” said she, “no thieves will ever find it now, that is quite sure.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Jack Hannaford, the old soldier, came and rapped at the door."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Who is there?” asked the wife."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Jack Hannaford.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Where do you come from?”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Paradise.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Lord a' mercy! and maybe you've seen my old man there,” alluding to her former husband."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“Yes, I have.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“And how was he a-doing?” asked the goody."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“But middling; he cobbles old shoes, and he has nothing but cabbage for victuals.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Deary me!” exclaimed the woman."
+    },
+    {
+     "id": "p013.s02",
+     "source": "“Didn't he send a message to me?”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“Yes, he did,” replied Jack Hannaford."
+    },
+    {
+     "id": "p014.s02",
+     "source": "“He said that he was out of leather, and his pockets were empty, so you were to send him a few shillings to buy a fresh stock of leather.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“He shall have them, bless his poor soul!”"
+    },
+    {
+     "id": "p015.s02",
+     "source": "And away went the wife to the parlour chimney, and she pulled the rag with the ten pounds in it from the chimney, and she gave the whole sum to the soldier, telling him that her old man was to use as much as he wanted, and to send back the rest."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "It was not long that Jack waited after receiving the money; he went off as fast as he could walk."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Presently the farmer came home and asked for his money."
+    },
+    {
+     "id": "p017.s02",
+     "source": "The wife told him that she had sent it by a soldier to her former husband in Paradise, to buy him leather for cobbling the shoes of the saints and angels of Heaven."
+    },
+    {
+     "id": "p017.s03",
+     "source": "The farmer was very angry, and he swore that he had never met with such a fool as his wife."
+    },
+    {
+     "id": "p017.s04",
+     "source": "But the wife said that her husband was a greater fool for letting her have the money."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "There was no time to waste words; so the farmer mounted his horse and rode off after Jack Hannaford."
+    },
+    {
+     "id": "p018.s02",
+     "source": "The old soldier heard the horse's hoofs clattering on the road behind him, so he knew it must be the farmer pursuing him."
+    },
+    {
+     "id": "p018.s03",
+     "source": "He lay down on the ground, and shading his eyes with one hand, looked up into the sky, and pointed heavenwards with the other hand."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“What are you about there?” asked the farmer, pulling up."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“Lord save you!” exclaimed Jack: “I've seen a rare sight.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“What was that?”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“A man going straight up into the sky, as if he were walking on a road.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“Can you see him still?”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“Yes, I can.”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“Where?”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“Get off your horse and lie down.”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“If you will hold the horse.”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Jack did so readily."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“I cannot see him,” said the farmer."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Shade your eyes with your hand, and you'll soon see a man flying away from you.”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Sure enough he did so, for Jack leaped on the horse, and rode away with it."
+    },
+    {
+     "id": "p031.s02",
+     "source": "The farmer walked home without his horse."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“You are a bigger fool than I am,” said the wife; “for I did only one foolish thing, and you have done two.”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p033"
+  }
+ ]
+}

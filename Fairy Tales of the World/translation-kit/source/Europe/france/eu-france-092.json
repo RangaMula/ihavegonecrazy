@@ -1,0 +1,629 @@
+{
+ "id": "eu-france-092",
+ "title": {
+  "id": "title",
+  "source": "Les Deux Frères"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Contes et légendes. 1re Partie",
+ "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #18873 — https://www.gutenberg.org/ebooks/18873 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/092 - Les Deux Frères.md",
+ "stats": {
+  "paragraphs": 50,
+  "segments": 77,
+  "words": 1113
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Il y avait une fois un homme, bien pauvre, qui avait deux fils Jozka et Janko."
+    },
+    {
+     "id": "p001.s02",
+     "source": "L'aîné (=le plus âgé) de ces deux fils était très intelligent, et un jour son père lui dit:"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"Jozka, il est temps d'aller faire ton tour d'apprentissage.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Le jeune homme, qui était très content de voyager, reçut la bénédiction de son père, quelques gâteaux de sa mère, et partit gaiement."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Il marcha longtemps, il traversa une montagne sombre, et il arriva enfin dans une prairie."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Comme il avait faim, il prit un des gâteaux que sa bonne mère lui avait donnés, et commença à le manger de bon appétit."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Les fourmis arrivèrent aussitôt, et crièrent au jeune homme:"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Donne-nous un bien petit morceau de ton bon gâteau!\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Mais Jozka était gourmand et égoïste, et il refusa de leur en donner même les miettes."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Les fourmis, très désappointées, dirent alors:"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Tu n'es certainement pas généreux, Jozka, et nous ne viendrons jamais à ton secours quand tu seras dans la misère.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Jozka ne fit aucune attention à cette menace, il finit tranquillement son repas et continua son voyage."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Il arriva bientôt au bord d'une rivière, et vit un pauvre petit poisson qui avait sauté hors de l'eau, sur le rivage, et qui s'efforçait vainement de rentrer dans son élément liquide."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Il demanda du secours à Jozka, qui lui donna un coup de pied au lieu de l'aider."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Méchant,\" dit le poisson, \"nous ne t'aiderons jamais.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Jozka ne fit pas attention au poisson, et continua son chemin."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Enfin il arriva à un carrefour."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Là des diables se disputaient et se battaient."
+    },
+    {
+     "id": "p010.s04",
+     "source": "Le jeune homme les regarda tranquillement et ne fit rien pour les séparer."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Les diables lui crièrent:"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"Tu es un égoïste, Jozka, et rien ne te réussira dans ce monde.\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Cette prédiction se vérifia bientôt, et Jozka, fatigué de voyager sans profit, retourna chez son père où son frère cadet (= plus jeune) lui fit des reproches, parce qu'il n'apportait rien à la maison."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Le père décida alors qu'il était temps d'envoyer Janko dans le monde, et il lui donna une petite bouteille, qui contenait une eau magique qui guérissait toutes les maladies."
+    },
+    {
+     "id": "p014.s02",
+     "source": "La mère lui donna une miche de pain, et il partit gaiement."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Il marcha droit devant lui, traversa la même montagne sombre que son frère avait traversée, et arriva dans la même prairie."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Comme il avait bien faim, il s'assit sous un arbre, prit un morceau de pain et commença à manger de grand appétit."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Les fourmis arrivèrent aussitôt, en criant: \"Nous avons faim aussi, donne-nous un peu de ton pain.\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Avec le plus grand plaisir,\" dit Janko, qui était bon et généreux, et il coupa un morceau de pain qu'il émietta pour les fourmis."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Elles étaient si reconnaissantes qu'elles le remercièrent bien des fois et dirent aussi:"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"Bon Janko, nous viendrons à ton secours.\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Janko continua sa route."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Il arriva près d'un lac."
+    },
+    {
+     "id": "p021.s03",
+     "source": "Là il vit un pauvre petit poisson sur le rivage."
+    },
+    {
+     "id": "p021.s04",
+     "source": "Il le prit, et le mit dans l'eau en disant:"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"Pauvre petit poisson, tu es fait pour vivre dans l'eau, et non sur la terre.\""
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Le petit poisson, heureux de se retrouver dans son élément, le remercia, et dit:"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"Bon Janko, nous te viendrons en aide!\""
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Le jeune homme continua son voyage, et arriva avant longtemps au carrefour, où les diables se disputaient et se battaient."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Il les regarda un instant avec chagrin, puis il les sépara et rétablit le bon accord parmi eux."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Les diables le remercièrent et partirent, en disant:"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"Bon Janko, nous viendrons à ton secours.\""
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Janko nota ce détail dans sa mémoire, et continua son chemin."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Il arriva à une ville."
+    },
+    {
+     "id": "p027.s03",
+     "source": "Là il trouva tout le monde en détresse, car la fille du roi était dangereusement malade, et tous les médecins disaient qu'elle allait mourir."
+    },
+    {
+     "id": "p027.s04",
+     "source": "Janko alla à une auberge (= petit hôtel), appela l'aubergiste et dit:"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"Allez vite au palais, et annoncez au roi que je suis le premier médecin du monde."
+    },
+    {
+     "id": "p028.s02",
+     "source": "Je guérirai sa fille malade.\""
+    },
+    {
+     "id": "p028.s03",
+     "source": "L'aubergiste alla bien vite au palais, et dit au roi:"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "\"Le premier médecin du monde est à mon auberge."
+    },
+    {
+     "id": "p029.s02",
+     "source": "Il dit qu'il guérira la princesse.\""
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Le roi, enchanté, fit venir Janko, et dit: \"Monsieur le médecin, si vous guérissez ma fille, je vous la donnerai pour femme.\""
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Janko prit sa petite bouteille et donna un peu de son eau magique à la princesse, qui se trouva mieux après la première dose, et qui au bout de quelques jours était complètement guérie."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Mais elle n'avait pas envie d'épouser le médecin, et dit à son père:"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "\"Mon père, je refuse d'épouser ce jeune homme.\""
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Le roi insista, et la princesse répondit:"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "\"Eh bien, je l'épouserai, mais seulement à condition qu'il accomplisse les trois choses que je lui dirai.\""
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Janko consentit à cette condition, et dit: \"J'accomplirai ces choses si elles sont possibles et si Dieu m'aide.\""
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "La princesse prit deux sacs de graines de pavot et deux sacs de cendres."
+    },
+    {
+     "id": "p037.s02",
+     "source": "Elle mêla les graines de pavot et les cendres, appela Janko, et dit \"Janko, si vous séparez les graines de pavot des cendres avant demain matin, je suis à vous.\""
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Janko était bien embarrassé."
+    },
+    {
+     "id": "p038.s02",
+     "source": "Il n'était pas habile, et il alla dans la prairie, où il commença à pleurer et à prier Dieu de lui venir en aide."
+    },
+    {
+     "id": "p038.s03",
+     "source": "Tout à coup une quantité de fourmis arrivèrent, en disant:"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "\"Ne désespère pas, Janko; tu nous as aidées, maintenant nous t'aiderons;\" et les fourmis séparèrent les graines de pavot des cendres."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "La princesse était surprise et désappointée, et dit à Janko:"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "\"Vous avez accompli une des conditions, mais il faut que vous me procuriez la perle la plus précieuse du fond de la mer.\""
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "Janko alla au bord du lac, et pleura amèrement."
+    },
+    {
+     "id": "p042.s02",
+     "source": "Tout à coup un poisson parut à la surface de l'eau, et dit:"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "\"Janko, pourquoi pleures-tu?\""
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "Le jeune homme confia ses peines au poisson, qui lui promit la perle, en disant:"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "\"Tu nous as aidés, nous t'aiderons.\""
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "Quelques minutes plus tard il arriva avec la perle désirée, que la princesse admira beaucoup."
+    },
+    {
+     "id": "p046.s02",
+     "source": "Puis elle dit à Janko:"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "\"Vous avez accompli deux des conditions; maintenant je vous épouserai si vous me rapportez une rose de l'enfer.\""
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "Janko courut au carrefour, où il avait rencontré les diables, et frappa à la porte de l'enfer."
+    },
+    {
+     "id": "p048.s02",
+     "source": "Les diables ouvrirent la porte, et lui donnèrent la rose qu'il demandait."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "La belle princesse reçut la rose avec grand plaisir et consentit enfin à épouser Janko, qui invita ses parents à la noce."
+    },
+    {
+     "id": "p049.s02",
+     "source": "Le frère Jozka fut aussi invité, et quand il entendit l'histoire de son frère, il comprit que l'égoïsme est un mauvais moyen de faire fortune, et qu'on a souvent besoin d'un plus petit que soi."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p050"
+  }
+ ]
+}

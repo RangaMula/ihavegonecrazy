@@ -1,0 +1,48 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-078",
+ "title": {
+  "id": "title",
+  "source": "The Father and His Two Daughters"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/078 - The Father and His Two Daughters.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 5,
+  "words": 152
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A MAN had two daughters, the one married to a gardener, and the other to a tile-maker."
+    },
+    {
+     "id": "p001.s02",
+     "source": "After a time he went to the daughter who had married the gardener, and inquired how she was and how all things went with her."
+    },
+    {
+     "id": "p001.s03",
+     "source": "She said, “All things are prospering with me, and I have only one wish, that there may be a heavy fall of rain, in order that the plants may be well watered.”"
+    },
+    {
+     "id": "p001.s04",
+     "source": "Not long after, he went to the daughter who had married the tilemaker, and likewise inquired of her how she fared; she replied, “I want for nothing, and have only one wish, that the dry weather may continue, and the sun shine hot and bright, so that the bricks might be dried.”"
+    },
+    {
+     "id": "p001.s05",
+     "source": "He said to her, “If your sister wishes for rain, and you for dry weather, with which of the two am I to join my wishes?”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

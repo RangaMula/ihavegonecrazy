@@ -1,0 +1,758 @@
+{
+ "id": "eu-germany-041",
+ "title": {
+  "id": "title",
+  "source": "Clever Hans"
+ },
+ "tradition": "Germany",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Grimms' Fairy Tales",
+ "credits": "Grimm, Jacob (author, d. 1863); Grimm, Wilhelm (author, d. 1859)",
+ "gutenberg": "Project Gutenberg eBook #2591 — https://www.gutenberg.org/ebooks/2591 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Germany/041 - Clever Hans.md",
+ "stats": {
+  "paragraphs": 12,
+  "segments": 166,
+  "words": 895
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The mother of Hans said: ‘Whither away, Hans?’"
+    },
+    {
+     "id": "p001.s02",
+     "source": "Hans answered: ‘To Gretel.’"
+    },
+    {
+     "id": "p001.s03",
+     "source": "‘Behave well, Hans.’"
+    },
+    {
+     "id": "p001.s04",
+     "source": "‘Oh, I’ll behave well."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Goodbye, mother.’"
+    },
+    {
+     "id": "p001.s06",
+     "source": "‘Goodbye, Hans.’"
+    },
+    {
+     "id": "p001.s07",
+     "source": "Hans comes to Gretel."
+    },
+    {
+     "id": "p001.s08",
+     "source": "‘Good day, Gretel.’"
+    },
+    {
+     "id": "p001.s09",
+     "source": "‘Good day, Hans."
+    },
+    {
+     "id": "p001.s10",
+     "source": "What do you bring that is good?’"
+    },
+    {
+     "id": "p001.s11",
+     "source": "‘I bring nothing, I want to have something given me.’"
+    },
+    {
+     "id": "p001.s12",
+     "source": "Gretel presents Hans with a needle, Hans says: ‘Goodbye, Gretel.’"
+    },
+    {
+     "id": "p001.s13",
+     "source": "‘Goodbye, Hans.’"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Hans takes the needle, sticks it into a hay-cart, and follows the cart home."
+    },
+    {
+     "id": "p002.s02",
+     "source": "‘Good evening, mother.’"
+    },
+    {
+     "id": "p002.s03",
+     "source": "‘Good evening, Hans."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Where have you been?’"
+    },
+    {
+     "id": "p002.s05",
+     "source": "‘With Gretel.’"
+    },
+    {
+     "id": "p002.s06",
+     "source": "‘What did you take her?’"
+    },
+    {
+     "id": "p002.s07",
+     "source": "‘Took nothing; had something given me.’"
+    },
+    {
+     "id": "p002.s08",
+     "source": "‘What did Gretel give you?’"
+    },
+    {
+     "id": "p002.s09",
+     "source": "‘Gave me a needle.’"
+    },
+    {
+     "id": "p002.s10",
+     "source": "‘Where is the needle, Hans?’"
+    },
+    {
+     "id": "p002.s11",
+     "source": "‘Stuck in the hay-cart.’"
+    },
+    {
+     "id": "p002.s12",
+     "source": "‘That was ill done, Hans."
+    },
+    {
+     "id": "p002.s13",
+     "source": "You should have stuck the needle in your sleeve.’"
+    },
+    {
+     "id": "p002.s14",
+     "source": "‘Never mind, I’ll do better next time.’"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "‘Whither away, Hans?’"
+    },
+    {
+     "id": "p003.s02",
+     "source": "‘To Gretel, mother.’"
+    },
+    {
+     "id": "p003.s03",
+     "source": "‘Behave well, Hans.’"
+    },
+    {
+     "id": "p003.s04",
+     "source": "‘Oh, I’ll behave well."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Goodbye, mother.’"
+    },
+    {
+     "id": "p003.s06",
+     "source": "‘Goodbye, Hans.’"
+    },
+    {
+     "id": "p003.s07",
+     "source": "Hans comes to Gretel."
+    },
+    {
+     "id": "p003.s08",
+     "source": "‘Good day, Gretel.’"
+    },
+    {
+     "id": "p003.s09",
+     "source": "‘Good day, Hans."
+    },
+    {
+     "id": "p003.s10",
+     "source": "What do you bring that is good?’"
+    },
+    {
+     "id": "p003.s11",
+     "source": "‘I bring nothing."
+    },
+    {
+     "id": "p003.s12",
+     "source": "I want to have something given to me.’"
+    },
+    {
+     "id": "p003.s13",
+     "source": "Gretel presents Hans with a knife."
+    },
+    {
+     "id": "p003.s14",
+     "source": "‘Goodbye, Gretel.’"
+    },
+    {
+     "id": "p003.s15",
+     "source": "‘Goodbye, Hans.’"
+    },
+    {
+     "id": "p003.s16",
+     "source": "Hans takes the knife, sticks it in his sleeve, and goes home."
+    },
+    {
+     "id": "p003.s17",
+     "source": "‘Good evening, mother.’"
+    },
+    {
+     "id": "p003.s18",
+     "source": "‘Good evening, Hans."
+    },
+    {
+     "id": "p003.s19",
+     "source": "Where have you been?’"
+    },
+    {
+     "id": "p003.s20",
+     "source": "‘With Gretel.’"
+    },
+    {
+     "id": "p003.s21",
+     "source": "What did you take her?’"
+    },
+    {
+     "id": "p003.s22",
+     "source": "‘Took her nothing, she gave me something.’"
+    },
+    {
+     "id": "p003.s23",
+     "source": "‘What did Gretel give you?’"
+    },
+    {
+     "id": "p003.s24",
+     "source": "‘Gave me a knife.’"
+    },
+    {
+     "id": "p003.s25",
+     "source": "‘Where is the knife, Hans?’"
+    },
+    {
+     "id": "p003.s26",
+     "source": "‘Stuck in my sleeve.’"
+    },
+    {
+     "id": "p003.s27",
+     "source": "‘That’s ill done, Hans, you should have put the knife in your pocket.’"
+    },
+    {
+     "id": "p003.s28",
+     "source": "‘Never mind, will do better next time.’"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "‘Whither away, Hans?’"
+    },
+    {
+     "id": "p004.s02",
+     "source": "‘To Gretel, mother.’"
+    },
+    {
+     "id": "p004.s03",
+     "source": "‘Behave well, Hans.’"
+    },
+    {
+     "id": "p004.s04",
+     "source": "‘Oh, I’ll behave well."
+    },
+    {
+     "id": "p004.s05",
+     "source": "Goodbye, mother.’"
+    },
+    {
+     "id": "p004.s06",
+     "source": "‘Goodbye, Hans.’"
+    },
+    {
+     "id": "p004.s07",
+     "source": "Hans comes to Gretel."
+    },
+    {
+     "id": "p004.s08",
+     "source": "‘Good day, Gretel.’"
+    },
+    {
+     "id": "p004.s09",
+     "source": "‘Good day, Hans."
+    },
+    {
+     "id": "p004.s10",
+     "source": "What good thing do you bring?’"
+    },
+    {
+     "id": "p004.s11",
+     "source": "‘I bring nothing, I want something given me.’"
+    },
+    {
+     "id": "p004.s12",
+     "source": "Gretel presents Hans with a young goat."
+    },
+    {
+     "id": "p004.s13",
+     "source": "‘Goodbye, Gretel.’"
+    },
+    {
+     "id": "p004.s14",
+     "source": "‘Goodbye, Hans.’"
+    },
+    {
+     "id": "p004.s15",
+     "source": "Hans takes the goat, ties its legs, and puts it in his pocket."
+    },
+    {
+     "id": "p004.s16",
+     "source": "When he gets home it is suffocated."
+    },
+    {
+     "id": "p004.s17",
+     "source": "‘Good evening, mother.’"
+    },
+    {
+     "id": "p004.s18",
+     "source": "‘Good evening, Hans."
+    },
+    {
+     "id": "p004.s19",
+     "source": "Where have you been?’"
+    },
+    {
+     "id": "p004.s20",
+     "source": "‘With Gretel.’"
+    },
+    {
+     "id": "p004.s21",
+     "source": "‘What did you take her?’"
+    },
+    {
+     "id": "p004.s22",
+     "source": "‘Took nothing, she gave me something.’"
+    },
+    {
+     "id": "p004.s23",
+     "source": "‘What did Gretel give you?’"
+    },
+    {
+     "id": "p004.s24",
+     "source": "‘She gave me a goat.’"
+    },
+    {
+     "id": "p004.s25",
+     "source": "‘Where is the goat, Hans?’"
+    },
+    {
+     "id": "p004.s26",
+     "source": "‘Put it in my pocket.’"
+    },
+    {
+     "id": "p004.s27",
+     "source": "‘That was ill done, Hans, you should have put a rope round the goat’s neck.’"
+    },
+    {
+     "id": "p004.s28",
+     "source": "‘Never mind, will do better next time.’"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "‘Whither away, Hans?’"
+    },
+    {
+     "id": "p005.s02",
+     "source": "‘To Gretel, mother.’"
+    },
+    {
+     "id": "p005.s03",
+     "source": "‘Behave well, Hans.’"
+    },
+    {
+     "id": "p005.s04",
+     "source": "‘Oh, I’ll behave well."
+    },
+    {
+     "id": "p005.s05",
+     "source": "Goodbye, mother.’"
+    },
+    {
+     "id": "p005.s06",
+     "source": "‘Goodbye, Hans.’"
+    },
+    {
+     "id": "p005.s07",
+     "source": "Hans comes to Gretel."
+    },
+    {
+     "id": "p005.s08",
+     "source": "‘Good day, Gretel.’"
+    },
+    {
+     "id": "p005.s09",
+     "source": "‘Good day, Hans."
+    },
+    {
+     "id": "p005.s10",
+     "source": "What good thing do you bring?’"
+    },
+    {
+     "id": "p005.s11",
+     "source": "‘I bring nothing, I want something given me.’"
+    },
+    {
+     "id": "p005.s12",
+     "source": "Gretel presents Hans with a piece of bacon."
+    },
+    {
+     "id": "p005.s13",
+     "source": "‘Goodbye, Gretel.’"
+    },
+    {
+     "id": "p005.s14",
+     "source": "‘Goodbye, Hans.’"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Hans takes the bacon, ties it to a rope, and drags it away behind him."
+    },
+    {
+     "id": "p006.s02",
+     "source": "The dogs come and devour the bacon."
+    },
+    {
+     "id": "p006.s03",
+     "source": "When he gets home, he has the rope in his hand, and there is no longer anything hanging on to it."
+    },
+    {
+     "id": "p006.s04",
+     "source": "‘Good evening, mother.’"
+    },
+    {
+     "id": "p006.s05",
+     "source": "‘Good evening, Hans."
+    },
+    {
+     "id": "p006.s06",
+     "source": "Where have you been?’"
+    },
+    {
+     "id": "p006.s07",
+     "source": "‘With Gretel.’"
+    },
+    {
+     "id": "p006.s08",
+     "source": "‘What did you take her?’"
+    },
+    {
+     "id": "p006.s09",
+     "source": "‘I took her nothing, she gave me something.’"
+    },
+    {
+     "id": "p006.s10",
+     "source": "‘What did Gretel give you?’"
+    },
+    {
+     "id": "p006.s11",
+     "source": "‘Gave me a bit of bacon.’"
+    },
+    {
+     "id": "p006.s12",
+     "source": "‘Where is the bacon, Hans?’"
+    },
+    {
+     "id": "p006.s13",
+     "source": "‘I tied it to a rope, brought it home, dogs took it.’"
+    },
+    {
+     "id": "p006.s14",
+     "source": "‘That was ill done, Hans, you should have carried the bacon on your head.’"
+    },
+    {
+     "id": "p006.s15",
+     "source": "‘Never mind, will do better next time.’"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "‘Whither away, Hans?’"
+    },
+    {
+     "id": "p007.s02",
+     "source": "‘To Gretel, mother.’"
+    },
+    {
+     "id": "p007.s03",
+     "source": "‘Behave well, Hans.’"
+    },
+    {
+     "id": "p007.s04",
+     "source": "‘I’ll behave well."
+    },
+    {
+     "id": "p007.s05",
+     "source": "Goodbye, mother.’"
+    },
+    {
+     "id": "p007.s06",
+     "source": "‘Goodbye, Hans.’"
+    },
+    {
+     "id": "p007.s07",
+     "source": "Hans comes to Gretel."
+    },
+    {
+     "id": "p007.s08",
+     "source": "‘Good day, Gretel.’"
+    },
+    {
+     "id": "p007.s09",
+     "source": "‘Good day, Hans, What good thing do you bring?’"
+    },
+    {
+     "id": "p007.s10",
+     "source": "‘I bring nothing, but would have something given.’"
+    },
+    {
+     "id": "p007.s11",
+     "source": "Gretel presents Hans with a calf."
+    },
+    {
+     "id": "p007.s12",
+     "source": "‘Goodbye, Gretel.’"
+    },
+    {
+     "id": "p007.s13",
+     "source": "‘Goodbye, Hans.’"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Hans takes the calf, puts it on his head, and the calf kicks his face."
+    },
+    {
+     "id": "p008.s02",
+     "source": "‘Good evening, mother.’"
+    },
+    {
+     "id": "p008.s03",
+     "source": "‘Good evening, Hans."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Where have you been?’"
+    },
+    {
+     "id": "p008.s05",
+     "source": "‘With Gretel.’"
+    },
+    {
+     "id": "p008.s06",
+     "source": "‘What did you take her?’"
+    },
+    {
+     "id": "p008.s07",
+     "source": "‘I took nothing, but had something given me.’"
+    },
+    {
+     "id": "p008.s08",
+     "source": "‘What did Gretel give you?’"
+    },
+    {
+     "id": "p008.s09",
+     "source": "‘A calf.’"
+    },
+    {
+     "id": "p008.s10",
+     "source": "‘Where have you the calf, Hans?’"
+    },
+    {
+     "id": "p008.s11",
+     "source": "‘I set it on my head and it kicked my face.’"
+    },
+    {
+     "id": "p008.s12",
+     "source": "‘That was ill done, Hans, you should have led the calf, and put it in the stall.’"
+    },
+    {
+     "id": "p008.s13",
+     "source": "‘Never mind, will do better next time.’"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "‘Whither away, Hans?’"
+    },
+    {
+     "id": "p009.s02",
+     "source": "‘To Gretel, mother.’"
+    },
+    {
+     "id": "p009.s03",
+     "source": "‘Behave well, Hans.’"
+    },
+    {
+     "id": "p009.s04",
+     "source": "‘I’ll behave well."
+    },
+    {
+     "id": "p009.s05",
+     "source": "Goodbye, mother.’"
+    },
+    {
+     "id": "p009.s06",
+     "source": "‘Goodbye, Hans.’"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Hans comes to Gretel."
+    },
+    {
+     "id": "p010.s02",
+     "source": "‘Good day, Gretel.’"
+    },
+    {
+     "id": "p010.s03",
+     "source": "‘Good day, Hans."
+    },
+    {
+     "id": "p010.s04",
+     "source": "What good thing do you bring?’"
+    },
+    {
+     "id": "p010.s05",
+     "source": "‘I bring nothing, but would have something given.’"
+    },
+    {
+     "id": "p010.s06",
+     "source": "Gretel says to Hans: ‘I will go with you.’"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Hans takes Gretel, ties her to a rope, leads her to the rack, and binds her fast."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Then Hans goes to his mother."
+    },
+    {
+     "id": "p011.s03",
+     "source": "‘Good evening, mother.’"
+    },
+    {
+     "id": "p011.s04",
+     "source": "‘Good evening, Hans."
+    },
+    {
+     "id": "p011.s05",
+     "source": "Where have you been?’"
+    },
+    {
+     "id": "p011.s06",
+     "source": "‘With Gretel.’"
+    },
+    {
+     "id": "p011.s07",
+     "source": "‘What did you take her?’"
+    },
+    {
+     "id": "p011.s08",
+     "source": "‘I took her nothing.’"
+    },
+    {
+     "id": "p011.s09",
+     "source": "‘What did Gretel give you?’"
+    },
+    {
+     "id": "p011.s10",
+     "source": "‘She gave me nothing, she came with me.’"
+    },
+    {
+     "id": "p011.s11",
+     "source": "‘Where have you left Gretel?’"
+    },
+    {
+     "id": "p011.s12",
+     "source": "‘I led her by the rope, tied her to the rack, and scattered some grass for her.’"
+    },
+    {
+     "id": "p011.s13",
+     "source": "‘That was ill done, Hans, you should have cast friendly eyes on her.’"
+    },
+    {
+     "id": "p011.s14",
+     "source": "‘Never mind, will do better.’"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Hans went into the stable, cut out all the calves’ and sheep’s eyes, and threw them in Gretel’s face."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Then Gretel became angry, tore herself loose and ran away, and was no longer the bride of Hans."
+    }
+   ],
+   "id": "p012"
+  }
+ ]
+}

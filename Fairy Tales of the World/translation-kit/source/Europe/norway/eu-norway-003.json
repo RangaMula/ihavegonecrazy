@@ -1,0 +1,782 @@
+{
+ "id": "eu-norway-003",
+ "title": {
+  "id": "title",
+  "source": "The Old Dame And Her Hen"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Popular Tales from the Norse",
+ "credits": "Moe, Jørgen Engebretsen (compiler, d. 1882); Asbjørnsen, Peter Christen (compiler, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)",
+ "gutenberg": "Project Gutenberg eBook #8933 — https://www.gutenberg.org/ebooks/8933 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Norway/003 - The Old Dame And Her Hen.md",
+ "stats": {
+  "paragraphs": 60,
+  "segments": 100,
+  "words": 2401
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once on a time there was an old widow who lived far away from the rest of the world, up under a hillside, with her three daughters."
+    },
+    {
+     "id": "p001.s02",
+     "source": "She was so poor that she had no stock but one single hen, which she prized as the apple of her eye; in short, it was always cackling at her heels, and she was always running to look after it."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Well! one day, all at once, the hen was missing."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The old wife went out, and round and round the cottage, looking and calling for her hen, but it was gone, and there was no getting it back."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "So the woman said to her eldest daughter, 'You must just go out and see if you can find our hen, for have it back we must, even if we have to fetch it out of the hill.'"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Well! the daughter was ready enough to go, so she set off and walked up and down, and looked and called, but no hen could she find."
+    },
+    {
+     "id": "p003.s02",
+     "source": "But all at once, just as she was about to give up the hunt, she heard some one calling out in a cleft in the rock:"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Your hen trips inside the hill!"
+    },
+    {
+     "id": "p004.s02",
+     "source": "Your hen trips inside the hill!"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "So she went into the cleft to see what it was, but she had scarce set her foot inside the cleft, before she fell through a trap-door, deep, deep down, into a vault under ground."
+    },
+    {
+     "id": "p005.s02",
+     "source": "When she got to the bottom she went through many rooms, each finer than the other; but in the innermost room of all, a great ugly man of the hill-folk came up to her and asked, 'Will you be my sweetheart?'"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "'No!"
+    },
+    {
+     "id": "p006.s02",
+     "source": "I will not', she said."
+    },
+    {
+     "id": "p006.s03",
+     "source": "She wouldn't have him at any price! not she; all she wanted was to get above ground again as fast as ever she could, and to look after her hen which was lost."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Then the Man o' the Hill got so angry that he took her up and wrung her head off, and threw both head and trunk down into the cellar."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "While this was going on, her mother sat at home waiting and waiting, but no daughter came."
+    },
+    {
+     "id": "p007.s02",
+     "source": "So after she had waited a bit longer, and neither heard nor saw anything of her daughter, she said to her midmost daughter, that she must go out and see after her sister, and she added:"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "'You can just give our hen a call at the same time.'"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Well! the second sister had to get off, and the very same thing befell her; she went about looking and calling, and all at once she too heard a voice away in the cleft of the rock saying:"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Your hen trips inside the hill!"
+    },
+    {
+     "id": "p010.s02",
+     "source": "Your hen trips inside the hill!"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "She thought this strange, and went to see what it could be; and so she too fell through the trap-door, deep, deep down, into the vault."
+    },
+    {
+     "id": "p011.s02",
+     "source": "There she went from room to room, and in the innermost one the Man o' the Hill came to her and asked if she would be his sweetheart?"
+    },
+    {
+     "id": "p011.s03",
+     "source": "No! that she wouldn't; all she wanted was to get above ground again, and hunt for her hen which was lost."
+    },
+    {
+     "id": "p011.s04",
+     "source": "So the Man o' the Hill got angry, and took her up and wrung her head off, and threw both head and trunk down into the cellar."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Now, when the old dame had sat and waited seven lengths and seven breadths for her second daughter, and could neither see nor hear anything of her, she said to the youngest:"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "'Now, you really must set off and see after your sisters."
+    },
+    {
+     "id": "p013.s02",
+     "source": "'Twas silly to lose the hen, but 'twill be sillier still if we lose both your sisters; and you can give the hen a call at the same time'--for the old dame's heart was still set on her hen."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Yes! the youngest was ready enough to go; so she walked up and down, Wanting for her sisters and calling the hen, but she could neither see nor hear anything of them."
+    },
+    {
+     "id": "p014.s02",
+     "source": "So at last she too came up to the cleft in the rock, and heard how something said:"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Your hen trips inside the hill!"
+    },
+    {
+     "id": "p015.s02",
+     "source": "Your hen trips inside the hill!"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "She thought this strange, so she too went to see what it was, and fell through the trap-door too, deep, deep down, into a vault."
+    },
+    {
+     "id": "p016.s02",
+     "source": "When she reached the bottom she went from one room to another, each grander than the other; but she wasn't at all afraid, and took good time to look about her."
+    },
+    {
+     "id": "p016.s03",
+     "source": "So, as she was peeping into this and that, she cast her eye on the trap-door into the cellar, and looked down it, and what should she see there but her sisters, who lay dead."
+    },
+    {
+     "id": "p016.s04",
+     "source": "She had scarce time to slam to the trap-door before the Man o' the Hill came to her and asked:"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "'Will you be my sweetheart?'"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "'With all my heart', answered the girl, for she saw very well how it had gone with her sisters."
+    },
+    {
+     "id": "p018.s02",
+     "source": "So, when the Man o' the Hill heard that, he got her the finest clothes in the world; she had only to ask for them, or for anything else she had a mind to, and she got what she wanted, so glad was the Man o' the Hill that any one would be his sweetheart."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "But when she had been there a little while, she was one day even more doleful and downcast than was her wont."
+    },
+    {
+     "id": "p019.s02",
+     "source": "So the Man o' the Hill asked her what was the matter, and why she was in such dumps."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "'Ah!' said the girl, 'it's because I can't get home to my mother."
+    },
+    {
+     "id": "p020.s02",
+     "source": "She's hard pinched, I know, for meat and drink, and has no one with her.'"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "'Well!' said the Man o' the Hill, 'I can't let you go to see her; but just stuff some meat and drink into a sack, and I'll carry it to her.'"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Yes! she would do so, she said, with many thanks; but at the bottom of the sack she stuffed a lot of gold and silver, and afterwards she laid a little food on the top of the gold and silver."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Then she told the ogre the sack was ready, but he must be sure not to look into it."
+    },
+    {
+     "id": "p022.s03",
+     "source": "So he gave his word he wouldn't, and set off."
+    },
+    {
+     "id": "p022.s04",
+     "source": "Now, as the Man o' the Hill walked off, she peeped out after him through a chink in the trap-door; but when he had gone a bit on the way, he said:"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "'This sack is so heavy, I'll just see what there is inside it.'"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "And so he was about to untie the mouth of the sack, but the girl called out to him:"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "I see what you're at!"
+    },
+    {
+     "id": "p025.s02",
+     "source": "I see what you're at!"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "'The deuce you do!' said the Man o' the Hill; 'then you must have plaguy sharp eyes in your head, that's all!'"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "So he threw the sack over his shoulder, and dared not try to look into it again."
+    },
+    {
+     "id": "p027.s02",
+     "source": "When he reached the widow's cottage, he threw the sack in through the cottage door, and said:"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "'Here you have meat and drink from your daughter; she doesn't want for anything.'"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "So, when the girl had been in the hill a good bit longer, one day a billy-goat fell down the trap-door."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "'Who sent for you, I should like to know? you long-bearded beast!' said the Man o' the Hill, who was in an awful rage, and with that he whipped up the goat, and wrung his head off, and threw him down into the cellar."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "'Oh!' said the girl, 'why did you do that?"
+    },
+    {
+     "id": "p031.s02",
+     "source": "I might have had the goat to play with down here.'"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "'Well!' said the Man o' the Hill, 'you needn't be so down in the mouth about it, I should think, for I can soon put life into the billy-goat again.'"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "So saying, he took a flask which hung up against the wall, put the billy-goat's head on his body again, and smeared it with some ointment out of the flask, and he was as well and as lively as ever again."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "'Ho! ho!' said the girl to herself; 'that flask is worth something-- that it is.'"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "So when she had been some time longer in the hill, she watched for a day when the Man o' the Hill was away, took her eldest sister, and putting her head on her shoulders, smeared her with some of the ointment out of the flask, just as she had seen the Man o' the Hill do with the billy-goat, and in a trice her sister came to life again."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Then the girl stuffed her into a sack, laid a little food over her, and as soon as the Man o' the Hill came home, she said to him:"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "'Dear friend!"
+    },
+    {
+     "id": "p036.s02",
+     "source": "Now do go home to my mother with a morsel of food again; poor thing! she's both hungry and thirsty, I'll be bound; and besides that, she's all alone in the world."
+    },
+    {
+     "id": "p036.s03",
+     "source": "But you must mind and not look into the sack.'"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Well! he said he would carry the sack; and he said, too, that he would not look into it; but when he had gone a little way, he thought the sack got awfully heavy; and when he had gone a bit farther he said to himself:"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "'Come what will, I must see what's inside this sack, for however sharp her eyes may be, she can't see me all this way off'"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "But just as he was about to untie the sack, the girl who sat inside the sack called out:"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "I see what you're at!"
+    },
+    {
+     "id": "p040.s02",
+     "source": "I see what you're at!"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "'The deuce you do!' said the ogre; 'then you must have plaguey sharp eyes'; for he thought all the while it was the girl inside the hill who was speaking."
+    },
+    {
+     "id": "p041.s02",
+     "source": "So he didn't care so much as to peep into the sack again, but carried it straight to her mother as fast as he could, and when he got to the cottage door he threw it in through the door, and bawled out:"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "'Here you have meat and drink from your daughter; she wants for nothing.'"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "Now, when the girl had been in the hill a while longer, she did the very same thing with her other sister."
+    },
+    {
+     "id": "p043.s02",
+     "source": "She put her head on her shoulders, smeared her with ointment out of the flask, brought her to life, and stuffed her into the sack; but this time she crammed in also as much gold and silver as the sack would hold, and over all laid a very little food."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "'Dear friend', she said to the Man o' the Hill, 'you really must run home to my mother with a little food again; and mind you don't look into the sack.'"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "Yes! the Man o' the Hill was ready enough to do as she wished, and he gave his word too that he wouldn't look into the sack; but when he had gone a bit of the way he began to think the sack got awfully heavy, and when he had gone a bit further, he could scarce stagger along under it, so he set it down, and was just about to untie the string and look into it, when the girl inside the sack bawled out:"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "I see what you're at!"
+    },
+    {
+     "id": "p046.s02",
+     "source": "I see what you're at!"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "'The deuce you do', said the Man o' the Hill, 'then you must have plaguey sharp eyes of your own.'"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "Well, he dared not try to look into the sack, but made all the haste he could, and carried the sack straight to the girl's mother."
+    },
+    {
+     "id": "p048.s02",
+     "source": "When he got to the cottage door he threw the sack in through the door, and roared out:"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "'Here you have food from your daughter; she wants for nothing.'"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "So when the girl had been there a good while longer, the Man o' the Hill made up his mind to go out for the day; then the girl shammed to be sick and sorry, and pouted and fretted."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "'It's no use your coming home before twelve o'clock at night', she said, 'for I shan't be able to have supper ready before--I'm so sick and poorly.'"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "But when the Man o' the Hill was well out of the house, she stuffed some of her clothes with straw, and stuck up this lass of straw in the corner by the chimney, with a besom in her hand, so that it looked just as if she herself were standing there."
+    },
+    {
+     "id": "p052.s02",
+     "source": "After that she stole off home, and got a sharp-shooter to stay in the cottage with her mother."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "So when the clock struck twelve, or just about it, home came the Man o' the Hill, and the first thing he said to the straw-girl was, 'Give me something to eat.'"
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "But she answered him never a word."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "'Give me something to eat, I say!' called out the Man o' the Hill, 'for I am almost starved.'"
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "No! she hadn't a word to throw at him."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "'Give me something to eat!' roared out the ogre the third time.'"
+    },
+    {
+     "id": "p057.s02",
+     "source": "I think you'd better open your ears and hear what I say, or else I'll wake you up, that I will!'"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "No! the girl stood just as still as ever; so he flew into a rage, and gave her such a slap in the face, that the straw flew all about the room; but when he saw that, he knew he had been tricked, and began to hunt everywhere; and at last, when he came to the cellar, and found both the girl's sisters missing, he soon saw how the cat jumped, and ran off to the cottage, saying, 'I'll soon pay her off!'"
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "But when he reached the cottage, the sharp-shooter fired off his piece, and then the Man o' the Hill dared not go into the house, for he thought it was thunder."
+    },
+    {
+     "id": "p059.s02",
+     "source": "So he set off home again as fast as he could lay legs to the ground; but what do you think, just as he got to the trap-door, the sun rose and the Man o' the Hill burst."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "Oh! if one only knew where the trap-door was, I'll be bound there's a whole heap of gold and silver down there still!"
+    }
+   ],
+   "id": "p060"
+  }
+ ]
+}

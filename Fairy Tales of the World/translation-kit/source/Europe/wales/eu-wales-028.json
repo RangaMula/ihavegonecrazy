@@ -1,0 +1,42 @@
+{
+ "id": "eu-wales-028",
+ "title": {
+  "id": "title",
+  "source": "Roberts And The Fairies"
+ },
+ "tradition": "Wales",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Welsh Fairy-Tales and Other Stories",
+ "credits": "Emerson, P. H. (Peter Henry) (editor, d. 1936)",
+ "gutenberg": "Project Gutenberg eBook #8675 — https://www.gutenberg.org/ebooks/8675 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Wales/028 - Roberts And The Fairies.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 2,
+  "words": 53
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Source: Told me by another old man, and I believe it to be genuine."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "There is another story of the same kind, of a man who was searching for treasure in Beaumaris Castle, and after he had told of his luck a stone fell on him, so that he had to go away."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

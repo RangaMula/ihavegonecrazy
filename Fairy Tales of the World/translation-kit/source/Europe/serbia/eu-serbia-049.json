@@ -1,0 +1,100 @@
+{
+ "id": "eu-serbia-049",
+ "title": {
+  "id": "title",
+  "source": "Slava (or Krsno Ime)"
+ },
+ "tradition": "Serbia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Hero Tales and Legends of the Serbians",
+ "credits": "Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)",
+ "gutenberg": "Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Serbia/049 - Slava (or Krsno Ime).md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 15,
+  "words": 426
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "This custom is considered to be a survival of the times when the Serbians were first converted to Christianity."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Every Serbian family has one day in the year, known as slava , generally some saint’s day, when there are performed certain ceremonies partly of a religious and partly of a social character."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The saint whom the head of the family celebrates as his patron, or tutelary saint, is also celebrated by his children and their descendants."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "A few days before the celebration the priest comes to the house of every svetchar —the man who as the chief of the family celebrates the saint—in order to bless the water which has been prepared beforehand for that purpose in a special vessel; after this he besprinkles the heads of all the members of the family with the holy water, into which he has dipped a small sprig of basil."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Then he proceeds from room to room performing the same ceremony in each."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "In order to please their tutelary saint, all the members of the family fast for at least a week before the feast."
+    },
+    {
+     "id": "p003.s02",
+     "source": "On the eve of the saint’s day a taper is lit before the saint’s image, and remains burning for two days."
+    },
+    {
+     "id": "p003.s03",
+     "source": "One or two days before the festival the women prepare a kolatch (a special cake made of wheat-flour) which measures about fifteen inches in diameter, and is about three inches thick."
+    },
+    {
+     "id": "p003.s04",
+     "source": "Its surface is divided into quarters by being marked with a cross, each quarter bearing a shield with the letters I.N.R.I."
+    },
+    {
+     "id": "p003.s05",
+     "source": "In the centre there is a circle in which is a poskurnik (monogram of these initials)."
+    },
+    {
+     "id": "p003.s06",
+     "source": "Besides the kolatch, another cake of white wheat well boiled and mixed with powdered sugar, chopped nuts, and almonds, is made."
+    },
+    {
+     "id": "p003.s07",
+     "source": "This is called kolyivo (literally “something which has been killed with the knife”)."
+    },
+    {
+     "id": "p003.s08",
+     "source": "This is obviously a relic of the pagan times when kolyivo was the name given to animals sacrificed on the altar."
+    },
+    {
+     "id": "p003.s09",
+     "source": "When the Serbians were converted to the Christian faith, they were told that the Christian God and His saints did not call for animal, and still less for human sacrifice, and that boiled wheat might serve as a substitute."
+    },
+    {
+     "id": "p003.s10",
+     "source": "And it is interesting to find that kolyivo is prepared only for those saints whom the people believe to be dead, and not for those who are believed to be still living, such as St. Elias (Elijah), the patron Saint of Thunder, or the “Thunderer,” the Archangel Michael and certain others, for it is emphatically a symbolic offering for the dead."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

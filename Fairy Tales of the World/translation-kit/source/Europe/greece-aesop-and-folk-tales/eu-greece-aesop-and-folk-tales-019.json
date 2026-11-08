@@ -1,0 +1,36 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-019",
+ "title": {
+  "id": "title",
+  "source": "The Pomegranate, Apple-Tree, and Bramble"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/019 - The Pomegranate, Apple-Tree, and Bramble.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 2,
+  "words": 49
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "THE POMEGRANATE and Apple-Tree disputed as to which was the most beautiful."
+    },
+    {
+     "id": "p001.s02",
+     "source": "When their strife was at its height, a Bramble from the neighboring hedge lifted up its voice, and said in a boastful tone: “Pray, my dear friends, in my presence at least cease from such vain disputings.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

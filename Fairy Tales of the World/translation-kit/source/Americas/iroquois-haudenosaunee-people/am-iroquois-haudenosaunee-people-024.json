@@ -1,0 +1,91 @@
+{
+ "id": "am-iroquois-haudenosaunee-people-024",
+ "title": {
+  "id": "title",
+  "source": "A Superstition About Flies"
+ },
+ "tradition": "Iroquois (Haudenosaunee) people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Iroquois. (1883 N 02 / 1880-1881 (pages 47-116))",
+ "credits": "Smith, Erminnie A. (Erminnie Adele) (author, d. 1886)",
+ "gutenberg": "Project Gutenberg eBook #46140 — https://www.gutenberg.org/ebooks/46140 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Iroquois (Haudenosaunee) people/024 - A Superstition About Flies.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 10,
+  "words": 191
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a species of fly so poisonous that sometimes merely the smell of them would eat the nose from a man's face."
+    },
+    {
+     "id": "p001.s02",
+     "source": "A certain species of woodpecker was the only thing that could destroy them."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Their homes were in trees, on which their poisonous tracks could be traced."
+    },
+    {
+     "id": "p001.s04",
+     "source": "They often entered the horns of a deer; hence, the Indian hunter's first move after shooting a deer was to examine its horns, and if they were infected, the hunter would run away, since he knew that the moment the animal died the fatal insect would emerge from the horn."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Around the trees in which they lived deer ever congregated, seemingly bewitched by these fierce and noxious little flies."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Buckskin and deerskin were used to catch them."
+    },
+    {
+     "id": "p003.s02",
+     "source": "The bird that killed them for food was colored black and yellow."
+    },
+    {
+     "id": "p003.s03",
+     "source": "In the evening it came forth from its home in a hollow tree and scoured the forests for them."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "These birds were caught with buckskin traps and their feathers were used as charms, being fastened to the arrows of the hunter."
+    },
+    {
+     "id": "p004.s02",
+     "source": "An arrow thus made potent would surely bring down the deer."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p005"
+  }
+ ]
+}

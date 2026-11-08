@@ -1,0 +1,79 @@
+{
+ "id": "eu-ireland-013",
+ "title": {
+  "id": "title",
+  "source": "The Merrow"
+ },
+ "tradition": "Ireland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy and Folk Tales of the Irish Peasantry",
+ "credits": "Yeats, W. B. (William Butler) (editor, d. 1939)",
+ "gutenberg": "Project Gutenberg eBook #33887 — https://www.gutenberg.org/ebooks/33887 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Ireland/013 - The Merrow.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 10,
+  "words": 213
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The Merrow , or if you write it in the Irish, Moruadh or Murrúghach , from muir , sea, and oigh , a maid, is not uncommon, they say, on the wilder coasts."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The fishermen do not like to see them, for it always means coming gales."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The male Merrows (if you can use such a phrase—I have never heard the masculine of Merrow ) have green teeth, green hair, pig's eyes, and red noses; but their women are beautiful, for all their fish tails and the little duck-like scale between their fingers."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Sometimes they prefer, small blame to them, good-looking fishermen to their sea lovers."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Near Bantry, in the last century, there is said to have been a woman covered all over with scales like a fish, who was descended from such a marriage."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Sometimes they come out of the sea, and wander about the shore in the shape of little hornless cows."
+    },
+    {
+     "id": "p001.s07",
+     "source": "They have, when in their own shape, a red cap, called a cohullen druith , usually covered with feathers."
+    },
+    {
+     "id": "p001.s08",
+     "source": "If this is stolen, they cannot again go down under the waves."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Red is the colour of magic in every country, and has been so from the very earliest times."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The caps of fairies and magicians are well-nigh always red."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  }
+ ]
+}

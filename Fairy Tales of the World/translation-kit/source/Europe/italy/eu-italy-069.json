@@ -1,0 +1,94 @@
+{
+ "id": "eu-italy-069",
+ "title": {
+  "id": "title",
+  "source": "The Story Of The Barber"
+ },
+ "tradition": "Italy",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Italian Popular Tales",
+ "credits": "Crane, Thomas Frederick (author, d. 1927)",
+ "gutenberg": "Project Gutenberg eBook #23634 — https://www.gutenberg.org/ebooks/23634 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Italy/069 - The Story Of The Barber.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 8,
+  "words": 77
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once upon a time there was a barber...."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Be good and I will tell it to you again."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The next is from the same source."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Once upon a time there was a king, a pope, and a dwarf...."
+    },
+    {
+     "id": "p004.s02",
+     "source": "This king, this pope, and this dwarf...."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "(Then the story-teller begins again)."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "But it is time to give some of the stories that are told to the good children."
+    },
+    {
+     "id": "p007.s02",
+     "source": "The first is from Pitrè (No. 130) and is called:"
+    }
+   ],
+   "id": "p007"
+  }
+ ]
+}

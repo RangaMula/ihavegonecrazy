@@ -1,0 +1,96 @@
+{
+ "id": "eu-sweden-079",
+ "title": {
+  "id": "title",
+  "source": "The Voyage in a Lapp Sled"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/079 - The Voyage in a Lapp Sled.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 11,
+  "words": 277
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In the great forest west of Samsele, a hunter, early one morning, pursued his way in quest of game."
+    },
+    {
+     "id": "p001.s02",
+     "source": "About midday he ascended a ridge, where he was overtaken by a Troll-iling—a storm said to be raised by and to conceal a Troll—before which sticks and straws danced in the air."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Quickly grasping his knife he threw it at the wind, which at once subsided, and in a few seconds the usual quiet reigned."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Some time later he was again hunting, when he lost his way."
+    },
+    {
+     "id": "p002.s02",
+     "source": "After a long and wearisome wandering he reached a Lapp hut, where he found a woman stirring something in a kettle."
+    },
+    {
+     "id": "p002.s03",
+     "source": "When she had concluded her cooking, she invited the hunter to dine, and gave him the same knife to eat with that he had thrown at the storm ."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The following day he wished to return home, but could not possibly discover the course he should take, whereupon the Troll woman—for his hostess was none other—directed him to get into the Lapp sled, and attach to it a rope, in which he must tie three knots."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Now, untie one knot at a time,” said she, “and you will soon reach home.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The hunter untied one knot, as instructed, and away went the rope, dragging the sled after it into the air."
+    },
+    {
+     "id": "p005.s02",
+     "source": "After a time he untied another knot, and his speed was increased."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Finally he untied the last knot, increasing the speed to such a rate that when the sled came to a standstill, as it did, suddenly, not long after, he concluded his journey, falling into his own yard with such force as to break his leg. [ ]"
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

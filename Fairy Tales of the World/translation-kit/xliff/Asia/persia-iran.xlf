@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+ <file original="as-persia-iran-001" source-language="en" datatype="plaintext">
+  <header><note>Persian Fairy Tales — Persia (Iran) — The Cat and the Mouse: A Book of Persian Fairy Tales — Public domain in the USA (Project Gutenberg). The underlying</note></header>
+  <body>
+   <trans-unit id="title"><source>Persian Fairy Tales</source></trans-unit>
+   <group id="p001" restype="heading">
+    <trans-unit id="p001.s01"><source>The Cat and the Mouse A Book of Persian Fairy Tales</source></trans-unit>
+   </group>
+   <group id="p002" restype="prose">
+    <trans-unit id="p002.s01"><source>EDITED with an INTRODUCTION By HARTWELL JAMES WITH FORTY ILLUSTRATIONS By JOHN R. NEILL</source></trans-unit>
+   </group>
+   <group id="p003" restype="prose">
+    <trans-unit id="p003.s01"><source>PHILADELPHIA HENRY ALTEMUS COMPANY</source></trans-unit>
+   </group>
+   <group id="p004" restype="prose">
+    <trans-unit id="p004.s01"><source>Altemus&#x27; Illustrated Fairy Tales Series The Magic Bed A Book of East Indian Tales The Cat and the Mouse A Book of Persian Tales The Jeweled Sea A Book of Chinese Tales The Magic Jaw Bone A Book of South Sea Islands Tales The Man Elephant A Book of African Tales The Enchanted Castle A Book of Tales from Flower Land Fifty Cents Each Copyright, 1906 By Henry Altemus</source></trans-unit>
+   </group>
+  </body>
+ </file>
+ <file original="as-persia-iran-002" source-language="en" datatype="plaintext">
+  <header><note>Fairy Tales Series — Persia (Iran) — The Cat and the Mouse: A Book of Persian Fairy Tales — Public domain in the USA (Project Gutenberg). The underlying</note></header>
+  <body>
+   <trans-unit id="title"><source>Fairy Tales Series</source></trans-unit>
+   <group id="p003" restype="prose">
+    <trans-unit id="p003.s01"><source>The Magic Bed A Book of East Indian Tales</source></trans-unit>
+   </group>
+   <group id="p004" restype="prose">
+    <trans-unit id="p004.s01"><source>The Cat and the Mouse A Book of Persian Tales</source></trans-unit>
+   </group>
+   <group id="p005" restype="prose">
+    <trans-unit id="p005.s01"><source>The Jeweled Sea A Book of Chinese Tales</source></trans-unit>
+   </group>
+   <group id="p006" restype="prose">
+    <trans-unit id="p006.s01"><source>The Magic Jaw Bone A Book of South Sea Islands Tales</source></trans-unit>
+   </group>
+   <group id="p007" restype="prose">
+    <trans-unit id="p007.s01"><source>The Man Elephant A Book of African Tales</source></trans-unit>
+   </group>
+   <group id="p008" restype="prose">
+    <trans-unit id="p008.s01"><source>The Enchanted Castle A Book of Tales from Flower Land</source></trans-unit>
+   </group>
+   <group id="p011" restype="prose">
+    <trans-unit id="p011.s01"><source>Fifty Cents Each</source></trans-unit>
+   </group>
+   <group id="p014" restype="prose">
+    <trans-unit id="p014.s01"><source>Copyright, 1906 By Henry Altemus</source></trans-unit>
+   </group>
+   <group id="p016" restype="prose">
+    <trans-unit id="p016.s01"><source>Persia is rich in folk lore.</source></trans-unit>
+    <trans-unit id="p016.s02"><source>For hundreds and hundreds of years the stories in this book, and many others as well, have been told to the wondering boys and girls of that country, who, as they hear them, picture their native land as one of roses and tulips, where beautiful fairies build their castles in the rosy morn, and black gnomes fly around in the darkness of midnight.</source></trans-unit>
+   </group>
+   <group id="p017" restype="prose">
+    <trans-unit id="p017.s01"><source>A land, too, where the sun gleams like a fire above the blue mountains, and the water lilies are mirrored in the deep lakes.</source></trans-unit>
+    <trans-unit id="p017.s02"><source>A land where the eyes of the tigers gleam through the reeds by the riverside, and dark-eyed, sunburned people are quick to love and quick to hate.</source></trans-unit>
+   </group>
+   <group id="p018" restype="prose">
+    <trans-unit id="p018.s01"><source>The belief in the &quot;Ghool,&quot; or &quot;Old Man of the Desert,&quot; is still prevalent in Persia, which probably accounts for the popularity of the story of &quot;The Son of the Soap Seller.&quot;</source></trans-unit>
+    <trans-unit id="p018.s02"><source>The other stories selected for this volume are great favorites, but the story of &quot;The Cat and the Mouse&quot; is perhaps the most popular of all.</source></trans-unit>
+   </group>
+   <group id="p019" restype="prose">
+    <trans-unit id="p019.s01"><source>The frontispiece to this volume is a reduced facsimile of a whole page in a Persian book, showing both the pictures and the reading as they were published in Persia.</source></trans-unit>
+    <trans-unit id="p019.s02"><source>The other illustrations for &quot;The Cat and the Mouse&quot; are copies of drawings by a Persian artist.</source></trans-unit>
+   </group>
+   <group id="p020" restype="prose">
+    <trans-unit id="p020.s01"><source>&quot; Two friends on one carpet may with contentment sleep; Two monarchs in one kingdom the peace can never keep.</source></trans-unit>
+    <trans-unit id="p020.s02"><source>While earth revolves, and little children play, Cats over mice will always hold the sway.&quot;</source></trans-unit>
+   </group>
+   <group id="p021" restype="prose">
+    <trans-unit id="p021.s01"><source>H. J.</source></trans-unit>
+   </group>
+   <group id="p022" restype="prose">
+    <trans-unit id="p022.s01"><source>The Cat and The Mouse The Son of the Soap Seller The King&#x27;s Treasure The King and The Fisherman 13 37 61 85</source></trans-unit>
+   </group>
+   <group id="p023" restype="prose">
+    <trans-unit id="p023.s01"><source>Frontispiece &quot;Nobody was happier than this cat&quot; &quot; &#x27;Now will you take off my head?&#x27; &quot; &quot;The cat had a rosary of beads&quot; &quot;The mice began to make merry&quot; &quot;Discreetly they bore their gifts&quot; &quot;And they went forward trembling&quot; &quot;Five mice he caught&quot; &quot;The King was sitting on his throne&quot; &quot;The armies fell upon each other&quot; &quot;So he mounted his elephant&quot; &quot;The lion sprang upon the Princess&quot; &quot; &#x27;O brothers, buy my pure soap&#x27; &quot; &quot;Things became blacker and blacker&quot; &quot;Leading a fine lion by a chain&quot; &quot;They set forth on their journey&quot; &quot;The rain fell in torrents&quot; &quot; &#x27;Give me a drink of water&#x27; &quot; &quot;They ran here and there&quot; &quot; &#x27;Sleep, my son, while I keep watch&#x27; &quot; &quot;A beautiful young woman appeared&quot; &quot;Every morning Ahmed looked in the cup&quot; &quot;Ahmed sprang upon the figure&quot; &quot; &#x27;Ask for anything in reason&#x27; &quot; &quot;A brass vessel full of round white stones&quot; &quot;Lived in a sheltered valley&quot; &quot;Abdul Karim was lost in wonder&quot; &quot;Priests were calling the people to prayer&quot; &quot;The noise and bustle of the crowded streets&quot; &quot; &#x27;Two hundred krans!&#x27; repeated Abdul Karim&quot; &quot; &#x27;Get out of my shop!&#x27; &quot; &quot; &#x27;Here are eight krans&#x27; &quot; &quot;Came in sight of his cottage&quot; &quot;He hid most of the treasure&quot; &quot; &#x27;Is this fish male or female?&#x27; &quot; &quot;Begged that he would accept the fish&quot; &quot; &#x27;The matter is closed&#x27; &quot; &quot; &#x27;Are you a human being or a beast?&#x27; &quot; &quot;The fisherman fell on his knees&quot; &quot;His bag laden with money&quot; Page 2 14 15 17 19 20 21 23 25 29 31 36 39 40 41 43 45 47 49 50 51 55 56 57 60 63 64 65 68 69 71 74 75 79 84 87 88 89 93 94</source></trans-unit>
+   </group>
+   <group id="p024" restype="prose">
+    <trans-unit id="p024.s01"><source>THE CAT AND THE MOUSE</source></trans-unit>
+   </group>
+  </body>
+ </file>
+ <file original="as-persia-iran-003" source-language="en" datatype="plaintext">
+  <header><note>The Son of the Soap Seller — Persia (Iran) — The Cat and the Mouse: A Book of Persian Fairy Tales — Public domain in the USA (Project Gutenberg). The underlying</note></header>
+  <body>
+   <trans-unit id="title"><source>The Son of the Soap Seller</source></trans-unit>
+   <group id="p001" restype="prose">
+    <trans-unit id="p001.s01"><source>Cleverly proving that a princess with a necklace can frustrate the intentions of a Ghool, and that every king should have near his person the owner of a crystal cup.</source></trans-unit>
+   </group>
+   <group id="p002" restype="prose">
+    <trans-unit id="p002.s01"><source>HERE once dwelt a poor but worthy man named Abdullah in Meshed, the Holy City, the place of pilgrimage, whose beautiful mosque with the golden dome is the glory of the kingdom of Persia.</source></trans-unit>
+    <trans-unit id="p002.s02"><source>He barely managed to get a living by the sale of soap.</source></trans-unit>
+   </group>
+   <group id="p003" restype="prose">
+    <trans-unit id="p003.s01"><source>All day long, from sunrise to sunset, he tramped the city, crying out: &quot;O brothers, buy my pure soap.</source></trans-unit>
+    <trans-unit id="p003.s02"><source>There is none better in the city, as every one knows.</source></trans-unit>
+    <trans-unit id="p003.s03"><source>Even the little babes would say so if they could but speak.&quot;</source></trans-unit>
+   </group>
+   <group id="p004" restype="prose">
+    <trans-unit id="p004.s01"><source>Still, if you looked closely at it, you would never guess it to be soap; it was black and coarse, and more like wood than anything else.</source></trans-unit>
+    <trans-unit id="p004.s02"><source>If any unlucky pilgrim used it on his face or hands, it would make his skin burn like fire.</source></trans-unit>
+    <trans-unit id="p004.s03"><source>But this did not often happen, for the people in Persia do not use much soap on themselves, or their clothes, and sand does very well for cleaning cooking pots and pans.</source></trans-unit>
+    <trans-unit id="p004.s04"><source>So it was that there were many days when poor Abdullah did not sell enough to buy sufficient bread for himself and his little boy Ahmed.</source></trans-unit>
+   </group>
+   <group id="p005" restype="prose">
+    <trans-unit id="p005.s01"><source>At such times, the father would creep sadly into his wretched mud- built hovel, and bury his face in his hands, so that he might not see his son trying to keep back the tears caused by hunger.</source></trans-unit>
+    <trans-unit id="p005.s02"><source>The little fellow, however, now ten years of age, would comfort his father by saying:</source></trans-unit>
+   </group>
+   <group id="p006" restype="prose">
+    <trans-unit id="p006.s01"><source>&quot;Inshallah&quot;—if God wills—&quot;to-morrow you will sell more soap than you have done for weeks past.&quot;</source></trans-unit>
+    <trans-unit id="p006.s02"><source>And the father, looking into the bright, open face of his boy, would take courage, and pray that this might be so.</source></trans-unit>
+   </group>
+   <group id="p007" restype="prose">
+    <trans-unit id="p007.s01"><source>But the days went on and things became blacker and blacker, when one day an adventure befell little Ahmed.</source></trans-unit>
+    <trans-unit id="p007.s02"><source>He was on his way to school, and as the sun was very hot, he sought the shelter of the big plane-trees that lined the banks of the stream flowing down the center of the principal street.</source></trans-unit>
+   </group>
+   <group id="p008" restype="prose">
+    <trans-unit id="p008.s01"><source>Women were filling their water jugs, or washing clothes; a string of camels were drinking; several donkeys were rolling playfully over and over in the water, and some dyers were wringing out newly-dyed garments, causing waves of many colors to flow past.</source></trans-unit>
+   </group>
+   <group id="p009" restype="prose">
+    <trans-unit id="p009.s01"><source>Just as Ahmed had stopped to look, a dervish, leading a fine lion by a chain, and some runners with curious hats and coats rushed past, shouting:</source></trans-unit>
+   </group>
+   <group id="p010" restype="prose">
+    <trans-unit id="p010.s01"><source>&quot;Make way for the King!</source></trans-unit>
+    <trans-unit id="p010.s02"><source>Turn your faces to the wall!&quot;</source></trans-unit>
+    <trans-unit id="p010.s03"><source>And there was the great King, seated on a beautiful Arabian horse, surrounded by soldiers.</source></trans-unit>
+    <trans-unit id="p010.s04"><source>Then there passed a palanquin borne on the backs of four mules.</source></trans-unit>
+   </group>
+   <group id="p011" restype="prose">
+    <trans-unit id="p011.s01"><source>The party stopped just opposite to Ahmed, and from the palanquin there alighted a lady closely veiled, evidently wishing to inspect some beautiful Meshed silver work.</source></trans-unit>
+    <trans-unit id="p011.s02"><source>Before she could reach the shop, a great tumult arose among the people.</source></trans-unit>
+    <trans-unit id="p011.s03"><source>The lion had broken his chain and was madly leaping here and there, tearing and rending and dashing people to the ground.</source></trans-unit>
+    <trans-unit id="p011.s04"><source>Women fainted, men fled, little children stood still and cried pitifully, some jumped into the stream; the frightened horses dashed madly through the crowd.</source></trans-unit>
+    <trans-unit id="p011.s05"><source>All was terror and confusion.</source></trans-unit>
+   </group>
+   <group id="p012" restype="prose">
+    <trans-unit id="p012.s01"><source>Then with a roar the lion sprang upon the princess, and bore her to the ground; but ere he could tear her to pieces, Ahmed had sprang forward, seized a piece of iron, one end of which was red hot, from the shop of a blacksmith, and thrust it furiously into the face of the lion.</source></trans-unit>
+    <trans-unit id="p012.s02"><source>With a cry of pain and rage the lion left the princess and bounded off to the bazaars, where he did great damage.</source></trans-unit>
+   </group>
+   <group id="p013" restype="prose">
+    <trans-unit id="p013.s01"><source>As soon as the princess had recovered from her fright, she beckoned to Ahmed to come near, and removing her veil, told him he was a brave little fellow, and ordered one of her servants to give him a purse of gold.</source></trans-unit>
+    <trans-unit id="p013.s02"><source>Ahmed had never seen anyone so beautiful, and was so lost in wonder, that before he could find words of thanks, the party had passed on.</source></trans-unit>
+   </group>
+   <group id="p014" restype="prose">
+    <trans-unit id="p014.s01"><source>But when the money was spent, Ahmed and his father began to be in want again.</source></trans-unit>
+    <trans-unit id="p014.s02"><source>A Jewish pedlar having told him how much better trade was in the capital, they determined to set forth to that city, though the way was long and full of danger.</source></trans-unit>
+    <trans-unit id="p014.s03"><source>&quot;Better to die in the desert, than in the heart of a great city,&quot; said Ahmed.</source></trans-unit>
+   </group>
+   <group id="p015" restype="prose">
+    <trans-unit id="p015.s01"><source>So they set forth on their journey, sometimes climbing up winding paths among the mountains, at other times traversing the desert, footsore, and weary almost to death, often hungry and thirsty, tormented by the thought that they would fall into the hands of the man-stealing robbers who haunted this great pilgrim road.</source></trans-unit>
+   </group>
+   <group id="p016" restype="prose">
+    <trans-unit id="p016.s01"><source>On account of the intense heat and the cruel robbers, they traveled by night.</source></trans-unit>
+    <trans-unit id="p016.s02"><source>In every shadow cast by the moon upon the ground, they thought they saw a robber on his big horse.</source></trans-unit>
+    <trans-unit id="p016.s03"><source>During the day they slept at wayside inns, and in return for little services rendered by Ahmed to the muleteers, they would give him a handful of rice or bread, or a few dried fruits which kept them from starvation.</source></trans-unit>
+   </group>
+   <group id="p017" restype="prose">
+    <trans-unit id="p017.s01"><source>So it went on until one night, when searching for the bridge that crosses the Salt River, the sky became suddenly overcast, the rain fell in torrents, and soon the river was in flood.</source></trans-unit>
+    <trans-unit id="p017.s02"><source>There was nothing to be done but to sit down and wait until the moon should rise.</source></trans-unit>
+    <trans-unit id="p017.s03"><source>The fierce wind buffeted them, the rain drenched them; they had lost their way, and were at the mercy of wild beasts.</source></trans-unit>
+   </group>
+   <group id="p018" restype="prose">
+    <trans-unit id="p018.s01"><source>Once, when the wind dropped for a little, out of the darkness came a groan.</source></trans-unit>
+    <trans-unit id="p018.s02"><source>&quot;Keep still as death, my son,&quot; said the father to Ahmed, &quot;for it is the Old Man of the Desert.&quot;</source></trans-unit>
+   </group>
+   <group id="p019" restype="prose">
+    <trans-unit id="p019.s01"><source>Now Ahmed had never before heard of the Old Man of the Desert, and therefore knew no fear, so despite his father&#x27;s warning, he got up and went in the direction from whence came the groans.</source></trans-unit>
+    <trans-unit id="p019.s02"><source>As he reached the spot, the moon came out from behind a bank of clouds, and Ahmed saw a poor dervish lying on the sand.</source></trans-unit>
+    <trans-unit id="p019.s03"><source>He had a leopard skin thrown over his shoulders; by his side lay a big stick studded with sharp nails, and a basin made of the outer skin of a pumpkin in which he collected alms.</source></trans-unit>
+   </group>
+   <group id="p020" restype="prose">
+    <trans-unit id="p020.s01"><source>&quot;For the sake of the Prophet,&quot; he moaned when he saw Ahmed, &quot;give me a drink of water.&quot;</source></trans-unit>
+    <trans-unit id="p020.s02"><source>And Ahmed, filling his pitcher from the river gave him to drink, though the water was somewhat salty.</source></trans-unit>
+   </group>
+   <group id="p021" restype="prose">
+    <trans-unit id="p021.s01"><source>The water revived the dervish, and he said: &quot;I am Ali, the dervish, and am known throughout Persia.</source></trans-unit>
+    <trans-unit id="p021.s02"><source>Two months ago I left Mazandaran to go to Meshed.</source></trans-unit>
+    <trans-unit id="p021.s03"><source>But yesterday the fever seized me.</source></trans-unit>
+    <trans-unit id="p021.s04"><source>This is the third attack, and, as you know, it is always fatal.</source></trans-unit>
+   </group>
+   <group id="p022" restype="prose">
+    <trans-unit id="p022.s01"><source>&quot;Stay with me, my son, in this dark hour when I shall pass through the valley of the shadow of death.</source></trans-unit>
+    <trans-unit id="p022.s02"><source>And when my soul shall have crossed the Bridge of Death, take this little leather bag hanging round my neck, and therein you shall find a tiny cup, cut from a crystal, which if used rightly, shall lift thee to great power and wealth.</source></trans-unit>
+   </group>
+   <group id="p023" restype="prose">
+    <trans-unit id="p023.s01"><source>&quot;Each morning when you rise, place a drop of pure water in the cup, and look intently therein, and should any danger threaten you or those near and dear to you, it will be made manifest.</source></trans-unit>
+    <trans-unit id="p023.s02"><source>And if—&quot; but here his strength failed him, his head fell back, and he passed away.</source></trans-unit>
+    <trans-unit id="p023.s03"><source>Ahmed found the bag and the beautifully cut crystal, just as the dervish had said, and returning to his father, told him all that had happened.</source></trans-unit>
+   </group>
+   <group id="p024" restype="prose">
+    <trans-unit id="p024.s01"><source>Ahmed did as the dervish had directed him for several mornings, but seeing nothing in the crystal, he dropped the practice.</source></trans-unit>
+    <trans-unit id="p024.s02"><source>There came a day, however, when they were overtaken by a dreadful dust storm.</source></trans-unit>
+    <trans-unit id="p024.s03"><source>From across the wide stretch of sand, the wind raged, the sky and sun were blotted out, the air was laden with dust, and the small pebbles and stones carried in the wind cut them until they cried with pain.</source></trans-unit>
+    <trans-unit id="p024.s04"><source>Shelter there was none.</source></trans-unit>
+   </group>
+   <group id="p025" restype="prose">
+    <trans-unit id="p025.s01"><source>In fear and pain they ran here and there, and when after several hours of misery, the storm had passed, they could not see each other.</source></trans-unit>
+    <trans-unit id="p025.s02"><source>They were lost in the cruel desert, with no food, and worse still, no water.</source></trans-unit>
+    <trans-unit id="p025.s03"><source>Sobbing in despair, Ahmed straggled on.</source></trans-unit>
+    <trans-unit id="p025.s04"><source>He went like one in a dream.</source></trans-unit>
+    <trans-unit id="p025.s05"><source>Time after time he fell tripping over rocks and bushes, but he pressed onward.</source></trans-unit>
+    <trans-unit id="p025.s06"><source>Then came a time when he could go no further, and he lay down to die.</source></trans-unit>
+   </group>
+   <group id="p026" restype="prose">
+    <trans-unit id="p026.s01"><source>For a long time he slept, and then he was awakened by being shaken.</source></trans-unit>
+    <trans-unit id="p026.s02"><source>Looking up, he saw an old man smiling and saying: &quot;Why, it&#x27;s little Ahmed, the son of Abdullah, the Soap Seller.</source></trans-unit>
+    <trans-unit id="p026.s03"><source>Don&#x27;t you know me, Ahmed?</source></trans-unit>
+    <trans-unit id="p026.s04"><source>I am your uncle.</source></trans-unit>
+    <trans-unit id="p026.s05"><source>Don&#x27;t cry because you have lost your way.</source></trans-unit>
+    <trans-unit id="p026.s06"><source>Come, take my hand and we will soon find your father.&quot;</source></trans-unit>
+   </group>
+   <group id="p027" restype="prose">
+    <trans-unit id="p027.s01"><source>Now Ahmed wondered why he had never seen or even heard his father speak of this particular uncle, but he took the old man&#x27;s hand, and together they set forth.</source></trans-unit>
+    <trans-unit id="p027.s02"><source>Mile after mile they went, but no trace of his father could be found.</source></trans-unit>
+    <trans-unit id="p027.s03"><source>Then he sat down crying, and said: &quot;I am so tired, I can go no further.&quot;</source></trans-unit>
+    <trans-unit id="p027.s04"><source>And the old man replied: &quot;Sleep, my son, while I keep watch.&quot;</source></trans-unit>
+   </group>
+   <group id="p028" restype="prose">
+    <trans-unit id="p028.s01"><source>But just as Ahmed was closing his eyes, the old man turned, and Ahmed saw that he had thin legs like those of a sheep.</source></trans-unit>
+    <trans-unit id="p028.s02"><source>&quot;The Ghool! the Ghool!&quot; he shrieked, and fainted.</source></trans-unit>
+    <trans-unit id="p028.s03"><source>Then this wicked ogre of the desert began to open Ahmed&#x27;s coat in order to suck his blood.</source></trans-unit>
+   </group>
+   <group id="p029" restype="prose">
+    <trans-unit id="p029.s01"><source>But another cry answered that of the boy, and then appeared on the scene a beautiful young woman, carrying in her harid a necklace of gold and silver beads.</source></trans-unit>
+    <trans-unit id="p029.s02"><source>Casting but one glance at the beads, the old man flew swifter than the wild sheep of the mountains, for the sight of metal rendered him powerless to do harm.</source></trans-unit>
+   </group>
+   <group id="p030" restype="prose">
+    <trans-unit id="p030.s01"><source>Of course, it was the princess whose life Ahmed had saved in Meshed.</source></trans-unit>
+    <trans-unit id="p030.s02"><source>The King, her father, happened to be returning from a pilgrimage, and to give a fright to her servants, she had scampered off the track, and thus had found Ahmed.</source></trans-unit>
+    <trans-unit id="p030.s03"><source>At her request, Ahmed became one of the King&#x27;s followers, and together with his father, whom they found the next day, they journeyed to the capital.</source></trans-unit>
+   </group>
+   <group id="p031" restype="prose">
+    <trans-unit id="p031.s01"><source>Some three days&#x27; march from the capital, in the mountains near Kazveen, there lived the Old Man of the Mountains, or as he is generally known, the King of the Assassins, with his followers.</source></trans-unit>
+    <trans-unit id="p031.s02"><source>So great was his power that he had but to say the word and any of his men would throw themselves from the topmost crags to the valleys beneath and be dashed to pieces, or at his bidding, they would travel forth to the most distant parts of the world in order to kill any persons, however great they might be.</source></trans-unit>
+   </group>
+   <group id="p032" restype="prose">
+    <trans-unit id="p032.s01"><source>When he heard that the King of Persia was collecting an army to destroy both him and his tribe, he became very angry, and said to one of his followers: &quot;Go, rid me of the King of Persia;&quot; and the mart-took bread and water and a sharp dagger, and went.</source></trans-unit>
+   </group>
+   <group id="p033" restype="prose">
+    <trans-unit id="p033.s01"><source>Now after his narrow escape from the Old Man of the Desert, Ahmed took pains every morning to place a drop of water in the crystal cup and look therein.</source></trans-unit>
+    <trans-unit id="p033.s02"><source>Nothing appeared until one morning he saw in the bead of water a vision of the King asleep, and standing by him a robber with an uplifted dagger, about to strike.</source></trans-unit>
+    <trans-unit id="p033.s03"><source>Hurrying to the King&#x27;s presence, he warned him of the danger, but the King only laughed, for he trusted his guards.</source></trans-unit>
+   </group>
+   <group id="p034" restype="prose">
+    <trans-unit id="p034.s01"><source>Nevertheless, Ahmed determined to keep watch.</source></trans-unit>
+    <trans-unit id="p034.s02"><source>Darkness came, and the guards slept.</source></trans-unit>
+    <trans-unit id="p034.s03"><source>The palace was silent.</source></trans-unit>
+    <trans-unit id="p034.s04"><source>The hours slipped by, and Ahmed, weary with much waiting was about to retire, when he perceived a dark shadow creeping into that part of the palace where the King slept.</source></trans-unit>
+   </group>
+   <group id="p035" restype="prose">
+    <trans-unit id="p035.s01"><source>The figure noiselessly made its way to the very threshold of the King&#x27;s room, when Ahmed sprang upon it, at the same time giving the alarm.</source></trans-unit>
+    <trans-unit id="p035.s02"><source>The whole palace was aroused and the murdered secured.</source></trans-unit>
+   </group>
+   <group id="p036" restype="prose">
+    <trans-unit id="p036.s01"><source>When the messenger did not return, the Old Man of the Mountains sent a second, and then a third, and finally the most daring and skilful of all his followers; but thanks to Ahmed&#x27;s crystal cup, all attempts upon the life of the King failed.</source></trans-unit>
+   </group>
+   <group id="p037" restype="prose">
+    <trans-unit id="p037.s01"><source>Then the King sent for Ahmed, and said: &quot;Ask for anything in reason, and it shall be given thee.&quot;</source></trans-unit>
+    <trans-unit id="p037.s02"><source>And though he was trembling in every limb, Ahmed replied: &quot;Neither wealth nor power does thy slave desire, save the hand of thy daughter.&quot;</source></trans-unit>
+   </group>
+   <group id="p038" restype="prose">
+    <trans-unit id="p038.s01"><source>&quot;If she loves you, it shall be so,&quot; replied the King, and she did love him; they were married, and Ahmed became the King&#x27;s Prime Minister.</source></trans-unit>
+   </group>
+   <group id="p039" restype="prose">
+    <trans-unit id="p039.s01"><source>THE KING&#x27;S TREASURE</source></trans-unit>
+   </group>
+   <group id="p040" restype="prose">
+    <trans-unit id="p040.s01"><source>The King&#x27;s Treasure Accurately relating how a marked advance in material and political prosperity accrued to Abdul Karim, and the part played by a monarch whose philosophy included the immediate advancement of a worthy subject.</source></trans-unit>
+    <trans-unit id="p040.s02"><source>LABORING man named Abdul Karim, with his wife, Zeeba—&quot;the beautiful one&quot;—lived in a sheltered valley, surrounded by hills, the sides of which were covered with fine gardens, in which the peach, the grape, the mulberry, and other delicious fruits grew in great profusion.</source></trans-unit>
+    <trans-unit id="p040.s03"><source>Although his wife&#x27;s name was Zeeba, as a matter of fact, she was very plain in appearance.</source></trans-unit>
+    <trans-unit id="p040.s04"><source>But from having been named Zeeba, she really thought she was beautiful, and thus it came about that, moved by vanity, her two children were named, the boy, Yusuf, or Joseph, who as you know, was sold by his brethren into Egypt and became next to the King; and the girl, Fatima, after Fatima, the favorite daughter of Mahomet, and the wife of the famous Ali.</source></trans-unit>
+    <trans-unit id="p040.s05"><source>Now Abdul Karim was only a laborer on the land, receiving no wages, merely being paid in grain and cloth sufficient for the wants of himself and family.</source></trans-unit>
+    <trans-unit id="p040.s06"><source>Of money he knew nothing except by name.</source></trans-unit>
+    <trans-unit id="p040.s07"><source>One day his master was so pleased with his work that he actually gave him ten &quot;krans,&quot; equivalent to about a dollar of our money.</source></trans-unit>
+    <trans-unit id="p040.s08"><source>To Abdul Karim this seemed great wealth, and directly his day&#x27;s work was done, he ran home to his wife and said: &quot;Look, Zeeba, there&#x27;s riches for you!&quot; and spread out the money before her.</source></trans-unit>
+    <trans-unit id="p040.s09"><source>His good wife was delighted, and so were the children.</source></trans-unit>
+    <trans-unit id="p040.s10"><source>Then Abdul Karim said: &quot;How shall we spend this great sum?</source></trans-unit>
+    <trans-unit id="p040.s11"><source>The master has also given me a day&#x27;s holiday, so if you don&#x27;t mind, I will go to the famous city of Meshed, which is only twenty miles from here, and after placing two krans on the shrine of the holy Imam, I will then visit the bazaars and buy everything you and the children desire.&quot;</source></trans-unit>
+    <trans-unit id="p040.s12"><source>&quot;You would better buy me a piece of silk for a new dress,&quot; said Zeeba.</source></trans-unit>
+    <trans-unit id="p040.s13"><source>&quot;I want a fine horse and a sword,&quot; said little Yusuf.</source></trans-unit>
+    <trans-unit id="p040.s14"><source>&quot;I would like an Indian handkerchief and a pair of gold slippers,&quot; said Fatima.</source></trans-unit>
+    <trans-unit id="p040.s15"><source>&quot;They shall be here by to-morrow night,&quot; said the father, and taking a big stick, he set off on his journey.</source></trans-unit>
+    <trans-unit id="p040.s16"><source>When he had come down from the mountains to the plain below, Abdul Karim saw stretched before him the glorious city, and was lost in wonder at the sight of the splendid domes, where roofs glittered with gold, and the minarets, from the tops of which the priests were calling the people to prayer.</source></trans-unit>
+    <trans-unit id="p040.s17"><source>Then coming to the gate of the shrine, he asked an old priest if he might enter.</source></trans-unit>
+    <trans-unit id="p040.s18"><source>&quot;Yes, my son,&quot; was the reply.</source></trans-unit>
+    <trans-unit id="p040.s19"><source>&quot;Go in and give what thou canst spare to the mosque, and Allah will reward thee.&quot;</source></trans-unit>
+    <trans-unit id="p040.s20"><source>So Abdul Karim walked through the great court, amidst worshipers from every city in Asia.</source></trans-unit>
+    <trans-unit id="p040.s21"><source>With open-mouthed astonishment he gazed on the riches of the temple, the jewels, the lovely carpets, the silks, the golden ornaments, and with humility he placed his two pieces of money on the sacred tomb.</source></trans-unit>
+    <trans-unit id="p040.s22"><source>Then through the noise and bustle of the crowded streets, he went until he found the bazaars.</source></trans-unit>
+    <trans-unit id="p040.s23"><source>He found the sellers of fruits in one place, in another those who sold pots and pans, then he came to the jewelers, the bakers, the butchers, each trade having its own part of the bazaar, and so on, until he reached that part where there were only those who sold silks.</source></trans-unit>
+    <trans-unit id="p040.s24"><source>He entered one of the shops and asked to see some silks, and after much picking and choosing, fixed upon a superb piece of purple silk with an embroidered border of exquisite design.</source></trans-unit>
+    <trans-unit id="p040.s25"><source>&quot;I will take this,&quot; he said.</source></trans-unit>
+    <trans-unit id="p040.s26"><source>&quot;What is the price?&quot;</source></trans-unit>
+    <trans-unit id="p040.s27"><source>&quot;I shall only ask you two hundred krans, as you are a new customer,&quot; said the shopkeeper.</source></trans-unit>
+    <trans-unit id="p040.s28"><source>&quot;Anybody else but you would have to pay three or four hundred.&quot;</source></trans-unit>
+    <trans-unit id="p040.s29"><source>&quot;Two hundred krans,&quot; repeated Abdul Karim, in astonishment.</source></trans-unit>
+    <trans-unit id="p040.s30"><source>&quot;Surely you have made a mistake.</source></trans-unit>
+    <trans-unit id="p040.s31"><source>Do you mean krans like these?&quot; taking one out of his pocket.</source></trans-unit>
+    <trans-unit id="p040.s32"><source>&quot;Certainly I do,&quot; replied the shopkeeper, &quot;and let me tell you it is very cheap at that price.&quot;</source></trans-unit>
+    <trans-unit id="p040.s33"><source>Abdul Karim pictured the disappointment of his wife.</source></trans-unit>
+    <trans-unit id="p040.s34"><source>&quot;Poor Zeeba,&quot; he sighed.</source></trans-unit>
+    <trans-unit id="p040.s35"><source>&quot;Poor who?&quot; said the silk merchant.</source></trans-unit>
+    <trans-unit id="p040.s36"><source>&quot;My wife,&quot; said Abdul Karim.</source></trans-unit>
+    <trans-unit id="p040.s37"><source>&quot;What have I to do with your wife?&quot; asked the merchant, getting angry because he saw that all his trouble was in vain.</source></trans-unit>
+    <trans-unit id="p040.s38"><source>&quot;I will tell you about it,&quot; said Abdul Karim.</source></trans-unit>
+    <trans-unit id="p040.s39"><source>&quot;Because I did my work well, my master gave me ten krans, the first time I ever have had any money.</source></trans-unit>
+    <trans-unit id="p040.s40"><source>After giving two krans to the shrine, I intended to buy a piece of silk for my wife, a horse and sword for my little boy Yusuf, and an Indian handkerchief and a pair of gold slippers for my little girl Fatima.</source></trans-unit>
+    <trans-unit id="p040.s41"><source>And here you ask me two hundred krans for one piece of silk.</source></trans-unit>
+    <trans-unit id="p040.s42"><source>How can I pay you and buy the other things?&quot;</source></trans-unit>
+    <trans-unit id="p040.s43"><source>&quot;Here I have been wasting my time and rumpling my beautiful silks for a fool like you,&quot; cried the angry merchant.</source></trans-unit>
+    <trans-unit id="p040.s44"><source>&quot;Get out of my shop!</source></trans-unit>
+    <trans-unit id="p040.s45"><source>Go home to your stupid Zeeba and your stupid children.</source></trans-unit>
+    <trans-unit id="p040.s46"><source>Buy them some stale cakes and some black sugar, and don&#x27;t put your head in my shop again, or it will be worse for you.&quot;</source></trans-unit>
+    <trans-unit id="p040.s47"><source>Then he took off his slipper, and with many blows drove poor Abdul Karim out into the street.</source></trans-unit>
+    <trans-unit id="p040.s48"><source>Then Abdul Karim went to the horse market, only to find that the lowest-priced horse would cost two hundred and fifty krans.</source></trans-unit>
+    <trans-unit id="p040.s49"><source>The horse dealer mocked him when they found he had only eight krans, and suggested that he buy the sixteenth part of a donkey for his little son.</source></trans-unit>
+    <trans-unit id="p040.s50"><source>As for a sword, he found that it would cost at least thirty krans; while a pair of golden slippers would run into many hundreds of krans; and for an Indian handkerchief, the price was twelve krans.</source></trans-unit>
+    <trans-unit id="p040.s51"><source>As poor Abdul Karim bent his weary way home, he met a beggar crying: &quot;Dear friend, give me something, for to-morrow is Friday&quot;—the Mahommedan Sunday.</source></trans-unit>
+    <trans-unit id="p040.s52"><source>&quot;He that giveth to the poor, lendeth to the Lord, and of a certainty the Lord will pay him back a hundredfold.&quot;</source></trans-unit>
+    <trans-unit id="p040.s53"><source>&quot;Of all the men I have met to-day, you are the only one with whom I can deal,&quot; said simple Abdul Karim.</source></trans-unit>
+    <trans-unit id="p040.s54"><source>&quot;Here are eight krans.</source></trans-unit>
+    <trans-unit id="p040.s55"><source>Use them in the service of God, and don&#x27;t forget to pay me back a hundredfold.&quot;</source></trans-unit>
+    <trans-unit id="p040.s56"><source>Wrapping up the eight krans very carefully, the cunning beggar promised some day to return them a hundredfold.</source></trans-unit>
+    <trans-unit id="p040.s57"><source>At last Abdul Karim came in sight of his cottage, and little Yusuf, who had been all day on the look-out for him, ran breathlessly to meet him.</source></trans-unit>
+    <trans-unit id="p040.s58"><source>&quot;Where&#x27;s my horse and sword, father?&quot; he cried.</source></trans-unit>
+    <trans-unit id="p040.s59"><source>And Fatima, who had just come up, called out, &quot;And my handkerchief and golden slippers?&quot;</source></trans-unit>
+    <trans-unit id="p040.s60"><source>And Zeeba asked for her bit of silk.</source></trans-unit>
+    <trans-unit id="p040.s61"><source>Poor Abdul Karim looked so confused, that his wife said: &quot;Be quiet, my dears.</source></trans-unit>
+    <trans-unit id="p040.s62"><source>Your father could not bring them all with him, so he has packed them on Yusuf&#x27;s horse and left him in charge of a servant, who will be here presently.&quot;</source></trans-unit>
+    <trans-unit id="p040.s63"><source>But when she heard his story, and above all that he had given eight krans to a beggar, she got very angry, and marched off and told the master.</source></trans-unit>
+    <trans-unit id="p040.s64"><source>But the master was still more angry, and said: &quot;What! the blockhead gave his eight krans to a beggar?</source></trans-unit>
+    <trans-unit id="p040.s65"><source>Send him to me.&quot;</source></trans-unit>
+    <trans-unit id="p040.s66"><source>And when Abdul Karim came before him, he said scornfully: &quot;You must fancy yourself a big man, Abdul.</source></trans-unit>
+    <trans-unit id="p040.s67"><source>I never give more than a copper coin to a beggar, but your Excellency gives them silver.</source></trans-unit>
+    <trans-unit id="p040.s68"><source>The beggar promised that you should be repaid a hundredfold, did he?</source></trans-unit>
+    <trans-unit id="p040.s69"><source>And it shall be so, even now.&quot;</source></trans-unit>
+    <trans-unit id="p040.s70"><source>Then as Abdul&#x27;s face brightened, he laughed and said: &quot;Not in money, but in stripes.&quot;</source></trans-unit>
+    <trans-unit id="p040.s71"><source>And his servants threw Abdul on the ground and gave him one hundred blows on his bare feet.</source></trans-unit>
+    <trans-unit id="p040.s72"><source>The next day, Abdul&#x27;s master sent for him again, and after calling him a fool, said: &quot;I have a nice little job for you, that will bring you to your proper senses.</source></trans-unit>
+    <trans-unit id="p040.s73"><source>Go into the field and dig for water, day after day until you find it.&quot;</source></trans-unit>
+    <trans-unit id="p040.s74"><source>So for many days Abdul labored under the scorching sun, until he had dug down to a depth of about thirty feet, and then he came upon a brass vessel, finely chased, full of round white stones, which fairly dazzled his eyes in the fierce sunlight.</source></trans-unit>
+    <trans-unit id="p040.s75"><source>He put one in his mouth and tried to break it with his teeth, but could not.</source></trans-unit>
+    <trans-unit id="p040.s76"><source>Then he said to himself, &quot;The master has planted some rice and it has turned into stones.</source></trans-unit>
+    <trans-unit id="p040.s77"><source>Perhaps there are some more.&quot;</source></trans-unit>
+    <trans-unit id="p040.s78"><source>And going down a few feet lower, he found another pot filled with sparkling stones of various colors.</source></trans-unit>
+    <trans-unit id="p040.s79"><source>Then he remembered that he had seen pretty pieces of glass like these for sale in Meshed, and made up his mind that on the first opportunity he would again visit the city and take the stones with him.</source></trans-unit>
+    <trans-unit id="p040.s80"><source>Meanwhile, he would hide them, and say nothing.</source></trans-unit>
+    <trans-unit id="p040.s81"><source>Abdul did not have to wait long for a holiday, for on finding water a little lower down, his master was so pleased that he gave him a well- deserved rest, and then Abdul set off for Meshed.</source></trans-unit>
+    <trans-unit id="p040.s82"><source>But before entering the city, he hid most of the treasure at the foot of a tree under a big stone.</source></trans-unit>
+    <trans-unit id="p040.s83"><source>Then with still a pocket full, he went straight to the shop where he had seen such stones, and spoke to the shopkeeper who was seated at the entrance to his shop, calmly smoking his water-pipe.</source></trans-unit>
+    <trans-unit id="p040.s84"><source>&quot;Do you want to buy any more stones like those?&quot; he asked, pointing to some in a brass tray.</source></trans-unit>
+    <trans-unit id="p040.s85"><source>&quot;Yes, have you got one?&quot; replied the merchant, for Abdul did not look like a man who was likely to have more than one, if any.</source></trans-unit>
+    <trans-unit id="p040.s86"><source>&quot;I have a pocket full of them,&quot; said Abdul.</source></trans-unit>
+    <trans-unit id="p040.s87"><source>&quot;You have a pocket full of pebbles, more likely,&quot; said the jeweler.</source></trans-unit>
+    <trans-unit id="p040.s88"><source>But when Abdul took out a handful and showed him, he was so astonished that he could hardly speak.</source></trans-unit>
+    <trans-unit id="p040.s89"><source>Trembling in every limb, he bade Abdul wait a minute, and leaving his apprentice in charge, he hastily left the shop.</source></trans-unit>
+    <trans-unit id="p040.s90"><source>When he returned, the chief of the police was with him.</source></trans-unit>
+    <trans-unit id="p040.s91"><source>&quot;I am innocent,&quot; cried the jeweler.</source></trans-unit>
+    <trans-unit id="p040.s92"><source>&quot;There is the man.</source></trans-unit>
+    <trans-unit id="p040.s93"><source>His pockets are filled with diamonds, rubies, emeralds, and pearls of great price.</source></trans-unit>
+    <trans-unit id="p040.s94"><source>Without doubt he has found the long-lost treasure of Cyrus.&quot;</source></trans-unit>
+    <trans-unit id="p040.s95"><source>Then Abdul was searched; the precious stones were found upon him; and when they had brought Zeeba and the children, the whole family were sent under a guard of five hundred soldiers to the capital.</source></trans-unit>
+    <trans-unit id="p040.s96"><source>While all these things were taking place, the King saw in his dreams, for three nights, one after the other, the Holy Prophet, who, looking steadfastly at him, exclaimed: &quot;Abbas, protect and favor my friend.&quot;</source></trans-unit>
+    <trans-unit id="p040.s97"><source>And on the third night, the King took courage and said to the Prophet: &quot;And who is thy friend?&quot;</source></trans-unit>
+    <trans-unit id="p040.s98"><source>And the answer came: &quot;He is a poor laboring man, Abdul Karim by name, who of his poverty gave one-fifth to the shrine at Meshed, and now, because he has found the King&#x27;s treasure, they have bound him, and are bringing him to this city to oppress him.&quot;</source></trans-unit>
+    <trans-unit id="p040.s99"><source>So the King went forth two days&#x27; journey to meet Abdul.</source></trans-unit>
+    <trans-unit id="p040.s100"><source>First came one hundred horsemen.</source></trans-unit>
+    <trans-unit id="p040.s101"><source>Next, poor Abdul, seated on a camel, with his arms bound tightly.</source></trans-unit>
+    <trans-unit id="p040.s102"><source>Walking behind the camel were the weeping children and their mother.</source></trans-unit>
+    <trans-unit id="p040.s103"><source>Then came the foot soldiers guarding the treasure.</source></trans-unit>
+    <trans-unit id="p040.s104"><source>The King made the camel kneel down, and with his own hands undid the cruel bonds.</source></trans-unit>
+    <trans-unit id="p040.s105"><source>Then with tears running down his face, Abdul knelt before the King and pleaded for his dear ones, saying: &quot;If thou slay me, at least let these innocent ones go free!&quot;</source></trans-unit>
+    <trans-unit id="p040.s106"><source>Lifting Abdul from the ground, the King then said: &quot;I am come to honor, not to slay thee.</source></trans-unit>
+    <trans-unit id="p040.s107"><source>When thou hast rested, thou shalt return to thine own province, not as a prisoner, but as the Governor thereof.&quot;</source></trans-unit>
+    <trans-unit id="p040.s108"><source>And smiling, he added: &quot;Already is the silk dress prepared for Zeeba; the horse and sword for Yusuf; and the Indian handkerchief and the golden slippers for Fatima have not been forgotten.&quot;</source></trans-unit>
+    <trans-unit id="p040.s109"><source>For the King had read in the report of the chief of police all the details of Abdul&#x27;s case.</source></trans-unit>
+    <trans-unit id="p040.s110"><source>And so it was that Abdul&#x27;s piety and gift to the shrine had come back, not a hundredfold, but beyond his wildest dreams, and the shrine and the poor benefited greatly thereby.</source></trans-unit>
+    <trans-unit id="p040.s111"><source>THE KING AND THE FISHERMAN The King and the Fisherman Illustrating the advantage of being able to formulate a judicious reply to an embarrassing question, especially when material plenitude may ensue.</source></trans-unit>
+    <trans-unit id="p040.s112"><source>HE countries washed by the great rivers Tigris and Euphrates were once ruled by a certain King who was passionately fond of fish.</source></trans-unit>
+    <trans-unit id="p040.s113"><source>He was seated one day with Sherem, his wife, in the royal gardens that stretch down to the banks of the Tigris, at the point where it is spanned by the wonderful bridge of boats; and looking up spied a boat gliding by, in which was seated a fisherman having a large fish.</source></trans-unit>
+    <trans-unit id="p040.s114"><source>Noticing that the King was looking closely at him, and knowing how much the King liked this particular kind of fish, the fisherman made his obeisance, and skilfully bringing his boat to the shore, came before the King and begged that he would accept the fish as a present.</source></trans-unit>
+    <trans-unit id="p040.s115"><source>The King was greatly pleased at this, and ordered that a large sum of money be given to the fisherman.</source></trans-unit>
+    <trans-unit id="p040.s116"><source>But before the fisherman had left the royal presence, the Queen turned towards the King and said: &quot;You have done a foolish thing.&quot;</source></trans-unit>
+    <trans-unit id="p040.s117"><source>The King was astonished to hear her speak in this way, and asked how that could be.</source></trans-unit>
+    <trans-unit id="p040.s118"><source>The Queen replied: &quot;The news of your having given so large a reward for so small a gift will spread through the city and it will be known as the fisherman&#x27;s gift.</source></trans-unit>
+    <trans-unit id="p040.s119"><source>Every fisherman who catches a big fish will bring it to the palace, and should he not be paid in like manner, he will go away discontented, and secretly speak evil of you among his fellows.&quot;</source></trans-unit>
+    <trans-unit id="p040.s120"><source>&quot;Thou speakest the truth, light of my eyes,&quot; said the King, &quot;but can not you see how mean it would be for a King, if for that reason he were to take back his gift?&quot;</source></trans-unit>
+    <trans-unit id="p040.s121"><source>Then perceiving that the Queen was ready to argue the matter, he turned away angrily, saying: &quot;The matter is closed.&quot;</source></trans-unit>
+    <trans-unit id="p040.s122"><source>However, later in the day, when he was in a more amiable frame of mind, the Queen again approached him, and said that if that was his only reason for not taking back his gift, she would arrange it.</source></trans-unit>
+    <trans-unit id="p040.s123"><source>&quot;You must summon the fisherman,&quot; she said, &quot;and then ask him, &#x27;Is this fish male or female?&#x27;</source></trans-unit>
+    <trans-unit id="p040.s124"><source>If he says male, then you will tell him that you wanted a female fish; but if he should say female, your reply will be that you wanted a male fish.</source></trans-unit>
+    <trans-unit id="p040.s125"><source>In this way the matter will be properly adjusted.&quot;</source></trans-unit>
+    <trans-unit id="p040.s126"><source>The King thought this an easy way out of the difficulty, and commanded the fisherman to be brought before him.</source></trans-unit>
+    <trans-unit id="p040.s127"><source>When the fisherman, who by the way, was a most intelligent man, stood before the King, the King said to him: &quot;O fisherman, tell me, is this fish male or female?&quot;</source></trans-unit>
+    <trans-unit id="p040.s128"><source>The fisherman replied, &quot;The fish is neither male nor female.&quot;</source></trans-unit>
+    <trans-unit id="p040.s129"><source>Whereupon the King smiled at the clever answer, and to add to the Queen&#x27;s annoyance, directed the keeper of the royal purse to give the fisherman a further sum of money.</source></trans-unit>
+    <trans-unit id="p040.s130"><source>Then the fisherman placed the money in his leather bag, thanked the King, and swinging the bag over his shoulder, hurried away, but not so quickly that he did not notice that he had dropped one small coin.</source></trans-unit>
+    <trans-unit id="p040.s131"><source>Placing the bag on the ground, he stooped and picked up the coin, and again went on his way, with the King and Queen carefully watching his every action.</source></trans-unit>
+    <trans-unit id="p040.s132"><source>&quot;Look! what a miser he is!&quot; said Sherem, triumphantly.</source></trans-unit>
+    <trans-unit id="p040.s133"><source>&quot;He actually put down his bag to pick up one small coin because it grieved him to think that it might reach the hands of one of the King&#x27;s servants, or some poor person, who, needing it, would buy bread and pray for the long life of the King.&quot;</source></trans-unit>
+    <trans-unit id="p040.s134"><source>&quot;Again thou speakest the truth,&quot; replied the King, feeling the justice of this remark; and once more was the fisherman brought into the royal presence.</source></trans-unit>
+    <trans-unit id="p040.s135"><source>&quot;Are you a human being or a beast?&quot; the King asked him.</source></trans-unit>
+    <trans-unit id="p040.s136"><source>&quot;Although I made it possible for you to become rich without toil, yet the miser within you could not allow you to leave even one small piece of money for others.&quot;</source></trans-unit>
+    <trans-unit id="p040.s137"><source>Then the King bade him to go forth and show his face no more within the city.</source></trans-unit>
+    <trans-unit id="p040.s138"><source>At this the fisherman fell on his knees and cried: &quot;Hear me, O King, protector of the poor!</source></trans-unit>
+    <trans-unit id="p040.s139"><source>May God grant the King a long life.</source></trans-unit>
+    <trans-unit id="p040.s140"><source>Not for its value did thy servant pick up the coin, but because on one side it bore the name of God, and on the other the likeness of the King.</source></trans-unit>
+    <trans-unit id="p040.s141"><source>Thy servant feared that someone, not seeing the coin, would tread it into the dirt, and thus defile both the name of God and the face of the King.</source></trans-unit>
+    <trans-unit id="p040.s142"><source>Let the King judge if by so doing I have merited reproach.&quot;</source></trans-unit>
+    <trans-unit id="p040.s143"><source>This answer pleased the King beyond all measure, and he gave the fisherman another large sum of money.</source></trans-unit>
+    <trans-unit id="p040.s144"><source>And the Queen&#x27;s wrath was turned away, and she looked kindly upon the fisherman as he departed with his bag laden with money.</source></trans-unit>
+   </group>
+  </body>
+ </file>
+ <file original="as-persia-iran-004" source-language="en" datatype="plaintext">
+  <header><note>The King&#x27;s Treasure — Persia (Iran) — The Cat and the Mouse: A Book of Persian Fairy Tales — Public domain in the USA (Project Gutenberg). The underlying</note></header>
+  <body>
+   <trans-unit id="title"><source>The King&#x27;s Treasure</source></trans-unit>
+   <group id="p001" restype="prose">
+    <trans-unit id="p001.s01"><source>Accurately relating how a marked advance in material and political prosperity accrued to Abdul Karim, and the part played by a monarch whose philosophy included the immediate advancement of a worthy subject.</source></trans-unit>
+   </group>
+   <group id="p002" restype="prose">
+    <trans-unit id="p002.s01"><source>LABORING man named Abdul Karim, with his wife, Zeeba—&quot;the beautiful one&quot;—lived in a sheltered valley, surrounded by hills, the sides of which were covered with fine gardens, in which the peach, the grape, the mulberry, and other delicious fruits grew in great profusion.</source></trans-unit>
+   </group>
+   <group id="p003" restype="prose">
+    <trans-unit id="p003.s01"><source>Although his wife&#x27;s name was Zeeba, as a matter of fact, she was very plain in appearance.</source></trans-unit>
+    <trans-unit id="p003.s02"><source>But from having been named Zeeba, she really thought she was beautiful, and thus it came about that, moved by vanity, her two children were named, the boy, Yusuf, or Joseph, who as you know, was sold by his brethren into Egypt and became next to the King; and the girl, Fatima, after Fatima, the favorite daughter of Mahomet, and the wife of the famous Ali.</source></trans-unit>
+   </group>
+   <group id="p004" restype="prose">
+    <trans-unit id="p004.s01"><source>Now Abdul Karim was only a laborer on the land, receiving no wages, merely being paid in grain and cloth sufficient for the wants of himself and family.</source></trans-unit>
+    <trans-unit id="p004.s02"><source>Of money he knew nothing except by name.</source></trans-unit>
+   </group>
+   <group id="p005" restype="prose">
+    <trans-unit id="p005.s01"><source>One day his master was so pleased with his work that he actually gave him ten &quot;krans,&quot; equivalent to about a dollar of our money.</source></trans-unit>
+    <trans-unit id="p005.s02"><source>To Abdul Karim this seemed great wealth, and directly his day&#x27;s work was done, he ran home to his wife and said: &quot;Look, Zeeba, there&#x27;s riches for you!&quot; and spread out the money before her.</source></trans-unit>
+    <trans-unit id="p005.s03"><source>His good wife was delighted, and so were the children.</source></trans-unit>
+   </group>
+   <group id="p006" restype="prose">
+    <trans-unit id="p006.s01"><source>Then Abdul Karim said: &quot;How shall we spend this great sum?</source></trans-unit>
+    <trans-unit id="p006.s02"><source>The master has also given me a day&#x27;s holiday, so if you don&#x27;t mind, I will go to the famous city of Meshed, which is only twenty miles from here, and after placing two krans on the shrine of the holy Imam, I will then visit the bazaars and buy everything you and the children desire.&quot;</source></trans-unit>
+   </group>
+   <group id="p007" restype="prose">
+    <trans-unit id="p007.s01"><source>&quot;You would better buy me a piece of silk for a new dress,&quot; said Zeeba.</source></trans-unit>
+   </group>
+   <group id="p008" restype="prose">
+    <trans-unit id="p008.s01"><source>&quot;I want a fine horse and a sword,&quot; said little Yusuf.</source></trans-unit>
+   </group>
+   <group id="p009" restype="prose">
+    <trans-unit id="p009.s01"><source>&quot;I would like an Indian handkerchief and a pair of gold slippers,&quot; said Fatima.</source></trans-unit>
+   </group>
+   <group id="p010" restype="prose">
+    <trans-unit id="p010.s01"><source>&quot;They shall be here by to-morrow night,&quot; said the father, and taking a big stick, he set off on his journey.</source></trans-unit>
+   </group>
+   <group id="p011" restype="prose">
+    <trans-unit id="p011.s01"><source>When he had come down from the mountains to the plain below, Abdul Karim saw stretched before him the glorious city, and was lost in wonder at the sight of the splendid domes, where roofs glittered with gold, and the minarets, from the tops of which the priests were calling the people to prayer.</source></trans-unit>
+   </group>
+   <group id="p012" restype="prose">
+    <trans-unit id="p012.s01"><source>Then coming to the gate of the shrine, he asked an old priest if he might enter.</source></trans-unit>
+    <trans-unit id="p012.s02"><source>&quot;Yes, my son,&quot; was the reply.</source></trans-unit>
+    <trans-unit id="p012.s03"><source>&quot;Go in and give what thou canst spare to the mosque, and Allah will reward thee.&quot;</source></trans-unit>
+   </group>
+   <group id="p013" restype="prose">
+    <trans-unit id="p013.s01"><source>So Abdul Karim walked through the great court, amidst worshipers from every city in Asia.</source></trans-unit>
+    <trans-unit id="p013.s02"><source>With open-mouthed astonishment he gazed on the riches of the temple, the jewels, the lovely carpets, the silks, the golden ornaments, and with humility he placed his two pieces of money on the sacred tomb.</source></trans-unit>
+    <trans-unit id="p013.s03"><source>Then through the noise and bustle of the crowded streets, he went until he found the bazaars.</source></trans-unit>
+   </group>
+   <group id="p014" restype="prose">
+    <trans-unit id="p014.s01"><source>He found the sellers of fruits in one place, in another those who sold pots and pans, then he came to the jewelers, the bakers, the butchers, each trade having its own part of the bazaar, and so on, until he reached that part where there were only those who sold silks.</source></trans-unit>
+   </group>
+   <group id="p015" restype="prose">
+    <trans-unit id="p015.s01"><source>He entered one of the shops and asked to see some silks, and after much picking and choosing, fixed upon a superb piece of purple silk with an embroidered border of exquisite design.</source></trans-unit>
+    <trans-unit id="p015.s02"><source>&quot;I will take this,&quot; he said.</source></trans-unit>
+    <trans-unit id="p015.s03"><source>&quot;What is the price?&quot;</source></trans-unit>
+   </group>
+   <group id="p016" restype="prose">
+    <trans-unit id="p016.s01"><source>&quot;I shall only ask you two hundred krans, as you are a new customer,&quot; said the shopkeeper.</source></trans-unit>
+    <trans-unit id="p016.s02"><source>&quot;Anybody else but you would have to pay three or four hundred.&quot;</source></trans-unit>
+   </group>
+   <group id="p017" restype="prose">
+    <trans-unit id="p017.s01"><source>&quot;Two hundred krans,&quot; repeated Abdul Karim, in astonishment.</source></trans-unit>
+    <trans-unit id="p017.s02"><source>&quot;Surely you have made a mistake.</source></trans-unit>
+    <trans-unit id="p017.s03"><source>Do you mean krans like these?&quot; taking one out of his pocket.</source></trans-unit>
+   </group>
+   <group id="p018" restype="prose">
+    <trans-unit id="p018.s01"><source>&quot;Certainly I do,&quot; replied the shopkeeper, &quot;and let me tell you it is very cheap at that price.&quot;</source></trans-unit>
+   </group>
+   <group id="p019" restype="prose">
+    <trans-unit id="p019.s01"><source>Abdul Karim pictured the disappointment of his wife.</source></trans-unit>
+    <trans-unit id="p019.s02"><source>&quot;Poor Zeeba,&quot; he sighed.</source></trans-unit>
+   </group>
+   <group id="p020" restype="prose">
+    <trans-unit id="p020.s01"><source>&quot;Poor who?&quot; said the silk merchant.</source></trans-unit>
+   </group>
+   <group id="p021" restype="prose">
+    <trans-unit id="p021.s01"><source>&quot;My wife,&quot; said Abdul Karim.</source></trans-unit>
+   </group>
+   <group id="p022" restype="prose">
+    <trans-unit id="p022.s01"><source>&quot;What have I to do with your wife?&quot; asked the merchant, getting angry because he saw that all his trouble was in vain.</source></trans-unit>
+   </group>
+   <group id="p023" restype="prose">
+    <trans-unit id="p023.s01"><source>&quot;I will tell you about it,&quot; said Abdul Karim.</source></trans-unit>
+    <trans-unit id="p023.s02"><source>&quot;Because I did my work well, my master gave me ten krans, the first time I ever have had any money.</source></trans-unit>
+    <trans-unit id="p023.s03"><source>After giving two krans to the shrine, I intended to buy a piece of silk for my wife, a horse and sword for my little boy Yusuf, and an Indian handkerchief and a pair of gold slippers for my little girl Fatima.</source></trans-unit>
+    <trans-unit id="p023.s04"><source>And here you ask me two hundred krans for one piece of silk.</source></trans-unit>
+    <trans-unit id="p023.s05"><source>How can I pay you and buy the other things?&quot;</source></trans-unit>
+   </group>
+   <group id="p024" restype="prose">
+    <trans-unit id="p024.s01"><source>&quot;Here I have been wasting my time and rumpling my beautiful silks for a fool like you,&quot; cried the angry merchant.</source></trans-unit>
+    <trans-unit id="p024.s02"><source>&quot;Get out of my shop!</source></trans-unit>
+    <trans-unit id="p024.s03"><source>Go home to your stupid Zeeba and your stupid children.</source></trans-unit>
+    <trans-unit id="p024.s04"><source>Buy them some stale cakes and some black sugar, and don&#x27;t put your head in my shop again, or it will be worse for you.&quot;</source></trans-unit>
+   </group>
+   <group id="p025" restype="prose">
+    <trans-unit id="p025.s01"><source>Then he took off his slipper, and with many blows drove poor Abdul Karim out into the street.</source></trans-unit>
+    <trans-unit id="p025.s02"><source>Then Abdul Karim went to the horse market, only to find that the lowest-priced horse would cost two hundred and fifty krans.</source></trans-unit>
+   </group>
+   <group id="p026" restype="prose">
+    <trans-unit id="p026.s01"><source>The horse dealer mocked him when they found he had only eight krans, and suggested that he buy the sixteenth part of a donkey for his little son.</source></trans-unit>
+    <trans-unit id="p026.s02"><source>As for a sword, he found that it would cost at least thirty krans; while a pair of golden slippers would run into many hundreds of krans; and for an Indian handkerchief, the price was twelve krans.</source></trans-unit>
+   </group>
+   <group id="p027" restype="prose">
+    <trans-unit id="p027.s01"><source>As poor Abdul Karim bent his weary way home, he met a beggar crying: &quot;Dear friend, give me something, for to-morrow is Friday&quot;—the Mahommedan Sunday.</source></trans-unit>
+    <trans-unit id="p027.s02"><source>&quot;He that giveth to the poor, lendeth to the Lord, and of a certainty the Lord will pay him back a hundredfold.&quot;</source></trans-unit>
+   </group>
+   <group id="p028" restype="prose">
+    <trans-unit id="p028.s01"><source>&quot;Of all the men I have met to-day, you are the only one with whom I can deal,&quot; said simple Abdul Karim.</source></trans-unit>
+    <trans-unit id="p028.s02"><source>&quot;Here are eight krans.</source></trans-unit>
+    <trans-unit id="p028.s03"><source>Use them in the service of God, and don&#x27;t forget to pay me back a hundredfold.&quot;</source></trans-unit>
+   </group>
+   <group id="p029" restype="prose">
+    <trans-unit id="p029.s01"><source>Wrapping up the eight krans very carefully, the cunning beggar promised some day to return them a hundredfold.</source></trans-unit>
+   </group>
+   <group id="p030" restype="prose">
+    <trans-unit id="p030.s01"><source>At last Abdul Karim came in sight of his cottage, and little Yusuf, who had been all day on the look-out for him, ran breathlessly to meet him.</source></trans-unit>
+    <trans-unit id="p030.s02"><source>&quot;Where&#x27;s my horse and sword, father?&quot; he cried.</source></trans-unit>
+    <trans-unit id="p030.s03"><source>And Fatima, who had just come up, called out, &quot;And my handkerchief and golden slippers?&quot;</source></trans-unit>
+    <trans-unit id="p030.s04"><source>And Zeeba asked for her bit of silk.</source></trans-unit>
+   </group>
+   <group id="p031" restype="prose">
+    <trans-unit id="p031.s01"><source>Poor Abdul Karim looked so confused, that his wife said: &quot;Be quiet, my dears.</source></trans-unit>
+    <trans-unit id="p031.s02"><source>Your father could not bring them all with him, so he has packed them on Yusuf&#x27;s horse and left him in charge of a servant, who will be here presently.&quot;</source></trans-unit>
+    <trans-unit id="p031.s03"><source>But when she heard his story, and above all that he had given eight krans to a beggar, she got very angry, and marched off and told the master.</source></trans-unit>
+   </group>
+   <group id="p032" restype="prose">
+    <trans-unit id="p032.s01"><source>But the master was still more angry, and said: &quot;What! the blockhead gave his eight krans to a beggar?</source></trans-unit>
+    <trans-unit id="p032.s02"><source>Send him to me.&quot;</source></trans-unit>
+    <trans-unit id="p032.s03"><source>And when Abdul Karim came before him, he said scornfully: &quot;You must fancy yourself a big man, Abdul.</source></trans-unit>
+    <trans-unit id="p032.s04"><source>I never give more than a copper coin to a beggar, but your Excellency gives them silver.</source></trans-unit>
+    <trans-unit id="p032.s05"><source>The beggar promised that you should be repaid a hundredfold, did he?</source></trans-unit>
+    <trans-unit id="p032.s06"><source>And it shall be so, even now.&quot;</source></trans-unit>
+    <trans-unit id="p032.s07"><source>Then as Abdul&#x27;s face brightened, he laughed and said: &quot;Not in money, but in stripes.&quot;</source></trans-unit>
+    <trans-unit id="p032.s08"><source>And his servants threw Abdul on the ground and gave him one hundred blows on his bare feet.</source></trans-unit>
+   </group>
+   <group id="p033" restype="prose">
+    <trans-unit id="p033.s01"><source>The next day, Abdul&#x27;s master sent for him again, and after calling him a fool, said: &quot;I have a nice little job for you, that will bring you to your proper senses.</source></trans-unit>
+    <trans-unit id="p033.s02"><source>Go into the field and dig for water, day after day until you find it.&quot;</source></trans-unit>
+   </group>
+   <group id="p034" restype="prose">
+    <trans-unit id="p034.s01"><source>So for many days Abdul labored under the scorching sun, until he had dug down to a depth of about thirty feet, and then he came upon a brass vessel, finely chased, full of round white stones, which fairly dazzled his eyes in the fierce sunlight.</source></trans-unit>
+    <trans-unit id="p034.s02"><source>He put one in his mouth and tried to break it with his teeth, but could not.</source></trans-unit>
+   </group>
+   <group id="p035" restype="prose">
+    <trans-unit id="p035.s01"><source>Then he said to himself, &quot;The master has planted some rice and it has turned into stones.</source></trans-unit>
+    <trans-unit id="p035.s02"><source>Perhaps there are some more.&quot;</source></trans-unit>
+    <trans-unit id="p035.s03"><source>And going down a few feet lower, he found another pot filled with sparkling stones of various colors.</source></trans-unit>
+   </group>
+   <group id="p036" restype="prose">
+    <trans-unit id="p036.s01"><source>Then he remembered that he had seen pretty pieces of glass like these for sale in Meshed, and made up his mind that on the first opportunity he would again visit the city and take the stones with him.</source></trans-unit>
+    <trans-unit id="p036.s02"><source>Meanwhile, he would hide them, and say nothing.</source></trans-unit>
+   </group>
+   <group id="p037" restype="prose">
+    <trans-unit id="p037.s01"><source>Abdul did not have to wait long for a holiday, for on finding water a little lower down, his master was so pleased that he gave him a well- deserved rest, and then Abdul set off for Meshed.</source></trans-unit>
+    <trans-unit id="p037.s02"><source>But before entering the city, he hid most of the treasure at the foot of a tree under a big stone.</source></trans-unit>
+    <trans-unit id="p037.s03"><source>Then with still a pocket full, he went straight to the shop where he had seen such stones, and spoke to the shopkeeper who was seated at the entrance to his shop, calmly smoking his water-pipe.</source></trans-unit>
+   </group>
+   <group id="p038" restype="prose">
+    <trans-unit id="p038.s01"><source>&quot;Do you want to buy any more stones like those?&quot; he asked, pointing to some in a brass tray.</source></trans-unit>
+    <trans-unit id="p038.s02"><source>&quot;Yes, have you got one?&quot; replied the merchant, for Abdul did not look like a man who was likely to have more than one, if any.</source></trans-unit>
+   </group>
+   <group id="p039" restype="prose">
+    <trans-unit id="p039.s01"><source>&quot;I have a pocket full of them,&quot; said Abdul.</source></trans-unit>
+   </group>
+   <group id="p040" restype="prose">
+    <trans-unit id="p040.s01"><source>&quot;You have a pocket full of pebbles, more likely,&quot; said the jeweler.</source></trans-unit>
+    <trans-unit id="p040.s02"><source>But when Abdul took out a handful and showed him, he was so astonished that he could hardly speak.</source></trans-unit>
+    <trans-unit id="p040.s03"><source>Trembling in every limb, he bade Abdul wait a minute, and leaving his apprentice in charge, he hastily left the shop.</source></trans-unit>
+    <trans-unit id="p040.s04"><source>When he returned, the chief of the police was with him.</source></trans-unit>
+   </group>
+   <group id="p041" restype="prose">
+    <trans-unit id="p041.s01"><source>&quot;I am innocent,&quot; cried the jeweler.</source></trans-unit>
+    <trans-unit id="p041.s02"><source>&quot;There is the man.</source></trans-unit>
+    <trans-unit id="p041.s03"><source>His pockets are filled with diamonds, rubies, emeralds, and pearls of great price.</source></trans-unit>
+    <trans-unit id="p041.s04"><source>Without doubt he has found the long-lost treasure of Cyrus.&quot;</source></trans-unit>
+   </group>
+   <group id="p042" restype="prose">
+    <trans-unit id="p042.s01"><source>Then Abdul was searched; the precious stones were found upon him; and when they had brought Zeeba and the children, the whole family were sent under a guard of five hundred soldiers to the capital.</source></trans-unit>
+   </group>
+   <group id="p043" restype="prose">
+    <trans-unit id="p043.s01"><source>While all these things were taking place, the King saw in his dreams, for three nights, one after the other, the Holy Prophet, who, looking steadfastly at him, exclaimed: &quot;Abbas, protect and favor my friend.&quot;</source></trans-unit>
+    <trans-unit id="p043.s02"><source>And on the third night, the King took courage and said to the Prophet: &quot;And who is thy friend?&quot;</source></trans-unit>
+    <trans-unit id="p043.s03"><source>And the answer came:</source></trans-unit>
+   </group>
+   <group id="p044" restype="prose">
+    <trans-unit id="p044.s01"><source>&quot;He is a poor laboring man, Abdul Karim by name, who of his poverty gave one-fifth to the shrine at Meshed, and now, because he has found the King&#x27;s treasure, they have bound him, and are bringing him to this city to oppress him.&quot;</source></trans-unit>
+   </group>
+   <group id="p045" restype="prose">
+    <trans-unit id="p045.s01"><source>So the King went forth two days&#x27; journey to meet Abdul.</source></trans-unit>
+    <trans-unit id="p045.s02"><source>First came one hundred horsemen.</source></trans-unit>
+    <trans-unit id="p045.s03"><source>Next, poor Abdul, seated on a camel, with his arms bound tightly.</source></trans-unit>
+    <trans-unit id="p045.s04"><source>Walking behind the camel were the weeping children and their mother.</source></trans-unit>
+    <trans-unit id="p045.s05"><source>Then came the foot soldiers guarding the treasure.</source></trans-unit>
+    <trans-unit id="p045.s06"><source>The King made the camel kneel down, and with his own hands undid the cruel bonds.</source></trans-unit>
+   </group>
+   <group id="p046" restype="prose">
+    <trans-unit id="p046.s01"><source>Then with tears running down his face, Abdul knelt before the King and pleaded for his dear ones, saying: &quot;If thou slay me, at least let these innocent ones go free!&quot;</source></trans-unit>
+   </group>
+   <group id="p047" restype="prose">
+    <trans-unit id="p047.s01"><source>Lifting Abdul from the ground, the King then said: &quot;I am come to honor, not to slay thee.</source></trans-unit>
+    <trans-unit id="p047.s02"><source>When thou hast rested, thou shalt return to thine own province, not as a prisoner, but as the Governor thereof.&quot;</source></trans-unit>
+    <trans-unit id="p047.s03"><source>And smiling, he added:</source></trans-unit>
+   </group>
+   <group id="p048" restype="prose">
+    <trans-unit id="p048.s01"><source>&quot;Already is the silk dress prepared for Zeeba; the horse and sword for Yusuf; and the Indian handkerchief and the golden slippers for Fatima have not been forgotten.&quot;</source></trans-unit>
+    <trans-unit id="p048.s02"><source>For the King had read in the report of the chief of police all the details of Abdul&#x27;s case.</source></trans-unit>
+   </group>
+   <group id="p049" restype="prose">
+    <trans-unit id="p049.s01"><source>And so it was that Abdul&#x27;s piety and gift to the shrine had come back, not a hundredfold, but beyond his wildest dreams, and the shrine and the poor benefited greatly thereby.</source></trans-unit>
+   </group>
+   <group id="p050" restype="prose">
+    <trans-unit id="p050.s01"><source>THE KING AND THE FISHERMAN</source></trans-unit>
+   </group>
+  </body>
+ </file>
+ <file original="as-persia-iran-005" source-language="en" datatype="plaintext">
+  <header><note>The King and the Fisherman — Persia (Iran) — The Cat and the Mouse: A Book of Persian Fairy Tales — Public domain in the USA (Project Gutenberg). The underlying</note></header>
+  <body>
+   <trans-unit id="title"><source>The King and the Fisherman</source></trans-unit>
+   <group id="p001" restype="prose">
+    <trans-unit id="p001.s01"><source>Illustrating the advantage of being able to formulate a judicious reply to an embarrassing question, especially when material plenitude may ensue.</source></trans-unit>
+   </group>
+   <group id="p002" restype="prose">
+    <trans-unit id="p002.s01"><source>HE countries washed by the great rivers Tigris and Euphrates were once ruled by a certain King who was passionately fond of fish.</source></trans-unit>
+   </group>
+   <group id="p003" restype="prose">
+    <trans-unit id="p003.s01"><source>He was seated one day with Sherem, his wife, in the royal gardens that stretch down to the banks of the Tigris, at the point where it is spanned by the wonderful bridge of boats; and looking up spied a boat gliding by, in which was seated a fisherman having a large fish.</source></trans-unit>
+   </group>
+   <group id="p004" restype="prose">
+    <trans-unit id="p004.s01"><source>Noticing that the King was looking closely at him, and knowing how much the King liked this particular kind of fish, the fisherman made his obeisance, and skilfully bringing his boat to the shore, came before the King and begged that he would accept the fish as a present.</source></trans-unit>
+    <trans-unit id="p004.s02"><source>The King was greatly pleased at this, and ordered that a large sum of money be given to the fisherman.</source></trans-unit>
+   </group>
+   <group id="p005" restype="prose">
+    <trans-unit id="p005.s01"><source>But before the fisherman had left the royal presence, the Queen turned towards the King and said: &quot;You have done a foolish thing.&quot;</source></trans-unit>
+    <trans-unit id="p005.s02"><source>The King was astonished to hear her speak in this way, and asked how that could be.</source></trans-unit>
+    <trans-unit id="p005.s03"><source>The Queen replied:</source></trans-unit>
+   </group>
+   <group id="p006" restype="prose">
+    <trans-unit id="p006.s01"><source>&quot;The news of your having given so large a reward for so small a gift will spread through the city and it will be known as the fisherman&#x27;s gift.</source></trans-unit>
+    <trans-unit id="p006.s02"><source>Every fisherman who catches a big fish will bring it to the palace, and should he not be paid in like manner, he will go away discontented, and secretly speak evil of you among his fellows.&quot;</source></trans-unit>
+   </group>
+   <group id="p007" restype="prose">
+    <trans-unit id="p007.s01"><source>&quot;Thou speakest the truth, light of my eyes,&quot; said the King, &quot;but can not you see how mean it would be for a King, if for that reason he were to take back his gift?&quot;</source></trans-unit>
+    <trans-unit id="p007.s02"><source>Then perceiving that the Queen was ready to argue the matter, he turned away angrily, saying: &quot;The matter is closed.&quot;</source></trans-unit>
+   </group>
+   <group id="p008" restype="prose">
+    <trans-unit id="p008.s01"><source>However, later in the day, when he was in a more amiable frame of mind, the Queen again approached him, and said that if that was his only reason for not taking back his gift, she would arrange it.</source></trans-unit>
+    <trans-unit id="p008.s02"><source>&quot;You must summon the fisherman,&quot; she said, &quot;and then ask him, &#x27;Is this fish male or female?&#x27;</source></trans-unit>
+    <trans-unit id="p008.s03"><source>If he says male, then you will tell him that you wanted a female fish; but if he should say female, your reply will be that you wanted a male fish.</source></trans-unit>
+    <trans-unit id="p008.s04"><source>In this way the matter will be properly adjusted.&quot;</source></trans-unit>
+   </group>
+   <group id="p009" restype="prose">
+    <trans-unit id="p009.s01"><source>The King thought this an easy way out of the difficulty, and commanded the fisherman to be brought before him.</source></trans-unit>
+    <trans-unit id="p009.s02"><source>When the fisherman, who by the way, was a most intelligent man, stood before the King, the King said to him: &quot;O fisherman, tell me, is this fish male or female?&quot;</source></trans-unit>
+   </group>
+   <group id="p010" restype="prose">
+    <trans-unit id="p010.s01"><source>The fisherman replied, &quot;The fish is neither male nor female.&quot;</source></trans-unit>
+    <trans-unit id="p010.s02"><source>Whereupon the King smiled at the clever answer, and to add to the Queen&#x27;s annoyance, directed the keeper of the royal purse to give the fisherman a further sum of money.</source></trans-unit>
+   </group>
+   <group id="p011" restype="prose">
+    <trans-unit id="p011.s01"><source>Then the fisherman placed the money in his leather bag, thanked the King, and swinging the bag over his shoulder, hurried away, but not so quickly that he did not notice that he had dropped one small coin.</source></trans-unit>
+    <trans-unit id="p011.s02"><source>Placing the bag on the ground, he stooped and picked up the coin, and again went on his way, with the King and Queen carefully watching his every action.</source></trans-unit>
+   </group>
+   <group id="p012" restype="prose">
+    <trans-unit id="p012.s01"><source>&quot;Look! what a miser he is!&quot; said Sherem, triumphantly.</source></trans-unit>
+    <trans-unit id="p012.s02"><source>&quot;He actually put down his bag to pick up one small coin because it grieved him to think that it might reach the hands of one of the King&#x27;s servants, or some poor person, who, needing it, would buy bread and pray for the long life of the King.&quot;</source></trans-unit>
+   </group>
+   <group id="p013" restype="prose">
+    <trans-unit id="p013.s01"><source>&quot;Again thou speakest the truth,&quot; replied the King, feeling the justice of this remark; and once more was the fisherman brought into the royal presence.</source></trans-unit>
+    <trans-unit id="p013.s02"><source>&quot;Are you a human being or a beast?&quot; the King asked him.</source></trans-unit>
+    <trans-unit id="p013.s03"><source>&quot;Although I made it possible for you to become rich without toil, yet the miser within you could not allow you to leave even one small piece of money for others.&quot;</source></trans-unit>
+    <trans-unit id="p013.s04"><source>Then the King bade him to go forth and show his face no more within the city.</source></trans-unit>
+   </group>
+   <group id="p014" restype="prose">
+    <trans-unit id="p014.s01"><source>At this the fisherman fell on his knees and cried: &quot;Hear me, O King, protector of the poor!</source></trans-unit>
+    <trans-unit id="p014.s02"><source>May God grant the King a long life.</source></trans-unit>
+    <trans-unit id="p014.s03"><source>Not for its value did thy servant pick up the coin, but because on one side it bore the name of God, and on the other the likeness of the King.</source></trans-unit>
+    <trans-unit id="p014.s04"><source>Thy servant feared that someone, not seeing the coin, would tread it into the dirt, and thus defile both the name of God and the face of the King.</source></trans-unit>
+    <trans-unit id="p014.s05"><source>Let the King judge if by so doing I have merited reproach.&quot;</source></trans-unit>
+   </group>
+   <group id="p015" restype="prose">
+    <trans-unit id="p015.s01"><source>This answer pleased the King beyond all measure, and he gave the fisherman another large sum of money.</source></trans-unit>
+    <trans-unit id="p015.s02"><source>And the Queen&#x27;s wrath was turned away, and she looked kindly upon the fisherman as he departed with his bag laden with money.</source></trans-unit>
+   </group>
+  </body>
+ </file>
+</xliff>

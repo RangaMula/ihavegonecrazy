@@ -1,0 +1,44 @@
+{
+ "id": "am-iroquois-haudenosaunee-people-019",
+ "title": {
+  "id": "title",
+  "source": "A Case Of Witchcraft"
+ },
+ "tradition": "Iroquois (Haudenosaunee) people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Iroquois. (1883 N 02 / 1880-1881 (pages 47-116))",
+ "credits": "Smith, Erminnie A. (Erminnie Adele) (author, d. 1886)",
+ "gutenberg": "Project Gutenberg eBook #46140 — https://www.gutenberg.org/ebooks/46140 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Iroquois (Haudenosaunee) people/019 - A Case Of Witchcraft.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 94
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The victim in this case was a Mary Jemison, who, having severe pains in her chest, concluded that she was bewitched, and consulted the witch-doctors, who applied their extractive bandages, which greatly relieved her."
+    },
+    {
+     "id": "p001.s02",
+     "source": "She saw a dog as an apparition coming toward her, and directed her friends to shoot it, but they did not succeed in killing it."
+    },
+    {
+     "id": "p001.s03",
+     "source": "In like manner a cat, which was invisible to other people, was seen by her."
+    },
+    {
+     "id": "p001.s04",
+     "source": "She finally recovered, but Andrew John, who was pronounced her bewitcher, and who was outwitched, is now dying from consumption."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

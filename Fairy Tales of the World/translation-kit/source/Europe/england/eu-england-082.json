@@ -1,0 +1,651 @@
+{
+ "id": "eu-england-082",
+ "title": {
+  "id": "title",
+  "source": "The Wise Men of Gotham"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "More English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #14241 — https://www.gutenberg.org/ebooks/14241 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/082 - The Wise Men of Gotham.md",
+ "stats": {
+  "paragraphs": 53,
+  "segments": 78,
+  "words": 1342
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There were two men of Gotham, and one of them was going to market to Nottingham to buy sheep, and the other came from the market, and they both met together upon Nottingham bridge."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"Where are you going?\" said the one who came from Nottingham."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"Marry,\" said he that was going to Nottingham, \"I am going to buy sheep.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Buy sheep?\" said the other, \"and which way will you bring them home?\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Marry,\" said the other, \"I will bring them over this bridge.\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"By Robin Hood,\" said he that came from Nottingham, \"but thou shalt not.\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"By Maid Marion,\" said he that was going thither, \"but I will.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"You will not,\" said the one."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"I will.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Then they beat their staves against the ground one against the other, as if there had been a hundred sheep between them."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"Hold in,\" said one; \"beware lest my sheep leap over the bridge.\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"I care not,\" said the other; \"they shall not come this way.\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"But they shall,\" said the other."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Then the other said: \"If that thou make much to do, I will put my fingers in thy mouth.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"Will you?\" said the other."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Now, as they were at their contention, another man of Gotham came from the market with a sack of meal upon a horse, and seeing and hearing his neighbours at strife about sheep, though there were none between them, said:"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Ah, fools! will you ever learn wisdom?"
+    },
+    {
+     "id": "p017.s02",
+     "source": "Help me, and lay my sack upon my shoulders.\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "They did so, and he went to the side of the bridge, unloosened the mouth of the sack, and shook all his meal out into the river."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"Now, neighbours,\" he said, \"how much meal is there in my sack?\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"Marry,\" said they, \"there is none at all.\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"Now, by my faith,\" said he, \"even as much wit as is in your two heads to stir up strife about a thing you have not.\""
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Which was the wisest of these three persons, judge yourself."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Once upon a time the men of Gotham would have kept the Cuckoo so that she might sing all the year, and in the midst of their town they made a hedge round in compass and they got a Cuckoo, and put her into it, and said, \"Sing there all through the year, or thou shalt have neither meat nor water.\""
+    },
+    {
+     "id": "p023.s02",
+     "source": "The Cuckoo, as soon as she perceived herself within the hedge, flew away."
+    },
+    {
+     "id": "p023.s03",
+     "source": "\"A vengeance on her!\" said they."
+    },
+    {
+     "id": "p023.s04",
+     "source": "\"We did not make our hedge high enough.\""
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "There was a man of Gotham who went to the market at Nottingham to sell cheese, and as he was going down the hill to Nottingham bridge, one of his cheeses fell out of his wallet and rolled down the hill."
+    },
+    {
+     "id": "p024.s02",
+     "source": "\"Ah, gaffer,\" said the fellow, \"can you run to market alone?"
+    },
+    {
+     "id": "p024.s03",
+     "source": "I will send one after another after you.\""
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Then he laid down his wallet and took out the cheeses, and rolled them down the hill."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Some went into one bush; and some went into another."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"I charge you all to meet me near the market-place;\" and when the fellow came to the market to meet his cheeses, he stayed there till the market was nearly done."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Then he went about to inquire of his friends and neighbours, and other men, if they did see his cheeses come to the market."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"Who should bring them?\" said one of the market men."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"Marry, themselves,\" said the fellow; \"they know the way well enough.\""
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "He said, \"A vengeance on them all."
+    },
+    {
+     "id": "p029.s02",
+     "source": "I did fear, to see them run so fast, that they would run beyond the market."
+    },
+    {
+     "id": "p029.s03",
+     "source": "I am now fully persuaded that they must be now almost at York.\""
+    },
+    {
+     "id": "p029.s04",
+     "source": "Whereupon he forthwith hired a horse to ride to York, to seek his cheeses where they were not, but to this day no man can tell him of his cheeses."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "When Good Friday came, the men of Gotham cast their heads together what to do with their white herrings, their red herrings, their sprats, and other salt fish."
+    },
+    {
+     "id": "p030.s02",
+     "source": "One consulted with the other, and agreed that such fish should be cast into their pond (which was in the middle of the town), that they might breed against the next year, and every man that had salt fish left cast them into the pool."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "\"I have many white herrings,\" said one."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "\"I have many sprats,\" said another."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "\"I have many red herrings,\" said the other."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "\"I have much salt fish."
+    },
+    {
+     "id": "p034.s02",
+     "source": "Let all go into the pond or pool, and we shall fare like lords next year.\""
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "At the beginning of next year following the men drew near the pond to have their fish, and there was nothing but a great eel."
+    },
+    {
+     "id": "p035.s02",
+     "source": "\"Ah,\" said they all, \"a mischief on this eel, for he has eaten up all our fish.\""
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "\"What shall we do to him?\" said one to the others."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "\"Kill him,\" said one."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "\"Chop him into pieces,\" said another."
+    },
+    {
+     "id": "p038.s02",
+     "source": "\"Not so,\" said another; \"let us drown him.\""
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "\"Be it so,\" said all."
+    },
+    {
+     "id": "p039.s02",
+     "source": "And they went to another pond, and cast the eel into the pond."
+    },
+    {
+     "id": "p039.s03",
+     "source": "\"Lie there and shift for yourself, for no help thou shalt have from us;\" and they left the eel to drown."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Once on a time the men of Gotham had forgotten to pay their landlord."
+    },
+    {
+     "id": "p040.s02",
+     "source": "One said to the other, \"To-morrow is our pay-day, and what shall we find to send our money to our landlord?\""
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "The one said, \"This day I have caught a hare, and he shall carry it, for he is light of foot.\""
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "\"Be it so,\" said all; \"he shall have a letter and a purse to put our money in, and we shall direct him the right way.\""
+    },
+    {
+     "id": "p042.s02",
+     "source": "So when the letters were written and the money put in a purse, they tied it round the hare's neck, saying, \"First you go to Lancaster, then thou must go to Loughborough, and Newarke is our landlord, and commend us to him and there is his dues.\""
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "The hare, as soon as he was out of their hands, ran on along the country way."
+    },
+    {
+     "id": "p043.s02",
+     "source": "Some cried, \"Thou must go to Lancaster first.\""
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "\"Let the hare alone,\" said another; \"he can tell a nearer way than the best of us all."
+    },
+    {
+     "id": "p044.s02",
+     "source": "Let him go.\""
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "Another said, \"It is a subtle hare, let her alone; she will not keep the highway for fear of dogs.\""
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "On a certain time there were twelve men of Gotham who went fishing, and some went into the water and some on dry ground; and, as they were coming back, one of them said, \"We have ventured much this day wading; I pray God that none of us that did come from home be drowned.\""
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "\"Marry,\" said one, \"let us see about that."
+    },
+    {
+     "id": "p047.s02",
+     "source": "Twelve of us came out,\" and every man did count eleven, and the twelfth man did never count himself."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "\"Alas!\" said one to another, \"one of us is drowned.\""
+    },
+    {
+     "id": "p048.s02",
+     "source": "They went back to the brook where they had been fishing, and looked up and down for him that was drowned, and made great lamentation."
+    },
+    {
+     "id": "p048.s03",
+     "source": "A courtier came riding by, and he did ask what they were seeking, and why they were so sorrowful."
+    },
+    {
+     "id": "p048.s04",
+     "source": "\"Oh,\" said they, \"this day we came to fish in this brook, and there were twelve of us, and one is drowned.\""
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "\"Why,\" said the courtier, \"count me how many of you there be,\" and one counted eleven and did not count himself."
+    },
+    {
+     "id": "p049.s02",
+     "source": "\"Well,\" said the courtier, \"what will you give me if I find the twelfth man?\""
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "\"Sir,\" said they, \"all the money we have.\""
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "\"Give me the money,\" said the courtier; and he began with the first, and gave him a whack over the shoulders that he groaned, and said, \"There is one,\" and he served all of them that they groaned; but when he came to the last he gave him a good blow, saying, \"Here is the twelfth man.\""
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "\"God bless you on your heart,\" said all the company; \"you have found our neighbour.\""
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p053"
+  }
+ ]
+}

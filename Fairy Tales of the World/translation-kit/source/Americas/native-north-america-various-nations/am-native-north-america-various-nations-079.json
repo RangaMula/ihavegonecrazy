@@ -1,0 +1,101 @@
+{
+ "id": "am-native-north-america-various-nations-079",
+ "title": {
+  "id": "title",
+  "source": "Songs Of The Buffalo Hunt [D"
+ },
+ "tradition": "Native North America (various nations)",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths and Legends of the Great Plains",
+ "credits": "Judson, Katharine Berry (editor, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/079 - Songs Of The Buffalo Hunt [D.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 11,
+  "words": 224
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Sioux"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "FOOTNOTES"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Songs and comments as given by James Mooney."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“When going on a buffalo hunt, it was customary among the Sioux to send out a small advance party to locate the herd."
+    },
+    {
+     "id": "p004.s02",
+     "source": "On finding it, these men returned at once at full gallop to the main body of hunters, but instead of stopping on reaching them, they dashed past and then turned and fell in behind."
+    },
+    {
+     "id": "p004.s03",
+     "source": "It is to this custom the first line refers.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“In the old days an Indian camp during the cutting up of the meat after a buffalo hunt was a scene of the most joyous activity...."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Preparations were made for days and weeks ahead."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Couriers were sent out to collect the neighboring bands at a common rendezvous, medicine men began their prayers and ceremonies to attract the herd, the buffalo songs were sung, and finally when all was ready the confederated bands or sometimes the whole tribe—men, women, children, horses, dogs, and travois—moved out into the buffalo grounds."
+    },
+    {
+     "id": "p005.s04",
+     "source": "Here the immense camp of hundreds of tipis was set up, more ceremonies were performed, and the mounted warriors rode out in a body to surround and slaughter the herd."
+    },
+    {
+     "id": "p005.s05",
+     "source": "The women followed close after them to strip the hides from the fresh carcasses, and cut out the choice portion of the meat and tallow and bring it into camp.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p006"
+  }
+ ]
+}

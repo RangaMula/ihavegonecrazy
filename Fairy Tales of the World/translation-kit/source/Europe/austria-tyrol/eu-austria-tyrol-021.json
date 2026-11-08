@@ -1,0 +1,85 @@
+{
+ "id": "eu-austria-tyrol-021",
+ "title": {
+  "id": "title",
+  "source": "The Fisherman Of The Graun-See"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/021 - The Fisherman Of The Graun-See.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 10,
+  "words": 350
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In following the valley of Etsch, and after leaving the village of Haid, the traveller arrives first at the lake called Haider-See, and then in about an hour’s walking on the borders of the Graun-See, above which on the side of the mountain, lies, in a most picturesque situation, the little hamlet of Graun."
+    },
+    {
+     "id": "p001.s02",
+     "source": "There every garrulous old woman or little village child can tell him how often when evening sets in the fairies have been seen floating like flickering candles round the lofty peak above, or heard singing sweetly on calm moonlight nights before the entrance to their caves."
+    },
+    {
+     "id": "p001.s03",
+     "source": "This spot on the mountain bears to the present day the name of Zur Salig (to the holy ones)."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "On a beautiful autumn evening some forty years ago, a fisherman in his little barque was setting his nets in the See."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The night was mild and beautiful, and the air so clear and pure that he could distinctly hear the sheep-bells on the surrounding mountains, and the Angelus as it rang from the hamlets of Reschen, Graun, Haid, even as far as the distant village of Burgeis; and the sound of the bells of the monastery of Sancta Maria, which lies above it, came wafting solemnly and softly over the water."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The moon rose slowly in silent majesty above the surrounding mountains, lighting up every distant peak, and turning the lake into a bed of liquid silver, and as the distant song of the Holy Fräulein struck the ear of the poor fisherman, he abandoned his nets and listened entranced."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The moonlight faded slowly away, and the darkness of night set in, yet still he remained motionless in his boat, dreaming of the angel’s song he had heard from Heaven."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Morning broke, and still he sat there with his hand on the rudder, and his eyes riveted on the abode of the Holy Ones."
+    },
+    {
+     "id": "p003.s03",
+     "source": "His comrades came and called him, but he did not answer; they went to him and found him dead."
+    },
+    {
+     "id": "p003.s04",
+     "source": "He lies buried in the little churchyard of Graun, and every villager can point out his grave."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  }
+ ]
+}

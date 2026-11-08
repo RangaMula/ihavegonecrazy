@@ -1,0 +1,56 @@
+{
+ "id": "am-squamish-people-legends-of-vancouver-001",
+ "title": {
+  "id": "title",
+  "source": "Author's Foreword"
+ },
+ "tradition": "Squamish people (Legends of Vancouver)",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Legends of Vancouver",
+ "credits": "Johnson, E. Pauline (author, d. 1913)",
+ "gutenberg": "Project Gutenberg eBook #3478 — https://www.gutenberg.org/ebooks/3478 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Squamish people (Legends of Vancouver)/001 - Author's Foreword.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 4,
+  "words": 137
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "These legends (with two or three exceptions) were told to me personally by my honored friend, the late Chief Joe Capilano, of Vancouver, whom I had the privilege of first meeting in London in 1906, when he visited England and was received at Buckingham Palace by their Majesties King Edward VII and Queen Alexandra."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "To the fact that I was able to greet Chief Capilano in the Chinook tongue, while we were both many thousands of miles from home, I owe the friendship and the confidence which he so freely gave me when I came to reside on the Pacific coast."
+    },
+    {
+     "id": "p002.s02",
+     "source": "These legends he told me from time to time, just as the mood possessed him, and he frequently remarked that they had never been revealed to any other English-speaking person save myself."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "E. PAULINE JOHNSON (Tekahionwake)"
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

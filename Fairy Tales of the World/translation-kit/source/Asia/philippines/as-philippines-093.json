@@ -1,0 +1,68 @@
+{
+ "id": "as-philippines-093",
+ "title": {
+  "id": "title",
+  "source": "Why Locusts Are Harmful"
+ },
+ "tradition": "Philippines",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Filipino Popular Tales",
+ "credits": "Fansler, Dean Spruill (editor)",
+ "gutenberg": "Project Gutenberg eBook #8299 — https://www.gutenberg.org/ebooks/8299 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Philippines/093 - Why Locusts Are Harmful.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 7,
+  "words": 111
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Narrated by Francisco M. Africa."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "During the dawn of humanity, some angels headed by Satanas revolted against God."
+    },
+    {
+     "id": "p002.s02",
+     "source": "They wanted to establish a kingdom for themselves."
+    },
+    {
+     "id": "p002.s03",
+     "source": "In a battle against the army of God, in which God himself was present, Satanas threw a handful of sand into God’s face; but the heavenly monarch just laughed, and said, “I turn the sand back to thee."
+    },
+    {
+     "id": "p002.s04",
+     "source": "The particles shall become the scourge of all ages to thee and to thy followers, O Satanas!”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "No sooner had God uttered these words than the particles of sand became a mighty swarm of locusts, that flew in all directions."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Such was the beginning of the pest."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

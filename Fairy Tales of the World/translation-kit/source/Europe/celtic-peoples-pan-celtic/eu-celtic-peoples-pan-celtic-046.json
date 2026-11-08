@@ -1,0 +1,54 @@
+{
+ "id": "eu-celtic-peoples-pan-celtic-046",
+ "title": {
+  "id": "title",
+  "source": "The Tail"
+ },
+ "tradition": "Celtic peoples (pan-Celtic)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "More Celtic Fairy Tales",
+ "credits": "Jacobs, Joseph (editor, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #34453 — https://www.gutenberg.org/ebooks/34453 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Celtic peoples (pan-Celtic)/046 - The Tail.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 4,
+  "words": 138
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "here was a shepherd once who went out to the hill to look after his sheep."
+    },
+    {
+     "id": "p001.s02",
+     "source": "It was misty and cold, and he had much trouble to find them."
+    },
+    {
+     "id": "p001.s03",
+     "source": "At last he had them all but one; and after much searching he found that one too in a peat hag, half drowned; so he took off his plaid, and bent down and took hold of the sheep's tail, and he pulled!"
+    },
+    {
+     "id": "p001.s04",
+     "source": "The sheep was heavy with water, and he could not lift her, so he took off his coat and he pulled!! but it was too much for him, so he spit on his hands, and took a good hold of the tail and he pulled !! and the tail broke! and if it had not been for that this tale would have been a great deal longer."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "eu-italy-020",
+ "title": {
+  "id": "title",
+  "source": "Fairy Tales Continued"
+ },
+ "tradition": "Italy",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Italian Popular Tales",
+ "credits": "Crane, Thomas Frederick (author, d. 1927)",
+ "gutenberg": "Project Gutenberg eBook #23634 — https://www.gutenberg.org/ebooks/23634 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Italy/020 - Fairy Tales Continued.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 8,
+  "words": 190
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The fairy tales given in the last chapter belong to what may be called the great fairy tale cycles; that is, to extensive classes that are typical forms."
+    },
+    {
+     "id": "p001.s02",
+     "source": "It remains to notice in this chapter those stories which do not belong to any of these typical classes, but constitute, so to speak, independent forms."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The reader has perhaps noticed in the fairy tales of the first chapter the conspicuous absence of the fairies to which we are accustomed in German or Celtic stories."
+    },
+    {
+     "id": "p002.s02",
+     "source": "We have met ogres and magicians with magic powers, old men and women, and hermits who have aided the hero and heroine, and played the rôle of the \"good fairy,\" but the fairy in the bright shape in which we see her in French and Irish stories, for example, has been wanting."
+    },
+    {
+     "id": "p002.s03",
+     "source": "It will not be amiss, then, to give a few stories in which the fairies play a more important part."
+    },
+    {
+     "id": "p002.s04",
+     "source": "We shall first mention a curious story in which the fairies are represented in one of their most usual rôles—that of bestowing good gifts."
+    },
+    {
+     "id": "p002.s05",
+     "source": "The story is from Sicily (Gonz."
+    },
+    {
+     "id": "p002.s06",
+     "source": "No. 73), and is entitled:"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

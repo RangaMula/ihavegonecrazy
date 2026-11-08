@@ -1,0 +1,84 @@
+{
+ "id": "as-philippines-096",
+ "title": {
+  "id": "title",
+  "source": "Why Bats Fly at Night"
+ },
+ "tradition": "Philippines",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Filipino Popular Tales",
+ "credits": "Fansler, Dean Spruill (editor)",
+ "gutenberg": "Project Gutenberg eBook #8299 — https://www.gutenberg.org/ebooks/8299 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Philippines/096 - Why Bats Fly at Night.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 11,
+  "words": 155
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Narrator, Francisco M. Africa."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Many years ago the earth was inhabited by only one man."
+    },
+    {
+     "id": "p002.s02",
+     "source": "His body was composed of minute organisms that were incessantly warring against one another."
+    },
+    {
+     "id": "p002.s03",
+     "source": "One day this man became so weak that he could not obtain food for his support."
+    },
+    {
+     "id": "p002.s04",
+     "source": "He laid himself down on some soft moss by the bank of a river, and there he remained till night."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The organisms that lived in his body began to fight against one another most fiercely."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Each ate his fellow until he became very big."
+    },
+    {
+     "id": "p003.s03",
+     "source": "At last the man died, and only one organism remained alive."
+    },
+    {
+     "id": "p003.s04",
+     "source": "This organism then flew away, and became the ancestor of the bats."
+    },
+    {
+     "id": "p003.s05",
+     "source": "The light of day so dazzled his eyes, that he could not fly very far, so he decided to fly only at night."
+    },
+    {
+     "id": "p003.s06",
+     "source": "And ever since, his descendants, too, have hidden themselves in the day-time, and come out only when it is dark."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

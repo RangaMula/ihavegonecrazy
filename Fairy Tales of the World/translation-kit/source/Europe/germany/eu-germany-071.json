@@ -1,0 +1,93 @@
+{
+ "id": "eu-germany-071",
+ "title": {
+  "id": "title",
+  "source": "The Little Shroud"
+ },
+ "tradition": "Germany",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Folk-lore and Legends: German",
+ "credits": "Anonymous / traditional",
+ "gutenberg": "Project Gutenberg eBook #27499 — https://www.gutenberg.org/ebooks/27499 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Germany/071 - The Little Shroud.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 9,
+  "words": 252
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a woman who had a little son of about seven years old, who was so lovely and beautiful that no one could look upon him without being kind to him, and he was dearer to her than all the world beside."
+    },
+    {
+     "id": "p001.s02",
+     "source": "It happened that he suddenly fell ill and died, and his mother would not be comforted, but wept for him day and night."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Shortly after he was buried he showed himself at night in the places where he had been used in his lifetime to sit and play, and if his mother wept, he wept also, and when the morning came he departed."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Since his mother never ceased weeping, the child came one night in the little white shroud in which he had been laid in his coffin, and with the chaplet upon his head, and seating himself at her feet, upon the bed, he cried—"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"O mother, mother, give over crying, else I cannot stop in my coffin, for my shroud is never dry because of your tears, for they fall upon it.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "When his mother heard this she was sore afraid, and wept no more."
+    },
+    {
+     "id": "p003.s02",
+     "source": "And the babe came upon another night, holding in his hand a little taper, and he said—"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Look, mother, my shroud is now quite dry, and I can rest in my grave.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Then she bowed to the will of Providence, and bore her sorrow with silence and patience, and the little child returned not again, but slept in his underground bed."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p006"
+  }
+ ]
+}

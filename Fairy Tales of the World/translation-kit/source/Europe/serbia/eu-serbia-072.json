@@ -1,0 +1,66 @@
+{
+ "id": "eu-serbia-072",
+ "title": {
+  "id": "title",
+  "source": "Marko prepares to succour the Princess"
+ },
+ "tradition": "Serbia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Hero Tales and Legends of the Serbians",
+ "credits": "Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)",
+ "gutenberg": "Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Serbia/072 - Marko prepares to succour the Princess.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 8,
+  "words": 259
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Having sent away the Princess’ messenger without telling him what he had resolved to do, Marko entered his castle and put on his cloak and a cap, made of wolves’ skins; next he girded on his sabre, selected his most piercing lance, and went to the stables."
+    },
+    {
+     "id": "p001.s02",
+     "source": "For greater safety he fastened the seven belts under the saddle of his Sharatz with his own hands; he then attached a leathern bottle filled with red wine on one side of his saddle and his weightiest war-club on the other."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Now he was ready and threw himself upon Sharatz and rode off to Istamboul."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Upon reaching his destination he did not go to pay his respects either to the Sultan or to the Grand Vizir, but quietly took up his abode in a new inn."
+    },
+    {
+     "id": "p002.s02",
+     "source": "That same evening, soon after sun-set, he led his horse to a lake near by to be refreshed: but to his master’s surprise Sharatz would not even taste the water, but kept turning his head first to the right, then to the left, till Marko noticed the approach of a Turkish maiden covered with a long gold-embroidered veil."
+    },
+    {
+     "id": "p002.s03",
+     "source": "When she reached the edge of the water she bowed profoundly toward the lake and said aloud: “God bless thee, O beauteous green lake!"
+    },
+    {
+     "id": "p002.s04",
+     "source": "God bless thee, for thou art to be my home for ever more!"
+    },
+    {
+     "id": "p002.s05",
+     "source": "Within thy bosom am I henceforth to dwell; I am now to die, O beauteous lake; rather would I choose such a fate than become the bride of the cruel Moor!”"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

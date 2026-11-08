@@ -1,0 +1,770 @@
+{
+ "id": "eu-denmark-002",
+ "title": {
+  "id": "title",
+  "source": "The Swineherd"
+ },
+ "tradition": "Denmark",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Andersen's Fairy Tales",
+ "credits": "Andersen, H. C. (Hans Christian) (author, d. 1875)",
+ "gutenberg": "Project Gutenberg eBook #1597 — https://www.gutenberg.org/ebooks/1597 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Denmark/002 - The Swineherd.md",
+ "stats": {
+  "paragraphs": 56,
+  "segments": 103,
+  "words": 1480
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a poor Prince, who had a kingdom."
+    },
+    {
+     "id": "p001.s02",
+     "source": "His kingdom was very small, but still quite large enough to marry upon; and he wished to marry."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "It was certainly rather cool of him to say to the Emperor's daughter, “Will you have me?”"
+    },
+    {
+     "id": "p002.s02",
+     "source": "But so he did; for his name was renowned far and wide; and there were a hundred princesses who would have answered, “Yes!” and “Thank you kindly.”"
+    },
+    {
+     "id": "p002.s03",
+     "source": "We shall see what this princess said."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Listen!"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "It happened that where the Prince's father lay buried, there grew a rose tree—a most beautiful rose tree, which blossomed only once in every five years, and even then bore only one flower, but that was a rose!"
+    },
+    {
+     "id": "p004.s02",
+     "source": "It smelt so sweet that all cares and sorrows were forgotten by him who inhaled its fragrance."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "And furthermore, the Prince had a nightingale, who could sing in such a manner that it seemed as though all sweet melodies dwelt in her little throat."
+    },
+    {
+     "id": "p005.s02",
+     "source": "So the Princess was to have the rose, and the nightingale; and they were accordingly put into large silver caskets, and sent to her."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "The Emperor had them brought into a large hall, where the Princess was playing at “Visiting,” with the ladies of the court; and when she saw the caskets with the presents, she clapped her hands for joy."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Ah, if it were but a little pussy-cat!” said she; but the rose tree, with its beautiful rose came to view."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Oh, how prettily it is made!” said all the court ladies."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“It is more than pretty,” said the Emperor, “it is charming!”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "But the Princess touched it, and was almost ready to cry."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Fie, papa!” said she."
+    },
+    {
+     "id": "p011.s02",
+     "source": "“It is not made at all, it is natural!”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Let us see what is in the other casket, before we get into a bad humor,” said the Emperor."
+    },
+    {
+     "id": "p012.s02",
+     "source": "So the nightingale came forth and sang so delightfully that at first no one could say anything ill-humored of her."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Superbe!"
+    },
+    {
+     "id": "p013.s02",
+     "source": "Charmant!” exclaimed the ladies; for they all used to chatter French, each one worse than her neighbor."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“How much the bird reminds me of the musical box that belonged to our blessed Empress,” said an old knight."
+    },
+    {
+     "id": "p014.s02",
+     "source": "“Oh yes!"
+    },
+    {
+     "id": "p014.s03",
+     "source": "These are the same tones, the same execution.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“Yes! yes!” said the Emperor, and he wept like a child at the remembrance."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“I will still hope that it is not a real bird,” said the Princess."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“Yes, it is a real bird,” said those who had brought it."
+    },
+    {
+     "id": "p017.s02",
+     "source": "“Well then let the bird fly,” said the Princess; and she positively refused to see the Prince."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "However, he was not to be discouraged; he daubed his face over brown and black; pulled his cap over his ears, and knocked at the door."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“Good day to my lord, the Emperor!” said he."
+    },
+    {
+     "id": "p019.s02",
+     "source": "“Can I have employment at the palace?”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“Why, yes,” said the Emperor."
+    },
+    {
+     "id": "p020.s02",
+     "source": "“I want some one to take care of the pigs, for we have a great many of them.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "So the Prince was appointed “Imperial Swineherd.”"
+    },
+    {
+     "id": "p021.s02",
+     "source": "He had a dirty little room close by the pigsty; and there he sat the whole day, and worked."
+    },
+    {
+     "id": "p021.s03",
+     "source": "By the evening he had made a pretty little kitchen-pot."
+    },
+    {
+     "id": "p021.s04",
+     "source": "Little bells were hung all round it; and when the pot was boiling, these bells tinkled in the most charming manner, and played the old melody,"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“Ach! du lieber Augustin,"
+    },
+    {
+     "id": "p022.s02",
+     "source": "Alles ist weg, weg, weg!”*"
+    },
+    {
+     "id": "p022.s03",
+     "source": "* “Ah! dear Augustine!"
+    },
+    {
+     "id": "p022.s04",
+     "source": "All is gone, gone, gone!”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "But what was still more curious, whoever held his finger in the smoke of the kitchen-pot, immediately smelt all the dishes that were cooking on every hearth in the city—this, you see, was something quite different from the rose."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Now the Princess happened to walk that way; and when she heard the tune, she stood quite still, and seemed pleased; for she could play “Lieber Augustine”; it was the only piece she knew; and she played it with one finger."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“Why there is my piece,” said the Princess."
+    },
+    {
+     "id": "p025.s02",
+     "source": "“That swineherd must certainly have been well educated!"
+    },
+    {
+     "id": "p025.s03",
+     "source": "Go in and ask him the price of the instrument.”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "So one of the court-ladies must run in; however, she drew on wooden slippers first."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“What will you take for the kitchen-pot?” said the lady."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“I will have ten kisses from the Princess,” said the swineherd."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“Yes, indeed!” said the lady."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“I cannot sell it for less,” rejoined the swineherd."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“He is an impudent fellow!” said the Princess, and she walked on; but when she had gone a little way, the bells tinkled so prettily"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“Ach! du lieber Augustin,"
+    },
+    {
+     "id": "p032.s02",
+     "source": "Alles ist weg, weg, weg!”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“Stay,” said the Princess."
+    },
+    {
+     "id": "p033.s02",
+     "source": "“Ask him if he will have ten kisses from the ladies of my court.”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“No, thank you!” said the swineherd."
+    },
+    {
+     "id": "p034.s02",
+     "source": "“Ten kisses from the Princess, or I keep the kitchen-pot myself.”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“That must not be, either!” said the Princess."
+    },
+    {
+     "id": "p035.s02",
+     "source": "“But do you all stand before me that no one may see us.”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "And the court-ladies placed themselves in front of her, and spread out their dresses—the swineherd got ten kisses, and the Princess—the kitchen-pot."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "That was delightful!"
+    },
+    {
+     "id": "p037.s02",
+     "source": "The pot was boiling the whole evening, and the whole of the following day."
+    },
+    {
+     "id": "p037.s03",
+     "source": "They knew perfectly well what was cooking at every fire throughout the city, from the chamberlain's to the cobbler's; the court-ladies danced and clapped their hands."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“We know who has soup, and who has pancakes for dinner to-day, who has cutlets, and who has eggs."
+    },
+    {
+     "id": "p038.s02",
+     "source": "How interesting!”"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“Yes, but keep my secret, for I am an Emperor's daughter.”"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "The swineherd—that is to say—the Prince, for no one knew that he was other than an ill-favored swineherd, let not a day pass without working at something; he at last constructed a rattle, which, when it was swung round, played all the waltzes and jig tunes, which have ever been heard since the creation of the world."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "“Ah, that is superbe!” said the Princess when she passed by."
+    },
+    {
+     "id": "p041.s02",
+     "source": "“I have never heard prettier compositions!"
+    },
+    {
+     "id": "p041.s03",
+     "source": "Go in and ask him the price of the instrument; but mind, he shall have no more kisses!”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“He will have a hundred kisses from the Princess!” said the lady who had been to ask."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“I think he is not in his right senses!” said the Princess, and walked on, but when she had gone a little way, she stopped again."
+    },
+    {
+     "id": "p043.s02",
+     "source": "“One must encourage art,” said she, “I am the Emperor's daughter."
+    },
+    {
+     "id": "p043.s03",
+     "source": "Tell him he shall, as on yesterday, have ten kisses from me, and may take the rest from the ladies of the court.”"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“Oh—but we should not like that at all!” said they."
+    },
+    {
+     "id": "p044.s02",
+     "source": "“What are you muttering?” asked the Princess."
+    },
+    {
+     "id": "p044.s03",
+     "source": "“If I can kiss him, surely you can."
+    },
+    {
+     "id": "p044.s04",
+     "source": "Remember that you owe everything to me.”"
+    },
+    {
+     "id": "p044.s05",
+     "source": "So the ladies were obliged to go to him again."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“A hundred kisses from the Princess,” said he, “or else let everyone keep his own!”"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "“Stand round!” said she; and all the ladies stood round her whilst the kissing was going on."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“What can be the reason for such a crowd close by the pigsty?” said the Emperor, who happened just then to step out on the balcony; he rubbed his eyes, and put on his spectacles."
+    },
+    {
+     "id": "p047.s02",
+     "source": "“They are the ladies of the court; I must go down and see what they are about!”"
+    },
+    {
+     "id": "p047.s03",
+     "source": "So he pulled up his slippers at the heel, for he had trodden them down."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "As soon as he had got into the court-yard, he moved very softly, and the ladies were so much engrossed with counting the kisses, that all might go on fairly, that they did not perceive the Emperor."
+    },
+    {
+     "id": "p048.s02",
+     "source": "He rose on his tiptoes."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "“What is all this?” said he, when he saw what was going on, and he boxed the Princess's ears with his slipper, just as the swineherd was taking the eighty-sixth kiss."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "“March out!” said the Emperor, for he was very angry; and both Princess and swineherd were thrust out of the city."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "The Princess now stood and wept, the swineherd scolded, and the rain poured down."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "“Alas!"
+    },
+    {
+     "id": "p052.s02",
+     "source": "Unhappy creature that I am!” said the Princess."
+    },
+    {
+     "id": "p052.s03",
+     "source": "“If I had but married the handsome young Prince!"
+    },
+    {
+     "id": "p052.s04",
+     "source": "Ah! how unfortunate I am!”"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "And the swineherd went behind a tree, washed the black and brown color from his face, threw off his dirty clothes, and stepped forth in his princely robes; he looked so noble that the Princess could not help bowing before him."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "“I am come to despise thee,” said he."
+    },
+    {
+     "id": "p054.s02",
+     "source": "“Thou would'st not have an honorable Prince!"
+    },
+    {
+     "id": "p054.s03",
+     "source": "Thou could'st not prize the rose and the nightingale, but thou wast ready to kiss the swineherd for the sake of a trumpery plaything."
+    },
+    {
+     "id": "p054.s04",
+     "source": "Thou art rightly served.”"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "He then went back to his own little kingdom, and shut the door of his palace in her face."
+    },
+    {
+     "id": "p055.s02",
+     "source": "Now she might well sing,"
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "“Ach! du lieber Augustin,"
+    },
+    {
+     "id": "p056.s02",
+     "source": "Alles ist weg, weg, weg!”"
+    }
+   ],
+   "id": "p056"
+  }
+ ]
+}

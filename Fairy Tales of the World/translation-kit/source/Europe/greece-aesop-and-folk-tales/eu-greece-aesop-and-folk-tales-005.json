@@ -1,0 +1,50 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-005",
+ "title": {
+  "id": "title",
+  "source": "The Charcoal-Burner And The Fuller"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/005 - The Charcoal-Burner And The Fuller.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 4,
+  "words": 73
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A CHARCOAL-BURNER carried on his trade in his own house."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One day he met a friend, a Fuller, and entreated him to come and live with him, saying that they should be far better neighbors and that their housekeeping expenses would be lessened."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Fuller replied, “The arrangement is impossible as far as I am concerned, for whatever I should whiten, you would immediately blacken again with your charcoal.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Like will draw like."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

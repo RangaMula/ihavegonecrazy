@@ -1,0 +1,755 @@
+{
+ "id": "eu-czech-lands-bohemia-moravia-045",
+ "title": {
+  "id": "title",
+  "source": "The Dear Little Hen"
+ },
+ "tradition": "Czech lands (Bohemia, Moravia)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "The Shoemaker's Apron: A Second Book of Czechoslovak Fairy Tales and Folk Tales",
+ "credits": "Fillmore, Parker (author, d. 1944)",
+ "gutenberg": "Project Gutenberg eBook #33002 — https://www.gutenberg.org/ebooks/33002 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Czech lands (Bohemia, Moravia)/045 - The Dear Little Hen.md",
+ "stats": {
+  "paragraphs": 49,
+  "segments": 110,
+  "words": 960
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once upon a time a big Rooster and a dear little Hen became close friends."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"Let us go to the garden,\" the Rooster said, \"and scratch up some seeds and worms."
+    },
+    {
+     "id": "p002.s02",
+     "source": "I tell you what we'll do: everything you scratch up you divide with me, and everything I scratch up I'll divide with you.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The dear little Hen agreed to this and off they went together to the garden."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The dear little Hen scratched and scratched and scratched and every time she scratched up a nice fat worm or a tasty seed she divided with the Rooster."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "And the Rooster scratched and scratched and scratched and whenever the Hen saw him scratch up something good he divided with her."
+    },
+    {
+     "id": "p005.s02",
+     "source": "But once, when she wasn't looking, he scratched up a big grain of corn and without dividing it he tried to gobble it all himself."
+    },
+    {
+     "id": "p005.s03",
+     "source": "He gobbled it so fast that it stuck in his throat and choked him."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"Oh, dear little Hen!\" he gasped."
+    },
+    {
+     "id": "p006.s02",
+     "source": "\"I'm choking!"
+    },
+    {
+     "id": "p006.s03",
+     "source": "Run quick and get me some water or I'll die!\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "And with that he fell over on his back and his feet stuck straight up in the air."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "The dear little Hen ran to the Well as fast as she could and all out of breath she gasped:"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Oh Well!"
+    },
+    {
+     "id": "p009.s02",
+     "source": "Give me Some Water For Rooster!"
+    },
+    {
+     "id": "p009.s03",
+     "source": "Choking!"
+    },
+    {
+     "id": "p009.s04",
+     "source": "In garden!"
+    },
+    {
+     "id": "p009.s05",
+     "source": "On back!"
+    },
+    {
+     "id": "p009.s06",
+     "source": "Feet up!"
+    },
+    {
+     "id": "p009.s07",
+     "source": "Oh dear!"
+    },
+    {
+     "id": "p009.s08",
+     "source": "He'll die!\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "The Well said:"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"If you want me to give you some Water, you must go to the Dressmaker and get me a Kerchief.\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "So the dear little Hen ran to the Dressmaker as fast as she could and all out of breath she gasped:"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"Dressmaker!"
+    },
+    {
+     "id": "p013.s02",
+     "source": "Give me Kerchief For Well For Water For Rooster!"
+    },
+    {
+     "id": "p013.s03",
+     "source": "Choking!"
+    },
+    {
+     "id": "p013.s04",
+     "source": "In garden!"
+    },
+    {
+     "id": "p013.s05",
+     "source": "On back!"
+    },
+    {
+     "id": "p013.s06",
+     "source": "Feet up!"
+    },
+    {
+     "id": "p013.s07",
+     "source": "Oh dear!"
+    },
+    {
+     "id": "p013.s08",
+     "source": "He'll die!\""
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "The Dressmaker said:"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"If you want me to give you a Kerchief, you must go to the Shoemaker and get me a pair of Slippers.\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "So the dear little Hen ran to the Shoemaker as fast as she could and all out of breath she gasped:"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Shoemaker!"
+    },
+    {
+     "id": "p017.s02",
+     "source": "Give me Slippers For Dressmaker For Kerchief For Well For Water For Rooster!"
+    },
+    {
+     "id": "p017.s03",
+     "source": "Choking!"
+    },
+    {
+     "id": "p017.s04",
+     "source": "In garden!"
+    },
+    {
+     "id": "p017.s05",
+     "source": "On back!"
+    },
+    {
+     "id": "p017.s06",
+     "source": "Feet up!"
+    },
+    {
+     "id": "p017.s07",
+     "source": "Oh dear!"
+    },
+    {
+     "id": "p017.s08",
+     "source": "He'll die!\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "The Shoemaker said:"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"If you want me to give you a pair of Slippers, you must go to the Sow and get me some Bristles.\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "So the dear little Hen ran to the Sow as fast as she could and all out of breath she gasped:"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"Oh Sow!"
+    },
+    {
+     "id": "p021.s02",
+     "source": "Give me Some Bristles For Shoemaker For Slippers For Dressmaker For Kerchief For Well For Water For Rooster!"
+    },
+    {
+     "id": "p021.s03",
+     "source": "Choking!"
+    },
+    {
+     "id": "p021.s04",
+     "source": "In garden!"
+    },
+    {
+     "id": "p021.s05",
+     "source": "On back!"
+    },
+    {
+     "id": "p021.s06",
+     "source": "Feet up!"
+    },
+    {
+     "id": "p021.s07",
+     "source": "Oh dear!"
+    },
+    {
+     "id": "p021.s08",
+     "source": "He'll die!\""
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "The Sow said:"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"If you want me to give you some Bristles, you must go to the Brewer and get me some Malt.\""
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "So the dear little Hen ran to the Brewer as fast as she could and all out of breath she gasped:"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"Oh Brewer!"
+    },
+    {
+     "id": "p025.s02",
+     "source": "Give me Some Malt For Sow For Bristles For Shoemaker For Slippers For Dressmaker For Kerchief For Well For Water For Rooster!"
+    },
+    {
+     "id": "p025.s03",
+     "source": "Choking!"
+    },
+    {
+     "id": "p025.s04",
+     "source": "In garden!"
+    },
+    {
+     "id": "p025.s05",
+     "source": "On back!"
+    },
+    {
+     "id": "p025.s06",
+     "source": "Feet up!"
+    },
+    {
+     "id": "p025.s07",
+     "source": "Oh dear!"
+    },
+    {
+     "id": "p025.s08",
+     "source": "He'll die!\""
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "The Brewer said:"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"If you want me to give you some Malt, you must go to the Cow and get me some Cream.\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "So the dear little Hen ran to the Cow as fast as she could and all out of breath she gasped:"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "\"Oh Cow!"
+    },
+    {
+     "id": "p029.s02",
+     "source": "Give me Some Cream For Brewer For Malt For Sow For Bristles For Shoemaker For Slippers For Dressmaker For Kerchief For Well For Water For Rooster!"
+    },
+    {
+     "id": "p029.s03",
+     "source": "Choking!"
+    },
+    {
+     "id": "p029.s04",
+     "source": "In garden!"
+    },
+    {
+     "id": "p029.s05",
+     "source": "On back!"
+    },
+    {
+     "id": "p029.s06",
+     "source": "Feet up!"
+    },
+    {
+     "id": "p029.s07",
+     "source": "Oh dear!"
+    },
+    {
+     "id": "p029.s08",
+     "source": "He'll die! \""
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "The Cow said:"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "\"If you want me to give you some Cream, you must go to the Meadow and get me some Grass.\""
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "So the dear little Hen ran to the Meadow as fast as she could and all out of breath she gasped:"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "\"Oh Meadow!"
+    },
+    {
+     "id": "p033.s02",
+     "source": "Give me Some Grass For Cow For Cream For Brewer For Malt For Sow For Bristles For Shoemaker For Slippers For Dressmaker For Kerchief For Well For Water For Rooster!"
+    },
+    {
+     "id": "p033.s03",
+     "source": "Choking!"
+    },
+    {
+     "id": "p033.s04",
+     "source": "In garden!"
+    },
+    {
+     "id": "p033.s05",
+     "source": "On back!"
+    },
+    {
+     "id": "p033.s06",
+     "source": "Feet up!"
+    },
+    {
+     "id": "p033.s07",
+     "source": "Oh dear!"
+    },
+    {
+     "id": "p033.s08",
+     "source": "He'll die! \""
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "The Meadow said:"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "\"If you want me to give you some Grass, you must get me some Dew from the Sky.\""
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "So the dear little Hen looked up to the Sky and said:"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "\"Oh Sky!"
+    },
+    {
+     "id": "p037.s02",
+     "source": "Dear Sky!"
+    },
+    {
+     "id": "p037.s03",
+     "source": "Give me Some Dew For Meadow For Grass For Cow For Cream For Brewer For Malt For Sow For Bristles For Shoemaker For Slippers For Dressmaker For Kerchief For Well For Water For Rooster!"
+    },
+    {
+     "id": "p037.s04",
+     "source": "Choking!"
+    },
+    {
+     "id": "p037.s05",
+     "source": "In garden!"
+    },
+    {
+     "id": "p037.s06",
+     "source": "On back!"
+    },
+    {
+     "id": "p037.s07",
+     "source": "Feet up!"
+    },
+    {
+     "id": "p037.s08",
+     "source": "Oh Dear!"
+    },
+    {
+     "id": "p037.s09",
+     "source": "He'll die!\""
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "The Sky pitied the dear little Hen and at once gave her some Dew."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "So the Hen gave the Meadow the Dew, and the Meadow gave the Hen some Grass."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "The Hen gave the Cow the Grass, and the Cow gave the Hen some Cream."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "The Hen gave the Brewer the Cream, and the Brewer gave the Hen some Malt."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "The Hen gave the Sow the Malt, and the Sow gave the Hen some Bristles."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "The Hen gave the Shoemaker the Bristles, and the Shoemaker gave the Hen a pair of Slippers."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "The Hen gave the Dressmaker the Slippers, and the Dressmaker gave the Hen a Kerchief."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "The Hen gave the Well the Kerchief, and the Well gave the Hen some Water."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "The Hen gave the Rooster the Water, the Water washed down the grain of corn, and thereupon the Rooster jumped up, flapped his wings, and merrily crowed:"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "\"Cockadoodledoo!\""
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "And after that he never again tried to cheat the dear little Hen but always whenever he scratched up a nice fat worm or a tasty seed he divided with her."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p049"
+  }
+ ]
+}

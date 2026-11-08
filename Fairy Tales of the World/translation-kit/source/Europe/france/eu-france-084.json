@@ -1,0 +1,407 @@
+{
+ "id": "eu-france-084",
+ "title": {
+  "id": "title",
+  "source": "La Cabane Au Toit De Fromage"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Contes et légendes. 1re Partie",
+ "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #18873 — https://www.gutenberg.org/ebooks/18873 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/084 - La Cabane Au Toit De Fromage.md",
+ "stats": {
+  "paragraphs": 31,
+  "segments": 50,
+  "words": 699
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Une vieille sorcière demeurait dans une cabane au milieu d'une forêt sur une haute montagne."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Cette femme était très cruelle, et elle aimait manger les petits enfants."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Elle avait l'habitude de placer tous ses fromages sur le toit de sa cabane, afin d'attirer tous les enfants du voisinage."
+    },
+    {
+     "id": "p001.s04",
+     "source": "A une certaine distance de cette cabane, demeurait un pauvre paysan qui avait deux enfants, une petite fille très stupide et un garçon qui était bien intelligent."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Un jour le paysan envoya les enfants dans la forêt pour cueillir des fraises."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Ils arrivèrent bientôt à la maison de la sorcière, et comme ils avaient bien faim, le garçon grimpa sur le toit."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Il prit un fromage."
+    },
+    {
+     "id": "p002.s04",
+     "source": "La vieille sorcière entendit un petit bruit, et cria: \"Qui est là, sur mon toit?\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"Ce sont de petits anges,\" répondit le petit garçon d'une voix bien douce."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "La sorcière dit: \"Chers petits anges, mangez autant de fromage que vous voulez,\" et elle resta assise auprès du feu."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Le petit garçon prit des fromages et partit avec sa sœur."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Quelques jours après, les enfants revinrent."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Le garçon grimpa sur le toit, et la sorcière cria: \"Qui est là, sur mon toit?\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Le garçon répondit comme la première fois: \"Ce sont de petits anges!\" et la petite fille, qui aimait beaucoup causer, cria: \"Je suis là aussi!\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Alors la sorcière sortit de la maison, et saisit les deux enfants en disant: \"Oh, oui, vous êtes deux jolis petits anges et vous ferez un bon rôti."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Comment est-ce que votre mère tue ses porcs?\" demanda-t-elle."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "La petite fille dit: \"Elle leur coupe la tête avec son grand couteau.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Non, non,\" dit le garçon, \"elle leur met une corde autour du cou.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "La sorcière alla chercher une corde, la mit autour du cou du garçon, qui tomba par terre comme s'il était mort."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"Es-tu mort, maintenant?\" demanda la sorcière."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"Oui,\" répondit le garçon."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"Oh, non,\" dit la sorcière; \"tu n'es pas mort pour de bon, car tu parles encore.\""
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Le garçon répliqua: \"Je parle encore parce que ma mère engraisse toujours ses porcs avant de les rôtir."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Elle dit qu'ils sont bien meilleurs.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"Une bonne idée!\" dit la sorcière."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Elle prit les deux enfants, les mit dans une cage, et dit: \"Comment votre mère engraisse-t-elle ses porcs?\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Oh, elle leur donne du grain,\" dit la petite fille."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Non, non,\" dit le garçon, \"ma sœur se trompe, elle est si petite!"
+    },
+    {
+     "id": "p018.s02",
+     "source": "Ma mère engraisse ses porcs avec des gâteaux et du lait doux.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"Bon,\" dit la sorcière, \"c'est ce que je ferai.\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "La sorcière leur donna donc beaucoup de gâteaux et de lait doux."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Un jour elle arriva à la cage, et dit: \"J'ai mal aux yeux et je ne puis pas voir si vous êtes assez gras."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Levez le doigt que je le tâte.\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "La petite fille allait faire juste comme la vieille avait dit; mais le petit garçon prit sa place et présenta un petit bâton."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "La sorcière le tâta, et dit:"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"Vous êtes bien maigres.\""
+    },
+    {
+     "id": "p023.s02",
+     "source": "Et elle leur donna deux fois plus de gâteaux et de lait doux."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Quelques jours après, elle dit de nouveau:"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"Levez le doigt, je veux voir si vous êtes assez; gras.\""
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Le garçon tendit une queue de chou, et la vieille femme dit:"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"Oui, vous êtes assez gras.\""
+    },
+    {
+     "id": "p027.s02",
+     "source": "Elle porta les enfants dans sa cabane, et dit à la fille de faire un grand feu dans le four."
+    },
+    {
+     "id": "p027.s03",
+     "source": "Quand il fut bien chaud, elle dit aux enfants: \"Maintenant, mettez-vous sur la pelle, l'un après l'autre, et je vous mettrai au four.\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "La petite fille, toute tremblante, allait obéir, quand son frère prit sa place."
+    },
+    {
+     "id": "p028.s02",
+     "source": "Mais quand la vieille prit la pelle, il roula à terre."
+    },
+    {
+     "id": "p028.s03",
+     "source": "La sorcière se mit en colère, mais le garçon s'excusa poliment, et dit:"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "\"Madame, nous sommes bien stupides, et bien gauches, je le sais; montrez-nous comment nous placer sur la pelle!\""
+    },
+    {
+     "id": "p029.s02",
+     "source": "La sorcière se plaça sur la pelle, le garçon la poussa vite dans le four et ferma la porte."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Alors il prit tous les fromages de la sorcière, et accompagné de sa petite sœur, il rentra tout joyeux chez son père."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Quant à la sorcière, elle fut bien rôtie, et personne ne pleura sa mort."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p031"
+  }
+ ]
+}

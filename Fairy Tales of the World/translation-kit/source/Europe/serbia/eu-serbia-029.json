@@ -1,0 +1,48 @@
+{
+ "id": "eu-serbia-029",
+ "title": {
+  "id": "title",
+  "source": "The God Peroon"
+ },
+ "tradition": "Serbia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Hero Tales and Legends of the Serbians",
+ "credits": "Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)",
+ "gutenberg": "Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Serbia/029 - The God Peroon.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 5,
+  "words": 150
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Of Peroon, the Russian God of Thunder, by whom the Russian pagans used to swear in their treaties and conventions concluded with the Byzantines during the tenth century, only a few insignificant traces remain."
+    },
+    {
+     "id": "p001.s02",
+     "source": "There is a village named ‘Peroon’ near Spalato; a small number of persons in Montenegro bear the name; and it is preserved also in the name of a plant, ‘Peroonika’ ( iris ), which is dedicated to the god."
+    },
+    {
+     "id": "p001.s03",
+     "source": "There is hardly a cottage-garden in the Serbian villages where one does not see the iris growing by the side of the house-leek ( Tchuvar-Koutchye )."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The Serbians say that the god lives still in the person of St. Elias (Elijah), and Serbian peasants believe that this saint possesses the power of controlling lightning and thunder."
+    },
+    {
+     "id": "p001.s05",
+     "source": "They also believe that St. Elias has a sister ‘Ognyena Maria’ (Mary the Fiery One), who frequently acts as his counsellor."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

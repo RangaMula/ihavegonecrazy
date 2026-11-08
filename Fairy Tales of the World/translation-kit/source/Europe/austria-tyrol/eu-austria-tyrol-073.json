@@ -1,0 +1,65 @@
+{
+ "id": "eu-austria-tyrol-073",
+ "title": {
+  "id": "title",
+  "source": "The Wetter-See"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/073 - The Wetter-See.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 5,
+  "words": 272
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Close beneath the mountain Gerlos, in the Zillerthal, lies the “Wetter-See” (weather-lake), into which no one dares to throw a stone, and it is not advisable for even a stranger to do so, or he would find himself involved in great trouble from the surrounding mountaineers, among whom still exists the firm belief, which has been corroborated by hundreds of examples, that directly a stone has been thrown into the lake fearful thunderstorms arise, accompanied by devastating hail and wind."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The See lies in a desolate basin on the heights of the mountains, and every one who is shown the lake hears from his guide, or any cowherd, the following legend: A shepherd arrived one day on the borders of the See, where he saw a huge golden chain lying, the other end of which remained in the water."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Just as he stooped to grasp it he saw, glittering on the other side of the lake, one of much larger size, so he left the first to go and take the other; but as he approached it and was about to put his hand upon it, both chains disappeared under the water, while the poor fellow stood stupefied with amazement on the shore."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "People say that “the herdsman was too avaricious; for, had he been content with the one chain which was within his grasp, he would never have lost them both.”"
+    },
+    {
+     "id": "p003.s02",
+     "source": "As the chains are said to appear from time to time, people are still on the look-out for them, because they are of such enormous length that he who finds one of them would be rich during all his days."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  }
+ ]
+}

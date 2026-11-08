@@ -1,0 +1,853 @@
+{
+ "id": "eu-czech-lands-bohemia-moravia-050",
+ "title": {
+  "id": "title",
+  "source": "The Blacksmith'S Stool"
+ },
+ "tradition": "Czech lands (Bohemia, Moravia)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "The Shoemaker's Apron: A Second Book of Czechoslovak Fairy Tales and Folk Tales",
+ "credits": "Fillmore, Parker (author, d. 1944)",
+ "gutenberg": "Project Gutenberg eBook #33002 — https://www.gutenberg.org/ebooks/33002 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Czech lands (Bohemia, Moravia)/050 - The Blacksmith'S Stool.md",
+ "stats": {
+  "paragraphs": 56,
+  "segments": 124,
+  "words": 1377
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A long time ago when Lord Jesus and the blessed St. Peter walked about together on earth, it happened one evening that they stopped at a blacksmith's cottage and asked for a night's lodging."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"You are welcome,\" the blacksmith said."
+    },
+    {
+     "id": "p002.s02",
+     "source": "\"I am a poor man but whatever I have I will gladly share with you.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "He threw down his hammer and led his guests into the kitchen."
+    },
+    {
+     "id": "p003.s02",
+     "source": "There he entertained them with a good supper and after they had eaten he said to them:"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"I see that you are tired from your day's journey."
+    },
+    {
+     "id": "p004.s02",
+     "source": "There is my bed."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Lie down on it and sleep until morning.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"And where will you sleep?\""
+    },
+    {
+     "id": "p005.s02",
+     "source": "St. Peter asked."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"I?"
+    },
+    {
+     "id": "p006.s02",
+     "source": "Don't think of me,\" the blacksmith said."
+    },
+    {
+     "id": "p006.s03",
+     "source": "\"I'll go out to the barn and sleep on the straw.\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "The next morning he gave his guests a fine breakfast, and then sent them on their way with good wishes for their journey."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "As they were leaving, St. Peter plucked Lord Jesus by the sleeve and whispered:"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Master, aren't you going to reward this man?"
+    },
+    {
+     "id": "p009.s02",
+     "source": "He is poor but yet has treated us most hospitably.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Lord Jesus answered Peter:"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"The reward of this world is an empty reward."
+    },
+    {
+     "id": "p011.s02",
+     "source": "I was thinking to prepare him a place in heaven."
+    },
+    {
+     "id": "p011.s03",
+     "source": "However, I will grant him something now.\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Then he turned to the blacksmith and said:"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"Ask what you will."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Make three wishes and they will be fulfilled.\""
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "The blacksmith was overjoyed."
+    },
+    {
+     "id": "p014.s02",
+     "source": "For his first wish he said:"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"I should like to live for a hundred years and always be as strong and healthy as I am this moment.\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Lord Jesus said:"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Very well, that will be granted you."
+    },
+    {
+     "id": "p017.s02",
+     "source": "What is your second wish?\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "The blacksmith thought for a moment."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Then he said:"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"I wish that I may prosper in this world and always have as much as I need."
+    },
+    {
+     "id": "p019.s02",
+     "source": "May work in my shop always be as plentiful as it is today.\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"This, too, will be granted you,\" Lord Jesus said."
+    },
+    {
+     "id": "p020.s02",
+     "source": "\"Now for your third wish.\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Our blacksmith thought and thought, unable at first to decide on a third wish."
+    },
+    {
+     "id": "p021.s02",
+     "source": "At last he said:"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"Grant that whoever sits on the stool where you sat last night at supper may be unable to get up until I release him.\""
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "St. Peter laughed at this, but Lord Jesus nodded and said:"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"This wish, too, will be fulfilled.\""
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "So they parted, Lord Jesus and blessed St. Peter going on their way, and the blacksmith returning home to his forge."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Things came to pass as Lord Jesus had promised they should."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Work in plenty flowed into the blacksmith's shop."
+    },
+    {
+     "id": "p026.s03",
+     "source": "The years went by but they made no impression on the blacksmith."
+    },
+    {
+     "id": "p026.s04",
+     "source": "He was as young as ever and as vigorous."
+    },
+    {
+     "id": "p026.s05",
+     "source": "His friends grew old and one by one died."
+    },
+    {
+     "id": "p026.s06",
+     "source": "His children grew up, married, and had children of their own."
+    },
+    {
+     "id": "p026.s07",
+     "source": "These in turn grew up."
+    },
+    {
+     "id": "p026.s08",
+     "source": "The years brought youth and maturity and old age to them all."
+    },
+    {
+     "id": "p026.s09",
+     "source": "The blacksmith alone remained unchanged."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "A hundred years is a long time but at last even it runs out."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "One night as the blacksmith was putting away his tools, there came a knock at the door."
+    },
+    {
+     "id": "p028.s02",
+     "source": "The blacksmith stopped his singing to call out:"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "\"Who's there?\""
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "\"It is I, Death,\" a voice answered."
+    },
+    {
+     "id": "p030.s02",
+     "source": "\"Open the door, blacksmith."
+    },
+    {
+     "id": "p030.s03",
+     "source": "Your time has come.\""
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "The blacksmith threw open the door."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "\"Welcome,\" he said to the woman standing there."
+    },
+    {
+     "id": "p032.s02",
+     "source": "\"I'll be ready in a moment when I put away my tools.\""
+    },
+    {
+     "id": "p032.s03",
+     "source": "He smiled a little to himself."
+    },
+    {
+     "id": "p032.s04",
+     "source": "\"Won't you sit down on this stool, dear lady, and rest you for a moment?"
+    },
+    {
+     "id": "p032.s05",
+     "source": "You must be weary going to and fro over the earth.\""
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Death, suspecting nothing, seated herself on the stool."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "The blacksmith burst into a loud laugh."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "\"Now I have you, my lady!"
+    },
+    {
+     "id": "p035.s02",
+     "source": "Stay where you are until I release you!\""
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Death tried to stand up but could not."
+    },
+    {
+     "id": "p036.s02",
+     "source": "She squirmed this way and that."
+    },
+    {
+     "id": "p036.s03",
+     "source": "She rattled her hollow bones."
+    },
+    {
+     "id": "p036.s04",
+     "source": "She gnashed her teeth."
+    },
+    {
+     "id": "p036.s05",
+     "source": "But do what she would she could not arise from the stool."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Chuckling and singing, the blacksmith left her there and went about his business."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "But soon he found that chaining up Death had unexpected results."
+    },
+    {
+     "id": "p038.s02",
+     "source": "To begin with, he wanted at once to celebrate his escape with a feast."
+    },
+    {
+     "id": "p038.s03",
+     "source": "He had a hog which had been fattening for some time."
+    },
+    {
+     "id": "p038.s04",
+     "source": "He would slaughter this hog and chop it up into fine spicy sausages which his neighbors and friends would help him eat."
+    },
+    {
+     "id": "p038.s05",
+     "source": "The hams he would hang in the chimney to smoke."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "But when he tried to slaughter the animal, the blow of his axe had no effect."
+    },
+    {
+     "id": "p039.s02",
+     "source": "He struck the hog on the head and, to be sure, it rolled over on the ground."
+    },
+    {
+     "id": "p039.s03",
+     "source": "But when he stopped to cut the throat, the creature jumped up and with a grunt went scampering off."
+    },
+    {
+     "id": "p039.s04",
+     "source": "Before the blacksmith could recover from his surprise, the hog had disappeared."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Next he tried to kill a goose."
+    },
+    {
+     "id": "p040.s02",
+     "source": "He had a fat one which he had been stuffing for the village fair."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "\"Since those sausages have escaped me,\" he said."
+    },
+    {
+     "id": "p041.s02",
+     "source": "\"I'll have to be satisfied with roast goose.\""
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "But when he tried to cut the goose's throat, the knife drew no blood."
+    },
+    {
+     "id": "p042.s02",
+     "source": "In his surprise he loosened his hold and the goose slipped from his hands and went cackling off after the hog."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "\"What's come over things today?\" the blacksmith asked himself."
+    },
+    {
+     "id": "p043.s02",
+     "source": "\"It seems I'm not to have sausage or roast goose."
+    },
+    {
+     "id": "p043.s03",
+     "source": "I suppose I'll have to be satisfied with a pair of pigeons.\""
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "He went out to the pigeon-house and caught two pigeons."
+    },
+    {
+     "id": "p044.s02",
+     "source": "He put them on the chopping-block and with one mighty blow of his ax cut off both their heads."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "\"There!\" he cried in triumph."
+    },
+    {
+     "id": "p045.s02",
+     "source": "\"I've got you!\""
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "But even as he spoke the little severed heads returned to their bodies, the heads and bodies grew together as if nothing had happened, and cooing happily the two pigeons flew away."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "Then at last the truth flashed upon the blacksmith's mind."
+    },
+    {
+     "id": "p047.s02",
+     "source": "So long as he kept Death fastened to that stool, nothing could die!"
+    },
+    {
+     "id": "p047.s03",
+     "source": "Of course not!"
+    },
+    {
+     "id": "p047.s04",
+     "source": "So no more spicy sausages, no more smoked hams, no more roast goose—not even a broiled pigeon!"
+    },
+    {
+     "id": "p047.s05",
+     "source": "The prospect was not a pleasing one, for the blacksmith loved good things to eat."
+    },
+    {
+     "id": "p047.s06",
+     "source": "But what could he do?"
+    },
+    {
+     "id": "p047.s07",
+     "source": "Release Death?"
+    },
+    {
+     "id": "p047.s08",
+     "source": "Never that!"
+    },
+    {
+     "id": "p047.s09",
+     "source": "He would be her first victim!"
+    },
+    {
+     "id": "p047.s10",
+     "source": "Well then, if he could have no fresh meat, he would have to be content to live on peas and porridge and wheaten cakes."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "This actually was what he had to do and what every one else had to do when their old provisions were exhausted."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "Summer passed and winter followed."
+    },
+    {
+     "id": "p049.s02",
+     "source": "Then spring came bringing new and unforeseen miseries."
+    },
+    {
+     "id": "p049.s03",
+     "source": "With the first breath of warm weather all the pests and insects of the summer before revived, for not one of them had been killed by the winter cold."
+    },
+    {
+     "id": "p049.s04",
+     "source": "And the eggs they had laid all hatched out until the earth and the air and the water swarmed with living creatures."
+    },
+    {
+     "id": "p049.s05",
+     "source": "Birds and rats and grasshoppers, insects and bugs and vermin of every kind, covered the fields and ate up every green thing."
+    },
+    {
+     "id": "p049.s06",
+     "source": "The meadows looked as if a fire had swept them clean."
+    },
+    {
+     "id": "p049.s07",
+     "source": "The orchards were stripped bare of every leaf and blossom."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "Such hordes of fish and frogs and water creatures filled the lakes and the rivers that the water was polluted and it was impossible for man to drink it."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "Water and land alike were swarming with living creatures not one of which could be killed."
+    },
+    {
+     "id": "p051.s02",
+     "source": "Even the air was thick with clouds of mosquitoes and gnats and flies."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "Men and women walked about looking like tormented ghosts."
+    },
+    {
+     "id": "p052.s02",
+     "source": "They had no desire to live on but they had to live on for they could not die."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "The blacksmith came at last to a realization of all the misery which his foolish wish was bringing upon the world."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "\"I see now,\" he said, \"that God Almighty did well when He sent Death to the world."
+    },
+    {
+     "id": "p054.s02",
+     "source": "She has her work to do and I am wrong to hold her prisoner.\""
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "So he released Death from the stool and made no outcry when she put her bony fingers to his throat."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p056"
+  }
+ ]
+}

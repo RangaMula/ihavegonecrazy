@@ -1,0 +1,97 @@
+{
+ "id": "eu-sweden-046",
+ "title": {
+  "id": "title",
+  "source": "The Mountain Kitchen"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/046 - The Mountain Kitchen.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 10,
+  "words": 321
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In the parish of Bolsta there lived, many years ago, a man named Slottbon."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One summer evening he rode his horse to pasture up toward Dalo Mountain."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Just [ ] as he let the horse go, and was turning to go home, a black man confronted him and asked him if he did not wish to see the mountain kitchen."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Slottbon acquiesced and followed his conductor into the mountain, where it seemed to him certain that he must lose his senses among the glitter of gold and silver utensils of the kitchen, with which he was surrounded."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The mountain man inquired of his guest if he should order something to eat for him, to which Slottbon assented, and, while his host was absent preparing the repast, improved the opportunity to gather up all the gold and silver his leather apron would hold, and with it hasten away with all possible speed, not slacking his pace until he came to a gravel pit, where it occurred to him to look at his treasure."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Seating himself upon a stone, he began to throw the vessels, one after the other, upon the ground, where, as fast as they were thrown down, they were turned into serpents."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Thoroughly frightened at the sight, he dropped his whole burden and took to his heels, followed closely by the wriggling mass of enormous reptiles."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Finally, when he had about given himself up for lost, he came to and sprang upon the trunk of a fallen tree and cried out, “God save me, poor sinner!” and in the twinkling of an eye the serpents vanished. [ ]"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "This legend is noteworthy as being the only one, as far as the author has been able to find, in which Troll property is changed into snakes."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Usually gold is changed into shavings, and silver to pebbles and sand; otherwise it brings disaster upon the usurper of Trolldom and his family. ↑"
+    }
+   ],
+   "id": "p006"
+  }
+ ]
+}

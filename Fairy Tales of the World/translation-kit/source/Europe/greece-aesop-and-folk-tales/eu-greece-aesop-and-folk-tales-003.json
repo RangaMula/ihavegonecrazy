@@ -1,0 +1,40 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-003",
+ "title": {
+  "id": "title",
+  "source": "The Ass And The Grasshopper"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/003 - The Ass And The Grasshopper.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 55
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "AN ASS having heard some Grasshoppers chirping, was highly enchanted; and, desiring to possess the same charms of melody, demanded what sort of food they lived on to give them such beautiful voices."
+    },
+    {
+     "id": "p001.s02",
+     "source": "They replied, “The dew.”"
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Ass resolved that he would live only upon dew, and in a short time died of hunger."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

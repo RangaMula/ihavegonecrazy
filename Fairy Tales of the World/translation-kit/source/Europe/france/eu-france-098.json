@@ -1,0 +1,1737 @@
+{
+ "id": "eu-france-098",
+ "title": {
+  "id": "title",
+  "source": "Godefroi, Le Petit Ermite"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Contes et légendes. 1re Partie",
+ "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #18873 — https://www.gutenberg.org/ebooks/18873 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/098 - Godefroi, Le Petit Ermite.md",
+ "stats": {
+  "paragraphs": 92,
+  "segments": 291,
+  "words": 4083
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Il y avait une fois un pauvre homme qui avait une très grande famille."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Cet homme était pauvre, mais il était toujours occupé, il était très industrieux."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Cet homme avait une petite maison, et comme sa femme était aussi très industrieuse, la maison était toujours en ordre."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "L'homme, qui s'appelait Pierre, avait aussi un petit jardin."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Dans ce jardin il cultivait quelques arbres fruitiers, et il y cultivait aussi beaucoup de légumes."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Au printemps, en été, et en automne, cet homme industrieux travaillait dans les champs de ses voisins qui étaient plus riches que lui, et qui le payaient bien."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Il travaillait aussi pour les pêcheurs, car sa maison était près de l'eau."
+    },
+    {
+     "id": "p003.s02",
+     "source": "En hiver, quand il ne pouvait pas travailler dans les champs, et quand le temps était trop mauvais pour aller à la pêche, il restait à la maison, où il fabriquait des filets ou des paniers, qu'il vendait aux pêcheurs ou aux fermiers."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Les enfants de cet homme étaient très industrieux et très intelligents."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Le plus intelligent était Godefroi, qui avait douze ans, et qui était assez grand pour aider son père aux champs, au jardin, à la pêche, et à la fabrique de paniers et de filets."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Mais Godefroi n'était pas toujours sage."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Il aimait mieux jouer que de travailler."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Un jour le père dit à Godefroi: \"Mon fils, tu as été sage pendant une semaine, et maintenant tu mérites une récompense."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Demain matin, si le temps est beau, nous irons à l'Île Verte que tu vois en mer à une grande distance d'ici."
+    },
+    {
+     "id": "p005.s03",
+     "source": "C'est une île où demeurait mon père."
+    },
+    {
+     "id": "p005.s04",
+     "source": "Sur l'île nous trouverons beaucoup d'osier pour faire nos paniers, et nous trouverons aussi un grand noyer."
+    },
+    {
+     "id": "p005.s05",
+     "source": "Nous cueillerons les noix, et nous les apporterons à la maison, où tu pourras les manger cet hiver.\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Godefroi était naturellement enchanté."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Il se leva de bonne heure le lendemain matin, et quand il vit que le temps était superbe il s'habilla vite, et courut déjeuner."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Après déjeuner le père dit: \"Maintenant, Godefroi, aide-moi à faire les préparatifs de départ."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Voici une quantité d'objets."
+    },
+    {
+     "id": "p006.s05",
+     "source": "Porte-les au bateau.\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Godefroi vit deux petites haches, un grand manteau d'hiver, deux paniers, une corde, une marmite, un pot de lait, cinq pains, et de la viande, et il dit à son père:"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"Toutes ces choses ne sont pas nécessaires."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Un pain est assez."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Il fait chaud; pourquoi prendre ce manteau d'hiver?\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Oh!\" dit le père, \"c'est plus prudent."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Je suis allé à l'île une fois."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Une grande tempête est arrivée."
+    },
+    {
+     "id": "p009.s04",
+     "source": "J'ai été obligé de rester trois jours sur l'île."
+    },
+    {
+     "id": "p009.s05",
+     "source": "Je n'avais pas assez de provisions et j'avais froid."
+    },
+    {
+     "id": "p009.s06",
+     "source": "Maintenant, si une tempête arrive, nous aurons assez de provisions, et nous aurons un bon manteau d'hiver pour nous couvrir.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Le petit Godefroi répondit: \"Le temps est magnifique aujourd'hui; il n'y a pas de signe de tempête; c'est vraiment absurde de charger le bateau ainsi!\" car Godefroi pensait qu'il était aussi sage que son père."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Mais le père insista, et Godefroi porta tous les objets dans le bateau."
+    },
+    {
+     "id": "p011.s02",
+     "source": "La sœur de Godefroi dit: \"Voici un chapeau neuf pour toi, Godefroi, un chapeau que j'ai garni moi-même."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Regarde, j'ai mis un beau ruban vert à ton chapeau, et je l'ai attaché avec des épingles, car je n'avais pas le temps de le coudre.\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Godefroi dit adieu à sa sœur, à ses six frères et à sa bonne mère, et partit joyeusement avec son père."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "L'Île Verte était à une grande distance; elle était à une si grande distance qu'elle paraissait bien petite."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Mais bientôt l'île parut de plus en plus grande, et la maison qu'ils avaient quittée de plus en plus petite."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Quand ils arrivèrent à l'île, Godefroi dit à son père:"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"Regarde, mon père."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Notre maison paraît si petite maintenant."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Elle paraît aussi petite qu'une toute petite pierre blanche!\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"Oui,\" dit le père, \"nous avons été trois heures en bateau; nous sommes à une grande distance de la maison."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Maintenant, Godefroi, prends une hache et suis-moi.\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Le père attacha le bateau avec la corde, puis il prit une hache, et alla couper une grande quantité d'osier."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Godefroi coupa de l'osier aussi."
+    },
+    {
+     "id": "p017.s03",
+     "source": "Il arrangea les branches en fagots, et il les porta l'un après l'autre dans le bateau."
+    },
+    {
+     "id": "p017.s04",
+     "source": "A midi la provision d'osier était toute faite, et le père dit: \"Godefroi, j'ai faim, allons dîner.\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Le père et le fils allèrent au bateau."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Le père s'assit sous un grand arbre, et dit à Godefroi:"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"Va chercher le pain, le lait, la viande, et le beurre.\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Godefroi alla chercher les provisions."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Le père fit du feu."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Il mit du pain, du beurre, et du lait dans la marmite."
+    },
+    {
+     "id": "p020.s04",
+     "source": "Il mit la marmite sur le feu, et dit: \"Nous aurons une bonne soupe au lait.\""
+    },
+    {
+     "id": "p020.s05",
+     "source": "Quand la soupe fut prête, Godefroi et le père dînèrent de bon appétit."
+    },
+    {
+     "id": "p020.s06",
+     "source": "Alors le père dit: \"Godefroi, porte toutes ces choses au bateau, et alors nous irons cueillir les noix.\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"Oh! mon père,\" dit Godefroi, \"allons maintenant cueillir les noix."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Je porterai les choses dans le bateau plus tard.\""
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"Non,\" dit le père, \"porte les choses maintenant."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Un garçon devrait avoir de l'ordre."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Et ce n'est pas de l'ordre, c'est du désordre de laisser ces pains, ce beurre, ce lait, cette marmite, cette pierre à feu, et ce manteau ici sous un arbre.\""
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Godefroi obéit à regret."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Quand tous les objets furent à leur place, le père dit: \"C'est bien, mon fils; maintenant prends les paniers et suis-moi.\""
+    },
+    {
+     "id": "p023.s03",
+     "source": "Le père alla vers le centre de l'île, et arriva enfin à un grand noyer tout chargé de noix."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Le père grimpa sur l'arbre."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Il secoua l'arbre, et les noix tombèrent en grande quantité."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Godefroi remplit ses paniers."
+    },
+    {
+     "id": "p024.s04",
+     "source": "Il porta les paniers pleins de noix au bateau, les vida, et revint les remplir une seconde, et une troisième fois."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Le père était dans l'arbre, occupé à faire tomber les noix."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Godefroi était très occupé à remplir ses paniers."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Il ne remarqua pas l'approche d'une tempête."
+    },
+    {
+     "id": "p025.s04",
+     "source": "Son père ne la remarqua pas non plus."
+    },
+    {
+     "id": "p025.s05",
+     "source": "Godefroi était dans le bateau."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Il vidait ses paniers pour la quatrième fois, quand une grande vague arriva et enleva le bateau."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Godefroi saisit les rames pour ramener le bateau à terre, mais les vagues emportèrent les rames."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Alors le pauvre garçon commença à crier."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Son père arriva au rivage, juste à temps pour voir disparaître le petit bateau, qui était emporté par les vagues avec une grande rapidité."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Le pauvre homme pensa: \"Mon enfant, mon pauvre enfant est mort."
+    },
+    {
+     "id": "p027.s03",
+     "source": "Il a péri dans les vagues!\""
+    },
+    {
+     "id": "p027.s04",
+     "source": "Et il pleura beaucoup."
+    },
+    {
+     "id": "p027.s05",
+     "source": "La mère de Godefroi avait vu la tempête, et dit: \"Oh, voici une tempête terrible!"
+    },
+    {
+     "id": "p027.s06",
+     "source": "J'espère bien que mon mari et Godefroi sont restés sur l'île.\""
+    },
+    {
+     "id": "p027.s07",
+     "source": "Elle pria toute la nuit."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Le lendemain la mer était calme, mais le père et Godefroi n'arrivèrent pas."
+    },
+    {
+     "id": "p028.s02",
+     "source": "Alors la pauvre femme alla chez un riche voisin appelé Thomas et lui dit que son mari et son fils n'étaient pas revenus de l'Île Verte."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Le voisin, compatissant, dit: \"Ne pleurez pas, pauvre femme."
+    },
+    {
+     "id": "p029.s02",
+     "source": "Il est probable que la tempête a emporté le bateau."
+    },
+    {
+     "id": "p029.s03",
+     "source": "Mais votre mari et Godefroi sont, sans doute, sur l'île."
+    },
+    {
+     "id": "p029.s04",
+     "source": "Je vais partir immédiatement pour aller les chercher.\""
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Le brave homme partit immédiatement, et avant la nuit il revint avec le pauvre père, qui raconta, en pleurant, que le bateau avait été emporté par la tempête et que le pauvre Godefroi avait sans doute péri."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Toute la famille pleura beaucoup, et la mère resta inconsolable."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Mais Godefroi n'avait pas péri."
+    },
+    {
+     "id": "p031.s02",
+     "source": "Le vaisseau, emporté rapidement par la tempête, avait disparu dans l'obscurité."
+    },
+    {
+     "id": "p031.s03",
+     "source": "Le pauvre petit Godefroi, pâle d'effroi (de terreur), commença à prier avec ferveur: \"Bon Dieu, sauvez-moi!\""
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Après avoir voyagé quelque temps dans l'obscurité, le vaisseau fut jeté sur un rocher."
+    },
+    {
+     "id": "p032.s02",
+     "source": "Le choc fut terrible, et Godefroi sortit vite du bateau, et tomba sur le rocher."
+    },
+    {
+     "id": "p032.s03",
+     "source": "Quand la tempête fut finie, le pauvre garçon s'aperçut qu'il était sur une île."
+    },
+    {
+     "id": "p032.s04",
+     "source": "Son bateau avait été jeté dans une petite anse (baie) entre deux grands rochers."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Il regarda de tous côtés, et ne vit rien que les rochers, et l'immensité du ciel et de la mer."
+    },
+    {
+     "id": "p033.s02",
+     "source": "Après quelques minutes, cependant, il aperçut l'Île Verte à l'horizon, mais elle était à une grande distance et ne paraissait pas plus grande qu'une petite plante."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Godefroi courut à son bateau, en disant: \"L'Île Verte est là, il faut que je retourne à l'Île Verte!\""
+    },
+    {
+     "id": "p034.s02",
+     "source": "Mais au bout de quelques minutes il vit que c'était impossible."
+    },
+    {
+     "id": "p034.s03",
+     "source": "Le bateau était brisé (cassé)."
+    },
+    {
+     "id": "p034.s04",
+     "source": "Il vit que les rames étaient parties aussi."
+    },
+    {
+     "id": "p034.s05",
+     "source": "Alors Godefroi commença à pleurer."
+    },
+    {
+     "id": "p034.s06",
+     "source": "Mais il n'y avait personne pour le consoler, personne pour l'aider, et Godefroi essuya enfin ses larmes."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Il alla prendre du pain et des noix dans le bateau, mangea tristement son souper, et quand la nuit arriva, il s'enveloppa dans le grand manteau d'hiver de son père, se coucha sur le rocher, et s'endormit en pleurant."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Le lendemain matin il se réveilla."
+    },
+    {
+     "id": "p035.s03",
+     "source": "Le soleil était chaud, bien chaud."
+    },
+    {
+     "id": "p035.s04",
+     "source": "\"Oh!\" dit Godefroi, \"j'ai soif!"
+    },
+    {
+     "id": "p035.s05",
+     "source": "J'ai bien soif; où y a-t-il de l'eau?\""
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "La mer était là, mais l'eau de mer est très désagréable."
+    },
+    {
+     "id": "p036.s02",
+     "source": "Elle est très salée, et il est impossible de la boire."
+    },
+    {
+     "id": "p036.s03",
+     "source": "Le pauvre Godefroi regarda de tous côtés."
+    },
+    {
+     "id": "p036.s04",
+     "source": "Enfin il se décida à quitter le rocher où la tempête l'avait jeté, et à aller chercher une fontaine dans l'île."
+    },
+    {
+     "id": "p036.s05",
+     "source": "Il prit du pain et des noix dans sa poche, il mit son chapeau sur la tête, il prit une des petites haches et un bâton et partit."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Il marcha longtemps, longtemps, et découvrit que l'île était formée d'une grande masse de rochers."
+    },
+    {
+     "id": "p037.s02",
+     "source": "Au centre de l'île il y avait deux pics très élevés."
+    },
+    {
+     "id": "p037.s03",
+     "source": "Les rochers de l'île étaient chauffés par le soleil, et la soif du pauvre Godefroi était toujours plus ardente."
+    },
+    {
+     "id": "p037.s04",
+     "source": "Il souffrait beaucoup."
+    },
+    {
+     "id": "p037.s05",
+     "source": "Enfin il tomba à genoux en pleurant, et dit:"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "\"Mon Dieu, faites-moi trouver de l'eau, ou je mourrai de soif!\""
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "A cet instant il entendit un petit murmure, et en descendant dans un petit ravin il trouva une source d'eau claire."
+    },
+    {
+     "id": "p039.s02",
+     "source": "Quelle joie pour Godefroi!"
+    },
+    {
+     "id": "p039.s03",
+     "source": "Il but avec plaisir, et alors il tomba à genoux, et remercia Dieu qui lui avait montré cette source d'eau fraîche."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Alors Godefroi mangea son pain et ses noix, et quand il eut fini ce dîner frugal, il gravit (grimpa) la plus haute des deux montagnes."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "Du sommet de la montagne il vit la vaste mer, et près de l'horizon l'Île Verte, qui paraissait si petite."
+    },
+    {
+     "id": "p041.s02",
+     "source": "Godefroi vit aussi beaucoup de vaisseaux qui suivaient la ligne de l'horizon, mais qui ne s'approchaient pas de son île, qui était vraiment dangereuse parce qu'elle était entièrement composée de rochers."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "Godefroi descendit de la montagne, il retourna au bateau, il mangea du pain et des noix, il s'enveloppa dans son manteau, et passa une seconde nuit sur l'île déserte, après avoir pensé à ses parents et après avoir récité sa prière du soir."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "Quand le matin arriva, Godefroi vit avec détresse que sa provision de pain était bien petite: \"Oh!\" dit-il, \"je n'ai que peu de pain."
+    },
+    {
+     "id": "p043.s02",
+     "source": "J'ai examiné toute l'île hier, depuis le sommet de la montagne, et je n'ai pas vu une seule plante ou un seul arbre fruitier."
+    },
+    {
+     "id": "p043.s03",
+     "source": "J'ai vu de la mousse et des sapins, mais il est impossible de manger de la mousse ou du bois de sapin."
+    },
+    {
+     "id": "p043.s04",
+     "source": "Je suis sûr que je mourrai de faim ici sur cette île déserte, car mon père m'a souvent dit que l'Île Verte était la seule île sur nos côtes."
+    },
+    {
+     "id": "p043.s05",
+     "source": "Il ne sait donc pas que cette île existe, et il ne pensera pas à venir me chercher ici!\""
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "Le pauvre Godefroi mangea aussi peu que possible, mais hélas! son pain diminua bien rapidement."
+    },
+    {
+     "id": "p044.s02",
+     "source": "Il alla dans toutes les directions pour trouver des provisions, mais il ne trouva rien, absolument rien."
+    },
+    {
+     "id": "p044.s03",
+     "source": "Enfin Godefroi mangea son dernier morceau de pain, et ses dernières noix, et s'assit tristement au bord de la fontaine, en pensant qu'il serait bientôt mort de faim."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "Son attention fut bientôt attirée par les poissons qui nageaient dans l'eau limpide: \"Oh!\" dit-il, \"si j'avais seulement une ligne, des hameçons, et un filet, je pourrais prendre des poissons!\""
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "Tout à coup il vit son chapeau."
+    },
+    {
+     "id": "p046.s02",
+     "source": "Le ruban vert que sa sœur avait attaché avec des épingles attira son attention."
+    },
+    {
+     "id": "p046.s03",
+     "source": "Il prit une épingle, et la courba."
+    },
+    {
+     "id": "p046.s04",
+     "source": "Puis il effila le ruban."
+    },
+    {
+     "id": "p046.s05",
+     "source": "Il tressa les fils avec beaucoup de soin et fit une ligne."
+    },
+    {
+     "id": "p046.s06",
+     "source": "Il attacha l'épingle à une extrémité de la ligne."
+    },
+    {
+     "id": "p046.s07",
+     "source": "Il attacha une branche d'osier à l'autre extrémité."
+    },
+    {
+     "id": "p046.s08",
+     "source": "Alors il chercha et trouva un ver."
+    },
+    {
+     "id": "p046.s09",
+     "source": "Il attacha ce ver à son épingle, et jeta son hameçon à l'eau."
+    },
+    {
+     "id": "p046.s10",
+     "source": "Quelques minutes après Godefroi dansait de joie, car il avait attrapé un poisson!"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "Il courut au bateau, chercha sa pierre à feu, ramassa de la mousse sèche, et en quelques minutes il eut un bon feu."
+    },
+    {
+     "id": "p047.s02",
+     "source": "Alors il suspendit la marmite sur le feu."
+    },
+    {
+     "id": "p047.s03",
+     "source": "Il mit de l'eau fraîche de la fontaine dans la marmite, et il mit aussi son poisson dans la marmite."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "\"Oh!\" dit-il, \"quelle bonne chose que j'aie porté toutes les choses dans la barque (bateau) après notre dîner."
+    },
+    {
+     "id": "p048.s02",
+     "source": "Si j'avais laissé le pain, le beurre, la viande, la marmite, la pierre à feu, les haches et le manteau sous le grand arbre, où j'ai dîné avec mon père, je serais mort de faim sûrement."
+    },
+    {
+     "id": "p048.s03",
+     "source": "Mon père avait bien raison; l'ordre est une bonne chose!\""
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "Quand le poisson fut prêt, Godefroi le mangea de bon appétit."
+    },
+    {
+     "id": "p049.s02",
+     "source": "Le poisson n'était pas très bon, cependant, car Godefroi n'avait pas de sel, mais bientôt il trouva du sel sur les rochers, du sel laissé par les vagues."
+    },
+    {
+     "id": "p049.s03",
+     "source": "Godefroi passa dès lors une grande partie de son temps à pêcher."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "Il fabriqua un gros hameçon avec un clou."
+    },
+    {
+     "id": "p050.s02",
+     "source": "Cette opération fut très difficile."
+    },
+    {
+     "id": "p050.s03",
+     "source": "Godefroi aiguisa (fit une pointe) le clou sur une pierre."
+    },
+    {
+     "id": "p050.s04",
+     "source": "Il le courba aussi sur une pierre."
+    },
+    {
+     "id": "p050.s05",
+     "source": "Il effila sa cravate pour faire une ligne solide, et enfin il attrapa de gros poissons de mer."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "Un jour il arriva une grande tempête."
+    },
+    {
+     "id": "p051.s02",
+     "source": "Le pauvre Godefroi était malheureux."
+    },
+    {
+     "id": "p051.s03",
+     "source": "Il ne pouvait pas pêcher, car les vagues étaient terribles."
+    },
+    {
+     "id": "p051.s04",
+     "source": "Les poissons ne venaient pas à la surface."
+    },
+    {
+     "id": "p051.s05",
+     "source": "La pluie tombait, et Godefroi était très inconfortable."
+    },
+    {
+     "id": "p051.s06",
+     "source": "Le vent était froid, très froid."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "Le pauvre Godefroi pleura beaucoup, et quand la tempête fut dissipée, et quand il eut satisfait son appétit, il dit:"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "\"L'automne arrive."
+    },
+    {
+     "id": "p053.s02",
+     "source": "Il est certain que l'hiver arrivera bientôt aussi."
+    },
+    {
+     "id": "p053.s03",
+     "source": "Il faut que je trouve une grotte, ou je mourrai de froid!\""
+    },
+    {
+     "id": "p053.s04",
+     "source": "Godefroi chercha longtemps parmi les rochers, et enfin il trouva une grotte, près de la fontaine."
+    },
+    {
+     "id": "p053.s05",
+     "source": "Cette grotte était si bien cachée par deux sapins qu'il ne l'avait pas vue."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "La grotte était sèche."
+    },
+    {
+     "id": "p054.s02",
+     "source": "Godefroi sécha une grande quantité de mousse sur les rochers."
+    },
+    {
+     "id": "p054.s03",
+     "source": "Il porta cette mousse sèche dans la grotte et en fit un bon lit."
+    },
+    {
+     "id": "p054.s04",
+     "source": "Il sécha le manteau de son père, et il le porta aussi dans la grotte."
+    },
+    {
+     "id": "p054.s05",
+     "source": "Il y porta aussi la marmite, les cruches, les haches, la pierre à feu, la corde, et même les clous et les planches du bateau, car la dernière tempête avait complètement démoli le pauvre bateau."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "Alors Godefroi dit: \"Si j'avais un réservoir, je pourrais y mettre mes poissons, et même quand le temps est mauvais, je pourrais avoir à manger.\""
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "Godefroi chercha beaucoup, et il trouva enfin une bonne place."
+    },
+    {
+     "id": "p056.s02",
+     "source": "Il fit une bonne digue avec des pierres, il conduisit l'eau de la fontaine dans ce bassin par un petit canal, et il mit dans le bassin une partie des poissons qu'il attrapait."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "Il coupa aussi des sapins avec sa hache, fit des fagots des petites branches, et des bûches des grandes branches."
+    },
+    {
+     "id": "p057.s02",
+     "source": "Il porta ce bois dans le ravin où était sa grotte, pour y faire du feu en hiver."
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "L'hiver arriva bientôt."
+    },
+    {
+     "id": "p058.s02",
+     "source": "Le pauvre Godefroi fit une porte pour sa grotte en tressant les branches d'osier qu'il avait apportées de l'Île Verte."
+    },
+    {
+     "id": "p058.s03",
+     "source": "Il ferma toutes les ouvertures avec de la mousse, et il attacha la porte à deux grands arbres placés de chaque côté de l'entrée de sa grotte."
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "La neige commença à tomber, et Godefroi, qui ne pouvait pas faire de feu dans sa grotte à cause de la fumée, construisit une petite cuisine dans la vallée."
+    },
+    {
+     "id": "p059.s02",
+     "source": "Il prit des pierres et fit un mur."
+    },
+    {
+     "id": "p059.s03",
+     "source": "Ce mur et un grand rocher formaient trois côtés de la cuisine."
+    },
+    {
+     "id": "p059.s04",
+     "source": "Le quatrième côté était ouvert, et le toit était formé des planches du bateau."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "Godefroi y passait une partie de la journée, assis près de son feu."
+    },
+    {
+     "id": "p060.s02",
+     "source": "Pour s'occuper, il fabriqua une table et un banc des planches du vaisseau."
+    },
+    {
+     "id": "p060.s03",
+     "source": "Il arrangea d'autres lignes."
+    },
+    {
+     "id": "p060.s04",
+     "source": "Il arrangea un autre hameçon."
+    },
+    {
+     "id": "p060.s05",
+     "source": "Il prit un clou, il le chauffa dans le feu comme il avait vu faire au forgeron du village."
+    },
+    {
+     "id": "p060.s06",
+     "source": "Il fit une bonne pointe au clou, car il avait une pierre comme enclume, et sa hache comme marteau."
+    },
+    {
+     "id": "p060.s07",
+     "source": "Il fit aussi deux barbes à l'hameçon."
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "Enfin le printemps arriva."
+    },
+    {
+     "id": "p061.s02",
+     "source": "Godefroi, qui espérait toujours être sauvé, vit beaucoup de vaisseaux, qui, hélas! passaient toujours loin de l'île, trop loin pour voir ses signaux désespérés."
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "Godefroi trouva une petite anse où il y avait du sable fin, et là il trouva aussi des moules et des huîtres."
+    },
+    {
+     "id": "p062.s02",
+     "source": "Il mangea les moules et les huîtres avec plaisir, et il trouva des perles dans les coquilles."
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "\"Oh!\" dit-il, \"mon père m'a dit que les perles étaient précieuses."
+    },
+    {
+     "id": "p063.s02",
+     "source": "Je vais trouver autant de perles que possible, et si j'arrive jamais chez mon père, je lui donnerai ces perles, et il ne sera plus pauvre.\""
+    },
+    {
+     "id": "p063.s03",
+     "source": "Godefroi trouva beaucoup de perles; et il trouva aussi des branches de corail, de corail rouge."
+    },
+    {
+     "id": "p063.s04",
+     "source": "Il plaça les perles et le corail dans un petit panier qu'il tressa lui-même."
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "Une année s'était passée depuis que Godefroi était arrivé dans l'île, une année entière."
+    },
+    {
+     "id": "p064.s02",
+     "source": "Les habits du pauvre enfant étaient usés, entièrement usés."
+    },
+    {
+     "id": "p064.s03",
+     "source": "Godefroi coupa le manteau de son père, et en fit une espèce de robe, comme celle que portaient les moines qui passaient dans le village."
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "Tout l'été Godefroi pêcha, et coupa du bois, car il voulait avoir une grande provision de bois pour l'hiver, qui arrivait rapidement."
+    },
+    {
+     "id": "p065.s02",
+     "source": "Un jour il dit, \"Aujourd'hui j'irai de l'autre côté du ravin couper du bois.\""
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "Il partit, mais quand il arriva à midi dans son ravin, il leva les mains d'horreur."
+    },
+    {
+     "id": "p066.s02",
+     "source": "Le ravin était en feu!"
+    },
+    {
+     "id": "p066.s03",
+     "source": "Il avait laissé un peu de feu dans la cuisine."
+    },
+    {
+     "id": "p066.s04",
+     "source": "Le vent avait attisé le feu."
+    },
+    {
+     "id": "p066.s05",
+     "source": "La provision de bois était toute en flammes."
+    },
+    {
+     "id": "p066.s06",
+     "source": "Le toit de la cuisine était brûlé."
+    },
+    {
+     "id": "p066.s07",
+     "source": "Les lignes à pêche étaient brûlées."
+    },
+    {
+     "id": "p066.s08",
+     "source": "La porte de la maison, sa table, le banc, tout, tout était détruit!"
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "Le pauvre Godefroi tomba à genoux, et dit: \"Hélas! maintenant il faudra bien mourir."
+    },
+    {
+     "id": "p067.s02",
+     "source": "Voici l'hiver, je n'ai plus rien que ma hache et ma robe."
+    },
+    {
+     "id": "p067.s03",
+     "source": "Ma provision de bois que j'ai obtenu par mon travail, mes lignes, mes pauvres lignes, tout est perdu!\""
+    },
+    {
+     "id": "p067.s04",
+     "source": "Et il regarda tristement la fumée noire, qui montait vers le ciel."
+    },
+    {
+     "id": "p067.s05",
+     "source": "Pauvre petit Godefroi, il était en effet bien malheureux."
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "La veille, le père de Godefroi avait dit à sa famille: \"Il faut que je visite l'Île Verte."
+    },
+    {
+     "id": "p068.s02",
+     "source": "Ma provision d'osier est épuisée.\""
+    },
+    {
+     "id": "p068.s03",
+     "source": "Il partit donc avec deux enfants, et il promit à sa femme qu'il ne permettrait pas aux enfants d'entrer dans le bateau sans lui."
+    },
+    {
+     "id": "p068.s04",
+     "source": "La pauvre femme les laissa partir à regret, car elle pensait toujours au pauvre petit Godefroi."
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "Le père et les enfants arrivèrent à l'Île Verte sans accident."
+    },
+    {
+     "id": "p069.s02",
+     "source": "Ils coupèrent l'osier, et quand la provision fut finie, la petite fille dit à son père:"
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "\"Papa, viens avec nous sur la montagne."
+    },
+    {
+     "id": "p070.s02",
+     "source": "J'aimerais tant gravir une montagne!\""
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "Le père consentit."
+    },
+    {
+     "id": "p071.s02",
+     "source": "Ils arrivèrent bientôt au sommet de la montagne, et ils regardèrent leur maison, qui paraissait bien petite."
+    },
+    {
+     "id": "p071.s03",
+     "source": "Alors ils se tournèrent et regardèrent la mer."
+    },
+    {
+     "id": "p071.s04",
+     "source": "Tout à coup la petite fille dit: \"Papa, regarde là-bas."
+    },
+    {
+     "id": "p071.s05",
+     "source": "Voilà quelque chose qui ressemble à de la fumée.\""
+    },
+    {
+     "id": "p071.s06",
+     "source": "Le père regarda, et dit:"
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "\"C'est de la fumée."
+    },
+    {
+     "id": "p072.s02",
+     "source": "C'est probablement un vaisseau en feu!\""
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "\"Non,\" dit le petit garçon, \"ce n'est pas un vaisseau, papa, je suis sûr que c'est un volcan, comme j'ai vu dans ma géographie à l'école!\""
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "Le père regarda attentivement, et dit enfin: \"C'est curieux, mais je crois distinguer deux montagnes."
+    },
+    {
+     "id": "p074.s02",
+     "source": "On dirait une île."
+    },
+    {
+     "id": "p074.s03",
+     "source": "Je n'ai jamais entendu parler d'une île dans cette direction-là!\""
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "\"Oh, papa,\" dit la petite fille, \"s'il y a une île là, peut-être qu'elle est habitée."
+    },
+    {
+     "id": "p075.s02",
+     "source": "Peut-être que notre frère Godefroi est là, sur cette île, car c'est dans cette direction-là que la tempête a emporté le bateau.\""
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "Le père, qui avait eu la même pensée, commença à trembler."
+    },
+    {
+     "id": "p076.s02",
+     "source": "Enfin il dit: \"C'est possible, mon enfant, c'est possible."
+    },
+    {
+     "id": "p076.s03",
+     "source": "Rentrons vite à la maison."
+    },
+    {
+     "id": "p076.s04",
+     "source": "Je parlerai au bon voisin Thomas."
+    },
+    {
+     "id": "p076.s05",
+     "source": "Il me prêtera peut-être son bateau à voile, et j'irai à cette île!\""
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "Les enfants descendirent la montagne, et s'embarquèrent vite."
+    },
+    {
+     "id": "p077.s02",
+     "source": "Arrivés à la maison, les enfants et le père racontèrent ce qu'ils avaient vu, et le cœur de la pauvre mère battit plus fort de joie."
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "\"Va vite chez le voisin Thomas,\" dit-elle à son mari."
+    },
+    {
+     "id": "p078.s02",
+     "source": "\"Il a un bateau à voile."
+    },
+    {
+     "id": "p078.s03",
+     "source": "Il est compatissant; il nous aidera, j'en suis sûre!\""
+    }
+   ],
+   "id": "p078"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p079.s01",
+     "source": "Le père alla chez Thomas, et lui raconta tout."
+    },
+    {
+     "id": "p079.s02",
+     "source": "\"C'est possible,\" dit Thomas."
+    },
+    {
+     "id": "p079.s03",
+     "source": "\"Et demain matin, si le temps est favorable, nous partirons, vous et moi, et mon voisin Jean, et nous irons à cette île.\""
+    }
+   ],
+   "id": "p079"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p080.s01",
+     "source": "Le lendemain ils partirent par un temps magnifique, et avant le coucher du soleil, ils arrivèrent tout près de l'île."
+    },
+    {
+     "id": "p080.s02",
+     "source": "L'île paraissait déserte."
+    },
+    {
+     "id": "p080.s03",
+     "source": "Il n'y avait pas un signe d'habitation."
+    },
+    {
+     "id": "p080.s04",
+     "source": "Il n'y avait plus de fumée."
+    }
+   ],
+   "id": "p080"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p081.s01",
+     "source": "\"L'île est déserte!\" dit Thomas tristement."
+    },
+    {
+     "id": "p081.s02",
+     "source": "\"Elle est complètement déserte.\""
+    }
+   ],
+   "id": "p081"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p082.s01",
+     "source": "Le père de Godefroi regarda aussi tristement ces rochers inhospitaliers, mais il dit: \"Il est tard; débarquons, et nous chercherons dans l'île."
+    },
+    {
+     "id": "p082.s02",
+     "source": "Peut-être que le corps de mon pauvre enfant a été jeté ici.\""
+    }
+   ],
+   "id": "p082"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p083.s01",
+     "source": "Ils débarquèrent et commencèrent à chercher."
+    },
+    {
+     "id": "p083.s02",
+     "source": "Enfin ils arrivèrent dans la petite vallée, toute noircie par le feu de la veille (jour avant)."
+    },
+    {
+     "id": "p083.s03",
+     "source": "Là ils virent un moine à genoux."
+    },
+    {
+     "id": "p083.s04",
+     "source": "Le père s'approcha, et dit d'une voix tremblante: \"Mon père, mon brave ermite, avez-vous vu un petit garçon nommé Godefroi ...\""
+    }
+   ],
+   "id": "p083"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p084.s01",
+     "source": "Le père ne put finir, car le moine s'était précipité dans ses bras."
+    },
+    {
+     "id": "p084.s02",
+     "source": "Ce moine, cet ermite, c'était Godefroi lui-même!"
+    }
+   ],
+   "id": "p084"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p085.s01",
+     "source": "Après quelques minutes de grande émotion Godefroi raconta ses aventures à son père."
+    },
+    {
+     "id": "p085.s02",
+     "source": "Il lui raconta comment il était arrivé à l'île, comment il avait fabriqué des lignes et des hameçons, comment il avait passé le long hiver."
+    },
+    {
+     "id": "p085.s03",
+     "source": "Il lui dit combien il avait travaillé pour faire une grande provision de bois pour son second hiver, et il décrivit son désespoir quand il découvrit que le feu avait tout détruit."
+    }
+   ],
+   "id": "p085"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p086.s01",
+     "source": "\"J'ai pensé que Dieu m'avait abandonné,\" dit Godefroi."
+    }
+   ],
+   "id": "p086"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p087.s01",
+     "source": "\"Oh! mon fils,\" dit le père, \"au contraire!"
+    },
+    {
+     "id": "p087.s02",
+     "source": "Car, sans cet accident, ta petite sœur n'aurait pas remarqué cette île, nous n'aurions pas pensé que peut-être la tempête t'y avait jeté, et nous ne serions pas venus ici aujourd'hui pour te trouver!\""
+    }
+   ],
+   "id": "p087"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p088.s01",
+     "source": "Le lendemain Godefroi s'embarqua avec Pierre, Thomas et Jean, et avant le soir il arriva à la maison où il fut reçu avec une joie que je vous laisse imaginer, car il est impossible de la décrire en quelques mots."
+    }
+   ],
+   "id": "p088"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p089.s01",
+     "source": "Thomas était si content du succès de son entreprise qu'il invita toute la famille et tout le village à dîner chez lui."
+    },
+    {
+     "id": "p089.s02",
+     "source": "Au dessert Godefroi raconta toutes ses aventures, et tout le monde admira le courage qu'il avait montré."
+    },
+    {
+     "id": "p089.s03",
+     "source": "Godefroi donna à son père les perles et le corail, les seules choses que le feu avait épargnées, et le père, heureux et fier de son fils, les montra à tout le monde."
+    }
+   ],
+   "id": "p089"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p090.s01",
+     "source": "Un marchand de corail offrit d'acheter le corail et les perles, et lui donna une bonne somme d'argent."
+    },
+    {
+     "id": "p090.s02",
+     "source": "Cet argent permit à Pierre de donner une excellente éducation à tous ses enfants, et surtout à Godefroi qui en profita bien."
+    }
+   ],
+   "id": "p090"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p091.s01",
+     "source": "Godefroi alla à l'école et apprit beaucoup de choses, mais les leçons de patience, de persévérance et de foi, qu'il avait apprises tout seul dans son île déserte, étaient les plus précieuses de toutes."
+    },
+    {
+     "id": "p091.s02",
+     "source": "Il ne les oublia jamais, et même quand il fut très âgé il disait souvent à ses petits-enfants: \"Il ne faut jamais désespérer."
+    },
+    {
+     "id": "p091.s03",
+     "source": "Dieu fait notre fortune de nos infortunes."
+    },
+    {
+     "id": "p091.s04",
+     "source": "Les choses qui paraissent impossibles à l'homme sont possibles à Dieu, car rien ne Lui est impossible.\""
+    }
+   ],
+   "id": "p091"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p092"
+  }
+ ]
+}

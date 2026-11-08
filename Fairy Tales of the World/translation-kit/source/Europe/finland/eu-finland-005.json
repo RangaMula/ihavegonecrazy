@@ -1,0 +1,792 @@
+{
+ "id": "eu-finland-005",
+ "title": {
+  "id": "title",
+  "source": "Adventure Ii The Partners"
+ },
+ "tradition": "Finland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Mighty Mikko: A Book of Finnish Fairy Tales and Folk Tales",
+ "credits": "Fillmore, Parker (author, d. 1944)",
+ "gutenberg": "Project Gutenberg eBook #38112 — https://www.gutenberg.org/ebooks/38112 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Finland/005 - Adventure Ii The Partners.md",
+ "stats": {
+  "paragraphs": 59,
+  "segments": 104,
+  "words": 1206
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The Bear and the Wolf and the Fox made houses quite close together and the Wolf and the Fox decided to go into partnership."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“The first thing we ought to do,” said Pekka, the Wolf, “is make a clearing in the forest and plant some crops.”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The Fox agreed and the very next day they started out to work."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Each had a crock with three pats of butter for his dinner."
+    },
+    {
+     "id": "p003.s03",
+     "source": "They left their crocks in the cool water of a little spring in the forest not far from the place where they had decided to make a clearing."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "It was hard work felling trees and the Fox, soon tiring of it, made some sort of excuse to run off."
+    },
+    {
+     "id": "p004.s02",
+     "source": "When he came back he said to the Wolf:"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Pekka, the folks at the Farm are having a christening and have sent me an invitation to attend.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“It’s too bad we’re so busy to-day,” the Wolf said."
+    },
+    {
+     "id": "p006.s02",
+     "source": "“Another day you might have gone.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“But I must go,” the Fox insisted."
+    },
+    {
+     "id": "p007.s02",
+     "source": "“They’ve been good neighbors to us and they’d be insulted if I refused.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Very well,” the Wolf said, “if you feel that way about it you better go."
+    },
+    {
+     "id": "p008.s02",
+     "source": "But hurry back for we have a lot to do.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "So the Fox trotted off but he got no farther than the spring where the butter crocks were cooling."
+    },
+    {
+     "id": "p009.s02",
+     "source": "He took the Wolf’s crock and licked off the top layer of butter."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Then after a while he went back to the clearing."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“Well, Mikko,” the Wolf said, “is the christening over?”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Yes, it’s over.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“What did they name the child?”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“They named it Top.”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“Top?"
+    },
+    {
+     "id": "p014.s02",
+     "source": "That’s a strange name!”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "In a few moments the Fox again ran off and returned with the announcement that there was to be another christening at the Farm and again they wanted him to attend."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“Another christening!” the Wolf exclaimed."
+    },
+    {
+     "id": "p016.s02",
+     "source": "“How can that be?”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“This time the daughter has a baby.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“You’re not going, are you, Mikko?"
+    },
+    {
+     "id": "p018.s02",
+     "source": "You can’t always be going to christenings.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“That’s true, Pekka, that’s true,” said the Fox, “but I think I must go this time.”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "The Wolf sighed."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“You will hurry back, won’t you?"
+    },
+    {
+     "id": "p021.s02",
+     "source": "This work is too much for me alone.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“Yes, Pekka dear,” the Fox promised, “I’ll hurry back as quickly as I can.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "So he trotted off again to the spring and the Wolf’s butter crock."
+    },
+    {
+     "id": "p023.s02",
+     "source": "This time he ate the middle pat of the Wolf’s butter, then slowly sauntered back to the clearing."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“Well,” said the Wolf, pausing a moment in his work, “what did they name the baby this time?”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“This one they named Middle.”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“Middle?"
+    },
+    {
+     "id": "p026.s02",
+     "source": "That’s a strange name to give a baby!”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "For a few moments the Fox pretended to work hard."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Then he ran off again."
+    },
+    {
+     "id": "p027.s03",
+     "source": "When he came back, he said:"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“Pekka, do you know they’re having another christening at the Farm and they say that I just must come.”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“Another christening!"
+    },
+    {
+     "id": "p029.s02",
+     "source": "Now, Mikko, that’s too much!"
+    },
+    {
+     "id": "p029.s03",
+     "source": "How can they be having another christening?”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Well, this time it’s the daughter-in-law that has a baby.”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“I don’t care who it is,” the Wolf said, “you just can’t go."
+    },
+    {
+     "id": "p031.s02",
+     "source": "You’ve got some work to do, you have!”"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "The Fox agreed:"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“You’re right, Pekka, you’re right!"
+    },
+    {
+     "id": "p033.s02",
+     "source": "I’m entirely too busy to be running off all the time to christenings!"
+    },
+    {
+     "id": "p033.s03",
+     "source": "I’d say, ‘No!’ in a minute if it wasn’t that we are new settlers and they are our nearest neighbors."
+    },
+    {
+     "id": "p033.s04",
+     "source": "As it is I’m afraid they’d think it wasn’t neighborly if I didn’t come."
+    },
+    {
+     "id": "p033.s05",
+     "source": "But I’ll hurry back, I promise you!”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "So for the third time the Fox trotted off to the little spring and this time he licked the Wolf’s butter crock clean to the bottom."
+    },
+    {
+     "id": "p034.s02",
+     "source": "Then he went slowly back to the clearing and told the Wolf about the christening and the baby."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“They’ve named this one Bottom,” he said."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "“Bottom!” the Wolf echoed."
+    },
+    {
+     "id": "p036.s02",
+     "source": "“What funny names they give children nowadays!”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "The Fox pretended to work hard for a few minutes, then threw himself down exhausted."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“Wake up, Pekka!"
+    },
+    {
+     "id": "p038.s02",
+     "source": "Wake up!"
+    },
+    {
+     "id": "p038.s03",
+     "source": "There’s butter running out of your nose!”"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“Heigh ho!” he said, with a yawn, “I’m so tired and hungry it must be dinner time!”"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "The Wolf looked at the sun and said:"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "“Yes, I think we had better rest now and eat.”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "So they went to the spring and got their butter crocks."
+    },
+    {
+     "id": "p042.s02",
+     "source": "The Wolf found that his had already been licked clean."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“Mikko!” he cried, “have you been at my butter?”"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“Me?” the Fox said in a tone of great innocence."
+    },
+    {
+     "id": "p044.s02",
+     "source": "“How could I have been at your butter when you know perfectly well that I’ve been working right beside you all morning except when I was away at the christenings?"
+    },
+    {
+     "id": "p044.s03",
+     "source": "You must have eaten up your butter yourself!”"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“Of course I haven’t eaten it up myself!” the Wolf declared."
+    },
+    {
+     "id": "p045.s02",
+     "source": "“I just bet anything you took it!”"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "The Fox pretended to be much aggrieved."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“Pekka, I won’t have you saying such a thing!"
+    },
+    {
+     "id": "p047.s02",
+     "source": "We must get at the bottom of this!"
+    },
+    {
+     "id": "p047.s03",
+     "source": "I tell you what we’ll do: we’ll both lie down in the sun and the heat of the sun will melt the butter and make it run."
+    },
+    {
+     "id": "p047.s04",
+     "source": "Now then, if butter runs out of my nose then I’m the one that has eaten your butter; if it runs out of your nose, then you’ve eaten it yourself."
+    },
+    {
+     "id": "p047.s05",
+     "source": "Do you agree to this test?”"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "The Wolf said, yes, he agreed, and at once lay down in the sun."
+    },
+    {
+     "id": "p048.s02",
+     "source": "He had been working so hard that he was very tired and in a few moments he was sound asleep."
+    },
+    {
+     "id": "p048.s03",
+     "source": "Thereupon the Fox slipped over and daubed a little lump of butter on the end of his nose."
+    },
+    {
+     "id": "p048.s04",
+     "source": "The sun melted the butter and then, of course, it looked as if it were running out of the Wolf’s nose."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "“Wake up, Pekka!"
+    },
+    {
+     "id": "p049.s02",
+     "source": "Wake up!” the Fox cried."
+    },
+    {
+     "id": "p049.s03",
+     "source": "“There’s butter running out of your nose!”"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "The Wolf awoke and felt his nose with his tongue."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "“Why, Mikko,” he said in surprise, “so there is!"
+    },
+    {
+     "id": "p051.s02",
+     "source": "Well, I suppose I must have eaten that butter myself but I give you my word for it I don’t remember doing it!”"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "“Well,” said the Fox, pretending still to feel hurt, “you shouldn’t always suspect me.”"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "When they went back to the clearing, the Wolf began pulling the brush together to burn it up and the Fox slipped away and lay down behind some brushes."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "“Mikko!"
+    },
+    {
+     "id": "p054.s02",
+     "source": "Mikko!” the Wolf called."
+    },
+    {
+     "id": "p054.s03",
+     "source": "“Aren’t you going to help me burn the brush?”"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "“You set it a-fire,” the Fox called back, “and I’ll stay here to guard against any flying sparks."
+    },
+    {
+     "id": "p055.s02",
+     "source": "We don’t want to burn down the whole forest!”"
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "So the Wolf burned up all the brush while the Fox took a pleasant nap."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "Then when he was ready to plant the seed in the rich wood ashes, the Wolf again called out to the Fox to come help him."
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "“You do the planting, Pekka,” the Fox called back, “and I’ll stay here and frighten off the birds."
+    },
+    {
+     "id": "p058.s02",
+     "source": "If I don’t they’ll come and pick up every seed you plant.”"
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "So Mikko, the rascal, took another nap while the poor Wolf planted the field he had already cleared and burned."
+    }
+   ],
+   "id": "p059"
+  }
+ ]
+}

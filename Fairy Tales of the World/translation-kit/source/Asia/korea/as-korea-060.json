@@ -1,0 +1,92 @@
+{
+ "id": "as-korea-060",
+ "title": {
+  "id": "title",
+  "source": "Strangely Stricken Dead"
+ },
+ "tradition": "Korea",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Korean Folk Tales",
+ "credits": "Yi, Yuk (author, d. 1498); Im, Pang (author, d. 1724); Gale, James Scarth (translator, d. 1937)",
+ "gutenberg": "Project Gutenberg eBook #51002 — https://www.gutenberg.org/ebooks/51002 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Korea/060 - Strangely Stricken Dead.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 13,
+  "words": 250
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a man called Kim Tok-saing, a soldier of fortune, who had been specially honoured at the Court of Tai-jong."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He had several times been generalissimo of the army, and on his various campaigns had had an intimate friend accompany him, a friend whom he greatly loved."
+    },
+    {
+     "id": "p001.s03",
+     "source": "But Kim had been dead now for some ten years and more, when one night this friend of his was awakened with a start and gave a great outcry."
+    },
+    {
+     "id": "p001.s04",
+     "source": "He slept again, but a little later was disturbed once more by a fright, at which he called out."
+    },
+    {
+     "id": "p001.s05",
+     "source": "His wife, not liking this, inquired as to what he meant."
+    },
+    {
+     "id": "p001.s06",
+     "source": "The friend said, “I have just seen General Kim riding on a white horse, with bow and arrows at his belt."
+    },
+    {
+     "id": "p001.s07",
+     "source": "He called to me and said, ‘A thief has just entered my home, and I have come to shoot him dead.’"
+    },
+    {
+     "id": "p001.s08",
+     "source": "He went and again returned, and as he drew an arrow from his quiver, I saw that there were blood marks on it."
+    },
+    {
+     "id": "p001.s09",
+     "source": "He said, ‘I have just shot him, he is dead.’”"
+    },
+    {
+     "id": "p001.s10",
+     "source": "The husband and wife in fear and wonder talked over it together."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "When morning came the friend went to General Kim’s former home to make inquiry."
+    },
+    {
+     "id": "p002.s02",
+     "source": "He learned that that very night Kim’s young widow had decided to remarry, but as soon as the chosen fiancé had entered her home, a terrible pain shot him through, and before morning came he died in great agony."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Yi Ryuk."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

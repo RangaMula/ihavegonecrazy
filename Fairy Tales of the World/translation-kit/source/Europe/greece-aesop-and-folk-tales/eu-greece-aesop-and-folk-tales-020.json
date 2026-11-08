@@ -1,0 +1,66 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-020",
+ "title": {
+  "id": "title",
+  "source": "The Farmer and the Stork"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/020 - The Farmer and the Stork.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 8,
+  "words": 144
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A FARMER placed nets on his newly-sown plowlands and caught a number of Cranes, which came to pick up his seed."
+    },
+    {
+     "id": "p001.s02",
+     "source": "With them he trapped a Stork that had fractured his leg in the net and was earnestly beseeching the Farmer to spare his life."
+    },
+    {
+     "id": "p001.s03",
+     "source": "“Pray save me, Master,” he said, “and let me go free this once."
+    },
+    {
+     "id": "p001.s04",
+     "source": "My broken limb should excite your pity."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Besides, I am no Crane, I am a Stork, a bird of excellent character; and see how I love and slave for my father and mother."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Look too, at my feathers—they are not the least like those of a Crane.”"
+    },
+    {
+     "id": "p001.s07",
+     "source": "The Farmer laughed aloud and said, “It may be all as you say, I only know this: I have taken you with these robbers, the Cranes, and you must die in their company.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Birds of a feather flock together."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

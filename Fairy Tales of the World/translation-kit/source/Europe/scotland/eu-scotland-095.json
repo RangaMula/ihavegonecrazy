@@ -1,0 +1,80 @@
+{
+ "id": "eu-scotland-095",
+ "title": {
+  "id": "title",
+  "source": "The Citizen And The Traveller"
+ },
+ "tradition": "Scotland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fables",
+ "credits": "Stevenson, Robert Louis (author, d. 1894)",
+ "gutenberg": "Project Gutenberg eBook #343 — https://www.gutenberg.org/ebooks/343 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Scotland/095 - The Citizen And The Traveller.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 7,
+  "words": 54
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "“Look round you,” said the citizen."
+    },
+    {
+     "id": "p001.s02",
+     "source": "“This is the largest market in the world.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“Oh, surely not,” said the traveller."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“Well, perhaps not the largest,” said the citizen, “but much the best.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“You are certainly wrong there,” said the traveller."
+    },
+    {
+     "id": "p004.s02",
+     "source": "“I can tell you . . .”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "They buried the stranger at the dusk."
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

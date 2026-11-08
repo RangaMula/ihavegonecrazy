@@ -1,0 +1,44 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-016",
+ "title": {
+  "id": "title",
+  "source": "The Mole and His Mother"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/016 - The Mole and His Mother.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 75
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A MOLE, a creature blind from birth, once said to his Mother: “I am sure than I can see, Mother!”"
+    },
+    {
+     "id": "p001.s02",
+     "source": "In the desire to prove to him his mistake, his Mother placed before him a few grains of frankincense, and asked, “What is it?”"
+    },
+    {
+     "id": "p001.s03",
+     "source": "The young Mole said, “It is a pebble.”"
+    },
+    {
+     "id": "p001.s04",
+     "source": "His Mother exclaimed: “My son, I am afraid that you are not only blind, but that you have lost your sense of smell.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

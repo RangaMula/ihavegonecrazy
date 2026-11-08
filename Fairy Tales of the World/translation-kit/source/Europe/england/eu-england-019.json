@@ -1,0 +1,949 @@
+{
+ "id": "eu-england-019",
+ "title": {
+  "id": "title",
+  "source": "Jack The Giant-Killer"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #7439 — https://www.gutenberg.org/ebooks/7439 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/019 - Jack The Giant-Killer.md",
+ "stats": {
+  "paragraphs": 44,
+  "segments": 166,
+  "words": 3973
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "When good King Arthur reigned, there lived near the Land's End of England, in the county of Cornwall, a farmer who had one only son called Jack."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He was brisk and of a ready lively wit, so that nobody or nothing could worst him."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "In those days the Mount of Cornwall was kept by a huge giant named Cormoran."
+    },
+    {
+     "id": "p002.s02",
+     "source": "He was eighteen feet in height, and about three yards round the waist, of a fierce and grim countenance, the terror of all the neighbouring towns and villages."
+    },
+    {
+     "id": "p002.s03",
+     "source": "He lived in a cave in the midst of the Mount, and whenever he wanted food he would wade over to the main-land, where he would furnish himself with whatever came in his way."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Everybody at his approach ran out of their houses, while he seized on their cattle, making nothing of carrying half-a-dozen oxen on his back at a time; and as for their sheep and hogs, he would tie them round his waist like a bunch of tallow-dips."
+    },
+    {
+     "id": "p002.s05",
+     "source": "He had done this for many years, so that all Cornwall was in despair."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "One day Jack happened to be at the town-hall when the magistrates were sitting in council about the Giant."
+    },
+    {
+     "id": "p003.s02",
+     "source": "He asked: “What reward will be given to the man who kills Cormoran?”"
+    },
+    {
+     "id": "p003.s03",
+     "source": "“The giant's treasure,” they said, “will be the reward.”"
+    },
+    {
+     "id": "p003.s04",
+     "source": "Quoth Jack: “Then let me undertake it.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "So he got a horn, shovel, and pickaxe, and went over to the Mount in the beginning of a dark winter's evening, when he fell to work, and before morning had dug a pit twenty-two feet deep, and nearly as broad, covering it over with long sticks and straw."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Then he strewed a little mould over it, so that it appeared like plain ground."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Jack then placed himself on the opposite side of the pit, farthest from the giant's lodging, and, just at the break of day, he put the horn to his mouth, and blew, Tantivy, Tantivy."
+    },
+    {
+     "id": "p004.s04",
+     "source": "This noise roused the giant, who rushed from his cave, crying: “You incorrigible villain, are you come here to disturb my rest?"
+    },
+    {
+     "id": "p004.s05",
+     "source": "You shall pay dearly for this."
+    },
+    {
+     "id": "p004.s06",
+     "source": "Satisfaction I will have, and this it shall be, I will take you whole and broil you for breakfast.”"
+    },
+    {
+     "id": "p004.s07",
+     "source": "He had no sooner uttered this, than he tumbled into the pit, and made the very foundations of the Mount to shake."
+    },
+    {
+     "id": "p004.s08",
+     "source": "“Oh, Giant,” quoth Jack, “where are you now?"
+    },
+    {
+     "id": "p004.s09",
+     "source": "Oh, faith, you are gotten now into Lob's Pound, where I will surely plague you for your threatening words: what do you think now of broiling me for your breakfast?"
+    },
+    {
+     "id": "p004.s10",
+     "source": "Will no other diet serve you but poor Jack?”"
+    },
+    {
+     "id": "p004.s11",
+     "source": "Then having tantalised the giant for a while, he gave him a most weighty knock with his pickaxe on the very crown of his head, and killed him on the spot."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Jack then filled up the pit with earth, and went to search the cave, which he found contained much treasure."
+    },
+    {
+     "id": "p005.s02",
+     "source": "When the magistrates heard of this they made a declaration he should henceforth be termed"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "JACK THE GIANT-KILLER"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "and presented him with a sword and a belt, on which were written these words embroidered in letters of gold:"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Here's the right valiant Cornish man,"
+    },
+    {
+     "id": "p008.s02",
+     "source": "Who slew the giant Cormoran.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "The news of Jack's victory soon spread over all the West of England, so that another giant, named Blunderbore, hearing of it, vowed to be revenged on Jack, if ever he should light on him."
+    },
+    {
+     "id": "p009.s02",
+     "source": "This giant was the lord of an enchanted castle situated in the midst of a lonesome wood."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Now Jack, about four months afterwards, walking near this wood in his journey to Wales, being weary, seated himself near a pleasant fountain and fell fast asleep."
+    },
+    {
+     "id": "p009.s04",
+     "source": "While he was sleeping, the giant, coming there for water, discovered him, and knew him to be the far-famed Jack the Giant-killer by the lines written on the belt."
+    },
+    {
+     "id": "p009.s05",
+     "source": "Without ado, he took Jack on his shoulders and carried him towards his castle."
+    },
+    {
+     "id": "p009.s06",
+     "source": "Now, as they passed through a thicket, the rustling of the boughs awakened Jack, who was strangely surprised to find himself in the clutches of the giant."
+    },
+    {
+     "id": "p009.s07",
+     "source": "His terror was only begun, for, on entering the castle, he saw the ground strewed with human bones, and the giant told him his own would ere long be among them."
+    },
+    {
+     "id": "p009.s08",
+     "source": "After this the giant locked poor Jack in an immense chamber, leaving him there while he went to fetch another giant, his brother, living in the same wood, who might share in the meal on Jack."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "After waiting some time Jack, on going to the window beheld afar off the two giants coming towards the castle."
+    },
+    {
+     "id": "p010.s02",
+     "source": "“Now,” quoth Jack to himself, “my death or my deliverance is at hand.”"
+    },
+    {
+     "id": "p010.s03",
+     "source": "Now, there were strong cords in a corner of the room in which Jack was, and two of these he took, and made a strong noose at the end; and while the giants were unlocking the iron gate of the castle he threw the ropes over each of their heads."
+    },
+    {
+     "id": "p010.s04",
+     "source": "Then he drew the other ends across a beam, and pulled with all his might, so that he throttled them."
+    },
+    {
+     "id": "p010.s05",
+     "source": "Then, when he saw they were black in the face, he slid down the rope, and drawing his sword, slew them both."
+    },
+    {
+     "id": "p010.s06",
+     "source": "Then, taking the giant's keys, and unlocking the rooms, he found three fair ladies tied by the hair of their heads, almost starved to death."
+    },
+    {
+     "id": "p010.s07",
+     "source": "“Sweet ladies,” quoth Jack, “I have destroyed this monster and his brutish brother, and obtained your liberties.”"
+    },
+    {
+     "id": "p010.s08",
+     "source": "This said he presented them with the keys, and so proceeded on his journey to Wales."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Jack made the best of his way by travelling as fast as he could, but lost his road, and was benighted, and could find any habitation until, coming into a narrow valley, he found a large house, and in order to get shelter took courage to knock at the gate."
+    },
+    {
+     "id": "p011.s02",
+     "source": "But what was his surprise when there came forth a monstrous giant with two heads; yet he did not appear so fiery as the others were, for he was a Welsh giant, and what he did was by private and secret malice under the false show of friendship."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Jack, having told his condition to the giant, was shown into a bedroom, where, in the dead of night, he heard his host in another apartment muttering these words:"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Though here you lodge with me this night,"
+    },
+    {
+     "id": "p012.s02",
+     "source": "You shall not see the morning light"
+    },
+    {
+     "id": "p012.s03",
+     "source": "My club shall dash your brains outright!”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Say'st thou so,” quoth Jack; “that is like one of your Welsh tricks, yet I hope to be cunning enough for you.”"
+    },
+    {
+     "id": "p013.s02",
+     "source": "Then, getting out of bed, he laid a billet in the bed in his stead, and hid himself in a corner of the room."
+    },
+    {
+     "id": "p013.s03",
+     "source": "At the dead time of the night in came the Welsh giant, who struck several heavy blows on the bed with his club, thinking he had broken every bone in Jack's skin."
+    },
+    {
+     "id": "p013.s04",
+     "source": "The next morning Jack, laughing in his sleeve, gave him hearty thanks for his night's lodging."
+    },
+    {
+     "id": "p013.s05",
+     "source": "“How have you rested?” quoth the giant; “did you not feel anything in the night?”"
+    },
+    {
+     "id": "p013.s06",
+     "source": "“No,” quoth Jack, “nothing but a rat, which gave me two or three slaps with her tail.”"
+    },
+    {
+     "id": "p013.s07",
+     "source": "With that, greatly wondering, the giant led Jack to breakfast, bringing him a bowl containing four gallons of hasty pudding."
+    },
+    {
+     "id": "p013.s08",
+     "source": "Being loth to let the giant think it too much for him, Jack put a large leather bag under his loose coat, in such a way that he could convey the pudding into it without its being perceived."
+    },
+    {
+     "id": "p013.s09",
+     "source": "Then, telling the giant he would show him a trick, taking a knife, Jack ripped open the bag, and out came all the hasty pudding."
+    },
+    {
+     "id": "p013.s10",
+     "source": "Whereupon, saying, “Odds splutters hur nails, hur can do that trick hurself,” the monster took the knife, and ripping open his belly, fell down dead."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Now, it happened in these days that King Arthur's only son asked his father to give him a large sum of money, in order that he might go and seek his fortune in the principality of Wales, where lived a beautiful lady possessed with seven evil spirits."
+    },
+    {
+     "id": "p014.s02",
+     "source": "The king did his best to persuade his son from it, but in vain; so at last gave way and the prince set out with two horses, one loaded with money, the other for himself to ride upon."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Now, after several days' travel, he came to a market-town in Wales, where he beheld a vast crowd of people gathered together."
+    },
+    {
+     "id": "p014.s04",
+     "source": "The prince asked the reason of it, and was told that they had arrested a corpse for several large sums of money which the deceased owed when he died."
+    },
+    {
+     "id": "p014.s05",
+     "source": "The prince replied that it was a pity creditors should be so cruel, and said: “Go bury the dead, and let his creditors come to my lodging, and there their debts shall be paid.”"
+    },
+    {
+     "id": "p014.s06",
+     "source": "They came, in such great numbers that before night he had only twopence left for himself."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Now Jack the Giant-Killer, coming that way, was so taken with the generosity of the prince, that he desired to be his servant."
+    },
+    {
+     "id": "p015.s02",
+     "source": "This being agreed upon, the next morning they set forward on their journey together, when, as they were riding out of the town, an old woman called after the prince, saying, “He has owed me twopence these seven years; pray pay me as well as the rest.”"
+    },
+    {
+     "id": "p015.s03",
+     "source": "Putting his hand to his pocket, the prince gave the woman all he had left, so that after their day's food, which cost what small spell Jack had by him, they were without a penny between them."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "When the sun got low, the king's son said: “Jack, since we have no money, where can we lodge this night?”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "But Jack replied: “Master, we'll do well enough, for I have an uncle lives within two miles of this place; he is a huge and monstrous giant with three heads; he'll fight five hundred men in armour, and make them to fly before him.”"
+    },
+    {
+     "id": "p017.s02",
+     "source": "“Alas!” quoth the prince, “what shall we do there?"
+    },
+    {
+     "id": "p017.s03",
+     "source": "He'll certainly chop us up at a mouthful."
+    },
+    {
+     "id": "p017.s04",
+     "source": "Nay, we are scarce enough to fill one of his hollow teeth!”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“It is no matter for that,” quoth Jack; “I myself will go before and prepare the way for you; therefore stop here and wait till I return.”"
+    },
+    {
+     "id": "p018.s02",
+     "source": "Jack then rode away at full speed, and coming to the gate of the castle, he knocked so loud that he made the neighbouring hills resound."
+    },
+    {
+     "id": "p018.s03",
+     "source": "The giant roared out at this like thunder: “Who's there?”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Jack answered: “None but your poor cousin Jack.”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Quoth he: “What news with my poor cousin Jack?”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "He replied: “Dear uncle, heavy news, God wot!”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“Prithee,” quoth the giant, “what heavy news can come to me?"
+    },
+    {
+     "id": "p022.s02",
+     "source": "I am a giant with three heads, and besides thou knowest I can fight five hundred men in armour, and make them fly like chaff before the wind.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“Oh, but,” quoth Jack, “here's the king's son a-coming with a thousand men in armour to kill you and destroy all that you have!”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“Oh, cousin Jack,” said the giant, “this is heavy news indeed!"
+    },
+    {
+     "id": "p024.s02",
+     "source": "I will immediately run and hide myself, and thou shalt lock, bolt, and bar me in, and keep the keys until the prince is gone.”"
+    },
+    {
+     "id": "p024.s03",
+     "source": "Having secured the giant, Jack fetched his master, when they made themselves heartily merry whilst the poor giant lay trembling in a vault under the ground."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Early in the morning Jack furnished his master with a fresh supply of gold and silver, and then sent him three miles forward on his journey, at which time the prince was pretty well out of the smell of the giant."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Jack then returned, and let the giant out of the vault, who asked what he should give him for keeping the castle from destruction."
+    },
+    {
+     "id": "p025.s03",
+     "source": "“Why,” quoth Jack, “I want nothing but the old coat and cap, together with the old rusty sword and slippers which are at your bed's head.”"
+    },
+    {
+     "id": "p025.s04",
+     "source": "Quoth the giant: “You know not what you ask; they are the most precious things I have."
+    },
+    {
+     "id": "p025.s05",
+     "source": "The coat will keep you invisible, the cap will tell you all you want to know, the sword cuts asunder whatever you strike, and the shoes are of extraordinary swiftness."
+    },
+    {
+     "id": "p025.s06",
+     "source": "But you have been very serviceable to me, therefore take them with all my heart.”"
+    },
+    {
+     "id": "p025.s07",
+     "source": "Jack thanked his uncle, and then went off with them."
+    },
+    {
+     "id": "p025.s08",
+     "source": "He soon overtook his master and they quickly arrived at the house of the lady the prince sought, who, finding the prince to be a suitor, prepared a splendid banquet for him."
+    },
+    {
+     "id": "p025.s09",
+     "source": "After the repast was concluded, she told him she had a task for him."
+    },
+    {
+     "id": "p025.s10",
+     "source": "She wiped his mouth with a handkerchief, saying: “You must show me that handkerchief to-morrow morning, or else you will lose your head.”"
+    },
+    {
+     "id": "p025.s11",
+     "source": "With that she put it in her bosom."
+    },
+    {
+     "id": "p025.s12",
+     "source": "The prince went to bed in great sorrow, but Jack's cap of knowledge informed him how it was to be obtained."
+    },
+    {
+     "id": "p025.s13",
+     "source": "In the middle of the night she called upon her familiar spirit to carry her to Lucifer."
+    },
+    {
+     "id": "p025.s14",
+     "source": "But Jack put on his coat of darkness and his shoes of swiftness, and was there as soon as she was."
+    },
+    {
+     "id": "p025.s15",
+     "source": "When she entered the place of the Old One, she gave the handkerchief to old Lucifer, who laid it upon a shelf, whence Jack took it and brought it to his master, who showed it to the lady next day, and so saved his life."
+    },
+    {
+     "id": "p025.s16",
+     "source": "On that day, she gave the prince a kiss and told him he must show her the lips to-morrow morning that she kissed last night, or lose his head."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“Ah!” he replied, “if you kiss none but mine, I will.”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“That is neither here nor there,” said she; “if you do not, death's your portion!”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "At midnight she went as before, and was angry with old Lucifer for letting the handkerchief go."
+    },
+    {
+     "id": "p028.s02",
+     "source": "“But now,” quoth she, “I will be too hard for the king's son, for I will kiss thee, and he is to show me thy lips.”"
+    },
+    {
+     "id": "p028.s03",
+     "source": "Which she did, and Jack, when she was not standing by, cut off Lucifer's head and brought it under his invisible coat to his master, who the next morning pulled it out by the horns before the lady."
+    },
+    {
+     "id": "p028.s04",
+     "source": "This broke the enchantment and the evil spirit left her, and she appeared in all her beauty."
+    },
+    {
+     "id": "p028.s05",
+     "source": "They were married the next morning, and soon after went to the court of King Arthur, where Jack for his many great exploits, was made one of the Knights of the Round Table."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Jack soon went searching for giants again, but he had not ridden far, when he saw a cave, near the entrance of which he beheld a giant sitting upon a block of timber, with a knotted iron club by his side."
+    },
+    {
+     "id": "p029.s02",
+     "source": "His goggle eyes were like flames of fire, his countenance grim and ugly, and his cheeks like a couple of large flitches of bacon, while the bristles of his beard resembled rods of iron wire, and the locks that hung down upon his brawny shoulders were like curled snakes or hissing adders."
+    },
+    {
+     "id": "p029.s03",
+     "source": "Jack alighted from his horse, and, putting on the coat of darkness, went up close to the giant, and said softly: “Oh! are you there?"
+    },
+    {
+     "id": "p029.s04",
+     "source": "It will not be long before I take you fast by the beard.”"
+    },
+    {
+     "id": "p029.s05",
+     "source": "The giant all this while could not see him, on account of his invisible coat, so that Jack, coming up close to the monster, struck a blow with his sword at his head, but, missing his aim, he cut off the nose instead."
+    },
+    {
+     "id": "p029.s06",
+     "source": "At this, the giant roared like claps of thunder, and began to lay about him with his iron club like one stark mad."
+    },
+    {
+     "id": "p029.s07",
+     "source": "But Jack, running behind, drove his sword up to the hilt in the giant's back, so that he fell down dead."
+    },
+    {
+     "id": "p029.s08",
+     "source": "This done, Jack cut off the giant's head, and sent it, with his brother's also, to King Arthur, by a waggoner he hired for that purpose."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Jack now resolved to enter the giant's cave in search of his treasure, and, passing along through a great many windings and turnings, he came at length to a large room paved with freestone, at the upper end of which was a boiling caldron, and on the right hand a large table, at which the giant used to dine."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Then he came to a window, barred with iron, through which he looked and beheld a vast number of miserable captives, who, seeing him, cried out: “Alas! young man, art thou come to be one amongst us in this miserable den?”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“Ay,” quoth Jack, “but pray tell me what is the meaning of your captivity?”"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“We are kept here,” said one, “till such time as the giants have a wish to feast, and then the fattest among us is slaughtered!"
+    },
+    {
+     "id": "p032.s02",
+     "source": "And many are the times they have dined upon murdered men!”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“Say you so,” quoth Jack, and straightway unlocked the gate and let them free, who all rejoiced like condemned men at sight of a pardon."
+    },
+    {
+     "id": "p033.s02",
+     "source": "Then searching the giant's coffers, he shared the gold and silver equally amongst them and took them to a neighbouring castle, where they all feasted and made merry over their deliverance."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "But in the midst of all this mirth a messenger brought news that one Thunderdell, a giant with two heads, having heard of the death of his kinsmen, had come from the northern dales to be revenged on Jack, and was within a mile of the castle, the country people flying before him like chaff."
+    },
+    {
+     "id": "p034.s02",
+     "source": "But Jack was not a bit daunted, and said: “Let him come!"
+    },
+    {
+     "id": "p034.s03",
+     "source": "I have a tool to pick his teeth; and you, ladies and gentlemen, walk out into the garden, and you shall witness this giant Thunderdell's death and destruction.”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "The castle was situated in the midst of a small island surrounded by a moat thirty feet deep and twenty feet wide, over which lay a drawbridge."
+    },
+    {
+     "id": "p035.s02",
+     "source": "So Jack employed men to cut through this bridge on both sides, nearly to the middle; and then, dressing himself in his invisible coat, he marched against the giant with his sword of sharpness."
+    },
+    {
+     "id": "p035.s03",
+     "source": "Although the giant could not see Jack, he smelt his approach, and cried out in these words:"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "“Fee, fi, fo, fum!"
+    },
+    {
+     "id": "p036.s02",
+     "source": "I smell the blood of an Englishman!"
+    },
+    {
+     "id": "p036.s03",
+     "source": "Be he alive or be he dead,"
+    },
+    {
+     "id": "p036.s04",
+     "source": "I'll grind his bones to make me bread!”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "“Say'st thou so,” said Jack; “then thou art a monstrous miller indeed.”"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "The giant cried out again: “Art thou that villain who killed my kinsmen?"
+    },
+    {
+     "id": "p038.s02",
+     "source": "Then I will tear thee with my teeth, suck thy blood, and grind thy bones to powder.”"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“You'll have to catch me first,” quoth Jack, and throwing off his invisible coat, so that the giant might see him, and putting on his shoes of swiftness, he ran from the giant, who followed like a walking castle, so that the very foundations of the earth seemed to shake at every step."
+    },
+    {
+     "id": "p039.s02",
+     "source": "Jack led him a long dance, in order that the gentlemen and ladies might see; and at last to end the matter, ran lightly over the drawbridge, the giant, in full speed, pursuing him with his club."
+    },
+    {
+     "id": "p039.s03",
+     "source": "Then, coming to the middle of the bridge, the giant's great weight broke it down, and he tumbled headlong into the water, where he rolled and wallowed like a whale."
+    },
+    {
+     "id": "p039.s04",
+     "source": "Jack, standing by the moat, laughed at him all the while; but though the giant foamed to hear him scoff, and plunged from place to place in the moat, yet he could not get out to be revenged."
+    },
+    {
+     "id": "p039.s05",
+     "source": "Jack at length got a cart-rope and cast it over the two heads of the giant, and drew him ashore by a team of horses, and then cut off both his heads with his sword of sharpness, and sent them to King Arthur."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "After some time spent in mirth and pastime, Jack, taking leave of the knights and ladies, set out for new adventures."
+    },
+    {
+     "id": "p040.s02",
+     "source": "Through many woods he passed, and came at length to the foot of a high mountain."
+    },
+    {
+     "id": "p040.s03",
+     "source": "Here, late at night, he found a lonesome house, and knocked at the door, which was opened by an aged man with a head as white as snow."
+    },
+    {
+     "id": "p040.s04",
+     "source": "“Father,” said Jack, “can you lodge a benighted traveller that has lost his way?”"
+    },
+    {
+     "id": "p040.s05",
+     "source": "“Yes,” said the old man; “you are right welcome to my poor cottage.”"
+    },
+    {
+     "id": "p040.s06",
+     "source": "Whereupon Jack entered, and down they sat together, and the old man began to speak as follows: “Son, I see by your belt you are the great conqueror of giants, and behold, my son, on the top of this mountain is an enchanted castle, this is kept by a giant named Galligantua, and he by the help of an old conjurer, betrays many knights and ladies into his castle, where by magic art they are transformed into sundry shapes and forms."
+    },
+    {
+     "id": "p040.s07",
+     "source": "But above all, I grieve for a duke's daughter, whom they fetched from her father's garden, carrying her through the air in a burning chariot drawn by fiery dragons, when they secured her within the castle, and transformed her into a white hind."
+    },
+    {
+     "id": "p040.s08",
+     "source": "And though many knights have tried to break the enchantment, and work her deliverance, yet no one could accomplish it, on account of two dreadful griffins which are placed at the castle gate and which destroy every one who comes near."
+    },
+    {
+     "id": "p040.s09",
+     "source": "But you, my son, may pass by them undiscovered, where on the gates of the castle you will find engraven in large letters how the spell may be broken.”"
+    },
+    {
+     "id": "p040.s10",
+     "source": "Jack gave the old man his hand, and promised that in the morning he would venture his life to free the lady."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "In the morning Jack arose and put on his invisible coat and magic cap and shoes, and prepared himself for the fray."
+    },
+    {
+     "id": "p041.s02",
+     "source": "Now, when he had reached the top of the mountain he soon discovered the two fiery griffins, but passed them without fear, because of his invisible coat."
+    },
+    {
+     "id": "p041.s03",
+     "source": "When he had got beyond them, he found upon the gates of the castle a golden trumpet hung by a silver chain, under which these lines were engraved:"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“Whoever shall this trumpet blow,"
+    },
+    {
+     "id": "p042.s02",
+     "source": "Shall soon the giant overthrow,"
+    },
+    {
+     "id": "p042.s03",
+     "source": "And break the black enchantment straight;"
+    },
+    {
+     "id": "p042.s04",
+     "source": "So all shall be in happy state.”"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "Jack had no sooner read this but he blew the trumpet, at which the castle trembled to its vast foundations, and the giant and conjurer were in horrid confusion, biting their thumbs and tearing their hair, knowing their wicked reign was at an end."
+    },
+    {
+     "id": "p043.s02",
+     "source": "Then the giant stooping to take up his club, Jack at one blow cut off his head; whereupon the conjurer, mounting up into the air, was carried away in a whirlwind."
+    },
+    {
+     "id": "p043.s03",
+     "source": "Then the enchantment was broken, and all the lords and ladies who had so long been transformed into birds and beasts returned to their proper shapes, and the castle vanished away in a cloud of smoke."
+    },
+    {
+     "id": "p043.s04",
+     "source": "This being done, the head of Galligantua was likewise, in the usual manner, conveyed to the Court of King Arthur, where, the very next day, Jack followed, with the knights and ladies who had been delivered."
+    },
+    {
+     "id": "p043.s05",
+     "source": "Whereupon, as a reward for his good services, the king prevailed upon the duke to bestow his daughter in marriage on honest Jack."
+    },
+    {
+     "id": "p043.s06",
+     "source": "So married they were, and the whole kingdom was filled with joy at the wedding."
+    },
+    {
+     "id": "p043.s07",
+     "source": "Furthermore, the king bestowed on Jack a noble castle, with a very beautiful estate thereto belonging, where he and his lady lived in great joy and happiness all the rest of their days."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p044"
+  }
+ ]
+}

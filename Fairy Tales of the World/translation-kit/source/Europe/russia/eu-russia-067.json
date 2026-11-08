@@ -1,0 +1,90 @@
+{
+ "id": "eu-russia-067",
+ "title": {
+  "id": "title",
+  "source": "Christ And Folk-Songs"
+ },
+ "tradition": "Russia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Russian Folk-Tales",
+ "credits": "Afanas'ev, A. N. (Aleksandr Nikolaevich) (author, d. 1871); Magnus, Leonard A. (Leonard Arthur) (translator, d. 1924)",
+ "gutenberg": "Project Gutenberg eBook #62509 — https://www.gutenberg.org/ebooks/62509 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Russia/067 - Christ And Folk-Songs.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 11,
+  "words": 174
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "One day Christ and St. Peter were walking about the earth and came to a village."
+    },
+    {
+     "id": "p001.s02",
+     "source": "In one house folks were singing so finely that Christ stayed to listen, whilst St. Peter went on."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He turned back and found Christ still at His post."
+    },
+    {
+     "id": "p001.s04",
+     "source": "St. Peter went on again, and looked back: Christ was still listening."
+    },
+    {
+     "id": "p001.s05",
+     "source": "St. Peter went on again and then glanced back a third time—and Christ was still listening."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Then he went back and heard a splendid folk-song in the house, stayed a while, and went on to another house where there also was singing."
+    },
+    {
+     "id": "p001.s07",
+     "source": "There St. Peter stayed, but Christ passed on."
+    },
+    {
+     "id": "p001.s08",
+     "source": "St. Peter hurried up and looked astounded."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“What’s the matter?” asked Christ."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“I could not make out why you stopped to listen to folk-songs and passed by the house where hymns were being sung.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Oh, my dear son,” said Christ, “there was a good scent there in the one house where folk-songs were being sung; but there was no reverence about the house where they were chanting hymns.”"
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

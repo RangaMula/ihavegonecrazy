@@ -1,0 +1,82 @@
+{
+ "id": "eu-serbia-069",
+ "title": {
+  "id": "title",
+  "source": "The Entrance of the Moor"
+ },
+ "tradition": "Serbia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Hero Tales and Legends of the Serbians",
+ "credits": "Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)",
+ "gutenberg": "Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Serbia/069 - The Entrance of the Moor.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 12,
+  "words": 204
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The inhabitants of Istamboul were terrorized one day when the haughty Moor mounted upon his dashing steed entered the city."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He went to the Palace, and cried loudly: “Lo!"
+    },
+    {
+     "id": "p001.s03",
+     "source": "Sultan, wilt thou now, once and for ever, give me thy daughter?”"
+    },
+    {
+     "id": "p001.s04",
+     "source": "As he received no answer he struck the walls of the Palace with his club so violently that the shattered glass poured down from the windows like rain."
+    },
+    {
+     "id": "p001.s05",
+     "source": "When the Sultan saw that the Moor might easily destroy the Palace and even the whole city in this way, he was greatly alarmed, for he knew that there was no alternative open to him in this horrible predicament but to give up his only daughter."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Although overwhelmed with shame, therefore, he promised to do this."
+    },
+    {
+     "id": "p001.s07",
+     "source": "Pleased with his success, the Moor asked for fifteen days’ delay before his marriage took place that he might go back to his castle and make the necessary preparations."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "When the Sultan’s daughter heard of her father’s desperate resolution, she shrieked and exclaimed bitterly: “Alas!"
+    },
+    {
+     "id": "p002.s02",
+     "source": "Behold my sorrow, O almighty Allah !"
+    },
+    {
+     "id": "p002.s03",
+     "source": "For whom have I been taught to prize my beauty?"
+    },
+    {
+     "id": "p002.s04",
+     "source": "For a Moor?"
+    },
+    {
+     "id": "p002.s05",
+     "source": "Can it be true that a Moor shall imprint a kiss upon my visage?”"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "eu-serbia-051",
+ "title": {
+  "id": "title",
+  "source": "Slava Toasts"
+ },
+ "tradition": "Serbia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Hero Tales and Legends of the Serbians",
+ "credits": "Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)",
+ "gutenberg": "Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Serbia/051 - Slava Toasts.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 10,
+  "words": 252
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "During the first two or three courses, the guests continue to drink brandy, and wine is not served until they have partaken of meat."
+    },
+    {
+     "id": "p001.s02",
+     "source": "At the drinking of the first glass of wine the oldest guest or whoever enjoys the highest dignity of position (generally it is the village priest or the mayor) proposes the first toast, of which—as well as of all the subsequent ones—it may be said that tradition has ordered the exact programme to be followed in all these proceedings, and even prescribed the very words to be used."
+    },
+    {
+     "id": "p001.s03",
+     "source": "In some parts of Serbia the host himself proposes the first toast to the most distinguished of his guests, addressing him with: “I beg to thank you, as well as all your brethren, for the honour which you graciously show me in coming to my Slava!"
+    },
+    {
+     "id": "p001.s04",
+     "source": "Let us drink the first glass to the glory of the gracious God!"
+    },
+    {
+     "id": "p001.s05",
+     "source": "Where wine is drunk in His name, may prosperity always be!”"
+    },
+    {
+     "id": "p001.s06",
+     "source": "The principal guest accepts the toast, makes the sign of the Cross and answers in such words as the following: “I thank you, most kind and hospitable host!"
+    },
+    {
+     "id": "p001.s07",
+     "source": "May your Slava bring you prosperity, let us drink this second glass ‘for the better hour.’”"
+    },
+    {
+     "id": "p001.s08",
+     "source": "The third toast is generally “To the glory of the Holy Trinity!”"
+    },
+    {
+     "id": "p001.s09",
+     "source": "(In Serbian: Tretya-sretya, sve u slavu Svete Troyitze! )"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "In some parts of Serbia there are commonly seven or even more toasts to be drunk, but this custom shows, fortunately, a tendency to disappear."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

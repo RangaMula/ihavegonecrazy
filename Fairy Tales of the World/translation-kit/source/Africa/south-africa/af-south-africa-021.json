@@ -1,0 +1,143 @@
+{
+ "id": "af-south-africa-021",
+ "title": {
+  "id": "title",
+  "source": "The White Man And Snake"
+ },
+ "tradition": "South Africa",
+ "continent": "Africa",
+ "source_lang": "en",
+ "source_book": "South-African Folk-Tales",
+ "credits": "Honey, James A. (author)",
+ "gutenberg": "Project Gutenberg eBook #38339 — https://www.gutenberg.org/ebooks/38339 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Africa/South Africa/021 - The White Man And Snake.md",
+ "stats": {
+  "paragraphs": 9,
+  "segments": 17,
+  "words": 311
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A white man, it is said, met Snake upon whom a large stone had fallen and covered her so that she could not rise."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The White Man lifted the stone off Snake, but when he had done so, she wanted to bite him."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The White Man said, \"Stop! let us both go first to some wise people.\""
+    },
+    {
+     "id": "p001.s04",
+     "source": "They went to Hyena, and the White Man asked him, \"Is it right that Snake should want to bite me, when I helped her as she lay under a stone and could not rise?\""
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Hyena (who thought he would get his share of the White Man's body) said, \"If you were bitten what would it matter?\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Then Snake wanted to bite him, but the White Man said again, \"Wait a little, and let us go to other wise people, that I may hear whether this is right.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "They went and met Jackal."
+    },
+    {
+     "id": "p004.s02",
+     "source": "The White Man said to Jackal, \"Is it right for Snake to want to bite me, when I lifted up the stone which lay upon her?\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Jackal replied, \"I do not believe that Snake could be covered by a stone so she could not rise."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Unless I saw it with my two eyes, I would not believe it."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Therefore, come let us go and see the place where you say it happened whether it can be true.\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "They went, and arrived at the place where it had happened."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Jackal said, \"Snake, lie down, and let thyself be covered.\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Snake did so, and the White Man covered her with the stone; but although she exerted herself very much, she could not rise."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Then the White Man wanted again to release Snake, but Jackal interfered, and said, \"Do not lift the stone."
+    },
+    {
+     "id": "p007.s03",
+     "source": "She wanted to bite you, therefore she may rise by herself.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Then they both went away and left Snake under the stone."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p009"
+  }
+ ]
+}

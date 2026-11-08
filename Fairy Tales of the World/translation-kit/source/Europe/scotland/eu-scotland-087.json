@@ -1,0 +1,112 @@
+{
+ "id": "eu-scotland-087",
+ "title": {
+  "id": "title",
+  "source": "The Sick Man And The Fireman"
+ },
+ "tradition": "Scotland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fables",
+ "credits": "Stevenson, Robert Louis (author, d. 1894)",
+ "gutenberg": "Project Gutenberg eBook #343 — https://www.gutenberg.org/ebooks/343 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Scotland/087 - The Sick Man And The Fireman.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 12,
+  "words": 195
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a sick man in a burning house, to whom there entered a fireman."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“Do not save me,” said the sick man."
+    },
+    {
+     "id": "p002.s02",
+     "source": "“Save those who are strong.”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“Will you kindly tell me why?” inquired the fireman, for he was a civil fellow."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Nothing could possibly be fairer,” said the sick man."
+    },
+    {
+     "id": "p004.s02",
+     "source": "“The strong should be preferred in all cases, because they are of more service in the world.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The fireman pondered a while, for he was a man of some philosophy."
+    },
+    {
+     "id": "p005.s02",
+     "source": "“Granted,” said he at last, as apart of the roof fell in; “but for the sake of conversation, what would you lay down as the proper service of the strong?”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Nothing can possibly be easier,” returned the sick man; “the proper service of the strong is to help the weak.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Again the fireman reflected, for there was nothing hasty about this excellent creature."
+    },
+    {
+     "id": "p007.s02",
+     "source": "“I could forgive you being sick,” he said at last, as a portion of the wall fell out, “but I cannot bear your being such a fool.”"
+    },
+    {
+     "id": "p007.s03",
+     "source": "And with that he heaved up his fireman’s axe, for he was eminently just, and clove the sick man to the bed."
+    }
+   ],
+   "id": "p007"
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "id": "am-native-north-america-various-nations-086",
+ "title": {
+  "id": "title",
+  "source": "The Bird Chief"
+ },
+ "tradition": "Native North America (various nations)",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths and Legends of the Great Plains",
+ "credits": "Judson, Katharine Berry (editor, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/086 - The Bird Chief.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 14,
+  "words": 123
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Omaha"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "A ll the birds were called together."
+    },
+    {
+     "id": "p002.s02",
+     "source": "To them was said, “Whichever one of you can fly farthest into the sky shall be chief.”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "All the birds flew to a great height."
+    },
+    {
+     "id": "p003.s02",
+     "source": "But Wren got under the thick feathers of Eagle and sat there as Eagle flew."
+    },
+    {
+     "id": "p003.s03",
+     "source": "When all the birds became wing-tired, they flew down again; but Eagle flew still higher."
+    },
+    {
+     "id": "p003.s04",
+     "source": "When Eagle had gone as far as he could, Wren flew still higher."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "When all the birds reached the ground, Eagle alone returned, after a great while."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Behold!"
+    },
+    {
+     "id": "p004.s03",
+     "source": "Wren only was absent."
+    },
+    {
+     "id": "p004.s04",
+     "source": "So they awaited him."
+    },
+    {
+     "id": "p004.s05",
+     "source": "At last he returned."
+    },
+    {
+     "id": "p004.s06",
+     "source": "Eagle had too highly been thinking of himself, being sure of being made chief; and behold!"
+    },
+    {
+     "id": "p004.s07",
+     "source": "Wren was made chief."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p005"
+  }
+ ]
+}

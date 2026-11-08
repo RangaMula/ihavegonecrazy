@@ -1,0 +1,59 @@
+{
+ "id": "eu-austria-tyrol-071",
+ "title": {
+  "id": "title",
+  "source": "The Burning Pines"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/071 - The Burning Pines.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 5,
+  "words": 245
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A poor widow of Rattenberg, who was blessed with a large family, had been, through endless misfortunes, reduced to such a pitch of poverty that she only had left of all her possessions a small wood in the valley of Scheibenthal, which is close to Rattenberg."
+    },
+    {
+     "id": "p001.s02",
+     "source": "A wicked-hearted wretch took advantage of her troubles to try and prove that the wood was his own property, and by means of false witnesses and many failures of justice matters were driven so far that the unfortunate widow had to give up the wood, and died of grief soon afterwards."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The children were taken care of by good neighbours, and when they were strong enough they were obliged to go out to service, and soon no more was heard of the matter."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Everything would have been forgotten had there not been One in whose remembrance all lives; and up to the present day the crime of the forest thief is constantly recalled through the circumstance that burning trunks often roll down through the wood, sending sparks in all directions, sometimes assuming the terrific appearance of a forest fire."
+    },
+    {
+     "id": "p002.s02",
+     "source": "But this dreadful phenomenon is ascribed to the fact that the wicked man, with his vile companions who had robbed the poor widow of her wood, have been condemned to burn in the forest which they stole, under the form of fiery pines, and roll in their agony through the forest, vainly seeking to release themselves from their everlasting punishment."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  }
+ ]
+}

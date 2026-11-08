@@ -1,0 +1,54 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-021",
+ "title": {
+  "id": "title",
+  "source": "The Farmer and the Snake"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/021 - The Farmer and the Snake.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 5,
+  "words": 72
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "ONE WINTER a Farmer found a Snake stiff and frozen with cold."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He had compassion on it, and taking it up, placed it in his bosom."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Snake was quickly revived by the warmth, and resuming its natural instincts, bit its benefactor, inflicting on him a mortal wound."
+    },
+    {
+     "id": "p001.s04",
+     "source": "“Oh,” cried the Farmer with his last breath, “I am rightly served for pitying a scoundrel.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The greatest kindness will not bind the ungrateful."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

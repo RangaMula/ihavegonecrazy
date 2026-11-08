@@ -1,0 +1,928 @@
+{
+ "id": "as-japan-072",
+ "title": {
+  "id": "title",
+  "source": "Horaizan"
+ },
+ "tradition": "Japan",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Japanese Fairy Tales",
+ "credits": "James, Grace (author)",
+ "gutenberg": "Project Gutenberg eBook #35853 — https://www.gutenberg.org/ebooks/35853 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Japan/072 - Horaizan.md",
+ "stats": {
+  "paragraphs": 62,
+  "segments": 134,
+  "words": 1591
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Jofuku was the Wise Man of China."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Many books he read, and he never forgot what was in them."
+    },
+    {
+     "id": "p001.s03",
+     "source": "All the characters he knew as he knew the lines in the palm of his hand."
+    },
+    {
+     "id": "p001.s04",
+     "source": "He learned secrets from birds and beasts, and herbs and flowers and trees, and rocks and metals."
+    },
+    {
+     "id": "p001.s05",
+     "source": "He knew magic and poetry and philosophy."
+    },
+    {
+     "id": "p001.s06",
+     "source": "He grew full of years and wisdom."
+    },
+    {
+     "id": "p001.s07",
+     "source": "All the people honoured him; but he was not happy, for he had a word written upon his heart."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The word was Mutability ."
+    },
+    {
+     "id": "p002.s02",
+     "source": "It was with him day and night, and sorely it troubled him."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Moreover, in the days of Jofuku a tyrant ruled over China, and he made the Wise Man’s life a burden."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“Jofuku,” he said, “teach the nightingales of my wood to sing me the songs of the Chinese poets.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Jofuku could not do it for all his wisdom."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Alas, liege,” he said, “ask me another thing and I will give it you, though it cost me the blood of my heart.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Have a care,” said the Emperor, “look to your ways."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Wise men are cheap in China; am I one to be dishonoured?”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Ask me another thing,” said the Wise Man."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Well, then, scent me the peony with the scent of the jessamine."
+    },
+    {
+     "id": "p008.s02",
+     "source": "The peony is brilliant, imperial; the jessamine is small, pale, foolish."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Nevertheless, its perfume is sweet."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Scent me the peony with the scent of the jessamine.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "But Jofuku stood silent and downcast."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“By the gods,” cried the Emperor, “this wise man is a fool!"
+    },
+    {
+     "id": "p010.s02",
+     "source": "Here, some of you, off with his head.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Liege,” said the Wise Man, “spare me my life and I will set sail for Horaizan where grows the herb Immortality."
+    },
+    {
+     "id": "p011.s02",
+     "source": "I will pluck this herb and bring it back to you again, that you may live and reign for ever.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "The Emperor considered."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Well, go,” he said, “and linger not, or it will be the worse for you.”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Jofuku went and found brave companions to go with him on the great adventure, and he manned a junk with the most famous mariners of China, and he took stores on board, and gold; and when he had made all things ready he set sail in the seventh month, about the time of the full moon."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "The Emperor himself came down to the seashore."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“Speed, speed, Wise Man,” he said; “fetch me the herb Immortality, and see that you do it presently."
+    },
+    {
+     "id": "p016.s02",
+     "source": "If you return without it, you and your companions shall die the death.”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“Farewell, liege,” called Jofuku from the junk."
+    },
+    {
+     "id": "p017.s02",
+     "source": "So they went with a fair wind for their white sails."
+    },
+    {
+     "id": "p017.s03",
+     "source": "The boards creaked, the ropes quivered, the water splashed against the junk’s side, the sailors sang as they steered a course eastward, the brave companions were merry."
+    },
+    {
+     "id": "p017.s04",
+     "source": "But the Wise Man of China looked forward and looked back, and was sad because of the word written upon his heart— Mutability ."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "The junk of Jofuku was for many days upon the wild sea, steering a course eastwards."
+    },
+    {
+     "id": "p018.s02",
+     "source": "He and the sailors and the brave companions suffered many things."
+    },
+    {
+     "id": "p018.s03",
+     "source": "The great heat burnt them, and the great cold froze them."
+    },
+    {
+     "id": "p018.s04",
+     "source": "Hungry and thirsty they were, and some of them fell sick and died."
+    },
+    {
+     "id": "p018.s05",
+     "source": "More were slain in a fight with pirates."
+    },
+    {
+     "id": "p018.s06",
+     "source": "Then came the dread typhoon, and mountain waves that swept the junk."
+    },
+    {
+     "id": "p018.s07",
+     "source": "The masts and the sails were washed away with the rich stores, and the gold was lost for ever."
+    },
+    {
+     "id": "p018.s08",
+     "source": "Drowned were the famous mariners, and the brave companions every one."
+    },
+    {
+     "id": "p018.s09",
+     "source": "Jofuku was left alone."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "In the grey dawn he looked up."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Far to the east he saw a mountain, very faint, the colour of pearl, and on the mountain top there grew a tree, tall, with spreading branches."
+    },
+    {
+     "id": "p019.s03",
+     "source": "The Wise Man murmured:"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“The Island of Horaizan is east of the east, and there is Fusan, the Wonder Mountain."
+    },
+    {
+     "id": "p020.s02",
+     "source": "On the heights of Fusan there grows a tree whose branches hide the Mysteries of Life.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Jofuku lay weak and weary and could not lift a finger."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Nevertheless, the junk glided nearer and nearer to the shore."
+    },
+    {
+     "id": "p021.s03",
+     "source": "Still and blue grew the waters of the sea, and Jofuku saw the bright green grass and the many-coloured flowers of the island."
+    },
+    {
+     "id": "p021.s04",
+     "source": "Soon there came troops of young men and maidens bearing garlands and singing songs of welcome; and they waded out into the water and drew the junk to land."
+    },
+    {
+     "id": "p021.s05",
+     "source": "Jofuku was aware of the sweet and spicy odours that clung to their garments and their hair."
+    },
+    {
+     "id": "p021.s06",
+     "source": "At their invitation he left the junk, which drifted away and was no more seen."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "He said, “I have come to Horaizan the Blest.”"
+    },
+    {
+     "id": "p022.s02",
+     "source": "Looking up he saw that the trees were full of birds with blue and golden feathers."
+    },
+    {
+     "id": "p022.s03",
+     "source": "The birds filled the air with delightful melody."
+    },
+    {
+     "id": "p022.s04",
+     "source": "On all sides there hung the orange and the citron, the persimmon and the pomegranate, the peach and the plum and the loquat."
+    },
+    {
+     "id": "p022.s05",
+     "source": "The ground at his feet was as a rich brocade, embroidered with every flower that is."
+    },
+    {
+     "id": "p022.s06",
+     "source": "The happy dwellers in Horaizan took him by the hands and spoke lovingly to him."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“How strange it is,” said Jofuku, “I do not feel my old age any more.”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“What is old age?” they said."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“Neither do I feel any pain.”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“Now what is pain?” they said."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“The word is no longer written on my heart.”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“What word do you speak of, beloved?”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“ Mutability is the word.”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“And what may be its interpretation?”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“Tell me,” said the Wise Man, “is this death?”"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“We have never heard of death,” said the inhabitants of Horaizan."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "The Wise Man of Japan was Wasobiobe."
+    },
+    {
+     "id": "p034.s02",
+     "source": "He was full as wise as the Wise Man of China."
+    },
+    {
+     "id": "p034.s03",
+     "source": "He was not old but young."
+    },
+    {
+     "id": "p034.s04",
+     "source": "The people honoured him and loved him."
+    },
+    {
+     "id": "p034.s05",
+     "source": "Often he was happy enough."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "It was his pleasure to venture alone in a frail boat out to sea, there to meditate in the wild and watery waste."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Once as he did this it chanced that he fell asleep in his boat, and he slept all night long, while his boat drifted out to the eastward."
+    },
+    {
+     "id": "p035.s03",
+     "source": "So, when he awoke in the bright light of morning, he found himself beneath the shadow of Fusan, the Wonder Mountain."
+    },
+    {
+     "id": "p035.s04",
+     "source": "His boat lay in the waters of a river of Horaizan, and he steered her amongst the flowering iris and the lotus, and sprang on shore."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "“The sweetest spot in the world!” he said."
+    },
+    {
+     "id": "p036.s02",
+     "source": "“I think I have come to Horaizan the Blest.”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Soon came the youths and maidens of the island, and with them the Wise Man of China, as young and as happy as they."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“Welcome, welcome, dear brother,” they cried, “welcome to the Island of Eternal Youth.”"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "When they had given him to eat of the delicious fruit of the island, they laid them down upon a bank of flowers to hear sweet music."
+    },
+    {
+     "id": "p039.s02",
+     "source": "Afterwards they wandered in the woods and groves."
+    },
+    {
+     "id": "p039.s03",
+     "source": "They rode and hunted, or bathed in the warm sea-water."
+    },
+    {
+     "id": "p039.s04",
+     "source": "They feasted and enjoyed every delightful pleasure."
+    },
+    {
+     "id": "p039.s05",
+     "source": "So the long day lingered, and there was no night, for there was no need of sleep, there was no weariness and no pain."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "The Wise Man of Japan came to the Wise Man of China."
+    },
+    {
+     "id": "p041.s02",
+     "source": "He said:"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“I cannot find my boat.”"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“What matter, brother?” said Jofuku."
+    },
+    {
+     "id": "p043.s02",
+     "source": "“You want no boat here.”"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“Indeed, my brother, I do."
+    },
+    {
+     "id": "p044.s02",
+     "source": "I want my boat to take me home."
+    },
+    {
+     "id": "p044.s03",
+     "source": "I am sick for home."
+    },
+    {
+     "id": "p044.s04",
+     "source": "There’s the truth.”"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“Are you not happy in Horaizan?”"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "“No, for I have a word written upon my heart."
+    },
+    {
+     "id": "p046.s02",
+     "source": "The word is Humanity ."
+    },
+    {
+     "id": "p046.s03",
+     "source": "Because of it I am troubled and have no peace.”"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“Strange,” said the Wise Man of China."
+    },
+    {
+     "id": "p047.s02",
+     "source": "“Once I too had a word written on my heart."
+    },
+    {
+     "id": "p047.s03",
+     "source": "The word was Mutability , but I have forgotten what it means."
+    },
+    {
+     "id": "p047.s04",
+     "source": "Do you too forget.”"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "“Nay, I can never forget,” said the Wise Man of Japan."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "He sought out the Crane, who is a great traveller, and besought her, “Take me home to my own land.”"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "“Alas,” the Crane said, “if I did so you would die."
+    },
+    {
+     "id": "p050.s02",
+     "source": "This is the Island of Eternal Youth; do you know you have been here for a hundred years?"
+    },
+    {
+     "id": "p050.s03",
+     "source": "If you go away you will feel old age and weariness and pain, then you will die.”"
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "“No matter,” said Wasobiobe, “take me home.”"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "Then the Crane took him on her strong back and flew with him."
+    },
+    {
+     "id": "p052.s02",
+     "source": "Day and night she flew and never tarried and never tired."
+    },
+    {
+     "id": "p052.s03",
+     "source": "At last she said, “Do you see the shore?”"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "And he said, “I see it."
+    },
+    {
+     "id": "p053.s02",
+     "source": "Praise be to the gods.”"
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "She said, “Where shall I carry you?..."
+    },
+    {
+     "id": "p054.s02",
+     "source": "You have but a little time to live.”"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "“Good Crane, upon the dear sand of my country, under the spreading pine, there sits a poor fisherman mending his net."
+    },
+    {
+     "id": "p055.s02",
+     "source": "Take me to him that I may die in his arms.”"
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "So the Crane laid Wasobiobe at the poor fisherman’s feet."
+    },
+    {
+     "id": "p056.s02",
+     "source": "And the fisherman raised him in his arms."
+    },
+    {
+     "id": "p056.s03",
+     "source": "And Wasobiobe laid his head against the fisherman’s humble breast."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "“I might have lived for ever,” he said, “but for the word that is written on my heart.”"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "“What word?” said the fisherman."
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "“ Humanity is the word,” the Wise Man murmured."
+    },
+    {
+     "id": "p059.s02",
+     "source": "“I am grown old—hold me closer."
+    },
+    {
+     "id": "p059.s03",
+     "source": "Ah, the pain....”"
+    },
+    {
+     "id": "p059.s04",
+     "source": "He gave a great cry."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "Afterwards he smiled."
+    },
+    {
+     "id": "p060.s02",
+     "source": "Then his breath left him with a sigh, and he was dead."
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "“It is the way of all flesh,” said the fisherman."
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "Reflections.— P. 78."
+    }
+   ],
+   "id": "p062"
+  }
+ ]
+}

@@ -1,0 +1,554 @@
+{
+ "id": "eu-finland-001",
+ "title": {
+  "id": "title",
+  "source": "Mary, Mary, So Contrary!"
+ },
+ "tradition": "Finland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Mighty Mikko: A Book of Finnish Fairy Tales and Folk Tales",
+ "credits": "Fillmore, Parker (author, d. 1944)",
+ "gutenberg": "Project Gutenberg eBook #38112 — https://www.gutenberg.org/ebooks/38112 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Finland/001 - Mary, Mary, So Contrary!.md",
+ "stats": {
+  "paragraphs": 38,
+  "segments": 76,
+  "words": 839
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a farmer who was married to the most contrary wife in the world."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Her name was Maya."
+    },
+    {
+     "id": "p001.s03",
+     "source": "If he expected Maya to say, “Yes,” she would always say, “No,” and if he expected her to say, “No,” she would always say, “Yes.”"
+    },
+    {
+     "id": "p001.s04",
+     "source": "If he said the soup was too hot, Maya would instantly insist that it was too cold."
+    },
+    {
+     "id": "p001.s05",
+     "source": "She would do nothing that he wanted her to do, and she always insisted on doing everything that he did not want her to do."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Like most contrary people Maya was really very stupid and the farmer after he had been married to her for a few years knew exactly how to manage her."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "For instance at Christmas one year he wanted to make a big feast for his friends and neighbors."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Did he tell his wife so?"
+    },
+    {
+     "id": "p003.s03",
+     "source": "Not he!"
+    },
+    {
+     "id": "p003.s04",
+     "source": "Instead, a few weeks beforehand he remarked casually:"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Christmas is coming and I suppose every one will expect us to have fine white bread."
+    },
+    {
+     "id": "p004.s02",
+     "source": "But I don’t think we ought to."
+    },
+    {
+     "id": "p004.s03",
+     "source": "It’s too expensive."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Black bread is good enough for us.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Black bread, indeed!” cried Maya."
+    },
+    {
+     "id": "p005.s02",
+     "source": "“Not at all!"
+    },
+    {
+     "id": "p005.s03",
+     "source": "We’re going to have white bread and you needn’t say any more about it!"
+    },
+    {
+     "id": "p005.s04",
+     "source": "Black bread at Christmas!"
+    },
+    {
+     "id": "p005.s05",
+     "source": "To hear you talk people would suppose we are beggars!”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "The farmer pretended to be grieved and he said:"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Well, my dear, have white bread if your heart is set on it, but I hope you don’t expect to make any pies.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Not make any pies!"
+    },
+    {
+     "id": "p008.s02",
+     "source": "Just let me tell you I expect to make all the pies I want!”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Well, now, Maya, if we have pies I don’t think we ought to have any wine.”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“No wine!"
+    },
+    {
+     "id": "p010.s02",
+     "source": "I like that!"
+    },
+    {
+     "id": "p010.s03",
+     "source": "Of course we’ll have wine on Christmas!”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "The farmer was much pleased but, still pretending to protest, he said:"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Well, if we spend money on wine, we better not expect to buy any coffee.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“What!"
+    },
+    {
+     "id": "p013.s02",
+     "source": "No coffee on Christmas!"
+    },
+    {
+     "id": "p013.s03",
+     "source": "Who ever heard of such a thing!"
+    },
+    {
+     "id": "p013.s04",
+     "source": "Of course we’ll have coffee!”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“Well, I’m not going to quarrel with you!"
+    },
+    {
+     "id": "p014.s02",
+     "source": "Get a little coffee if you like, but just enough for you and me for I don’t think we ought to have any guests.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“What!"
+    },
+    {
+     "id": "p015.s02",
+     "source": "No guests on Christmas!"
+    },
+    {
+     "id": "p015.s03",
+     "source": "Indeed and you’re wrong if you think we’re not going to have a houseful of guests!”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "The farmer was overjoyed but, still pretending to grumble, he said:"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“If you have the house full of people, you needn’t think I’m going to sit at the head of the table, for I’m not!”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“You are, too!” screamed his wife."
+    },
+    {
+     "id": "p018.s02",
+     "source": "“That’s exactly where you are going to sit!”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“Maya, Maya, don’t get so excited!"
+    },
+    {
+     "id": "p019.s02",
+     "source": "I will sit there if you insist."
+    },
+    {
+     "id": "p019.s03",
+     "source": "But if I do you mustn’t expect me to pour the wine.”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“And why not?"
+    },
+    {
+     "id": "p020.s02",
+     "source": "It would be a strange thing if you didn’t pour the wine at your own table!”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“All right, all right, I’ll pour it!"
+    },
+    {
+     "id": "p021.s02",
+     "source": "But you mustn’t expect me to taste it beforehand.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“Of course you’re going to taste it beforehand!”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "This was exactly what the farmer wanted his wife to say."
+    },
+    {
+     "id": "p023.s02",
+     "source": "So you see by pretending to oppose her at every turn he was able to have the big Christmas party that he wanted and he was able to feast to his heart’s content with all his friends and relatives and neighbors."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Time went by and Maya grew more and more contrary if such a thing were possible."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Summer came and the haymaking season."
+    },
+    {
+     "id": "p024.s03",
+     "source": "They were going to a distant meadow to toss hay and had to cross an angry little river on a footbridge made of one slender plank."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "The farmer crossed in safety, then he called back to his wife:"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“Walk very carefully, Maya, for the plank is not strong!”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“I will not walk carefully!” the wife declared."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "She flung herself on the plank with all her weight and when she got to the middle of the stream she jumped up and down just to show her husband how contrary she could be."
+    },
+    {
+     "id": "p028.s02",
+     "source": "Well, the plank broke with a snap, Maya fell into the water, the current carried her off, and she was drowned!"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Her husband, seeing what had happened, ran madly upstream shouting:"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Help!"
+    },
+    {
+     "id": "p030.s02",
+     "source": "Help!”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "The haymakers heard him and came running to see what was the matter."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“My wife has fallen into the river!” he cried, “and the current has carried her body away!”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“What ails you?” the haymakers said."
+    },
+    {
+     "id": "p033.s02",
+     "source": "“Are you mad?"
+    },
+    {
+     "id": "p033.s03",
+     "source": "If the current has carried your wife away, she’s floating downstream, not upstream!”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“Any other woman would float downstream,” the farmer said."
+    },
+    {
+     "id": "p034.s02",
+     "source": "“Yes!"
+    },
+    {
+     "id": "p034.s03",
+     "source": "But you know Maya!"
+    },
+    {
+     "id": "p034.s04",
+     "source": "She’s so contrary she’d float upstream every time!”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“That’s true,” the haymakers said, “she would!”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "So all afternoon the farmer searched upstream for his wife’s body but he never found it."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "When night came he went home and had a good supper of all the things he liked to eat which Maya would never let him have."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "They were so busy eating and drinking"
+    }
+   ],
+   "id": "p038"
+  }
+ ]
+}

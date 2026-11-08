@@ -1,0 +1,83 @@
+{
+ "id": "as-china-012",
+ "title": {
+  "id": "title",
+  "source": "The Tiger’S Decoy"
+ },
+ "tradition": "China",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "The Chinese Fairy Book",
+ "credits": "Wilhelm, Richard (editor, d. 1930)",
+ "gutenberg": "Project Gutenberg eBook #29939 — https://www.gutenberg.org/ebooks/29939 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/China/012 - The Tiger’S Decoy.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 11,
+  "words": 215
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "T HAT the fox borrowed the terror he inspired from the tiger is more than a simile; but that the tiger has his decoy is something we read about in the story books, and grandfathers talk about a good deal, too."
+    },
+    {
+     "id": "p001.s02",
+     "source": "So there must be some truth in it."
+    },
+    {
+     "id": "p001.s03",
+     "source": "It is said that when a tiger devours a human being, the latter’s spirit cannot free itself, and that the tiger then uses it for a decoy."
+    },
+    {
+     "id": "p001.s04",
+     "source": "When he goes out to seek his prey, the spirit of the man he has devoured must go before him, to hide him, so that people cannot see him."
+    },
+    {
+     "id": "p001.s05",
+     "source": "And the spirit is apt to change itself into a beautiful girl, or a lump of gold or a bolt of silk."
+    },
+    {
+     "id": "p001.s06",
+     "source": "All sorts of deceptions are used to lure folk into the mountain gorges."
+    },
+    {
+     "id": "p001.s07",
+     "source": "Then the tiger comes along and devours his victim, and the new spirit must serve as his decoy."
+    },
+    {
+     "id": "p001.s08",
+     "source": "The old spirit’s time of service is over and it may go."
+    },
+    {
+     "id": "p001.s09",
+     "source": "And so it continues, turn by turn."
+    },
+    {
+     "id": "p001.s10",
+     "source": "Probably that is why they say of people who are forced to yield themselves up to cunning and powerful men, in order that others may be harmed: “They are the tiger’s decoys!”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Note: This tale is traditionally narrated."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  }
+ ]
+}

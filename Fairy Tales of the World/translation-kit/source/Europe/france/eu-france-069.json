@@ -1,0 +1,242 @@
+{
+ "id": "eu-france-069",
+ "title": {
+  "id": "title",
+  "source": "De l'Academie Françoise"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Popular Tales",
+ "credits": "Perrault, Charles (author, d. 1703); Lang, Andrew (editor, d. 1912)",
+ "gutenberg": "Project Gutenberg eBook #33931 — https://www.gutenberg.org/ebooks/33931 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/069 - De l'Academie Françoise.md",
+ "stats": {
+  "paragraphs": 14,
+  "segments": 34,
+  "words": 1305
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "TABLE."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Préface p. 77 Peau d'Asne , Conte p. 83 Les Souhaits Ridicules , Conte p. 107 Griselidis , Nouvelle p. 113"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "PRÉFACE."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "La manière dont le public a reçu les pièces de ce recueil, à mesure qu'elles lui ont été données séparément, est une espèce d'assurance qu'elles ne lui déplairont pas, en paroissant toutes ensemble."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Il est vrai que quelques personnes, qui affectent de paroître graves, et qui ont assez d'esprit pour voir que ce sont des contes faits à plaisir, et que la matière n'en est pas fort importante, les ont regardées avec mépris; mais on a eu la satisfaction de voir que les gens de bon goût n'en ont pas jugé de la sorte."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Ils ont éte bien aises de remarquer que ces bagatelles n'étoient pas de pures bagatelles, qu'elles renfermoient une morale utile, et que le récit enjoué dont elles étoient enveloppées n'avoit été choisi que pour les faire entrer plus agréablement dans l'esprit et d'une manière qui instruisît et divertît tout ensemble."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Cela devoit me suffire pour ne pas craindre le reproche de m'être amusé à des choses frivoles."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Mais, comme j'ai affaire à bien des gens qui ne se payent pas de raisons, et qui ne peuvent être touchés que par l'autorité et par l'exemple des anciens, je vais les satisfaire là-dessus."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Les fables milésiennes, si célèbres parmi les Grecs, et qui ont fait les délices d'Athènes et de Rome, n'étoient pas d'une autre espèce que les fables de ce recueil."
+    },
+    {
+     "id": "p006.s02",
+     "source": "L'histoire de la Matrone d'Ephèse est de la même nature que celle de Griselidis: ce sont l'une et l'autre des Nouvelles, c'est-à-dire des récits de choses qui peuvent être arrivées et qui n'ont rien qui blesse absolument la vraisemblance."
+    },
+    {
+     "id": "p006.s03",
+     "source": "La fable de Psyché, écrite par Lucien et par Apulée, est une fiction toute pure et un conte de vieille, comme celui de Peau d'Ane."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Aussi voyons-nous qu'Apulée le fait raconter, par une vieille femme, à une jeune fille que des voleurs avoient enlevée, de même que celui de Peau d'Ane est conté tous les jours à des enfants par leurs gouvernantes et par leurs grand'mères."
+    },
+    {
+     "id": "p006.s05",
+     "source": "La fable du laboureur qui obtint de Jupiter le pouvoir de faire, comme il lui plairoit, la pluie et le beau temps, et qui en usa de telle sorte qu'il ne recueillit que de la paille sans aucuns grains, parce qu'il n'avoit jamais demandé ni vent, ni froid, ni neige, ni aucun temps semblable, chose nécessaire cependant pour faire fructifier les plantes; cette fable, dis-je, est de même genre que le conte des Souhaits ridicules, si ce n'est que l'un est sérieux et l'autre comique; mais tous les deux vont à dire que les hommes ne connoissent pas ce qui leur convient, et sont plus heureuz d'être conduits par la Providence, que si toutes choses leur succédoient selon qu'ils le désirent."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Je ne crois pas qu'ayant devant moi de si beaux modèles, dans la plus sage et la plus docte antiquité, on soit en droit de me faire aucun reproche."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Je prétends même que mes fables méritent mieux d'être racontées que la plupart des contes anciens, et particulièrement celui de la Matrone d'Ephèse et celui de Psyché, si on les regarde du côté de la morale, chose principale dans toutes sortes de fables, et pour laquelle elles doivent avoir été faites."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Toute la moralité qu'on peut tirer de la Matrone d'Ephèse est que souvent les femmes qui semblent les plus vertueuses le sont le moins, et qu'ainsi il n'y en a presque point qui le soient véritablement."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Qui ne voit que cette morale est très-mauvaise, et qu'elle ne va qu'à corrompre les femmes par le mauvais exemple, et à leur faire croire qu'en manquant à leur devoir elles ne font que suivre la voie commune?"
+    },
+    {
+     "id": "p008.s02",
+     "source": "Il n'en est pas de même de la morale de Griselidis, qui tend à porter les femmes à souffrir de leurs maris, et à faire voir qu'il n'y en a point de si brutal ni de si bizarre dont la patience d'une honnête femme ne puisse venir à bout."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "A l'égard de la morale cachée dans la fable de Psyché, fable en elle-même très-agréable et très-ingénieuse, je la comparerai avec celle de Peau d'Ane, quand je la saurai; mais, jusqu'ici, je n'ai pu la deviner."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Je sais bien que Psyché signifie l'âme; mais je ne comprends point ce qu'il faut entendre par l'Amour, qui est amoureux de Psyché, c'est-à-dire de l'âme, et encore moins ce qu'on ajoute, que Psyché devoit être heureuse tant qu'elle ne connoîtroit point celui dont elle étoit aimée, qui étoit l'Amour; mais qu'elle seroit très-malheureuse dès le moment qu'elle viendroit à le connoître: voilà pour moi une énigme impénétrable."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Tout ce qu'on peut dire, c'est que cette fable, de même que la plupart de celles qui nous restent des anciens, n'ont été faites que pour plaire, sans égard aux bonnes mœurs, qu'ils négligeoient beaucoup."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Il n'en est pas de même des Contes que nos aïeux ont inventés pour leurs enfants."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Ils ne les ont pas contés avec l'élégance et les agréments dont les Grecs et les Romains ont orné leurs fables; mais ils ont toujours eu un très-grand soin que leurs contes renfermassent une morale louable et instructive."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Partout la vertu y est récompensée, et partout le vice y est puni."
+    },
+    {
+     "id": "p010.s04",
+     "source": "Ils tendent tous à faire voir l'avantage qu'il y a d'être honnête, patient, avisé, laborieux, obéissant, et le mal qui arrive à ceux qui ne le sont pas."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Tantôt ce sont des fées qui donnent pour don à une jeune fille qui leur aura repondu avec civilité, qu'à chaque parole qu'elle dira, il lui sortira de la bouche un diamant ou une perle; et, à une autre fille qui leur aura répondu brutalement, qu'à chaque parole il lui sortira de la bouche une grenouille ou un crapaud."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Tantôt ce sont des enfants qui, pour avoir bien obéi à leur père et à leur mère, deviennent grands seigneurs; ou d'autres qui, ayant été vicieux et désobéissans, sont tombés dans des malheurs épouvantables."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Quelque frivoles et bizarres que soient toutes ces fables dans leurs aventures, il est certain qu'elles excitent dans les enfants le désir de ressembler à ceux qu'ils voient devenir heureux, et en même temps la crainte des malheurs où les méchans sont tombés par leur méchanceté."
+    },
+    {
+     "id": "p012.s02",
+     "source": "N'est-il pas louable à des pères et à des mères, lorsque leurs enfants ne sont pas encore capables de goûter les vérités solides et dénuées de tout agrément, de les leur faire aimer, et, si cela se peut dire, de les leur faire avaler, en les enveloppant dans des récits agréables et proportionnés à la foiblesse de leur âge!"
+    },
+    {
+     "id": "p012.s03",
+     "source": "Il n'est pas croyable avec quelle avidité ces âmes innocentes, et dont rien n'a encore corrompu la droiture naturelle, reçoivent ces instructions cachées; on les voit dans la tristesse et dans l'abattement tant que le héros ou l'héroïne du conte sont dans le malheur, et s'écrier de joie quand le temps de leur bonheur arrive; de même qu'après avoir souffert impatiemment la prospérité du méchant ou de la méchante, ils sont ravis de les voir enfin punis comme ils le méritent."
+    },
+    {
+     "id": "p012.s04",
+     "source": "Ce sont des semences qu'on jette, qui ne produisent d'abord que des mouvements de joie et de tristesse, mais dont il ne manque guère d'éclore de bonnes inclinations."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "J'aurois pu rendre mes contes plus agréables, en y mêlant certaines choses un peu libres dont on a accoutumé de les égayer; mais le désir de plaire ne m'a jamais assez tenté pour violer une loi que je me suis imposée, de ne rien écrire qui pût blesser ou la pudeur, ou la bienséance."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Voici un madrigal qu'une jeune demoiselle de beaucoup d'esprit a composé sur ce sujet, et qu'elle a écrit au-dessous du conte de Peau d'Ane que je lui avois envoyé:"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "From the Griselidis of 1695."
+    }
+   ],
+   "id": "p014"
+  }
+ ]
+}

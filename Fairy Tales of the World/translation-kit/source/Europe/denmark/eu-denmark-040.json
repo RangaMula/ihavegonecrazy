@@ -1,0 +1,728 @@
+{
+ "id": "eu-denmark-040",
+ "title": {
+  "id": "title",
+  "source": "An Old Story Told Anew"
+ },
+ "tradition": "Denmark",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy Tales of Hans Christian Andersen",
+ "credits": "Andersen, H. C. (Hans Christian) (author, d. 1875)",
+ "gutenberg": "Project Gutenberg eBook #27200 — https://www.gutenberg.org/ebooks/27200 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Denmark/040 - An Old Story Told Anew.md",
+ "stats": {
+  "paragraphs": 51,
+  "segments": 100,
+  "words": 1612
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Far in the interior of the country lay an old baronial hall, and in it lived an old proprietor, who had two sons, which two young men thought themselves too clever by half."
+    },
+    {
+     "id": "p001.s02",
+     "source": "They wanted to go out and woo the King's daughter; for the maiden in question had publicly announced that she would choose for her husband that youth who could arrange his words best."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "So these two geniuses prepared themselves a full week for the wooing—this was the longest time that could be granted them; but it was enough, for they had had much preparatory information, and everybody knows how useful that is."
+    },
+    {
+     "id": "p002.s02",
+     "source": "One of them knew the whole Latin dictionary by heart, and three whole years of the daily paper of the little town into the bargain, and so well, indeed, that he could repeat it all either backwards or forwards, just as he chose."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The other was deeply read in the corporation laws, and knew by heart what every corporation ought to know; and accordingly he thought he could talk of affairs of state, and put his spoke in the wheel in the council."
+    },
+    {
+     "id": "p002.s04",
+     "source": "And he knew one thing more: he could embroider suspenders with roses and other flowers, and with arabesques, for he was a tasty, light-fingered fellow."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"I shall win the Princess!\""
+    },
+    {
+     "id": "p003.s02",
+     "source": "So cried both of them."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Therefore their old papa gave to each of them a handsome horse."
+    },
+    {
+     "id": "p003.s04",
+     "source": "The youth who knew the dictionary and newspaper by heart had a black horse, and he who knew all about the corporation laws received a milk-white steed."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Then they rubbed the corners of their mouths with fish-oil, so that they might become very smooth and glib."
+    },
+    {
+     "id": "p003.s06",
+     "source": "All the servants stood below in the courtyard, and looked on while they mounted their horses; and just by chance the third son came up."
+    },
+    {
+     "id": "p003.s07",
+     "source": "For the proprietor had really three sons, though nobody counted the third with his brothers, because he was not so learned as they, and indeed he was generally known as \"Jack the Dullard.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Hallo!\" said Jack the Dullard, \"where are you going?"
+    },
+    {
+     "id": "p004.s02",
+     "source": "I declare you have put on your Sunday clothes!\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"We're going to the King's court, as suitors to the King's daughter."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Don't you know the announcement that has been made all through the country?\""
+    },
+    {
+     "id": "p005.s03",
+     "source": "And they told him all about it."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"My word!"
+    },
+    {
+     "id": "p006.s02",
+     "source": "I'll be in it too!\" cried Jack the Dullard; and his two brothers burst out laughing at him, and rode away."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Father, dear,\" said Jack, \"I must have a horse too."
+    },
+    {
+     "id": "p007.s02",
+     "source": "I do feel so desperately inclined to marry!"
+    },
+    {
+     "id": "p007.s03",
+     "source": "If she accepts me, she accepts me; and if she won't have me, I'll have her; but she shall be mine!\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"Don't talk nonsense,\" replied the old gentleman."
+    },
+    {
+     "id": "p008.s02",
+     "source": "\"You shall have no horse from me."
+    },
+    {
+     "id": "p008.s03",
+     "source": "You don't know how to speak—you can't arrange your words."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Your brothers are very different fellows from you.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Well,\" quoth Jack the Dullard, \"If I can't have a horse, I'll take the Billy-goat, who belongs to me, and he can carry me very well!\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "And so said, so done."
+    },
+    {
+     "id": "p010.s02",
+     "source": "He mounted the Billy-goat, pressed his heels into its sides, and galloped down the high street like a hurricane."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"Hei, houp! that was a ride!"
+    },
+    {
+     "id": "p011.s02",
+     "source": "Here I come!\" shouted Jack the Dullard, and he sang till his voice echoed far and wide."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "But his brothers rode slowly on in advance of him."
+    },
+    {
+     "id": "p012.s02",
+     "source": "They spoke not a word, for they were thinking about the fine extempore speeches they would have to bring out, and these had to be cleverly prepared beforehand."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"Hallo!\" shouted Jack the Dullard."
+    },
+    {
+     "id": "p013.s02",
+     "source": "\"Here am I!"
+    },
+    {
+     "id": "p013.s03",
+     "source": "Look what I have found on the high road.\""
+    },
+    {
+     "id": "p013.s04",
+     "source": "And he showed them what it was, and it was a dead crow."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"Dullard!\" exclaimed the brothers, \"what are you going to do with that?\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"With the crow? why, I am going to give it to the Princess.\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"Yes, do so,\" said they; and they laughed, and rode on."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Hallo, here I am again! just see what I have found now: you don't find that on the high road every day!\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "And the brothers turned round to see what he could have found now."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"Dullard!\" they cried, \"that is only an old wooden shoe, and the upper part is missing into the bargain; are you going to give that also to the Princess?\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"Most certainly I shall,\" replied Jack the Dullard; and again the brothers laughed and rode on, and thus they got far in advance of him; but—"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"Hallo—hop rara!\" and there was Jack the Dullard again."
+    },
+    {
+     "id": "p021.s02",
+     "source": "\"It is getting better and better,\" he cried."
+    },
+    {
+     "id": "p021.s03",
+     "source": "\"Hurrah! it is quite famous.\""
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"Why, what have you found this time?\" inquired the brothers."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"Oh,\" said Jack the Dullard, \"I can hardly tell you."
+    },
+    {
+     "id": "p023.s02",
+     "source": "How glad the Princess will be!\""
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"Bah!\" said the brothers; \"that is nothing but clay out of the ditch.\""
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"Yes, certainly it is,\" said Jack the Dullard; \"and clay of the finest sort."
+    },
+    {
+     "id": "p025.s02",
+     "source": "See, it is so wet, it runs through one's fingers.\""
+    },
+    {
+     "id": "p025.s03",
+     "source": "And he filled his pocket with the clay."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "But his brothers galloped on till the sparks flew, and consequently they arrived a full hour earlier at the town gate than could Jack."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Now at the gate each suitor was provided with a number, and all were placed in rows immediately on their arrival, six in each row, and so closely packed together that they could not move their arms; and that was a prudent arrangement, for they would certainly have come to blows, had they been able, merely because one of them stood before the other."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "All the inhabitants of the country round about stood in great crowds around the castle, almost under the very windows, to see the Princess receive the suitors; and as each stepped into the hall, his power of speech seemed to desert him, like the light of a candle that is blown out."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Then the Princess would say, \"He is of no use!"
+    },
+    {
+     "id": "p027.s03",
+     "source": "Away with him out of the hall!\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "At last the turn came for that brother who knew the dictionary by heart; but he did not know it now; he had absolutely forgotten it altogether; and the boards seemed to re-echo with his footsteps, and the ceiling of the hall was made of looking-glass, so that he saw himself standing on his head; and at the window stood three clerks and a head clerk, and every one of them was writing down every single word that was uttered, so that it might be printed in the newspapers, and sold for a penny at the street corners."
+    },
+    {
+     "id": "p028.s02",
+     "source": "It was a terrible ordeal, and they had, moreover, made such a fire in the stove, that the room seemed quite red hot."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "\"It is dreadfully hot here!\" observed the first brother."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "\"Yes,\" replied the Princess, \"my father is going to roast young pullets today.\""
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "\"Baa!\" there he stood like a baa-lamb."
+    },
+    {
+     "id": "p031.s02",
+     "source": "He had not been prepared for a speech of this kind, and had not a word to say, though he intended to say something witty."
+    },
+    {
+     "id": "p031.s03",
+     "source": "\"Baa!\""
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "\"He is of no use!\" said the Princess."
+    },
+    {
+     "id": "p032.s02",
+     "source": "\"Away with him!\""
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "And he was obliged to go accordingly."
+    },
+    {
+     "id": "p033.s02",
+     "source": "And now the second brother came in."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "\"It is terribly warm here!\" he observed."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "\"Yes, we're roasting pullets to-day,\" replied the Princess."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "\"What—what were you—were you pleased to ob-\" stammered he—and all the clerks wrote down, \"pleased to ob-\""
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "\"He is of no use!\" said the Princess."
+    },
+    {
+     "id": "p037.s02",
+     "source": "\"Away with him!\""
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Now came the turn of Jack the Dullard."
+    },
+    {
+     "id": "p038.s02",
+     "source": "He rode into the hall on his goat."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "\"Well, it's most abominably hot here.\""
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "\"Yes, because I'm roasting young pullets,\" replied the Princess."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "\"Ah, that's lucky!\" exclaimed Jack the Dullard, \"for I suppose you'll let me roast my crow at the same time?\""
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "\"With the greatest pleasure,\" said the Princess."
+    },
+    {
+     "id": "p042.s02",
+     "source": "\"But have you anything you can roast it in? for I have neither pot nor pan.\""
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "\"Certainly I have!\" said Jack."
+    },
+    {
+     "id": "p043.s02",
+     "source": "\"Here's a cooking utensil with a tin handle.\""
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "And he brought out the old wooden shoe, and put the crow into it."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "\"Well, that is a famous dish!\" said the Princess."
+    },
+    {
+     "id": "p045.s02",
+     "source": "\"But what shall we do for sauce?\""
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "\"Oh, I have that in my pocket,\" said Jack; \"I have so much of it that I can afford to throw some away;\" and he poured some of the clay out of his pocket."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "\"I like that!\" said the Princess."
+    },
+    {
+     "id": "p047.s02",
+     "source": "\"You can give an answer, and you have something to say for yourself, and so you shall be my husband."
+    },
+    {
+     "id": "p047.s03",
+     "source": "But are you aware that every word we speak is being taken down, and will be published in the paper to-morrow?"
+    },
+    {
+     "id": "p047.s04",
+     "source": "Look yonder, and you will see in every window three clerks and a head clerk; and the old head clerk is the worst of all, for he can't understand anything.\""
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "But she only said this to frighten Jack the Dullard; and the clerks gave a great crow of delight, and each one spurted a blot out of his pen on to the floor."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "\"Oh, those are the gentlemen, are they?\" said Jack; \"then I will give the best I have to the head clerk.\""
+    },
+    {
+     "id": "p049.s02",
+     "source": "And he turned out his pockets, and flung the wet clay full in the head clerk's face."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "\"That was very cleverly done,\" observed the Princess."
+    },
+    {
+     "id": "p050.s02",
+     "source": "\"I could not have done that; but I shall learn in time.\""
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "And accordingly Jack the Dullard was made a king, and received a crown and a wife, and sat upon a throne."
+    },
+    {
+     "id": "p051.s02",
+     "source": "And this report we have wet from the press of the head clerk and the corporation of printers—but they are not to be depended upon in the least."
+    }
+   ],
+   "id": "p051"
+  }
+ ]
+}

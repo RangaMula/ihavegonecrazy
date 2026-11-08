@@ -1,0 +1,91 @@
+{
+ "id": "eu-austria-tyrol-069",
+ "title": {
+  "id": "title",
+  "source": "The Fireman Pigerpütz"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/069 - The Fireman Pigerpütz.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 10,
+  "words": 365
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "At the foot of the Ischürgant mountain, near Imsh, stands a stone hut, called the Hirnhutte, because it had been erected by a former wood merchant whose name was Hirn, as a resting-place for his woodmen when he was felling timber on the banks of the torrent Pigersbach."
+    },
+    {
+     "id": "p001.s02",
+     "source": "This place is regarded with horror on account of a terrible shade which wanders from the Pigersbach upwards through an immense forest of gigantic oaks, and then passes over Strad up to the dense forest of firs which lies beyond."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "This apparition, which is generally called the Pigerpütz, appears as a headless black form, or tears through the air in the shape of a flame which is sometimes larger and sometimes smaller, sometimes lighter and sometimes darker, and which often has been seen to rise above the ground expanding as it goes to the height of sixty feet and more."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "In the year 1849 it happened that four peasants set out during the night from Imst to Tarenz, and as they walked along the Pigersbach which flowed on their right through mossy plains, they saw a brilliant flame floating across their path."
+    },
+    {
+     "id": "p003.s02",
+     "source": "“There goes the Pigerpütz,” said one of the men, and the others who were a little hot from the wine which they had taken at Imst, began to laugh and sneer at him; but they had scarcely done so ere the flame rushed upon them, and as they saw this the three tipsy men ran off as fast as their legs could carry them, but the one who had first seen and spoken of the Pigerpütz stood firmly on the spot."
+    },
+    {
+     "id": "p003.s03",
+     "source": "He was the peasant banker of Tarenz, who is still alive and recounts his adventure thus:—"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“I stood firm and let him approach, and, by my soul, he really came on and grew to the size of a haystack as he approached."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Then I said to him: ‘I shall never help you; for if you had led a better life, and not committed so many crimes, you would not now be obliged to wander about in this form."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Now off with you!’"
+    },
+    {
+     "id": "p004.s04",
+     "source": "And then, by my soul, he really fled away over the Pigersbach.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p005"
+  }
+ ]
+}

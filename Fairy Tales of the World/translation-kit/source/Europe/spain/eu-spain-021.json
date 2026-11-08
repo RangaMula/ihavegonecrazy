@@ -1,0 +1,62 @@
+{
+ "id": "eu-spain-021",
+ "title": {
+  "id": "title",
+  "source": "Its Only Manuscript"
+ },
+ "tradition": "Spain",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Spain",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Spain/021 - Its Only Manuscript.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 7,
+  "words": 221
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "But one manuscript of the Poema del Cid is known, the handiwork of a certain Per or Pedro the Abbot."
+    },
+    {
+     "id": "p001.s02",
+     "source": "About the third quarter of the eighteenth century, Sanchez, the royal librarian, was led to suspect through certain bibliographical references that such a manuscript might exist in the neighbourhood of Bivar, the birthplace of the hero of the poem, and he succeeded in unearthing it in that village."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The date at the end is given as Mille CCXLV, and authorities are not agreed as to its significance, some holding that a vacant space showing an erasure after the second C is intentional, and that it should read 1245 (1207 new style)."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Others believe that 1307 is the true date of the MS. However that may be, the poem itself is referred to a period not earlier than the middle of the twelfth nor later than the middle of the thirteenth century."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "As we possess it, the manuscript is in a rather mutilated and damaged condition."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The commencement and title are lost, a page in the middle is missing, and the end has been sadly patched by an unskilful hand."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Sanchez states, in his Poesías Castellanas anteriores al Siglo XV (1779–90) that he had seen a copy made in 1596 which showed that the MS. had the same deficiencies then as now."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

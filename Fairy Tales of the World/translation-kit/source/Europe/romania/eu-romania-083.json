@@ -1,0 +1,66 @@
+{
+ "id": "eu-romania-083",
+ "title": {
+  "id": "title",
+  "source": "Why Does The Fly Eat The Cherry?"
+ },
+ "tradition": "Romania",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Rumanian Bird and Beast Stories Rendered into English",
+ "credits": "Gaster, Moses (translator, d. 1939)",
+ "gutenberg": "Project Gutenberg eBook #43059 — https://www.gutenberg.org/ebooks/43059 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Romania/083 - Why Does The Fly Eat The Cherry.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 8,
+  "words": 137
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The Story of Lady Mary and the Cherries."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "It is told that, once upon a time, the Lady Mary wanted to bring some cherries to her son."
+    },
+    {
+     "id": "p002.s02",
+     "source": "So she went to a cherry tree and began to shake it."
+    },
+    {
+     "id": "p002.s03",
+     "source": "But to her surprise, instead of coming down as she expected, the cherries seemed to rise higher and higher."
+    },
+    {
+     "id": "p002.s04",
+     "source": "It was a cherry tree dedicated to the devil, and it was not meet that such cherries should be brought to God."
+    },
+    {
+     "id": "p002.s05",
+     "source": "So she went away full of wrath, and cursed the cherries."
+    },
+    {
+     "id": "p002.s06",
+     "source": "And lo! they were changed into small black mites that flew away."
+    },
+    {
+     "id": "p002.s07",
+     "source": "But the love of their sisters—the cherries—brings them back, and they come and kiss them, and when they kiss them they leave their eggs behind, which, growing into little white worms, eat the cherries."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

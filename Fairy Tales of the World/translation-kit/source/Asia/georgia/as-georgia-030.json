@@ -1,0 +1,112 @@
+{
+ "id": "as-georgia-030",
+ "title": {
+  "id": "title",
+  "source": "Teeth and No-Teeth"
+ },
+ "tradition": "Georgia",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Georgian Folk Tales",
+ "credits": "Wardrop, Marjory Scott (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #44536 — https://www.gutenberg.org/ebooks/44536 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Georgia/030 - Teeth and No-Teeth.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 18,
+  "words": 326
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Shah Ali desired to see the hungriest man in his kingdom, and find out how much of the daintiest food such a man could eat at a meal."
+    },
+    {
+     "id": "p001.s02",
+     "source": "So he let it be known that on a certain day he would dine with his courtiers in the open air, in front of the palace."
+    },
+    {
+     "id": "p001.s03",
+     "source": "At the appointed hour, tables were laid and dinner was served, in the presence of a vast crowd."
+    },
+    {
+     "id": "p001.s04",
+     "source": "After the first course, the shah mounted a daïs, and said: ‘My loyal subjects! you see what a splendid dinner I have."
+    },
+    {
+     "id": "p001.s05",
+     "source": "I should like to share it with those among you who are really hungry, and have not eaten for a long time, so tell me truly which is the hungriest of you all, and bid him come forward.’"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Two men appeared from the crowd: an old man of fifty and a young man of twenty-seven."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The former was grey-haired and feeble, the latter was fresh and of athletic build."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "‘How is it that you are hungry?’ asked the shah of the old man."
+    },
+    {
+     "id": "p003.s02",
+     "source": "‘I am old, my children are dead, toil has worn me out, and I have eaten nothing for three days.’"
+    },
+    {
+     "id": "p003.s03",
+     "source": "‘And you?’ said the shah, turning to the young man."
+    },
+    {
+     "id": "p003.s04",
+     "source": "‘I could not find work, and as I am a hearty young man I am ashamed to beg, so I too have not eaten for three days.’"
+    },
+    {
+     "id": "p003.s05",
+     "source": "The shah ordered them to be given food, on one plate, and in small portions."
+    },
+    {
+     "id": "p003.s06",
+     "source": "The hungry men eagerly ate, watching each other intently."
+    },
+    {
+     "id": "p003.s07",
+     "source": "Suddenly the old man and the young one both stopped and began to weep."
+    },
+    {
+     "id": "p003.s08",
+     "source": "‘Why do you weep?’ asked the shah in astonishment."
+    },
+    {
+     "id": "p003.s09",
+     "source": "‘I have no teeth,’ said the old man, ‘and while I am mumbling my food this young man eats up everything.’"
+    },
+    {
+     "id": "p003.s10",
+     "source": "‘And why are you weeping?’"
+    },
+    {
+     "id": "p003.s11",
+     "source": "‘He is telling lies, your majesty; while I am chewing my meat the old man gulps down everything whole....’"
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-015",
+ "title": {
+  "id": "title",
+  "source": "The Dog and the Shadow"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/015 - The Dog and the Shadow.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 87
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A DOG, crossing a bridge over a stream with a piece of flesh in his mouth, saw his own shadow in the water and took it for that of another Dog, with a piece of meat double his own in size."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He immediately let go of his own, and fiercely attacked the other Dog to get his larger piece from him."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He thus lost both: that which he grasped at in the water, because it was a shadow; and his own, because the stream swept it away."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-011",
+ "title": {
+  "id": "title",
+  "source": "The Fisherman Piping"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/011 - The Fisherman Piping.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 108
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A FISHERMAN skilled in music took his flute and his nets to the seashore."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Standing on a projecting rock, he played several tunes in the hope that the fish, attracted by his melody, would of their own accord dance into his net, which he had placed below."
+    },
+    {
+     "id": "p001.s03",
+     "source": "At last, having long waited in vain, he laid aside his flute, and casting his net into the sea, made an excellent haul of fish."
+    },
+    {
+     "id": "p001.s04",
+     "source": "When he saw them leaping about in the net upon the rock he said: “O you most perverse creatures, when I piped you would not dance, but now that I have ceased you do so merrily.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

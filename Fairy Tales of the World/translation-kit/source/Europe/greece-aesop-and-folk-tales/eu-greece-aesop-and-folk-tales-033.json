@@ -1,0 +1,50 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-033",
+ "title": {
+  "id": "title",
+  "source": "The Oxen and the Axle-Trees"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/033 - The Oxen and the Axle-Trees.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 4,
+  "words": 60
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A HEAVY WAGON was being dragged along a country lane by a team of Oxen."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The Axle-trees groaned and creaked terribly; whereupon the Oxen, turning round, thus addressed the wheels: “Hullo there! why do you make so much noise?"
+    },
+    {
+     "id": "p001.s03",
+     "source": "We bear all the labor, and we, not you, ought to cry out.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Those who suffer most cry out the least."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

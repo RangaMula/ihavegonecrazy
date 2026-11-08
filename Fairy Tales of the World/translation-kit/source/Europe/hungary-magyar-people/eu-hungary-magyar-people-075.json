@@ -1,0 +1,779 @@
+{
+ "id": "eu-hungary-magyar-people-075",
+ "title": {
+  "id": "title",
+  "source": "A Mostohaanya"
+ },
+ "tradition": "Hungary (Magyar people)",
+ "continent": "Europe",
+ "source_lang": "hu",
+ "source_book": "Gaal György magyar népmese-gyűjteménye (1. kötet)",
+ "credits": "Gaal, György (author, d. 1855)",
+ "gutenberg": "Project Gutenberg eBook #39299 — https://www.gutenberg.org/ebooks/39299 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Hungary (Magyar people)/075 - A Mostohaanya.md",
+ "stats": {
+  "paragraphs": 21,
+  "segments": 158,
+  "words": 5033
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Történt egy időben, hogy egy királyt hosszú csendes uralkodása után a más királyok megtámadtak a végett, hogy fiát Fülöpöt, ki már akkor tizennyolc esztendős vala, hugával együtt, ki már akkor tizenhatodik évében járt, megöljék vagy pedig valami olyas rabságra vethessék, a hol többet nem lesz róla emlékezet."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Ezt az irígységet okozta a királyfi gyenge esztendeiben már elfolyamodott híre jeles testi és lelki tulajdonainak és a huga kimondhatatlan szépségének."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Féltek a körüllevő nemzetek, hogy ha a királyfi fölnevekedik, mindnyájokat adó s hatalma alá veti, tehát minden módot megvetettek, hogyan lehessen a Fülöp királyfi atyjának veszedelmére országával s két magzatjával elbánni."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Volt pedig a királynak egy öreg szolgája, ki már harminc esztendőt tölte udvaránál mint kocsis, s régi szolgálata miatt nem volt egyébre gondja, mint egy pár lóra, melynek egyike fias kanca volt, ez volt az ő kedves paripája."
+    },
+    {
+     "id": "p001.s05",
+     "source": "De már most valamint a kocsis, úgy a ló is minden díszét elhagyá s búsúl; hasonlóképen a csikó is egészen elsoványodott, mivel látta az ő királyfiú gazdájának veszedelmét nem csak a körüllevő királyokban, hanem még az anyjában is, a ki mostoha volt; mert édes anyja megholt, mikor még a királyfiú négy esztendős vala."
+    },
+    {
+     "id": "p001.s06",
+     "source": "A király akkor az ország javaslásából megházasodott, s az új királyné, ki a bavarus király leánya volt, gyűlölte a megholt királynétól maradt két magzatot oly annyira, hogy azoknak veszedelmét minden módon ohajtotta."
+    },
+    {
+     "id": "p001.s07",
+     "source": "Ezt pedig az öreg kocsis jól átlátva, hogy a királyi herceget mily szerencsétlenség fogja érni, ha jó tanácsadói s hív szolgái nem lesznek; tehát föltevé magában, hogy ha még sokáig él, megmutatja hív szolgálata által a királyfihoz való hűségét."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Történt tehát, hogy háborúra kellett készülni a királynak, mivel a körüllevő nemzetek ellen védelmezni kellett magát."
+    },
+    {
+     "id": "p002.s02",
+     "source": "A királyfi legnagyobb vitézi bátorsággal indítá harcra a katonaságot; sok legény, mivel látta a néphez való jószivűségét és hogy jó király lesz még belőle, önszántából jött az ármádiához s örömmel ment a háborúba."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Már minden mi a hadviseléshez tartozandó, készen vala, csupán indúlni kelletett."
+    },
+    {
+     "id": "p002.s04",
+     "source": "A király parancsolatot ad a seregnek, hogy két nap múlva indúlni fog, s a királyfit a királykisasszonynyal együtt ajánlotta az ország nagyjainak és feleségének, hogy jó gondjokat viseljék, a királyfit oktassák, hogy jó királyt hagyhasson a nemzetnek holta után."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Hallván a királyfi, hogy őt a királyatyja el nem akarja vinni magával, igen megszomorodott, mivel már kardját, dárdáját, mindenét elkészíté; föltevé tehát magában, hogy elmegy a királyatyjához s kérni fogja, hogy őt is vigye el magával, hiszen ő is tudja már forgatni a kardot."
+    },
+    {
+     "id": "p002.s06",
+     "source": "Az öreg király semmikép nem akart kivánságára reá állani, mert mondá: ha te szerencsétlenül elveszesz az ütközetben, kire száll az ország? – Felele a királyfi: ó királyatyám, megtartják még továbbra is életünket az istenek. – Teljesedjék tehát kivánságod, édes fiam, mond a király, gyermekét megölelvén; másnap viradóra tehát útnak kell indúlnunk."
+    },
+    {
+     "id": "p002.s07",
+     "source": "Válaszsz hát magadnak, fiam, lovakat és szolgákat magad mellé tetszésed szerint, a kiket gondolsz hogy híven fognak szolgálni. – Királyatyám, gondolom, hogy a mi szolgáink mind hűségesek, tehát reggel jókor ki parancsolom rukkolni a lovászokat lovaikkal együtt, s akkor megmondom, hogy ki lesz a szolgám s melyik ló a paripám."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "A szolgák tehát mindjárt reggel rendbe álltak; az öreg kocsis legkésőbb jött ki lovaival."
+    },
+    {
+     "id": "p003.s02",
+     "source": "A királyfi tehát megvizsgálván mind a szolgákat mind pedig a lovakat, megkérdezte a szolgáktól, ki mióta szolgál; s az öreget, mint legrégibb szolgát választá maga mellé, s a lovak közűl, habár a király ellenzette, azt a senyevész csikót, melyre az öreg kocsis vigyázott, választá paripájaul, a kocsisnak pedig maradt az anyja a csikónak."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Kinek volt nagyobb öröme mint a királynénak, a királyfi mostohaanyjának."
+    },
+    {
+     "id": "p003.s04",
+     "source": "Azon bizodalomban volt, hogy az ellenség meg fogja ölni, minthogy idejére gyengének látszott; de hogy ő is megmutatná külsőképen fájdalmát, hogy nehezen esik elválása a királyfitól, három mérföldet elkisérte."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Ekkor félrehíván a királyfit ezt mondá: Édes fiam, tapasztald irántadi buzgó anyai szeretetemet, íme fogd e szelencét, melyben zsír van, melynek az a tulajdonsága, hogy mielőtt hadba mégy, kend meg vele karjaidat, s neked ez felette nagy hasznodra lesz az ütközetben, mert semmi módon el nem fog fáradni s győzedelmeskedel ellenségeden. – Ezt az öreg szolga abban hagyta."
+    },
+    {
+     "id": "p003.s06",
+     "source": "Akkor a királyné elment, a királyfi az ő kedves húgától elbucsúzott, s így folytatá az öreg király a királyfival útját az ellenség tábora felé."
+    },
+    {
+     "id": "p003.s07",
+     "source": "A királyfira reájött a félredolgára való menetel; hátramaradt tehát szolgájával a királyatyjától."
+    },
+    {
+     "id": "p003.s08",
+     "source": "Itten beszédbe ered szolgájával mindenféléről, s az öreg beszéde igen megtetszett neki, mivel mindent fontosan s okosan adott elő."
+    },
+    {
+     "id": "p003.s09",
+     "source": "Továbbá mondá az öreg szolga: Királyfi, temagad nagy veszedelemben forogsz, mert nem csak a külsőországi fejedelmek, hanem még a mostohaanyád is életed végére akar járni."
+    },
+    {
+     "id": "p003.s10",
+     "source": "Erre a szavára megboszankodott a királyfi, mit észrevett az öreg szolga, s monda: engedj meg királyfi, hogy azt merészlem neked mostohaanyádról mondani; a tapasztalás meg fogja mutatni, hogy hozzád való szeretete csupán csak szinlés volt és képmutatás, hogy így jobban eltakarhassa végbevinni akart gonoszságát. – Felele akkor a királyfi: beszéld tehát mit tudsz mindent; s ha legkisebb hamisságot veszek is észre szavaidban, fölakasztatlak."
+    },
+    {
+     "id": "p003.s11",
+     "source": "Erre megszólal az öreg szolgának a lova s azt mondja: gazdámnak a szava igaz, és ha, királyfi, az ő tanácsadásaira hallgatni nem fogsz, s miket javasol, végbe nem viszed: magadat, királyatyádat és országodat a végső veszedelembe ejted."
+    },
+    {
+     "id": "p003.s12",
+     "source": "Midőn ezt elvégezte volna az öreg szolga lova mondani, akkor elámult a királyfi, hogy micsoda kegyetlen szentenciát mondott előre a szegény szolga fejére."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Egyszer amint tovább mentek volna, a királyfi paripája is megszólal: királyfi édes gazdám, én előre látom, mily sok veszély fog rajtunk megfordúlni, de ne félj semmit; csak fogadd a szolgád tanácsát, s szerencsésen fogunk járni mindenütt."
+    },
+    {
+     "id": "p004.s02",
+     "source": "A királyfi nem győzte csodálni, mikép van az hogy ez a két ló beszél; de erre semmit sem kérdezett a szolgájától, hanem csak azt, hogy mit vett észre az ő királyi mostohaanyjában, micsoda hamisságot akarna elkövetni, a mi az ő veszedelmére lehetne."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Mond az öreg szolga: királyfi édes gazdám, nem-e mikor kikisért három mérföldre a királyné, tehát félre hítt s kezedbe adott egy szelencét tele zsírral, hogy magadat azzal megkennéd ütközet előtt; fog az neked erőt adni annyit, hogy akármely hatalmas ellenségeden is győzedelmeskedel."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Az a szerencse, királyfi, hogy engem elhoztál lovastól, mert máskép végedre jártak volna, és így is, hacsak szavamat nem fogadod, elveszesz."
+    },
+    {
+     "id": "p004.s05",
+     "source": "A lovak is azt mondják rá: igaz."
+    },
+    {
+     "id": "p004.s06",
+     "source": "Mondja tovább az öreg szolga beszédét: lásd az a zsír lett volna a te megrontód, mert az a vén banya, ki a királyné mellett van, s kit ő nagyon becsűl, s még a királyatyád előtt is nagy becsbe hozott, az készíté neked ezt a veszedelmes zsírt, mivel mindig azon tünődött a királyné, hogy csak te meghalnál, hát a fiát, Andrást emelhetné a királyiszékbe, a húgodat pedig feleségének."
+    },
+    {
+     "id": "p004.s07",
+     "source": "A vén banya, hogy még nagyobb becsületet nyerhessen, mondá a királynénak: felséges királyné, én tudok ebbe módot találni, hogy András herceg legyen idővel a király, hanem a dologban nem kell másnak tudni, mint nekem és a királynénak, s mindent úgy kell végbevinni a felséges királynénak, hogy Fülöp semmit észre ne vehessen."
+    },
+    {
+     "id": "p004.s08",
+     "source": "Erre ajánlkozott a királyné."
+    },
+    {
+     "id": "p004.s09",
+     "source": "No tehát, mondá a vén banya, íme ez a szelence, tele van csinált zsírral, kinek az az ereje van, hogy egy óra múlva a használata után egész 48 óráig minden erejét az embernek elveszi; tehát igen alkalmas lesz Fülöp királyfinak, mert most ütközetbe megy, s a királyné neki ajándékozza mint oly jószágot, hogy ha vele magát megkeni, tehát nagyobbodni fog az ereje s meggyőzi az ellenséget."
+    },
+    {
+     "id": "p004.s10",
+     "source": "Ennek – folytatá a vén banya – meg fog örülni a királyfi, s megkeni magát vele, hogy vitézségét megmutathassa; azonban megcsalatkozik s az ellenségtől meg fog öletni, mert nem lesz ereje magát védeni."
+    },
+    {
+     "id": "p004.s11",
+     "source": "Így oztán bizonyosan Andrásra száll majd a birodalom. – Örűlt a királyné s dicsérte a vén banyát, hogy ily okos tanácsot tud adni, s fogadta, hogy nem feledkezik el azt megjutalmazni."
+    },
+    {
+     "id": "p004.s12",
+     "source": "Íme, úgymond, most fogd addig is ezt az erszényt három ezer aranynyal."
+    },
+    {
+     "id": "p004.s13",
+     "source": "Kinek volt nagyobb öröme, mint a vén banyának, a vett ajándék miatt. – A királyné tehát a szelencét magához vevé, és amint magad is tapasztaltad, édes gazdám királyfi, átadá neked."
+    },
+    {
+     "id": "p004.s14",
+     "source": "Most tehát, hogy semmi kételkedés ne legyen mégis beszédemben, tehát a tábor megállapodásával hívasd parancsolatodra a legerősebb közvitézt, s mondd, hogy kenje meg karjait."
+    },
+    {
+     "id": "p004.s15",
+     "source": "Felele a királyfi: meg fogom tenni, mihelyt a tábor megáll."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Most hagyjuk a mostohaanyát a királyi palotába visszatérni."
+    },
+    {
+     "id": "p005.s02",
+     "source": "A királyfi tehát szolgájával neki ereszti lovát és beérik az öreg királyt."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Hol maradtál oly sokáig hátra, édes Fülöpöm? kérdé fiától a király. – Mond a királyfi: öreg szolgámmal csendes beszélgetésben töltöttem az időmet. – Kérdi fiától a király: hát hogyan tetszik az öreg?"
+    },
+    {
+     "id": "p005.s04",
+     "source": "Igen jól, felséges atyám; reménylem, hív szolgám lesz nekem is, mivel oly régen szolgál udvarunknál."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Tudnunk kell, hogy a király igen szerette eleinte az öreg szolgát Pált, de a többiek észrevették, hogy a király leginkább szereti, tehát minden roszat beszéltek róla, hogy részeges, az abrakot eladja s lovait nem tisztogatja jól, és csak mind azon volt, hogy a király elkergesse udvarából; de a király tekintvén az ő sok idejű szolgálatát, mégis megtartá, s azt a kancát, a mely vemhes volt, gondviselése alá parancsolta."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Az öreg Pál nem zúgolódott a király parancsolatára, s átvevé a kancát, de irígyei örültek, hogy ily szégyent tehettek rajta."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Most térjünk vissza a királyhoz."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Nem szólt tehát a királyfi, mikép Pál szolga megparancsolá, királyatyjának, hogy mit kapott mostohaanyjától, mit beszélt szolgája, és hogy lova és annak csikaja is beszélni tud."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Elérték tehát a tábor megállapodására rendelt helyet, letelepedének és ettek."
+    },
+    {
+     "id": "p007.s04",
+     "source": "A királyfi, miután éjtszaka kinyugodta volna magát a tábor, reggel mindjárt parancsolja Ferkót, ki egy markos s nagyerejű közember volt, hozzá a sátorba jönni, s mondá neki: tudod-e Ferkó, minek hivattalak?"
+    },
+    {
+     "id": "p007.s05",
+     "source": "Ő pedig meg volt ijedve, s nem tudta mit szóljon: királyfi, isten felfeszített-ugyse, nem raboltam, sem nem loptam egy krajcárt sem, ártatlanúl fogok szenvedni. – Felele a királyfi: nem mondom hogy raboltál vagy loptál, hanem hallgass reám s fogadd parancsolatomat."
+    },
+    {
+     "id": "p007.s06",
+     "source": "No most vesd le a dolmányodat. – Felséges királyfi, mond a Ferkó, engem az ördög szaggasson széljel mint a mákot, ha valakinek a jószágát eldugtam, vagy ha nálam leli felséges királyfi; én nem cselekedtem semmi roszat. – No csak vesd le hamar, mond a királyfi."
+    },
+    {
+     "id": "p007.s07",
+     "source": "Mit volt mit tenni Ferkónak, leveti dolmányát."
+    },
+    {
+     "id": "p007.s08",
+     "source": "No a lajblit is. – Bizony nincs nálam semmi lopott jószág. – Csak hamar, Ferkó; s itt van e szelencében a zsír, kend meg vele magad mind a két karodat. – Felséges királyfi, én nem vagyok rühös, ehen nézze a karomat, hogy tiszta. – No csak kend meg a karodat – Teszi Ferkó, és azután mondja a királyfi az ő öreg Pál szolgájának: adj abból az erszényből Ferkónak száz aranyat. – Felséges királyfi, de szépen hangzik fülemben az a szó; köszönöm felséges királyfi. – És most menj, Pál, a másik sátorba, s adj enni és innia Ferkónak bort vagy pálinkát, a mit szeret. – Felséges királyfi, mondja a Ferkó, én mind a kettőt nagyon szeretem. – Elmentek tehát a királyfi sátorából, Pál az öreg szolga és Ferkó a közvitéz; Pál mindjárt eleibe tesz Ferkónak egy bogrács húst, valami tíz fontra való volt még benne, meg egy pint pálinkát, és bort eleget."
+    },
+    {
+     "id": "p007.s09",
+     "source": "Mivelhogy hideg volt, tehát a húst Ferkó, hogy jobb ízűn ehessék, megmelegíteni, s a fát hozzá vágni akarta."
+    },
+    {
+     "id": "p007.s10",
+     "source": "Kezdi a fát vágni, hát egyszer csak azt mondja a Pálnak: öreg apám, ilyen teremtettét, én nem tudom mi bajom, oly erőtlen vagyok, kivált karjaimban; mintha semmi ér és in nem volna benne."
+    },
+    {
+     "id": "p007.s11",
+     "source": "Mindjárt kihíjja a királyfit az öreg szolga s mondja, tekintené meg Ferkót."
+    },
+    {
+     "id": "p007.s12",
+     "source": "Kijön a királyfi sátorából és megy egyenesen a Ferkóhoz: mit csinálsz, Ferkó, bizonyosan sokat ittál. – Királyfi, mond erre a Ferkó, egy kortyot sem ittam s egy falatot sem ettem; ihol meg akartam melegíteni a húst, s kijöttem a sátorból fát vágni, s egyszerre úgy elveszett az erőm, hogy már a fejszét sem birom fölemelni; nem tudom mi a guta lelt. – Mondja tehát a királyfi Ferkónak: menj be az öreg szolgám sátorába, s ott pihend ki magadat, vagy beküldelek ispitályba. – Isten mentsen meg! a lenne még a pokolbeli kín; a minap voltam az ispitályba a pajtásomnál és diétája volt neki, az igaz, rosszúl is volt; mert bevittem neki alattomban egy pint pálinkát s egy komisz kenyeret, meg vagy két fontra való disznópecsenyét, s alig birta meginni egyszerre a pálinka felét, s a kenyérnek, valamint a pecsenyének is csak felét tudta megenni."
+    },
+    {
+     "id": "p007.s13",
+     "source": "Irtózom csak ha említeni is hallom az ispitályt. – No hát Ferkó, mond a királyfi, maradj a sátorban, majd jobban leszesz."
+    },
+    {
+     "id": "p007.s14",
+     "source": "De a Ferkó mindig jobban jobban lankadott, úgy hogy estve felé már alig kelhetett föl; ott volt a bor, pálinka, hús előtte, de hozzá sem nyúlt, mert nem kellett."
+    },
+    {
+     "id": "p007.s15",
+     "source": "Éjtszakára elaludott, s fölérezvén, kezdi a pálinkát kóstolni, vagy nyolcvan kilencven kortyot gyomorfájástól behajt; de még azt a kortyot is, mit először bevett, ki kellett köpni; eléggé fájlalta, hogy nem ihatik, de mit volt mit tenni, oly erőtlen vala s apetitusa nem volt."
+    },
+    {
+     "id": "p007.s16",
+     "source": "Az nap is csak úgy volt Ferkó; a királyfi gyakran bement őtet megnézni hogyan van, megismerte hogy szolgájának beszéde igazság, mégis csak várta kimenetelét."
+    },
+    {
+     "id": "p007.s17",
+     "source": "Tehát még az nap is oly erőtlen volt Ferkó; éjtszaka következett, elaludt Ferkó, reggel felérzik, próbál fölkelni, hát látja hogy már összeütheti bokáját. – Apám, mondja az öreg szolgának, már jobban vagyok, hanem hol a hús, bor és pálinka? hadd egyem, mert mennem kell, mit gondol a kapitányom? – Azt gondolja bizonyosan, hogy fölakasztottak; a hús a tüzön van Ferkó, a bor és pálinka melletted a sarokban. – Nohát csak hamarjába egy-két korty pálinkát s néhány korty bort reá behajtok, egy-két falat húst nyomatéknak. – Jól lakott a Ferkó, és az öreg szolga behívja a királyfit, nézze meg Ferkót, már megint semmi baja."
+    },
+    {
+     "id": "p007.s18",
+     "source": "Bemegy tehát a királyfi: Ferkó hogyan vagy? – Felséges királyfi, igaz, hogy jobban vagyok egy kevéssé, mert egy itce pálinkát, meg ennek a csobolyó bornak felét, mégis elmorzsolgattam, de reménylem, hogy megint nem lesz semmi bajom; hanem, felséges királyfi, hogyan megyek a kapitányomhoz? megveret, mert nem hiszi, hogy itt voltam a királyfi parancsolatjából; hanem jó lenne egy kis irást vinnem neki, úgy majd elhiszi."
+    },
+    {
+     "id": "p007.s19",
+     "source": "A királyfi tehát ád neki egy cédulát, melyben megírta, hogy Ferkónak semmi bántása ne legyen."
+    },
+    {
+     "id": "p007.s20",
+     "source": "Elmegy hát Ferkó a kapitányához; ez mindjárt rá támad mérgesen: hol voltál oly sokáig? valahol részegeskedtél? – Uram kapitány uram, nem, a felséges királyfinál voltam, íme ezt írta kapitány úrnak."
+    },
+    {
+     "id": "p007.s21",
+     "source": "Olvassa a kapitány magában: „a közvitéz Ferkónak, ki az én parancsolatom által sátoromnál negyvennyolc óráig tartatott meg, semmi bántása ne legyen."
+    },
+    {
+     "id": "p007.s22",
+     "source": "Királyfi Fülöp.“ Úgy menekedett meg Ferkó az ütlegtől."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "A királynéra térjünk vissza."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Haza érvén a királyné, a királykisasszonynak mindenben kedvét kereste, remélvén, hogy föltett gonosz szándékát végbe fogja vinni; s kinek volt nagyobb becsűlete mint a vén banyának!"
+    },
+    {
+     "id": "p008.s03",
+     "source": "Örűlt a királykisasszony, hogy oly jó hozzá a királyné mostohaanyja, más nem szomorítá, csak hogy királyatyját és bátyját nem láthatá."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "A királyfinak pedig tudtára adta az atyja, hogy harmadnapra az ellenséggel megütköznek."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Alig várhatá azt a napot a királyfi, addig is vadászattal foglalatoskodott."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Történt hogy vadászat közben egy árnyékos fa alatt kissé nyugodni akarnának, ledőltek alája s elszunyadtak."
+    },
+    {
+     "id": "p009.s04",
+     "source": "A királyfi álmában látta, hogy egy öreg ősz ember jött volna hozzá s egyik kezében egy nagy kardot, a másikban pedig más kardot hoz felé, s az egyiket leássa az egyik ló első lába alá, a másikat a másik ló lába alá, s ezzel eltűnik."
+    },
+    {
+     "id": "p009.s05",
+     "source": "Ezek után egy szarka szállt valahonnan a fára, és az ő csergésével felköltötte az alvó királyfit az ő szolgájával."
+    },
+    {
+     "id": "p009.s06",
+     "source": "Fölkelvén, csudálta álmát a királyfi, hogy mi az és mit jelenthetne."
+    },
+    {
+     "id": "p009.s07",
+     "source": "Ezt a szolga észrevette hogy valamin gondolkoznék a királyfi, s kérdezi: felséges királyfi, ha szabad kérdést tenni felségednek, igen szeretném tudni, micsoda gondolatokba merűlt? – Mond a királyfi: édes szolgám, igen furcsán álmodtam, mintha egy öreg embert láttam volna felénk jönni álmomban, s két kardot hozott a két kezében, az egyiket az egyik ló első lába alá, a másikat, a másik lónak lába alá beásta. – Ezt csudálja, felséged? feleli az öreg Pál szolga."
+    },
+    {
+     "id": "p009.s08",
+     "source": "Nézzük meg, talán a lovak lába alatt találjuk meg azon kardokat."
+    },
+    {
+     "id": "p009.s09",
+     "source": "Reá állt a királyfi, s alig hogy kezdik ásni a ló lába alatt a földet, azonnal meglelték."
+    },
+    {
+     "id": "p009.s10",
+     "source": "Örült a királyfi a talált kardon, körül nézi, találja rajta ezt az irást: „győzedelmeskedik ellenségein.“ Kinek volt nagyobb öröme, mint a királyfinak."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Visszatértek tehát a táborba."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Eljött az ütközetre rendelt óra, már készen álltak a katonák; jelt adnak."
+    },
+    {
+     "id": "p010.s03",
+     "source": "A merre csak ment Fülöp királyfi és Pál szolgája, ritkúlt az ellenség s a ki közűle észrevette ezen vitéz karjának hatalmas erejét, vagy szaladással menté életét vagy pedig gráciáért esedezett."
+    },
+    {
+     "id": "p010.s04",
+     "source": "E vérengző csata reggeltől fogva egészen estve nyolc óráig tartott; igaz hogy Fülöp atyjának katonái az ellenséget helyéből kiverték s jó távolra el is hajták, de megestveledett s nyugovásra adták magokat."
+    },
+    {
+     "id": "p010.s05",
+     "source": "Csodálta az öreg király a fia hősies erejét, s áldotta az istent, hogy ily magzattal megajándékozta, nem különben dicsérte az öreg szolgának vitézségét, s tusakodott magában, hogy jóllehet a Pál csak mint kocsis szolgált harminc évig engem, de mégis olyan atyától kellett születnie, ki a haditudományokra tanítá, s nem utolsó familiából kell lennie, mert ő idegen nemzetből való, ki midőn szolgálatot kért udvaromnál, nem is tudakoztam születéséről, sem vándorlásának okáról."
+    },
+    {
+     "id": "p010.s06",
+     "source": "Így gondolkozott az öreg király majd egész éjfélig; elérte az álom s elaluszik."
+    },
+    {
+     "id": "p010.s07",
+     "source": "Álmában látja a fiát Fülöpöt a palotában szobájában nyugodni, s egy álorcás belopódzik éjféltájban hozzá s megáll előtte az ágyának, s kihúz kebeléből egy nagy kést és már keresztűl akarja szúrni; és mintha akkor Pál bement volna hozzá, erre a gyilkos megrettent s elejté a kést kezéből."
+    },
+    {
+     "id": "p010.s08",
+     "source": "Ekkor fölérzik a király, el sem beszélhette kedves fiának az ő irtóztató álmát, mert már ideje volt, hogy az ellenséget tovább hajtsák; újra kezdék az ellenséget mozgatni, de az úgy megátalkodott, hogy bármint voltak is rajta, semmi módon meg nem indíthatták."
+    },
+    {
+     "id": "p010.s09",
+     "source": "Már az öreg király kétségeskedett a háború szerencsés kimenetelén, látván az ellenség sokaságát, kik majd három annyian voltak, mint az ő ereje."
+    },
+    {
+     "id": "p010.s10",
+     "source": "Észrevette Fülöp atyja gondolkozásait s monda: királyatyám, bizzunk a mi jó vitéz katonáinkban, kiket az ellenség sokasága meg nem rettent; nincs egyéb hátra, király atyám, hanem újonnan támadjuk meg az ellenséget, legelőször is királyatyám testőrzőit ereszszük reá, hogy mutassák meg hűségöket, s a haza iránti fiúi szeretetöket. – Kedves fiam Fülöp, monda az öreg király, magamban is felbuzdúlt a vér, hogy én is kiálljak a síkra személyesen."
+    },
+    {
+     "id": "p010.s11",
+     "source": "Eleget kérte Fülöp, hagyjon fel azzal a gondolattal, mivel már öreg, de eleget nem beszélhetett királyi atyjának."
+    },
+    {
+     "id": "p010.s12",
+     "source": "Neki indúltak megint az ellenségnek, s az öreg király úgy megörvendeztette az egész táborát, mivel látták, hogy velek együtt a haza boldogságáért életét feláldozza, hogy örömkiáltással ragadják fegyveröket markokba, az ellenséget mindenike mint egy vad oroszlán ölte vágta."
+    },
+    {
+     "id": "p010.s13",
+     "source": "Az öreg királyt jóllehet a fia s az öreg Pál nem hagyta el, mégis az ellenség részéről néhány bátor vitéz, a kik látták, hogy az öreg király fiastól, és Pál, kik legnagyobb kárt tettek az ellenség vitézein, itten harcolna (mert Fülöp és Pál oly dühösséggel vagdalta őket s nemkülönben az öreg király, hogy a lovak az elesett holtaktól már alig mehettek) észrevette, hogy az öszvezavarodott nép közt a király minden segítség nélkül maradt, a Fülöp eltéveszté az atyját, és sokan megrohanák az ellenség közül az öreg királyt, s lovát az ellenség fővezére átdöfé; szerencséjére a királynak, itt jő a Ferkó néhány pajtásával nagy sebesen, azt gondolá, hogy a királyfit kerűlgeti oly nagyon az ellenség, oda ugrat a pajtásaival, s látta az öreg királyt hogy már ló nélkül van és bal karjából csorog a vér: oly mérgesen vágott közé, hogy a királytól már hátráltatta az ellenséget."
+    },
+    {
+     "id": "p010.s14",
+     "source": "Észrevette Fülöp hogy atyja nincs sehol körüle, már azt gondolta, hogy vagy elfogták, vagy talán már meg is ölték; ugyan űzte mindenütt mindenfelé az ellenséget, végre látja, hogy jobbfelől igen csoportozik, oda ugrat Pállal, látja hogy atyja és Ferkó pajtásaival együtt már sebeket is kapott; reá rohan Fülöp az ellenségre, s legelőször is azt a fővezért szúrja át, a ki királyi atyja lovát keresztűl ütte."
+    },
+    {
+     "id": "p010.s15",
+     "source": "Az ellenség tehát mindenfelöl megfutamodott, nagyobb részét levágták, sokat elfogtak, végre megszünt a csata, s a Fülöp király atyja győzedelmeskedett."
+    },
+    {
+     "id": "p010.s16",
+     "source": "Más nap követeket küldöttek az ellenkező királyok, s békességet kértek, meg is adta az öreg király."
+    },
+    {
+     "id": "p010.s17",
+     "source": "Megvitték e követek, mily becsülettel fogadta őket az öreg király, s kéréseket, tudniillik a békességre való reáállást; a királyok tehát az öreg király jószívűségét személyesen meg akarták köszönni, s másnap tiszteletére mentek."
+    },
+    {
+     "id": "p010.s18",
+     "source": "Az ellenkező fejedelmek között leghatalmasabb volt a burkus király; ez ment be a Fülöp, atyjához legelül."
+    },
+    {
+     "id": "p010.s19",
+     "source": "Esztendejére is majdnem hasonló volt az öreg királyhoz, a háborúban egész familiájával részt vett, mert neki is hasonlóképen egy pár magzatja volt, egy férfi s egy leány, kik akkori időben a legszebbek közé számláltattak."
+    },
+    {
+     "id": "p010.s20",
+     "source": "Tehát a burkus király Fülöp atyjához az öreg királyhoz, feleségestől, fiastól és leányostól ment, s oztán követte a többi kisebb fejedelem."
+    },
+    {
+     "id": "p010.s21",
+     "source": "Fülöp bement az atyjához, mielőtt még a királyok megérkeztek volna, tehát ott volt mikor a burkus király az ő szép cselédeivel bejött; a két király megcsókolta egymást, és Fülöp hasonlókép a burkus király fiát Károlyt."
+    },
+    {
+     "id": "p010.s22",
+     "source": "A többi beszéd közt előjött, hogy mily nagyon le vannak kötelezve a fejedelmek az öreg királynak jó barátságáért."
+    },
+    {
+     "id": "p010.s23",
+     "source": "A két királyfi együtt beszélgetett; a két király, királyné és királykisasszony együtt."
+    },
+    {
+     "id": "p010.s24",
+     "source": "Az első pillantat által szerelembe esett Fülöp a királykisasszonynyal, és a királykisasszony a királyfit igen megszerette."
+    },
+    {
+     "id": "p010.s25",
+     "source": "Nyughatatlan volt már a szive Fülöpnek, várta mikép lelhetne alkalmat a szép Luizával szólani; de a hosszas beszélgetés után a királyok elváltak egymástól, s a királyfiak is félbeszakaszták beszédjöket."
+    },
+    {
+     "id": "p010.s26",
+     "source": "Mily fájdalmasan látta Fülöp, hogy a kit úgy megszeretett, többé talán nem láthatja; egy édes pillantatot vetett egymásra a két szerelmes, melyből megismerték és elárulták titkos szerelmöket és elváltak."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "A dolog tehát úgy mint a háború szerencsésen elvégződött, haza felé indultak; a hazaindulóra a más nap rendeltetett."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Fülöp gondolá magában, jó lenne a királyatyját arra kérni, hogy a burkus királyt, mint már most jó barátját, házanépestől invitálná a mi országunk meglátogatására; s eme feltett szándékát végbe is vitte; elment királyatyjához, s kérte, ne vetné meg egy kérését."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Mindent, fiam, a mit kivánsz, éretted teszek. – Ezen jó barátunkat a burkus királyt, atyám, invitáljuk országunkba, és majd oly szövetséget tehetünk vele, mely országunknak még idővel nagy hasznára lehet, mert ő erős egy királyság, és ha idővel akárki ellenünk támadna is, bátran kiállhatnánk az ő segedelmével, mert számos és vitéz katonái vannak. – Tetszett az öreg királynak fia beszéde, s általlátta annak hasznát; felele tehát: legyen úgy; s mindjárt követeket küldött a burkus királyhoz, a kik ki is jelenték nála az öreg király akaratját; örömmel kivánta azt a burkus király teljesíteni."
+    },
+    {
+     "id": "p011.s04",
+     "source": "Ezek után visszatértek a követek s azt a hírt hozták, hogy holnaputánra készen lesz a burkus király feleségestől, fiastól, leányostól és cselédestűl az öreg király országán keresztűl utazni hazájába."
+    },
+    {
+     "id": "p011.s05",
+     "source": "Ez nagy örömére vált Fülöpnek, de főkép a Luiza princeszné küldött ajándéka, egy fejér keszkenő, melyre a Fülöp királyfi és a princeszné neve volt kivarrva, s alatta e szavak: barátság, szeretet, holtig való hűség."
+    },
+    {
+     "id": "p011.s06",
+     "source": "Mely nagyon örűlt ennek Fülöp, azt ki nem mondhatni."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Tehát elérkezett a vacsora, hozzá ült a király, királyfi s az asztalhoz tartozandók."
+    },
+    {
+     "id": "p012.s02",
+     "source": "A királynak, hogy hogy nem, eszébe jött, hogy Pált is, a ki oly híven szolgált és vitézűl harcolt, vacsoráljon velünk; elküldik tehát a király inasát érette: Pál, jöjjön, a király hívatja, minél hamarább. – Ugyan minek? kérdi Pál. – Nem tudom. – Bejelentik Pált; felele a király: csak jöjjön be."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Bemegy Pál, mindjárt mondja: mit parancsol, felséges király? – Egyebet nem, hanem most ülünk a vacsorához, és te is velünk."
+    },
+    {
+     "id": "p012.s04",
+     "source": "Eleget húzta magát, de mind hiába volt, a király kivánságának be kellett teljesedni."
+    },
+    {
+     "id": "p012.s05",
+     "source": "A királyfi megfogván a Pál kezét, az atyja és maga után az első helyre ültette, mondván: ámbár nem tudom születésednek eredetét, de nemes tetteid és okosságod érdemessé tesznek, hogy ezt a helyt viseld. – Vacsoráltak."
+    },
+    {
+     "id": "p012.s06",
+     "source": "A király kivánta tudni, honnan vette eredetét Pál."
+    },
+    {
+     "id": "p012.s07",
+     "source": "Felséges királyom, mit harminc év alatt eltitkoltam, most kivánod, hogy fölfedezzem?"
+    },
+    {
+     "id": "p012.s08",
+     "source": "Hadd abba, felséges király. – Nem, csak beszéld el. – Tehát király parancsolatára el kezdi beszélni, és ekép. – Felséges király, én burkus születés vagyok, az atyám ennek a mostani burkus király atyjának fővezére volt; de ellene sokan áskálódtak, sok irígye volt, oly annyira, hogy ártatlanságát a hamis vádak elnyomták és a király kivégeztette; az anyám szomorúságában meghalt."
+    },
+    {
+     "id": "p012.s09",
+     "source": "Én akkor 15 esztendős voltam és a burkus lovasságnál főhadnagy, engem is tisztségemtől megfosztottak."
+    },
+    {
+     "id": "p012.s10",
+     "source": "Az országban szégyenlettem már tovább maradni, és vettem bújdosásom felséged országába; föltevém magamban, soha senkinek sem fogom megmondani születésemet, a mit harminc évig el is titkoltam felséges király udvaránál. – Mely szerencsétlen volt, kedves Pál, felele a királyfi, a te atyád és anyád, hasonlókép neked, mely sokat kellett eddig tűrni!"
+    },
+    {
+     "id": "p012.s11",
+     "source": "Felséges atyám, ha kérésem foganatos leszen, úgy is elesett a fővezérünk, s mindenkor szükséges egy jó fővezér, legyen az Pál."
+    },
+    {
+     "id": "p012.s12",
+     "source": "Én tudom, hogy ő mindenfélekép érdemes arra. – Ezen mindnyájan elámúltak az asztalnál; látja a királyfi, hogy gondolkozik az atyja, teljesítse-e kivánságát vagy sem: akkor tele tölti atyja poharát, s a magáét, és mondja: kérem királyi atyámat, igyunk Pál, az új fővezérünk egészségeért."
+    },
+    {
+     "id": "p012.s13",
+     "source": "Feleli az öreg kírály: éljen sokáig!"
+    },
+    {
+     "id": "p012.s14",
+     "source": "Ezen véletlen megváltoztatását állapotának Pál az égi hatalomnak tulajdonítá, köszönte a királyának és királyfinak róla való gondolkozását, s először ugyan föl nem akarta vállalní, de a király a mint megmondá, úgy kelle lenni."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "A vacsora után kiki a maga szállására ment, minthogy másnap reggel már hazájokba fognak indúlni vissza."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Alig várhatá Fülöp kírályfi hogy megviradjon, mindig csak azt ohajtozván, hogy minél hamarább megláthatná a királykisasszonyt."
+    },
+    {
+     "id": "p013.s03",
+     "source": "Fölserkent tehát a nap, s nem sokára megjelent a király táborával s udvarával együtt."
+    },
+    {
+     "id": "p013.s04",
+     "source": "Ó mely nagy örömmel látta Fülöp a királykisasszonyt!"
+    },
+    {
+     "id": "p013.s05",
+     "source": "A két király tábora összezárkozott s örömkiáltások között folytatták útjokat."
+    },
+    {
+     "id": "p013.s06",
+     "source": "Míg hazáig értek, volt elég alkalma Fülöp királyfinak beszélni s mulatozni a királyleánynyal, s titkon már a holtig való hűségre kötelezték egymást."
+    },
+    {
+     "id": "p013.s07",
+     "source": "Már nem volt tovább a város, a király lakhelye mintsem hat mérföldnyire, előre küldé tehát a futárt, hogy hírűl adnák már itten közellétét; valamint az országbeliek mindenütt örvendeztek királyuk látásán, nem különben várta a főváros is az ő jó fejedelmét; el is érkezett a nép, s örömkiáltásokkal vevé körül, a kis gyermekek és leányok koszorúkat hánytak elébe, akkori szokás szerint."
+    },
+    {
+     "id": "p013.s08",
+     "source": "Jelen volt a király felesége, Fülöp mostohaanyja s a Fülöp testvér húga."
+    },
+    {
+     "id": "p013.s09",
+     "source": "Fülöp az ő kedves húgát, az atyai tiszteletet miután megtevé, megcsókolván, a burkus királyhoz és Luizához vezeté."
+    },
+    {
+     "id": "p013.s10",
+     "source": "A burkus király fia, ki eddig nem volt szeretetnek rabja, most azzá lett; eddig csak nevette, kik a szeretettől oly nagyon meg voltak hódítva, de már most látja, hogy mely nagy erőt vehet az ember szívén egy szép lélek szerelme."
+    },
+    {
+     "id": "p013.s11",
+     "source": "Mind a két királyfi tehát oly gondolattal volt, hogy a két királyleányt magáévá tegye."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Most már beérnek a palota külső tájékára, és ott a kirukkolt purgerság nagy örömmel fogadá, s a királyné is, eltitkolva átkozott szándékát, még nagyobb szivességet mutatott; tehát kérte a királyfit, jönne némelykor hozzá s beszélné el, miként tölté a háborút, micsoda viszontagságokon estek által."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Kivánságát megtette a királyfi, hogy legkisebbet se vehessen észre a királyné, hogy ő már tudja minden álnokságait."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "A vén banya rendelkezését igen helytelennek állítá a királyné, mivel amint akarták, el nem sült; de a vén banya, bízván ördögi mesterségében, mondá: ne féljen, királyné, nem fog uralkodni Fülöp királyfi, hanem András lesz az ország királya, mert akárhogy, Fülöp királyfit kivégezem az életből."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "A király kirendeltetett egy napot, melyben az ország nagyjai megvendégeltetnek."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Eljött hát e nap; ennek legjobban örült a vén asszony, remélvén, hogy gonosz föltett szándékát végbeviheti; ki is mondá a királynénak: felséges királyné, most van olyas alkalom, mit hasznunkra fordíthatunk. – Hogyan? kérdé a királyné. – Íme most lesz a vendégség, én egy nagy darázszsá változtatom magam, s mikor éljent fognak inni, én majd elszállok a királyfi pohara felett és oly mérget eresztek belé, hogy mindjárt meg kell halnia. – Gondolatod jó, csak vidd végbe, megkapod jutalmát."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "A két királyfi tehát egymás barátságában tölték legtöbbnyire idejöket, azért már semmit sem titkolhattak el egymástól; mondja tehát Fülöp királyfi: ó mely nagyon szívembe tűnt a te testvérhúgod! oly annyira, hogy nála nélkül már nem folytathatom életemet. – Nem különben vagyok én, felele a burkus királyfi, a te húgoddal. – Így tehát fedezzük fel királyatyáinknak szándékunkat; s mi ketten pedig, valamint atyáink, segélni fogjuk egymást holtig, minden esetben."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Eljött már az óra is, hogy megjelenjenek a vendégszobában; ott voltak hát mind együtt, a burkus király és királyné ültek az első helyen azután az öreg király a királynéval, azután a két princeszné, és úgy a két királyfi, kik, kedvök szerint kiki a maga kedvese mellé esett."
+    },
+    {
+     "id": "p018.s02",
+     "source": "A királyfi mellett ült Pál a fővezér, és úgy a többi ország nagyjai következtek."
+    },
+    {
+     "id": "p018.s03",
+     "source": "Most is tehát Pál fővezér (kit ezelőtt mint szolgáját neveztünk, most fővezér név alatt jön elő) ki el akarta rontani, a mint el is rontá, a királyné szándékát s a vén banya akaratát, mondja: felséges királyfi, ne gondolja, hogy már minden ellenségtől meg volna menekedve; a legnagyobb ellensége még megvan, tudniillik a mostohaanyja; az most is abban dolgozik, hogy a királyfit valahogy a világból kivégezhesse."
+    },
+    {
+     "id": "p018.s04",
+     "source": "Én mindent jól tudok, hogy mai nap a vendégségben akarnak a királyfinak végére járni, mely így fogna végbevitetni, hogy a vén banya egy nagy darázszsá fog válni, s mikor éljent akarnak inni, akkor elszáll a királyfi pohara felé s mérget ereszt belé, hogy mindjárt szörnyű halált haljon tőle."
+    },
+    {
+     "id": "p018.s05",
+     "source": "Hanem majd felvigyázok én reá, és ha látom, hogy a királyfi poharában van a méreg, minthogy a poharak egyformák, kicserélem a királynééval, a darázst pedig keszkenőmmel leütöm és egy üres pohár alá teszem."
+    },
+    {
+     "id": "p018.s06",
+     "source": "Ha a dolog nem leend igaz, tehát a királynénak nem lesz semmi baja, ha pedig benne lesz a méreg, meg fog halni azon halállal, mit a királyfinak készített."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Mind ezt, a mint mondá, véghez is vitte Pál vezér: a darázst az üvegpohár alá rekeszté, a királyfi poharát a királynééval fölcserélte."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Inni kezdenek tehát éljent, és mindenki kezébe tartja poharát, örült a királyné, hogy feltett gonosz szándékát végre fogja hajtani; isznak tehát, s a királyné azonnal legnagyobb fájdalmakat kap, úgy hogy mindjárt doktorokat hívattak, de mindenik azt mondá, lehetetlen rajta segíteni, hanem két óra múlva meghal."
+    },
+    {
+     "id": "p019.s03",
+     "source": "A király irtózott e véletlen dolgon, hanem a királyné, nem akarván e terhes vétket más világra vinni, oda hívatta magához: megérdemlem, úgymond, e halált, mert fiadnak Fülöpnek akartam okozni, hanem velem történt."
+    },
+    {
+     "id": "p019.s04",
+     "source": "Már többet nem szólhatott, azonnal meghalt."
+    },
+    {
+     "id": "p019.s05",
+     "source": "A vén banya is asszonynyá vált megint, s megégettetett."
+    },
+    {
+     "id": "p019.s06",
+     "source": "Pál vezérnek pedig még sokkal nagyobb becsülete lett a király előtt, mert a királyfi mindent előbeszélt, hogyan tartá meg már két ízben életét."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Ezek után a két királyfi, az atyjok és ország akarata s magoknak kivánsága szerint, a két királyi princeszszel öszveházasodtak, és országlott mind a kettő csendességben számos esztendőkig."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p021"
+  }
+ ]
+}

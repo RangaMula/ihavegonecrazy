@@ -1,0 +1,58 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-026",
+ "title": {
+  "id": "title",
+  "source": "The Tortoise and the Eagle"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/026 - The Tortoise and the Eagle.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 6,
+  "words": 148
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A TORTOISE, lazily basking in the sun, complained to the sea-birds of her hard fate, that no one would teach her to fly."
+    },
+    {
+     "id": "p001.s02",
+     "source": "An Eagle, hovering near, heard her lamentation and demanded what reward she would give him if he would take her aloft and float her in the air."
+    },
+    {
+     "id": "p001.s03",
+     "source": "“I will give you,” she said, “all the riches of the Red Sea.”"
+    },
+    {
+     "id": "p001.s04",
+     "source": "“I will teach you to fly then,” said the Eagle; and taking her up in his talons he carried her almost to the clouds suddenly he let her go, and she fell on a lofty mountain, dashing her shell to pieces."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The Tortoise exclaimed in the moment of death: “I have deserved my present fate; for what had I to do with wings and clouds, who can with difficulty move about on the earth?”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "If men had all they wished, they would be often ruined."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "id": "eu-austria-tyrol-046",
+ "title": {
+  "id": "title",
+  "source": "The Gold-Worm Of The Alpbach Valley"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/046 - The Gold-Worm Of The Alpbach Valley.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 5,
+  "words": 168
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Near the “Reichen-Felder” (rich fields), behind the valley of Alpbach, is often to be seen, especially on the eve of holy-days, a gold-worm of wonderful brilliancy, which lies there motionless, and wrinkled in such a manner that it looks like a golden chain."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Sometimes this gold-worm has also been seen down in the valley far beneath the Reichen-Felder, even once so far as the banks of the Alpbach, on a spot which is called G’reit."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Several times daring people approached the worm, but when they had come near to him they were struck with an uncontrollable terror; and on running to fetch others as witnesses, on their return the worm was no longer to be seen."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The peasants round about say, “Those people had not the grace of putting something sacred upon the worm, and for that reason it disappeared.”"
+    },
+    {
+     "id": "p003.s02",
+     "source": "After all, it is not stated what the worm is, whether it is a treasure-bloom, or a treasure-guardian, of which there are numbers in this rich gold country."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  }
+ ]
+}

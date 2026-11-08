@@ -1,0 +1,311 @@
+{
+ "id": "eu-england-073",
+ "title": {
+  "id": "title",
+  "source": "Tamlane"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "More English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #14241 — https://www.gutenberg.org/ebooks/14241 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/073 - Tamlane.md",
+ "stats": {
+  "paragraphs": 19,
+  "segments": 44,
+  "words": 850
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Young Tamlane was son of Earl Murray, and Burd Janet was daughter of Dunbar, Earl of March."
+    },
+    {
+     "id": "p001.s02",
+     "source": "And when they were young they loved one another and plighted their troth."
+    },
+    {
+     "id": "p001.s03",
+     "source": "But when the time came near for their marrying, Tamlane disappeared, and none knew what had become of him."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Many, many days after he had disappeared, Burd Janet was wandering in Carterhaugh Wood, though she had been warned not to go there."
+    },
+    {
+     "id": "p002.s02",
+     "source": "And as she wandered she plucked the flowers from the bushes."
+    },
+    {
+     "id": "p002.s03",
+     "source": "She came at last to a bush of broom and began plucking it."
+    },
+    {
+     "id": "p002.s04",
+     "source": "She had not taken more than three flowerets when by her side up started young Tamlane."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"Where come ye from, Tamlane, Tamlane?\""
+    },
+    {
+     "id": "p003.s02",
+     "source": "Burd Janet said; \"and why have you been away so long?\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"From Elfland I come,\" said young Tamlane."
+    },
+    {
+     "id": "p004.s02",
+     "source": "\"The Queen of Elfland has made me her knight.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"But how did you get there, Tamlane?\" said Burd Janet."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"I was hunting one day, and as I rode widershins round yon hill, a deep drowsiness fell upon me, and when I awoke, behold!"
+    },
+    {
+     "id": "p006.s02",
+     "source": "I was in Elfland."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Fair is that land and gay, and fain would I stop but for thee and one other thing."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Every seven years the Elves pay their tithe to the Nether world, and for all the Queen makes much of me, I fear it is myself that will be the tithe.\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Oh can you not be saved?"
+    },
+    {
+     "id": "p007.s02",
+     "source": "Tell me if aught I can do will save you, Tamlane?\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"One only thing is there for my safety."
+    },
+    {
+     "id": "p008.s02",
+     "source": "To-morrow night is Hallowe'en, and the fairy court will then ride through England and Scotland, and if you would borrow me from Elfland you must take your stand by Miles Cross between twelve and one o' the night, and with holy water in your hand you must cast a compass all around you.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"But how shall I know you, Tamlane?\" quoth Burd Janet, \"amid so many knights I've ne'er seen before?\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"The first court of Elves that come by let pass."
+    },
+    {
+     "id": "p010.s02",
+     "source": "The next court you shall pay reverence to, but do naught nor say aught."
+    },
+    {
+     "id": "p010.s03",
+     "source": "But the third court that comes by is the chief court of them, and at the head rides the Queen of all Elfland."
+    },
+    {
+     "id": "p010.s04",
+     "source": "And I shall ride by her side upon a milk-white steed with a star in my crown; they give me this honour as being a christened knight."
+    },
+    {
+     "id": "p010.s05",
+     "source": "Watch my hands, Janet, the right one will be gloved but the left one will be bare, and by that token you will know me.\""
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"But how to save you, Tamlane?\" quoth Burd Janet."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"You must spring upon me suddenly, and I will fall to the ground."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Then seize me quick, and whatever change befall me, for they will exercise all their magic on me, cling hold to me till they turn me into red-hot iron."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Then cast me into this pool and I will be turned back into a mother-naked man."
+    },
+    {
+     "id": "p012.s04",
+     "source": "Cast then your green mantle over me, and I shall be yours, and be of the world again.\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "So Burd Janet promised to do all for Tamlane, and next night at midnight she took her stand by Miles Cross and cast a compass round her with holy water."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Soon there came riding by the Elfin court, first over the mound went a troop on black steeds, and then another troop on brown."
+    },
+    {
+     "id": "p014.s02",
+     "source": "But in the third court, all on milk-white steeds, she saw the Queen of Elfland, and by her side a knight with a star in his crown, with right hand gloved and the left bare."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Then she knew this was her own Tamlane, and springing forward she seized the bridle of the milk-white steed and pulled its rider down."
+    },
+    {
+     "id": "p014.s04",
+     "source": "And as soon as he had touched the ground she let go the bridle and seized him in her arms."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"He's won, he's won amongst us all,\" shrieked out the eldritch crew, and all came around her and tried their spells on young Tamlane."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "First they turned him in Janet's arms like frozen ice, then into a huge flame of roaring fire."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Then, again, the fire vanished and an adder was skipping through her arms, but still she held on; and then they turned him into a snake that reared up as if to bite her, and yet she held on."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Then suddenly a dove was struggling in her arms, and almost flew away."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Then they turned him into a swan, but all was in vain, till at last he was turned into a red-hot glaive, and this she cast into a well of water and then he turned back into a mother-naked man."
+    },
+    {
+     "id": "p016.s05",
+     "source": "She quickly cast her green mantle over him, and young Tamlane was Burd Janet's for ever."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Then sang the Queen of Elfland as the court turned away and began to resume its march:"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "And then the Elfin court rode away, and Burd Janet and young Tamlane went their way homewards and were soon after married after young Tamlane had again been sained by the holy water and made Christian once more."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p019"
+  }
+ ]
+}

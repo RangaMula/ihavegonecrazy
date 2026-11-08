@@ -1,0 +1,116 @@
+{
+ "id": "eu-sweden-083",
+ "title": {
+  "id": "title",
+  "source": "Kadnihak"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/083 - Kadnihak.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 16,
+  "words": 331
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Kadnihaks are a kind of spirit which dwell underground, at times, showing themselves to man dressed in red attire, and having long hair which resembles green flax and reaches to their waists."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Like the Lapps, they have reindeer and dogs, and like them also in this and their dress, their language and songs are the same."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Some of their songs have even been learned and are called “Kadniha-vuolle.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "It happened in the last century that a great number of the mountain Lapps had pitched their tents in the vicinity of Qvikkjokk."
+    },
+    {
+     "id": "p002.s02",
+     "source": "It was at the season when the court and fair were in session in Jokkmokk."
+    },
+    {
+     "id": "p002.s03",
+     "source": "In the absence of the older people, in attendance at court or fair, the youths and maids remaining at home let themselves out for a good time at all kinds of games."
+    },
+    {
+     "id": "p002.s04",
+     "source": "An old Lapp woman, knowing that the Kadnihaks, or Trolls, living in the adjacent mountains would not tolerate such a confusion, warned the young people, but in vain."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Evening came, and all retired to rest, but it had hardly become quiet in the Lapp tents before the Kadnihaks were heard to be astir."
+    },
+    {
+     "id": "p003.s02",
+     "source": "The tinkling of bells, cries of men, barking of dogs, noise of reindeer and a general commotion prevailed on all sides."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The Lapps were seized with fear and trembling."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The old Lapp woman arose from her bed of reindeer skins and peeked out through the tent door."
+    },
+    {
+     "id": "p005.s02",
+     "source": "With [ ] horror she saw the whole tribe of sprites marching straight down upon the camp."
+    },
+    {
+     "id": "p005.s03",
+     "source": "No time was to be wasted."
+    },
+    {
+     "id": "p005.s04",
+     "source": "She threw about her a skin and hurried out to treat with the angry Trolls."
+    },
+    {
+     "id": "p005.s05",
+     "source": "With great trouble and promises that she would see to it that the children would conduct themselves better in the future, she induced them to change their course, thus staying the danger the camp was in of being trampled down."
+    },
+    {
+     "id": "p005.s06",
+     "source": "From that day there was quiet in the camp as long as it continued there."
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

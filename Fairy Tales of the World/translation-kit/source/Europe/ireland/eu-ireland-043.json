@@ -1,0 +1,120 @@
+{
+ "id": "eu-ireland-043",
+ "title": {
+  "id": "title",
+  "source": "The Phantom Isle"
+ },
+ "tradition": "Ireland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy and Folk Tales of the Irish Peasantry",
+ "credits": "Yeats, W. B. (William Butler) (editor, d. 1939)",
+ "gutenberg": "Project Gutenberg eBook #33887 — https://www.gutenberg.org/ebooks/33887 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Ireland/043 - The Phantom Isle.md",
+ "stats": {
+  "paragraphs": 8,
+  "segments": 13,
+  "words": 293
+ },
+ "paragraphs": [
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "GIRALDUS CAMBRENSIS"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Among the other islands is one newly formed, which they call the Phantom Isle, which had its origin in this manner."
+    },
+    {
+     "id": "p002.s02",
+     "source": "One calm day a large mass of earth rose to the surface of the sea, where no land had ever been seen before, to the great amazement of islanders who observed it."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Some of them said that it was a whale, or other immense sea-monster; others, remarking that it continued motionless, said, \"No; it is land.\""
+    },
+    {
+     "id": "p002.s04",
+     "source": "In order, therefore, to reduce their doubts to certainty, some picked young men of the island determined to approach nearer the spot in a boat."
+    },
+    {
+     "id": "p002.s05",
+     "source": "When, however, they came so near to it that they thought they should go on shore, the island sank in the water and entirely vanished from sight."
+    },
+    {
+     "id": "p002.s06",
+     "source": "The next day it re-appeared, and again mocked the same youths with the like delusion."
+    },
+    {
+     "id": "p002.s07",
+     "source": "At length, on their rowing towards it on the third day, they followed the advice of an older man, and let fly an arrow, barbed with red-hot steel, against the island; and then landing, found it stationary and habitable."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "This adds one to the many proofs that fire is the greatest of enemies to every sort of phantom; in so much that those who have seen apparitions, fall into a swoon as soon as they are sensible of the brightness of fire."
+    },
+    {
+     "id": "p003.s02",
+     "source": "For fire, both from its position and nature, is the noblest of the elements, being a witness of the secrets of the heavens."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The sky is fiery; the planets are fiery; the bush burnt with fire, but was not consumed; the Holy Ghost sat upon the apostles in tongues of fire."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p005"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Footnote"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Giraldus Cambrensis\" was born in 1146, and wrote a celebrated account of Ireland."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p008"
+  }
+ ]
+}

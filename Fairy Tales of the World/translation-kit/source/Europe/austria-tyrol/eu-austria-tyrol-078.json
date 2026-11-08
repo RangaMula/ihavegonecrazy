@@ -1,0 +1,75 @@
+{
+ "id": "eu-austria-tyrol-078",
+ "title": {
+  "id": "title",
+  "source": "The Antholzer-See"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/078 - The Antholzer-See.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 6,
+  "words": 193
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Where now lies the beautiful lake in the Puster-Thal with its rippling green waters, three magnificent farms used to stand surrounded by expanses of rich and fertile ground."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "One year, when the Kermesse was being celebrated, on which day every one indulges in something more than usual, an old beggar man arrived in each of the farms and asked for charity, begging even for any dry morsels that remained from their meal."
+    },
+    {
+     "id": "p002.s02",
+     "source": "But the peasants were one and all selfish and avaricious, and so they kicked the poor mendicant from the door."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The beggar then said in anger to each of them: “Take care! in three days a spring shall rise behind your farm, and then your eyes will open; so look to what will happen!”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The peasants, however, cared little for the beggar’s threat, and laughed at him; but on the third day a spring arose behind each farm, and their united waters increased to such an extent that they soon formed a lake which devoured in its depth the farms and their inhabitants."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "This is the Antholzer-See, also called Spitaler Hochsee, which now stands surrounded by dark forests of gigantic pines."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p005"
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "id": "eu-france-058",
+ "title": {
+  "id": "title",
+  "source": "Edited by Andrew Lang"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Popular Tales",
+ "credits": "Perrault, Charles (author, d. 1703); Lang, Andrew (editor, d. 1912)",
+ "gutenberg": "Project Gutenberg eBook #33931 — https://www.gutenberg.org/ebooks/33931 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/058 - Edited by Andrew Lang.md",
+ "stats": {
+  "paragraphs": 11,
+  "segments": 17,
+  "words": 98
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "ARNO PRESS A New York Times Company New York / 1977"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Editorial Supervision: LUCILLE MAIORCA"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Reprint Edition 1977 by Arno Press Inc."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Reprinted from a copy in The Princeton University Library"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "INTERNATIONAL FOLKLORE ISBN for complete set: 0-405-10077-9 See last pages of this volume for titles."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Manufactured in the United States of America"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Library of Congress Cataloging in Publication Data"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Perrault, Charles, 1628-1703."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Popular tales."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "(International folklore) Translation of selected tales from Contes."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Reprint of the 1888 ed. published by the Clarendon Press, Oxford."
+    },
+    {
+     "id": "p011.s03",
+     "source": "I. Lang, Andrew, 1844-1912."
+    },
+    {
+     "id": "p011.s04",
+     "source": "II."
+    },
+    {
+     "id": "p011.s05",
+     "source": "Title."
+    },
+    {
+     "id": "p011.s06",
+     "source": "III."
+    },
+    {
+     "id": "p011.s07",
+     "source": "Series."
+    },
+    {
+     "id": "p011.s08",
+     "source": "PQ1877.A25 1977 398.2 77-70607 ISBN 0-405-10118-X"
+    }
+   ],
+   "id": "p011"
+  }
+ ]
+}

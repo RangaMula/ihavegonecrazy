@@ -1,0 +1,54 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-045",
+ "title": {
+  "id": "title",
+  "source": "The Boy and the Filberts"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/045 - The Boy and the Filberts.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 5,
+  "words": 88
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A BOY put his hand into a pitcher full of filberts."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He grasped as many as he could possibly hold, but when he tried to pull out his hand, he was prevented from doing so by the neck of the pitcher."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Unwilling to lose his filberts, and yet unable to withdraw his hand, he burst into tears and bitterly lamented his disappointment."
+    },
+    {
+     "id": "p001.s04",
+     "source": "A bystander said to him, “Be satisfied with half the quantity, and you will readily draw out your hand.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Do not attempt too much at once."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

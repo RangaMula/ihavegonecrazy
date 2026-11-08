@@ -1,0 +1,66 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-032",
+ "title": {
+  "id": "title",
+  "source": "The Bear and the Two Travelers"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/032 - The Bear and the Two Travelers.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 8,
+  "words": 145
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "TWO MEN were traveling together, when a Bear suddenly met them on their path."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One of them climbed up quickly into a tree and concealed himself in the branches."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The other, seeing that he must be attacked, fell flat on the ground, and when the Bear came up and felt him with his snout, and smelt him all over, he held his breath, and feigned the appearance of death as much as he could."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The Bear soon left him, for it is said he will not touch a dead body."
+    },
+    {
+     "id": "p001.s05",
+     "source": "When he was quite gone, the other Traveler descended from the tree, and jocularly inquired of his friend what it was the Bear had whispered in his ear."
+    },
+    {
+     "id": "p001.s06",
+     "source": "“He gave me this advice,” his companion replied."
+    },
+    {
+     "id": "p001.s07",
+     "source": "“Never travel with a friend who deserts you at the approach of danger.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Misfortune tests the sincerity of friends."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

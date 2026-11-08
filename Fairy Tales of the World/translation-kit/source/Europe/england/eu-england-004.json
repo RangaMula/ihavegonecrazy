@@ -1,0 +1,255 @@
+{
+ "id": "eu-england-004",
+ "title": {
+  "id": "title",
+  "source": "The Old Woman And Her Pig"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #7439 — https://www.gutenberg.org/ebooks/7439 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/004 - The Old Woman And Her Pig.md",
+ "stats": {
+  "paragraphs": 15,
+  "segments": 36,
+  "words": 687
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "An old woman was sweeping her house, and she found a little crooked sixpence."
+    },
+    {
+     "id": "p001.s02",
+     "source": "“What,” said she, “shall I do with this little sixpence?"
+    },
+    {
+     "id": "p001.s03",
+     "source": "I will go to market, and buy a little pig.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "As she was coming home, she came to a stile: but the piggy wouldn't go over the stile."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "She went a little further, and she met a dog."
+    },
+    {
+     "id": "p003.s02",
+     "source": "So she said to the dog: “Dog! bite pig; piggy won't go over the stile; and I shan't get home to-night.”"
+    },
+    {
+     "id": "p003.s03",
+     "source": "But the dog wouldn't."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "She went a little further, and she met a stick."
+    },
+    {
+     "id": "p004.s02",
+     "source": "So she said: “Stick! stick! beat dog! dog won't bite pig; piggy won't get over the stile; and I shan't get home to-night.”"
+    },
+    {
+     "id": "p004.s03",
+     "source": "But the stick wouldn't."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "She went a little further, and she met a fire."
+    },
+    {
+     "id": "p005.s02",
+     "source": "So she said: “Fire! fire! burn stick; stick won't beat dog; dog won't bite pig; piggy won't get over the stile; and I shan't get home to-night.”"
+    },
+    {
+     "id": "p005.s03",
+     "source": "But the fire wouldn't."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "She went a little further, and she met some water."
+    },
+    {
+     "id": "p006.s02",
+     "source": "So she said: “Water, water! quench fire; fire won't burn stick; stick won't beat dog; dog won't bite pig; piggy won't get over the stile; and I shan't get home to-night.”"
+    },
+    {
+     "id": "p006.s03",
+     "source": "But the water wouldn't."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "She went a little further, and she met an ox."
+    },
+    {
+     "id": "p007.s02",
+     "source": "So she said: “Ox! ox! drink water; water won't quench fire; fire won't burn stick; stick won't beat dog; dog won't bite pig; piggy won't get over the stile; and I shan't get home to-night.”"
+    },
+    {
+     "id": "p007.s03",
+     "source": "But the ox wouldn't."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "She went a little further, and she met a butcher."
+    },
+    {
+     "id": "p008.s02",
+     "source": "So she said: “Butcher! butcher! kill ox; ox won't drink water; water won't quench fire; fire won't burn stick; stick won't beat dog; dog won't bite pig; piggy won't get over the stile; and I shan't get home to-night.”"
+    },
+    {
+     "id": "p008.s03",
+     "source": "But the butcher wouldn't."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "She went a little further, and she met a rope."
+    },
+    {
+     "id": "p009.s02",
+     "source": "So she said: “Rope! rope! hang butcher; butcher won't kill ox; ox won't drink water; water won't quench fire; fire won't burn stick; stick won't beat dog; dog won't bite pig; piggy won't get over the stile; and I shan't get home to-night.”"
+    },
+    {
+     "id": "p009.s03",
+     "source": "But the rope wouldn't."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "She went a little further, and she met a rat."
+    },
+    {
+     "id": "p010.s02",
+     "source": "So she said: “Rat! rat! gnaw rope; rope won't hang butcher; butcher won't kill ox; ox won't drink water; water won't quench fire; fire won't burn stick; stick won't beat dog; dog won't bite pig; piggy won't get over the stile; and I shan't get home to-night.”"
+    },
+    {
+     "id": "p010.s03",
+     "source": "But the rat wouldn't."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "She went a little further, and she met a cat."
+    },
+    {
+     "id": "p011.s02",
+     "source": "So she said: “Cat! cat! kill rat; rat won't gnaw rope; rope won't hang butcher; butcher won't kill ox; ox won't drink water; water won't quench fire; fire won't burn stick; stick won't beat dog; dog won't bite pig; piggy won't get over the stile; and I shan't get home to-night.”"
+    },
+    {
+     "id": "p011.s03",
+     "source": "But the cat said to her, “If you will go to yonder cow, and fetch me a saucer of milk, I will kill the rat.”"
+    },
+    {
+     "id": "p011.s04",
+     "source": "So away went the old woman to the cow."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "But the cow said to her: “If you will go to yonder hay-stack, and fetch me a handful of hay, I'll give you the milk.”"
+    },
+    {
+     "id": "p012.s02",
+     "source": "So away went the old woman to the haystack and she brought the hay to the cow."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "As soon as the cow had eaten the hay, she gave the old woman the milk; and away she went with it in a saucer to the cat."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "As soon as the cat had lapped up the milk, the cat began to kill the rat; the rat began to gnaw the rope; the rope began to hang the butcher; the butcher began to kill the ox; the ox began to drink the water; the water began to quench the fire; the fire began to burn the stick; the stick began to beat the dog; the dog began to bite the pig; the little pig in a fright jumped over the stile, and so the old woman got home that night."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p015"
+  }
+ ]
+}

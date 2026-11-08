@@ -1,0 +1,141 @@
+{
+ "id": "eu-italy-090",
+ "title": {
+  "id": "title",
+  "source": "The Doctor'S Apprentice"
+ },
+ "tradition": "Italy",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Italian Popular Tales",
+ "credits": "Crane, Thomas Frederick (author, d. 1927)",
+ "gutenberg": "Project Gutenberg eBook #23634 — https://www.gutenberg.org/ebooks/23634 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Italy/090 - The Doctor'S Apprentice.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 21,
+  "words": 443
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once upon a time there was a doctor who took his apprentice with him when he made his visits."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One day while visiting a patient, the doctor said: \"Why do you not listen to my orders that you are not to eat anything?\""
+    },
+    {
+     "id": "p001.s03",
+     "source": "The invalid said: \"Sir, I assure you that I have eaten nothing.\""
+    },
+    {
+     "id": "p001.s04",
+     "source": "\"That is not true,\" answered the doctor, \"for I have found your pulse beating like that of a person who has eaten grapes.\""
+    },
+    {
+     "id": "p001.s05",
+     "source": "The patient, convicted, said: \"It is true that I have eaten some grapes; but it was only a little bunch.\""
+    },
+    {
+     "id": "p001.s06",
+     "source": "\"Very well; do not risk eating again, and don't think you can fool me.\""
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The poor apprentice, who was with the doctor, was amazed to see how his master guessed from the pulse that his patient had eaten grapes; and as soon as they had left the house he asked: \"Master, how did you perceive that he had eaten grapes?\""
+    },
+    {
+     "id": "p002.s02",
+     "source": "\"Listen,\" said the doctor."
+    },
+    {
+     "id": "p002.s03",
+     "source": "\"A person who visits the sick must never pass for a fool."
+    },
+    {
+     "id": "p002.s04",
+     "source": "As soon as you enter, cast your eyes on the bed and under the bed, too, and from the crumbs that you see you can guess what the patient has eaten."
+    },
+    {
+     "id": "p002.s05",
+     "source": "I saw the stalk of the grapes, and from that I inferred that he had eaten grapes.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The next day there were many patients in the town, and the doctor, not being able to visit them all, sent his apprentice to visit a few."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Among others, the apprentice went to see the man who had eaten the grapes; and wishing to play the part of an expert like his master, to show that he was a skilful physician, when he perceived that there were bits of straw under the bed, said angrily: \"Will you not understand that you must not eat?\""
+    },
+    {
+     "id": "p003.s03",
+     "source": "The invalid said: \"I assure you that I have not even tasted a drop of water.\""
+    },
+    {
+     "id": "p003.s04",
+     "source": "\"Yes, sir, you have,\" answered the apprentice; \"you have been eating straw, for I see the bits under the bed.\""
+    },
+    {
+     "id": "p003.s05",
+     "source": "The sick man replied at once: \"Do you take me for an ass like yourself?\""
+    },
+    {
+     "id": "p003.s06",
+     "source": "And so the apprentice cut the figure of the fool that he was."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "There are two figures in Sicilian folk-lore around whom many jokes have gathered which are, in other parts of Italy, told of some nameless person or attributed to the continental counterparts of the insular heroes."
+    },
+    {
+     "id": "p005.s02",
+     "source": "These two are Firrazzanu and Giufà."
+    },
+    {
+     "id": "p005.s03",
+     "source": "The former is the practical joker; the second, the typical booby found in the popular literature of all peoples."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "The following stories of Firrazzanu (unless otherwise indicated) are from Pitrè, No. 156."
+    }
+   ],
+   "id": "p006"
+  }
+ ]
+}

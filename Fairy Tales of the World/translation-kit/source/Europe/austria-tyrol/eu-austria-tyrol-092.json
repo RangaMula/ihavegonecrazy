@@ -1,0 +1,147 @@
+{
+ "id": "eu-austria-tyrol-092",
+ "title": {
+  "id": "title",
+  "source": "The Teufelsplatte Near Galthür"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/092 - The Teufelsplatte Near Galthür.md",
+ "stats": {
+  "paragraphs": 9,
+  "segments": 18,
+  "words": 667
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "At the head of the valley of Patznau stands the Galthür, a lofty mountain, which rises also from the Hinder-Patznau, over 5000 feet above the level of the sea, at the junction of the valleys Montafon and Underengadein."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Southwards from this mountain runs the Iammthal, or Iamm valley, about six miles long, and bordered by seven Alps; towards the Iamm-Ferner, stands a colossal ice peak, which stretches its frozen arms down towards the valleys of Patznau, Montafon, and Engadein."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "In the Iammthal lie beautiful rich meadows, together with the Teufelsplatte, a rock which has been very much spoken of."
+    },
+    {
+     "id": "p002.s02",
+     "source": "An iron ring of 500 pounds is fastened into this rock, and it is said that the devil himself screwed it in its present place."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The legend goes that two peasants of Galthür had quarrelled several long years about a neighbouring meadow, and at last they agreed that the parish itself should decide to which of them the meadow really belonged, for the vast parish meadows surrounded the spot in question."
+    },
+    {
+     "id": "p003.s02",
+     "source": "So it was decided that the two peasants who disputed the ownership of the meadow should throw a heavy iron ring, and he who threw the ring furthest should have the meadow, besides all the ground over which he could pitch the ring to gain this object, and the parish judge added, “If either of you fail in throwing the ring over the meadow, its boundaries shall remain wherever the ring shall fall, and all that is lost shall be added to the parish grounds; but also, wherever you can pitch the ring into the parish grounds, so far it shall be yours.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Three days afterwards the trial took place."
+    },
+    {
+     "id": "p004.s02",
+     "source": "One of the two competitors was a man who knew more than other people; he was able to summon the devil himself; and as with his assistance he hoped to gain all the meadows in the valley, he made a compact with the Evil One."
+    },
+    {
+     "id": "p004.s03",
+     "source": "On the day of the trial all the villagers collected on the mountain, where they found an iron ring quite ready, but of 500 pounds in weight."
+    },
+    {
+     "id": "p004.s04",
+     "source": "“Ha!” thought the parish council, “all the better, for neither of them can throw this ring one foot from the spot, and the whole meadow will be ours.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Now one of the combatants tried to throw the ring, but he could not even lift it from the ground."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Then came the other, who, aided by the devil’s own power, lifted the massive iron as easily as though it had been a finger-ring, and lightly tossed it over the valley, as far as the opposite rock, into which it became so deeply imbedded that only a very little is to be seen of the iron."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "The parish councillors scratched their ears in astonishment, while the victorious peasant who had thus gained all the extensive and rich parish meadows, laughed and danced with joy."
+    },
+    {
+     "id": "p006.s02",
+     "source": "But on the other side, close against the rock, a terrible voice was heard laughing too; and that laughter was anything but of this world, for it was the dread demon himself who laughed."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Shortly afterwards the rich peasant became more and more dejected; every one avoided him, and he avoided every one, and each succeeding year found him in a worse and worse state of mind."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Once a terrible storm broke out during the night; black clouds collected above the magnificent farm, which the peasant had built on his evilly-gained grounds, and at last a thunderbolt struck the farm and set it ablaze."
+    },
+    {
+     "id": "p007.s03",
+     "source": "When the neighbours ran to assist, they saw a gigantic demon fly out of the smoking flaming ruins, holding the rich peasant by the neck, and dragging him, body and soul, to perdition."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "On the following morning all the meadows lay covered with stones and rocks, which during the storm had rolled down from the surrounding mountains, and, as a memorial, the ring still remains in the rock, which since that time has borne the name of the Teufelsplatte."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p009"
+  }
+ ]
+}

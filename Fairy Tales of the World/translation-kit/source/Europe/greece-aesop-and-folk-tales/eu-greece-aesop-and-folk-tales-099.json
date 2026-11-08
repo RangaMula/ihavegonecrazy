@@ -1,0 +1,54 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-099",
+ "title": {
+  "id": "title",
+  "source": "The Wild Ass and the Lion"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/099 - The Wild Ass and the Lion.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 5,
+  "words": 131
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A WILD ASS and a Lion entered into an alliance so that they might capture the beasts of the forest with greater ease."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The Lion agreed to assist the Wild Ass with his strength, while the Wild Ass gave the Lion the benefit of his greater speed."
+    },
+    {
+     "id": "p001.s03",
+     "source": "When they had taken as many beasts as their necessities required, the Lion undertook to distribute the prey, and for this purpose divided it into three shares."
+    },
+    {
+     "id": "p001.s04",
+     "source": "“I will take the first share,” he said, “because I am King: and the second share, as a partner with you in the chase: and the third share (believe me) will be a source of great evil to you, unless you willingly resign it to me, and set off as fast as you can.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Might makes right."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "id": "eu-spain-024",
+ "title": {
+  "id": "title",
+  "source": "Metre of the “Poema del Cid”"
+ },
+ "tradition": "Spain",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Spain",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Spain/024 - Metre of the “Poema del Cid”.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 12,
+  "words": 340
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "It would certainly seem as if, like all cantares , the poem had been especially written for public recitation."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The expression “ O señores ,” encountered in places, may be taken as the equivalent of the English “Listen, lordings,” of such frequent occurrence in our own lays and romances, which was intended to appeal to the attention or spur the flagging interest of a medieval audience."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The metre in which the poem is written is almost as unequal as its poetic quality."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The prevailing line is the Alexandrine or fourteen-syllabled verse, but some lines run far over this average, while others are truncated in barbarous fashion, probably through the inattention or haste of the copyist."
+    },
+    {
+     "id": "p001.s05",
+     "source": "It seems to me that the Poema , although of the highest merit in many of its finest passages, has received the most extravagant eulogy, and I suspect that many of the English critics who descant so glibly upon its excellences have never perused it in its entirety."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Considerable tracts of it are of the most pedestrian description, and in places it descends to a doggerel which recalls the metrical barbarities of the pantomime."
+    },
+    {
+     "id": "p001.s07",
+     "source": "But when the war-trump gives him the key it arouses the singer as it arouses Scott—the parallel is an apt and almost exact one—and it is a mighty orchestra indeed which breaks upon our ears."
+    },
+    {
+     "id": "p001.s08",
+     "source": "The lines surge and swell in true Homeric tempest-sound, and as we listen to the crash of Castilian spears upon the Moorish ranks we are reminded of those sounding lines in Swinburne’s Erechtheus beginning:"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "With a trampling of drenched, red hoofs and an earthquake of men that meet,"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Strong war sets hand to the scythe, and the furrows take fire from his feet."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "But the music of the singer of the Poema does not depend upon reverberative effect alone."
+    },
+    {
+     "id": "p004.s02",
+     "source": "His is the true music of battle, burning the blood with keenest fire, and he has no need to rely solely upon the gallop of his metrical war-horse to excite our admiration, as does the English poet."
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

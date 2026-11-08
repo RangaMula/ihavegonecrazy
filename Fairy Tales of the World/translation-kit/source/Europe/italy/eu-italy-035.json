@@ -1,0 +1,111 @@
+{
+ "id": "eu-italy-035",
+ "title": {
+  "id": "title",
+  "source": "The Shepherd"
+ },
+ "tradition": "Italy",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Italian Popular Tales",
+ "credits": "Crane, Thomas Frederick (author, d. 1927)",
+ "gutenberg": "Project Gutenberg eBook #23634 — https://www.gutenberg.org/ebooks/23634 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Italy/035 - The Shepherd.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 12,
+  "words": 222
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once upon a time there was a shepherd who went to feed his sheep in the fields, and he had to cross a stream, and he took the sheep up one by one to carry them over...."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "What then?"
+    },
+    {
+     "id": "p002.s02",
+     "source": "Go on!"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "When the sheep are over, I will finish the story."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "In chapter V. we shall meet two popular figures in Sicilian tales, whose jokes are repeated elsewhere as detached stories."
+    },
+    {
+     "id": "p005.s02",
+     "source": "One of these persons is Firrazzanu, the practical joker and knave, who is cunning enough to make others bear the penalty of his own boldness."
+    },
+    {
+     "id": "p005.s03",
+     "source": "In the story in Pitrè (No. 156, var."
+    },
+    {
+     "id": "p005.s04",
+     "source": "2) Firrazzanu's master wants a tailor for some work, and Firrazzanu tells him he knows of one who is good, but subject to fits, which always make their approach known by a twitching of the mouth, and the only remedy for them is a sound beating."
+    },
+    {
+     "id": "p005.s05",
+     "source": "Of course, when the unlucky tailor begins to cut his cloth, he twists his mouth, and receives, to his amazement, a sudden beating."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "In this version there is no reason given why Firrazzanu should play such a joke on the innocent tailor."
+    },
+    {
+     "id": "p006.s02",
+     "source": "In the original, however, a motive is given for the trick."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "The last story we shall mention from the Disciplina Clericalis is the one known in Pitrè (No. 197) as:"
+    }
+   ],
+   "id": "p007"
+  }
+ ]
+}

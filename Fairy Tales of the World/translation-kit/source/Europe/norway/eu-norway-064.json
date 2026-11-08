@@ -1,0 +1,711 @@
+{
+ "id": "eu-norway-064",
+ "title": {
+  "id": "title",
+  "source": "Peter'S Three Tales"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales from the Fjeld: A Second Series of Popular Tales",
+ "credits": "Asbjørnsen, Peter Christen (author, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)",
+ "gutenberg": "Project Gutenberg eBook #36385 — https://www.gutenberg.org/ebooks/36385 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Norway/064 - Peter'S Three Tales.md",
+ "stats": {
+  "paragraphs": 52,
+  "segments": 95,
+  "words": 1834
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "When Grumblegizzard was over, we all laughed so that Peter was quite in good humour."
+    },
+    {
+     "id": "p001.s02",
+     "source": "At first he had not liked the doubt thrown on his vision of the old fairy man, but our applause soothed his ruffled spirit."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"As you like stories,\" he said, \"I'll tell you three short ones right off, and then I'll call on Anders to tell one."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The first is Father Bruin in the Corner , and it shows too what tongues old wives have, and how there's no stopping them even in a pitfall."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Many's the time I've trapped Bruin, and Graylegs, and Reynard, in a pit; but I never yet trapped an old woman, and I hope I never shall."
+    },
+    {
+     "id": "p002.s04",
+     "source": "It would be like shearing a pig, 'all cry and no wool.'"
+    },
+    {
+     "id": "p002.s05",
+     "source": "But here is the story.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "FATHER BRUIN IN THE CORNER"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Once on a time there was a man who lived far, far away in the wood."
+    },
+    {
+     "id": "p004.s02",
+     "source": "He had many, many goats and sheep, but never a one could he keep for fear of Graylegs, the wolf."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"At last he said, 'I'll soon trap Grayboots,' and so he set to work digging a pitfall."
+    },
+    {
+     "id": "p005.s02",
+     "source": "When he had dug it deep enough, he put a polo down in the midst of the pit, and on the top of the pole he set a board, and on the board he put a little dog."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Over the pit itself he spread boughs and branches and leaves, and other rubbish, and a-top of all he strewed snow, so that Graylegs might not see there was a pit underneath."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"So when it got on in the night, the little dog grew weary of sitting there: 'Bow-wow, bow-wow,' it said, and bayed at the moon."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Just then up came a fox, slouching and sneaking, and thought here was a fine time for marketing, and with that gave a jump—head over heels down into the pitfall."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"And when it got a little farther on in the night, the little dog got so weary and so hungry, and it fell to yelping and howling: 'Bow-wow, bow-wow,' it cried out."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Just at that very moment up came Graylegs, trotting and trotting."
+    },
+    {
+     "id": "p007.s03",
+     "source": "He, too, thought he should get a fat steak, and he too made a spring—head over heels down into the pitfall."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"When it was getting on towards gray dawn in the morning, down fell snow, with a north wind, and it grew so cold that the little dog stood and froze, and shivered and shook; it was so weary and hungry, 'Bow-wow, bow-wow, bow-wow,' it called out, and barked and yelled and howled."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Then up came a bear, tramping and tramping along, and thought to himself how he could get a morsel for breakfast at the very top of the morning, and so he thought and thought among the boughs and branches till he too went bump—head over heels down into the pitfall."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"So when it got a little further on in the morning, an old beggar wife came walking by, who toddled from farm to farm with a bag on her back."
+    },
+    {
+     "id": "p009.s02",
+     "source": "When she set eyes on the little dog that stood there and howled, she couldn't help going near to look and see if any wild beasts had fallen into the pit during the night."
+    },
+    {
+     "id": "p009.s03",
+     "source": "So she crawled up on her knees and peeped down into it."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"'Art thou come into the pit at last, Reynard?' she said to the fox, for he was the first she saw; 'a very good place, too, for such a hen-roost robber as thou: and thou, too, Graypaw,' she said to the wolf; 'many a goat and sheep hast thou torn and rent, and now thou shalt be plagued and punished to death."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Bless my heart!"
+    },
+    {
+     "id": "p010.s03",
+     "source": "Thou, too, Bruin! art thou, too, sitting in this room, thou mare-flayer?"
+    },
+    {
+     "id": "p010.s04",
+     "source": "Thee, too, will we strip, and thee shall we flay, and thy skull shall be nailed up on the wall.'"
+    },
+    {
+     "id": "p010.s05",
+     "source": "All this the old lass screeched out as she bent over towards the bear."
+    },
+    {
+     "id": "p010.s06",
+     "source": "But just then her bag fell over her ears, and dragged her down, and slap! down went the old crone—head over heels into the pitfall."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"So there they all four sat and glared at one another, each in a corner."
+    },
+    {
+     "id": "p011.s02",
+     "source": "The fox in one, Graylegs in another, Bruin in a third, and the old crone in a fourth."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"But as soon as it was broad daylight, Reynard began to peep and peer, and to twist and turn about, for he thought he might as well try to get out."
+    },
+    {
+     "id": "p012.s02",
+     "source": "But the old lass cried out,—"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"'Canst thou not sit still, thou whirligig thief, and not go twisting and turning?"
+    },
+    {
+     "id": "p013.s02",
+     "source": "Only look at Father Bruin himself in the corner, how he sits as grave as a judge,' for now she thought she might as well make friends with the bear."
+    },
+    {
+     "id": "p013.s03",
+     "source": "But just then up came the man who owned the pitfall."
+    },
+    {
+     "id": "p013.s04",
+     "source": "First he drew up the old wife, and after that he slew all the beasts, and neither spared Father Bruin himself in the corner, nor Graylegs, nor Reynard, the whirligig thief."
+    },
+    {
+     "id": "p013.s05",
+     "source": "That night, at least, he thought he had made a good haul.\""
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"The next story,\" said Peter, \"is also out of the wood."
+    },
+    {
+     "id": "p015.s02",
+     "source": "It isn't often that Reynard gets cheated, but even the wisest folk sometimes get the worst of it, and so it was with Reynard in this story.\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "REYNARD AND CHANTICLEER"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Once on a time there was a Cock who stood on a dung-heap, and crew, and flapped his wings."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Then the Fox came by."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"'Good day,' said Reynard, 'I heard you crowing so nicely; but can you stand on one leg and crow, and wink your eyes?'"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"'Oh, yes,' said Chanticleer."
+    },
+    {
+     "id": "p019.s02",
+     "source": "'I can do that very well.'"
+    },
+    {
+     "id": "p019.s03",
+     "source": "So he stood on one leg and crew; but he winked only with one eye, and when he had done that he made himself big and flapped his wings, as though he had done a great thing."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"'Very pretty, to be sure,' said Reynard."
+    },
+    {
+     "id": "p020.s02",
+     "source": "'Almost as pretty as when the parson preaches in church; but can you stand on one leg and wink both your eyes at once?"
+    },
+    {
+     "id": "p020.s03",
+     "source": "I hardly think you can.'"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"'Can't I though!' said Chanticleer, and stood on one leg, and winked both his eyes, and crew."
+    },
+    {
+     "id": "p021.s02",
+     "source": "But Reynard caught hold of him, took him by the throat, and threw him over his back, so that he was off to the wood before he had crowed his crow out, as fast as Reynard could lay legs to the ground."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"When they had come under an old spruce fir, Reynard threw Chanticleer on the ground, set his paw on his breast, and was going to take a bite!"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"'You are a heathen, Reynard!' said Chanticleer."
+    },
+    {
+     "id": "p023.s02",
+     "source": "'Good Christians say grace, and ask a blessing before they eat.'"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"But Reynard would be no heathen."
+    },
+    {
+     "id": "p024.s02",
+     "source": "God forbid it!"
+    },
+    {
+     "id": "p024.s03",
+     "source": "So he let go his hold, and was about to fold his paws over his breast and say grace—but pop! up flew Chanticleer into a tree."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"'You sha'n't get off for all that,' said Reynard to himself."
+    },
+    {
+     "id": "p025.s02",
+     "source": "So he went away, and came again with a few chips, which the woodcutters had left."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Chanticleer peeped and peered to see what they could be."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"'Whatever have you got there?' he asked."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"'These are letters I have just got,' said Reynard, 'won't you help me to read them, for I don't know how to read writing.'"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"'I'd be so happy, but I dare not read them now; said Chanticleer; 'for here comes a hunter, I see him, I see him, as I sit by the tree trunk.'"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "\"When Reynard heard Chanticleer chattering about a hunter, he took to his heels as quick as he could."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "\"This time it was Reynard who was made game of."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "\"The third story,\" said Peter, \"is about an old fellow who was as deaf as a post, and who had a goody who was no better than she should have been."
+    },
+    {
+     "id": "p032.s02",
+     "source": "Where he lived I'm sure I don't know, but I've heard it said he lived in different parts of the country, both north of Stad and south of Stad; but at any rate this is the story.\""
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "GOODMAN AXEHAFT"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "\"There was once a ferryman who was so hard of hearing he could neither hear nor catch anything that any one said to him."
+    },
+    {
+     "id": "p034.s02",
+     "source": "He had a goody and a daughter, and they did not care a pin for the goodman, but lived in mirth and jollity so long as there was aught to live on, and then they took to running up a bill with the inn-keeper, and gave parties, and had feasts every day."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "\"So when no one would trust them any longer, the sheriff was to come and seize for what they owed and had wasted."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Then the goody and her child set off for her kinsfolk, and left the deaf husband behind, all alone, to see the sheriff and the bailiff."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "\"Well, there stood the man and pottered about and wondered what the sheriff wanted to ask, and what he should say when he came."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "\"'If I take to doing something,' he said to himself, 'he'll be sure to ask me something about it."
+    },
+    {
+     "id": "p037.s02",
+     "source": "I'll just begin to cut out an axehaft, so when he asks me what that is to be, I shall answer, \"Axehaft.\""
+    },
+    {
+     "id": "p037.s03",
+     "source": "Then he'll ask how long it is to be, and I'll say, \"Up as far as this twig that sticks out.\""
+    },
+    {
+     "id": "p037.s04",
+     "source": "Then he'll ask, \"What's become of the ferry-boat?\" and I'll say, \"I am going to tar her; and yonder she lies on the strand, split at both ends.\""
+    },
+    {
+     "id": "p037.s05",
+     "source": "Then he'll ask, \"Where's your grey mare?\" and I'll answer, \"She is standing in the stable, big with foal.\""
+    },
+    {
+     "id": "p037.s06",
+     "source": "Then he'll ask, \"Whereabouts is your sheepcote and shieling?\" and I'll say, \"Not far off; when you get a bit up the hill you'll soon see them.\"'"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "\"All this he thought well-planned."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "\"A little while after in came the sheriff; he was true to time, but as for his man, he had gone another way round by an inn, and there he sat still drinking."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "\"'Good-day, sir,' he said."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "\"'Axehaft,' said the ferryman."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "\"'So, so,\" said the sheriff."
+    },
+    {
+     "id": "p042.s02",
+     "source": "'How far off is it to the inn?'"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "\"'Right up to this twig,' said the man, and pointed a little way up the piece of timber."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "\"The sheriff shook his head and stared at him open-mouthed."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "\"'Where is your mistress, pray?'"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "\"'I am just going to tar her,' said the ferryman, 'for yonder she lies on the strand, split open at both ends.'"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "\"'Where is your daughter?'"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "\"'Oh, she stands in the stable, big with foal,' answered the man, who thought he answered very much to the purpose."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "\"'Oh, go to hell with you,' said the sheriff."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "\"'Very good; 'tis not so far off; when you get a bit up the hill, you'll soon get there,' said the man."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "\"So the sheriff was floored, and went away.\""
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p052"
+  }
+ ]
+}

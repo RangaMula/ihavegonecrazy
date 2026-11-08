@@ -1,0 +1,275 @@
+{
+ "id": "eu-england-010",
+ "title": {
+  "id": "title",
+  "source": "Mouse And Mouser"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #7439 — https://www.gutenberg.org/ebooks/7439 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/010 - Mouse And Mouser.md",
+ "stats": {
+  "paragraphs": 19,
+  "segments": 35,
+  "words": 309
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The Mouse went to visit the Cat, and found her sitting behind the hall door, spinning."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "MOUSE."
+    },
+    {
+     "id": "p002.s02",
+     "source": "What are you doing, my lady, my lady, What are you doing, my lady?"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "CAT ( sharply )."
+    },
+    {
+     "id": "p003.s02",
+     "source": "I'm spinning old breeches, good body, good body I'm spinning old breeches, good body."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "MOUSE."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Long may you wear them, my lady, my lady, Long may you wear them, my lady."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "CAT ( gruffly )."
+    },
+    {
+     "id": "p005.s02",
+     "source": "I'll wear' em and tear 'em, good body, good body."
+    },
+    {
+     "id": "p005.s03",
+     "source": "I'll wear 'em and tear 'em, good body."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "MOUSE."
+    },
+    {
+     "id": "p006.s02",
+     "source": "I was sweeping my room, my lady, my lady, I was sweeping my room, my lady."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "CAT."
+    },
+    {
+     "id": "p007.s02",
+     "source": "The cleaner you'd be, good body, good body, The cleaner you'd be, good body."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "MOUSE."
+    },
+    {
+     "id": "p008.s02",
+     "source": "I found a silver sixpence, my lady, my lady, I found a silver sixpence, my lady."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "CAT."
+    },
+    {
+     "id": "p009.s02",
+     "source": "The richer you were, good body, good body, The richer you were, good body."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "MOUSE."
+    },
+    {
+     "id": "p010.s02",
+     "source": "I went to the market, my lady, my lady, I went to the market, my lady."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "CAT."
+    },
+    {
+     "id": "p011.s02",
+     "source": "The further you went, good body, good body The further you went, good body."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "MOUSE."
+    },
+    {
+     "id": "p012.s02",
+     "source": "I bought me a pudding, my lady, my lady, I bought me a pudding, my lady."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "CAT ( snarling )."
+    },
+    {
+     "id": "p013.s02",
+     "source": "The more meat you had, good body, good body, The more meat you had, good body."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "MOUSE."
+    },
+    {
+     "id": "p014.s02",
+     "source": "I put it in the window to cool, my lady, I put it in the window to cool."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "CAT. ( sharply )."
+    },
+    {
+     "id": "p015.s02",
+     "source": "The faster you'd eat it, good body, good body, The faster you'd eat it, good body."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "MOUSE ( timidly )."
+    },
+    {
+     "id": "p016.s02",
+     "source": "The cat came and ate it, my lady, my lady, The cat came and ate it, my lady."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "CAT ( pouncingly )."
+    },
+    {
+     "id": "p017.s02",
+     "source": "And I'll eat you, good body, good body, And I'll eat you, good body."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "( Springs upon the mouse and kills it. )"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p019"
+  }
+ ]
+}

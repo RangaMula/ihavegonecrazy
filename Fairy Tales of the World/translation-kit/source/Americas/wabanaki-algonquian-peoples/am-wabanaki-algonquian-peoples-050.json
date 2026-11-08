@@ -1,0 +1,66 @@
+{
+ "id": "am-wabanaki-algonquian-peoples-050",
+ "title": {
+  "id": "title",
+  "source": "War Songs"
+ },
+ "tradition": "Wabanaki (Algonquian) peoples",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Contribution to Passamaquoddy Folk-Lore",
+ "credits": "Fewkes, Jesse Walter (author, d. 1930)",
+ "gutenberg": "Project Gutenberg eBook #17997 — https://www.gutenberg.org/ebooks/17997 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Wabanaki (Algonquian) peoples/050 - War Songs.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 8,
+  "words": 160
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "I succeeded in getting upon the phonograph several war songs, typical of a large number known to the Passamaquoddies."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The words of many are improvised, though there is no doubt that the tunes are ancient."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The words of one of these songs are given below."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "I will arise with tomahawk in my hand, and I must have revenge on that nation which has slain my poor people."
+    },
+    {
+     "id": "p002.s02",
+     "source": "I arise with war club in my hand, and follow the bloody track of that nation which killed my people."
+    },
+    {
+     "id": "p002.s03",
+     "source": "I will sacrifice my own life and the lives of my warriors."
+    },
+    {
+     "id": "p002.s04",
+     "source": "I arise with war club in my hand, and follow the track of my enemy."
+    },
+    {
+     "id": "p002.s05",
+     "source": "When I overtake him I will take his scalp and string it on a long pole, and I will stick it in the ground, and my warriors will dance around it for many days; then I will sing my song for the victory over my enemy."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

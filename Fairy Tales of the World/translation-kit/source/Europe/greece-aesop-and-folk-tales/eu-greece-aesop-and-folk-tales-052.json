@@ -1,0 +1,46 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-052",
+ "title": {
+  "id": "title",
+  "source": "The Sick Stag"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/052 - The Sick Stag.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 3,
+  "words": 65
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A SICK STAG lay down in a quiet corner of its pasture-ground."
+    },
+    {
+     "id": "p001.s02",
+     "source": "His companions came in great numbers to inquire after his health, and each one helped himself to a share of the food which had been placed for his use; so that he died, not from his sickness, but from the failure of the means of living."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Evil companions bring more hurt than profit."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

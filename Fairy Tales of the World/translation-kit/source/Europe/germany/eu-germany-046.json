@@ -1,0 +1,124 @@
+{
+ "id": "eu-germany-046",
+ "title": {
+  "id": "title",
+  "source": "The Fox And The Horse"
+ },
+ "tradition": "Germany",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Grimms' Fairy Tales",
+ "credits": "Grimm, Jacob (author, d. 1863); Grimm, Wilhelm (author, d. 1859)",
+ "gutenberg": "Project Gutenberg eBook #2591 — https://www.gutenberg.org/ebooks/2591 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Germany/046 - The Fox And The Horse.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 18,
+  "words": 490
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A farmer had a horse that had been an excellent faithful servant to him: but he was now grown too old to work; so the farmer would give him nothing more to eat, and said, ‘I want you no longer, so take yourself off out of my stable; I shall not take you back again until you are stronger than a lion.’"
+    },
+    {
+     "id": "p001.s02",
+     "source": "Then he opened the door and turned him adrift."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The poor horse was very melancholy, and wandered up and down in the wood, seeking some little shelter from the cold wind and rain."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Presently a fox met him: ‘What’s the matter, my friend?’ said he, ‘why do you hang down your head and look so lonely and woe-begone?’"
+    },
+    {
+     "id": "p002.s03",
+     "source": "‘Ah!’ replied the horse, ‘justice and avarice never dwell in one house; my master has forgotten all that I have done for him so many years, and because I can no longer work he has turned me adrift, and says unless I become stronger than a lion he will not take me back again; what chance can I have of that? he knows I have none, or he would not talk so.’"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "However, the fox bid him be of good cheer, and said, ‘I will help you; lie down there, stretch yourself out quite stiff, and pretend to be dead.’"
+    },
+    {
+     "id": "p003.s02",
+     "source": "The horse did as he was told, and the fox went straight to the lion who lived in a cave close by, and said to him, ‘A little way off lies a dead horse; come with me and you may make an excellent meal of his carcase.’"
+    },
+    {
+     "id": "p003.s03",
+     "source": "The lion was greatly pleased, and set off immediately; and when they came to the horse, the fox said, ‘You will not be able to eat him comfortably here; I’ll tell you what—I will tie you fast to his tail, and then you can draw him to your den, and eat him at your leisure.’"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "This advice pleased the lion, so he laid himself down quietly for the fox to make him fast to the horse."
+    },
+    {
+     "id": "p004.s02",
+     "source": "But the fox managed to tie his legs together and bound all so hard and fast that with all his strength he could not set himself free."
+    },
+    {
+     "id": "p004.s03",
+     "source": "When the work was done, the fox clapped the horse on the shoulder, and said, ‘Jip!"
+    },
+    {
+     "id": "p004.s04",
+     "source": "Dobbin!"
+    },
+    {
+     "id": "p004.s05",
+     "source": "Jip!’"
+    },
+    {
+     "id": "p004.s06",
+     "source": "Then up he sprang, and moved off, dragging the lion behind him."
+    },
+    {
+     "id": "p004.s07",
+     "source": "The beast began to roar and bellow, till all the birds of the wood flew away for fright; but the horse let him sing on, and made his way quietly over the fields to his master’s house."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "‘Here he is, master,’ said he, ‘I have got the better of him’: and when the farmer saw his old servant, his heart relented, and he said."
+    },
+    {
+     "id": "p005.s02",
+     "source": "‘Thou shalt stay in thy stable and be well taken care of.’"
+    },
+    {
+     "id": "p005.s03",
+     "source": "And so the poor old horse had plenty to eat, and lived—till he died."
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

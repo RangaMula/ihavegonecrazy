@@ -1,0 +1,776 @@
+{
+ "id": "eu-russia-005",
+ "title": {
+  "id": "title",
+  "source": "Egóri The Brave And The Gipsy"
+ },
+ "tradition": "Russia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Russian Folk-Tales",
+ "credits": "Afanas'ev, A. N. (Aleksandr Nikolaevich) (author, d. 1871); Magnus, Leonard A. (Leonard Arthur) (translator, d. 1924)",
+ "gutenberg": "Project Gutenberg eBook #62509 — https://www.gutenberg.org/ebooks/62509 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Russia/005 - Egóri The Brave And The Gipsy.md",
+ "stats": {
+  "paragraphs": 55,
+  "segments": 106,
+  "words": 1288
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In a certain kingdom, in a certain land, there was a gipsy who had a wife and seven children, and he lived so poorly that at last there was nothing in the house to eat or to drink—not even a crust of bread."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He was too idle to work, and too much of a coward to thieve."
+    },
+    {
+     "id": "p001.s03",
+     "source": "So what could he do?"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Well, the peasant went on the road and stood pondering."
+    },
+    {
+     "id": "p002.s02",
+     "source": "At this time Egóri the Brave was passing by."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“Hail!” said the peasant."
+    },
+    {
+     "id": "p003.s02",
+     "source": "“Whither are you faring?”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“To God.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Why?”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“With a message from men wherewith each man should live, and wherewith each man should busy himself.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Will you, then, send in a report about me to the Lord?” the peasant said, “what He wishes me to engage in?”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Very well—I will hand in a report,” Egóri said, and he went on his road."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "So there the peasant stood, waiting for him—waiting."
+    },
+    {
+     "id": "p009.s02",
+     "source": "And when at last he saw Egóri on his way back, he asked him at once: “Did you hand in a report about me?”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“No,” said Egóri; “I forgot.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "So the peasant set out on his road a second time, and he again met Egóri, who was going to God on an errand."
+    },
+    {
+     "id": "p011.s02",
+     "source": "So the gipsy asked him once more: “Do please hand in a request on my behalf.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“All right,” said Egóri."
+    },
+    {
+     "id": "p012.s02",
+     "source": "And he forgot again."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "18 And so once more the peasant set out on the road, and once more met Egóri."
+    },
+    {
+     "id": "p013.s02",
+     "source": "And he asked him for the third time: “Do please speak on my behalf to God!”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“Yes—all right!”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“Will you forget again?”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“No, I shall not forget this time.”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Only the gipsy did not believe him."
+    },
+    {
+     "id": "p017.s02",
+     "source": "“Give me,” he said, “your golden stirrup."
+    },
+    {
+     "id": "p017.s03",
+     "source": "I will keep it until you come back; otherwise, you may once more forget.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Egóri untied his golden stirrup, gave it to the gipsy, and rode on farther with a single stirrup."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Then he reached God, and he began to ask wherewith each man should live, and wherewith each man should busy himself."
+    },
+    {
+     "id": "p018.s03",
+     "source": "In each case he received the right order, and he was starting back."
+    },
+    {
+     "id": "p018.s04",
+     "source": "But as soon as ever he mounted, he glanced down at the stirrup and recollected the gipsy."
+    },
+    {
+     "id": "p018.s05",
+     "source": "So he ran back to see God and said: “Oh, I forgot."
+    },
+    {
+     "id": "p018.s06",
+     "source": "Whilst I was coming here I met a gipsy on the way, and he asked me what he should do.”"
+    },
+    {
+     "id": "p018.s07",
+     "source": "“Oh, tell the gipsy,” the Lord said, “that his trade is from whomsoever he take and steal, he, then, shall cheat and perjure himself.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "So Egóri went and mounted his horse, came up to the gipsy, and told him: “I shall now tell you the truth."
+    },
+    {
+     "id": "p019.s02",
+     "source": "If you had not taken the stirrup, I should have forgotten all about it.”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“I thought as much,” said the gipsy."
+    },
+    {
+     "id": "p020.s02",
+     "source": "“Now, for all eternity, you cannot forget me if you only look down at your stirrup, and I shall be always in your mind."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Well, what did the Lord say to you?”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“Oh, He told me from whomsoever you take or steal you will cheat and perjure yourself; that will be your trade.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“Thank you very much,” said the gipsy, and he bowed down to the ground, and went home."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“Where are you going?” said Egóri."
+    },
+    {
+     "id": "p023.s02",
+     "source": "“Give me my golden stirrup!”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "19 “What stirrup?”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“Didn’t you take one from me?”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“How in the world could I take one from you?"
+    },
+    {
+     "id": "p026.s02",
+     "source": "This is the first time I have seen you, and I have not even had a stirrup."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Before God!—I never have!”"
+    },
+    {
+     "id": "p026.s04",
+     "source": "And so the gipsy perjured himself."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "What could he do?"
+    },
+    {
+     "id": "p027.s02",
+     "source": "He could struggle and fight it out, Egóri could, and so he did; but it was all no good."
+    },
+    {
+     "id": "p027.s03",
+     "source": "It is perfectly true, and the gipsy spoke the truth: “If I had not given him the stirrup!—if I had not only known him!"
+    },
+    {
+     "id": "p027.s04",
+     "source": "Now I shall forget him no more.”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "So the gipsy took the golden stirrup and began hawking it."
+    },
+    {
+     "id": "p028.s02",
+     "source": "And as he went on his way, a fine lord came and met him."
+    },
+    {
+     "id": "p028.s03",
+     "source": "“Hullo, gipsy!” he said."
+    },
+    {
+     "id": "p028.s04",
+     "source": "“Will you sell the stirrup?”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“Yes—all right!”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“What will you take?”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“Fifteen hundred roubles.”"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“Much too dear, isn’t that?”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“Well, you see, it is all gold.”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“Very well!” said his lordship; and he put his hand into his pocket, and he only had a thousand."
+    },
+    {
+     "id": "p034.s02",
+     "source": "“You just take this thousand, gipsy, and then give me the stirrup: I will send you on the odd five hundred.”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“Oh, no, my lord!"
+    },
+    {
+     "id": "p035.s02",
+     "source": "One thousand roubles I will certainly take, but I shall not give up the stirrup."
+    },
+    {
+     "id": "p035.s03",
+     "source": "When you carry out your part of the bargain, then you shall receive the stirrup.”"
+    },
+    {
+     "id": "p035.s04",
+     "source": "So the lord gave him the thousand, and he went home."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "The very instant he got there he took out five hundred roubles, and sent his man up to the gipsy, telling him to give the money to him and to take the golden stirrup."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "When his lordship’s groom came to the gipsy’s izbá , “Hail, gipsy!” he said."
+    },
+    {
+     "id": "p037.s02",
+     "source": "“How fare you, good man?"
+    },
+    {
+     "id": "p037.s03",
+     "source": "I have brought you the money from his lordship.”"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "20 “Well, give it me if you have brought it.”"
+    },
+    {
+     "id": "p038.s02",
+     "source": "So the gipsy took the five hundred roubles, and gave the man a glass of wine, and then another, until the man had his fill."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "And when he had had his fill the groom began to make his way home, and said to the peasant: “Now give me the golden stirrup.”"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "“What?”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "“Yes—the stirrup which you sold my master.”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“What, I sold it!"
+    },
+    {
+     "id": "p042.s02",
+     "source": "I never had a golden stirrup!”"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“Well, then, give me the money back.”"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“What money?”"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“But I just gave you five hundred roubles!”"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "“I have not even seen a grívennik —never in my life!"
+    },
+    {
+     "id": "p046.s02",
+     "source": "I looked after you kindly, simply for the sake of our Lord, and not in the least in order to get any money out of you.”"
+    },
+    {
+     "id": "p046.s03",
+     "source": "And in this manner the gipsy had disavowed everything."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "When the master had heard of this, he instantly started out to see the gipsy."
+    },
+    {
+     "id": "p047.s02",
+     "source": "“What on earth do you mean, you vile thief, by taking money and not giving up the golden stirrup?”"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "“What golden stirrup?"
+    },
+    {
+     "id": "p048.s02",
+     "source": "Now do, my lord, think a little."
+    },
+    {
+     "id": "p048.s03",
+     "source": "How is it possible for a grey, hoary old peasant like me to possess a golden stirrup?”"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "Then the master became angrier and angrier, but he could not find it."
+    },
+    {
+     "id": "p049.s02",
+     "source": "“Well, we will come to court!” he said."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "“Oh, please,” the gipsy answered, “please think!"
+    },
+    {
+     "id": "p050.s02",
+     "source": "How in the world can I come in your company?"
+    },
+    {
+     "id": "p050.s03",
+     "source": "You are a lord, and I am only a blockhead—I am only a dolt and a mere hind."
+    },
+    {
+     "id": "p050.s04",
+     "source": "At least you might dress me in a fine costume if we are to go together.”"
+    },
+    {
+     "id": "p050.s05",
+     "source": "So the master dressed him in his own dress, and they journeyed together to the town for the case to be tried."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "21 When they came into the town, the master said: “I bought of this peasant a golden stirrup."
+    },
+    {
+     "id": "p051.s02",
+     "source": "He took the money for it and will not deliver the chattel.”"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "And the peasant answered: “My Lords Justices, do you think it out for yourselves, however could one get a golden stirrup out of a grey-haired peasant?"
+    },
+    {
+     "id": "p052.s02",
+     "source": "Why, I have not a single loaf at home."
+    },
+    {
+     "id": "p052.s03",
+     "source": "And I really cannot imagine what this fine gentleman wants of me."
+    },
+    {
+     "id": "p052.s04",
+     "source": "Why, he will even be saying next that I am wearing his clothes.”"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "“But the dress is mine!” the master shrieked out."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "“There you are, my Lords Justices!”"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "After this the case came to an end, and the master went back home without getting anything, and the peasant went on living merrily—living on and gaining nothing but good."
+    }
+   ],
+   "id": "p055"
+  }
+ ]
+}

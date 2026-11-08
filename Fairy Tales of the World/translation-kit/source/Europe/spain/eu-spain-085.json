@@ -1,0 +1,100 @@
+{
+ "id": "eu-spain-085",
+ "title": {
+  "id": "title",
+  "source": "The “Cancionero General”"
+ },
+ "tradition": "Spain",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Spain",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Spain/085 - The “Cancionero General”.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 15,
+  "words": 396
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "If we except the fragmentary collection of Juan Fernández de Constantina, the Cancionero General , or “Universal Song-book,” as it might be translated, was originally brought together and published at the beginning of the sixteenth century by a certain Fernando del Castillo."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The arrangement of the ballads it contains is neither chronological nor thoroughly systematic, although the productions of each author are kept distinct."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Later editions of this work quickly multiplied, and as the collection extended the additions were always inserted at the end of the book."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The collection consists for the most part of the ballads of authors of the fifteenth and early sixteenth centuries, such as Tallante, Nicolas Núñez, Juan de Mena, Porticarrero, and the still earlier Marquis de Santillana."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The first portion of the work is confined to the spiritual songs ( obras de devoción )."
+    },
+    {
+     "id": "p002.s02",
+     "source": "These are monotonous and informed with a rigid fanaticism."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Nor are the “Moral Poems” which follow any more attractive, allegorizing virtues and vices according to the definitions of scholastic philosophy."
+    },
+    {
+     "id": "p002.s04",
+     "source": "The amatory verses in the collection are more ingenious than truly poetic; they lack true feeling, and appear stiff and artificial in their reiteration of burning passion and the overwhelming woes of unrequited love, mingled with pseudo-philosophical appeals to reason."
+    },
+    {
+     "id": "p002.s05",
+     "source": "But gay and graceful love songs are not lacking, as, for example, the “ Muy más clara que de luna ” of Juan de Meux or the “ Pensamienti, pues mostrays ” of Diego Lopez de Haro."
+    },
+    {
+     "id": "p002.s06",
+     "source": "But these trail off into philosophical disquisition, and the tender sentiment in which they were conceived and commenced is lost in the shallows of paltry argument."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Much more promising are the canciones , or lyrical poems of a semi-conventional cast, which have a character and metrical form all their own."
+    },
+    {
+     "id": "p003.s02",
+     "source": "They usually consist of twelve lines, divided into two parts."
+    },
+    {
+     "id": "p003.s03",
+     "source": "The first four lines comprehend the idea on which the song is founded, and this is developed or applied in the eight succeeding lines."
+    },
+    {
+     "id": "p003.s04",
+     "source": "The Cancionero General contains one hundred and fifty-six of these little songs, some of which are the best poems contained in it, and perhaps they owe their excellence to the verbal restraint which their form compels."
+    },
+    {
+     "id": "p003.s05",
+     "source": "An allied form is the villancico , or conceit, usually of three or four lines, a fugitive piece, enshrining some fleeting emotion, and often packed with the matter of poesy."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

@@ -1,0 +1,380 @@
+{
+ "id": "eu-finland-008",
+ "title": {
+  "id": "title",
+  "source": "Adventure V Mirri, The Cat"
+ },
+ "tradition": "Finland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Mighty Mikko: A Book of Finnish Fairy Tales and Folk Tales",
+ "credits": "Fillmore, Parker (author, d. 1944)",
+ "gutenberg": "Project Gutenberg eBook #38112 — https://www.gutenberg.org/ebooks/38112 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Finland/008 - Adventure V Mirri, The Cat.md",
+ "stats": {
+  "paragraphs": 27,
+  "segments": 49,
+  "words": 549
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "One day while the Fox was out walking in the forest he met a stranger."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“Good day,” he said."
+    },
+    {
+     "id": "p002.s02",
+     "source": "“Who are you?”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“I am Mirri,” the stranger said, “a poor unfortunate Cat out of employment."
+    },
+    {
+     "id": "p003.s02",
+     "source": "I had service in a decent family but I’ve had to leave them.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Did they treat you badly?” the Fox asked."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“No, it wasn’t that."
+    },
+    {
+     "id": "p005.s02",
+     "source": "They were considerate enough but they kept getting poorer and poorer until finally they hadn’t food enough to feed us animals."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Then I overheard the master say that soon they’d be forced to eat us and that they’d begin with me."
+    },
+    {
+     "id": "p005.s04",
+     "source": "At that I decided it was time for me to run away and here I am.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“My poor Cat,” Mikko said, “you’ve had a cruel experience!"
+    },
+    {
+     "id": "p006.s02",
+     "source": "Why don’t you take service with me?”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Will I be safe with you?” the Cat asked."
+    },
+    {
+     "id": "p007.s02",
+     "source": "“Will you protect me?”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Will I?” the Fox repeated boastfully."
+    },
+    {
+     "id": "p008.s02",
+     "source": "“My dear Mirri, once it becomes known that you are Mikko’s servant all the animals will show you a wholesome respect.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Well then, I’ll enter your service,” the Cat said."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "So the bargain was struck and the Fox at once began to train his new servant."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Now, Mirri, tell me: what would you do if you suddenly met a Bear?”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“There’s just one thing I could do, master: I’d run up a tree.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "The Fox laughed."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“You must have more ways than one to meet such a situation!"
+    },
+    {
+     "id": "p014.s02",
+     "source": "Take me now: there are any of a hundred things that I could do if I met a Bear!”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "He jerked quickly away and fled and the Bear was left standing with his mouth wide open"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Just then Osmo, the Bear, ambled softly up behind the Fox."
+    },
+    {
+     "id": "p016.s02",
+     "source": "The Cat saw him and instantly flew up a tree."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Before the Fox could move Osmo clutched him firmly on the shoulder with his teeth."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“Oh, master, master!” the Cat called down from the tree."
+    },
+    {
+     "id": "p017.s02",
+     "source": "“What’s this?"
+    },
+    {
+     "id": "p017.s03",
+     "source": "I with my one way have escaped and you with your hundred are caught!”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "But the Fox paid no heed to the Cat."
+    },
+    {
+     "id": "p018.s02",
+     "source": "He twisted his head around and looked reproachfully at the Bear."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“Why, Osmo, my dear old friend!” he said, “what in the world do you mean taking hold of me so roughly!"
+    },
+    {
+     "id": "p019.s02",
+     "source": "Ouch!"
+    },
+    {
+     "id": "p019.s03",
+     "source": "You’re nipping my shoulder, really you are!"
+    },
+    {
+     "id": "p019.s04",
+     "source": "I don’t understand why you’re acting this way!"
+    },
+    {
+     "id": "p019.s05",
+     "source": "Here I’ve always been such a good friend to you, so faithful, so true, so—”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“What!” rumbled the Bear."
+    },
+    {
+     "id": "p020.s02",
+     "source": "“Faithful!"
+    },
+    {
+     "id": "p020.s03",
+     "source": "True!"
+    },
+    {
+     "id": "p020.s04",
+     "source": "Oh, you—”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Osmo’s feelings overcame him to such an extent that he opened his jaws to roar out freely his denial of the Fox’s hypocrisy."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "That gave the Fox just the chance he wanted."
+    },
+    {
+     "id": "p022.s02",
+     "source": "He jerked quickly away and fled and the Bear was left standing with his mouth wide open."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Later when the Bear had ambled off the Fox returned and called the Cat down from the tree."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“You see, Mirri,” he remarked casually, “it wasn’t anything at all for me to get the best of the Bear!”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "He could see that he had vastly impressed the Cat, so he let the subject drop."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“Come along, Mirri,” he said, “it’s time for us to go home.”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "A terrible creature landed on his nose and drove it full of pins and needles"
+    }
+   ],
+   "id": "p027"
+  }
+ ]
+}

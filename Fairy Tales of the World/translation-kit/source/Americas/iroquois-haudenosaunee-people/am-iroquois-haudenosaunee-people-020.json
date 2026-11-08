@@ -1,0 +1,64 @@
+{
+ "id": "am-iroquois-haudenosaunee-people-020",
+ "title": {
+  "id": "title",
+  "source": "An Incantation To Bring Rain"
+ },
+ "tradition": "Iroquois (Haudenosaunee) people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Iroquois. (1883 N 02 / 1880-1881 (pages 47-116))",
+ "credits": "Smith, Erminnie A. (Erminnie Adele) (author, d. 1886)",
+ "gutenberg": "Project Gutenberg eBook #46140 — https://www.gutenberg.org/ebooks/46140 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Iroquois (Haudenosaunee) people/020 - An Incantation To Bring Rain.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 6,
+  "words": 172
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In a dry season, the horizon being filled with distant thunder-heads, it was customary to burn what is called by the Indians real tobacco as an offering to bring rain."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "On occasions of this nature the people were notified by swift-footed heralds that the children, or sons, of Thunder were in the horizon, and that tobacco must be burned in order to get some rain."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Every family was supposed to have a private altar upon which its offerings were secretly made; after which said family must repair, bearing its tithe, [pg 73] to the council-house, where the gathered tithes of tobacco were burned in the council-fire."
+    },
+    {
+     "id": "p002.s03",
+     "source": "While the tobacco was burning, the agile and athletic danced the rain-dance."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "When this was done, Hi-nuⁿ , pleased with the incense of the burning tobacco, called forth huge dark banks of rain clouds and took personal charge of the gathering storm to guide it to wet the dry and parched earth."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Hi-nuⁿ was considered a great lover of tobacco, but always in want of it."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

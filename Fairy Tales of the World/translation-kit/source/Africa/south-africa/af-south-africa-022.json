@@ -1,0 +1,113 @@
+{
+ "id": "af-south-africa-022",
+ "title": {
+  "id": "title",
+  "source": "Cloud-Eating"
+ },
+ "tradition": "South Africa",
+ "continent": "Africa",
+ "source_lang": "en",
+ "source_book": "South-African Folk-Tales",
+ "credits": "Honey, James A. (author)",
+ "gutenberg": "Project Gutenberg eBook #38339 — https://www.gutenberg.org/ebooks/38339 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Africa/South Africa/022 - Cloud-Eating.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 14,
+  "words": 178
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Jackal and Hyena were together, it is said, when a white cloud rose."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Jackal descended upon it, and ate of the cloud as if it were fat."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "When he wanted to come down, he said to Hyena, \"My sister, as I am going to divide with thee, catch me well.\""
+    },
+    {
+     "id": "p002.s02",
+     "source": "So she caught him, and broke his fall."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Then she also went up and ate there, high up on the top of the cloud."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "When she was satisfied, she said, \"My greyish brother, now catch me well.\""
+    },
+    {
+     "id": "p003.s02",
+     "source": "The greyish rogue said to his friend, \"My sister, I shall catch thee well."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Come therefore down.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "He held up his hands, and she came down from the cloud, and when she was near, Jackal cried out (painfully jumping to one side), \"My sister, do not take it ill."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Oh me!"
+    },
+    {
+     "id": "p004.s03",
+     "source": "Oh me!"
+    },
+    {
+     "id": "p004.s04",
+     "source": "A thorn has pricked me and sticks in me.\""
+    },
+    {
+     "id": "p004.s05",
+     "source": "Thus she fell down from above, and was sadly hurt."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Since that day, it is said that Hyena's hind feet have been shorter and smaller than the front ones."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p006"
+  }
+ ]
+}

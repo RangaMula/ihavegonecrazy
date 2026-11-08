@@ -1,0 +1,68 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-001",
+ "title": {
+  "id": "title",
+  "source": "The Wolf And The Lamb"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/001 - The Wolf And The Lamb.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 10,
+  "words": 146
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf’s right to eat him."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He thus addressed him: “Sirrah, last year you grossly insulted me.”"
+    },
+    {
+     "id": "p001.s03",
+     "source": "“Indeed,” bleated the Lamb in a mournful tone of voice, “I was not then born.”"
+    },
+    {
+     "id": "p001.s04",
+     "source": "Then said the Wolf, “You feed in my pasture.”"
+    },
+    {
+     "id": "p001.s05",
+     "source": "“No, good sir,” replied the Lamb, “I have not yet tasted grass.”"
+    },
+    {
+     "id": "p001.s06",
+     "source": "Again said the Wolf, “You drink of my well.”"
+    },
+    {
+     "id": "p001.s07",
+     "source": "“No,” exclaimed the Lamb, “I never yet drank water, for as yet my mother’s milk is both food and drink to me.”"
+    },
+    {
+     "id": "p001.s08",
+     "source": "Upon which the Wolf seized him and ate him up, saying, “Well!"
+    },
+    {
+     "id": "p001.s09",
+     "source": "I won’t remain supperless, even though you refute every one of my imputations.”"
+    },
+    {
+     "id": "p001.s10",
+     "source": "The tyrant will always find a pretext for his tyranny."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "id": "eu-spain-036",
+ "title": {
+  "id": "title",
+  "source": "A ‘Secret Service’ Story of “The Cid”"
+ },
+ "tradition": "Spain",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Spain",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Spain/036 - A ‘Secret Service’ Story of “The Cid”.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 7,
+  "words": 178
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A most romantic tale hangs upon the first line of the next passage:"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“May the time come when I deserve as much of both of you.”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The line is supposed to be the last in the speech of Pero Bermuez to the Infante Don Ferrando, who had probably expressed gratitude to him."
+    },
+    {
+     "id": "p003.s02",
+     "source": "The first English author to attempt a translation of the Poema del Cid was John Hookham Frere, the translator of the plays of Aristophanes, who was for some years British Minister at Madrid."
+    },
+    {
+     "id": "p003.s03",
+     "source": "He made a conjectural reading of the above line, which he communicated to the Marquis de la Romana."
+    },
+    {
+     "id": "p003.s04",
+     "source": "Some years later, in 1808, when the Marquis was commanding a body of troops in the French service in Denmark, Frere was able to accredit a confidential messenger to him, assuring the Spanish commander of the genuineness of the message he carried by mention of the amended line, the correction in which was known only to the Marquis and himself."
+    },
+    {
+     "id": "p003.s05",
+     "source": "The circumstance led to one of the most important movements in the war against Napoleon."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

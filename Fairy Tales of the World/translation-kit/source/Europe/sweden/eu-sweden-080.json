@@ -1,0 +1,86 @@
+{
+ "id": "eu-sweden-080",
+ "title": {
+  "id": "title",
+  "source": "The Lapp Genesis, or the First of Mankind"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/080 - The Lapp Genesis, or the First of Mankind.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 10,
+  "words": 288
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The Lapps, like other people, have their legends, and many of them the same, or nearly so, as are found among other nations."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Others reflect more particularly the national characteristics of the Lapp folk."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Thus, for instance, there is to be found among them a tradition of a general deluge, a universal catastrophe, whereof there still remains a dim reminiscence in the consciences of so many other primitive people."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Before the Lord destroyed mankind, so says the Lapp legend, there were people in Samelads (Lappland), but when the Flood came upon the earth every living creature perished except two, a brother and sister, whom God conducted to a high mountain—Passevare—“The Holy Mountain.”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "When the waters had subsided and the land was again dry, the brother and sister separated, going in opposite directions in search of others, if any might be left."
+    },
+    {
+     "id": "p003.s02",
+     "source": "After three years’ fruitless search they met, and, recognizing each other, they once more went into the world, to meet again in three years, but, recognizing one another now, also, they parted a third time."
+    },
+    {
+     "id": "p003.s03",
+     "source": "When they met at the end of these three years neither knew the other, whereafter they lived together, and from them came the Lapps and Swedes."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Again, as to the distinct manners and customs of the Lapps and Swedes, they relate that at first both [ ] Lapps and Swedes were as one people and of the same parentage, but during a severe storm the one became frightened, and hurried under a board."
+    },
+    {
+     "id": "p004.s02",
+     "source": "From this came the Swedes, who live in houses."
+    },
+    {
+     "id": "p004.s03",
+     "source": "The other remained in the open air, and he became the progenitor of the Lapps, who, to this day, do not ask for a roof over their heads. [ ]"
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

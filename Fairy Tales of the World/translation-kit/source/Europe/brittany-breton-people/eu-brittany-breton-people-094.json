@@ -1,0 +1,36 @@
+{
+ "id": "eu-brittany-breton-people-094",
+ "title": {
+  "id": "title",
+  "source": "Hennebont and Largoet"
+ },
+ "tradition": "Brittany (Breton people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Brittany",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Brittany (Breton people)/094 - Hennebont and Largoet.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 2,
+  "words": 88
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Of the old château of Hennebont, where John of Montfort breathed his last after escaping from the Louvre of his day, only a heap of stones remains."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The old fortress of Largoet is in much the same condition, nothing of the ancient structure having been conserved save the famous Tour d’Elven, considered to be the most beautiful castle keep in all Brittany, which has also a literary distinction as being the scene of some of the most touching episodes in Octave Feuillet’s Roman d’un jeune Homme pauvre ."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "id": "eu-norway-010",
+ "title": {
+  "id": "title",
+  "source": "The Fox As Herdsman"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Popular Tales from the Norse",
+ "credits": "Moe, Jørgen Engebretsen (compiler, d. 1882); Asbjørnsen, Peter Christen (compiler, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)",
+ "gutenberg": "Project Gutenberg eBook #8933 — https://www.gutenberg.org/ebooks/8933 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Norway/010 - The Fox As Herdsman.md",
+ "stats": {
+  "paragraphs": 24,
+  "segments": 28,
+  "words": 425
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once on a time there was a woman who went out to hire a herdsman, and she met a bear."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "'Whither away, Goody?' said Bruin."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "'Oh, I'm going out to hire a herdsman', answered the woman."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "'Why not have me for a herdsman?' said Bruin."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "'Well, why not?' said the woman."
+    },
+    {
+     "id": "p005.s02",
+     "source": "'If you only knew how to call the flock; just let me hear?'"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "'OW, OW!' growled the bear."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "'No, no!"
+    },
+    {
+     "id": "p007.s02",
+     "source": "I won't have you', said the woman, as soon as she heard him say that, and off she went on her way."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "So, when she had gone a bit further, she met a wolf."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "'Whither away, Goody?' asked the Wolf."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "'Oh!' said she, 'I'm going out to hire a herdsman.'"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "'Why not have me for a herdsman?' said the Wolf."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "'Well, why not? if you can only call the flock; let me hear?' said she."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "'UH, UH!' said the Wolf."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "'No, no!' said the woman; 'you'll never do for me.'"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Well, after she had gone a while longer, she met a fox."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "'Whither away, Goody?' asked the Fox."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "'Oh, I'm just going out to hire a herdsman', said the woman."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "'Why not have me for your herdsman?' asked the Fox."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "'Well, why not?' said she; 'if you only knew how to call the flock; let me hear?'"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "'DIL-DAL-HOLOM', sung out the Fox, in such a fine clear voice."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "'Yes; I'll have you for my herdsman', said the woman; and so she set the Fox to herd her flock."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "The first day the Fox was herdsman he ate up all the woman's goats; the next day he made an end of all her sheep; and the third day he ate up all her kine."
+    },
+    {
+     "id": "p022.s02",
+     "source": "So, when he came home at even, the woman asked what he had done with all her flocks?"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "'Oh!' said the Fox, 'their skulls are in the stream, and their bodies in the holt.'"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Now, the Goody stood and churned when the fox said this, but she thought she might as well step out and see after her flock; and while she was away the Fox crept into the churn and ate up the cream."
+    },
+    {
+     "id": "p024.s02",
+     "source": "So when the Goody came back and saw that, she fell into such a rage, that she snatched up the little morsel of the cream that was left, and threw it at the fox as he ran off, so that he got a dab of it on the end of his tail, and that's the reason why the fox has a white tip to his brush."
+    }
+   ],
+   "id": "p024"
+  }
+ ]
+}

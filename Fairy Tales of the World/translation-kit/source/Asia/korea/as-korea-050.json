@@ -1,0 +1,100 @@
+{
+ "id": "as-korea-050",
+ "title": {
+  "id": "title",
+  "source": "The Old Man In The Dream"
+ },
+ "tradition": "Korea",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Korean Folk Tales",
+ "credits": "Yi, Yuk (author, d. 1498); Im, Pang (author, d. 1724); Gale, James Scarth (translator, d. 1937)",
+ "gutenberg": "Project Gutenberg eBook #51002 — https://www.gutenberg.org/ebooks/51002 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Korea/050 - The Old Man In The Dream.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 12,
+  "words": 187
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Kwon Jai was a man high in rank and well advanced in years."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He was, however, much given to sport and various kinds of pleasure."
+    },
+    {
+     "id": "p001.s03",
+     "source": "One night he had a dream, when an old man came to him, who bowed low, and in tears said, “Sir, Minister Hong wishes to kill off me and all my posterity."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Please save me, won’t you?”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Kwon asked, “How can I save you?”"
+    },
+    {
+     "id": "p002.s02",
+     "source": "The old man replied, “Hong will assuredly ask Your Excellency to help him."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Desist from it, please, for if you do, Hong will give it up and I shall live and all mine.”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "A little later there came a rap at the door, when Kwon awakened and asked, “Who is there?”"
+    },
+    {
+     "id": "p003.s02",
+     "source": "It was Hong, who that day had planned an excursion to Lotus Lake to fish for turtles, and now had come specially to invite Kwon to go with him."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Then Kwon knew that the turtle had appeared to him in a dream in the form of an old man, so he declined, saying he was ill."
+    },
+    {
+     "id": "p004.s02",
+     "source": "I learned later that Hong also did not go."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Yi Ryuk."
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

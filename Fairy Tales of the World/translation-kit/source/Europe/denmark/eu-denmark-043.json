@@ -1,0 +1,760 @@
+{
+ "id": "eu-denmark-043",
+ "title": {
+  "id": "title",
+  "source": "The Elfin Hill"
+ },
+ "tradition": "Denmark",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy Tales of Hans Christian Andersen",
+ "credits": "Andersen, H. C. (Hans Christian) (author, d. 1875)",
+ "gutenberg": "Project Gutenberg eBook #27200 — https://www.gutenberg.org/ebooks/27200 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Denmark/043 - The Elfin Hill.md",
+ "stats": {
+  "paragraphs": 47,
+  "segments": 114,
+  "words": 2497
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A few large lizards were running nimbly about in the clefts of an old tree; they could understand one another very well, for they spoke the lizard language."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"What a buzzing and a rumbling there is in the elfin hill,\" said one of the lizards; \"I have not been able to close my eyes for two nights on account of the noise; I might just as well have had the toothache, for that always keeps me awake.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"There is something going on within there,\" said the other lizard; \"they propped up the top of the hill with four red posts, till cock-crow this morning, so that it is thoroughly aired, and the elfin girls have learnt new dances; there is something.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"I spoke about it to an earth-worm of my acquaintance,\" said a third lizard; \"the earth-worm had just come from the elfin hill, where he has been groping about in the earth day and night."
+    },
+    {
+     "id": "p004.s02",
+     "source": "He has heard a great deal; although he cannot see, poor miserable creature, yet he understands very well how to wriggle and lurk about."
+    },
+    {
+     "id": "p004.s03",
+     "source": "They expect friends in the elfin hill, grand company, too; but who they are the earth-worm would not say, or, perhaps, he really did not know."
+    },
+    {
+     "id": "p004.s04",
+     "source": "All the will-o'-the-wisps are ordered to be there to hold a torch dance, as it is called."
+    },
+    {
+     "id": "p004.s05",
+     "source": "The silver and gold which is plentiful in the hill will be polished and placed out in the moonlight.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Who can the strangers be?\" asked the lizards; \"what can the matter be?"
+    },
+    {
+     "id": "p005.s02",
+     "source": "Hark, what a buzzing and humming there is!\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Just at this moment the elfin hill opened, and an old elfin maiden, hollow behind, came tripping out; she was the old elf king's housekeeper, and a distant relative of the family; therefore she wore an amber heart on the middle of her forehead."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Her feet moved very fast, \"trip, trip;\" good gracious, how she could trip right down to the sea to the night-raven."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"You are invited to the elf hill for this evening,\" said she; \"but will you do me a great favor and undertake the invitations? you ought to do something, for you have no housekeeping to attend to as I have."
+    },
+    {
+     "id": "p007.s02",
+     "source": "We are going to have some very grand people, conjurors, who have always something to say; and therefore the old elf king wishes to make a great display.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"Who is to be invited?\" asked the raven."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"All the world may come to the great ball, even human beings, if they can only talk in their sleep, or do something after our fashion."
+    },
+    {
+     "id": "p009.s02",
+     "source": "But for the feast the company must be carefully selected; we can only admit persons of high rank; I have had a dispute myself with the elf king, as he thought we could not admit ghosts."
+    },
+    {
+     "id": "p009.s03",
+     "source": "The merman and his daughter must be invited first, although it may not be agreeable to them to remain so long on dry land, but they shall have a wet stone to sit on, or perhaps something better; so I think they will not refuse this time."
+    },
+    {
+     "id": "p009.s04",
+     "source": "We must have all the old demons of the first class, with tails, and the hobgoblins and imps; and then I think we ought not to leave out the death-horse, or the grave-pig, or even the church dwarf, although they do belong to the clergy, and are not reckoned among our people; but that is merely their office, they are nearly related to us, and visit us very frequently.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"Croak,\" said the night-raven as he flew away with the invitations."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "The elfin maidens we're already dancing on the elf hill, and they danced in shawls woven from moonshine and mist, which look very pretty to those who like such things."
+    },
+    {
+     "id": "p011.s02",
+     "source": "The large hall within the elf hill was splendidly decorated; the floor had been washed with moonshine, and the walls had been rubbed with magic ointment, so that they glowed like tulip-leaves in the light."
+    },
+    {
+     "id": "p011.s03",
+     "source": "In the kitchen were frogs roasting on the spit, and dishes preparing of snail skins, with children's fingers in them, salad of mushroom seed, hemlock, noses and marrow of mice, beer from the marsh woman's brewery, and sparkling salt-petre wine from the grave cellars."
+    },
+    {
+     "id": "p011.s04",
+     "source": "These were all substantial food."
+    },
+    {
+     "id": "p011.s05",
+     "source": "Rusty nails and church-window glass formed the dessert."
+    },
+    {
+     "id": "p011.s06",
+     "source": "The old elf king had his gold crown polished up with powdered slate-pencil; it was like that used by the first form, and very difficult for an elf king to obtain."
+    },
+    {
+     "id": "p011.s07",
+     "source": "In the bedrooms, curtains were hung up and fastened with the slime of snails; there was, indeed, a buzzing and humming everywhere."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"Now we must fumigate the place with burnt horse-hair and pig's bristles, and then I think I shall have done my part,\" said the elf man-servant."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"Father, dear,\" said the youngest daughter, \"may I now hear who our high-born visitors are?\""
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"Well, I suppose I must tell you now,\" he replied; \"two of my daughters must prepare themselves to be married, for the marriages certainly will take place."
+    },
+    {
+     "id": "p014.s02",
+     "source": "The old goblin from Norway, who lives in the ancient Dovre mountains, and who possesses many castles built of rock and freestone, besides a gold mine, which is better than all, so it is thought, is coming with his two sons, who are both seeking a wife."
+    },
+    {
+     "id": "p014.s03",
+     "source": "The old goblin is a true-hearted, honest, old Norwegian graybeard; cheerful and straightforward."
+    },
+    {
+     "id": "p014.s04",
+     "source": "I knew him formerly, when we used to drink together to our good fellowship: he came here once to fetch his wife, she is dead now."
+    },
+    {
+     "id": "p014.s05",
+     "source": "She was the daughter of the king of the chalk-hills at Moen."
+    },
+    {
+     "id": "p014.s06",
+     "source": "They say he took his wife from chalk; I shall be delighted to see him again."
+    },
+    {
+     "id": "p014.s07",
+     "source": "It is said that the boys are ill-bred, forward lads, but perhaps that is not quite correct, and they will become better as they grow older."
+    },
+    {
+     "id": "p014.s08",
+     "source": "Let me see that you know how to teach them good manners.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"And when are they coming?\" asked the daughter."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"That depends upon wind and weather,\" said the elf king; \"they travel economically."
+    },
+    {
+     "id": "p016.s02",
+     "source": "They will come when there is the chance of a ship."
+    },
+    {
+     "id": "p016.s03",
+     "source": "I wanted them to come over to Sweden, but the old man was not inclined to take my advice."
+    },
+    {
+     "id": "p016.s04",
+     "source": "He does not go forward with the times, and that I do not like.\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Two will-o'-the-wisps came jumping in, one quicker than the other, so of course, one arrived first."
+    },
+    {
+     "id": "p017.s02",
+     "source": "\"They are coming! they are coming!\" he cried."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Give me my crown,\" said the elf king, \"and let me stand in the moonshine.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "The daughters drew on their shawls and bowed down to the ground."
+    },
+    {
+     "id": "p019.s02",
+     "source": "There stood the old goblin from the Dovre mountains, with his crown of hardened ice and polished fir-cones."
+    },
+    {
+     "id": "p019.s03",
+     "source": "Besides this, he wore a bear-skin, and great, warm boots, while his sons went with their throats bare and wore no braces, for they were strong men."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"Is that a hill?\" said the youngest of the boys, pointing to the elf hill, \"we should call it a hole in Norway.\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"Boys,\" said the old man, \"a hole goes in, and a hill stands out; have you no eyes in your heads?\""
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Another thing they wondered at was, that they were able without trouble to understand the language."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"Take care,\" said the old man, \"or people will think you have not been well brought up.\""
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Then they entered the elfin hill, where the select and grand company were assembled, and so quickly had they appeared that they seemed to have been blown together."
+    },
+    {
+     "id": "p024.s02",
+     "source": "But for each guest the neatest and pleasantest arrangement had been made."
+    },
+    {
+     "id": "p024.s03",
+     "source": "The sea folks sat at table in great water-tubs, and they said it was just like being at home."
+    },
+    {
+     "id": "p024.s04",
+     "source": "All behaved themselves properly excepting the two young northern goblins; they put their legs on the table and thought they were all right."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"Feet off the table-cloth!\" said the old goblin."
+    },
+    {
+     "id": "p025.s02",
+     "source": "They obeyed, but not immediately."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Then they tickled the ladies who waited at table, with the fir-cones, which they carried in their pockets."
+    },
+    {
+     "id": "p025.s04",
+     "source": "They took off their boots, that they might be more at ease, and gave them to the ladies to hold."
+    },
+    {
+     "id": "p025.s05",
+     "source": "But their father, the old goblin, was very different; he talked pleasantly about the stately Norwegian rocks, and told fine tales of the waterfalls which dashed over them with a clattering noise like thunder or the sound of an organ, spreading their white foam on every side."
+    },
+    {
+     "id": "p025.s06",
+     "source": "He told of the salmon that leaps in the rushing waters, while the water-god plays on his golden harp."
+    },
+    {
+     "id": "p025.s07",
+     "source": "He spoke of the bright winter nights, when the sledge bells are ringing, and the boys run with burning torches across the smooth ice, which is so transparent that they can see the fishes dart forward beneath their feet."
+    },
+    {
+     "id": "p025.s08",
+     "source": "He described everything so clearly, that those who listened could see it all; they could see the saw-mills going, the men-servants and the maidens singing songs, and dancing a rattling dance,—when all at once the old goblin gave the old elfin maiden a kiss, such a tremendous kiss, and yet they were almost strangers to each other."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Then the elfin girls had to dance, first in the usual way, and then with stamping feet, which they performed very well; then followed the artistic and solo dance."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Dear me, how they did throw their legs about!"
+    },
+    {
+     "id": "p026.s03",
+     "source": "No one could tell where the dance begun, or where it ended, nor indeed which were legs and which were arms, for they were all flying about together, like the shavings in a saw-pit!"
+    },
+    {
+     "id": "p026.s04",
+     "source": "And then they spun round so quickly that the death-horse and the grave-pig became sick and giddy, and were obliged to leave the table."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"Stop!\" cried the old goblin, \"is that the only house-keeping they can perform?"
+    },
+    {
+     "id": "p027.s02",
+     "source": "Can they do anything more than dance and throw about their legs, and make a whirlwind?\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"You shall soon see what they can do,\" said the elf king."
+    },
+    {
+     "id": "p028.s02",
+     "source": "And then he called his youngest daughter to him."
+    },
+    {
+     "id": "p028.s03",
+     "source": "She was slender and fair as moonlight, and the most graceful of all the sisters."
+    },
+    {
+     "id": "p028.s04",
+     "source": "She took a white chip in her mouth, and vanished instantly; this was her accomplishment."
+    },
+    {
+     "id": "p028.s05",
+     "source": "But the old goblin said he should not like his wife to have such an accomplishment, and thought his boys would have the same objection."
+    },
+    {
+     "id": "p028.s06",
+     "source": "Another daughter could make a figure like herself follow her, as if she had a shadow, which none of the goblin folk ever had."
+    },
+    {
+     "id": "p028.s07",
+     "source": "The third was of quite a different sort; she had learnt in the brew-house of the moor witch how to lard elfin puddings with glow-worms."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "\"She will make a good housewife,\" said the old goblin, and then saluted her with his eyes instead of drinking her health; for he did not drink much."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Now came the fourth daughter, with a large harp to play upon; and when she struck the first chord, every one lifted up the left leg (for the goblins are left-legged), and at the second chord they found they must all do just what she wanted."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "\"That is a dangerous woman,\" said the old goblin; and the two sons walked out of the hill; they had had enough of it."
+    },
+    {
+     "id": "p031.s02",
+     "source": "\"And what can the next daughter do?\" asked the old goblin."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "\"I have learnt everything that is Norwegian,\" said she; \"and I will never marry, unless I can go to Norway.\""
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Then her youngest sister whispered to the old goblin, \"That is only because she has heard, in a Norwegian song, that when the world shall decay, the cliffs of Norway will remain standing like monuments; and she wants to get there, that she may be safe; for she is so afraid of sinking.\""
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "\"Ho! ho!\" said the old goblin, \"is that what she means?"
+    },
+    {
+     "id": "p034.s02",
+     "source": "Well, what can the seventh and last do?\""
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "\"The sixth comes before the seventh,\" said the elf king, for he could reckon; but the sixth would not come forward."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "\"I can only tell people the truth,\" said she."
+    },
+    {
+     "id": "p036.s02",
+     "source": "\"No one cares for me, nor troubles himself about me; and I have enough to do to sew my grave clothes.\""
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "So the seventh and last came; and what could she do?"
+    },
+    {
+     "id": "p037.s02",
+     "source": "Why, she could tell stories, as many as you liked, on any subject."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "\"Here are my five fingers,\" said the old goblin; \"now tell me a story for each of them.\""
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "So she took him by the wrist, and he laughed till he nearly choked; and when she came to the fourth finger, there was a gold ring on it, as if it knew there was to be a betrothal."
+    },
+    {
+     "id": "p039.s02",
+     "source": "Then the old goblin said, \"Hold fast what you have: this hand is yours; for I will have you for a wife myself.\""
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Then the elfin girl said that the stories about the ring-finger and little Peter Playman had not yet been told."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "\"We will hear them in the winter,\" said the old goblin, \"and also about the fir and the birch-trees, and the ghost stories, and of the tingling frost."
+    },
+    {
+     "id": "p041.s02",
+     "source": "You shall tell your tales, for no one over there can do it so well; and we will sit in the stone rooms, where the pine logs are burning, and drink mead out of the golden drinking-horn of the old Norwegian kings."
+    },
+    {
+     "id": "p041.s03",
+     "source": "The water-god has given me two; and when we sit there, Nix comes to pay us a visit, and will sing you all the songs of the mountain shepherdesses."
+    },
+    {
+     "id": "p041.s04",
+     "source": "How merry we shall be!"
+    },
+    {
+     "id": "p041.s05",
+     "source": "The salmon will be leaping in the waterfalls, and dashing against the stone walls, but he will not be able to come in."
+    },
+    {
+     "id": "p041.s06",
+     "source": "It is indeed very pleasant to live in old Norway."
+    },
+    {
+     "id": "p041.s07",
+     "source": "But where are the lads?\""
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "Where indeed were they?"
+    },
+    {
+     "id": "p042.s02",
+     "source": "Why, running about the fields, and blowing out the will-o'-the-wisps, who so good-naturedly came and brought their torches."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "\"What tricks have you been playing?\" said the old goblin."
+    },
+    {
+     "id": "p043.s02",
+     "source": "\"I have taken a mother for you, and now you may take one of your aunts.\""
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "But the youngsters said they would rather make a speech and drink to their good fellowship; they had no wish to marry."
+    },
+    {
+     "id": "p044.s02",
+     "source": "Then they made speeches and drank toasts, and tipped their glasses, to show that they were empty."
+    },
+    {
+     "id": "p044.s03",
+     "source": "Then they took off their coats, and lay down on the table to sleep; for they made themselves quite at home."
+    },
+    {
+     "id": "p044.s04",
+     "source": "But the old goblin danced about the room with his young bride, and exchanged boots with her, which is more fashionable than exchanging rings."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "\"The cock is crowing,\" said the old elfin maiden who acted as housekeeper; \"now we must close the shutters, that the sun may not scorch us.\""
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "Then the hill closed up."
+    },
+    {
+     "id": "p046.s02",
+     "source": "But the lizards continued to run up and down the riven tree; and one said to the other, \"Oh, how much I was pleased with the old goblin!\""
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "\"The boys pleased me better,\" said the earth-worm."
+    },
+    {
+     "id": "p047.s02",
+     "source": "But then the poor miserable creature could not see."
+    }
+   ],
+   "id": "p047"
+  }
+ ]
+}

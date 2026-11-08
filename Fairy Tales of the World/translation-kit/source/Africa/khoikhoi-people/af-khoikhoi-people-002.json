@@ -1,0 +1,580 @@
+{
+ "id": "af-khoikhoi-people-002",
+ "title": {
+  "id": "title",
+  "source": "Tortoise Fables"
+ },
+ "tradition": "Khoikhoi people",
+ "continent": "Africa",
+ "source_lang": "en",
+ "source_book": "Reynard the fox in South Africa : $b or, Hottentot Fables and Tales, chiefly translated from original manuscripts in the Library of His Excellency Sir George Grey, K.C.B.",
+ "credits": "Bleek, W. H. I. (Wilhelm Heinrich Immanuel) (author, d. 1875)",
+ "gutenberg": "Project Gutenberg eBook #73413 — https://www.gutenberg.org/ebooks/73413 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Africa/Khoikhoi people/002 - Tortoise Fables.md",
+ "stats": {
+  "paragraphs": 44,
+  "segments": 74,
+  "words": 911
+ },
+ "paragraphs": [
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "THE SPRINGBOK (GAZELLE)"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Woe is me!"
+    },
+    {
+     "id": "p002.s02",
+     "source": "He is one who goes"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Where his mother would not let him!"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Who rolls off (the rocks),"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Rolling himself together like a book."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "THE ELEPHANT AND THE TORTOISE"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "(The original, in the o Tyi-hereró or Damara language, is in the Library of Sir G. Grey, J. Rath’s Manuscript, pp. 27, 29.)"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Two things, the Elephant and the Rain, had a dispute."
+    },
+    {
+     "id": "p008.s02",
+     "source": "The Elephant said, “If you say that you nourish me, in what way is it that you do so?”"
+    },
+    {
+     "id": "p008.s03",
+     "source": "The Rain answered, “If you say that I do not nourish you, when I go away, will you not die?”"
+    },
+    {
+     "id": "p008.s04",
+     "source": "And the Rain then departed."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "The Elephant said, “Vulture! cast lots to make [ ] rain for me?”"
+    },
+    {
+     "id": "p009.s02",
+     "source": "The Vulture said, “I will not cast lots.”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Then the Elephant said to the Crow, “Cast lots!” who answered, “Give the things with which I may cast lots.”"
+    },
+    {
+     "id": "p010.s02",
+     "source": "The Crow cast lots and rain fell."
+    },
+    {
+     "id": "p010.s03",
+     "source": "It rained at the lagoons, but they dried up, and only one lagoon remained."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "The Elephant went a-hunting."
+    },
+    {
+     "id": "p011.s02",
+     "source": "There was, however, the Tortoise, to whom the Elephant said, “Tortoise, remain at the water!”"
+    },
+    {
+     "id": "p011.s03",
+     "source": "Thus the Tortoise was left behind when the Elephant went a-hunting."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "There came the Giraffe, and said to the Tortoise, “Give me water!”"
+    },
+    {
+     "id": "p012.s02",
+     "source": "The Tortoise answered, “The water belongs to the Elephant.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "There came the Zebra, who said to the Tortoise, “Give me water!”"
+    },
+    {
+     "id": "p013.s02",
+     "source": "The Tortoise answered, “The water belongs to the Elephant.”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "There came the Gemsbok, and said to the Tortoise, “Give me water!”"
+    },
+    {
+     "id": "p014.s02",
+     "source": "The Tortoise answered, “The water belongs to the Elephant.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "There came the Wildebeest, and said, “Give me water!”"
+    },
+    {
+     "id": "p015.s02",
+     "source": "The Tortoise said, “The water belongs to the Elephant.”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "There came the Roodebok, and said to the Tortoise, “Give me water!”"
+    },
+    {
+     "id": "p016.s02",
+     "source": "The Tortoise answered, “The water belongs to the Elephant.” [ ]"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "There came the Springbok, and said to the Tortoise, “Give me water!”"
+    },
+    {
+     "id": "p017.s02",
+     "source": "The Tortoise said, “The water belongs to the Elephant.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "There came the Jackal, and said to the Tortoise, “Give me water!”"
+    },
+    {
+     "id": "p018.s02",
+     "source": "The Tortoise said, “The water belongs to the Elephant.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "There came the Lion, and said, “Little Tortoise, give me water!”"
+    },
+    {
+     "id": "p019.s02",
+     "source": "When the little Tortoise was about to say something, the Lion got hold of it and beat it; the Lion drank of the water, and since then the animals drink water."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "When the Elephant came back from the hunting, he said, “Little Tortoise, is there water?”"
+    },
+    {
+     "id": "p020.s02",
+     "source": "The Tortoise answered, “The animals have drunk the water.”"
+    },
+    {
+     "id": "p020.s03",
+     "source": "The Elephant asked, “Little Tortoise, shall I chew you or swallow you down?”"
+    },
+    {
+     "id": "p020.s04",
+     "source": "The little Tortoise said, “Swallow me, if you please;” and the Elephant swallowed it whole."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "After the Elephant had swallowed the little Tortoise, and it had entered his body, it tore off his liver, heart, and kidneys."
+    },
+    {
+     "id": "p021.s02",
+     "source": "The Elephant said, “Little Tortoise, you kill me.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "So the Elephant died; but the little Tortoise came out of his dead body, and went wherever it liked. [ ]"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "THE GIRAFFE AND THE TORTOISE"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "(The original, in the Hottentot language, is in Sir G. Grey’s Library, G. Krönlein’s Manuscript, p. 5.)"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "THE GIRAFFE"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Thou who descendest river by river,"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Thou burnt thornbush ( ǂaro )!"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Thou blue one,"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Who appearest like a distant thornhill full of people sitting down."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "The Giraffe and the Tortoise, they say, met one day."
+    },
+    {
+     "id": "p031.s02",
+     "source": "The Giraffe said to the Tortoise, “At once I could trample you to death.”"
+    },
+    {
+     "id": "p031.s03",
+     "source": "The Tortoise, being afraid, remained silent."
+    },
+    {
+     "id": "p031.s04",
+     "source": "Then the Giraffe said, “At once I could swallow you.”"
+    },
+    {
+     "id": "p031.s05",
+     "source": "The Tortoise said, in answer to this, “Well, I just belong to the family of those whom it has always been customary to swallow.”"
+    },
+    {
+     "id": "p031.s06",
+     "source": "Then the Giraffe swallowed the Tortoise; but when the latter was being gulped down, it stuck in the Giraffe’s throat, [ ] and as the latter could not get it down, he was choked to death."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "When the Giraffe was dead, the Tortoise crawled out and went to the Crab (who is considered as the mother of the Tortoise), and told her what had happened."
+    },
+    {
+     "id": "p032.s02",
+     "source": "Then the Crab said—"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“The little Crab!"
+    },
+    {
+     "id": "p033.s02",
+     "source": "I could sprinkle it under its arm with boochoo,"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "The crooked-legged little one, I could sprinkle under its arm.”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "The Tortoise answered its mother and said—"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "“Have you not always sprinkled me,"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "That you want to sprinkle me now?”"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Then they went and fed for a whole year on the remains of the Giraffe. [ ]"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "THE TORTOISES HUNTING THE OSTRICHES"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "(The original, in the Hottentot language, is in Sir G. Grey’s Library, G. Krönlein’s Manuscript, p. 8.)"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "One day, it is said, the Tortoises held a council how they might hunt Ostriches, and they said, “Let us, on both sides, stand in rows near each other, and let one go to hunt the Ostriches, so that they must flee along through the midst of us.”"
+    },
+    {
+     "id": "p041.s02",
+     "source": "They did so, and as they were many, the Ostriches were obliged to run along through the midst of them."
+    },
+    {
+     "id": "p041.s03",
+     "source": "During this they did not move, but, remaining always in the same places, called each to the other, “Are you there?” and each one answered, “I am here.”"
+    },
+    {
+     "id": "p041.s04",
+     "source": "The Ostriches hearing this, ran so tremendously that they quite exhausted their strength, and fell down."
+    },
+    {
+     "id": "p041.s05",
+     "source": "Then the Tortoises assembled by-and-by at the place where the Ostriches had fallen, and devoured them. [ ]"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“Because the Giraffe is said to give blue ashes when burnt.”— Krönlein. ↑"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "In token of approval, according to a Hottentot custom. ↑"
+    }
+   ],
+   "id": "p044"
+  }
+ ]
+}

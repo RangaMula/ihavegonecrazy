@@ -1,0 +1,71 @@
+{
+ "id": "as-china-020",
+ "title": {
+  "id": "title",
+  "source": "The Morning And The Evening Star"
+ },
+ "tradition": "China",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "The Chinese Fairy Book",
+ "credits": "Wilhelm, Richard (editor, d. 1930)",
+ "gutenberg": "Project Gutenberg eBook #29939 — https://www.gutenberg.org/ebooks/29939 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/China/020 - The Morning And The Evening Star.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 8,
+  "words": 121
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "O NCE upon a time there were two stars, sons of the Golden King of the Heavens."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The one was named Tschen and the other Shen."
+    },
+    {
+     "id": "p001.s03",
+     "source": "One day they quarreled, and Tschen struck Shen a terrible blow."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Thereupon both stars made a vow that they would never again look upon each other."
+    },
+    {
+     "id": "p001.s05",
+     "source": "So Tschen only appears in the evening, and Shen only appears in the morning, and not until Tschen has disappeared is Shen again to be seen."
+    },
+    {
+     "id": "p001.s06",
+     "source": "And that is why people say: “When two brothers do not live peaceably with one another they are like Tschen and Shen.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Note: Tschen and Shen are Hesperus and Lucifer, the morning and evening stars."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The tale is told in its traditional form."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  }
+ ]
+}

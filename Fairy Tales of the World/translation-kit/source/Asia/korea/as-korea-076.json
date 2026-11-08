@@ -1,0 +1,803 @@
+{
+ "id": "as-korea-076",
+ "title": {
+  "id": "title",
+  "source": "The Magic Peach"
+ },
+ "tradition": "Korea",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Korean Fairy Tales",
+ "credits": "Griffis, William Elliot (author, d. 1928)",
+ "gutenberg": "Project Gutenberg eBook #67180 — https://www.gutenberg.org/ebooks/67180 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Korea/076 - The Magic Peach.md",
+ "stats": {
+  "paragraphs": 50,
+  "segments": 121,
+  "words": 3085
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Out on the ocean, so far away that no ship ever sailed there, is an island on which stood the seven storied palace of the royal lady, Su Wang Moo."
+    },
+    {
+     "id": "p001.s02",
+     "source": "In our language, this title means Western Queen Mother."
+    },
+    {
+     "id": "p001.s03",
+     "source": "She is always ready to help good mortals with her gifts and favors."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "On this island thousands of genii wait to obey the commands of the Queen Mother."
+    },
+    {
+     "id": "p002.s02",
+     "source": "She has also chariots of silver and gold drawn by dragons, by which she sends her messages everywhere."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The genii and most of the shining maidens stay at home to fulfill the Queen’s commands."
+    },
+    {
+     "id": "p003.s02",
+     "source": "In addition to these servants, she has hundreds of azure pigeons, which she often despatches to far-off places."
+    },
+    {
+     "id": "p003.s03",
+     "source": "In their bills, or under their wings, they carry some gift or promise to make people happy."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "In the mind of many a Korean maiden there rises the dream, or there wells up the hope, that some day the Western Queen Mother will send to her pretty clothes of silk, with necklaces of jewels, a handsome youth to wed her, and a silver ring for the marriage ceremony. [ ]"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Then she pictures to herself how splendidly she will be arrayed and how fine she will look in the costume of a bride; how her long black hair will be done up very high, with flowers and rosettes over the crown of her head, and ermine-edged slippers will be put on her feet."
+    },
+    {
+     "id": "p005.s02",
+     "source": "She wonders how she will feel when she drinks the cups of sacramental wine that make her a wife, after which she will go with her husband and bow to the memorial tablets of his ancestors."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "She goes all over in her mind the happy times she will have in her husband’s home."
+    },
+    {
+     "id": "p006.s02",
+     "source": "What she hopes for most, after all these things, is to have a kind mother-in-law."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Then she will be a queen in her own little kingdom, with plenty of rice and kimchi, and cakes and goodies."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "So it is that many Korean maidens go out under the blue sky to look up at the stars, or on moonlight nights scan the heavens to see if the birds are coming."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Hoping to greet the azure pigeons, they put on their best clothes and watch."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Many are their dreams."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Oh! how many lads also dream of the genii and of the riding on the dragon’s back, to cross the mountain ranges and the great oceans, and to visit strange, far-off countries; or, they think of the pink coat which they will wear."
+    },
+    {
+     "id": "p008.s02",
+     "source": "The pink coat shows that the lad is engaged to be married and will, when grown up, be a husband to the little [ ] girl who may be in her cradle days; for in Korea children and even babies in arms are engaged to be married to other children."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Then the boy pictures the day when the long braid of hair, which he now has to wear down his back, shall be tucked up into a topknot, like a man’s. No matter how old a bachelor may be, he must wear this boy’s braid of hair."
+    },
+    {
+     "id": "p009.s02",
+     "source": "He must not speak, or talk with his elders, without first asking permission."
+    },
+    {
+     "id": "p009.s03",
+     "source": "He must be “seen and not heard” in company, and every one treats him as a child."
+    },
+    {
+     "id": "p009.s04",
+     "source": "So the boy also waits for the azure pigeons to come, for to be engaged to be married even when quite young, or to have a wife when older, means a great deal."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Then the young husband will wear a wide brimmed hat after school and go up to the city, with his fellow villagers, to try at the literary examinations."
+    },
+    {
+     "id": "p010.s02",
+     "source": "They will all march together, under a banner tufted at the top with pheasant feathers."
+    },
+    {
+     "id": "p010.s03",
+     "source": "If he passes successfully, he will be welcomed home with a parade and band of music."
+    },
+    {
+     "id": "p010.s04",
+     "source": "By and by, he will become a magistrate and have a string of amber beads over his ear, and wear on his breast a square of gold-embroidered velvet."
+    },
+    {
+     "id": "p010.s05",
+     "source": "Servants will carry him in a palanquin and his men will carry wooden paddles to punish folks who break the laws."
+    },
+    {
+     "id": "p010.s06",
+     "source": "Then he can strut about, in starched white flowing clothes, with the common people all afraid [ ] of him."
+    },
+    {
+     "id": "p010.s07",
+     "source": "No wonder that the boy waits for the coming of the blue pigeon!"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Now in the gardens of the Queen’s Palace, on the Island of Gems, there grow wonderful fruits of a rich, ripe color, brilliant with light and sheen."
+    },
+    {
+     "id": "p011.s02",
+     "source": "These, when served at the banquets and eaten, have the power of making the guest live very long, even for thousands of years."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Especially powerful is the celestial peach of longevity, which is served on little golden tables, its juice makes an old person’s body new, so that one who eats the peach will live hundreds of years."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Sometimes the Queen sends one of these fruits to her favorites on the earth."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Yet no one can ever get any of these peaches, unless the Queen herself gives them, and the peach trees are always jealously guarded by genii and dragons."
+    },
+    {
+     "id": "p013.s03",
+     "source": "None, even of the Queen’s servants, or her waiting maids, or any of the genii, or dragons, can bestow the peach of longevity on mortals."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Now it happened that the Queen, hearing of the virtues of a certain king’s son, despatched one of her lovely maidens, in one of her ten thousand dragon chariots, inviting him to visit Her Majesty, in the Island of Gems."
+    },
+    {
+     "id": "p015.s02",
+     "source": "She sent a message also to the prince’s parents, telling them that their son would return before the end of the moon, which was then in its first quarter. [ ]"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "His anxious mother, who had a bride already picked out for her son to wed, warned him against looking too long at the lovely princesses, or pretty maids in the Queen’s Palace of Gems."
+    },
+    {
+     "id": "p016.s02",
+     "source": "In truth she had her lurking suspicions."
+    },
+    {
+     "id": "p016.s03",
+     "source": "She feared for her darling son, that, beneath their rosy faces and moon-like eyes, they were really sirens, possibly even sea monsters in female form, and might eat him up."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "She also urged him to be very careful as to etiquette."
+    },
+    {
+     "id": "p017.s02",
+     "source": "He must be especially decorous, because the code of behavior and manners might not be the same as those among polite people upon the earth."
+    },
+    {
+     "id": "p017.s03",
+     "source": "Moreover, he must notice and hear everything and, when he came back home, tell her all about it."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "On the other hand, the Queen of the Island of Gems warned the lovely maiden, a princess whom she sent, to beware lest the prince might fall in love with her, either on the way, or when at the island."
+    },
+    {
+     "id": "p018.s02",
+     "source": "If he tried to persuade her to marry him and to stay on the earth and not come back to the Island of Gems, and to her duties to the Queen, the palace maid would be disgraced and die early."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Although the Queen laughed when she said it, and quoted the proverb, “Don’t trust a pigeon to carry grain,” she was really very serious, and the maiden knew that it would not do to thwart the royal wishes. [ ]"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "So this discreet princess made a firm resolve to be very careful."
+    },
+    {
+     "id": "p020.s02",
+     "source": "She decided that when she met the prince she would be very cold in her bearing."
+    },
+    {
+     "id": "p020.s03",
+     "source": "When delivering the Queen’s invitation, she would appear to think it only a matter of business, though very important."
+    },
+    {
+     "id": "p020.s04",
+     "source": "She would not stay more than an hour in the prince’s mansion."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "When the dragon chariot was returning homeward she would be silent."
+    },
+    {
+     "id": "p021.s02",
+     "source": "She would hold no conversation, nor speak a word, nor let the prince sit beside her, but she would keep in the front seat nearest the dragon, while he should ride on the great creature’s back."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "So it was a very quiet journey which the prince made, while the chariot sped over the clouds, with the earth and oceans lying far beneath."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Part of the time he sat on the dragon’s back, as if in a saddle, but after a while he climbed back into the chariot again, and all the time he was so thrilled with the speed and the grandeur of it all that, to tell the truth, he forgot all about the lovely princess who had brought the Queen’s message, until he found himself at the Queen’s Palace of Gems and was invited to step out of the chariot."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Soon he was seated with others, similarly honored, at the table which was loaded down with dishes of gold and silver which were heaped with the choicest viands."
+    },
+    {
+     "id": "p023.s02",
+     "source": "The guests, all in fine clothes like the prince, were waited on by shining maidens [ ] of exquisite beauty and robed in golden garments gemmed with glittering jewels of the most precious workmanship."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Upon one of these lovely creatures, a maiden who seemed to be about sixteen, not far away from where he sat, the prince cast his eyes."
+    },
+    {
+     "id": "p024.s02",
+     "source": "She was kneeling on the floor ready to do his bidding."
+    },
+    {
+     "id": "p024.s03",
+     "source": "He was so filled with admiration at her loveliness that he could hardly pay any attention to the talk at the table."
+    },
+    {
+     "id": "p024.s04",
+     "source": "Despite his mother’s warning, he made several mistakes in propriety."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Yet his appetite was very good after his long journey and he ate heartily of the delicious fare."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Towards the end of the feast, feeling in a jolly mood, he picked up one of the peaches."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Then he pared and sliced it, greatly enjoying its juicy nectar."
+    },
+    {
+     "id": "p025.s04",
+     "source": "Every morsel of the pulp, as he put it in his mouth, made him feel as if he were gaining a century of vigor."
+    },
+    {
+     "id": "p025.s05",
+     "source": "He knew he was lengthening his life and increasing his power to enjoy the pleasures of which he had always been very fond."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Indeed the prince was far less of a scholar and student than he ought to have been."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Often at home when his teachers were all present and ready to begin the tasks of the day, the lad was still out at play."
+    },
+    {
+     "id": "p026.s03",
+     "source": "His older sister used to say laughingly of her brother, “He never let his studies interfere with his education.”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Yet every moment this maiden kneeling near [ ] him seemed to grow more charming in both face and form, dress and adornment, ease and grace of motion."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Indeed she seemed the very embodiment of all loveliness, and the prince could not keep his eyes off her."
+    },
+    {
+     "id": "p027.s03",
+     "source": "He did not know that this was the effect of eating the peach of longevity, for the maiden was really no prettier at the end of the banquet than she had been at the beginning."
+    },
+    {
+     "id": "p027.s04",
+     "source": "The change was in him, not in her."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "So intoxicated was the prince, that he so far forgot himself and what his mother had told him not to do, that he picked out one of the finest-looking of the peaches from its golden basket on the table and tossed it over to the pretty maiden."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "On her part the maid of honor had herself been so wrapped up in admiration of the young and princely guest, that when he motioned that he was about to toss a peach to her she broke the rule of the Palace of Gems."
+    },
+    {
+     "id": "p029.s02",
+     "source": "She threw out her hands and caught the peach deftly, as if playing ball."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "The palace ladies were all horrified."
+    },
+    {
+     "id": "p030.s02",
+     "source": "They had been taught that, except to perform the duties of waiting and serving, they were to pay no attention to anything the guests might say or do."
+    },
+    {
+     "id": "p030.s03",
+     "source": "When heated with wine the guests might be only making sport of the attendants."
+    },
+    {
+     "id": "p030.s04",
+     "source": "They were to decline any personal attentions and continue in their duty of serving."
+    },
+    {
+     "id": "p030.s05",
+     "source": "But instead of averting her gaze, or bowing low with her face to the ground, or having her [ ] eyes downcast, the maid, actually threw out her hands, caught the peach and, to the horror of all who saw her, bit into it and swallowed the morsel."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "What it was that happened the very next moment even the fairies could not tell or exactly remember; for a golden mist seemed to fall in the banquet hall, enveloping everything."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "It happens that just here in the story a great gap occurs."
+    },
+    {
+     "id": "p033.s02",
+     "source": "At such a pause the Korean story-teller, who sits in his booth in one of the back streets of Seoul, would stop and send his boy to take up a collection from the crowd."
+    },
+    {
+     "id": "p033.s03",
+     "source": "Nor would he go on, until all had been invited to give and the coins rattled in the gourd shell."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "When he began again some said it was the same story continued."
+    },
+    {
+     "id": "p034.s02",
+     "source": "Others were sure it was a new story, but that the palace maid and the prince were the same who had been in the banquet hall of the Western Queen Mother, in the Island of Gems and that the peach had never lost, since it never could lose its virtues, because given by the Queen."
+    },
+    {
+     "id": "p034.s03",
+     "source": "But such as it was, this is the way the story ran on:"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "More than a thousand years afterwards it was known that in the high mountains of the Ever White range lived a holy man, a hermit, who was honored, almost worshiped by the people in that region."
+    },
+    {
+     "id": "p036.s02",
+     "source": "In the summer time hundreds of pilgrims [ ] visited his hut to hear wise words about how to live and do good, and then to receive the hermit’s blessing."
+    },
+    {
+     "id": "p036.s03",
+     "source": "Even the wild beasts appeared to be tame in his presence."
+    },
+    {
+     "id": "p036.s04",
+     "source": "At any rate, they never tried to bite or devour one another, or hurt the old man or to destroy his humble shelter."
+    },
+    {
+     "id": "p036.s05",
+     "source": "The tigers, the leopards and the bears seemed to forget they had claws, or teeth; while their little cubs played peacefully with each other."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "The dress of this hermit was of the ancient style of a thousand years before, of the time of the ancient dynasty of Ko."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "One day while out on one of his walks this old, white-bearded hermit met a woman of fair countenance, who seemed to be quite young, for her face was unwrinkled and rosy."
+    },
+    {
+     "id": "p038.s02",
+     "source": "It appeared that she had travelled far, yet she walked with the springing step of a maiden who was still in her teens."
+    },
+    {
+     "id": "p038.s03",
+     "source": "Her dress betokened that of ages gone, for it was of the sort and fashion which are revealed in the cave pictures painted on the walls of the dolmens, or the colossal stone chambers, in which kings and mighty men were buried, ten or fifteen centuries ago, which are very many in Korea."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "The hermit and maid met in the path under the tall pine tree and exchanged greetings, the lady bowing very low."
+    },
+    {
+     "id": "p039.s02",
+     "source": "Then, as she looked up in his eyes, her face became radiant with joy as if she recognized a dear friend . [ ]"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "The sage inquired who she was, and whether she were the wandering lady, of whom rumor spoke of having been seen during centuries, over all the nine provinces of Korea, by people who were great grandfathers, as well as by the children of that day."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "Then she told her story."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "She was the same palace maid, who, in the Western Queen Mother’s palace on the Island of Gems had waited upon him, once a gay prince and now the holy hermit."
+    },
+    {
+     "id": "p042.s02",
+     "source": "Then again she bowed low."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "For catching and eating the peach which the princely guest had tossed to her, and thus breaking the rules of the palace, the Queen had ordered her banishment for a thousand years."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "But during all this time she had been seeking the prince who tossed her the peach of longevity; for she knew that neither she nor he could die, till the thousand years had passed."
+    },
+    {
+     "id": "p044.s02",
+     "source": "Yet none of the men she met, however handsome, learned or wealthy, reached her ideal of the youth she had seen so long ago."
+    },
+    {
+     "id": "p044.s03",
+     "source": "Not finding him, she went back to the Island of Gems, traveling on a dragon’s back, and humbly begged the Queen to extend her term of life, until she should meet the one she loved so dearly, even if she found him only after hundreds of years more of wandering and of hope deferred."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "The Mother Queen listened to her petition and was gracious and extended the maiden’s life."
+    },
+    {
+     "id": "p045.s02",
+     "source": "So [ ] on the earth she kept up her wanderings."
+    },
+    {
+     "id": "p045.s03",
+     "source": "Now, having met the holy hermit she was happy, for she felt sure that she had found the same prince, venerable in appearance though he was, for she could see his soul."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "The hermit listened with delight to the lady’s story of her life in the palace and of her wanderings, during a thousand years in search of one she loved; and, especially, that she had been willing to have the Mother Queen order her future."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "As for the hermit, his long white beard which swept his breast fell off, his bald head was in a moment covered with luxuriant black hair, and he became young again in her presence, with springing step and bright eyes."
+    },
+    {
+     "id": "p047.s02",
+     "source": "He could not be more rosy in countenance, for the pure life he had led had kept his skin pink."
+    },
+    {
+     "id": "p047.s03",
+     "source": "They spent many hours together, in talking long and joyfully over their experiences in the Island of Gems."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "Then both agreed that now, since they had met again, they would bow gladly to the Queen’s decision concerning them both, and do whatever Her Majesty ordered."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "But already by a flying dragon that was famous for gathering up news from all parts of the universe, the Queen had been told of the meeting of the lovers in the mountain path, and of their pious resolve to commit their future to Her Majesty in the Island of Gems. [ ]"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "Suddenly the pair of lovers heard near the mountain top a sound of sweet music, as of some fairy playing on a lute, and at every second the sounds seemed to come lower and nearer."
+    },
+    {
+     "id": "p050.s02",
+     "source": "Soon a great white cloud of sweet smelling odors, like incense, enveloped them."
+    },
+    {
+     "id": "p050.s03",
+     "source": "What was their surprise to see a golden chariot drawn by two dragons, whose eyes were like emeralds, come up close to where they stood."
+    },
+    {
+     "id": "p050.s04",
+     "source": "Both of them, prince-hermit and maid were then taken up into the chariot and borne swiftly over cloud, and mountain and sea, to the Island of Gems."
+    },
+    {
+     "id": "p050.s05",
+     "source": "There the Queen ordered them to be married, and, after a splendid wedding, they lived happily ever after. [ ]"
+    }
+   ],
+   "id": "p050"
+  }
+ ]
+}

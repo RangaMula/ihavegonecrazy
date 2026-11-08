@@ -1,0 +1,466 @@
+{
+ "id": "eu-russia-081",
+ "title": {
+  "id": "title",
+  "source": "The Miser"
+ },
+ "tradition": "Russia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore",
+ "credits": "Ralston, William Ralston Shedden (translator, d. 1889)",
+ "gutenberg": "Project Gutenberg eBook #22373 — https://www.gutenberg.org/ebooks/22373 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Russia/081 - The Miser.md",
+ "stats": {
+  "paragraphs": 32,
+  "segments": 63,
+  "words": 842
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There once was a rich merchant named Marko—a stingier fellow never lived!"
+    },
+    {
+     "id": "p001.s02",
+     "source": "One day he went out for a stroll."
+    },
+    {
+     "id": "p001.s03",
+     "source": "As he went along the road he saw a beggar—an old man, who sat there asking for alms—“Please to give, O ye Orthodox, for Christ’s sake!”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Marko the Rich passed by."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Just at that time there came up behind him a poor moujik, who felt sorry for the beggar, and gave him a copeck."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The rich man seemed to feel ashamed, for he stopped and said to the moujik:"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“Harkye, neighbor, lend me a copeck."
+    },
+    {
+     "id": "p003.s02",
+     "source": "I want to give that poor man something, but I’ve no small change.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The moujik gave him one, and asked when he should come for his money."
+    },
+    {
+     "id": "p004.s02",
+     "source": "“Come to-morrow,” was the reply."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Well next day the poor man went to the rich man’s to get his copeck."
+    },
+    {
+     "id": "p004.s04",
+     "source": "He entered his spacious courtyard and asked:"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Is Marko the Rich at home?”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Yes."
+    },
+    {
+     "id": "p006.s02",
+     "source": "What do you want?” replied Marko."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“I’ve come for my copeck.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Ah, brother! come again."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Really I’ve no change just now.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "The poor man made his bow and went away."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“I’ll come to-morrow,” said he."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "On the morrow he came again, but it was just the same story as before."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“I haven’t a single copper."
+    },
+    {
+     "id": "p012.s02",
+     "source": "If you like to change me a note for a hundred—No? well then come again in a fortnight.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "At the end of the fortnight the poor man came again, but Marko the Rich saw him from the window, and said to his wife:"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“Harkye, wife!"
+    },
+    {
+     "id": "p014.s02",
+     "source": "I’ll strip myself naked and lie down under the holy pictures."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Cover me up with a cloth, and sit down and cry, just as you would over a corpse."
+    },
+    {
+     "id": "p014.s04",
+     "source": "When the moujik comes for his money, tell him I died this morning.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Well the wife did everything exactly as her husband directed her."
+    },
+    {
+     "id": "p015.s02",
+     "source": "While she was sitting there drowned in bitter tears, the moujik came into the room."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“What do you want?” says she."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“The money Marko the Rich owes me,” answers the poor man."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“Ah, moujik, Marko the Rich has wished us farewell; he’s only just dead.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“The kingdom of heaven be his!"
+    },
+    {
+     "id": "p019.s02",
+     "source": "If you’ll allow me, mistress, in return for my copeck I’ll do him a last service—just give his mortal remains a wash.”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "So saying he laid hold of a pot full of boiling water and began pouring its scalding contents over Marko the Rich."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Marko, his brows knit, his legs contorted, was scarcely able to hold out."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“Writhe away or not as you please,” thought the poor man, “but pay me my copeck!”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "When he had washed the body, and laid it out properly, he said:"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“Now then, mistress, buy a coffin and have it taken into the church; I’ll go and read psalms over it.”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "So Marko the Rich was put in a coffin and taken into the church, and the moujik began reading psalms over him."
+    },
+    {
+     "id": "p024.s02",
+     "source": "The darkness of night came on."
+    },
+    {
+     "id": "p024.s03",
+     "source": "All of a sudden a window opened, and a party of robbers crept through it into the church."
+    },
+    {
+     "id": "p024.s04",
+     "source": "The moujik hid himself behind the altar."
+    },
+    {
+     "id": "p024.s05",
+     "source": "As soon as the robbers had come in they began dividing their booty, and after everything else was shared there remained over and above a golden sabre—each one laid hold of it for himself, no one would give up his claim to it."
+    },
+    {
+     "id": "p024.s06",
+     "source": "Out jumped the poor man, crying:"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“What’s the good of disputing that way?"
+    },
+    {
+     "id": "p025.s02",
+     "source": "Let the sabre belong to him who will cut this corpse’s head off!”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Up jumped Marko the Rich like a madman."
+    },
+    {
+     "id": "p026.s02",
+     "source": "The robbers were frightened out of their wits, flung away their spoil and scampered off."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“Here, Moujik,” says Marko, “let’s divide the money.”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "They divided it equally between them: each of the shares was a large one."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“But how about the copeck?” asks the poor man."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Ah, brother!” replies Marko, “surely you can see I’ve got no change!”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "And so Marko the Rich never paid the copeck after all."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "We may take next the large class of stories about simpletons, so dear to the public in all parts of the world."
+    },
+    {
+     "id": "p032.s02",
+     "source": "In the Skazkas a simpleton is known as a duràk , a word which admits of a variety of explanations."
+    },
+    {
+     "id": "p032.s03",
+     "source": "Sometimes it means an idiot, sometimes a fool in the sense of a jester."
+    },
+    {
+     "id": "p032.s04",
+     "source": "In the stories of village life its signification is generally that of a “ninny;” in the “fairy stories” it is frequently applied to the youngest of the well-known “Three Brothers,” the “Boots” of the family as Dr. Dasent has called him."
+    },
+    {
+     "id": "p032.s05",
+     "source": "In the latter case, of course, the hero’s durachestvo , or foolishness, is purely subjective."
+    },
+    {
+     "id": "p032.s06",
+     "source": "It exists only in the false conceptions of his character which his family or his neighbors have formed."
+    },
+    {
+     "id": "p032.s07",
+     "source": "But the duràk of the following tale is represented as being really “daft.”"
+    },
+    {
+     "id": "p032.s08",
+     "source": "The story begins with one of the conventional openings of the Skazka—“In a certain tsarstvo , in a certain gosudarstvo ,”—but the two synonyms for “kingdom” or “state” are used only because they rhyme."
+    }
+   ],
+   "id": "p032"
+  }
+ ]
+}

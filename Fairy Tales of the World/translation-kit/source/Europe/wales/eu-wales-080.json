@@ -1,0 +1,78 @@
+{
+ "id": "eu-wales-080",
+ "title": {
+  "id": "title",
+  "source": "p. Llandegla Spirit"
+ },
+ "tradition": "Wales",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Welsh Folk-Lore",
+ "credits": "Owen, Elias (author, d. 1899)",
+ "gutenberg": "Project Gutenberg eBook #20096 — https://www.gutenberg.org/ebooks/20096 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Wales/080 - p. Llandegla Spirit.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 11,
+  "words": 263
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The tale of this Spirit was given me by Mr. Roberts, late Schoolmaster of Llandegla."
+    },
+    {
+     "id": "p001.s02",
+     "source": "A small river runs close to the secluded village of Llandegla, and in this mountain stream under a huge stone lies a wicked Ghost."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The tale is as follows:—"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The old Rectory at Llandegla was haunted; the Spirit was very troublesome; no peace was to be got because of it; every night it was at its work."
+    },
+    {
+     "id": "p002.s02",
+     "source": "A person of the name of Griffiths, who lived at Graianrhyd, was sent for to lay the Ghost."
+    },
+    {
+     "id": "p002.s03",
+     "source": "He came to the Rectory, but the Spirit could not be overcome."
+    },
+    {
+     "id": "p002.s04",
+     "source": "It is true Griffiths saw it, but in such a form that he could not approach it; night after night, the Spirit appeared in various forms, but still the conjurer was unable to master it."
+    },
+    {
+     "id": "p002.s05",
+     "source": "At last it came to the wise man in the form of a fly, which Griffiths immediately captured, and placed in a small box."
+    },
+    {
+     "id": "p002.s06",
+     "source": "This box he buried under a large stone in the river, just below the bridge, near the Llandegla Mills, and there the Spirit is to remain until a certain tree, which grows by the bridge, reaches the height of the parapet, and then, when this takes place, the Spirit shall have power to regain his liberty."
+    },
+    {
+     "id": "p002.s07",
+     "source": "To prevent this tree from growing, the school children, even to this day, nip the upper branches, and thus retard its upward growth."
+    },
+    {
+     "id": "p002.s08",
+     "source": "Mr. Roberts received the story I have given, from the old Parish Clerk, John Jones the weaver, who died a few years ago."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

@@ -1,0 +1,840 @@
+{
+ "id": "as-japan-017",
+ "title": {
+  "id": "title",
+  "source": "The White Hare And The Crocodiles"
+ },
+ "tradition": "Japan",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Japanese Fairy Tales",
+ "credits": "Ozaki, Yei Theodora (author, d. 1932)",
+ "gutenberg": "Project Gutenberg eBook #4018 — https://www.gutenberg.org/ebooks/4018 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Japan/017 - The White Hare And The Crocodiles.md",
+ "stats": {
+  "paragraphs": 59,
+  "segments": 116,
+  "words": 2134
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Long, long ago, when all the animals could talk, there lived in the province of Inaba in Japan, a little white hare."
+    },
+    {
+     "id": "p001.s02",
+     "source": "His home was on the island of Oki, and just across the sea was the mainland of Inaba."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Now the hare wanted very much to cross over to Inaba."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Day after day he would go out and sit on the shore and look longingly over the water in the direction of Inaba, and day after day he hoped to find some way of getting across."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "One day as usual, the hare was standing on the beach, looking towards the mainland across the water, when he saw a great crocodile swimming near the island."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"This is very lucky!\" thought the hare."
+    },
+    {
+     "id": "p004.s02",
+     "source": "\"Now I shall be able to get my wish."
+    },
+    {
+     "id": "p004.s03",
+     "source": "I will ask the crocodile to carry me across the sea!\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "But he was doubtful whether the crocodile would consent to do what wanted."
+    },
+    {
+     "id": "p005.s02",
+     "source": "So he thought instead of asking a favor he would try to get what he wanted by a trick."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "So with a loud voice he called to the crocodile, and said:"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Oh, Mr. Crocodile, isn't it a lovely day?\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "The crocodile, who had come out all by itself that day to enjoy the bright sunshine, was just beginning to feel a bit lonely when the hare's cheerful greeting broke the silence."
+    },
+    {
+     "id": "p008.s02",
+     "source": "The crocodile swam nearer the shore, very pleased to hear some one speak."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"I wonder who it was that spoke to me just now!"
+    },
+    {
+     "id": "p009.s02",
+     "source": "Was it you, Mr. Hare?"
+    },
+    {
+     "id": "p009.s03",
+     "source": "You must be very lonely all by yourself!\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"Oh, no, I am not at all lonely,\" said the hare, \"but as it was such a fine day I came out here to enjoy myself."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Won't you stop and play with me a little while?\""
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "The crocodile came out of the sea and sat on the shore, and the two played together for some time."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Then the hare said:"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"Mr. Crocodile, you live in the sea and I live on this island, and we do not often meet, so I know very little about you."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Tell me, do you think the number of your company is greater than mine?\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"Of course, there are more crocodiles than hares,\" answered the crocodile."
+    },
+    {
+     "id": "p013.s02",
+     "source": "\"Can you not see that for yourself?"
+    },
+    {
+     "id": "p013.s03",
+     "source": "You live on this small island, while I live in the sea, which spreads through all parts of the world, so if I call together all the crocodiles who dwell in the sea you hares will be as nothing compared to us!\""
+    },
+    {
+     "id": "p013.s04",
+     "source": "The crocodile was very conceited."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "The hare, who meant to play a trick on the crocodile, said:"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"Do you think it possible for you to call up enough crocodiles to form a line from this island across the sea to Inaba?\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "The crocodile thought for a moment and then answered:"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Of course, it is possible.\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Then do try,\" said the artful hare, \"and I will count the number from here!\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "The crocodile, who was very simple-minded, and who hadn't the least idea that the hare intended to play a trick on him, agreed to do what the hare asked, and said:"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"Wait a little while I go back into the sea and call my company together!\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "The crocodile plunged into the sea and was gone for some time."
+    },
+    {
+     "id": "p021.s02",
+     "source": "The hare, meanwhile, waited patiently on the shore."
+    },
+    {
+     "id": "p021.s03",
+     "source": "At last the crocodile appeared, bringing with him a large number of other crocodiles."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"Look, Mr. Hare!\" said the crocodile, \"it is nothing for my friends to form a line between here and Inaba."
+    },
+    {
+     "id": "p022.s02",
+     "source": "There are enough crocodiles to stretch from here even as far as China or India."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Did you ever see so many crocodiles?\""
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Then the whole company of crocodiles arranged themselves in the water so as to form a bridge between the Island of Oki and the mainland of Inaba."
+    },
+    {
+     "id": "p023.s02",
+     "source": "When the hare saw the bridge of crocodiles, he said:"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"How splendid!"
+    },
+    {
+     "id": "p024.s02",
+     "source": "I did not believe this was possible."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Now let me count you all!"
+    },
+    {
+     "id": "p024.s04",
+     "source": "To do this, however, with your permission, I must walk over on your backs to the other side, so please be so good as not to move, or else I shall fall into the sea and be drowned!\""
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "So the hare hopped off the island on to the strange bridge of crocodiles, counting as he jumped from one crocodile's back to the other:"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"Please keep quite still, or I shall not be able to count."
+    },
+    {
+     "id": "p026.s02",
+     "source": "One, two, three, four, five, six, seven, eight, nine—\""
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Thus the cunning hare walked right across to the mainland of Inaba."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Not content with getting his wish, he began to jeer at the crocodiles instead of thanking them, and said, as he leapt off the last one's back:"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"Oh! you stupid crocodiles, now I have done with you!\""
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "And he was just about to run away as fast as he could."
+    },
+    {
+     "id": "p029.s02",
+     "source": "But he did not escape so easily, for so soon as the crocodiles understood that this was a trick played upon them by the hare so as to enable him to cross the sea, and that the hare was now laughing at them for their stupidity, they became furiously angry and made up their minds to take revenge."
+    },
+    {
+     "id": "p029.s03",
+     "source": "So some of them ran after the hare and caught him."
+    },
+    {
+     "id": "p029.s04",
+     "source": "Then they all surrounded the poor little animal and pulled out all his fur."
+    },
+    {
+     "id": "p029.s05",
+     "source": "He cried out loudly and entreated them to spare him, but with each tuft of fur they pulled out they said:"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "\"Serve you right!\""
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "When the crocodiles had pulled out the last bit of fur, they threw the poor hare on the beach, and all swam away laughing at what they had done."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "The hare was now in a pitiful plight, all his beautiful white fur had been pulled out, and his bare little body was quivering with pain and bleeding all over."
+    },
+    {
+     "id": "p032.s02",
+     "source": "He could hardly move, and all he could do was to lie on the beach quite helpless and weep over the misfortune that had befallen him."
+    },
+    {
+     "id": "p032.s03",
+     "source": "Notwithstanding that it was his own fault that had brought all this misery and suffering upon the white hare of Inaba, any one seeing the poor little creature could not help feeling sorry for him in his sad condition, for the crocodiles had been very cruel in their revenge."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Just at this time a number of men, who looked like King's sons, happened to pass by, and seeing the hare lying on the beach crying, stopped and asked what was the matter."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "The hare lifted up his head from between his paws, and answered them, saying:"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "\"I had a fight with some crocodiles, but I was beaten, and they pulled out all my fur and left me to suffer here—that is why I am crying.\""
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Now one of these young men had a bad and spiteful disposition."
+    },
+    {
+     "id": "p036.s02",
+     "source": "But he feigned kindness, and said to the hare:"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "\"I feel very sorry for you."
+    },
+    {
+     "id": "p037.s02",
+     "source": "If you will only try it, I know of a remedy which will cure your sore body."
+    },
+    {
+     "id": "p037.s03",
+     "source": "Go and bathe yourself in the sea, and then come and sit in the wind."
+    },
+    {
+     "id": "p037.s04",
+     "source": "This will make your fur grow again, and you will be just as you were before.\""
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Then all the young men passed on."
+    },
+    {
+     "id": "p038.s02",
+     "source": "The hare was very pleased, thinking that he had found a cure."
+    },
+    {
+     "id": "p038.s03",
+     "source": "He went and bathed in the sea and then came out and sat where the wind could blow upon him."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "But as the wind blew and dried him, his skin became drawn and hardened, and the salt increased the pain so much that he rolled on the sand in his agony and cried aloud."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Just then another King's son passed by, carrying a great bag on his back."
+    },
+    {
+     "id": "p040.s02",
+     "source": "He saw the hare, and stopped and asked why he was crying so loudly."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "But the poor hare, remembering that he had been deceived by one very like the man who now spoke to him, did not answer, but continued to cry."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "But this man had a kind heart, and looked at the hare very pityingly, and said:"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "\"You poor thing!"
+    },
+    {
+     "id": "p043.s02",
+     "source": "I see that your fur is all pulled out and that your skin is quite bare."
+    },
+    {
+     "id": "p043.s03",
+     "source": "Who can have treated you so cruelly?\""
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "When the hare heard these kind words he felt very grateful to the man, and encouraged by his gentle manner the hare told him all that had befallen him."
+    },
+    {
+     "id": "p044.s02",
+     "source": "The little animal hid nothing from his friend, but told him frankly how he had played a trick on the crocodiles and how he had come across the bridge they had made, thinking that he wished to count their number: how he had jeered at them for their stupidity, and then how the crocodiles had revenged themselves on him."
+    },
+    {
+     "id": "p044.s03",
+     "source": "Then he went on to say how he had been deceived by a party of men who looked very like his kind friend: and the hare ended his long tale of woe by begging the man to give him some medicine that would cure him and make his fur grow again."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "When the hare had finished his story, the man was full of pity towards him, and said:"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "\"I am very sorry for all you have suffered, but remember, it was only the consequence of the deceit you practiced on the crocodiles.\""
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "\"I know,\" answered the sorrowful hare, \"but I have repented and made up my mind never to use deceit again, so I beg you to show me how I may cure my sore body and make the fur grow again.\""
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "\"Then I will tell you of a good remedy,\" said the man."
+    },
+    {
+     "id": "p048.s02",
+     "source": "\"First go and bathe well in that pond over there and try to wash all the salt from your body."
+    },
+    {
+     "id": "p048.s03",
+     "source": "Then pick some of those kaba flowers that are growing near the edge of the water, spread them on the ground and roll yourself on them."
+    },
+    {
+     "id": "p048.s04",
+     "source": "If you do this the pollen will cause your fur to grow again, and you will be quite well in a little while.\""
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "The hare was very glad to be told what to do, so kindly."
+    },
+    {
+     "id": "p049.s02",
+     "source": "He crawled to the pond pointed out to him, bathed well in it, and then picked the kaba flowers growing near the water, and rolled himself on them."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "To his amazement, even while he was doing this, he saw his nice white fur growing again, the pain ceased, and he felt just as he had done before all his misfortunes."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "The hare was overjoyed at his quick recovery, and went hopping joyfully towards the young man who had so helped him, and kneeling down at his feet, said:"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "\"I cannot express my thanks for all you have done for me!"
+    },
+    {
+     "id": "p052.s02",
+     "source": "It is my earnest wish to do something for you in return."
+    },
+    {
+     "id": "p052.s03",
+     "source": "Please tell me who you are?\""
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "\"I am no King's son as you think me."
+    },
+    {
+     "id": "p053.s02",
+     "source": "I am a fairy, and my name is Okuni-nushi-no-Mikoto,\" answered the man, \"and those beings who passed here before me are my brothers."
+    },
+    {
+     "id": "p053.s03",
+     "source": "They have heard of a beautiful Princess called Yakami who lives in this province of Inaba, and they are on their way to find her and to ask her to marry one of them."
+    },
+    {
+     "id": "p053.s04",
+     "source": "But on this expedition I am only an attendant, so I am walking behind them with this great big bag on my back.\""
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "The hare humbled himself before this great fairy Okuni-nushi-no-Mikoto, whom many in that part of the land worshiped as a god."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "\"Oh, I did not know that you were Okuni-nushi-no-Mikoto."
+    },
+    {
+     "id": "p055.s02",
+     "source": "How kind you have been to me!"
+    },
+    {
+     "id": "p055.s03",
+     "source": "It is impossible to believe that that unkind fellow who sent me to bathe in the sea is one of your brothers."
+    },
+    {
+     "id": "p055.s04",
+     "source": "I am quite sure that the Princess, whom your brothers have gone to seek, will refuse to be the bride of any of them, and will prefer you for your goodness of heart."
+    },
+    {
+     "id": "p055.s05",
+     "source": "I am quite sure that you will win her heart without intending to do so, and she will ask to be your bride.\""
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "Okuni-nushi-no-Mikoto took no notice of what the hare said, but bidding the little animal goodby, went on his way quickly and soon overtook his brothers."
+    },
+    {
+     "id": "p056.s02",
+     "source": "He found them just entering the Princess's gate."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "Just as the hare had said, the Princess could not be persuaded to become the bride of any of the brothers, but when she looked at the kind brother's face she went straight up to him and said:"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "\"To you I give myself,\" and so they were married."
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "This is the end of the story."
+    },
+    {
+     "id": "p059.s02",
+     "source": "Okuni-nushi-no-Mikoto is worshiped by the people in some parts of Japan, as a god, and the hare has become famous as \"The White Hare of Inaba.\""
+    },
+    {
+     "id": "p059.s03",
+     "source": "But what became of the crocodiles nobody knows."
+    }
+   ],
+   "id": "p059"
+  }
+ ]
+}

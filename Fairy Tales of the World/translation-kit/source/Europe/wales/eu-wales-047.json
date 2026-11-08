@@ -1,0 +1,78 @@
+{
+ "id": "eu-wales-047",
+ "title": {
+  "id": "title",
+  "source": "Fairy Illusions"
+ },
+ "tradition": "Wales",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Welsh Folk-Lore",
+ "credits": "Owen, Elias (author, d. 1899)",
+ "gutenberg": "Project Gutenberg eBook #20096 — https://www.gutenberg.org/ebooks/20096 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Wales/047 - Fairy Illusions.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 11,
+  "words": 283
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "“Ryw dro yr oedd brodor o Nefyn yn dyfod adref o ffair Pwllheli, ac wrth yr Efail Newydd gwelai Inn fawreddog, a chan ei fod yn gwybod nad oedd yr un gwesty i fod yno, gofynodd i un o’r gweision os oedd ganddynt ystabl iddo roddi ei farch."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Atebwyd yn gadarnhaol."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Rhoddwyd y march yn yr ystabl, ac aeth yntau i mewn i’r ty, gofynodd am beint o gwrw, ac ni chafodd erioed well cwrw na’r cwrw hwnw."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Yn mhen ychydig, gofynodd am fyned i orphwys, a chafodd hyny hefyd."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Aeth i’w orweddle, yr hwn ydoedd o ran gwychder yn deilwng i’r brenhin; ond wchw fawr! erbyn iddo ddeffro, cafodd ei hun yn gorwedd ar ei hyd mewn tomen ludw, a’r ceffyl wedi ei rwymo wrth bolyn clawdd gwrysg.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "This in English is as follows:—“Once upon a time a native of Nefyn was returning from Pwllheli fair, and when near Efail Newydd he saw a magnificent Inn, and, as he knew that no such public-house was really there, he went up to it and asked one of the servants whether they had a stable where he could put up his horse."
+    },
+    {
+     "id": "p002.s02",
+     "source": "He was answered in the affirmative."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The horse was placed in the stable, and the man entered the house and asked for a pint of beer, which he thought was the best he had ever drunk."
+    },
+    {
+     "id": "p002.s04",
+     "source": "After awhile he inquired whether he could go to rest."
+    },
+    {
+     "id": "p002.s05",
+     "source": "This also was granted him, and he retired to his room, which in splendour was worthy of the king."
+    },
+    {
+     "id": "p002.s06",
+     "source": "But alas! when he awoke he found himself sleeping on his back on a heap of ashes, and the horse tied to a pole in the hedge.”"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

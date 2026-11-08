@@ -1,0 +1,44 @@
+{
+ "id": "eu-serbia-028",
+ "title": {
+  "id": "title",
+  "source": "Paganism and Religion"
+ },
+ "tradition": "Serbia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Hero Tales and Legends of the Serbians",
+ "credits": "Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)",
+ "gutenberg": "Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Serbia/028 - Paganism and Religion.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 164
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There is available but slender material concerning the pre-Christian history of the Southern-Slavonic races, and their worship of Nature has not been adequately studied."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Immediately after the Slavonic immigration into the Balkan Peninsula during the seventh and eighth centuries, Christianity, which was already deeply rooted in the Byzantines, easily destroyed the ancient faith."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The last survivors of paganism lived in the western part of the peninsula, in the regions round the river Neretva, and these were converted to Christianity during the reign of Basil I. A number of Croatians had been converted to Christianity as early even as the seventh century, and had established an episcopate at Agram (Zagreb)."
+    },
+    {
+     "id": "p001.s04",
+     "source": "In the course of some thousand years Græco-Oriental myths and legends, ancient Illyrian and Roman propaganda and Christian legends and apocryphal writings exercised so great an influence upon the ancient religions of the Southern-Slavonic peoples that it is impossible to unravel from the tangled skein of such evidence as is available a purely Southern-Slavonic mythology."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

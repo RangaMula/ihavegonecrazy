@@ -1,0 +1,576 @@
+{
+ "id": "eu-russia-080",
+ "title": {
+  "id": "title",
+  "source": "The Three Copecks"
+ },
+ "tradition": "Russia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore",
+ "credits": "Ralston, William Ralston Shedden (translator, d. 1889)",
+ "gutenberg": "Project Gutenberg eBook #22373 — https://www.gutenberg.org/ebooks/22373 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Russia/080 - The Three Copecks.md",
+ "stats": {
+  "paragraphs": 41,
+  "segments": 77,
+  "words": 1031
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There once was a poor little orphan-lad who had nothing at all to live on; so he went to a rich moujik and hired himself out to him, agreeing to work for one copeck a year."
+    },
+    {
+     "id": "p001.s02",
+     "source": "And when he had worked for a whole year, and had received his copeck, he went to a well and threw it into the water, saying, “If it don’t sink, I’ll keep it."
+    },
+    {
+     "id": "p001.s03",
+     "source": "It will be plain enough I’ve served my master faithfully.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "But the copeck sank."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Well, he remained in service a second year, and received a second copeck."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Again he flung it into the well, and again it sank to the bottom."
+    },
+    {
+     "id": "p002.s04",
+     "source": "He remained a third year; worked and worked, till the time came for payment."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Then his master gave him a rouble."
+    },
+    {
+     "id": "p002.s06",
+     "source": "“No,” says the orphan, “I don’t want your money; give me my copeck.”"
+    },
+    {
+     "id": "p002.s07",
+     "source": "He got his copeck and flung it into the well."
+    },
+    {
+     "id": "p002.s08",
+     "source": "Lo and behold! there were all three copecks floating on the surface of the water."
+    },
+    {
+     "id": "p002.s09",
+     "source": "So he took them and went into the town."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Now as he went along the street, it happened that some small boys had got hold of a kitten and were tormenting it."
+    },
+    {
+     "id": "p003.s02",
+     "source": "And he felt sorry for it, and said:"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Let me have that kitten, my boys?”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Yes, we’ll sell it you.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“What do you want for it?”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Three copecks.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Well the orphan bought the kitten, and afterwards hired himself to a merchant, to sit in his shop."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "That merchant’s business began to prosper wonderfully."
+    },
+    {
+     "id": "p009.s02",
+     "source": "He couldn’t supply goods fast enough; purchasers carried off everything in a twinkling."
+    },
+    {
+     "id": "p009.s03",
+     "source": "The merchant got ready to go to sea, freighted a ship, and said to the orphan:"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“Give me your cat; maybe it will catch mice on board, and amuse me.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Pray take it, master! only if you lose it, I shan’t let you off cheap.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "The merchant arrived in a far off land, and put up at an inn."
+    },
+    {
+     "id": "p012.s02",
+     "source": "The landlord saw that he had a great deal of money, so he gave him a bedroom which was infested by countless swarms of rats and mice, saying to himself, “If they should happen to eat him up, his money will belong to me.”"
+    },
+    {
+     "id": "p012.s03",
+     "source": "For in that country they knew nothing about cats, and the rats and mice had completely got the upper hand."
+    },
+    {
+     "id": "p012.s04",
+     "source": "Well the merchant took the cat with him to his room and went to bed."
+    },
+    {
+     "id": "p012.s05",
+     "source": "Next morning the landlord came into the room."
+    },
+    {
+     "id": "p012.s06",
+     "source": "There was the merchant alive and well, holding the cat in his arms, and stroking its fur; the cat was purring away, singing its song, and on the floor lay a perfect heap of dead rats and mice!"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Master merchant, sell me that beastie,” says the landlord."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“Certainly.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“What do you want for it?”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“A mere trifle."
+    },
+    {
+     "id": "p016.s02",
+     "source": "I’ll make the beastie stand on his hind legs while I hold him up by his forelegs, and you shall pile gold pieces around him, so as just to hide him—I shall be content with that!”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "The landlord agreed to the bargain."
+    },
+    {
+     "id": "p017.s02",
+     "source": "The merchant gave him the cat, received a sackful of gold, and as soon as he had settled his affairs, started on his way back."
+    },
+    {
+     "id": "p017.s03",
+     "source": "As he sailed across the seas, he thought:"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“Why should I give the gold to that orphan?"
+    },
+    {
+     "id": "p018.s02",
+     "source": "Such a lot of money in return for a mere cat! that would be too much of a good thing."
+    },
+    {
+     "id": "p018.s03",
+     "source": "No, much better keep it myself.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "The moment he had made up his mind to the sin, all of a sudden there arose a storm—such a tremendous one! the ship was on the point of sinking."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“Ah, accursed one that I am!"
+    },
+    {
+     "id": "p020.s02",
+     "source": "I’ve been longing for what doesn’t belong to me; O Lord, forgive me a sinner!"
+    },
+    {
+     "id": "p020.s03",
+     "source": "I won’t keep back a single copeck.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "The moment the merchant began praying the winds were stilled, the sea became calm, and the ship went sailing on prosperously to the quay."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“Hail, master!” says the orphan."
+    },
+    {
+     "id": "p022.s02",
+     "source": "“But where’s my cat?”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“I’ve sold it,” answers the merchant; “There’s your money, take it in full.”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "The orphan received the sack of gold, took leave of the merchant, and went to the strand, where the shipmen were."
+    },
+    {
+     "id": "p024.s02",
+     "source": "From them he obtained a shipload of incense in exchange for his gold, and he strewed the incense along the strand, and burnt it in honor of God."
+    },
+    {
+     "id": "p024.s03",
+     "source": "The sweet savor spread through all that land, and suddenly an old man appeared, and he said to the orphan:"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“Which desirest thou—riches, or a good wife?”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“I know not, old man.”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“Well then, go afield."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Three brothers are ploughing over there."
+    },
+    {
+     "id": "p027.s03",
+     "source": "Ask them to tell thee.”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "The orphan went afield."
+    },
+    {
+     "id": "p028.s02",
+     "source": "He looked, and saw peasants tilling the soil."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“God lend you aid!” says he."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Thanks, good man!” say they."
+    },
+    {
+     "id": "p030.s02",
+     "source": "“What dost thou want?”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“An old man has sent me here, and told me to ask you which of the two I shall wish for—riches or a good wife?”"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“Ask our elder brother; he’s sitting in that cart there.”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "The orphan went to the cart and saw a little boy—one that seemed about three years old."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“Can this be their elder brother?” thought he—however he asked him:"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“Which dost thou tell me to choose—riches, or a good wife?”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "“Choose the good wife.”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "So the orphan returned to the old man."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“I’m told to ask for the wife,” says he."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“That’s all right!” said the old man, and disappeared from sight."
+    },
+    {
+     "id": "p039.s02",
+     "source": "The orphan looked round; by his side stood a beautiful woman."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "“Hail, good youth!” says she."
+    },
+    {
+     "id": "p040.s02",
+     "source": "“I am thy wife; let us go and seek a place where we may live.”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "One of the sins to which the Popular Tale shows itself most hostile is that of avarice."
+    },
+    {
+     "id": "p041.s02",
+     "source": "The folk-tales of all lands delight to gird at misers and skinflints, to place them in unpleasant positions, and to gloat over the sufferings which attend their death and embitter their ghostly existence."
+    },
+    {
+     "id": "p041.s03",
+     "source": "As a specimen of the manner in which the humor of the Russian peasant has manipulated the stories of this class, most of which probably reached him from the East, we may take the following tale of—"
+    }
+   ],
+   "id": "p041"
+  }
+ ]
+}

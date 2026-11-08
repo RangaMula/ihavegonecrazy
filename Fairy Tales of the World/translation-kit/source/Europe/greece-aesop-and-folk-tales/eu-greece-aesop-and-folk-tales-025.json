@@ -1,0 +1,48 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-025",
+ "title": {
+  "id": "title",
+  "source": "The Ass, the Fox, and the Lion"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/025 - The Ass, the Fox, and the Lion.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 5,
+  "words": 108
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "THE ASS and the Fox, having entered into partnership together for their mutual protection, went out into the forest to hunt."
+    },
+    {
+     "id": "p001.s02",
+     "source": "They had not proceeded far when they met a Lion."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Fox, seeing imminent danger, approached the Lion and promised to contrive for him the capture of the Ass if the Lion would pledge his word not to harm the Fox."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Then, upon assuring the Ass that he would not be injured, the Fox led him to a deep pit and arranged that he should fall into it."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The Lion, seeing that the Ass was secured, immediately clutched the Fox, and attacked the Ass at his leisure."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

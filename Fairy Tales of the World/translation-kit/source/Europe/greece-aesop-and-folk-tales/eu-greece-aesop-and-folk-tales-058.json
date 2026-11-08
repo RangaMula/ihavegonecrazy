@@ -1,0 +1,58 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-058",
+ "title": {
+  "id": "title",
+  "source": "The Mischievous Dog"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/058 - The Mischievous Dog.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 6,
+  "words": 120
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A DOG used to run up quietly to the heels of everyone he met, and to bite them without notice."
+    },
+    {
+     "id": "p001.s02",
+     "source": "His master suspended a bell about his neck so that the Dog might give notice of his presence wherever he went."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Thinking it a mark of distinction, the Dog grew proud of his bell and went tinkling it all over the marketplace."
+    },
+    {
+     "id": "p001.s04",
+     "source": "One day an old hound said to him: “Why do you make such an exhibition of yourself?"
+    },
+    {
+     "id": "p001.s05",
+     "source": "That bell that you carry is not, believe me, any order of merit, but on the contrary a mark of disgrace, a public notice to all men to avoid you as an ill mannered dog.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Notoriety is often mistaken for fame."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

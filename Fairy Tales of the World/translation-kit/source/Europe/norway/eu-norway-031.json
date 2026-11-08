@@ -1,0 +1,112 @@
+{
+ "id": "eu-norway-031",
+ "title": {
+  "id": "title",
+  "source": "Gertrude's Bird"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Popular Tales from the Norse",
+ "credits": "Moe, Jørgen Engebretsen (compiler, d. 1882); Asbjørnsen, Peter Christen (compiler, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)",
+ "gutenberg": "Project Gutenberg eBook #8933 — https://www.gutenberg.org/ebooks/8933 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Norway/031 - Gertrude's Bird.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 12,
+  "words": 325
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In those days when our Lord and St Peter wandered upon earth, they came once to an old wife's house, who sat baking."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Her name was Gertrude, and she had a red mutch on her head."
+    },
+    {
+     "id": "p001.s03",
+     "source": "They had walked a long way, and were both hungry, and our Lord begged hard for a bannock to stay their hunger."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Yes, they should have it."
+    },
+    {
+     "id": "p001.s05",
+     "source": "So she took a little tiny piece of dough and rolled it out, but as she rolled it, it grew and grew till it covered the whole griddle."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Nay, that was too big; they couldn't have that."
+    },
+    {
+     "id": "p002.s02",
+     "source": "So she took a tinier bit still; but when that was rolled out, it covered the whole griddle just the same, and that bannock was too big, she said; they couldn't have that either."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The third time she took a still tinier bit--so tiny you could scarce see it; but it was the same story over again--the bannock was too big."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "'Well', said Gertrude, 'I can't give you anything; you must just go without, for all these bannocks are too big.'"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Then our Lord waxed wroth, and said:"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "'Since you loved me so little as to grudge me a morsel of food, you shall have this punishment: you shall become a bird, and seek your food between bark and bole; and never get a drop to drink save when it rains.'"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "He had scarce said the last word before she was turned into a great black woodpecker, or Gertrude's bird, and flew from her kneading- trough right up the chimney; and till this very day you may see her flying about, with her red mutch on her head, and her body all black, because of the soot in the chimney; and so she hacks and taps away at the trees for her food, and whistles when rain is coming, for she is ever athirst, and then she looks for a drop to cool her tongue."
+    }
+   ],
+   "id": "p007"
+  }
+ ]
+}

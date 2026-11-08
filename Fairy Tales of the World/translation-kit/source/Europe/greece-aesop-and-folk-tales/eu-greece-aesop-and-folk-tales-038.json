@@ -1,0 +1,70 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-038",
+ "title": {
+  "id": "title",
+  "source": "The Sick Lion"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/038 - The Sick Lion.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 9,
+  "words": 154
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A LION, unable from old age and infirmities to provide himself with food by force, resolved to do so by artifice."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He returned to his den, and lying down there, pretended to be sick, taking care that his sickness should be publicly known."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The beasts expressed their sorrow, and came one by one to his den, where the Lion devoured them."
+    },
+    {
+     "id": "p001.s04",
+     "source": "After many of the beasts had thus disappeared, the Fox discovered the trick and presenting himself to the Lion, stood on the outside of the cave, at a respectful distance, and asked him how he was."
+    },
+    {
+     "id": "p001.s05",
+     "source": "“I am very middling,” replied the Lion, “but why do you stand without?"
+    },
+    {
+     "id": "p001.s06",
+     "source": "Pray enter within to talk with me.”"
+    },
+    {
+     "id": "p001.s07",
+     "source": "“No, thank you,” said the Fox."
+    },
+    {
+     "id": "p001.s08",
+     "source": "“I notice that there are many prints of feet entering your cave, but I see no trace of any returning.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "He is wise who is warned by the misfortunes of others."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

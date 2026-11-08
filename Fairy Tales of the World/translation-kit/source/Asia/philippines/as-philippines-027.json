@@ -1,0 +1,836 @@
+{
+ "id": "as-philippines-027",
+ "title": {
+  "id": "title",
+  "source": "Legend of Prince Oswaldo"
+ },
+ "tradition": "Philippines",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Filipino Popular Tales",
+ "credits": "Fansler, Dean Spruill (editor)",
+ "gutenberg": "Project Gutenberg eBook #8299 — https://www.gutenberg.org/ebooks/8299 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Philippines/027 - Legend of Prince Oswaldo.md",
+ "stats": {
+  "paragraphs": 39,
+  "segments": 145,
+  "words": 1859
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Narrated by Leopoldo Uichanco, a Tagalog from Calamba, La Laguna."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Once upon a time, on a moonlight night, three young men were walking monotonously along a solitary country road."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Just where they were going nobody could tell: but when they came to a place where the road branched into three, they stopped there like nails attracted by a powerful magnet."
+    },
+    {
+     "id": "p002.s03",
+     "source": "At this crossroads a helpless old man lay groaning as if in mortal pain."
+    },
+    {
+     "id": "p002.s04",
+     "source": "At the sight of the travellers he tried to raise his head, but in vain."
+    },
+    {
+     "id": "p002.s05",
+     "source": "The three companions then ran to him, helped him up, and fed him a part of the rice they had with them."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The sick old man gradually regained strength, and at last could speak to them."
+    },
+    {
+     "id": "p003.s02",
+     "source": "He thanked them, gave each of the companions a hundred pesos, and said, “Each one of you shall take one of these branch-roads."
+    },
+    {
+     "id": "p003.s03",
+     "source": "At the end of it is a house where they are selling something."
+    },
+    {
+     "id": "p003.s04",
+     "source": "With these hundred pesos that I am giving each of you, you shall buy the first thing that you see there.”"
+    },
+    {
+     "id": "p003.s05",
+     "source": "The three youths accepted the money, and promised to obey the old man’s directions."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Pedro, who took the left branch, soon came to the house described by the old man."
+    },
+    {
+     "id": "p004.s02",
+     "source": "The owner of the house was selling a rain-coat."
+    },
+    {
+     "id": "p004.s03",
+     "source": "“How much does the coat cost?”"
+    },
+    {
+     "id": "p004.s04",
+     "source": "Pedro asked the landlord."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“One hundred pesos, no more, no less.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Of what value is it?” said Pedro."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“It will take you wherever you wish to go.”"
+    },
+    {
+     "id": "p007.s02",
+     "source": "So Pedro paid the price, took the rain-coat, and returned."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Diego, who took the middle road, arrived at another house."
+    },
+    {
+     "id": "p008.s02",
+     "source": "The owner of this house was selling a book."
+    },
+    {
+     "id": "p008.s03",
+     "source": "“How much does your book cost?”"
+    },
+    {
+     "id": "p008.s04",
+     "source": "Diego inquired of the owner."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“One hundred pesos, no more, no less.”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“Of what value is it?”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“It will tell you what is going on in all parts of the world.”"
+    },
+    {
+     "id": "p011.s02",
+     "source": "So Diego paid the price, took the book, and returned."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Juan, who took the third road, reached still another house."
+    },
+    {
+     "id": "p012.s02",
+     "source": "The owner of the house was selling a bottle that contained some violet-colored liquid."
+    },
+    {
+     "id": "p012.s03",
+     "source": "“How much does the bottle cost?” said Juan."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“One hundred pesos, no more, no less.”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“Of what value is it?”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“It brings the dead back to life,” was the answer."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Juan paid the price, took the bottle, and returned."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "The three travellers met again in the same place where they had separated; but the old man was now nowhere to be found."
+    },
+    {
+     "id": "p016.s02",
+     "source": "The first to tell of his adventure was Diego."
+    },
+    {
+     "id": "p016.s03",
+     "source": "“Oh, see what I have!” he shouted as he came in sight of his companions."
+    },
+    {
+     "id": "p016.s04",
+     "source": "“It tells everything that is going on in the world."
+    },
+    {
+     "id": "p016.s05",
+     "source": "Let me show you!”"
+    },
+    {
+     "id": "p016.s06",
+     "source": "He opened the book and read what appeared on the page: “ ‘The beautiful princess of Berengena is dead."
+    },
+    {
+     "id": "p016.s07",
+     "source": "Her parents, relatives, and friends grieve at her loss.’ ”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“Good!” answered Juan."
+    },
+    {
+     "id": "p017.s02",
+     "source": "“Then there is an occasion for us to test this bottle."
+    },
+    {
+     "id": "p017.s03",
+     "source": "It restores the dead back to life."
+    },
+    {
+     "id": "p017.s04",
+     "source": "Oh, but the kingdom of Berengena is far away!"
+    },
+    {
+     "id": "p017.s05",
+     "source": "The princess will be long buried before we get there.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“Then we shall have occasion to use my rain-coat,” said Pedro."
+    },
+    {
+     "id": "p018.s02",
+     "source": "“It will take us wherever we wish to go."
+    },
+    {
+     "id": "p018.s03",
+     "source": "Let us try it!"
+    },
+    {
+     "id": "p018.s04",
+     "source": "We shall receive a big reward from the king."
+    },
+    {
+     "id": "p018.s05",
+     "source": "We shall return home with a casco full of money."
+    },
+    {
+     "id": "p018.s06",
+     "source": "To Berengena at once!”"
+    },
+    {
+     "id": "p018.s07",
+     "source": "He wrapped the rain-coat about all three of them, and wished them in Berengena."
+    },
+    {
+     "id": "p018.s08",
+     "source": "Within a few minutes they reached that country."
+    },
+    {
+     "id": "p018.s09",
+     "source": "The princess was already in the church, where her parents were weeping over her."
+    },
+    {
+     "id": "p018.s10",
+     "source": "Everybody in the church wore deep mourning."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "When the three strangers boldly entered the church, the guard at the door arrested them, for they had on red clothes."
+    },
+    {
+     "id": "p019.s02",
+     "source": "When Juan protested, and said that the princess was not dead, the guard immediately took him to the king; but the king, when he heard what Juan had said, called him a fool."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“She is only sleeping,” said Juan."
+    },
+    {
+     "id": "p020.s02",
+     "source": "“Let me wake her up!”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“She is dead,” answered the king angrily."
+    },
+    {
+     "id": "p021.s02",
+     "source": "“On your life, don’t you dare touch her!”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“I will hold my head responsible for the truth of my statement,” said Juan."
+    },
+    {
+     "id": "p022.s02",
+     "source": "“Let me wake her up, or rather, not to offend your Majesty, restore her to life!”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“Well, I will let you do as you please,” said the king; “but if your attempt fails, you will lose your head."
+    },
+    {
+     "id": "p023.s02",
+     "source": "On the other hand, should you be successful, I will give you the princess for a wife, and you shall be my heir.”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Blinded by his love for the beautiful princess, Juan said that he would restore her to life."
+    },
+    {
+     "id": "p024.s02",
+     "source": "“May you be successful!” said the king; and then, raising his voice, he continued, “Everybody here present is to bear witness that I, the King of Berengena, do hereby confirm an agreement with this unknown stranger."
+    },
+    {
+     "id": "p024.s03",
+     "source": "I will allow this man to try the knowledge he pretends to possess of restoring the princess to life."
+    },
+    {
+     "id": "p024.s04",
+     "source": "But there is this condition to be understood: if he is successful, I will marry him to the princess, and he is to be my heir; but should he fail, his head is forfeit.”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "The announcement having been made, Juan was conducted to the coffin."
+    },
+    {
+     "id": "p025.s02",
+     "source": "He now first realized what he was undertaking."
+    },
+    {
+     "id": "p025.s03",
+     "source": "What if the bottle was false!"
+    },
+    {
+     "id": "p025.s04",
+     "source": "What if he should fail!"
+    },
+    {
+     "id": "p025.s05",
+     "source": "Would not his head be dangling from the ropes of the scaffold, to be hailed by the multitude as the remains of a blockhead, a dunce, and a fool?"
+    },
+    {
+     "id": "p025.s06",
+     "source": "The coffin was opened."
+    },
+    {
+     "id": "p025.s07",
+     "source": "With these meditations in his mind, Juan tremblingly uncorked his bottle of violet liquid, and held it under the nose of the princess."
+    },
+    {
+     "id": "p025.s08",
+     "source": "He held the bottle there for some time, but she gave no signs of life."
+    },
+    {
+     "id": "p025.s09",
+     "source": "An hour longer, still no trace of life."
+    },
+    {
+     "id": "p025.s10",
+     "source": "After hours of waiting, the people began to grow impatient."
+    },
+    {
+     "id": "p025.s11",
+     "source": "The king scratched his head, the guards were ready to seize him; the scaffold was waiting for him."
+    },
+    {
+     "id": "p025.s12",
+     "source": "“Nameless stranger!” thundered the king, with indignant eyes, “upon your honor, tell us the truth!"
+    },
+    {
+     "id": "p025.s13",
+     "source": "Can you do it, or not?"
+    },
+    {
+     "id": "p025.s14",
+     "source": "Speak."
+    },
+    {
+     "id": "p025.s15",
+     "source": "I command it!”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Juan trembled all the more."
+    },
+    {
+     "id": "p026.s02",
+     "source": "He did not know what to say, but he continued to hold the bottle under the nose of the princess."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Had he not been afraid of the consequences, he would have given up and entreated the king for mercy."
+    },
+    {
+     "id": "p026.s04",
+     "source": "He fixed his eyes on the corpse, but did not speak."
+    },
+    {
+     "id": "p026.s05",
+     "source": "“Are you trying to joke us?” said the king, his eyes flashing with rage."
+    },
+    {
+     "id": "p026.s06",
+     "source": "“Speak!"
+    },
+    {
+     "id": "p026.s07",
+     "source": "I command!”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Just as Juan was about to reply, he saw the right hand of the princess move."
+    },
+    {
+     "id": "p027.s02",
+     "source": "He bade the king wait."
+    },
+    {
+     "id": "p027.s03",
+     "source": "Soon the princess moved her other hand and opened her eyes."
+    },
+    {
+     "id": "p027.s04",
+     "source": "Her cheeks were fresh and rosy as ever."
+    },
+    {
+     "id": "p027.s05",
+     "source": "She stared about, and exclaimed in surprise, “Oh, where am I?"
+    },
+    {
+     "id": "p027.s06",
+     "source": "Where am I?"
+    },
+    {
+     "id": "p027.s07",
+     "source": "Am I dreaming?"
+    },
+    {
+     "id": "p027.s08",
+     "source": "No, there is my father, there is my mother, there is my brother.”"
+    },
+    {
+     "id": "p027.s09",
+     "source": "The king was fully satisfied."
+    },
+    {
+     "id": "p027.s10",
+     "source": "He embraced his daughter, and then turned to Juan, saying, “Stranger, can’t you favor us now with your name?”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "With all the rustic courtesy he knew, Juan replied to the king, told his name, and said that he was a poor laborer in a barrio far away."
+    },
+    {
+     "id": "p028.s02",
+     "source": "The king only smiled, and ordered Juan’s clothes to be exchanged for prince’s garments, so that the celebration of his marriage with the princess might take place at once."
+    },
+    {
+     "id": "p028.s03",
+     "source": "“Long live Juan!"
+    },
+    {
+     "id": "p028.s04",
+     "source": "Long live the princess!” the people shouted."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "When Diego and Juan heard the shout, they could not help feeling cheated."
+    },
+    {
+     "id": "p029.s02",
+     "source": "They made their way through the crowd, and said to the king, “Great Majesty, pray hear us!"
+    },
+    {
+     "id": "p029.s03",
+     "source": "In the name of justice, pray hear us!”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Who calls?” asked the king of a guard near by."
+    },
+    {
+     "id": "p030.s02",
+     "source": "“Bring him here!”"
+    },
+    {
+     "id": "p030.s03",
+     "source": "The guard obeyed, and led the two men before the king."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“What is the matter?” asked the king of the two."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“Your Majesty shall know,” responded Diego."
+    },
+    {
+     "id": "p032.s02",
+     "source": "“If it had not been for my book, we could not have known that the princess was dead."
+    },
+    {
+     "id": "p032.s03",
+     "source": "Our home is far away, and it was only because of my magic book that we knew of the events that were going on here.”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“And his Majesty shall be informed,” seconded Pedro, “that Juan’s good luck is due to my rain-coat."
+    },
+    {
+     "id": "p033.s02",
+     "source": "Neither Diego’s book nor Juan’s bottle could have done anything had not my raincoat carried us here so quickly."
+    },
+    {
+     "id": "p033.s03",
+     "source": "I am the one who should marry the princess.”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "The king was overwhelmed: he did not know what to do."
+    },
+    {
+     "id": "p034.s02",
+     "source": "Each of the three had a good reason, but all three could not marry the princess."
+    },
+    {
+     "id": "p034.s03",
+     "source": "Even the counsellors of the king could not decide upon the matter."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "While they were puzzling over it, an old man sprang forth from the crowd of spectators, and declared that he would settle the difficulty."
+    },
+    {
+     "id": "p035.s02",
+     "source": "“Young men,” he said, addressing Juan, Pedro, and Diego, “none of you shall marry the princess.—You, Juan, shall not marry her, because you intended to obtain your fortunes regardless of your companions who have been helping you to get them.—And you, Pedro and Diego, shall not have the princess, because you did not accept your misfortune quietly and thank God for it.—None of you shall have her."
+    },
+    {
+     "id": "p035.s03",
+     "source": "I will marry her myself.”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "The princess wept."
+    },
+    {
+     "id": "p036.s02",
+     "source": "How could the fairest maiden of Berengena marry an old man!"
+    },
+    {
+     "id": "p036.s03",
+     "source": "“What right have you to claim her?” said the king in scorn."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "“I am the one who showed these three companions where to get their bottle, rain-coat, and book,” said the old man."
+    },
+    {
+     "id": "p037.s02",
+     "source": "“I am the one who gave each of them a hundred pesos."
+    },
+    {
+     "id": "p037.s03",
+     "source": "I am the capitalist: the interest is mine.”"
+    },
+    {
+     "id": "p037.s04",
+     "source": "The old man was right; the crowd clapped their hands; and the princess could do nothing but yield."
+    },
+    {
+     "id": "p037.s05",
+     "source": "Bitterly weeping, she gave her hand to the old man, who seemed to be her grandfather, and they were married by the priest."
+    },
+    {
+     "id": "p037.s06",
+     "source": "The king almost fainted."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "But just now the sun began to rise, its soft beams filtering through the eastern windows of the church."
+    },
+    {
+     "id": "p038.s02",
+     "source": "The newly-married couple were led from the altar to be taken home to the palace; but, just as they were descending the steps that lead down from the altar, the whole church was flooded with light."
+    },
+    {
+     "id": "p038.s03",
+     "source": "All present were stupefied."
+    },
+    {
+     "id": "p038.s04",
+     "source": "The glorious illumination did not last long."
+    },
+    {
+     "id": "p038.s05",
+     "source": "When the people recovered, they found that their princess was walking with her husband, not an old man, however, but a gallant young prince."
+    },
+    {
+     "id": "p038.s06",
+     "source": "The king recognized him."
+    },
+    {
+     "id": "p038.s07",
+     "source": "He kissed him, for they were old-time acquaintances."
+    },
+    {
+     "id": "p038.s08",
+     "source": "The king’s new son-in-law was none other than Prince Oswaldo, who had just been set free from the bonds of enchantment by his marriage."
+    },
+    {
+     "id": "p038.s09",
+     "source": "He had been a former suitor of the princess, but had been enchanted by a magician."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "With magnificent ceremony the king’s son-in-law was conducted to the royal residence."
+    },
+    {
+     "id": "p039.s02",
+     "source": "He was seated on the throne, the crown and sceptre were transferred to him, and he was hailed as King Oswaldo of Berengena."
+    }
+   ],
+   "id": "p039"
+  }
+ ]
+}

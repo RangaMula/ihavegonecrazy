@@ -1,0 +1,878 @@
+{
+ "id": "as-japan-091",
+ "title": {
+  "id": "title",
+  "source": "Tamamo, The Fox Maiden"
+ },
+ "tradition": "Japan",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Japanese Fairy Tales",
+ "credits": "James, Grace (author)",
+ "gutenberg": "Project Gutenberg eBook #35853 — https://www.gutenberg.org/ebooks/35853 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Japan/091 - Tamamo, The Fox Maiden.md",
+ "stats": {
+  "paragraphs": 64,
+  "segments": 118,
+  "words": 1497
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A pedlar journeyed with his pack upon the great high-road which leads to the city of Kioto."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He found a child sitting all alone by the wayside."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“Well, my little girl,” he said, “and what make you all alone by the wayside?”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“What do you,” said the child, “with a staff and a pack, and sandals outworn?”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“I am bound for Kioto, and the Mikado’s Palace, to sell my gauds to the ladies of the Court.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Ah,” said the child, “take me too.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“What is your name, my little girl?”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“I have no name.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Whence come you?”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“I come from nowhere.”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“You seem to be about seven years old.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“I have no age.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Why are you here?”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“I have been waiting for you.”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“How long have you waited?”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“For more than a hundred years.”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "The Pedlar laughed."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“Take me to Kioto,” said the child."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“You may come if you will,” said the Pedlar."
+    },
+    {
+     "id": "p018.s02",
+     "source": "So they went their ways together, and in time they came to Kioto and to the Mikado’s Palace."
+    },
+    {
+     "id": "p018.s03",
+     "source": "Here the child danced in the august presence of the Son of Heaven."
+    },
+    {
+     "id": "p018.s04",
+     "source": "She was as light as the sea-bird upon a wave’s crest."
+    },
+    {
+     "id": "p018.s05",
+     "source": "When she had made an end of dancing, the Mikado called her to him."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“Little maid,” he said, “what guerdon shall I give you?"
+    },
+    {
+     "id": "p019.s02",
+     "source": "Ask!”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“O Divinely Descended,” said the child, “Son of the Gods ..."
+    },
+    {
+     "id": "p020.s02",
+     "source": "I cannot ask...."
+    },
+    {
+     "id": "p020.s03",
+     "source": "I am afraid.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“Ask without fear,” said the Mikado."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "The child murmured, “Let me stay in the bright presence of your Augustness.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“So be it,” said the Mikado, and he received the child into his household."
+    },
+    {
+     "id": "p023.s02",
+     "source": "And he called her Tamamo."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Very speedily she became mistress of every lovely art."
+    },
+    {
+     "id": "p024.s02",
+     "source": "She could sing, and she could play upon any instrument of music."
+    },
+    {
+     "id": "p024.s03",
+     "source": "She had more skill in painting than any painter in the land; she was a wonder with the needle and a wonder at the loom."
+    },
+    {
+     "id": "p024.s04",
+     "source": "The poetry that she made moved men to tears and to laughter."
+    },
+    {
+     "id": "p024.s05",
+     "source": "The many thousand characters were child’s play to her, and all the hard philosophies she had at her fingers’ ends."
+    },
+    {
+     "id": "p024.s06",
+     "source": "She knew Confucius well enough, the Scriptures of Buddha, and the lore of Cathay."
+    },
+    {
+     "id": "p024.s07",
+     "source": "She was called the Exquisite Perfection, the Gold Unalloyed, the Jewel without Flaw."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "And the Mikado loved her."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Soon he clean forgot honour and duty and kingly state."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Day and night he kept Tamamo by his side."
+    },
+    {
+     "id": "p026.s03",
+     "source": "He grew rough and fierce and passionate, so that his servants feared to approach him."
+    },
+    {
+     "id": "p026.s04",
+     "source": "He grew sick, listless, and languid, he pined, and his physicians could do nothing for him."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“Alas and alack,” they cried, “what ails the Divinely Descended?"
+    },
+    {
+     "id": "p027.s02",
+     "source": "Of a surety he is bewitched."
+    },
+    {
+     "id": "p027.s03",
+     "source": "Woe! woe! for he will die upon our hands.”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“Out upon them, every one,” cried the Mikado, “for a pack of tedious fools."
+    },
+    {
+     "id": "p028.s02",
+     "source": "As for me, I will do my own will and pleasure.”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "He was mad for love of Tamamo."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "He took her to his Summer Palace, where he prepared a great feast in her honour."
+    },
+    {
+     "id": "p030.s02",
+     "source": "To the feast were bidden all the highest of the land, princes and lords and ladies of high estate; and, willy-nilly, to the Summer Palace they all repaired, where was the Mikado, wan and wild, and mad with love, and Tamamo by his side, attired in scarlet and cloth of gold."
+    },
+    {
+     "id": "p030.s03",
+     "source": "Radiantly fair she was, and she poured the Mikado’s saké out of a golden flagon."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "He looked into her eyes."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“Other women are feeble toys beside you,” he said."
+    },
+    {
+     "id": "p032.s02",
+     "source": "“There’s not a woman here that’s fit to touch the end of your sleeve."
+    },
+    {
+     "id": "p032.s03",
+     "source": "O Tamamo, how I love you....”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "He spoke loudly so that all could hear him, and laughed bitterly when he had spoken."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“My lord ... my lord ...” said Tamamo."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Now as the high company sat and feasted, the sky became overcast with black clouds, and the moon and the stars were hid."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Suddenly a fearful wind tore through the Summer Palace and put out every torch in the great Hall of Feasting."
+    },
+    {
+     "id": "p035.s03",
+     "source": "And the rain came down in torrents."
+    },
+    {
+     "id": "p035.s04",
+     "source": "In the pitchy darkness fear and horror fell upon the assembly."
+    },
+    {
+     "id": "p035.s05",
+     "source": "The courtiers ran to and fro in a panic, the air was full of cries, the tables were overturned."
+    },
+    {
+     "id": "p035.s06",
+     "source": "The dishes and drinking-vessels crashed together, the saké spilled and soaked into the white mats."
+    },
+    {
+     "id": "p035.s07",
+     "source": "Then a radiance was made visible."
+    },
+    {
+     "id": "p035.s08",
+     "source": "It came from the place where Tamamo was, and it streamed in long flames of fire from her body."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "The Mikado cried aloud in a terrible voice, “Tamamo!"
+    },
+    {
+     "id": "p036.s02",
+     "source": "Tamamo!"
+    },
+    {
+     "id": "p036.s03",
+     "source": "Tamamo!” three times."
+    },
+    {
+     "id": "p036.s04",
+     "source": "And when he had done this he fell in a deathly swoon upon the ground."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "And for many days he was thus, and he seemed either asleep or dead, and no one could recover him from his swoon."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Then the Wise and Holy Men of the land met together, and when they had prayed to the gods, they called to them Abé Yasu, the Diviner."
+    },
+    {
+     "id": "p038.s02",
+     "source": "They said:"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“O Abé Yasu, learned in dark things, find out for us the cause, and if it may be, the cure, of our Lord’s strange sickness."
+    },
+    {
+     "id": "p039.s02",
+     "source": "Perform divination for us, O Abé Yasu.”"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Then Abé Yasu performed divination, and he came before the Wise Men and said:"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "Then the Wise Men said, “Speak out, Abé Yasu, for your saying is dark, and we cannot understand it.”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“I will do more than speak,” said Abé Yasu."
+    },
+    {
+     "id": "p042.s02",
+     "source": "And he spent three days in fasting and in prayer."
+    },
+    {
+     "id": "p042.s03",
+     "source": "Then he took the sacred Gohei from its place in the Temple, and calling the Wise Men to him he waved the sacred Gohei and with it touched each one of them."
+    },
+    {
+     "id": "p042.s04",
+     "source": "And together they went to Tamamo’s bower, and Abé Yasu took the sacred Gohei in his right hand."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "Tamamo was in her bower adorning herself, and her maidens were with her."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“My lords,” she said, “you come all unbidden."
+    },
+    {
+     "id": "p044.s02",
+     "source": "What would you have with me?”"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“My lady Tamamo,” said Abé Yasu the Diviner, “I have made a song after the fashion of the Chinese."
+    },
+    {
+     "id": "p045.s02",
+     "source": "You who are learned in poetry, I pray you hear and judge my song.”"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "“I am in no mood for songs,” she said, “with my dear lord lying sick to death.”"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“Nevertheless, my lady Tamamo, this song of mine you needs must hear.”"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "“Why, then, if I must ...” she said."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "Then spoke Abé Yasu:"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "When Abé Yasu the Diviner had spoken, he came to Tamamo and he touched her with the sacred Gohei ."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "She gave a loud and terrible cry, and on the instant her form was changed into that of a great fox having nine long tails and hair like golden wire."
+    },
+    {
+     "id": "p051.s02",
+     "source": "The fox fled from Tamamo’s bower, away and away, until it reached the far plain of Nasu, and it hid itself beneath a great black stone that was upon that plain."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "But the Mikado was immediately recovered from his sickness."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "Soon, strange and terrible things were told concerning the great stone of Nasu."
+    },
+    {
+     "id": "p053.s02",
+     "source": "A stream of poisonous water flowed from under it and withered the bright flowers of the plain."
+    },
+    {
+     "id": "p053.s03",
+     "source": "All who drank of the stream died, both man and beast."
+    },
+    {
+     "id": "p053.s04",
+     "source": "Moreover, nothing could go near the stone and live."
+    },
+    {
+     "id": "p053.s05",
+     "source": "The traveller who rested in its shadow arose no more, and the birds that perched upon it fell dead in a moment."
+    },
+    {
+     "id": "p053.s06",
+     "source": "People named it the Death Stone, and thus it was called for more than a hundred years."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "Then it chanced that Genyo, the High Priest, who was a holy man indeed, took his staff and his begging bowl and went upon a pilgrimage."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "When he came to Nasu, the dwellers upon the plain put rice into his bowl."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "“O thou Holy Man,” they said, “beware the Death Stone of Nasu."
+    },
+    {
+     "id": "p056.s02",
+     "source": "Rest not in its shade.”"
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "But Genyo, the High Priest, having remained a while in thought, made answer thus:"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "“Know, my children, what is written in the Book of the Good Law: ‘Herbs, trees and rocks shall all enter into Nirvana.’”"
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "With that he took his way to the Death Stone."
+    },
+    {
+     "id": "p059.s02",
+     "source": "He burnt incense, he struck the stone with his staff, and he cried, “Come forth, Spirit of the Death Stone; come forth, I conjure thee.”"
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "Then there was a great flame of fire and a rending noise, and the Stone burst and split in sunder."
+    },
+    {
+     "id": "p060.s02",
+     "source": "From the stone and from the fire there came a woman."
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "She stood before the Holy Man."
+    },
+    {
+     "id": "p061.s02",
+     "source": "She said:"
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "“Poor Spirit,” said Genyo."
+    },
+    {
+     "id": "p062.s02",
+     "source": "“Take my staff and my priestly robe and my begging bowl and set forth upon the long journey of repentance.”"
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "Tamamo took the priestly robe and put it upon her; in one hand she took the staff, in the other the bowl."
+    },
+    {
+     "id": "p063.s02",
+     "source": "And when she had done this, she vanished for ever from the sight of earthly men."
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "“O thou, Tathagatha,” said Genyo, “and thou, Kwannon, Merciful Lady, make it possible that one day even she may attain Nirvana.”"
+    }
+   ],
+   "id": "p064"
+  }
+ ]
+}

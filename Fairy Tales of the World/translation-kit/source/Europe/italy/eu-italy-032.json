@@ -1,0 +1,83 @@
+{
+ "id": "eu-italy-032",
+ "title": {
+  "id": "title",
+  "source": "The Peasant And The Master"
+ },
+ "tradition": "Italy",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Italian Popular Tales",
+ "credits": "Crane, Thomas Frederick (author, d. 1927)",
+ "gutenberg": "Project Gutenberg eBook #23634 — https://www.gutenberg.org/ebooks/23634 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Italy/032 - The Peasant And The Master.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 11,
+  "words": 218
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A peasant one day, conversing in the farmhouse with his master and others, happened, while speaking of sheep and cheese, to say that he had had a present of a little cheese, but the mice had eaten it all up."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Then the master, who was rich, proud, and fat, called him a fool, and said that it was not possible that the mice could have eaten the cheese, and all present said the master was right and the peasant wrong."
+    },
+    {
+     "id": "p001.s03",
+     "source": "What more could the poor man say?"
+    },
+    {
+     "id": "p001.s04",
+     "source": "Talk makes talk."
+    },
+    {
+     "id": "p001.s05",
+     "source": "After a while the master said that having taken the precaution to rub with oil his ploughshares to keep them from rusting, the mice had eaten off all the points."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Then the friend of the cheese broke forth: \"But, master, how can it be that the mice cannot eat my cheese, if they can eat the points of your ploughshares?\""
+    },
+    {
+     "id": "p001.s07",
+     "source": "But the master and all the others began to cry out: \"Be silent, you fool!"
+    },
+    {
+     "id": "p001.s08",
+     "source": "Be silent, you fool! the master is right!\""
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The above story really belongs to the class of fables of which there are but few of Oriental origin in the Italian collections."
+    },
+    {
+     "id": "p003.s02",
+     "source": "The following version of one of the most famous of the Eastern apologues is from Monferrato (Comparetti, No. 67)."
+    },
+    {
+     "id": "p003.s03",
+     "source": "It is called:"
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

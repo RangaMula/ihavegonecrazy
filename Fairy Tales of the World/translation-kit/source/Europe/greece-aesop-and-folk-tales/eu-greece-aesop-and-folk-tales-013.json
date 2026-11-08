@@ -1,0 +1,52 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-013",
+ "title": {
+  "id": "title",
+  "source": "The Ants and the Grasshopper"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/013 - The Ants and the Grasshopper.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 6,
+  "words": 80
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "THE ANTS were spending a fine winter’s day drying grain collected in the summertime."
+    },
+    {
+     "id": "p001.s02",
+     "source": "A Grasshopper, perishing with famine, passed by and earnestly begged for a little food."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Ants inquired of him, “Why did you not treasure up food during the summer?”"
+    },
+    {
+     "id": "p001.s04",
+     "source": "He replied, “I had not leisure enough."
+    },
+    {
+     "id": "p001.s05",
+     "source": "I passed the days in singing.”"
+    },
+    {
+     "id": "p001.s06",
+     "source": "They then said in derision: “If you were foolish enough to sing all the summer, you must dance supperless to bed in the winter.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

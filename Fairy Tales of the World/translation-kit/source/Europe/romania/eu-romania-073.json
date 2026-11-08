@@ -1,0 +1,58 @@
+{
+ "id": "eu-romania-073",
+ "title": {
+  "id": "title",
+  "source": "Why Do The Plover Fly Singly?"
+ },
+ "tradition": "Romania",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Rumanian Bird and Beast Stories Rendered into English",
+ "credits": "Gaster, Moses (translator, d. 1939)",
+ "gutenberg": "Project Gutenberg eBook #43059 — https://www.gutenberg.org/ebooks/43059 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Romania/073 - Why Do The Plover Fly Singly.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 6,
+  "words": 88
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The Story of the Plover and Lady Mary."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "In the beginning the plover used to fly in large coveys."
+    },
+    {
+     "id": "p002.s02",
+     "source": "But one day, when Our Lady was riding on a horse, they ran across the road and frightened the horse so much that it threw the rider."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Angry at the mishap, St. Mary cursed the plover that they should no longer gather in coveys but should go singly."
+    },
+    {
+     "id": "p002.s04",
+     "source": "And so it has remained to this very day."
+    },
+    {
+     "id": "p002.s05",
+     "source": "The plover nest quite alone and never join others in their flight."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

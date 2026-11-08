@@ -1,0 +1,54 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-089",
+ "title": {
+  "id": "title",
+  "source": "The Wolf and the Sheep"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/089 - The Wolf and the Sheep.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 5,
+  "words": 86
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A WOLF, sorely wounded and bitten by dogs, lay sick and maimed in his lair."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Being in want of food, he called to a Sheep who was passing, and asked him to fetch some water from a stream flowing close beside him."
+    },
+    {
+     "id": "p001.s03",
+     "source": "“For,” he said, “if you will bring me drink, I will find means to provide myself with meat.”"
+    },
+    {
+     "id": "p001.s04",
+     "source": "“Yes,” said the Sheep, “if I should bring you the draught, you would doubtless make me provide the meat also.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Hypocritical speeches are easily seen through."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

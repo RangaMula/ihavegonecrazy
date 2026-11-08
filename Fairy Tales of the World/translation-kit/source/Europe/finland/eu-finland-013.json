@@ -1,0 +1,356 @@
+{
+ "id": "eu-finland-013",
+ "title": {
+  "id": "title",
+  "source": "Adventure X The Porridge"
+ },
+ "tradition": "Finland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Mighty Mikko: A Book of Finnish Fairy Tales and Folk Tales",
+ "credits": "Fillmore, Parker (author, d. 1944)",
+ "gutenberg": "Project Gutenberg eBook #38112 — https://www.gutenberg.org/ebooks/38112 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Finland/013 - Adventure X The Porridge.md",
+ "stats": {
+  "paragraphs": 23,
+  "segments": 49,
+  "words": 544
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Well, it was only natural that they should all want to see at once what kind of porridge their meal would make."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Osmo’s came out black and disgusting."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Greatly disturbed he ambled over to Mikko’s house for advice."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The Fox was stirring his own porridge which was white and smooth."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“What’s the matter with my porridge?” the Bear asked."
+    },
+    {
+     "id": "p003.s02",
+     "source": "“Yours is white and smooth but mine is black and horrid.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Did you wash your meal before you put it into the pot?” the Fox asked."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Wash it?"
+    },
+    {
+     "id": "p005.s02",
+     "source": "No!"
+    },
+    {
+     "id": "p005.s03",
+     "source": "How do you wash meal?”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“You take it to the river and drop it in the water."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Then when it’s clean you take it out.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "The Bear at once went home and got his ground up straw and took it to the river."
+    },
+    {
+     "id": "p007.s02",
+     "source": "He dropped it in the water and of course it spread out far and wide and the current carried it off."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "So that was the end of Osmo’s share of the harvest."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Pekka, the Wolf, had as little luck with his porridge."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Soon he, too, came to Mikko for advice."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“I don’t know what’s the matter with me,” he said."
+    },
+    {
+     "id": "p010.s02",
+     "source": "“I don’t seem to be able to make good porridge."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Look at yours all white and smooth!"
+    },
+    {
+     "id": "p010.s04",
+     "source": "I must watch you how you make it."
+    },
+    {
+     "id": "p010.s05",
+     "source": "Won’t you let me hang my pot on your crane?"
+    },
+    {
+     "id": "p010.s06",
+     "source": "Then I’ll do just as you do.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Certainly,” the Fox said."
+    },
+    {
+     "id": "p011.s02",
+     "source": "“Hang your pot on this chain and the two pots can then cook side by side.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Yours is so white to begin with,” Pekka said, “and mine looks no better than dirt.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Before you came I climbed up the chain and hung over the pot,” the Fox said."
+    },
+    {
+     "id": "p013.s02",
+     "source": "“The heat of the fire melted the fat in my tail and it dripped down into the pot."
+    },
+    {
+     "id": "p013.s03",
+     "source": "It’s that fat that makes my porridge look so white.”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Poor gullible Pekka immediately suspended himself on the chain above his porridge."
+    },
+    {
+     "id": "p014.s02",
+     "source": "But he didn’t stay there long."
+    },
+    {
+     "id": "p014.s03",
+     "source": "The flames scorched him and he fell down hurting his side."
+    },
+    {
+     "id": "p014.s04",
+     "source": "If you notice, to this day any Wolf that you meet has stiff sides that make it hard for him to turn and twist, and to this day all Wolves smell of burnt hair."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Well, Pekka, after he had got his breath, tasted his porridge again to see if it was any better."
+    },
+    {
+     "id": "p015.s02",
+     "source": "But it wasn’t. It was as bad as ever."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“I don’t see any difference in it,” he said."
+    },
+    {
+     "id": "p016.s02",
+     "source": "“Let me taste yours, Mikko.”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "The Fox artfully scooped up a spoonful of the Wolf’s porridge and dropped it into his own pot."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“Help yourself,” he said."
+    },
+    {
+     "id": "p018.s02",
+     "source": "“Take some out of that spot there."
+    },
+    {
+     "id": "p018.s03",
+     "source": "That’s good.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "The place he pointed to was, of course, the place where he had dropped some of the Wolf’s own porridge."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "So poor old stupid Pekka only sampled his own porridge again when he thought he was tasting Mikko’s."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“Strange,” he said, “your porridge doesn’t taste good to me either."
+    },
+    {
+     "id": "p021.s02",
+     "source": "I don’t believe anything tastes good to me to-day."
+    },
+    {
+     "id": "p021.s03",
+     "source": "The truth is I don’t believe I like porridge.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "He went home sad and discouraged while Mikko, the rascal, chuckled to himself and said:"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“I wonder why Pekka doesn’t like porridge."
+    },
+    {
+     "id": "p023.s02",
+     "source": "It tastes awful good to me!”"
+    }
+   ],
+   "id": "p023"
+  }
+ ]
+}

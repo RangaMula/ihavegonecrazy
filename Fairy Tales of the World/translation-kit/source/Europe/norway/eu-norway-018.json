@@ -1,0 +1,646 @@
+{
+ "id": "eu-norway-018",
+ "title": {
+  "id": "title",
+  "source": "Buttercup"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Popular Tales from the Norse",
+ "credits": "Moe, Jørgen Engebretsen (compiler, d. 1882); Asbjørnsen, Peter Christen (compiler, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)",
+ "gutenberg": "Project Gutenberg eBook #8933 — https://www.gutenberg.org/ebooks/8933 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Norway/018 - Buttercup.md",
+ "stats": {
+  "paragraphs": 56,
+  "segments": 72,
+  "words": 1265
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once on a time there was an old wife who sat and baked."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Now, you must know that this old wife had a little son, who was so plump and fat, and so fond of good things, that they called him Buttercup; she had a dog, too, whose name was Goldtooth, and as she was baking, all at once Goldtooth began to bark."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "'Run out, Buttercup, there's a dear!' said the old wife, 'and see what Goldtooth is barking at.'"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "So the boy ran out, and came back crying out:"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "'Oh, Heaven help us! here comes a great big witch, with her head under her arm, and a bag at her back.'"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "'Jump under the kneading-trough and hide yourself', said his mother."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "So in came the old hag!"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "'Good day', said she!"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "'God bless you!' said Buttercup's mother."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "'Isn't your Buttercup at home to-day?' asked the hag."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "'No, that he isn't. He's out in the wood with his father, shooting ptarmigan.'"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "'Plague take it', said the hag, 'for I had such a nice little silver knife I wanted to give him.'"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "'Pip, pip! here I am', said Buttercup under the kneading-trough, and out he came."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "'I'm so old, and stiff in the back', said the hag, 'you must creep into the bag and fetch it out for yourself.'"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "But when Buttercup was well into the bag, the hag threw it over her back and strode off, and when they had gone a good bit of the way, the old hag got tired, and asked:"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "'How far is it off to Snoring?'"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "'Half a mile', answered Buttercup."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "So the hag put down the sack on the road, and went aside by herself into the wood, and lay down to sleep."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Meantime Buttercup set to work and cut a hole in the sack with his knife; then he crept out and put a great root of a fir-tree into the sack, and ran home to his mother."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "When the hag got home and saw what there was in the sack, you may fancy she was in a fine rage."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Next day the old wife sat and baked again, and her dog began to bark just as he did the day before."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "'Run out, Buttercup, my boy', said she, 'and see what Goldtooth is barking at.'"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "'Well, I never!' cried Buttercup, as soon as he got out; 'if there isn't that ugly old beast coming again with her head under her arm, and a great sack at her back.'"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "'Under the kneading-trough with you and hide', said his mother."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "'Good day!' said the hag, 'is your Buttercup at home to-day?'"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "'I'm sorry to say he isn't', said his mother; 'he's out in the wood with his father, shooting ptarmigan.'"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "'What a bore', said the hag; 'here I have a beautiful little silver spoon I want to give him.'"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "'Pip, pip! here I am', said Buttercup, and crept out."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "'I'm so stiff in the back', said the old witch, 'you must creep into the sack and fetch it out for yourself.'"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "So when Buttercup was well into the sack, the hag swung it over her shoulders and set off home as fast as her legs could carry her."
+    },
+    {
+     "id": "p028.s02",
+     "source": "But when they had gone a good bit, she grew weary, and asked:"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "'How far is it off to Snoring?'"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "'A mile and a half', answered Buttercup."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "So the hag set down the sack, and went aside into the wood to sleep a bit, but while she slept, Buttercup made a hole in the sack and got out, and put a great stone into it."
+    },
+    {
+     "id": "p031.s02",
+     "source": "Now, when the old witch got home, she made a great fire on the hearth, and put a big pot on it, and got everything ready to boil Buttercup; but when she took the sack, and thought she was going to turn out Buttercup into the pot, down plumped the stone and made a hole in the bottom of the pot, so that the water ran out and quenched the fire."
+    },
+    {
+     "id": "p031.s03",
+     "source": "Then the old hag was in a dreadful rage, and said, 'If he makes himself ever so heavy next time, he shan't take me in again.'"
+    },
+    {
+     "id": "p031.s04",
+     "source": "The third day everything went just as it had gone twice before; Goldtooth began to bark, and Buttercup's mother said to him:"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "'Do run out and see what our dog is barking at.'"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "So out he went, but he soon came back crying out:"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "'Heaven save us!"
+    },
+    {
+     "id": "p034.s02",
+     "source": "Here comes the old hag again with her head under her arm, and a sack at her back.'"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "'Jump under the kneading-trough and hide', said his mother."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "'Good day!' said the hag, as she came in at the door; 'is your Buttercup at home to-day?'"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "'You're very kind to ask after him', said his mother; 'but he's out in the wood with his father, shooting ptarmigan.'"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "'What a bore now', said the old hag; 'here have I got such a beautiful little silver fork for him.'"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "'Pip, pip! here I am', said Buttercup, as he came out from under the kneading-trough."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "'I'm so stiff in the back', said the hag, 'you must creep into the sack and fetch it out for yourself.'"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "But when Buttercup was well inside the sack, the old hag swung it across her shoulders, and set off as fast as she could."
+    },
+    {
+     "id": "p041.s02",
+     "source": "This time she did not turn aside to sleep by the way, but went straight home with Buttercup in the sack, and when she reached her house it was Sunday."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "So the old hag said to her daughter:"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "'Now you must take Buttercup and kill him, and boil him nicely till I come back, for I'm off to church to bid my guests to dinner.'"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "So, when all in the house were gone to church the daughter was to take Buttercup and kill him, but then she didn't know how to set about it at all."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "'Stop a bit', said Buttercup; 'I'll soon show you how to do it; just lay your head on the chopping-block, and you'll soon see.'"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "So the poor silly thing laid her head down, and Buttercup took an axe and chopped her head off, just as if she had been a chicken."
+    },
+    {
+     "id": "p046.s02",
+     "source": "Then he laid her head in the bed, and popped her body into the pot, and boiled it so nicely; and when he had done that, he climbed up on the roof, and dragged up with him the fir-tree root and the stone, and put the one over the door, and the other at the top of the chimney."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "So when the household came back from church, and saw the head on the bed, they thought it was the daughter who lay there asleep; and then they thought they would just taste the broth."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "Good, by my troth!"
+    },
+    {
+     "id": "p048.s02",
+     "source": "Buttercup broth,"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "said the old hag."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "Good, by my troth!"
+    },
+    {
+     "id": "p050.s02",
+     "source": "Daughter broth,"
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "said Buttercup down the chimney, but no one heeded him."
+    },
+    {
+     "id": "p051.s02",
+     "source": "So the old hag's husband, who was every bit as bad as she, took the spoon to have a taste."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "Good, by my troth!"
+    },
+    {
+     "id": "p052.s02",
+     "source": "Buttercup broth,"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "said he."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "Good, by my troth!"
+    },
+    {
+     "id": "p054.s02",
+     "source": "Daughter broth,"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "said Buttercup down the chimney pipe."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "Then they all began to wonder who it could be that chattered so, and ran out to see."
+    },
+    {
+     "id": "p056.s02",
+     "source": "But when they came out at the door, Buttercup threw down on them the fir-tree root and the stone, and broke all their heads to bits."
+    },
+    {
+     "id": "p056.s03",
+     "source": "After that he took all the gold and silver that lay in the house, and went home to his mother, and became a rich man."
+    }
+   ],
+   "id": "p056"
+  }
+ ]
+}

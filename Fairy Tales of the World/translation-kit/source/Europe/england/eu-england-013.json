@@ -1,0 +1,887 @@
+{
+ "id": "eu-england-013",
+ "title": {
+  "id": "title",
+  "source": "Jack And The Beanstalk"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #7439 — https://www.gutenberg.org/ebooks/7439 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/013 - Jack And The Beanstalk.md",
+ "stats": {
+  "paragraphs": 57,
+  "segments": 131,
+  "words": 2431
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once upon a time a poor widow who had an only son named Jack, and a cow named Milky-white."
+    },
+    {
+     "id": "p001.s02",
+     "source": "And all they had to live on was the milk the cow gave every morning which they carried to the market and sold."
+    },
+    {
+     "id": "p001.s03",
+     "source": "But one morning Milky-white gave no milk and they didn't know what to do."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“What shall we do, what shall we do?” said the widow, wringing her hands."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“Cheer up, mother, I'll go and get work somewhere,” said Jack."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“We've tried that before, and nobody would take you,” said his mother; “we must sell Milky-white and with the money do something, start shop, or something.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“All right, mother,” says Jack; “it's market-day today, and I'll soon sell Milky-white, and then we'll see what we can do.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "So he took the cow's halter in his hand, and off he starts."
+    },
+    {
+     "id": "p006.s02",
+     "source": "He hadn't gone far when he met a funny-looking old man who said to him: “Good morning, Jack.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Good morning to you,” said Jack, and wondered how he knew his name."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Well, Jack, and where are you off to?” said the man."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“I'm going to market to sell our cow here.”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“Oh, you look the proper sort of chap to sell cows,” said the man; “I wonder if you know how many beans make five.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Two in each hand and one in your mouth,” says Jack, as sharp as a needle."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Right you are,” said the man, “and here they are the very beans themselves,” he went on pulling out of his pocket a number of strange-looking beans."
+    },
+    {
+     "id": "p012.s02",
+     "source": "“As you are so sharp,” says he, “I don't mind doing a swop with you—your cow for these beans.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Walker!” says Jack; “wouldn't you like it?”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“Ah! you don't know what these beans are,” said the man; “if you plant them over-night, by morning they grow right up to the sky.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“Really?” says Jack; “you don't say so.”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“Yes, that is so, and if it doesn't turn out to be true you can have your cow back.”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“Right,” says Jack, and hands him over Milky-white's halter and pockets the beans."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Back goes Jack home, and as he hadn't gone very far it wasn't dusk by the time he got to his door."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“What back, Jack?” said his mother; “I see you haven't got Milky-white, so you've sold her."
+    },
+    {
+     "id": "p019.s02",
+     "source": "How much did you get for her?”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“You'll never guess, mother,” says Jack."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“No, you don't say so."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Good boy!"
+    },
+    {
+     "id": "p021.s03",
+     "source": "Five pounds, ten, fifteen, no, it can't be twenty.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“I told you you couldn't guess, what do you say to these beans; they're magical, plant them over-night and——”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“What!” says Jack's mother, “have you been such a fool, such a dolt, such an idiot, as to give away my Milky-white, the best milker in the parish, and prime beef to boot, for a set of paltry beans."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Take that!"
+    },
+    {
+     "id": "p023.s03",
+     "source": "Take that!"
+    },
+    {
+     "id": "p023.s04",
+     "source": "Take that!"
+    },
+    {
+     "id": "p023.s05",
+     "source": "And as for your precious beans here they go out of the window."
+    },
+    {
+     "id": "p023.s06",
+     "source": "And now off with you to bed."
+    },
+    {
+     "id": "p023.s07",
+     "source": "Not a sup shall you drink, and not a bit shall you swallow this very night.”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "So Jack went upstairs to his little room in the attic, and sad and sorry he was, to be sure, as much for his mother's sake, as for the loss of his supper."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "At last he dropped off to sleep."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "When he woke up, the room looked so funny."
+    },
+    {
+     "id": "p026.s02",
+     "source": "The sun was shining into part of it, and yet all the rest was quite dark and shady."
+    },
+    {
+     "id": "p026.s03",
+     "source": "So Jack jumped up and dressed himself and went to the window."
+    },
+    {
+     "id": "p026.s04",
+     "source": "And what do you think he saw? why, the beans his mother had thrown out of the window into the garden, had sprung up into a big beanstalk which went up and up and up till it reached the sky."
+    },
+    {
+     "id": "p026.s05",
+     "source": "So the man spoke truth after all."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "The beanstalk grew up quite close past Jack's window, so all he had to do was to open it and give a jump on to the beanstalk which was made like a big plaited ladder."
+    },
+    {
+     "id": "p027.s02",
+     "source": "So Jack climbed and he climbed and he climbed and he climbed and he climbed and he climbed and he climbed till at last he reached the sky."
+    },
+    {
+     "id": "p027.s03",
+     "source": "And when he got there he found a long broad road going as straight as a dart."
+    },
+    {
+     "id": "p027.s04",
+     "source": "So he walked along and he walked along and he walked along till he came to a great big tall house, and on the doorstep there was a great big tall woman."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“Good morning, mum,” says Jack, quite polite-like."
+    },
+    {
+     "id": "p028.s02",
+     "source": "“Could you be so kind as to give me some breakfast.”"
+    },
+    {
+     "id": "p028.s03",
+     "source": "For he hadn't had anything to eat, you know, the night before and was as hungry as a hunter."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“It's breakfast you want, is it?” says the great big tall woman, “it's breakfast you'll be if you don't move off from here."
+    },
+    {
+     "id": "p029.s02",
+     "source": "My man is an ogre and there's nothing he likes better than boys broiled on toast."
+    },
+    {
+     "id": "p029.s03",
+     "source": "You'd better be moving on or he'll soon be coming.”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Oh! please mum, do give me something to eat, mum."
+    },
+    {
+     "id": "p030.s02",
+     "source": "I've had nothing to eat since yesterday morning, really and truly, mum,” says Jack."
+    },
+    {
+     "id": "p030.s03",
+     "source": "“I may as well be broiled, as die of hunger.”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Well, the ogre's wife wasn't such a bad sort, after all."
+    },
+    {
+     "id": "p031.s02",
+     "source": "So she took Jack into the kitchen, and gave him a junk of bread and cheese and a jug of milk."
+    },
+    {
+     "id": "p031.s03",
+     "source": "But Jack hadn't half finished these when thump! thump! thump! the whole house began to tremble with the noise of someone coming."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“Goodness gracious me!"
+    },
+    {
+     "id": "p032.s02",
+     "source": "It's my old man,” said the ogre's wife, “what on earth shall I do?"
+    },
+    {
+     "id": "p032.s03",
+     "source": "Here, come quick and jump in here.”"
+    },
+    {
+     "id": "p032.s04",
+     "source": "And she bundled Jack into the oven just as the ogre came in."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "He was a big one, to be sure."
+    },
+    {
+     "id": "p033.s02",
+     "source": "At his belt he had three calves strung up by the heels, and he unhooked them and threw them down on the table and said: “Here, wife, broil me a couple of these for breakfast."
+    },
+    {
+     "id": "p033.s03",
+     "source": "Ah what's this I smell?"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Fee-fi-fo-fum,"
+    },
+    {
+     "id": "p034.s02",
+     "source": "I smell the blood of an Englishman,"
+    },
+    {
+     "id": "p034.s03",
+     "source": "Be he alive, or be he dead"
+    },
+    {
+     "id": "p034.s04",
+     "source": "I'll have his bones to grind my bread.”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“Nonsense, dear,” said his wife, “you're dreaming."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Or perhaps you smell the scraps of that little boy you liked so much for yesterday's dinner."
+    },
+    {
+     "id": "p035.s03",
+     "source": "Here, go you and have a wash and tidy up, and by the time you come back your breakfast'll be ready for you.”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "So the ogre went off, and Jack was just going to jump out of the oven and run off when the woman told him not."
+    },
+    {
+     "id": "p036.s02",
+     "source": "“Wait till he's asleep,” says she; “he always has a snooze after breakfast.”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Well, the ogre had his breakfast, and after that he goes to a big chest and takes out of it a couple of bags of gold and sits down counting them till at last his head began to nod and he began to snore till the whole house shook again."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Then Jack crept out on tiptoe from his oven, and as he was passing the ogre he took one of the bags of gold under his arm, and off he pelters till he came to the beanstalk, and then he threw down the bag of gold which of course fell in to his mother's garden, and then he climbed down and climbed down till at last he got home and told his mother and showed her the gold and said: “Well, mother, wasn't I right about the beans."
+    },
+    {
+     "id": "p038.s02",
+     "source": "They are really magical, you see.”"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "So they lived on the bag of gold for some time, but at last they came to the end of that so Jack made up his mind to try his luck once more up at the top of the beanstalk."
+    },
+    {
+     "id": "p039.s02",
+     "source": "So one fine morning he got up early, and got on to the beanstalk, and he climbed and he climbed and he climbed and he climbed and he climbed and he climbed till at last he got on the road again and came to the great big tall house he had been to before."
+    },
+    {
+     "id": "p039.s03",
+     "source": "There, sure enough, was the great big tall woman a-standing on the door-step."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "“Good morning, mum,” says Jack, as bold as brass, “could you be so good as to give me something to eat?”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "“Go away, my boy,” said the big, tall woman, “or else my man will eat you up for breakfast."
+    },
+    {
+     "id": "p041.s02",
+     "source": "But aren't you the youngster who came here once before?"
+    },
+    {
+     "id": "p041.s03",
+     "source": "Do you know, that very day, my man missed one of his bags of gold.”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“That's strange, mum,” says Jack, “I dare say I could tell you something about that but I'm so hungry I can't speak till I've had something to eat.”"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "Well the big tall woman was that curious that she took him in and gave him something to eat."
+    },
+    {
+     "id": "p043.s02",
+     "source": "But he had scarcely begun munching it as slowly as he could when thump! thump! thump! they heard the giant's footstep, and his wife hid Jack away in the oven."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "All happened as it did before."
+    },
+    {
+     "id": "p044.s02",
+     "source": "In came the ogre as he did before, said: “Fee-fi-fo-fum,” and had his breakfast off three broiled oxen."
+    },
+    {
+     "id": "p044.s03",
+     "source": "Then he said: “Wife, bring me the hen that lays the golden eggs.”"
+    },
+    {
+     "id": "p044.s04",
+     "source": "So she brought it, and the ogre said: “Lay,” and it laid an egg all of gold."
+    },
+    {
+     "id": "p044.s05",
+     "source": "And then the ogre began to nod his head, and to snore till the house shook."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "Then Jack crept out of the oven on tiptoe and caught hold of the golden hen, and was off before you could say “Jack Robinson.”"
+    },
+    {
+     "id": "p045.s02",
+     "source": "But this time the hen gave a cackle which woke the ogre, and just as Jack got out of the house he heard him calling: “Wife, wife, what have you done with my golden hen?”"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "And the wife said: “Why, my dear?”"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "But that was all Jack heard, for he rushed off to the beanstalk and climbed down like a house on fire."
+    },
+    {
+     "id": "p047.s02",
+     "source": "And when he got home he showed his mother the wonderful hen and said “Lay,” to it; and it laid a golden egg every time he said “Lay.”"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "Well, Jack was not content, and it wasn't very long before he determined to have another try at his luck up there at the top of the beanstalk."
+    },
+    {
+     "id": "p048.s02",
+     "source": "So one fine morning, he got up early, and went on to the beanstalk, and he climbed and he climbed and he climbed and he climbed till he got to the top."
+    },
+    {
+     "id": "p048.s03",
+     "source": "But this time he knew better than to go straight to the ogre's house."
+    },
+    {
+     "id": "p048.s04",
+     "source": "And when he got near it he waited behind a bush till he saw the ogre's wife come out with a pail to get some water, and then he crept into the house and got into the copper."
+    },
+    {
+     "id": "p048.s05",
+     "source": "He hadn't been there long when he heard thump! thump! thump! as before, and in come the ogre and his wife."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "“Fee-fi-fo-fum, I smell the blood of an Englishman,” cried out the ogre; “I smell him, wife, I smell him.”"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "“Do you, my dearie?” says the ogre's wife."
+    },
+    {
+     "id": "p050.s02",
+     "source": "“Then if it's that little rogue that stole your gold and the hen that laid the golden eggs he's sure to have got into the oven.”"
+    },
+    {
+     "id": "p050.s03",
+     "source": "And they both rushed to the oven."
+    },
+    {
+     "id": "p050.s04",
+     "source": "But Jack wasn't there, luckily, and the ogre's wife said: “There you are again with your fee-fi-fo-fum."
+    },
+    {
+     "id": "p050.s05",
+     "source": "Why of course it's the laddie you caught last night that I've broiled for your breakfast."
+    },
+    {
+     "id": "p050.s06",
+     "source": "How forgetful I am, and how careless you are not to tell the difference between a live un and a dead un.”"
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "So the ogre sat down to the breakfast and ate it, but every now and then he would mutter: “Well, I could have sworn——” and he'd get up and search the larder and the cupboards, and everything, only luckily he didn't think of the copper."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "After breakfast was over, the ogre called out: “Wife, wife, bring me my golden harp.”"
+    },
+    {
+     "id": "p052.s02",
+     "source": "So she brought it and put it on the table before him."
+    },
+    {
+     "id": "p052.s03",
+     "source": "Then he said: “Sing!” and the golden harp sang most beautifully."
+    },
+    {
+     "id": "p052.s04",
+     "source": "And it went on singing till the ogre fell asleep, and commenced to snore like thunder."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "Then Jack lifted up the copper-lid very quietly and got down like a mouse and crept on hands and knees till he got to the table when he got up and caught hold of the golden harp and dashed with it towards the door."
+    },
+    {
+     "id": "p053.s02",
+     "source": "But the harp called out quite loud: “Master!"
+    },
+    {
+     "id": "p053.s03",
+     "source": "Master!” and the ogre woke up just in time to see Jack running off with his harp."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "Jack ran as fast as he could, and the ogre came rushing after, and would soon have caught him only Jack had a start and dodged him a bit and knew where he was going."
+    },
+    {
+     "id": "p054.s02",
+     "source": "When he got to the beanstalk the ogre was not more than twenty yards away when suddenly he saw Jack disappear like, and when he got up to the end of the road he saw Jack underneath climbing down for dear life."
+    },
+    {
+     "id": "p054.s03",
+     "source": "Well, the ogre didn't like trusting himself to such a ladder, and he stood and waited, so Jack got another start."
+    },
+    {
+     "id": "p054.s04",
+     "source": "But just then the harp cried out: “Master! master!” and the ogre swung himself down on to the beanstalk which shook with his weight."
+    },
+    {
+     "id": "p054.s05",
+     "source": "Down climbs Jack, and after him climbed the ogre."
+    },
+    {
+     "id": "p054.s06",
+     "source": "By this time Jack had climbed down and climbed down and climbed down till he was very nearly home."
+    },
+    {
+     "id": "p054.s07",
+     "source": "So he called out: “Mother! mother! bring me an axe, bring me an axe.”"
+    },
+    {
+     "id": "p054.s08",
+     "source": "And his mother came rushing out with the axe in her hand, but when she came to the beanstalk she stood stock still with fright for there she saw the ogre just coming down below the clouds."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "But Jack jumped down and got hold of the axe and gave a chop at the beanstalk which cut it half in two."
+    },
+    {
+     "id": "p055.s02",
+     "source": "The ogre felt the beanstalk shake and quiver so he stopped to see what was the matter."
+    },
+    {
+     "id": "p055.s03",
+     "source": "Then Jack gave another chop with the axe, and the beanstalk was cut in two and began to topple over."
+    },
+    {
+     "id": "p055.s04",
+     "source": "Then the ogre fell down and broke his crown, and the beanstalk came toppling after."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "Then Jack showed his mother his golden harp, and what with showing that and selling the golden eggs, Jack and his mother became very rich, and he married a great princess, and they lived happy ever after."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p057"
+  }
+ ]
+}

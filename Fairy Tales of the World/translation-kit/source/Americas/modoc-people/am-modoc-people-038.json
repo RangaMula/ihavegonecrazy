@@ -1,0 +1,840 @@
+{
+ "id": "am-modoc-people-038",
+ "title": {
+  "id": "title",
+  "source": "Frog Steals Deer’S Baby"
+ },
+ "tradition": "Modoc people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Modocs",
+ "credits": "Curtin, Jeremiah (author, d. 1906)",
+ "gutenberg": "Project Gutenberg eBook #73418 — https://www.gutenberg.org/ebooks/73418 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Modoc people/038 - Frog Steals Deer’S Baby.md",
+ "stats": {
+  "paragraphs": 49,
+  "segments": 131,
+  "words": 1581
+ },
+ "paragraphs": [
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "CHARACTERS"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Blaiwas Eagle Tokwa Mole Kāhkaas Stork Tsiwididik Road Runner Kówe Frog Tskel Mink Lok Bear Tusasás Joker (Skunk) Swaiä Deer Wámanik Bull Snake Tcíkas Wren Wekwek Magpie Tcûskai Weasel"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Swaiä and her husband lived at the head of Sprague River, near a flat where there were many roots."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Swaiä had a baby, which she carried around strapped on a board."
+    },
+    {
+     "id": "p003.s03",
+     "source": "One day when she was digging roots, Kówe came along, and said: “Let me take care of your baby; then you can dig faster.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Swaiä’s husband had told her not to let Kówe touch the baby, but Swaiä thought: “I will not go far; I can watch Kówe all the time.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Kówe took the baby on her back and sat in a spring that was right there where the mother was digging."
+    },
+    {
+     "id": "p005.s02",
+     "source": "After a while Swaiä said: “You needn’t sit so long in one place; you can walk around a little.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“I never dig roots."
+    },
+    {
+     "id": "p006.s02",
+     "source": "I will stay right here."
+    },
+    {
+     "id": "p006.s03",
+     "source": "I am afraid if I move around, the baby will cry.”"
+    },
+    {
+     "id": "p006.s04",
+     "source": "She held the baby all day, and Swaiä dug a great many roots."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "That night Swaiä’s husband told her to always keep her eyes on Kówe; if she didn’t they might lose their baby."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Kówe might steal it."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "The next day Kówe said: “You can go as far as you like."
+    },
+    {
+     "id": "p008.s02",
+     "source": "You needn’t watch."
+    },
+    {
+     "id": "p008.s03",
+     "source": "If the baby cries, I will take him to you.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Kówe took such good care of the child that Swaiä began to feel easy, so she went farther and farther."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Once in a while she called: “Is the baby crying?” [ ]"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“No,” said Kówe, “the baby is good,” and she began to carry it around."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Swaiä said: “Don’t go near the spring again."
+    },
+    {
+     "id": "p011.s02",
+     "source": "If the baby drank water, it might make him sick.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“I won’t go there,” said Kówe."
+    },
+    {
+     "id": "p012.s02",
+     "source": "“I will just carry him around till he goes to sleep.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Swaiä was off near the hill."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Kówe kept going nearer the spring; she was waiting for a chance to steal the baby."
+    },
+    {
+     "id": "p013.s03",
+     "source": "At last Swaiä got so busy digging that she forgot to watch Kówe."
+    },
+    {
+     "id": "p013.s04",
+     "source": "Then Kówe ran to the spring, jumped in, went down under the water, and out of sight."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Just then Swaiä called, “Bring the baby here!”"
+    },
+    {
+     "id": "p014.s02",
+     "source": "Kówe didn’t answer, and Swaiä ran around calling: “Kówe!"
+    },
+    {
+     "id": "p014.s03",
+     "source": "Kówe!”"
+    },
+    {
+     "id": "p014.s04",
+     "source": "She nearly lost her mind; she didn’t know which way she was going."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "When her husband came, he said: “You must go one way, and I will go another."
+    },
+    {
+     "id": "p015.s02",
+     "source": "We will look everywhere."
+    },
+    {
+     "id": "p015.s03",
+     "source": "We will turn to common deer, so that we can look in the brush and among the rocks.”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Kówe traveled a long way, going underground from one spring to another."
+    },
+    {
+     "id": "p016.s02",
+     "source": "At last she came to her own place."
+    },
+    {
+     "id": "p016.s03",
+     "source": "There were lots of people there."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Kówe had three babies, but she didn’t care for them; she spent all of her time taking care of the baby she had stolen."
+    },
+    {
+     "id": "p016.s05",
+     "source": "She hid the child and nobody knew that she had it till it began to walk."
+    },
+    {
+     "id": "p016.s06",
+     "source": "Then people asked one another: “Whose child is that?”"
+    },
+    {
+     "id": "p016.s07",
+     "source": "When they asked Kówe, she said: “It is mine.”"
+    },
+    {
+     "id": "p016.s08",
+     "source": "They didn’t believe her; some said: “No, that isn’t your child."
+    },
+    {
+     "id": "p016.s09",
+     "source": "Look at your children."
+    },
+    {
+     "id": "p016.s10",
+     "source": "They are different; they are not like this boy."
+    },
+    {
+     "id": "p016.s11",
+     "source": "Whose child is it?”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“It is mine,” said Kówe."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“No, it isn’t,” said one old woman."
+    },
+    {
+     "id": "p018.s02",
+     "source": "“Your children look just like you; this one is nice-looking.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“He is nice-looking because I carry him around all the time,” said Kówe."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“Take up one of your own babies and carry it."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Let us see if it will look like this one.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "They talked till Kówe took up one of her children and carried it around on her back."
+    },
+    {
+     "id": "p021.s02",
+     "source": "When she put it down, they [ ] said: “It hasn’t changed a bit."
+    },
+    {
+     "id": "p021.s03",
+     "source": "We knew that it wouldn’t. This nice-looking boy is not yours; you stole him.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“I didn’t carry my baby far enough; that is why it didn’t change.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "They made her carry it again, but it didn’t change."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Then they said: “We know that this boy isn’t yours."
+    },
+    {
+     "id": "p023.s03",
+     "source": "If we can find his mother, we will give him back to her.”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Kówe was scared, and she kept the boy out of sight as much as she could."
+    },
+    {
+     "id": "p024.s02",
+     "source": "When he began to run about and play, she said to him: “You must never play with any of the children around here."
+    },
+    {
+     "id": "p024.s03",
+     "source": "You must play with your sisters.”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "He thought Kówe’s girls were his sisters."
+    },
+    {
+     "id": "p025.s02",
+     "source": "The girls didn’t like him, for their mother was kind to him and she scolded them."
+    },
+    {
+     "id": "p025.s03",
+     "source": "When he cried she whipped them; she said that they abused him."
+    },
+    {
+     "id": "p025.s04",
+     "source": "Once, when one of the girls was angry at him, she said: “You are not our brother."
+    },
+    {
+     "id": "p025.s05",
+     "source": "Our mother isn’t your mother."
+    },
+    {
+     "id": "p025.s06",
+     "source": "What makes you call her mother?”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "When the boy told Kówe what his sister said, she whipped the girl and wouldn’t let her play with him again."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "One day, when the boy was playing near the river, he found a mud-hole and sat down by it and made balls to throw at birds."
+    },
+    {
+     "id": "p027.s02",
+     "source": "That night he said to Kówe: “If I had a bow and arrow, I could shoot birds.”"
+    },
+    {
+     "id": "p027.s03",
+     "source": "She gave them to him, and the next morning he went to the mud-hole and watched for birds."
+    },
+    {
+     "id": "p027.s04",
+     "source": "After a while he saw one with long legs,—a Tsiwididik; he shot at it and hit it in the leg."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“Don’t shoot again!” called out Tsiwididik."
+    },
+    {
+     "id": "p028.s02",
+     "source": "“If you will take the arrow out of my leg."
+    },
+    {
+     "id": "p028.s03",
+     "source": "I will tell you a story.”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Swaiä took the arrow out, then Tsiwididik said: “You think that Kówe is your mother, but she isn’t; she stole you when you were a little baby."
+    },
+    {
+     "id": "p029.s02",
+     "source": "Your father and mother mourned for you and hunted everywhere for you.”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "The boy began to cry."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“Don’t cry,” said Tsiwididik."
+    },
+    {
+     "id": "p031.s02",
+     "source": "“Grow fast and get strong."
+    },
+    {
+     "id": "p031.s03",
+     "source": "You must stay with Kówe till you are a big boy."
+    },
+    {
+     "id": "p031.s04",
+     "source": "If you ever see two deer together, you mustn’t kill them or shoot at them."
+    },
+    {
+     "id": "p031.s05",
+     "source": "Maybe they are your father and mother."
+    },
+    {
+     "id": "p031.s06",
+     "source": "This is all I have to tell you.” [ ]"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Tsiwididik flew away and the boy went home."
+    },
+    {
+     "id": "p032.s02",
+     "source": "He could hardly see, his eyes were so swollen from crying."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“What have you been crying about?” asked Kówe."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“I have lost my arrow.”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“You shouldn’t cry about that."
+    },
+    {
+     "id": "p035.s02",
+     "source": "I can make you all the arrows you want.”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "The next morning, when the boy was going off to play, Kówe said: “You must not go far, or stay long; I am lonesome when you are gone.”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "The boy didn’t like Kówe now."
+    },
+    {
+     "id": "p037.s02",
+     "source": "He felt sorry for his father and mother; he didn’t want to play."
+    },
+    {
+     "id": "p037.s03",
+     "source": "He went where the Kówe people were gambling with sticks and watched them."
+    },
+    {
+     "id": "p037.s04",
+     "source": "He grew fast."
+    },
+    {
+     "id": "p037.s05",
+     "source": "After a while men taught him to gamble; then he wanted to gamble all the time."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Kówe said: “You should stay at home."
+    },
+    {
+     "id": "p038.s02",
+     "source": "It isn’t right to gamble every day.”"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "But the boy wouldn’t listen to her; he was thinking: “When I win enough, I will go away from here.”"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Kówe sat by and boasted: “You can’t beat my son; you can’t beat my son!"
+    },
+    {
+     "id": "p040.s02",
+     "source": "He is the best gambler in the world!”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "Soon Swaiä won all the beads and shells the people had; then he stole away in the night, left the Kówe people."
+    },
+    {
+     "id": "p041.s02",
+     "source": "While he was going along the river, he saw Tcoóks."
+    },
+    {
+     "id": "p041.s03",
+     "source": "The old man sat by the water trying to catch fish with a flint-pointed spear."
+    },
+    {
+     "id": "p041.s04",
+     "source": "Swaiä shouted to him; called him “Uncle.”"
+    },
+    {
+     "id": "p041.s05",
+     "source": "Just as he shouted, a big fish got away from the spear."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“You are not my nephew,” said Tcoóks."
+    },
+    {
+     "id": "p042.s02",
+     "source": "He was cross, for he had lost the fish."
+    },
+    {
+     "id": "p042.s03",
+     "source": "He wouldn’t talk with Swaiä; he got up and went off toward the hill."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "Swaiä traveled on till he came to the edge of a village, then he turned himself into an old man, and his shells and beads into dirty old trinkets, and sat down by the trail."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "Ndukis’ daughter saw the old man and right away she knew he was young."
+    },
+    {
+     "id": "p044.s02",
+     "source": "She took him home and pounded seeds for him."
+    },
+    {
+     "id": "p044.s03",
+     "source": "Her sisters were angry at her for bringing such a dirty old man into the house."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "He made a pillow of his pack and lay down."
+    },
+    {
+     "id": "p045.s02",
+     "source": "He looked [ ] old and wretched."
+    },
+    {
+     "id": "p045.s03",
+     "source": "The Ndukis people were nice-looking, and each one of them had a duckskin blanket."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "As soon as it was dark in Ndukis’ house, the old man became young and bright and beautiful, and his bundle began to shine."
+    },
+    {
+     "id": "p046.s02",
+     "source": "The house was full of light from Swaiä and his bundle."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "When the people heard that the old man had changed, that he was young and fine-looking, they came to see him."
+    },
+    {
+     "id": "p047.s02",
+     "source": "They asked him to run a race with them."
+    },
+    {
+     "id": "p047.s03",
+     "source": "Blaiwas, Tcûskai, Tskel, Lok, Wekwek, Tokwa, Wámanik, Tcíkas, Kāhkaas, Tusasás, were at the race; everybody was there."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "When Swaiä began to run, he made himself old."
+    },
+    {
+     "id": "p048.s02",
+     "source": "As the runners passed him, they laughed, and called out: “We can beat you easily!"
+    },
+    {
+     "id": "p048.s03",
+     "source": "We can beat you easily!”"
+    },
+    {
+     "id": "p048.s04",
+     "source": "They ran around a hill."
+    },
+    {
+     "id": "p048.s05",
+     "source": "The first time around the old man was behind."
+    },
+    {
+     "id": "p048.s06",
+     "source": "Then he became a young, fine-looking man and won the race each time."
+    },
+    {
+     "id": "p048.s07",
+     "source": "He beat Tskel, a great runner, and Lok (whose name was Kĭc—to look far off), for Swaiä could run faster than eyes could look."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "Swaiä liked the Ndukis people."
+    },
+    {
+     "id": "p049.s02",
+     "source": "He stayed with them always. [ ]"
+    }
+   ],
+   "id": "p049"
+  }
+ ]
+}

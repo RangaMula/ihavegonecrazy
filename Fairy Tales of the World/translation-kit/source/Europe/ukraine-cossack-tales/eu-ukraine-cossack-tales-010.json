@@ -1,0 +1,110 @@
+{
+ "id": "eu-ukraine-cossack-tales-010",
+ "title": {
+  "id": "title",
+  "source": "The Old Dog"
+ },
+ "tradition": "Ukraine (Cossack tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Cossack Fairy Tales and Folk Tales",
+ "credits": "Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #29672 — https://www.gutenberg.org/ebooks/29672 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Ukraine (Cossack tales)/010 - The Old Dog.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 15,
+  "words": 288
+ },
+ "paragraphs": [
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p001"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "THE OLD DOG"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "There was once a man who had a dog."
+    },
+    {
+     "id": "p003.s02",
+     "source": "While the dog was young he was made much of, but when he grew old he was driven out of doors."
+    },
+    {
+     "id": "p003.s03",
+     "source": "So he went and lay outside the fence, and a wolf came up to him and said, “Doggy, why so down in the mouth?”––“While I was young,” said the dog, “they made much of me; but now that I am old they beat me.”"
+    },
+    {
+     "id": "p003.s04",
+     "source": "The wolf said, “I see thy master in the field; go after him, and perchance he’ll give thee something.”––“Nay,” said the dog, “they won’t even let me walk about the fields now, they only beat me.”––“Look now,” said the wolf, “I’m sorry, and will make things better for thee."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Thy mistress, I see, has put her child down beneath that wagon."
+    },
+    {
+     "id": "p003.s06",
+     "source": "I’ll seize it, and make off with it."
+    },
+    {
+     "id": "p003.s07",
+     "source": "Run thou after me and bark, and though thou hast no teeth left, touzle me as much as thou canst, so that thy mistress may see it.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "So the wolf seized the child, and ran away with it, and the dog ran after him, and began to touzle him."
+    },
+    {
+     "id": "p004.s02",
+     "source": "His mistress saw it, and made after them with a harrow, crying at the same time, “Husband, husband! the wolf has got the child!"
+    },
+    {
+     "id": "p004.s03",
+     "source": "Gabriel, Gabriel! don’t you see?"
+    },
+    {
+     "id": "p004.s04",
+     "source": "The wolf has got the child!”"
+    },
+    {
+     "id": "p004.s05",
+     "source": "Then the man chased the wolf, and got back the child."
+    },
+    {
+     "id": "p004.s06",
+     "source": "“Brave old dog!” said he; “you are old and toothless, and yet you can give help in time of need, and will not let your master’s child be stolen.”"
+    },
+    {
+     "id": "p004.s07",
+     "source": "And henceforth the woman and her husband gave the old dog a large lump of bread every day."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p005"
+  }
+ ]
+}

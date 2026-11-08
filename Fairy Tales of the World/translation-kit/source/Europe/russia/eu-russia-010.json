@@ -1,0 +1,116 @@
+{
+ "id": "eu-russia-010",
+ "title": {
+  "id": "title",
+  "source": "The Foundling Prince"
+ },
+ "tradition": "Russia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Russian Folk-Tales",
+ "credits": "Afanas'ev, A. N. (Aleksandr Nikolaevich) (author, d. 1871); Magnus, Leonard A. (Leonard Arthur) (translator, d. 1924)",
+ "gutenberg": "Project Gutenberg eBook #62509 — https://www.gutenberg.org/ebooks/62509 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Russia/010 - The Foundling Prince.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 13,
+  "words": 285
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once upon a time there was a Tsar and Tsarítsa who had only one son."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The Tsar one day had to leave home, and in his absence a disaster befell them; the Tsarévich disappeared."
+    },
+    {
+     "id": "p001.s03",
+     "source": "They searched and searched for the Tsarévich, dragging the ponds."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Not a breath nor a sound could be heard of him."
+    },
+    {
+     "id": "p001.s05",
+     "source": "So fifteen years went by, until at last the Tsar received news that in a certain village a peasant had found a child who was a wonder for his beauty and his cleverness."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "So the Tsar ordered the peasant to be brought to him as soon as possible: he was brought, and the Tsar began asking him where he had found the boy."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The peasant explained that he had found him fifteen years ago in a corn-kiln, with strange and rich clothing on him; and by every sign he was the Tsar’s own son."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "So the Tsar told the peasant, “Tell your foundling that he is to come to me neither naked nor dressed, nor on foot nor on horseback, neither by day nor by night, neither in the courtyard nor in the street.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "So the peasant went back home, wept and told the boy."
+    },
+    {
+     "id": "p004.s02",
+     "source": "How on earth was it to be done!"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "But the boy replied, “That is easy enough: I can guess this riddle.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "So he took and undressed himself from head to foot, put a net on himself, came on a goat, came up to the Tsar at twilight, and mounted the goat at the gate, leaving the fore-feet of the goat on the courtyard and the hind feet in the street."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "When the Tsar saw this, he became convinced and said, “This must be my son!”"
+    }
+   ],
+   "id": "p007"
+  }
+ ]
+}

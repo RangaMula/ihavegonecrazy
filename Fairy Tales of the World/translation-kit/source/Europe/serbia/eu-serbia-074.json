@@ -1,0 +1,70 @@
+{
+ "id": "eu-serbia-074",
+ "title": {
+  "id": "title",
+  "source": "The Moor in Istamboul"
+ },
+ "tradition": "Serbia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Hero Tales and Legends of the Serbians",
+ "credits": "Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)",
+ "gutenberg": "Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Serbia/074 - The Moor in Istamboul.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 9,
+  "words": 236
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "At that very moment, as they were speaking, Marko could hear from the city the clangour caused by the Moorish chieftain and his black followers, numbering at least five hundred, and all in glittering armour."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The Moor had roused his Bedevia, and she trotted in such a lively manner that the stones, which she threw up with her hoofs, whizzed through the air in all directions, and broke windows and doors in all the shops she passed!"
+    },
+    {
+     "id": "p001.s03",
+     "source": "When the cavalcade came up to the inn, the Moor thought: “Allah!"
+    },
+    {
+     "id": "p001.s04",
+     "source": "I am struck with wonder and astonishment!"
+    },
+    {
+     "id": "p001.s05",
+     "source": "The windows and doors of all the shops and houses throughout the entire city of Istamboul are closed from the great fear the people have of me, except, I see, the doors of this inn."
+    },
+    {
+     "id": "p001.s06",
+     "source": "There must either be nobody within, or if there is anybody inside, he is assuredly a great fool; or perhaps he is a stranger, and has not yet been told how terrible I am.”"
+    },
+    {
+     "id": "p001.s07",
+     "source": "The Moor and his retinue passed that night in tents before the Palace."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Next morning the Sultan himself presented his daughter to the Moorish chieftain, together with all the wedding gifts, which were known to weigh twelve tovars."
+    },
+    {
+     "id": "p002.s02",
+     "source": "As the wedding procession passed the inn where Marko waited, the Moor again noticed the open door, but this time he urged Bedevia right up to it to see who might be there."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

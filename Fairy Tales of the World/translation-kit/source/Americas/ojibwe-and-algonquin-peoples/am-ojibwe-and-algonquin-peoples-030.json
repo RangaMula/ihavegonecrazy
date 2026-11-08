@@ -1,0 +1,62 @@
+{
+ "id": "am-ojibwe-and-algonquin-peoples-030",
+ "title": {
+  "id": "title",
+  "source": "The Young Loon"
+ },
+ "tradition": "Ojibwe and Algonquin peoples",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths and Folk-lore of the Timiskaming Algonquin and Timagami Ojibwa",
+ "credits": "Speck, F. G. (author, d. 1950)",
+ "gutenberg": "Project Gutenberg eBook #66509 — https://www.gutenberg.org/ebooks/66509 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Ojibwe and Algonquin peoples/030 - The Young Loon.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 7,
+  "words": 172
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once in the autumn of the year, when the birds were ready to fly to the south for the winter, a young Loon was unable to fly far enough to go with the rest of the birds."
+    },
+    {
+     "id": "p001.s02",
+     "source": "So he said to his mother, “I cannot go back south with you, as I am not strong enough."
+    },
+    {
+     "id": "p001.s03",
+     "source": "But I will stay here all winter in this place, and in the spring, when you come back, I will meet you here at this very spot."
+    },
+    {
+     "id": "p001.s04",
+     "source": "When you come back and find me here, it will be on a misty morning.”"
+    },
+    {
+     "id": "p001.s05",
+     "source": "So they all flew away to the south, and [ ] the young Loon was left behind for the winter."
+    },
+    {
+     "id": "p001.s06",
+     "source": "The mother was very sad because she had to leave him and because he was not strong enough to go with them."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "In the spring time, when the ice is breaking up in the lake, and it becomes misty, the Indians say, “The Loon is coming back from her winter sojourn in the South.”"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

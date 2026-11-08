@@ -1,0 +1,54 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-036",
+ "title": {
+  "id": "title",
+  "source": "The Goat and the Goatherd"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/036 - The Goat and the Goatherd.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 5,
+  "words": 73
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A GOATHERD had sought to bring back a stray goat to his flock."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He whistled and sounded his horn in vain; the straggler paid no attention to the summons."
+    },
+    {
+     "id": "p001.s03",
+     "source": "At last the Goatherd threw a stone, and breaking its horn, begged the Goat not to tell his master."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The Goat replied, “Why, you silly fellow, the horn will speak though I be silent.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Do not attempt to hide things which cannot be hid."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

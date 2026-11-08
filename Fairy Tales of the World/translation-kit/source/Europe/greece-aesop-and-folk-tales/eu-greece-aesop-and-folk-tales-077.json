@@ -1,0 +1,48 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-077",
+ "title": {
+  "id": "title",
+  "source": "The Shepherd and the Wolf"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/077 - The Shepherd and the Wolf.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 5,
+  "words": 60
+ },
+ "paragraphs": [
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A SHEPHERD once found the whelp of a Wolf and brought it up, and"
+    },
+    {
+     "id": "p001.s02",
+     "source": "after a while taught it to steal lambs from the neighboring flocks. The"
+    },
+    {
+     "id": "p001.s03",
+     "source": "Wolf, having shown himself an apt pupil, said to the Shepherd, “Since"
+    },
+    {
+     "id": "p001.s04",
+     "source": "you have taught me to steal, you must keep a sharp lookout, or you will"
+    },
+    {
+     "id": "p001.s05",
+     "source": "lose some of your own flock.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

@@ -1,0 +1,306 @@
+{
+ "id": "eu-norway-037",
+ "title": {
+  "id": "title",
+  "source": "The Three Billy-Goats Gruff"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Popular Tales from the Norse",
+ "credits": "Moe, Jørgen Engebretsen (compiler, d. 1882); Asbjørnsen, Peter Christen (compiler, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)",
+ "gutenberg": "Project Gutenberg eBook #8933 — https://www.gutenberg.org/ebooks/8933 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Norway/037 - The Three Billy-Goats Gruff.md",
+ "stats": {
+  "paragraphs": 24,
+  "segments": 35,
+  "words": 442
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once on a time there were three Billy-goats, who were to go up to the hill-side to make themselves fat, and the name of all three was 'Gruff'."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "On the way up was a bridge over a burn they had to cross; and under the bridge lived a great ugly Troll, with eyes as big as saucers, and a nose as long as a poker."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "So first of all came the youngest billy-goat Gruff to cross the bridge."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "'Trip, trap; trip, trap!' went the bridge."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "'WHO'S THAT tripping over my bridge?' roared the Troll."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "'Oh! it is only I, the tiniest billy-goat Gruff; and I'm going up to the hill-side to make myself fat', said the billy-goat, with such a small voice."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "'Now, I'm coming to gobble you up', said the Troll."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "'Oh, no! pray don't take me."
+    },
+    {
+     "id": "p008.s02",
+     "source": "I'm too little, that I am', said the billy-goat; 'wait a bit till the second billy-goat Gruff comes, he's much bigger.'"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "'Well! be off with you', said the Troll."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "A little while after came the second billy-goat Gruff to cross the bridge."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "'TRIP, TRAP!"
+    },
+    {
+     "id": "p011.s02",
+     "source": "TRIP, TRAP!"
+    },
+    {
+     "id": "p011.s03",
+     "source": "TRIP, TRAP!' went the bridge."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "'WHO'S THAT tripping over my bridge?' roared the Troll."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "'Oh! it's the second billy-goat Gruff, and I'm going up to the hill- side to make myself fat', said the billy-goat, who hadn't such a small voice."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "'Now, I'm coming to gobble you up', said the Troll."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "'Oh, no! don't take me, wait a little till the big billy-goat Gruff comes, he's much bigger.'"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "'Very well! be off with you', said the Troll."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "But just then up came the big billy-goat Gruff."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "'TRIP, TRAP!"
+    },
+    {
+     "id": "p018.s02",
+     "source": "TRIP, TRAP!"
+    },
+    {
+     "id": "p018.s03",
+     "source": "TRIP, TRAP!' went the bridge, for the billy- goat was so heavy that the bridge creaked and groaned under him."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "'WHO'S THAT tramping over my bridge?' roared the Troll."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "'IT'S I!"
+    },
+    {
+     "id": "p020.s02",
+     "source": "THE BIG BILLY-GOAT GRUFF', said the billy-goat, who had an ugly hoarse voice of his own."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "'Now, I'm coming to gobble you up', roared the Troll."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Well, come along! I've got two spears,"
+    },
+    {
+     "id": "p022.s02",
+     "source": "And I'll poke your eyeballs out at your ears;"
+    },
+    {
+     "id": "p022.s03",
+     "source": "I've got besides two curling-stones,"
+    },
+    {
+     "id": "p022.s04",
+     "source": "And I'll crush you to bits, body and bones."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "That was what the big billy-goat said; and so he flew at the Troll and poked his eyes out with his horns, and crushed him to bits, body and bones, and tossed him out into the burn, and after that he went up to the hill-side."
+    },
+    {
+     "id": "p023.s02",
+     "source": "There the billy-goats got so fat they were scarce able to walk home again; and if the fat hasn't fallen off them, why they're still fat; and so:"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Snip, snap, snout,"
+    },
+    {
+     "id": "p024.s02",
+     "source": "This tale's told out."
+    }
+   ],
+   "id": "p024"
+  }
+ ]
+}

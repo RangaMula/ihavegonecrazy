@@ -1,0 +1,91 @@
+{
+ "id": "af-south-africa-025",
+ "title": {
+  "id": "title",
+  "source": "Cock And Jackal"
+ },
+ "tradition": "South Africa",
+ "continent": "Africa",
+ "source_lang": "en",
+ "source_book": "South-African Folk-Tales",
+ "credits": "Honey, James A. (author)",
+ "gutenberg": "Project Gutenberg eBook #38339 — https://www.gutenberg.org/ebooks/38339 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Africa/South Africa/025 - Cock And Jackal.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 10,
+  "words": 102
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Cock, it is said, was once overtaken by Jackal, and caught."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Cock said to Jackal, \"Please, pray first (before you kill me), as the white man does.\""
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Jackal asked, \"In what manner does he pray?"
+    },
+    {
+     "id": "p002.s02",
+     "source": "Tell me.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"He folds his hands in praying,\" said Cock."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Jackal folded his hands and prayed."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Then Cock spoke again; \"You ought not to look about you as you do."
+    },
+    {
+     "id": "p003.s04",
+     "source": "You had better shut your eyes.\""
+    },
+    {
+     "id": "p003.s05",
+     "source": "He did so; and Cock flew away, upbraiding at the same time Jackal with these words, \"You rogue! do you also pray?\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "There sat Jackal, speechless, because he had been outdone."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p005"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "eu-brittany-breton-people-040",
+ "title": {
+  "id": "title",
+  "source": "Mont-Saint-Michel"
+ },
+ "tradition": "Brittany (Breton people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Brittany",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Brittany (Breton people)/040 - Mont-Saint-Michel.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 138
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In the neighbourhood is Mont-Saint-Michel, a great tumulus with a sepulchral dolmen, first excavated in 1862, when late Stone Age implements, jade celts, and burnt bones were unearthed."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Later M. Zacharie Le Rouzic, the well-known Breton archæologist, tunnelled into the tumulus, and discovered a mortuary chamber, in which were the incinerated remains of two oxen."
+    },
+    {
+     "id": "p001.s03",
+     "source": "To this tumulus each pilgrim added a stone or small quantity of earth, as has been the custom in Celtic countries from time immemorial, and so the funerary mound in the course of countless generations grew into quite a respectable hill, on which a chapel was built, dedicated to St Michael, from the doorway of which a splendid prospect of the great stone alignments can be had, with, for background, the Morbihan and the long, dreary peninsula of Quiberon, bleak, treeless, and deserted."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

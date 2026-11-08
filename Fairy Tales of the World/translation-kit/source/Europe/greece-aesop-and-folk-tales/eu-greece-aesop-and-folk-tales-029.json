@@ -1,0 +1,54 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-029",
+ "title": {
+  "id": "title",
+  "source": "The Farmer and the Cranes"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/029 - The Farmer and the Cranes.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 5,
+  "words": 122
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "SOME CRANES made their feeding grounds on some plowlands newly sown with wheat."
+    },
+    {
+     "id": "p001.s02",
+     "source": "For a long time the Farmer, brandishing an empty sling, chased them away by the terror he inspired; but when the birds found that the sling was only swung in the air, they ceased to take any notice of it and would not move."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Farmer, on seeing this, charged his sling with stones, and killed a great number."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The remaining birds at once forsook his fields, crying to each other, “It is time for us to be off to Liliput: for this man is no longer content to scare us, but begins to show us in earnest what he can do.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "If words suffice not, blows must follow."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-047",
+ "title": {
+  "id": "title",
+  "source": "The Laborer and the Snake"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/047 - The Laborer and the Snake.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 6,
+  "words": 148
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A SNAKE, having made his hole close to the porch of a cottage, inflicted a mortal bite on the Cottager’s infant son."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Grieving over his loss, the Father resolved to kill the Snake."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The next day, when it came out of its hole for food, he took up his axe, but by swinging too hastily, missed its head and cut off only the end of its tail."
+    },
+    {
+     "id": "p001.s04",
+     "source": "After some time the Cottager, afraid that the Snake would bite him also, endeavored to make peace, and placed some bread and salt in the hole."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The Snake, slightly hissing, said: “There can henceforth be no peace between us; for whenever I see you I shall remember the loss of my tail, and whenever you see me you will be thinking of the death of your son.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "No one truly forgets injuries in the presence of him who caused the injury."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

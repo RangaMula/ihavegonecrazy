@@ -1,0 +1,901 @@
+{
+ "id": "eu-france-071",
+ "title": {
+  "id": "title",
+  "source": "International Folklore"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Popular Tales",
+ "credits": "Perrault, Charles (author, d. 1703); Lang, Andrew (editor, d. 1912)",
+ "gutenberg": "Project Gutenberg eBook #33931 — https://www.gutenberg.org/ebooks/33931 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/071 - International Folklore.md",
+ "stats": {
+  "paragraphs": 50,
+  "segments": 145,
+  "words": 477
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "An Arno Press Collection"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Allies, Jabez."
+    },
+    {
+     "id": "p002.s02",
+     "source": "On The Ancient British, Roman, and Saxon Antiquities and Folk-Lore of Worcestershire."
+    },
+    {
+     "id": "p002.s03",
+     "source": "1852"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Blair, Walter and Franklin J. Meine, editors."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Half Horse Half Alligator."
+    },
+    {
+     "id": "p003.s03",
+     "source": "1956"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Bompas, Cecil Henry, translator."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Folklore of the Santal Parganas."
+    },
+    {
+     "id": "p004.s03",
+     "source": "1909"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Bourne, Henry."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Antiquitates Vulgares; Or, The Antiquities of the Common People."
+    },
+    {
+     "id": "p005.s03",
+     "source": "1725"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Briggs, Katharine Mary."
+    },
+    {
+     "id": "p006.s02",
+     "source": "The Anatomy of Puck."
+    },
+    {
+     "id": "p006.s03",
+     "source": "1959"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Briggs, Katharine Mary."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Pale Hecate's Team."
+    },
+    {
+     "id": "p007.s03",
+     "source": "1962"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Brown, Robert."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Semitic Influence in Hellenic Mythology."
+    },
+    {
+     "id": "p008.s03",
+     "source": "1898"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Busk, Rachel Harriette."
+    },
+    {
+     "id": "p009.s02",
+     "source": "The Folk-Songs of Italy."
+    },
+    {
+     "id": "p009.s03",
+     "source": "1887"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Carey, George."
+    },
+    {
+     "id": "p010.s02",
+     "source": "A Faraway Time and Place."
+    },
+    {
+     "id": "p010.s03",
+     "source": "1971"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Christiansen, Reidar Th."
+    },
+    {
+     "id": "p011.s02",
+     "source": "The Migratory Legends."
+    },
+    {
+     "id": "p011.s03",
+     "source": "1958"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Clouston, William Alexander."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Flowers From a Persian Garden, and Other Papers."
+    },
+    {
+     "id": "p012.s03",
+     "source": "1890"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Colcord, Joanna Carver."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Sea Language Comes Ashore."
+    },
+    {
+     "id": "p013.s03",
+     "source": "1945"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Dorson, Richard Mercer, editor."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Davy Crockett."
+    },
+    {
+     "id": "p014.s03",
+     "source": "1939"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Douglas, George Brisbane, editor."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Scottish Fairy and Folk Tales."
+    },
+    {
+     "id": "p015.s03",
+     "source": "1901"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Gaidoz, Henri and Paul Sébillot."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Blason Populaire De La France."
+    },
+    {
+     "id": "p016.s03",
+     "source": "1884"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Gardner, Emelyn Elizabeth."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Folklore From the Schoharie Hills, New York."
+    },
+    {
+     "id": "p017.s03",
+     "source": "1937"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Gill, William Wyatt."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Myths and Songs From The South Pacific."
+    },
+    {
+     "id": "p018.s03",
+     "source": "1876"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Gomme, George Laurence."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Folk-Lore Relics of Early Village Life."
+    },
+    {
+     "id": "p019.s03",
+     "source": "1883"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Grimm, Jacob and Wilhelm."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Deutsche Sagen."
+    },
+    {
+     "id": "p020.s03",
+     "source": "1891"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Gromme, Francis Hindes."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Gypsy Folk-Tales."
+    },
+    {
+     "id": "p021.s03",
+     "source": "1899"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Hambruch, Paul."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Faraulip."
+    },
+    {
+     "id": "p022.s03",
+     "source": "1924"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Ives, Edward Dawson."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Larry Gorman."
+    },
+    {
+     "id": "p023.s03",
+     "source": "1964"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Jansen, William Hugh."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Abraham \"Oregon\" Smith."
+    },
+    {
+     "id": "p024.s03",
+     "source": "1977"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Jenkins, John Geraint."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Studies in Folk Life."
+    },
+    {
+     "id": "p025.s03",
+     "source": "1969"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Kingscote, Georgiana and Pandit Natêsá Sástrî, compilers."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Tales of the Sun."
+    },
+    {
+     "id": "p026.s03",
+     "source": "1890"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Knowles, James Hinton."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Folk-Tales of Kashmir."
+    },
+    {
+     "id": "p027.s03",
+     "source": "1893"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Lee, Hector Haight."
+    },
+    {
+     "id": "p028.s02",
+     "source": "The Three Nephites."
+    },
+    {
+     "id": "p028.s03",
+     "source": "1949"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "MacDougall, James, compiler."
+    },
+    {
+     "id": "p029.s02",
+     "source": "Folk Tales and Fairy Lore in Gaelic and English."
+    },
+    {
+     "id": "p029.s03",
+     "source": "1910"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Mather, Increase."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Remarkable Providences Illustrative of the Earlier Days of American Colonisation."
+    },
+    {
+     "id": "p030.s03",
+     "source": "1856"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "McNair, John F.A. and Thomas Lambert Barlow."
+    },
+    {
+     "id": "p031.s02",
+     "source": "Oral Tradition From the Indus."
+    },
+    {
+     "id": "p031.s03",
+     "source": "1908"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "McPherson, Joseph McKenzie."
+    },
+    {
+     "id": "p032.s02",
+     "source": "Primitive Beliefs in the North-East of Scotland."
+    },
+    {
+     "id": "p032.s03",
+     "source": "1929"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Miller, Hugh."
+    },
+    {
+     "id": "p033.s02",
+     "source": "Scenes and Legends of the North of Scotland."
+    },
+    {
+     "id": "p033.s03",
+     "source": "1869"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Müller, Friedrich Max."
+    },
+    {
+     "id": "p034.s02",
+     "source": "Comparative Mythology."
+    },
+    {
+     "id": "p034.s03",
+     "source": "1909"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Palmer, Abram Smythe."
+    },
+    {
+     "id": "p035.s02",
+     "source": "The Samson-Saga and Its Place in Comparative Religion."
+    },
+    {
+     "id": "p035.s03",
+     "source": "1913"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Parker, Henry."
+    },
+    {
+     "id": "p036.s02",
+     "source": "Village Folk-Tales of Ceylon."
+    },
+    {
+     "id": "p036.s03",
+     "source": "Three volumes."
+    },
+    {
+     "id": "p036.s04",
+     "source": "1910-1914"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Parkinson, Thomas."
+    },
+    {
+     "id": "p037.s02",
+     "source": "Yorkshire Legends and Traditions."
+    },
+    {
+     "id": "p037.s03",
+     "source": "1888"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Perrault, Charles."
+    },
+    {
+     "id": "p038.s02",
+     "source": "Popular Tales."
+    },
+    {
+     "id": "p038.s03",
+     "source": "1888"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Rael, Juan B. Cuentos Españoles de Colorado y Nuevo Méjico."
+    },
+    {
+     "id": "p039.s02",
+     "source": "Two volumes."
+    },
+    {
+     "id": "p039.s03",
+     "source": "1957"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Ralston, William Ralston Shedden."
+    },
+    {
+     "id": "p040.s02",
+     "source": "Russian Folk-Tales."
+    },
+    {
+     "id": "p040.s03",
+     "source": "1873"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "Rhys Davids, Thomas William, translator."
+    },
+    {
+     "id": "p041.s02",
+     "source": "Buddhist Birth Stories; Or, Jātaka Tales."
+    },
+    {
+     "id": "p041.s03",
+     "source": "1880"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "Ricks, George Robinson."
+    },
+    {
+     "id": "p042.s02",
+     "source": "Some Aspects of the Religious Music of the United States Negro."
+    },
+    {
+     "id": "p042.s03",
+     "source": "1977"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "Swynnerton, Charles."
+    },
+    {
+     "id": "p043.s02",
+     "source": "Indian Nights' Entertainment, Or Folk-Tales From the Upper Indus."
+    },
+    {
+     "id": "p043.s03",
+     "source": "1892"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "Sydow, Carl Wilhelm von."
+    },
+    {
+     "id": "p044.s02",
+     "source": "Selected Papers on Folklore."
+    },
+    {
+     "id": "p044.s03",
+     "source": "1948"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "Taliaferro, Harden E. Fisher's River (North Carolina) Scenes and Characters."
+    },
+    {
+     "id": "p045.s02",
+     "source": "1859"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "Temple, Richard Carnac."
+    },
+    {
+     "id": "p046.s02",
+     "source": "The Legends of the Panjâb."
+    },
+    {
+     "id": "p046.s03",
+     "source": "Three volumes."
+    },
+    {
+     "id": "p046.s04",
+     "source": "1884-1903"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "Tully, Marjorie F. and Juan B. Rael."
+    },
+    {
+     "id": "p047.s02",
+     "source": "An Annotated Bibliography of Spanish Folklore in New Mexico and Southern Colorado."
+    },
+    {
+     "id": "p047.s03",
+     "source": "1950"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "Wratislaw, Albert Henry, translator."
+    },
+    {
+     "id": "p048.s02",
+     "source": "Sixty Folk-Tales From Exclusively Slavonic Sources."
+    },
+    {
+     "id": "p048.s03",
+     "source": "1889"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "Yates, Norris W. William T. Porter and the Spirit of the Times."
+    },
+    {
+     "id": "p049.s02",
+     "source": "1957"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p050"
+  }
+ ]
+}

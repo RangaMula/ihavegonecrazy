@@ -1,0 +1,105 @@
+{
+ "id": "eu-sweden-069",
+ "title": {
+  "id": "title",
+  "source": "Bölsbjörn"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/069 - Bölsbjörn.md",
+ "stats": {
+  "paragraphs": 8,
+  "segments": 9,
+  "words": 231
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Many generations ago there lived at Bole, in the parish of Ore, a man named Bölsbjörn, noted far and wide for his wonderful strength."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The king, hearing about him, commanded him to come to Stockholm and wrestle with a newly arrived foreign champion named Stenbock, who was said to be so strong that he had never found his superior."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Bölsbjörn hastened to obey the king’s command."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Strapping his skates upon him, he set off at such a speed that his dog, which had followed him, gave out and died on the way, and the new-baked bread put into his haversack was yet warm upon his arrival at Stockholm."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "He was conducted to the king, and was told that he might name his own reward, however great it might be, if he would vanquish Stenbock."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The struggle was soon begun and suddenly concluded by Bölsbjörn laying his antagonist upon his back with such force that three of his ribs were broken."
+    },
+    {
+     "id": "p005.s02",
+     "source": "For his reward, Bölsbjörn demanded as much land as he could skate around in one day, and it was granted him by the king."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "When he returned home he had made the circuit of nearly twelve square miles of land, which his descendants to this day occupy. [ ]"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "It is believed this comes from an old Icelandic Saga, which has been made a part of the folk-lore of Dalarne. ↑"
+    }
+   ],
+   "id": "p008"
+  }
+ ]
+}

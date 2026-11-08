@@ -1,0 +1,101 @@
+{
+ "id": "eu-ireland-009",
+ "title": {
+  "id": "title",
+  "source": "A Donegal Fairy"
+ },
+ "tradition": "Ireland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy and Folk Tales of the Irish Peasantry",
+ "credits": "Yeats, W. B. (William Butler) (editor, d. 1939)",
+ "gutenberg": "Project Gutenberg eBook #33887 — https://www.gutenberg.org/ebooks/33887 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Ireland/009 - A Donegal Fairy.md",
+ "stats": {
+  "paragraphs": 8,
+  "segments": 8,
+  "words": 154
+ },
+ "paragraphs": [
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "LETITIA MACLINTOCK"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Ay, it's a bad thing to displeasure the gentry, sure enough—they can be unfriendly if they're angered, an' they can be the very best o' gude neighbours if they're treated kindly."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "My mother's sister was her lone in the house one day, wi' a' big pot o' water boiling on the fire, and ane o' the wee folk fell down the chimney, and slipped wi' his leg in the hot water."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "He let a terrible squeal out o' him, an' in a minute the house was full o' wee crathurs pulling him out o' the pot, an' carrying him across the floor."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Did she scald you?\" my aunt heard them saying to him."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"Na, na, it was mysel' scalded my ainsel',\" quoth the wee fellow."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"A weel, a weel,\" says they."
+    },
+    {
+     "id": "p007.s02",
+     "source": "\"If it was your ainsel scalded yoursel', we'll say nothing, but if she had scalded you, we'd ha' made her pay.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p008"
+  }
+ ]
+}

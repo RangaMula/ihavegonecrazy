@@ -1,0 +1,74 @@
+{
+ "id": "eu-wales-069",
+ "title": {
+  "id": "title",
+  "source": "Satan appearing as a Lovely Maiden"
+ },
+ "tradition": "Wales",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Welsh Folk-Lore",
+ "credits": "Owen, Elias (author, d. 1899)",
+ "gutenberg": "Project Gutenberg eBook #20096 — https://www.gutenberg.org/ebooks/20096 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Wales/069 - Satan appearing as a Lovely Maiden.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 7,
+  "words": 113
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The following story I received from the Rev. Owen Jones, Pentrevoelas."
+    },
+    {
+     "id": "p001.s02",
+     "source": "As regards details it is a fragment."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "A young man who was walking from Dyserth to Rhyl was overtaken by a lovely young lady dressed in white."
+    },
+    {
+     "id": "p002.s02",
+     "source": "She invited conversation, and they walked together awhile talking kindly, but, when they came opposite a pool on the road side she disappeared, in the form of a ball of fire, into the water."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "All that has reached our days, in corroboration of this tale, is the small pool."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The next tale was told me by the Rev. R. Jones, Rector of Llanycil."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Mr. Jones gave names and localities, which I have indicated by initials."
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

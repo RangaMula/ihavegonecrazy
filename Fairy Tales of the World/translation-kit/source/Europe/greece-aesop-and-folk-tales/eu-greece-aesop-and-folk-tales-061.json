@@ -1,0 +1,58 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-061",
+ "title": {
+  "id": "title",
+  "source": "The Man and His Two Sweethearts"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/061 - The Man and His Two Sweethearts.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 6,
+  "words": 116
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A MIDDLE-AGED MAN, whose hair had begun to turn gray, courted two women at the same time."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One of them was young, and the other well advanced in years."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The elder woman, ashamed to be courted by a man younger than herself, made a point, whenever her admirer visited her, to pull out some portion of his black hairs."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The younger, on the contrary, not wishing to become the wife of an old man, was equally zealous in removing every gray hair she could find."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Thus it came to pass that between them both he very soon found that he had not a hair left on his head."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Those who seek to please everybody please nobody."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

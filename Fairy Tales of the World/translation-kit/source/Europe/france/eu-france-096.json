@@ -1,0 +1,367 @@
+{
+ "id": "eu-france-096",
+ "title": {
+  "id": "title",
+  "source": "Le Cheveu Merveilleux"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Contes et légendes. 1re Partie",
+ "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #18873 — https://www.gutenberg.org/ebooks/18873 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/096 - Le Cheveu Merveilleux.md",
+ "stats": {
+  "paragraphs": 17,
+  "segments": 61,
+  "words": 678
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Il y avait une fois un homme très pauvre, qui avait beaucoup d'enfants."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Sa famille était si nombreuse qu'il lui était impossible de trouver assez à manger pour ses enfants."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Tous les jours il disait à sa femme: \"Ma femme, les enfants ont faim."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Il m'est impossible de trouver assez à manger pour eux."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Je pense que la meilleure chose à faire serait de me tuer avec eux.\""
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"Patience!\" disait la pauvre femme; \"patience, mon ami, ne vous tuez pas aujourd'hui.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Une nuit le pauvre homme vit en songe un enfant qui lui disait:"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Pauvre homme, vous êtes bien malheureux; mais écoutez-moi bien, et vous serez heureux."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Demain matin vous trouverez sous votre oreiller un miroir, du corail et un mouchoir."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Prenez ces trois objets, ne parlez à personne, et allez dans la montagne."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Vous trouverez une petite rivière."
+    },
+    {
+     "id": "p004.s05",
+     "source": "Suivez le cours de la rivière, et vous arriverez à la source."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Là vous verrez une belle jeune fille."
+    },
+    {
+     "id": "p005.s02",
+     "source": "La jeune fille vous parlera, mais ne répondez pas."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Si vous parlez, elle vous changera en poisson ou en un autre animal."
+    },
+    {
+     "id": "p005.s04",
+     "source": "Asseyez-vous à côté de la jeune fille."
+    },
+    {
+     "id": "p005.s05",
+     "source": "Elle placera sa tête sur vos genoux."
+    },
+    {
+     "id": "p005.s06",
+     "source": "Alors vous chercherez avec soin."
+    },
+    {
+     "id": "p005.s07",
+     "source": "Quand vous aurez trouvé un cheveu rouge, arrachez-le."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"Sauvez-vous immédiatement avec ce cheveu rouge."
+    },
+    {
+     "id": "p006.s02",
+     "source": "La jeune fille vous poursuivra."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Jetez le mouchoir, le corail et le miroir, l'un après l'autre, et elle s'arrêtera pour les regarder."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Continuez votre route, vous arriverez à la ville, vous vendrez le cheveu à un homme riche pour une grande somme d'argent, et vous serez assez riche pour élever tous vos enfants.\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Le lendemain matin, quand le pauvre homme s'éveilla, il mit la main sous son oreiller."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Il trouva le mouchoir, le corail et le miroir."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Il partit pour la montagne."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Il arriva à la rivière."
+    },
+    {
+     "id": "p007.s05",
+     "source": "Il suivit le cours de la rivière, et il arriva à la source."
+    },
+    {
+     "id": "p007.s06",
+     "source": "Là il vit une belle jeune fille, qui lui dit:"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"D'où venez-vous, brave homme?\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Il ne répondit rien."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Elle répéta la question, mais il ne parla pas."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Il s'assit à côté d'elle sans parler."
+    },
+    {
+     "id": "p009.s04",
+     "source": "Elle plaça sa tête sur les genoux de l'homme."
+    },
+    {
+     "id": "p009.s05",
+     "source": "L'homme chercha avec soin et bientôt il trouva un cheveu rouge."
+    },
+    {
+     "id": "p009.s06",
+     "source": "Il arracha le cheveu rouge et partit en courant."
+    },
+    {
+     "id": "p009.s07",
+     "source": "La jeune fille poursuivit l'homme."
+    },
+    {
+     "id": "p009.s08",
+     "source": "Elle courait plus vite que lui."
+    },
+    {
+     "id": "p009.s09",
+     "source": "Quand il vit qu'elle allait l'atteindre, il jeta le mouchoir."
+    },
+    {
+     "id": "p009.s10",
+     "source": "La jeune fille, qui n'avait jamais vu de mouchoir, s'arrêta pour l'examiner, et l'homme continua à courir."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Quand la jeune fille eut assez examiné le mouchoir, elle continua la poursuite."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Quand l'homme vit qu'elle allait l'atteindre, il jeta le corail."
+    },
+    {
+     "id": "p010.s03",
+     "source": "La jeune fille s'arrêta pour examiner le corail avant de continuer la poursuite."
+    },
+    {
+     "id": "p010.s04",
+     "source": "Quand l'homme vit qu'elle allait l'atteindre, il jeta le miroir."
+    },
+    {
+     "id": "p010.s05",
+     "source": "La jeune fille s'arrêta pour s'admirer, et l'homme arriva chez lui et raconta toutes ses aventures à sa femme."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Le lendemain l'homme alla à la ville."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Il se plaça sur le marché, et commença à crier: \"J'ai un cheveu rouge à vendre."
+    },
+    {
+     "id": "p011.s03",
+     "source": "J'ai un merveilleux cheveu rouge à vendre.\""
+    },
+    {
+     "id": "p011.s04",
+     "source": "Quelques minutes après un homme arriva et dit: \"Je vous donnerai un sou pour votre cheveu rouge."
+    },
+    {
+     "id": "p011.s05",
+     "source": "\"Ce n'est pas assez!\" dit l'homme."
+    },
+    {
+     "id": "p011.s06",
+     "source": "Un autre homme arriva: \"Je vous donnerai le double, deux sous,\" dit-il."
+    },
+    {
+     "id": "p011.s07",
+     "source": "\"Ce n'est pas assez.\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Les autres acheteurs arrivèrent, et ils commencèrent à dire l'un après l'autre: \"Je vous donnerai le triple, trois sous.\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"J'en donnerai quatre.\""
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"J'en donnerai cinq.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Ils continuèrent ainsi et un homme dit enfin: \"Je donnerai vingt sous, un franc.\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Les enchères continuèrent, et la foule augmentait toujours."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Le prix du cheveu rouge augmentait rapidement aussi."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Enfin le roi arriva et dit: \"Je vous donnerai dix mille francs.\""
+    },
+    {
+     "id": "p016.s04",
+     "source": "L'homme accepta cette somme et alla à la maison, où il se trouva assez riche pour élever ses enfants."
+    },
+    {
+     "id": "p016.s05",
+     "source": "Le roi porta le cheveu merveilleux dans son palais, le coupa dans sa longueur et trouva une inscription, qui racontait les choses importantes qui s'étaient passées depuis le commencement du monde, et il ne regretta jamais d'avoir payé dix mille francs ce cheveu merveilleux."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p017"
+  }
+ ]
+}

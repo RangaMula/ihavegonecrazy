@@ -1,0 +1,395 @@
+{
+ "id": "eu-russia-008",
+ "title": {
+  "id": "title",
+  "source": "The Wolf And The Tailor"
+ },
+ "tradition": "Russia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Russian Folk-Tales",
+ "credits": "Afanas'ev, A. N. (Aleksandr Nikolaevich) (author, d. 1871); Magnus, Leonard A. (Leonard Arthur) (translator, d. 1924)",
+ "gutenberg": "Project Gutenberg eBook #62509 — https://www.gutenberg.org/ebooks/62509 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Russia/008 - The Wolf And The Tailor.md",
+ "stats": {
+  "paragraphs": 29,
+  "segments": 50,
+  "words": 685
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "This story is a story of the past—of the days when Christ and the Twelve Apostles still walked on earth."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "One day they were still on their road, going on a long, long road, and a wolf met them and said: “Lord, I am feeling hungry.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Go,” Christ said to him, “and eat a mare.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "So the wolf went to look for a mare."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "And he saw her going up and down, and said: “Mare, the Lord has bidden me eat you!”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "So she answered: “Well, please do not eat me—it is not the proper thing."
+    },
+    {
+     "id": "p007.s02",
+     "source": "But I have a passport on me; only it is driven in very hard.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Well, show it me.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Just come near my hind feet!”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "So the wolf went up, and she kicked him with her hoofs, and knocked out his front teeth, so that the wolf was thrown, at a blow, three sazhéns away, and the mare ran off."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Back the wolf came with a petition, met Christ, and said: “Lord, the mare almost killed me!”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Well, go on and eat the ram.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "So the wolf ran up to the ram—ran up and said: “Ram, I am going to eat you—it is the command of the Lord.”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“Well, come and eat me up if you will."
+    },
+    {
+     "id": "p014.s02",
+     "source": "I will stand 34 on the hill, and will jump up into your mouth all ready.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "So the wolf stood on the hill, and the ram told him to open his mouth."
+    },
+    {
+     "id": "p015.s02",
+     "source": "So the wolf went and stood on the hill and opened his mouth for the food, and the ram ran down and hit him hard with the horns on his forehead— whack !"
+    },
+    {
+     "id": "p015.s03",
+     "source": "The wolf was knocked off his feet, and the ram went away."
+    },
+    {
+     "id": "p015.s04",
+     "source": "And the wolf got up, looked all round, and there was never a sign of the ram."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "So he went up with another complaint."
+    },
+    {
+     "id": "p016.s02",
+     "source": "And he found Christ and said: “Lord, even the ram has deceived me."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Why, it almost knocked me to bits.”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“All right!” said Christ, “go and eat the tailor.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "So the wolf ran up, and he met a tailor on the way."
+    },
+    {
+     "id": "p018.s02",
+     "source": "“Tailor,” he said, “I am going to eat you, by command of the Lord.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“All right."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Let me say good-bye—I should like to greet my kin.”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“No, I cannot let you say good-bye with your kin.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“Well, I cannot help it—it must be so."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Come and eat me up."
+    },
+    {
+     "id": "p021.s03",
+     "source": "Only at least let me take your measurements."
+    },
+    {
+     "id": "p021.s04",
+     "source": "I only want to see whether I shall slip in easily.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“All right!—measure away,” said the wolf."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "So the tailor went back, took hold of the wolf by his tail, twined his tail round in his hand, and began to whip the wolf."
+    },
+    {
+     "id": "p023.s02",
+     "source": "And the wolf struggled and tussled, roared and shrieked, and tore until he tore his tail loose, and he then took to his feet."
+    },
+    {
+     "id": "p023.s03",
+     "source": "So he ran away with all of his might, and he met seven other wolves."
+    },
+    {
+     "id": "p023.s04",
+     "source": "They said: “Why are you, grey wolf, tailless?”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“Oh, the tailor tore it out.”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“Where is the tailor?”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“You see him there, on the road.”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“All right—we will hunt after him.”"
+    },
+    {
+     "id": "p027.s02",
+     "source": "And they started after the tailor."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "When the tailor heard the chase coming after him, 35 and saw that it was a disagreeable business, he scaled up a tree as fast as he could."
+    },
+    {
+     "id": "p028.s02",
+     "source": "So the wolves arrived there and said: “We will stop here, brothers, and wait until the tailor comes down."
+    },
+    {
+     "id": "p028.s03",
+     "source": "Do you, manx-wolf, stop below, and we will each of us climb on the other’s shoulders.”"
+    },
+    {
+     "id": "p028.s04",
+     "source": "So the manx-wolf lay at the bottom, and all the seven wolves went after the others and climbed up."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "When the tailor saw his ill-fate coming so near him, for they were nearer and nearer, he cried out to the top one: “It is nobody’s fault, only the manx-wolf’s!”"
+    },
+    {
+     "id": "p029.s02",
+     "source": "So the manx-wolf was frightened, and jumped out from below and ran off."
+    },
+    {
+     "id": "p029.s03",
+     "source": "All the seven wolves tumbled down and chased after him, caught him up, and tore him to bits."
+    },
+    {
+     "id": "p029.s04",
+     "source": "But the tailor slid down the tree and went back home."
+    }
+   ],
+   "id": "p029"
+  }
+ ]
+}

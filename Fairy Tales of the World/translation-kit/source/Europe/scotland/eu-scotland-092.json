@@ -1,0 +1,134 @@
+{
+ "id": "eu-scotland-092",
+ "title": {
+  "id": "title",
+  "source": "The Four Reformers"
+ },
+ "tradition": "Scotland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fables",
+ "credits": "Stevenson, Robert Louis (author, d. 1894)",
+ "gutenberg": "Project Gutenberg eBook #343 — https://www.gutenberg.org/ebooks/343 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Scotland/092 - The Four Reformers.md",
+ "stats": {
+  "paragraphs": 10,
+  "segments": 13,
+  "words": 126
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Four reformers met under a bramble bush."
+    },
+    {
+     "id": "p001.s02",
+     "source": "They were all agreed the world must be changed."
+    },
+    {
+     "id": "p001.s03",
+     "source": "“We must abolish property,” said one."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“We must abolish marriage,” said the second."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“We must abolish God,” said the third."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“I wish we could abolish work,” said the fourth."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Do not let us get beyond practical politics,” said the first."
+    },
+    {
+     "id": "p005.s02",
+     "source": "“The first thing is to reduce men to a common level.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“The first thing,” said the second, “is to give freedom to the sexes.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“The first thing,” said the third, “is to find out how to do it.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“The first step,” said the first, “is to abolish the Bible.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“The first thing,” said the second, “is to abolish the laws.”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“The first thing,” said the third, “is to abolish mankind.”"
+    }
+   ],
+   "id": "p010"
+  }
+ ]
+}

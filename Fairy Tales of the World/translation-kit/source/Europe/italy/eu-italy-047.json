@@ -1,0 +1,75 @@
+{
+ "id": "eu-italy-047",
+ "title": {
+  "id": "title",
+  "source": "In This World One Weeps And Another Laughs"
+ },
+ "tradition": "Italy",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Italian Popular Tales",
+ "credits": "Crane, Thomas Frederick (author, d. 1927)",
+ "gutenberg": "Project Gutenberg eBook #23634 — https://www.gutenberg.org/ebooks/23634 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Italy/047 - In This World One Weeps And Another Laughs.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 9,
+  "words": 143
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once the Lord, while he was making the world, called one of the apostles and told him to look and see what the people were doing."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The apostle looked and said: \"How curious! the people are weeping.\""
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Lord answered: \"It is not the world yet!\""
+    },
+    {
+     "id": "p001.s04",
+     "source": "The next day he bade the apostle look again and see what the people were doing."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The apostle looked and saw the people laughing, and said: \"The people are laughing.\""
+    },
+    {
+     "id": "p001.s06",
+     "source": "The Lord answered: \"It is not the world yet.\""
+    },
+    {
+     "id": "p001.s07",
+     "source": "The third day he made him look again, and the apostle saw that some were weeping, and some were laughing, and said: \"Some of the people are weeping, and some are laughing.\""
+    },
+    {
+     "id": "p001.s08",
+     "source": "The Lord said: \"Now it is the world, because in this world one weeps and another laughs.\""
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The next legend accounts for the ass' long ears."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

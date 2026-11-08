@@ -1,0 +1,50 @@
+{
+ "id": "as-georgia-038",
+ "title": {
+  "id": "title",
+  "source": "A Witty Answer"
+ },
+ "tradition": "Georgia",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Georgian Folk Tales",
+ "credits": "Wardrop, Marjory Scott (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #44536 — https://www.gutenberg.org/ebooks/44536 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Georgia/038 - A Witty Answer.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 4,
+  "words": 150
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A certain king was angry with one of his lords, and put him in prison; wishing to keep him there, he said he would only set him free if he could bring to the court a horse which was neither grey, nor black, brown nor bay, white nor roan, dun, chestnut, nor piebald—and, in short, the king enumerated every possible colour that a horse could be."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The imprisoned lord promised to get such a horse if the king would set him free at once."
+    },
+    {
+     "id": "p001.s03",
+     "source": "As soon as he was at liberty, the lord asked the king to send a groom for the horse, but begged that the groom might come neither on Monday nor Tuesday, Wednesday nor Thursday, Friday, Saturday, nor Sunday, but on any other day of the week that suited His Majesty."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Printed by T. and A. Constable , Printers to Her Majesty at the Edinburgh University Press"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

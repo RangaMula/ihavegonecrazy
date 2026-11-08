@@ -1,0 +1,57 @@
+{
+ "id": "eu-romania-049",
+ "title": {
+  "id": "title",
+  "source": "Hornet Charm"
+ },
+ "tradition": "Romania",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Rumanian Bird and Beast Stories Rendered into English",
+ "credits": "Gaster, Moses (translator, d. 1939)",
+ "gutenberg": "Project Gutenberg eBook #43059 — https://www.gutenberg.org/ebooks/43059 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Romania/049 - Hornet Charm.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 3,
+  "words": 96
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The hornet is used for the following charm:"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "If people wish a dog to become savage, they take some hornets, and mixing them with the food, give it to the puppies to eat, and say the following words: “Just as the hornet is burning and unbearable, so shalt thou become hot and savage and intolerable, and thou shalt not tolerate any one else besides me and those of this household....”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The hornet’s nest in the stubble indicates the strength of the winter and the depth of the snow, according as it is built high or low."
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

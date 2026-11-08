@@ -1,0 +1,40 @@
+{
+ "id": "eu-serbia-031",
+ "title": {
+  "id": "title",
+  "source": "The Sun God"
+ },
+ "tradition": "Serbia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Hero Tales and Legends of the Serbians",
+ "credits": "Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)",
+ "gutenberg": "Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Serbia/031 - The Sun God.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 100
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Other phenomena of Nature were also personified and venerated as gods."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The Sun god, ‘Daybog’ (in Russian ‘Daszbog,’ meaning literally ‘Give, O God!’), whose idols are found in the group of idols in Kief, and whose name reappears as a proper name of persons in Russia, Moldavia and Poland, is to the Serbians the personification of sunshine, life, prosperity and, indeed, of everything good."
+    },
+    {
+     "id": "p001.s03",
+     "source": "But there have been found no remains of idols representing the god ‘Daybog’ among the Southern-Slavonic nations, as with the Russians, who made figures of him in wood, with head of silver and moustache of gold."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

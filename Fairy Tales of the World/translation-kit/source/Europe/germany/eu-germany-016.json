@@ -1,0 +1,352 @@
+{
+ "id": "eu-germany-016",
+ "title": {
+  "id": "title",
+  "source": "Rapunzel"
+ },
+ "tradition": "Germany",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Grimms' Fairy Tales",
+ "credits": "Grimm, Jacob (author, d. 1863); Grimm, Wilhelm (author, d. 1859)",
+ "gutenberg": "Project Gutenberg eBook #2591 — https://www.gutenberg.org/ebooks/2591 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Germany/016 - Rapunzel.md",
+ "stats": {
+  "paragraphs": 13,
+  "segments": 63,
+  "words": 1401
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There were once a man and a woman who had long in vain wished for a child."
+    },
+    {
+     "id": "p001.s02",
+     "source": "At length the woman hoped that God was about to grant her desire."
+    },
+    {
+     "id": "p001.s03",
+     "source": "These people had a little window at the back of their house from which a splendid garden could be seen, which was full of the most beautiful flowers and herbs."
+    },
+    {
+     "id": "p001.s04",
+     "source": "It was, however, surrounded by a high wall, and no one dared to go into it because it belonged to an enchantress, who had great power and was dreaded by all the world."
+    },
+    {
+     "id": "p001.s05",
+     "source": "One day the woman was standing by this window and looking down into the garden, when she saw a bed which was planted with the most beautiful rampion (rapunzel), and it looked so fresh and green that she longed for it, she quite pined away, and began to look pale and miserable."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Then her husband was alarmed, and asked: ‘What ails you, dear wife?’"
+    },
+    {
+     "id": "p001.s07",
+     "source": "‘Ah,’ she replied, ‘if I can’t eat some of the rampion, which is in the garden behind our house, I shall die.’"
+    },
+    {
+     "id": "p001.s08",
+     "source": "The man, who loved her, thought: ‘Sooner than let your wife die, bring her some of the rampion yourself, let it cost what it will.’"
+    },
+    {
+     "id": "p001.s09",
+     "source": "At twilight, he clambered down over the wall into the garden of the enchantress, hastily clutched a handful of rampion, and took it to his wife."
+    },
+    {
+     "id": "p001.s10",
+     "source": "She at once made herself a salad of it, and ate it greedily."
+    },
+    {
+     "id": "p001.s11",
+     "source": "It tasted so good to her—so very good, that the next day she longed for it three times as much as before."
+    },
+    {
+     "id": "p001.s12",
+     "source": "If he was to have any rest, her husband must once more descend into the garden."
+    },
+    {
+     "id": "p001.s13",
+     "source": "In the gloom of evening therefore, he let himself down again; but when he had clambered down the wall he was terribly afraid, for he saw the enchantress standing before him."
+    },
+    {
+     "id": "p001.s14",
+     "source": "‘How can you dare,’ said she with angry look, ‘descend into my garden and steal my rampion like a thief?"
+    },
+    {
+     "id": "p001.s15",
+     "source": "You shall suffer for it!’"
+    },
+    {
+     "id": "p001.s16",
+     "source": "‘Ah,’ answered he, ‘let mercy take the place of justice, I only made up my mind to do it out of necessity."
+    },
+    {
+     "id": "p001.s17",
+     "source": "My wife saw your rampion from the window, and felt such a longing for it that she would have died if she had not got some to eat.’"
+    },
+    {
+     "id": "p001.s18",
+     "source": "Then the enchantress allowed her anger to be softened, and said to him: ‘If the case be as you say, I will allow you to take away with you as much rampion as you will, only I make one condition, you must give me the child which your wife will bring into the world; it shall be well treated, and I will care for it like a mother.’"
+    },
+    {
+     "id": "p001.s19",
+     "source": "The man in his terror consented to everything, and when the woman was brought to bed, the enchantress appeared at once, gave the child the name of Rapunzel, and took it away with her."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Rapunzel grew into the most beautiful child under the sun."
+    },
+    {
+     "id": "p002.s02",
+     "source": "When she was twelve years old, the enchantress shut her into a tower, which lay in a forest, and had neither stairs nor door, but quite at the top was a little window."
+    },
+    {
+     "id": "p002.s03",
+     "source": "When the enchantress wanted to go in, she placed herself beneath it and cried:"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "‘Rapunzel, Rapunzel,"
+    },
+    {
+     "id": "p003.s02",
+     "source": "Let down your hair to me.’"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Rapunzel had magnificent long hair, fine as spun gold, and when she heard the voice of the enchantress she unfastened her braided tresses, wound them round one of the hooks of the window above, and then the hair fell twenty ells down, and the enchantress climbed up by it."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "After a year or two, it came to pass that the king’s son rode through the forest and passed by the tower."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Then he heard a song, which was so charming that he stood still and listened."
+    },
+    {
+     "id": "p005.s03",
+     "source": "This was Rapunzel, who in her solitude passed her time in letting her sweet voice resound."
+    },
+    {
+     "id": "p005.s04",
+     "source": "The king’s son wanted to climb up to her, and looked for the door of the tower, but none was to be found."
+    },
+    {
+     "id": "p005.s05",
+     "source": "He rode home, but the singing had so deeply touched his heart, that every day he went out into the forest and listened to it."
+    },
+    {
+     "id": "p005.s06",
+     "source": "Once when he was thus standing behind a tree, he saw that an enchantress came there, and he heard how she cried:"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "‘Rapunzel, Rapunzel,"
+    },
+    {
+     "id": "p006.s02",
+     "source": "Let down your hair to me.’"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Then Rapunzel let down the braids of her hair, and the enchantress climbed up to her."
+    },
+    {
+     "id": "p007.s02",
+     "source": "‘If that is the ladder by which one mounts, I too will try my fortune,’ said he, and the next day when it began to grow dark, he went to the tower and cried:"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "‘Rapunzel, Rapunzel,"
+    },
+    {
+     "id": "p008.s02",
+     "source": "Let down your hair to me.’"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Immediately the hair fell down and the king’s son climbed up."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "At first Rapunzel was terribly frightened when a man, such as her eyes had never yet beheld, came to her; but the king’s son began to talk to her quite like a friend, and told her that his heart had been so stirred that it had let him have no rest, and he had been forced to see her."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Then Rapunzel lost her fear, and when he asked her if she would take him for her husband, and she saw that he was young and handsome, she thought: ‘He will love me more than old Dame Gothel does’; and she said yes, and laid her hand in his."
+    },
+    {
+     "id": "p010.s03",
+     "source": "She said: ‘I will willingly go away with you, but I do not know how to get down."
+    },
+    {
+     "id": "p010.s04",
+     "source": "Bring with you a skein of silk every time that you come, and I will weave a ladder with it, and when that is ready I will descend, and you will take me on your horse.’"
+    },
+    {
+     "id": "p010.s05",
+     "source": "They agreed that until that time he should come to her every evening, for the old woman came by day."
+    },
+    {
+     "id": "p010.s06",
+     "source": "The enchantress remarked nothing of this, until once Rapunzel said to her: ‘Tell me, Dame Gothel, how it happens that you are so much heavier for me to draw up than the young king’s son—he is with me in a moment.’"
+    },
+    {
+     "id": "p010.s07",
+     "source": "‘Ah! you wicked child,’ cried the enchantress."
+    },
+    {
+     "id": "p010.s08",
+     "source": "‘What do I hear you say!"
+    },
+    {
+     "id": "p010.s09",
+     "source": "I thought I had separated you from all the world, and yet you have deceived me!’"
+    },
+    {
+     "id": "p010.s10",
+     "source": "In her anger she clutched Rapunzel’s beautiful tresses, wrapped them twice round her left hand, seized a pair of scissors with the right, and snip, snap, they were cut off, and the lovely braids lay on the ground."
+    },
+    {
+     "id": "p010.s11",
+     "source": "And she was so pitiless that she took poor Rapunzel into a desert where she had to live in great grief and misery."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "On the same day that she cast out Rapunzel, however, the enchantress fastened the braids of hair, which she had cut off, to the hook of the window, and when the king’s son came and cried:"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "‘Rapunzel, Rapunzel,"
+    },
+    {
+     "id": "p012.s02",
+     "source": "Let down your hair to me.’"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "she let the hair down."
+    },
+    {
+     "id": "p013.s02",
+     "source": "The king’s son ascended, but instead of finding his dearest Rapunzel, he found the enchantress, who gazed at him with wicked and venomous looks."
+    },
+    {
+     "id": "p013.s03",
+     "source": "‘Aha!’ she cried mockingly, ‘you would fetch your dearest, but the beautiful bird sits no longer singing in the nest; the cat has got it, and will scratch out your eyes as well."
+    },
+    {
+     "id": "p013.s04",
+     "source": "Rapunzel is lost to you; you will never see her again.’"
+    },
+    {
+     "id": "p013.s05",
+     "source": "The king’s son was beside himself with pain, and in his despair he leapt down from the tower."
+    },
+    {
+     "id": "p013.s06",
+     "source": "He escaped with his life, but the thorns into which he fell pierced his eyes."
+    },
+    {
+     "id": "p013.s07",
+     "source": "Then he wandered quite blind about the forest, ate nothing but roots and berries, and did naught but lament and weep over the loss of his dearest wife."
+    },
+    {
+     "id": "p013.s08",
+     "source": "Thus he roamed about in misery for some years, and at length came to the desert where Rapunzel, with the twins to which she had given birth, a boy and a girl, lived in wretchedness."
+    },
+    {
+     "id": "p013.s09",
+     "source": "He heard a voice, and it seemed so familiar to him that he went towards it, and when he approached, Rapunzel knew him and fell on his neck and wept."
+    },
+    {
+     "id": "p013.s10",
+     "source": "Two of her tears wetted his eyes and they grew clear again, and he could see with them as before."
+    },
+    {
+     "id": "p013.s11",
+     "source": "He led her to his kingdom where he was joyfully received, and they lived for a long time afterwards, happy and contented."
+    }
+   ],
+   "id": "p013"
+  }
+ ]
+}

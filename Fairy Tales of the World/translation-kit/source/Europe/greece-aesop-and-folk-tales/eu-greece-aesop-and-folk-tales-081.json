@@ -1,0 +1,40 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-081",
+ "title": {
+  "id": "title",
+  "source": "The Heifer and the Ox"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/081 - The Heifer and the Ox.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 92
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A HEIFER saw an Ox hard at work harnessed to a plow, and tormented him with reflections on his unhappy fate in being compelled to labor."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Shortly afterwards, at the harvest festival, the owner released the Ox from his yoke, but bound the Heifer with cords and led him away to the altar to be slain in honor of the occasion."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Ox saw what was being done, and said with a smile to the Heifer: “For this you were allowed to live in idleness, because you were presently to be sacrificed.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

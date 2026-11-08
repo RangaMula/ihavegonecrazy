@@ -1,0 +1,91 @@
+{
+ "id": "as-korea-009",
+ "title": {
+  "id": "title",
+  "source": "Biographical"
+ },
+ "tradition": "Korea",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Korean Folk Tales",
+ "credits": "Yi, Yuk (author, d. 1498); Im, Pang (author, d. 1724); Gale, James Scarth (translator, d. 1937)",
+ "gutenberg": "Project Gutenberg eBook #51002 — https://www.gutenberg.org/ebooks/51002 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Korea/009 - Biographical.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 10,
+  "words": 169
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Im Bang was born in 1640, the son of a provincial governor."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He was very bright as a boy and from earliest years fond of study, becoming a great scholar."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He matriculated first in his class in 1660, and graduated in 1663."
+    },
+    {
+     "id": "p001.s04",
+     "source": "He was a disciple of Song Si-yol, one of Korea’s first writers."
+    },
+    {
+     "id": "p001.s05",
+     "source": "In 1719, when he was in his eightieth year, he became governor of Seoul, and held as well the office of secretary of the Cabinet."
+    },
+    {
+     "id": "p001.s06",
+     "source": "In the year 1721 he got into difficulties over the choice of the Heir Apparent, and in 1722, on account of a part he played in a disturbance in the government, he was exiled to North Korea, where he died."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "(From Kuk-cho In-mul-chi , “Korea’s Record of Famous Men.”)"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Yi Ryuk lived in the reign of King Se-jo, matriculated in 1459, and graduated first in his class in 1564."
+    },
+    {
+     "id": "p004.s02",
+     "source": "He was a man of many offices and many distinctions in the way of literary excellence."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Korea’s Record of Famous Men.”"
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

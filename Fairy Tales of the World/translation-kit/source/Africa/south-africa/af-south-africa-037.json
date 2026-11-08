@@ -1,0 +1,69 @@
+{
+ "id": "af-south-africa-037",
+ "title": {
+  "id": "title",
+  "source": "The Origin Of Death"
+ },
+ "tradition": "South Africa",
+ "continent": "Africa",
+ "source_lang": "en",
+ "source_book": "South-African Folk-Tales",
+ "credits": "Honey, James A. (author)",
+ "gutenberg": "Project Gutenberg eBook #38339 — https://www.gutenberg.org/ebooks/38339 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Africa/South Africa/037 - The Origin Of Death.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 9,
+  "words": 201
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The Moon, it is said, sent once an Insect to Men, saying, \"Go thou to Men, and tell them, 'As I die, and dying live, so ye shall also die, and dying live.'\""
+    },
+    {
+     "id": "p001.s02",
+     "source": "The Insect started with the message, but whilst on his way was overtaken by the Hare, who asked: \"On what errand art thou bound?\""
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Insect answered: \"I am sent by the Moon to Men, to tell them that as she dies, and dying lives, they also shall die, and dying live.\""
+    },
+    {
+     "id": "p001.s04",
+     "source": "The Hare said, \"As thou art an awkward runner, let me go\" (to take the message)."
+    },
+    {
+     "id": "p001.s05",
+     "source": "With these words he ran off, and when he reached Men, he said, \"I am sent by the Moon to tell you, 'As I die, and dying perish, in the same manner ye shall also die and come wholly to an end.'\""
+    },
+    {
+     "id": "p001.s06",
+     "source": "Then the Hare returned to the Moon, and told her what he had said to Men."
+    },
+    {
+     "id": "p001.s07",
+     "source": "The Moon reproached him angrily, saying, \"Darest thou tell the people a thing which I have not said?\""
+    },
+    {
+     "id": "p001.s08",
+     "source": "With these words she took up a piece of wood, and struck him on the nose."
+    },
+    {
+     "id": "p001.s09",
+     "source": "Since that day the Hare's nose is slit."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p002"
+  }
+ ]
+}

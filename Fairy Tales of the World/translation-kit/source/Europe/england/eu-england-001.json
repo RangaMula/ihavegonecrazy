@@ -1,0 +1,991 @@
+{
+ "id": "eu-england-001",
+ "title": {
+  "id": "title",
+  "source": "Tom Tit Tot"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #7439 — https://www.gutenberg.org/ebooks/7439 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/001 - Tom Tit Tot.md",
+ "stats": {
+  "paragraphs": 81,
+  "segments": 121,
+  "words": 1699
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once upon a time there was a woman, and she baked five pies."
+    },
+    {
+     "id": "p001.s02",
+     "source": "And when they came out of the oven, they were that overbaked the crusts were too hard to eat."
+    },
+    {
+     "id": "p001.s03",
+     "source": "So she says to her daughter:"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“Darter,” says she, “put you them there pies on the shelf, and leave 'em there a little, and they'll come again.”—She meant, you know, the crust would get soft."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "But the girl, she says to herself: “Well, if they'll come again, I'll eat 'em now.”"
+    },
+    {
+     "id": "p003.s02",
+     "source": "And she set to work and ate 'em all, first and last."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Well, come supper-time the woman said: “Go you, and get one o' them there pies."
+    },
+    {
+     "id": "p004.s02",
+     "source": "I dare say they've come again now.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The girl went and she looked, and there was nothing but the dishes."
+    },
+    {
+     "id": "p005.s02",
+     "source": "So back she came and says she: “Noo, they ain't come again.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Not one of 'em?” says the mother."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Not one of 'em,” says she."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Well, come again, or not come again,” said the woman “I'll have one for supper.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“But you can't, if they ain't come,” said the girl."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“But I can,” says she."
+    },
+    {
+     "id": "p010.s02",
+     "source": "“Go you, and bring the best of 'em.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Best or worst,” says the girl, “I've ate 'em all, and you can't have one till that's come again.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Well, the woman she was done, and she took her spinning to the door to spin, and as she span she sang:"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“My darter ha' ate five, five pies to-day."
+    },
+    {
+     "id": "p013.s02",
+     "source": "My darter ha' ate five, five pies to-day.”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "The king was coming down the street, and he heard her sing, but what she sang he couldn't hear, so he stopped and said:"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“What was that you were singing, my good woman?”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "The woman was ashamed to let him hear what her daughter had been doing, so she sang, instead of that:"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“My darter ha' spun five, five skeins to-day."
+    },
+    {
+     "id": "p017.s02",
+     "source": "My darter ha' spun five, five skeins to-day.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“Stars o' mine!” said the king, “I never heard tell of any one that could do that.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Then he said: “Look you here, I want a wife, and I'll marry your daughter."
+    },
+    {
+     "id": "p019.s02",
+     "source": "But look you here,” says he, “eleven months out of the year she shall have all she likes to eat, and all the gowns she likes to get, and all the company she likes to keep; but the last month of the year she'll have to spin five skeins every day, and if she don't I shall kill her.”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“All right,” says the woman; for she thought what a grand marriage that was."
+    },
+    {
+     "id": "p020.s02",
+     "source": "And as for the five skeins, when the time came, there'd be plenty of ways of getting out of it, and likeliest, he'd have forgotten all about it."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Well, so they were married."
+    },
+    {
+     "id": "p021.s02",
+     "source": "And for eleven months the girl had all she liked to eat, and all the gowns she liked to get, and all the company she liked to keep."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "But when the time was getting over, she began to think about the skeins and to wonder if he had 'em in mind."
+    },
+    {
+     "id": "p022.s02",
+     "source": "But not one word did he say about 'em, and she thought he'd wholly forgotten 'em."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "However, the last day of the last month he takes her to a room she'd never set eyes on before."
+    },
+    {
+     "id": "p023.s02",
+     "source": "There was nothing in it but a spinning-wheel and a stool."
+    },
+    {
+     "id": "p023.s03",
+     "source": "And says he: “Now, my dear, here you'll be shut in to-morrow with some victuals and some flax, and if you haven't spun five skeins by the night, your head'll go off.”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "And away he went about his business."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Well, she was that frightened, she'd always been such a gatless girl, that she didn't so much as know how to spin, and what was she to do to-morrow with no one to come nigh her to help her?"
+    },
+    {
+     "id": "p025.s02",
+     "source": "She sat down on a stool in the kitchen, and law! how she did cry!"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "However, all of a sudden she heard a sort of a knocking low down on the door."
+    },
+    {
+     "id": "p026.s02",
+     "source": "She upped and oped it, and what should she see but a small little black thing with a long tail."
+    },
+    {
+     "id": "p026.s03",
+     "source": "That looked up at her right curious, and that said:"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“What are you a-crying for?”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“What's that to you?” says she."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“Never you mind,” that said, “but tell me what you're a-crying for.”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“That won't do me no good if I do,” says she."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“You don't know that,” that said, and twirled that's tail round."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“Well,” says she, “that won't do no harm, if that don't do no good,” and she upped and told about the pies, and the skeins, and everything."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“This is what I'll do,” says the little black thing, “I'll come to your window every morning and take the flax and bring it spun at night.”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“What's your pay?” says she."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "That looked out of the corner of that's eyes, and that said: “I'll give you three guesses every night to guess my name, and if you haven't guessed it before the month's up you shall be mine.”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Well, she thought she'd be sure to guess that's name before the month was up."
+    },
+    {
+     "id": "p036.s02",
+     "source": "“All right,” says she, “I agree.”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "“All right,” that says, and law! how that twirled that's tail."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Well, the next day, her husband took her into the room, and there was the flax and the day's food."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“Now there's the flax,” says he, “and if that ain't spun up this night, off goes your head.”"
+    },
+    {
+     "id": "p039.s02",
+     "source": "And then he went out and locked the door."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "He'd hardly gone, when there was a knocking against the window."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "She upped and she oped it, and there sure enough was the little old thing sitting on the ledge."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“Where's the flax?” says he."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“Here it be,” says she."
+    },
+    {
+     "id": "p043.s02",
+     "source": "And she gave it to him."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "Well, come the evening a knocking came again to the window."
+    },
+    {
+     "id": "p044.s02",
+     "source": "She upped and she oped it, and there was the little old thing with five skeins of flax on his arm."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“Here it be,” says he, and he gave it to her."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "“Now, what's my name?” says he."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“What, is that Bill?” says she."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "“Noo, that ain't,” says he, and he twirled his tail."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "“Is that Ned?” says she."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "“Noo, that ain't,” says he, and he twirled his tail."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "“Well, is that Mark?” says she."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "“Noo, that ain't,” says he, and he twirled his tail harder, and away he flew."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "Well, when her husband came in, there were the five skeins ready for him."
+    },
+    {
+     "id": "p053.s02",
+     "source": "“I see I shan't have to kill you to-night, my dear,” says he; “you'll have your food and your flax in the morning,” says he, and away he goes."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "Well, every day the flax and the food were brought, and every day that there little black impet used to come mornings and evenings."
+    },
+    {
+     "id": "p054.s02",
+     "source": "And all the day the girl sat trying to think of names to say to it when it came at night."
+    },
+    {
+     "id": "p054.s03",
+     "source": "But she never hit on the right one."
+    },
+    {
+     "id": "p054.s04",
+     "source": "And as it got towards the end of the month, the impet began to look so maliceful, and that twirled that's tail faster and faster each time she gave a guess."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "At last it came to the last day but one."
+    },
+    {
+     "id": "p055.s02",
+     "source": "The impet came at night along with the five skeins, and that said,"
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "“What, ain't you got my name yet?”"
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "“Is that Nicodemus?” says she."
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "“Noo, t'ain't,” that says."
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "“Is that Sammle?” says she."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "“Noo, t'ain't,” that says."
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "“A-well, is that Methusalem?” says she."
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "“Noo, t'ain't that neither,” that says."
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "Then that looks at her with that's eyes like a coal o' fire, and that says: “Woman, there's only to-morrow night, and then you'll be mine!”"
+    },
+    {
+     "id": "p063.s02",
+     "source": "And away it flew."
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "Well, she felt that horrid."
+    },
+    {
+     "id": "p064.s02",
+     "source": "However, she heard the king coming along the passage."
+    },
+    {
+     "id": "p064.s03",
+     "source": "In he came, and when he sees the five skeins, he says, says he,"
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "“Well, my dear,” says he, “I don't see but what you'll have your skeins ready to-morrow night as well, and as I reckon I shan't have to kill you, I'll have supper in here to-night.”"
+    },
+    {
+     "id": "p065.s02",
+     "source": "So they brought supper, and another stool for him, and down the two sat."
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "Well, he hadn't eaten but a mouthful or so, when he stops and begins to laugh."
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "“What is it?” says she."
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "“A-why,” says he, “I was out a-hunting to-day, and I got away to a place in the wood I'd never seen before And there was an old chalk-pit."
+    },
+    {
+     "id": "p068.s02",
+     "source": "And I heard a kind of a sort of a humming."
+    },
+    {
+     "id": "p068.s03",
+     "source": "So I got off my hobby, and I went right quiet to the pit, and I looked down."
+    },
+    {
+     "id": "p068.s04",
+     "source": "Well, what should there be but the funniest little black thing you ever set eyes on."
+    },
+    {
+     "id": "p068.s05",
+     "source": "And what was that doing, but that had a little spinning-wheel, and that was spinning wonderful fast, and twirling that's tail."
+    },
+    {
+     "id": "p068.s06",
+     "source": "And as that span that sang:"
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "“Nimmy nimmy not"
+    },
+    {
+     "id": "p069.s02",
+     "source": "My name's Tom Tit Tot.”"
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "Well, when the girl heard this, she felt as if she could have jumped out of her skin for joy, but she didn't say a word."
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "Next day that there little thing looked so maliceful when he came for the flax."
+    },
+    {
+     "id": "p071.s02",
+     "source": "And when night came, she heard that knocking against the window panes."
+    },
+    {
+     "id": "p071.s03",
+     "source": "She oped the window, and that come right in on the ledge."
+    },
+    {
+     "id": "p071.s04",
+     "source": "That was grinning from ear to ear, and Oo! that's tail was twirling round so fast."
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "“What's my name?” that says, as that gave her the skeins."
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "“Is that Solomon?” she says, pretending to be afeard."
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "“Noo, t'ain't,” that says, and that came further into the room."
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "“Well, is that Zebedee?” says she again."
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "“Noo, t'ain't,” says the impet."
+    },
+    {
+     "id": "p076.s02",
+     "source": "And then that laughed and twirled that's tail till you couldn't hardly see it."
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "“Take time, woman,” that says; “next guess, and you're mine.”"
+    },
+    {
+     "id": "p077.s02",
+     "source": "And that stretched out that's black hands at her."
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "Well, she backed a step or two, and she looked at it, and then she laughed out, and says she, pointing her finger at it:"
+    }
+   ],
+   "id": "p078"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p079.s01",
+     "source": "“NIMMY NIMMY NOT, YOUR NAME'S TOM TIT TOT!”"
+    }
+   ],
+   "id": "p079"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p080.s01",
+     "source": "Well, when that heard her, that gave an awful shriek and away that flew into the dark, and she never saw it any more."
+    }
+   ],
+   "id": "p080"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p081"
+  }
+ ]
+}

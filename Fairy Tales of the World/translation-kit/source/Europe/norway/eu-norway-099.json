@@ -1,0 +1,625 @@
+{
+ "id": "eu-norway-099",
+ "title": {
+  "id": "title",
+  "source": "Per Gynt"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "The Norwegian Fairy Book",
+ "credits": "Stroebe, Klara (author); Martens, Frederick Herman (translator, d. 1932)",
+ "gutenberg": "Project Gutenberg eBook #38070 — https://www.gutenberg.org/ebooks/38070 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Norway/099 - Per Gynt.md",
+ "stats": {
+  "paragraphs": 36,
+  "segments": 97,
+  "words": 1921
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In the old days there lived in Kvam a marksman by the name of Per Gynt."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He was continually in the mountains, where he shot bear and elk, for at that time there were more forests on the Fjäll, and all sorts of beasts dwelt in them."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Once, late in the fall, when the cattle had long since been driven down from the mountain pastures, Per Gynt decided to go up on the Fjäll again."
+    },
+    {
+     "id": "p001.s04",
+     "source": "With the exception of three dairy-maids, all the herd-folk had already left the mountains."
+    },
+    {
+     "id": "p001.s05",
+     "source": "But when Per Gynt reached Hövringalm, where he intended to stay over-night in a herdsman’s hut, it already was so dark that he could not see his hand before his eyes."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Then the dogs began to bark so violently that he felt quite uneasy."
+    },
+    {
+     "id": "p001.s07",
+     "source": "And suddenly his foot struck something, and when he took hold of it, it was cold, and large and slippery."
+    },
+    {
+     "id": "p001.s08",
+     "source": "Since he felt certain he had not left the path, he could not imagine what it might be; but he sensed that all was not in order."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“And who are you?” asked Per Gynt, for he noticed that it moved."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“O, I am the crooked one,” was the answer."
+    },
+    {
+     "id": "p003.s02",
+     "source": "And now Per Gynt knew as much as he had before."
+    },
+    {
+     "id": "p003.s03",
+     "source": "So he went along its length, “for sooner or later I will come to the end of it,” thought he."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "As he went along he again struck against something, and when he felt it, it was again something cold, and large and slippery."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“And who are you?” asked Per Gynt."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“I am the crooked one,” was again the answer."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Well, whether you be crooked or straight, you will have to let me pass,” said Per Gynt; for he noticed that he was going around in a circle, and that the crooked one had coiled himself about the herdsman’s cottage."
+    },
+    {
+     "id": "p007.s02",
+     "source": "At these words the crooked one moved a little to one side, so that Per Gynt could get into the cottage."
+    },
+    {
+     "id": "p007.s03",
+     "source": "When he entered he found it as dark inside as it was out; and he stumbled and felt his way along the walls; for he wanted to lay aside his firelock and his hunting-bag."
+    },
+    {
+     "id": "p007.s04",
+     "source": "But while he was feeling his way about, he once more noticed the something large, and cold and slippery."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“And who are you now?” cried Per Gynt."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“O, I am the big crooked one,” was the answer."
+    },
+    {
+     "id": "p009.s02",
+     "source": "And no matter where he took hold or where he set his foot, he could feel the coils of the crooked one laid around him."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“This is a poor place to be in,” thought Per Gynt, “for this crooked one is outside and inside; but I will soon put what is wrong to rights.”"
+    },
+    {
+     "id": "p010.s02",
+     "source": "He took his firelock, went out again, and felt his way along the crooked one until he came to his head."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“And who are you really and truly?” he asked."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“O, I am the big crooked one of Etnedal,” said the monster troll."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Then Per Gynt did not waste any time, but shot three bullets right through the middle of his head."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Shoot again!” cried the crooked one."
+    },
+    {
+     "id": "p013.s02",
+     "source": "But Per Gynt knew better, for had he shot another time, the bullet would have rebounded and hit him."
+    },
+    {
+     "id": "p013.s03",
+     "source": "When this had been done, Per Gynt and his dogs took hold of the great troll, and dragged him out of the hut, so that they might make themselves comfortable there."
+    },
+    {
+     "id": "p013.s04",
+     "source": "And meanwhile the hills about rang with laughter and jeers."
+    },
+    {
+     "id": "p013.s05",
+     "source": "“Per Gynt pulled hard, but the dogs pulled harder!” rang in his ears."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "In the morning Per Gynt went out hunting."
+    },
+    {
+     "id": "p014.s02",
+     "source": "When he had made his way far into the Fjäll, he saw a girl driving sheep and goats across a mountain-top."
+    },
+    {
+     "id": "p014.s03",
+     "source": "But when he reached the top of the mountain, the girl had vanished, as well as her flock, and all he saw was a great pack of bears."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“Never yet have I seen bears run together in packs,” thought Per Gynt."
+    },
+    {
+     "id": "p015.s02",
+     "source": "But when he came nearer, they all disappeared save one alone."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Then a voice called from a nearby hill:"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“O, then it is the worse for Per Gynt; but not for my boar, because Per Gynt did not wash to-day,” sounded back from the hill."
+    },
+    {
+     "id": "p016.s02",
+     "source": "But Per Gynt spat on his hands, and washed them thus, and then shot the bear."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "The hills rang with echoing laughter:"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“You should have guarded your boar better,” called one voice."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“I did not think he carried the wash-bowl in his mouth,” answered the other."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Per Gynt skinned the bear, and buried his body among the bowlders; but the head and skin he took with him."
+    },
+    {
+     "id": "p020.s02",
+     "source": "On the way back he met a mountain fox."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“See, my little lamb, how fat you are!” rang out from one hill."
+    },
+    {
+     "id": "p021.s02",
+     "source": "“Just see how high Per Gynt carries his firelock!” sounded from another, as Per Gynt shouldered his firelock and shot the fox."
+    },
+    {
+     "id": "p021.s03",
+     "source": "Him he also skinned, and took the skin with him, and when he reached the herdsman’s hut, he nailed the heads, with jaws wide open, against the outer wall."
+    },
+    {
+     "id": "p021.s04",
+     "source": "Then he made a fire and hung a soup kettle over it; but it smoked so terribly he could hardly keep his eyes open, and therefore had to make a loop-hole."
+    },
+    {
+     "id": "p021.s05",
+     "source": "Suddenly up came a troll, and thrust his nose through the loop-hole; but his nose was so long that it reached the fireplace."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“Here is my smeller, so take a good look!” said he."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“Here is a taste of the soup that I cook!” said Per Gynt, and he poured the whole kettleful of soup over his nose."
+    },
+    {
+     "id": "p023.s02",
+     "source": "The troll rushed off lamenting loudly; but from all the heights around came laughter and derision and calls of:"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“Gyri Soupsmeller, Gyri Soupsmeller!”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Thereupon all was quiet for a time; yet before very long the noise and tumult outside began again."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Per Gynt looked out, and saw a wagon drawn by bears, the great troll was loaded upon it, and off they went with him up the Fjäll."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Suddenly a pail of water was poured down through the chimney, smothering the fire, and Per Gynt sat in the dark."
+    },
+    {
+     "id": "p025.s04",
+     "source": "Then laughter and jibes came from every corner, and one voice said: “Now Per Gynt will be no better off than the dairy-maids in the hut at Val!”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Per Gynt once more lit the fire, called his dogs, locked the herdsman’s hut, and went on North, toward the hut at Val, in which there were three dairy-maids."
+    },
+    {
+     "id": "p026.s02",
+     "source": "After he had covered some distance he saw a fire, as though the whole hut were ablaze, and at the same moment he came across a whole pack of wolves, of whom he shot some and clubbed the others to death."
+    },
+    {
+     "id": "p026.s03",
+     "source": "When he reached the hut at Val, he found it pitch dark there, and there was no fire to be seen, far or near."
+    },
+    {
+     "id": "p026.s04",
+     "source": "But there were four strangers in the hut, who were frightening the dairy-maids."
+    },
+    {
+     "id": "p026.s05",
+     "source": "They were four mountain trolls, and their names were: Gust i Väre, Tron Valfjeldet, Kjöstöl Aabakken, and Rolf Eldförkungen."
+    },
+    {
+     "id": "p026.s06",
+     "source": "Gust i Väre stood at the door, on guard, and Per Gynt shot at him, but missed, so he ran away."
+    },
+    {
+     "id": "p026.s07",
+     "source": "When Per Gynt entered the room the dairy-maids were well-nigh frightened to death; but when the trolls saw who had come they began to wail, and told Eldförkungen to make a fire."
+    },
+    {
+     "id": "p026.s08",
+     "source": "At the same moment the dogs sprang upon Kjöstöl Aabakken, and threw him head over heels into the hearth, so that the ashes and sparks flew about."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“Have you seen my snakes, Per Gynt?” asked Tron Valfjeldet—for that was what he called the wolves."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“Yes, and now you shall travel the same road your snakes have gone!” cried Per Gynt, and shot him."
+    },
+    {
+     "id": "p028.s02",
+     "source": "Then he made an end of Aabakken with the butt-end of his firelock; but Eldförkungen had fled through the chimney."
+    },
+    {
+     "id": "p028.s03",
+     "source": "After Per Gynt had done this, he accompanied the dairy-maids back to their village, for they did not venture to stay in the hut any longer."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "When Christmas came, Per Gynt once more got under way."
+    },
+    {
+     "id": "p029.s02",
+     "source": "He had heard of a farmstead at Dovre, where so many trolls were accustomed to congregate on Christmas Eve, that the people who lived there had to flee, and find places to stay at other farms."
+    },
+    {
+     "id": "p029.s03",
+     "source": "This farmstead Per Gynt decided to hunt up; for he thought he would like to see these trolls."
+    },
+    {
+     "id": "p029.s04",
+     "source": "He put on torn clothing, and took with him a tame bear which belonged to him, together with an awl, some pitch and some wire."
+    },
+    {
+     "id": "p029.s05",
+     "source": "When he had reached the farmstead, he went into the house and asked for shelter."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“May God aid us!” cried the man."
+    },
+    {
+     "id": "p030.s02",
+     "source": "“We cannot shelter you, and have to leave the house ourselves, because the place is alive with trolls every Christmas Eve!”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "But Per Gynt thought he could manage to clear the house of the trolls."
+    },
+    {
+     "id": "p031.s02",
+     "source": "So they told him to stay, and gave him a pig’s skin into the bargain."
+    },
+    {
+     "id": "p031.s03",
+     "source": "Then the bear lay down behind the hearth, Per took out his awl, his pitch and his wire, and set out to make a single large shoe out of the pig’s skin."
+    },
+    {
+     "id": "p031.s04",
+     "source": "And he drew a thick rope through it for a lace, so that he could lace the whole shoe together, and besides he had two wagon-spokes for wedges at hand."
+    },
+    {
+     "id": "p031.s05",
+     "source": "Suddenly the trolls came along with fiddles and fiddlers, and some of them danced, and others ate of the Christmas dinner that stood on the table, and some fried bacon, and others fried frogs and toads and disgusting things of that kind—the Christmas dinner they had brought along themselves."
+    },
+    {
+     "id": "p031.s06",
+     "source": "In the meantime some of them noticed the shoe Per Gynt had made."
+    },
+    {
+     "id": "p031.s07",
+     "source": "Since it was evidently intended for a large foot, all the trolls wanted to try it on."
+    },
+    {
+     "id": "p031.s08",
+     "source": "When every one of them had thrust in his foot, Per Gynt laced it, forced in a wedge, and then drew the lace so taut that every last one of them was caught and held in the shoe."
+    },
+    {
+     "id": "p031.s09",
+     "source": "But now the bear thrust forth his nose, and sniffed the roast."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“Would you like to have some cake, little white cat?” said one of the trolls, and threw a burning hot, roasted frog into the bear’s jaws."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“Thump them, Master Bruin!” cried Per Gynt."
+    },
+    {
+     "id": "p033.s02",
+     "source": "And the bear grew so angry that he rushed on the trolls, raining blows on every side and scratching them."
+    },
+    {
+     "id": "p033.s03",
+     "source": "And Per Gynt hewed into the crowd with his other wagon-spoke as though he meant to break their skulls."
+    },
+    {
+     "id": "p033.s04",
+     "source": "Then the trolls had to make themselves scarce, but Per Gynt remained, and feasted on the Christmas fare all of Christmas week, while for many a long year no more was heard of the trolls."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "NOTE"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“Per Gynt” (Asbjörnsen, Norske Huldreeventyr og Folkesagn , Christiania, 1859, Part II, p. 77."
+    },
+    {
+     "id": "p035.s02",
+     "source": "From the vicinity of the Dover mountains."
+    },
+    {
+     "id": "p035.s03",
+     "source": "The story was told Asbjörnsen by a bird hunter, whom he accidentally met while hunting reindeer)."
+    },
+    {
+     "id": "p035.s04",
+     "source": "Like “The Island of Udröst” which follows it, it is distinctively a Northern tale."
+    },
+    {
+     "id": "p035.s05",
+     "source": "The bold huntsman of Kvam, whose name and weirdly adventurous experience with the great crooked one of Etnedal, thanks to Ibsen, have been presented in an altogether different, symbolic form, makes his appearance here with all the heartfelt spontaneity of the folk-tale, as it is still recounted, half in pride, half in dread, in the lonely herdsman’s huts of the Dovre country."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p036"
+  }
+ ]
+}

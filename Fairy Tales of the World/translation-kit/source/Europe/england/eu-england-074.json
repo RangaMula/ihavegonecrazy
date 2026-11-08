@@ -1,0 +1,463 @@
+{
+ "id": "eu-england-074",
+ "title": {
+  "id": "title",
+  "source": "The Stars in the Sky"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "More English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #14241 — https://www.gutenberg.org/ebooks/14241 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/074 - The Stars in the Sky.md",
+ "stats": {
+  "paragraphs": 35,
+  "segments": 58,
+  "words": 1059
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once on a time and twice on a time, and all times together as ever I heard tell of, there was a tiny lassie who would weep all day to have the stars in the sky to play with; she wouldn't have this, and she wouldn't have that, but it was always the stars she would have."
+    },
+    {
+     "id": "p001.s02",
+     "source": "So one fine day off she went to find them."
+    },
+    {
+     "id": "p001.s03",
+     "source": "And she walked and she walked and she walked, till by-and-by she came to a mill-dam."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"Goode'en to ye,\" says she, \"I'm seeking the stars in the sky to play with."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Have you seen any?\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"Oh, yes, my bonnie lassie,\" said the mill-dam."
+    },
+    {
+     "id": "p003.s02",
+     "source": "\"They shine in my own face o' nights till I can't sleep for them."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Jump in and perhaps you'll find one.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "So she jumped in, and swam about and swam about and swam about, but ne'er a one could she see."
+    },
+    {
+     "id": "p004.s02",
+     "source": "So she went on till she came to a brooklet."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Goode'en to ye, Brooklet, Brooklet,\" says she; \"I'm seeking the stars in the sky to play with."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Have you seen any?\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"Yes, indeed, my bonny lassie,\" said the Brooklet."
+    },
+    {
+     "id": "p006.s02",
+     "source": "\"They glint on my banks at night."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Paddle about, and maybe you'll find one.\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "So she paddled and she paddled and she paddled, but ne'er a one did she find."
+    },
+    {
+     "id": "p007.s02",
+     "source": "So on she went till she came to the Good Folk."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"Goode'en to ye, Good Folk,\" says she; \"I'm looking for the stars in the sky to play with."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Have ye seen e'er a one?\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Why, yes, my bonny lassie,\" said the Good Folk."
+    },
+    {
+     "id": "p009.s02",
+     "source": "\"They shine on the grass here o' night."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Dance with us, and maybe you'll find one.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "And she danced and she danced and she danced, but ne'er a one did she see."
+    },
+    {
+     "id": "p010.s02",
+     "source": "So down she sate; I suppose she wept."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"Oh dearie me, oh dearie me,\" says she, \"I've swam and I've paddled and I've danced, and if ye'll not help me I shall never find the stars in the sky to play with.\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "But the Good Folk whispered together, and one of them came up to her and took her by the hand and said, \"If you won't go home to your mother, go forward, go forward; mind you take the right road."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Ask Four Feet to carry you to No Feet at all, and tell No Feet at all to carry you to the stairs without steps, and if you can climb that—\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"Oh, shall I be among the stars in the sky then?\" cried the lassie."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"If you'll not be, then you'll be elsewhere,\" said the Good Folk, and set to dancing again."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "So on she went again with a light heart, and by-and-by she came to a saddled horse, tied to a tree."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"Goode'en to ye, Beast,\" said she; \"I'm seeking the stars in the sky to play with."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Will you give me a lift, for all my bones are an-aching.\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Nay,\" said the horse, \"I know nought of the stars in the sky, and I'm here to do the bidding of the Good Folk, and not my own will.\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Well,\" said she, \"it's from the Good Folk I come, and they bade me tell Four Feet to carry me to No Feet at all.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"That's another story,\" said he; \"jump up and ride with me.\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "So they rode and they rode and they rode, till they got out of the forest and found themselves at the edge of the sea."
+    },
+    {
+     "id": "p020.s02",
+     "source": "And on the water in front of them was a wide glistening path running straight out towards a beautiful thing that rose out of the water and went up into the sky, and was all the colours in the world, blue and red and green, and wonderful to look at."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"Now get you down,\" said the horse; \"I've brought ye to the end of the land, and that's as much as Four Feet can do."
+    },
+    {
+     "id": "p021.s02",
+     "source": "I must away home to my own folk.\""
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"But,\" said the lassie, \"where's No Feet at all, and where's the stair without steps?\""
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"I know not,\" said the horse, \"it's none of my business neither."
+    },
+    {
+     "id": "p023.s02",
+     "source": "So goode'en to ye, my bonny lassie;\" and off he went."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "So the lassie stood still and looked at the water, till a strange kind of fish came swimming up to her feet."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"Goode'en to ye, big Fish,\" says she, \"I'm looking for the stars in the sky, and for the stairs that climb up to them."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Will ye show me the way?\""
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"Nay,\" said the Fish, \"I can't unless you bring me word from the Good Folk.\""
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"Yes, indeed,\" said she."
+    },
+    {
+     "id": "p027.s02",
+     "source": "\"They said Four Feet would bring me to No Feet at all, and No Feet at all would carry me to the stairs without steps.\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"Ah, well,\" said the Fish; \"that's all right then."
+    },
+    {
+     "id": "p028.s02",
+     "source": "Get on my back and hold fast.\""
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "And off he went—Kerplash!—into the water, along the silver path, towards the bright arch."
+    },
+    {
+     "id": "p029.s02",
+     "source": "And the nearer they came the brighter the sheen of it, till she had to shade her eyes from the light of it."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "And as they came to the foot of it, she saw it was a broad bright road, sloping up and away into the sky, and at the far, far end of it she could see wee shining things dancing about."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "\"Now,\" said the Fish, \"here you are, and yon's the stair; climb up, if you can, but hold on fast."
+    },
+    {
+     "id": "p031.s02",
+     "source": "I'll warrant you find the stair easier at home than by such a way; 't was ne'er meant for lassies' feet to travel;\" and off he splashed through the water."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "So she clomb and she clomb and she clomb, but ne'er a step higher did she get: the light was before her and around her, and the water behind her, and the more she struggled the more she was forced down into the dark and the cold, and the more she clomb the deeper she fell."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "But she clomb and she clomb, till she got dizzy in the light and shivered with the cold, and dazed with the fear; but still she clomb, till at last, quite dazed and silly-like, she let clean go, and sank down—down—down."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "And bang she came on to the hard boards, and found herself sitting, weeping and wailing, by the bedside at home all alone."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p035"
+  }
+ ]
+}

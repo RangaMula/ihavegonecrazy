@@ -1,0 +1,50 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-097",
+ "title": {
+  "id": "title",
+  "source": "The Hawk, the Kite, and the Pigeons"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/097 - The Hawk, the Kite, and the Pigeons.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 4,
+  "words": 64
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "THE PIGEONS, terrified by the appearance of a Kite, called upon the Hawk to defend them."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He at once consented."
+    },
+    {
+     "id": "p001.s03",
+     "source": "When they had admitted him into the cote, they found that he made more havoc and slew a larger number of them in one day than the Kite could pounce upon in a whole year."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Avoid a remedy that is worse than the disease."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

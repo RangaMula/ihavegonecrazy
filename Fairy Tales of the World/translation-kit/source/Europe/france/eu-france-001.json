@@ -1,0 +1,400 @@
+{
+ "id": "eu-france-001",
+ "title": {
+  "id": "title",
+  "source": "Little Red Riding-Hood"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "The Fairy Tales of Charles Perrault",
+ "credits": "Perrault, Charles (author, d. 1703); Samber, Robert (translator); Mansion, J. E. (Jean Edmond) (translator, d. 1942)",
+ "gutenberg": "Project Gutenberg eBook #29021 — https://www.gutenberg.org/ebooks/29021 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/France/001 - Little Red Riding-Hood.md",
+ "stats": {
+  "paragraphs": 36,
+  "segments": 41,
+  "words": 671
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "nce upon a time, there lived in a certain village, a little country girl, the prettiest creature was ever seen."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Her mother was excessively fond of her; and her grand-mother doated on her much more."
+    },
+    {
+     "id": "p001.s03",
+     "source": "This good woman got made for her a little red riding-hood; which became the girl so extremely well, that every body called her Little Red Riding-Hood."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "One day, her mother, having made some girdle-cakes, said to her:"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"Go, my dear, and see how thy grand-mamma does, for I hear she has been very ill, carry her a girdle-cake, and this little pot of butter.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Little Red Riding-Hood set out immediately to go to her grand-mother, who lived in another village."
+    },
+    {
+     "id": "p004.s02",
+     "source": "As she was going thro' the wood, she met with Gaffer Wolf, who had a very great mind to eat her up, but he durst not, because of some faggot-makers hard by in the forest."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "He asked her whither she was going."
+    },
+    {
+     "id": "p005.s02",
+     "source": "The poor child, who did not know that it was dangerous to stay and hear a Wolf talk, said to him:"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"I am going to see my grand-mamma, and carry her a girdle-cake, and a little pot of butter, from my mamma.\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Does she live far off?\" said the Wolf."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"Oh! ay,\" answered Little Red Riding-Hood, \"it is beyond that mill you see there, at the first house in the village.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Well,\" said the Wolf, \"and I'll go and see her too: I'll go this way, and you go that, and we shall see who will be there soonest.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "The Wolf began to run as fast as he could, taking the nearest way; and the little girl went by that farthest about, diverting herself in gathering nuts, running after butterflies, and making nosegays of such little flowers as she met with."
+    },
+    {
+     "id": "p010.s02",
+     "source": "The Wolf was not long before he got to the old woman's house: he knocked at the door, tap, tap ."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"Who's there?\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"Your grand-child, Little Red Riding-Hood,\" replied the Wolf, counterfeiting her voice, \"who has brought you a girdle-cake, and a little pot of butter, sent you by mamma.\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "The good grand-mother, who was in bed, because she found herself somewhat ill, cry'd out:"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"Pull the peg, and the bolt will fall.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "The Wolf pull'd the peg, and the door opened, and then presently he fell upon the good woman, and ate her up in a moment; for it was above three days that he had not touched a bit."
+    },
+    {
+     "id": "p015.s02",
+     "source": "He then shut the door, and went into the grand-mother's bed, expecting Little Red Riding-Hood, who came some time afterwards, and knock'd at the door, tap, tap ."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"Who's there?\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Little Red Riding-Hood, hearing the big voice of the Wolf, was at first afraid; but believing her grand-mother had got a cold, and was hoarse, answered:"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"'Tis your grand-child, Little Red Riding-Hood, who has brought you a girdle-cake, and a little pot of butter, mamma sends you.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "The Wolf cried out to her, softening his voice as much as he could, \"Pull the peg, and the bolt will fall.\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Little Red Riding-Hood pulled the peg, and the door opened."
+    },
+    {
+     "id": "p020.s02",
+     "source": "The Wolf seeing her come in, said to her, hiding himself under the bedclothes:"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"Put the cake, and the little pot of butter upon the bread-bin, and come and lye down with me.\""
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Little Red Riding-Hood undressed herself, and went into bed; where, being greatly amazed to see how her grand-mother looked in her night-cloaths, she said to her:"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"Grand-mamma, what great arms you have got!\""
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"That is the better to hug thee, my dear.\""
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"Grand-mamma, what great legs you have got!\""
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"That is to run the better, my child.\""
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"Grand-mamma, what great ears you have got!\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"That is to hear the better, my child.\""
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "\"Grand-mamma, what great eyes you have got!\""
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "\"It is to see the better, my child.\""
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "\"Grand-mamma, what great teeth you have got!\""
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "\"That is to eat thee up.\""
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "And, saying these words, this wicked Wolf fell upon poor Little Red Riding-Hood, and ate her all up."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p034"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "The Moral"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p036"
+  }
+ ]
+}

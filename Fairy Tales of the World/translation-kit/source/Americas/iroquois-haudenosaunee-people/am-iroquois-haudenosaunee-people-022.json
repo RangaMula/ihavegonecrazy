@@ -1,0 +1,58 @@
+{
+ "id": "am-iroquois-haudenosaunee-people-022",
+ "title": {
+  "id": "title",
+  "source": "A Man Who Assumed The Shape Of A Hog"
+ },
+ "tradition": "Iroquois (Haudenosaunee) people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Iroquois. (1883 N 02 / 1880-1881 (pages 47-116))",
+ "credits": "Smith, Erminnie A. (Erminnie Adele) (author, d. 1886)",
+ "gutenberg": "Project Gutenberg eBook #46140 — https://www.gutenberg.org/ebooks/46140 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Iroquois (Haudenosaunee) people/022 - A Man Who Assumed The Shape Of A Hog.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 6,
+  "words": 129
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "On the Tonawanda Reservation three boys were coming down a hill, when they saw a large hog, which they concluded to follow to find its home."
+    },
+    {
+     "id": "p001.s02",
+     "source": "As they pursued the hog they continually kicked it, and it retaliated by biting at them at times."
+    },
+    {
+     "id": "p001.s03",
+     "source": "It retreated toward the bank of a small creek, reaching which it suddenly disappeared."
+    },
+    {
+     "id": "p001.s04",
+     "source": "They saw no reason to suppose that it had drowned itself in the stream; but while searching for it they found on one of the banks an old man, who laughed and said, \"What do you seek?\""
+    },
+    {
+     "id": "p001.s05",
+     "source": "They answered, \"A hog.\""
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "[pg 74] After some moments the old man said that it was he, himself, whom they had been chasing, and by this the boys knew that he was a witch."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

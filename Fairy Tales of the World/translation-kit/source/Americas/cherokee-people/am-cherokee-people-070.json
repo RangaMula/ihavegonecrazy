@@ -1,0 +1,68 @@
+{
+ "id": "am-cherokee-people-070",
+ "title": {
+  "id": "title",
+  "source": "The Bride From The South"
+ },
+ "tradition": "Cherokee people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Cherokee",
+ "credits": "Mooney, James (author, d. 1921)",
+ "gutenberg": "Project Gutenberg eBook #45634 — https://www.gutenberg.org/ebooks/45634 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Cherokee people/070 - The Bride From The South.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 7,
+  "words": 245
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The North went traveling, and after going far and meeting many different tribes he finally fell in love with the daughter of the South and wanted to marry her."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The girl was willing, but her parents objected and said, “Ever since you came the weather has been cold, and if you stay here we may all freeze to death.”"
+    },
+    {
+     "id": "p001.s03",
+     "source": "The North pleaded hard, and said that if they would let him have their daughter he would take her back to his own country, so at last they consented."
+    },
+    {
+     "id": "p001.s04",
+     "source": "They were married and he took his bride to his own country, and when she arrived there she found the people all living in ice houses."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The next day, when the sun rose, the houses began to leak, and as it climbed higher they began to melt, and it grew warmer and warmer, until finally the people came to the young husband and told him he must send his wife home again, or the weather would get so warm that the whole settlement would be melted."
+    },
+    {
+     "id": "p002.s02",
+     "source": "He loved his wife and so held out as long as he could, but as the sun grew hotter the people were more urgent, and at last he had to send her home to her parents."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The people said that as she had been born in the South, and nourished all her life upon food that grew in the same climate, her whole nature was warm and unfit for the North."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

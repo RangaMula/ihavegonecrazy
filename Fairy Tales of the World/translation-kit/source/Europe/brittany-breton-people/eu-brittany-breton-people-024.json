@@ -1,0 +1,62 @@
+{
+ "id": "eu-brittany-breton-people-024",
+ "title": {
+  "id": "title",
+  "source": "Hervé the Blind"
+ },
+ "tradition": "Brittany (Breton people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Brittany",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Brittany (Breton people)/024 - Hervé the Blind.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 7,
+  "words": 177
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There is nothing improbable in the statement that Taliesin dwelt in Brittany in the sixth century."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Many other British bards found a refuge on the shores of Britain the Less."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Among these was Kyvarnion, a Christian, who married a Breton Druidess and who had a son, Hervé."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Hervé was blind from birth, and was led from place to place by a wolf which he had converted (!) and pressed into the service of Mother Church."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "One day, when a lad, Hervé had been left in charge of his uncle’s farm, when a ploughman passed him in full flight, crying out that a savage wolf had appeared and had killed the ass with which he had been ploughing."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The man entreated Hervé to fly, as the wolf was hard upon his heels; but the blind youth, undaunted, ordered the terrified labourer to seize the animal and harness it to the plough with the harness of the dead ass."
+    },
+    {
+     "id": "p002.s03",
+     "source": "From that time the wolf dwelt among the sheep and goats on the farm, and subsisted upon hay and grass."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

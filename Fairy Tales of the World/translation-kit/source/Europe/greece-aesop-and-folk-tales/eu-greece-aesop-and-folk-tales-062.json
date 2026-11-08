@@ -1,0 +1,40 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-062",
+ "title": {
+  "id": "title",
+  "source": "The Astronomer"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/062 - The Astronomer.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 85
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "AN ASTRONOMER used to go out at night to observe the stars."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One evening, as he wandered through the suburbs with his whole attention fixed on the sky, he fell accidentally into a deep well."
+    },
+    {
+     "id": "p001.s03",
+     "source": "While he lamented and bewailed his sores and bruises, and cried loudly for help, a neighbor ran to the well, and learning what had happened said: “Hark ye, old fellow, why, in striving to pry into what is in heaven, do you not manage to see what is on earth?”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

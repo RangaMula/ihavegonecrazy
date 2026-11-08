@@ -1,0 +1,533 @@
+{
+ "id": "eu-england-056",
+ "title": {
+  "id": "title",
+  "source": "The Wee Bannock"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "More English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #14241 — https://www.gutenberg.org/ebooks/14241 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/056 - The Wee Bannock.md",
+ "stats": {
+  "paragraphs": 28,
+  "segments": 86,
+  "words": 1195
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "\"Grannie, grannie, come tell us the story of the wee bannock.\""
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"Hout, childer, ye've heard it a hundred times afore."
+    },
+    {
+     "id": "p002.s02",
+     "source": "I needn't tell it over again.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"Ah! but, grannie, it's such a fine one."
+    },
+    {
+     "id": "p003.s02",
+     "source": "You must tell it."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Just once.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Well, well, if ye'll all promise to be good, I'll tell it ye again.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "There lived an old man and an old woman at the side of a burn."
+    },
+    {
+     "id": "p005.s02",
+     "source": "They had two cows, five hens, and a cock, a cat and two kittens."
+    },
+    {
+     "id": "p005.s03",
+     "source": "The old man looked after the cows, and the old wife span on the distaff."
+    },
+    {
+     "id": "p005.s04",
+     "source": "The kittens oft gripped at the old wife's spindle, as it tussled over the hearthstone."
+    },
+    {
+     "id": "p005.s05",
+     "source": "\"Sho, sho,\" she would say, \"go away;\" and so it tussled about."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "One day, after breakfast, she thought she would have a bannock."
+    },
+    {
+     "id": "p006.s02",
+     "source": "So she baked two oatmeal bannocks, and set them on to the fire to harden."
+    },
+    {
+     "id": "p006.s03",
+     "source": "After a while, the old man came in, and sat down beside the fire, and takes one of the bannocks, and snaps it through the middle."
+    },
+    {
+     "id": "p006.s04",
+     "source": "When the other one sees this, it runs off as fast as it could, and the old wife after it, with the spindle in the one hand, and the distaff in the other."
+    },
+    {
+     "id": "p006.s05",
+     "source": "But the wee bannock ran away and out of sight, and ran till it came to a pretty large thatched house, and it ran boldly up inside to the fireside; and there were three tailors sitting on a big bench."
+    },
+    {
+     "id": "p006.s06",
+     "source": "When they saw the wee bannock come in, they jumped up, and got behind the goodwife, that was carding tow by the fire."
+    },
+    {
+     "id": "p006.s07",
+     "source": "\"Hout,\" quoth she, \"be no afeard; it's but a wee bannock."
+    },
+    {
+     "id": "p006.s08",
+     "source": "Grip it, and I'll give ye a sup of milk with it.\""
+    },
+    {
+     "id": "p006.s09",
+     "source": "Up she gets with the tow-cards and the tailor with the goose, and the two 'prentices, the one with the big shears, and the other with the lawbrod; but it dodged them, and ran round about the fire; and one of the 'prentices, thinking to snap it with the shears, fell into the ashes."
+    },
+    {
+     "id": "p006.s10",
+     "source": "The tailor cast the goose, and the goodwife the tow-cards; but it wouldn't do."
+    },
+    {
+     "id": "p006.s11",
+     "source": "The bannock ran away, and ran till it came to a wee house at the roadside; and in it runs and there was a weaver sitting at the loom, and the wife winding a clue of yarn."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Tibby,\" quoth he, \"what's that?\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"Oh,\" quoth she, \"it's a wee bannock.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"It's well come,\" quoth he, \"for our porrage were but thin to-day."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Grip it, my woman; grip it.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"Ay,\" quoth she; \"what recks!"
+    },
+    {
+     "id": "p010.s02",
+     "source": "That's a clever bannock."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Catch it, Willie; catch it, man.\""
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"Hout,\" quoth Willie, \"cast the clue at it.\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "But the bannock dodged round about, and off it went, and over the hill, like a new-tarred sheep or a mad cow."
+    },
+    {
+     "id": "p012.s02",
+     "source": "And forward it runs to the neat-house, to the fireside; and there was the goodwife churning."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"Come away, wee bannock,\" quoth she; \"I'll have cream and bread to-day.\""
+    },
+    {
+     "id": "p013.s02",
+     "source": "But the wee bannock dodged round about the churn, and the wife after it, and in the hurry she had near-hand overturned the churn."
+    },
+    {
+     "id": "p013.s03",
+     "source": "And before she got it set right again, the wee bannock was off and down the brae to the mill; and in it ran."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "The miller was sifting meal in the trough; but, looking up: \"Ay,\" quoth he, \"it's a sign of plenty when ye're running about, and nobody to look after ye."
+    },
+    {
+     "id": "p014.s02",
+     "source": "But I like a bannock and cheese."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Come your way hither, and I'll give ye a night's quarters.\""
+    },
+    {
+     "id": "p014.s04",
+     "source": "But the bannock wouldn't trust itself with the miller and his cheese."
+    },
+    {
+     "id": "p014.s05",
+     "source": "So it turned and ran its way out; but the miller didn't fash his head with it."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "So it toddled away and ran till it came to the smithy; and in it runs, and up to the anvil."
+    },
+    {
+     "id": "p015.s02",
+     "source": "The smith was making horse-nails."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Quoth he: \"I like a glass of good ale and a well-toasted bannock."
+    },
+    {
+     "id": "p015.s04",
+     "source": "Come your way in by here.\""
+    },
+    {
+     "id": "p015.s05",
+     "source": "But the bannock was frightened when it heard about the ale, and turned and was off as hard as it could, and the smith after it, and cast the hammer."
+    },
+    {
+     "id": "p015.s06",
+     "source": "But it missed, and the bannock was out of sight in a crack, and ran till it came to a farmhouse with a good peat-stack at the end of it."
+    },
+    {
+     "id": "p015.s07",
+     "source": "Inside it runs to the fireside."
+    },
+    {
+     "id": "p015.s08",
+     "source": "The goodman was cloving lint, and the goodwife heckling."
+    },
+    {
+     "id": "p015.s09",
+     "source": "\"O Janet,\" quoth he, \"there's a wee bannock; I'll have the half of it.\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"Well, John, I'll have the other half."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Hit it over the back with the clove.\""
+    },
+    {
+     "id": "p016.s03",
+     "source": "But the bannock played dodgings."
+    },
+    {
+     "id": "p016.s04",
+     "source": "\"Hout, tout,\" quoth the wife, and made the heckle flee at it."
+    },
+    {
+     "id": "p016.s05",
+     "source": "But it was too clever for her."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "And off and up the burn it ran to the next house, and rolled its way to the fireside."
+    },
+    {
+     "id": "p017.s02",
+     "source": "The goodwife was stirring the soup, and the goodman plaiting sprit-binnings for the cows."
+    },
+    {
+     "id": "p017.s03",
+     "source": "\"Ho, Jock,\" quoth the goodwife, \"here come."
+    },
+    {
+     "id": "p017.s04",
+     "source": "You're always crying about a wee bannock."
+    },
+    {
+     "id": "p017.s05",
+     "source": "Here's one."
+    },
+    {
+     "id": "p017.s06",
+     "source": "Come in, haste ye, and I'll help ye to grip it.\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Ay, mother, where is it?\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"See there."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Run over on that side.\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "But the bannock ran in behind the goodman's chair."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Jock fell among the sprits."
+    },
+    {
+     "id": "p020.s03",
+     "source": "The goodman cast a binning, and the goodwife the spurtle."
+    },
+    {
+     "id": "p020.s04",
+     "source": "But it was too clever for Jock and her both."
+    },
+    {
+     "id": "p020.s05",
+     "source": "It was off and out of sight in a crack, and through among the whins, and down the road to the next house, and in and snug by the fireside."
+    },
+    {
+     "id": "p020.s06",
+     "source": "The folk were just sitting down to their soup, and the goodwife scraping the pot."
+    },
+    {
+     "id": "p020.s07",
+     "source": "\"Look,\" quoth she, \"there's a wee bannock come in to warm itself at our fireside.\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"Shut the door,\" quoth the goodman, \"and we'll try to get a grip of it.\""
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "When the bannock heard that, it ran out of the house and they after it with their spoons, and the goodman shied his hat."
+    },
+    {
+     "id": "p022.s02",
+     "source": "But it rolled away and ran, and ran, till it came to another house; and when it went in the folk were just going to their beds."
+    },
+    {
+     "id": "p022.s03",
+     "source": "The goodman was taking off his breeches, and the goodwife raking the fire."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"What's that?\" quoth he."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"Oh,\" quoth she, \"it's a wee bannock.\""
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Quoth he, \"I could eat the half of it.\""
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"Grip it,\" quoth the wife, \"and I'll have a bit too.\""
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"Cast your breeches at it!\""
+    },
+    {
+     "id": "p027.s02",
+     "source": "The goodman shied his breeches, and had nearly smothered it."
+    },
+    {
+     "id": "p027.s03",
+     "source": "But it wriggled out and ran, and the goodman after it without his breeches; and there was a clean chase over the craft park, and in among the whins; and the goodman lost it, and had to come away, trotting home half naked."
+    },
+    {
+     "id": "p027.s04",
+     "source": "But now it was grown dark, and the wee bannock couldn't see; but it went into the side of a big whin bush, and into a fox's hole."
+    },
+    {
+     "id": "p027.s05",
+     "source": "The fox had had no meat for two days."
+    },
+    {
+     "id": "p027.s06",
+     "source": "\"O welcome, welcome,\" quoth the fox, and snapped it in two in the middle."
+    },
+    {
+     "id": "p027.s07",
+     "source": "And that was the end of the wee bannock."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p028"
+  }
+ ]
+}

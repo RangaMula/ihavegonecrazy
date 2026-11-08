@@ -1,0 +1,328 @@
+{
+ "id": "eu-scotland-065",
+ "title": {
+  "id": "title",
+  "source": "The Shepherd Of Myddvai"
+ },
+ "tradition": "Scotland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Celtic Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #7885 — https://www.gutenberg.org/ebooks/7885 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Scotland/065 - The Shepherd Of Myddvai.md",
+ "stats": {
+  "paragraphs": 21,
+  "segments": 45,
+  "words": 721
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Up in the Black Mountains in Caermarthenshire lies the lake known as Lyn y Van Vach."
+    },
+    {
+     "id": "p001.s02",
+     "source": "To the margin of this lake the shepherd of Myddvai once led his lambs, and lay there whilst they sought pasture."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Suddenly, from the dark waters of the lake, he saw three maidens rise."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Shaking the bright drops from their hair and gliding to the shore, they wandered about amongst his flock."
+    },
+    {
+     "id": "p001.s05",
+     "source": "They had more than mortal beauty, and he was filled with love for her that came nearest to him."
+    },
+    {
+     "id": "p001.s06",
+     "source": "He offered her the bread he had with him, and she took it and tried it, but then sang to him:"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Hard-baked is thy bread,"
+    },
+    {
+     "id": "p002.s02",
+     "source": "'Tis not easy to catch me,"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "and then ran off laughing to the lake."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Next day he took with him bread not so well done, and watched for the maidens."
+    },
+    {
+     "id": "p004.s02",
+     "source": "When they came ashore he offered his bread as before, and the maiden tasted it and sang:"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Unbaked is thy bread,"
+    },
+    {
+     "id": "p005.s02",
+     "source": "I will not have thee,"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "and again disappeared in the waves."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "A third time did the shepherd of Myddvai try to attract the maiden, and this time he offered her bread that he had found floating about near the shore."
+    },
+    {
+     "id": "p007.s02",
+     "source": "This pleased her, and she promised to become his wife if he were able to pick her out from among her sisters on the following day."
+    },
+    {
+     "id": "p007.s03",
+     "source": "When the time came the shepherd knew his love by the strap of her sandal."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Then she told him she would be as good a wife to him as any earthly maiden could be unless he should strike her three times without cause."
+    },
+    {
+     "id": "p007.s05",
+     "source": "Of course he deemed that this could never be; and she, summoning from the lake three cows, two oxen, and a bull, as her marriage portion, was led homeward by him as his bride."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "The years passed happily, and three children were born to the shepherd and the lake-maiden."
+    },
+    {
+     "id": "p008.s02",
+     "source": "But one day here were going to a christening, and she said to her husband it was far to walk, so he told her to go for the horses."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"I will,\" said she, \"if you bring me my gloves which I've left in the house.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "But when he came back with the gloves, he found she had not gone for the horses; so he tapped her lightly on the shoulder with the gloves, and said, \"Go, go.\""
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"That's one,\" said she."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Another time they were at a wedding, when suddenly the lake-maiden fell a-sobbing and a-weeping, amid the joy and mirth of all around her."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Her husband tapped her on the shoulder, and asked her, \"Why do you weep?\""
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"Because they are entering into trouble; and trouble is upon you; for that is the second causeless blow you have given me."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Be careful; the third is the last.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "The husband was careful never to strike her again."
+    },
+    {
+     "id": "p015.s02",
+     "source": "But one day at a funeral she suddenly burst out into fits of laughter."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Her husband forgot, and touched her rather roughly on the shoulder, saying, \"Is this a time for laughter?\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"I laugh,\" she said, \"because those that die go out of trouble, but your trouble has come."
+    },
+    {
+     "id": "p016.s02",
+     "source": "The last blow has been struck; our marriage is at an end, and so farewell.\""
+    },
+    {
+     "id": "p016.s03",
+     "source": "And with that she rose up and left the house and went to their home."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Then she, looking round upon her home, called to the cattle she had brought with her:"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Brindle cow, white speckled,"
+    },
+    {
+     "id": "p018.s02",
+     "source": "Spotted cow, bold freckled,"
+    },
+    {
+     "id": "p018.s03",
+     "source": "Old white face, and gray Geringer,"
+    },
+    {
+     "id": "p018.s04",
+     "source": "And the white bull from the king's coast,"
+    },
+    {
+     "id": "p018.s05",
+     "source": "Grey ox, and black calf,"
+    },
+    {
+     "id": "p018.s06",
+     "source": "All, all, follow me home,"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Now the black calf had just been slaughtered, and was hanging on the hook; but it got off the hook alive and well and followed her; and the oxen, though they were ploughing, trailed the plough with them and did her bidding."
+    },
+    {
+     "id": "p019.s02",
+     "source": "So she fled to the lake again, they following her, and with them plunged into the dark waters."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "And to this day is the furrow seen which the plough left as it was dragged across the mountains to the tarn."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Only once did she come again, when her sons were grown to manhood, and then she gave them gifts of healing by which they won the name of Meddygon Myddvai, the physicians of Myddvai."
+    }
+   ],
+   "id": "p021"
+  }
+ ]
+}

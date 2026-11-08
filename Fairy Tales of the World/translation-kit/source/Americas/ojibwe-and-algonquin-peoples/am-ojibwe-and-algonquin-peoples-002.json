@@ -1,0 +1,51 @@
+{
+ "id": "am-ojibwe-and-algonquin-peoples-002",
+ "title": {
+  "id": "title",
+  "source": "The Feast Of The Virgins"
+ },
+ "tradition": "Ojibwe and Algonquin peoples",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Legends of the Northwest",
+ "credits": "Gordon, Hanford Lennox (author, d. 1920)",
+ "gutenberg": "Project Gutenberg eBook #8122 — https://www.gutenberg.org/ebooks/8122 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Ojibwe and Algonquin peoples/002 - The Feast Of The Virgins.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 3,
+  "words": 46
+ },
+ "paragraphs": [
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A LEGEND OF THE DAKOTAS"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "(In pronouncing Dakota words give \"a\" the sound of \"ah\"—\"e\" the sound of \"a\"—\"i\" the sound of \"e\" and \"u\" the sound of \"oo,\" sound \"ee\" as in English."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The numerals, 1, 2, etc. refer to explanatory notes in the appendix.)"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  }
+ ]
+}

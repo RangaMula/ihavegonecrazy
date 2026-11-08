@@ -1,0 +1,66 @@
+{
+ "id": "eu-basque-people-001",
+ "title": {
+  "id": "title",
+  "source": "The Tartaro"
+ },
+ "tradition": "Basque people",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Basque Legends; With an Essay on the Basque Language",
+ "credits": "Webster, Wentworth (author, d. 1907)",
+ "gutenberg": "Project Gutenberg eBook #34902 — https://www.gutenberg.org/ebooks/34902 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Basque people/001 - The Tartaro.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 8,
+  "words": 137
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once upon a time there was the son of a king who for the punishment of some fault became a monster."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He could become a man again only by marrying."
+    },
+    {
+     "id": "p001.s03",
+     "source": "One day he met a young girl who refused him, because she was so frightened at him."
+    },
+    {
+     "id": "p001.s04",
+     "source": "And the Tartaro wanted to give her a ring, which she would not accept."
+    },
+    {
+     "id": "p001.s05",
+     "source": "However, he sent it her by a young man."
+    },
+    {
+     "id": "p001.s06",
+     "source": "As soon as the ring was upon her finger it began to say, “Thou there, and I here.”"
+    },
+    {
+     "id": "p001.s07",
+     "source": "It kept always crying out this, and the Tartaro pursued her continually; and, as the young girl had such a horror of him, she cut off her finger and the ring, and threw them into a large pond, and there the Tartaro drowned himself."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Estefanella Hirigarray , of Ahetze."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

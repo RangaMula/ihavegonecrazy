@@ -1,0 +1,94 @@
+{
+ "id": "am-inuit-eskimo-peoples-014",
+ "title": {
+  "id": "title",
+  "source": "The Raven and the Goose"
+ },
+ "tradition": "Inuit (Eskimo) peoples",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Eskimo Folk-Tales",
+ "credits": "Rasmussen, Knud (editor, d. 1933); Worster, W. J. Alexander (William John Alexander) (translator, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #28932 — https://www.gutenberg.org/ebooks/28932 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Inuit (Eskimo) peoples/014 - The Raven and the Goose.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 9,
+  "words": 137
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Do you know why the raven is so black, so dull and black in colour?"
+    },
+    {
+     "id": "p001.s02",
+     "source": "It is all because of its own obstinacy."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Now listen."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "It happened in the days when all the birds were getting their colours and the pattern in their coats."
+    },
+    {
+     "id": "p002.s02",
+     "source": "And the raven and the goose happened to meet, and they agreed to paint each other."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The raven began, and painted the other black, with a nice white pattern showing between."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The goose thought that very fine indeed, and began to do the same by the raven, painting it a coat exactly like its own."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "But then the raven fell into a rage, and declared the pattern was frightfully ugly, and the goose, offended at all the fuss, simply splashed it black all over."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "And now you know why the raven is black."
+    }
+   ],
+   "id": "p006"
+  }
+ ]
+}

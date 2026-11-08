@@ -1,0 +1,40 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-067",
+ "title": {
+  "id": "title",
+  "source": "The Fox and the Monkey"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/067 - The Fox and the Monkey.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 124
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A MONKEY once danced in an assembly of the Beasts, and so pleased them all by his performance that they elected him their King."
+    },
+    {
+     "id": "p001.s02",
+     "source": "A Fox, envying him the honor, discovered a piece of meat lying in a trap, and leading the Monkey to the place where it was, said that she had found a store, but had not used it, she had kept it for him as treasure trove of his kingdom, and counseled him to lay hold of it."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Monkey approached carelessly and was caught in the trap; and on his accusing the Fox of purposely leading him into the snare, she replied, “O Monkey, and are you, with such a mind as yours, going to be King over the Beasts?”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

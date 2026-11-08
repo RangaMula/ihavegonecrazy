@@ -1,0 +1,60 @@
+{
+ "id": "eu-wales-078",
+ "title": {
+  "id": "title",
+  "source": "Ysbryd Ystrad Fawr"
+ },
+ "tradition": "Wales",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Welsh Folk-Lore",
+ "credits": "Owen, Elias (author, d. 1899)",
+ "gutenberg": "Project Gutenberg eBook #20096 — https://www.gutenberg.org/ebooks/20096 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Wales/078 - Ysbryd Ystrad Fawr.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 5,
+  "words": 127
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "“Yr oedd Ysbryd yn Ystrad Fawr, ger Llangwm, yn arfer ymddangos ar brydiau ar lun twrci, a’i gynffon o’i amgylch fel olwyn troell."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Bryd arall, byddai yn y coed, nes y byddai y rhai hyny yn ymddangos fel pe buasent oll ar dân; bryd arall, byddai fel ci du mawr yn cnoi asgwrn.”— Y Gordofigion , p. 106."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Ystrad Fawr Ghost in English is as follows:—"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "There was a Ghost at Ystrad Fawr, near Llangwm, that was in the habit of appearing like a turkey with his tail spread out like a spinning wheel."
+    },
+    {
+     "id": "p003.s02",
+     "source": "At other times he appeared in the wood, when the trees would seem as if they were on fire, again he would assume the shape of a large black dog gnawing a bone."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

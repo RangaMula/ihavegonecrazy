@@ -1,0 +1,118 @@
+{
+ "id": "oc-new-zealand-maori-people-024",
+ "title": {
+  "id": "title",
+  "source": "Maori Cosmogony"
+ },
+ "tradition": "New Zealand (Maori people)",
+ "continent": "Oceania",
+ "source_lang": "en",
+ "source_book": "Maori Religion and Mythology",
+ "credits": "Shortland, Edward (author, d. 1893)",
+ "gutenberg": "Project Gutenberg eBook #42218 — https://www.gutenberg.org/ebooks/42218 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Oceania/New Zealand (Maori people)/024 - Maori Cosmogony.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 21,
+  "words": 108
+ },
+ "paragraphs": [
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Powers        | Te Po (=The Night)."
+    },
+    {
+     "id": "p001.s02",
+     "source": "of          | Te Po-toki (=hanging Night)."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Night         | Te Po-terea (=drifting Night)."
+    },
+    {
+     "id": "p001.s04",
+     "source": "and          | Te Po-whawha (=moaning Night)."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Darkness.     |  Hine-ruakimoe."
+    },
+    {
+     "id": "p001.s06",
+     "source": "| Te Po."
+    },
+    {
+     "id": "p001.s07",
+     "source": "Powers        | Te Ata (=The Morn)."
+    },
+    {
+     "id": "p001.s08",
+     "source": "of          | Te Ao-tu-roa (=The abiding Day)."
+    },
+    {
+     "id": "p001.s09",
+     "source": "Light.        | Te Ao-marama (=bright Day)."
+    },
+    {
+     "id": "p001.s10",
+     "source": "| Whaitua (=space)."
+    },
+    {
+     "id": "p001.s11",
+     "source": "Powers        | Te Kore (=The Void)."
+    },
+    {
+     "id": "p001.s12",
+     "source": "of          | Te Kore-tuatahi."
+    },
+    {
+     "id": "p001.s13",
+     "source": "Cosmos        | Te Kore-tuarua."
+    },
+    {
+     "id": "p001.s14",
+     "source": "without       | Kore-nui."
+    },
+    {
+     "id": "p001.s15",
+     "source": "form         | Kore-roa."
+    },
+    {
+     "id": "p001.s16",
+     "source": "and         | Kore-para."
+    },
+    {
+     "id": "p001.s17",
+     "source": "void.        | Kore-whiwhia."
+    },
+    {
+     "id": "p001.s18",
+     "source": "| Kore-rawea."
+    },
+    {
+     "id": "p001.s19",
+     "source": "| Kore-te-tamaua (=Void fast bound)."
+    },
+    {
+     "id": "p001.s20",
+     "source": "| Te Mangu (=the black) sc. Erebus."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "From the union of Te Mangu with Mahorahora-nui-a-Rangi (=The great expanse of Rangi) came four children:—"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

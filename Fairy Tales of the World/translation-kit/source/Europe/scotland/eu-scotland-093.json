@@ -1,0 +1,142 @@
+{
+ "id": "eu-scotland-093",
+ "title": {
+  "id": "title",
+  "source": "The Man And His Friend"
+ },
+ "tradition": "Scotland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fables",
+ "credits": "Stevenson, Robert Louis (author, d. 1894)",
+ "gutenberg": "Project Gutenberg eBook #343 — https://www.gutenberg.org/ebooks/343 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Scotland/093 - The Man And His Friend.md",
+ "stats": {
+  "paragraphs": 10,
+  "segments": 15,
+  "words": 173
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A man quarrelled with his friend."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“I have been much deceived in you,” said the man."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "And the friend made a face at him and went away."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "A little after, they both died, and came together before the great white Justice of the Peace."
+    },
+    {
+     "id": "p004.s02",
+     "source": "It began to look black for the friend, but the man for a while had a clear character and was getting in good spirits."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“I find here some record of a quarrel,” said the justice, looking in his notes."
+    },
+    {
+     "id": "p005.s02",
+     "source": "“Which of you was in the wrong?”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“He was,” said the man."
+    },
+    {
+     "id": "p006.s02",
+     "source": "“He spoke ill of me behind my back.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Did he so?” said the justice."
+    },
+    {
+     "id": "p007.s02",
+     "source": "“And pray how did he speak about your neighbours?”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Oh, he had always a nasty tongue,” said the man."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“And you chose him for your friend?” cried the justice."
+    },
+    {
+     "id": "p009.s02",
+     "source": "“My good fellow, we have no use here for fools.”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "So the man was cast in the pit, and the friend laughed out aloud in the dark and remained to be tried on other charges."
+    }
+   ],
+   "id": "p010"
+  }
+ ]
+}

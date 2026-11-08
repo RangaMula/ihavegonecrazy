@@ -1,0 +1,50 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-022",
+ "title": {
+  "id": "title",
+  "source": "The Fawn and His Mother"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/022 - The Fawn and His Mother.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 4,
+  "words": 93
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A YOUNG FAWN once said to his Mother, “You are larger than a dog, and swifter, and more used to running, and you have your horns as a defense; why, then, O Mother! do the hounds frighten you so?”"
+    },
+    {
+     "id": "p001.s02",
+     "source": "She smiled, and said: “I know full well, my son, that all you say is true."
+    },
+    {
+     "id": "p001.s03",
+     "source": "I have the advantages you mention, but when I hear even the bark of a single dog I feel ready to faint, and fly away as fast as I can.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "No arguments will give courage to the coward."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

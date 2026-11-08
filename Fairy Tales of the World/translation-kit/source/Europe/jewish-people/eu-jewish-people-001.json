@@ -1,0 +1,205 @@
+{
+ "id": "eu-jewish-people-001",
+ "title": {
+  "id": "title",
+  "source": "\"Aunt Naomi\""
+ },
+ "tradition": "Jewish people",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Jewish Fairy Tales and Legends",
+ "credits": "Landa, Gertrude (author)",
+ "gutenberg": "Project Gutenberg eBook #26711 — https://www.gutenberg.org/ebooks/26711 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Jewish people/001 - Aunt Naomi.md",
+ "stats": {
+  "paragraphs": 18,
+  "segments": 20,
+  "words": 655
+ },
+ "paragraphs": [
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "(GERTRUDE LANDA)"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "SIXTEENTH THOUSAND"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "NEW YORK BLOCH PUBLISHING CO., Inc. \" The Jewish Book Concern \" 1943"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Copyright, 1919, Bloch Publishing Company."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p006"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "PREFACE"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "The very cordial welcome given to my earlier volume of \"Jewish Fairy Tales and Fables\" has prompted me to draw further upon Rabbinic lore in the interest, chiefly, of the children."
+    },
+    {
+     "id": "p008.s02",
+     "source": "How the wise Rabbis of old took into account the necessities of the little ones, whose minds they understood so perfectly, is obvious from such legends as those dealing with boyish exploits of the great Biblical characters, Abraham, Moses, and David."
+    },
+    {
+     "id": "p008.s03",
+     "source": "These I have rewritten from the stories in the Talmud and Midrash in a manner suitable for the children of to-day."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "I have ventured also beyond the confines of these two wonderful compilations."
+    },
+    {
+     "id": "p009.s02",
+     "source": "There is a wealth of delightful imagination in the legends and folk-lore of the Jews of a later period which is almost entirely unknown to children."
+    },
+    {
+     "id": "p009.s03",
+     "source": "I have drawn also on these sources for some of the stories here presented."
+    },
+    {
+     "id": "p009.s04",
+     "source": "My desire is to give boys and girls something Jewish which they may be able to regard as companion delights to the treasury of general fairy-lore and childish romance."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Aunt Naomi."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "London , March, 1919 ."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p012"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "CONTENTS"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Page THE PALACE OF THE EAGLES 15 THE GIANT OF THE FLOOD 27 THE FAIRY PRINCESS OF ERGETZ 35 THE HIGGLEDY-PIGGLEDY PALACE 67 THE RED SLIPPER 77 THE STAR CHILD 87 ABI FRESSAH'S FEAST 99 THE BEGGAR KING 113 THE QUARREL OF THE CAT AND DOG 119 THE WATER-BABE 127 SINBAD OF THE TALMUD 133 THE OUTCAST PRINCE 151 THE STORY OF BOSTANAI 163 FROM SHEPHERD-BOY TO KING 173 THE MAGIC PALACE 179 THE SLEEP OF ONE HUNDRED YEARS 187 KING FOR THREE DAYS 195 THE PALACE IN THE CLOUDS 203 THE POPE'S GAME OF CHESS 213 THE SLAVE'S FORTUNE 225 THE PARADISE IN THE SEA 235 THE RABBI'S BOGEY-MAN 243 THE FAIRY FROG 251 THE PRINCESS OF THE TOWER 259 KING ALEXANDER'S ADVENTURES 277 a. The Vision of Victory 277 b. The Land of Darkness 282 c. The Wonders of the World 288"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p015"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "ILLUSTRATIONS"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "PAGE \"Where is the door?\""
+    },
+    {
+     "id": "p017.s02",
+     "source": "Frontispiece Og, riding gaily on the unicorn behind the Ark, was quite happy 26 A strange crowd of demons of all shapes and sizes poured into the synagogue with threatening gestures 36 He could not see what Sarah saw—a figure, a spirit, clutching a big stick 68 \"The big fellow here got angry, beat the others and smashed them to bits\" 88 He sprang from his stool, spluttering and cursing 100 He found a beautiful youth, clad in a deer skin, lying on the ground 112 With a cry, he put his fingers in his mouth to ease the pain and burned his tongue 126 They saw the land rise up like a huge mountain and a tremendous stream of water gush forth 134 He looked up and beheld the most beautiful woman his eyes had ever seen 150 As the Shah raised his sword an old man stepped from behind the tree 162 Behind him a fierce roar indicated that the lion was in pursuit 172 The gates opened from within and the Arab stood before them 178 The sun was shining on a noble city of pinnacles and minarets 188 He heard a cry of alarm and saw a huge stone fall on the soldier riding behind him 194 The four youths mounted the eagles which flew aloft to the extremity of their cords 202 \"Thou canst only be my long lost son Elkanan!\""
+    },
+    {
+     "id": "p017.s03",
+     "source": "214 He crouched on his throne and imagined he saw angels and demons and fairies 234 The monster was battering down the door of the synagogue 244 Hanina and his wife followed the giant frog 252 The giant bird did not seem to notice its burden at all 258 Then the door slowly opened and a figure in white stood in the entry 276"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p018"
+  }
+ ]
+}

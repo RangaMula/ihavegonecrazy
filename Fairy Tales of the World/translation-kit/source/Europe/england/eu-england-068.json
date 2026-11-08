@@ -1,0 +1,993 @@
+{
+ "id": "eu-england-068",
+ "title": {
+  "id": "title",
+  "source": "A Pottle o' Brains"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "More English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #14241 — https://www.gutenberg.org/ebooks/14241 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/068 - A Pottle o' Brains.md",
+ "stats": {
+  "paragraphs": 88,
+  "segments": 111,
+  "words": 1656
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once in these parts, and not so long gone neither, there was a fool that wanted to buy a pottle o' brains, for he was ever getting into scrapes through his foolishness, and being laughed at by every one."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Folk told him that he could get everything he liked from the wise woman that lived on the top o' the hill, and dealt in potions and herbs and spells and things, and could tell thee! all as 'd come to thee or thy folk."
+    },
+    {
+     "id": "p001.s03",
+     "source": "So he told his mother, and asked her if he could seek the wise woman and buy a pottle o' brains."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"That ye should,\" says she; \"thou 'st sore need o' them, my son: and if I should die, who'd take care o' a poor fool such 's thou, no more fit to look after thyself than an unborn baby? but mind thy manners, and speak her pretty, my lad; for they wise folk are gey and light mispleased.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "So off he went after his tea, and there she was, sitting by the fire, and stirring a big pot."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Good e'en, missis,\" says he, \"it's a fine night.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Aye,\" says she, and went on stirring."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"It'll maybe rain,\" says he, and fidgeted from one foot to t' other."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Maybe,\" says she."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"And m'appen it won't,\" says he, and looked out o' the window."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"M'appen,\" says she."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "And he scratched his head and twisted his hat."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"Well,\" says he, \"I can't mind nothing else about the weather, but let me see; the crops are getting on fine.\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"Fine,\" says she."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"And—and—the beasts is fattening,\" says he."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"They are,\" says she."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"And—and—\" says he, and comes to a stop—\"I reckon we'll tackle business now, having done the polite like."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Have you any brains for to sell?\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"That depends,\" says she, \"if thou wants king's brains, or soldier's brains, or schoolmaster's brains, I dinna keep 'em.\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Hout no,\" says he, \"jist ordinary brains—fit for any fool—same as every one has about here; something clean common-like.\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Aye so,\" says the wise woman, \"I might manage that, if so be thou 'lt help thyself.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"How's that for, missis?\" says he."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"Jest so,\" says she, looking in the pot; \"bring me the heart of the thing thou likest best of all, and I'll tell thee where to get thy pottle o' brains.\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"But,\" says he, scratching his head, \"how can I do that?\""
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"That's no for me to say,\" says she, \"find out for thyself, my lad! if thou doesn't want to be a fool all thy days."
+    },
+    {
+     "id": "p022.s02",
+     "source": "But thou 'll have to read me a riddle so as I can see thou 'st brought the right thing, and if thy brains is about thee."
+    },
+    {
+     "id": "p022.s03",
+     "source": "And I've something else to see to,\" says she, \"so gode'en to thee,\" and she carried the pot away with her into the back place."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "So off went the fool to his mother, and told her what the wise woman said."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"And I reckon I'll have to kill that pig,\" says he, \"for I like fat bacon better than anything.\""
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"Then do it, my lad,\" said his mother, \"for certain 't will be a strange and good thing fur thee, if thou canst buy a pottle o' brains, and be able to look after thy own self.\""
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "So he killed his pig, and next day off he went to the wise woman's cottage, and there she sat, reading in a great book."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"Gode'en, missis,\" says he, \"I've brought thee the heart o' the thing I like the best of all; and I put it hapt in paper on the table.\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"Aye so?\" says she, and looked at him through her spectacles."
+    },
+    {
+     "id": "p028.s02",
+     "source": "\"Tell me this then, what runs without feet?\""
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "He scratched his head, and thought, and thought, but he couldn't tell."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "\"Go thy ways,\" says she, \"thou 'st not fetched me the right thing yet."
+    },
+    {
+     "id": "p030.s02",
+     "source": "I've no brains for thee to-day.\""
+    },
+    {
+     "id": "p030.s03",
+     "source": "And she clapt the book together, and turned her back."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "So off the fool went to tell his mother."
+    },
+    {
+     "id": "p031.s02",
+     "source": "But as he got nigh the house, out came folk running to tell him that his mother was dying."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "And when he got in, his mother only looked at him and smiled as if to say she could leave him with a quiet mind since he had got brains enough now to look after himself—and then she died."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "So down he sat and the more he thought about it the badder he felt."
+    },
+    {
+     "id": "p033.s02",
+     "source": "He minded how she'd nursed him when he was a tiddy brat, and helped him with his lessons, and cooked his dinners, and mended his clouts, and bore with his foolishness; and he felt sorrier and sorrier, while he began to sob and greet."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "\"Oh, mother, mother!\" says he, \"who'll take care of me now?"
+    },
+    {
+     "id": "p034.s02",
+     "source": "Thou shouldn't have left me alone, for I liked thee better than everything!\""
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "And as he said that, he thought of the words of the wise woman."
+    },
+    {
+     "id": "p035.s02",
+     "source": "\"Hi, yi!\" says he, \"must I take mother's heart to her?\""
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "\"No!"
+    },
+    {
+     "id": "p036.s02",
+     "source": "I can't do that,\" says he."
+    },
+    {
+     "id": "p036.s03",
+     "source": "\"What'll I do? what'll I do to get that pottle o' brains, now I'm alone in the world?\""
+    },
+    {
+     "id": "p036.s04",
+     "source": "So he thought and thought and thought, and next day he went and borrowed a sack, and bundled his mother in, and carried it on his shoulder up to the wise woman's cottage."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "\"Gode'en, missis,\" says he, \"I reckon I've fetched thee the right thing this time, surely,\" and he plumped the sack down kerflap! in the doorsill."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "\"Maybe,\" says the wise woman, \"but read me this, now, what's yellow and shining but isn't gold?\""
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "And he scratched his head, and thought and thought, but he couldn't tell."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "\"Thou 'st not hit the right thing, my lad,\" says she."
+    },
+    {
+     "id": "p040.s02",
+     "source": "\"I doubt thou 'rt a bigger fool than I thought!\" and shut the door in his face."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "\"See there!\" says he, and set down by the road side and greets."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "\"I've lost the only two things as I cared for, and what else can I find to buy a pottle o' brains with!\" and he fair howled, till the tears ran down into his mouth."
+    },
+    {
+     "id": "p042.s02",
+     "source": "And up came a lass that lived near at hand, and looked at him."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "\"What's up with thee, fool?\" says she."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "\"Oo, I've killed my pig, and lost my mother and I'm nobbut a fool myself,\" says he, sobbing."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "\"That's bad,\" says she; \"and haven't thee anybody to look after thee?\""
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "\"No,\" says he, \"and I canna buy my pottle o' brains, for there's nothing I like best left!\""
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "\"What art talking about?\" says she."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "And down she sets by him, and he told her all about the wise woman and the pig, and his mother and the riddles, and that he was alone in the world."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "\"Well,\" says she, \"I wouldn't mind looking after thee myself.\""
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "\"Could thee do it?\" says he."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "\"Ou, ay!\" says she; \"folks say as fools make good husbands, and I reckon I'll have thee, if thou 'rt willing.\""
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "\"Can'st cook?\" says he."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "\"Ay, I can,\" says she."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "\"And scrub?\" says he."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "\"Surely,\" says she."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "\"And mend my clouts?\" says he."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "\"I can that,\" says she."
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "\"I reckon thou 'lt do then as well as anybody,\" says he; \"but what'll I do about this wise woman?\""
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "\"Oh, wait a bit,\" says she, \"something may turn up, and it'll not matter if thou 'rt a fool, so long'st thou 'st got me to look after thee.\""
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "\"That's true,\" says he, and off they went and got married."
+    },
+    {
+     "id": "p060.s02",
+     "source": "And she kept his house so clean and neat, and cooked his dinner so fine, that one night he says to her: \"Lass, I'm thinking I like thee best of everything after all.\""
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "\"That's good hearing,\" says she, \"and what then?\""
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "\"Have I got to kill thee, dost think, and take thy heart up to the wise woman for that pottle o' brains?\""
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "\"Law, no!\" says she, looking skeered, \"I winna have that."
+    },
+    {
+     "id": "p063.s02",
+     "source": "But see here; thou didn't cut out thy mother's heart, did thou?\""
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "\"No; but if I had, maybe I'd have got my pottle o' brains,\" says he."
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "\"Not a bit of it,\" says she; \"just thou take me as I be, heart and all, and I'll wager I'll help thee read the riddles.\""
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "\"Can thee so?\" says he, doubtful like; \"I reckon they're too hard for women folk.\""
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "\"Well,\" says she, \"let's see now."
+    },
+    {
+     "id": "p067.s02",
+     "source": "Tell me the first\""
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "\"What runs without feet?\" says he."
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "\"Why, water!\" says she."
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "\"It do,\" says he, and scratched his head."
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "\"And what's yellow and shining but isn't gold?\""
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "\"Why, the sun!\" says she."
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "\"Faith, it be!\" says he."
+    },
+    {
+     "id": "p073.s02",
+     "source": "\"Come, we'll go up to the wise woman at once,\" and off they went."
+    },
+    {
+     "id": "p073.s03",
+     "source": "And as they came up the pad, she was sitting at the door, twining straws."
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "\"Gode'en, missis,\" says he."
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "\"Gode'en, fool,\" says she."
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "\"I reckon I've fetched thee the right thing at last,\" says he."
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "The wise woman looked at them both, and wiped her spectacles."
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "\"Canst tell me what that is as has first no legs, and then two legs, and ends with four legs?\""
+    }
+   ],
+   "id": "p078"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p079.s01",
+     "source": "And the fool scratched his head and thought and thought, but he couldn't tell."
+    }
+   ],
+   "id": "p079"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p080.s01",
+     "source": "And the lass whispered in his ear:"
+    }
+   ],
+   "id": "p080"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p081.s01",
+     "source": "\"It's a tadpole.\""
+    }
+   ],
+   "id": "p081"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p082.s01",
+     "source": "\"M'appen,\" says he then, \"it may be a tadpole, missis.\""
+    }
+   ],
+   "id": "p082"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p083.s01",
+     "source": "The wise woman nodded her head."
+    }
+   ],
+   "id": "p083"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p084.s01",
+     "source": "\"That's right,\" says she, \"and thou 'st got thy pottle o' brains already.\""
+    }
+   ],
+   "id": "p084"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p085.s01",
+     "source": "\"Where be they?\" says he, looking about and feeling in his pockets."
+    }
+   ],
+   "id": "p085"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p086.s01",
+     "source": "\"In thy wife's head,\" says she."
+    },
+    {
+     "id": "p086.s02",
+     "source": "\"The only cure for a fool is a good wife to look after him, and that thou 'st got, so gode'en to thee!\""
+    },
+    {
+     "id": "p086.s03",
+     "source": "And with that she nodded to them, and up and into the house."
+    }
+   ],
+   "id": "p086"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p087.s01",
+     "source": "So they went home together, and he never wanted to buy a pottle o' brains again, for his wife had enough for both."
+    }
+   ],
+   "id": "p087"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p088"
+  }
+ ]
+}

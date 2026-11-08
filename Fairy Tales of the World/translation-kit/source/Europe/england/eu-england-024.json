@@ -1,0 +1,159 @@
+{
+ "id": "eu-england-024",
+ "title": {
+  "id": "title",
+  "source": "The Golden Arm"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #7439 — https://www.gutenberg.org/ebooks/7439 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/024 - The Golden Arm.md",
+ "stats": {
+  "paragraphs": 11,
+  "segments": 18,
+  "words": 262
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Here was once a man who travelled the land all over in search of a wife."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He saw young and old, rich and poor, pretty and plain, and could not meet with one to his mind."
+    },
+    {
+     "id": "p001.s03",
+     "source": "At last he found a woman, young, fair, and rich, who possessed a right arm of solid gold."
+    },
+    {
+     "id": "p001.s04",
+     "source": "He married her at once, and thought no man so fortunate as he was."
+    },
+    {
+     "id": "p001.s05",
+     "source": "They lived happily together, but, though he wished people to think otherwise, he was fonder of the golden arm than of all his wife's gifts besides."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "At last she died."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The husband put on the blackest black, and pulled the longest face at the funeral; but for all that he got up in the middle of the night, dug up the body, and cut off the golden arm."
+    },
+    {
+     "id": "p002.s03",
+     "source": "He hurried home to hide his treasure, and thought no one would know."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The following night he put the golden arm under his pillow, and was just falling asleep, when the ghost of his dead wife glided into the room."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Stalking up to the bedside it drew the curtain, and looked at him reproachfully."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Pretending not to be afraid, he spoke to the ghost, and said: “What hast thou done with thy cheeks so red?”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“All withered and wasted away,” replied the ghost, in a hollow tone."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“What hast thou done with thy red rosy lips?”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“All withered and wasted away.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“What hast thou done with thy golden hair?”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“All withered and wasted away.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“What hast thou done with thy Golden Arm ?”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“THOU HAST IT!”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p011"
+  }
+ ]
+}

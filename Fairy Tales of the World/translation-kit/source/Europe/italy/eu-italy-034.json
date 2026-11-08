@@ -1,0 +1,73 @@
+{
+ "id": "eu-italy-034",
+ "title": {
+  "id": "title",
+  "source": "The Treasure"
+ },
+ "tradition": "Italy",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Italian Popular Tales",
+ "credits": "Crane, Thomas Frederick (author, d. 1927)",
+ "gutenberg": "Project Gutenberg eBook #23634 — https://www.gutenberg.org/ebooks/23634 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Italy/034 - The Treasure.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 7,
+  "words": 147
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once upon a time there was a prince who studied and racked his brains so much that he learned magic and the art of finding hidden treasures."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One day he discovered a treasure in a bank, let us say the bank of Ddisisa: \"Oh, he says, now I am going to get it out.\""
+    },
+    {
+     "id": "p001.s03",
+     "source": "But to get it out it was necessary that ten million million ants should cross one by one the river Gianquadara (let us suppose it was that one) in a bark made of the half shell of a nut."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The prince puts the bark in the river and begins to make the ants pass over."
+    },
+    {
+     "id": "p001.s05",
+     "source": "One, two, three,——and he is still doing it."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Here the person who is telling the story pauses and says: \"We will finish this story when the ants have finished passing over.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The version from Milan is still shorter:"
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

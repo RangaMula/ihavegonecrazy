@@ -1,0 +1,66 @@
+{
+ "id": "eu-serbia-022",
+ "title": {
+  "id": "title",
+  "source": "The Treachery of Brankovitch"
+ },
+ "tradition": "Serbia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Hero Tales and Legends of the Serbians",
+ "credits": "Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)",
+ "gutenberg": "Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Serbia/022 - The Treachery of Brankovitch.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 8,
+  "words": 203
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was, however, treachery in the Serbian camp."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Vook (Wolf) Brankovitch, one of the great lords, to whom was entrusted one wing of the Serbian army, had long been jealous of his sovereign."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Some historians state that he had arranged with Sultan Amourath to betray his master, in return for the promise of the imperial crown of Serbia, subject to the Sultan’s overlordship."
+    },
+    {
+     "id": "p001.s04",
+     "source": "At a critical moment in the battle, the traitor turned his horse and fled from the field, followed by 12,000 of his troops, who believed this to be a stratagem intended to deceive the Turks."
+    },
+    {
+     "id": "p001.s05",
+     "source": "This was a great blow to the Serbians, and when, later in the day the Turks were reinforced by fresh troops under the command of the Sultan’s son, Bajazet, the Turkish victory was complete."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Knez Lazar was taken prisoner and beheaded, and the Sultan himself perished by the hand of a Serbian voïvode, Milosh Obilitch."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Notwithstanding the disaster, in which Brankovitch also perished, the Serbian state did not succumb to the Turks, thanks to the wisdom and bravery of Lazar’s son, Stevan Lazarevitch (1389–1427)."
+    },
+    {
+     "id": "p002.s02",
+     "source": "His nephew, Dyourady Brankovitch (1427–1456), also fought heroically, but was compelled, inch by inch, to cede his state to the Turks."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "id": "eu-finland-020",
+ "title": {
+  "id": "title",
+  "source": "The Children'S Library"
+ },
+ "tradition": "Finland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Finnish Legends for English Children",
+ "credits": "Eivind, R. (author)",
+ "gutenberg": "Project Gutenberg eBook #24948 — https://www.gutenberg.org/ebooks/24948 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Finland/020 - The Children'S Library.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 15,
+  "words": 64
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "THE BROWN OWL."
+    },
+    {
+     "id": "p001.s02",
+     "source": "THE CHINA CUP."
+    },
+    {
+     "id": "p001.s03",
+     "source": "STORIES FROM FAIRYLAND."
+    },
+    {
+     "id": "p001.s04",
+     "source": "TALES FROM THE MABINOGION."
+    },
+    {
+     "id": "p001.s05",
+     "source": "THE STORY OF A PUPPET."
+    },
+    {
+     "id": "p001.s06",
+     "source": "THE LITTLE PRINCESS."
+    },
+    {
+     "id": "p001.s07",
+     "source": "IRISH FAIRY TALES."
+    },
+    {
+     "id": "p001.s08",
+     "source": "AN ENCHANTED GARDEN."
+    },
+    {
+     "id": "p001.s09",
+     "source": "LA BELLE NIVERNAISE."
+    },
+    {
+     "id": "p001.s10",
+     "source": "THE FEATHER."
+    },
+    {
+     "id": "p001.s11",
+     "source": "FINN AND HIS COMPANIONS."
+    },
+    {
+     "id": "p001.s12",
+     "source": "NUTCRACKER AND MOUSE-KING."
+    },
+    {
+     "id": "p001.s13",
+     "source": "THE PENTAMERONE."
+    },
+    {
+     "id": "p001.s14",
+     "source": "FINNISH LEGENDS. ( Others in the Press. )"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "FINNISH LEGENDS FOR ENGLISH CHILDREN BY R. EIVIND SEVEN ILLUSTRATIONS LONDON T. FISHER UNWIN 1893"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  }
+ ]
+}

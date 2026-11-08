@@ -1,0 +1,54 @@
+{
+ "id": "am-ojibwe-and-algonquin-peoples-045",
+ "title": {
+  "id": "title",
+  "source": "Iroquois Pictographs"
+ },
+ "tradition": "Ojibwe and Algonquin peoples",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths and Folk-lore of the Timiskaming Algonquin and Timagami Ojibwa",
+ "credits": "Speck, F. G. (author, d. 1950)",
+ "gutenberg": "Project Gutenberg eBook #66509 — https://www.gutenberg.org/ebooks/66509 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Ojibwe and Algonquin peoples/045 - Iroquois Pictographs.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 5,
+  "words": 136
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "“The Iroquois used to come here to fight the Ojibwa because the Americans had driven them from their homes in the States and the Iroquois had to seek new countries beyond the settlements in the North."
+    },
+    {
+     "id": "p001.s02",
+     "source": "In their excursions, when they got far from home, they cut and painted pictures in the rocks on river or lake shores, so that their friends, if they ever penetrated so far, would know that their own people had been there before them."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The characters of these pictures would tell what had happened, so that if the advance party never returned to their people, some record would at least be left behind of their journey.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The Ojibwa attributed nearly all pictographs to the Iroquois."
+    },
+    {
+     "id": "p002.s02",
+     "source": "On Lady Evelyn lake are a number of such figures, showing animals and men in canoes."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

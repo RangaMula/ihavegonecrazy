@@ -1,0 +1,56 @@
+{
+ "id": "am-iroquois-haudenosaunee-people-053",
+ "title": {
+  "id": "title",
+  "source": "Tapping The Maple Trees"
+ },
+ "tradition": "Iroquois (Haudenosaunee) people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Iroquois. (1883 N 02 / 1880-1881 (pages 47-116))",
+ "credits": "Smith, Erminnie A. (Erminnie Adele) (author, d. 1886)",
+ "gutenberg": "Project Gutenberg eBook #46140 — https://www.gutenberg.org/ebooks/46140 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Iroquois (Haudenosaunee) people/053 - Tapping The Maple Trees.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 4,
+  "words": 105
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The next public service is at the tapping of the maple trees, and consists of the war dance, the performance of which will, it is hoped, bring on warmer weather and cause the sap to flow."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "As a special favor to ambitious parents, the dancing warriors often bear in their arms infant boys, who are supposed to become early inured and inspired with a desire for a warrior life."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "At the close of the sugar season follows the maple-sugar festival, the soups of which are all seasoned with the newly-made sugar."
+    },
+    {
+     "id": "p003.s02",
+     "source": "This festival, in which a number of dances are introduced, lasts but one day."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

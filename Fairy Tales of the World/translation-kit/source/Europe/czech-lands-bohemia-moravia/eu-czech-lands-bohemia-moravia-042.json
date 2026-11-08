@@ -1,0 +1,629 @@
+{
+ "id": "eu-czech-lands-bohemia-moravia-042",
+ "title": {
+  "id": "title",
+  "source": "Kuratko The Terrible"
+ },
+ "tradition": "Czech lands (Bohemia, Moravia)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "The Shoemaker's Apron: A Second Book of Czechoslovak Fairy Tales and Folk Tales",
+ "credits": "Fillmore, Parker (author, d. 1944)",
+ "gutenberg": "Project Gutenberg eBook #33002 — https://www.gutenberg.org/ebooks/33002 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Czech lands (Bohemia, Moravia)/042 - Kuratko The Terrible.md",
+ "stats": {
+  "paragraphs": 44,
+  "segments": 86,
+  "words": 810
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once an old couple who had no children."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"If only we had a chick or a child of our own!\""
+    },
+    {
+     "id": "p002.s02",
+     "source": "Grandmother used to say."
+    },
+    {
+     "id": "p002.s03",
+     "source": "\"Think how we could pet it and take care of it!\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "But Grandfather always answered:"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Not at all!"
+    },
+    {
+     "id": "p004.s02",
+     "source": "We are very well off as we are.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "At last the old black hen in the barnyard hatched out a chick."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Grandmother was delighted."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"See, Grandpa,\" she said, \"now we have a chick of our own!\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "But Grandfather shook his head doubtfully."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"I don't like the looks of that chick."
+    },
+    {
+     "id": "p008.s02",
+     "source": "There's something strange about it.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "But Grandmother wouldn't listen."
+    },
+    {
+     "id": "p009.s02",
+     "source": "To her the chick seemed everything it should be."
+    },
+    {
+     "id": "p009.s03",
+     "source": "She called it Kuratko and petted it and pampered it as though it were an only child."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Kuratko grew apace and soon he developed an awful appetite."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"Cockadoodledoo!\" he shouted at all hours of the day."
+    },
+    {
+     "id": "p011.s02",
+     "source": "\"I'm hungry!"
+    },
+    {
+     "id": "p011.s03",
+     "source": "Give me something to eat!\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"You mustn't feed that chick so much!\""
+    },
+    {
+     "id": "p012.s02",
+     "source": "Grandfather grumbled."
+    },
+    {
+     "id": "p012.s03",
+     "source": "\"He's eating us out of house and home.\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "But Grandmother wouldn't listen."
+    },
+    {
+     "id": "p013.s02",
+     "source": "She fed Kuratko and fed him until sure enough there came a day when there was nothing left for herself and the old man."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "That was a nice how-do-you-do!"
+    },
+    {
+     "id": "p014.s02",
+     "source": "Grandmother sat working at her spinning-wheel trying to forget that she was hungry, and Grandfather sat on his stool nearby too cross to speak to her."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "And then, quite as though nothing were the matter, Kuratko strutted into the room, flapped his wings, and crowed:"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"Cockadoodledo!"
+    },
+    {
+     "id": "p016.s02",
+     "source": "I'm hungry!"
+    },
+    {
+     "id": "p016.s03",
+     "source": "Give me something to eat!\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Not another blessed thing will I ever feed you, you greedy chick!\""
+    },
+    {
+     "id": "p017.s02",
+     "source": "Grandfather shouted."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Cockadoodledo!\""
+    },
+    {
+     "id": "p018.s02",
+     "source": "Kuratko answered."
+    },
+    {
+     "id": "p018.s03",
+     "source": "\"Then I'll just eat you!\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "With that he made one peck at Grandfather and swallowed him down, stool and all!"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"Oh, Kuratko!\""
+    },
+    {
+     "id": "p020.s02",
+     "source": "Grandmother cried."
+    },
+    {
+     "id": "p020.s03",
+     "source": "\"Where's Grandpa?\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"Cockadoodledo!\""
+    },
+    {
+     "id": "p021.s02",
+     "source": "Kuratko remarked."
+    },
+    {
+     "id": "p021.s03",
+     "source": "\"I'm still hungry."
+    },
+    {
+     "id": "p021.s04",
+     "source": "I think I'll eat you!\""
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "And with that he made one peck at Grandmother and swallowed her down, spinning-wheel and all!"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Then that terrible chick went strutting down the road, crowing merrily!"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "He met a washerwoman at work over her wash-tub."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"Good gracious, Kuratko!\" the woman cried."
+    },
+    {
+     "id": "p025.s02",
+     "source": "\"What a great big crop you've got!\""
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"Cockadoodledo!\""
+    },
+    {
+     "id": "p026.s02",
+     "source": "Kuratko said."
+    },
+    {
+     "id": "p026.s03",
+     "source": "\"I should think my crop was big for haven't I just eaten Grandmother, spinning-wheel and all, and Grandfather, stool and all?"
+    },
+    {
+     "id": "p026.s04",
+     "source": "But I'm still hungry, so now I'm going to eat you!\""
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Before the poor woman knew what was happening, Kuratko made one peck at her and swallowed her down, wash-tub and all!"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Then he strutted on down the road, crowing merrily."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Presently he came to a company of soldiers."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "\"Good gracious, Kuratko!\" the soldiers cried."
+    },
+    {
+     "id": "p030.s02",
+     "source": "\"What a great big crop you've got!\""
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "\"Cockadoodledo!\""
+    },
+    {
+     "id": "p031.s02",
+     "source": "Kuratko replied."
+    },
+    {
+     "id": "p031.s03",
+     "source": "\"I should think my crop was big, for haven't I just eaten a washerwoman, tub and all, Grandmother, spinning-wheel and all, and Grandfather, stool and all?"
+    },
+    {
+     "id": "p031.s04",
+     "source": "But I'm still hungry, so now I'm going to eat you!\""
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Before the soldiers knew what was happening, Kuratko pecked at them and swallowed them down, bayonets and all, one after another, like so many grains of wheat!"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Then that terrible chick went on strutting down the road, crowing merrily."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Soon he met Kotsor, the cat."
+    },
+    {
+     "id": "p034.s02",
+     "source": "Kotsor, the cat, blinked his eyes and worked his whiskers in surprise."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "\"Good gracious, Kuratko, what a great big crop you've got!\""
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "\"Cockadoodledo!\""
+    },
+    {
+     "id": "p036.s02",
+     "source": "Kuratko said."
+    },
+    {
+     "id": "p036.s03",
+     "source": "\"I should think my crop was big, for haven't I just eaten a company of soldiers, bayonets and all; a washerwoman, tub and all; Grandmother, spinning-wheel and all; and Grandfather, stool and all?"
+    },
+    {
+     "id": "p036.s04",
+     "source": "But I'm still hungry, so now I'm going to eat you!\""
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Before Kotsor, the cat, knew what was happening, Kuratko made one peck at him and swallowed him down."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "But Kotsor, the cat, was not a person to submit tamely to such an indignity."
+    },
+    {
+     "id": "p038.s02",
+     "source": "The moment he found himself inside Kuratko he unsheathed his claws and began to scratch and to tear."
+    },
+    {
+     "id": "p038.s03",
+     "source": "He worked until he had torn a great hole in Kuratko's crop."
+    },
+    {
+     "id": "p038.s04",
+     "source": "At that Kuratko, the Terrible Chick, when he tried again to crow, toppled over dead!"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Then Kotsor, the cat, jumped out of Kuratko's crop; after him the company of soldiers marched out; and after them the washerwoman with her tub, Grandmother with her spinning-wheel, and Grandfather with his stool."
+    },
+    {
+     "id": "p039.s02",
+     "source": "And they all went about their business."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Kotsor, the cat, followed Grandmother and Grandfather home and begged them to give him Kuratko for his dinner."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "\"You may have him for all of me,\" Grandfather said."
+    },
+    {
+     "id": "p041.s02",
+     "source": "\"But ask Grandmother."
+    },
+    {
+     "id": "p041.s03",
+     "source": "He was her little pet, not mine.\""
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "\"Indeed you may have him,\" Grandmother said."
+    },
+    {
+     "id": "p042.s02",
+     "source": "\"I see now Grandfather was right."
+    },
+    {
+     "id": "p042.s03",
+     "source": "Kuratko was certainly an ungrateful chick and I never want to hear his name again.\""
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "So Kotsor, the cat, had a wonderful dinner and to this day when he remembers it he licks his chops and combs his whiskers."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p044"
+  }
+ ]
+}

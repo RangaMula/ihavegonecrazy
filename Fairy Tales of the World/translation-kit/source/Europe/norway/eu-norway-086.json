@@ -1,0 +1,803 @@
+{
+ "id": "eu-norway-086",
+ "title": {
+  "id": "title",
+  "source": "How They Got Hairlock Home"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales from the Fjeld: A Second Series of Popular Tales",
+ "credits": "Asbjørnsen, Peter Christen (author, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)",
+ "gutenberg": "Project Gutenberg eBook #36385 — https://www.gutenberg.org/ebooks/36385 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Norway/086 - How They Got Hairlock Home.md",
+ "stats": {
+  "paragraphs": 77,
+  "segments": 80,
+  "words": 1726
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "\"Once on a time there was a goody who had three sons."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The first was called Peter, the second Paul, and the third Osborn Boots."
+    },
+    {
+     "id": "p001.s03",
+     "source": "One single nanny-goat she had who was called Hairlock and she never would come home in time for tea."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"Peter and Paul both went out to get her home, but they found no nanny-goat, so Boots had to set off, and when he had walked a while he saw Hairlock high, high upon a crag."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"'Dear Hairlock, pretty Hairlock,' he cried, 'you can't stand any longer on yon crag, for you must come home in good time for tea, to-day.'"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"'No, no, that I shan't,' said Hairlock, 'I won't wet my socks for any one, and if you want me you must carry me.'"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"But Osborn Boots would not do that, so he went and told his mother."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"'Well!' said his mother, 'go to the fox and beg him to bite Hairlock.'"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"So the lad went to the fox."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"'My dear fox, bite Hairlock, for Hairlock won't come home in good time for tea to-day.'"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"'No,' said the fox, 'I won't blunt my snout on pig's bristles and goat's beards.'"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"So the lad went and told his mother."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"'Well, then!' she said, 'go to Graylegs, the wolf.'"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"So the lad said to Graylegs,—"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"'Dear Graylegs! do, Graylegs, tear the fox, for the fox won't bite Hairlock, and Hairlock won't come home in good time for tea to-day.'"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"'No,' said Graylegs, 'I won't wear out my paws and teeth on a dry fox's carcass.'"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"So the lad went and told his mother."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"'Well then, go to the bear,' said his mother, 'and beg him to slay Graylegs.'"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"So the lad said to the bear,—"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"'My dear bear, do, bear, slay Graylegs, for Graylegs won't tear the fox, and the fox won't bite Hairlock, and Hairlock won't come home in good time for tea to-day.'"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"'No, I won't,' said the bear, 'I won't blunt my claws in that work, that I won't.'"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"So the lad told his mother."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"'Well then,' she said, 'go to the Finn and beg him shoot the bear.'"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"So the lad said to the Finn,—"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"'Dear Finn! do, Finn, shoot the bear, the bear won't slay Graylegs, Graylegs won't tear the fox, the fox won't bite Hairlock, and Hairlock won't come home in good time for tea to-day.'"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"'No! that I won't,' said the Finn, 'I'm not going to shoot away my bullets for that.'"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"So the lad told his mother."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"'Well then,' she said, 'go to the fir, and beg him fall on the Finn.'"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"So the lad said to the fir,—"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"'My dear fir! fir, do fall on the Finn, the Finn won't shoot the bear, the bear won't slay the wolf, the wolf won't tear the fox, the fox won't bite Hairlock, and Hairlock won't come home in good time to tea to-day.'"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "\"'No! that I won't,' said the fir, 'I'm not going to break off my boughs for that.'"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "\"So the lad told his mother."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "\"'Well then,' said she, 'go to the fire and beg it to burn the fir.'"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "\"So the lad said to the fire, 'My dear fire! do, fire, burn the fir, the fir won't fall on the Finn, the Finn won't shoot the bear, the bear won't slay the wolf, the wolf won't tear the fox, the fox won't bite Hairlock, and Hairlock won't come home in good time to tea to-day.'"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "\"'No! that I won't,' said the fire, 'I'm not going to burn myself out for that, that I won't.'"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "\"So the lad told his mother."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "\"'Well then,' she said, 'go to the water and beg it to quench the fire.'"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "\"So the lad said to the water,—"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "\"'My dear water! do, water, quench the fire, the fire won't burn the fir, the fir won't fall on the Finn, the Finn won't shoot the bear, the bear won't slay the wolf, the wolf won't tear the fox, the fox won't bite Hairlock, and Hairlock won't come home in good time to tea to-day.'"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "\"No, I won't,' said the water, 'I'm not going to run to waste for that, be sure.'"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "\"So the lad told his mother."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "\"'Well then,' she said, 'go to the ox, and beg him to drink up the water.'"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "\"So the lad said to the ox,—"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "\"'My dear ox! do, ox, drink up the water, for the water won't quench the fire, the fire won't burn the fir, the fir won't fall on the Finn, the Finn won't shoot the bear, the bear won't slay the wolf, the wolf won't tear the fox, the fox won't bite Hairlock, and Hairlock won't come home in good time to tea to-day.'"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "\"'No!"
+    },
+    {
+     "id": "p043.s02",
+     "source": "I won't,' said the ox, 'I'm not going to burst asunder in doing that, I trow.'"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "\"So the lad told his mother."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "\"'Well then,' said she, 'you must go to the yoke, and beg him to pinch the ox.'"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "\"So the lad said to the yoke,—"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "\"'My dear yoke! yoke, do pinch the ox, for the ox won't drink up the water, the water won't quench the fire, the fire won't burn the fir, the fir won't fall on the Finn, the Finn won't shoot the bear, the bear won't slay the wolf, the wolf won't tear the fox, the fox won't bite Hairlock, and Hairlock won't come home in good time to tea to-day.'"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "\"'No, that I won't,' said the yoke, 'I'm not going to break myself in two in doing that.'"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "\"So the lad told his mother."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "\"'Well then,' she said, 'you must go to the axe, and beg him to chop the yoke.'"
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "\"So the lad said to the axe,—"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "\"'My dear axe, do, axe, chop the yoke, for the yoke won't pinch the ox, the ox won't drink up the water, the water won't quench the fire, the fire won't burn the fir, the fir won't fall on the Finn, the Finn won't shoot the bear, the bear won't slay the wolf, the wolf won't tear the fox, the fox won't bite Hairlock, and Hairlock won't come home in good time to tea to-day.'"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "\"'No, that I won't,' said the axe, 'I'm not going to spoil my edge for that, that I won't.'"
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "\"So the lad told his mother."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "\"'Well then,' she said, 'go to the smith, and beg him to hammer the axe.'"
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "\"So the lad said to the smith,—"
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "\"'My dear smith! do, smith, hammer the axe, for the axe won't chop the yoke, the yoke won't pinch the ox, the ox won't drink up the water, the water won't quench the fire, the fire won't burn the fir, the fir won't fall on the Finn, the Finn won't shoot the bear, the bear won't slay the wolf, the wolf won't tear the fox, the fox won't bite Hairlock, and Hairlock won't come home in good time to tea to-day.'"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "\"'No, I won't,' said the smith, 'I'm not going to burn up my coal, and wear out my sledge hammer for that,' he said."
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "\"So the lad told his mother."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "\"'Well then,' she said, 'you must go to the rope, and beg it to hang the smith.'"
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "\"So the lad said to the rope,—"
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "\"'My dear rope! do, rope, hang the smith, for the smith won't hammer the axe, the axe won't chop the yoke, the yoke won't pinch the ox, the ox won't drink up the water, the water won't quench the fire, the fire won't burn the fir, the fir won't fall on the Finn, the Finn won't shoot the bear, the bear won't slay the wolf, the wolf won't tear the fox, the fox won't bite Hairlock, and Hairlock won't come home in good time to tea to-day.'"
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "\"'No!' said the rope, 'that I won't, I'm not going to fray myself out for that.'"
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "\"So the lad told his mother."
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "\"'Well then!' she said, 'you must go to the mouse, and beg him to gnaw the rope.'"
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "\"So the lad said to the mouse,—"
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "\"'My dear mouse! do, mouse, gnaw the rope, for the rope won't hang the smith, the smith won't hammer the axe, the axe won't chop the yoke, the yoke won't pinch the ox, the ox won't drink up the water, the water won't quench the fire, the fire won't burn the fir, the fir won't fall on the Finn, the Finn won't shoot the bear, the bear won't slay the wolf, the wolf won't tear the fox, the fox won't bite Hairlock, and Hairlock won't come home in good time to tea to-day.'"
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "\"'No!"
+    },
+    {
+     "id": "p068.s02",
+     "source": "I won't,' said the mouse, 'I'm not going to wear down my teeth for that.'"
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "\"So the lad told his mother."
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "\"'Well then,' she said, 'you must go to the cat, and beg her to catch the mouse.'"
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "\"So the lad said to the cat,—"
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "\"'My dear cat! do, cat, catch the mouse, for the mouse won't gnaw the rope, the rope won't hang the smith, the smith won't hammer the axe, the axe won't chop the yoke the yoke won't pinch the ox, the ox won't drink up the water, the water won't quench the fire, the fire won't burn the fir, the fir won't fall on the Finn, the Finn won't shoot the bear, the bear won't slay the wolf, the wolf won't tear the fox, the fox won't bite Hairlock, and Hairlock won't come home in good time to tea to-day.'"
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "\"'Well!' said the cat, 'just give me a drop of milk for my kittens and then——' that's what the cat said, and the lad said, 'yes, she should have it.'"
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "\"So the cat bit mouse, and mouse gnawed rope, and rope hanged smith, and smith hammered axe, and axe chopped yoke, and yoke pinched ox, and ox drank water, and water quenched fire, and fire burnt fir, and fir felled Finn, and Finn shot bear, and bear slew graylegs, and graylegs tore fox, and fox bit Hairlock, so that she sprang home and knocked off one of her hind legs against the barn wall."
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "\"So there lay the nanny-goat, and if she's not dead she limps about on three legs."
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "\"But as for Osborn Boots, he said it served her just right, because she would not come home in good time for tea that very day.\""
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p077"
+  }
+ ]
+}

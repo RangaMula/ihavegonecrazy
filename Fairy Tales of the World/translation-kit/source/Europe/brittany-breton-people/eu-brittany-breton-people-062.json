@@ -1,0 +1,58 @@
+{
+ "id": "eu-brittany-breton-people-062",
+ "title": {
+  "id": "title",
+  "source": "The Margots"
+ },
+ "tradition": "Brittany (Breton people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Brittany",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Brittany (Breton people)/062 - The Margots.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 6,
+  "words": 144
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Another Breton name for the fairies is les Margots la fée , a title which is chiefly employed in several districts of the Côtes-du-Nord, principally in the arrondissements of Saint-Brieuc and Loudéac, to describe those fairies who have their abode in large rocks and on the wild and extensive moorlands which are so typical of the country."
+    },
+    {
+     "id": "p001.s02",
+     "source": "These, unlike the fées houles , are able to render themselves invisible at pleasure."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Like human beings, they are subject to maladies, and are occasionally glad to accept mortal succour."
+    },
+    {
+     "id": "p001.s04",
+     "source": "They return kindness for kindness, but are vindictive enemies to those who attempt to harm them."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "But fairy vindictiveness is not lavished upon those unwitting mortals who do them harm alone."
+    },
+    {
+     "id": "p002.s02",
+     "source": "If one chances to succeed in a task set by the immortals of the forest, one is in danger of death, as the following story shows."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

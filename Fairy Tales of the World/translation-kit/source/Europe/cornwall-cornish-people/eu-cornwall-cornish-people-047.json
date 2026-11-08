@@ -1,0 +1,53 @@
+{
+ "id": "eu-cornwall-cornish-people-047",
+ "title": {
+  "id": "title",
+  "source": "St. Levan Witches"
+ },
+ "tradition": "Cornwall (Cornish people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Traditions and Hearthside Stories of West Cornwall, Second Series",
+ "credits": "Bottrell, William (author, d. 1881)",
+ "gutenberg": "Project Gutenberg eBook #41761 — https://www.gutenberg.org/ebooks/41761 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Cornwall (Cornish people)/047 - St. Levan Witches.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 5,
+  "words": 148
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In days of yore ugly old hags that sold themselves to Satan merely to have their \"spite out\" on their neighbours, or to ride on a broomstick and play pranks but little known except among themselves, made the Castle crags their resort."
+    },
+    {
+     "id": "p001.s02",
+     "source": "When all the neighbouring witches were assembled they scampered up to the platform on the top of Castle Peak, mounted their ragworts or brooms, and took flight over to Wales to milk Taffy's cows and steal his leeks."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Those who lived in Roskestal, and other places over that way, took their departure from Pedn-pen-with."
+    },
+    {
+     "id": "p001.s04",
+     "source": "On their return each one alighted, with all her plunder, in some convenient place near her dwelling."
+    },
+    {
+     "id": "p001.s05",
+     "source": "'Tis said that, in old times, the people of this neighbourhood were much addicted to sorcery, and, from their skill in the black art, they acquired and still retain the name of St. Levan Witches."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p002"
+  }
+ ]
+}

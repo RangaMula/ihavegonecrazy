@@ -1,0 +1,106 @@
+{
+ "id": "eu-sweden-044",
+ "title": {
+  "id": "title",
+  "source": "The Troll Shoes"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/044 - The Troll Shoes.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 12,
+  "words": 368
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Near Kölefors, in the jurisdiction of Kinda, lived, a long time ago, an old woman, who, as the saying goes, was accustomed, during Easter week, to go to Blåkulla."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Late one Passion Wednesday evening, as was usual with witches, she lashed her pack in readiness for the night, to follow her comrades in their wanderings."
+    },
+    {
+     "id": "p002.s02",
+     "source": "In order that the start should be accompanied by as few [ ] hindrances as possible, she had greased her shoes and stood them by the fireplace to dry."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "In the dusk of the evening there came to her hut another old woman, tired and wet through from the rain, and asked permission to remain over night."
+    },
+    {
+     "id": "p003.s02",
+     "source": "To this the witch would not consent, but agreed to allow the woman to remain until she had dried her soggy shoes before the fire, while she, unwilling to be under the same roof with her guest, remained outside."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "After a time the fire died out, and it became so dark in the hut that when the stranger undertook to find her shoes, in order to continue her journey, she got and put on the witch’s shoes instead."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Hardly had she passed out through the door when the shoes jerked her legs up into the air and stood her head downward, without, however, lifting her into the air and carrying her away as would have been if the witch’s broom had been in her hand."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "In this condition the old woman and the shoes struggled through the night."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Now the shoes stood her on her head and dragged her along the ground, now the woman succeeded in grasping a bush or root, and was able to regain her feet again for a time."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "In the end, near morning, a man walking past, noticed her and hastened to her relief."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Answering her earnest pleading the man poked off one of the shoes with a stick, whereupon, instantly, shoe and stick flew into the air and vanished in the twinkling of an eye."
+    },
+    {
+     "id": "p006.s03",
+     "source": "After the adventures of the night the old Troll woman was so weakened that she fell into a hole, which is pointed out to this day, and is called “The Troll Woman’s Pit.” [ ]"
+    }
+   ],
+   "id": "p006"
+  }
+ ]
+}

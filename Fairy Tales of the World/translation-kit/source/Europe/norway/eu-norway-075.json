@@ -1,0 +1,305 @@
+{
+ "id": "eu-norway-075",
+ "title": {
+  "id": "title",
+  "source": "The Father Of The Family"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales from the Fjeld: A Second Series of Popular Tales",
+ "credits": "Asbjørnsen, Peter Christen (author, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)",
+ "gutenberg": "Project Gutenberg eBook #36385 — https://www.gutenberg.org/ebooks/36385 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Norway/075 - The Father Of The Family.md",
+ "stats": {
+  "paragraphs": 24,
+  "segments": 35,
+  "words": 688
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "\"Once on a time there was a man who was out on a journey; so at last he came to a big and a fine farm, and there was a house so grand that it might well have been a little palace."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"'Here it would be good to get leave to spend the night,' said the man to himself, as he went inside the gate."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Hard by stood an old man with grey hair and beard, who was hewing wood."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"'Good evening, father,' said the wayfarer."
+    },
+    {
+     "id": "p003.s02",
+     "source": "'Can I have house-room here to-night?'"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"'I'm not father in the house,' said the grey-beard."
+    },
+    {
+     "id": "p004.s02",
+     "source": "'Go into the kitchen, and talk to my father.'"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"The wayfarer went into the kitchen, and there he met a man who was still older, and he lay on his knees before the hearth, and was blowing up the fire."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"'Good evening, father,' said the wayfarer."
+    },
+    {
+     "id": "p006.s02",
+     "source": "'Can I get house-room to-night?'"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"I'm not father in the house,' said the old man; 'but go in and talk to my father."
+    },
+    {
+     "id": "p007.s02",
+     "source": "You'll find him sitting at the table in the parlour.'"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"So the wayfarer went into the parlour, and talked to him who sat at the table."
+    },
+    {
+     "id": "p008.s02",
+     "source": "He was much older than either of the other two, and there he sat, with his teeth chattering, and shivered and shook, and read out of a big book, almost like a little child."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"'Good evening, father,' said the man."
+    },
+    {
+     "id": "p009.s02",
+     "source": "'Will you let me have house-room here to-night?'"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"'I'm not father in the house,' said the man who sat at the table, whose teeth chattered, and who shivered and shook; 'but speak to my father yonder—he who sits on the bench.'"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"So the wayfarer went to him who sat on the bench, and he was trying to fill himself a pipe of tobacco; but he was so withered up and his hands shook so with the palsy that he could scarce hold the pipe."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"'Good evening, father,' said the wayfarer again."
+    },
+    {
+     "id": "p012.s02",
+     "source": "'Can I get house-room here to-night?'"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"'I'm not father in the house,' said the old withered fellow; 'but speak to my father, who lies in bed yonder.'"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"So the wayfarer went to the bed, and there lay an old, old man, who but for his pair of big staring eyes scarcely looked alive."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"'Good evening, father,' said the wayfarer."
+    },
+    {
+     "id": "p015.s02",
+     "source": "'Can I get house-room here to-night?'"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"'I'm not father in the house,' said the old carle with the big eyes; 'but go and speak to my father, who lies yonder in the cradle.'"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Yes, the wayfarer went to the cradle, and there lay a carle as old as the hills, so withered and shrivelled he was no bigger than a baby, and it was hard to tell that there was any life in him, except that there was a sound of breathing every now and then in his throat."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"'Good evening, father,' said the wayfarer."
+    },
+    {
+     "id": "p018.s02",
+     "source": "'May I have house-room here to-night?'"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"It was long before he got an answer, and still longer before the carle brought it out; but the end was he said, as all the rest, that he was not father in the house."
+    },
+    {
+     "id": "p019.s02",
+     "source": "'But go,' said he, 'and speak to my father—you'll find him hanging up in the horn yonder against the wall.'"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"So the wayfarer stared about round the walls, and at last he caught sight of the horn; but when he looked for him who hung in it he looked more like a film of ashes that had the likeness of a man's face."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Then he was so frightened that he screamed out,—"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"'Good evening, father! will you let me have house-room here to-night?'"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"Then a chirping came out of the horn like a little tom-tit, and it was-all he could do to make out that the chirping meant, ' Yes, my Child .'"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"And now a table came in which was covered with the costliest dishes, and with ale and brandy; and when he had eaten and drank there came in a good bed, with reindeer skins; and the wayfarer was so very glad because he had at last found the right father in the house.\""
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p024"
+  }
+ ]
+}

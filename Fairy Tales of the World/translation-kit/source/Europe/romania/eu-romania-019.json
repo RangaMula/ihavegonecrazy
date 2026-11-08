@@ -1,0 +1,99 @@
+{
+ "id": "eu-romania-019",
+ "title": {
+  "id": "title",
+  "source": "Pilgrim Sorrow"
+ },
+ "tradition": "Romania",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Roumanian Fairy Tales",
+ "credits": "Kremnitz, Mite (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #20552 — https://www.gutenberg.org/ebooks/20552 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Romania/019 - Pilgrim Sorrow.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 9,
+  "words": 125
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A Cycle of Tales."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Translated by Helen Zimmern."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Square 16mo. $1.50."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"Like a string of amber beads, each one exquisite by itself, but seen in perfection when connected with its fellows."
+    },
+    {
+     "id": "p002.s02",
+     "source": "They imprison nymphs of the wood, and naiads of the stream, and all the sweet and tender graces of nature which she reveals only to her devoted lovers.\"— Pittsburgh Times ."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"The heart experiences of a princess and queen who is also a true and noble woman.\"— Cincinnati Commercial Gazette ."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"The charming tales are full of beautiful thought and sentiment, and scarcely lack the metrical form to be true poetry.\"— Providence Journal ."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Wholly attractive and interesting—beautifully printed.\"— Boston Gazette ."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "End of the Project Gutenberg EBook of Roumanian Fairy Tales, by Various"
+    }
+   ],
+   "id": "p007"
+  }
+ ]
+}

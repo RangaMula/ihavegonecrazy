@@ -1,0 +1,146 @@
+{
+ "id": "eu-norway-029",
+ "title": {
+  "id": "title",
+  "source": "The Cock, The Cuckoo, And The Black-Cock"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Popular Tales from the Norse",
+ "credits": "Moe, Jørgen Engebretsen (compiler, d. 1882); Asbjørnsen, Peter Christen (compiler, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)",
+ "gutenberg": "Project Gutenberg eBook #8933 — https://www.gutenberg.org/ebooks/8933 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Norway/029 - The Cock, The Cuckoo, And The Black-Cock.md",
+ "stats": {
+  "paragraphs": 10,
+  "segments": 16,
+  "words": 131
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "[This is another of those tales in which the birds' notes must be imitated.]"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Once on a time the Cock, the Cuckoo, and the Black-cock bought a cow between them."
+    },
+    {
+     "id": "p002.s02",
+     "source": "But when they came to share it, and couldn't agree which should buy the others out, they settled that he who woke first in the morning should have the cow."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "So the Cock woke first."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Now the cow's mine!"
+    },
+    {
+     "id": "p004.s02",
+     "source": "Now the cow's mine!"
+    },
+    {
+     "id": "p004.s03",
+     "source": "Hurrah! hurrah!"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "he crew, and as he crew, up awoke the Cuckoo."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Half cow!"
+    },
+    {
+     "id": "p006.s02",
+     "source": "Half cow!"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "sang the Cuckoo, and woke up the Black-cock."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "A like share, a like share;"
+    },
+    {
+     "id": "p008.s02",
+     "source": "Dear friends, that's only fair!"
+    },
+    {
+     "id": "p008.s03",
+     "source": "Saw see! See saw!"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "That's what the Black-cock said."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "And now, can you tell me which of them ought to have the cow?"
+    }
+   ],
+   "id": "p010"
+  }
+ ]
+}

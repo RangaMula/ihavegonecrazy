@@ -1,0 +1,48 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-068",
+ "title": {
+  "id": "title",
+  "source": "The Horse and His Rider"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/068 - The Horse and His Rider.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 5,
+  "words": 154
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A HORSE SOLDIER took the utmost pains with his charger."
+    },
+    {
+     "id": "p001.s02",
+     "source": "As long as the war lasted, he looked upon him as his fellow-helper in all emergencies and fed him carefully with hay and corn."
+    },
+    {
+     "id": "p001.s03",
+     "source": "But when the war was over, he only allowed him chaff to eat and made him carry heavy loads of wood, subjecting him to much slavish drudgery and ill-treatment."
+    },
+    {
+     "id": "p001.s04",
+     "source": "War was again proclaimed, however, and when the trumpet summoned him to his standard, the Soldier put on his charger its military trappings, and mounted, being clad in his heavy coat of mail."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The Horse fell down straightway under the weight, no longer equal to the burden, and said to his master, “You must now go to the war on foot, for you have transformed me from a Horse into an Ass; and how can you expect that I can again turn in a moment from an Ass to a Horse?”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

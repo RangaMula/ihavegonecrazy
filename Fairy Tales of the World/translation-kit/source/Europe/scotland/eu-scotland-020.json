@@ -1,0 +1,489 @@
+{
+ "id": "eu-scotland-020",
+ "title": {
+  "id": "title",
+  "source": "The Witch Of Fife"
+ },
+ "tradition": "Scotland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "The Scottish Fairy Book",
+ "credits": "Grierson, Elizabeth W. (Elizabeth Wilson) (author)",
+ "gutenberg": "Project Gutenberg eBook #37532 — https://www.gutenberg.org/ebooks/37532 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Scotland/020 - The Witch Of Fife.md",
+ "stats": {
+  "paragraphs": 36,
+  "segments": 63,
+  "words": 1972
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In the Kingdom of Fife, in the days of long ago, there lived an old man and his wife."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The old man was a douce, quiet body, but the old woman was lightsome and flighty, and some of the neighbours were wont to look at her askance, and whisper to each other that they sorely feared that she was a Witch."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "And her husband was afraid of it, too, for she had a curious habit of disappearing in the gloaming and staying out all night; and when she returned in the morning she looked quite white and tired, as if she had been travelling far, or working hard."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "He used to try and watch her carefully, in order to find out where she went, or what she did, but he never managed to do so, for she always slipped out of the door when he was not looking, and before he could reach it to follow her, she had vanished utterly."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "At last, one day, when he could stand the uncertainty no longer, he asked her to tell him straight out whether she were a Witch or no. And his blood ran cold when, without the slightest hesitation, she answered that she was; and if he would promise not to let anyone know, the next time that she went on one of her midnight expeditions she would tell him all about it."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The Goodman promised; for it seemed to him just as well that he should know all about his wife's cantrips."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "He had not long to wait before he heard of them."
+    },
+    {
+     "id": "p006.s02",
+     "source": "For the very next week the moon was new, which is, as everybody knows, the time of all others when Witches like to stir abroad; and on the first night of the new moon his wife vanished."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Nor did she return till daybreak next morning."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "And when he asked her where she had been, she told him, in great glee, how she and four like-minded companions had met at the old Kirk on the moor and had mounted branches of the green bay tree and stalks of hemlock, which had instantly changed into horses, and how they had ridden, swift as the wind, over the country, hunting the foxes, and the weasels, and the owls; and how at last they had swam the Forth and come to the top of Bell Lomond."
+    },
+    {
+     "id": "p007.s02",
+     "source": "And how there they had dismounted from their horses, and drunk beer that had been brewed in no earthly brewery, out of horn cups that had been fashioned by no mortal hands."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "And how, after that, a wee, wee man had jumped up from under a great mossy stone, with a tiny set of bagpipes under his arm, and how he had piped such wonderful music, that, at the sound of it, the very trouts jumped out of the Loch below, and the stoats crept out of their holes, and the corby crows and the herons came and sat on the trees in the darkness, to listen."
+    },
+    {
+     "id": "p008.s02",
+     "source": "And how all the Witches danced until they were so weary that, when the time came for them to mount their steeds again, if they would be home before cock-crow, they could scarce sit on them for fatigue."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "The Goodman listened to this long story in silence, shaking his head meanwhile, and, when it was finished, all that he answered was: \"And what the better are ye for all your dancing?"
+    },
+    {
+     "id": "p009.s02",
+     "source": "Ye'd have been a deal more comfortable at home.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "At the next new moon the old wife went off again for the night; and when she returned in the morning she told her husband how, on this occasion, she and her friends had taken cockle-shells for boats, and had sailed away over the stormy sea till they reached Norway."
+    },
+    {
+     "id": "p010.s02",
+     "source": "And there they had mounted invisible horses of wind, and had ridden and ridden, over mountains and glens, and glaciers, till they reached the land of the Lapps lying under its mantle of snow."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "And here all the Elves, and Fairies, and Mermaids of the North were holding festival with Warlocks, and Brownies, and Pixies, and even the Phantom Hunters themselves, who are never looked upon by mortal eyes."
+    },
+    {
+     "id": "p011.s02",
+     "source": "And the Witches from Fife held festival with them, and danced, and feasted, and sang with them, and, what was of more consequence, they learned from them certain wonderful words, which, when they uttered them, would bear them through the air, and would undo all bolts and bars, and so gain them admittance to any place soever where they wanted to be."
+    },
+    {
+     "id": "p011.s03",
+     "source": "And after that they had come home again, delighted with the knowledge which they had acquired."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"What took ye to siccan a land as that?\" asked the old man, with a contemptuous grunt."
+    },
+    {
+     "id": "p012.s02",
+     "source": "\"Ye would hae been a sight warmer in your bed.\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "But when his wife returned from her next adventure, he showed a little more interest in her doings."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "For she told him how she and her friends had met in the cottage of one of their number, and how, having heard that the Lord Bishop of Carlisle had some very rare wine in his cellar, they had placed their feet on the crook from which the pot hung, and had pronounced the magic words which they had learned from the Elves of Lappland."
+    },
+    {
+     "id": "p014.s02",
+     "source": "And, lo and behold! they flew up the chimney like whiffs of smoke, and sailed through the air like little wreathes of cloud, and in less time than it takes to tell they landed at the Bishop's Palace at Carlisle."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "And the bolts and the bars flew loose before them, and they went down to his cellar and sampled his wine, and were back in Fife, fine, sober, old women by cock-crow."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "When he heard this, the old man started from his chair in right earnest, for he loved good wine above all things, and it was but seldom that it came his way."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"By my troth, but thou art a wife to be proud of!\" he cried."
+    },
+    {
+     "id": "p017.s02",
+     "source": "\"Tell me the words, Woman! and I will e'en go and sample his Lordship's wine for myself.\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "But the Goodwife shook her head."
+    },
+    {
+     "id": "p018.s02",
+     "source": "\"Na, na!"
+    },
+    {
+     "id": "p018.s03",
+     "source": "I cannot do that,\" she said, \"for if I did, an' ye telled it over again, 'twould turn the whole world upside down."
+    },
+    {
+     "id": "p018.s04",
+     "source": "For everybody would be leaving their own lawful work, and flying about the world after other folk's business and other folk's dainties."
+    },
+    {
+     "id": "p018.s05",
+     "source": "So just bide content, Goodman."
+    },
+    {
+     "id": "p018.s06",
+     "source": "Ye get on fine with the knowledge ye already possess.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "And although the old man tried to persuade her with all the soft words he could think of, she would not tell him her secret."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "But he was a sly old man, and the thought of the Bishop's wine gave him no rest."
+    },
+    {
+     "id": "p020.s02",
+     "source": "So night after night he went and hid in the old woman's cottage, in the hope that his wife and her friends would meet there; and although for a long time it was all in vain, at last his trouble was rewarded."
+    },
+    {
+     "id": "p020.s03",
+     "source": "For one evening the whole five old women assembled, and in low tones and with chuckles of laughter they recounted all that had befallen them in Lappland."
+    },
+    {
+     "id": "p020.s04",
+     "source": "Then, running to the fireplace, they, one after another, climbed on a chair and put their feet on the sooty crook."
+    },
+    {
+     "id": "p020.s05",
+     "source": "Then they repeated the magic words, and, hey, presto! they were up the lum and away before the old man could draw his breath."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"I can do that, too,\" he said to himself; and he crawled out of his hiding-place and ran to the fire."
+    },
+    {
+     "id": "p021.s02",
+     "source": "He put his foot on the crook and repeated the words, and up the chimney he went, and flew through the air after his wife and her companions, as if he had been a Warlock born."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "And, as Witches are not in the habit of looking over their shoulders, they never noticed that he was following them, until they reached the Bishop's Palace and went down into his cellar, then, when they found that he was among them, they were not too well pleased."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "However, there was no help for it, and they settled down to enjoy themselves."
+    },
+    {
+     "id": "p023.s02",
+     "source": "They tapped this cask of wine, and they tapped that, drinking a little of each, but not too much; for they were cautious old women, and they knew that if they wanted to get home before cock-crow it behoved them to keep their heads clear."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "But the old man was not so wise, for he sipped, and he sipped, until at last he became quite drowsy, and lay down on the floor and fell fast asleep."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "And his wife, seeing this, thought that she would teach him a lesson not to be so curious in the future."
+    },
+    {
+     "id": "p025.s02",
+     "source": "So, when she and her four friends thought that it was time to be gone, she departed without waking him."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "He slept peacefully for some hours, until two of the Bishop's servants, coming down to the cellar to draw wine for their Master's table, almost fell over him in the darkness."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Greatly astonished at his presence there, for the cellar door was fast locked, they dragged him up to the light and shook him, and cuffed him, and asked him how he came to be there."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "And the poor old man was so confused at being awakened in this rough way, and his head seemed to whirl round so fast, that all he could stammer out was, \"that he came from Fife, and that he had travelled on the midnight wind.\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "As soon as they heard that, the men servants cried out that he was a Warlock, and they dragged him before the Bishop, and, as Bishops in those days had a holy horror of Warlocks and Witches, he ordered him to be burned alive."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "When the sentence was pronounced, you may be very sure that the poor old man wished with all his heart that he had stayed quietly at home in bed, and never hankered after the Bishop's wine."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "But it was too late to wish that now, for the servants dragged him out into the courtyard, and put a chain round his waist, and fastened it to a great iron stake, and they piled faggots of wood round his feet and set them alight."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "As the first tiny little tongue of flame crept up, the poor old man thought that his last hour had come."
+    },
+    {
+     "id": "p031.s02",
+     "source": "But when he thought that, he forgot completely that his wife was a Witch."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "For, just as the little tongue of flame began to singe his breeches, there was a swish and a flutter in the air, and a great Grey Bird, with outstretched wings, appeared in the sky, and swooped down suddenly, and perched for a moment on the old man's shoulder."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "And in this Grey Bird's mouth was a little red pirnie, which, to everyone's amazement, it popped on to the prisoner's head."
+    },
+    {
+     "id": "p033.s02",
+     "source": "Then it gave one fierce croak, and flew away again, but to the old man's ears that croak was the sweetest music that he had ever heard."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "For to him it was the croak of no earthly bird, but the voice of his wife whispering words of magic to him."
+    },
+    {
+     "id": "p034.s02",
+     "source": "And when he heard them he jumped for joy, for he knew that they were words of deliverance, and he shouted them aloud, and his chains fell off, and he mounted in the air—up and up—while the onlookers watched him in awestruck silence."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "He flew right away to the Kingdom of Fife, without as much as saying good-bye to them; and when he found himself once more safely at home, you may be very sure that he never tried to find out his wife's secrets again, but left her alone to her own devices."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p036"
+  }
+ ]
+}

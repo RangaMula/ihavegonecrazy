@@ -1,0 +1,692 @@
+{
+ "id": "eu-germany-059",
+ "title": {
+  "id": "title",
+  "source": "Iron Hans"
+ },
+ "tradition": "Germany",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Grimms' Fairy Tales",
+ "credits": "Grimm, Jacob (author, d. 1863); Grimm, Wilhelm (author, d. 1859)",
+ "gutenberg": "Project Gutenberg eBook #2591 — https://www.gutenberg.org/ebooks/2591 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Germany/059 - Iron Hans.md",
+ "stats": {
+  "paragraphs": 13,
+  "segments": 148,
+  "words": 3208
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once upon a time a king who had a great forest near his palace, full of all kinds of wild animals."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One day he sent out a huntsman to shoot him a roe, but he did not come back."
+    },
+    {
+     "id": "p001.s03",
+     "source": "‘Perhaps some accident has befallen him,’ said the king, and the next day he sent out two more huntsmen who were to search for him, but they too stayed away."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Then on the third day, he sent for all his huntsmen, and said: ‘Scour the whole forest through, and do not give up until you have found all three.’"
+    },
+    {
+     "id": "p001.s05",
+     "source": "But of these also, none came home again, none were seen again."
+    },
+    {
+     "id": "p001.s06",
+     "source": "From that time forth, no one would any longer venture into the forest, and it lay there in deep stillness and solitude, and nothing was seen of it, but sometimes an eagle or a hawk flying over it."
+    },
+    {
+     "id": "p001.s07",
+     "source": "This lasted for many years, when an unknown huntsman announced himself to the king as seeking a situation, and offered to go into the dangerous forest."
+    },
+    {
+     "id": "p001.s08",
+     "source": "The king, however, would not give his consent, and said: ‘It is not safe in there; I fear it would fare with you no better than with the others, and you would never come out again.’"
+    },
+    {
+     "id": "p001.s09",
+     "source": "The huntsman replied: ‘Lord, I will venture it at my own risk, of fear I know nothing.’"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The huntsman therefore betook himself with his dog to the forest."
+    },
+    {
+     "id": "p002.s02",
+     "source": "It was not long before the dog fell in with some game on the way, and wanted to pursue it; but hardly had the dog run two steps when it stood before a deep pool, could go no farther, and a naked arm stretched itself out of the water, seized it, and drew it under."
+    },
+    {
+     "id": "p002.s03",
+     "source": "When the huntsman saw that, he went back and fetched three men to come with buckets and bale out the water."
+    },
+    {
+     "id": "p002.s04",
+     "source": "When they could see to the bottom there lay a wild man whose body was brown like rusty iron, and whose hair hung over his face down to his knees."
+    },
+    {
+     "id": "p002.s05",
+     "source": "They bound him with cords, and led him away to the castle."
+    },
+    {
+     "id": "p002.s06",
+     "source": "There was great astonishment over the wild man; the king, however, had him put in an iron cage in his courtyard, and forbade the door to be opened on pain of death, and the queen herself was to take the key into her keeping."
+    },
+    {
+     "id": "p002.s07",
+     "source": "And from this time forth everyone could again go into the forest with safety."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The king had a son of eight years, who was once playing in the courtyard, and while he was playing, his golden ball fell into the cage."
+    },
+    {
+     "id": "p003.s02",
+     "source": "The boy ran thither and said: ‘Give me my ball out.’"
+    },
+    {
+     "id": "p003.s03",
+     "source": "‘Not till you have opened the door for me,’ answered the man."
+    },
+    {
+     "id": "p003.s04",
+     "source": "‘No,’ said the boy, ‘I will not do that; the king has forbidden it,’ and ran away."
+    },
+    {
+     "id": "p003.s05",
+     "source": "The next day he again went and asked for his ball; the wild man said: ‘Open my door,’ but the boy would not."
+    },
+    {
+     "id": "p003.s06",
+     "source": "On the third day the king had ridden out hunting, and the boy went once more and said: ‘I cannot open the door even if I wished, for I have not the key.’"
+    },
+    {
+     "id": "p003.s07",
+     "source": "Then the wild man said: ‘It lies under your mother’s pillow, you can get it there.’"
+    },
+    {
+     "id": "p003.s08",
+     "source": "The boy, who wanted to have his ball back, cast all thought to the winds, and brought the key."
+    },
+    {
+     "id": "p003.s09",
+     "source": "The door opened with difficulty, and the boy pinched his fingers."
+    },
+    {
+     "id": "p003.s10",
+     "source": "When it was open the wild man stepped out, gave him the golden ball, and hurried away."
+    },
+    {
+     "id": "p003.s11",
+     "source": "The boy had become afraid; he called and cried after him: ‘Oh, wild man, do not go away, or I shall be beaten!’"
+    },
+    {
+     "id": "p003.s12",
+     "source": "The wild man turned back, took him up, set him on his shoulder, and went with hasty steps into the forest."
+    },
+    {
+     "id": "p003.s13",
+     "source": "When the king came home, he observed the empty cage, and asked the queen how that had happened."
+    },
+    {
+     "id": "p003.s14",
+     "source": "She knew nothing about it, and sought the key, but it was gone."
+    },
+    {
+     "id": "p003.s15",
+     "source": "She called the boy, but no one answered."
+    },
+    {
+     "id": "p003.s16",
+     "source": "The king sent out people to seek for him in the fields, but they did not find him."
+    },
+    {
+     "id": "p003.s17",
+     "source": "Then he could easily guess what had happened, and much grief reigned in the royal court."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "When the wild man had once more reached the dark forest, he took the boy down from his shoulder, and said to him: ‘You will never see your father and mother again, but I will keep you with me, for you have set me free, and I have compassion on you."
+    },
+    {
+     "id": "p004.s02",
+     "source": "If you do all I bid you, you shall fare well."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Of treasure and gold have I enough, and more than anyone in the world.’"
+    },
+    {
+     "id": "p004.s04",
+     "source": "He made a bed of moss for the boy on which he slept, and the next morning the man took him to a well, and said: ‘Behold, the gold well is as bright and clear as crystal, you shall sit beside it, and take care that nothing falls into it, or it will be polluted."
+    },
+    {
+     "id": "p004.s05",
+     "source": "I will come every evening to see if you have obeyed my order.’"
+    },
+    {
+     "id": "p004.s06",
+     "source": "The boy placed himself by the brink of the well, and often saw a golden fish or a golden snake show itself therein, and took care that nothing fell in."
+    },
+    {
+     "id": "p004.s07",
+     "source": "As he was thus sitting, his finger hurt him so violently that he involuntarily put it in the water."
+    },
+    {
+     "id": "p004.s08",
+     "source": "He drew it quickly out again, but saw that it was quite gilded, and whatsoever pains he took to wash the gold off again, all was to no purpose."
+    },
+    {
+     "id": "p004.s09",
+     "source": "In the evening Iron Hans came back, looked at the boy, and said: ‘What has happened to the well?’"
+    },
+    {
+     "id": "p004.s10",
+     "source": "‘Nothing nothing,’ he answered, and held his finger behind his back, that the man might not see it."
+    },
+    {
+     "id": "p004.s11",
+     "source": "But he said: ‘You have dipped your finger into the water, this time it may pass, but take care you do not again let anything go in.’"
+    },
+    {
+     "id": "p004.s12",
+     "source": "By daybreak the boy was already sitting by the well and watching it."
+    },
+    {
+     "id": "p004.s13",
+     "source": "His finger hurt him again and he passed it over his head, and then unhappily a hair fell down into the well."
+    },
+    {
+     "id": "p004.s14",
+     "source": "He took it quickly out, but it was already quite gilded."
+    },
+    {
+     "id": "p004.s15",
+     "source": "Iron Hans came, and already knew what had happened."
+    },
+    {
+     "id": "p004.s16",
+     "source": "‘You have let a hair fall into the well,’ said he."
+    },
+    {
+     "id": "p004.s17",
+     "source": "‘I will allow you to watch by it once more, but if this happens for the third time then the well is polluted and you can no longer remain with me.’"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "On the third day, the boy sat by the well, and did not stir his finger, however much it hurt him."
+    },
+    {
+     "id": "p005.s02",
+     "source": "But the time was long to him, and he looked at the reflection of his face on the surface of the water."
+    },
+    {
+     "id": "p005.s03",
+     "source": "And as he still bent down more and more while he was doing so, and trying to look straight into the eyes, his long hair fell down from his shoulders into the water."
+    },
+    {
+     "id": "p005.s04",
+     "source": "He raised himself up quickly, but the whole of the hair of his head was already golden and shone like the sun."
+    },
+    {
+     "id": "p005.s05",
+     "source": "You can imagine how terrified the poor boy was!"
+    },
+    {
+     "id": "p005.s06",
+     "source": "He took his pocket-handkerchief and tied it round his head, in order that the man might not see it."
+    },
+    {
+     "id": "p005.s07",
+     "source": "When he came he already knew everything, and said: ‘Take the handkerchief off.’"
+    },
+    {
+     "id": "p005.s08",
+     "source": "Then the golden hair streamed forth, and let the boy excuse himself as he might, it was of no use."
+    },
+    {
+     "id": "p005.s09",
+     "source": "‘You have not stood the trial and can stay here no longer."
+    },
+    {
+     "id": "p005.s10",
+     "source": "Go forth into the world, there you will learn what poverty is."
+    },
+    {
+     "id": "p005.s11",
+     "source": "But as you have not a bad heart, and as I mean well by you, there is one thing I will grant you; if you fall into any difficulty, come to the forest and cry: “Iron Hans,” and then I will come and help you."
+    },
+    {
+     "id": "p005.s12",
+     "source": "My power is great, greater than you think, and I have gold and silver in abundance.’"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Then the king’s son left the forest, and walked by beaten and unbeaten paths ever onwards until at length he reached a great city."
+    },
+    {
+     "id": "p006.s02",
+     "source": "There he looked for work, but could find none, and he learnt nothing by which he could help himself."
+    },
+    {
+     "id": "p006.s03",
+     "source": "At length he went to the palace, and asked if they would take him in."
+    },
+    {
+     "id": "p006.s04",
+     "source": "The people about court did not at all know what use they could make of him, but they liked him, and told him to stay."
+    },
+    {
+     "id": "p006.s05",
+     "source": "At length the cook took him into his service, and said he might carry wood and water, and rake the cinders together."
+    },
+    {
+     "id": "p006.s06",
+     "source": "Once when it so happened that no one else was at hand, the cook ordered him to carry the food to the royal table, but as he did not like to let his golden hair be seen, he kept his little cap on."
+    },
+    {
+     "id": "p006.s07",
+     "source": "Such a thing as that had never yet come under the king’s notice, and he said: ‘When you come to the royal table you must take your hat off.’"
+    },
+    {
+     "id": "p006.s08",
+     "source": "He answered: ‘Ah, Lord, I cannot; I have a bad sore place on my head.’"
+    },
+    {
+     "id": "p006.s09",
+     "source": "Then the king had the cook called before him and scolded him, and asked how he could take such a boy as that into his service; and that he was to send him away at once."
+    },
+    {
+     "id": "p006.s10",
+     "source": "The cook, however, had pity on him, and exchanged him for the gardener’s boy."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "And now the boy had to plant and water the garden, hoe and dig, and bear the wind and bad weather."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Once in summer when he was working alone in the garden, the day was so warm he took his little cap off that the air might cool him."
+    },
+    {
+     "id": "p007.s03",
+     "source": "As the sun shone on his hair it glittered and flashed so that the rays fell into the bedroom of the king’s daughter, and up she sprang to see what that could be."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Then she saw the boy, and cried to him: ‘Boy, bring me a wreath of flowers.’"
+    },
+    {
+     "id": "p007.s05",
+     "source": "He put his cap on with all haste, and gathered wild field-flowers and bound them together."
+    },
+    {
+     "id": "p007.s06",
+     "source": "When he was ascending the stairs with them, the gardener met him, and said: ‘How can you take the king’s daughter a garland of such common flowers?"
+    },
+    {
+     "id": "p007.s07",
+     "source": "Go quickly, and get another, and seek out the prettiest and rarest.’"
+    },
+    {
+     "id": "p007.s08",
+     "source": "‘Oh, no,’ replied the boy, ‘the wild ones have more scent, and will please her better.’"
+    },
+    {
+     "id": "p007.s09",
+     "source": "When he got into the room, the king’s daughter said: ‘Take your cap off, it is not seemly to keep it on in my presence.’"
+    },
+    {
+     "id": "p007.s10",
+     "source": "He again said: ‘I may not, I have a sore head.’"
+    },
+    {
+     "id": "p007.s11",
+     "source": "She, however, caught at his cap and pulled it off, and then his golden hair rolled down on his shoulders, and it was splendid to behold."
+    },
+    {
+     "id": "p007.s12",
+     "source": "He wanted to run out, but she held him by the arm, and gave him a handful of ducats."
+    },
+    {
+     "id": "p007.s13",
+     "source": "With these he departed, but he cared nothing for the gold pieces."
+    },
+    {
+     "id": "p007.s14",
+     "source": "He took them to the gardener, and said: ‘I present them to your children, they can play with them.’"
+    },
+    {
+     "id": "p007.s15",
+     "source": "The following day the king’s daughter again called to him that he was to bring her a wreath of field-flowers, and then he went in with it, she instantly snatched at his cap, and wanted to take it away from him, but he held it fast with both hands."
+    },
+    {
+     "id": "p007.s16",
+     "source": "She again gave him a handful of ducats, but he would not keep them, and gave them to the gardener for playthings for his children."
+    },
+    {
+     "id": "p007.s17",
+     "source": "On the third day things went just the same; she could not get his cap away from him, and he would not have her money."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Not long afterwards, the country was overrun by war."
+    },
+    {
+     "id": "p008.s02",
+     "source": "The king gathered together his people, and did not know whether or not he could offer any opposition to the enemy, who was superior in strength and had a mighty army."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Then said the gardener’s boy: ‘I am grown up, and will go to the wars also, only give me a horse.’"
+    },
+    {
+     "id": "p008.s04",
+     "source": "The others laughed, and said: ‘Seek one for yourself when we are gone, we will leave one behind us in the stable for you.’"
+    },
+    {
+     "id": "p008.s05",
+     "source": "When they had gone forth, he went into the stable, and led the horse out; it was lame of one foot, and limped hobblety jib, hobblety jib; nevertheless he mounted it, and rode away to the dark forest."
+    },
+    {
+     "id": "p008.s06",
+     "source": "When he came to the outskirts, he called ‘Iron Hans’ three times so loudly that it echoed through the trees."
+    },
+    {
+     "id": "p008.s07",
+     "source": "Thereupon the wild man appeared immediately, and said: ‘What do you desire?’"
+    },
+    {
+     "id": "p008.s08",
+     "source": "‘I want a strong steed, for I am going to the wars.’"
+    },
+    {
+     "id": "p008.s09",
+     "source": "‘That you shall have, and still more than you ask for.’"
+    },
+    {
+     "id": "p008.s10",
+     "source": "Then the wild man went back into the forest, and it was not long before a stable-boy came out of it, who led a horse that snorted with its nostrils, and could hardly be restrained, and behind them followed a great troop of warriors entirely equipped in iron, and their swords flashed in the sun."
+    },
+    {
+     "id": "p008.s11",
+     "source": "The youth made over his three-legged horse to the stable-boy, mounted the other, and rode at the head of the soldiers."
+    },
+    {
+     "id": "p008.s12",
+     "source": "When he got near the battlefield a great part of the king’s men had already fallen, and little was wanting to make the rest give way."
+    },
+    {
+     "id": "p008.s13",
+     "source": "Then the youth galloped thither with his iron soldiers, broke like a hurricane over the enemy, and beat down all who opposed him."
+    },
+    {
+     "id": "p008.s14",
+     "source": "They began to flee, but the youth pursued, and never stopped, until there was not a single man left."
+    },
+    {
+     "id": "p008.s15",
+     "source": "Instead of returning to the king, however, he conducted his troop by byways back to the forest, and called forth Iron Hans."
+    },
+    {
+     "id": "p008.s16",
+     "source": "‘What do you desire?’ asked the wild man."
+    },
+    {
+     "id": "p008.s17",
+     "source": "‘Take back your horse and your troops, and give me my three-legged horse again.’"
+    },
+    {
+     "id": "p008.s18",
+     "source": "All that he asked was done, and soon he was riding on his three-legged horse."
+    },
+    {
+     "id": "p008.s19",
+     "source": "When the king returned to his palace, his daughter went to meet him, and wished him joy of his victory."
+    },
+    {
+     "id": "p008.s20",
+     "source": "‘I am not the one who carried away the victory,’ said he, ‘but a strange knight who came to my assistance with his soldiers.’"
+    },
+    {
+     "id": "p008.s21",
+     "source": "The daughter wanted to hear who the strange knight was, but the king did not know, and said: ‘He followed the enemy, and I did not see him again.’"
+    },
+    {
+     "id": "p008.s22",
+     "source": "She inquired of the gardener where his boy was, but he smiled, and said: ‘He has just come home on his three-legged horse, and the others have been mocking him, and crying: “Here comes our hobblety jib back again!”"
+    },
+    {
+     "id": "p008.s23",
+     "source": "They asked, too: “Under what hedge have you been lying sleeping all the time?”"
+    },
+    {
+     "id": "p008.s24",
+     "source": "So he said: “I did the best of all, and it would have gone badly without me.”"
+    },
+    {
+     "id": "p008.s25",
+     "source": "And then he was still more ridiculed.’"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "The king said to his daughter: ‘I will proclaim a great feast that shall last for three days, and you shall throw a golden apple."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Perhaps the unknown man will show himself.’"
+    },
+    {
+     "id": "p009.s03",
+     "source": "When the feast was announced, the youth went out to the forest, and called Iron Hans."
+    },
+    {
+     "id": "p009.s04",
+     "source": "‘What do you desire?’ asked he."
+    },
+    {
+     "id": "p009.s05",
+     "source": "‘That I may catch the king’s daughter’s golden apple.’"
+    },
+    {
+     "id": "p009.s06",
+     "source": "‘It is as safe as if you had it already,’ said Iron Hans."
+    },
+    {
+     "id": "p009.s07",
+     "source": "‘You shall likewise have a suit of red armour for the occasion, and ride on a spirited chestnut-horse.’"
+    },
+    {
+     "id": "p009.s08",
+     "source": "When the day came, the youth galloped to the spot, took his place amongst the knights, and was recognized by no one."
+    },
+    {
+     "id": "p009.s09",
+     "source": "The king’s daughter came forward, and threw a golden apple to the knights, but none of them caught it but he, only as soon as he had it he galloped away."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "On the second day Iron Hans equipped him as a white knight, and gave him a white horse."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Again he was the only one who caught the apple, and he did not linger an instant, but galloped off with it."
+    },
+    {
+     "id": "p010.s03",
+     "source": "The king grew angry, and said: ‘That is not allowed; he must appear before me and tell his name.’"
+    },
+    {
+     "id": "p010.s04",
+     "source": "He gave the order that if the knight who caught the apple, should go away again they should pursue him, and if he would not come back willingly, they were to cut him down and stab him."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "On the third day, he received from Iron Hans a suit of black armour and a black horse, and again he caught the apple."
+    },
+    {
+     "id": "p011.s02",
+     "source": "But when he was riding off with it, the king’s attendants pursued him, and one of them got so near him that he wounded the youth’s leg with the point of his sword."
+    },
+    {
+     "id": "p011.s03",
+     "source": "The youth nevertheless escaped from them, but his horse leapt so violently that the helmet fell from the youth’s head, and they could see that he had golden hair."
+    },
+    {
+     "id": "p011.s04",
+     "source": "They rode back and announced this to the king."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "The following day the king’s daughter asked the gardener about his boy."
+    },
+    {
+     "id": "p012.s02",
+     "source": "‘He is at work in the garden; the queer creature has been at the festival too, and only came home yesterday evening; he has likewise shown my children three golden apples which he has won.’"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "The king had him summoned into his presence, and he came and again had his little cap on his head."
+    },
+    {
+     "id": "p013.s02",
+     "source": "But the king’s daughter went up to him and took it off, and then his golden hair fell down over his shoulders, and he was so handsome that all were amazed."
+    },
+    {
+     "id": "p013.s03",
+     "source": "‘Are you the knight who came every day to the festival, always in different colours, and who caught the three golden apples?’ asked the king."
+    },
+    {
+     "id": "p013.s04",
+     "source": "‘Yes,’ answered he, ‘and here the apples are,’ and he took them out of his pocket, and returned them to the king."
+    },
+    {
+     "id": "p013.s05",
+     "source": "‘If you desire further proof, you may see the wound which your people gave me when they followed me."
+    },
+    {
+     "id": "p013.s06",
+     "source": "But I am likewise the knight who helped you to your victory over your enemies.’"
+    },
+    {
+     "id": "p013.s07",
+     "source": "‘If you can perform such deeds as that, you are no gardener’s boy; tell me, who is your father?’"
+    },
+    {
+     "id": "p013.s08",
+     "source": "‘My father is a mighty king, and gold have I in plenty as great as I require.’"
+    },
+    {
+     "id": "p013.s09",
+     "source": "‘I well see,’ said the king, ‘that I owe my thanks to you; can I do anything to please you?’"
+    },
+    {
+     "id": "p013.s10",
+     "source": "‘Yes,’ answered he, ‘that indeed you can."
+    },
+    {
+     "id": "p013.s11",
+     "source": "Give me your daughter to wife.’"
+    },
+    {
+     "id": "p013.s12",
+     "source": "The maiden laughed, and said: ‘He does not stand much on ceremony, but I have already seen by his golden hair that he was no gardener’s boy,’ and then she went and kissed him."
+    },
+    {
+     "id": "p013.s13",
+     "source": "His father and mother came to the wedding, and were in great delight, for they had given up all hope of ever seeing their dear son again."
+    },
+    {
+     "id": "p013.s14",
+     "source": "And as they were sitting at the marriage-feast, the music suddenly stopped, the doors opened, and a stately king came in with a great retinue."
+    },
+    {
+     "id": "p013.s15",
+     "source": "He went up to the youth, embraced him and said: ‘I am Iron Hans, and was by enchantment a wild man, but you have set me free; all the treasures which I possess, shall be your property.’"
+    }
+   ],
+   "id": "p013"
+  }
+ ]
+}

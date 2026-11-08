@@ -1,0 +1,91 @@
+{
+ "id": "eu-romania-079",
+ "title": {
+  "id": "title",
+  "source": "Why Is It Right To Kill A Sparrow?"
+ },
+ "tradition": "Romania",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Rumanian Bird and Beast Stories Rendered into English",
+ "credits": "Gaster, Moses (translator, d. 1939)",
+ "gutenberg": "Project Gutenberg eBook #43059 — https://www.gutenberg.org/ebooks/43059 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Romania/079 - Why Is It Right To Kill A Sparrow.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 10,
+  "words": 196
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The Story of the Sparrow and the Crucifixion."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Another legend brings us again to the same events."
+    },
+    {
+     "id": "p002.s02",
+     "source": "This time it is in connection with the sparrow."
+    },
+    {
+     "id": "p002.s03",
+     "source": "It is said that the sparrows were originally much bigger birds than they are now, but at the time of the crucifixion they flew round the cross and cried half mockingly, “Jiviu Jiviu,” which means “Live, live.”"
+    },
+    {
+     "id": "p002.s04",
+     "source": "Christ, who was in pain, and annoyed at their behaviour, cursed them and said, “May you live only on the crumbs which you will pick up on the roadside, and henceforth, becoming smaller, you will be snared by little boys and tormented by them, and the passers-by shall hit at you with whips, and kill you.”"
+    },
+    {
+     "id": "p002.s05",
+     "source": "And so it has remained to this very day."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "They live on crumbs wherever they can pick them up."
+    },
+    {
+     "id": "p003.s02",
+     "source": "They have become very small birds."
+    },
+    {
+     "id": "p003.s03",
+     "source": "They are snared by children, who often play with them cruelly, and the passers-by strike at them with a whip, and kill them."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "A Russian Legend, Afanasief, p. 13, is a close parallel to this story, though it differs somewhat from it in detail; v. Ralston, Russian Folk Tales , p. 331."
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

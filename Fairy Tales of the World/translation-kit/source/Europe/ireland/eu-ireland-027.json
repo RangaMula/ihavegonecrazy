@@ -1,0 +1,102 @@
+{
+ "id": "eu-ireland-027",
+ "title": {
+  "id": "title",
+  "source": "The Black Lamb"
+ },
+ "tradition": "Ireland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy and Folk Tales of the Irish Peasantry",
+ "credits": "Yeats, W. B. (William Butler) (editor, d. 1939)",
+ "gutenberg": "Project Gutenberg eBook #33887 — https://www.gutenberg.org/ebooks/33887 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Ireland/027 - The Black Lamb.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 10,
+  "words": 248
+ },
+ "paragraphs": [
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "LADY WILDE"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "It is a custom amongst the people, when throwing away water at night, to cry out in a loud voice, \"Take care of the water;\" or literally, from the Irish, \"Away with yourself from the water\"—for they say that the spirits of the dead last buried are then wandering about, and it would be dangerous if the water fell on them."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "One dark night a woman suddenly threw out a pail of boiling water without thinking of the warning words."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Instantly a cry was heard, as of a person in pain, but no one was seen."
+    },
+    {
+     "id": "p003.s03",
+     "source": "However, the next night a black lamb entered the house, having the back all fresh scalded, and it lay down moaning by the hearth and died."
+    },
+    {
+     "id": "p003.s04",
+     "source": "Then they all knew that this was the spirit that had been scalded by the woman, and they carried the dead lamb out reverently, and buried it deep in the earth."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Yet every night at the same hour it walked again into the house, and lay down, moaned, and died; and after this had happened many times, the priest was sent for, and finally, by the strength of his exorcism, the spirit of the dead was laid to rest; the black lamb appeared no more."
+    },
+    {
+     "id": "p003.s06",
+     "source": "Neither was the body of the dead lamb found in the grave when they searched for it, though it had been laid by their own hands deep in the earth, and covered with clay."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Footnote"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Ancient Legends of Ireland."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p007"
+  }
+ ]
+}

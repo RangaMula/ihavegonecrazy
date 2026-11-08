@@ -1,0 +1,504 @@
+{
+ "id": "eu-germany-055",
+ "title": {
+  "id": "title",
+  "source": "The Wedding Of Mrs Fox"
+ },
+ "tradition": "Germany",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Grimms' Fairy Tales",
+ "credits": "Grimm, Jacob (author, d. 1863); Grimm, Wilhelm (author, d. 1859)",
+ "gutenberg": "Project Gutenberg eBook #2591 — https://www.gutenberg.org/ebooks/2591 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Germany/055 - The Wedding Of Mrs Fox.md",
+ "stats": {
+  "paragraphs": 27,
+  "segments": 80,
+  "words": 785
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "FIRST STORY"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "There was once upon a time an old fox with nine tails, who believed that his wife was not faithful to him, and wished to put her to the test."
+    },
+    {
+     "id": "p002.s02",
+     "source": "He stretched himself out under the bench, did not move a limb, and behaved as if he were stone dead."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Mrs Fox went up to her room, shut herself in, and her maid, Miss Cat, sat by the fire, and did the cooking."
+    },
+    {
+     "id": "p002.s04",
+     "source": "When it became known that the old fox was dead, suitors presented themselves."
+    },
+    {
+     "id": "p002.s05",
+     "source": "The maid heard someone standing at the house-door, knocking."
+    },
+    {
+     "id": "p002.s06",
+     "source": "She went and opened it, and it was a young fox, who said:"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "‘What may you be about, Miss Cat?"
+    },
+    {
+     "id": "p003.s02",
+     "source": "Do you sleep or do you wake?’"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "She answered:"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "‘I am not sleeping, I am waking,"
+    },
+    {
+     "id": "p005.s02",
+     "source": "Would you know what I am making?"
+    },
+    {
+     "id": "p005.s03",
+     "source": "I am boiling warm beer with butter,"
+    },
+    {
+     "id": "p005.s04",
+     "source": "Will you be my guest for supper?’"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "‘No, thank you, miss,’ said the fox, ‘what is Mrs Fox doing?’"
+    },
+    {
+     "id": "p006.s02",
+     "source": "The maid replied:"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "‘She is sitting in her room,"
+    },
+    {
+     "id": "p007.s02",
+     "source": "Moaning in her gloom,"
+    },
+    {
+     "id": "p007.s03",
+     "source": "Weeping her little eyes quite red,"
+    },
+    {
+     "id": "p007.s04",
+     "source": "Because old Mr Fox is dead.’"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "‘Do just tell her, miss, that a young fox is here, who would like to woo her.’"
+    },
+    {
+     "id": "p008.s02",
+     "source": "‘Certainly, young sir.’"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "The cat goes up the stairs trip, trap,"
+    },
+    {
+     "id": "p009.s02",
+     "source": "The door she knocks at tap, tap, tap,"
+    },
+    {
+     "id": "p009.s03",
+     "source": "‘Mistress Fox, are you inside?’"
+    },
+    {
+     "id": "p009.s04",
+     "source": "‘Oh, yes, my little cat,’ she cried."
+    },
+    {
+     "id": "p009.s05",
+     "source": "‘A wooer he stands at the door out there.’"
+    },
+    {
+     "id": "p009.s06",
+     "source": "‘What does he look like, my dear?’"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "‘Has he nine as beautiful tails as the late Mr Fox?’"
+    },
+    {
+     "id": "p010.s02",
+     "source": "‘Oh, no,’ answered the cat, ‘he has only one.’"
+    },
+    {
+     "id": "p010.s03",
+     "source": "‘Then I will not have him.’"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Miss Cat went downstairs and sent the wooer away."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Soon afterwards there was another knock, and another fox was at the door who wished to woo Mrs Fox."
+    },
+    {
+     "id": "p011.s03",
+     "source": "He had two tails, but he did not fare better than the first."
+    },
+    {
+     "id": "p011.s04",
+     "source": "After this still more came, each with one tail more than the other, but they were all turned away, until at last one came who had nine tails, like old Mr Fox."
+    },
+    {
+     "id": "p011.s05",
+     "source": "When the widow heard that, she said joyfully to the cat:"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "‘Now open the gates and doors all wide,"
+    },
+    {
+     "id": "p012.s02",
+     "source": "And carry old Mr Fox outside.’"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "But just as the wedding was going to be solemnized, old Mr Fox stirred under the bench, and cudgelled all the rabble, and drove them and Mrs Fox out of the house."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "SECOND STORY"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "When old Mr Fox was dead, the wolf came as a suitor, and knocked at the door, and the cat who was servant to Mrs Fox, opened it for him."
+    },
+    {
+     "id": "p015.s02",
+     "source": "The wolf greeted her, and said:"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "‘Good day, Mrs Cat of Kehrewit,"
+    },
+    {
+     "id": "p016.s02",
+     "source": "How comes it that alone you sit?"
+    },
+    {
+     "id": "p016.s03",
+     "source": "What are you making good?’"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "The cat replied:"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "‘In milk I’m breaking bread so sweet,"
+    },
+    {
+     "id": "p018.s02",
+     "source": "Will you be my guest, and eat?’"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "‘No, thank you, Mrs Cat,’ answered the wolf."
+    },
+    {
+     "id": "p019.s02",
+     "source": "‘Is Mrs Fox not at home?’"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "The cat said:"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "‘She sits upstairs in her room,"
+    },
+    {
+     "id": "p021.s02",
+     "source": "Bewailing her sorrowful doom,"
+    },
+    {
+     "id": "p021.s03",
+     "source": "Bewailing her trouble so sore,"
+    },
+    {
+     "id": "p021.s04",
+     "source": "For old Mr Fox is no more.’"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "The wolf answered:"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "‘If she’s in want of a husband now,"
+    },
+    {
+     "id": "p023.s02",
+     "source": "Then will it please her to step below?’"
+    },
+    {
+     "id": "p023.s03",
+     "source": "The cat runs quickly up the stair,"
+    },
+    {
+     "id": "p023.s04",
+     "source": "And lets her tail fly here and there,"
+    },
+    {
+     "id": "p023.s05",
+     "source": "Until she comes to the parlour door."
+    },
+    {
+     "id": "p023.s06",
+     "source": "With her five gold rings at the door she knocks:"
+    },
+    {
+     "id": "p023.s07",
+     "source": "‘Are you within, good Mistress Fox?"
+    },
+    {
+     "id": "p023.s08",
+     "source": "If you’re in want of a husband now,"
+    },
+    {
+     "id": "p023.s09",
+     "source": "Then will it please you to step below?"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Mrs Fox asked: ‘Has the gentleman red stockings on, and has he a pointed mouth?’"
+    },
+    {
+     "id": "p024.s02",
+     "source": "‘No,’ answered the cat."
+    },
+    {
+     "id": "p024.s03",
+     "source": "‘Then he won’t do for me.’"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "When the wolf was gone, came a dog, a stag, a hare, a bear, a lion, and all the beasts of the forest, one after the other."
+    },
+    {
+     "id": "p025.s02",
+     "source": "But one of the good qualities which old Mr Fox had possessed, was always lacking, and the cat had continually to send the suitors away."
+    },
+    {
+     "id": "p025.s03",
+     "source": "At length came a young fox."
+    },
+    {
+     "id": "p025.s04",
+     "source": "Then Mrs Fox said: ‘Has the gentleman red stockings on, and has a little pointed mouth?’"
+    },
+    {
+     "id": "p025.s05",
+     "source": "‘Yes,’ said the cat, ‘he has.’"
+    },
+    {
+     "id": "p025.s06",
+     "source": "‘Then let him come upstairs,’ said Mrs Fox, and ordered the servant to prepare the wedding feast."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "‘Sweep me the room as clean as you can,"
+    },
+    {
+     "id": "p026.s02",
+     "source": "Up with the window, fling out my old man!"
+    },
+    {
+     "id": "p026.s03",
+     "source": "For many a fine fat mouse he brought,"
+    },
+    {
+     "id": "p026.s04",
+     "source": "Yet of his wife he never thought,"
+    },
+    {
+     "id": "p026.s05",
+     "source": "But ate up every one he caught.’"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Then the wedding was solemnized with young Mr Fox, and there was much rejoicing and dancing; and if they have not left off, they are dancing still."
+    }
+   ],
+   "id": "p027"
+  }
+ ]
+}

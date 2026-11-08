@@ -1,0 +1,108 @@
+{
+ "id": "as-georgia-023",
+ "title": {
+  "id": "title",
+  "source": "The Priest’s youngest Son"
+ },
+ "tradition": "Georgia",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Georgian Folk Tales",
+ "credits": "Wardrop, Marjory Scott (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #44536 — https://www.gutenberg.org/ebooks/44536 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Georgia/023 - The Priest’s youngest Son.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 17,
+  "words": 360
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a priest who had three sons."
+    },
+    {
+     "id": "p001.s02",
+     "source": "On the day of his death, the priest said to his sons: ‘When I die, let each of you read the psalter over me for one night.’"
+    },
+    {
+     "id": "p001.s03",
+     "source": "But the elder sons did not do as their father had bidden them, only the youngest read the psalter over him."
+    },
+    {
+     "id": "p001.s04",
+     "source": "That night his father appeared, and gave him a horse."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Next night he again read the psalter over his father in his brothers’ place."
+    },
+    {
+     "id": "p001.s06",
+     "source": "His father again appeared, and gave him another horse, which he resolved to give to his younger brother."
+    },
+    {
+     "id": "p001.s07",
+     "source": "On the third night he again read the psalter."
+    },
+    {
+     "id": "p001.s08",
+     "source": "His father brought him a third horse, gave the young man his blessing, and departed."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "At that time, a princess was to be married to any man whose horse could jump up to the castle, so that its rider could kiss that maiden-queen."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Many princes came to woo, but none of their horses could leap up to the castle."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Then the priest’s youngest son mounted the horse his father had given him, and rode up to the royal palace; he struck the horse with his switch, and made it jump, but it could only go one third of the way up to the castle."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Next day he mounted another horse, and made it jump, it went two thirds of the height of the castle."
+    },
+    {
+     "id": "p002.s05",
+     "source": "The third day he came on the third horse, and made it jump; it jumped right up to the top of the castle; the youth kissed the princess, and they married him to her."
+    },
+    {
+     "id": "p002.s06",
+     "source": "After this the priest’s son went home."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "At this time the queen, his mother-in-law, fell ill; she sent for her son-in-law, and said to him: ‘Between the white sea and the black sea there feeds a doe, they tell me that its milk will do me good; if thou canst get it for me I shall recover, if not, I must die.’"
+    },
+    {
+     "id": "p003.s02",
+     "source": "Then the youth mounted his horse and went forth."
+    },
+    {
+     "id": "p003.s03",
+     "source": "He rode between the seas, milked the doe, brought its milk to his mother-in-law, gave it to her to drink, and healed her."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

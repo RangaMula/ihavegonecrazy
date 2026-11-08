@@ -1,0 +1,100 @@
+{
+ "id": "eu-russia-068",
+ "title": {
+  "id": "title",
+  "source": "The Devil In The Dough-Pan"
+ },
+ "tradition": "Russia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Russian Folk-Tales",
+ "credits": "Afanas'ev, A. N. (Aleksandr Nikolaevich) (author, d. 1871); Magnus, Leonard A. (Leonard Arthur) (translator, d. 1924)",
+ "gutenberg": "Project Gutenberg eBook #62509 — https://www.gutenberg.org/ebooks/62509 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Russia/068 - The Devil In The Dough-Pan.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 12,
+  "words": 193
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once a woman was kneading bread, but had forgotten to say the blessing."
+    },
+    {
+     "id": "p001.s02",
+     "source": "So the demon, Potánka, ran up and sat down in it."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Then she recollected she had kneaded the dough without saying the blessing, went up to it and crossed herself; and Potánka wanted to escape, but could not anyhow, because of the blessing."
+    },
+    {
+     "id": "p001.s04",
+     "source": "So she put the leavened dough through a strainer and threw it out into the street, with Potánka inside."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The pigs turned him over and over, and he could not escape for three whole days."
+    },
+    {
+     "id": "p001.s06",
+     "source": "At last he tore his way out through a crack in the dough and scampered off without looking behind him."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "He ran up to his comrades, who asked him: “Where have you been, Potánka?”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“May that woman be accursed!” he said."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Who?”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“The one who was kneading her dough and had made it without saying the proper blessing; so I ran up and squatted in it."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Then she laid hold of me and crossed herself, and after three livelong days I got out, the pigs poking me about and I unable to escape!"
+    },
+    {
+     "id": "p005.s03",
+     "source": "Never again will I get into a woman’s dough.”"
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

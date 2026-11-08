@@ -1,0 +1,89 @@
+{
+ "id": "eu-hungary-magyar-people-072",
+ "title": {
+  "id": "title",
+  "source": "Előszó"
+ },
+ "tradition": "Hungary (Magyar people)",
+ "continent": "Europe",
+ "source_lang": "hu",
+ "source_book": "Gaal György magyar népmese-gyűjteménye (1. kötet)",
+ "credits": "Gaal, György (author, d. 1855)",
+ "gutenberg": "Project Gutenberg eBook #39299 — https://www.gutenberg.org/ebooks/39299 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Hungary (Magyar people)/072 - Előszó.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 8,
+  "words": 281
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Egy, hosszú évek során át a nemzeti becsület érdekében, csendesen de sikerrel munkálkodott férfiúnak áldozatosan gyűjtött szerzeményét veszi általunk a magyar közönség, mint a nemzetéért honán kivül is folyton fáradozott hazafinak vég hagyományát, s ránk nézve új kincsét a magyar népköltészetnek, mely, valamint őáltala méltattatott először az azt megillető figyelemre, úgy senki által oly buzgón nem kerestetett, oly gazdagon őelőtte, sőt mindeddig még, ki nem aknásztatott."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Öszves gyűjtései nyolcvan mesét tartalmaznak, részint általa megfigyelve s leírva, részint magyar közvitézektől tollba mondva, vagy magok által számára leírva úgy, mint azt otthon a nép körében hallották s magok is elbeszéleni szokták."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Ezek közől tizenhetet egy kötetben, az ilyeket már akkor kedvelő német közönség számára kidolgozva adott ki Gaal György maga, s oly időben (1822), mikor nálunk nem csak kiadót, de általában még csak méltatót sem leltek a népi élet e szép virágai; Erdélyi János pedig a vele használatúl közlött egyik kézirati kötetből hetet bocsátott ki „Magyar Népmeséi“ legújabb kötetében (1855), mik a 194 lapnyi könyvnek 108 lapját töltik be."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Ennyi ismeretes a tetemes gyűjteményből, melyet mí, annak létesítője iránti kegyeletből, de nem kevésbbé népköltészetünk érdekében, amennyire bizonyos erkölcsi tekintetek vagy némelyek csonkasága nem korlátolnak, mint közel félszázados igyekvések gyümölcseit minél teljesben kivánunk irodalmunkba bevezetni."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "A jelen első kötetben, melyet a második nyomban fog követni, két mese van (I. II.), mely Gaal német kidolgozásában, és három (szinte I. II. és VIII.) mely Erdélyi említett gyűjteményében megjelent: kis részei a nagy egésznek, melynek közzétételével, úgy hiszszük, méltó emléket állítunk azon férfiúnak, kit mint a magyar népmeseügy valódi megalapítóját felednünk s nem hirdetnünk többé nem szabad."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Bánfalva, october közepén, 1856."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "A kiadók."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Életrajzát adják Toldy Ferenc Irodalmi Arcképei , Pest, 1856., az I. könyv XI. cikkében."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p006"
+  }
+ ]
+}

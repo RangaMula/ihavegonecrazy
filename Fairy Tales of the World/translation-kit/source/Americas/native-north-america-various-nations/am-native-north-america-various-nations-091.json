@@ -1,0 +1,95 @@
+{
+ "id": "am-native-north-america-various-nations-091",
+ "title": {
+  "id": "title",
+  "source": "How The Pheasant Beat Corn"
+ },
+ "tradition": "Native North America (various nations)",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths and Legends of the Great Plains",
+ "credits": "Judson, Katharine Berry (editor, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/091 - How The Pheasant Beat Corn.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 8,
+  "words": 82
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Cherokee"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "O nce Pheasant saw a woman beating corn in a wooden mortar in front of her lodge."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“I can do that, too,” said Pheasant."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“I don’t believe you,” said the woman."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Yes, I can,” said Pheasant."
+    },
+    {
+     "id": "p005.s02",
+     "source": "So Pheasant went into the woods behind the lodge."
+    },
+    {
+     "id": "p005.s03",
+     "source": "He flew to a hollow log and drummed with his wings until the people thought he really was beating corn."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "That is why the Indians have the Pheasant dance, as a part of the Green-corn dance."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p007"
+  }
+ ]
+}

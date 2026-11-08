@@ -1,0 +1,604 @@
+{
+ "id": "eu-slavic-peoples-pan-slavic-016",
+ "title": {
+  "id": "title",
+  "source": "Kinkach Martinko"
+ },
+ "tradition": "Slavic peoples (pan-Slavic)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy Tales of the Slav Peasants and Herdsmen",
+ "credits": "Chodzko, Alexander (author, d. 1891); Harding, Emily J. (translator)",
+ "gutenberg": "Project Gutenberg eBook #25555 — https://www.gutenberg.org/ebooks/25555 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Slavic peoples (pan-Slavic)/016 - Kinkach Martinko.md",
+ "stats": {
+  "paragraphs": 47,
+  "segments": 75,
+  "words": 1393
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "ToC"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "KINKACH MARTINKO"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Once upon a time there was a poor woman who had an only daughter, named Helen, a very lazy girl."
+    },
+    {
+     "id": "p003.s02",
+     "source": "One day when she had refused to do a single thing, her mother took her down to the banks of a stream and began to strike her fingers with a flat stone, just as you do in beating linen to wash it."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The girl cried a good deal."
+    },
+    {
+     "id": "p004.s02",
+     "source": "A prince, Lord of the Red Castle, happened at that moment to pass by, and inquired as to the cause of such treatment, for it horrified him that a mother should so ill-use her child."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Why should I not punish her?” answered the woman."
+    },
+    {
+     "id": "p005.s02",
+     "source": "“The idle girl can do nothing but spin hemp into gold thread.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Really?” cried he."
+    },
+    {
+     "id": "p006.s02",
+     "source": "“Does she really know how to spin gold thread out of hemp?"
+    },
+    {
+     "id": "p006.s03",
+     "source": "If that be so, sell her to me.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Willingly; how much will you give me for her?”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Half a measure of gold.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Take her,” said the mother; and she gave him her daughter as soon as the money was paid."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "The prince placed the girl behind him on the saddle, put spurs to his horse, and took her home."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "On reaching the Red Castle, the prince led Helen into a room filled from floor to ceiling with hemp, and having supplied her with distaff and spinning-wheel, said, “When you have spun all this hemp into gold thread I will make you my wife.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Then he went out, locking the door after him."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "On finding herself a prisoner, the poor girl wept as if her heart would break."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Suddenly she saw a very odd-looking little man seated on the window-sill."
+    },
+    {
+     "id": "p013.s03",
+     "source": "He wore a red cap, and his boots were made of some strange sort of material."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“Why do you weep so?” he asked."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“I cannot help it,” she replied, “I am but a miserable slave."
+    },
+    {
+     "id": "p015.s02",
+     "source": "I have been ordered to spin all this hemp into gold thread, but it is impossible, I can never do it, and I know not what will become of me.”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“I will do it for you in three days, on condition that at the end of that time you guess my right name, and tell me what the boots I am wearing now are made of.”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Without for one moment reflecting as to whether she would be able to guess aright she consented."
+    },
+    {
+     "id": "p017.s02",
+     "source": "The uncanny little man burst out laughing, and taking her distaff set to work at once."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "All day as the distaff moved the hemp grew visibly less, while the skein of gold thread became larger and larger."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "The little man spun all the time, and, without stopping an instant, explained to Helen how to make thread of pure gold."
+    },
+    {
+     "id": "p019.s02",
+     "source": "As night drew on he tied up the skein, saying to the girl, “Well, do you know my name yet?"
+    },
+    {
+     "id": "p019.s03",
+     "source": "Can you tell me what my boots are made of?”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Helen replied that she could not, upon which he grinned and disappeared through the window."
+    },
+    {
+     "id": "p020.s02",
+     "source": "She then sat and looked at the sky, and thought, and thought, and thought, and lost herself in conjecturing as to what the little man’s name might be, and in trying to guess what was the stuff his boots were made of."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Were they of leather? or perhaps plaited rushes? or straw? or cast iron?"
+    },
+    {
+     "id": "p020.s04",
+     "source": "No, they did not look like anything of that sort."
+    },
+    {
+     "id": "p020.s05",
+     "source": "And as to his name—that was a still more difficult problem to solve."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“What shall I call him?” said she to herself—“John?"
+    },
+    {
+     "id": "p021.s02",
+     "source": "Or Henry?"
+    },
+    {
+     "id": "p021.s03",
+     "source": "Who knows? perhaps it is Paul or Joseph.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "These thoughts so filled her mind that she forgot to eat her dinner."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Her meditations were interrupted by cries and groans from outside, where she saw an old man with white hair sitting under the castle wall."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“Miserable old man that I am,” cried he; “I die of hunger and thirst, but no one pities my sufferings.”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Helen hastened to give him her dinner, and told him to come next day, which he promised to do."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "After again thinking for some time what answers she should give the little old man, she fell asleep on the hemp."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "The little old man did not fail to make his appearance the first thing next morning, and remained all day spinning the gold thread."
+    },
+    {
+     "id": "p026.s02",
+     "source": "The work progressed before their eyes, and it was only when evening came that he repeated his questions."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Not receiving a satisfactory answer, he vanished in a fit of mocking laughter."
+    },
+    {
+     "id": "p026.s04",
+     "source": "Helen sat down by the window to think; but think as she might, no answer to these puzzling questions occurred to her."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "While thus wondering the hungry old man again came by, and she gave him her dinner."
+    },
+    {
+     "id": "p027.s02",
+     "source": "She was heart-sick and her eyes were full of tears, for she thought she would never guess the spinner’s name, nor of what stuff his boots were made, unless perhaps God would help her."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“Why are you so sad?” asked the old man when he had eaten and drunk; “tell me the cause of your grief, dear lady.”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "For a long time she would not tell him, thinking it would be useless; but at last, yielding to his entreaties, she gave a full account of the conditions under which the gold thread was made, explaining that unless she could answer the little old man’s questions satisfactorily she feared some great misfortune would befall her."
+    },
+    {
+     "id": "p029.s02",
+     "source": "The old man listened attentively, then, nodding his head, he said:"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“In coming through the forest to-day I passed close to a large pile of burning wood, round which were placed nine iron pots."
+    },
+    {
+     "id": "p030.s02",
+     "source": "A little man in a red cap was running round and jumping over them, singing these words:"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“My sweet friend, fair Helen, at the Red Castle near,"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Two days and two nights seeks my name to divine."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "She’ll never find out, so the third night ’tis clear"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "My sweet friend, fair Helen, can’t fail to be mine."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Hurrah! for my name is Kinkach Martinko ,"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Hurrah! for my boots are of doggies’ skin O!”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "“Now that is exactly what you want to know, my dear girl; so do not forget, and you are saved.”"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "And with these words the old man vanished."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Helen was greatly astonished, but she took care to fix in her memory all that the good fellow had told her, and then went to sleep, feeling that she could face to-morrow without fear."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "On the third day, very early in the morning, the little old man appeared and set busily to work, for he knew that all the hemp must be spun before sunset, and that then he should be able to claim his rights."
+    },
+    {
+     "id": "p040.s02",
+     "source": "When evening came all the hemp was gone, and the room shone with the brightness of the golden thread."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "As soon as his work was done, the queer little old man with the red cap drew himself up with a great deal of assurance, and with his hands in his pockets strutted up and down before Helen, ordering her to tell him his right name and to say of what stuff the boots were made: but he felt certain that she would not be able to answer aright."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“Your name is Kinkach Martinko , and your boots are made of dogskin,” she replied without the slightest hesitation."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "At these words he spun round on the floor like a bobbin, tore out his hair and beat his breast with rage, roaring so that the very walls trembled."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“It is lucky for you that you have guessed."
+    },
+    {
+     "id": "p044.s02",
+     "source": "If you had not, I should have torn you to pieces on this very spot:” so saying he rushed out of the window like a whirlwind."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "Helen felt deeply grateful towards the old man who had told her the answers, and hoped to be able to thank him in person."
+    },
+    {
+     "id": "p045.s02",
+     "source": "But he never appeared again."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "The Prince of the Red Castle was very pleased with her for having accomplished her task so punctually and perfectly, and he married her as he had promised."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "Helen was truly thankful to have escaped the dangers that had threatened her, and her happiness as a princess was greater than she had dared hope."
+    },
+    {
+     "id": "p047.s02",
+     "source": "She had, too, such a good stock of gold thread that she never had occasion to spin any more all her life long."
+    }
+   ],
+   "id": "p047"
+  }
+ ]
+}

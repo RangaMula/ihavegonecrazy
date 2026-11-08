@@ -1,0 +1,102 @@
+{
+ "id": "as-korea-058",
+ "title": {
+  "id": "title",
+  "source": "Who Decides, God Or The King?"
+ },
+ "tradition": "Korea",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Korean Folk Tales",
+ "credits": "Yi, Yuk (author, d. 1498); Im, Pang (author, d. 1724); Gale, James Scarth (translator, d. 1937)",
+ "gutenberg": "Project Gutenberg eBook #51002 — https://www.gutenberg.org/ebooks/51002 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Korea/058 - Who Decides, God Or The King.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 11,
+  "words": 222
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "King Tai-jong was having a rest in Heung-yang Palace, while outside two eunuchs were talking together over the law that governs the affairs of men, as to whether it is man or God."
+    },
+    {
+     "id": "p001.s02",
+     "source": "A said, “Riches and honour are all in the king’s hand.”"
+    },
+    {
+     "id": "p001.s03",
+     "source": "B said, “Nothing of the kind; every atom of wealth and every degree of promotion are all ordered of God."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Even the king himself has no part in it and no power.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "So they argued, each that he was right, without ever coming to an agreement."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The King, overhearing what was said, wrote a secret despatch, saying, “Raise the Bearer of this letter one degree in rank.”"
+    },
+    {
+     "id": "p003.s02",
+     "source": "He sealed it and commanded A to take it to Se-jong, who was then in charge of this office."
+    },
+    {
+     "id": "p003.s03",
+     "source": "A made his bow and departed, but just when he was about to leave the palace enclosure a furious pain took him in the stomach, so that he begged B to take his place and go into the city."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The next day, when the record of promotions was placed before the King, he read how B had been advanced, but not one word was there about A."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "King Tai-jong made inquiry, and when he knew the circumstances he gave a sudden start of wonder and remained long in deep thought."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Yi Ryuk."
+    }
+   ],
+   "id": "p006"
+  }
+ ]
+}

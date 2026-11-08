@@ -1,0 +1,99 @@
+{
+ "id": "eu-sweden-047",
+ "title": {
+  "id": "title",
+  "source": "Buried Alive"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/047 - Buried Alive.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 12,
+  "words": 272
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Many years ago an epidemic swept over Dalland, to which thousands of persons fell victims."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Many people fled to the forests, or to other regions; the churches were deserted, and those remaining were not enough to bury the dead."
+    },
+    {
+     "id": "p001.s03",
+     "source": "At this stage an old Finlander came along, who informed the few survivors that they need not hope for cessation of the scourge until they had buried some living thing."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The advice was followed."
+    },
+    {
+     "id": "p002.s02",
+     "source": "First a cock was buried alive, but the plague continued as violent as ever; next, a goat, but this also proved ineffectual."
+    },
+    {
+     "id": "p002.s03",
+     "source": "At last a poor boy, who frequented the neighborhood, begging, was lured to a wood-covered hill at the point where the river Daleborg empties into Lake Venem."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Here a deep hole was dug, the boy meantime sitting near, enjoying a piece of bread and butter that had been given him."
+    },
+    {
+     "id": "p002.s05",
+     "source": "When the grave was deep enough the boy was dropped into it and the diggers began hurriedly to shovel the dirt upon him."
+    },
+    {
+     "id": "p002.s06",
+     "source": "The lad begged and prayed them not to throw dirt upon his bread and butter, but the spades flew faster, and in a few minutes, still alive, he was entirely covered and left to his fate."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Whether this stayed the plague is not known, but many who after night pass the hill, hear, it is said, a voice as if from a dying child, crying, “Buried alive! buried alive!” [ ]"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "As late as 1875 a farmer near Mariestad, during an epidemic among his cattle, buried alive a cow in the ground."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Whether this cruel expedient was effective the author is not informed. ↑"
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

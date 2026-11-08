@@ -1,0 +1,44 @@
+{
+ "id": "eu-brittany-breton-people-098",
+ "title": {
+  "id": "title",
+  "source": "Lez-Breiz, the Prop of Brittany"
+ },
+ "tradition": "Brittany (Breton people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Brittany",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Brittany (Breton people)/098 - Lez-Breiz, the Prop of Brittany.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 123
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Morvan, chief of Léon, so celebrated in the history of the ninth century as one of the upholders of Breton independence, and known to tradition as ‘the Prop of Brittany,’ is the subject of a remarkable series of ballads or hero-tales in the Barzaz-Breiz which together constitute what is almost an epic."
+    },
+    {
+     "id": "p001.s02",
+     "source": "These tell of his life, death, adventures, travels, and the marvellous feats of derring-do he accomplished."
+    },
+    {
+     "id": "p001.s03",
+     "source": "In some measure he is to Breton legend what Arthur is to British or Holger to that of Denmark."
+    },
+    {
+     "id": "p001.s04",
+     "source": "That he is familiar to Breton tradition there can be no question, and whether Villemarqué himself wove the following adventures around him or not they are certainly typical of the age in which the hero flourished."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "eu-england-060",
+ "title": {
+  "id": "title",
+  "source": "The Blinded Giant"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "More English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #14241 — https://www.gutenberg.org/ebooks/14241 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/060 - The Blinded Giant.md",
+ "stats": {
+  "paragraphs": 10,
+  "segments": 24,
+  "words": 441
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "At Dalton, near Thirsk, in Yorkshire, there is a mill."
+    },
+    {
+     "id": "p001.s02",
+     "source": "It has quite recently been rebuilt; but when I was at Dalton, six years ago, the old building stood."
+    },
+    {
+     "id": "p001.s03",
+     "source": "In front of the house was a long mound which went by the name of \"the giant's grave,\" and in the mill you can see a long blade of iron something like a scythe-blade, but not curved, which was called \"the giant's knife,\" because of a very curious story which is told of this knife."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Would you like to hear it?"
+    },
+    {
+     "id": "p001.s05",
+     "source": "Well, it isn't very long."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "There once lived a giant at this mill who had only one eye in the middle of his forehead, and he ground men's bones to make his bread."
+    },
+    {
+     "id": "p002.s02",
+     "source": "One day he captured on Pilmoor a lad named Jack, and instead of grinding him in the mill he kept him grinding as his servant, and never let him get away."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Jack served the giant seven years, and never was allowed a holiday the whole time."
+    },
+    {
+     "id": "p002.s04",
+     "source": "At last he could bear it no longer."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Topcliffe fair was coming on, and Jack begged that he might be allowed to go there."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"No, no,\" said the giant, \"stop at home and mind your grinding.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"I've been grinding and grinding these seven years,\" said Jack, \"and not a holiday have I had."
+    },
+    {
+     "id": "p004.s02",
+     "source": "I'll have one now, whatever you say.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"We'll see about that,\" said the giant."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Well, the day was hot, and after dinner the giant lay down in the mill with his head on a sack and dozed."
+    },
+    {
+     "id": "p006.s02",
+     "source": "He had been eating in the mill, and had laid down a great loaf of bone bread by his side, and the knife I told you about was in his hand, but his fingers relaxed their hold of it in sleep."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Jack seized the knife, and holding it with both his hands drove the blade into the single eye of the giant, who woke with a howl of agony, and starting up, barred the door."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Jack was again in difficulties, for he couldn't get out, but he soon found a way out of them."
+    },
+    {
+     "id": "p006.s05",
+     "source": "The giant had a favourite dog, which had also been sleeping when his master was blinded."
+    },
+    {
+     "id": "p006.s06",
+     "source": "So Jack killed the dog, skinned it, and threw the hide over his back."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Bow, wow,\" says Jack."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"At him, Truncheon,\" said the giant; \"at the little wretch that I've fed these seven years, and now has blinded me.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Bow, wow,\" says Jack, and ran between the giant's legs on all-fours, barking till he got to the door."
+    },
+    {
+     "id": "p009.s02",
+     "source": "He unlatched it and was off, and never more was seen at Dalton Mill."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p010"
+  }
+ ]
+}

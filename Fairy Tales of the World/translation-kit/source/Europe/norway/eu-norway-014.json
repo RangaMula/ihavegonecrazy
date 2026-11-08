@@ -1,0 +1,76 @@
+{
+ "id": "eu-norway-014",
+ "title": {
+  "id": "title",
+  "source": "The Cock And Hen"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Popular Tales from the Norse",
+ "credits": "Moe, Jørgen Engebretsen (compiler, d. 1882); Asbjørnsen, Peter Christen (compiler, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)",
+ "gutenberg": "Project Gutenberg eBook #8933 — https://www.gutenberg.org/ebooks/8933 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Norway/014 - The Cock And Hen.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 6,
+  "words": 71
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "(In this tale the notes of the Cock and Hen must be imitated.)"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "*Hen*--You promise me shoes year after year, year after year, and yet I get no shoes!"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "*Cock*--You shall have them, never fear!"
+    },
+    {
+     "id": "p003.s02",
+     "source": "Henny penny!"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "*Hen*--I lay egg after egg, egg after egg, and yet I go about barefoot!"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "*Cock*--Well, take your eggs, and be off to the tryst, and buy yourself shoes, and don't go any longer barefoot!"
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

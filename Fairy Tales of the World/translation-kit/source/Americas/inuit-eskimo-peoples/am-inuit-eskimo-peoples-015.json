@@ -1,0 +1,70 @@
+{
+ "id": "am-inuit-eskimo-peoples-015",
+ "title": {
+  "id": "title",
+  "source": "When the Ravens Could Speak"
+ },
+ "tradition": "Inuit (Eskimo) peoples",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Eskimo Folk-Tales",
+ "credits": "Rasmussen, Knud (editor, d. 1933); Worster, W. J. Alexander (William John Alexander) (translator, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #28932 — https://www.gutenberg.org/ebooks/28932 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Inuit (Eskimo) peoples/015 - When the Ravens Could Speak.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 6,
+  "words": 106
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once, long ago, there was a time when the ravens could talk."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "But the strange thing about the ravens’ speech was that their words had the opposite meaning."
+    },
+    {
+     "id": "p002.s02",
+     "source": "When they wanted to thank any one, they used words of abuse, and thus always said the reverse of what they meant."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "But as they were thus so full of lies, there came one day an old man, and by magic means took away their power of speech."
+    },
+    {
+     "id": "p003.s02",
+     "source": "And since that time the ravens can do no more than shriek."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "But the ravens’ nature has not changed, and to this day they are an ill-tempered, lying, thieving lot."
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

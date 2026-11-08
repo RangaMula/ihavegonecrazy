@@ -1,0 +1,94 @@
+{
+ "id": "eu-scotland-086",
+ "title": {
+  "id": "title",
+  "source": "The Two Matches"
+ },
+ "tradition": "Scotland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fables",
+ "credits": "Stevenson, Robert Louis (author, d. 1894)",
+ "gutenberg": "Project Gutenberg eBook #343 — https://www.gutenberg.org/ebooks/343 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Scotland/086 - The Two Matches.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 12,
+  "words": 296
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "One day there was a traveller in the woods in California, in the dry season, when the Trades were blowing strong."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He had ridden a long way, and he was tired and hungry, and dismounted from his horse to smoke a pipe."
+    },
+    {
+     "id": "p001.s03",
+     "source": "But when he felt in his pocket he found but two matches."
+    },
+    {
+     "id": "p001.s04",
+     "source": "He struck the first, and it would not light."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“Here is a pretty state of things!” said the traveller."
+    },
+    {
+     "id": "p002.s02",
+     "source": "“Dying for a smoke; only one match left; and that certain to miss fire!"
+    },
+    {
+     "id": "p002.s03",
+     "source": "Was there ever a creature so unfortunate?"
+    },
+    {
+     "id": "p002.s04",
+     "source": "And yet,” thought the traveller, “suppose I light this match, and smoke my pipe, and shake out the dottle here in the grass—the grass might catch on fire, for it is dry like tinder; and while I snatch out the flames in front, they might evade and run behind me, and seize upon yon bush of poison oak; before I could reach it, that would have blazed up; over the bush I see a pine tree hung with moss; that too would fly in fire upon the instant to its topmost bough; and the flame of that long torch—how would the trade wind take and brandish that through the inflammable forest!"
+    },
+    {
+     "id": "p002.s05",
+     "source": "I hear this dell roar in a moment with the joint voice of wind and fire, I see myself gallop for my soul, and the flying conflagration chase and outflank me through the hills; I see this pleasant forest burn for days, and the cattle roasted, and the springs dried up, and the farmer ruined, and his children cast upon the world."
+    },
+    {
+     "id": "p002.s06",
+     "source": "What a world hangs upon this moment!”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "With that he struck the match, and it missed fire."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Thank God!” said the traveller, and put his pipe in his pocket."
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

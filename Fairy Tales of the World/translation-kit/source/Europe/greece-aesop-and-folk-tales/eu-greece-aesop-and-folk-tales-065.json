@@ -1,0 +1,58 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-065",
+ "title": {
+  "id": "title",
+  "source": "The Fighting Cocks and the Eagle"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/065 - The Fighting Cocks and the Eagle.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 6,
+  "words": 86
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "TWO GAME COCKS were fiercely fighting for the mastery of the farmyard."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One at last put the other to flight."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The vanquished Cock skulked away and hid himself in a quiet corner, while the conqueror, flying up to a high wall, flapped his wings and crowed exultingly with all his might."
+    },
+    {
+     "id": "p001.s04",
+     "source": "An Eagle sailing through the air pounced upon him and carried him off in his talons."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The vanquished Cock immediately came out of his corner, and ruled henceforth with undisputed mastery."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Pride goes before destruction."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

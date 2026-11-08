@@ -1,0 +1,48 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-046",
+ "title": {
+  "id": "title",
+  "source": "The Lion in Love"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/046 - The Lion in Love.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 5,
+  "words": 107
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A LION demanded the daughter of a woodcutter in marriage."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The Father, unwilling to grant, and yet afraid to refuse his request, hit upon this expedient to rid himself of his importunities."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He expressed his willingness to accept the Lion as the suitor of his daughter on one condition: that he should allow him to extract his teeth, and cut off his claws, as his daughter was fearfully afraid of both."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The Lion cheerfully assented to the proposal."
+    },
+    {
+     "id": "p001.s05",
+     "source": "But when the toothless, clawless Lion returned to repeat his request, the Woodman, no longer afraid, set upon him with his club, and drove him away into the forest."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

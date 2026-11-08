@@ -1,0 +1,93 @@
+{
+ "id": "eu-ireland-044",
+ "title": {
+  "id": "title",
+  "source": "Saints, Priests"
+ },
+ "tradition": "Ireland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy and Folk Tales of the Irish Peasantry",
+ "credits": "Yeats, W. B. (William Butler) (editor, d. 1939)",
+ "gutenberg": "Project Gutenberg eBook #33887 — https://www.gutenberg.org/ebooks/33887 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Ireland/044 - Saints, Priests.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 12,
+  "words": 197
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Everywhere in Ireland are the holy wells."
+    },
+    {
+     "id": "p001.s02",
+     "source": "People as they pray by them make little piles of stones, that will be counted at the last day and the prayers reckoned up."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Sometimes they tell stories."
+    },
+    {
+     "id": "p001.s04",
+     "source": "These following are their stories."
+    },
+    {
+     "id": "p001.s05",
+     "source": "They deal with the old times, whereof King Alfred of Northumberland wrote—"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "There are no martyrs in the stories."
+    },
+    {
+     "id": "p002.s02",
+     "source": "That ancient chronicler Giraldus taunted the Archbishop of Cashel because no one in Ireland had received the crown of martyrdom."
+    },
+    {
+     "id": "p002.s03",
+     "source": "\"Our people may be barbarous,\" the prelate answered, \"but they have never lifted their hands against God's saints; but now that a people have come amongst us who know how to make them (it was just after the English invasion), we shall have martyrs plentifully.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The bodies of saints are fastidious things."
+    },
+    {
+     "id": "p003.s02",
+     "source": "At a place called Four-mile-Water, in Wexford, there is an old graveyard full of saints."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Once it was on the other side of the river, but they buried a rogue there, and the whole graveyard moved across in the night, leaving the rogue-corpse in solitude."
+    },
+    {
+     "id": "p003.s04",
+     "source": "It would have been easier to move merely the rogue-corpse, but they were saints, and had to do things in style."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  }
+ ]
+}

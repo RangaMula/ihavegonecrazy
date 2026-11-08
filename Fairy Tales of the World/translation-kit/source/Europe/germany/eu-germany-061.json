@@ -1,0 +1,629 @@
+{
+ "id": "eu-germany-061",
+ "title": {
+  "id": "title",
+  "source": "Snow-White And Rose-Red"
+ },
+ "tradition": "Germany",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Grimms' Fairy Tales",
+ "credits": "Grimm, Jacob (author, d. 1863); Grimm, Wilhelm (author, d. 1859)",
+ "gutenberg": "Project Gutenberg eBook #2591 — https://www.gutenberg.org/ebooks/2591 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Germany/061 - Snow-White And Rose-Red.md",
+ "stats": {
+  "paragraphs": 28,
+  "segments": 110,
+  "words": 2617
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a poor widow who lived in a lonely cottage."
+    },
+    {
+     "id": "p001.s02",
+     "source": "In front of the cottage was a garden wherein stood two rose-trees, one of which bore white and the other red roses."
+    },
+    {
+     "id": "p001.s03",
+     "source": "She had two children who were like the two rose-trees, and one was called Snow-white, and the other Rose-red."
+    },
+    {
+     "id": "p001.s04",
+     "source": "They were as good and happy, as busy and cheerful as ever two children in the world were, only Snow-white was more quiet and gentle than Rose-red."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Rose-red liked better to run about in the meadows and fields seeking flowers and catching butterflies; but Snow-white sat at home with her mother, and helped her with her housework, or read to her when there was nothing to do."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The two children were so fond of one another that they always held each other by the hand when they went out together, and when Snow-white said: ‘We will not leave each other,’ Rose-red answered: ‘Never so long as we live,’ and their mother would add: ‘What one has she must share with the other.’"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "They often ran about the forest alone and gathered red berries, and no beasts did them any harm, but came close to them trustfully."
+    },
+    {
+     "id": "p003.s02",
+     "source": "The little hare would eat a cabbage-leaf out of their hands, the roe grazed by their side, the stag leapt merrily by them, and the birds sat still upon the boughs, and sang whatever they knew."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "No mishap overtook them; if they had stayed too late in the forest, and night came on, they laid themselves down near one another upon the moss, and slept until morning came, and their mother knew this and did not worry on their account."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Once when they had spent the night in the wood and the dawn had roused them, they saw a beautiful child in a shining white dress sitting near their bed."
+    },
+    {
+     "id": "p005.s02",
+     "source": "He got up and looked quite kindly at them, but said nothing and went into the forest."
+    },
+    {
+     "id": "p005.s03",
+     "source": "And when they looked round they found that they had been sleeping quite close to a precipice, and would certainly have fallen into it in the darkness if they had gone only a few paces further."
+    },
+    {
+     "id": "p005.s04",
+     "source": "And their mother told them that it must have been the angel who watches over good children."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Snow-white and Rose-red kept their mother’s little cottage so neat that it was a pleasure to look inside it."
+    },
+    {
+     "id": "p006.s02",
+     "source": "In the summer Rose-red took care of the house, and every morning laid a wreath of flowers by her mother’s bed before she awoke, in which was a rose from each tree."
+    },
+    {
+     "id": "p006.s03",
+     "source": "In the winter Snow-white lit the fire and hung the kettle on the hob."
+    },
+    {
+     "id": "p006.s04",
+     "source": "The kettle was of brass and shone like gold, so brightly was it polished."
+    },
+    {
+     "id": "p006.s05",
+     "source": "In the evening, when the snowflakes fell, the mother said: ‘Go, Snow-white, and bolt the door,’ and then they sat round the hearth, and the mother took her spectacles and read aloud out of a large book, and the two girls listened as they sat and spun."
+    },
+    {
+     "id": "p006.s06",
+     "source": "And close by them lay a lamb upon the floor, and behind them upon a perch sat a white dove with its head hidden beneath its wings."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "One evening, as they were thus sitting comfortably together, someone knocked at the door as if he wished to be let in."
+    },
+    {
+     "id": "p007.s02",
+     "source": "The mother said: ‘Quick, Rose-red, open the door, it must be a traveller who is seeking shelter.’"
+    },
+    {
+     "id": "p007.s03",
+     "source": "Rose-red went and pushed back the bolt, thinking that it was a poor man, but it was not; it was a bear that stretched his broad, black head within the door."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Rose-red screamed and sprang back, the lamb bleated, the dove fluttered, and Snow-white hid herself behind her mother’s bed."
+    },
+    {
+     "id": "p008.s02",
+     "source": "But the bear began to speak and said: ‘Do not be afraid, I will do you no harm!"
+    },
+    {
+     "id": "p008.s03",
+     "source": "I am half-frozen, and only want to warm myself a little beside you.’"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "‘Poor bear,’ said the mother, ‘lie down by the fire, only take care that you do not burn your coat.’"
+    },
+    {
+     "id": "p009.s02",
+     "source": "Then she cried: ‘Snow-white, Rose-red, come out, the bear will do you no harm, he means well.’"
+    },
+    {
+     "id": "p009.s03",
+     "source": "So they both came out, and by-and-by the lamb and dove came nearer, and were not afraid of him."
+    },
+    {
+     "id": "p009.s04",
+     "source": "The bear said: ‘Here, children, knock the snow out of my coat a little’; so they brought the broom and swept the bear’s hide clean; and he stretched himself by the fire and growled contentedly and comfortably."
+    },
+    {
+     "id": "p009.s05",
+     "source": "It was not long before they grew quite at home, and played tricks with their clumsy guest."
+    },
+    {
+     "id": "p009.s06",
+     "source": "They tugged his hair with their hands, put their feet upon his back and rolled him about, or they took a hazel-switch and beat him, and when he growled they laughed."
+    },
+    {
+     "id": "p009.s07",
+     "source": "But the bear took it all in good part, only when they were too rough he called out: ‘Leave me alive, children,"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Snow-white, Rose-red,"
+    },
+    {
+     "id": "p010.s02",
+     "source": "Will you beat your wooer dead?’"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "When it was bed-time, and the others went to bed, the mother said to the bear: ‘You can lie there by the hearth, and then you will be safe from the cold and the bad weather.’"
+    },
+    {
+     "id": "p011.s02",
+     "source": "As soon as day dawned the two children let him out, and he trotted across the snow into the forest."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Henceforth the bear came every evening at the same time, laid himself down by the hearth, and let the children amuse themselves with him as much as they liked; and they got so used to him that the doors were never fastened until their black friend had arrived."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "When spring had come and all outside was green, the bear said one morning to Snow-white: ‘Now I must go away, and cannot come back for the whole summer.’"
+    },
+    {
+     "id": "p013.s02",
+     "source": "‘Where are you going, then, dear bear?’ asked Snow-white."
+    },
+    {
+     "id": "p013.s03",
+     "source": "‘I must go into the forest and guard my treasures from the wicked dwarfs."
+    },
+    {
+     "id": "p013.s04",
+     "source": "In the winter, when the earth is frozen hard, they are obliged to stay below and cannot work their way through; but now, when the sun has thawed and warmed the earth, they break through it, and come out to pry and steal; and what once gets into their hands, and in their caves, does not easily see daylight again.’"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Snow-white was quite sorry at his departure, and as she unbolted the door for him, and the bear was hurrying out, he caught against the bolt and a piece of his hairy coat was torn off, and it seemed to Snow-white as if she had seen gold shining through it, but she was not sure about it."
+    },
+    {
+     "id": "p014.s02",
+     "source": "The bear ran away quickly, and was soon out of sight behind the trees."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "A short time afterwards the mother sent her children into the forest to get firewood."
+    },
+    {
+     "id": "p015.s02",
+     "source": "There they found a big tree which lay felled on the ground, and close by the trunk something was jumping backwards and forwards in the grass, but they could not make out what it was."
+    },
+    {
+     "id": "p015.s03",
+     "source": "When they came nearer they saw a dwarf with an old withered face and a snow-white beard a yard long."
+    },
+    {
+     "id": "p015.s04",
+     "source": "The end of the beard was caught in a crevice of the tree, and the little fellow was jumping about like a dog tied to a rope, and did not know what to do."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "He glared at the girls with his fiery red eyes and cried: ‘Why do you stand there?"
+    },
+    {
+     "id": "p016.s02",
+     "source": "Can you not come here and help me?’"
+    },
+    {
+     "id": "p016.s03",
+     "source": "‘What are you up to, little man?’ asked Rose-red."
+    },
+    {
+     "id": "p016.s04",
+     "source": "‘You stupid, prying goose!’ answered the dwarf: ‘I was going to split the tree to get a little wood for cooking."
+    },
+    {
+     "id": "p016.s05",
+     "source": "The little bit of food that we people get is immediately burnt up with heavy logs; we do not swallow so much as you coarse, greedy folk."
+    },
+    {
+     "id": "p016.s06",
+     "source": "I had just driven the wedge safely in, and everything was going as I wished; but the cursed wedge was too smooth and suddenly sprang out, and the tree closed so quickly that I could not pull out my beautiful white beard; so now it is tight and I cannot get away, and the silly, sleek, milk-faced things laugh!"
+    },
+    {
+     "id": "p016.s07",
+     "source": "Ugh! how odious you are!’"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "The children tried very hard, but they could not pull the beard out, it was caught too fast."
+    },
+    {
+     "id": "p017.s02",
+     "source": "‘I will run and fetch someone,’ said Rose-red."
+    },
+    {
+     "id": "p017.s03",
+     "source": "‘You senseless goose!’ snarled the dwarf; ‘why should you fetch someone?"
+    },
+    {
+     "id": "p017.s04",
+     "source": "You are already two too many for me; can you not think of something better?’"
+    },
+    {
+     "id": "p017.s05",
+     "source": "‘Don’t be impatient,’ said Snow-white, ‘I will help you,’ and she pulled her scissors out of her pocket, and cut off the end of the beard."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "As soon as the dwarf felt himself free he laid hold of a bag which lay amongst the roots of the tree, and which was full of gold, and lifted it up, grumbling to himself: ‘Uncouth people, to cut off a piece of my fine beard."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Bad luck to you!’ and then he swung the bag upon his back, and went off without even once looking at the children."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Some time afterwards Snow-white and Rose-red went to catch a dish of fish."
+    },
+    {
+     "id": "p019.s02",
+     "source": "As they came near the brook they saw something like a large grasshopper jumping towards the water, as if it were going to leap in."
+    },
+    {
+     "id": "p019.s03",
+     "source": "They ran to it and found it was the dwarf."
+    },
+    {
+     "id": "p019.s04",
+     "source": "‘Where are you going?’ said Rose-red; ‘you surely don’t want to go into the water?’"
+    },
+    {
+     "id": "p019.s05",
+     "source": "‘I am not such a fool!’ cried the dwarf; ‘don’t you see that the accursed fish wants to pull me in?’"
+    },
+    {
+     "id": "p019.s06",
+     "source": "The little man had been sitting there fishing, and unluckily the wind had tangled up his beard with the fishing-line; a moment later a big fish made a bite and the feeble creature had not strength to pull it out; the fish kept the upper hand and pulled the dwarf towards him."
+    },
+    {
+     "id": "p019.s07",
+     "source": "He held on to all the reeds and rushes, but it was of little good, for he was forced to follow the movements of the fish, and was in urgent danger of being dragged into the water."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "The girls came just in time; they held him fast and tried to free his beard from the line, but all in vain, beard and line were entangled fast together."
+    },
+    {
+     "id": "p020.s02",
+     "source": "There was nothing to do but to bring out the scissors and cut the beard, whereby a small part of it was lost."
+    },
+    {
+     "id": "p020.s03",
+     "source": "When the dwarf saw that he screamed out: ‘Is that civil, you toadstool, to disfigure a man’s face?"
+    },
+    {
+     "id": "p020.s04",
+     "source": "Was it not enough to clip off the end of my beard?"
+    },
+    {
+     "id": "p020.s05",
+     "source": "Now you have cut off the best part of it."
+    },
+    {
+     "id": "p020.s06",
+     "source": "I cannot let myself be seen by my people."
+    },
+    {
+     "id": "p020.s07",
+     "source": "I wish you had been made to run the soles off your shoes!’"
+    },
+    {
+     "id": "p020.s08",
+     "source": "Then he took out a sack of pearls which lay in the rushes, and without another word he dragged it away and disappeared behind a stone."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "It happened that soon afterwards the mother sent the two children to the town to buy needles and thread, and laces and ribbons."
+    },
+    {
+     "id": "p021.s02",
+     "source": "The road led them across a heath upon which huge pieces of rock lay strewn about."
+    },
+    {
+     "id": "p021.s03",
+     "source": "There they noticed a large bird hovering in the air, flying slowly round and round above them; it sank lower and lower, and at last settled near a rock not far away."
+    },
+    {
+     "id": "p021.s04",
+     "source": "Immediately they heard a loud, piteous cry."
+    },
+    {
+     "id": "p021.s05",
+     "source": "They ran up and saw with horror that the eagle had seized their old acquaintance the dwarf, and was going to carry him off."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "The children, full of pity, at once took tight hold of the little man, and pulled against the eagle so long that at last he let his booty go."
+    },
+    {
+     "id": "p022.s02",
+     "source": "As soon as the dwarf had recovered from his first fright he cried with his shrill voice: ‘Could you not have done it more carefully!"
+    },
+    {
+     "id": "p022.s03",
+     "source": "You dragged at my brown coat so that it is all torn and full of holes, you clumsy creatures!’"
+    },
+    {
+     "id": "p022.s04",
+     "source": "Then he took up a sack full of precious stones, and slipped away again under the rock into his hole."
+    },
+    {
+     "id": "p022.s05",
+     "source": "The girls, who by this time were used to his ingratitude, went on their way and did their business in town."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "As they crossed the heath again on their way home they surprised the dwarf, who had emptied out his bag of precious stones in a clean spot, and had not thought that anyone would come there so late."
+    },
+    {
+     "id": "p023.s02",
+     "source": "The evening sun shone upon the brilliant stones; they glittered and sparkled with all colours so beautifully that the children stood still and stared at them."
+    },
+    {
+     "id": "p023.s03",
+     "source": "‘Why do you stand gaping there?’ cried the dwarf, and his ashen-grey face became copper-red with rage."
+    },
+    {
+     "id": "p023.s04",
+     "source": "He was still cursing when a loud growling was heard, and a black bear came trotting towards them out of the forest."
+    },
+    {
+     "id": "p023.s05",
+     "source": "The dwarf sprang up in a fright, but he could not reach his cave, for the bear was already close."
+    },
+    {
+     "id": "p023.s06",
+     "source": "Then in the dread of his heart he cried: ‘Dear Mr Bear, spare me, I will give you all my treasures; look, the beautiful jewels lying there!"
+    },
+    {
+     "id": "p023.s07",
+     "source": "Grant me my life; what do you want with such a slender little fellow as I? you would not feel me between your teeth."
+    },
+    {
+     "id": "p023.s08",
+     "source": "Come, take these two wicked girls, they are tender morsels for you, fat as young quails; for mercy’s sake eat them!’"
+    },
+    {
+     "id": "p023.s09",
+     "source": "The bear took no heed of his words, but gave the wicked creature a single blow with his paw, and he did not move again."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "The girls had run away, but the bear called to them: ‘Snow-white and Rose-red, do not be afraid; wait, I will come with you.’"
+    },
+    {
+     "id": "p024.s02",
+     "source": "Then they recognized his voice and waited, and when he came up to them suddenly his bearskin fell off, and he stood there a handsome man, clothed all in gold."
+    },
+    {
+     "id": "p024.s03",
+     "source": "‘I am a king’s son,’ he said, ‘and I was bewitched by that wicked dwarf, who had stolen my treasures; I have had to run about the forest as a savage bear until I was freed by his death."
+    },
+    {
+     "id": "p024.s04",
+     "source": "Now he has got his well-deserved punishment."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Snow-white was married to him, and Rose-red to his brother, and they divided between them the great treasure which the dwarf had gathered together in his cave."
+    },
+    {
+     "id": "p025.s02",
+     "source": "The old mother lived peacefully and happily with her children for many years."
+    },
+    {
+     "id": "p025.s03",
+     "source": "She took the two rose-trees with her, and they stood before her window, and every year bore the most beautiful roses, white and red."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "The Brothers Grimm, Jacob (1785-1863) and Wilhelm (1786-1859), were born in Hanau, near Frankfurt, in the German state of Hesse."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Throughout their lives they remained close friends, and both studied law at Marburg University."
+    },
+    {
+     "id": "p027.s03",
+     "source": "Jacob was a pioneer in the study of German philology, and although Wilhelm’s work was hampered by poor health the brothers collaborated in the creation of a German dictionary, not completed until a century after their deaths."
+    },
+    {
+     "id": "p027.s04",
+     "source": "But they were best (and universally) known for the collection of over two hundred folk tales they made from oral sources and published in two volumes of ‘Nursery and Household Tales’ in 1812 and 1814."
+    },
+    {
+     "id": "p027.s05",
+     "source": "Although their intention was to preserve such material as part of German cultural and literary history, and their collection was first published with scholarly notes and no illustration, the tales soon came into the possession of young readers."
+    },
+    {
+     "id": "p027.s06",
+     "source": "This was in part due to Edgar Taylor, who made the first English translation in 1823, selecting about fifty stories ‘with the amusement of some young friends principally in view.’"
+    },
+    {
+     "id": "p027.s07",
+     "source": "They have been an essential ingredient of children’s reading ever since."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "End of Project Gutenberg’s Grimms’ Fairy Tales, by The Brothers Grimm"
+    }
+   ],
+   "id": "p028"
+  }
+ ]
+}

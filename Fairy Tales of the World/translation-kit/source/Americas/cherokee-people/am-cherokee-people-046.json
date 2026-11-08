@@ -1,0 +1,40 @@
+{
+ "id": "am-cherokee-people-046",
+ "title": {
+  "id": "title",
+  "source": "Why The Buzzard’S Head Is Bare"
+ },
+ "tradition": "Cherokee people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Cherokee",
+ "credits": "Mooney, James (author, d. 1921)",
+ "gutenberg": "Project Gutenberg eBook #45634 — https://www.gutenberg.org/ebooks/45634 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Cherokee people/046 - Why The Buzzard’S Head Is Bare.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 113
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The buzzard used to have a fine topknot, of which he was so proud that he refused to eat carrion, and while the other birds were pecking at the body of a deer or other animal which they had found he would strut around and say: “You may have it all, it is not good enough for me.”"
+    },
+    {
+     "id": "p001.s02",
+     "source": "They resolved to punish him, and with the help of the buffalo carried out a plot by which the buzzard lost not his topknot alone, but nearly all the other feathers on his head."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He lost his pride at the same time, so that he is willing enough now to eat carrion for a living."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

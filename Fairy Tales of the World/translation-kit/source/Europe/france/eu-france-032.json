@@ -1,0 +1,625 @@
+{
+ "id": "eu-france-032",
+ "title": {
+  "id": "title",
+  "source": "The Little House"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Old French Fairy Tales",
+ "credits": "Ségur, Sophie, comtesse de (author, d. 1874)",
+ "gutenberg": "Project Gutenberg eBook #30129 — https://www.gutenberg.org/ebooks/30129 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/032 - The Little House.md",
+ "stats": {
+  "paragraphs": 38,
+  "segments": 94,
+  "words": 1183
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "T here was once a man named Prudent, who was a widower and he lived alone with his little daughter."
+    },
+    {
+     "id": "p001.s02",
+     "source": "His wife had died a few days after the birth of this little girl, who was named Rosalie."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Rosalie's father had a large fortune."
+    },
+    {
+     "id": "p002.s02",
+     "source": "He lived in a great house, which belonged to him."
+    },
+    {
+     "id": "p002.s03",
+     "source": "This house was surrounded by a large garden in which Rosalie walked whenever she pleased to do so."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "She had been trained with great tenderness and gentleness but her father had accustomed her to the most unquestioning obedience."
+    },
+    {
+     "id": "p003.s02",
+     "source": "He forbade her positively to ask him any useless questions or to insist upon knowing anything he did not wish to tell her."
+    },
+    {
+     "id": "p003.s03",
+     "source": "In this way, by unceasing care and watchfulness, he had almost succeeded in curing one of Rosalie's great faults, a fault indeed unfortunately too common—curiosity."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Rosalie never left the park, which was surrounded by high walls."
+    },
+    {
+     "id": "p004.s02",
+     "source": "She never saw any one but her father."
+    },
+    {
+     "id": "p004.s03",
+     "source": "They had no domestic in the house; everything seemed to be done of itself."
+    },
+    {
+     "id": "p004.s04",
+     "source": "She always had what she wanted—clothing, books, work, and playthings."
+    },
+    {
+     "id": "p004.s05",
+     "source": "Her father educated her himself and although she was nearly fifteen years old, she was never weary and never thought that she might live otherwise and might see more of the world."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "There was a little house at the end of the park without windows and with but one door, which was always locked."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Rosalie's father entered this house every day and always carried the key about his person."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Rosalie thought it was only a little hut in which the garden-tools were kept."
+    },
+    {
+     "id": "p005.s04",
+     "source": "She never thought of speaking about it but one day, when she was seeking a watering-pot for her flowers, she said to him:—"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"Father, please give me the key of the little house in the garden.\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"What do you want with this key, Rosalie?\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"I want a watering-pot and I think I could find one in that little house.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"No, Rosalie, there is no watering-pot there.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Prudent's voice trembled so in pronouncing these words that Rosalie looked up with surprise, and saw that his face was pale and his forehead bathed in perspiration."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"What is the matter, father?\" said she, alarmed."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"Nothing, daughter, nothing.\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"It was my asking for the key which agitated you so violently, father."
+    },
+    {
+     "id": "p013.s02",
+     "source": "What does this little house contain which frightens you so much?\""
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"Rosalie, Rosalie! you do not know what you are say ing."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Go and look for your watering-pot in the green-house.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"But, father, what is there in the little garden-house?\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"Nothing that can interest you, Rosalie.\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"But why do you go there every day without permitting me to go with you?\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Rosalie, you know that I do not like to be questioned and that curiosity is the greatest defect in your character.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Rosalie said no more but she remained very thoughtful."
+    },
+    {
+     "id": "p019.s02",
+     "source": "This little house, of which she had never before thought, was now constantly in her mind."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"What can be concealed there?\" she said to herself."
+    },
+    {
+     "id": "p020.s02",
+     "source": "\"How pale my father turned when I asked his permission to enter!"
+    },
+    {
+     "id": "p020.s03",
+     "source": "I am sure he thought I should be in some sort of danger."
+    },
+    {
+     "id": "p020.s04",
+     "source": "But why does he go there himself every day?"
+    },
+    {
+     "id": "p020.s05",
+     "source": "It is no doubt to carry food to some ferocious beast confined there."
+    },
+    {
+     "id": "p020.s06",
+     "source": "But if it was some wild animal, would I not hear it roar or howl or shake the house?"
+    },
+    {
+     "id": "p020.s07",
+     "source": "No, I have never heard any sound from this cabin."
+    },
+    {
+     "id": "p020.s08",
+     "source": "It cannot then be a beast."
+    },
+    {
+     "id": "p020.s09",
+     "source": "Besides, if it was a ferocious beast, it would devour my father when he entered alone."
+    },
+    {
+     "id": "p020.s10",
+     "source": "Perhaps, however, it is chained."
+    },
+    {
+     "id": "p020.s11",
+     "source": "But if it is indeed chained, then there would be no danger for me."
+    },
+    {
+     "id": "p020.s12",
+     "source": "What can it be?"
+    },
+    {
+     "id": "p020.s13",
+     "source": "A prisoner?"
+    },
+    {
+     "id": "p020.s14",
+     "source": "My father is good, he would not deprive any unfortunate innocent of light and liberty."
+    },
+    {
+     "id": "p020.s15",
+     "source": "Well, I absolutely must discover this mystery."
+    },
+    {
+     "id": "p020.s16",
+     "source": "How shall I manage it?"
+    },
+    {
+     "id": "p020.s17",
+     "source": "If I could only secretly get the key from my father for a half hour!"
+    },
+    {
+     "id": "p020.s18",
+     "source": "Perhaps some day he will forget it.\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Rosalie was aroused from this chain of reflection by her father, who called to her with a strangely agitated voice."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"Here, father—I am coming.\""
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "She entered the house and looked steadily at her father."
+    },
+    {
+     "id": "p023.s02",
+     "source": "His pale, sad countenance indicated great agitation."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "More than ever curious, she resolved to feign gaiety and indifference in order to allay her father's suspicions and make him feel secure."
+    },
+    {
+     "id": "p024.s02",
+     "source": "In this way she thought she might perhaps obtain possession of the key at some future time."
+    },
+    {
+     "id": "p024.s03",
+     "source": "He might not always think of it if she herself seemed to have forgotten it."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "They seated themselves at the table."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Prudent ate but little and was sad and silent, in spite of his efforts to appear gay."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Rosalie, however, seemed so thoughtless and bright that her father at last recovered his accustomed good spirits."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Rosalie would be fifteen years old in three weeks."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Her father had promised an agreeable surprise for this event."
+    },
+    {
+     "id": "p026.s03",
+     "source": "A few days passed peacefully away."
+    },
+    {
+     "id": "p026.s04",
+     "source": "There remained but fifteen days before her birth-day."
+    },
+    {
+     "id": "p026.s05",
+     "source": "One morning Prudent said to Rosalie:—"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"My dear child, I am compelled to be absent for one hour."
+    },
+    {
+     "id": "p027.s02",
+     "source": "I must go out to arrange something for your birth-day."
+    },
+    {
+     "id": "p027.s03",
+     "source": "Wait for me in the house, my dear."
+    },
+    {
+     "id": "p027.s04",
+     "source": "Do not yield yourself up to idle curiosity."
+    },
+    {
+     "id": "p027.s05",
+     "source": "In fifteen days you will know all that you desire to know, for I read your thoughts and I know what occupies your mind."
+    },
+    {
+     "id": "p027.s06",
+     "source": "Adieu, my daughter, beware of curiosity!\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Prudent embraced his daughter tenderly and withdrew, leaving her with great reluctance."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "As soon as he was out of sight, Rosalie ran to her father's room and what was her joy to see the key forgotten upon the table!"
+    },
+    {
+     "id": "p029.s02",
+     "source": "She seized it and ran quickly to the end of the park."
+    },
+    {
+     "id": "p029.s03",
+     "source": "Arrived at the little house, she remembered the words of her father, \"Beware of curiosity!\""
+    },
+    {
+     "id": "p029.s04",
+     "source": "She hesitated, and was upon the point of returning the key without having looked at the house, when she thought she heard a light groan."
+    },
+    {
+     "id": "p029.s05",
+     "source": "She put her ear against the door and heard a very little voice singing softly:—"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "\"No doubt,\" said Rosalie to herself, \"this is some unfortunate creature whom my father holds captive.\""
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Tapping softly upon the door, she said: \"Who are you, and what can I do for you?\""
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "\"Open the door, Rosalie!"
+    },
+    {
+     "id": "p032.s02",
+     "source": "I pray you open the door!\""
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "\"But why are you a prisoner?"
+    },
+    {
+     "id": "p033.s02",
+     "source": "Have you not committed some crime?\""
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "\"Alas! no, Rosalie."
+    },
+    {
+     "id": "p034.s02",
+     "source": "An enchanter keeps me here a prisoner."
+    },
+    {
+     "id": "p034.s03",
+     "source": "Save me and I will prove my gratitude by telling you truly who I am.\""
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Rosalie no longer hesitated: her curiosity was stronger than her obedience."
+    },
+    {
+     "id": "p035.s02",
+     "source": "She put the key in the lock, but her hand trembled so that she could not open it."
+    },
+    {
+     "id": "p035.s03",
+     "source": "She was about to give up the effort, when the little voice continued:—"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "\"Rosalie, that which I have to tell you will teach you many things which will interest you."
+    },
+    {
+     "id": "p036.s02",
+     "source": "Your father is not what he appears to be.\""
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "At these words Rosalie made a last effort, the key turned and the door opened."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p038"
+  }
+ ]
+}

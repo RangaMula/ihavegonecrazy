@@ -1,0 +1,124 @@
+{
+ "id": "eu-sweden-033",
+ "title": {
+  "id": "title",
+  "source": "King Rane and Queen Hudta"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/033 - King Rane and Queen Hudta.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 15,
+  "words": 435
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Upon the height where Svarteborg’s Church is now situated, rose, in former times, a castle, occupied at the date of our story by a king named Rane, after whom the fortification took the name of Ranesborg."
+    },
+    {
+     "id": "p001.s02",
+     "source": "As late as a few years ago traces of a wall were to be seen in the so-called bell-tower, near the church path, which were said to be the remains of the once stately fortress."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "At the time King Rane resided in Ranesborg, there lived not far from there, upon the Hudt estate, in the parish of Tanum, a Queen Hudta, widely known for her wealth and beauty, also for her rare bravery and sour temper."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Enraptured by the king’s fame for bravery, though well along in years, she sent an embassador to the king offering him her hand, which he accepted."
+    },
+    {
+     "id": "p003.s02",
+     "source": "After a time he fell in love with another and regretted his previous betrothal, but said nothing to Queen Hudta, who, upon the appointed day, betook herself, arrayed in queenly garb and glittering crown, to Ranesborg."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "When the bridal car arrived at the castle it was found that the king had gone on a hunt, and had left word that the queen might return to her home again."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Stung by this bitter affront, the queen commanded her people to storm the castle and raze it to the ground."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Returning to her horse, when the destruction had been completed, and viewing the black and smoking ruins of the castle, she thus vented herself: [ ]"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Up to the present you have been called Ranesborg, but hereafter you shall be known as Svarteborg”—Black Castle—and, putting spurs to her horse, she galloped away from the spot."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "When the queen came to the so-called Köpstadbäcken, on her way to Tanum, she halted at a spring, dismounted and laid her crown and equipments upon a stone."
+    },
+    {
+     "id": "p006.s02",
+     "source": "She then requested a drink, and, the water being good, the spring was named Godtakällan—good spring."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Meantime Rane, during the chase, had observed the smoke and flames from his burning castle and set out hastily homeward."
+    },
+    {
+     "id": "p007.s02",
+     "source": "At Köpstadbäcken he came upon the bridal car of the malevolent queen, when he understood what had taken place, and drawing his sword, he clove the head of his intended bride."
+    },
+    {
+     "id": "p007.s03",
+     "source": "At sight of this her followers at once took to flight, but they were overtaken and hewn down at Stenehed, where one of the finest monuments on Bohuslän marks the incident."
+    },
+    {
+     "id": "p007.s04",
+     "source": "The murdered queen’s body was carried to her castle at Hudt, where a large prostrate stone near the wagon road is said to mark her grave. [ ]"
+    }
+   ],
+   "id": "p007"
+  }
+ ]
+}

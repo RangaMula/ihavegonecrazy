@@ -1,0 +1,408 @@
+{
+ "id": "as-korea-014",
+ "title": {
+  "id": "title",
+  "source": "Yun Se-Pyong, The Wizard"
+ },
+ "tradition": "Korea",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Korean Folk Tales",
+ "credits": "Yi, Yuk (author, d. 1498); Im, Pang (author, d. 1724); Gale, James Scarth (translator, d. 1937)",
+ "gutenberg": "Project Gutenberg eBook #51002 — https://www.gutenberg.org/ebooks/51002 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Korea/014 - Yun Se-Pyong, The Wizard.md",
+ "stats": {
+  "paragraphs": 24,
+  "segments": 61,
+  "words": 1104
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "[Yun Se-pyong was a man of Seoul who lived to the age of over ninety."
+    },
+    {
+     "id": "p001.s02",
+     "source": "When he was young he loved archery, and went as military attaché to the capital of the Mings (Nanking)."
+    },
+    {
+     "id": "p001.s03",
+     "source": "There he met a prophet who taught him the Whang-jong Kyong , or Sacred Book of the Taoists, and thus he learned their laws and practised their teachings."
+    },
+    {
+     "id": "p001.s04",
+     "source": "His life was written by Yi So-kwang.]"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "[Chon U-chi was a magician of Songdo who lived about 1550, and was associated in his life with Shin Kwang-hu."
+    },
+    {
+     "id": "p003.s02",
+     "source": "At the latter’s residence one day when a friend called, Kwang-hu asked Chon to show them one of his special feats."
+    },
+    {
+     "id": "p003.s03",
+     "source": "A little later they brought in a table of rice for each of the party, and Chon took a mouthful of his, and then blew it out toward the courtyard, when the rice changed into beautiful butterflies that flew gaily away."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Chang O-sa used to tell a story of his father, who said that one day Chon came to call upon him at his house and asked for a book entitled The Tu-si , which he gave to him."
+    },
+    {
+     "id": "p004.s02",
+     "source": "“I had no idea,” said the father, “that he was dead and that it was his ghost."
+    },
+    {
+     "id": "p004.s03",
+     "source": "I gave him the book, though I did not learn till afterwards that he had been dead for a long time.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The History of Famous Men says, “He was a man who understood heretical magic, and other dangerous teachings by which he deceived the people."
+    },
+    {
+     "id": "p005.s02",
+     "source": "He was arrested for this and locked up in prison in Sin-chon, Whang-hai Province, and there he died."
+    },
+    {
+     "id": "p005.s03",
+     "source": "His burial was ordered by the prison authorities, and later, when his relatives came to exhume his remains, they found that the coffin was empty.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "This and the story of Im Bang do not agree as to his death, and I am not able to judge between them. —J. S. G.]"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "[The transformation of men into beasts, bugs and creeping things comes from Buddhism; one seldom finds it in Taoism.]"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "The Story"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Yun Se-Pyong was a military man who rose to the rank of minister in the days of King Choong-jong."
+    },
+    {
+     "id": "p010.s02",
+     "source": "It seems that Yun learned the doctrine of magic from a passing stranger, whom he met on his way to Peking in company with the envoy."
+    },
+    {
+     "id": "p010.s03",
+     "source": "When at home he lived in a separate house, quite apart from the other members of his family."
+    },
+    {
+     "id": "p010.s04",
+     "source": "He was a man so greatly feared that even his wife and children dared not approach him."
+    },
+    {
+     "id": "p010.s05",
+     "source": "What he did in secret no one seemed to know."
+    },
+    {
+     "id": "p010.s06",
+     "source": "In winter he was seen to put iron cleats under each arm and to change them frequently, and when they were put off they seemed to be red-hot."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "At the same time there was a magician in Korea called Chon U-chi, who used to go about Seoul plying his craft."
+    },
+    {
+     "id": "p011.s02",
+     "source": "So skilful was he that he could even simulate the form of the master of a house and go freely into the women’s quarters."
+    },
+    {
+     "id": "p011.s03",
+     "source": "On this account he was greatly feared and detested."
+    },
+    {
+     "id": "p011.s04",
+     "source": "Yun heard of him on more than one occasion, and determined to rid the earth of him."
+    },
+    {
+     "id": "p011.s05",
+     "source": "Chon heard also of Yun and gave him a wide berth, never appearing in his presence."
+    },
+    {
+     "id": "p011.s06",
+     "source": "He used frequently to say, “I am a magician only; Yun is a God.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "On a certain day Chon informed his wife that Yun would come that afternoon and try to kill him, “and so,” said he, “I shall change my shape in order to escape his clutches."
+    },
+    {
+     "id": "p012.s02",
+     "source": "If any one comes asking for me just say that I am not at home.”"
+    },
+    {
+     "id": "p012.s03",
+     "source": "He then metamorphosed himself into a beetle, and crawled under a crock that stood overturned in the courtyard."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "When evening began to fall a young woman came to Chon’s house, a very beautiful woman too, and asked, “Is the master Chon at home?”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "The wife replied, “He has just gone out.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "The woman laughingly said, “Master Chon and I have been special friend’s for a long time, and I have an appointment with him to-day."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Please say to him that I have come.”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Chon’s wife, seeing a pretty woman come thus, and ask in such a familiar way for her husband, flew into a rage and said, “The rascal has evidently a second wife that he has never told me of."
+    },
+    {
+     "id": "p016.s02",
+     "source": "What he said just now is all false,” so she went out in a fury, and with a club smashed the crock."
+    },
+    {
+     "id": "p016.s03",
+     "source": "When the crock was broken there was the beetle underneath it."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Then the woman who had called suddenly changed into a bee, and flew at and stung the beetle."
+    },
+    {
+     "id": "p016.s05",
+     "source": "Chon, metamorphosed into his accustomed form, fell over and died, and the bee flew away."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Yun lived at his own house as usual, when suddenly he broke down one day in a fit of tears."
+    },
+    {
+     "id": "p017.s02",
+     "source": "The members of his family in alarm asked the reason."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "He replied, “My sister living in Chulla Province has just at this moment died.”"
+    },
+    {
+     "id": "p018.s02",
+     "source": "He then called his servants, and had them prepare funeral supplies, saying, “They are poor where she lives, and so I must help them.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "He wrote a letter, and after sealing it, said to one of his attendants, “If you go just outside the gate you will meet a man wearing a horsehair cap and a soldier’s uniform."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Call him in."
+    },
+    {
+     "id": "p019.s03",
+     "source": "He is standing there ready to be summoned.”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "He was called in, and sure enough he was a Kon-yun-no (servant of the gods)."
+    },
+    {
+     "id": "p020.s02",
+     "source": "He came in and at once prostrated himself before Yun."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Yun said, “My sister has just now died in such a place in Chulla Province."
+    },
+    {
+     "id": "p020.s04",
+     "source": "Take this letter and go at once."
+    },
+    {
+     "id": "p020.s05",
+     "source": "I shall expect you back to-night with the answer."
+    },
+    {
+     "id": "p020.s06",
+     "source": "The matter is of such great importance that if you do not bring it as I order, and within the time appointed, I shall have you punished.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "He replied, “I shall be in time, be not anxious.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Yun then gave him the letter and the bundle, and he went outside the main gateway and disappeared."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Before dark he returned with the answer."
+    },
+    {
+     "id": "p023.s02",
+     "source": "The letter read: “She died at such an hour to-day and we were in straits as to what to do, when your letter came with the supplies, just as though we had seen each other."
+    },
+    {
+     "id": "p023.s03",
+     "source": "Wonderful it is!”"
+    },
+    {
+     "id": "p023.s04",
+     "source": "The man who brought the answer immediately went out and disappeared."
+    },
+    {
+     "id": "p023.s05",
+     "source": "The house of mourning is situated over ten days’ journey from Seoul, but he returned ere sunset, in the space of two or three hours."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Im Bang."
+    }
+   ],
+   "id": "p024"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-018",
+ "title": {
+  "id": "title",
+  "source": "The Hare and the Tortoise"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/018 - The Hare and the Tortoise.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 7,
+  "words": 134
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A HARE one day ridiculed the short feet and slow pace of the Tortoise, who replied, laughing: “Though you be swift as the wind, I will beat you in a race.”"
+    },
+    {
+     "id": "p001.s02",
+     "source": "The Hare, believing her assertion to be simply impossible, assented to the proposal; and they agreed that the Fox should choose the course and fix the goal."
+    },
+    {
+     "id": "p001.s03",
+     "source": "On the day appointed for the race the two started together."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The Tortoise never for a moment stopped, but went on with a slow but steady pace straight to the end of the course."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The Hare, lying down by the wayside, fell fast asleep."
+    },
+    {
+     "id": "p001.s06",
+     "source": "At last waking up, and moving as fast as he could, he saw the Tortoise had reached the goal, and was comfortably dozing after her fatigue."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Slow but steady wins the race."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

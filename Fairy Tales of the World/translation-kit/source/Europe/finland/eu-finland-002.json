@@ -1,0 +1,464 @@
+{
+ "id": "eu-finland-002",
+ "title": {
+  "id": "title",
+  "source": "Jane, Jane, Don’T Complain!"
+ },
+ "tradition": "Finland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Mighty Mikko: A Book of Finnish Fairy Tales and Folk Tales",
+ "credits": "Fillmore, Parker (author, d. 1944)",
+ "gutenberg": "Project Gutenberg eBook #38112 — https://www.gutenberg.org/ebooks/38112 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Finland/002 - Jane, Jane, Don’T Complain!.md",
+ "stats": {
+  "paragraphs": 29,
+  "segments": 67,
+  "words": 985
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a man who was poor and lazy and he had a wife who was even worse."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Her name was Jenny."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Jenny was so lazy that it was an effort for her to lift one foot after the other."
+    },
+    {
+     "id": "p001.s04",
+     "source": "And in addition to her laziness she was an everlasting complainer."
+    },
+    {
+     "id": "p001.s05",
+     "source": "“Oh!” she used to grunt in the morning, “I wish we didn’t have to get up!” and “Oh!” she used to groan at night, “I wish we didn’t have to take our shoes off before going to bed!”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "One day when they were both out in the forest collecting faggots, Jenny said:"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“I don’t see why we’re not rich!"
+    },
+    {
+     "id": "p003.s02",
+     "source": "I don’t see why the King should live at his ease while we have to grub for everything we get!"
+    },
+    {
+     "id": "p003.s03",
+     "source": "I just hate work!”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Of course the trouble both with Jenny and her husband was not that they worked but that they didn’t work."
+    },
+    {
+     "id": "p004.s02",
+     "source": "It was because they didn’t that they had so much time to think about it."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Drat it all!”"
+    },
+    {
+     "id": "p005.s02",
+     "source": "Jenny went on, whining, “Adam and Eve are to blame for all our misfortunes!"
+    },
+    {
+     "id": "p005.s03",
+     "source": "If they hadn’t disobeyed God’s commandment and eaten that apple, we’d all be living in the Garden of Eden to this day!"
+    },
+    {
+     "id": "p005.s04",
+     "source": "It’s all their fault that we have to moil and toil and hurry and scurry!”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Yes,” the man agreed, “it is, especially Eve’s. Of course Adam was to blame, too, for he should have controlled his wife better."
+    },
+    {
+     "id": "p006.s02",
+     "source": "But Eve was the more to blame."
+    },
+    {
+     "id": "p006.s03",
+     "source": "If I had been Adam I shouldn’t have allowed her to touch the apple in the first place.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Now it happened that the King who was out hunting that day overheard this conversation."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Ha!” he thought to himself, “I’ve a great mind to teach these two people a lesson!”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "He pushed aside the bushes that had hidden him from them and said:"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“Good day to you both!"
+    },
+    {
+     "id": "p010.s02",
+     "source": "I have just heard your complaints and I, too, think it very hard that you should be poor while others are rich."
+    },
+    {
+     "id": "p010.s03",
+     "source": "I tell you what I’ll do: I’ll take you both home with me to the castle and maintain you in ease and luxury provided you obey me in just one thing.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Jenny and her husband agreed to this eagerly and just as they were the King took them home with him to the castle."
+    },
+    {
+     "id": "p011.s02",
+     "source": "He lodged them in a room with golden furniture, he gave them fine clothes to wear, and for food he had them served the choicest delicacies in the world."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "As they sat eating their first royal meal, he came in to them carrying in his hands a covered dish of silver."
+    },
+    {
+     "id": "p012.s02",
+     "source": "He put the dish down in the center of the table."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Now, my friends,” he said, “I promised to maintain you in this ease and luxury provided you obeyed me in one thing."
+    },
+    {
+     "id": "p013.s02",
+     "source": "You see this silver dish."
+    },
+    {
+     "id": "p013.s03",
+     "source": "I forbid you ever to lift the cover."
+    },
+    {
+     "id": "p013.s04",
+     "source": "If you disobey me, that moment I shall take from you your fine clothes and send you back to your poverty and misery.”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "With that the King left them and they stuffed themselves to their hearts’ content with the delicate foods set before them."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "They were so busy, eating and drinking and admiring themselves in their fine clothes, that for the first day they didn’t give the covered dish a thought."
+    },
+    {
+     "id": "p015.s02",
+     "source": "The second day the wife noticed it and said:"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“That’s the thing we’re not to touch."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Well, for my part I don’t want to touch it."
+    },
+    {
+     "id": "p016.s03",
+     "source": "I don’t want to do anything but eat and sleep and try on my pretty new clothes.”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "By the third day they had eaten so much and so steadily that they were no longer hungry and when they lay down on the big soft bed they no longer fell instantly asleep."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“Dear me,” Jenny began whining, “I don’t know what’s the matter with this food!"
+    },
+    {
+     "id": "p018.s02",
+     "source": "It doesn’t taste as good as it used to!"
+    },
+    {
+     "id": "p018.s03",
+     "source": "Maybe the cook has grown careless!"
+    },
+    {
+     "id": "p018.s04",
+     "source": "I think we ought to complain to the King."
+    },
+    {
+     "id": "p018.s05",
+     "source": "I’m beginning to feel very uncomfortable and I haven’t any appetite at all!"
+    },
+    {
+     "id": "p018.s06",
+     "source": "I wonder what’s in that covered dish."
+    },
+    {
+     "id": "p018.s07",
+     "source": "Perhaps it’s something to eat, something perfectly delicious!"
+    },
+    {
+     "id": "p018.s08",
+     "source": "I’ve half a mind to lift the cover and see.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“Now just you leave that silver dish alone!” the man growled."
+    },
+    {
+     "id": "p019.s02",
+     "source": "He, too, had been eating too much and was feeling peevish."
+    },
+    {
+     "id": "p019.s03",
+     "source": "“Don’t you remember what the King said?”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“Pooh!” cried Jenny."
+    },
+    {
+     "id": "p020.s02",
+     "source": "“What do I care what the King said!"
+    },
+    {
+     "id": "p020.s03",
+     "source": "I think he was just poking fun at us telling us we mustn’t lift the cover of that silver dish."
+    },
+    {
+     "id": "p020.s04",
+     "source": "After all a dish is a dish and it’s no crime to lift a cover even if it is made of silver!”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "With that Jenny jumped up and before her husband could stop her she lifted the forbidden cover."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Instantly a little white mouse hopped out of the silver dish and scurried away."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“Oh!”"
+    },
+    {
+     "id": "p022.s02",
+     "source": "Jenny screamed, dropping the cover with a great clatter."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "The King who was in an adjoining chamber heard the noise and came in."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“So!” he said, “you have done the one thing that I told you not to do!"
+    },
+    {
+     "id": "p024.s02",
+     "source": "You haven’t been here three days and although you’ve had everything that heart could wish for yet you couldn’t obey me in this one little matter!”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“Your Majesty,” the man said, “it was my wife who did it, not I.”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“No matter,” the King said, “you, too, are to blame."
+    },
+    {
+     "id": "p026.s02",
+     "source": "If you had restrained her it wouldn’t have happened.”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Then he called his servants and had them strip off the fine clothes and dress the couple again in their old rags."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“Now,” he said as he drove them from the castle gates, “never again blame Adam and Eve for the misfortunes which you bring upon yourselves!”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "They carried home the treasure on their backs"
+    }
+   ],
+   "id": "p029"
+  }
+ ]
+}

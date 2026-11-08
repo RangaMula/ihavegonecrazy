@@ -1,0 +1,70 @@
+{
+ "id": "as-arab-peoples-arabian-nights-045",
+ "title": {
+  "id": "title",
+  "source": "Story Of The Three Men And Our Lord Jesus"
+ },
+ "tradition": "Arab peoples (Arabian Nights)",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Tales from the Arabic — Complete",
+ "credits": "Payne, John (translator, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #5245 — https://www.gutenberg.org/ebooks/5245 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Arab peoples (Arabian Nights)/045 - Story Of The Three Men And Our Lord Jesus.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 9,
+  "words": 219
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Three men once went out in quest of riches and came upon a block of gold, weighing a hundred pounds."
+    },
+    {
+     "id": "p001.s02",
+     "source": "When they saw it, they took it up on their shoulders and fared on with it, till they drew near a certain city, when one of them said, 'Let us sit in the mosque, whilst one of us goes and buys us what we may eat.\""
+    },
+    {
+     "id": "p001.s03",
+     "source": "So they sat down in the mosque and one of them arose and entered the city."
+    },
+    {
+     "id": "p001.s04",
+     "source": "When he came therein, his soul prompted him to play his fellows false and get the gold for himself alone."
+    },
+    {
+     "id": "p001.s05",
+     "source": "So he bought food and poisoned it; but, when he returned to his comrades, they fell upon him and slew him, so they might enjoy the gold without him."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Then they ate of the [poisoned] food and died, and the gold abode cast down over against them."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Presently, Jesus, son of Mary (on whom be peace!) passed by and seeing this, besought God the Most High for tidings of their case; so He told him what had betided them, whereat great was his wonderment and he related to his disciples what he had seen."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Quoth one of them, 'O Spirit of God,[FN#251] nought resembleth this but my own story.'"
+    },
+    {
+     "id": "p002.s03",
+     "source": "'How so?' asked Jesus, and the other said,"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-002",
+ "title": {
+  "id": "title",
+  "source": "The Bat And The Weasels"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/002 - The Bat And The Weasels.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 7,
+  "words": 113
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A BAT who fell upon the ground and was caught by a Weasel pleaded to be spared his life."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The Weasel refused, saying that he was by nature the enemy of all birds."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Bat assured him that he was not a bird, but a mouse, and thus was set free."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Shortly afterwards the Bat again fell to the ground and was caught by another Weasel, whom he likewise entreated not to eat him."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The Weasel said that he had a special hostility to mice."
+    },
+    {
+     "id": "p001.s06",
+     "source": "The Bat assured him that he was not a mouse, but a bat, and thus a second time escaped."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "It is wise to turn circumstances to good account."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

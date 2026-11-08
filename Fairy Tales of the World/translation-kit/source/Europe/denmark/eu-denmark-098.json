@@ -1,0 +1,178 @@
+{
+ "id": "eu-denmark-098",
+ "title": {
+  "id": "title",
+  "source": "Fifth Evening"
+ },
+ "tradition": "Denmark",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy Tales of Hans Christian Andersen",
+ "credits": "Andersen, H. C. (Hans Christian) (author, d. 1875)",
+ "gutenberg": "Project Gutenberg eBook #27200 — https://www.gutenberg.org/ebooks/27200 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Denmark/098 - Fifth Evening.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 30,
+  "words": 506
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "\"Yesterday,\" began the Moon, \"I looked down upon the turmoil of Paris."
+    },
+    {
+     "id": "p001.s02",
+     "source": "My eye penetrated into an apartment of the Louvre."
+    },
+    {
+     "id": "p001.s03",
+     "source": "An old grandmother, poorly clad—she belonged to the working class—was following one of the under-servants into the great empty throne-room, for this was the apartment she wanted to see—that she was resolved to see; it had cost her many a little sacrifice, and many a coaxing word, to penetrate thus far."
+    },
+    {
+     "id": "p001.s04",
+     "source": "She folded her thin hands, and looked round with an air of reverence, as if she had been in a church."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"'Here it was!' she said, 'here!' and she approached the throne, from which hung the rich velvet fringed with gold lace."
+    },
+    {
+     "id": "p002.s02",
+     "source": "'There,' she exclaimed, 'there!' and she knelt and kissed the purple carpet."
+    },
+    {
+     "id": "p002.s03",
+     "source": "I think she was actually weeping."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"'But it was not this very velvet!' observed the footman, and a smile played about his mouth."
+    },
+    {
+     "id": "p003.s02",
+     "source": "'True, but it was this very place,' replied the woman, 'and it must have looked just like this."
+    },
+    {
+     "id": "p003.s03",
+     "source": "'It looked so, and yet it did not,' observed the man: 'the windows were beaten in, and the doors were off their hinges, and there was blood upon the floor.'"
+    },
+    {
+     "id": "p003.s04",
+     "source": "'But for all that you can say, my grandson died upon the throne of France."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Died!' mournfully repeated the old woman."
+    },
+    {
+     "id": "p003.s06",
+     "source": "I do not think another word was spoken, and they soon quitted the hall."
+    },
+    {
+     "id": "p003.s07",
+     "source": "The evening twilight faded and my light shone doubly vivid upon the rich velvet that covered the throne of France."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Now who do you think this poor woman was?"
+    },
+    {
+     "id": "p004.s02",
+     "source": "Listen, I will tell you a story."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"It happened, in the Revolution of July, on the evening of the most brilliantly victorious day, when every house was a fortress, every window a breastwork."
+    },
+    {
+     "id": "p005.s02",
+     "source": "The people stormed the Tuileries."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Even women and children were to be found among the combatants."
+    },
+    {
+     "id": "p005.s04",
+     "source": "They penetrated into the apartments and halls of the palace."
+    },
+    {
+     "id": "p005.s05",
+     "source": "A poor half-grown boy in a ragged blouse fought among the older insurgents."
+    },
+    {
+     "id": "p005.s06",
+     "source": "Mortally wounded with several bayonet thrusts, he sank down."
+    },
+    {
+     "id": "p005.s07",
+     "source": "This happened in the throne-room."
+    },
+    {
+     "id": "p005.s08",
+     "source": "They laid the bleeding youth upon the throne of France, wrapped the velvet around his wounds, and his blood streamed forth upon the imperial purple."
+    },
+    {
+     "id": "p005.s09",
+     "source": "There was a picture!"
+    },
+    {
+     "id": "p005.s10",
+     "source": "The splendid hall, the fighting groups!"
+    },
+    {
+     "id": "p005.s11",
+     "source": "A torn flag upon the ground, the tricolor was waving above the bayonets, and on the throne lay the poor lad with the pale glorified countenance, his eyes turned towards the sky, his limbs writhing in the death agony, his breast bare, and his poor tattered clothing half hidden by the rich velvet embroidered with silver lilies."
+    },
+    {
+     "id": "p005.s12",
+     "source": "At the boy's cradle a prophecy had been spoken: 'He will die on the throne of France!'"
+    },
+    {
+     "id": "p005.s13",
+     "source": "The mother's heart dreamt of a second Napoleon."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"My beams have kissed the wreath of immortelles on his grave, and this night they kissed the forehead of the old grandame, while in a dream the picture floated before her which thou mayest draw—the poor boy on the throne of France.\""
+    }
+   ],
+   "id": "p006"
+  }
+ ]
+}

@@ -1,0 +1,1904 @@
+{
+ "id": "af-south-africa-048",
+ "title": {
+  "id": "title",
+  "source": "Macmillan’s Prize Library"
+ },
+ "tradition": "South Africa",
+ "continent": "Africa",
+ "source_lang": "en",
+ "source_book": "Fairy tales from South Africa",
+ "credits": "Bourhill, Sarah F. (author); Drake, Beatrice L. (author)",
+ "gutenberg": "Project Gutenberg eBook #75833 — https://www.gutenberg.org/ebooks/75833 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Africa/South Africa/048 - Macmillan’s Prize Library.md",
+ "stats": {
+  "paragraphs": 149,
+  "segments": 247,
+  "words": 678
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A CAREFULLY SELECTED SERIES OF"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Illustrated Books Suitable for Presentation"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "In Ornamental Bindings."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Crown 8vo."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Price 2s."
+    },
+    {
+     "id": "p003.s04",
+     "source": "6d. each Cloth Elegant."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Gilt Edges."
+    },
+    {
+     "id": "p003.s06",
+     "source": "3s."
+    },
+    {
+     "id": "p003.s07",
+     "source": "6d. each ( except vols. marked *)"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "By Rev. J. C. Atkinson"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "WALKS, TALKS, TRAVELS AND EXPLOITS OF TWO SCHOOLBOYS."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "PLAY-HOURS AND HALF-HOLIDAYS."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Illustrated by Coleman"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "SCENES IN FAIRYLAND."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "THE LAST OF THE GIANT-KILLERS."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Illus."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "By Jane Austen"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "PRIDE AND PREJUDICE."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "SENSE AND SENSIBILITY."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "EMMA."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "By L. N. Badenoch"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "THE ROMANCE OF THE INSECT WORLD."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "By Rev. R. H. Barham"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "THE INGOLDSBY LEGENDS."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "By Edward Bertz"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "THE FRENCH PRISONERS."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "By Sir Walter Besant"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "THE LIFE OF CAPTAIN COOK."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "By A. G. Bradley"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "THE LIFE OF WOLFE."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "By Frank Buckland"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "CURIOSITIES OF NATURAL HISTORY."
+    },
+    {
+     "id": "p024.s02",
+     "source": "In four volumes."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "By Sir W. Butler"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "THE LIFE OF GORDON."
+    },
+    {
+     "id": "p026.s02",
+     "source": "With Portrait"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "By J. Fenimore Cooper"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "THE LAST OF THE MOHICANS."
+    },
+    {
+     "id": "p028.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "THE DEERSLAYER."
+    },
+    {
+     "id": "p029.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "THE PATHFINDER."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "THE PIONEERS."
+    },
+    {
+     "id": "p031.s02",
+     "source": "Illus."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "THE PRAIRIE."
+    },
+    {
+     "id": "p032.s02",
+     "source": "Illus. [ ]"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "By Julian Corbett"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "LIFE OF DRAKE."
+    },
+    {
+     "id": "p034.s02",
+     "source": "With Portrait"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "FOR GOD AND GOLD."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "By Mrs. Craik"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "OLIVE."
+    },
+    {
+     "id": "p037.s02",
+     "source": "Illustrated by G. Bowers"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "THE HEAD OF THE FAMILY."
+    },
+    {
+     "id": "p038.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "AGATHA’S HUSBAND."
+    },
+    {
+     "id": "p039.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "By Sir Edward Creasy"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "THE FIFTEEN DECISIVE BATTLES OF THE WORLD"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "By Daniel Defoe"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "ROBINSON CRUSOE."
+    },
+    {
+     "id": "p043.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "By Charles Dickens"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "OLIVER TWIST."
+    },
+    {
+     "id": "p045.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "THE OLD CURIOSITY SHOP."
+    },
+    {
+     "id": "p046.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "CHRISTMAS BOOKS."
+    },
+    {
+     "id": "p047.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "* BARNABY RUDGE."
+    },
+    {
+     "id": "p048.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "By Maria Edgeworth"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "POPULAR TALES."
+    },
+    {
+     "id": "p050.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "LAZY LAWRENCE, AND OTHER STORIES."
+    },
+    {
+     "id": "p051.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "By J. H. Fabre"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "INSECT LIFE: SOUVENIRS OF A NATURALIST."
+    },
+    {
+     "id": "p053.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "By Violet G. Finny"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "THE REVOLT OF THE YOUNG MacCORMACKS ."
+    },
+    {
+     "id": "p055.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "By W. Warde Fowler"
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "TALES OF THE BIRDS."
+    },
+    {
+     "id": "p057.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "A YEAR WITH THE BIRDS."
+    },
+    {
+     "id": "p058.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "By Mrs. Hugh Fraser"
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "THE BROWN AMBASSADOR"
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "By Rev. E. Gilliat"
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "* GOD SAVE KING ALFRED."
+    },
+    {
+     "id": "p062.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "By J. Gilmore"
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "STORM WARRIORS."
+    },
+    {
+     "id": "p064.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "By George Hooper"
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "LIFE OF WELLINGTON."
+    },
+    {
+     "id": "p066.s02",
+     "source": "With Portrait"
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "By Professor Herbert A. Howe"
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "* A STUDY OF THE SKY."
+    },
+    {
+     "id": "p068.s02",
+     "source": "Illustrated [ ]"
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "By Thomas Hughes"
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "LIFE OF LIVINGSTONE."
+    },
+    {
+     "id": "p070.s02",
+     "source": "With Portrait"
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "TOM BROWN’S SCHOOL DAYS."
+    },
+    {
+     "id": "p071.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "By Raymond Jacberns"
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "* THE THREE RASCALS."
+    },
+    {
+     "id": "p073.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "* THE NEW PUPIL."
+    },
+    {
+     "id": "p074.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "By A. and E. Keary"
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "HEROES OF ASGARD."
+    },
+    {
+     "id": "p076.s02",
+     "source": "Illustrated by Huard"
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "By Wardlaw Kennedy"
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "BEASTS: THUMB-NAIL STUDIES IN PETS."
+    },
+    {
+     "id": "p078.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p078"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p079.s01",
+     "source": "By Charles Kingsley"
+    }
+   ],
+   "id": "p079"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p080.s01",
+     "source": "WESTWARD HO!"
+    },
+    {
+     "id": "p080.s02",
+     "source": "Illustrated by C. E. Brock"
+    }
+   ],
+   "id": "p080"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p081.s01",
+     "source": "HEREWARD THE WAKE."
+    },
+    {
+     "id": "p081.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p081"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p082.s01",
+     "source": "THE HEROES."
+    },
+    {
+     "id": "p082.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p082"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p083.s01",
+     "source": "THE WATER BABIES."
+    },
+    {
+     "id": "p083.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p083"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p084.s01",
+     "source": "MADAM HOW AND LADY WHY."
+    },
+    {
+     "id": "p084.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p084"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p085.s01",
+     "source": "GLAUCUS."
+    },
+    {
+     "id": "p085.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p085"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p086.s01",
+     "source": "AT LAST."
+    },
+    {
+     "id": "p086.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p086"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p087.s01",
+     "source": "By Henry Kingsley"
+    }
+   ],
+   "id": "p087"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p088.s01",
+     "source": "TALES OF OLD TRAVEL."
+    },
+    {
+     "id": "p088.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p088"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p089.s01",
+     "source": "By Rudyard Kipling"
+    }
+   ],
+   "id": "p089"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p090.s01",
+     "source": "* THE KIPLING READER"
+    }
+   ],
+   "id": "p090"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p091.s01",
+     "source": "By Sir J. K. Laughton"
+    }
+   ],
+   "id": "p091"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p092.s01",
+     "source": "LIFE OF NELSON."
+    },
+    {
+     "id": "p092.s02",
+     "source": "With Portrait"
+    }
+   ],
+   "id": "p092"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p093.s01",
+     "source": "By S. Lover"
+    }
+   ],
+   "id": "p093"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p094.s01",
+     "source": "HANDY ANDY."
+    },
+    {
+     "id": "p094.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p094"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p095.s01",
+     "source": "By Captain Marryat"
+    }
+   ],
+   "id": "p095"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p096.s01",
+     "source": "POOR JACK."
+    },
+    {
+     "id": "p096.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p096"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p097.s01",
+     "source": "MASTERMAN READY."
+    },
+    {
+     "id": "p097.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p097"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p098.s01",
+     "source": "NEWTON FORSTER."
+    },
+    {
+     "id": "p098.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p098"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p099.s01",
+     "source": "PIRATE AND THREE CUTTERS."
+    },
+    {
+     "id": "p099.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p099"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p100.s01",
+     "source": "SNARLEYYOW."
+    },
+    {
+     "id": "p100.s02",
+     "source": "Illus."
+    }
+   ],
+   "id": "p100"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p101.s01",
+     "source": "PETER SIMPLE."
+    },
+    {
+     "id": "p101.s02",
+     "source": "Illus."
+    }
+   ],
+   "id": "p101"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p102.s01",
+     "source": "MR. MIDSHIPMAN EASY."
+    },
+    {
+     "id": "p102.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p102"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p103.s01",
+     "source": "JAPHET IN SEARCH OF A FATHER."
+    },
+    {
+     "id": "p103.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p103"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p104.s01",
+     "source": "By S. Weir Mitchell"
+    }
+   ],
+   "id": "p104"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p105.s01",
+     "source": "* THE ADVENTURES OF FRANÇOIS."
+    },
+    {
+     "id": "p105.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p105"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p106.s01",
+     "source": "By Mrs. Molesworth"
+    }
+   ],
+   "id": "p106"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p107.s01",
+     "source": "CARROTS."
+    },
+    {
+     "id": "p107.s02",
+     "source": "Illustrated by Walter Crane"
+    }
+   ],
+   "id": "p107"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p108.s01",
+     "source": "THE TAPESTRY ROOM."
+    },
+    {
+     "id": "p108.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p108"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p109.s01",
+     "source": "A CHRISTMAS CHILD."
+    },
+    {
+     "id": "p109.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p109"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p110.s01",
+     "source": "THE CUCKOO CLOCK."
+    },
+    {
+     "id": "p110.s02",
+     "source": "Illustrated [ ]"
+    }
+   ],
+   "id": "p110"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p111.s01",
+     "source": "GRANDMOTHER DEAR."
+    },
+    {
+     "id": "p111.s02",
+     "source": "Illus."
+    }
+   ],
+   "id": "p111"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p112.s01",
+     "source": "US."
+    },
+    {
+     "id": "p112.s02",
+     "source": "Illus."
+    }
+   ],
+   "id": "p112"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p113.s01",
+     "source": "THE ADVENTURES OF HERR BABY."
+    },
+    {
+     "id": "p113.s02",
+     "source": "Illus."
+    }
+   ],
+   "id": "p113"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p114.s01",
+     "source": "TELL ME A STORY."
+    },
+    {
+     "id": "p114.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p114"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p115.s01",
+     "source": "LITTLE MISS PEGGY."
+    },
+    {
+     "id": "p115.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p115"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p116.s01",
+     "source": "* CHRISTMAS-TREE LAND."
+    },
+    {
+     "id": "p116.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p116"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p117.s01",
+     "source": "* THE RECTORY CHILDREN."
+    }
+   ],
+   "id": "p117"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p118.s01",
+     "source": "* ROSY."
+    }
+   ],
+   "id": "p118"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p119.s01",
+     "source": "* TWO LITTLE WAIFS"
+    }
+   ],
+   "id": "p119"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p120.s01",
+     "source": "By J. Morier"
+    }
+   ],
+   "id": "p120"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p121.s01",
+     "source": "HAJJI BABA OF ISPAHAN."
+    },
+    {
+     "id": "p121.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p121"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p122.s01",
+     "source": "By Mowbray Morris"
+    }
+   ],
+   "id": "p122"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p123.s01",
+     "source": "* TALES OF THE SPANISH MAIN."
+    },
+    {
+     "id": "p123.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p123"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p124.s01",
+     "source": "By H. E. Norton"
+    }
+   ],
+   "id": "p124"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p125.s01",
+     "source": "A BOOK OF COURTESY."
+    },
+    {
+     "id": "p125.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p125"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p126.s01",
+     "source": "By Mrs. Oliphant"
+    }
+   ],
+   "id": "p126"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p127.s01",
+     "source": "AGNES HOPETOUN."
+    },
+    {
+     "id": "p127.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p127"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p128.s01",
+     "source": "By C. W. C. Oman"
+    }
+   ],
+   "id": "p128"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p129.s01",
+     "source": "WARWICK THE KING-MAKER."
+    },
+    {
+     "id": "p129.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p129"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p130.s01",
+     "source": "By Major Gambier Parry"
+    }
+   ],
+   "id": "p130"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p131.s01",
+     "source": "THE STORY OF DICK."
+    },
+    {
+     "id": "p131.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p131"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p132.s01",
+     "source": "By Eleanor C. Price"
+    }
+   ],
+   "id": "p132"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p133.s01",
+     "source": "IN THE LION’S MOUTH ."
+    },
+    {
+     "id": "p133.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p133"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p134.s01",
+     "source": "By Sir Walter Scott"
+    }
+   ],
+   "id": "p134"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p135.s01",
+     "source": "* KENILWORTH."
+    },
+    {
+     "id": "p135.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p135"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p136.s01",
+     "source": "* THE TALISMAN."
+    },
+    {
+     "id": "p136.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p136"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p137.s01",
+     "source": "* COUNT ROBERT OF PARIS."
+    },
+    {
+     "id": "p137.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p137"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p138.s01",
+     "source": "By W. M. Thackeray"
+    }
+   ],
+   "id": "p138"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p139.s01",
+     "source": "* THE HISTORY OF HENRY ESMOND"
+    }
+   ],
+   "id": "p139"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p140.s01",
+     "source": "By Charlotte M. Yonge"
+    }
+   ],
+   "id": "p140"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p141.s01",
+     "source": "THE LITTLE DUKE."
+    },
+    {
+     "id": "p141.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p141"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p142.s01",
+     "source": "THE LANCES OF LYNWOOD."
+    },
+    {
+     "id": "p142.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p142"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p143.s01",
+     "source": "THE PRINCE AND THE PAGE."
+    },
+    {
+     "id": "p143.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p143"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p144.s01",
+     "source": "THE ARMOURER’S ’PRENTICES."
+    },
+    {
+     "id": "p144.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p144"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p145.s01",
+     "source": "P’S AND Q’S AND LITTLE LUCY’S WONDERFUL GLOBE."
+    },
+    {
+     "id": "p145.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p145"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p146.s01",
+     "source": "UNKNOWN TO HISTORY."
+    },
+    {
+     "id": "p146.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p146"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p147.s01",
+     "source": "THE DOVE IN THE EAGLE’S NEST."
+    },
+    {
+     "id": "p147.s02",
+     "source": "Illustrated"
+    }
+   ],
+   "id": "p147"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p148.s01",
+     "source": "Further volumes will be added from time to time"
+    }
+   ],
+   "id": "p148"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p149.s01",
+     "source": "MACMILLAN AND CO., LTD., LONDON"
+    }
+   ],
+   "id": "p149"
+  }
+ ]
+}

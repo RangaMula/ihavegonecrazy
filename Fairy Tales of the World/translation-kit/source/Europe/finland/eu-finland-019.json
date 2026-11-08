@@ -1,0 +1,802 @@
+{
+ "id": "eu-finland-019",
+ "title": {
+  "id": "title",
+  "source": "Adventure Xvi The Last Of Osmo"
+ },
+ "tradition": "Finland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Mighty Mikko: A Book of Finnish Fairy Tales and Folk Tales",
+ "credits": "Fillmore, Parker (author, d. 1944)",
+ "gutenberg": "Project Gutenberg eBook #38112 — https://www.gutenberg.org/ebooks/38112 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Finland/019 - Adventure Xvi The Last Of Osmo.md",
+ "stats": {
+  "paragraphs": 64,
+  "segments": 99,
+  "words": 1159
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was a Farmer that used to drive his sledge into the forest to cut wood."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Always as he drove he shouted abusively at his Horse."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“Go along, you old plug!” he’d say."
+    },
+    {
+     "id": "p002.s02",
+     "source": "“What do you think you’re good for, anyway?"
+    },
+    {
+     "id": "p002.s03",
+     "source": "If you don’t move along more lively I’ll give you to the Bear for his supper—that’s what I’ll do with you!”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Now Osmo, the Bear, heard about this, how the Farmer was always talking about giving him his Horse, so one afternoon while the Farmer was going through his usual tirade Osmo suddenly stepped out of the bushes and said:"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Well, Mr. Farmer, here I am!"
+    },
+    {
+     "id": "p004.s02",
+     "source": "Suppose you give me my supper.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The Farmer was greatly taken back."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“I didn’t really mean what I was saying,” he stammered."
+    },
+    {
+     "id": "p006.s02",
+     "source": "“He’s a good Horse but he’s a little lazy—that’s all.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Osmo stood there swaying his shoulders and twisting his head."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Even if he is lazy he’ll taste all right to me."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Come along, Mr. Farmer, hand him over as you’ve promised to do this long time!”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“But I can’t afford to give you my Horse!” the Farmer cried."
+    },
+    {
+     "id": "p009.s02",
+     "source": "“He’s the only Horse I’ve got!”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "But the Bear was firm."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“No matter!"
+    },
+    {
+     "id": "p011.s02",
+     "source": "You have to keep your word!”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“See here,” the Farmer begged, “let me off on giving you my Horse and I tell you what I’ll do: I’ll give you my Cow."
+    },
+    {
+     "id": "p012.s02",
+     "source": "I can spare the Cow better.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“When will you give me the Cow?” the Bear asked."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“To-morrow,” the Farmer promised."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“Very well,” Osmo said, “if you deliver me the Cow to-morrow I’ll let you off on the Horse."
+    },
+    {
+     "id": "p015.s02",
+     "source": "But see you keep your word!”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "On his way home that afternoon the Farmer visited his traps."
+    },
+    {
+     "id": "p016.s02",
+     "source": "In one he found Mikko, the Fox."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Mikko, the little rascal, begged for his life so piteously that the Farmer with a laugh freed him."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“You’ve done me a good turn,” Mikko said, “and some day I’ll do something for you."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Just wait and see if I don’t.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Well, early next morning the Farmer put his Cow on the sledge and started off for the forest."
+    },
+    {
+     "id": "p018.s02",
+     "source": "On the way he met Mikko."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“Good morning,” Mikko said."
+    },
+    {
+     "id": "p019.s02",
+     "source": "“Where are you going with your Cow?”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "The Farmer stopped and told Mikko about his bargain with the Bear."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“See here,” the Fox said, “I promised you yesterday that some day I’d do you a good turn."
+    },
+    {
+     "id": "p021.s02",
+     "source": "That day has come!"
+    },
+    {
+     "id": "p021.s03",
+     "source": "I’m going to save you your Cow and show you how you can kill that old Bear once and for all."
+    },
+    {
+     "id": "p021.s04",
+     "source": "But if I do this, you’ll have to give me the Bear’s carcass after he’s dead and gone.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“I’ll be glad enough to do that,” the Farmer declared."
+    },
+    {
+     "id": "p022.s02",
+     "source": "“Save me my Cow and you may have all of that old Bear that you want!”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“Well then,” Mikko said, “go home with the Cow as quickly as you can and come back here with ten distaffs."
+    },
+    {
+     "id": "p023.s02",
+     "source": "My plan is to have you put five of the distaffs around my neck and five around my tail."
+    },
+    {
+     "id": "p023.s03",
+     "source": "I can make an awful noise rattling them."
+    },
+    {
+     "id": "p023.s04",
+     "source": "When the Bear hears me and wonders who I am, do you say to him: ‘Oh!"
+    },
+    {
+     "id": "p023.s05",
+     "source": "That must be my son, the Hunter!"
+    },
+    {
+     "id": "p023.s06",
+     "source": "Don’t you hear the rattle of his musket?’"
+    },
+    {
+     "id": "p023.s07",
+     "source": "Then between us we’ll finish that old Bear.”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "The Farmer did as the Fox directed."
+    },
+    {
+     "id": "p024.s02",
+     "source": "He drove the Cow home and returned to the forest with ten distaffs, five of which he fastened about the Fox’s neck and five about his tail."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Then he drove the sledge on to the place where he was to meet the Bear and Mikko, the Fox, crept along quietly behind him."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“Where’s my Cow?” the Bear demanded as soon as the sledge appeared."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“I’ve come to talk to you about that,” the Farmer began."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Just then there was an awful rattle of something in the bushes behind the Farmer."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“What’s that?” the Bear cried."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“Oh,” the Farmer said, “that must be my son, the Hunter!"
+    },
+    {
+     "id": "p029.s02",
+     "source": "Don’t you hear the rattle of his musket?”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "The Bear shook in terror."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“The Hunter, you say!"
+    },
+    {
+     "id": "p031.s02",
+     "source": "Mercy me, what shall I do!"
+    },
+    {
+     "id": "p031.s03",
+     "source": "Oh, Mr. Farmer, save me from the Hunter and I’ll forgive you the Cow!”"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“Very well,” the Farmer promised, “I’ll do my best!"
+    },
+    {
+     "id": "p032.s02",
+     "source": "Lie down and I’ll try to make the Hunter believe you’re only a log.”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "So the Bear lay down on the ground and stayed perfectly quiet."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“Father,” called the Fox in a voice that sounded like the Hunter’s, “what’s that big brown thing lying on the ground near you?"
+    },
+    {
+     "id": "p034.s02",
+     "source": "Is it a Bear?”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“No, son,” the Farmer called back, “that isn’t a Bear."
+    },
+    {
+     "id": "p035.s02",
+     "source": "It’s only a log of wood.”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "“If it’s a log of wood, father, chop it up!”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "The Farmer raised his ax."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“Don’t really chop me!” the Bear begged in a whisper."
+    },
+    {
+     "id": "p038.s02",
+     "source": "“Just pretend to.”"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“This is too good a log to chop up,” the Farmer said."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "“Well, father,” said the voice from the bushes, “if it’s such a good log you better put it on your sledge and take it home.”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "“Lie still,” the Farmer whispered, “while I put you on the sledge.”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "So the Bear lay stiff and quiet and the Farmer dragged him on to the sledge."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“Father,” the voice said, “you better tie that log down to keep it from rolling off.”"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“Don’t move,” the Farmer whispered, “and I’ll tie you down just as if you were a log.”"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "So the Bear lay perfectly still while the Farmer lashed him securely to the sledge."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "“Father, are you sure that log can’t roll off?”"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“Yes, son,” the Farmer said, “I’m sure it can’t roll off now.”"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "“Then, father, drive your ax into the end of the log and off we’ll go!”"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "At that the Farmer raised his ax and with one mighty blow buried it in the neck of the Bear."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "So that was the end of poor old lumbering Osmo!"
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "The Farmer was saved both his Horse and his Cow and Mikko, the rascal, feasted on Bear meat for a week."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "So that was THE END"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "Transcriber's Note"
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "Archaic and variable spelling and grammar usage is preserved as printed."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "Minor punctuation errors have been repaired."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "The following amendments have been made for consistency:"
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "Page —Ollie amended to Olli—\"“Yes,” Olli shouted back, ...\""
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "Page —Mattie amended to Matti—\"“But remember,” Matti warned him, ...\""
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "Page —Mattie amended to Matti—\"“That is true,” Matti said, ...\""
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "The following typographic errors have been repaired:"
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "Page —then amended to them—\"Jussi looked at them in amazement, his eyes popping out of his head.\""
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "Page —satisfacion amended to satisfaction—\"... the Bear would not get the satisfaction of any admiration from him.\""
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "Illustrations have been moved where necessary so that they were not in the middle of a paragraph."
+    },
+    {
+     "id": "p063.s02",
+     "source": "Omitted page numbers were either the location of these illustrations or blank pages in the original book."
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "End of the Project Gutenberg EBook of Mighty Mikko, by Parker Fillmore"
+    }
+   ],
+   "id": "p064"
+  }
+ ]
+}

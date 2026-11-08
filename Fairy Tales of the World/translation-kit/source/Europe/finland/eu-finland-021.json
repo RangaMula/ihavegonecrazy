@@ -1,0 +1,404 @@
+{
+ "id": "eu-finland-021",
+ "title": {
+  "id": "title",
+  "source": "Table Of Proper Names With Pronunciation"
+ },
+ "tradition": "Finland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Finnish Legends for English Children",
+ "credits": "Eivind, R. (author)",
+ "gutenberg": "Project Gutenberg eBook #24948 — https://www.gutenberg.org/ebooks/24948 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Finland/021 - Table Of Proper Names With Pronunciation.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 94,
+  "words": 429
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Ahti (āch´-tee)."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Another name for Lemminkainen."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Ahto (āch´-to)."
+    },
+    {
+     "id": "p001.s04",
+     "source": "God of the sea."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Ainikki (āë´nik-kĕe)."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Sister of Lemminkainen."
+    },
+    {
+     "id": "p001.s07",
+     "source": "Aino (āë´no)."
+    },
+    {
+     "id": "p001.s08",
+     "source": "Sister of Youkahainen."
+    },
+    {
+     "id": "p001.s09",
+     "source": "Annikki (an´-nĭk-kee)."
+    },
+    {
+     "id": "p001.s10",
+     "source": "Sister of Ilmarinen."
+    },
+    {
+     "id": "p001.s11",
+     "source": "Hisi (hee´-see)."
+    },
+    {
+     "id": "p001.s12",
+     "source": "Evil spirit; also called Lempo."
+    },
+    {
+     "id": "p001.s13",
+     "source": "Iku Turso (ee´-koo-tūr´-so)."
+    },
+    {
+     "id": "p001.s14",
+     "source": "A sea-monster."
+    },
+    {
+     "id": "p001.s15",
+     "source": "Ilmarinen (il´-mā-ree´-nĕn)."
+    },
+    {
+     "id": "p001.s16",
+     "source": "The famous smith."
+    },
+    {
+     "id": "p001.s17",
+     "source": "Ilmatar (il´-mă-tar)."
+    },
+    {
+     "id": "p001.s18",
+     "source": "A daughter of the ether, mother of Wainamoinen."
+    },
+    {
+     "id": "p001.s19",
+     "source": "Imatra (ee´-mā-tră)."
+    },
+    {
+     "id": "p001.s20",
+     "source": "Celebrated waterfall on the river Wuoksi , near Viborg."
+    },
+    {
+     "id": "p001.s21",
+     "source": "Kalerwoinen (kal´-er-woi´-nĕn) ( or Kalervo)."
+    },
+    {
+     "id": "p001.s22",
+     "source": "Father of Kullervo."
+    },
+    {
+     "id": "p001.s23",
+     "source": "Kalevala (kā´-lay-vā´-lā)."
+    },
+    {
+     "id": "p001.s24",
+     "source": "The land of heroes."
+    },
+    {
+     "id": "p001.s25",
+     "source": "The home of the Finns."
+    },
+    {
+     "id": "p001.s26",
+     "source": "The name of the Finnish epic poem."
+    },
+    {
+     "id": "p001.s27",
+     "source": "Karjala (kar´-yā-lā)."
+    },
+    {
+     "id": "p001.s28",
+     "source": "The home of a Finnish tribe—a portion of Finland (called also Karelen in Swedish)."
+    },
+    {
+     "id": "p001.s29",
+     "source": "Kullervo (kŭl´-ler-vō)."
+    },
+    {
+     "id": "p001.s30",
+     "source": "Slayer of the Rainbow-maiden."
+    },
+    {
+     "id": "p001.s31",
+     "source": "Kura (kū´-ra)."
+    },
+    {
+     "id": "p001.s32",
+     "source": "Ahti's companion to the Northland."
+    },
+    {
+     "id": "p001.s33",
+     "source": "Lakko (lāk´-ko)."
+    },
+    {
+     "id": "p001.s34",
+     "source": "Ilmarinen's mother."
+    },
+    {
+     "id": "p001.s35",
+     "source": "Lemminkainen (lĕm´-min-kāë´-nēn)."
+    },
+    {
+     "id": "p001.s36",
+     "source": "Also called Ahti ."
+    },
+    {
+     "id": "p001.s37",
+     "source": "Son of Lempo ."
+    },
+    {
+     "id": "p001.s38",
+     "source": "Lempo (lĕm´-po)."
+    },
+    {
+     "id": "p001.s39",
+     "source": "Same as Hisi ; also the father of Lemminkainen."
+    },
+    {
+     "id": "p001.s40",
+     "source": "Louhi (loo´-chee)."
+    },
+    {
+     "id": "p001.s41",
+     "source": "Mistress of Pohjola."
+    },
+    {
+     "id": "p001.s42",
+     "source": "Lowjatar (low´-yā-tar)."
+    },
+    {
+     "id": "p001.s43",
+     "source": "Tuoni's daughter; mother of the nine diseases."
+    },
+    {
+     "id": "p001.s44",
+     "source": "Lylikki (ly´-lĭk-kee)."
+    },
+    {
+     "id": "p001.s45",
+     "source": "Maker of snow-shoes in Pohjola."
+    },
+    {
+     "id": "p001.s46",
+     "source": "Mana (mā´-nā)."
+    },
+    {
+     "id": "p001.s47",
+     "source": "Also called Tuoni; god of death."
+    },
+    {
+     "id": "p001.s48",
+     "source": "Manala (mā´-nā-lā)."
+    },
+    {
+     "id": "p001.s49",
+     "source": "Also called Tuonela; the abode of Mana; the Deathland."
+    },
+    {
+     "id": "p001.s50",
+     "source": "Mariatta (Mar´-ĭat´-tă)."
+    },
+    {
+     "id": "p001.s51",
+     "source": "The virgin mother of Wainamoinen's conqueror."
+    },
+    {
+     "id": "p001.s52",
+     "source": "Mielikki (meay´-lĭk-kee)."
+    },
+    {
+     "id": "p001.s53",
+     "source": "The forest-goddess."
+    },
+    {
+     "id": "p001.s54",
+     "source": "Osmotar (os´-mō-tar)."
+    },
+    {
+     "id": "p001.s55",
+     "source": "The wise maiden who first made beer."
+    },
+    {
+     "id": "p001.s56",
+     "source": "Otso (ot´-sō)."
+    },
+    {
+     "id": "p001.s57",
+     "source": "The bear."
+    },
+    {
+     "id": "p001.s58",
+     "source": "Piltti (pilt´-tee)."
+    },
+    {
+     "id": "p001.s59",
+     "source": "Mariatta's maid-servant."
+    },
+    {
+     "id": "p001.s60",
+     "source": "Pohjola (pōch´-yō-lā)."
+    },
+    {
+     "id": "p001.s61",
+     "source": "The Northland."
+    },
+    {
+     "id": "p001.s62",
+     "source": "Ruotus (rū-ō´-tŭs)."
+    },
+    {
+     "id": "p001.s63",
+     "source": "A man who gives Mariatta shelter in his stable."
+    },
+    {
+     "id": "p001.s64",
+     "source": "Sampo (sām´-pō)."
+    },
+    {
+     "id": "p001.s65",
+     "source": "The magic mill forged by Ilmarinen, which brought wealth and happiness to its possessor."
+    },
+    {
+     "id": "p001.s66",
+     "source": "Suonetar (swō´-nĕ-tăr)."
+    },
+    {
+     "id": "p001.s67",
+     "source": "The goddess of the veins."
+    },
+    {
+     "id": "p001.s68",
+     "source": "Suoyatar (swō´-yă-tăr)."
+    },
+    {
+     "id": "p001.s69",
+     "source": "The mother of the serpent."
+    },
+    {
+     "id": "p001.s70",
+     "source": "Tapio (ta´-pĕ-ō)."
+    },
+    {
+     "id": "p001.s71",
+     "source": "The forest-god."
+    },
+    {
+     "id": "p001.s72",
+     "source": "Tuonela (tuo´-nay-la)."
+    },
+    {
+     "id": "p001.s73",
+     "source": "The abode of Tuoni; the Deathland; Manala."
+    },
+    {
+     "id": "p001.s74",
+     "source": "Tuonetar (tuo´-nay-tar)."
+    },
+    {
+     "id": "p001.s75",
+     "source": "The goddess of Tuonela."
+    },
+    {
+     "id": "p001.s76",
+     "source": "Tuoni (tuo´-nee)."
+    },
+    {
+     "id": "p001.s77",
+     "source": "The god of the Deathland; Mana."
+    },
+    {
+     "id": "p001.s78",
+     "source": "Ukko (ūk´-k(ō)."
+    },
+    {
+     "id": "p001.s79",
+     "source": "The greatest god of the Finns."
+    },
+    {
+     "id": "p001.s80",
+     "source": "Untamo (ūn´-tā-mō)."
+    },
+    {
+     "id": "p001.s81",
+     "source": "Kalervo's brother."
+    },
+    {
+     "id": "p001.s82",
+     "source": "Wainamoinen (wāë´-nā-moy´-nĕn)."
+    },
+    {
+     "id": "p001.s83",
+     "source": "The chief hero of the Kalevala; son of Kapé."
+    },
+    {
+     "id": "p001.s84",
+     "source": "Wipunen (wĭ´-pū-nen)."
+    },
+    {
+     "id": "p001.s85",
+     "source": "The dead magician from whom Wainamoinen obtained the three lost words."
+    },
+    {
+     "id": "p001.s86",
+     "source": "Wirokannas (wee´-rō-kan´-năs)."
+    },
+    {
+     "id": "p001.s87",
+     "source": "The priest who baptized Mariatta's son."
+    },
+    {
+     "id": "p001.s88",
+     "source": "Wuoksi (wūōk´-see)."
+    },
+    {
+     "id": "p001.s89",
+     "source": "A river in South-Eastern Finland, connecting Lakes Saima and Ladoga."
+    },
+    {
+     "id": "p001.s90",
+     "source": "Youkahainen (yoo´-ka-chāë´-nĕn)."
+    },
+    {
+     "id": "p001.s91",
+     "source": "A great minstrel and magician of Pohjola."
+    },
+    {
+     "id": "p001.s92",
+     "source": "Remarks .—The Finnish h is pronounced as a guttural; nearly as Ger. ch in ich ."
+    },
+    {
+     "id": "p001.s93",
+     "source": "This is represented by ch in the above list."
+    },
+    {
+     "id": "p001.s94",
+     "source": "Every vowel should be pronounced by itself—not run together so as to make a totally different resultant sound, e.g. Aino should be pronounced not ī-nō , but ā´-ee-nō , the ā and ee being close together, with the greatest stress upon the ā , etc. i corresponds to English y in year ."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "id": "eu-sweden-021",
+ "title": {
+  "id": "title",
+  "source": "The Byse"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/021 - The Byse.md",
+ "stats": {
+  "paragraphs": 12,
+  "segments": 14,
+  "words": 235
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A peasant of Svalings, in the parish of Gothem, by the name of Hans, was, one spring day, employed in mending a fence which divided two meadows."
+    },
+    {
+     "id": "p001.s02",
+     "source": "It chanced he required a few more willow twigs for bands, whereupon he sprang over the fence to cut them in a neighbor’s grove."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Entering the thicket, what was his surprise at seeing an old man sitting upon a stump, bowed forward, his face buried in his hands."
+    },
+    {
+     "id": "p001.s04",
+     "source": "His astonishment uncontrollable, Hans broke out:"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“Who are you?”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“A wanderer,” replied the old man without lifting his head."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“How long have you been a wanderer?” inquired the peasant."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Three hundred years!” answered the old man."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Still more astonished, the peasant again asked:"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Is it not hard to travel thus?”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“It has never been so hard to me,” replied the old man, “for I love the woods.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Very well, go on then,” said Hans."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Hardly were the words uttered than the peasant heard a sound like that from a wild bird startled to wing, and the old man had vanished so suddenly that Hans could not say whether he had sunk into the earth or gone into the air. [ ]"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "In Götland a Byse is the spirit of one who in life was continually on the move around his possessions, or was so covetous of worldly goods that even perjury did not deter him from acquiring property unjustly. ↑"
+    }
+   ],
+   "id": "p012"
+  }
+ ]
+}

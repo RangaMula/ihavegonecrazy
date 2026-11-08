@@ -1,0 +1,66 @@
+{
+ "id": "eu-isle-of-man-manx-people-027",
+ "title": {
+  "id": "title",
+  "source": "The Enchanted Isle"
+ },
+ "tradition": "Isle of Man (Manx people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Manx Fairy Tales",
+ "credits": "Morrison, Sophia (author, d. 1917)",
+ "gutenberg": "Project Gutenberg eBook #51762 — https://www.gutenberg.org/ebooks/51762 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Isle of Man (Manx people)/027 - The Enchanted Isle.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 8,
+  "words": 210
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Out under the Irish Sea, fifteen or sixteen miles south-west of the Calf, there is an enchanted isle."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Long, long ago it was on the surface of the water—that was in the days when Manannan ruled in Mann—but when Saint Patrick drove Manannan and his men from the island in the form of three-legged creatures, they came upon this isle."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Manannan dropped it to the bottom of the sea, and they were seen no more."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Now it is the home of Manannan Mac y Leirr, Son of the Sea, and he rules it as he used to rule Mann."
+    },
+    {
+     "id": "p002.s02",
+     "source": "But once in seven years, when Old May Day is on a Sunday, the isle may be seen."
+    },
+    {
+     "id": "p002.s03",
+     "source": "It rises up from the sea just before sunrise, like a beautiful vision, and Manannan looks once more at Ellan Vannin."
+    },
+    {
+     "id": "p002.s04",
+     "source": "The hills of the enchanted isle are green, white foam rings it round, and if you are near enough you may see the tossing arms and golden hair of the Mermaids by the water’s edge washing their glittering jewels, and hear the singing of birds, and smell the fragrant scent of flowers."
+    },
+    {
+     "id": "p002.s05",
+     "source": "But as the first rays of the sun rest upon its highest hills, it sinks into the deep, deep sea."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

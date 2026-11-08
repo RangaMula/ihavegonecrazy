@@ -1,0 +1,54 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-048",
+ "title": {
+  "id": "title",
+  "source": "The Wolf in Sheep’s Clothing"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/048 - The Wolf in Sheep’s Clothing.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 5,
+  "words": 93
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "ONCE UPON A TIME a Wolf resolved to disguise his appearance in order to secure food more easily."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Encased in the skin of a sheep, he pastured with the flock deceiving the shepherd by his costume."
+    },
+    {
+     "id": "p001.s03",
+     "source": "In the evening he was shut up by the shepherd in the fold; the gate was closed, and the entrance made thoroughly secure."
+    },
+    {
+     "id": "p001.s04",
+     "source": "But the shepherd, returning to the fold during the night to obtain meat for the next day, mistakenly caught up the Wolf instead of a sheep, and killed him instantly."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Harm seek, harm find."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

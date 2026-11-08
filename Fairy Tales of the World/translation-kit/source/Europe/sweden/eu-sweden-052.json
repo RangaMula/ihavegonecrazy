@@ -1,0 +1,98 @@
+{
+ "id": "eu-sweden-052",
+ "title": {
+  "id": "title",
+  "source": "The Harvesters"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/052 - The Harvesters.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 10,
+  "words": 183
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In the parish of Ekshärad lies a mountain, Säljeberg, which was formerly the dwelling place of Trolls and giants, now exterminated."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Near the mountain dwelt a farmer, on one of the best farms in the parish."
+    },
+    {
+     "id": "p002.s02",
+     "source": "One summer evening he went over his fields admiring the seas of golden grain and exulting at the abundant harvest promised him."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“God be praised for this crop,” said he."
+    },
+    {
+     "id": "p003.s02",
+     "source": "“If I now could have all these fields harvested by early morning I would give my best cow.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Hereupon he returned to his home and went to bed."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Through the whole night the noise of reaping was heard in the fields and the Trolls calling:"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Make bands and bind; let the farmer dry it himself.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "As soon as sunrise the farmer was upon his feet and out into the fields, where, to his indescribable amazement, he saw them reaped and the grain lying in bundles upon the ground."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Guessing that the Trolls had had a hand in the work, he sprang to the stable, there to find a stall empty and his best cow gone. [ ]"
+    }
+   ],
+   "id": "p006"
+  }
+ ]
+}

@@ -1,0 +1,561 @@
+{
+ "id": "eu-england-014",
+ "title": {
+  "id": "title",
+  "source": "The Story Of The Three Little Pigs"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #7439 — https://www.gutenberg.org/ebooks/7439 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/014 - The Story Of The Three Little Pigs.md",
+ "stats": {
+  "paragraphs": 46,
+  "segments": 66,
+  "words": 963
+ },
+ "paragraphs": [
+  {
+   "type": "verse",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once upon a time when pigs spoke rhyme"
+    },
+    {
+     "id": "p001.s02",
+     "source": "And monkeys chewed tobacco,"
+    },
+    {
+     "id": "p001.s03",
+     "source": "And hens took snuff to make them tough,"
+    },
+    {
+     "id": "p001.s04",
+     "source": "And ducks went quack, quack, quack, O!"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "There was an old sow with three little pigs, and as she had not enough to keep them, she sent them out to seek their fortune."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The first that went off met a man with a bundle of straw, and said to him:"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“Please, man, give me that straw to build me a house.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Which the man did, and the little pig built a house with it."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Presently came along a wolf, and knocked at the door, and said:"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Little pig, little pig, let me come in.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "To which the pig answered:"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“No, no, by the hair of my chiny chin chin.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "The wolf then answered to that:"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Then I'll huff, and I'll puff, and I'll blow your house in.”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "So he huffed, and he puffed, and he blew his house in, and ate up the little pig."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "The second little pig met a man with a bundle of furze, and said:"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Please, man, give me that furze to build a house.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Which the man did, and the pig built his house."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Then along came the wolf, and said:"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“Little pig, little pig, let me come in.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“No, no, by the hair of my chiny chin chin.”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“Then I'll puff, and I'll huff, and I'll blow your house in.”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "So he huffed, and he puffed, and he puffed, and he huffed, and at last he blew the house down, and he ate up the little pig."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "The third little pig met a man with a load of bricks, and said:"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“Please, man, give me those bricks to build a house with.”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "So the man gave him the bricks, and he built his house with them."
+    },
+    {
+     "id": "p020.s02",
+     "source": "So the wolf came, as he did to the other little pigs, and said:"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“Little pig, little pig, let me come in.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“No, no, by the hair of my chiny chin chin.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“Then I'll huff, and I'll puff, and I'll blow your house in.”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Well, he huffed, and he puffed, and he huffed and he puffed, and he puffed and huffed; but he could not get the house down."
+    },
+    {
+     "id": "p024.s02",
+     "source": "When he found that he could not, with all his huffing and puffing, blow the house down, he said:"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“Little pig, I know where there is a nice field of turnips.”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“Where?” said the little pig."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“Oh, in Mr. Smith's Home-field, and if you will be ready tomorrow morning I will call for you, and we will go together, and get some for dinner.”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“Very well,” said the little pig, “I will be ready."
+    },
+    {
+     "id": "p028.s02",
+     "source": "What time do you mean to go?”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“Oh, at six o'clock.”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Well, the little pig got up at five, and got the turnips before the wolf came (which he did about six) and who said:"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“Little Pig, are you ready?”"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "The little pig said: “Ready!"
+    },
+    {
+     "id": "p032.s02",
+     "source": "I have been and come back again, and got a nice potful for dinner.”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "The wolf felt very angry at this, but thought that he would be up to the little pig somehow or other, so he said:"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“Little pig, I know where there is a nice apple-tree.”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“Where?” said the pig."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "“Down at Merry-garden,” replied the wolf, “and if you will not deceive me I will come for you, at five o'clock tomorrow and get some apples.”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Well, the little pig bustled up the next morning at four o'clock, and went off for the apples, hoping to get back before the wolf came; but he had further to go, and had to climb the tree, so that just as he was coming down from it, he saw the wolf coming, which, as you may suppose, frightened him very much."
+    },
+    {
+     "id": "p037.s02",
+     "source": "When the wolf came up he said:"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“Little pig, what! are you here before me?"
+    },
+    {
+     "id": "p038.s02",
+     "source": "Are they nice apples?”"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“Yes, very,” said the little pig."
+    },
+    {
+     "id": "p039.s02",
+     "source": "“I will throw you down one.”"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "And he threw it so far, that, while the wolf was gone to pick it up, the little pig jumped down and ran home."
+    },
+    {
+     "id": "p040.s02",
+     "source": "The next day the wolf came again, and said to the little pig:"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "“Little pig, there is a fair at Shanklin this afternoon, will you go?”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“Oh yes,” said the pig, “I will go; what time shall you be ready?”"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“At three,” said the wolf."
+    },
+    {
+     "id": "p043.s02",
+     "source": "So the little pig went off before the time as usual, and got to the fair, and bought a butter-churn, which he was going home with, when he saw the wolf coming."
+    },
+    {
+     "id": "p043.s03",
+     "source": "Then he could not tell what to do."
+    },
+    {
+     "id": "p043.s04",
+     "source": "So he got into the churn to hide, and by so doing turned it round, and it rolled down the hill with the pig in it, which frightened the wolf so much, that he ran home without going to the fair."
+    },
+    {
+     "id": "p043.s05",
+     "source": "He went to the little pig's house, and told him how frightened he had been by a great round thing which came down the hill past him."
+    },
+    {
+     "id": "p043.s06",
+     "source": "Then the little pig said:"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“Hah, I frightened you, then."
+    },
+    {
+     "id": "p044.s02",
+     "source": "I had been to the fair and bought a butter-churn, and when I saw you, I got into it, and rolled down the hill.”"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "Then the wolf was very angry indeed, and declared he would eat up the little pig, and that he would get down the chimney after him."
+    },
+    {
+     "id": "p045.s02",
+     "source": "When the little pig saw what he was about, he hung on the pot full of water, and made up a blazing fire, and, just as the wolf was coming down, took off the cover, and in fell the wolf; so the little pig put on the cover again in an instant, boiled him up, and ate him for supper, and lived happy ever afterwards."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p046"
+  }
+ ]
+}

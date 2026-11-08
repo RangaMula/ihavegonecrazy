@@ -1,0 +1,48 @@
+{
+ "id": "eu-wales-025",
+ "title": {
+  "id": "title",
+  "source": "The Fairies Of Caragonan"
+ },
+ "tradition": "Wales",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Welsh Fairy-Tales and Other Stories",
+ "credits": "Emerson, P. H. (Peter Henry) (editor, d. 1936)",
+ "gutenberg": "Project Gutenberg eBook #8675 — https://www.gutenberg.org/ebooks/8675 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Wales/025 - The Fairies Of Caragonan.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 5,
+  "words": 64
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Source: This story came from a Welsh pedlar—a woman."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Its genuineness may be relied upon."
+    },
+    {
+     "id": "p001.s03",
+     "source": "I find it a common belief that fairies have power over witches, and the witch-hare is commonly believed in; also a witch-fox."
+    },
+    {
+     "id": "p001.s04",
+     "source": "I have heard of no evil fairies in Wales; all the mischief seems to be the work of witches."
+    },
+    {
+     "id": "p001.s05",
+     "source": "I have heard several variants of the witch-hare."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

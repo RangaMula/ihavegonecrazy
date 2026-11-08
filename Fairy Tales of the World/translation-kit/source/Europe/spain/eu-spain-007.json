@@ -1,0 +1,74 @@
+{
+ "id": "eu-spain-007",
+ "title": {
+  "id": "title",
+  "source": "The Poetical Courts of Castile"
+ },
+ "tradition": "Spain",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Spain",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Spain/007 - The Poetical Courts of Castile.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 10,
+  "words": 294
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The evolution of Castilian as a literary language was also assiduously fostered by the scholarly character of many of the rulers of Castile."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Alfonso the Wise was himself a poet, and cultivated his native tongue with judiciousness and care, affording it purity and precision of expression."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Under his supervision the Scriptures were translated into Castilian, and a General Chronicle of Spain as well as a history of the First Crusade were undertaken at his instance."
+    },
+    {
+     "id": "p001.s04",
+     "source": "He made it the language of the law-courts, and attempted to infuse into its verse a more exact spirit and poetical phraseology by the imitation of Provençal models."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Alfonso XI composed a General Chronicle in the easy, flowing rhyme of the native redondillas , instead of the stiff, monkish Alexandrines then current in literary circles, and caused books to be written in Castilian prose on the art of hunting and the genealogy of the nobility."
+    },
+    {
+     "id": "p002.s02",
+     "source": "His relative Don Juan Manuel did much to discipline Spanish imagination and give fixity to Spanish prose in his Conde Lucanor , a volume of ethical and political maxims, the morals of which are well pointed by tales and fables drawn from history and classical literature."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Juan II, although a weak and idle monarch, was a great patron of letters, wrote verses, associated with poets, and caused a large collection of the best existing Spanish verse to be made in 1449."
+    },
+    {
+     "id": "p002.s04",
+     "source": "But the spirit of his Court was a pedantic one; it strayed after Italian models, and he himself affected the Provençal manner."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Despite such artificial barriers, however, Castilian speech continued to advance upon its conquering way."
+    },
+    {
+     "id": "p002.s06",
+     "source": "It had definitely become the language of Romance, and Romance, within a generation of this period, was to become the most powerful literary form in the Peninsula."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

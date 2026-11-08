@@ -1,0 +1,133 @@
+{
+ "id": "as-india-093",
+ "title": {
+  "id": "title",
+  "source": "The Ox Who Envied The Pig"
+ },
+ "tradition": "India",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Jataka tales",
+ "credits": "Babbitt, Ellen C. (author)",
+ "gutenberg": "Project Gutenberg eBook #62514 — https://www.gutenberg.org/ebooks/62514 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/India/093 - The Ox Who Envied The Pig.md",
+ "stats": {
+  "paragraphs": 8,
+  "segments": 16,
+  "words": 228
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once upon a time there was an Ox named Big Red."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He had a younger brother named Little Red."
+    },
+    {
+     "id": "p001.s03",
+     "source": "These two brothers did all the carting on a large farm."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Now the farmer had an only daughter and she was soon to be married."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Her mother gave orders that the Pig should be fattened for the wedding feast."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Little Red noticed that the Pig was fed on choice food."
+    },
+    {
+     "id": "p003.s02",
+     "source": "He said to his brother, \"How is it, Big Red, that you and I are given only straw and grass to eat, while we do all the hard work on the farm?"
+    },
+    {
+     "id": "p003.s03",
+     "source": "That lazy Pig does nothing but eat the choice food the farmer gives him.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Said his brother, \"My dear Little Red, envy him not."
+    },
+    {
+     "id": "p004.s02",
+     "source": "That little Pig is eating the food of death!"
+    },
+    {
+     "id": "p004.s03",
+     "source": "He is being fattened for the wedding feast."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Eat your straw and grass and be content and live long.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Not long afterwards the fattened Pig was killed and cooked for the wedding feast."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Then Big Red said, \"Did you see, Little Red, what became of the Pig after all his fine feeding?\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Yes,\" said the little brother, \"we can go on eating plain food for years, but the poor little Pig ate the food of death and now he is dead."
+    },
+    {
+     "id": "p007.s02",
+     "source": "His feed was good while it lasted, but it did not last long.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p008"
+  }
+ ]
+}

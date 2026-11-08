@@ -1,0 +1,617 @@
+{
+ "id": "eu-scotland-022",
+ "title": {
+  "id": "title",
+  "source": "The Fox And The Wolf"
+ },
+ "tradition": "Scotland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "The Scottish Fairy Book",
+ "credits": "Grierson, Elizabeth W. (Elizabeth Wilson) (author)",
+ "gutenberg": "Project Gutenberg eBook #37532 — https://www.gutenberg.org/ebooks/37532 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Scotland/022 - The Fox And The Wolf.md",
+ "stats": {
+  "paragraphs": 46,
+  "segments": 80,
+  "words": 1605
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a Fox and a Wolf, who set up house together in a cave near the sea-shore."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Although you may not think so, they got on very well for a time, for they went out hunting all day, and when they came back at night they were generally too tired to do anything but to eat their supper and go to bed."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "They might have lived together always had it not been for the slyness and greediness of the Fox, who tried to over-reach his companion, who was not nearly so clever as he was."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "And this was how it came about."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "It chanced, one dark December night, that there was a dreadful storm at sea, and in the morning the beach was all strewn with wreckage."
+    },
+    {
+     "id": "p004.s02",
+     "source": "So as soon as it was daylight the two friends went down to the shore to see if they could find anything to eat."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "They had the good fortune to light on a great Keg of Butter, which had been washed overboard from some ship on its way home from Ireland, where, as all the world knows, folk are famous for their butter."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "The simple Wolf danced with joy when he saw it."
+    },
+    {
+     "id": "p006.s02",
+     "source": "\"Marrowbones and trotters! but we will have a good supper this night,\" cried he, licking his lips."
+    },
+    {
+     "id": "p006.s03",
+     "source": "\"Let us set to work at once and roll it up to the cave.\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "But the wily Fox was fond of butter, and he made up his mind that he would have it all to himself."
+    },
+    {
+     "id": "p007.s02",
+     "source": "So he put on his wisest look, and shook his head gravely."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"Thou hast no prudence, my friend,\" he said reproachfully, \"else wouldst thou not talk of breaking up a Keg of Butter at this time of year, when the stackyards are full of good grain, which can be had for the eating, and the farmyards are stocked with nice fat ducks and poultry."
+    },
+    {
+     "id": "p008.s02",
+     "source": "No, no. It behoveth us to have foresight, and to lay up in store for the spring, when the grain is all threshed, and the stackyards are bare, and the poultry have gone to market."
+    },
+    {
+     "id": "p008.s03",
+     "source": "So we will e'en bury the Keg, and dig it up when we have need of it.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Very reluctantly, for he was thinner and hungrier than the Fox, the Wolf agreed to this proposal."
+    },
+    {
+     "id": "p009.s02",
+     "source": "So a hole was dug, and the Keg was buried, and the two animals went off hunting as usual."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "About a week passed by: then one day the Fox came into the cave, and flung himself down on the ground as if he were very much exhausted."
+    },
+    {
+     "id": "p010.s02",
+     "source": "But if anyone had looked at him closely they would have seen a sly twinkle in his eye."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"Oh, dear, oh, dear!\" he sighed."
+    },
+    {
+     "id": "p011.s02",
+     "source": "\"Life is a heavy burden.\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"What hath befallen thee?\" asked the Wolf, who was ever kind and soft-hearted."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"Some friends of mine, who live over the hills yonder, are wanting me to go to a christening to-night."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Just think of the distance that I must travel.\""
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"But needst thou go?\" asked the Wolf."
+    },
+    {
+     "id": "p014.s02",
+     "source": "\"Canst thou not send an excuse?\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"I doubt that no excuse would be accepted,\" answered the Fox, \"for they asked me to stand god-father."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Therefore it behoveth me to do my duty, and pay no heed to my own feelings.\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "So that evening the Fox was absent, and the Wolf was alone in the cave."
+    },
+    {
+     "id": "p016.s02",
+     "source": "But it was not to a christening that the sly Fox went; it was to the Keg of Butter that was buried in the sand."
+    },
+    {
+     "id": "p016.s03",
+     "source": "About midnight he returned, looking fat and sleek, and well pleased with himself."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "The Wolf had been dozing, but he looked up drowsily as his companion entered."
+    },
+    {
+     "id": "p017.s02",
+     "source": "\"Well, how did they name the bairn?\" he asked."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"They gave it a queer name,\" answered the Fox."
+    },
+    {
+     "id": "p018.s02",
+     "source": "\"One of the queerest names that I ever heard.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"And what was that?\" questioned the Wolf."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"Nothing less than 'Blaisean' (Let-me-taste),\" replied the Fox, throwing himself down in his corner."
+    },
+    {
+     "id": "p020.s02",
+     "source": "And if the Wolf could have seen him in the darkness he would have noticed that he was laughing to himself."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Some days afterwards the same thing happened."
+    },
+    {
+     "id": "p021.s02",
+     "source": "The Fox was asked to another christening; this time at a place some twenty-five miles along the shore."
+    },
+    {
+     "id": "p021.s03",
+     "source": "And as he had grumbled before, so he grumbled again; but he declared that it was his duty to go, and he went."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "At midnight he came back, smiling to himself and with no appetite for his supper."
+    },
+    {
+     "id": "p022.s02",
+     "source": "And when the Wolf asked him the name of the child, he answered that it was a more extraordinary name than the other—\"Be na Inheadnon\" (Be in its middle)."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "The very next week, much to the Wolf's wonder, the Fox was asked to yet another christening."
+    },
+    {
+     "id": "p023.s02",
+     "source": "And this time the name of the child was \"Sgriot an Clar\" (Scrape the staves)."
+    },
+    {
+     "id": "p023.s03",
+     "source": "After that the invitations ceased."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Time went on, and the hungry spring came, and the Fox and the Wolf had their larder bare, for food was scarce, and the weather was bleak and cold."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"Let us go and dig up the Keg of Butter,\" said the Wolf."
+    },
+    {
+     "id": "p025.s02",
+     "source": "\"Methinks that now is the time we need it.\""
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "The Fox agreed—having made up his mind how he would act—and the two set out to the place where the Keg had been hidden."
+    },
+    {
+     "id": "p026.s02",
+     "source": "They scraped away the sand, and uncovered it; but, needless to say, they found it empty."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"This is thy work,\" said the Fox angrily, turning to the poor, innocent Wolf."
+    },
+    {
+     "id": "p027.s02",
+     "source": "\"Thou hast crept along here while I was at the christenings, and eaten it up by stealth.\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"Not I,\" replied the Wolf."
+    },
+    {
+     "id": "p028.s02",
+     "source": "\"I have never been near the spot since the day that we buried it together.\""
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "\"But I tell thee it must have been thou,\" insisted the Fox, \"for no other creature knew it was there except ourselves."
+    },
+    {
+     "id": "p029.s02",
+     "source": "And, besides, I can see by the sleekness of thy fur that thou hast fared well of late.\""
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Which last sentence was both unjust and untrue, for the poor Wolf looked as lean and badly nourished as he could possibly be."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "So back they both went to the cave, arguing all the way."
+    },
+    {
+     "id": "p031.s02",
+     "source": "The Fox declaring that the Wolf must have been the thief, and the Wolf protesting his innocence."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "\"Art thou ready to swear to it?\" said the Fox at last; though why he asked such a question, dear only knows."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "\"Yes, I am,\" replied the Wolf firmly; and, standing in the middle of the cave, and holding one paw up solemnly he swore this awful oath:"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "When he was finished, he put down his paw and, turning to the Fox, looked at him keenly; for all at once it struck him that his fur looked sleek and fine."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "\"It is thy turn now,\" he said."
+    },
+    {
+     "id": "p035.s02",
+     "source": "\"I have sworn, and thou must do so also.\""
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "The Fox's face fell at these words, for although he was both untruthful and dishonest now, he had been well brought up in his youth, and he knew that it was a terrible thing to perjure oneself and swear falsely."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "So he made one excuse after another, but the Wolf, who was getting more and more suspicious every moment, would not listen to him."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "So, as he had not courage to tell the truth, he was forced at last to swear an oath also, and this was what he swore:"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "After he had heard him swear this terrible oath, the Wolf thought that his suspicions must be groundless, and he would have let the matter rest; but the Fox, having an uneasy conscience, could not do so."
+    },
+    {
+     "id": "p039.s02",
+     "source": "So he suggested that as it was clear that one of them must have eaten the Keg of Butter, they should both stand near the fire; so that when they became hot, the butter would ooze out of the skin of whichever of them was guilty."
+    },
+    {
+     "id": "p039.s03",
+     "source": "And he took care that the Wolf should stand in the hottest place."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "But the fire was big and the cave was small; and while the poor lean Wolf showed no sign of discomfort, he himself, being nice and fat and comfortable, soon began to get unpleasantly warm."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "As this did not suit him at all, he next proposed that they should go for a walk, \"for,\" said he, \"it is now quite plain that neither of us can have taken the butter."
+    },
+    {
+     "id": "p041.s02",
+     "source": "It must have been some stranger who hath found out our secret.\""
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "But the Wolf had seen the Fox beginning to grow greasy, and he knew now what had happened, and he determined to have his revenge."
+    },
+    {
+     "id": "p042.s02",
+     "source": "So he waited until they came to a smithy which stood at the side of the road, where a horse was waiting just outside the door to be shod."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "Then, keeping at a safe distance, he said to his companion, \"There is writing on that smithy door, which I cannot read, as my eyes are failing; do thou try to read it, for perchance it may be something 'twere good for us to know.\""
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "And the silly Fox, who was very vain, and did not like to confess that his eyes were no better than those of his friend, went close up to the door to try and read the writing."
+    },
+    {
+     "id": "p044.s02",
+     "source": "And he chanced to touch the horse's fetlock, and, it being a restive beast, lifted its foot and struck out at once, and killed the Fox as dead as a door-nail."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "And so, you see, the old saying in the Good Book came true after all: \"Be sure your sin will find you out.\""
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p046"
+  }
+ ]
+}

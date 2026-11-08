@@ -1,0 +1,1065 @@
+{
+ "id": "eu-czech-lands-bohemia-moravia-032",
+ "title": {
+  "id": "title",
+  "source": "Rattle-Rattle-Rattle And Chink-Chink-Chink"
+ },
+ "tradition": "Czech lands (Bohemia, Moravia)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Czechoslovak Fairy Tales",
+ "credits": "Fillmore, Parker (author, d. 1944)",
+ "gutenberg": "Project Gutenberg eBook #32217 — https://www.gutenberg.org/ebooks/32217 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Czech lands (Bohemia, Moravia)/032 - Rattle-Rattle-Rattle And Chink-Chink-Chink.md",
+ "stats": {
+  "paragraphs": 76,
+  "segments": 147,
+  "words": 2043
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "THE STORY OF LONG BEARD, THE DWARF, AND THE TWO SISTERS"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "RATTLE-RATTLE-RATTLE AND CHINK-CHINK-CHINK"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "T HERE was once a poor man whose wife died leaving him a daughter."
+    },
+    {
+     "id": "p003.s02",
+     "source": "The little girl’s name was Lenka."
+    },
+    {
+     "id": "p003.s03",
+     "source": "She was a good little girl, cheerful and obedient and very industrious, and she did all she could to make her father comfortable."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "After some time the man married again."
+    },
+    {
+     "id": "p004.s02",
+     "source": "His second wife also had a little girl just Lenka’s age."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Her name was Dorla."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Dorla was a lazy, ill-natured child, always quarreling and bickering."
+    },
+    {
+     "id": "p004.s05",
+     "source": "Yet her mother thought Dorla was perfect and she was always praising her to her husband."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“See what a good child my Dorla is,” she would say to him."
+    },
+    {
+     "id": "p005.s02",
+     "source": "“She works and spins and never says a cross word."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Very different from your good-for-nothing Lenka who always breaks everything she touches and does nothing in return for all the good food she eats!”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "She never stopped nagging and scolding her poor stepchild and complaining about her to her husband."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Lenka was patient and went on quietly doing what was right, and she was always polite to her stepmother, and kind to her ill-natured stepsister."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "She and Dorla used to go to spinning bees together."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Dorla would play and waste her time and hardly fill one spindle."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Lenka always worked industriously and usually filled two or three spools."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Yet, when the two girls got home, the mother always took Dorla’s half-filled spindle and said to the father: “See what beautiful yarn my Dorla spins!”"
+    },
+    {
+     "id": "p007.s05",
+     "source": "She would hide Lenka’s spools and say: “Your Lenka did nothing but play and waste her time!”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "And before other people she talked the same way, pretending Dorla did everything that she didn’t do and saying that good industrious Lenka was lazy and good-for-nothing."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "One night when the two girls were walking home together from a spinning bee, they came to a ditch in the road."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Dorla jumped quickly across and then reached back her hand and said:"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“My dear sister, let me hold your spindle."
+    },
+    {
+     "id": "p010.s02",
+     "source": "You may fall and hurt yourself.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Poor Lenka, suspecting nothing unkind, handed Dorla her full spindle."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Dorla took it and ran home and then boasted to her mother and her stepfather how much she had spun."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Lenka,” she said, “has no yarn at all."
+    },
+    {
+     "id": "p012.s02",
+     "source": "She did nothing but play and waste her time.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“You see,” said the woman to her husband."
+    },
+    {
+     "id": "p013.s02",
+     "source": "“This is what I’m always telling you but you never believe me."
+    },
+    {
+     "id": "p013.s03",
+     "source": "That Lenka of yours is a lazy, good-for-nothing girl who expects me and my poor daughter to do all the work."
+    },
+    {
+     "id": "p013.s04",
+     "source": "I’m not going to stand her in the house any longer."
+    },
+    {
+     "id": "p013.s05",
+     "source": "Tomorrow morning out she goes to make her own way in the world."
+    },
+    {
+     "id": "p013.s06",
+     "source": "Then perhaps she’ll understand what a good home she’s had with me!”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "The poor man tried to defend Lenka but his wife would hear nothing."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Lenka must go and that was all there was to it."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Early the next morning while it was still dark the woman started Lenka off."
+    },
+    {
+     "id": "p015.s02",
+     "source": "She gave her a sack that she said was full of good meal and smoked meat and bread."
+    },
+    {
+     "id": "p015.s03",
+     "source": "But instead of meal she put in ashes, instead of smoked meat straw, and instead of bread stones."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“Here is meal and smoked meat and bread for your journey,” she said."
+    },
+    {
+     "id": "p016.s02",
+     "source": "“You will be a long time finding any one who will be as good to you as I have been!"
+    },
+    {
+     "id": "p016.s03",
+     "source": "Now be off with you and never let me see you again!"
+    },
+    {
+     "id": "p016.s04",
+     "source": "Let your father put you out in service if he can!”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "The poor man put his ax on his shoulder and started off with Lenka."
+    },
+    {
+     "id": "p017.s02",
+     "source": "He had no place to take her and he hardly knew what to do."
+    },
+    {
+     "id": "p017.s03",
+     "source": "He led her off into the mountains, where he built her a little two-room hut."
+    },
+    {
+     "id": "p017.s04",
+     "source": "He was ashamed to tell her that he was going to leave her alone, so he said to her:"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“You stay here, my dear child, while I go farther into the forest and cut you some firewood.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "But instead of cutting her firewood, he hung his mallet on a beech tree and whenever the wind blew, the mallet made a knocking sound."
+    },
+    {
+     "id": "p019.s02",
+     "source": "All afternoon poor little Lenka hearing the knock-knock of the mallet thought to herself: “There is my dear father chopping wood for me!”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "When evening came and he hadn’t returned, Lenka went out to find him, but all she could find was the mallet going knock-knock on the tree."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Then the poor girl realized that her father had deceived her but she forgave him, for she knew that it was her stepmother’s fault."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "She went back to the little hut to get her supper, but when she opened the sack her stepmother had given her, instead of meal and smoked meat and bread, she found only ashes and straw and stones."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Then indeed did Lenka feel deserted and sitting down she cried with loneliness and hunger."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "While she was crying an old beggar with a long beard came into the hut."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“God grant you happiness, my child,” he said."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“May He grant you the same, old father,” Lenka said, standing up and bowing politely."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“Thank you, my child, thank you."
+    },
+    {
+     "id": "p025.s02",
+     "source": "And now will you be so kind as to wash my face and give me a bite of supper?”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“Indeed, old father, I’d gladly wash your face and give you food, but there’s no water here and nothing to carry it in."
+    },
+    {
+     "id": "p026.s02",
+     "source": "And as for food, my stepmother filled the sack with ashes, straw, and stones.”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“That’s nothing, my child."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Just go behind the hut and you will find a spring.”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Lenka went and there, sure enough, was a clear bubbling spring and on the ground beside it a bucket."
+    },
+    {
+     "id": "p028.s02",
+     "source": "She filled the bucket and carried it back to the hut."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "As she entered the door she could hardly believe her eyes, for on the wall she saw a row of shining plates, big plates and little plates, and cups, and everything else that ought to be in a kitchen."
+    },
+    {
+     "id": "p029.s02",
+     "source": "The old beggar had started a fire, so Lenka at once put on water to boil."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Look in the sack,” the beggar said."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Lenka untied the sack again and here it was full of fine meal and bread and smoked meat!"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "So now Lenka lost no time in preparing a good supper."
+    },
+    {
+     "id": "p032.s02",
+     "source": "Then she washed the old beggar’s face and hands and together they ate."
+    },
+    {
+     "id": "p032.s03",
+     "source": "After supper Lenka spread out her ragged clothes on the floor of the inner room and put the beggar in there for the night."
+    },
+    {
+     "id": "p032.s04",
+     "source": "She herself stretched out on the kitchen bench."
+    },
+    {
+     "id": "p032.s05",
+     "source": "It was a hard bed but Lenka made no complaint and presently she fell asleep."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "At midnight there was a knocking at the door and a voice called out:"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Lenka jumped down and opened the door and there before her stood a tiny dwarf with a long beard."
+    },
+    {
+     "id": "p034.s02",
+     "source": "He was Long Beard who lived in the mountains and of whom Lenka had often heard stories."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "He came in dragging after him a heavy bag of golden ducats."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "“I was that old beggar,” he said, “whose face you washed and with whom you shared your supper."
+    },
+    {
+     "id": "p036.s02",
+     "source": "These ducats are to reward you for your kindness."
+    },
+    {
+     "id": "p036.s03",
+     "source": "Now go into your bedroom and lie down comfortably.”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "As he said this he vanished."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Lenka went into her bedroom and there, instead of her few rags on the floor, was a fine feather bed and coverlets and a painted chest full of clothes."
+    },
+    {
+     "id": "p038.s02",
+     "source": "Lenka lay down on the feather bed and instantly fell asleep."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "On the third day her father came, supposing by that time Lenka had either died of hunger or been devoured by wild beasts."
+    },
+    {
+     "id": "p039.s02",
+     "source": "At least, he thought, he would gather together her bones."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "But when he reached the hut he rubbed his eyes in surprise."
+    },
+    {
+     "id": "p040.s02",
+     "source": "Instead of the rough hut, there was a pretty little cottage and instead of a handful of bones there was a happy girl singing away at her spinning."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "“My daughter, my daughter!” he cried."
+    },
+    {
+     "id": "p041.s02",
+     "source": "“How are you?”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“Very well, dear father."
+    },
+    {
+     "id": "p042.s02",
+     "source": "You couldn’t have found a better place for me.”"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "She told him how happy she was and how pleasantly she passed the time, spinning and singing and working."
+    },
+    {
+     "id": "p043.s02",
+     "source": "Then she took a table-cloth and filled it with golden ducats and gave it to him."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "So he went away very happy, thanking God for the good fortune that had come to Lenka."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "As he neared home, the old dog that lay at the door said to the stepmother:"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "“Bow-wow, mistress, here comes the master."
+    },
+    {
+     "id": "p046.s02",
+     "source": "It’s chink-chink the money before him and chink-chink the money behind him!”"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“Not so, old dog!” the stepmother cried."
+    },
+    {
+     "id": "p047.s02",
+     "source": "“It’s rattle-rattle bones before him and rattle-rattle bones behind him!”"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "Now when the man came into the cottage, he said: “Wife, give me a basket and let me empty this table-cloth.”"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "“What!” she cried."
+    },
+    {
+     "id": "p049.s02",
+     "source": "“Do you expect me to give you a basket for your daughter’s bones?”"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "But he began to chink the golden ducats and then she got a basket fast enough."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "When she had all the ducats safely put away she said:"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "“Isn’t it just like you to find a place like that for your Lenka!"
+    },
+    {
+     "id": "p052.s02",
+     "source": "But what have you ever done for my poor Dorla?"
+    },
+    {
+     "id": "p052.s03",
+     "source": "Tomorrow you will take her out into the world and find a good place for her!”"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "So she got ready for Dorla a fine new bed and stylish clothes and as much good food as she could carry."
+    },
+    {
+     "id": "p053.s02",
+     "source": "The next day the man took Dorla out into the mountains and built her a little hut of two rooms."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "Dorla sat in the hut and thought about the good supper she was going to cook for herself."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "In the evening the same old beggar came and said to her:"
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "“May God grant you happiness, my child."
+    },
+    {
+     "id": "p056.s02",
+     "source": "Won’t you please wash my face?”"
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "“Wash your face, indeed!” cried Dorla in a rage."
+    },
+    {
+     "id": "p057.s02",
+     "source": "“This is what I’ll do to you!”"
+    },
+    {
+     "id": "p057.s03",
+     "source": "And she took a stick and drove the old beggar away."
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "“Very well!” he muttered."
+    },
+    {
+     "id": "p058.s02",
+     "source": "“Very well!"
+    },
+    {
+     "id": "p058.s03",
+     "source": "Very well!”"
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "Then Dorla cooked herself a fine supper."
+    },
+    {
+     "id": "p059.s02",
+     "source": "After she had eaten every bite of it herself, she lay down on the bed and went soundly to sleep."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "At midnight Long Beard knocked at the door and called out:"
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "Then Dorla was very frightened and she hid in the corner."
+    },
+    {
+     "id": "p061.s02",
+     "source": "Long Beard broke open the door and he caught Dorla and he shook her out of her skin."
+    },
+    {
+     "id": "p061.s03",
+     "source": "It served her right, too, for she was a wicked, spiteful girl and she had never been kind to anybody in her life."
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "Long Beard left her bones in a heap on the floor, and he hung her skin on the nail at the back of the door."
+    },
+    {
+     "id": "p062.s02",
+     "source": "Then he put her grinning skull in the window."
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "On the third day Dorla’s mother gave her husband a brand new table-cloth and said:"
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "“Go now and see how my Dorla is getting on."
+    },
+    {
+     "id": "p064.s02",
+     "source": "Here is a table-cloth for the ducats.”"
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "So the man took the table-cloth and went to the mountains."
+    },
+    {
+     "id": "p065.s02",
+     "source": "As he came near the hut, he saw something in the window that looked like grinning teeth."
+    },
+    {
+     "id": "p065.s03",
+     "source": "He said to himself:"
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "“Dorla must be very happy to be smiling at me from this distance.”"
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "But when he reached the hut all he found of Dorla was a heap of bones on the floor, the skin hanging on the nail behind the door, and the skull grinning in the window."
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "Without a word he gathered the bones into the table-cloth and started back."
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "As he neared home the old dog said:"
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "“Bow-wow, mistress, here comes the master and it’s rattle-rattle before him and rattle-rattle behind him.”"
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "“Not so, old dog!” cried the woman."
+    },
+    {
+     "id": "p071.s02",
+     "source": "“It’s chink-chink before him, and chink-chink behind him!”"
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "But the old dog kept on barking and saying:"
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "“No, no, bow-wow, it’s rattle-rattle before him and rattle-rattle behind him!”"
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "In a rage the woman took a stick and beat the dog."
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "Then the man stepped into the cottage and at once his wife brought out a basket for the ducats."
+    },
+    {
+     "id": "p075.s02",
+     "source": "But when he shook out the table-cloth there was only the rattle-rattle of bones."
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p076"
+  }
+ ]
+}

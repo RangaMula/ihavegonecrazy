@@ -1,0 +1,98 @@
+{
+ "id": "eu-romania-085",
+ "title": {
+  "id": "title",
+  "source": "Why Does The Cricket Chirp?"
+ },
+ "tradition": "Romania",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Rumanian Bird and Beast Stories Rendered into English",
+ "credits": "Gaster, Moses (translator, d. 1939)",
+ "gutenberg": "Project Gutenberg eBook #43059 — https://www.gutenberg.org/ebooks/43059 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Romania/085 - Why Does The Cricket Chirp.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 13,
+  "words": 268
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The Story of Lady Mary and the Yellow Bird."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "It is said that at the time of the birth of Christ, there was a beautiful little bird with feathers, yellow as gold and with a beak shining like silver, and a thin, fine little body."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Just as the bird was beautiful, so she was insolent and disobedient."
+    },
+    {
+     "id": "p002.s03",
+     "source": "She was a friend of St. Mary, who liked her singing."
+    },
+    {
+     "id": "p002.s04",
+     "source": "When she was sad, the bird would come and comfort her with her sweet songs."
+    },
+    {
+     "id": "p002.s05",
+     "source": "And the Holy Mother also helped the little bird when she was in trouble, and when the nest was broken, she helped to mend it."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "But when the Holy Mother got Jesus, her friendship with the bird came to an end."
+    },
+    {
+     "id": "p003.s02",
+     "source": "For the bird did not like children."
+    },
+    {
+     "id": "p003.s03",
+     "source": "It could not stand their crying."
+    },
+    {
+     "id": "p003.s04",
+     "source": "The bird believed that the crying child mocked at her singing, and therefore, whenever she saw Christ, she made faces at him and mockingly chirped, Gri Gri Gri."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Christ, hearing it, got frightened and cried bitterly."
+    },
+    {
+     "id": "p003.s06",
+     "source": "When St. Mary saw the insolence of the bird, she drove her away from the house, and, cursing her, said: “From the beautiful bird which thou art, thou shalt become one of the most hideous insects, and, living only in clefts and holes, thou shalt sing only Gri Gri Gri, as a punishment for having mocked at God’s child.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Since then, that bird has entirely disappeared, and all of her kind which were living at that time were turned into crickets chirping in the hearths and mocking at the children of men, Gri Gri Gri."
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "eu-wales-098",
+ "title": {
+  "id": "title",
+  "source": "A Hare crossing the Road"
+ },
+ "tradition": "Wales",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Welsh Folk-Lore",
+ "credits": "Owen, Elias (author, d. 1899)",
+ "gutenberg": "Project Gutenberg eBook #20096 — https://www.gutenberg.org/ebooks/20096 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Wales/098 - A Hare crossing the Road.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 106
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Mr. Jones said that when he was a lad, he and his mother went to Caerwys fair from the Vale of Clwyd, intending to sell a cow at the fair."
+    },
+    {
+     "id": "p001.s02",
+     "source": "They had not gone far on their way before a large hare crossed the road, hopping and halting and looking around."
+    },
+    {
+     "id": "p001.s03",
+     "source": "His mother was vexed at the sight, and she said—“We may as well go home, Dick, for no good will come of our journey since that old witch crosses our path.”"
+    },
+    {
+     "id": "p001.s04",
+     "source": "They went on, though, and reached Caerwys in safety, but they got no bid for the cow, although they stayed there all day long."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

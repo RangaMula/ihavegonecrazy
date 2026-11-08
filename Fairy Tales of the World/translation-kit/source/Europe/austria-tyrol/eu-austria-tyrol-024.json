@@ -1,0 +1,81 @@
+{
+ "id": "eu-austria-tyrol-024",
+ "title": {
+  "id": "title",
+  "source": "The Wandering Stone"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/024 - The Wandering Stone.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 9,
+  "words": 350
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In the Zillerthal, about half an hour’s walk from the little village of Fügen, in a small valley on the right-hand side of the entrance to the vast forest of Benkerwald, lies a piece of rock some two cubic feet in measure, bearing on its top side a rude cross chiselled in the stone."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The rock is noted all over the country, for each time it is removed from its resting-place by some supernatural agency, it returns again to the same spot."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Why it wanders in this strange manner nobody knows, but why it stands there is known to every little village child in the surrounding country."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "At the end of the last century two peasant women of Fügen were engaged by the day in cutting corn at the adjacent farm of Wieseck, on the Pancraz mountain."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The farmer, anxious to get in his corn while the fine weather lasted, promised to increase their wages if they hastened on with their work."
+    },
+    {
+     "id": "p002.s03",
+     "source": "At this promise both the girls redoubled their efforts, but at the end of the week instead of paying them alike, the farmer in augmentation of their wages gave to one of them two loaves of bread, while to the other he gave but one."
+    },
+    {
+     "id": "p002.s04",
+     "source": "On their way home close to Fügen, and on the spot where now lies the stone, the two women began to quarrel about the bread, and at last the dispute grew so hot that they fell to fight with their sickles, and, like tigresses, the sight of blood seemed only to increase their ferocity; and what seems to be incredible, but which is nevertheless perfectly true, they fought until they both fell down and bled to death on the spot."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Here they were buried, and over them was placed the stone which still remains there, but none of the villagers will pass that way after nightfall."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "There are numberless people who have convinced themselves of the wonderful property of the ‘Wandelstein,’ and many are the warnings given by the country folk to travellers who seek to pass there after the sun has set."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  }
+ ]
+}

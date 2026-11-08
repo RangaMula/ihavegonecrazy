@@ -1,0 +1,54 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-080",
+ "title": {
+  "id": "title",
+  "source": "The Crab and Its Mother"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/080 - The Crab and Its Mother.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 5,
+  "words": 68
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A CRAB said to her son, “Why do you walk so one-sided, my child?"
+    },
+    {
+     "id": "p001.s02",
+     "source": "It is far more becoming to go straight forward.”"
+    },
+    {
+     "id": "p001.s03",
+     "source": "The young Crab replied: “Quite true, dear Mother; and if you will show me the straight way, I will promise to walk in it.”"
+    },
+    {
+     "id": "p001.s04",
+     "source": "The Mother tried in vain, and submitted without remonstrance to the reproof of her child."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Example is more powerful than precept."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

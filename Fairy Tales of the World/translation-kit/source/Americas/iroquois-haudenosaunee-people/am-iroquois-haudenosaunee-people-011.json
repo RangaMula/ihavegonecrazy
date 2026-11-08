@@ -1,0 +1,76 @@
+{
+ "id": "am-iroquois-haudenosaunee-people-011",
+ "title": {
+  "id": "title",
+  "source": "The Stone Giant'S Challenge"
+ },
+ "tradition": "Iroquois (Haudenosaunee) people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Iroquois. (1883 N 02 / 1880-1881 (pages 47-116))",
+ "credits": "Smith, Erminnie A. (Erminnie Adele) (author, d. 1886)",
+ "gutenberg": "Project Gutenberg eBook #46140 — https://www.gutenberg.org/ebooks/46140 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Iroquois (Haudenosaunee) people/011 - The Stone Giant'S Challenge.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 9,
+  "words": 201
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A Stone Giant challenged a Seneca chief to a race."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The challenge was accepted, and the time for the start appointed two days later."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The hunter employed the time in making a pair of moccasins, and in due time the race began."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The hunter was in advance; he led the way over cornfields and through bushes, over and around brooks, and went a weary distance until he was very tired and his moccasins were nearly worn off his feet."
+    },
+    {
+     "id": "p002.s03",
+     "source": "At last he began to climb rocks."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Now, the Stone Giant had no power to raise his head and could not tell where the hunter was when once he was above him, and in this dilemma he had recourse to a charm, and took from his pocket a human finger."
+    },
+    {
+     "id": "p002.s05",
+     "source": "He placed it upright upon his hand, and it immediately pointed the way for him to go."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "[pg 64] Now, the hunter had turned and seen him do it, so he stooped and snatched the charm from him, whereupon the giant commenced crying and said: \"You have won."
+    },
+    {
+     "id": "p003.s02",
+     "source": "You have taken my charm, and now you can always find game and all you want, for the finger will direct you to it.\""
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

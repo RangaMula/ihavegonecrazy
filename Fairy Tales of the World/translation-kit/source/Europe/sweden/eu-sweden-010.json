@@ -1,0 +1,116 @@
+{
+ "id": "eu-sweden-010",
+ "title": {
+  "id": "title",
+  "source": "The Knight of Ellenholm"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/010 - The Knight of Ellenholm.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 13,
+  "words": 292
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Many, many years ago there lived, in Ellenholm Castle, a knight, who, wishing to attend Christmas matins at Morrum’s Church, with a long journey before him, and anxious to be present if possible at first matins, set out from the castle, accompanied by his groom, immediately after midnight."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Some distance on the way, feeling sleepy, he instructed the groom to ride on while he dismounted and sat down by the roadside, at the foot of a mountain, to take a nap and refresh himself."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "He had been sitting only a few minutes when a monster giantess came and bade him follow her into the mountain, which he did, and was conducted to the presence of her giant husband."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Here all kinds of tempting viands were set before him, but the Knight, who knew well into what kind of company he had fallen, declined to partake of the food."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Offended at this, the woman drew forth a knife and addressed the Knight:"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Do you recognize this?"
+    },
+    {
+     "id": "p004.s02",
+     "source": "It is the one with which you chopped me in the thigh when, one time, I was gathering hay for my calves."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Father, what do you think we ought to do with him?”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Let him go,” said the Giant."
+    },
+    {
+     "id": "p005.s02",
+     "source": "“We can do nothing to him for he invokes the Great Master too much.” [ ]"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“So be it,” said the Giantess, “but he shall have something to remember me by.”"
+    },
+    {
+     "id": "p006.s02",
+     "source": "Whereupon she broke the Knight’s little finger."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "He soon discovered himself in the open air again, and the groom who had returned to search for his master found him in the place where he had left him, but with a little finger broken—a warning to every one not to sleep on the way to church. [ ]"
+    }
+   ],
+   "id": "p007"
+  }
+ ]
+}

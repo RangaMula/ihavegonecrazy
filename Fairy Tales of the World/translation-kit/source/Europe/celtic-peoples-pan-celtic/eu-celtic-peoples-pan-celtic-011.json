@@ -1,0 +1,624 @@
+{
+ "id": "eu-celtic-peoples-pan-celtic-011",
+ "title": {
+  "id": "title",
+  "source": "Gold-Tree And Silver-Tree"
+ },
+ "tradition": "Celtic peoples (pan-Celtic)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Celtic Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #7885 — https://www.gutenberg.org/ebooks/7885 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Celtic peoples (pan-Celtic)/011 - Gold-Tree And Silver-Tree.md",
+ "stats": {
+  "paragraphs": 53,
+  "segments": 71,
+  "words": 1096
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once upon a time there was a king who had a wife, whose name was Silver-tree, and a daughter, whose name was Gold-tree."
+    },
+    {
+     "id": "p001.s02",
+     "source": "On a certain day of the days, Gold-tree and Silver-tree went to a glen, where there was a well, and in it there was a trout."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Said Silver-tree, \"Troutie, bonny little fellow, am not I the most beautiful queen in the world?\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"Oh! indeed you are not.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Who then?\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Why, Gold-tree, your daughter.\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Silver-tree went home, blind with rage."
+    },
+    {
+     "id": "p006.s02",
+     "source": "She lay down on the bed, and vowed she would never be well until she could get the heart and the liver of Gold-tree, her daughter, to eat."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "At nightfall the king came home, and it was told him that Silver-tree, his wife, was very ill."
+    },
+    {
+     "id": "p007.s02",
+     "source": "He went where she was, and asked her what was wrong with her."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"Oh! only a thing--which you may heal if you like.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Oh! indeed there is nothing at all which I could do for you that I would not do.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"If I get the heart and the liver of Gold-tree, my daughter, to eat, I shall be well.\""
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Now it happened about this time that the son of a great king had come from abroad to ask Gold-tree for marrying."
+    },
+    {
+     "id": "p011.s02",
+     "source": "The king now agreed to this, and they went abroad."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "The king then went and sent his lads to the hunting-hill for a he-goat, and he gave its heart and its liver to his wife to eat; and she rose well and healthy."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "A year after this Silver-tree went to the glen, where there was the well in which there was the trout."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"Troutie, bonny little fellow,\" said she, \"am not I the most beautiful queen in the world?\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"Oh! indeed you are not.\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"Who then?\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Why, Gold-tree, your daughter.\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Oh! well, it is long since she was living."
+    },
+    {
+     "id": "p018.s02",
+     "source": "It is a year since I ate her heart and liver.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"Oh! indeed she is not dead."
+    },
+    {
+     "id": "p019.s02",
+     "source": "She is married to a great prince abroad.\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Silver-tree went home, and begged the king to put the long-ship in order, and said, \"I am going to see my dear Gold-tree, for it is so long since I saw her.\""
+    },
+    {
+     "id": "p020.s02",
+     "source": "The long-ship was put in order, and they went away."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "It was Silver-tree herself that was at the helm, and she steered the ship so well that they were not long at all before they arrived."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "The prince was out hunting on the hills."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Gold-tree knew the long-ship of her father coming."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"Oh!\" said she to the servants, \"my mother is coming, and she will kill me.\""
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"She shall not kill you at all; we will lock you in a room where she cannot get near you.\""
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "This is how it was done; and when Silver-tree came ashore, she began to cry out:"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"Come to meet your own mother, when she comes to see you,\" Gold-tree said that she could not, that she was locked in the room, and that she could not get out of it."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"Will you not put out,\" said Silver-tree, \"your little finger through the key-hole, so that your own mother may give a kiss to it?\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "She put out her little finger, and Silver-tree went and put a poisoned stab in it, and Gold-tree fell dead."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "When the prince came home, and found Gold-tree dead, he was in great sorrow, and when he saw how beautiful she was, he did not bury her at all, but he locked her in a room where nobody would get near her."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "In the course of time he married again, and the whole house was under the hand of this wife but one room, and he himself always kept the key of that room."
+    },
+    {
+     "id": "p030.s02",
+     "source": "On a certain day of the days he forgot to take the key with him, and the second wife got into the room."
+    },
+    {
+     "id": "p030.s03",
+     "source": "What did she see there but the most beautiful woman that she ever saw."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "She began to turn and try to wake her, and she noticed the poisoned stab in her finger."
+    },
+    {
+     "id": "p031.s02",
+     "source": "She took the stab out, and Gold-tree rose alive, as beautiful as she was ever."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "At the fall of night the prince came home from the hunting-hill, looking very downcast."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "\"What gift,\" said his wife, \"would you give me that I could make you laugh?\""
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "\"Oh! indeed, nothing could make me laugh, except Gold-tree were to come alive again.\""
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "\"Well, you'll find her alive down there in the room.\""
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "When the prince saw Gold-tree alive he made great rejoicings, and he began to kiss her, and kiss her, and kiss her."
+    },
+    {
+     "id": "p036.s02",
+     "source": "Said the second wife, \"Since she is the first one you had it is better for you to stick to her, and I will go away.\""
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "\"Oh! indeed you shall not go away, but I shall have both of you.\""
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "At the end of the year, Silver-tree went to the glen, where there was the well, in which there was the trout."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "\"Troutie, bonny little fellow,\" said she, \"am not I the most beautiful queen in the world?\""
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "\"Oh! indeed you are not.\""
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "\"Who then?\""
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "\"Why, Gold-tree, your daughter.\""
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "\"Oh! well, she is not alive."
+    },
+    {
+     "id": "p043.s02",
+     "source": "It is a year since I put the poisoned stab into her finger.\""
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "\"Oh! indeed she is not dead at all, at all.\""
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "Silver-tree, went home, and begged the king to put the long-ship in order, for that she was going to see her dear Gold-tree, as it was so long since she saw her."
+    },
+    {
+     "id": "p045.s02",
+     "source": "The long-ship was put in order, and they went away."
+    },
+    {
+     "id": "p045.s03",
+     "source": "It was Silver-tree herself that was at the helm, and she steered the ship so well that they were not long at all before they arrived."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "The prince was out hunting on the hills."
+    },
+    {
+     "id": "p046.s02",
+     "source": "Gold-tree knew her father's ship coming."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "\"Oh!\" said she, \"my mother is coming, and she will kill me.\""
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "\"Not at all,\" said the second wife; \"we will go down to meet her.\""
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "Silver-tree came ashore."
+    },
+    {
+     "id": "p049.s02",
+     "source": "\"Come down, Gold-tree, love,\" said she, \"for your own mother has come to you with a precious drink.\""
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "\"It is a custom in this country,\" said the second wife, \"that the person who offers a drink takes a draught out of it first.\""
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "Silver-tree put her mouth to it, and the second wife went and struck it so that some of it went down her throat, and she fell dead."
+    },
+    {
+     "id": "p051.s02",
+     "source": "They had only to carry her home a dead corpse and bury her."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "The prince and his two wives were long alive after this, pleased and peaceful."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "I left them there."
+    }
+   ],
+   "id": "p053"
+  }
+ ]
+}

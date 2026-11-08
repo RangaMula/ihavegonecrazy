@@ -1,0 +1,50 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-027",
+ "title": {
+  "id": "title",
+  "source": "The Flies and the Honey-Pot"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/027 - The Flies and the Honey-Pot.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 4,
+  "words": 78
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A NUMBER of Flies were attracted to a jar of honey which had been overturned in a housekeeper’s room, and placing their feet in it, ate greedily."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Their feet, however, became so smeared with the honey that they could not use their wings, nor release themselves, and were suffocated."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Just as they were expiring, they exclaimed, “O foolish creatures that we are, for the sake of a little pleasure we have destroyed ourselves.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Pleasure bought with pains, hurts."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

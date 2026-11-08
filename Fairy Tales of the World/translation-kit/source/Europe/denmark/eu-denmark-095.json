@@ -1,0 +1,92 @@
+{
+ "id": "eu-denmark-095",
+ "title": {
+  "id": "title",
+  "source": "Second Evening"
+ },
+ "tradition": "Denmark",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy Tales of Hans Christian Andersen",
+ "credits": "Andersen, H. C. (Hans Christian) (author, d. 1875)",
+ "gutenberg": "Project Gutenberg eBook #27200 — https://www.gutenberg.org/ebooks/27200 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Denmark/095 - Second Evening.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 13,
+  "words": 249
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "\"Yesterday,\" said the Moon to me, \"I looked down upon a small courtyard surrounded on all sides by houses."
+    },
+    {
+     "id": "p001.s02",
+     "source": "In the courtyard sat a clucking hen with eleven chickens; and a pretty little girl was running and jumping around them."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The hen was frightened, and screamed, and spread out her wings over the little brood."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Then the girl's father came out and scolded her; and I glided away and thought no more of the matter."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"But this evening, only a few minutes ago, I looked down into the same courtyard."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Everything was quiet."
+    },
+    {
+     "id": "p002.s03",
+     "source": "But presently the little girl came forth again, crept quietly to the hen-house, pushed back the bolt, and slipped into the apartment of the hen and chickens."
+    },
+    {
+     "id": "p002.s04",
+     "source": "They cried out loudly, and came fluttering down from their perches, and ran about in dismay, and the little girl ran after them."
+    },
+    {
+     "id": "p002.s05",
+     "source": "I saw it quite plainly, for I looked through a hole in the hen-house wall."
+    },
+    {
+     "id": "p002.s06",
+     "source": "I was angry with the willful child, and felt glad when her father came out and scolded her more violently than yesterday, holding her roughly by the arm; she held down her head, and her blue eyes were full of large tears."
+    },
+    {
+     "id": "p002.s07",
+     "source": "'What are you about here?' he asked."
+    },
+    {
+     "id": "p002.s08",
+     "source": "She wept and said, 'I wanted to kiss the hen and beg her pardon for frightening her yesterday; but I was afraid to tell you.'"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"And the father kissed the innocent child's forehead, and I kissed her on the mouth and eyes.\""
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

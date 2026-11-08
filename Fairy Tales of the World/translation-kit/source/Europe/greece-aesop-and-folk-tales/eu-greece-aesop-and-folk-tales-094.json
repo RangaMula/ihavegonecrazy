@@ -1,0 +1,52 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-094",
+ "title": {
+  "id": "title",
+  "source": "The Fox and the Crow"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/094 - The Fox and the Crow.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 6,
+  "words": 122
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A CROW having stolen a bit of meat, perched in a tree and held it in her beak."
+    },
+    {
+     "id": "p001.s02",
+     "source": "A Fox, seeing this, longed to possess the meat himself, and by a wily stratagem succeeded."
+    },
+    {
+     "id": "p001.s03",
+     "source": "“How handsome is the Crow,” he exclaimed, “in the beauty of her shape and in the fairness of her complexion!"
+    },
+    {
+     "id": "p001.s04",
+     "source": "Oh, if her voice were only equal to her beauty, she would deservedly be considered the Queen of Birds!”"
+    },
+    {
+     "id": "p001.s05",
+     "source": "This he said deceitfully; but the Crow, anxious to refute the reflection cast upon her voice, set up a loud caw and dropped the flesh."
+    },
+    {
+     "id": "p001.s06",
+     "source": "The Fox quickly picked it up, and thus addressed the Crow: “My good Crow, your voice is right enough, but your wit is wanting.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "eu-serbia-038",
+ "title": {
+  "id": "title",
+  "source": "Enchanters"
+ },
+ "tradition": "Serbia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Hero Tales and Legends of the Serbians",
+ "credits": "Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)",
+ "gutenberg": "Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Serbia/038 - Enchanters.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 4,
+  "words": 107
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Among celebrants of the various pagan rites, there is mention of tcharobnitzi (enchanters), who are known to have lived also in Russia, where, during the eleventh century, they sapped the new Christianity."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The Slavonic translation of the Gospel recognized by the Church in the ninth century applies the name ‘tcharobnitzi’ to the three Holy Kings."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "To this same category belong the resnitzi who, as is apparent in the Emperor Doushan’s Code referred to previously, used to burn the bodies of the dead."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Resnik , which appears as a proper name in Serbia, Bosnia and Croatia, means, according to all evidence, “the one who is searching for truth.”"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

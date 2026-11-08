@@ -1,0 +1,93 @@
+{
+ "id": "eu-austria-tyrol-053",
+ "title": {
+  "id": "title",
+  "source": "The Hexeler"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/053 - The Hexeler.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 12,
+  "words": 396
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In the village of Hall, in the valley of the Inn, close to Innsbruck, lived a man who was a peasant doctor, cattle doctor, and fisherman, in one person; he was also a noted witch-finder, and, as such, held in terrible dread by all those who had “red eyes.”"
+    },
+    {
+     "id": "p001.s02",
+     "source": "His name was Kolb, but he was generally called the “Hexeler” (hag hunter), or “Hexenkolb.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "One day Kolb was engaged fishing in the lake, called Achenthaler-See, when suddenly thunderclouds as black as ink collected over his head, and on a sign which he made with his hand, a weather hag fell down into the water."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The hag seized the side of Kolb’s little boat, who, however, beat the rudder down upon her hands, with the intention of drowning her, but she implored him to save her, promising that she would renounce her witchcraft."
+    },
+    {
+     "id": "p002.s03",
+     "source": "“As to me,” said Kolb, “I will save you if you will give up your wicked trade; but you must hand over to me your sorcery book, so that I shall know all your hellish artifices, and be able to discover their antidotes.”"
+    },
+    {
+     "id": "p002.s04",
+     "source": "After a long dispute, during which the hag was nearly drowned, she gave him a book, in which her most secret charms were written down."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "After that incident, Kolb became one of the first “Wonder Doctors” in the Tyrol."
+    },
+    {
+     "id": "p003.s02",
+     "source": "When he was asked to cure somebody, the sufferer was compelled to come to him during the night, and it was only on special occasions that he consented to visit the house of the sick."
+    },
+    {
+     "id": "p003.s03",
+     "source": "When he was called to the assistance of a bewitched person, he made exactly at midnight the smoke of five different sorts of herbs, and, while they were burning, the bewitched was gently beaten with a martyr-thorn birch, which had also to be cut during the same night, and through which means, at each stripe that was given, the hag who had bewitched the person received the most terrible blow, so that the blood flowed at each stroke."
+    },
+    {
+     "id": "p003.s04",
+     "source": "Kolb went on beating in this way, until the hag appeared and took off the charm."
+    },
+    {
+     "id": "p003.s05",
+     "source": "But, during the operation, no one was allowed to speak, and the necromancer alone treated with the witch."
+    },
+    {
+     "id": "p003.s06",
+     "source": "If any one had spoken but one word, the Hexeler’s power would have gone for that night, and all his work would have been useless."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  }
+ ]
+}

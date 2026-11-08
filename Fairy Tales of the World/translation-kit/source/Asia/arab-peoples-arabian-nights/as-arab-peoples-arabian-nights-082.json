@@ -1,0 +1,58 @@
+{
+ "id": "as-arab-peoples-arabian-nights-082",
+ "title": {
+  "id": "title",
+  "source": "A Merry Jest Of A Thief"
+ },
+ "tradition": "Arab peoples (Arabian Nights)",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Tales from the Arabic — Complete",
+ "credits": "Payne, John (translator, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #5245 — https://www.gutenberg.org/ebooks/5245 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Arab peoples (Arabian Nights)/082 - A Merry Jest Of A Thief.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 6,
+  "words": 162
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A thief of the thieves of the Arabs went [one night] to a certain man's house, to steal from a heap of wheat there, and the people of the house surprised him."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Now on the heap was a great copper measure, and the thief buried himself in the corn and covered his head with the measure, so that the folk found him not and went away; but, as they were going, behold, there came a great crack of wind forth of the corn."
+    },
+    {
+     "id": "p001.s03",
+     "source": "So they went up to the measure and [raising it], discovered the thief and laid hands on him."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Quoth he, \"I have eased you of the trouble of seeking me: for I purposed, [in letting wind], to direct you to my [hiding-]place; wherefore do ye ease me and have compassion on me, so may God have compassion on you!\""
+    },
+    {
+     "id": "p001.s05",
+     "source": "So they let him go and harmed him not."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "And for another story of the same kind,' continued the officer,"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

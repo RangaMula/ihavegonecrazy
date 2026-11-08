@@ -1,0 +1,77 @@
+{
+ "id": "eu-austria-tyrol-059",
+ "title": {
+  "id": "title",
+  "source": "The Butcher Of Imst"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/059 - The Butcher Of Imst.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 8,
+  "words": 288
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "It is not very long since that there lived at Imst a butcher, who was in the habit of catching other people’s sheep on the mountain, to alter their marks, and, after leaving them to run for some time among his own herd, either killed or sold them alive."
+    },
+    {
+     "id": "p001.s02",
+     "source": "This clever dodge succeeded very well for some length of time, but at last the butcher died suddenly, and, after his death, such a terrible ghost was seen several times in the house, that the family were obliged to move out of it, until the ghost should be exorcised by the powers of the Holy Church."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The night-watch of Strad was just calling out the twelfth hour, on a pitch dark night, when all at once two Capuchins approached on the road, both of whom carried a burning candle, and one of them bore under his arm a massive volume."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Between them walked the form of the deceased butcher, clad in black, with the high-crowned hat, which he usually wore when alive, pressed tightly down over his eyes, and his arms crossed before him."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The Capuchins signed the night-watch to step on one side, which, in his terror, he was only too glad to do."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Then he saw them all three pass through the village of Strad, and take the post-road to Nassereit, as far as the inn, called ‘Zum Döllinger,’ into which, however, they did not enter, but turned over the Gurglthal, towards a klamm, or chasm, through which rushes from the lofty Andelsberg the torrent of Klammbach."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "To that spot numbers of ghosts from the neighbourhood of Imst have been consigned, and frequently during the stillness of night are heard the dreadful cries of “Help us."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Hoi—hoiiih!”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  }
+ ]
+}

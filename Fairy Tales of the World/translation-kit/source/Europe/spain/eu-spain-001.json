@@ -1,0 +1,58 @@
+{
+ "id": "eu-spain-001",
+ "title": {
+  "id": "title",
+  "source": "The Cradle of Spanish Song"
+ },
+ "tradition": "Spain",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Spain",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Spain/001 - The Cradle of Spanish Song.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 6,
+  "words": 299
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The homeland of Spanish tradition was indeed a fitting nursery for the race which for centuries contested every acre of the Peninsula with an enemy greatly more advanced in the art of warfare, if inferior in resolution and the spirit of unity."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Among the flinty wastes of the north of Spain, which are now regarded as rich in mineral resources, are situated at intervals luxuriant and fertile valleys sunk deep between the knees of volcanic ridges, the lower slopes of which are covered with thick forests of oak, chestnut, and pine."
+    },
+    {
+     "id": "p001.s03",
+     "source": "These depressions, sheltered from the sword-like winds which sweep down from the Pyrenees, reproduce in a measure the pleasant conditions of the southern land."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Although their distance one from another tended to isolation, it was in these valleys that Christian Spain received the respite which enabled her to collect her strength and school her spirit for the great struggle against the Saracen."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "In this age-long contest she was undoubtedly inspired by that subtle sense of nationhood and the possession of a common tongue which have proved the salvation of many races no less desperately situated, and perhaps her determination to redeem the lost Eden of the South is the best measure of the theory that, prior to the era of Saracen conquest, the Castilian tongue was a mere jargon, composed of the elements of the Roman lingua rustica and the rude Gothic, and, according to some authorities, still lacking in grammatical arrangement and fixity of idiom."
+    },
+    {
+     "id": "p002.s02",
+     "source": "It is certainly clear that the final phases in the evolution of Castilian took place subsequently to the Arabic invasion, but it is a straining of such scanty evidence as we possess to impute to the form of Castilian speech current immediately before that time the character of an undisciplined patois ."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

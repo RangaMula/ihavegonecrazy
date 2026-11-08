@@ -1,0 +1,564 @@
+{
+ "id": "eu-russia-002",
+ "title": {
+  "id": "title",
+  "source": "The Dun Cow"
+ },
+ "tradition": "Russia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Russian Folk-Tales",
+ "credits": "Afanas'ev, A. N. (Aleksandr Nikolaevich) (author, d. 1871); Magnus, Leonard A. (Leonard Arthur) (translator, d. 1924)",
+ "gutenberg": "Project Gutenberg eBook #62509 — https://www.gutenberg.org/ebooks/62509 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Russia/002 - The Dun Cow.md",
+ "stats": {
+  "paragraphs": 43,
+  "segments": 71,
+  "words": 1273
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "You know that there are all sorts in this world, good and bad, people who do not fear God, and feel no shame before their own brother."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "In a certain kingdom, in a certain land, there once lived a Tsar and Tsarítsa, who had one only daughter, Márya Tsarévna."
+    },
+    {
+     "id": "p002.s02",
+     "source": "But the old Tsarítsa died and the Tsar took to him a second wife, who was a witch."
+    },
+    {
+     "id": "p002.s03",
+     "source": "And the witch had three daughters, one of whom had one eye, the next two eyes, and the third had three."
+    },
+    {
+     "id": "p002.s04",
+     "source": "The stepmother could not abide Márya Tsarévna, and sent the girl with a dun cow on to the heath, and gave her a dry crust as her only food."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Márya Tsarévna went on to the heath, bowed down to the right foot of the cow, and all at once was splendidly dressed, and had as much to eat and drink as she liked."
+    },
+    {
+     "id": "p003.s02",
+     "source": "So she guarded the dun cow the whole day, and looked as gay as any lady in the land."
+    },
+    {
+     "id": "p003.s03",
+     "source": "And at night she bowed down again in front of the right foot, and again became shabby and went home."
+    },
+    {
+     "id": "p003.s04",
+     "source": "And the bit of bread she took with her and offered it to her stepmother."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Whatever is she living on?” the witch thought, and she gave her the same piece of bread next day, and told her eldest daughter to watch what Márya Tsarévna did."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "2 When they reached the heath Márya Tsarévna said: “Come, little sister, I will find a cushion for your head.”"
+    },
+    {
+     "id": "p005.s02",
+     "source": "So she went to look, but whispered to herself:"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "The sister went to sleep, and Márya Tsarévna stood up, went to her dear dun cow, bowed down to the right foot, and ate, and drank, and went about all day long like a princess."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "In the evening she woke up her sister and said: “Get up, sister; get up, dearest; and we will go home.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Oh! oh! oh!” her sister whimpered, “I have been asleep all day long and have not seen anything, and mother will be so angry!”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "When they got home, the stepmother asked: “What was it Márya Tsarévna ate and drank?”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“I did not see anything.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "So the witch scolded her, and next day sent the two-eyed sister with Márya."
+    },
+    {
+     "id": "p011.s02",
+     "source": "“Go,” she said, “and see what she eats and drinks.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "And the girls came to the heath, and Márya Tsarévna said, “Come, little sister, I will find a cushion for your head.”"
+    },
+    {
+     "id": "p012.s02",
+     "source": "So she went to search, and whispered to herself:"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Two-eyes went to sleep, and Márya Tsarévna bowed down as before, to the right foot of the cow, and looked like a princess all day long."
+    },
+    {
+     "id": "p013.s02",
+     "source": "In the evening she roused Two-eyes; and if the stepmother was angry before, she was much angrier this time."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "3 So next day she sent Three-eyes, and Márya Tsarévna sent her to sleep in the same way; only she forgot the third eye, and that went on looking and looking at what Márya Tsarévna did."
+    },
+    {
+     "id": "p014.s02",
+     "source": "For she ran to her dun cow’s right foot, bowed down, and ate, and drank, and went about all day long splendidly attired."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "And when she got home she laid the dry crust on the table."
+    },
+    {
+     "id": "p015.s02",
+     "source": "And the mother asked the daughter what Márya Tsarévna had eaten and drunk."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Three-eyes told her everything; and the witch ordered the dun cow to be slain."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“You must be mad, woman,” said the Tsar, “it’s quite a young heifer and so beautiful!”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“I tell you,” said the stepmother, “it must be done”; and the old Tsar consented."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "But Márya Tsarévna asked him: “Father, do at least give me a little tiny bit out of the cow!”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "The old man gave her the piece, and she planted it; and a bush with sweet berries grew up, with little birds singing on it, singing songs fit for kings and peasants."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Now Iván Tsarévich had heard of Márya Tsarévna, went to her stepmother, laid a bowl on the table, and said: “Whichever of the maidens brings me the bowl full of berries, I will marry.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "So the mother sent One-eye to get the berries."
+    },
+    {
+     "id": "p021.s02",
+     "source": "But the birds drove her away from the bush and almost pecked out her one eye; and so with Two-eyes and Three-eyes."
+    },
+    {
+     "id": "p021.s03",
+     "source": "At last Márya Tsarévna had to go."
+    },
+    {
+     "id": "p021.s04",
+     "source": "Márya Tsarévna took the bowl and gathered the berries, and the little birds helped her in the task."
+    },
+    {
+     "id": "p021.s05",
+     "source": "When she got home she put the bowl on the table and bowed down to Iván Tsarévich."
+    },
+    {
+     "id": "p021.s06",
+     "source": "So Iván Tsarévich took Márya Tsarévna to be his wife, and they celebrated a merry wedding and lived a happy life."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "But, after a while, Márya Tsarévna bore a son."
+    },
+    {
+     "id": "p022.s02",
+     "source": "She wanted to show him to her father, and, together with 4 her husband, went to visit him."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Then the stepmother turned her into a goose, and decked her eldest daughter as though she were the wife of Iván Tsarévich."
+    },
+    {
+     "id": "p022.s04",
+     "source": "And Iván Tsarévich returned home."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "The old man, who tended the children, got up early in the morning, washed himself clean, took the child on his arm and went out to the field, to the bush in the field."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Grey geese were flying over it."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“Geese, ye grey ones, where is the baby’s mother?”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“In the next flock!”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Then the next flock came by."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“Geese, ye grey ones, where is the baby’s mother?”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Then the baby’s mother came to them, threw off her feathers, and gave her little child the breast, and began weeping:"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“For this one day I may come, and to-morrow, but the next day I must fly away over the woods and over the hills.”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "The old man went back home, and the boy slept all day long, until next morning, and did not wake up."
+    },
+    {
+     "id": "p030.s02",
+     "source": "The false wife was angry with him for taking the child into the fields where it must be much too cold."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "But next morning the old man again got up very early, washed himself clean, and took the child into the field."
+    },
+    {
+     "id": "p031.s02",
+     "source": "Iván Tsarévich followed him secretly and hid in the bush."
+    },
+    {
+     "id": "p031.s03",
+     "source": "Then the grey geese began soaring by."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“Geese, ye grey ones, where is the baby’s mother?”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“In the next flock!”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Then the next flock came by."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“Geese, ye grey ones, where is the baby’s mother?”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Then the baby’s mother came to them, threw off her feathers, and gave her little child the breast, and began weeping: “For this one day I may come, but to-morrow I must fly away over the woods and over the hills.”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Then she asked: “What do I smell there?” and 5 wanted to put on her feathers again, but could not find them anywhere."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Iván Tsarévich had burnt them."
+    },
+    {
+     "id": "p038.s02",
+     "source": "He seized hold of Márya Tsarévna, but she turned first into a frog, then into a lizard, and into all sorts of insects, and last of all into a spindle."
+    },
+    {
+     "id": "p038.s03",
+     "source": "Iván Tsarévich took the spindle and broke it in halves, threw the dull end behind him and the sharp one in front; and his beautiful young wife stood in front of him, and they went home."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Then the daughter of the witch cried out: “The destroyer and the wicked woman have come.”"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "But Iván Tsarévich assembled all the Princes and the boyárs , and he asked them: “With which wife shall I live?”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "They said: “With the first.”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "But he answered, “My lords, whichever wife leaps quickest to the door shall remain with me.”"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "So the witch’s daughter climbed up at once, but Márya Tsarévna clung on."
+    },
+    {
+     "id": "p043.s02",
+     "source": "Then Iván Tsarévich took his gun and shot the substitute wife, and lived happy ever after with Márya Tsarévna."
+    }
+   ],
+   "id": "p043"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "id": "as-korea-049",
+ "title": {
+  "id": "title",
+  "source": "God’S Way"
+ },
+ "tradition": "Korea",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Korean Folk Tales",
+ "credits": "Yi, Yuk (author, d. 1498); Im, Pang (author, d. 1724); Gale, James Scarth (translator, d. 1937)",
+ "gutenberg": "Project Gutenberg eBook #51002 — https://www.gutenberg.org/ebooks/51002 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Korea/049 - God’S Way.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 12,
+  "words": 189
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In a certain town there lived a man of fierce and ungovernable disposition, who in moments of anger used to beat his mother."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One day this parent, thus beaten, screamed out, “Oh, God, why do you not strike dead this wicked man who beats his mother?”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The beating over, the son thrust his sickle through his belt and went slowly off to the fields where he was engaged by a neighbour in reaping buckwheat."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The day was fine, and the sky beautifully clear."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Suddenly a dark fleck of cloud appeared in mid-heaven, and a little later all the sky became black."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Furious thunder followed, and rain came on."
+    },
+    {
+     "id": "p002.s05",
+     "source": "The village people looked out toward the field, where the flashes of lightning were specially noticeable."
+    },
+    {
+     "id": "p002.s06",
+     "source": "They seemed to see there a man with lifted sickle trying to ward them off."
+    },
+    {
+     "id": "p002.s07",
+     "source": "When the storm had cleared away, they went to see, and lo, they found the man who had beaten his mother struck dead and riven to pieces."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "God takes note of evil doers on this earth, and deals with them as they deserve."
+    },
+    {
+     "id": "p003.s02",
+     "source": "How greatly should we fear!"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Yi Ryuk."
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

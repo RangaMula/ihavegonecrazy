@@ -1,0 +1,86 @@
+{
+ "id": "as-laos-047",
+ "title": {
+  "id": "title",
+  "source": "A Clever Thief"
+ },
+ "tradition": "Laos",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Laos Folk-Lore of Farther India",
+ "credits": "Fleeson, Katherine Neville (author)",
+ "gutenberg": "Project Gutenberg eBook #35564 — https://www.gutenberg.org/ebooks/35564 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Laos/047 - A Clever Thief.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 10,
+  "words": 184
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once a man went into the field of a gardener and stole a melon."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Before he had had time to eat it the gardener discovered him, took the melon and tied it to the neck of the thief, and led him to the home of the head man of the village."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "As they walked along, the thief took his scarf and covered his head and shoulders, and, as he was in front, he ate the melon without the gardener’s seeing him."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "When they reached the home of the head man, the gardener said, “This man stole a melon from me."
+    },
+    {
+     "id": "p003.s02",
+     "source": "It is tied to his neck under the cloth which covers his head and shoulders.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“I thought this man but walked along."
+    },
+    {
+     "id": "p004.s02",
+     "source": "I did not know he would accuse me of such a sin."
+    },
+    {
+     "id": "p004.s03",
+     "source": "If 152 I stole a melon, where is it?” asked the thief."
+    },
+    {
+     "id": "p004.s04",
+     "source": "He removed the scarf, and, lo, there was nothing to prove his guilt, and the head man said, “I see no sign of guilt in this man."
+    },
+    {
+     "id": "p004.s05",
+     "source": "Do not again falsely accuse one, or you will be punished.”"
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "eu-austria-tyrol-034",
+ "title": {
+  "id": "title",
+  "source": "The White Snake"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/034 - The White Snake.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 8,
+  "words": 297
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Close to Mitterwald, on the little river Eisach, rises on the right-hand side of the village the enormous mountain called the Mitterwalder Alp, upon which, on account of the great number of venomous snakes which were there, no cattle could be pastured."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The majority of these were huge white reptiles, of which the people were particularly fearful."
+    },
+    {
+     "id": "p001.s03",
+     "source": "About fifty years ago there arrived in the country one of those students, or as they called them, “Fahrende Schüler” (wandering collegians), to whom people used to attribute supernatural power, and the peasants asked him to rid them of the plague of snakes."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The student promptly assented to their request, and went up the mountain, where he made a circle upon the Alp-meadow, and ordered the peasants to plant a tree in the middle of the ring; then he climbed the tree, and by his incantations he charmed all the snakes into the large fire which he had lighted around it."
+    },
+    {
+     "id": "p002.s02",
+     "source": "But all at once a huge snake hissed loudly and fiercely, and on hearing this the student cried out, “I am lost;” and at the same moment a white snake darted with the swiftness of an arrow through his body, and he fell dead from the tree, and was consumed in the fire."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Those who recounted this tale added, “It was a hazel-worm, for only those snakes have the power to dart through the air like an arrow and pierce through people’s bodies.”"
+    },
+    {
+     "id": "p003.s02",
+     "source": "On the spot where this accident took place, and where the student made the fiery circle, there has never since an atom of grass grown again."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "It is asserted the blindworms had once the same power, until it was taken away from them by the Blessed Virgin, who has caused them ever afterwards to remain sightless."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p005"
+  }
+ ]
+}

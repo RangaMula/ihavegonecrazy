@@ -1,0 +1,58 @@
+{
+ "id": "eu-ireland-063",
+ "title": {
+  "id": "title",
+  "source": "The Boyhood Of Fionn"
+ },
+ "tradition": "Ireland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Irish Fairy Tales",
+ "credits": "Stephens, James (author, d. 1950)",
+ "gutenberg": "Project Gutenberg eBook #2892 — https://www.gutenberg.org/ebooks/2892 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Ireland/063 - The Boyhood Of Fionn.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 6,
+  "words": 73
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "He was a king, a seer and a poet."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He was a lord with a manifold and great train."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He was our magician, our knowledgable one, our soothsayer."
+    },
+    {
+     "id": "p001.s04",
+     "source": "All that he did was sweet with him."
+    },
+    {
+     "id": "p001.s05",
+     "source": "And, however ye deem my testimony of Fionn excessive, and, although ye hold my praising overstrained, nevertheless, and by the King that is above me, he was three times better than all I say.—Saint PATRICK."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Original Size"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "id": "eu-austria-tyrol-083",
+ "title": {
+  "id": "title",
+  "source": "The Sunken Forests"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/083 - The Sunken Forests.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 10,
+  "words": 329
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Near the village of Kitzbühel used to stand a magnificent forest, about which two peasants had a law-suit of several years’ duration, which finished with the judge being corrupted by one of the two peasants, to whom he awarded the Alp, and sent the defendant off, without the least hope of ever regaining his right."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The losing party, who through this iniquitous proceeding had become a poor man, could not rest, and constantly bewailed his misfortune, saying that he had been cheated and unjustly condemned."
+    },
+    {
+     "id": "p002.s02",
+     "source": "But the other, hearing the constant complaining of the poor injured man, one day called out, “Well, then, by all the devils, keep on crying."
+    },
+    {
+     "id": "p002.s03",
+     "source": "If I have unlawfully gained the forest, may it sink three thousand feet beneath the ground.”"
+    },
+    {
+     "id": "p002.s04",
+     "source": "These words had scarcely gone out of his mouth, when an earthquake took place, together with a fearful thunderstorm, and the majestic forest sank beneath his feet, and black waves directly rolled over it."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Though enormously deep as the See is, during certain weather the forms of trees can be distinctly seen far down below."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The same is the case with the Lanser-See, upon whose bottom trees are also to be seen growing."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Where now this See stands, there used to be a magnificent forest of pines, about which, too, a dispute took place, though not between two peasants, but between a peasant and a nobleman, and the trial was conducted in such a manner that the nobleman gained the forest away from the poor man, to whom it really belonged; for, according to the old Tyrolian saying, “Noblemen do not bite each other.”"
+    },
+    {
+     "id": "p003.s03",
+     "source": "But the poor peasant, in his anger, cursed the forest, root and branch, and it sank into the depths of the earth."
+    },
+    {
+     "id": "p003.s04",
+     "source": "Next morning it was no longer to be seen, but a deep See stood in its place, which, after the village of Lans, not far from the renowned castle of Ambras, has taken the name of Lanser-See."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  }
+ ]
+}

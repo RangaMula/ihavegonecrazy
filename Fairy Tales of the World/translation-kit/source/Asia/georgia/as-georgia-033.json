@@ -1,0 +1,68 @@
+{
+ "id": "as-georgia-033",
+ "title": {
+  "id": "title",
+  "source": "Two Losses"
+ },
+ "tradition": "Georgia",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Georgian Folk Tales",
+ "credits": "Wardrop, Marjory Scott (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #44536 — https://www.gutenberg.org/ebooks/44536 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Georgia/033 - Two Losses.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 10,
+  "words": 156
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "During a great storm at sea, a learned man heard the skipper giving his orders, but could not understand a word."
+    },
+    {
+     "id": "p001.s02",
+     "source": "When the danger was past, he asked the skipper in what language he had spoken."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The sailor replied: ‘In my mother tongue, of course!’"
+    },
+    {
+     "id": "p001.s04",
+     "source": "The scholar expressed his regret that a man should have wasted half his life without learning to speak grammatically and intelligibly."
+    },
+    {
+     "id": "p001.s05",
+     "source": "A few hours later the storm arose again, and this time the ship sprang a leak and began to founder."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Then the captain went to the scholar and asked if he could swim."
+    },
+    {
+     "id": "p001.s07",
+     "source": "The man of books replied that he had never learned."
+    },
+    {
+     "id": "p001.s08",
+     "source": "‘I am sorry, sir, for you will lose your whole life."
+    },
+    {
+     "id": "p001.s09",
+     "source": "The ship will go to the bottom in a minute, and my crew and I shall swim ashore."
+    },
+    {
+     "id": "p001.s10",
+     "source": "You would have done well if you had spent a little of your time in learning to swim.’"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

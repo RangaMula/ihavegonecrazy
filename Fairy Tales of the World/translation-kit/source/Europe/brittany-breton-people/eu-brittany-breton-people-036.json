@@ -1,0 +1,44 @@
+{
+ "id": "eu-brittany-breton-people-036",
+ "title": {
+  "id": "title",
+  "source": "A Subterranean Dolmen Chapel"
+ },
+ "tradition": "Brittany (Breton people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Brittany",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Brittany (Breton people)/036 - A Subterranean Dolmen Chapel.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 133
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "At Plouaret, in the department of Côtes-du-Nord, is a curious subterranean chapel incorporating a dolmen."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The dolmen was formerly partially embedded in a tumulus, and the chapel, erected in 1702, was so constructed that the great table-stone of the dolmen has become the chapel roof, and the supporting stones form two of its sides."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The crypt is reached by a flight of steps, and here may be seen an altar to the Seven Sleepers, represented by seven dolls of varying size."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The Bretons have a legend that this structure dates from the creation of the world, and they have embodied this belief in a ballad, in which it is piously affirmed that the shrine was built by the hand of the Almighty at the time when the world was in process of formation."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

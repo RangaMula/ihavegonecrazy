@@ -1,0 +1,105 @@
+{
+ "id": "eu-ireland-039",
+ "title": {
+  "id": "title",
+  "source": "T'Yeer-Na-N-Oge"
+ },
+ "tradition": "Ireland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy and Folk Tales of the Irish Peasantry",
+ "credits": "Yeats, W. B. (William Butler) (editor, d. 1939)",
+ "gutenberg": "Project Gutenberg eBook #33887 — https://www.gutenberg.org/ebooks/33887 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Ireland/039 - T'Yeer-Na-N-Oge.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 15,
+  "words": 303
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "[There is a country called Tír-na-n-Og, which means the Country of the Young, for age and death have not found it; neither tears nor loud laughter have gone near it."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The shadiest boskage covers it perpetually."
+    },
+    {
+     "id": "p001.s03",
+     "source": "One man has gone there and returned."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The bard, Oisen, who wandered away on a white horse, moving on the surface of the foam with his fairy Niamh, lived there three hundred years, and then returned looking for his comrades."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The moment his foot touched the earth his three hundred years fell on him, and he was bowed double, and his beard swept the ground."
+    },
+    {
+     "id": "p001.s06",
+     "source": "He described his sojourn in the Land of Youth to Patrick before he died."
+    },
+    {
+     "id": "p001.s07",
+     "source": "Since then many have seen it in many places; some in the depths of lakes, and have heard rising therefrom a vague sound of bells; more have seen it far off on the horizon, as they peered out from the western cliffs."
+    },
+    {
+     "id": "p001.s08",
+     "source": "Not three years ago a fisherman imagined that he saw it."
+    },
+    {
+     "id": "p001.s09",
+     "source": "It never appears unless to announce some national trouble."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "There are many kindred beliefs."
+    },
+    {
+     "id": "p002.s02",
+     "source": "A Dutch pilot, settled in Dublin, told M. De La Boullage Le Cong, who travelled in Ireland in 1614, that round the poles were many islands; some hard to be approached because of the witches who inhabit them and destroy by storms those who seek to land."
+    },
+    {
+     "id": "p002.s03",
+     "source": "He had once, off the coast of Greenland, in sixty-one degrees of latitude, seen and approached such an island only to see it vanish."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Sailing in an opposite direction, they met with the same island, and sailing near, were almost destroyed by a furious tempest."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "According to many stories, Tír-na-n-Og is the favourite dwelling of the fairies."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Some say it is triple—the island of the living, the island of victories, and an underwater land.]"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  }
+ ]
+}

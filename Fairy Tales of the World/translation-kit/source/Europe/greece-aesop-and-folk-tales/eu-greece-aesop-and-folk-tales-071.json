@@ -1,0 +1,44 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-071",
+ "title": {
+  "id": "title",
+  "source": "Jupiter and the Monkey"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/071 - Jupiter and the Monkey.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 103
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "JUPITER ISSUED a proclamation to all the beasts of the forest and promised a royal reward to the one whose offspring should be deemed the handsomest."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The Monkey came with the rest and presented, with all a mother’s tenderness, a flat-nosed, hairless, ill-featured young Monkey as a candidate for the promised reward."
+    },
+    {
+     "id": "p001.s03",
+     "source": "A general laugh saluted her on the presentation of her son."
+    },
+    {
+     "id": "p001.s04",
+     "source": "She resolutely said, “I know not whether Jupiter will allot the prize to my son, but this I do know, that he is at least in the eyes of me his mother, the dearest, handsomest, and most beautiful of all.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

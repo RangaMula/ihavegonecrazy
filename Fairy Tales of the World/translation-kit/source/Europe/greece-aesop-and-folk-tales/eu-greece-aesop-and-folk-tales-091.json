@@ -1,0 +1,36 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-091",
+ "title": {
+  "id": "title",
+  "source": "The Fisherman and His Nets"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/091 - The Fisherman and His Nets.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 2,
+  "words": 60
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A FISHERMAN, engaged in his calling, made a very successful cast and captured a great haul of fish."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He managed by a skillful handling of his net to retain all the large fish and to draw them to the shore; but he could not prevent the smaller fish from falling back through the meshes of the net into the sea."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

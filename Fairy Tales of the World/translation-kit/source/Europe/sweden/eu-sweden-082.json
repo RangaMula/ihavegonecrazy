@@ -1,0 +1,198 @@
+{
+ "id": "eu-sweden-082",
+ "title": {
+  "id": "title",
+  "source": "The Cunning Lapp"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/082 - The Cunning Lapp.md",
+ "stats": {
+  "paragraphs": 12,
+  "segments": 26,
+  "words": 440
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A poor Lapp once ran into the hands of a Giant, by whom he knew he would be devoured if he could not conceive some means of outwitting him."
+    },
+    {
+     "id": "p001.s02",
+     "source": "To this end he therefore proposed that they have a contest of strength, the test to be that they should butt against a tree and see which could drive his head farthest into it."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He [ ] who could make the deepest impression must, of course, be the stronger."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The Giant was first to make the trial."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Taking his stand some distance from a tall pine, with a spring forward he drove his head with furious force against the trunk, but the most careful search did not discover a mark caused by the blow."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The Lapp then said that he would show his strength the next day."
+    },
+    {
+     "id": "p002.s04",
+     "source": "During the night he made a large hollow in the trunks of several trees and re-covered the cavities nicely with the bark."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Next morning, when the contest was renewed, the Lapp ran from tree to tree, into each of which he thrust his head to his ears."
+    },
+    {
+     "id": "p002.s06",
+     "source": "The Giant looked on, thoroughly crestfallen at the exhibition of strength, but proposed that they have another trial."
+    },
+    {
+     "id": "p002.s07",
+     "source": "This time he who could throw an ice ax highest into the air should be declared the victor."
+    },
+    {
+     "id": "p002.s08",
+     "source": "The Giant threw first, and to such a height that the ax was almost lost to sight."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“That was a miserable throw,” said the Lapp."
+    },
+    {
+     "id": "p003.s02",
+     "source": "“When I throw it shall be so high that it will lodge upon a cloud.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“No, my dear!” shouted the Giant."
+    },
+    {
+     "id": "p004.s02",
+     "source": "“Rather let me acknowledge myself the weaker, than lose my splendid ax.”"
+    },
+    {
+     "id": "p004.s03",
+     "source": "Thus again the Lapp came off champion."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The next day, as the Lapp and the Giant were out in company, the Lapp gathered a number of willow twigs and began twisting them together."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“What are you about to do with those?” asked the Giant."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“I mean to carry away your treasure house,” answered the Lapp. [ ]"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Oh, my son,” sighed the Giant, “let me retain my house, and I will fill your hat with silver.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Very well,” replied the Lapp."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "While the Giant was away after the silver, the Lapp dug a pit, cut a hole in his hat crown and sat the hat over the pit."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“It’s a big hat you have,” complained the Giant."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Fill it up!” shouted the Lapp."
+    },
+    {
+     "id": "p012.s02",
+     "source": "“Otherwise I’ll throw you, as I would have done the ice ax, up into the clouds.”"
+    },
+    {
+     "id": "p012.s03",
+     "source": "And the Giant was compelled to give the Lapp such a sum of money that he was ever after a rich man. [ ]"
+    }
+   ],
+   "id": "p012"
+  }
+ ]
+}

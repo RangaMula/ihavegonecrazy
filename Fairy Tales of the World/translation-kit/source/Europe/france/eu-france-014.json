@@ -1,0 +1,421 @@
+{
+ "id": "eu-france-014",
+ "title": {
+  "id": "title",
+  "source": "Bonne-Biche"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Old French Fairy Tales",
+ "credits": "Ségur, Sophie, comtesse de (author, d. 1874)",
+ "gutenberg": "Project Gutenberg eBook #30129 — https://www.gutenberg.org/ebooks/30129 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/014 - Bonne-Biche.md",
+ "stats": {
+  "paragraphs": 26,
+  "segments": 61,
+  "words": 857
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "B eau-Minon had entered by a little passage, which seemed made expressly for him and had probably given notice to some one at the castle, as the gate opened without Blondine having called."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "She entered the court-yard but saw no one."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The door of the castle opened of itself."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Blondine entered the vestibule which was of rare white marble."
+    },
+    {
+     "id": "p003.s03",
+     "source": "All the doors of the castle now opened like the first and the princess passed through a suite of beautiful rooms."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "At last, in the back part of a charming salon, furnished with blue and gold, she perceived a white hind, lying upon a bed of fine and fragrant grasses."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Beau-Minon stood near her."
+    },
+    {
+     "id": "p004.s03",
+     "source": "The pretty hind saw Blondine, arose, and approached her."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"You are most welcome, Blondine,\" said she."
+    },
+    {
+     "id": "p005.s02",
+     "source": "\"My son Beau-Minon and I have expected you for a long time.\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "At these words, Blondine was much frightened."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Take courage, princess; you are with friends."
+    },
+    {
+     "id": "p007.s02",
+     "source": "I know the king your father and I love him and I love you also.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"Oh, madam,\" said Blondine, \"if you know the king my father, I pray you to take me to him."
+    },
+    {
+     "id": "p008.s02",
+     "source": "My absence must make him very wretched.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"My dear Blondine,\" said the hind, whose name was Bonne-Biche, sighing, \"it is not in my power to conduct you to your father."
+    },
+    {
+     "id": "p009.s02",
+     "source": "You are in the hands of the magician of the Forest of Lilacs."
+    },
+    {
+     "id": "p009.s03",
+     "source": "I myself am subject to his power which is superior to mine but I can send soft dreams to your father, which will reassure him as to your fate and let him know that you are safe with me.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"Oh, madam!\" said Blondine, in an agony of grief, \"shall I never again see my father whom I love so tenderly?"
+    },
+    {
+     "id": "p010.s02",
+     "source": "My poor father!\""
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"Dear Blondine, do not distress yourself as to the future."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Wisdom and prudence are always recompensed."
+    },
+    {
+     "id": "p011.s03",
+     "source": "You will see your father again but not now."
+    },
+    {
+     "id": "p011.s04",
+     "source": "In the meantime be good and docile."
+    },
+    {
+     "id": "p011.s05",
+     "source": "Beau-Minon and I will do all in our power to make you happy.\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Blondine sighed heavily and shed a few tears."
+    },
+    {
+     "id": "p012.s02",
+     "source": "She then reflected that to manifest such grief was a poor recompense for all the goodness of Bonne-Biche."
+    },
+    {
+     "id": "p012.s03",
+     "source": "She resolved, therefore, to control herself and to be cheerful."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Bonne-Biche took her to see the apartment they had prepared for her."
+    },
+    {
+     "id": "p013.s02",
+     "source": "The bedroom was hung with rose-colored silk embroidered with gold."
+    },
+    {
+     "id": "p013.s03",
+     "source": "The furniture was covered with white velvet worked with silks of the most brilliant hues."
+    },
+    {
+     "id": "p013.s04",
+     "source": "Every species of animal, bird and butterfly were represented in rare embroidery."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Adjoining Blondine's chamber was a small study."
+    },
+    {
+     "id": "p014.s02",
+     "source": "It was hung with sky-blue damask, embroidered with fine pearls."
+    },
+    {
+     "id": "p014.s03",
+     "source": "The furniture was covered with silver moiré, adorned with nails of turquoise."
+    },
+    {
+     "id": "p014.s04",
+     "source": "Two magnificent portraits, representing a young and superbly handsome woman and a strikingly attractive young man, hung on the walls."
+    },
+    {
+     "id": "p014.s05",
+     "source": "Their costumes indicated that they were of royal race."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"Whose portraits are these, madam?\" said Blondine to Bonne-Biche."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"I am forbidden to answer that question, dear Blondine."
+    },
+    {
+     "id": "p016.s02",
+     "source": "You will know later;—but this is the hour for dinner."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Come, Blondine, I am sure you are hungry.\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Blondine was in fact almost dying of hunger."
+    },
+    {
+     "id": "p017.s02",
+     "source": "She followed Bonne-Biche and they entered the dining-room where she saw a table strangely served."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "An enormous cushion of black satin was placed on the floor for Bonne-Biche."
+    },
+    {
+     "id": "p018.s02",
+     "source": "On the table before her was a vase filled with the choicest herbs, fresh and nutritious and near this vase was a golden bucket, filled with fresh and limpid water."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Opposite Bonne-Biche was a little stool for Beau-Minon while before him was a little porringer in gold, filled with little fried fish and the thighs of snipes."
+    },
+    {
+     "id": "p019.s02",
+     "source": "At one side was a bowl of rich crystal full of fresh milk."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Between Beau-Minon and Bonne-Biche a plate was placed for Blondine."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Her chair was of carved ivory covered with crimson velvet attached with nails of diamonds."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Before her was a gold plate richly chased, filled with delicious soup made of a young pullet and fig-birds, her glass and water-bottle were of carved rock-crystal, a muffin was placed by her side, her fork and spoon were of gold and her napkin was of linen, finer than anything she had ever seen."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "The table was served by gazelles who were marvellously adroit."
+    },
+    {
+     "id": "p021.s02",
+     "source": "They waited, carved and even divined the wishes of Blondine, Bonne-Biche and Beau-Minon."
+    },
+    {
+     "id": "p021.s03",
+     "source": "The dinner was exquisite—the chicken was splendid, the game and fish most delicate, the pastry and bonbons superlative."
+    },
+    {
+     "id": "p021.s04",
+     "source": "Blondine was hungry so she ate of all and found all excellent."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "After dinner, Bonne-Biche and Beau-Minon conducted the princess into the garden."
+    },
+    {
+     "id": "p022.s02",
+     "source": "She found there the most delicious fruits and lovely walks."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "After a charming walk, Blondine entered the castle with her new friends, much fatigued."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Bonne-Biche proposed that she retire, to which she agreed joyfully."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Blondine entered her chamber and found two gazelles waiting to attend her."
+    },
+    {
+     "id": "p024.s02",
+     "source": "They disrobed her with grace and adroitness, placed her in bed and seated themselves by her couch to watch over her."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Blondine was soon peacefully asleep—not, however, without having first thought of her father and wept bitterly over her cruel separation from him."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p026"
+  }
+ ]
+}

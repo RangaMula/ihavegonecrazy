@@ -1,0 +1,52 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-037",
+ "title": {
+  "id": "title",
+  "source": "The Miser"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/037 - The Miser.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 6,
+  "words": 160
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A MISER sold all that he had and bought a lump of gold, which he buried in a hole in the ground by the side of an old wall and went to look at daily."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One of his workmen observed his frequent visits to the spot and decided to watch his movements."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He soon discovered the secret of the hidden treasure, and digging down, came to the lump of gold, and stole it."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The Miser, on his next visit, found the hole empty and began to tear his hair and to make loud lamentations."
+    },
+    {
+     "id": "p001.s05",
+     "source": "A neighbor, seeing him overcome with grief and learning the cause, said, “Pray do not grieve so; but go and take a stone, and place it in the hole, and fancy that the gold is still lying there."
+    },
+    {
+     "id": "p001.s06",
+     "source": "It will do you quite the same service; for when the gold was there, you had it not, as you did not make the slightest use of it.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

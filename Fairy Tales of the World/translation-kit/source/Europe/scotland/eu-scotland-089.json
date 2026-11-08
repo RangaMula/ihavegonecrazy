@@ -1,0 +1,94 @@
+{
+ "id": "eu-scotland-089",
+ "title": {
+  "id": "title",
+  "source": "The Penitent"
+ },
+ "tradition": "Scotland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fables",
+ "credits": "Stevenson, Robert Louis (author, d. 1894)",
+ "gutenberg": "Project Gutenberg eBook #343 — https://www.gutenberg.org/ebooks/343 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Scotland/089 - The Penitent.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 9,
+  "words": 73
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A man met a lad weeping."
+    },
+    {
+     "id": "p001.s02",
+     "source": "“What do you weep for?” he asked."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“I am weeping for my sins,” said the lad."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“You must have little to do,” said the man."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The next day they met again."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Once more the lad was weeping."
+    },
+    {
+     "id": "p004.s03",
+     "source": "“Why do you weep now?” asked the man."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“I am weeping because I have nothing to eat,” said the lad."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“I thought it would come to that,” said the man."
+    }
+   ],
+   "id": "p006"
+  }
+ ]
+}

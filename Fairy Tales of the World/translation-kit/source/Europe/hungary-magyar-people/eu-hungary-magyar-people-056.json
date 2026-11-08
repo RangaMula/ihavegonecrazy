@@ -1,0 +1,91 @@
+{
+ "id": "eu-hungary-magyar-people-056",
+ "title": {
+  "id": "title",
+  "source": "THE LAMB WITH THE GOLDEN FLEECE. Kriza, ix"
+ },
+ "tradition": "Hungary (Magyar people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "The Folk-Tales of the Magyars",
+ "credits": "Kropf, Lajos (editor); Jones, W. Henry (editor); Kriza, János (contributor, d. 1875); Pap, Gyula (contributor, d. 1931); Erdélyi, János (contributor, d. 1868)",
+ "gutenberg": "Project Gutenberg eBook #42981 — https://www.gutenberg.org/ebooks/42981 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Hungary (Magyar people)/056 - THE LAMB WITH THE GOLDEN FLEECE. Kriza, ix.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 10,
+  "words": 103
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Cf. Round the Yule Log."
+    },
+    {
+     "id": "p001.s02",
+     "source": "\"Hans, who made the Princess laugh,\" p. 269."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Grimm , vol. ii."
+    },
+    {
+     "id": "p002.s02",
+     "source": "\"The Jew among the Thorns,\" p. 97 and Notes, p. 410, in which the Jew is compelled to dance to the sound of the fiddler."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Engel's Musical Myths , vol. ii."
+    },
+    {
+     "id": "p003.s02",
+     "source": "\"The Indefatigable Fiddler,\" p. 29, and the \"Ratcatcher of Hamelin,\" p. 37."
+    },
+    {
+     "id": "p003.s03",
+     "source": "(Also, Baring Gould's Curious Myths , p. 417.)"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Griechische und Albanische Märchen, von J. G. von Hahn, Leipzig , 1864, vol. i. p. 222, and vol. ii. p. 240.— Ladislaus Arany."
+    },
+    {
+     "id": "p004.s02",
+     "source": "\"The Sad Princess\" (in Hungarian).— Gaal , vol. iii."
+    },
+    {
+     "id": "p004.s03",
+     "source": "\"The Powerful Whistle.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p005"
+  }
+ ]
+}

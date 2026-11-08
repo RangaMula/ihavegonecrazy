@@ -1,0 +1,64 @@
+{
+ "id": "as-laos-007",
+ "title": {
+  "id": "title",
+  "source": "How a Dead Tiger Killed the Princess"
+ },
+ "tradition": "Laos",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Laos Folk-Lore of Farther India",
+ "credits": "Fleeson, Katherine Neville (author)",
+ "gutenberg": "Project Gutenberg eBook #35564 — https://www.gutenberg.org/ebooks/35564 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Laos/007 - How a Dead Tiger Killed the Princess.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 6,
+  "words": 210
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a king who had a daughter at whose birth a wise man foretold that she would be killed by a tiger when she was a maiden grown."
+    },
+    {
+     "id": "p001.s02",
+     "source": "In order that no animal might approach her, the king built her a house set upon one huge pillar, and there she and her attendants ever dwelt."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "And it fell upon a day, when the daughter was well grown, that one of the hunters, whose labor 33 it was to kill the tigers of the country, brought a dead one to the palace of the king."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The princess, seeing her dead enemy, came down from her tower and plucked a whisker from the tiger, and, as she blew her breath on it, she cried, “I do not fear thee, O my enemy, for thou art dead!”"
+    },
+    {
+     "id": "p002.s03",
+     "source": "But the poison, which is in the whiskers of a tiger, entered into the blood of the princess, and she died."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Then did the king make a proclamation, and sent messengers throughout all his realm, commanding that, when a tiger was killed, all his whiskers be immediately pulled out and burned, that a tiger may not be able to slay when dead; and until this day, the people obey the command of the king."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

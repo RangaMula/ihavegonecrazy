@@ -1,0 +1,62 @@
+{
+ "id": "eu-brittany-breton-people-091",
+ "title": {
+  "id": "title",
+  "source": "Tonquédec"
+ },
+ "tradition": "Brittany (Breton people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Brittany",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Brittany (Breton people)/091 - Tonquédec.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 7,
+  "words": 193
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Some miles farther down the river, but on its opposite side, is the imposing castle of Tonquédec, perhaps the finest remnant of the medieval military architecture of Brittany."
+    },
+    {
+     "id": "p001.s02",
+     "source": "It has always remained in the family of the Viscounts of Coêtman, who ranked among the foremost of the Breton nobility, though one of them espoused the cause of the Constable Clisson against Duke John IV, and had the anguish of seeing his ancestral fortress razed to the ground."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Under Henry IV, however, the castle was restored, only to be again demolished by order of Cardinal Richelieu, who strongly and forcibly disapproved of such powerful fortalices."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "It had an outer enclosure, and had to be entered by a drawbridge, and it was strengthened in every way conceivable to the military art of the times."
+    },
+    {
+     "id": "p002.s02",
+     "source": "It was surrounded by dwellings for the convenience of the seigneur’s retainers, a fine salle d’armes still remaining."
+    },
+    {
+     "id": "p002.s03",
+     "source": "To the keep, four stories high, a flying bridge led, in order to facilitate the withdrawal of the garrison in case of siege."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Behind walls ten feet thick, so long as food and ammunition lasted, the inmates could hold the enemy in scorn."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

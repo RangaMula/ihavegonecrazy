@@ -1,0 +1,50 @@
+{
+ "id": "am-iroquois-haudenosaunee-people-030",
+ "title": {
+  "id": "title",
+  "source": "Origin Of Tobacco"
+ },
+ "tradition": "Iroquois (Haudenosaunee) people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Iroquois. (1883 N 02 / 1880-1881 (pages 47-116))",
+ "credits": "Smith, Erminnie A. (Erminnie Adele) (author, d. 1886)",
+ "gutenberg": "Project Gutenberg eBook #46140 — https://www.gutenberg.org/ebooks/46140 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Iroquois (Haudenosaunee) people/030 - Origin Of Tobacco.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 4,
+  "words": 95
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A boat filled with medicine men passed near a river bank, where a loud voice had proclaimed to all the inhabitants to remain indoors; but some, disobeying, died immediately."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The next day the boat was sought for and found, containing a strange being at each end, both fast asleep."
+    },
+    {
+     "id": "p001.s03",
+     "source": "A loud voice was then heard saying that the destroying of these creatures would result in a great blessing to the Indian."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "So they were decoyed into a neighboring council-house, where they were put to death and burned, and from their ashes rose the tobacco plant."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

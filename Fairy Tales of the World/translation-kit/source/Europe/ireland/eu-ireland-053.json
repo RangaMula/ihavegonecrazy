@@ -1,0 +1,37 @@
+{
+ "id": "eu-ireland-053",
+ "title": {
+  "id": "title",
+  "source": "Giants"
+ },
+ "tradition": "Ireland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy and Folk Tales of the Irish Peasantry",
+ "credits": "Yeats, W. B. (William Butler) (editor, d. 1939)",
+ "gutenberg": "Project Gutenberg eBook #33887 — https://www.gutenberg.org/ebooks/33887 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Ireland/053 - Giants.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 1,
+  "words": 39
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "When the pagan gods of Ireland—the Tuath-De-Danān —robbed of worship and offerings, grew smaller and smaller in the popular imagination, until they turned into the fairies, the pagan heroes grew bigger and bigger, until they turned into the giants."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p002"
+  }
+ ]
+}

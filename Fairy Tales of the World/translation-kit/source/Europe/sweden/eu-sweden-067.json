@@ -1,0 +1,128 @@
+{
+ "id": "eu-sweden-067",
+ "title": {
+  "id": "title",
+  "source": "The Old Man of Lagga"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/067 - The Old Man of Lagga.md",
+ "stats": {
+  "paragraphs": 9,
+  "segments": 13,
+  "words": 245
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Near Lagga Church, in the municipality of Langhundra, is a singularly formed mountain."
+    },
+    {
+     "id": "p001.s02",
+     "source": "On the side of it toward the church is an opening, from which, it is said, two paths lead—the one south to a hill near the so called “Meadow Watcher’s Cottage,” the other north to Kashögen, near Kasby estate."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "In the mountain lived a giant called Lagge Gubben—old man Lagge—who, when last seen, was at least five hundred years old, and his hair as white as the feathers of a dove."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Early one morning a peasant named Jacob going to the village of Lagga, passed the mountain, when the old mountain man came out and saluted him: “Good morning, Joppe!"
+    },
+    {
+     "id": "p003.s02",
+     "source": "Will you come in and drink healths with me?”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“No, thank you,” replied Jacob, who had no desire for such companionship."
+    },
+    {
+     "id": "p004.s02",
+     "source": "“If you have more than you are able to drink, save it until morning, for there is another day coming.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“That is good advice,” said Lagga."
+    },
+    {
+     "id": "p005.s02",
+     "source": "“Had I known that before, I should have been a richer man, now.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“It is not yet too late,” replied the peasant."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Yes it is, for I must leave here in the morning on account of the church bells,” said the giant, shaking his fist at Lagga clock tower. [ ]"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“You will come again, never fear,” said Jacob consolingly."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Yes, when Lagga Fjord becomes a field and Ostund Lake a meadow,” replied the giant with a sigh, and disappeared into the mountain. [ ]"
+    }
+   ],
+   "id": "p009"
+  }
+ ]
+}

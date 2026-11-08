@@ -1,0 +1,44 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-059",
+ "title": {
+  "id": "title",
+  "source": "The Fox Who Had Lost His Tail"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/059 - The Fox Who Had Lost His Tail.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 118
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A FOX caught in a trap escaped, but in so doing lost his tail."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Thereafter, feeling his life a burden from the shame and ridicule to which he was exposed, he schemed to convince all the other Foxes that being tailless was much more attractive, thus making up for his own deprivation."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He assembled a good many Foxes and publicly advised them to cut off their tails, saying that they would not only look much better without them, but that they would get rid of the weight of the brush, which was a very great inconvenience."
+    },
+    {
+     "id": "p001.s04",
+     "source": "One of them interrupting him said, “If you had not yourself lost your tail, my friend, you would not thus counsel us.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

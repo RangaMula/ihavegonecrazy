@@ -1,0 +1,49 @@
+{
+ "id": "af-south-africa-034",
+ "title": {
+  "id": "title",
+  "source": "Why Has Jackal A Long Black Stripe On His Back?"
+ },
+ "tradition": "South Africa",
+ "continent": "Africa",
+ "source_lang": "en",
+ "source_book": "South-African Folk-Tales",
+ "credits": "Honey, James A. (author)",
+ "gutenberg": "Project Gutenberg eBook #38339 — https://www.gutenberg.org/ebooks/38339 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Africa/South Africa/034 - Why Has Jackal A Long Black Stripe On His Back.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 4,
+  "words": 94
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The Sun, it is said, was one day on earth, and the men who were travelling saw him sitting by the wayside, but passed him without notice."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Jackal, however, who came after them, and saw him also sitting, went to him and said, \"Such a fine little child is left behind by the men.\""
+    },
+    {
+     "id": "p001.s03",
+     "source": "He then took Sun up, and put it into his awa-skin (on his back)."
+    },
+    {
+     "id": "p001.s04",
+     "source": "When it burnt him, he said, \"Get down,\" and shook himself; but Sun stuck fast to his back, and burnt Jackal's back black from that day."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p002"
+  }
+ ]
+}

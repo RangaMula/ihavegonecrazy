@@ -1,0 +1,121 @@
+{
+ "id": "eu-sweden-045",
+ "title": {
+  "id": "title",
+  "source": "The Wood and the Sea Nymphs"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/045 - The Wood and the Sea Nymphs.md",
+ "stats": {
+  "paragraphs": 8,
+  "segments": 13,
+  "words": 317
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Both wood nymphs and sea nymphs belong to the giant family, and thus are related."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "They often hold communication with each other, although the wood nymphs always hold themselves a little above their cousins, which frequently occasions differences between them."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "A peasant, lying in the woods on the shores of Lake Ömmeln, heard early one morning voices at the lake side engaged in vehement conversation."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Conjecturing that it was the wood nymphs and sea nymphs quarreling, he crept through the underbrush to a spot near where they sat, and listened to the following dialogue:"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Sea Nymph —“You shall not say that you are better than I, for I have five golden halls and fifty silver cans in each hall.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Wood Nymph —“I have a mountain which is three miles long and six thousand feet high, and under that mountain is another, ten times higher and formed entirely of bones of the people I have killed.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "When the peasant heard this he became so alarmed [ ] that he ran a league away, without stopping."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Thus he did not learn which was victorious, but it was the wood nymphs without doubt, as they have always been a little superior to the others. [ ]"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "The wood nymph dwells in large forests, and is described as a beautiful young woman, when seen face to face; but if her back be turned to one it is hollow, like a dough-trough, or resembles a block stub."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Sometimes, instead of a hollow back, she is adorned with a bushy fox tail."
+    },
+    {
+     "id": "p008.s03",
+     "source": "The sea nymph dwells, as indicated by the name, at the bottom of seas and lakes, and is clad in a skirt so snow-white that it sparkles in the sunlight."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Over the skirt she wears a light blue jacket."
+    },
+    {
+     "id": "p008.s05",
+     "source": "Usually her appearance is the forerunner of a storm; she is then seen sitting upon a billow combing her golden hair. ↑"
+    }
+   ],
+   "id": "p008"
+  }
+ ]
+}

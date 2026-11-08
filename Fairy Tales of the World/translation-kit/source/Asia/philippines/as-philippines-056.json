@@ -1,0 +1,104 @@
+{
+ "id": "as-philippines-056",
+ "title": {
+  "id": "title",
+  "source": "The Golden Rule"
+ },
+ "tradition": "Philippines",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Filipino Popular Tales",
+ "credits": "Fansler, Dean Spruill (editor)",
+ "gutenberg": "Project Gutenberg eBook #8299 — https://www.gutenberg.org/ebooks/8299 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Philippines/056 - The Golden Rule.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 13,
+  "words": 224
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Narrated by Cipriano Seráfica, a Pangasinan from Mangaldan, Pangasinan."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "A long time ago there lived in a town a couple who had a son."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The father of the husband lived with his son and daughter-in-law happily for many years."
+    },
+    {
+     "id": "p002.s03",
+     "source": "But when he grew very old, he became very feeble."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Every time he ate at the table, he always broke a plate, because his hands trembled so."
+    },
+    {
+     "id": "p002.s05",
+     "source": "The old man’s awkwardness soon made his son angry, and one day he made a wooden plate for his father to eat out of."
+    },
+    {
+     "id": "p002.s06",
+     "source": "The poor old man had to eat all his food from this wooden plate."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "When the grandson noticed what his father had done, he took some tools and went down under the house."
+    },
+    {
+     "id": "p003.s02",
+     "source": "There he took a piece of board and began to carve it."
+    },
+    {
+     "id": "p003.s03",
+     "source": "When his father saw him and said to him, “What are you doing, son?” the boy replied to him, “Father, I am making wooden plates for you and my mother when you are old.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "As the son uttered these words, tears gushed from the father’s eyes."
+    },
+    {
+     "id": "p004.s02",
+     "source": "From that time on, the old man was always allowed to eat at the table with the rest of the family, nor was he made to eat from a wooden plate."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "MORAL: Do unto others as you want them to do unto you."
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

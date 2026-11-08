@@ -1,0 +1,114 @@
+{
+ "id": "eu-sweden-058",
+ "title": {
+  "id": "title",
+  "source": "The Snipe"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/058 - The Snipe.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 14,
+  "words": 288
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The snipe, as is well known, is a bird which inhabits low, marshy meadows, and which, in flight, [ ] makes a noise with its wings not unlike the neighing of a horse."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "A farmer, who himself never looked after his property, had in his employ a lazy and negligent servant."
+    },
+    {
+     "id": "p002.s02",
+     "source": "One dry summer the man rode his master’s horse, many days in succession, to a pasture where there was no water, without first giving it drink, as he had been instructed."
+    },
+    {
+     "id": "p002.s03",
+     "source": "So the poor animal was thus left to suffer through the long dry period."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "It happened one day that the farmer would go to the city, and commanded the servant to fetch the horse from the pasture."
+    },
+    {
+     "id": "p003.s02",
+     "source": "The man went, but search where he would, no horse could be found."
+    },
+    {
+     "id": "p003.s03",
+     "source": "The servant not returning in season, his master set out after him, but neither could he find the animal."
+    },
+    {
+     "id": "p003.s04",
+     "source": "It had disappeared from the pasture completely, and was not found again."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Some days later, when the farmer was again out, continuing the search, to his surprise he heard a neighing in the air."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Soon after he observed his horse, as he supposed, standing and drinking in an adjoining meadow."
+    },
+    {
+     "id": "p004.s03",
+     "source": "“Are you there, Grålle?” cried the farmer, and hastened to catch the horse."
+    },
+    {
+     "id": "p004.s04",
+     "source": "His shout was answered with a neigh."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“ Grålle, Grålle, my boy!” continued the farmer, in persuasive tones and was about to grasp the halter, when the horse was transformed into a bird, which, with another neigh, flew into the air."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "From that day the farmer took care of his own horses, and before all else he saw to it that they did not want for water when they went to pasture. [ ]"
+    }
+   ],
+   "id": "p006"
+  }
+ ]
+}

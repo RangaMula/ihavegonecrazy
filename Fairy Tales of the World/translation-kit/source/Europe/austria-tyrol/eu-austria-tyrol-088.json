@@ -1,0 +1,67 @@
+{
+ "id": "eu-austria-tyrol-088",
+ "title": {
+  "id": "title",
+  "source": "The Old Town Of Flies"
+ },
+ "tradition": "Austria (Tyrol)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales and Legends of the Tyrol",
+ "credits": "Günther, Marie A., countess (author)",
+ "gutenberg": "Project Gutenberg eBook #46047 — https://www.gutenberg.org/ebooks/46047 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Austria (Tyrol)/088 - The Old Town Of Flies.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 7,
+  "words": 246
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Where the village of Flies now stands, in the Upper-Inn valley, on a sunny slope of the right bank of the river, not far from the Pontlaz bridge, there used to be, in times gone by, a rich and magnificent city, with splendid houses, strong walls, and gigantic towers, surrounded by deep moats and ditches."
+    },
+    {
+     "id": "p001.s02",
+     "source": "But the inhabitants became proud and haughty, and practised all sorts of iniquities, devoid of any fear of Divine punishment."
+    },
+    {
+     "id": "p001.s03",
+     "source": "They were constantly quarrelling with the villagers of the surrounding hamlets, because they seized more and more of their ground, and robbed them wherever they could of their little cottages and farms."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "One day they commenced felling a large forest, which belonged to some neighbouring farmers, who took their loss so much to heart that they nearly died of grief, for they had no chance of redress, as even the judges themselves were in terror of the cruel citizens."
+    },
+    {
+     "id": "p002.s02",
+     "source": "But there was still One Just Judge, who bends His head before no earthly power, and He brought a fearful punishment upon the guilty city."
+    },
+    {
+     "id": "p002.s03",
+     "source": "From a branch of the Venete Alps, a mountain fell upon the town, which it crushed, together with all its inhabitants, whilst the surrounding farms remained unhurt."
+    },
+    {
+     "id": "p002.s04",
+     "source": "These peasants then became proprietors of the new-formed ground above the city, upon which they have planted young forests and laid down grass, and the now standing village of Flies has been built upon the tomb of the engulfed city."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  }
+ ]
+}

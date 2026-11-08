@@ -1,0 +1,108 @@
+{
+ "id": "eu-denmark-099",
+ "title": {
+  "id": "title",
+  "source": "Sixth Evening"
+ },
+ "tradition": "Denmark",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy Tales of Hans Christian Andersen",
+ "credits": "Andersen, H. C. (Hans Christian) (author, d. 1875)",
+ "gutenberg": "Project Gutenberg eBook #27200 — https://www.gutenberg.org/ebooks/27200 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Denmark/099 - Sixth Evening.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 17,
+  "words": 245
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "\"I've been in Upsala,\" said the Moon: \"I looked down upon the great plain covered with coarse grass, and upon the barren fields."
+    },
+    {
+     "id": "p001.s02",
+     "source": "I mirrored my face in the Tyris river, while the steamboat drove the fish into the rushes."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Beneath me floated the waves, throwing long shadows on the so-called graves of Odin, Thor, and Friga."
+    },
+    {
+     "id": "p001.s04",
+     "source": "In the scanty turf that covers the hill-side names have been cut."
+    },
+    {
+     "id": "p001.s05",
+     "source": "There is no monument here, no memorial on which the traveller can have his name carved, no rocky wall on whose surface he can get it painted; so visitors have the turf cut away for that purpose."
+    },
+    {
+     "id": "p001.s06",
+     "source": "The naked earth peers through in the form of great letters and names; these form a network over the whole hill."
+    },
+    {
+     "id": "p001.s07",
+     "source": "Here is an immortality, which lasts till the fresh turf grows!"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"Up on the hill stood a man, a poet."
+    },
+    {
+     "id": "p002.s02",
+     "source": "He emptied the mead horn with the broad silver rim, and murmured a name."
+    },
+    {
+     "id": "p002.s03",
+     "source": "He begged the winds not to betray him, but I heard the name."
+    },
+    {
+     "id": "p002.s04",
+     "source": "I knew it."
+    },
+    {
+     "id": "p002.s05",
+     "source": "A count's coronet sparkles above it, and therefore he did not speak it out."
+    },
+    {
+     "id": "p002.s06",
+     "source": "I smiled, for I knew that a poet's crown adorns his own name."
+    },
+    {
+     "id": "p002.s07",
+     "source": "The nobility of Eleanora d'Este is attached to the name of Tasso."
+    },
+    {
+     "id": "p002.s08",
+     "source": "And I also know where the Rose of Beauty blooms!\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Thus spake the Moon, and a cloud came between us."
+    },
+    {
+     "id": "p003.s02",
+     "source": "May no cloud separate the poet from the rose!"
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

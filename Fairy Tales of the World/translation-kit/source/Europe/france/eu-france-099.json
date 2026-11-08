@@ -1,0 +1,291 @@
+{
+ "id": "eu-france-099",
+ "title": {
+  "id": "title",
+  "source": "Le Grain De Moutarde"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Contes et légendes. 1re Partie",
+ "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #18873 — https://www.gutenberg.org/ebooks/18873 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/099 - Le Grain De Moutarde.md",
+ "stats": {
+  "paragraphs": 21,
+  "segments": 36,
+  "words": 524
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Il y avait une jeune femme dans l'Inde qui avait un petit enfant."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Un jour le petit enfant tomba dangereusement malade, et bientôt le pauvre petit mourut."
+    },
+    {
+     "id": "p001.s03",
+     "source": "La pauvre mère prit le petit enfant dans ses bras, et alla de porte en porte, demandant si personne ne pouvait lui donner de remède pour son fils."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Les voisins dirent: \"La pauvre femme est folle de porter son enfant mort d'une maison à l'autre!\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Un vieillard vit la pauvre jeune mère, et pensa: \"Oh, la pauvre femme n'a jamais vu la mort."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Elle ne sait pas que son petit enfant est mort."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Il faut que je la console.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Le vieillard s'approcha de la pauvre femme, et dit: \"Ma pauvre femme, je n'ai aucun remède pour votre enfant, mais je connais un médecin qui vous donnera un remède.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "La jeune mère dit: \"Dites-moi, je vous en prie, où est le médecin qui peut me donner un remède pour mon enfant malade.\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"Allez trouver le dieu Bouddha; il vous donnera un remède!\" dit le vieillard."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "La pauvre femme remercia le vieillard, et partit en toute hâte pour aller trouver Bouddha."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Quand elle arriva dans le temple, elle dit:"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"Seigneur et maître, avez-vous un remède pour mon enfant malade?\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Non, ma bonne femme, mais je sais un remède.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"Quel est ce remède?\" dit la mère vivement."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"C'est un grain de moutarde."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Allez me chercher un grain de moutarde."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Mais le grain de moutarde doit venir d'une maison où personne ne soit jamais mort.\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "La pauvre femme partit, en toute hâte, avec son enfant mort dans les bras."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Elle alla de porte en porte, demandant un grain de moutarde."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Tout le monde lui donna ce qu'elle demandait, et quand on lui avait donné le petit grain, elle disait:"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"N'est-il mort personne dans la maison? ni père, ni fils, ni serviteur?\""
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Et dans chaque maison on lui disait: \"Beaucoup de personnes sont mortes ici, car les morts sont beaucoup plus nombreux que les vivants.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "La pauvre femme visita beaucoup de maisons, mais elle reçut toujours la même réponse."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Sa fatigue était grande, et elle dit tristement: \"Dans chaque maison que j'ai visitée il est mort quelqu'un, ou un père, ou un fils, ou un serviteur."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Je ne suis pas la seule mère au monde qui ait perdu un fils.\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Alors elle porta son pauvre petit enfant mort dans une forêt, où elle creusa une tombe, et l'enterra."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Puis elle alla au temple, et tomba à genoux devant Bouddha."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Avez-vous trouvé le grain de moutarde?\" demanda-t-il à la pauvre jeune mère."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Non,\" dit-elle, \"tous les gens du village ont perdu un membre de leur famille."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Ils m'ont tous dit: 'Les morts sont beaucoup plus nombreux que les vivants.'\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"Oui,\" dit Bouddha, \"cela est vrai."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Sur la terre tout passe."
+    },
+    {
+     "id": "p019.s03",
+     "source": "C'est la loi universelle.\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "La pauvre femme demanda alors la permission de rester dans le temple, et elle passa le reste de sa vie à faire du bien."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Enfin elle mourut aussi et passa dans l'endroit immortel des Hindous, dans le Nirvana, où elle ne souffrit plus jamais, et où elle trouva le bonheur complet et le repos qu'elle cherchait depuis si longtemps."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p021"
+  }
+ ]
+}

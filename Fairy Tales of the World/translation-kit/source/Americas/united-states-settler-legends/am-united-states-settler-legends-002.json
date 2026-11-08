@@ -1,0 +1,44 @@
+{
+ "id": "am-united-states-settler-legends-002",
+ "title": {
+  "id": "title",
+  "source": "Catskill Gnomes"
+ },
+ "tradition": "United States (settler legends)",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths and Legends of Our Own Land — Complete",
+ "credits": "Skinner, Charles M. (Charles Montgomery) (author, d. 1907)",
+ "gutenberg": "Project Gutenberg eBook #6615 — https://www.gutenberg.org/ebooks/6615 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/United States (settler legends)/002 - Catskill Gnomes.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 162
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Behind the New Grand Hotel, in the Catskills, is an amphitheatre of mountain that is held to be the place of which the Mohicans spoke when they told of people there who worked in metals, and had bushy beards and eyes like pigs."
+    },
+    {
+     "id": "p001.s02",
+     "source": "From the smoke of their forges, in autumn, came the haze of Indian summer; and when the moon was full, it was their custom to assemble on the edge of a precipice above the hollow and dance and caper until the night was nigh worn away."
+    },
+    {
+     "id": "p001.s03",
+     "source": "They brewed a liquor that had the effect of shortening the bodies and swelling the heads of all who drank it, and when Hudson and his crew visited the mountains, the pygmies held a carouse in his honor and invited him to drink their liquor."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The crew went away, shrunken and distorted by the magic distillation, and thus it was that Rip Van Winkle found them on the eve of his famous sleep."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

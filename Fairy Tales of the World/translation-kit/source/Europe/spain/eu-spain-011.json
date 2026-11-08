@@ -1,0 +1,44 @@
+{
+ "id": "eu-spain-011",
+ "title": {
+  "id": "title",
+  "source": "The Chronicles"
+ },
+ "tradition": "Spain",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Legends & Romances of Spain",
+ "credits": "Spence, Lewis (author, d. 1955)",
+ "gutenberg": "Project Gutenberg eBook #38530 — https://www.gutenberg.org/ebooks/38530 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Spain/011 - The Chronicles.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 178
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "But if the majority of the cantares de gesta are irreplaceable as regards their original form, we find fragments of them in the ancient chronicles of Spain."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Thus the General Chronicle of Spain ( c. 1252), which, according to the latest research, is believed to have undergone at least three specific alterations or rearrangements of its text, tells the stories of Bernaldo de Carpio, Fernán González, and the seven Children of Lara, and provides sketches of Charlemagne, while its latter portion recounts the history of the Cid, and at times even appeals to the cantares as its authority for such and such an episode."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Many of the passages in the chronicles, too, are obviously copied in their entirety from certain cantares ."
+    },
+    {
+     "id": "p001.s04",
+     "source": "So strongly, indeed, do they retain the assonant verse-formation typical of the cantares that many of the later balladeers seem easily to have cast them into verse again, especially those relating to Bernaldo de Carpio and the Infantes de Lara, and in this manner they appeared once more in the cancioneros , or collections of folk-songs."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

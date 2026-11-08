@@ -1,0 +1,818 @@
+{
+ "id": "as-japan-100",
+ "title": {
+  "id": "title",
+  "source": "The Sad Story Of The Yaoya’S Daughter"
+ },
+ "tradition": "Japan",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Japanese Fairy Tales",
+ "credits": "James, Grace (author)",
+ "gutenberg": "Project Gutenberg eBook #35853 — https://www.gutenberg.org/ebooks/35853 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Japan/100 - The Sad Story Of The Yaoya’S Daughter.md",
+ "stats": {
+  "paragraphs": 55,
+  "segments": 117,
+  "words": 1345
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was a wandering ballad-singer who came to a great house in Yedo where they wished to be entertained."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“Will you have a dance or a song?” said the ballad-singer; “or shall I tell you a story?”"
+    },
+    {
+     "id": "p002.s02",
+     "source": "The people of the house bade him tell a story."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“Shall it be a tale of love or a tale of war?” said the ballad-singer."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Oh, a tale of love,” they said."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Will you have a sad tale or a merry?” asked the ballad-singer."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "They were all agreed that they would hear a sad tale."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Well, then,” said the ballad-singer, “listen, and I will tell you the sad story of the Yaoya’s daughter.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "So he told this tale."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "The Yaoya was a poor hard-working man, but his daughter was the sweetest thing in Yedo."
+    },
+    {
+     "id": "p010.s02",
+     "source": "You must know she was one of the five beauties of the city, that grew like five cherry-trees in the time of the spring blossoming."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "In autumn the hunters lure the wild deer with the sound of the flute."
+    },
+    {
+     "id": "p011.s02",
+     "source": "The deer are deceived, for they believe that they hear the voices of their mates."
+    },
+    {
+     "id": "p011.s03",
+     "source": "So are they trapped and slain."
+    },
+    {
+     "id": "p011.s04",
+     "source": "For like calls to like."
+    },
+    {
+     "id": "p011.s05",
+     "source": "Youth calls to youth, beauty to beauty, love to love."
+    },
+    {
+     "id": "p011.s06",
+     "source": "This is law, and this law was the undoing of the Yaoya’s daughter."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "When there was a great fire in Yedo, so great that more than the half of the city was burned, the Yaoya’s house was ruined also."
+    },
+    {
+     "id": "p012.s02",
+     "source": "And the Yaoya and his wife and his daughter had no roof over them, nor anywhere to lay their heads."
+    },
+    {
+     "id": "p012.s03",
+     "source": "So they went to a Buddhist temple for shelter and stayed there many days, till their house should be rebuilt."
+    },
+    {
+     "id": "p012.s04",
+     "source": "Ah me, for the Yaoya’s daughter!"
+    },
+    {
+     "id": "p012.s05",
+     "source": "Every morning at sunrise she bathed in the spring of clean water that was near the temple."
+    },
+    {
+     "id": "p012.s06",
+     "source": "Her eyes were bright and her cheeks ruddy."
+    },
+    {
+     "id": "p012.s07",
+     "source": "Then she would put on her blue gown and sit by the water-side to comb her long hair."
+    },
+    {
+     "id": "p012.s08",
+     "source": "She was a sweet and slender thing, scarce fifteen years old."
+    },
+    {
+     "id": "p012.s09",
+     "source": "Her name was O Schichi."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Sweep the temple and the temple courts,” her father bade her. “’Tis well we should do so much for the good priests who give us shelter.”"
+    },
+    {
+     "id": "p013.s02",
+     "source": "So O Schichi took the broom and swept."
+    },
+    {
+     "id": "p013.s03",
+     "source": "And as she laboured she sang merrily, and the grey precincts of the temple grew bright."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Now there was a young acolyte who served in the holy place."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Gentle he was and beautiful."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Not a day passed but he heard the singing of O Schichi; not a day passed but he set eyes upon her, going her ways, so light and slender, in the ancient courts of the temple."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "It was not long before he loved her."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Youth calls to youth, beauty to beauty, love to love."
+    },
+    {
+     "id": "p015.s03",
+     "source": "It was not long before she loved him."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Secretly they met together in the temple grove."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Hand in hand they went, her head against his arm."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“Ah,” she cried, “that such a thing should be!"
+    },
+    {
+     "id": "p017.s02",
+     "source": "I am happy and unhappy."
+    },
+    {
+     "id": "p017.s03",
+     "source": "Why do I love you, my own?”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“Because of the power of Karma,” said the acolyte."
+    },
+    {
+     "id": "p018.s02",
+     "source": "“Nevertheless, we sin, O heart’s desire, grievously we sin, and I know not what may come of it.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“Alas,” she said, “will the gods be angry with us, and we so young?”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“I cannot tell,” he said; “but I am afraid.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Then the two of them clung together, trembling and weeping."
+    },
+    {
+     "id": "p021.s02",
+     "source": "But they pledged themselves to each other for the space of many existences."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "The Yaoya had his dwelling in the quarter of the city called Honjo, and presently his house was rebuilt which had been destroyed by the fire."
+    },
+    {
+     "id": "p022.s02",
+     "source": "He and his wife were glad, for they said, “Now we shall go home.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "O Schichi hid her face with her sleeve and wept bitter tears."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“Child, what ails you?” said her mother."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "O Schichi wept."
+    },
+    {
+     "id": "p025.s02",
+     "source": "“Oh! oh! oh!” she cried, and swayed herself to and fro."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“Why, maid, what is it?” said her father."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Still O Schichi wept."
+    },
+    {
+     "id": "p027.s02",
+     "source": "“Oh! oh! oh!” she cried, and swayed herself to and fro."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "That night she went to the grove."
+    },
+    {
+     "id": "p028.s02",
+     "source": "There was the acolyte, very pale and sorrowful, beneath the trees."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“They will part us,” she cried, “O my dear heart’s desire."
+    },
+    {
+     "id": "p029.s02",
+     "source": "The dear gods are angry with us, and we so young.”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Ah,” he said, “I was afraid...."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Farewell, dear maid, O little maid, sweet and slender."
+    },
+    {
+     "id": "p030.s03",
+     "source": "Remember we are pledged to one another for the space of many existences.”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Then the two of them clung together, trembling and weeping, and they bade farewell a thousand times."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "The next day they bore O Schichi home to Honjo."
+    },
+    {
+     "id": "p032.s02",
+     "source": "She grew languid and listless."
+    },
+    {
+     "id": "p032.s03",
+     "source": "White she grew, white as the buckwheat flower."
+    },
+    {
+     "id": "p032.s04",
+     "source": "She drooped and she failed."
+    },
+    {
+     "id": "p032.s05",
+     "source": "No longer was she numbered with the five beauties of Yedo, nor likened to a cherry-tree in the time of the spring blossoming."
+    },
+    {
+     "id": "p032.s06",
+     "source": "All the day long she brooded silently."
+    },
+    {
+     "id": "p032.s07",
+     "source": "At night she lay awake in her low bed."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“Oh! oh!” she moaned, “the weary, weary night!"
+    },
+    {
+     "id": "p033.s02",
+     "source": "Shall I never see him?"
+    },
+    {
+     "id": "p033.s03",
+     "source": "Must I die of longing?"
+    },
+    {
+     "id": "p033.s04",
+     "source": "Oh! oh! the weary, weary night....”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Her eyes grew large and burning bright."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“Alas! poor maid,” said her father."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "“I am afraid ...” said her mother."
+    },
+    {
+     "id": "p036.s02",
+     "source": "“She will lose her wits...."
+    },
+    {
+     "id": "p036.s03",
+     "source": "She does not weep any more.”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "At last O Schichi arose and took straw and made it into a bundle; and she put charcoal in the bundle and laid it beneath the gallery of her father’s house."
+    },
+    {
+     "id": "p037.s02",
+     "source": "Then she set fire to the straw and the charcoal, and the whole burnt merrily."
+    },
+    {
+     "id": "p037.s03",
+     "source": "Furthermore the wood of her father’s house took light and the house was burnt to the ground."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“I shall see him; I shall see him!” shrieked O Schichi, and fell in a swoon."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Howbeit all the city knew that she had set fire to her father’s house."
+    },
+    {
+     "id": "p039.s02",
+     "source": "So she was taken before the judge to be tried for her wrong-doing."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "“Child,” said the judge, “what made you do this thing?”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "“I was mad,” she said, “I did it for love’s sake."
+    },
+    {
+     "id": "p041.s02",
+     "source": "I said, ‘I will burn the house, we shall have nowhere to lay our heads, then we shall take shelter at the temple; I will see my lover.’"
+    },
+    {
+     "id": "p041.s03",
+     "source": "Lord, I have not seen him nor heard of him these many, many moons.”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“Who is your lover?” said the judge."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "Then she told him."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "Now as for the law of the city, it was hard and could not be altered."
+    },
+    {
+     "id": "p044.s02",
+     "source": "Death was the penalty for the crime of the Yaoya’s daughter."
+    },
+    {
+     "id": "p044.s03",
+     "source": "Only a child might escape."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“My little maid,” the judge said, “are you perhaps twelve years old?”"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "“Nay, lord,” she answered."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“Thirteen, then, or fourteen?"
+    },
+    {
+     "id": "p047.s02",
+     "source": "The gods send you may be fourteen."
+    },
+    {
+     "id": "p047.s03",
+     "source": "You are little and slender.”"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "“Lord,” she said, “I am fifteen.”"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "“Alas, my poor maid,” said the judge, “you are all too old.”"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "So they made her stand upon the bridge of Nihonbashi."
+    },
+    {
+     "id": "p050.s02",
+     "source": "And they told her story aloud; they called it from the house-tops so that all might hear."
+    },
+    {
+     "id": "p050.s03",
+     "source": "There she was for all the world to look upon."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "Every day for seven days she stood upon the bridge of Nihonbashi, and drooped in the glare of the sun and of men’s glances."
+    },
+    {
+     "id": "p051.s02",
+     "source": "Her face was white as the flower of the buckwheat."
+    },
+    {
+     "id": "p051.s03",
+     "source": "Her eyes were wide and burning bright."
+    },
+    {
+     "id": "p051.s04",
+     "source": "She was the most piteous thing under the sky."
+    },
+    {
+     "id": "p051.s05",
+     "source": "The tender-hearted wept to see her."
+    },
+    {
+     "id": "p051.s06",
+     "source": "They said, “Is this the Yaoya’s daughter that was one of the five beauties of Yedo?”"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "After the seven days were passed they bound O Schichi to a stake, and they piled faggots of wood about her and set the faggots alight."
+    },
+    {
+     "id": "p052.s02",
+     "source": "Soon the thick smoke rose."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "“It was all for love,” she cried with a loud voice."
+    },
+    {
+     "id": "p053.s02",
+     "source": "And when she had said this, she died."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "“The tale is told,” said the ballad-singer."
+    },
+    {
+     "id": "p055.s02",
+     "source": "“Youth calls to youth, beauty to beauty, love to love."
+    },
+    {
+     "id": "p055.s03",
+     "source": "This is law, and this law was the undoing of the Yaoya’s daughter.”"
+    }
+   ],
+   "id": "p055"
+  }
+ ]
+}

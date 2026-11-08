@@ -1,0 +1,406 @@
+{
+ "id": "eu-france-008",
+ "title": {
+  "id": "title",
+  "source": "The Ridiculous Wishes"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "The Fairy Tales of Charles Perrault",
+ "credits": "Perrault, Charles (author, d. 1703); Samber, Robert (translator); Mansion, J. E. (Jean Edmond) (translator, d. 1942)",
+ "gutenberg": "Project Gutenberg eBook #29021 — https://www.gutenberg.org/ebooks/29021 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/France/008 - The Ridiculous Wishes.md",
+ "stats": {
+  "paragraphs": 29,
+  "segments": 53,
+  "words": 1050
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "n days long past there lived a poor woodcutter who found life very hard."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Indeed, it was his lot to toil for little guerdon, and although he was young and happily married there were moments when he wished himself dead and below ground."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "One day while at his work he was again lamenting his fate."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"Some men,\" he said, \"have only to make known their desires, and straightway these are granted, and their every wish fulfilled; but it has availed me little to wish for ought, for the gods are deaf to the prayers of such as I.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "As he spoke these words there was a great noise of thunder, and Jupiter appeared before him wielding his mighty thunderbolts."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Our poor man was stricken with fear and threw himself on the ground."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"My lord,\" he said, \"forget my foolish speech; heed not my wishes, but cease thy thundering!\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"Have no fear,\" answered Jupiter; \"I have heard thy plaint, and have come hither to show thee how greatly thou dost wrong me."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Hark!"
+    },
+    {
+     "id": "p006.s03",
+     "source": "I, who am sovereign lord of this world, promise to grant in full the first three wishes which it will please thee to utter, whatever these may be."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Consider well what things can bring thee joy and prosperity, and as thy happiness is at stake, be not over-hasty, but revolve the matter in thy mind.\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Having thus spoken Jupiter withdrew himself and made his ascent to Olympus."
+    },
+    {
+     "id": "p007.s02",
+     "source": "As for our woodcutter, he blithely corded his faggot, and throwing it over his shoulder, made for his home."
+    },
+    {
+     "id": "p007.s03",
+     "source": "To one so light of heart the load also seemed light, and his thoughts were merry as he strode along."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Many a wish came into his mind, but he was resolved to seek the advice of his wife, who was a young woman of good understanding."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "He had soon reached his cottage, and casting down his faggot:"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Behold me, Fanny,\" he said."
+    },
+    {
+     "id": "p009.s02",
+     "source": "\"Make up the fire and spread the board, and let there be no stint."
+    },
+    {
+     "id": "p009.s03",
+     "source": "We are wealthy, Fanny, wealthy for evermore; we have only to wish for whatsoever we may desire.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Thereupon he told her the story of what had befallen that day."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Fanny, whose mind was quick and active, immediately conceived many plans for the advancement of their fortune, but she approved her husband's resolve to act with prudence and circumspection."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"'Twere a pity,\" she said, \"to spoil our chances through impatience."
+    },
+    {
+     "id": "p011.s02",
+     "source": "We had best take counsel of the night, and wish no wishes until to-morrow.\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"That is well spoken,\" answered Harry."
+    },
+    {
+     "id": "p012.s02",
+     "source": "\"Meanwhile fetch a bottle of our best, and we shall drink to our good fortune.\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Fanny brought a bottle from the store behind the faggots, and our man enjoyed his ease, leaning back in his chair with his toes to the fire and his goblet in his hand."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"What fine glowing embers!\" he said, \"and what a fine toasting fire!"
+    },
+    {
+     "id": "p014.s02",
+     "source": "I wish we had a black pudding at hand.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Hardly had he spoken these words when his wife beheld, to her great astonishment, a long black pudding which, issuing from a corner of the hearth, came winding and wriggling towards her."
+    },
+    {
+     "id": "p015.s02",
+     "source": "She uttered a cry of fear, and then again exclaimed in dismay, when she perceived that this strange occurrence was due to the wish which her husband had so rashly and foolishly spoken."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Turning upon him, in her anger and disappointment she called the poor man all the abusive names that she could think of."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"What!\" she said to him, \"when you can call for a kingdom, for gold, pearls, rubies, diamonds, for princely garments and wealth untold, is this the time to set your mind upon black puddings!\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Nay!\" answered the man, \"'twas a thoughtless speech, and a sad mistake; but I shall now be on my guard, and shall do better next time.\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Who knows that you will?\" returned his wife."
+    },
+    {
+     "id": "p018.s02",
+     "source": "\"Once a witless fool, always a witless fool!\" and giving free rein to her vexation and ill-temper she continued to upbraid her husband until his anger also was stirred, and he had wellnigh made a second bid and wished himself a widower."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"Enough! woman,\" he cried at last; \"put a check upon thy froward tongue!"
+    },
+    {
+     "id": "p019.s02",
+     "source": "Who ever heard such impertinence as this!"
+    },
+    {
+     "id": "p019.s03",
+     "source": "A plague on the shrew and on her pudding!"
+    },
+    {
+     "id": "p019.s04",
+     "source": "Would to heaven it hung at the end of her nose!\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "No sooner had the husband given voice to these words than the wish was straightway granted, and the long coil of black pudding appeared grafted to the angry dame's nose."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Our man paused when he beheld what he had wrought."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Fanny was a comely young woman, and blest with good looks, and truth to tell, this new ornament did not set off her beauty."
+    },
+    {
+     "id": "p021.s03",
+     "source": "Yet it offered one advantage, that as it hung right before her mouth, it would thus effectively curb her speech."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "So, having now but one wish left, he had all but resolved to make good use of it without further delay, and, before any other mischance could befall, to wish himself a kingdom of his own."
+    },
+    {
+     "id": "p022.s02",
+     "source": "He was about to speak the word, when he was stayed by a sudden thought."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"It is true,\" he said to himself, \"that there is none so great as a King, but what of the Queen that must share his dignity?"
+    },
+    {
+     "id": "p023.s02",
+     "source": "With what grace would she sit beside me on the throne with a yard of black pudding for a nose?\""
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "In this dilemma he resolved to put the case to Fanny, and to leave her to decide whether she would rather be a Queen, with this most horrible appendage marring her good looks, or remain a peasant wife, but with her shapely nose relieved of this untoward addition."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Fanny's mind was soon made up: although she had dreamt of a crown and sceptre, yet a woman's first wish is always to please."
+    },
+    {
+     "id": "p025.s02",
+     "source": "To this great desire all else must yield, and Fanny would rather be fair in drugget than be a Queen with an ugly face."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Thus our woodcutter did not change his state, did not become a potentate, nor fill his purse with golden crowns."
+    },
+    {
+     "id": "p026.s02",
+     "source": "He was thankful enough to use his remaining wish to a more humble purpose, and forthwith relieved his wife of her encumbrance."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p027"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "The Moral"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p029"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-083",
+ "title": {
+  "id": "title",
+  "source": "The Thief and His Mother"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/083 - The Thief and His Mother.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 8,
+  "words": 171
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A BOY stole a lesson-book from one of his schoolfellows and took it home to his Mother."
+    },
+    {
+     "id": "p001.s02",
+     "source": "She not only abstained from beating him, but encouraged him."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He next time stole a cloak and brought it to her, and she again commended him."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The Youth, advanced to adulthood, proceeded to steal things of still greater value."
+    },
+    {
+     "id": "p001.s05",
+     "source": "At last he was caught in the very act, and having his hands bound behind him, was led away to the place of public execution."
+    },
+    {
+     "id": "p001.s06",
+     "source": "His Mother followed in the crowd and violently beat her breast in sorrow, whereupon the young man said, “I wish to say something to my Mother in her ear.”"
+    },
+    {
+     "id": "p001.s07",
+     "source": "She came close to him, and he quickly seized her ear with his teeth and bit it off."
+    },
+    {
+     "id": "p001.s08",
+     "source": "The Mother upbraided him as an unnatural child, whereon he replied, “Ah! if you had beaten me when I first stole and brought to you that lesson-book, I should not have come to this, nor have been thus led to a disgraceful death.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "id": "am-iroquois-haudenosaunee-people-012",
+ "title": {
+  "id": "title",
+  "source": "Hiawatha And The Iroquois Wampum"
+ },
+ "tradition": "Iroquois (Haudenosaunee) people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Iroquois. (1883 N 02 / 1880-1881 (pages 47-116))",
+ "credits": "Smith, Erminnie A. (Erminnie Adele) (author, d. 1886)",
+ "gutenberg": "Project Gutenberg eBook #46140 — https://www.gutenberg.org/ebooks/46140 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Iroquois (Haudenosaunee) people/012 - Hiawatha And The Iroquois Wampum.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 4,
+  "words": 109
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In one of his missions into the country of the Mohawks, Hiawatha once came upon the borders of a lake."
+    },
+    {
+     "id": "p001.s02",
+     "source": "While deliberating in what manner he should cross it, the whole sky became filled with wild ducks, all of which finally alighted upon the surface of the water."
+    },
+    {
+     "id": "p001.s03",
+     "source": "After quenching their thirst and soaking their plumage they ascended again into the air in one great mass, and lo! the lake had become dry, while its bed was filled with shells."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "From these the wise chief and counselor proceeded to make the wampum which afterward so firmly cemented the union of the six tribes, thereby forming the great Iroquois Confederacy."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  }
+ ]
+}

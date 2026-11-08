@@ -1,0 +1,50 @@
+{
+ "id": "am-iroquois-haudenosaunee-people-054",
+ "title": {
+  "id": "title",
+  "source": "Strawberry Festival"
+ },
+ "tradition": "Iroquois (Haudenosaunee) people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Iroquois. (1883 N 02 / 1880-1881 (pages 47-116))",
+ "credits": "Smith, Erminnie A. (Erminnie Adele) (author, d. 1886)",
+ "gutenberg": "Project Gutenberg eBook #46140 — https://www.gutenberg.org/ebooks/46140 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Iroquois (Haudenosaunee) people/054 - Strawberry Festival.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 4,
+  "words": 74
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "During the strawberry season, at a time appointed previously by the chiefs, the women proceed to the fields and gather the berries."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The great feather dance follows; afterwards two children carry about a vessel containing the berries, mixed with water and sugar, and present it to each person, who is expected to give thanks as he receives it."
+    },
+    {
+     "id": "p001.s03",
+     "source": "More dancing ensues."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The bean festival next occurs and is very similar to the strawberry festival."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

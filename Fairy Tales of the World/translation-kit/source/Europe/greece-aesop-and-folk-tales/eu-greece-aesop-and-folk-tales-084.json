@@ -1,0 +1,44 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-084",
+ "title": {
+  "id": "title",
+  "source": "The Old Man and Death"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/084 - The Old Man and Death.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 80
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "AN OLD MAN was employed in cutting wood in the forest, and, in carrying the faggots to the city for sale one day, became very wearied with his long journey."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He sat down by the wayside, and throwing down his load, besought “Death” to come."
+    },
+    {
+     "id": "p001.s03",
+     "source": "“Death” immediately appeared in answer to his summons and asked for what reason he had called him."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The Old Man hurriedly replied, “That, lifting up the load, you may place it again upon my shoulders.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

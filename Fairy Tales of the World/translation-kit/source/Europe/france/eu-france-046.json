@@ -1,0 +1,665 @@
+{
+ "id": "eu-france-046",
+ "title": {
+  "id": "title",
+  "source": "The Farm—The Castle—The Forge"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Old French Fairy Tales",
+ "credits": "Ségur, Sophie, comtesse de (author, d. 1874)",
+ "gutenberg": "Project Gutenberg eBook #30129 — https://www.gutenberg.org/ebooks/30129 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/046 - The Farm—The Castle—The Forge.md",
+ "stats": {
+  "paragraphs": 44,
+  "segments": 95,
+  "words": 1237
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "O urson walked more than three hours before he arrived at a large and beautiful farm where he hoped to obtain employment."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He saw from a distance the farmer and his family seated before his front door taking their evening meal."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "He was but a short way off when one of the children, a little boy about ten years of age, perceived him."
+    },
+    {
+     "id": "p002.s02",
+     "source": "He sprang from his seat, uttered a cry of terror and fled into the house."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "A second child, a little girl eight years old, hearing the cry of her brother turned towards Ourson and commenced the most piercing shrieks."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "All the family now followed the movement of the children and turned around."
+    },
+    {
+     "id": "p004.s02",
+     "source": "At the sight of Ourson the women cried out with terror and the children fled in wild alarm."
+    },
+    {
+     "id": "p004.s03",
+     "source": "The men seized sticks and pitchforks expecting to be attacked by poor Ourson whom they took for some extraordinary animal escaped from a menagerie."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Ourson, seeing this movement of terror and preparation for attack, spoke to them hoping to dissipate their fears."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"I am not a bear, as you seem to suppose, but a poor boy seeking work and who would be very glad if you should give him employment.\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "The farmer was greatly amazed to hear a bear speak."
+    },
+    {
+     "id": "p007.s02",
+     "source": "He did not know whether to fly or to interrogate him further."
+    },
+    {
+     "id": "p007.s03",
+     "source": "He resolved, however, to speak."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"Who are you and from whence do you come?\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"I come from the Woodland Farm and I am the son of Agnella,\" Ourson replied."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"Ah, then it was you who in your childhood went with your mother to market and frightened all our children to death."
+    },
+    {
+     "id": "p010.s02",
+     "source": "You have lived in the woods and done without our help."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Why do you seek us now?"
+    },
+    {
+     "id": "p010.s04",
+     "source": "Go away and live as you have lived heretofore.\""
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"Our farm-house is burned to the ground."
+    },
+    {
+     "id": "p011.s02",
+     "source": "I have to work now with my hands to support my mother and sister."
+    },
+    {
+     "id": "p011.s03",
+     "source": "For this reason, I pray you to give me work."
+    },
+    {
+     "id": "p011.s04",
+     "source": "I will do all you command me.\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"Do you suppose, boy, that I will take into my service a villainous animal like you who will frighten my wife and my servants to death and throw my children into convulsions?"
+    },
+    {
+     "id": "p012.s02",
+     "source": "I am not quite such a fool, my boy; not quite such a fool."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Enough of this."
+    },
+    {
+     "id": "p012.s04",
+     "source": "Be off, and allow us to finish our dinner.\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"Master farmer, be merciful."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Only try my work."
+    },
+    {
+     "id": "p013.s03",
+     "source": "Place me altogether by myself; then no one will fear me."
+    },
+    {
+     "id": "p013.s04",
+     "source": "I will conceal myself so well that your children shall not see me.\""
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"Will you be done talking, wicked bear?"
+    },
+    {
+     "id": "p014.s02",
+     "source": "Go instantly; if you don't you shall feel the teeth of my pitchfork.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Poor Ourson bowed his head."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Tears of humiliation and disappointment glittered in his eyes."
+    },
+    {
+     "id": "p015.s03",
+     "source": "He withdrew slowly, followed by the coarse laugh and shouts of the farm hands."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "When out of sight he no longer restrained his tears, but in all this shame and despair the thought that Violette could take upon herself his ugly covering did not enter his thoughts."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Ourson walked on till he came in sight of a castle where he saw a crowd of men coming, going and laboring at every kind of work."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Some were mowing, some raking, some currying horses, some sweeping, some watering plants, some sowing."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Here is a house where I shall certainly find work,\" said Ourson to himself."
+    },
+    {
+     "id": "p018.s02",
+     "source": "\"I see neither women nor children and I think the men will not be afraid of me.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Ourson drew near without being seen."
+    },
+    {
+     "id": "p019.s02",
+     "source": "He took off his hat and stood before a man who seemed to be the superintendent."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"Sir—\" said he."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "The man looked up, recoiled a step when he saw Ourson and examined him with the greatest surprise."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"Who are you and what do you want?\" said he, in a rude voice."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"Sir, I am the son of Agnella, mistress of the Woodland Farm.\""
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"Well! and what has brought you here?\""
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"Our house is burned down, sir."
+    },
+    {
+     "id": "p025.s02",
+     "source": "I am seeking work in order to support my mother and sister."
+    },
+    {
+     "id": "p025.s03",
+     "source": "I hope you will be good enough to give me employment.\""
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"Give employment to a bear?\""
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"Sir, I have only the appearance of a bear."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Under this rough outside, which is so repugnant to you, there beats a human heart—a heart capable of gratitude and affection."
+    },
+    {
+     "id": "p027.s03",
+     "source": "You shall have no reason to complain either of my work or of my good will.\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Whilst Ourson spoke and the superintendent listened with a mocking air, a great noise was heard amongst the horses."
+    },
+    {
+     "id": "p028.s02",
+     "source": "They began to kick and prance and the grooms could scarcely hold them."
+    },
+    {
+     "id": "p028.s03",
+     "source": "Some of them indeed escaped and fled in terror to the woods."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "\"It is the bear!"
+    },
+    {
+     "id": "p029.s02",
+     "source": "It is the bear!\" cried the grooms."
+    },
+    {
+     "id": "p029.s03",
+     "source": "\"It has terrified the horses."
+    },
+    {
+     "id": "p029.s04",
+     "source": "Drive it off!"
+    },
+    {
+     "id": "p029.s05",
+     "source": "Chase it away!"
+    },
+    {
+     "id": "p029.s06",
+     "source": "We cannot control our horses.\""
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "\"Off with you!\" cried the superintendent."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Ourson was stupefied by his misfortunes and was immovable."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "\"Ha! you will not go,\" vociferated the man."
+    },
+    {
+     "id": "p032.s02",
+     "source": "\"Wait a few moments, you hairy beast."
+    },
+    {
+     "id": "p032.s03",
+     "source": "I will give you something to run for."
+    },
+    {
+     "id": "p032.s04",
+     "source": "Halloa, men! bring out the dogs, and set them upon this animal."
+    },
+    {
+     "id": "p032.s05",
+     "source": "Hurry!—see him scampering off!\""
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "In fact Ourson, more dead than alive at this cruel treatment, precipitately withdrew from the presence of these wicked and inhuman men."
+    },
+    {
+     "id": "p033.s02",
+     "source": "This second attempt had failed utterly but he would not allow himself to be discouraged."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "\"It is still three or four hours before sunset so I have time to continue my search for work.\""
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "He directed his steps towards a forge which was some distance from Woodland Farm."
+    },
+    {
+     "id": "p035.s02",
+     "source": "The master of the forge employed a great many workmen."
+    },
+    {
+     "id": "p035.s03",
+     "source": "He gave work to those who asked it, not in charity, but in view of his own interest."
+    },
+    {
+     "id": "p035.s04",
+     "source": "He was feared but he was not loved."
+    },
+    {
+     "id": "p035.s05",
+     "source": "He developed the riches of the country but no one thanked him for it because he alone profited by it."
+    },
+    {
+     "id": "p035.s06",
+     "source": "By his avidity and his opulence he ground down the poor workmen who could only find employment with this new Marquis of Carabas."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Poor Ourson arrived at the forge."
+    },
+    {
+     "id": "p036.s02",
+     "source": "The master was at the door, scolding some, threatening others and terrifying all."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "\"Sir,\" said Ourson, drawing near, \"have you any work to give me?\""
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "\"Certainly."
+    },
+    {
+     "id": "p038.s02",
+     "source": "What kind of work——?\""
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "He raised his head at these words for he had replied without looking at Ourson."
+    },
+    {
+     "id": "p039.s02",
+     "source": "When his eye fell upon him he did not finish his phrase; his eyes flashed with rage and he stammered out:—"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "\"What foolery is this?"
+    },
+    {
+     "id": "p040.s02",
+     "source": "Are we in the midst of the Carnival, that a workman ventures upon such a ridiculous masquerade?"
+    },
+    {
+     "id": "p040.s03",
+     "source": "Throw off your ugly bear's skin instantly or I will crisp your bristles for you in my fire.\""
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "\"This, sir, is no masquerade,\" replied Ourson, sadly; \"it is, alas! my natural skin but if you will be humane enough to employ me you will see that my strength is equal to my goodwill.\""
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "\"I give work to you, you vile animal!\" cried the master of the forge, foaming with rage: \"I will put you into a sack and send you to a menagerie or I will throw you into a den with your brother bears."
+    },
+    {
+     "id": "p042.s02",
+     "source": "You will have work enough to defend yourself from their claws."
+    },
+    {
+     "id": "p042.s03",
+     "source": "Be off!\""
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "And brandishing his club he would have dealt Ourson a heavy blow if the poor boy had not made a hasty retreat."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p044"
+  }
+ ]
+}

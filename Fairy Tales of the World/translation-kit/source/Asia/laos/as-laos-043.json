@@ -1,0 +1,68 @@
+{
+ "id": "as-laos-043",
+ "title": {
+  "id": "title",
+  "source": "An Unfortunate Shot"
+ },
+ "tradition": "Laos",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Laos Folk-Lore of Farther India",
+ "credits": "Fleeson, Katherine Neville (author)",
+ "gutenberg": "Project Gutenberg eBook #35564 — https://www.gutenberg.org/ebooks/35564 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Laos/043 - An Unfortunate Shot.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 7,
+  "words": 180
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a poor man too ill to work, and he had no one to give him food."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The chow of the province heard of him and sent for him to come to his house."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "When the man reached the house of the chow, the chow gave him a bow and arrow, saying, “Shoot upward toward the sky."
+    },
+    {
+     "id": "p002.s02",
+     "source": "When the arrow falls to the earth, if it fall making a hole in the earth, I will weigh the earth which the arrow digs up, and give thee the weight of it in gold."
+    },
+    {
+     "id": "p002.s03",
+     "source": "On whatsoever thy arrow falls, that will I weigh and give its weight unto thee in gold."
+    },
+    {
+     "id": "p002.s04",
+     "source": "If, in its fall, the arrow should make a hole in the ground six feet long and six feet deep, that earth will I weigh, and gold according to the weight thereof shall be thine.”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The poor man was indeed glad, and, shooting with all his strength into the air, the arrow pierced a pomegranate seed, therefore the chow gave unto him gold but the weight of the seed!"
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

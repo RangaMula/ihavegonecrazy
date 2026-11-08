@@ -1,0 +1,156 @@
+{
+ "id": "as-philippines-085",
+ "title": {
+  "id": "title",
+  "source": "The Pugu’s Case"
+ },
+ "tradition": "Philippines",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Filipino Popular Tales",
+ "credits": "Fansler, Dean Spruill (editor)",
+ "gutenberg": "Project Gutenberg eBook #8299 — https://www.gutenberg.org/ebooks/8299 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Philippines/085 - The Pugu’s Case.md",
+ "stats": {
+  "paragraphs": 13,
+  "segments": 14,
+  "words": 314
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Narrated by Bienvenido Tan of Manila, who got the story from Pampanga."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“Why, horse,” said the pugu (a small bird), “did you touch my eggs, so that now they are broken?”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“Because,” said the horse, “the cock crowed, and I was startled.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Why, cock,” said the pugu , “did you crow, so that the horse was startled and broke my eggs?”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Because,” said the cock, “I saw the turtle carrying his house; that made me crow.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Why, turtle,” said the pugu , “did you carry your house with you, so that the cock crowed, and the horse was startled and broke my eggs?”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Because,” said the turtle, “the firefly was carrying fire, and I was afraid that he would burn my house.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Why, firefly,” said the pugu , “did you bring fire, so that the turtle was frightened and carried his house, and the cock crowed when he saw him, and the horse was startled and broke my eggs?”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Because,” said the firefly, “the mosquito will sting me if I have no light.”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“Why, mosquito,” said the pugu , “did you try to sting the firefly, so that he had to carry fire, so that the turtle was frightened and carried his house, so that the cock laughed at the turtle, so that the horse was startled and broke my eggs?”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Because,” said the mosquito, “Juan put up his mosquito-net, and there was nobody for me to sting except the firefly ( alipatpat .)”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Why, Juan,” said the pugu , “did you put up your mosquito-net?"
+    },
+    {
+     "id": "p012.s02",
+     "source": "The mosquito could not sting you, and tried to harm the firefly; the firefly brought fire; the turtle was frightened, and carried his house with him; the cock crowed when he saw the turtle; the horse was startled when he heard the cock, and broke my eggs.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Because,” said Juan, “I did not care to lose any blood.”"
+    }
+   ],
+   "id": "p013"
+  }
+ ]
+}

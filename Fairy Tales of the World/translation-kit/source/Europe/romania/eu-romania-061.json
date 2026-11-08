@@ -1,0 +1,64 @@
+{
+ "id": "eu-romania-061",
+ "title": {
+  "id": "title",
+  "source": "Why Is The Wagtail Called The Gipsies’ Bird?"
+ },
+ "tradition": "Romania",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Rumanian Bird and Beast Stories Rendered into English",
+ "credits": "Gaster, Moses (translator, d. 1939)",
+ "gutenberg": "Project Gutenberg eBook #43059 — https://www.gutenberg.org/ebooks/43059 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Romania/061 - Why Is The Wagtail Called The Gipsies’ Bird.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 9,
+  "words": 240
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "When God had made the world and all the creatures and man, he gave to each one the food from which they should eat and be satisfied."
+    },
+    {
+     "id": "p001.s02",
+     "source": "All the creatures thanked God, and whenever they eat their food they are satisfied, except only the wagtail and the Gipsy who are never satisfied."
+    },
+    {
+     "id": "p001.s03",
+     "source": "When God saw the greed of these two, he grew very angry and said to the wagtail, “You shall not be allowed to go near any village unless the Gipsies, after having eaten, say with their full heart that they are quite satisfied.”"
+    },
+    {
+     "id": "p001.s04",
+     "source": "And to the Gipsy he said, “When the wagtail will come into the villages, only then shall you be satisfied.”"
+    },
+    {
+     "id": "p001.s05",
+     "source": "But the Gipsies, even when they are invited to the meals freely given in honour of the dead, however much they may eat and stuff and fill, will say as soon as they have got up from the table and gone a few steps, “I am starving; I am dying of hunger.”"
+    },
+    {
+     "id": "p001.s06",
+     "source": "And therefore the wagtails never come near the village."
+    },
+    {
+     "id": "p001.s07",
+     "source": "And it is also called the Gipsies’ bird, because it can only come near the village, when the Gipsy says he has eaten enough and is satisfied."
+    },
+    {
+     "id": "p001.s08",
+     "source": "But as such a thing never happens, this bird cannot approach the houses of men like other birds."
+    },
+    {
+     "id": "p001.s09",
+     "source": "Also it is called “half a bird,” for all the other birds get into the village except the wagtail."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

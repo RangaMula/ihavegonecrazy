@@ -1,0 +1,40 @@
+{
+ "id": "am-cherokee-people-011",
+ "title": {
+  "id": "title",
+  "source": "The Milky Way"
+ },
+ "tradition": "Cherokee people",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths of the Cherokee",
+ "credits": "Mooney, James (author, d. 1921)",
+ "gutenberg": "Project Gutenberg eBook #45634 — https://www.gutenberg.org/ebooks/45634 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Cherokee people/011 - The Milky Way.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 125
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Some people in the south had a corn mill, in which they pounded the corn into meal, and several mornings when they came to fill it they noticed that some of the meal had been stolen during the night."
+    },
+    {
+     "id": "p001.s02",
+     "source": "They examined the ground and found the tracks of a dog, so the next night they watched, and when the dog came from the north and began to eat the meal out of the bowl they sprang out and whipped him."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He ran off howling to his home in the north, with the meal dropping from his mouth as he ran, and leaving behind a white trail where now we see the Milky Way, which the Cherokee call to this day Giʻlĭ′-utsûñ′stănûñ′yĭ, “Where the dog ran.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

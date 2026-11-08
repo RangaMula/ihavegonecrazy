@@ -1,0 +1,36 @@
+{
+ "id": "eu-serbia-030",
+ "title": {
+  "id": "title",
+  "source": "The God Volos"
+ },
+ "tradition": "Serbia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Hero Tales and Legends of the Serbians",
+ "credits": "Karadžić, Vuk Stefanović (author, d. 1864); Petrovitch, Woislav M. (author, d. 1934)",
+ "gutenberg": "Project Gutenberg eBook #38571 — https://www.gutenberg.org/ebooks/38571 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Serbia/030 - The God Volos.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 2,
+  "words": 57
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "From the Russian God of Cattle, ‘Volos,’ the city ‘Veless’ has obtained its name; also a village in the western part of Serbia, and there is a small village on the lower Danube called ‘Velessnitza.’"
+    },
+    {
+     "id": "p001.s02",
+     "source": "But the closest derivative appears in the Serbian word ‘Vo,’ or ‘Voll’ (in the singular) ‘Volovi’ (in the plural) which means ‘Ox.’"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

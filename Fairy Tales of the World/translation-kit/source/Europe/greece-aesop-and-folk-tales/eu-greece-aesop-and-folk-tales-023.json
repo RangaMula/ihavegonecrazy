@@ -1,0 +1,36 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-023",
+ "title": {
+  "id": "title",
+  "source": "The Bear and the Fox"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/023 - The Bear and the Fox.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 2,
+  "words": 62
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A BEAR boasted very much of his philanthropy, saying that of all animals he was the most tender in his regard for man, for he had such respect for him that he would not even touch his dead body."
+    },
+    {
+     "id": "p001.s02",
+     "source": "A Fox hearing these words said with a smile to the Bear, “Oh! that you would eat the dead and not the living.”"
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "eu-italy-052",
+ "title": {
+  "id": "title",
+  "source": "Desperate Malchus"
+ },
+ "tradition": "Italy",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Italian Popular Tales",
+ "credits": "Crane, Thomas Frederick (author, d. 1927)",
+ "gutenberg": "Project Gutenberg eBook #23634 — https://www.gutenberg.org/ebooks/23634 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Italy/052 - Desperate Malchus.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 7,
+  "words": 183
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "This Malchus was one of those Jews who beat our Lord; a Jew more brutal than can be told."
+    },
+    {
+     "id": "p001.s02",
+     "source": "When Christ was taken to Pilate's house, this Malchus, with an iron glove, gave him a blow so heavy that it knocked out all his teeth."
+    },
+    {
+     "id": "p001.s03",
+     "source": "For the sacrilegious act, the Lord condemned him to walk constantly, without ever resting, around a column in an underground room."
+    },
+    {
+     "id": "p001.s04",
+     "source": "This column is in a round room, and Malchus walks and walks without ever having peace or rest."
+    },
+    {
+     "id": "p001.s05",
+     "source": "They say that he has walked so much that he has worn the ground down many yards and made the column seem higher than it was, for this Malchus has led this life ever since our Lord's passion and death."
+    },
+    {
+     "id": "p001.s06",
+     "source": "It is said that this Malchus is desperate from his remorse, and while he walks he beats the column, strikes his head against the wall, and rages and laments; but notwithstanding he does not die, for the sentence of God is that he must live until the day of judgment."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The same legend is found in Bernoni as follows:"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

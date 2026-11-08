@@ -1,0 +1,54 @@
+{
+ "id": "eu-wales-030",
+ "title": {
+  "id": "title",
+  "source": "The Long-Lived Ancestors"
+ },
+ "tradition": "Wales",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Welsh Fairy-Tales and Other Stories",
+ "credits": "Emerson, P. H. (Peter Henry) (editor, d. 1936)",
+ "gutenberg": "Project Gutenberg eBook #8675 — https://www.gutenberg.org/ebooks/8675 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Wales/030 - The Long-Lived Ancestors.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 5,
+  "words": 122
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Source: Taken verbatim from the book quoted."
+    },
+    {
+     "id": "p001.s02",
+     "source": "This fable refers to the place, Cwm Caw Lwyd , regarding which the writer says:"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“With regard to the Cwm Caw Lwyd , there is a still extant fable entitled Creaduriaid Hir Hoedlog (i.e., the long-lived ancestors), which seems to be a composition of no modern date."
+    },
+    {
+     "id": "p002.s02",
+     "source": "At present the moral of it cannot be elucidated; but it seems that, in one respect, it was intended to represent the solitariness of this place, inhabited only by the weeping owl from remote antiquity; and certainly it is the most solitary and romantic retreat that the mind of man could imagine.”"
+    },
+    {
+     "id": "p002.s03",
+     "source": "The writer says his is a “literal translation of the story, according to the Welsh phraseology”."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

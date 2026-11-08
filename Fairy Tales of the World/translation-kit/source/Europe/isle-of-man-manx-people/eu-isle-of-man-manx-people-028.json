@@ -1,0 +1,498 @@
+{
+ "id": "eu-isle-of-man-manx-people-028",
+ "title": {
+  "id": "title",
+  "source": "Stories About Birds"
+ },
+ "tradition": "Isle of Man (Manx people)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Manx Fairy Tales",
+ "credits": "Morrison, Sophia (author, d. 1917)",
+ "gutenberg": "Project Gutenberg eBook #51762 — https://www.gutenberg.org/ebooks/51762 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Isle of Man (Manx people)/028 - Stories About Birds.md",
+ "stats": {
+  "paragraphs": 34,
+  "segments": 68,
+  "words": 976
+ },
+ "paragraphs": [
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The Ravens"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Two Ravens met once, and one asked the other in Bird language:"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "‘Is there nothing new at you?’"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "‘The white Horse is dead,’ said he."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "‘Is he fat?"
+    },
+    {
+     "id": "p005.s02",
+     "source": "Is he fat?’ said the other."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "‘Delicious, delicious,’ said he."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Then he repented that he had told him that, and called out:"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "‘Bare bones, bare bones!’"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Blackbird’s Morning Song"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Old Robin Quirk one fine morning was sitting sunning himself before his cottage door, when the Blackbird, living in the Tramman Tree in his garden, flew down, settled near Robin, and began to talk to him in Manx:"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "‘Irree, Robin, as gow smook.’"
+    },
+    {
+     "id": "p011.s02",
+     "source": "‘Rise, Robin, and take a smoke.’"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "‘Cha nel thombaga aym.’"
+    },
+    {
+     "id": "p012.s02",
+     "source": "‘I have no tobacco,’ said Robin."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "‘Kionn eh, kionn eh.’"
+    },
+    {
+     "id": "p013.s02",
+     "source": "‘Buy it, buy it,’ cried Blackbird."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "‘Cha nel ping aym.’"
+    },
+    {
+     "id": "p014.s02",
+     "source": "‘I have not a penny,’ poor Robin said."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "‘Gow er dayl, gow er dayl.’"
+    },
+    {
+     "id": "p015.s02",
+     "source": "‘Credit it, credit it,’ was Blackbird’s bad advice."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "‘Cha der ad dayl dou, boy.’"
+    },
+    {
+     "id": "p016.s02",
+     "source": "‘They won’t give me credit, boy.’"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "‘Quit eh, eisht, quit eh.’"
+    },
+    {
+     "id": "p017.s02",
+     "source": "‘Quit it, then, quit it,’ whistled Blackbird, flying home and closing the discussion."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "‘The imperence of sin is in them Blackbirds!’"
+    },
+    {
+     "id": "p018.s02",
+     "source": "Robin said."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "How the Wren became King of the Birds"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "A long, long time ago, before you and I were born, the birds of the air gathered at Tynwald from all airts of the wind."
+    },
+    {
+     "id": "p020.s02",
+     "source": "The meeting was to settle once and for all the squabbling and fighting among them as to which of them was the cleverest, and it was agreed that the cleverest bird should be king."
+    },
+    {
+     "id": "p020.s03",
+     "source": "The sky was black with them, big and little, and soon all had gathered together."
+    },
+    {
+     "id": "p020.s04",
+     "source": "Everywhere groups of birds sat-a-row, cooishing, scolding, or sleeping."
+    },
+    {
+     "id": "p020.s05",
+     "source": "Some were in fine, black Sunday coats like old Parson Gull, some clad only in work-a-day brown like Poor Brownie, the Hedge Sparrow; but most wore leggings of red or yellow, while the Chough had a new pair of bright red ones."
+    },
+    {
+     "id": "p020.s06",
+     "source": "Yellow Tommy, the dandy, was preening himself, swinging on the top of a gorse bush."
+    },
+    {
+     "id": "p020.s07",
+     "source": "Old Greyback, the Crow, perched on a rock above him, silent but observant, was eating flitters; and over all, the blue arch of the sky, in which hung motionless a broad-winged eagle."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "The Corncrake officially announced, ‘Raip, raip’ (ready, ready)."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Then each one got up in his turn to tell of all the great things he could do."
+    },
+    {
+     "id": "p021.s03",
+     "source": "The Falcon boasted that he and his mate were worth the kingdom of Mann with all its rights; Lhondoo, the Thrush, sang her best to them—it was a pleasure to listen to her, and for a moment she thought that she would be elected; Flame of the Wood, the Goldfinch, spread her bright plumage; Fork of the Wind, the Swallow, told of her swiftness and travels to warm countries in the south; the Curlew, of her riches—‘Let the curlew be poor or fat, she carries a groat upon her back,’ said she, showing the mark of 4 which she bears."
+    },
+    {
+     "id": "p021.s04",
+     "source": "When the Cuckoo got up, the Meadow Pipit darted out from a group and danced round, calling out his name to draw attention to himself, the little fool, and saying, ‘Let every bird hatch her own eggs,’ so poor Cuckoo wasn’t heard."
+    },
+    {
+     "id": "p021.s05",
+     "source": "There was a loud-voiced dispute between the Magpie and the Jackdaw as to which was the best thief."
+    },
+    {
+     "id": "p021.s06",
+     "source": "At last little Jinny Wren got up to have her say, after all the grand ones had done."
+    },
+    {
+     "id": "p021.s07",
+     "source": "‘Ha, ha, ha,’ laughed the Snipe, and all the birds chuckled; but Jinny Wren got the better of them for all that."
+    },
+    {
+     "id": "p021.s08",
+     "source": "Says she:"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Small though I am and slender my leg,"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Twelve chicks I can bring out of the egg."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "And the birds agreed that Jinny was as clever again as the best of them."
+    },
+    {
+     "id": "p024.s02",
+     "source": "But the eagle didn’t like it that a little bit of a bird like Jinny Wren should be over him."
+    },
+    {
+     "id": "p024.s03",
+     "source": "So he considered for a minute, and says he, middling vexed: ‘Birds, it’s only right that the best bird on the wing should be king; let’s try a heat to see which of us can go the highest.’"
+    },
+    {
+     "id": "p024.s04",
+     "source": "Hullad, the Owl, looked thoughtful, and said: ‘I never saw anything yet worth flying for.’"
+    },
+    {
+     "id": "p024.s05",
+     "source": "But the birds said: ‘’Deed, it wouldn’t be a bad idea at all.’"
+    },
+    {
+     "id": "p024.s06",
+     "source": "No sooner said than done."
+    },
+    {
+     "id": "p024.s07",
+     "source": "Jinny Diver, the Cormorant, gave the whistle to fly, and instantly off they started."
+    },
+    {
+     "id": "p024.s08",
+     "source": "Speeding on great strong wings, the eagle led the way, the little ones following, Pompee-ny-Hoarn, Fat bird of the barley, straggling far in the rear."
+    },
+    {
+     "id": "p024.s09",
+     "source": "But the Seven Sleepers, the Bat, the Stone-chat, Cooag the Cuckoo, and the others, didn’t stir—the sleep had fallen on them."
+    },
+    {
+     "id": "p024.s10",
+     "source": "The Eagle flew up and up and away, away to the sun, till he couldn’t lift a feather an inch higher."
+    },
+    {
+     "id": "p024.s11",
+     "source": "Then he peered down into the blue to the birds far, far below, and he let a scream out of him:"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "‘Ta mish Ree ny Ein, Ree ny Ein.’"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "‘I am King of the Birds, King of the Birds.’"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "But little Jinny Wren was one too many for him there again."
+    },
+    {
+     "id": "p027.s02",
+     "source": "She had taken tight hold of him by a feather under his great, broad wing and hidden herself."
+    },
+    {
+     "id": "p027.s03",
+     "source": "And as he cried ‘Ta mish Ree ny Ein,’ she flew on top of his head and called out, ‘Cha nel, cha nel, ta mish er-y-skyn.’"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "‘Not so, not so, I’m above him, I’m above him.’"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Down dropped the Eagle, and down dropped the Wren, breathless, but King of the Birds."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "And that’s why the boys go round on St. Stephen’s Day to this day, singing:"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "The Wren, the Wren, the King of all Birds,"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "We’ve caught St. Stephen’s Day in the gorse,"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Though he’s small his family is many;"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "We pray you, good woman, give us a drop to drink."
+    }
+   ],
+   "id": "p034"
+  }
+ ]
+}

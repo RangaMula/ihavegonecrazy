@@ -1,0 +1,784 @@
+{
+ "id": "eu-russia-082",
+ "title": {
+  "id": "title",
+  "source": "The Fool and the Birch-Tree"
+ },
+ "tradition": "Russia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore",
+ "credits": "Ralston, William Ralston Shedden (translator, d. 1889)",
+ "gutenberg": "Project Gutenberg eBook #22373 — https://www.gutenberg.org/ebooks/22373 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Russia/082 - The Fool and the Birch-Tree.md",
+ "stats": {
+  "paragraphs": 51,
+  "segments": 114,
+  "words": 1689
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In a certain country there once lived an old man who had three sons."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Two of them had their wits about them, but the third was a fool."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The old man died and his sons divided his property among themselves by lot."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The sharp-witted ones got plenty of all sorts of good things, but nothing fell to the share of the Simpleton but one ox—and that such a skinny one!"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Well, fair-time came round, and the clever brothers got ready to go and transact business."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The Simpleton saw this, and said:"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“I’ll go, too, brothers, and take my ox for sale.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "So he fastened a cord to the horn of the ox and drove it to the town."
+    },
+    {
+     "id": "p004.s02",
+     "source": "On his way he happened to pass through a forest, and in the forest there stood an old withered Birch-tree."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Whenever the wind blew the Birch-tree creaked."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“What is the Birch creaking about?” thinks the Simpleton."
+    },
+    {
+     "id": "p005.s02",
+     "source": "“Surely it must be bargaining for my ox?"
+    },
+    {
+     "id": "p005.s03",
+     "source": "Well,” says he, “if you want to buy it, why buy it."
+    },
+    {
+     "id": "p005.s04",
+     "source": "I’m not against selling it."
+    },
+    {
+     "id": "p005.s05",
+     "source": "The price of the ox is twenty roubles."
+    },
+    {
+     "id": "p005.s06",
+     "source": "I can’t take less."
+    },
+    {
+     "id": "p005.s07",
+     "source": "Out with the money!”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "The Birch made no reply, only went on creaking."
+    },
+    {
+     "id": "p006.s02",
+     "source": "But the Simpleton fancied that it was asking for the ox on credit."
+    },
+    {
+     "id": "p006.s03",
+     "source": "“Very good,” says he, “I’ll wait till to-morrow!”"
+    },
+    {
+     "id": "p006.s04",
+     "source": "He tied the ox to the Birch, took leave of the tree, and went home."
+    },
+    {
+     "id": "p006.s05",
+     "source": "Presently in came the clever brothers, and began questioning him:"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Well, Simpleton! sold your ox?”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“I’ve sold it.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“For how much?”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“For twenty roubles.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Where’s the money?”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“I haven’t received the money yet."
+    },
+    {
+     "id": "p012.s02",
+     "source": "It was settled I should go for it to-morrow.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“There’s simplicity for you!” say they."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Early next morning the Simpleton got up, dressed himself, and went to the Birch-tree for his money."
+    },
+    {
+     "id": "p014.s02",
+     "source": "He reached the wood; there stood the Birch, waving in the wind, but the ox was not to be seen."
+    },
+    {
+     "id": "p014.s03",
+     "source": "During the night the wolves had eaten it."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“Now, then, neighbor!” he exclaimed, “pay me my money."
+    },
+    {
+     "id": "p015.s02",
+     "source": "You promised you’d pay me to-day.”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "The wind blew, the Birch creaked, and the Simpleton cried:"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“What a liar you are!"
+    },
+    {
+     "id": "p017.s02",
+     "source": "Yesterday you kept saying, ‘I’ll pay you to-morrow,’ and now you make just the same promise."
+    },
+    {
+     "id": "p017.s03",
+     "source": "Well, so be it, I’ll wait one day more, but not a bit longer."
+    },
+    {
+     "id": "p017.s04",
+     "source": "I want the money myself.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "When he returned home, his brothers again questioned him closely:"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“Have you got your money?”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“No, brothers; I’ve got to wait for my money again.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“Whom have you sold it to?”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“To the withered Birch-tree in the forest.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“Oh, what an idiot!”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "On the third day the Simpleton took his hatchet and went to the forest."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Arriving there, he demanded his money; but the Birch-tree only creaked and creaked."
+    },
+    {
+     "id": "p024.s03",
+     "source": "“No, no, neighbor!” says he."
+    },
+    {
+     "id": "p024.s04",
+     "source": "“If you’re always going to treat me to promises, there’ll be no getting anything out of you."
+    },
+    {
+     "id": "p024.s05",
+     "source": "I don’t like such joking; I’ll pay you out well for it!”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "With that he pitched into it with his hatchet, so that its chips flew about in all directions."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Now, in that Birch-tree there was a hollow, and in that hollow some robbers had hidden a pot full of gold."
+    },
+    {
+     "id": "p025.s03",
+     "source": "The tree split asunder, and the Simpleton caught sight of the gold."
+    },
+    {
+     "id": "p025.s04",
+     "source": "He took as much of it as the skirts of his caftan would hold, and toiled home with it."
+    },
+    {
+     "id": "p025.s05",
+     "source": "There he showed his brothers what he had brought."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“Where did you get such a lot, Simpleton?” said they."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“A neighbor gave it me for my ox."
+    },
+    {
+     "id": "p027.s02",
+     "source": "But this isn’t anything like the whole of it; a good half of it I didn’t bring home with me!"
+    },
+    {
+     "id": "p027.s03",
+     "source": "Come along, brothers, let’s get the rest!”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Well, they went into the forest, secured the money, and carried it home."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“Now mind, Simpleton,” say the sensible brothers, “don’t tell anyone that we’ve such a lot of gold.”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Never fear, I won’t tell a soul!”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "All of a sudden they run up against a Diachok, and says he:—"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“What’s that, brothers, you’re bringing from the forest?”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "The sharp ones replied, “Mushrooms.”"
+    },
+    {
+     "id": "p033.s02",
+     "source": "But the Simpleton contradicted them, saying:"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“They’re telling lies! we’re carrying money; here, just take a look at it.”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "The Diachok uttered such an “Oh!”—then he flung himself on the gold, and began seizing handfuls of it and stuffing them into his pocket."
+    },
+    {
+     "id": "p035.s02",
+     "source": "The Simpleton grew angry, dealt him a blow with his hatchet, and struck him dead."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "“Heigh, Simpleton! what have you been and done!” cried his brothers."
+    },
+    {
+     "id": "p036.s02",
+     "source": "“You’re a lost man, and you’ll be the cause of our destruction, too!"
+    },
+    {
+     "id": "p036.s03",
+     "source": "Wherever shall we put the dead body?”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "They thought and thought, and at last they dragged it to an empty cellar and flung it in there."
+    },
+    {
+     "id": "p037.s02",
+     "source": "But later on in the evening the eldest brother said to the second one:—"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“This piece of work is sure to turn out badly."
+    },
+    {
+     "id": "p038.s02",
+     "source": "When they begin looking for the Diachok, you’ll see that Simpleton will tell them everything."
+    },
+    {
+     "id": "p038.s03",
+     "source": "Let’s kill a goat and bury it in the cellar, and hide the body of the dead man in some other place.”"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Well, they waited till the dead of night; then they killed a goat and flung it into the cellar, but they carried the Diachok to another place and there hid him in the ground."
+    },
+    {
+     "id": "p039.s02",
+     "source": "Several days passed, and then people began looking everywhere for the Diachok, asking everyone about him."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "“What do you want him for?” said the Simpleton, when he was asked."
+    },
+    {
+     "id": "p040.s02",
+     "source": "“I killed him some time ago with my hatchet, and my brothers carried him into the cellar.”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "Straightway they laid hands on the Simpleton, crying, “Take us there and show him to us.”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "The Simpleton went down into the cellar, got hold of the goat’s head, and asked:—"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“Was your Diachok dark-haired?”"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“He was.”"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“And had he a beard?”"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "“Yes, he’d a beard.”"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“And horns?”"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "“What horns are you talking about, Simpleton?”"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "“Well, see for yourselves,” said he, tossing up the head to them."
+    },
+    {
+     "id": "p049.s02",
+     "source": "They looked, saw it was a goat’s, spat in the Simpleton’s face, and went their ways home."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "One of the most popular simpleton-tales in the world is that of the fond parents who harrow their feelings by conjuring up the misfortunes which may possibly await their as yet unborn grandchildren."
+    },
+    {
+     "id": "p050.s02",
+     "source": "In Scotland it is told, in a slightly different form, of two old maids who were once found bathed in tears, and who were obliged to confess that they had been day-dreaming and supposing—if they had been married, and one had had a boy and the other a girl; and if the children, when they grew up, had married, and had had a little child; and if it had tumbled out of the window and been killed—what a dreadful thing it would have been."
+    },
+    {
+     "id": "p050.s03",
+     "source": "At which terrible idea they both gave way to not unnatural tears."
+    },
+    {
+     "id": "p050.s04",
+     "source": "In one of its Russian forms, it is told of the old parents of a boy named Lutonya, who weep over the hypothetical death of an imaginary grandchild, thinking how sad it would have been if a log which the old woman has dropped had killed that as yet merely potential infant."
+    },
+    {
+     "id": "p050.s05",
+     "source": "The parent’s grief appears to Lutonya so uncalled for that he leaves home, declaring that he will not return until he has found people more foolish than they."
+    },
+    {
+     "id": "p050.s06",
+     "source": "He travels long and far, and witnesses several foolish doings, most of which are familiar to us."
+    },
+    {
+     "id": "p050.s07",
+     "source": "In one place, a cow is being hoisted on to a roof in order that it may eat the grass growing thereon; in another a horse is being inserted into its collar by sheer force; in a third, a woman is fetching milk from the cellar, a spoonful at a time."
+    },
+    {
+     "id": "p050.s08",
+     "source": "But the story comes to an end before its hero has discovered the surpassing stupidity of which he is in quest."
+    },
+    {
+     "id": "p050.s09",
+     "source": "In another Russian story of a similar nature Lutonya goes from home in search of some one more foolish than his mother, who has been tricked by a cunning sharper."
+    },
+    {
+     "id": "p050.s10",
+     "source": "First he finds carpenters attempting to stretch a beam which is not long enough, and earns their gratitude by showing them how to add a piece to it."
+    },
+    {
+     "id": "p050.s11",
+     "source": "Then he comes to a place where sickles are unknown, and harvesters are in the habit of biting off the ears of corn, so he makes a sickle for them, thrusts it into a sheaf and leaves it there."
+    },
+    {
+     "id": "p050.s12",
+     "source": "They take it for a monstrous worm, tie a cord to it, and drag it away to the bank of the river."
+    },
+    {
+     "id": "p050.s13",
+     "source": "There they fasten one of their number to a log and set him afloat, giving him the end of the cord, in order that he may drag the “worm” after him into the water."
+    },
+    {
+     "id": "p050.s14",
+     "source": "The log turns over, and the moujik with it, so that his head is under water while his legs appear above it."
+    },
+    {
+     "id": "p050.s15",
+     "source": "“Why, brother!” they call to him from the bank, “why are you so particular about your leggings?"
+    },
+    {
+     "id": "p050.s16",
+     "source": "If they do get wet, you can dry them at the fire.”"
+    },
+    {
+     "id": "p050.s17",
+     "source": "But he makes no reply, only drowns."
+    },
+    {
+     "id": "p050.s18",
+     "source": "Finally Lutonya meets the counterpart of the well-known Irishman who, when counting the party to which he belongs, always forgets to count himself, and so gets into numerical difficulties."
+    },
+    {
+     "id": "p050.s19",
+     "source": "After which he returns home."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "It would be easy to multiply examples of this style of humor—to find in the folk-tales current all over Russia the equivalents of our own facetious narratives about the wise men of Gotham, the old woman whose petticoats were cut short by the pedlar whose name was Stout, and a number of other inhabitants of Fool-land, to whom the heart of childhood is still closely attached, and also of the exaggeration-stories, the German Lügenmährchen , on which was founded the narrative of Baron Munchausen’s surprising adventures."
+    },
+    {
+     "id": "p051.s02",
+     "source": "But instead of doing this, before passing on to the more important groups of the Skazkas, I will quote, as this chapter’s final illustrations of the Russian story-teller’s art, an “animal story” and a “legend.”"
+    },
+    {
+     "id": "p051.s03",
+     "source": "Here is the former:—"
+    }
+   ],
+   "id": "p051"
+  }
+ ]
+}

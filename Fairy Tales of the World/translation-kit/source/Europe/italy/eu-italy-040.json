@@ -1,0 +1,121 @@
+{
+ "id": "eu-italy-040",
+ "title": {
+  "id": "title",
+  "source": "THE PARROT ( First Version )"
+ },
+ "tradition": "Italy",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Italian Popular Tales",
+ "credits": "Crane, Thomas Frederick (author, d. 1927)",
+ "gutenberg": "Project Gutenberg eBook #23634 — https://www.gutenberg.org/ebooks/23634 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Italy/040 - THE PARROT ( First Version ).md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 19,
+  "words": 431
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a merchant who had a beautiful daughter, with whom the king and the viceroy were both in love."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The former knew that the merchant would soon have to depart on business, and he would then have a chance to speak with the girl."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The viceroy knew it, too, and pondered on how he could prevent the king succeeding in his plan."
+    },
+    {
+     "id": "p001.s04",
+     "source": "He was acquainted with a witch, and promised her immunity and a large sum of money if she would teach him how to change himself into a parrot."
+    },
+    {
+     "id": "p001.s05",
+     "source": "This she did, and of course the merchant bought him for his daughter, and departed."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "When the parrot thought it was about time for the king to come, he said to the girl: \"Now, to amuse you, I will tell you a story; but you must attend to me and not see any one while I am telling it.\""
+    },
+    {
+     "id": "p002.s02",
+     "source": "Then he began his story, and after he had gone a little way in it a servant entered and told her mistress that there was a letter for her."
+    },
+    {
+     "id": "p002.s03",
+     "source": "\"Tell her to bring it later,\" said the parrot, \"and now listen to me.\""
+    },
+    {
+     "id": "p002.s04",
+     "source": "\"I do not receive letters while my father is away,\" said the mistress, and the parrot continued."
+    },
+    {
+     "id": "p002.s05",
+     "source": "After a while another interruption."
+    },
+    {
+     "id": "p002.s06",
+     "source": "A servant announces the visit of an aunt."
+    },
+    {
+     "id": "p002.s07",
+     "source": "(It was not an aunt, but a woman who came from the king.)"
+    },
+    {
+     "id": "p002.s08",
+     "source": "The parrot said: \"Do not receive her; we are in the finest part of our story,\" and the young girl sent word that she did not receive any visits while her father was absent, and the parrot went on."
+    },
+    {
+     "id": "p002.s09",
+     "source": "When his story was ended the girl was so pleased that she would listen to no one else until her father returned."
+    },
+    {
+     "id": "p002.s10",
+     "source": "Then the parrot disappeared, and the viceroy visited the merchant and asked his daughter's hand."
+    },
+    {
+     "id": "p002.s11",
+     "source": "He consented, and the marriage took place that very day."
+    },
+    {
+     "id": "p002.s12",
+     "source": "The wedding was scarcely over when a gentleman came to ask the girl's hand for the king; but it was too late, and the poor king, who was much in love with her, died of a broken heart, and the girl remained the wife of the viceroy, who had been more cunning than the king."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "We have omitted the story told by the parrot because we shall meet it again in the Sicilian version, and substantially in the following version from Florence, which we give entire on account of the rarity of the work in which it is found, and for its own merits."
+    },
+    {
+     "id": "p004.s02",
+     "source": "It is also entitled:"
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

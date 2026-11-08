@@ -1,0 +1,157 @@
+{
+ "id": "eu-sweden-030",
+ "title": {
+  "id": "title",
+  "source": "Hålde Hat"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/030 - Hålde Hat.md",
+ "stats": {
+  "paragraphs": 10,
+  "segments": 19,
+  "words": 505
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "At the extremity of the beautiful valley of Espelund, in the parish of Mo, there rises a wood-covered [ ] mountain known as Bergåsa Mountain, from the distance looking like a giant cone; three sides presenting frowning precipices, the fourth (and southern) fortified by a large wall of boulders, which is said to have surrounded, in former times, a king’s castle, called Grimslott."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Here, in times gone by, lived a mountain king named Grim."
+    },
+    {
+     "id": "p002.s02",
+     "source": "He was, like the rest of his kind, ugly and crafty, and robbed mankind of whatever fell in his way."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "For this purpose he had two hats, one of which was called the Dulde hat, and was so endowed that when the king put it on his head both he and his companions became invisible; and the other was called the Hålde hat, which possessed a power making all things plainly visible to the wearer that were before invisible."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "It happened, during these days, that a farmer of Grimland, preparing a wedding for his daughter, invited guests from near and far to the festivities."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Pretending, however, not to know the mountain king, he did not invite him."
+    },
+    {
+     "id": "p004.s03",
+     "source": "The latter apparently took no offense at this, but, on the wedding day, putting his Dulde hat upon his head, set out to the wedding feast, followed by all his people, except the queen, who was left at home to watch the castle."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "When the wedding guests sat themselves at table everything that was brought in vanished, both food and drink, to the great astonishment of all, as they could not understand where it disappeared; but a young peasant suspected the Trolls were at the bottom of it, and, springing upon a horse, rode straightway to [ ] Borgåsa Mountain."
+    },
+    {
+     "id": "p005.s02",
+     "source": "On the steps stood the mountain queen, so beautiful and fine, who inquired of the rider how things were going at the wedding feast in Grimland."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“The food is salt and the oil is sour,” answered he."
+    },
+    {
+     "id": "p006.s02",
+     "source": "“That stingy farmer has hidden the wine and meat in the cellar where no one can find it."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Now, your husband sends greeting, and requests that you give me the Hålde hat, that he may be able to find its hiding-place.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Without mistrust the queen gave him the enchanted hat, whereupon the young peasant hastened back to the festivities."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Entering the hall, he donned the hat and saw at once the mountain king and his followers sitting among the guests, seizing upon everything as fast as brought in."
+    },
+    {
+     "id": "p007.s03",
+     "source": "The peasant drew his sword, and commanded the others to do likewise."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Stab as I stab and cut as I cut,” cried he, and began to slash around the table."
+    },
+    {
+     "id": "p008.s02",
+     "source": "The other guests followed his example and slew the mountain king and all his followers."
+    },
+    {
+     "id": "p008.s03",
+     "source": "From that time, so says the story, the castle upon Borgåsa Mountain has been untenanted. [ ]"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "The belief that giants have two hats, one of which renders the wearer invisible, and another that reveals things otherwise invisible, is widespread in Northern Scandinavia. ↑"
+    }
+   ],
+   "id": "p010"
+  }
+ ]
+}

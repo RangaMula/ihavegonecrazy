@@ -1,0 +1,78 @@
+{
+ "id": "eu-denmark-097",
+ "title": {
+  "id": "title",
+  "source": "Fourth Evening"
+ },
+ "tradition": "Denmark",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy Tales of Hans Christian Andersen",
+ "credits": "Andersen, H. C. (Hans Christian) (author, d. 1875)",
+ "gutenberg": "Project Gutenberg eBook #27200 — https://www.gutenberg.org/ebooks/27200 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Denmark/097 - Fourth Evening.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 11,
+  "words": 316
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "\"This evening I saw a German play acted,\" said the Moon."
+    },
+    {
+     "id": "p001.s02",
+     "source": "\"It was in a little town."
+    },
+    {
+     "id": "p001.s03",
+     "source": "A stable had been turned into a theatre; that is to say, the stable had been left standing, and had been turned into private boxes, and all the timber work had been covered with coloured paper."
+    },
+    {
+     "id": "p001.s04",
+     "source": "A little iron chandelier hung beneath the ceiling, and that it might be made to disappear into the ceiling, as it does in great theatres, when the ting-ting of the prompter's bell is heard, a great inverted tub has been placed just above it."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"'Ting-ting!' and the little iron chandelier suddenly rose at least half a yard and disappeared in the tub; and that was the sign that the play was going to begin."
+    },
+    {
+     "id": "p002.s02",
+     "source": "A young nobleman and his lady, who happened to be passing through the little town, were present at the performance, and consequently the house was crowded."
+    },
+    {
+     "id": "p002.s03",
+     "source": "But under the chandelier was a vacant space like a little crater: not a single soul sat there, for the tallow was dropping, drip, drip!"
+    },
+    {
+     "id": "p002.s04",
+     "source": "I saw everything, for it was so warm in there that every loophole had been opened."
+    },
+    {
+     "id": "p002.s05",
+     "source": "The male and female servants stood outside, peeping through the chinks, although a real policeman was inside, threatening them with a stick."
+    },
+    {
+     "id": "p002.s06",
+     "source": "Close by the orchestra could be seen the noble young couple in two old arm-chairs, which were usually occupied by his worship the mayor and his lady; but these latter were to-day obliged to content themselves with wooden forms, just as if they had been ordinary citizens; and the lady observed quietly to herself, 'One sees, now, that there is rank above rank;' and this incident gave an air of extra festivity to the whole proceedings."
+    },
+    {
+     "id": "p002.s07",
+     "source": "The chandelier gave little leaps, the crowd got their knuckles rapped, and I, the Moon, was present at the performance from beginning to end.\""
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

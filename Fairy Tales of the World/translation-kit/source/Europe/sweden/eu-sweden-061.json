@@ -1,0 +1,78 @@
+{
+ "id": "eu-sweden-061",
+ "title": {
+  "id": "title",
+  "source": "Bolstre Castle"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/061 - Bolstre Castle.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 8,
+  "words": 263
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "One evening, a long time ago, a little girl went up through the forest to Bolstre Castle in search of some sheep that had gone astray."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Reaching the inside of the walls, the little girl was met by [ ] an old woman, clothed in a red skirt and a gray head covering, who gave into her possession a box, and commanded her to take care of it while she went to invite a number of her friends to become guests at her daughter’s wedding."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The girl was so frightened that she did not dare to refuse the charge, and, taking the box, sat down upon a stone to wait the woman’s return."
+    },
+    {
+     "id": "p003.s02",
+     "source": "When she had thus sat a long time she heard a bird twittering over her head in a tree, and looking up, two leaves fell from the tree in such manner as to form a cross upon the box, whereupon the cover instantly flew open and revealed its contents—a bridal crown of shining gold and many other costly jewels."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The girl waited long and patiently, but the old woman did not return, so, finally she set out on her way home, taking with her the jewel casket."
+    },
+    {
+     "id": "p004.s02",
+     "source": "But blessings do not go with Troll property."
+    },
+    {
+     "id": "p004.s03",
+     "source": "No bride would wear the crown, it was so fine, and the girl soon after lost her lover."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Now that it was clear to every one that a Troll’s gold brought only misfortune upon the household, it was carried back to the castle and buried in the ground, where it surely lies to-day. [ ]"
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

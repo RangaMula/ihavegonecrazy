@@ -1,0 +1,58 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-004",
+ "title": {
+  "id": "title",
+  "source": "The Lion And The Mouse"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/004 - The Lion And The Mouse.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 6,
+  "words": 133
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A LION was awakened from sleep by a Mouse running over his face."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Rising up angrily, he caught him and was about to kill him, when the Mouse piteously entreated, saying: “If you would only spare my life, I would be sure to repay your kindness.”"
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Lion laughed and let him go."
+    },
+    {
+     "id": "p001.s04",
+     "source": "It happened shortly after this that the Lion was caught by some hunters, who bound him by strong ropes to the ground."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The Mouse, recognizing his roar, came and gnawed the rope with his teeth, and set him free, exclaiming:"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“You ridiculed the idea of my ever being able to help you, not expecting to receive from me any repayment of your favor; now you know that it is possible for even a Mouse to confer benefits on a Lion.”"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

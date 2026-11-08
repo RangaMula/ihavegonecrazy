@@ -1,0 +1,62 @@
+{
+ "id": "as-persia-iran-001",
+ "title": {
+  "id": "title",
+  "source": "Persian Fairy Tales"
+ },
+ "tradition": "Persia (Iran)",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "The Cat and the Mouse: A Book of Persian Fairy Tales",
+ "credits": "James, Hartwell (editor)",
+ "gutenberg": "Project Gutenberg eBook #24473 — https://www.gutenberg.org/ebooks/24473 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Persia (Iran)/001 - Persian Fairy Tales.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 4,
+  "words": 98
+ },
+ "paragraphs": [
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "The Cat and the Mouse A Book of Persian Fairy Tales"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "EDITED with an INTRODUCTION By HARTWELL JAMES WITH FORTY ILLUSTRATIONS By JOHN R. NEILL"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "PHILADELPHIA HENRY ALTEMUS COMPANY"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Altemus' Illustrated Fairy Tales Series The Magic Bed A Book of East Indian Tales The Cat and the Mouse A Book of Persian Tales The Jeweled Sea A Book of Chinese Tales The Magic Jaw Bone A Book of South Sea Islands Tales The Man Elephant A Book of African Tales The Enchanted Castle A Book of Tales from Flower Land Fifty Cents Each Copyright, 1906 By Henry Altemus"
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

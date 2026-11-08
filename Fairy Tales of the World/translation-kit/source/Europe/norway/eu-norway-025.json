@@ -1,0 +1,112 @@
+{
+ "id": "eu-norway-025",
+ "title": {
+  "id": "title",
+  "source": "One's Own Children Are Always Prettiest"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Popular Tales from the Norse",
+ "credits": "Moe, Jørgen Engebretsen (compiler, d. 1882); Asbjørnsen, Peter Christen (compiler, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)",
+ "gutenberg": "Project Gutenberg eBook #8933 — https://www.gutenberg.org/ebooks/8933 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Norway/025 - One's Own Children Are Always Prettiest.md",
+ "stats": {
+  "paragraphs": 9,
+  "segments": 9,
+  "words": 138
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A sportsman went out once into a wood to shoot, and he met a Snipe."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "'Dear friend', said the Snipe, 'don't shoot my children!'"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "'How shall I know your children?' asked the Sportsman; 'what are they like?'"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "'Oh!' said the Snipe, 'mine are the prettiest children in all the wood.'"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "'Very well', said the Sportsman, 'I'll not shoot them; don't be afraid.'"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "But for all that, when he came back, there he had a whole string of young snipes in his hand which he had shot."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "'Oh, oh!' said the Snipe, 'why did you shoot my children after all?'"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "'What! these your children!' said the Sportsman; 'why, I shot the ugliest I could find, that I did!'"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "'Woe is me!' said the Snipe; 'don't you know that each one thinks his own children the prettiest in the world?'"
+    }
+   ],
+   "id": "p009"
+  }
+ ]
+}

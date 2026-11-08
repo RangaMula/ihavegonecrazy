@@ -1,0 +1,50 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-093",
+ "title": {
+  "id": "title",
+  "source": "The Old Woman and the Wine-Jar"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/093 - The Old Woman and the Wine-Jar.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 4,
+  "words": 76
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "AN OLD WOMAN found an empty jar which had lately been full of prime old wine and which still retained the fragrant smell of its former contents."
+    },
+    {
+     "id": "p001.s02",
+     "source": "She greedily placed it several times to her nose, and drawing it backwards and forwards said, “O most delicious!"
+    },
+    {
+     "id": "p001.s03",
+     "source": "How nice must the Wine itself have been, when it leaves behind in the very vessel which contained it so sweet a perfume!”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The memory of a good deed lives."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

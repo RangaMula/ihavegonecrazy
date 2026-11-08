@@ -1,0 +1,48 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-009",
+ "title": {
+  "id": "title",
+  "source": "The Kingdom of the Lion"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/009 - The Kingdom of the Lion.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 5,
+  "words": 124
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "THE BEASTS of the field and forest had a Lion as their king."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He was neither wrathful, cruel, nor tyrannical, but just and gentle as a king could be."
+    },
+    {
+     "id": "p001.s03",
+     "source": "During his reign he made a royal proclamation for a general assembly of all the birds and beasts, and drew up conditions for a universal league, in which the Wolf and the Lamb, the Panther and the Kid, the Tiger and the Stag, the Dog and the Hare, should live together in perfect peace and amity."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The Hare said, “Oh, how I have longed to see this day, in which the weak shall take their place with impunity by the side of the strong.”"
+    },
+    {
+     "id": "p001.s05",
+     "source": "And after the Hare said this, he ran for his life."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

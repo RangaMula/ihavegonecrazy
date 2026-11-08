@@ -1,0 +1,113 @@
+{
+ "id": "as-china-011",
+ "title": {
+  "id": "title",
+  "source": "The Fox And The Tiger"
+ },
+ "tradition": "China",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "The Chinese Fairy Book",
+ "credits": "Wilhelm, Richard (editor, d. 1930)",
+ "gutenberg": "Project Gutenberg eBook #29939 — https://www.gutenberg.org/ebooks/29939 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/China/011 - The Fox And The Tiger.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 14,
+  "words": 189
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "O NCE a fox met a tiger."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The latter bared his teeth, stretched out his claws, and was about to devour him."
+    },
+    {
+     "id": "p001.s03",
+     "source": "But the fox spoke and said: “My dear sir, you must not think that you are the only king of beasts."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Your courage does not compare with my own."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Let us walk together, and do you keep behind me."
+    },
+    {
+     "id": "p001.s06",
+     "source": "And if men catch sight of me and do not fear me, then you may devour me.”"
+    },
+    {
+     "id": "p001.s07",
+     "source": "The tiger was willing, and so the fox led him along a broad highway."
+    },
+    {
+     "id": "p001.s08",
+     "source": "But the travelers, when they saw the tiger in the distance, were all frightened and ran away."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Then the fox said: “How about it?"
+    },
+    {
+     "id": "p002.s02",
+     "source": "I went in advance, and the men saw me and had not as yet seen you.”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "And thereupon the tiger drew in his tail and ran away himself."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The tiger had remarked quite well that the men were afraid of the fox, but he had not noticed that the fox had borrowed the terror he inspired from him."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Note: This universally known fable is traditionally narrated."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Animal fables are very rare in China."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p006"
+  }
+ ]
+}

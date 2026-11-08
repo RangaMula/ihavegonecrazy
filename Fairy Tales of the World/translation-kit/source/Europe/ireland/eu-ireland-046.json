@@ -1,0 +1,98 @@
+{
+ "id": "eu-ireland-046",
+ "title": {
+  "id": "title",
+  "source": "The Priest Of Coloony"
+ },
+ "tradition": "Ireland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Fairy and Folk Tales of the Irish Peasantry",
+ "credits": "Yeats, W. B. (William Butler) (editor, d. 1939)",
+ "gutenberg": "Project Gutenberg eBook #33887 — https://www.gutenberg.org/ebooks/33887 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Ireland/046 - The Priest Of Coloony.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 9,
+  "words": 60
+ },
+ "paragraphs": [
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "W. B. YEATS"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "[Coloony is a few miles south of the town of Sligo."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Father O'Hart lived there in the last century, and was greatly beloved."
+    },
+    {
+     "id": "p002.s03",
+     "source": "These lines accurately record the tradition."
+    },
+    {
+     "id": "p002.s04",
+     "source": "No one who has held the stolen land has prospered."
+    },
+    {
+     "id": "p002.s05",
+     "source": "It has changed owners many times.]"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Footnotes"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Shoneen — i.e. , upstart."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Sleiveen — i.e. , mean fellow."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p007"
+  }
+ ]
+}

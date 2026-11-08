@@ -1,0 +1,156 @@
+{
+ "id": "eu-russia-066",
+ "title": {
+  "id": "title",
+  "source": "Christ And The Geese"
+ },
+ "tradition": "Russia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Russian Folk-Tales",
+ "credits": "Afanas'ev, A. N. (Aleksandr Nikolaevich) (author, d. 1871); Magnus, Leonard A. (Leonard Arthur) (translator, d. 1924)",
+ "gutenberg": "Project Gutenberg eBook #62509 — https://www.gutenberg.org/ebooks/62509 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Russia/066 - Christ And The Geese.md",
+ "stats": {
+  "paragraphs": 9,
+  "segments": 20,
+  "words": 182
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "One day St. Peter and Christ were out walking together."
+    },
+    {
+     "id": "p001.s02",
+     "source": "St. Peter was deep in thought and suddenly said: “How fine it must be to be God!"
+    },
+    {
+     "id": "p001.s03",
+     "source": "If for half a day I might be God, then let me be Peter all the rest of my days!”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The Lord smiled."
+    },
+    {
+     "id": "p002.s02",
+     "source": "“Your will shall be granted."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Be God until nightfall.”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "They were approaching a village, and saw a peasant girl driving a flock of geese."
+    },
+    {
+     "id": "p003.s02",
+     "source": "She drove them to the meadow, left them there, and hurried back home."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Are you going to leave the geese by themselves?”"
+    },
+    {
+     "id": "p004.s02",
+     "source": "St. Peter asked."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Well, what?—guard them to-day!"
+    },
+    {
+     "id": "p005.s02",
+     "source": "It’s a feast-day.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“But who will look after the geese?”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“God Almighty, maybe,” she said, and ran away."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Peter, you have heard her,” said the Saviour."
+    },
+    {
+     "id": "p008.s02",
+     "source": "“I should have been delighted to go with you to the village feast, but then the geese might come to some harm."
+    },
+    {
+     "id": "p008.s03",
+     "source": "You are God until nightfall, and must stay and watch them.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Poor Peter!"
+    },
+    {
+     "id": "p009.s02",
+     "source": "He was angry; but had to stay and guard the geese."
+    },
+    {
+     "id": "p009.s03",
+     "source": "He never again wished to be God."
+    }
+   ],
+   "id": "p009"
+  }
+ ]
+}

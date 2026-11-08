@@ -1,0 +1,200 @@
+{
+ "id": "as-laos-009",
+ "title": {
+  "id": "title",
+  "source": "The Man in the Moon"
+ },
+ "tradition": "Laos",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Laos Folk-Lore of Farther India",
+ "credits": "Fleeson, Katherine Neville (author)",
+ "gutenberg": "Project Gutenberg eBook #35564 — https://www.gutenberg.org/ebooks/35564 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Asia/Laos/009 - The Man in the Moon.md",
+ "stats": {
+  "paragraphs": 11,
+  "segments": 28,
+  "words": 301
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was a blacksmith once, who complained: “I am not well, and my work is too warm."
+    },
+    {
+     "id": "p001.s02",
+     "source": "I want to be a stone on the mountain."
+    },
+    {
+     "id": "p001.s03",
+     "source": "There it must be cool, for the wind blows and the trees give a shade.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "A wise man, who had power over all things, replied, “Go thou, be a stone.”"
+    },
+    {
+     "id": "p002.s02",
+     "source": "And he was a stone, high up on the mountain-side."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "It happened a stone-cutter came that way for stone, and, when he saw the one that had been the blacksmith, he knew it was what he sought and he began to cut it."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The stone cried out: “This hurts."
+    },
+    {
+     "id": "p004.s02",
+     "source": "I no longer want to be a stone."
+    },
+    {
+     "id": "p004.s03",
+     "source": "A stone-cutter I want to be."
+    },
+    {
+     "id": "p004.s04",
+     "source": "That would be pleasant.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The wise man, humoring him, said, “Be a cutter.”"
+    },
+    {
+     "id": "p005.s02",
+     "source": "Thus he became a stone-cutter and, as he went seeking suitable stone, he grew tired, and his feet were sore."
+    },
+    {
+     "id": "p005.s03",
+     "source": "He whimpered, “I no longer want to cut stone."
+    },
+    {
+     "id": "p005.s04",
+     "source": "I would be the sun, that would be pleasant.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "The wise man commanded, “Be the sun.”"
+    },
+    {
+     "id": "p006.s02",
+     "source": "And he was the sun."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "But the sun was warmer than the blacksmith, than a stone, than a stone-cutter, and he complained, “I do not like this."
+    },
+    {
+     "id": "p007.s02",
+     "source": "I would be the moon."
+    },
+    {
+     "id": "p007.s03",
+     "source": "It looks cool.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "The wise man spake yet again, “Be the moon.”"
+    },
+    {
+     "id": "p008.s02",
+     "source": "And he was the moon."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“This is warmer than being the sun,” murmured he, “for the light from the sun shines on me ever."
+    },
+    {
+     "id": "p009.s02",
+     "source": "I do not want to be the moon."
+    },
+    {
+     "id": "p009.s03",
+     "source": "I would be a smith again."
+    },
+    {
+     "id": "p009.s04",
+     "source": "That, verily, is the best life.”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "But the wise man replied, “I am weary of your changing."
+    },
+    {
+     "id": "p010.s02",
+     "source": "You wanted to be the moon; the moon you are, and it you will remain.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "And in yon high heaven lives he to this day."
+    }
+   ],
+   "id": "p011"
+  }
+ ]
+}

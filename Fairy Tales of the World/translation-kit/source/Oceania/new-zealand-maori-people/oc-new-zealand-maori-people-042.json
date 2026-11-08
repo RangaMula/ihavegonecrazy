@@ -1,0 +1,58 @@
+{
+ "id": "oc-new-zealand-maori-people-042",
+ "title": {
+  "id": "title",
+  "source": "The Early Settlers"
+ },
+ "tradition": "New Zealand (Maori people)",
+ "continent": "Oceania",
+ "source_lang": "en",
+ "source_book": "Maori Religion and Mythology",
+ "credits": "Shortland, Edward (author, d. 1893)",
+ "gutenberg": "Project Gutenberg eBook #42218 — https://www.gutenberg.org/ebooks/42218 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Oceania/New Zealand (Maori people)/042 - The Early Settlers.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 6,
+  "words": 188
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "When foreigners, called by the natives Pakeha , first came to New Zealand, they were admitted readily by the Maori to dwell among them."
+    },
+    {
+     "id": "p001.s02",
+     "source": "They were allowed to acquire land by purchase, and to form alliances with their families; and the children of such connections were considered as belonging to the tribe of their mother."
+    },
+    {
+     "id": "p001.s03",
+     "source": "They were never treated as belonging to a stranger tribe—as tangata ke ."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Tăku pakeha, toku matua , my own pakeha , my father, were the common terms used to denote their sentiment of relationship."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "It is not to be wondered at that every tribe in these islands was at first anxious to have Pakeha settlers dwelling with them, and was ready to admit them to the privileges of tribesmen, for through them they could obtain what they most valued of the world’s goods."
+    },
+    {
+     "id": "p002.s02",
+     "source": "But when dissensions arose between the two races, notably about land, and issued in war, the feelings of those who took up arms became modified, and their old friends, the Pakeha , were no longer looked on as matua or fathers, but rather as tangata ke , or strangers."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

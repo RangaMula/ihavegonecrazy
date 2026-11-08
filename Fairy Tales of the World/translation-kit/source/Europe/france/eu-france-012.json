@@ -1,0 +1,167 @@
+{
+ "id": "eu-france-012",
+ "title": {
+  "id": "title",
+  "source": "The Forest Of Lilacs"
+ },
+ "tradition": "France",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Old French Fairy Tales",
+ "credits": "Ségur, Sophie, comtesse de (author, d. 1874)",
+ "gutenberg": "Project Gutenberg eBook #30129 — https://www.gutenberg.org/ebooks/30129 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/France/012 - The Forest Of Lilacs.md",
+ "stats": {
+  "paragraphs": 9,
+  "segments": 23,
+  "words": 305
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "W hen Blondine entered the forest she commenced gathering the beautiful branches of lilacs."
+    },
+    {
+     "id": "p001.s02",
+     "source": "She rejoiced in their profusion and delighted in their fragrance."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "As she made her selection, it seemed to her that those which were more distant were still more beautiful so she emptied her apron and her hat, which were both full and filled them again and again."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Blondine had been thus busily occupied for about an hour."
+    },
+    {
+     "id": "p003.s02",
+     "source": "She began to suffer from the heat and to feel great fatigue."
+    },
+    {
+     "id": "p003.s03",
+     "source": "She found the branches of lilacs heavy to carry and thought it was time to return to the palace."
+    },
+    {
+     "id": "p003.s04",
+     "source": "She looked around and saw herself surrounded with lilacs."
+    },
+    {
+     "id": "p003.s05",
+     "source": "She called Gourmandinet but no one replied."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"I have wandered further than I intended,\" said Blondine."
+    },
+    {
+     "id": "p004.s02",
+     "source": "\"I will return at once, though I am very weary."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Gourmandinet will hear me and will surely come to meet me.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Blondine walked on rapidly for some time but she could not find the boundaries of the forest."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Many times she called anxiously upon Gourmandinet but he did not respond and at last she became terribly frightened."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"What will become of me, all alone in this vast forest?"
+    },
+    {
+     "id": "p007.s02",
+     "source": "What will my poor papa think when I do not return?"
+    },
+    {
+     "id": "p007.s03",
+     "source": "And Gourmandinet, how will he dare go back to the palace without me?"
+    },
+    {
+     "id": "p007.s04",
+     "source": "He will be scolded, perhaps beaten and all this is my fault because I would leave my carriage to gather lilacs?"
+    },
+    {
+     "id": "p007.s05",
+     "source": "Unfortunate girl that I am!"
+    },
+    {
+     "id": "p007.s06",
+     "source": "I shall die of hunger and thirst in this forest if the wolves do not eat me up this night.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Weeping bitterly, Blondine fell on the ground at the foot of a large tree."
+    },
+    {
+     "id": "p008.s02",
+     "source": "She wept a long time."
+    },
+    {
+     "id": "p008.s03",
+     "source": "At last her great fatigue mastered her grief."
+    },
+    {
+     "id": "p008.s04",
+     "source": "She placed her little head upon her bundle of lilacs, and slept peacefully."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p009"
+  }
+ ]
+}

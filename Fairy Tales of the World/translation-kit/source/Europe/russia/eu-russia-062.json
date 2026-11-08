@@ -1,0 +1,896 @@
+{
+ "id": "eu-russia-062",
+ "title": {
+  "id": "title",
+  "source": "Beer And Bread"
+ },
+ "tradition": "Russia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Russian Folk-Tales",
+ "credits": "Afanas'ev, A. N. (Aleksandr Nikolaevich) (author, d. 1871); Magnus, Leonard A. (Leonard Arthur) (translator, d. 1924)",
+ "gutenberg": "Project Gutenberg eBook #62509 — https://www.gutenberg.org/ebooks/62509 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Russia/062 - Beer And Bread.md",
+ "stats": {
+  "paragraphs": 59,
+  "segments": 130,
+  "words": 2126
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In a certain kingdom, in a certain State, there once lived a rich peasant, and he had much money and bread; he used to lend money on interest to the poor husbandmen of his village."
+    },
+    {
+     "id": "p001.s02",
+     "source": "And, if he gave corn, then it had to be returned in full in the summer; and in addition to that, for every three pecks the debtor had to work two days on the lord’s field."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "And one day it happened that there was a festival in the Church, and the peasants began brewing beer for the feast."
+    },
+    {
+     "id": "p002.s02",
+     "source": "But in this village there was a peasant who was so poor that there was no poorer to be found."
+    },
+    {
+     "id": "p002.s03",
+     "source": "And there he sat in the evening with his wife on the eve of the festival in his little hut."
+    },
+    {
+     "id": "p002.s04",
+     "source": "He was thinking: “What shall I do?"
+    },
+    {
+     "id": "p002.s05",
+     "source": "All the good folk are now gadding about making merry, and we have not a crust of bread in our house."
+    },
+    {
+     "id": "p002.s06",
+     "source": "I might have gone to the rich man and asked him for a loan; but he would not trust me."
+    },
+    {
+     "id": "p002.s07",
+     "source": "Now what shall I do, I am so woebegone!”"
+    },
+    {
+     "id": "p002.s08",
+     "source": "And he thought and thought, and he left the bench and stood in front of the icon, and sighed a heavy sigh."
+    },
+    {
+     "id": "p002.s09",
+     "source": "“Lord,” he said, “have forgiveness on my sins, for I cannot buy any oil with which to fill the lamp in front of Thy icon for Thy feast.”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "And after a little while, an old man came into the hut."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Hail, master,” he said."
+    },
+    {
+     "id": "p004.s02",
+     "source": "“Hail, old man!"
+    },
+    {
+     "id": "p004.s03",
+     "source": "Can I stay the night here?”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“If you will."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Stay the night if you like."
+    },
+    {
+     "id": "p005.s03",
+     "source": "But, Gossip, I have not a crust of bread in my house, and I cannot feed you.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "293 “Never mind, master, I have three crusts of bread, and meat: give me a ladle of water."
+    },
+    {
+     "id": "p006.s02",
+     "source": "I will take a taste of the loaf and a sup of the water, and we shall be satisfied.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "So the old man sat down on the bench, and spoke."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Why are you so sad, master?"
+    },
+    {
+     "id": "p008.s02",
+     "source": "What has made you melancholy?”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Old man,” the master answered, “why should I not be heavy?—it is God’s gift."
+    },
+    {
+     "id": "p009.s02",
+     "source": "We were so looking forward to the feast."
+    },
+    {
+     "id": "p009.s03",
+     "source": "All the good folk are making merry and rejoicing, but we are clean swept out."
+    },
+    {
+     "id": "p009.s04",
+     "source": "All around me and within there is emptiness.”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“Well, be of good cheer,” said the old man; “go to the rich peasant and ask whatever you require of him as a debt.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“No, I cannot go, for he will not give it.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Go,” the old man insisted."
+    },
+    {
+     "id": "p012.s02",
+     "source": "“Fear nothing."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Ask him for three pecks of malt, and we will brew the beer together.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“But it is so late."
+    },
+    {
+     "id": "p013.s02",
+     "source": "How shall we brew beer?—the feast is to be to-morrow.”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“Do what I say."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Go to the rich peasant and ask for the three pecks of malt."
+    },
+    {
+     "id": "p014.s03",
+     "source": "He will give it you at once."
+    },
+    {
+     "id": "p014.s04",
+     "source": "No, he cannot refuse it."
+    },
+    {
+     "id": "p014.s05",
+     "source": "And to-morrow you shall have beer so good at the feast—better than any you shall find throughout the village.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "What could the poor man say?"
+    },
+    {
+     "id": "p015.s02",
+     "source": "He got up, took his sack under his arm, and went up to the rich peasant."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "He went into the rich man’s izbá , bowed down, besought him by his name and his father’s name, and asked him for the loan of three pecks of malt, as he wanted to brew beer for the festival."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“Why did you not think of it sooner?” the rich man replied."
+    },
+    {
+     "id": "p017.s02",
+     "source": "“How can you do it now, for this is the eve of the festival?”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "294 “Never mind, Gossip,” the poor man replied; “if you will be so good, I and my wife will still brew something together, and can drink together and celebrate the festival.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "The rich man gave him three pecks of malt and poured them into his sack."
+    },
+    {
+     "id": "p019.s02",
+     "source": "The poor man lifted the sack on to his shoulders and went home and recounted how things had gone."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“Now, master,” his old guest said, “you shall have a feast."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Is there a well at your door?”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“There is,” said the peasant."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“Well, we will go to your well and brew the beer."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Bring your sack and follow me.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "So they went out to the courtyard up to the well."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“Pour it all in there,” the old man said."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“Why should we hurl all this good stuff into the well?” the master replied, “for there are only three pecks, and it will all be thrown away for nothing.”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“It is the best thing you can do.”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“We shall not do any good—we shall only sully the water.”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“Listen to me, and do what I say: there is nothing to fear.”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "So what could he do?"
+    },
+    {
+     "id": "p029.s02",
+     "source": "He simply had to pour all his malt into the well."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Now,” the old man said, “formerly there was water in the well, and to-morrow it will be beer."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Now, master, we will go into the izbá and lie down to sleep, for the morning is wiser than the evening, and to-morrow you will have such good beer for dinner that one glass will make you drunk.”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "So they waited until the morning, and then when dinner-time came round the old man said: “Well, master, get as many tubs as you can, and stand them round the well and fill them all full of beer, and then 295 call every one in to drink, and you shall have a really riotous feast.”"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "And the peasant went and called all his neighbours and asked for tubs."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“What do you want all these tubs and pails for?” they asked him."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“Oh, I really want them at once, as I have not vessels enough to hold my beer.”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "And the neighbours whispered: “What on earth does he mean?"
+    },
+    {
+     "id": "p035.s02",
+     "source": "Is the good fellow gone mad?"
+    },
+    {
+     "id": "p035.s03",
+     "source": "There is not a crust of bread in his house, and he is still chattering about beer.”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Well, somehow or other, he got twenty pails and tubs together, put them all round the well, and began to haul them up."
+    },
+    {
+     "id": "p036.s02",
+     "source": "And the beer turned out so fine, finer than ever anybody could think or guess, or any tale could tell."
+    },
+    {
+     "id": "p036.s03",
+     "source": "And he filled all the tubs to the very brim, and the well was as full as ever."
+    },
+    {
+     "id": "p036.s04",
+     "source": "And he began to cry out aloud and to call guests to his door."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "“Come to me, good Christians, and drink strong beer here, such beer as you never saw in your life!”"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "And the people looked round."
+    },
+    {
+     "id": "p038.s02",
+     "source": "“What on earth was he up to?"
+    },
+    {
+     "id": "p038.s03",
+     "source": "Surely you take water out of a well, and he calls it beer?"
+    },
+    {
+     "id": "p038.s04",
+     "source": "Anyhow, let’s go and see, whatever knavery it may be.”"
+    },
+    {
+     "id": "p038.s05",
+     "source": "So they all rushed up to the tubs, and they began to ladle it out and to look at it."
+    },
+    {
+     "id": "p038.s06",
+     "source": "Evidently, after all, it must be beer."
+    },
+    {
+     "id": "p038.s07",
+     "source": "And they said: “Such beer we have never drunk before!”"
+    },
+    {
+     "id": "p038.s08",
+     "source": "His courtyard was full of the village folk."
+    },
+    {
+     "id": "p038.s09",
+     "source": "And the master was not at a loss to ladle beer out of the well for himself, and treated all of his guests right royally."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "When the rich peasant heard of this, he came to the poor man’s courtyard, tasted the beer, and began to ask the poor man: “Please to tell me how ever you managed to make such magnificent beer?”"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "“Oh, there was not any cleverness about it,” the poor 296 man answered."
+    },
+    {
+     "id": "p040.s02",
+     "source": "“It is the simplest thing in the world."
+    },
+    {
+     "id": "p040.s03",
+     "source": "When I took your three pecks from you I simply went and threw them into the well."
+    },
+    {
+     "id": "p040.s04",
+     "source": "Formerly it was water, and in a single night it all became beer.”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "“Well,” the rich man thought, “I will go home and I will do the same.”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "So he went home, and he ordered all of his servants to take all of the best malt out of his granaries, and throw it into the well."
+    },
+    {
+     "id": "p042.s02",
+     "source": "And his husbandmen threw ten sacks of malt into the well."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“Now,” the rich man said, and rubbed his hands, “I shall have finer beer than the poor man.”"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "So the next time he went out to his courtyard and up to the well, sampled it, and looked."
+    },
+    {
+     "id": "p044.s02",
+     "source": "It was water before, and it was still water; only it was rather dirtier."
+    },
+    {
+     "id": "p044.s03",
+     "source": "“I don’t quite understand this: I put too little malt into it, so I will add some more,” the rich man thought, and he ordered his workmen to put five more sacks into the well."
+    },
+    {
+     "id": "p044.s04",
+     "source": "They were all thrown in, and it was all no good: he had simply wasted all of his malt."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "And when the feast had passed by the water in the poor peasant’s well was as pure as ever, just as if nothing had happened."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "Once again the old man came to the poor peasant and said: “Listen, master, have you sown your corn this year?”"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“No, grandfather, I have not sown a single grain.”"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "“Well, now go to the rich man and ask him for three pecks of every kind of corn."
+    },
+    {
+     "id": "p048.s02",
+     "source": "We will eat with you in the fields, and we will then sow the corn.”"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "“How shall we sow it now?” the poor man answered."
+    },
+    {
+     "id": "p049.s02",
+     "source": "“It is now the very midst of winter and the frost is crackling.”"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "“Never mind about that."
+    },
+    {
+     "id": "p050.s02",
+     "source": "Go and do as I say."
+    },
+    {
+     "id": "p050.s03",
+     "source": "I brewed you beer, and I will sow you corn.”"
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "So the poor man went once more to the rich peasant 297 and asked him as a debt for three pecks of every kind of corn."
+    },
+    {
+     "id": "p051.s02",
+     "source": "When he came back he told his aged guest:"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "“Here it all is, grandfather.”"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "So they went outside to the fields, scattered it according to its nature on the peasant’s lots; and lo and behold! they went and threw all the grains on the white snow—every single grain."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "The old man said to the peasant: “Go home and wait until the summer; you will have bread enough.”"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "So the poor man went to his hut and became the laughing-stock of the village for sowing his corn in the winter."
+    },
+    {
+     "id": "p055.s02",
+     "source": "“Look at him!"
+    },
+    {
+     "id": "p055.s03",
+     "source": "What a fool he is!"
+    },
+    {
+     "id": "p055.s04",
+     "source": "He has forgotten when he ought to sow: he didn’t think of sowing in the autumn.”"
+    },
+    {
+     "id": "p055.s05",
+     "source": "He never minded, but waited for the spring, and the warm days came, and the snow melted, and the grain sprouts appeared."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "“Come now,” the poor man said, “I will go and see what my stretch of land looks like.”"
+    },
+    {
+     "id": "p056.s02",
+     "source": "So he went to his stretch of land and saw such splendid blades of corn, at which any soul might rejoice."
+    },
+    {
+     "id": "p056.s03",
+     "source": "And on all the acres of the others it was not half as fine."
+    },
+    {
+     "id": "p056.s04",
+     "source": "“Glory be to God!” the peasant cried; “I am now looking up!”"
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "Soon the time of harvest came by, and all good folk began to gather their corn, and the old man also went and busied himself, and called his wife to help him."
+    },
+    {
+     "id": "p057.s02",
+     "source": "And he could not get through, but had to summon for the harvesting all the husbandmen, and to give half of his corn away; and all the peasants were astonished at the poor man, for he had not sown his land, but had scattered the seeds in the winter and his corn had been splendid."
+    },
+    {
+     "id": "p057.s03",
+     "source": "The poor peasant had put his affairs straight and had managed to live without any trouble; and whatever he required for his household, he went into the town, sold quarters and quarters of corn, and bought whatever he required, and repaid the rich peasant his debt in full."
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "298 Then the rich peasant began to think: “Heigh-ho!"
+    },
+    {
+     "id": "p058.s02",
+     "source": "I shall also begin sowing in the winter; possibly I shall have corn as fine.”"
+    },
+    {
+     "id": "p058.s03",
+     "source": "So he waited to the very day on which the poor peasant in the previous year had sown his corn, went and took from his bins quarters of different sorts of corn, went out into the fields and scattered it all on the snow."
+    },
+    {
+     "id": "p058.s04",
+     "source": "He covered the fields entirely, but a storm arose at night, and mighty winds blew, and wafted all the corn from his land away on to the other fields."
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "Then there came a fine spring, and the rich man went to his fields and saw them bare, and saw that his own land was naked and waste; there was not a single blade that appeared, and on all the other strips where there had been no ploughing and no sowing, you never saw such a fine green crop!"
+    },
+    {
+     "id": "p059.s02",
+     "source": "Then the rich man began to think: “Lord, I have spent much on corn, and it has all been in vain, and my debtors have all neither ploughed nor sown, and their corn grows of itself."
+    },
+    {
+     "id": "p059.s03",
+     "source": "Needs I must be a great sinner!”"
+    }
+   ],
+   "id": "p059"
+  }
+ ]
+}

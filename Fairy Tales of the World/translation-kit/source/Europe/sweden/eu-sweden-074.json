@@ -1,0 +1,74 @@
+{
+ "id": "eu-sweden-074",
+ "title": {
+  "id": "title",
+  "source": "Forssa Church"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/074 - Forssa Church.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 7,
+  "words": 228
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "In the village Tåsta—Tattestad—in the parish of Hög, lived in former times a widely renowned man named Tatte, whose son, Blacke, after whom the high mountain, Blackåsberg, was named, dwelt in Nannestad, a village in the parish of Forssa."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "When the father and son were baptized they together built the church of Hög, in commemoration of the event."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Upon its completion Blacke, whose home was a long ride distant, stipulated that the bells, calling the people to worship, should never be rung until his white horse was seen on Åsaks Hill."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "One Christmas day, when Blacke was later than usual, Tatte commanded that the bell be rung, and the services had already begun when Blacke arrived at the church."
+    },
+    {
+     "id": "p003.s02",
+     "source": "In anger he tore the runic engraved ring from the church door, with prayers bound it upon his horse, made a vow that he would build a church of his own where the ring fell to the ground, and mounting his horse, rode away at full speed."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "While crossing Lake Forssa the ice broke, and the horse was plunged into the water, but both horse and rider, however, succeeded in reaching the shore, where the horse shook himself so violently that the ring was loosened and fell to the earth."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Blacke kept his word and built a church, which, after the adjacent lake, was called Forssa Church. [ ]"
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

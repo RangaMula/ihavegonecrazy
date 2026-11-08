@@ -1,0 +1,120 @@
+{
+ "id": "eu-sweden-049",
+ "title": {
+  "id": "title",
+  "source": "Lady Rangela of Edsholm"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/049 - Lady Rangela of Edsholm.md",
+ "stats": {
+  "paragraphs": 9,
+  "segments": 11,
+  "words": 265
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A few miles west of Karlstad, on a little island near Slottsbrosund, was located, in former days, an old fortress called Asa, or Edsholm Castle, otherwise notorious as the residence of the cruel stewards of Vestersysslet."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "A niggardly and cruel woman, Lady Rangela, for a time owned Edsholm and all the land thereabout."
+    },
+    {
+     "id": "p002.s02",
+     "source": "She soon made herself bitterly hated by the peasantry because of the oppressions she heaped upon them, and especially because of the unreasonable toll she demanded every time they crossed the castle bridge."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "According to agreement, two peasants went one day, the one to the top of Edsholm Mountain and the second to a mountain on the other side of the sound near the castle, whereupon the following conversation was carried on between them, in a loud voice:"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“My dear neighbor, lend me your large kettle.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“What do you want with it?”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“I want to cook Lady Rangela of Edsholm Castle, because she demands too high toll from passers over the bridge.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“You shall have it gladly.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "This was heard at the castle, and Lady Rangela, believing it to be the Trolls planning her destruction, hurriedly packed her treasures and deserted Edsholm."
+    },
+    {
+     "id": "p008.s02",
+     "source": "She had, however, gone no further than to Rangelsund, [ ] or Ransund, which is named after her, when a severe storm overtook her and sunk the boat, with people, treasure and all."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "When the peasantry learned what had happened, they poured into the castle and razed it to the ground, since when there has been nothing to indicate its existence more than a few heaps of gravel. [ ]"
+    }
+   ],
+   "id": "p009"
+  }
+ ]
+}

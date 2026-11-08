@@ -1,0 +1,155 @@
+{
+ "id": "eu-sweden-048",
+ "title": {
+  "id": "title",
+  "source": "Jonas Spits"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/048 - Jonas Spits.md",
+ "stats": {
+  "paragraphs": 11,
+  "segments": 17,
+  "words": 272
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "At Helgy, in the parish of Sunne, lived a warrior, by name Jonas Spits, who, in wars against the Russians [ ] and others, had gained for himself the reputation of a brave man."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "It so happened that there was a revolt in the land, and the king sent a message to Spits, commanding his services in battle."
+    },
+    {
+     "id": "p002.s02",
+     "source": "One Sunday morning, after the troops had assembled in the field, Spits was engaged in grinding his sword."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“This is right!” said the king."
+    },
+    {
+     "id": "p003.s02",
+     "source": "“There will be fighting to-morrow; let me see that you make good use of your weapon then.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“I shall not fail you,” answered Spits, and continued his grinding."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The next day brought a bloody conflict, in which Spits’ sword was not idle until the evening and the conclusion of the battle, when the king asked for him."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Here I am,” answered Spits, bowing before him."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Let me see your sword,” said the king, “and know what services you have done this day.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Here it is,” said Spits, at the same time reaching for the weapon covered with blood."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Good!” said the king."
+    },
+    {
+     "id": "p009.s02",
+     "source": "“I’ll gild this sword for you.”"
+    },
+    {
+     "id": "p009.s03",
+     "source": "Whereupon he knighted him and commanded that he should be called “The Spits of Gyllenspits.” [ ]"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "The ennobled Gyllenspits was born at Speserund, in the parish of Millisvik, in Vermland, some time in the year 1609."
+    },
+    {
+     "id": "p011.s02",
+     "source": "During the Polish and German wars he made his way up from the ranks to lieutenant-colonel, and was made a noble in 1660."
+    },
+    {
+     "id": "p011.s03",
+     "source": "He was afterward colonel, and finally major-general of infantry."
+    },
+    {
+     "id": "p011.s04",
+     "source": "He died in 1679, and is buried in Sunne Church, in Vermland. ↑"
+    }
+   ],
+   "id": "p011"
+  }
+ ]
+}

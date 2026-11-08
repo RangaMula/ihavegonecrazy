@@ -1,0 +1,601 @@
+{
+ "id": "eu-norway-085",
+ "title": {
+  "id": "title",
+  "source": "The Sweetheart In The Wood"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Tales from the Fjeld: A Second Series of Popular Tales",
+ "credits": "Asbjørnsen, Peter Christen (author, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)",
+ "gutenberg": "Project Gutenberg eBook #36385 — https://www.gutenberg.org/ebooks/36385 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Norway/085 - The Sweetheart In The Wood.md",
+ "stats": {
+  "paragraphs": 46,
+  "segments": 76,
+  "words": 1663
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "\"Once on a time there was a man who had a daughter, and she was so pretty her name was spread over many kingdoms, and lovers came to her as thick as autumn leaves."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One of these made out that he was richer than all the rest; and grand and handsome he was too; so he was to have her, and after that he came over and over again to see her."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"As time went on, he said he should like her to come to his house and see how he lived; he was sorry he could not fetch her and go with her, but the day she came he would strew peas all along the path right up to his house door; but somehow or other it fell out that he strewed the peas a day too early."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"She set out and walked a long way, through wood and waste, and at last she came to a big grand house, which stood in a green field in the midst of the wood; but her lover was not at home, nor was there a soul in the house either."
+    },
+    {
+     "id": "p003.s02",
+     "source": "First, she went into the kitchen, and there she saw nothing but a strange bird which hung in a cage from the roof."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Next she went into the parlour, and there everything was so fine it was beyond belief."
+    },
+    {
+     "id": "p003.s04",
+     "source": "But as she went into it, the bird called after her,—"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"'Pretty maiden, be bold, but not too bold.'"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"When she passed on into an inner room, the bird called out the same words."
+    },
+    {
+     "id": "p005.s02",
+     "source": "There she saw ever so many chests of drawers, and when she pulled open the drawers, they were filled with gold and silver, and everything that was rich and rare."
+    },
+    {
+     "id": "p005.s03",
+     "source": "When she went on into a second room the bird called out again,—"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"'Pretty maiden! be bold, but not too bold.'"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"In that room the walls were all hung round with women's dresses, till the room was crammed full."
+    },
+    {
+     "id": "p007.s02",
+     "source": "She went on into a third room, and then the bird screamed out,—"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"'Pretty maiden!"
+    },
+    {
+     "id": "p008.s02",
+     "source": "Pretty maiden, be bold, but not too bold.'"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"And what do you think she saw there?"
+    },
+    {
+     "id": "p009.s02",
+     "source": "Why! ever so many pails full of blood."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"So she passed on to a fourth room, and then the bird screamed and screeched after her,—"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"'Pretty maiden!"
+    },
+    {
+     "id": "p011.s02",
+     "source": "Pretty maiden, be bold, but not too bold.'"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"'That room was full of heaps of dead bodies, and skeletons of slain women, and the girl got so afraid that she was going to run away out of the house, but she had only got as far as the next room, where the pails of blood stood, when the bird called out to her,—"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"'Pretty maiden!"
+    },
+    {
+     "id": "p013.s02",
+     "source": "Pretty maiden!"
+    },
+    {
+     "id": "p013.s03",
+     "source": "Jump under the bed, jump under the bed, for now he's coming.'"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"She was not slow to give heed to the bird, and to hide under the bed."
+    },
+    {
+     "id": "p014.s02",
+     "source": "She crept as far back close to the wall as she could, for she was so afraid she would have crept into the wall itself, had she been able!"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"So in came her lover with another girl; and she begged so prettily and so hard he would only spare her life, and then she would never say a word against him, but it was all no good."
+    },
+    {
+     "id": "p015.s02",
+     "source": "He tore off all her clothes and jewels, down to a ring which she had on her finger."
+    },
+    {
+     "id": "p015.s03",
+     "source": "That he pulled and tore at, but when he couldn't get it off he hacked off her finger, and it rolled away under the bed to the girl who lay there, and she took it up and kept it."
+    },
+    {
+     "id": "p015.s04",
+     "source": "Her sweetheart told a little boy who was with him, to creep under the bed and bring out the finger."
+    },
+    {
+     "id": "p015.s05",
+     "source": "Yes! he bent down and crept under, and saw the girl lying there; but she squeezed his hand hard, and then he saw what she meant."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"'It lies so far under, I can't reach it,' he cried."
+    },
+    {
+     "id": "p016.s02",
+     "source": "'Let it bide there till to-morrow, and then I'll fetch it out.'"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Early next morning the robber went out, and the boy was left behind to mind the house, and he then went to meet the girl to whom his master was betrothed, and who had come, as you know, by mistake the day before."
+    },
+    {
+     "id": "p017.s02",
+     "source": "But before he went, the robber told him to be sure not to let her go into the two farthermost bed-rooms."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"So when he was well off in the wood, the boy went and said she might come out now."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"'You were lucky, that you were,' he said, 'in coming so soon, else he would have killed you like all the others.'"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"She did not stay there long, you may fancy, but hurried back home as quick as ever she could, and when her father asked her why she had come so soon, she told him what sort of a man her sweetheart was, and all that she had heard and seen."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"A short time after her lover came passing by that way, and he looked so grand that his raiment shone again, and he came to ask, he said, why she had never paid him that visit as she had promised."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"'Oh!' said her father; 'there came a man in the way with a sledge and scattered the peas, and she couldn't find her way; but now you must just put up with our poor house, and stay the night, for you must know we have guests coming, and it will be just a betrothal feast.'"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"So when they had all eaten and drunk, and still sat round the table, the daughter of the house said she had dreamt such a strange dream a few nights before."
+    },
+    {
+     "id": "p023.s02",
+     "source": "If they cared to hear it she would tell it them, but they must all promise to sit quite still till she came to the end."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"Yes!"
+    },
+    {
+     "id": "p024.s02",
+     "source": "They were all ready to hear, and they all promised to sit still, and her sweetheart as well."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"'I dreamt I was walking along a broad path, and it was strewn with peas.'"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"'Yes!"
+    },
+    {
+     "id": "p026.s02",
+     "source": "Yes!' said her sweetheart; 'just as it will be when you go to my house, my love.'"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"'Then the path got narrower and narrower, and it went far, far away through wood and waste.'"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"'Just like the way to my house, my love,' said her sweetheart."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "\"'And so I came to a green field, in which stood a big grand house.'"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "\"'Just like my house, my love,' said her sweetheart."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "\"'So I went into the kitchen, but I saw no living soul, and from the roof hung a strange bird in a cage, and as I passed on into the parlour, it called after me, \"Pretty maiden, be bold, but not too bold.\"'"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "\"'Just like my house that too, my love!' said her sweetheart."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "\"'So I passed on into a bedroom, and the bird bawled after me the same words, and in there were so many chests of drawers, and when I pulled the drawers out and looked into them, they were filled with gold and silver stuffs, and everything that was grand.'"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "\"'That is just like it is at my house, my love,' said her sweetheart."
+    },
+    {
+     "id": "p034.s02",
+     "source": "'I, too, have many drawers full of gold and silver, and costly things.'"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "\"'So I went on into another bedroom, and the bird screeched out to me the very same words; and that room was all hung round on the walls with fine dresses of women.'"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "\"'Yes, that too, is just as it is in my house,' he said; 'there are dresses and finery there both of silk and satin.'"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "\"'Well! when I passed on to the next bedroom, the bird began to screech and scream—pretty maiden, pretty maiden! be bold, but not too bold; and in this room were casks and pails all round the walls, and they were full of blood.'"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "\"'Fie,' said her sweetheart, 'how nasty."
+    },
+    {
+     "id": "p038.s02",
+     "source": "It isn't at all like that in my house, my love,' for now he began to grow uneasy and wished to be off."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "\"'Why!' said the daughter, 'it's only a dream, you know, that I am telling."
+    },
+    {
+     "id": "p039.s02",
+     "source": "Sit still."
+    },
+    {
+     "id": "p039.s03",
+     "source": "The least you can do is to hear my dream out.'"
+    },
+    {
+     "id": "p039.s04",
+     "source": "Then she went on,"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "\"'When I went on into the next bedroom the bird began to scream out as loudly as before, the same words—pretty maiden, pretty maiden! be bold, but not too bold."
+    },
+    {
+     "id": "p040.s02",
+     "source": "And there lay many dead bodies and skeletons of slain folk.'"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "\"'No! no,' said her sweetheart, 'there's nothing like that in my house,' and again he tried to run out."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "\"'Sit still, I say,' she said, 'it is nothing else than a dream, and you may very well hear it out."
+    },
+    {
+     "id": "p042.s02",
+     "source": "I, too, thought it dreadful, and ran back again, but I had not got farther than the next room where all those pails of blood stood, when the bird screeched out that I must jump under the bed and hide, for now He was coming; and so he came, and with him he had a girl who was so lovely I thought I had never seen her like before."
+    },
+    {
+     "id": "p042.s03",
+     "source": "She prayed and begged so prettily that he would spare her life."
+    },
+    {
+     "id": "p042.s04",
+     "source": "But he did not care a pin for all her tears and prayers; he tore off her clothes, and took all she had, and he neither spared her life nor aught else; but on her left hand she had a ring, which he could not tear off, so he hacked off her finger, and it rolled away under the bed to me.'"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "\"'Indeed! my love,' said her sweetheart, 'there's nothing like that in my house.'"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "\"'Yes, it was in your house,' she said, 'and here is the finger and the ring, and you are the man who hacked it off.'"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "\"So they laid hands on him, and put him to death, and burnt both his body and his house in the wood.\""
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p046"
+  }
+ ]
+}

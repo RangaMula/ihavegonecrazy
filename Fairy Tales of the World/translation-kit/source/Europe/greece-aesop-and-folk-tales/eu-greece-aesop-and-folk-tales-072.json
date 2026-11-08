@@ -1,0 +1,44 @@
+{
+ "id": "eu-greece-aesop-and-folk-tales-072",
+ "title": {
+  "id": "title",
+  "source": "The Widow and Her Little Maidens"
+ },
+ "tradition": "Greece (Aesop and folk tales)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Aesop's Fables",
+ "credits": "Aesop (author); Townsend, George Fyler (translator, d. 1900)",
+ "gutenberg": "Project Gutenberg eBook #21 — https://www.gutenberg.org/ebooks/21 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Greece (Aesop and folk tales)/072 - The Widow and Her Little Maidens.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 86
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "A WIDOW who was fond of cleaning had two little maidens to wait on her."
+    },
+    {
+     "id": "p001.s02",
+     "source": "She was in the habit of waking them early in the morning, at cockcrow."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The maidens, aggravated by such excessive labor, resolved to kill the cock who roused their mistress so early."
+    },
+    {
+     "id": "p001.s04",
+     "source": "When they had done this, they found that they had only prepared for themselves greater troubles, for their mistress, no longer hearing the hour from the cock, woke them up to their work in the middle of the night."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

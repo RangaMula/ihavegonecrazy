@@ -1,0 +1,255 @@
+{
+ "id": "eu-england-020",
+ "title": {
+  "id": "title",
+  "source": "Henny-Penny"
+ },
+ "tradition": "England",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "English Fairy Tales",
+ "credits": "Jacobs, Joseph (compiler, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #7439 — https://www.gutenberg.org/ebooks/7439 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/England/020 - Henny-Penny.md",
+ "stats": {
+  "paragraphs": 9,
+  "segments": 45,
+  "words": 668
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "One day Henny-penny was picking up corn in the cornyard when—whack!—something hit her upon the head."
+    },
+    {
+     "id": "p001.s02",
+     "source": "“Goodness gracious me!” said Henny-penny; “the sky's a-going to fall; I must go and tell the king.”"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "So she went along and she went along and she went along till she met Cocky-locky."
+    },
+    {
+     "id": "p002.s02",
+     "source": "“Where are you going, Henny-penny?” says Cocky-locky."
+    },
+    {
+     "id": "p002.s03",
+     "source": "“Oh!"
+    },
+    {
+     "id": "p002.s04",
+     "source": "I'm going to tell the king the sky's a-falling,” says Henny-penny."
+    },
+    {
+     "id": "p002.s05",
+     "source": "“May I come with you?” says Cocky-locky."
+    },
+    {
+     "id": "p002.s06",
+     "source": "“Certainly,” says Henny-penny."
+    },
+    {
+     "id": "p002.s07",
+     "source": "So Henny-penny and Cocky-locky went to tell-the king the sky was falling."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "They went along, and they went along, and they went along, till they met Ducky-daddles."
+    },
+    {
+     "id": "p003.s02",
+     "source": "“Where are you going to, Henny-penny and Cocky-locky?” says Ducky-daddles."
+    },
+    {
+     "id": "p003.s03",
+     "source": "“Oh! we're going to tell the king the sky's a-falling,” said Henny-penny and Cocky-locky."
+    },
+    {
+     "id": "p003.s04",
+     "source": "“May I come with you?” says Ducky-daddles."
+    },
+    {
+     "id": "p003.s05",
+     "source": "“Certainly,” said Henny-penny and Cocky-locky."
+    },
+    {
+     "id": "p003.s06",
+     "source": "So Henny-penny, Cocky-locky and Ducky-daddles went to tell the king the sky was a-falling."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "So they went along, and they went along, and they went along, till they met Goosey-poosey, “Where are you going to, Henny-penny, Cocky-locky and Ducky-daddles?” said Goosey-poosey."
+    },
+    {
+     "id": "p004.s02",
+     "source": "“Oh! we're going to tell the king the sky's a-falling,” said Henny-penny and Cocky-locky and Ducky-daddles."
+    },
+    {
+     "id": "p004.s03",
+     "source": "“May I come with you,” said Goosey-poosey."
+    },
+    {
+     "id": "p004.s04",
+     "source": "“Certainly,” said Henny-penny, Cocky-locky and Ducky-daddles."
+    },
+    {
+     "id": "p004.s05",
+     "source": "So Henny-penny, Cocky-locky, Ducky-daddles and Goosey-poosey went to tell the king the sky was a-falling."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "So they went along, and they went along, and they went along, till they met Turkey-lurkey."
+    },
+    {
+     "id": "p005.s02",
+     "source": "“Where are you going, Henny-penny, Cocky-locky, Ducky-daddles, and Goosey-poosey?” says Turkey-lurkey."
+    },
+    {
+     "id": "p005.s03",
+     "source": "“Oh! we're going to tell the king the sky's a-falling,” said Henny-penny, Cocky-locky, Ducky-daddles and Goosey-poosey."
+    },
+    {
+     "id": "p005.s04",
+     "source": "“May I come with you?"
+    },
+    {
+     "id": "p005.s05",
+     "source": "Henny-penny, Cocky-locky, Ducky-daddles and Goosey-poosey?” said Turkey-lurkey."
+    },
+    {
+     "id": "p005.s06",
+     "source": "“Why, certainly, Turkey-lurkey,” said Henny-penny, Cocky-locky, Ducky-daddles, and Goosey-poosey."
+    },
+    {
+     "id": "p005.s07",
+     "source": "So Henny-penny, Cocky-locky, Ducky-daddles, Goosey-poosey and Turkey-lurkey all went to tell the king the sky was a-falling."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "So they went along, and they went along, and they went along, till they met Foxy-woxy, and Foxy-woxy said to Henny-penny, Cocky-locky, Ducky-daddles, Goosey-poosey and Turkey-lurkey: “Where are you going, Henny-penny, Cocky-locky, Ducky-daddles, Goosey-poosey, and Turkey-lurkey?”"
+    },
+    {
+     "id": "p006.s02",
+     "source": "And Henny-penny, Cocky-locky, Ducky-daddles, Goosey-poosey, and Turkey-lurkey said to Foxy-woxy: “We're going to tell the king the sky's a-falling.”"
+    },
+    {
+     "id": "p006.s03",
+     "source": "“Oh! but this is not the way to the king, Henny-penny, Cocky-locky, Ducky-daddles, Goosey-poosey and Turkey-lurkey,” says Foxy-woxy; “I know the proper way; shall I show it you?”"
+    },
+    {
+     "id": "p006.s04",
+     "source": "“Why certainly, Foxy-woxy,” said Henny-penny, Cocky-locky, Ducky-daddles, Goosey-poosey, and Turkey-lurkey."
+    },
+    {
+     "id": "p006.s05",
+     "source": "So Henny-penny, Cocky-locky, Ducky-daddles, Goosey-poosey, Turkey-lurkey, and Foxy-woxy all went to tell the king the sky was a-falling."
+    },
+    {
+     "id": "p006.s06",
+     "source": "So they went along, and they went along, and they went along, till they came to a narrow and dark hole."
+    },
+    {
+     "id": "p006.s07",
+     "source": "Now this was the door of Foxy-woxy's cave."
+    },
+    {
+     "id": "p006.s08",
+     "source": "But Foxy-woxy said to Henny-penny, Cocky-locky, Ducky-daddles, Goosey-poosey, and Turkey-lurkey: “This is the short way to the king's palace you'll soon get there if you follow me."
+    },
+    {
+     "id": "p006.s09",
+     "source": "I will go first and you come after, Henny-penny, Cocky-locky, Ducky daddles, Goosey-poosey, and Turkey-lurkey.”"
+    },
+    {
+     "id": "p006.s10",
+     "source": "“Why of course, certainly, without doubt, why not?” said Henny-Penny, Cocky-locky, Ducky-daddles, Goosey-poosey, and Turkey-lurkey."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "So Foxy-woxy went into his cave, and he didn't go very far but turned round to wait for Henny-Penny, Cocky-locky, Ducky-daddles, Goosey-poosey and Turkey-lurkey."
+    },
+    {
+     "id": "p007.s02",
+     "source": "So at last at first Turkey-lurkey went through the dark hole into the cave."
+    },
+    {
+     "id": "p007.s03",
+     "source": "He hadn't got far when “Hrumph,” Foxy-woxy snapped off Turkey-lurkey's head and threw his body over his left shoulder."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Then Goosey-poosey went in, and “Hrumph,” off went her head and Goosey-poosey was thrown beside Turkey-lurkey."
+    },
+    {
+     "id": "p007.s05",
+     "source": "Then Ducky-daddles waddled down, and “Hrumph,” snapped Foxy-woxy, and Ducky-daddles' head was off and Ducky-daddles was thrown alongside Turkey-lurkey and Goosey-poosey."
+    },
+    {
+     "id": "p007.s06",
+     "source": "Then Cocky-locky strutted down into the cave and he hadn't gone far when “Snap, Hrumph!” went Foxy-woxy and Cocky-locky was thrown alongside of Turkey-lurkey, Goosey-poosey and Ducky-daddles."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "But Foxy-woxy had made two bites at Cocky-locky, and when the first snap only hurt Cocky-locky, but didn't kill him, he called out to Henny-penny."
+    },
+    {
+     "id": "p008.s02",
+     "source": "So she turned tail and ran back home, so she never told the king the sky was a-falling."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p009"
+  }
+ ]
+}

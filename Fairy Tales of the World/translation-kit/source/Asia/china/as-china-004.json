@@ -1,0 +1,91 @@
+{
+ "id": "as-china-004",
+ "title": {
+  "id": "title",
+  "source": "Who Was The Sinner?"
+ },
+ "tradition": "China",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "The Chinese Fairy Book",
+ "credits": "Wilhelm, Richard (editor, d. 1930)",
+ "gutenberg": "Project Gutenberg eBook #29939 — https://www.gutenberg.org/ebooks/29939 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/China/004 - Who Was The Sinner.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 10,
+  "words": 202
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "O NCE upon a time there were ten farmers, who were crossing a field together."
+    },
+    {
+     "id": "p001.s02",
+     "source": "They were surprised by a heavy thunder-storm, and took refuge in a half-ruined temple."
+    },
+    {
+     "id": "p001.s03",
+     "source": "But the thunder drew ever nearer, and so great was the tumult that the air trembled about them, while the lightning flew around the temple in a continuous circle."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The farmers were greatly frightened, and thought that there must be a sinner among them, whom the lightning would strike."
+    },
+    {
+     "id": "p001.s05",
+     "source": "In order to find out who it might be, they agreed to hang their straw hats up before the door, and he whose hat was blown away was to yield himself up to his fate."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "No sooner were the hats outside, than one of them was blown away, and the rest thrust its unfortunate owner out of doors without pity."
+    },
+    {
+     "id": "p002.s02",
+     "source": "But as soon as he had left the temple the lightning ceased circling around, and struck it with a crash."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The one whom the rest had thrust out, had been the only righteous one among them, and for his sake the lightning had spared the temple."
+    },
+    {
+     "id": "p003.s02",
+     "source": "So the other nine had to pay for their hard-heartedness with their lives."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Note: A traditionally narrated fairy-tale."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p005"
+  }
+ ]
+}

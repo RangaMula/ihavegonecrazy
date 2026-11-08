@@ -1,0 +1,143 @@
+{
+ "id": "eu-sweden-035",
+ "title": {
+  "id": "title",
+  "source": "The Countess of Höjentorp"
+ },
+ "tradition": "Sweden",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Swedish Fairy Tales",
+ "credits": "Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)",
+ "gutenberg": "Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Sweden/035 - The Countess of Höjentorp.md",
+ "stats": {
+  "paragraphs": 11,
+  "segments": 14,
+  "words": 294
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Shortly after King Charles XI. had confiscated most of the property of the nobility to the use of the crown, he came, one day, while upon one of his journeys to Höjentorp, where his aunt on his father’s side, Maria Eufrosyna, lived."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "On the stairs, as he was about to enter her dwelling, he was met by her and at once saluted with a sound box on the ear."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Astounded, the king burst out:"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“It is fortunate that it is I whom you have struck! but why are you in such a combative mood, my aunt?”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“Why?” said the countess."
+    },
+    {
+     "id": "p004.s02",
+     "source": "“Because you have taken all my possessions from me.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Conducting the king to the dining hall, the countess sat before him to eat a herring’s tail and an oat cake."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Have you no better fare for me than this?” asked the king."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“No,” replied the lady; “as you have spread the cloth so must you dine.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“Aunt,” said the king, “if you will give me your gold and silver, I will provide for you richly to your death.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Shame on you!” interrupted the countess."
+    },
+    {
+     "id": "p009.s02",
+     "source": "“Will you not allow me to keep so little as my gold and silver, [ ] either?” and, advancing upon him, she gave him a second box on the ear, which so alarmed the king that he beat a hasty retreat and commanded that the countess be left in peaceful possession of her property to the end of her days. [ ]"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "This legend is noteworthy as showing how time and fancy often clothe the historical fact in mythical garb."
+    },
+    {
+     "id": "p011.s02",
+     "source": "The reader’s attention is called to similar cases in this collection, among them the Lord of Ugerup, Bishop Svedberg and the Devil, Lady Barbro, of Brokind, Jonas Spits, etc. ↑"
+    }
+   ],
+   "id": "p011"
+  }
+ ]
+}

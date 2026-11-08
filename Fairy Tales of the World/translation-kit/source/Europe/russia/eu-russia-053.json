@@ -1,0 +1,594 @@
+{
+ "id": "eu-russia-053",
+ "title": {
+  "id": "title",
+  "source": "The Animals’ Winter Quarters"
+ },
+ "tradition": "Russia",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Russian Folk-Tales",
+ "credits": "Afanas'ev, A. N. (Aleksandr Nikolaevich) (author, d. 1871); Magnus, Leonard A. (Leonard Arthur) (translator, d. 1924)",
+ "gutenberg": "Project Gutenberg eBook #62509 — https://www.gutenberg.org/ebooks/62509 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Russia/053 - The Animals’ Winter Quarters.md",
+ "stats": {
+  "paragraphs": 48,
+  "segments": 71,
+  "words": 1013
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once an Ox was wandering in the wood, and a Ram met him."
+    },
+    {
+     "id": "p001.s02",
+     "source": "“Where are you going, Ram?” asked the Ox."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“I am seeking summer in winter,” answered the Ram."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“Come with me.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "So they went together."
+    },
+    {
+     "id": "p004.s02",
+     "source": "And they met a Pig."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Where are you going, Pig?” asked the Ox."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“I am seeking summer in winter.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Come with us.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "So they all went together."
+    },
+    {
+     "id": "p008.s02",
+     "source": "And they then met a Goose."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Where are you going, Goose?” said the Bull."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“I am seeking summer in winter,” said the Goose."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Well, come with us.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "So the Goose came with them."
+    },
+    {
+     "id": "p012.s02",
+     "source": "So they went on, and they met a Cock."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Where are you going, Cock?” asked the Bull."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“I am seeking summer in winter.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“Then come with us,” said the Bull again."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "So they went on their road and way, and began speaking amongst each other."
+    },
+    {
+     "id": "p016.s02",
+     "source": "“What shall we do, brothers and comrades? the cold time is approaching: how shall we have warmth?”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "So the Ox said, “We will build an izbá , and we shall not freeze during the winter.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Then the Ram said: “My shúba is very warm; I will pass the winter in this fashion.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Then the Pig said, “I do not mind any frost whatsoever: 257 I will burrow into the ground and do without any izbá .”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Then the Goose said, “I will sit in the middle of this spruce, lie on one wing, and cover myself over with the other, and the cold cannot touch me."
+    },
+    {
+     "id": "p020.s02",
+     "source": "That is how I shall pass the winter.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Then the Cock said, “I shall do the same.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Then the Ox saw he could not do any good: every man must do as he likes."
+    },
+    {
+     "id": "p022.s02",
+     "source": "“Well,” he said, “as you wish."
+    },
+    {
+     "id": "p022.s03",
+     "source": "I am going to build an izbá .”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "So he built himself an izbá , and he lived in it."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Then the cold time came, and earth began to feel the frosts."
+    },
+    {
+     "id": "p024.s02",
+     "source": "And the Ram, who could not help himself, came to the Bull and said, “Brother, let me in.”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“No, Ram, you have a warm shúba ; that is how you are going to pass the winter!"
+    },
+    {
+     "id": "p025.s02",
+     "source": "I shall not let you in.”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“But if you do not let me in, I shall run up and will dislodge the joists of the izbá , and you will feel much colder.”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "So the Bull thought, and on second thoughts said, “Very well, I will let you in."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Otherwise I might freeze.”"
+    },
+    {
+     "id": "p027.s03",
+     "source": "And he let the Ram in."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Soon the Pig felt frozen, and came to the Bull and said, “Brother, let me in.”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“No, Pig, I will not let you in."
+    },
+    {
+     "id": "p029.s02",
+     "source": "You need only burrow down in the ground: that is how you are going to pass the winter!”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“But if you will not let me in, with my snout I will drill all of your uprights and will knock your izbá down.”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Well, there was no help for it, and the Bull had to let Piggy in."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Then the Goose and the Cock came to the Bull and said, “Brother, we want to come in and warm ourselves.”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“No, I will not let you in: both of you have two 258 wings."
+    },
+    {
+     "id": "p033.s02",
+     "source": "One of them you put under you, and the other you put over you: that is how you pass the winter.”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“But if you do not let us in,” said the Goose, “I will pluck away all the moss from the walls, and you will be much colder!”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“What! won’t you let me in?” said the Cock."
+    },
+    {
+     "id": "p035.s02",
+     "source": "“I will fly on to the garret and I will scatter all the earth from the roof, and you will be much colder.”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Well, the Bull was beaten, and he was forced to admit the Goose and the Cock."
+    },
+    {
+     "id": "p036.s02",
+     "source": "In the warm hut the Cock crowed and began singing merry songs."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Now the Fox heard the Cock singing merry songs, and thought he would like to make such a dainty acquaintance, only he did not know how to."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "So the Fox bethought himself of his wiles, and ran up to the Bear and the Wolf and said, “Now, my dear kinsmen, I have found food for all of us: a Bull for you, Mr. Bear, a Ram for you, Mr. Wolf, and a Cock for myself.”"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“What a capital fellow you are, Mr. Fox!” said the Bear and the Wolf."
+    },
+    {
+     "id": "p039.s02",
+     "source": "“We shall never be oblivious of your services: let us kill and eat them.”"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "So the Fox led them up to the little izbá ."
+    },
+    {
+     "id": "p040.s02",
+     "source": "When they reached the hut, the Bear said to the Wolf: “You go first.”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "But the Wolf said, “That would be altogether wrong—you must go first.”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "So then the Bear and the Wolf said to the Fox, “You must go first.”"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "As the Fox went in, the Bull gored him with his horns to the wall, and the Ram sat on his flanks, and the Pig tore him to atoms, whilst the Goose flew on to him and picked out his eyes."
+    },
+    {
+     "id": "p043.s02",
+     "source": "But the Cock went and flew up to the girder and crowed, “Do come in, oh do, do, do!”"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“Why is the Fox such a long time at work with the 259 Cock?” said the Wolf: “Unlock the door, Mikháylo Ivánovich, and I will come in.”"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“Very well, come in!”"
+    },
+    {
+     "id": "p045.s02",
+     "source": "So the Bull opened the door and the Wolf leapt into the izbá ."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "As the Wolf went in the Bull gored him to the wall with his horns, the Ram sat on his sides and the Pig tore him to atoms, while the Goose flew on to him and picked out his eyes."
+    },
+    {
+     "id": "p046.s02",
+     "source": "The Cock flew up to the girders and began shouting, “Come along here, come along here!”"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "But the Bear got tired of waiting so long: “What a long job he is making of that Ram!” he thought."
+    },
+    {
+     "id": "p047.s02",
+     "source": "“I must go in.”"
+    },
+    {
+     "id": "p047.s03",
+     "source": "So he also went into the hut, and the Bull gave him the same royal welcome."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "He burst out by sheer force and galloped away at full speed, and never once looked round."
+    }
+   ],
+   "id": "p048"
+  }
+ ]
+}

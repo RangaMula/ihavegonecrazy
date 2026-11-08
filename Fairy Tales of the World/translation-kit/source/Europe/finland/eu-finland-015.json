@@ -1,0 +1,398 @@
+{
+ "id": "eu-finland-015",
+ "title": {
+  "id": "title",
+  "source": "Adventure Xii The Bear Says North"
+ },
+ "tradition": "Finland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Mighty Mikko: A Book of Finnish Fairy Tales and Folk Tales",
+ "credits": "Fillmore, Parker (author, d. 1944)",
+ "gutenberg": "Project Gutenberg eBook #38112 — https://www.gutenberg.org/ebooks/38112 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Finland/015 - Adventure Xii The Bear Says North.md",
+ "stats": {
+  "paragraphs": 28,
+  "segments": 52,
+  "words": 464
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "One day while Osmo, the Bear, was prowling about the woods he caught a Grouse."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“Pretty good!” he thought to himself."
+    },
+    {
+     "id": "p002.s02",
+     "source": "“Wouldn’t the other animals be surprised if they knew old Osmo had caught a Grouse!”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "He was so proud of his feat that he wanted all the world to know of it."
+    },
+    {
+     "id": "p003.s02",
+     "source": "So, holding the Grouse carefully in his teeth without injuring it, he began parading up and down the forest ways."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "“They’ll all certainly envy me this nice plump Grouse,” he thought."
+    },
+    {
+     "id": "p004.s02",
+     "source": "“And they won’t be so ready to call me awkward and lumbering after this, either!”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Presently Mikko, the Fox, sauntered by."
+    },
+    {
+     "id": "p005.s02",
+     "source": "He saw at once that Osmo was showing off and he determined that the Bear would not get the satisfaction of any admiration from him."
+    },
+    {
+     "id": "p005.s03",
+     "source": "So he pretended not to see the Grouse at all."
+    },
+    {
+     "id": "p005.s04",
+     "source": "Instead he pointed his nose upwards and sniffed."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Um!"
+    },
+    {
+     "id": "p006.s02",
+     "source": "Um!” grunted Osmo, trying to attract attention to himself."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Ah,” Mikko remarked, casually, “is that you, Osmo?"
+    },
+    {
+     "id": "p007.s02",
+     "source": "What way is the wind blowing to-day?"
+    },
+    {
+     "id": "p007.s03",
+     "source": "Can you tell me?”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Osmo, of course, could not answer without opening his mouth, so he grunted again hoping that Mikko would have to notice why he couldn’t answer."
+    },
+    {
+     "id": "p008.s02",
+     "source": "But the Fox didn’t glance at him at all."
+    },
+    {
+     "id": "p008.s03",
+     "source": "With his nose still pointed upwards he kept sniffing the air."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“It seems to me it’s from the South,” he said."
+    },
+    {
+     "id": "p009.s02",
+     "source": "“Isn’t it from the South, Osmo?”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“Um!"
+    },
+    {
+     "id": "p010.s02",
+     "source": "Um!"
+    },
+    {
+     "id": "p010.s03",
+     "source": "Um!” the Bear grunted."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“You say it is from the South, Osmo?"
+    },
+    {
+     "id": "p011.s02",
+     "source": "Are you sure?”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Um!"
+    },
+    {
+     "id": "p012.s02",
+     "source": "Um!”"
+    },
+    {
+     "id": "p012.s03",
+     "source": "Osmo repeated, growing every moment more impatient."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Oh, not from the South, you say."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Then from what direction is it blowing?”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "By this time the Bear was so exasperated by Mikko’s interest in the wind when he should have been admiring the Grouse that he forgot himself, opened his mouth, and roared out:"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“North!”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Of course the instant he opened his mouth, the Grouse flew away."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“Now see what you’ve done!” he stormed angrily."
+    },
+    {
+     "id": "p017.s02",
+     "source": "“You’ve made me lose my fine plump Grouse!”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“I?”"
+    },
+    {
+     "id": "p018.s02",
+     "source": "Mikko asked."
+    },
+    {
+     "id": "p018.s03",
+     "source": "“What had I to do with it?”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“You kept asking me about the wind until I opened my mouth—that’s what you did!”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "The Fox shrugged his shoulders."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“Why did you open your mouth?”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“Well, you can’t say, ‘North!’ without opening your mouth, can you?” the Bear demanded."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "The Fox laughed heartily."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“See here, Osmo, don’t blame me."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Blame yourself."
+    },
+    {
+     "id": "p024.s03",
+     "source": "If I had had that Grouse in my mouth and you had asked me about the wind, I should never have said, ‘North!’”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“What would you have said?” the Bear asked."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Mikko, the rascal, laughed harder than ever."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Then he clenched his teeth and said:"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“East!”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“Why, do you know,” he said, “my turnips and my bread don’t taste a bit like this!”"
+    }
+   ],
+   "id": "p028"
+  }
+ ]
+}

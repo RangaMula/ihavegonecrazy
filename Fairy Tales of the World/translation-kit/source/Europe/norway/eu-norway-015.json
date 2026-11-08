@@ -1,0 +1,104 @@
+{
+ "id": "eu-norway-015",
+ "title": {
+  "id": "title",
+  "source": "How One Went Out To Woo"
+ },
+ "tradition": "Norway",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Popular Tales from the Norse",
+ "credits": "Moe, Jørgen Engebretsen (compiler, d. 1882); Asbjørnsen, Peter Christen (compiler, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)",
+ "gutenberg": "Project Gutenberg eBook #8933 — https://www.gutenberg.org/ebooks/8933 (copied via the GITenberg mirror)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Norway/015 - How One Went Out To Woo.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 10,
+  "words": 212
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once on a time there was a lad who went out to woo him a wife."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Amongst other places, he came to a farm-house, where the household were little better than beggars; but when the wooer came in, they wanted to make out that they were well to do, as you may guess."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Now the husband had got a new arm to his coat."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "'Pray, take a seat', he said to the wooer; 'but there's a shocking dust in the house.'"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "So he went about rubbing and wiping all the benches and tables with his new arm, but he kept the other all the while behind his back."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The wife she had got one new shoe, and she went stamping and sliding with it up against the stools and chairs, saying, 'How untidy it is here!"
+    },
+    {
+     "id": "p004.s02",
+     "source": "Everything is out of its place!'"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Then they called out to their daughter to come down and put things to rights; but the daughter, she had got a new cap; so she put her head in at the door, and kept nodding and nodding, first to this side, and then to that."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "'Well! for my part', she said, 'I can't be everywhere at once.'"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Aye! aye! that was a well-to-do household the wooer had come to."
+    }
+   ],
+   "id": "p007"
+  }
+ ]
+}
