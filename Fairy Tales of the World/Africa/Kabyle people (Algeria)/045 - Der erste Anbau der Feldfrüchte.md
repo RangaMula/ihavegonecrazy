@@ -1,0 +1,37 @@
+# Der erste Anbau der Feldfrüchte
+
+- **Tradition:** Kabyle people (Algeria) (Africa)
+- **Source book:** *Atlantis, Bd. I: Volksmärchen der Kabylen (1921)*
+- **Author / collector / translator:** Frobenius, Leo (author, d. 1938)
+- **Original language of this text:** de
+- **Source:** Internet Archive item `atlantisvolksm01frobuoft` — https://archive.org/details/atlantisvolksm01frobuoft (OCR text, lightly cleaned)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+- **Note:** Digitised by OCR; minor recognition errors may remain.
+
+---
+
+Unterdessen wanderten der erste Mann und die erste Frau unter der Erde umher. Die ersten Eltern fanden eines Tages in einem Winkel eine große Menge Weizen, daneben eine große Menge Gerste, daneben Körner und Samen von allem, was gut ist als Nahrung und Gewürz. Von jedem lag in einem Winkel eine große Menge. Die ersten Eltern betrachteten die Körner und Samen und sagten: „Was soll dieses bedeuten?" Neben der Gerste und neben dem Weizen und dem anderen Samen lief aber eine Ameise (thautuoth ; Plur. : theothfin) einher. Die ersten Eltern sahen die Ameise. Die Ameise kratzte von einer Gerstenähre den Spelt ab und machte das Korn frei. Die Ameise fraß das Korn. Der erste Mann sagte: „Was tut die Ameise?" Die Frau sagte: „Töte sie! Töte das häßliche Tier." Der erste Mann sagte: „ Weshalb soll ich dieses Tier töten? Die Ameise ist wie wir geschaffen." Der erste Mann tat der Ameise nichts, sondern sah ihr zu.
+
+Der erste Mann fragte die Ameise: „Sage mir, was du tust? Kannst du mir über diese Gerste, über diesen Weizen und über diesen Samen etwas sagen?" Die Ameise sagte: „Ich will dich fragen: Kennst du eine Quelle, einen Bach oder einen Fluß?" Der erste Mann sagte: „Nein, das kennen wir nicht. Wir kennen nur den Brunnen." Die Ameise sagte: „Dann kennst du also das Wasser. Das Wasser ist da, damit man sich und seine Kleider wäscht. Das Wasser ist da, daß man es trinke. Das Wasser ist aber auch dazu da, daß man damit seine Nahrung kocht. Wenn du alle diese Körner, jedes nach seiner Art, kochst, bekommst du ein sehr gutes Essen. Alle diese Körner sind gut, wenn man sie in Wasser kocht. Komm nun mit. Ich will dir und der ersten Frau alles zeigen." Der erste Mann sagte: „Wir wollen mit dir kommen."
+
+Die Ameise führte die ersten Eltern zu ihrem Loche, das von der Erde unter die Erde führt. Die Ameise sagte: „Dies ist mein Weg, kommt auf meinem Wege mit mir." Die Ameise führte die ersten Eltern durch ihren Gang auf die Erde. Die ersten Eltern gingen mit der Ameise. Die Ameise führte sie an einen Fluß und sagte: „Hier fließt das Wasser, mit dem ihr euch und eure Kleider waschen könnt, das ihr als Getränk trinken könnt. Dies ist das Wasser, mit dem ihr das Korn kochen könnt, wenn ihr es gemahlen habt."
+
+Die Ameise führte die ersten Eltern zu den Steinen und sagte: „Dies sind die Steine, mit denen ihr das Korn zu Mehl mahlen
+
+könnt." Die Ameise zeigte ihnen, wie sie einen Stein auf den andern legen und einen Stock zum Drehen hineinstecken sollten. Die Ameise zeigte ihnen, wie sie das Korn zwischen die Steine legen sollten. Die Ameise sagte zu den ersten Eltern: „Dies ist eine Tithieth-büchän (eine Haushandmühle) . Mit ihr müßt ihr das Korn zu Mehl mahlen." Die Ameise half den ersten Menschen das Mehl mahlen.
+
+Die Ameise zeigte der Frau, wie sie das Mehl mit Wasser mengen und kneten solle. Die Ameise sagte zu der ersten Frau: „Nun mußt du ein Feuer machen. Ich will dir zeigen, wie du es machst." Die Ameise nahm aus dem Bachbett zwei Steine und einige trockene Kräuter. Die Ameise sagte zur ersten Frau: „Dies ist ein Feuerzeug." (Das aus zwei Feuersteinen und Baummark oder altem Lappenzunder bestehende Feuerzeug heißt bei den Kabylen äthro l'kässa. DasAthro l'kassa wird hauptsächlich von Frauen benutzt und liegt gemeiniglich zwischen zwei Akufin. Die Männer haben meist schon alle das Stahl-Steinfeuerzeug, zumal auf der Jagd und auf Wanderungen. Die Frauen kennen meist nur dieses alte Steinfeuerzeug.) Die Ameise trug trockenes Holz und Gras herbei.
+
+Die Ameise schlug mit dem Feuerzeug ein Feuer und warf Holz und Zweige hinein. Die Ameise sagte zur ersten Frau: „Wenn das Feuer stark und groß geworden und zu viel glühender Asche geworden ist, räume es beiseite. Auf die heiße Stelle lege die Fladen von geknetetem Teig. Decke sie zu und wirf die gühenden Kohlen und die Asche' wieder darüber. Nach einiger Zeit wird das Brot (mehr Brotfladen) gar sein, und ihr könnt es essen." Die erste Frau tat, was die Ameise ihr gesagt hatte. Als sie die Asche wieder von dem bedeckten Brot weggeräumt hatte, war das Brot gar. Die erste Frau und der erste Mann aßen das Brot. Sie aßen viel und sagten: „Nun haben wir einen vollen Magen."
+
+Der erste Mann sagte zur ersten Frau: „Komm, nun wollen wir die Erde besehen." Der erste Mann und die erste Frau nahmen viel Gerste und Weizen und die Mühle mit und wanderten über die Erde dahin. Unterwegs verloren sie überall ein wenig von den Körnern. Es fiel Regen. Die zu Boden gefallenen Körner gingen auf und wuchsen hoch und trieben Frucht.
+
+Die ersten Eltern wanderten und kamen dahin, wo die neunundvierzig Burschen die Häuser gebaut hatten und mit den neunundvierzig Mädchen als ihren Frauen lebten. Die neunundvierzig Burschen und Mädchen aßen bis dahin nur die Kräuter, die sie
+
+pflückten. Die ersten Eltern zeigten ihnen die Bereitung von Brot, die sie von der Ameise gelernt hatten. Die neunundvierzig Burschen und Frauen aßen das erste Brot. Sie sagten zu den ersten Eltern: „Dieses Essen ist sehr gut. Wir wollen mit euch dahin zurückgehen, wo ihr bei der Ameise die Gerste und den Weizen gefunden habt und noch mehr davon holen." Die ersten Eltern gingen mit den neunundvierzig Burschen und ihren Frauen zurück.
+
+Auf dem Rückwege sahen sie die Gersten- und Weizenpflanzen, die aus den verlorenen und zu Boden gefallenen Körnern aufgewachsen waren. Sie sagten: „Das sind die gleichen Körner, die uns die Ameise kochen und essen gelehrt hat." Sie gruben in der Erde nach und fanden, daß jede Pflanze aus einem Korn aufgewachsen war. Sie sagten: „ Jedes Korn, das in die Erde gefallen ist, hat zwanzig und dreißig Körner hervorgebracht. Wir wollen in Zukunft die Hälfte der Körner essen und die Hälfte in die Erde tun."
+
+Die Menschen warfen die Hälfte ihrer Körner in die Erde. Es war aber die trockene Jahreszeit und die Sonne brannte. Das Korn ging nicht auf. Die Menschen warteten und warteten. Das Korn ging aber nicht auf. Da gingen sie zur Ameise und sagten: „Als wir das erstemal einige Körner fallen ließen, gingen sie auf, und jedes einzelne brachte zwanzig bis dreißig Körner hervor. Jetzt haben wir wieder ausgestreut, und kein einziges Korn ist aufgegangen. Wie kommt das?" Die Ameise sagte: „Ihr habt nicht die rechte Jahreszeit genommen. Nachdem es lange Zeit vorher heiß war, müßt ihr warten, bis einige Regen gefallen sind. Wenn die Erde feucht ist, werft das Korn hinein. Es wird mehr Regen fallen, und ihr werdet reichlich ernter. Wenn ihr das Korn in der heißen Jahreszeit in die Erde werft, wird es verbrennen, und ihr werdet nichts ernten, weil das Korn verdorrt." Die Menschen sagten: „Aha, so muß man es also machen!"
+
+Die Menschen machten es so, wie die Ameise es sie gelehrt hatte. Sie säten die Hälfte, nachdem die ersten Regen gefallen waren. Die Körner gingen auf und trugen, zwanzig und dreißig Körner eine jede Pflanze. Die andere Hälfte aber aßen sie.

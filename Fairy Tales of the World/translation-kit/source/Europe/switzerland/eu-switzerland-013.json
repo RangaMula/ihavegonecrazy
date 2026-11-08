@@ -2,20 +2,20 @@
  "id": "eu-switzerland-013",
  "title": {
   "id": "title",
-  "source": "Legends Of Zug"
+  "source": "The Dwarf’S Secret"
  },
  "tradition": "Switzerland",
  "continent": "Europe",
  "source_lang": "en",
- "source_book": "Legends of Switzerland",
- "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #64163 — https://www.gutenberg.org/ebooks/64163 (copied via the GITenberg mirror)",
+ "source_book": "Swiss Fairy Tales",
+ "credits": "Griffis, William Elliot (author, d. 1928)",
+ "gutenberg": "Project Gutenberg eBook #69739 — https://www.gutenberg.org/ebooks/69739",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Europe/Switzerland/013 - Legends Of Zug.md",
+ "markdown_file": "Europe/Switzerland/013 - The Dwarf’S Secret.md",
  "stats": {
-  "paragraphs": 22,
-  "segments": 56,
-  "words": 1888
+  "paragraphs": 42,
+  "segments": 127,
+  "words": 2648
  },
  "paragraphs": [
   {
@@ -23,11 +23,15 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "The Lake of Zug, the home of prehistoric lake-builders, is beautifully situated at the foot of the Rigi, and separated from the Lake of Lucerne by a narrow strip of land."
+     "source": "There is one curious thing about the little brown fellows of the mountains, called dwarfs, that seems very funny to us."
     },
     {
      "id": "p001.s02",
-     "source": "At one end of this small sheet of water is the city of Zug, the capital of the canton of the same name, and at the other extremity, the pretty city of Arth, at the foot of the Rossberg."
+     "source": "Instead of thinking of themselves as less than men, they consider themselves fully as clever as human beings."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Indeed, some of them strut about, slapping their stomachs and saying “who wants to be a man?”"
     }
    ],
    "id": "p001"
@@ -37,19 +41,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "This mountain is famous for its landslides, which have cost many lives and buried whole villages at its foot."
+     "source": "Instead of rating men as greater than themselves, they are more apt to talk about human beings as slow, and dull witted."
     },
     {
      "id": "p002.s02",
-     "source": "The legend ascribes these cataclysms to the hard-heartedness of the people, who incurred the anger of the dwarfs by refusing them hospitality, as was the case at Roll on the Lake of Thun."
-    },
-    {
-     "id": "p002.s03",
-     "source": "The city of Zug has twice been undermined by the lake."
-    },
-    {
-     "id": "p002.s04",
-     "source": "The first time, in 1435, two whole streets sank down into the water; but while science attributes such accidents to perfectly natural causes, legend tries to account for them in a more poetic way."
+     "source": "The dwarfs declare that they have secrets which no boys or girls, or even wise men, can ever find out."
     }
    ],
    "id": "p002"
@@ -59,11 +55,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "In the centre of the lake, far down below the surface of the water, nixies and water-nymphs are supposed to dwell in a marvellous palace all hung with gleaming crystal stalactites, paved with silver and gold, and brightly lighted by the sparkle of precious stones encrusting its walls."
+     "source": "Most of the dwarfs live in caves, or down in the mines."
     },
     {
      "id": "p003.s02",
-     "source": "The dainty inhabitants of this sub-aqueous palace seldom rise to the surface of the lake, except at night, when they are seen in the moonlight, dancing here and there over the waves, floating gently ashore, or hovering along grassy banks, where they love to spread out their mist like veils."
+     "source": "They are very expert in using fires, forges, bellows, anvils, hammers, tongs, pincers and the tools of blacksmiths and machinists."
+    },
+    {
+     "id": "p003.s03",
+     "source": "They often make very handsome weapons, ornaments and things of use, such as guns, ploughs, swords, armor, milkpans, and cheese caldrons."
     }
    ],
    "id": "p003"
@@ -73,11 +73,19 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "These nymphs occasionally appear at village dances, where they can be distinguished from mortal maidens by their superior beauty, and by the ever wet hem of their long white gowns."
+     "source": "Now there was a hunter named Walter, who lived in the Alps."
     },
     {
      "id": "p004.s02",
-     "source": "One of these nymphs fell violently in love with the handsome young son of a magistrate of Zug, and besides meeting him at dances on the green, held nightly trysts with him on the edge of the lake."
+     "source": "This man went out every day [ ] to get food for his wife and his large family of boys and girls, who all had good appetites."
+    },
+    {
+     "id": "p004.s03",
+     "source": "He never shot at any creature, or ever killed anything that had life, out of mere sport."
+    },
+    {
+     "id": "p004.s04",
+     "source": "He was always pleasant to the dwarfs also."
     }
    ],
    "id": "p004"
@@ -87,23 +95,15 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The youth was deeply enamoured with the dainty nymph, and when she rose out of the waves one evening with reddened eyelids, he insisted upon knowing the cause of her grief."
+     "source": "So all these folks, in the caves and mines, got to like this hunter."
     },
     {
      "id": "p005.s02",
-     "source": "The sprite now told him that her father, having discovered her infatuation for a mere mortal, had forbidden her to have any further intercourse with him, unless he were willing to follow her down into her father’s abode and live with her there in happy wedlock."
+     "source": "Even the chamois, that he chased, knew that he was not cruel."
     },
     {
      "id": "p005.s03",
-     "source": "The young man, on hearing this, vowed he would be only too happy were such a course possible to him, but gently explained that the element in which she lived was not adapted to human lungs."
-    },
-    {
-     "id": "p005.s04",
-     "source": "The nymph, however, declared such an obstacle could easily be removed, and immediately proffered a magic draught, which would enable him to breathe in the water as easily as in the air."
-    },
-    {
-     "id": "p005.s05",
-     "source": "The enamoured youth quickly seized the cup she tendered, and after quaffing the crystal clear, tasteless fluid it contained, sank with her down into the depths of the lake."
+     "source": "Besides, they heard good things about him from the birds, that could talk the languages of goats, ibexes and chamois."
     }
    ],
    "id": "p005"
@@ -113,11 +113,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Delighted with his new powers, and with the wonders he saw on all sides, the youth was very happy for a while, but homesickness finally seized him in the crystal palace."
+     "source": "Occasionally Walter the hunter shot a bear, and then he had a big fur robe, out of which to make a bed, besides bones for all his dogs to gnaw upon."
     },
     {
      "id": "p006.s02",
-     "source": "When the nymph tenderly inquired what was the matter, he sadly confessed that he longed to see his parents and friends once more, and that he would never be entirely happy unless he could attend divine service regularly in his parish church."
+     "source": "Moreover, he was looked upon by the village people as a hero, and his sons felt very proud of their father."
     }
    ],
    "id": "p006"
@@ -127,19 +127,11 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "At these words the nymph’s sweet face darkened, but it was soon illumined again by a brilliant idea which she vowed she would put into immediate execution."
+     "source": "Yet it was not so easy, as some might think, to feed his large family, for each of these youngsters seemed to have a cave, growing in their stomachs, which, three times a day, apparently enlarged, as meal time drew near."
     },
     {
      "id": "p007.s02",
-     "source": "That evening, for the first time, she left her beloved, and stealing into the sleeping city, replaced all the drinking water in the houses of two streets by the same magic fluid she had given to the youth."
-    },
-    {
-     "id": "p007.s03",
-     "source": "Then, plunging into the lake again, she called all her father’s minions to her aid, and gently and noiselessly undermined those houses."
-    },
-    {
-     "id": "p007.s04",
-     "source": "When the people were sound asleep the next night, she drew them softly down to the bottom of the lake."
+     "source": "Only a few potatoes and cabbages could be grown in their garden, and every wisp of hay, and all the dry leaves, had to be saved, to keep warm in the Swiss winter, which lasted eight or nine months."
     }
    ],
    "id": "p007"
@@ -149,11 +141,19 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "On awakening in this new element, on the morrow, they found all their surroundings unchanged, and took up their life where they had left it off when they went to sleep the night before."
+     "source": "Buttermilk and potatoes, and corn meal, boiled in goat’s milk, was what was on the bill of fare for Walter’s family, most of the time."
     },
     {
      "id": "p008.s02",
-     "source": "The youth could now hold constant intercourse with his former neighbours and friends, attend service whenever he pleased, and he and all the others are still as happy as the day is long, for the magic draught has endowed them with the immortality which all water spirits enjoy."
+     "source": "They [ ] were too poor to live down in the valleys, or villages, where the land was all owned by well-to-do people."
+    },
+    {
+     "id": "p008.s03",
+     "source": "So the entire family, old and young, were kept busy at work, every moment of daylight in summer, when the snow was off the ground."
+    },
+    {
+     "id": "p008.s04",
+     "source": "There were many things to do, to get fuel, to keep the roof from leaking, and to prepare for the awful cold, from September to May."
     }
    ],
    "id": "p008"
@@ -163,7 +163,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "When the waters are very clear, you can still see the spire of the sunken church and the gables of the old houses, and people gifted with particularly keen eyes and lively imaginations can detect the stir of busy life in the streets, catch the sound of ringing bells, and the deep solemn tones of an organ, gently accompanying the chants of the sunken congregation."
+     "source": "Walter’s chief trouble was with his poor gun, the barrel of which was a smooth bore, which could not shoot a bullet straight forward, very far, so that the hunter could not be sure of hitting anything that was over fifty yards away."
     }
    ],
    "id": "p009"
@@ -173,7 +173,19 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "On the spot where the boundaries of Zürich, Zug, and Schwyz converge, stands the Hohe Rhonen, the goal of charming excursions; for from the top of this mountain one can enjoy a fine view of the lake, the Sentis, and the Toggenburg and Glarus mountains."
+     "source": "Sometimes, Walter would spend many hours, or even a whole day, while out hunting, in climbing over rocks and up the steep mountain sides, to get even a distant shot at a chamois, only to miss his aim."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Or, what was even worse, to this kind-hearted hunter, the leaden ball, going out of its course, only wounded the poor animal, so that it ran away, to suffer a long time and then die in pain."
+    },
+    {
+     "id": "p010.s03",
+     "source": "In this manner, Walter very often lost a dinner for himself and his hungry children, while he grieved over inflicting pain upon innocent creatures."
+    },
+    {
+     "id": "p010.s04",
+     "source": "More than once, he threw down the gun, in his anger, calling it names, as if it were an animal, or, at the worst, a “blunder buss.”"
     }
    ],
    "id": "p010"
@@ -183,19 +195,15 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Part of the Hohe Rhonen consists of fine pastures, and a legend claims that a miser once tried to cheat a widow and several orphans out of their portion of this soil."
+     "source": "Now, so many of the chamois had complained [ ] to their friends and protectors, the dwarfs, about the cruelty of hunters, and the sufferings of their fellows, especially the doe and fawn, that all these little people held a congress, in a cave, and to see what could be done."
     },
     {
      "id": "p011.s02",
-     "source": "To establish his claim to the pastures, the wicked man not only resorted to forgery, but as the judge still seemed doubtful of the justice of his claims, boldly volunteered to swear on the spot itself that it was rightfully his."
+     "source": "Nearly a hundred dwarfs attended the meeting, and both graybeards and youngsters were invited to give their opinions."
     },
     {
      "id": "p011.s03",
-     "source": "The judge accepted this offer, and accompanied by plaintiff, defendant, and several witnesses, wended his way up the mountain to the disputed alp."
-    },
-    {
-     "id": "p011.s04",
-     "source": "Standing on a huge granite boulder which lay there, the miser took his oath, holding up three fingers as usual, and when the judge cried, “Woe upon thee, if thou swearest falsely!” boldly added, “If I have committed perjury, may these fingers sink into this hard stone as easily as into water!”"
+     "source": "All agreed that men were stupid fellows, and had to be helped out, in all their needs and plans, as well as to have their wits sharpened, by the dwarfs."
     }
    ],
    "id": "p011"
@@ -205,19 +213,19 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Saying these words, he thrust his fingers downward, and to his horror and dismay felt them sink into the stone up to the second joint!"
+     "source": "“Here is a really good and kind hunter, Walter."
     },
     {
      "id": "p012.s02",
-     "source": "But although they entered so easily, he could not draw them out again, and standing there, a convicted perjurer, had to confess his sin."
+     "source": "He is using a blunderbuss, because he has nothing better."
     },
     {
      "id": "p012.s03",
-     "source": "He had scarcely ceased speaking, when he was hidden from sight by a dark cloud, a terrible cry was heard, and when the rock again became visible to the amazed spectators, the man had disappeared, carried off to Hades by the Devil."
+     "source": "He ought to help him improve his weapon."
     },
     {
      "id": "p012.s04",
-     "source": "But the stone, with the imprint of his perjured digits, is still known as the Three Finger Stone, and remains there as a constant warning against falsehood and treachery."
+     "source": "But what can be done?”"
     }
    ],
    "id": "p012"
@@ -227,11 +235,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Not very far from the Hohe Rhonen, but in the canton of Schwyz, stands the church of Einsiedlen, a famous place of pilgrimage ever since the ninth century."
-    },
-    {
-     "id": "p013.s02",
-     "source": "The legend claims that the spot is particularly holy because Our Lord once drank from the fountain with fourteen mouths, while journeying through the country to preach the gospel."
+     "source": "“We must first find out the reason why this fellow Walter, and others like him, inflict so many wounds upon the chamois; for we know he is our friend, and is full of pity for the animals,” said a venerable old chap, who seemed to be chairman of the meeting."
     }
    ],
    "id": "p013"
@@ -241,15 +245,27 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Besides, Meinrad, Count of Sulgen, having vowed to spend the rest of his life in prayer, came to this lovely valley long years ago."
+     "source": "The talk went on for hours."
     },
     {
      "id": "p014.s02",
-     "source": "Here he built a little chapel to contain a wonder-working image of the Virgin, which he had received from one of the princess-abbesses of Zürich."
+     "source": "At last a good looking dwarf, with a big head and very long white beard, slowly arose to speak."
     },
     {
      "id": "p014.s03",
-     "source": "Meinrad also built a small hut close by this chapel, and as this was generally called his hermitage (Einsiedelei), its name was given to the town which has since arisen on that spot."
+     "source": "Usually, he never said a word, but listened carefully, until every one else had had his say."
+    },
+    {
+     "id": "p014.s04",
+     "source": "Then, if asked, he would give his own opinion, which always proved to be the sense of the whole meeting."
+    },
+    {
+     "id": "p014.s05",
+     "source": "Every one wondered how his head could carry all [ ] he knew, and how he could remember what each one had said."
+    },
+    {
+     "id": "p014.s06",
+     "source": "So he was generally known, by one or the other of two names, which, in the dwarf language, mean “Thought Includer,” or “Clarifier of Ideas.”"
     }
    ],
    "id": "p014"
@@ -259,11 +275,15 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Meinrad was known far and wide for his piety as well as for his charity, and all the gifts he received from strangers were immediately lavished upon the poor."
+     "source": "The chairman at once recognized him, called him by name, and bade him come up in front and speak where all could hear him."
     },
     {
      "id": "p015.s02",
-     "source": "Years were spent by the hermit in penance, prayer, and works of mercy, and when very old, the death angel suddenly appeared to him one day in the chapel, to announce that his end was near."
+     "source": "He was very modest at first, and held back a moment, but fearing that some of the other dwarfs might twist their necks off, in turning them too far around to get a good look at him, and knowing that some of the old fellows were nearly deaf, he strode forward."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Stepping upon a platform of rock, where all could hear him easily, he began thus:"
     }
    ],
    "id": "p015"
@@ -273,15 +293,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Meinrad, who had longed for Heaven for many a year, received this warning with solemn joy, and after returning thanks went out of the chapel, to feast his eyes once more upon the lovely landscape."
+     "source": "“The trouble with our friend Walter, and with all other hunters, good and bad, especially with those who are poor shots, is that with all their good intentions, they are too stupid."
     },
     {
      "id": "p016.s02",
-     "source": "While he sat near his hermitage, two tame ravens which he had brought up came to nestle in his lap, and he gently stroked them with his aged and trembling hands."
-    },
-    {
-     "id": "p016.s03",
-     "source": "While he sat there quietly, two robbers suddenly sprang out of the thicket, and exclaiming that they had come for the treasures accumulated during all these years, drove their daggers deep into his heart."
+     "source": "They need the help of us dwarfs.”"
     }
    ],
    "id": "p016"
@@ -291,15 +307,7 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "The old man fell to the ground lifeless, the ravens flew croaking away, and the thieves, picking up the corpse, threw it into the chapel, so as not to have it continually under their eyes while they made their search."
-    },
-    {
-     "id": "p017.s02",
-     "source": "With feverish haste they next turned over every article in the little hermitage, ripped open the straw pallet, peered into the depths of the one crock, and dug up the floor; but to their chagrin no treasure was forthcoming."
-    },
-    {
-     "id": "p017.s03",
-     "source": "Thinking the holy man might have concealed his wealth in the chapel, they now betook themselves thither; but no sooner had they crossed the threshold than they paused aghast, feeling their hair slowly rise up on end."
+     "source": "Here he was interrupted by applause, and cries of “well said,” and “go on.”"
     }
    ],
    "id": "p017"
@@ -309,11 +317,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "The chapel, which had been so dark a while ago, was now illumined by lights burning on the altar; the corpse was carefully laid out at its base, with tapers burning all around it, and close by stood the two crows, mounting solemn guard over their dead master."
-    },
-    {
-     "id": "p018.s02",
-     "source": "But when the murderers, recovering a little from their first surprise and terror, ventured to take a step forward, these faithful birds forsook their post, and so furiously attacked the intruders with beak and claws that they soon drove them out of the chapel."
+     "source": "“Now,” he resumed, “from what has been already remarked, by the honorable speakers in this company, I propose:"
     }
    ],
    "id": "p018"
@@ -323,19 +327,11 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Terrified by this attack, the robbers fled over the mountains to Zürich, and did not feel quite safe until seated in a little inn where they were wont to linger for hours."
+     "source": "“1."
     },
     {
      "id": "p019.s02",
-     "source": "They were drinking hard, hoping to forget their recent uncanny experiences, when in through the open window suddenly flew two ravens which circled wildly around their heads, croaking loudly and threatening to pick out their eyes."
-    },
-    {
-     "id": "p019.s03",
-     "source": "The criminals, with a common impulse, ducked their heads, and groaning aloud, exclaimed: “Meinrad’s watchers!"
-    },
-    {
-     "id": "p019.s04",
-     "source": "Meinrad’s watchers!”"
+     "source": "That we prevail upon the prettiest fairy in the Alps to lure this man Walter up into one of our caves, so far up toward the peaks that, getting very tired, he will fall asleep quickly. [ ]"
     }
    ],
    "id": "p019"
@@ -345,15 +341,11 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "These words, and the mysterious behaviour of the birds, which could not be driven away for some time, so aroused the suspicions of the city magistrates, that they sent both men to prison until they could ascertain whether Meinrad were still safe."
+     "source": "“2."
     },
     {
      "id": "p020.s02",
-     "source": "That same evening, however, a traveller reported the murder of the hermit, whom he had found dead in the chapel, and when the judges summoned the prisoners they had to confess their crime."
-    },
-    {
-     "id": "p020.s03",
-     "source": "In punishment for slaying a hermit whom all revered like a saint, the murderers were first broken on the wheel and then burned at the stake."
+     "source": "Then, while in slumber, one of our best soothsayers will make him dream of a gun that never misses fire, or fails to deliver its bullet to the mark."
     }
    ],
    "id": "p020"
@@ -363,15 +355,428 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "A monastery was soon erected on the site of Meinrad’s hermitage; and since then a beautiful church, a fine abbey, and many inns and hotels have been built for the accommodation and edification of tourists and pilgrims who visit Einsiedlen in great numbers."
+     "source": "“3."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Finally, that our best craftsman shall invent a new kind of weapon, with improved barrel and lock."
+    },
+    {
+     "id": "p021.s03",
+     "source": "Then, when Walter wakes up, I propose he be shown how to use it.”"
     }
    ],
    "id": "p021"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "On hearing this, all the dwarfs clapped their hands and the meeting broke up, every one feeling sure that men needed only the brains of dwarfs to help them."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Now, they declared, there would be few wounded chamois to suffer pain."
+    }
+   ],
    "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "The chairman then selected, from the dwarfs that were passing out, one handsome fellow to take the message, in the most polite manner and correct language, to the fairy maids."
+    },
+    {
+     "id": "p023.s02",
+     "source": "These were to choose one of their number, as the Queen of Beauty, to lead the hunter to the cave, in which the dwarf’s secret was to be revealed."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "To another was given the task of conjuring up the dream for the sleeping hunter."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Then a committee of four, of the cleverest dwarfs, was appointed to invent the new gun, and show the hunter how to use it."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Now the cave selected, to which the prettiest of the fairies was to lead the hunter, was one just opened, a few days before, by an avalanche."
+    },
+    {
+     "id": "p026.s02",
+     "source": "In tumbling down the slopes, this colossal ball of [ ] snow and ice, well loaded with rocks, had struck off a part of the mountain which had bulged out."
+    },
+    {
+     "id": "p026.s03",
+     "source": "In a moment the rocky crust was broken open."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Then as if a curtain had been lifted, a great cave, like a hall lighted with crystal chandeliers, was suddenly opened to view."
+    },
+    {
+     "id": "p027.s02",
+     "source": "As the sunbeams struck the walls, the vast space was seen to be full of topaz, glittering at a thousand facets, like cut and polished diamonds."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "The lovely fairy elected to allure the hunter was told about this new cave of jewels."
+    },
+    {
+     "id": "p028.s02",
+     "source": "She was perfectly delighted, with both the task given her to do and with the jewel parlor."
+    },
+    {
+     "id": "p028.s03",
+     "source": "She met the hunter, who was struggling upwards, on his way to the high peaks, after a chamois."
+    },
+    {
+     "id": "p028.s04",
+     "source": "She first appeared in his path, and greeted him with a smile."
+    },
+    {
+     "id": "p028.s05",
+     "source": "She then led him towards the topaz cavern."
+    },
+    {
+     "id": "p028.s06",
+     "source": "Her beauty so dazzled him, that, while she went ahead, talking to him, he quickly forgot the miles he had traveled."
+    },
+    {
+     "id": "p028.s07",
+     "source": "Occasionally, she would sing a sweet song."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Soon she had led him into the topaz hall of the great cave, but no sooner had he crossed the threshold than he fell down, exhausted, upon the shining floor."
+    },
+    {
+     "id": "p029.s02",
+     "source": "In a moment he was in a deep sleep, from which he was not to awake for many days."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Meanwhile, the master dwarfs were busy at the forges, making a new kind of fire arm."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Instead [ ] of leaving the barrel smooth inside, they made grooves, along its whole length, which curved and twisted round."
+    },
+    {
+     "id": "p030.s03",
+     "source": "Or, as they said, they made it reiffelin , which kept the leaden ball perfectly straight on its course."
+    },
+    {
+     "id": "p030.s04",
+     "source": "When finished, a master dwarf asked the fairy to fly across the ravine and set up on the face of the cliff, a hundred yards off, a flat round bit of smoky rock crystal, only as big as a thaler, or a watch face."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "First the dwarf loaded the gun and then, with a mallet, pounded on the ramrod, to drive the lead of the bullet well into the grooves."
+    },
+    {
+     "id": "p031.s02",
+     "source": "Then, taking aim, he pulled the trigger."
+    },
+    {
+     "id": "p031.s03",
+     "source": "The bullet struck the disc, knocking the pretty crystal to pieces."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "By this time the hunter, asleep in the cave, began to dream, and the fairy whispered the secret in his ear."
+    },
+    {
+     "id": "p032.s02",
+     "source": "With both sight and hearing, he saw and understood all."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Awaking, the hunter found his old blunderbuss gone."
+    },
+    {
+     "id": "p033.s02",
+     "source": "In its place lay the rifle, and a beauty it was, lighter to carry, more graceful in shape, and requiring less powder and lead."
+    },
+    {
+     "id": "p033.s03",
+     "source": "For one who had to climb mountains, this was a great benefit."
+    },
+    {
+     "id": "p033.s04",
+     "source": "So he at once loaded his new piece, so as to be ready for the first chamois he should see."
+    },
+    {
+     "id": "p033.s05",
+     "source": "He thought it would be fine fun to carry home a prize, in addition to his new weapon."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "He had hardly stepped out of the topaz cave, [ ] which seemed to close like a door behind him, than there appeared in view four chamois, each full grown and with splendid horns."
+    },
+    {
+     "id": "p034.s02",
+     "source": "Putting his rifle to his shoulder and taking careful aim, though the distance was great, he fired."
+    },
+    {
+     "id": "p034.s03",
+     "source": "Instantly, there fell the finest of the animals, while the others scampered away."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Retrieving his prize, Walter started down the mountain with the buck on his back."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Reaching home, his wife embraced him, and all his children gathered round him, while his dog frisked about him in delight."
+    },
+    {
+     "id": "p035.s03",
+     "source": "Then he told the whole story."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "The next day, he walked to the village and showed the gunsmith the rifle barrel, which he had cleaned and scoured inside, until, when unscrewed from the stock, it shone like a mirror."
+    },
+    {
+     "id": "p036.s02",
+     "source": "At first, the craftsman laughed at him, but on looking down into the muzzle, as a sunbeam struck the touch hole and lighted it up along the whole length, the gunsmith opened his eyes wide in surprise."
+    },
+    {
+     "id": "p036.s03",
+     "source": "Besides a sight of it, he put his little finger in and at once discovered the secret."
+    },
+    {
+     "id": "p036.s04",
+     "source": "His eyes gleamed and his face lighted to a smile of joy."
+    },
+    {
+     "id": "p036.s05",
+     "source": "He begged the hunter to let him try the weapon."
+    },
+    {
+     "id": "p036.s06",
+     "source": "Walter gladly allowed him, for the gunmaker was an expert."
+    },
+    {
+     "id": "p036.s07",
+     "source": "At a hundred yards, he knocked a hole in a plough handle."
+    },
+    {
+     "id": "p036.s08",
+     "source": "On a second shot, he cut the stem of a lone leaf remaining on a maple tree."
+    },
+    {
+     "id": "p036.s09",
+     "source": "At his success, the gunsmith [ ] fairly yelled with delight."
+    },
+    {
+     "id": "p036.s10",
+     "source": "Thenceforth the hunter was called Mr. Walter Reiffler."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "The gunsmith, with the happy hunter’s permission, set up, as a sign over his shop, the picture of a disc or circle, with eight dots showing the grooves in the gun."
+    },
+    {
+     "id": "p037.s02",
+     "source": "From this time forth, he could not make rifles enough to supply the chamois hunters."
+    },
+    {
+     "id": "p037.s03",
+     "source": "Each man wanted the new weapon."
+    },
+    {
+     "id": "p037.s04",
+     "source": "There was rejoicing, even among the dumb animals, for the dwarfs told them what had happened and why it was that none of their number suffered pain any more, or died in agony from the hunters’ missing fire."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "So a new joy came into the life of Walter the hunter."
+    },
+    {
+     "id": "p038.s02",
+     "source": "After this, he could always get enough meat to supply his family’s need."
+    },
+    {
+     "id": "p038.s03",
+     "source": "From the skins and fur, the horns, and the heads, stuffed and mounted, with bright eyes made of glass, and sold in the village shops and hotels, and to visitors, he had plenty of pocket money."
+    },
+    {
+     "id": "p038.s04",
+     "source": "For his wife, he bought a tortoise shell comb, besides a linen and lace cap, and silver chains for her bodice."
+    },
+    {
+     "id": "p038.s05",
+     "source": "To each of his daughters, he gave enough spending money for them to save up sufficient to buy all the pretty things they needed, and also to lay in a store of linen, for their dowry."
+    },
+    {
+     "id": "p038.s06",
+     "source": "His sons, trained early to the use of the rifle, won prizes at the shooting matches, which now grew to be so popular as to become in time a national [ ] institution."
+    },
+    {
+     "id": "p038.s07",
+     "source": "This enabled the Swiss people to fear none of the despotic rulers of Europe, who hated republics."
+    },
+    {
+     "id": "p038.s08",
+     "source": "When one proud visiting emperor asked one of Walter’s sons, who was a dead shot, what the Swiss, in little Switzerland, would do, if an army corps from Germany were to invade their land, he answered:"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“We should, each one of us, shoot twice, your Majesty,” answered the brave boy."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "All the other hunters were happy, too, for chamois meat was plentiful in every chalet."
+    },
+    {
+     "id": "p040.s02",
+     "source": "Nevertheless, so many of the herds were, in time, so depleted and the total number in the mountains so lessened, that laws were passed forbidding any hunter, young or old, and no matter how famous, from shooting more than one hundred, during his life time."
+    },
+    {
+     "id": "p040.s03",
+     "source": "Yet, even then, there was plenty of meat for all, and very much more than in the old days."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "All the world rejoiced, also, for now, armed with the rifle, the wild beasts, even lions, tigers and grizzly bears that had so long destroyed millions of human beings, were no longer able to drive men away."
+    },
+    {
+     "id": "p041.s02",
+     "source": "Even women hunters dared to go into the jungle and face the terrible creatures."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "In time, the rifle was made lighter to carry, prettier to look at, and easier to charge."
+    },
+    {
+     "id": "p042.s02",
+     "source": "Men discovered that the old way of loading was at the wrong end, and used the breech, instead of [ ] the muzzle, to put in the cartridges."
+    },
+    {
+     "id": "p042.s03",
+     "source": "So the heavy mallet and ramrod were left behind and forgotten, and wars became shorter and less dreadful. [ ]"
+    }
+   ],
+   "id": "p042"
   }
  ]
 }

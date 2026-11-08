@@ -2,28 +2,28 @@
  "id": "af-san-people-030",
  "title": {
   "id": "title",
-  "source": "Kolofon"
+  "source": "Die Aasvoëls"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
- "source_book": "Boesman-Stories. Deel 1, Mitologie en legendes",
+ "source_book": "Boesman-Stories. Deel 2, Dierstories en ander verhale",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #62330 — https://www.gutenberg.org/ebooks/62330 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/030 - Kolofon.md",
+ "markdown_file": "Africa/San people/030 - Die Aasvoëls.md",
  "stats": {
-  "paragraphs": 15,
-  "segments": 18,
-  "words": 170
+  "paragraphs": 33,
+  "segments": 87,
+  "words": 1450
  },
  "paragraphs": [
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Beskikbaarheid"
+     "source": "OPMERKINGS:—Hierdie storie is ’n karakterskets uit die lewe van aasvoëls."
     }
    ],
    "id": "p001"
@@ -33,11 +33,23 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Hierdie e-boek kan deur enigiemand gebruik word, oral, gratis en met weinige beperkings."
+     "source": "D aar was ’n jong Boesman wat doodverlief was op ’n jong Boesmanmeid."
     },
     {
      "id": "p002.s02",
-     "source": "U mag dit kopieer, weggee of hergebruik in terme van die Project Gutenberg Lisensie hierby ingesluit, of aanlyn by www.gutenberg.org ."
+     "source": "Maar die vader van die jong Boesman en die vader van die jongmeid het baie stryery in die jagveld, sowel as tuis, gekry."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Daar was amper aldag rusie tussen hulle."
+    },
+    {
+     "id": "p002.s04",
+     "source": "So het die vader van die jongmeid later besluit om maar ver weg te trek."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Hy maak so en gaan daar anderkant die berge woon."
     }
    ],
    "id": "p002"
@@ -47,17 +59,33 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Hierdie e-boek is gelewer deur die aanlyn Distributed Proofreading span by www.pgdp.net ."
+     "source": "Nou, die liefde van die jong Boesman vir sy jongmeid, was baie sterk."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Elke nag droom hy dat hy kan vlie en dan oor die berge sweef tot waar die ouers van die jongmeid bly."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Hy droom dat hy met haar praat en dat hulle so gelukkig saam woon."
     }
    ],
    "id": "p003"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Metadata"
+     "source": "Maar die anderdagoggend vind hy uit dat dit maar alles drome is, en dan is sy hart baie seer."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Hy probeer dan op alle maniere om te leer vlie."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Eendag kry hy dit reg om hom in ’n aasvoël te verander, want hy was een van die Boesmans van die ou geslag."
     }
    ],
    "id": "p004"
@@ -67,27 +95,67 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Titel: Boesman-Stories: Deel I. Mitologie en legendes Skrywer: Gideon Retief von Wielligh (1859–1932) Info Illustrator: R. F. Keet Info Taal: Afrikaans Oorspronklike publikasiedatum: 1919"
+     "source": "Hy vaar toe op, op, op in die lug en maak groot draaie in die lug, en hy kyk na alle kante toe."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Eindelik vat hy die koers oor die berge en vlie in die rigting waarheen die jongmeid haar ouers getrek het."
     }
    ],
    "id": "p005"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Hersieningsgeskiedenis"
+     "source": "Dit geluk hom om die plek te vind."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Hy het daar rondgedwaal, dan weer op ’n koppie ’n bietjie gaan rus, tot hy die jongmeid sien water-toe kom."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Hy gaan digby haar sit."
     }
    ],
    "id": "p006"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Eksterne verwysings"
+     "source": "Sy kyk verwonderd op en word bang, want die voël hou gedurig sy skerp blink oë op haar gevestig."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Sy gryp ’n klip om na die voël te gooi om hom weg te ja."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Maar hy verander hom dadelik in ’n Boesman; en daar sien sy dat dit haar minnaar is."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Sy was vaal geskrik en bewe van ontsteltenis."
+    },
+    {
+     "id": "p007.s05",
+     "source": "Hy vertel haar toe dat hy haar kom haal en dat hy haar ook in ’n aasvoël wil verander."
+    },
+    {
+     "id": "p007.s06",
+     "source": "Sy was eers skrikkerig vir die plan."
+    },
+    {
+     "id": "p007.s07",
+     "source": "Maar toe hy aan haar vertel dat dit die beste manier is om hulle te verander sodat hulle ouers en die ander Boesmans hulle nie meer kan ken nie, vind sy die plan goed; en sy gee haar voornemens te kenne om eers die water huis-toe te gaan bring en daar te bly om die saak in die dag en gedurende die nagte te oordink."
+    },
+    {
+     "id": "p007.s08",
+     "source": "Sy en haar twee jonger susters slaap in ’n klein klipgrot, wat al aande deur haar ouers met klippe toegepak word."
     }
    ],
    "id": "p007"
@@ -97,21 +165,29 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Hierdie Project Gutenberg-e-boek bevat eksterne verwysings."
-    },
-    {
-     "id": "p008.s02",
-     "source": "Hierdie skakels werk moontlik nie vir u nie."
+     "source": "In daardie selfde nag kom daar leeus en val die hutte van haar vader en moeder aan en eet almal op wat daar dié nag geslaap het—net die drie jongmeide, wat veilig in die grot was, het in lewe oorgebly."
     }
    ],
    "id": "p008"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Regstellings"
+     "source": "Die jong Boesman, toe hy die oggend oor die hutte vlie, gewaar wat gedurende die laaste nag plaasgevind het."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Hy val uit die lug met oopgespreide vlerke en kom kyk wat daar werklik gebeur is."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Hy hoor die drie jongmeide in die toegepakte grot praat."
+    },
+    {
+     "id": "p009.s04",
+     "source": "Hy roep na hulle en maak daardie kliphuis vir hulle oop."
     }
    ],
    "id": "p009"
@@ -121,7 +197,11 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Die volgende regstellings is aan die teks gemaak:"
+     "source": "„…"
+    },
+    {
+     "id": "p010.s02",
+     "source": "Die veld is mooi oop daar waar ’n dooie springbok lê.…”"
     }
    ],
    "id": "p010"
@@ -131,17 +211,29 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Bladsy Bron Regstelling Redigeerafstand . [ Verwyder ] 1 , reen reën 1 / 0 werge berge 1 Hamerkop-voël Hamerkopvoël 1 Tie Toe 1 [ Nie in die bron nie ] “ 1 Dit Die 1 [ Nie in die bron nie ] ” 1 vooltjie voëltjie 1"
+     "source": "Ná hul met mekaar gesels het oor die treurige gebeurtenis, besluit hy om hulle ook maar in aasvoëls te verander; want dan kan die leeus hulle nie meer snags vang nie, daar hul dan in bome en klipkranse kan slaap."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Hy verander hul in aasvoëls, want hulle het ook aan die ou geslag van Boesmans behoor."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Hy vat toe die jongmeid vir sy vrou, en die ander twee susters bly toe by die twee wat met mekaar getroud is."
     }
    ],
    "id": "p011"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Afkortings"
+     "source": "Hulle vlie toe na die berge en gaan by die ander berg-aasvoëls woon."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Hierdie laaste berg-aasvoëls was ook vroeër Boesmans van die ou geslag."
     }
    ],
    "id": "p012"
@@ -151,7 +243,11 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Oorsig van afkortings gebruik."
+     "source": "Die jongman was altyd baie fluks om te jag; en noudat hy ’n aasvoël is, is hy nog net so uithaler om wild huis-toe te bring."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Die ander ou berg-aasvoëls het toe daarop lui geword en het naderhand glad nie meer gejag nie."
     }
    ],
    "id": "p013"
@@ -161,11 +257,15 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Afkorting Uitbreiding Tvl."
+     "source": "Eendag skiet die aasvoëlman (dit wil sê die jong Boesman wat hom in ’n aasvoël verander het) ’n springbok en bring dit huis-toe vir sy vrou en twee skoonsusters."
     },
     {
      "id": "p014.s02",
-     "source": "Transvaal"
+     "source": "Maar hulle drie gee aan die ander aasvoëls ook daarvan."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Toe die man terugkom en sien wat daar gebeur het, raas hy met sy vrou en sê dat die ander berg-aasvoëls maar self kan gaan jag."
     }
    ],
    "id": "p014"
@@ -175,10 +275,294 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "End of Project Gutenberg's Boesman-Stories, Vol 1 of 4, by G. R. von Wielligh"
+     "source": "Die vrou stry dat dit nie sy is nie, maar wel hulle twee susters, wat groot maters met die berg-aasvoëls gemaak het."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Sy neem toe die springbokvel, skroei die hare af, kook dit, en sny dit aan stukke."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Toe storm die berg-aasvoëls ook toe en verslind die vel met die grootste vraatsug."
     }
    ],
    "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Toe die man terugkom en daarvan hoor, was hy net boos en praat weer met sy vrou daaroor."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Sy stry en werp die skuld op haar twee susters, wat so danig maats gemaak het."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Die volgende dag gaan die man weer jag en bring weer ’n springbok huis-toe."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Die ander berg-aasvoëls kom saam met die drie susters eet; en toe die man dit later verneem, was hy daaroor andermaal danig ontevrede en praat weer met sy vrou daaroor."
+    },
+    {
+     "id": "p017.s03",
+     "source": "Sy, egter, hou vol om te stry en werp die skuld op haar twee susters."
+    },
+    {
+     "id": "p017.s04",
+     "source": "Sy neem dié springbokvel ook en brand die hare af en kook dit in ’n pot vir hulle drie om te eet."
+    },
+    {
+     "id": "p017.s05",
+     "source": "Dog die berg-aasvoëls wag hulle kans af, storm toe, en in ’n ommesientjie was alles verslind, waaroor die man later ook ontevrede was."
+    },
+    {
+     "id": "p017.s06",
+     "source": "Dog sy vrou gooi die blaam—nes gewoonlik—op haar susters."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Toe sê die man aan sy vrou: „So kan dit langer nie gaan nie."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Ons twee moet die geselskap verlaat, en jy moet met my saam veld-toe gaan.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Hulle gaan toe die oggend vroeg weg om te jag."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Die berg-aasvoëls en die twee susters was toe raad-op wat die kos betref."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Hulle gaan voor die huise op die klippe sit om raad te hou."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Een sê toe aan ’n ander: „Vlie op in die lug om te kyk waarheen die man en vrou gegaan is, en bring ons die tyding of hulle wild doodgekry het.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "„Nee,” antwoord een van hulle, „laat ons die jongste suster stuur dat sy vir ons die tyding bring.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "So vaar die jongste suster (’n klein aasvoëltjie) in die lug op; sy maal en maal bo in die blou lug."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Naderhand vat sy koers in die rigting wat haar skoonbroer en suster gegaan het."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Sy verdwyn in die verte; en oor ’n hele ruk kom sy terug, val met oopgespalkte vlerke uit die blou hemelgewelf en gaan op ’n rots tussen die ander aasvoëls sit."
+    },
+    {
+     "id": "p022.s04",
+     "source": "Hulle vra haar wat sy gesien het."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Sy antwoord: „Ek het hulle gesien—daar ver."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Die veld is mooi oop daar waar ’n dooie springbok lê."
+    },
+    {
+     "id": "p023.s03",
+     "source": "Maar die beste sal wees dat hierdie ouer suster van my gaan kyk; dan kan sy vir ons beter kom vertel.”"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Die ouer suster styg toe op met haar vlerke, draai en draai bo hoog in die lug, en eindelik peil sy in die rigting waarheen haar skoonbroer en suster gegaan het."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Spoedig was sy uit gesig; dog oor ’n tydjie keer sy terug, skiet uit die asuurhoogte neer en neem plaas op ’n groot klip tussen die ander aasvoëls."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Duidelik vra die hongerige pakkasie watter nuus sy te vertel het."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Sy antwoord: „Ek het ’n groot oop vlakte gesien; die stamme van die bome is hoog kaal."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Op daardie vlakte lê ’n springbok dood; en my skoonbroer en my suster is ’n ent daarvandaan.”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Toe roep algar tegelyk: „Goeie tyding, goeie tyding!"
+    },
+    {
+     "id": "p026.s02",
+     "source": "Kom laat ons op die daad gaan.”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Hulle sprei hulle vlerke oop en trek op ’n tou daarheen."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Gou het hul die springbok kafgeloop."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Die jongste suster sê: „Ons moet ’n dik en lekker stuk vleis vir ons getroude suster laat staan."
+    },
+    {
+     "id": "p028.s02",
+     "source": "Sy het mos nie rusie met ons gemaak nie, maar wel haar man."
+    },
+    {
+     "id": "p028.s03",
+     "source": "Waarom moet ons haar ook straf?”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "En die ouer suster roep uit: „Ja, daar sien ek haar aankom."
+    },
+    {
+     "id": "p029.s02",
+     "source": "Ja, dis regtig sy daardie!”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Maar die ander berg-aasvoëls was te uitgeëet en laat toe niks agterbly nie as net die afgestrookte geraamte."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Toe die man en sy vrou terugkom, vind hul net die geraamte van die springbok daar."
+    },
+    {
+     "id": "p031.s02",
+     "source": "Hulle voel neerslagtig, maar gaan dadelik weer ander wild soek."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Die ander dag het net dieselfde ding oor gebeur."
+    },
+    {
+     "id": "p032.s02",
+     "source": "Die ander aasvoëls het weer alles opgeëet en net die blote bene laat agterbly."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Die man en vrou het toe ver weggevlie—buite die bereik van hulle maters; en hulle woon nou saam met aasvoëls wat gesamentlik kos soek."
+    }
+   ],
+   "id": "p033"
   }
  ]
 }

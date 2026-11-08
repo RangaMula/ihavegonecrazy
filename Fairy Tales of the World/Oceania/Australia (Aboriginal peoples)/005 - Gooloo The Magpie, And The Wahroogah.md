@@ -4,7 +4,7 @@
 - **Source book:** *Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies*
 - **Author / collector / translator:** Parker, K. Langloh (Katie Langloh) (author, d. 1940)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #3833 — https://www.gutenberg.org/ebooks/3833 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #3833 — https://www.gutenberg.org/ebooks/3833
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

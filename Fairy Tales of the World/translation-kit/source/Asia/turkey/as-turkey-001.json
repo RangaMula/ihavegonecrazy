@@ -2,20 +2,20 @@
  "id": "as-turkey-001",
  "title": {
   "id": "title",
-  "source": "How The Hodja Saved Allah"
+  "source": "The Stag-Prince"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/001 - How The Hodja Saved Allah.md",
+ "markdown_file": "Asia/Turkey/001 - The Stag-Prince.md",
  "stats": {
   "paragraphs": 36,
-  "segments": 124,
-  "words": 2061
+  "segments": 96,
+  "words": 2414
  },
  "paragraphs": [
   {
@@ -23,23 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "ot far from the famous Mosque Bayezid an old Hodja kept a school, and very skilfully he taught the rising generation the everlasting lesson from the Book of Books."
+     "source": "Once upon a time, when the servants of Allah were many, there lived a Padishah who had one son and one daughter."
     },
     {
      "id": "p001.s02",
-     "source": "Such knowledge had he of human nature that by a glance at his pupil he could at once tell how long it would take him to learn a quarter of the Koran."
-    },
-    {
-     "id": "p001.s03",
-     "source": "He was known over the whole Empire as the best reciter and imparter of the Sacred Writings of the Prophet."
-    },
-    {
-     "id": "p001.s04",
-     "source": "For many years this Hodja, famed far and wide as the Hodja of Hodjas, had taught in this little school."
-    },
-    {
-     "id": "p001.s05",
-     "source": "The number of times he had recited the Book with his pupils is beyond counting; and should we attempt to consider how often he must have corrected them for some misplaced word, our beards would grow gray in the endeavor."
+     "source": "The Padishah grew old, his time came, and he died; his son ruled in his stead, and he had not ruled very long before he had squandered away his whole inheritance."
     }
    ],
    "id": "p001"
@@ -49,15 +37,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Swaying to and fro one day as fast as his old age would let him, and reciting to his pupils the latter part of one of the chapters, Bakara, divine inspiration opened his inward eye and led him to pause at the following sentence: \"And he that spends his money in the ways of Allah is likened unto a grain of wheat that brings forth seven sheaves, and in each sheaf an hundred grains; and Allah giveth twofold unto whom He pleaseth.\""
+     "source": "One day he said to his sister: “Little sister! all our money is spent."
     },
     {
      "id": "p002.s02",
-     "source": "As his pupils, one after the other, recited this verse to him, he wondered why he had overlooked its meaning for so many years."
+     "source": "If people were to hear that we had nothing left they would drive us out of doors, and we should never be able to look our fellow-men in the face again."
     },
     {
      "id": "p002.s03",
-     "source": "Fully convinced that anything either given to Allah, or in the way that He proposes, was an investment that brought a percentage undreamed of in known commerce, he dismissed his pupils, and putting his hand into his bosom drew forth from the many folds of his dress a bag, and proceeded to count his worldly possessions."
+     "source": "Far better, therefore, if we depart and take up our abode elsewhere.”"
+    },
+    {
+     "id": "p002.s04",
+     "source": "So they tied together the little they had left, and then the brother and sister quitted their father’s palace in the night-time, and wandered forth into the wide world."
     }
    ],
    "id": "p002"
@@ -67,7 +59,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Carefully and attentively he counted and then recounted his money, and found that if invested in the ways of Allah it would bring a return of no less than one thousand piasters."
+     "source": "They went on and on till they came to a vast sandy desert, where they were like to have fallen to the ground for the burning heat."
+    },
+    {
+     "id": "p003.s02",
+     "source": "The youth felt that he could go not a step further, when he saw on the ground a little puddle of water."
+    },
+    {
+     "id": "p003.s03",
+     "source": "“Little sister!” said he, “I will not go a step further till I have drunk this water.”"
     }
    ],
    "id": "p003"
@@ -77,15 +77,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "\"Think of it,\" said the Hodja to himself, \"one thousand piasters!"
+     "source": "“Nay, dear brother!” replied the girl, “who can tell whether it be really water or filth?"
     },
     {
      "id": "p004.s02",
-     "source": "One thousand piasters!"
+     "source": "If we have held up so long, surely we can hold up a little longer."
     },
     {
      "id": "p004.s03",
-     "source": "Mashallah! a fortune.\""
+     "source": "Water we are bound to find soon.”"
     }
    ],
    "id": "p004"
@@ -95,15 +95,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "So, having dismissed his school, he sallied forth, his bag of money in his hand, and began distributing its contents to the needy that he met in the highways."
-    },
-    {
-     "id": "p005.s02",
-     "source": "Ere many hours had passed the whole of his savings was gone."
-    },
-    {
-     "id": "p005.s03",
-     "source": "The Hodja was very happy; for now he was the creditor in Allah's books for one thousand piasters."
+     "source": "“I tell thee,” replied her brother, “that I’ll not go another step further till I have drunk up this puddle, though I die for it,”—and with that he knelt down, sucked up every drop of the dirty water, and instantly became a stag."
     }
    ],
    "id": "p005"
@@ -113,7 +105,19 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "He returned to his house and ate his evening meal of bread and olives, and was content."
+     "source": "The little sister wept bitterly at this mischance; but there was nothing for it but to go on as they were."
+    },
+    {
+     "id": "p006.s02",
+     "source": "They went on and on, up hill and down dale, right across the sandy waste till they came to a full spring beneath a large tree, and there they sat them down and rested."
+    },
+    {
+     "id": "p006.s03",
+     "source": "“Hearken now, little sister!” said the stag, “thou must mount up into that tree, while I go to see if I can find something to eat.”"
+    },
+    {
+     "id": "p006.s04",
+     "source": "So the girl climbed up into the tree, and the stag went about his business, ran up hill and down dale, caught a hare, brought it back, and he and his sister ate it together, and so they lived from day to day and from week to week."
     }
    ],
    "id": "p006"
@@ -123,15 +127,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "The next day came."
+     "source": "Now the horses of the Padishah of that country were wont to be watered at the spring beneath the large tree."
     },
     {
      "id": "p007.s02",
-     "source": "The thousand piasters had not yet arrived."
+     "source": "One evening the horsemen led their horses up to it as usual, but, just as they were on the point of drinking, they caught sight of the reflection of the damsel in the watery mirror and reared back."
     },
     {
      "id": "p007.s03",
-     "source": "He ate his bread, he imagined he had olives, and was content."
+     "source": "The horsemen fancied that perhaps the water was not quite pure, so they drew off the trough and filled it afresh, but again the horses reared backwards and would not drink of it."
+    },
+    {
+     "id": "p007.s04",
+     "source": "The horsemen knew not what to make of it, so they went and told the Padishah."
     }
    ],
    "id": "p007"
@@ -141,19 +149,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "The third day came."
-    },
-    {
-     "id": "p008.s02",
-     "source": "The old Hodja had no bread and he had no olives."
-    },
-    {
-     "id": "p008.s03",
-     "source": "He suffered the pangs of hunger."
-    },
-    {
-     "id": "p008.s04",
-     "source": "So when the end of the day had come, and his pupils had departed to their homes, the Hodja, with a full heart and an empty stomach, walked out of the town, and soon got beyond the city walls."
+     "source": "“Perchance the water is muddy,” said the Padishah."
     }
    ],
    "id": "p008"
@@ -163,7 +159,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "There, where no one could hear him, he lamented his sad fate, and the great calamity that had befallen him in his old age."
+     "source": "“Nay,” replied the horsemen, “we emptied the trough once and filled it full again with fresh water, and yet the horses would not drink of it.”"
     }
    ],
    "id": "p009"
@@ -173,11 +169,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "What sin had he committed?"
-    },
-    {
-     "id": "p010.s02",
-     "source": "What great wrong had his ancestors done, that the wrath of the Almighty had thus fallen on him, when his earthly course was well-nigh run?"
+     "source": "“Go again,” said their master, “and look well about you; perchance there is some one near the spring of whom they are afraid.”"
     }
    ],
    "id": "p010"
@@ -187,15 +179,19 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "\"Ya!"
+     "source": "The horsemen returned, and, looking well about the spring, cast their eyes at last upon the large tree, on the top of which they perceived the damsel."
     },
     {
      "id": "p011.s02",
-     "source": "Allah!"
+     "source": "They immediately went back and told the Padishah."
     },
     {
      "id": "p011.s03",
-     "source": "Allah!\" he cried, and beat his breast."
+     "source": "The Padishah took the trouble to go and look for himself, and raising his eyes perceived in the tree a damsel as lovely as the moon when she is fourteen days old, so that he absolutely could not take his eyes off her."
+    },
+    {
+     "id": "p011.s04",
+     "source": "“Art thou a spirit or a peri?” said the Padishah to the damsel."
     }
    ],
    "id": "p011"
@@ -205,23 +201,7 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "As if in answer to his cry, the howl of the dreaded Fakir Dervish came over across the plain."
-    },
-    {
-     "id": "p012.s02",
-     "source": "In those days the Fakir Dervish was a terror in the land."
-    },
-    {
-     "id": "p012.s03",
-     "source": "He knocked at the door, and it was opened."
-    },
-    {
-     "id": "p012.s04",
-     "source": "He asked, and received food."
-    },
-    {
-     "id": "p012.s05",
-     "source": "If refused, life often paid the penalty."
+     "source": "“I am neither a spirit nor a peri, but a mortal as thou art,” replied the damsel."
     }
    ],
    "id": "p012"
@@ -231,7 +211,27 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "The Hodja's lamentations were now greater than ever; for should the Dervish ask him for food and the Hodja have nothing to give, he would certainly be killed."
+     "source": "In vain the Padishah begged her to come down from the tree."
+    },
+    {
+     "id": "p013.s02",
+     "source": "In vain he implored her, nothing he could say would make her come down."
+    },
+    {
+     "id": "p013.s03",
+     "source": "Then the Padishah waxed wroth."
+    },
+    {
+     "id": "p013.s04",
+     "source": "He commanded them to cut down the tree."
+    },
+    {
+     "id": "p013.s05",
+     "source": "The men brought their axes and fell a-hewing at the tree."
+    },
+    {
+     "id": "p013.s06",
+     "source": "They hewed away at the vast tree, they hewed and hewed until only a little strip of solid trunk remained to be cut through; but, meanwhile, eventide had drawn nigh and it began to grow dark, so they left off their work, which they purposed to finish next day."
     }
    ],
    "id": "p013"
@@ -241,35 +241,19 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "\"Allah!"
+     "source": "Scarcely had they departed when the stag came running out of the forest, looked at the tree, and asked the little sister what had happened."
     },
     {
      "id": "p014.s02",
-     "source": "Allah!"
+     "source": "The girl told him that she would not descend from the tree, so they had tried to cut it down."
     },
     {
      "id": "p014.s03",
-     "source": "Allah!"
+     "source": "“Thou didst well,” replied the stag, “and take care thou dost not come down in future, whatever they may say.”"
     },
     {
      "id": "p014.s04",
-     "source": "Guide me now."
-    },
-    {
-     "id": "p014.s05",
-     "source": "Protect one of your faithful followers,\" cried the frightened Hodja, and he looked around to see if there was any one to rescue him from his perilous position."
-    },
-    {
-     "id": "p014.s06",
-     "source": "But not a soul was to be seen, and the walls of the city were five miles distant."
-    },
-    {
-     "id": "p014.s07",
-     "source": "Just then the howl of the Dervish again reached his ear, and in terror he flew, he knew not whither."
-    },
-    {
-     "id": "p014.s08",
-     "source": "As luck would have it he came upon a tree, up which, although stiff from age and weak from want, the Hodja, with wonderful agility, scrambled and, trembling like a leaf, awaited his fate."
+     "source": "With that he went to the tree, licked it with his tongue, and immediately the tree grew bigger round the hewed trunk than before."
     }
    ],
    "id": "p014"
@@ -279,7 +263,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Nearer and nearer came the howling Dervish, till at last his long hair could be seen floating in the air, as with rapid strides he preceded the wind upon his endless journey."
+     "source": "The Damsel and the Old Witch.—p. 5."
     }
    ],
    "id": "p015"
@@ -289,7 +273,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "On and on he came, his wild yell sending the blood, from very fear, to unknown parts of the poor Hodja's body and leaving his face as yellow as a melon."
+     "source": "The next day, when the stag had again departed about his business, the Padishah’s men came and saw that the tree was larger and harder round the trunk than ever."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Again they set to work hewing at the tree, and hewed and hewed till they had cut half through it; but by that time evening fell upon them again, and again they put off the rest of the work till the morrow and went home."
     }
    ],
    "id": "p016"
@@ -299,7 +287,7 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "To his utter dismay, the Hodja saw the Dervish approach the tree and sit down under its shade."
+     "source": "But all their labour was lost, for the stag came again, licked the gap in the tree with his tongue, and immediately it grew thicker and harder than ever."
     }
    ],
    "id": "p017"
@@ -309,47 +297,19 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Sighing deeply, the Dervish said in a loud voice, \"Why have I come into this world?"
+     "source": "Early next morning, when the stag had only just departed, the Padishah and his wood-cutters again came to the tree, and when they saw that the trunk of the tree had filled up again larger and firmer than ever, they determined to try some other means."
     },
     {
      "id": "p018.s02",
-     "source": "Why were my forefathers born?"
+     "source": "So they went home again and sent for a famous old witch, told her of the damsel in the tree, and promised her a rich reward if she would, by subtlety, make the damsel come down."
     },
     {
      "id": "p018.s03",
-     "source": "Why was anybody born?"
+     "source": "The old witch willingly took the matter in hand, and bringing with her an iron tripod, a cauldron, and sundry raw meats, placed them by the side of the spring."
     },
     {
      "id": "p018.s04",
-     "source": "Oh, Allah!"
-    },
-    {
-     "id": "p018.s05",
-     "source": "Oh, Allah!"
-    },
-    {
-     "id": "p018.s06",
-     "source": "What have you done!"
-    },
-    {
-     "id": "p018.s07",
-     "source": "Misery!"
-    },
-    {
-     "id": "p018.s08",
-     "source": "Misery!"
-    },
-    {
-     "id": "p018.s09",
-     "source": "Nothing but misery to mankind and everything living."
-    },
-    {
-     "id": "p018.s10",
-     "source": "Shall I not be avenged for all the misery my father and my father's fathers have suffered?"
-    },
-    {
-     "id": "p018.s11",
-     "source": "I shall be avenged.\""
+     "source": "She placed the tripod on the ground, and the kettle on the top of it but upside down, drew water from the spring and poured it not into the kettle, but on the ground beside it, and with that she kept her eyes closed as if she were blind."
     }
    ],
    "id": "p018"
@@ -359,11 +319,11 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Striking his chest a loud blow, as if to emphasize the decision he had come to, the Dervish took a small bag that lay by his side, and slowly proceeded to untie the leather strings that bound it."
+     "source": "The damsel fancied she really was blind, and called to her from the tree."
     },
     {
      "id": "p019.s02",
-     "source": "Bringing forth from it a small image, he gazed at it a moment and then addressed it in the following terms:"
+     "source": "“Nay but, my dear elder sister! thou hast placed the kettle on the tripod upside down, and art pouring all the water on the ground.”"
     }
    ],
    "id": "p019"
@@ -373,23 +333,15 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "\"You, Job! you bore much; you have written a book in which your history is recorded; you have earned the reputation of being the most patient man that ever lived; yet I have read your history and found that when real affliction oppressed you, you cursed God."
+     "source": "“Oh, my sweet little damsel!” cried the old woman, “that is because I have no eyes to see with."
     },
     {
      "id": "p020.s02",
-     "source": "You have made men believe, too, that there is a reward in this life for all the afflictions they suffer."
+     "source": "I have brought some dirty linen with me, and if thou dost love Allah, thou wilt come down and put the kettle right, and help me to wash the things.”"
     },
     {
      "id": "p020.s03",
-     "source": "You have misled mankind."
-    },
-    {
-     "id": "p020.s04",
-     "source": "For these sins no one has ever punished you."
-    },
-    {
-     "id": "p020.s05",
-     "source": "Now I will punish you,\" and taking his long, curved sword in his hand he cut off the head of the figure."
+     "source": "Then the damsel thought of the words of the little stag, and she did not come down."
     }
    ],
    "id": "p020"
@@ -399,7 +351,23 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "The Dervish bent forward, took another image and, gazing upon it with a contemptuous smile, thus addressed it:"
+     "source": "The next day the old witch came again, stumbled about the tree, laid a fire, and brought forth a heap of meal in order to sift it, but instead of meal she put ashes into the sieve."
+    },
+    {
+     "id": "p021.s02",
+     "source": "“Poor silly old granny!” cried the damsel compassionately, and then she called down from the tree to the old woman, and told her that she was sifting ashes instead of meal."
+    },
+    {
+     "id": "p021.s03",
+     "source": "“Oh, my dear damsel!” cried the old woman, weeping, “I am blind, I cannot see."
+    },
+    {
+     "id": "p021.s04",
+     "source": "Come down and help me a little in my affliction.”"
+    },
+    {
+     "id": "p021.s05",
+     "source": "Now the little stag had strictly charged her that very morning not to come down from the tree whatever might be said to her, and she obeyed the words of her brother."
     }
    ],
    "id": "p021"
@@ -409,23 +377,19 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "\"David, David, singer of songs of peace in this world and in the world to come, I have read your sayings in which you counsel men to lead a righteous life for the sake of the reward which they are to receive."
+     "source": "On the third day the old witch again came beneath the tree."
     },
     {
      "id": "p022.s02",
-     "source": "I have learned that you have misled your fellow-mortals with your songs of peace and joy."
+     "source": "This time she brought a sheep with her, and brought out a knife to flay it with, and began to jag and skin it from behind instead of cutting its throat."
     },
     {
      "id": "p022.s03",
-     "source": "I have read your history, and I find that you have committed many sins."
+     "source": "The poor little sheep bleated piteously, and the damsel in the tree, unable to endure the sight of the beast’s sufferings, came down from the tree to put the poor thing out of its misery."
     },
     {
      "id": "p022.s04",
-     "source": "For these sins and for misleading your fellowmen you have never been punished."
-    },
-    {
-     "id": "p022.s05",
-     "source": "Now I will punish you,\" and taking his sword in his hand he cut off David's head."
+     "source": "Then the Padishah, who was concealed close to the tree, rushed out and carried the damsel off to his palace."
     }
    ],
    "id": "p022"
@@ -435,7 +399,23 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Again the Dervish bent forward and brought forth an image which he addressed as follows:"
+     "source": "The damsel pleased the Padishah so mightily that he wanted to be married to her without more ado; but the damsel would not consent till they had brought her her brother, the little stag: until she saw him, she said, she could have not a moment’s rest."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Then the Padishah sent men out into the forest, who caught the stag and brought him to his sister."
+    },
+    {
+     "id": "p023.s03",
+     "source": "After that he never left his sister’s side."
+    },
+    {
+     "id": "p023.s04",
+     "source": "They lay down together, and together they rose up."
+    },
+    {
+     "id": "p023.s05",
+     "source": "Even when the Padishah and the damsel were wedded, the little stag was never far away from them, and in the evening when he found out where they were, he would softly stroke each of them all over with one of his front feet before going to sleep beside them, and say—"
     }
    ],
    "id": "p023"
@@ -445,31 +425,15 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "\"You, Solomon, are reputed to have been the wisest man that ever lived."
+     "source": "But time, as men count it, passes quickly to its fulfilment, more quickly still passes the time of fairy tales, but quickest of all flies the time of true love."
     },
     {
      "id": "p024.s02",
-     "source": "You had command over the host of the Genii and could control the legion of the demons."
+     "source": "Yet our little people would have lived on happily if there had not been a black female slave in the palace."
     },
     {
      "id": "p024.s03",
-     "source": "They came at the bidding of your signet ring, and they trembled at the mysterious names to which you gave utterance."
-    },
-    {
-     "id": "p024.s04",
-     "source": "You understood every living thing."
-    },
-    {
-     "id": "p024.s05",
-     "source": "The speech of the beasts of the field, of the birds of the air, of the insects of the earth, and of the fishes of the sea, was known unto you."
-    },
-    {
-     "id": "p024.s06",
-     "source": "Yet when I read your history I found that in spite of the vast knowledge that was vouchsafed unto you, you committed many wrongs and did many foolish things, which in the end brought misery into the world and destruction unto your people; and for all these no one has ever punished you."
-    },
-    {
-     "id": "p024.s07",
-     "source": "Now I will punish you,\" and taking his sword he cut off Solomon's head."
+     "source": "Jealousy devoured her at the thought that the Padishah had taken to his bosom the ragged damsel from the tree-top rather than herself, and she watched for an opportunity of revenge."
     }
    ],
    "id": "p024"
@@ -479,7 +443,19 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "Again the Dervish bent forward and brought forth from the bag another figure, which he addressed thus:"
+     "source": "Now there was a beautiful garden in the palace, with a fountain in the midst of it, and there the Sultan’s damsel used to walk about."
+    },
+    {
+     "id": "p025.s02",
+     "source": "One day, with a golden saucer in her hand and a silver sandal on her foot, she went towards the great fountain, and the black slave followed after her and pushed her in."
+    },
+    {
+     "id": "p025.s03",
+     "source": "There was a big fish in the basin, and it immediately swallowed up the Sultan’s pet damsel."
+    },
+    {
+     "id": "p025.s04",
+     "source": "Then the black slave returned to the palace, put on the golden raiment of the Sultan’s damsel, and sat down in her place."
     }
    ],
    "id": "p025"
@@ -489,23 +465,15 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "\"Jesus, Jesus, prophet of God, you came into this world to atone, by giving your blood, for the sins of mankind and to bring unto them a religion of peace."
+     "source": "In the evening the Padishah came and asked the damsel what she had done to her face that it was so much altered."
     },
     {
      "id": "p026.s02",
-     "source": "You founded a church, whose history I have studied, and I see that it set fathers against their children and brethren against one another; that it brought strife into the world; that the lives of men and women and children were sacrificed so that the rivers ran red with blood unto the seas."
+     "source": "“I have walked too much in the garden, and so the sun has tanned my face,” replied the girl."
     },
     {
      "id": "p026.s03",
-     "source": "Truly you were a great prophet, but the misery you caused must be avenged."
-    },
-    {
-     "id": "p026.s04",
-     "source": "For it no one has yet punished you."
-    },
-    {
-     "id": "p026.s05",
-     "source": "Now I will punish you,\" and he took his sword and cut off Jesus' head."
+     "source": "The Padishah believed her and sat down beside her, but the little stag came also, and when he began to stroke them both down with his fore-foot he recognized the slave-girl as he said —"
     }
    ],
    "id": "p026"
@@ -515,7 +483,7 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "With a sorrowful face the Dervish bent forward and brought forth another image from the bag."
+     "source": "Then it became the one wish of the slave-girl’s heart to be rid of the little stag as quickly as possible, lest it should betray her."
     }
    ],
    "id": "p027"
@@ -525,27 +493,15 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "\"Mohammed,\" he said, \"I have slain Job, David, Solomon, and Jesus."
+     "source": "So after a little thought she made herself sick, and sent for the doctors, and gave them much money to say to the Padishah that the only thing that could save her was the heart of the little stag to eat."
     },
     {
      "id": "p028.s02",
-     "source": "What shall I do with you?"
+     "source": "So the doctors went and told the Padishah that the sick woman must swallow the heart of the little stag, or there was no hope for her."
     },
     {
      "id": "p028.s03",
-     "source": "After the followers of Jesus had shed much blood, their religion spread over the world, was acceptable unto man, and the nations were at peace."
-    },
-    {
-     "id": "p028.s04",
-     "source": "Then you came into the world, and you brought a new religion, and father rose against father, and brother rose against brother; hatred was sown between your followers and the followers of Jesus, and again the rivers ran red with blood unto the seas; and you have not been punished."
-    },
-    {
-     "id": "p028.s05",
-     "source": "For this I will punish you."
-    },
-    {
-     "id": "p028.s06",
-     "source": "By the beard of my forefathers, whose blood was made to flow in your cause, you too must die,\" and with a blow the head of Mohammed fell to the ground."
+     "source": "Then the Padishah went to the slave-girl whom he fancied to be his pet damsel, and asked her if it did not go against her to eat the heart of her own brother?"
     }
    ],
    "id": "p028"
@@ -555,11 +511,15 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "Then the Dervish prostrated himself to the earth, and after a silent prayer rose and brought forth from the bag the last figure."
+     "source": "“What can I do?” sighed the impostor; “if I die, what will become of my poor little pet?"
     },
     {
      "id": "p029.s02",
-     "source": "Reverently he bowed to it, and then he addressed it as follows:"
+     "source": "If he be cut up I shall live, while he will be spared the torments of those poor beasts that grow old and sick.”"
+    },
+    {
+     "id": "p029.s03",
+     "source": "Then the Padishah gave orders that a butcher’s knife should be whetted, and a fire lighted, and a cauldron of water put over the fire."
     }
    ],
    "id": "p029"
@@ -569,43 +529,7 @@
    "segments": [
     {
      "id": "p030.s01",
-     "source": "\"Oh, Allah!"
-    },
-    {
-     "id": "p030.s02",
-     "source": "The Allah of Allahs."
-    },
-    {
-     "id": "p030.s03",
-     "source": "There is but one Allah, and thou art He."
-    },
-    {
-     "id": "p030.s04",
-     "source": "I have slain Job, David, Solomon, Jesus, and Mo hammed for the folly that they have brought into the world."
-    },
-    {
-     "id": "p030.s05",
-     "source": "Thou, God, art all powerful."
-    },
-    {
-     "id": "p030.s06",
-     "source": "All men are thy children, thou createst them and bringest them into the world."
-    },
-    {
-     "id": "p030.s07",
-     "source": "The thoughts that they think are thy thoughts."
-    },
-    {
-     "id": "p030.s08",
-     "source": "If all these men have brought all this evil into the world, it is thy fault."
-    },
-    {
-     "id": "p030.s09",
-     "source": "Shall I punish them and allow thee to go unhurt?"
-    },
-    {
-     "id": "p030.s10",
-     "source": "No. I must punish thee also,\" and he raised his sword to strike."
+     "source": "The poor little stag perceived all the bustling about and ran down into the garden to the fountain, and called out three times to his sister—"
     }
    ],
    "id": "p030"
@@ -615,19 +539,7 @@
    "segments": [
     {
      "id": "p031.s01",
-     "source": "As the sword circled in the air the Hodja, secreted in the tree, forgot the fear in which he stood of the Dervish."
-    },
-    {
-     "id": "p031.s02",
-     "source": "In the excitement of the moment he cried out in a loud tone of voice: \"Stop!"
-    },
-    {
-     "id": "p031.s03",
-     "source": "Stop!"
-    },
-    {
-     "id": "p031.s04",
-     "source": "He owes me one thousand piasters.\""
+     "source": "And thrice she answered back to him from the fish’s maw—"
     }
    ],
    "id": "p031"
@@ -637,43 +549,7 @@
    "segments": [
     {
      "id": "p032.s01",
-     "source": "The Dervish reeled and fell senseless to the ground."
-    },
-    {
-     "id": "p032.s02",
-     "source": "The Hodja was overcome at his own words and trembled with fear, convinced that his last hour had arrived."
-    },
-    {
-     "id": "p032.s03",
-     "source": "The Dervish lay stretched upon his back on the grass like one dead."
-    },
-    {
-     "id": "p032.s04",
-     "source": "At last the Hodja took courage."
-    },
-    {
-     "id": "p032.s05",
-     "source": "Breaking a twig from off the tree, he threw it down upon the Dervish's face, but the Dervish made no sign."
-    },
-    {
-     "id": "p032.s06",
-     "source": "The Hodja took more courage, removed one of his heavy outer shoes and threw it on the outstretched figure of the Dervish, but still the Dervish lay motionless."
-    },
-    {
-     "id": "p032.s07",
-     "source": "The Hodja carefully climbed down the tree, gave the body of the Dervish a kick, and climbed back again, and still the Dervish did not stir."
-    },
-    {
-     "id": "p032.s08",
-     "source": "At length the Hodja descended from the tree and placed his ear to the Dervish's heart."
-    },
-    {
-     "id": "p032.s09",
-     "source": "It did not beat."
-    },
-    {
-     "id": "p032.s10",
-     "source": "The Dervish was dead."
+     "source": "For the Sultan’s pet damsel had brought forth a little son in the fish’s belly."
     }
    ],
    "id": "p032"
@@ -683,11 +559,19 @@
    "segments": [
     {
      "id": "p033.s01",
-     "source": "\"Ah, well,\" said the Hodja, \"at least I shall not starve."
+     "source": "Now the Padishah was intent on catching the little stag when it ran down into the garden to the fountain, and, coming up softly behind it, heard every word of what the brother and sister were saying to each other."
     },
     {
      "id": "p033.s02",
-     "source": "I will take his garments and sell them and buy me some bread.\""
+     "source": "He quietly ordered all the water to be drained off the basin of the fountain, drew up the fish, cut open its belly, and what do you think he saw?"
+    },
+    {
+     "id": "p033.s03",
+     "source": "In the belly of the fish was his wife, with a golden saucer in her hand, and a silver sandal on her foot, and a little son in her arms."
+    },
+    {
+     "id": "p033.s04",
+     "source": "Then the Padishah embraced his wife, and kissed his son, and brought them both to the palace, and heard the tale of it all to the very end."
     }
    ],
    "id": "p033"
@@ -697,19 +581,11 @@
    "segments": [
     {
      "id": "p034.s01",
-     "source": "The Hodja commenced to remove the Dervish's garments."
+     "source": "But the little stag found something in the fish’s blood, and when he had swallowed it, he became a man again."
     },
     {
      "id": "p034.s02",
-     "source": "As he took off his belt he found that it was heavy."
-    },
-    {
-     "id": "p034.s03",
-     "source": "He opened it, and saw that it contained gold."
-    },
-    {
-     "id": "p034.s04",
-     "source": "He counted the gold and found that it was exactly one thousand piasters."
+     "source": "Then he rushed to his sister, and they embraced and wept with joy over each other’s happiness."
     }
    ],
    "id": "p034"
@@ -719,14 +595,27 @@
    "segments": [
     {
      "id": "p035.s01",
-     "source": "The Hodja turned his face toward Mecca and raising his eyes to heaven said, \"Oh God, you have kept your promise, but,\" he added, \"not before I saved your life.\""
+     "source": "But the Padishah sent for his black slave-girl, and asked her which she would like the best—four good steeds or four good swords."
+    },
+    {
+     "id": "p035.s02",
+     "source": "The slave-girl replied: “Let the swords be for the throats of my enemies, but give me the four steeds that I may take my pleasure on horseback.”"
+    },
+    {
+     "id": "p035.s03",
+     "source": "Then they tied the slave-girl to the tails of four good steeds, and sent her out for a ride; and the four steeds tore the black girl into little bits and scattered them abroad."
     }
    ],
    "id": "p035"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "But the Padishah and his wife lived happily together, and the king’s son who had been a stag abode with them; and they gave a great banquet, which lasted four days and four nights; and they attained their desires, and may ye, O my readers, attain your desires likewise."
+    }
+   ],
    "id": "p036"
   }
  ]

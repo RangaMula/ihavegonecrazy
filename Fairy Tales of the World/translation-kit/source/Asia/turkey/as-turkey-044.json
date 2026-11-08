@@ -1,0 +1,157 @@
+{
+ "id": "as-turkey-044",
+ "title": {
+  "id": "title",
+  "source": "The Language Of Birds"
+ },
+ "tradition": "Turkey",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "Told in the Coffee House: Turkish Tales",
+ "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
+ "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Turkey/044 - The Language Of Birds.md",
+ "stats": {
+  "paragraphs": 10,
+  "segments": 19,
+  "words": 326
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "here once lived a Hodja who, it was said, understood the language of birds, but refused to impart his knowledge."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One young man was very persistent in his desire to know the language of these sweet creatures, but the Hodja was inflexible."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "In despair, the young man went to the woods at least to listen to the pleasant chirping of the birds."
+    },
+    {
+     "id": "p002.s02",
+     "source": "By degrees it conveyed to him a meaning, till, finally, he understood them to tell him that his horse would die."
+    },
+    {
+     "id": "p002.s03",
+     "source": "On returning from the woods, he immediately sold his horse and went and told the Hodja."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"Oh Hodja, why will you not teach me the language of birds?"
+    },
+    {
+     "id": "p003.s02",
+     "source": "Yesterday I went to the woods and they warned me that my horse would die, thus affording me an opportunity of selling it and avoiding the loss.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The Hodja was silent, but would not give way."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The following day the young man again went to the woods, and the chirping of the birds told him that his house would be burned."
+    },
+    {
+     "id": "p005.s02",
+     "source": "The young man hurried away, sold his house, again went to the Hodja and told him all that had happened, adding:"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "\"See, Hodja Effendi, you would not teach me the language of the birds, but I have saved my horse and my house by listening to them.\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "On the following day, the young man again went to the woods, and the birds chirped him the doleful tale, that on the following day he would die."
+    },
+    {
+     "id": "p007.s02",
+     "source": "In tears the young man went to the Hodja for advice."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"Oh Hodja Effendi!"
+    },
+    {
+     "id": "p008.s02",
+     "source": "Alas!"
+    },
+    {
+     "id": "p008.s03",
+     "source": "What am I to do?"
+    },
+    {
+     "id": "p008.s04",
+     "source": "The birds have told me that to-morrow I must die.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"My son,\" answered the Hodja, \"I knew this would come, and that is why I refused to teach you the language of birds."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Had you borne the loss of your horse, your house would have been saved, and had your house been burned, your life would have been saved.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p010"
+  }
+ ]
+}

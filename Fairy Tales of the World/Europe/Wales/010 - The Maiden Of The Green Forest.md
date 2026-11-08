@@ -4,7 +4,7 @@
 - **Source book:** *Welsh Fairy Tales*
 - **Author / collector / translator:** Griffis, William Elliot (author, d. 1928)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #9368 — https://www.gutenberg.org/ebooks/9368 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #9368 — https://www.gutenberg.org/ebooks/9368
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

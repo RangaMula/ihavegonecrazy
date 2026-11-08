@@ -1,0 +1,25 @@
+# Le prince et Togresse
+
+- **Tradition:** Kabyle people (Algeria) (Africa)
+- **Source book:** *Recueil de contes populaires de la Kabylie du Djurdjura (1882)*
+- **Author / collector / translator:** Rivière, Joseph (translator, d. 1883)
+- **Original language of this text:** fr
+- **Source:** Internet Archive item `recueildecontes00rivigoog` — https://archive.org/details/recueildecontes00rivigoog (OCR text, lightly cleaned)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+- **Note:** Digitised by OCR; minor recognition errors may remain.
+
+---
+
+HISTOIRE d'un roi, Dieu seul est roi. Il avait un fils qui lui dit un jour : a Je vais me promener. * Il se dirigea vers une fontaine où il trouva une vieille femme puisant de l'eau : « Retire-toi, vieille, que mon cheval puisse boire, sinon il te renversera. » Le cheval marcha sur la vieille : • C'est bien, c'est bien, dit-elle, on sait bien que tu n'as pas e'pousé la fille de l'ogresse. » Le jeune homme revint vers sa mère et feignit d'être malade r « Que te prépareraije? » lui demanda-t-elle. « Un plat de couscous grossier, répondit le jeune homme, mais ce n'est pas à toi à le préparer, c'est à la vieille que j'ai trouvée à la fontaine. ■ Ls^ mère lit appeler la vieille en question afin
+
+qu'elle préparât à son ftls un plat de couscous grossier. Celle-ci vint, apprêta le couscous et le présema au jéane homme, qui s'écria : ■ Voilà un brin de paille dans le platl • La vieille tendit la main pour l'dter, le malade la lui sabit : • Lâche-moi, ô mon fils, • lui dit-elle, i Je- ne te lâcherai point que tu ne m'aies dit où demeure la fille de l'ogresse. > — ■ Elle demeure ii un tel endroit. > Et le jeune homme retira sa main. 11 se leva k l'instant, se mit en route et arriva à la maison de l'ogresse qui était absente; sa fille reçut le jeune prince et lut dit : ( Si ma mère te trouve ici, elle te mangera, car elle dévore tous les gens qu'elle rencontre. ■ — ■ Peu m'importe, • répondit-il. La jeune fille le cacha dans la fosse destinée à piler les olives et renversa sur lui un grand plat. L'ogresse revint et dit à sa fllle : 1 Loundja, ma fille, qui est entré dans' la maison? » — ■ Personne, ô ma mère; toi, tu es l'ogresse, moi, je suis la fille de l'ogresse, nous sommes seules ici. » Durant la nuit, le prince et la jeune fllle partirent; en quittant la maison, celle-ci jeta ■ une pierre dans le mortier à piler et lui dit : ■ Tourne, tourne, ô mortier, un homme
+
+LE PRINCE ET L*OGRESSE 2 11
+
+emmène Loundja, la fille de l'ogresse. » Et le mortier se mit à tourner sans que l'ogresse se réveillât. Alors elle jeta le mortier dans le feu qui pe'tilla, l'ogresse se réveilla et apela sa fille : « O ma fille, ma fille! » Rien ne répondit. Alors elle se leva et poursuivit les fugitifs; elle rencontra un jujubier qui lui barrait le passage . « Juif de jujubier, laisse-moi passer. » Le jujubier ne bougea pas. Elle arriva au bord d'une rivière : « Juive de rivière, laisse-moi passer, » et la rivière de grossir. Enfin, elle aperçut les deux jeunes gens sur une colline et leur cria : « O Loundja, si vous trouvez des aigles en train de se battre, prends garde, toi et ton mari, de les séparer. » — « C'est bien, ô ma mère, » répondit la jeune fille. Ils continuèrent leur route et trouvèrent des aigles en train de se battre. Quand le grand eut vaincu le petit, le jeune homme dit à sa femme ; « Allons les séparer. » — « Que nous a recommandé notre mère? • — a Par Dieu! nous les séparerons. » Et il les sépara. Le grand aigle saisit le jeune homme et le mit sous son aile : « Dirige-toi vers la fontaine, dit-il alors à la jeune fille, tu y trouveras une négresse, » Elle arriva à la
+
+fontaine, y trouva une négresse, la tua et se revêtit dô sa peau; après quoi elle suivit la vache qu'avait menée la négresse et qui la conduisit à la maison de son ravisseur. Elle entra et dit à la mère du Jeune, homme : t Où placerai-je la cruche? » — « Viens par ici, juive de négresse, que Dieu t'extermine ! Ne sais-tu pas où tu la déposes d'ordinaire mets-la dans le coin. • Le lendemain l'aigle la visita et lui dit : t Quel . e%t ton lit, ô Loundja? quel est ton chevet? quelle est ta nourriture? » — « Mon lit, c'est le sol nu, répondit-elle; mon chevet, la pierre du foyer; ma nourriture, du pain de son. » Un jour le père du jeune homme se rendit à la fontaine, il y trouva son fils qui lui dit : « Tue une jeune génisse et prépare un couscous, tu les apporteras ici, tous les aigles en mangeront, le septième aigle restera à terre, il n'aura pas la force de voler, donne-lui un coup de bâton entre les ailes, je tomberai. » Le père fit ainsi, il apporta un plat de couscous et de la viande; tous les aigles s'en rassasièrent ; le septième ne put s'envoler, le père lui asséna un coup de bâton entre les ailes, le jeune homme fut délivré; ils vinreat à leur maison, la fille de l'ogresse se
+
+LE PRINCE ET L*OGRESSE 2 F 3
+
+dépouilla de la peau de la négresse, ils célébrèrent leurs noces pendant sept jours et sept nuits.

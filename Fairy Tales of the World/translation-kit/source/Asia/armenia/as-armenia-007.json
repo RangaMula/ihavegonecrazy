@@ -2,28 +2,32 @@
  "id": "as-armenia-007",
  "title": {
   "id": "title",
-  "source": "Pagan Folk Festivals"
+  "source": "The Bride Of The Fountain"
  },
  "tradition": "Armenia",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Armenian Legends and Festivals",
- "credits": "Boettiger, Louis A. (Louis Angelo) (author)",
- "gutenberg": "Project Gutenberg eBook #38129 — https://www.gutenberg.org/ebooks/38129 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Asia/Armenia/007 - Pagan Folk Festivals.md",
+ "source_book": "The Golden Maiden, and other folk tales and fairy stories told in Armenia",
+ "credits": "Seklemian, A. G. (Apraham Garabed) (author, d. 1920)",
+ "gutenberg": "Project Gutenberg eBook #46944 — https://www.gutenberg.org/ebooks/46944",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Armenia/007 - The Bride Of The Fountain.md",
  "stats": {
-  "paragraphs": 91,
-  "segments": 256,
-  "words": 5538
+  "paragraphs": 35,
+  "segments": 64,
+  "words": 941
  },
  "paragraphs": [
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Section 1. Vartavar and the Festival of Mihr"
+     "source": "Somewhere I have heard that there were once three sisters, whose mother went to town to buy them dresses."
+    },
+    {
+     "id": "p001.s02",
+     "source": "On her way back to the village she sat down by a fountain to rest."
     }
    ],
    "id": "p001"
@@ -33,27 +37,7 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Vartavar, meaning “flaming of the rose,” was celebrated in pagan times in honor of Anahit, goddess of chastity, at midsummer."
-    },
-    {
-     "id": "p002.s02",
-     "source": "The central act of the festival was the offering of a dove and a rose to her golden image."
-    },
-    {
-     "id": "p002.s03",
-     "source": "With the introduction of Christianity the temple and the image were destroyed, and it may be noted that upon the site of the Temple of Anahit in Vagharshapat was built the Cathedral of Etchmiadzin."
-    },
-    {
-     "id": "p002.s04",
-     "source": "This would lead to the strange conclusion that in the vision of St. Gregory, Jesus Christ descended upon a pagan temple."
-    },
-    {
-     "id": "p002.s05",
-     "source": "The fact seems to be that this marvelous vision was seen by a pious monk who published a life of St. Gregory some two or three centuries after the Illuminator’s death."
-    },
-    {
-     "id": "p002.s06",
-     "source": "But the festival became the “Festival of the Transfiguration of Christ,” although the name Vartavar still remains, and doves are still set flying."
+     "source": "“Tush!” exclaimed she, remembering that she had forgotten to buy a dress for her youngest daughter."
     }
    ],
    "id": "p002"
@@ -63,59 +47,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "The festival is celebrated differently in various places."
-    },
-    {
-     "id": "p003.s02",
-     "source": "Upon the mountains of Armenia every family brings a sheep for sacrifice, adorned with colored papers and pigments, and as the sheep approach the shrine, lighted candles are fixed upon their horns."
-    },
-    {
-     "id": "p003.s03",
-     "source": "Sheaves of grain, fruit, flowers, and doves are also brought as sacrifices, while dust from beside the altar is carried home to children as a talisman to help them to learn their A B C’s. In the absence of a church on the mountainside, which is usually the case, a large white tent with crosses is put up beside some sacred spring, with which the country abounds."
-    },
-    {
-     "id": "p003.s04",
-     "source": "The spring is necessary, for on this day the people amuse themselves by throwing water upon each other."
-    },
-    {
-     "id": "p003.s05",
-     "source": "For this reason the day is often called Armenian Water Day."
-    },
-    {
-     "id": "p003.s06",
-     "source": "After the doves are set flying, the priest sprinkles the people, and they in turn sprinkle water over each other."
-    },
-    {
-     "id": "p003.s07",
-     "source": "This practice probably dates to the legend of the deluge, the Universal Baptism with which God cleansed His sinful earth."
-    },
-    {
-     "id": "p003.s08",
-     "source": "The dove and the baptism are also suggestive of the baptism of Jesus by John in the waters of Jordan."
-    },
-    {
-     "id": "p003.s09",
-     "source": "This part of the festival is probably an addition to the pagan rite, for the sprinkling of the water is symbolic of love and forgiveness; it is carried on with much laughing and merry-making."
-    },
-    {
-     "id": "p003.s10",
-     "source": "The festival includes also a kind of fair, for the people have to show what progress they have made during the year in art and the various handicrafts."
-    },
-    {
-     "id": "p003.s11",
-     "source": "Races, competitions, and games are held, and the victors are crowned with wreaths of roses, so that even the rose continues to have an important place in the festivities as it had in pagan days."
-    },
-    {
-     "id": "p003.s12",
-     "source": "The sprinkling of water, the games, the races, show how happy a time the people must have on this day; the exhibition of the year’s accomplishment in handicraft and art points out the more serious side; while the essential religious symbolism is very clearly emphasized."
-    },
-    {
-     "id": "p003.s13",
-     "source": "What may also be noted is that there is entertainment for all, old and young, serious and frivolous."
-    },
-    {
-     "id": "p003.s14",
-     "source": "The pious-minded may sit on the mountainside contemplating the religious aspect of it all; the gay and light-hearted may sprinkle water over each other; the young and strong may run races and play games; men and women of a practical turn of mind may visit the fair and note the progress made during the year; and children may roll about on the mountainsides or gather roses, for these are in full bloom at this time."
+     "source": "Suddenly an old man came out from the fountain, and standing before the woman, said:"
     }
    ],
    "id": "p003"
@@ -125,27 +57,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The pagan spring festival in honor of Mihr, the god of fire, was taken over by the church to commemorate the bringing of the Babe Jesus to the temple, where Mary sacrificed two doves according to the custom of purification."
-    },
-    {
-     "id": "p004.s02",
-     "source": "The ancient rite consisted of kindling fires in the open market places in honor of the god Mihr, and of lighting a lantern from one of the newly kindled fires, which was kept burning in the temple throughout the year."
-    },
-    {
-     "id": "p004.s03",
-     "source": "As now celebrated, on February 26, every young man who has been married within the year brings a load of aromatic shrubs, making a huge pile of them in the yard of the church."
-    },
-    {
-     "id": "p004.s04",
-     "source": "A religious service is held in the open air at evening-time, after which the priest sets fire to the pile."
-    },
-    {
-     "id": "p004.s05",
-     "source": "All the villagers, men, women, and children, dance about the fire, while boys and young men show their agility and courage by leaping over it."
-    },
-    {
-     "id": "p004.s06",
-     "source": "When the flames die down, each person carries home a glowing brand and places it on the hearthstone for good luck."
+     "source": "“My name is Tush; why did you call me?”"
     }
    ],
    "id": "p004"
@@ -155,39 +67,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The description of the festival by Abeghian shows how a general celebration of this kind varies in particulars from place to place."
-    },
-    {
-     "id": "p005.s02",
-     "source": "On the afternoon of the 13th of February, which is the day before the church festival of the purification, a pile of wood consisting usually of thorn-wood, cane, and straw is gathered together in the churchyard."
-    },
-    {
-     "id": "p005.s03",
-     "source": "The entire community comes together in the church on the night of the same day, each person provided with a candle."
-    },
-    {
-     "id": "p005.s04",
-     "source": "After the vespers all stand about the pile of shrub and wood, the newly married during the year making the first row."
-    },
-    {
-     "id": "p005.s05",
-     "source": "The candles are lighted from the church light, and after the priest has blessed the pile, it is set ablaze from all sides, after which the candles are put out."
-    },
-    {
-     "id": "p005.s06",
-     "source": "As soon as the fire has died down, the candles are relighted from the glowing embers which are regarded as sacred, and carried home where they are used to light a pile of shrub and wood that has been gathered on the roof of the house."
-    },
-    {
-     "id": "p005.s07",
-     "source": "The young people jump over the fire while the young women and married women march around it saying, “May it not itch me, and may I not receive any scabs,” taking care just to singe the border of their dresses."
-    },
-    {
-     "id": "p005.s08",
-     "source": "The ashes, as well as the half-burned wood-stuffs are preserved, or scattered in the four corners of the barn, over the fields or in the garden, for the ashes and flames of the firebrands are believed to protect people and cattle from sickness and the fruit trees from worms and caterpillars."
-    },
-    {
-     "id": "p005.s09",
-     "source": "In the homes of the newly married the festival is celebrated with music and dance, the young couples especially making it a point to dance about the sacred flames, while in some places special food is prepared in honor of the occasion."
+     "source": "“I did not call you,” said the woman, “I exclaimed, ‘Tush!’ because I had forgotten to buy a dress for my youngest daughter.”"
     }
    ],
    "id": "p005"
@@ -197,7 +77,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Various prophesies are made during the festival, for example, if the flame and smoke blows to the east, it is a sign of a good harvest for the coming year, if toward the west, a bad growth is expected."
+     "source": "“Go, bring her,” said the old man, “and call on me again; I will give her a dress.”"
     }
    ],
    "id": "p006"
@@ -207,25 +87,45 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "In recent years the religious authorities at Etchmiadzin printed the following prohibition in the church calendar: “It is forbidden to run about the fire.”"
+     "source": "The woman went and brought her daughter to the fountain."
     },
     {
      "id": "p007.s02",
-     "source": "But the festival is celebrated nevertheless."
+     "source": "As soon as she uttered the word “Tush!” the old man came out."
     },
     {
      "id": "p007.s03",
-     "source": "That it originates in the pagan festival held in honor of Mihr there is little doubt, for the month of February corresponds to the ancient Armenian month Mehakan, which, translated into modern Armenian, Mihragan, means belonging to Mihr, or more loosely, the Festival of Mihr."
+     "source": "He took the maiden into the fountain and never came back, in spite of the repeated exclamations of the woman, who tired of repeating, “Tush!"
+    },
+    {
+     "id": "p007.s04",
+     "source": "Tush!”"
+    },
+    {
+     "id": "p007.s05",
+     "source": "At last she gave up hope, and going home mourned the wonderful disappearance of her pretty daughter."
+    },
+    {
+     "id": "p007.s06",
+     "source": "After one or two months she went again to the fountain and uttered the word “Tush!”"
+    },
+    {
+     "id": "p007.s07",
+     "source": "The old man came out, and seeing the woman he turned toward the fountain, saying:"
     }
    ],
    "id": "p007"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Section 2. The Day of the Dead and Vartan’s Day"
+     "source": "“Halloo! son, your mother-in-law has come to call on her daughter."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Won’t you send her out?”"
     }
    ],
    "id": "p008"
@@ -235,51 +135,11 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "The festival in commemoration of the dead is celebrated on the first day after Easter, and may be regarded as a reaction against the lenten fasts."
+     "source": "“Certainly,” said a voice from within."
     },
     {
      "id": "p009.s02",
-     "source": "Families of Armenians, loaded with picnic baskets, packages of food, and bottles of wine, flock to their cemeteries in great numbers."
-    },
-    {
-     "id": "p009.s03",
-     "source": "Priests are paid small fees for standing over the graves of the dead to chant prayers for the salvation of the departed souls."
-    },
-    {
-     "id": "p009.s04",
-     "source": "Over the graves of the recently dead stand the bereaved relatives of the deceased, lamenting loudly and bewailing a fate which they know must some day be their own."
-    },
-    {
-     "id": "p009.s05",
-     "source": "A more maudlin spectacle could not be imagined."
-    },
-    {
-     "id": "p009.s06",
-     "source": "Here and there are seated groups of families eating and drinking and laughing all the more heartily for the enforced abstinence of the preceding weeks; while standing beside this grave or that is a priest in black robe and high hat, chanting a prayer for the dead, and incidentally earning his daily bread."
-    },
-    {
-     "id": "p009.s07",
-     "source": "Eating seems to be the chief amusement; even the mourners eat after they have faithfully mourned, and the priests too come in for their shares after all possible fees have been earned."
-    },
-    {
-     "id": "p009.s08",
-     "source": "Altogether it is a post-lenten festival in the full meaning of the term, and much in contrast to the wholesome enjoyment and the light-hearted gaiety so characteristic of Vartavar."
-    },
-    {
-     "id": "p009.s09",
-     "source": "It has been witnessed in Constantinople by Armenians I know, who have given accounts to me."
-    },
-    {
-     "id": "p009.s10",
-     "source": "Whether or not it is carried out in this manner in the villages and rural districts I am not aware, but I should be very much surprised to learn that it was, for I should certainly regard the festival in this form as a product of the artificiality of city life."
-    },
-    {
-     "id": "p009.s11",
-     "source": "In the absence of wholesome amusements and of the community solidarity characteristic of the Armenian village, contact with city-bred folk would inevitably result in a shift of standards of judgment and valuation, together with a break-up in old habits of thought and life; and as the people have no common play-ground, so to speak, except the poor denuded cemetery allotted them by the Turkish government, one can well excuse the ugliness of the spectacle."
-    },
-    {
-     "id": "p009.s12",
-     "source": "The Armenian has Vartavar, a real festival, and need not look with shame upon this festival in commemoration of the dead."
+     "source": "“I will send her to pay a visit to her mother, as is the custom.”"
     }
    ],
    "id": "p009"
@@ -289,39 +149,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "This same offering of sacrifice for the dead is carried on in a variety of ways."
-    },
-    {
-     "id": "p010.s02",
-     "source": "In Armenian villages the family of the deceased prepares a lamb or a kid with rice, and on the day of the funeral pieces of it are given to the attendants; given, as they say, and taken, in sacrifice for the dead."
-    },
-    {
-     "id": "p010.s03",
-     "source": "The practice in Constantinople is somewhat different, although the idea is exactly the same."
-    },
-    {
-     "id": "p010.s04",
-     "source": "Forty days after the death of an individual, or perhaps on the anniversary of the death, the bereaved family prepares a lamb or a kid with rice, which is distributed to the people in small pots, and given, as they say, in sacrifice for the dead."
-    },
-    {
-     "id": "p010.s05",
-     "source": "The Greek custom in this respect is most absurd."
-    },
-    {
-     "id": "p010.s06",
-     "source": "At the head of the casket, which is left open, two men march in the funeral procession carrying a wide tray filled with boiled wheat and sugar, and trailing a piece of black crape."
-    },
-    {
-     "id": "p010.s07",
-     "source": "After the burial this is distributed to the mourners in handfuls, again in sacrifice for the dead."
-    },
-    {
-     "id": "p010.s08",
-     "source": "Libations set aside and poured out in Roman days are illustrative of the same thing."
-    },
-    {
-     "id": "p010.s09",
-     "source": "That these practices are not Christian but distinct survivals of pagan festivals and customs is very clear."
+     "source": "In a few minutes the anxious mother saw her daughter come out from the fountain dressed as a beautiful bride, and she took her home."
     }
    ],
    "id": "p010"
@@ -331,63 +159,7 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "The above conclusions, namely, first that the festival as I described it is an aberration of city life, and second, that although identified with the church it is distinctly pagan in character, are borne out by Abeghian, whose material, as an Armenian who for many years lived in the little Armenian village of Astapat, is distinctly first-hand."
-    },
-    {
-     "id": "p011.s02",
-     "source": "Worship of the deceased, he says, begins immediately after death."
-    },
-    {
-     "id": "p011.s03",
-     "source": "Each departed soul, and especially those of elderly people, requires particular honor on the first day after death, and during the ensuing year."
-    },
-    {
-     "id": "p011.s04",
-     "source": "It is for this reason a great misfortune for an Armenian peasant not to have a child."
-    },
-    {
-     "id": "p011.s05",
-     "source": "A still greater misfortune, however, it is to die in a strange land where there are none to care for the departed soul."
-    },
-    {
-     "id": "p011.s06",
-     "source": "That a curious evolution has taken place in these requirements is very clear."
-    },
-    {
-     "id": "p011.s07",
-     "source": "In the beginning, satisfactions of a material kind were required, something to eat and to drink, and accordingly the custom arose of placing bread upon the heart of the dead, or sanctified bread in the cavity of the mouth and incense in the nostrils."
-    },
-    {
-     "id": "p011.s08",
-     "source": "Then there arose the idea of facilitating the journey of the departed into the beyond, and of making the future life of the soul a happier one."
-    },
-    {
-     "id": "p011.s09",
-     "source": "For example, Armenians generally bathe the bodies of their dead in blessed water, and wash the clothes of the deceased on the day following burial for the purification of the soul so that it may arrive spotless at its destination."
-    },
-    {
-     "id": "p011.s10",
-     "source": "Since the soul has been cleansed of all sin through the symbolic washing of the body and clothes, no more covering is required for the body than a large white cloth."
-    },
-    {
-     "id": "p011.s11",
-     "source": "No other color is permissible."
-    },
-    {
-     "id": "p011.s12",
-     "source": "Should the deceased be more than ten years of age, candles or oil lamps are burned during eight days over the spot where the body was bathed in order to lighten the way of the soul into the beyond."
-    },
-    {
-     "id": "p011.s13",
-     "source": "According to old beliefs, the destination of the departed soul is a place of darkness, and hence two candles are placed in the hands of the dead immediately after the bath in order that he may recognize his friends and relatives in the world beyond."
-    },
-    {
-     "id": "p011.s14",
-     "source": "At frequent intervals during the first year, food and drink are brought to the cemetery, and placed upon the grave."
-    },
-    {
-     "id": "p011.s15",
-     "source": "There is weeping, eating, and drinking at these times, and what food is left over is always placed over the grave."
+     "source": "“Mamma,” said the bride, “give me a separate room; my husband told me that he will come to me every night.”"
     }
    ],
    "id": "p011"
@@ -397,35 +169,43 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "The souls of the righteous are thought of as luminous, the wicked as black."
+     "source": "The mother gave her a separate room."
     },
     {
      "id": "p012.s02",
-     "source": "Accordingly the blessed are called “spirits of light.”"
+     "source": "The bridegroom visited her every night in the shape of a partridge."
     },
     {
      "id": "p012.s03",
-     "source": "In order to possess a bright soul one must have performed good works, of which giving alms to the poor is considered the most important."
+     "source": "He used to come after nightfall, and flapping his wings, perch on the window ledge."
     },
     {
      "id": "p012.s04",
-     "source": "Such spirits are also called “generous,” “charitable.”"
+     "source": "She opened the window and took him in."
     },
     {
      "id": "p012.s05",
-     "source": "It is a current belief that the blackened souls become brighter through the good works of descendants, as well as through their prayers."
+     "source": "Every morning the partridge flew away before dawn."
     },
     {
      "id": "p012.s06",
-     "source": "Offspring are thus especially desirable, and the old Armenian liturgy, the Maschtotz prepared by St. Mesrob, the inventor of the Armenian alphabet in the fifth century, contains innumerable prayers for the dead."
+     "source": "Her two sisters, envious of the happiness of their youngest sister, brought razors and nailed them around the window."
     },
     {
      "id": "p012.s07",
-     "source": "The prayers are short and their power is relative to the frequency of repetition rather than to the length."
+     "source": "At nightfall the partridge came flying, and when he was perching on the window he struck his wings against the razors, which wounded his body in several places."
     },
     {
      "id": "p012.s08",
-     "source": "Some sort of short prayer is repeated with every thought of the dead, as for example, “May God have mercy upon his soul”; “May his soul become lightened”; or only “The illuminated soul.”"
+     "source": "He was hardly able to fly back to his fountain, and there he was confined to his bed."
+    },
+    {
+     "id": "p012.s09",
+     "source": "He vowed to be revenged upon his bride, who he thought had put the razors on the window."
+    },
+    {
+     "id": "p012.s10",
+     "source": "The bride, seeing that the partridge did not come for five or six days, went with her mother to the fountain."
     }
    ],
    "id": "p012"
@@ -435,39 +215,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Several days of the year are set apart for particular remembrance of the dead."
-    },
-    {
-     "id": "p013.s02",
-     "source": "At these times the departed spirits are supposed to come down from heaven and to roam about the vicinity of their graves or in the homes of their relatives."
-    },
-    {
-     "id": "p013.s03",
-     "source": "On the eve of these days it is necessary to do honor to their memory with incense and candles, which are regarded as offerings."
-    },
-    {
-     "id": "p013.s04",
-     "source": "The odor of the incense is especially pleasant to spirits, for the incense-tree also blooms in paradise."
-    },
-    {
-     "id": "p013.s05",
-     "source": "Saturday night is very commonly devoted to such intercession and worship."
-    },
-    {
-     "id": "p013.s06",
-     "source": "Incense is burned upon the hearth while prayers are repeated, or a flame is ignited upon a plate which is carried into all the corners of the house, or barn, or wherever it is believed the departed spirit may be wandering."
-    },
-    {
-     "id": "p013.s07",
-     "source": "In some places it is customary to maintain the “light of the dead” throughout the night in order that the spirits may enter the house."
-    },
-    {
-     "id": "p013.s08",
-     "source": "If they find the house dark in looking through the roof window, they make away, cursing."
-    },
-    {
-     "id": "p013.s09",
-     "source": "Water is not drunk in the dark during these nights, for it is believed that to do so would be to take it away from the thirsty spirits of the dead."
+     "source": "“Tush!” they called, and lo! the old man came out, and turning to the fountain, exclaimed:"
     }
    ],
    "id": "p013"
@@ -477,35 +225,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "On the Day of the Dead the spirits are especially honored, for they love most to wander in the neighborhood of their graves."
-    },
-    {
-     "id": "p014.s02",
-     "source": "People actually feel themselves to be among the souls of the dead on this celebration day."
-    },
-    {
-     "id": "p014.s03",
-     "source": "The latter are very happy to be thought of, and are especially glad to have their graves blessed by the priests."
-    },
-    {
-     "id": "p014.s04",
-     "source": "But to please them most one must bring wood and incense and leave it to be burned over their graves."
-    },
-    {
-     "id": "p014.s05",
-     "source": "Three days the spirits remain upon the earth, after which they return to heaven, their visit having been duly honored."
-    },
-    {
-     "id": "p014.s06",
-     "source": "If they come to find themselves forgotten, they curse their relatives and fly away in despair."
-    },
-    {
-     "id": "p014.s07",
-     "source": "Occasionally they come down to be of service; especially is this true of the dead father and his living son, for the former is especially remembered, and his grave is regarded as holy."
-    },
-    {
-     "id": "p014.s08",
-     "source": "Armenians swear by the graves, or by the spirits of their fathers, and call upon them for help in time of especial need."
+     "source": "“Son, your bride and mother-in-law have come.”"
     }
    ],
    "id": "p014"
@@ -515,11 +235,11 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Tavernier described the same festival in his Voyages and noticed that it was considered the greatest infamy to eat with a “Mordischou,” the person who washed the dead."
+     "source": "“Oh! oh!” cried the partridge from within, “I do not want such a bride."
     },
     {
      "id": "p015.s02",
-     "source": "No single festival and group of relevant beliefs is more instructive in showing how much of Armenian folk-belief and custom is the survival of paganism."
+     "source": "I beseech you, put on your eagle’s suit, take her to the seventh heaven, and thence cast her to the torrid desert.”"
     }
    ],
    "id": "p015"
@@ -529,23 +249,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "There is yet another festival of this group, which, however, is not to be traced to paganism, and it would be a mistake to suppose that the church is connected with it in the same way and to the same extent as it is with the first three festivals considered."
+     "source": "Father Tush at once changed himself into an eagle, and carried the bride away and cast her to the sandy desert."
     },
     {
      "id": "p016.s02",
-     "source": "The festival is called Vartan’s Day, and although the church sanctions the festival and sets apart a day for the celebration, it comes about as near being apart from the church as any single festival."
-    },
-    {
-     "id": "p016.s03",
-     "source": "Vartan was the general of the Armenian army defeated at the battle of Avarair, spoken of in Part One, by the Persian fire-worshippers who endeavored to impose their religion upon the Armenians at a time when part of Armenia was under the domination of Persia, and the remainder tributary to Rome."
-    },
-    {
-     "id": "p016.s04",
-     "source": "But though defeated in battle, the moral victory, as people now use the term, was Armenian, for the battle proved the utter failure of the Persians to convert the Armenian people to their religion."
-    },
-    {
-     "id": "p016.s05",
-     "source": "Vartan saved the nation for Gregorian Christianity, and it is significant that the people look upon Vartan as saviour of the nation rather than as saviour of their religion, showing how the religion was and still is identified with the nation."
+     "source": "There she fell upon the sand, but did not die."
     }
    ],
    "id": "p016"
@@ -555,19 +263,7 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "It is in his honor that the people hold a festival on the anniversary day of the battle of Avarair."
-    },
-    {
-     "id": "p017.s02",
-     "source": "School children sing songs and wreath Vartan’s picture with red flowers."
-    },
-    {
-     "id": "p017.s03",
-     "source": "The belief is that this peculiar kind of red flower sprang up from the blood of the Christian army."
-    },
-    {
-     "id": "p017.s04",
-     "source": "Recitations and national patriotic plays are given, and as the children participate in singing songs, reciting pieces, and rendering plays, the older people participate in attending them."
+     "source": "“O Heaven!” exclaimed the maiden, “what have I done to deserve such treatment.”"
     }
    ],
    "id": "p017"
@@ -577,11 +273,31 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Besides the belief of the red flower there are numerous other beliefs hallowed by the day."
+     "source": "She wandered about in the desert without knowing where to go."
     },
     {
      "id": "p018.s02",
-     "source": "Nightingales that fly over the battlefield are supposed to sing “Vartan, Vartan,” and there is a species of antelope with a pouch of fragrant musk under its throat which is said to have acquired its fragrance by browsing on herbage wet with the blood of Armenian heroes."
+     "source": "At nightfall she buried herself in the sand to sleep."
+    },
+    {
+     "id": "p018.s03",
+     "source": "Soon there came two conjurers, who sat down near her."
+    },
+    {
+     "id": "p018.s04",
+     "source": "They conjured, and lo! innumerable great serpents gathered around them."
+    },
+    {
+     "id": "p018.s05",
+     "source": "They sat in council, inquired of each other, and prepared remedies for a thousand and one diseases."
+    },
+    {
+     "id": "p018.s06",
+     "source": "For razor cuts they devised this remedy: “Wash the patient with the first milk from the breasts of a woman, and put upon the wounds the dried blood taken from a young woman’s veins."
+    },
+    {
+     "id": "p018.s07",
+     "source": "On the third application the patient will be healed.”"
     }
    ],
    "id": "p018"
@@ -591,33 +307,25 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Altogether it is the kind of festival to give expression to the sentiment I have spoken of as love for the country, for its mountains, rivers, and valleys, and for its ideals of freedom, independence, and strength."
+     "source": "The maiden, who was listening to them attentively, kept that remedy in mind, and on the following morning started for her husband’s fountain."
     },
     {
      "id": "p019.s02",
-     "source": "In the presence of the state the festival probably would be utilized to foster and give expression to the sentiment of loyalty to the state."
+     "source": "After a long journey, she came to her own country, begged from the village women a mother’s first milk, and opening one of her own veins, got some blood which she dried in the sun."
     },
     {
      "id": "p019.s03",
-     "source": "There would be specially chosen speakers to talk of patriotism, waving of banners, and carefully designed methods of instilling hatred for a real or supposed enemy, much as French school children have been taught to hate Englishmen."
-    },
-    {
-     "id": "p019.s04",
-     "source": "But in the absence of the state, the sentiment expressed must be a purer sentiment, loftier and freer, and one can not but regret that Vartan’s Day and similar festivals have been suppressed by the Turkish government."
-    },
-    {
-     "id": "p019.s05",
-     "source": "And yet, one could not reasonably expect otherwise."
+     "source": "She then went to the fountain disguised as a lad."
     }
    ],
    "id": "p019"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p020.s01",
-     "source": "Section 3. Fortune-Telling Day"
+     "source": "“Tush!” she exclaimed, and the old man came out."
     }
    ],
    "id": "p020"
@@ -627,43 +335,7 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "Most charming and most picturesque of festivals is that participated in by the romantic Armenian maidens on the early dawn of Ascension Day."
-    },
-    {
-     "id": "p021.s02",
-     "source": "On the eve of the same day the young girls who wish their fortunes told, decorate a large bowl with specially selected flowers, after which each girl casts a token, a ring, a brooch, a thimble, into the bowl."
-    },
-    {
-     "id": "p021.s03",
-     "source": "Flowers of several kinds are then put in, and the bowl is filled with water drawn from seven springs."
-    },
-    {
-     "id": "p021.s04",
-     "source": "Then they cover it with an embroidered cloth and take it by night to the priest who says a prayer over it."
-    },
-    {
-     "id": "p021.s05",
-     "source": "The most carefully and daintily prepared bowl is then placed out in the moonlight, open to the stars where it is left until dawn."
-    },
-    {
-     "id": "p021.s06",
-     "source": "At early daybreak of the next morning, the maidens, furnished with provisions for the entire day, go out of the village carrying their bowl to the side of a spring, the foot of a mountain, or into an open field, gathering on the way various kinds of flowers with which they deck themselves."
-    },
-    {
-     "id": "p021.s07",
-     "source": "Having arrived at their place of festival, they play games, dance, and sing, after which they take a beautiful little girl, too young to tell where the sun rises, who has been previously chosen and gaily dressed for the occasion, to draw the various articles out of the bowl."
-    },
-    {
-     "id": "p021.s08",
-     "source": "The face of the child is covered with a richly wrought veil that she may not see what is in the bowl, and she then proceeds to withdraw the articles which she holds in her hand one at a time."
-    },
-    {
-     "id": "p021.s09",
-     "source": "While this is done some one of the party recites a charm song, and the owner of each token takes the song which accompanies it as her fortune."
-    },
-    {
-     "id": "p021.s10",
-     "source": "There are thousands of these charm songs, most of which have been written especially for the festival, of which I shall give but a few."
+     "source": "“What do you want?” said he."
     }
    ],
    "id": "p021"
@@ -673,7 +345,7 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "###"
+     "source": "“I am a doctor,” she said; “I had forgotten to get some of my medicines in the village, therefore I said ‘Tush.’”"
     }
    ],
    "id": "p022"
@@ -683,7 +355,7 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Snowless hang the clouds to-night,"
+     "source": "The old man went in and informed his son that there was a human doctor on the fountain."
     }
    ],
    "id": "p023"
@@ -693,7 +365,7 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "Through the darkness comes a light;"
+     "source": "“Bring him in,” said the lad, “let us see if he can administer some remedy to my wounds.”"
     }
    ],
    "id": "p024"
@@ -703,7 +375,7 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "On this lonely pillow now,"
+     "source": "The maiden went in, and after an examination said:"
     }
    ],
    "id": "p025"
@@ -713,7 +385,7 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "Never more shall sleep alight."
+     "source": "“I can heal you within three days.”"
     }
    ],
    "id": "p026"
@@ -723,7 +395,7 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "###"
+     "source": "She washed him with the milk and put the dried blood on the wounds, and on the third day the lad was healed."
     }
    ],
    "id": "p027"
@@ -733,7 +405,7 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "Like a star whose brightness grows"
+     "source": "“What do you want me to pay you?” said the lad."
     }
    ],
    "id": "p028"
@@ -743,7 +415,7 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "On the earth my beauty shows;"
+     "source": "“I do not want anything,” said the maiden; “I wish you only to remember my name.”"
     }
    ],
    "id": "p029"
@@ -753,7 +425,7 @@
    "segments": [
     {
      "id": "p030.s01",
-     "source": "Thou shalt long for yet, and seek"
+     "source": "“What is it?” asked the lad."
     }
    ],
    "id": "p030"
@@ -763,7 +435,7 @@
    "segments": [
     {
      "id": "p031.s01",
-     "source": "My dark eyes and arching brows."
+     "source": "“Incense-Tree is my name,” answered the maiden."
     }
    ],
    "id": "p031"
@@ -773,7 +445,7 @@
    "segments": [
     {
      "id": "p032.s01",
-     "source": "###"
+     "source": "“Ah!” exclaimed the lad, “that is my wife’s name.”"
     }
    ],
    "id": "p032"
@@ -783,7 +455,7 @@
    "segments": [
     {
      "id": "p033.s01",
-     "source": "Long and lone this night to me"
+     "source": "“I am your wife,” said she, throwing away her masculine attire."
     }
    ],
    "id": "p033"
@@ -793,7 +465,11 @@
    "segments": [
     {
      "id": "p034.s01",
-     "source": "Passing slow and wearily;"
+     "source": "She fell on his neck sobbing, and told him how without a fault she was."
+    },
+    {
+     "id": "p034.s02",
+     "source": "They loved each other thereafter, and are still living in that deep fountain."
     }
    ],
    "id": "p034"
@@ -803,789 +479,10 @@
    "segments": [
     {
      "id": "p035.s01",
-     "source": "Passing full of sighs and tears—"
+     "source": "Three apples fell from heaven; one for me, one for the story-teller, and one for him who entertained the company."
     }
    ],
    "id": "p035"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p036.s01",
-     "source": "Love, what doth it bring to thee?"
-    }
-   ],
-   "id": "p036"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p037.s01",
-     "source": "###"
-    }
-   ],
-   "id": "p037"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p038.s01",
-     "source": "Eden’s smile my vineyard wore,"
-    }
-   ],
-   "id": "p038"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p039.s01",
-     "source": "Flowers bloomed, a goodly store;"
-    }
-   ],
-   "id": "p039"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p040.s01",
-     "source": "Handsome youth and ugly maid—"
-    }
-   ],
-   "id": "p040"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p041.s01",
-     "source": "This was never seen before!"
-    }
-   ],
-   "id": "p041"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p042.s01",
-     "source": "Thus each one carries its bit of prophesy, daintily and prettily expressed, which when sung at the foot of some mountain, in the bright eastern sunlight of the morning, while a little child is holding tokens beside a bowl surrounded by the group of beflowered maidens, makes as complete and charming a picture as one could well imagine."
-    }
-   ],
-   "id": "p042"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p043.s01",
-     "source": "Many curious beliefs, superstitions, customs, and legends are directly related to Ascension Day."
-    },
-    {
-     "id": "p043.s02",
-     "source": "It is believed, for example, that on the eve of this day the water of the springs, brooks, and rivers lies peacefully motionless for a single moment during the night."
-    },
-    {
-     "id": "p043.s03",
-     "source": "At the same moment heaven and earth, mountain and stone, trees and flowers beckon and congratulate one another."
-    },
-    {
-     "id": "p043.s04",
-     "source": "First heaven congratulates and kisses the earth, then one star beckons to another, one flower to another, and so forth until all of nature’s objects have expressed their mutual good feeling."
-    },
-    {
-     "id": "p043.s05",
-     "source": "Even plants and “soulless” objects receive the gift of speech and share their secrets one with the other at this time."
-    },
-    {
-     "id": "p043.s06",
-     "source": "He who hides himself in a stone crevice of the mountainside may listen to the conversation of stones and flowers, and understand what they tell each other."
-    },
-    {
-     "id": "p043.s07",
-     "source": "They tell on this night what sort of sicknesses they and the springs will heal, and many people endeavor to attend at this moment, but only a few succeed."
-    }
-   ],
-   "id": "p043"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p044.s01",
-     "source": "At midnight the waters are believed to have the power of healing, and people bathe themselves in the streams."
-    },
-    {
-     "id": "p044.s02",
-     "source": "As the children are not to be troubled during the night, water is warmed for them the next morning, bits of grass are thrown in and the children are bathed."
-    },
-    {
-     "id": "p044.s03",
-     "source": "During the magic moment the door of the cavern of “Maher,” the revered hero god who dwells upon earth, is opened: and one may enter to see him, his steed, and the “wheel of the starred heavens” or the wheel of fate."
-    },
-    {
-     "id": "p044.s04",
-     "source": "In one of the national epics (David of Sassun) Maher is represented as the strongest of the heroes, and is supposed to dwell in a rocky cave in the vicinity of Van (probably the rock of Van)."
-    },
-    {
-     "id": "p044.s05",
-     "source": "In this cave all of the world’s riches are heaped up, and the “wheel of the world,” the wheel of fate which constantly turns assigning to people their destinies, stands there."
-    },
-    {
-     "id": "p044.s06",
-     "source": "Maher looks continually at the wheel and if it should stand still, he comes out of his cavern to ravage the world."
-    },
-    {
-     "id": "p044.s07",
-     "source": "The door of the cave is made of stone and covered with cuneiform inscriptions."
-    },
-    {
-     "id": "p044.s08",
-     "source": "It is locked during the entire year except for the night of the ascension of Christ, when it is opened during the single magic moment."
-    },
-    {
-     "id": "p044.s09",
-     "source": "Whosoever perceives this moment may step into the cave and take as much gold as he pleases."
-    },
-    {
-     "id": "p044.s10",
-     "source": "The idea of the “wheel of fortune” is considerably extant, although it is not always understood as separated from heaven and connected with Maher."
-    },
-    {
-     "id": "p044.s11",
-     "source": "That the idea of fate or of fortune is generally associated with the day, not only by romantic maidens, but by the people, is very evident."
-    }
-   ],
-   "id": "p044"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p045.s01",
-     "source": "The flowing waters are believed to change into gold during the silent minute, and if one places an object in the water and wishes at the same time that it become gold, the object turns to gold."
-    },
-    {
-     "id": "p045.s02",
-     "source": "Accordingly the young men and women go to the springs and rivers in order to draw water, trusting their fates that they may select the happy moment."
-    },
-    {
-     "id": "p045.s03",
-     "source": "Superstitions and magic are not lacking, for while one member of a party seats himself upon a pair of fire-tongs in the fashion of a rider, another performs likewise upon a long-handled spit."
-    },
-    {
-     "id": "p045.s04",
-     "source": "The iron tools are also regarded as a necessary protection against the calls that one hears behind after the water has been drawn, for if one should look back perchance, he would surely fall under the influence of the evil spirits."
-    },
-    {
-     "id": "p045.s05",
-     "source": "The oldest of the party carries a gourd flask full of wheat and barley, which is poured into the stream towards midnight with the words “I give you wheat and barley; you give me everything that is good.”"
-    },
-    {
-     "id": "p045.s06",
-     "source": "Thereupon he fills the gourd flask with water, and the party hurries homeward to discover the gold."
-    }
-   ],
-   "id": "p045"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p046.s01",
-     "source": "The fortune-telling festival is given by Abeghian as he observed it in his home village, and I shall give a free translation of his account at this point because of a few interesting variations."
-    },
-    {
-     "id": "p046.s02",
-     "source": "In Astapet, the festival is called the “Festival of the Mother of Flowers.”"
-    },
-    {
-     "id": "p046.s03",
-     "source": "On the day before Ascension Day the girls and young women of the village divide themselves into two groups, one to gather special sorts of flowers from the mountainside, while the other goes to “steal” water from seven springs, or seven rivers."
-    },
-    {
-     "id": "p046.s04",
-     "source": "The “thieves” must not see each other, nor must the people of the village know aught of what is happening."
-    },
-    {
-     "id": "p046.s05",
-     "source": "Having filled their vessels with water, each throws a stone into the spring and then they turn back, taking care neither to look about, to set down their vessels, nor to talk."
-    },
-    {
-     "id": "p046.s06",
-     "source": "They imagine that the mountains, the valleys, trees, and meadows call out behind them and if they should turn about they would be turned to stone."
-    }
-   ],
-   "id": "p046"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p047.s01",
-     "source": "At night of the same day the “water thieves” and flower gatherers meet together in a garden to prepare the “Havgir” or magic bowl in which is poured the water from the seven springs, and in which seven stones from the seven sources, together with leaves of the gathered flowers are dropped."
-    },
-    {
-     "id": "p047.s02",
-     "source": "Each one who wishes her fortune told now throws in a charm token, such as mentioned before."
-    },
-    {
-     "id": "p047.s03",
-     "source": "Those who are not present send their tokens in order to have them thrown into the “Havgir” by others."
-    },
-    {
-     "id": "p047.s04",
-     "source": "The bowl is then adorned with flowers, after which the “Vicak” meaning destiny or fate, is prepared."
-    },
-    {
-     "id": "p047.s05",
-     "source": "This consists of two pieces of wood tied together in the form of a cross, which is dressed and adorned with jewels and pearls to make it appear as a newly-married doll-bride."
-    },
-    {
-     "id": "p047.s06",
-     "source": "The “Vicak” is fastened to the “Havgir,” and both are placed under the stars, in order that these who are the real destinies, may work the proper magic upon the charm tokens."
-    },
-    {
-     "id": "p047.s07",
-     "source": "A few girls guard it during the whole night against the young men who try to steal it."
-    }
-   ],
-   "id": "p047"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p048.s01",
-     "source": "Early the next morning the maidens gather together in the garden laden with food baskets and prepared to make a day of it."
-    },
-    {
-     "id": "p048.s02",
-     "source": "The “Havgir” and strangely fashioned “Vicak” are carried to a nearby spring, the young girls decking themselves with flowers as they go."
-    },
-    {
-     "id": "p048.s03",
-     "source": "The spring is decorated about with flowers, green leaves, and branches, and the “Havgir” is placed in the middle, and then after they have prepared everything and eaten, the oldest among them takes the “Vicak,” kisses it, gives it to another, who does likewise, and so it passes from hand to hand."
-    },
-    {
-     "id": "p048.s04",
-     "source": "Finally a seven-year-old girl receives it."
-    },
-    {
-     "id": "p048.s05",
-     "source": "She sets herself in the middle of the group and holds the “Vicak” while the “Havgir” stands before her."
-    },
-    {
-     "id": "p048.s06",
-     "source": "The little girl is called “bride,” is the interpreter of the “Vicak” and is specially selected and dressed for the occasion."
-    },
-    {
-     "id": "p048.s07",
-     "source": "When she has received the “Vicak” a red veil is passed over both, and all is ready for the central event of the festival."
-    },
-    {
-     "id": "p048.s08",
-     "source": "A charm song is sung by the group, and after each stanza the “bride” draws a token from the vessel."
-    },
-    {
-     "id": "p048.s09",
-     "source": "The preceding verse reveals the fate of the one to whom the token belongs."
-    }
-   ],
-   "id": "p048"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p049.s01",
-     "source": "The fortune-telling festival of Ascension morning stands quite alone."
-    },
-    {
-     "id": "p049.s02",
-     "source": "Bodeful of the future and suggestive of the past, it can not but have a serious tenor, for there are maidens whose lovers have not been born, as there are also sadder ones."
-    },
-    {
-     "id": "p049.s03",
-     "source": "Perhaps they do not take their verses very seriously."
-    },
-    {
-     "id": "p049.s04",
-     "source": "Whether they do or not there is always the charm of sunrise colors, and the out-of-doors that makes it as beautiful as it is romantic."
-    },
-    {
-     "id": "p049.s05",
-     "source": "The best of the future, their brightest hope, the best of the present, warmth of sunshine and color, and the best of the past, their golden dreams of youth, are brought together on this day and given a common expression in a way that must charm them as it charms the observer."
-    },
-    {
-     "id": "p049.s06",
-     "source": "Festivals to be perfect festivals must be out-of-doors and the day must be bright."
-    }
-   ],
-   "id": "p049"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p050"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p051.s01",
-     "source": "That is, Pseudo Agathangelus."
-    }
-   ],
-   "id": "p051"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p052.s01",
-     "source": "Raffi p. 128."
-    }
-   ],
-   "id": "p052"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p053.s01",
-     "source": "Ibid."
-    }
-   ],
-   "id": "p053"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p054.s01",
-     "source": "Seklemian’s Tales ."
-    },
-    {
-     "id": "p054.s02",
-     "source": "Preface by Blackwell."
-    }
-   ],
-   "id": "p054"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p055.s01",
-     "source": "Abeghian pp. 72–74."
-    }
-   ],
-   "id": "p055"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p056.s01",
-     "source": "The 13th of February according to the old style calendar corresponds to the 26th of February of the Latin calender."
-    }
-   ],
-   "id": "p056"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p057.s01",
-     "source": "Abeghian p. 72."
-    }
-   ],
-   "id": "p057"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p058.s01",
-     "source": "Ibid. p 20."
-    }
-   ],
-   "id": "p058"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p059.s01",
-     "source": "The remainder of the paragraph is a free translation of selected parts of pp. 20–22."
-    }
-   ],
-   "id": "p059"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p060.s01",
-     "source": "Abeghian p. 22."
-    }
-   ],
-   "id": "p060"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p061.s01",
-     "source": "Maschtotz , St. Mesrob."
-    },
-    {
-     "id": "p061.s02",
-     "source": "One third of the book is devoted to this purpose."
-    }
-   ],
-   "id": "p061"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p062.s01",
-     "source": "Ormanian p. 189."
-    }
-   ],
-   "id": "p062"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p063.s01",
-     "source": "Abeghian p. 23."
-    }
-   ],
-   "id": "p063"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p064.s01",
-     "source": "Ibid."
-    },
-    {
-     "id": "p064.s02",
-     "source": "This and preceding paragraph are a free translation from selected sentences of pp. 23 and 24."
-    }
-   ],
-   "id": "p064"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p065.s01",
-     "source": "Tavernier 1:507–9."
-    }
-   ],
-   "id": "p065"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p066.s01",
-     "source": "Elisée."
-    }
-   ],
-   "id": "p066"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p067.s01",
-     "source": "Lidgett, Ancient People ."
-    }
-   ],
-   "id": "p067"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p068.s01",
-     "source": "Ibid."
-    }
-   ],
-   "id": "p068"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p069.s01",
-     "source": "Raffi p. 158."
-    }
-   ],
-   "id": "p069"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p070.s01",
-     "source": "Translated by Miss Boyadjian, Armenian Legends and Poetry ."
-    }
-   ],
-   "id": "p070"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p071.s01",
-     "source": "After the first and third lines of the charm song, the following line is sung, which I give in the German of Abeghian:"
-    }
-   ],
-   "id": "p071"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p072.s01",
-     "source": "“Liebe Rose meine, liebe, liebe.”"
-    }
-   ],
-   "id": "p072"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p073.s01",
-     "source": "and after the second and fourth lines:"
-    }
-   ],
-   "id": "p073"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p074.s01",
-     "source": "“Liebe Blume meine, liebe, liebe.”"
-    },
-    {
-     "id": "p074.s02",
-     "source": "(Abeghian p. 65.)"
-    }
-   ],
-   "id": "p074"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p075.s01",
-     "source": "There are thousands of similarly constructed folk-songs treating a variety of subjects current among the people, many of which have been collected by an Armenian by the name of Tcheras, whose book, unfortunately, I have not been able to obtain."
-    },
-    {
-     "id": "p075.s02",
-     "source": "Miss Boyadjian has collected a few of them in her Armenian Legends and Poetry ."
-    },
-    {
-     "id": "p075.s03",
-     "source": "However, I shall mention only such as are relevant to the festivals to be described."
-    }
-   ],
-   "id": "p075"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p076.s01",
-     "source": "Abeghian pp. 61–62."
-    }
-   ],
-   "id": "p076"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p077.s01",
-     "source": "World’s Great Classic Series."
-    },
-    {
-     "id": "p077.s02",
-     "source": "Section on Armenian literature, with introduction by Robert Arnot."
-    },
-    {
-     "id": "p077.s03",
-     "source": "See David of Sassun pp. 57–79."
-    }
-   ],
-   "id": "p077"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p078.s01",
-     "source": "Abeghian p. 51, 52."
-    }
-   ],
-   "id": "p078"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p079.s01",
-     "source": "Emin, Ancient Armenian Legends ."
-    }
-   ],
-   "id": "p079"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p080.s01",
-     "source": "Abeghian p. 62."
-    }
-   ],
-   "id": "p080"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p081.s01",
-     "source": "These beliefs are analogous to those in connection with the bringing of healing water, or the water of perpetual life, the source of which is guarded by monsters, snakes, and scorpions."
-    },
-    {
-     "id": "p081.s02",
-     "source": "The hero steals cautiously to the source in order not to be observed by the watchmen, fills his vessel with water and hurries away, for the mountains and trees call out to warn the guardians of the source who awake and follow the hero. ( Ibid. p. 63.)"
-    }
-   ],
-   "id": "p081"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p082.s01",
-     "source": "This part of the festivities is also accompanied with song."
-    },
-    {
-     "id": "p082.s02",
-     "source": "In Astapet the following song is sung by way of introduction:"
-    }
-   ],
-   "id": "p082"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p083.s01",
-     "source": "“Holt einen grossen Meister,"
-    }
-   ],
-   "id": "p083"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p084.s01",
-     "source": "Lasset ihn den Hochzeitsrock meines geliebten zuschneiden"
-    }
-   ],
-   "id": "p084"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p085.s01",
-     "source": "Die Sonne sei der Stoff"
-    }
-   ],
-   "id": "p085"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p086.s01",
-     "source": "Der Mond diene als Futter."
-    }
-   ],
-   "id": "p086"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p087.s01",
-     "source": "Stellt aus Wolken die Einfassung her,"
-    }
-   ],
-   "id": "p087"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p088.s01",
-     "source": "Wickelt aus dem Meer Seidengarn,"
-    }
-   ],
-   "id": "p088"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p089.s01",
-     "source": "Befestigt die Sterne in einer Reihe als Knopfe,"
-    }
-   ],
-   "id": "p089"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p090.s01",
-     "source": "Näht die ganze Liebe hinein.”"
-    },
-    {
-     "id": "p090.s02",
-     "source": "(Abeghian p. 64.)"
-    }
-   ],
-   "id": "p090"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p091.s01",
-     "source": "Abeghian pp. 63–66."
-    }
-   ],
-   "id": "p091"
   }
  ]
 }

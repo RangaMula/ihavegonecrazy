@@ -2,20 +2,20 @@
  "id": "as-armenia-008",
  "title": {
   "id": "title",
-  "source": "Christian Folk Festivals"
+  "source": "Dyjhicon: The Coward-Hero"
  },
  "tradition": "Armenia",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Armenian Legends and Festivals",
- "credits": "Boettiger, Louis A. (Louis Angelo) (author)",
- "gutenberg": "Project Gutenberg eBook #38129 — https://www.gutenberg.org/ebooks/38129 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Asia/Armenia/008 - Christian Folk Festivals.md",
+ "source_book": "The Golden Maiden, and other folk tales and fairy stories told in Armenia",
+ "credits": "Seklemian, A. G. (Apraham Garabed) (author, d. 1920)",
+ "gutenberg": "Project Gutenberg eBook #46944 — https://www.gutenberg.org/ebooks/46944",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Armenia/008 - Dyjhicon The Coward-Hero.md",
  "stats": {
-  "paragraphs": 44,
-  "segments": 227,
-  "words": 6067
+  "paragraphs": 34,
+  "segments": 99,
+  "words": 1544
  },
  "paragraphs": [
   {
@@ -23,21 +23,25 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "The second group of festivals comprises those newly created by the church, such as the Blessing of the Grapes, New Year, Easter, and Christmas."
+     "source": "Dyjhicon was a poor unfortunate fellow who had only two goats and a cow."
     },
     {
      "id": "p001.s02",
-     "source": "I wish also to include in this group a few of the peculiarly characteristic church ceremonies which also have a distinct festival value for the people, i.e., the ceremony of the “Washing of Feet” on Maundy Thursday, “Khatchanguist” or the “Blessing of Water,” the consecration of the Katholikos, and the manufacture of the “holy oil.”"
+     "source": "His wife was an ambitious woman, and annoyed him by her frequent demands."
     }
    ],
    "id": "p001"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Section 1. Christmas, Easter, and New Year"
+     "source": "“I want you to go out and work,” she often said."
+    },
+    {
+     "id": "p002.s02",
+     "source": "“I want you to build a new house, I want to buy myself some new dresses, oxen and sheep, a horse and wagon.”"
     }
    ],
    "id": "p002"
@@ -47,39 +51,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "The service of the church on any one of the festival days is exclusively connected with the divine mystery, so called."
-    },
-    {
-     "id": "p003.s02",
-     "source": "These include the Assumption, or Immaculate Conception, celebrated by the people in the festival “the Blessing of the Grapes”; the miraculous birth, which corresponds to the Christmas festival; the Transfiguration, or the folk-festival Vartavar; the Redemption, to which the Easter festival corresponds; and the Resurrection, including Ascension or Fortune-Telling Day."
-    },
-    {
-     "id": "p003.s03",
-     "source": "There are other festivals celebrated by the church, such as the festival of the Holy Cross, and of the Holy Church, which I omit because there is not a corresponding social expression."
-    },
-    {
-     "id": "p003.s04",
-     "source": "Grand mass is said at the church, and the particular passages of scripture that have a direct bearing on the occasion are read."
-    },
-    {
-     "id": "p003.s05",
-     "source": "The Armenian calendar is curious in that many of the festivals occupy a succession of days; there are, for example, 39 days for the Resurrection, 3 days for the Transfiguration, 10 days for the Ascension, etc., which make up a grand total of 136 days in the year to which festivals are assigned."
-    },
-    {
-     "id": "p003.s06",
-     "source": "As there are 160 days devoted to abstinence, 117 of which are liturgical abstinence, that is, days of penitence mentioned in the liturgy, there are left only 112 days for the commemoration of saints, which have necessarily to be grouped together, since there are more than 112 saints."
-    },
-    {
-     "id": "p003.s07",
-     "source": "Because, therefore, of the continuity of festival days, one could not expect any one of the festivals to have any social value from the standpoint of the church service."
-    },
-    {
-     "id": "p003.s08",
-     "source": "But there is never any conflict between the services of the church and the festivities without, which are thus sanctioned by the church and in many cases directed and carried out by church officials."
-    },
-    {
-     "id": "p003.s09",
-     "source": "It has been noticed that the blessing of the priest was secured for the magic bowl, before it was placed underneath the stars on the eve of Ascension Day."
+     "source": "Dyjhicon, tiring of her endless complaints and scoldings, one day took his great stick and drove the cow out of the house, saying to himself:"
     }
    ],
    "id": "p003"
@@ -89,43 +61,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The festival of the Virgin Mary, or the “Blessing of the Grapes,” is more actively participated in by the church."
-    },
-    {
-     "id": "p004.s02",
-     "source": "It may be designed to keep the people from eating green grapes, but more probably was intended to give a social expression to an otherwise dull and very monotonous church ceremony."
-    },
-    {
-     "id": "p004.s03",
-     "source": "The people are all expected to maintain a strict abstinence from eating grapes until the middle of August, the day set apart for the festival."
-    },
-    {
-     "id": "p004.s04",
-     "source": "The grapes are then gathered in great quantities, some of which are carried to the church and placed on a large tray, which is set at the foot of the altar."
-    },
-    {
-     "id": "p004.s05",
-     "source": "After the ceremony of the church, the priest turns to the tray of grapes before him, which he blesses with his cross."
-    },
-    {
-     "id": "p004.s06",
-     "source": "The tray is then taken to the door of the church, where each member of the congregation is given a bunch as he passes out."
-    },
-    {
-     "id": "p004.s07",
-     "source": "The fast is thus broken with the taste of “blessed grapes,” and there is no end of grape eating on that day."
-    },
-    {
-     "id": "p004.s08",
-     "source": "During the remainder of the day every woman named Mary, or named with a possible attribute of the Virgin Mary, as “Kudsa,” meaning “saintly,” or “Dirouhi,” meaning “Mother of the Lord,” keeps open house for the friends who drop in to eat grapes and to congratulate her."
-    },
-    {
-     "id": "p004.s09",
-     "source": "In rural places or villages where vineyards are abundant, social groups may be seen eating grapes from the vines while talking or playing as they are inclined."
-    },
-    {
-     "id": "p004.s10",
-     "source": "Grapes ripen earlier in some parts of Armenia than in others, and where this is true the festival is merged with the festival of Vartavar."
+     "source": "“Let me run from this wicked wife to the wilderness and there die.”"
     }
    ],
    "id": "p004"
@@ -135,67 +71,23 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "For the festival of New Year’s Eve no religious coöperation whatever is necessary; it comes as near to being distinct from the church as any of the Armenian festivals."
+     "source": "This was what the woman wanted."
     },
     {
      "id": "p005.s02",
-     "source": "The preparation consists largely in making or purchasing gifts for the various members of the family, in cracking bowls of nuts and getting all kinds of dried fruits ready."
+     "source": "Thus he ran from her and wandered in the wilderness."
     },
     {
      "id": "p005.s03",
-     "source": "Armenian and Greek New Year’s Eve fall on the same night, and in Constantinople there is much agitation and animation in the streets."
+     "source": "When he was hungry he milked the cow and drank the milk, and when he was tired he mounted the cow."
     },
     {
      "id": "p005.s04",
-     "source": "Singing and music fill the air, and as soon as dusk falls, groups of boys, some carrying small lanterns, others provided with tom-toms or hand-organs, begin the circuit of the streets."
+     "source": "He was very timid,—a typical coward."
     },
     {
      "id": "p005.s05",
-     "source": "Thus they go from house to house singing the New Year’s song and playing their hand-organs, receiving pennies as they go."
-    },
-    {
-     "id": "p005.s06",
-     "source": "After the boys have passed along, the porters, watchmen, and firemen make a noisy procession down the streets, they too playing hand-organs and stopping at one house after another where they receive a drink, some sweets and nuts, and most important of all, a tip."
-    },
-    {
-     "id": "p005.s07",
-     "source": "As midnight approaches, the excitement increases; the pounding of the tom-toms becomes unbearable, all the organs of the neighborhood are making music, and there is such a noise of singing, shouting, and laughing as can be compared only to a night of political election."
-    },
-    {
-     "id": "p005.s08",
-     "source": "Inside the homes of the better-to-do, the children are put to bed for a time while the enormous New Year’s table is set."
-    },
-    {
-     "id": "p005.s09",
-     "source": "Besides several specially prepared New Year’s dishes, every home must be provided with a dish of every kind of fruit, dried or fresh."
-    },
-    {
-     "id": "p005.s10",
-     "source": "Small candles are stuck around the plates, and the presents are heaped up on a side table."
-    },
-    {
-     "id": "p005.s11",
-     "source": "At midnight the candles are all lit, and the family ranges itself around the table while the eldest, usually the grandmother, blesses all and prays."
-    },
-    {
-     "id": "p005.s12",
-     "source": "After the prayer she wishes to all the best things for the coming year, for the young ladies good husbands, for the young men prosperity and good wives, happiness for the little children, and comfort and health for the older ones."
-    },
-    {
-     "id": "p005.s13",
-     "source": "These wishes having been given, all kiss the hands of the older members of the family, after which the children kiss each others’ hands."
-    },
-    {
-     "id": "p005.s14",
-     "source": "The presents are exchanged; fruits, candies, and nuts are partaken of, and the fun goes on until dawn."
-    },
-    {
-     "id": "p005.s15",
-     "source": "In the interior of Armenia, two elders of the church go from door to door of the more fortunate ones on the day before New Year, carrying bags which they fill with the offerings received at every house."
-    },
-    {
-     "id": "p005.s16",
-     "source": "These are carefully parceled out and at dusk are left at the doors of poor families who would otherwise have no New Year’s cheer."
+     "source": "The sight of a running rat was enough to make him tremble."
     }
    ],
    "id": "p005"
@@ -205,31 +97,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "The church makes up amply in the Easter festival for any lack of participation at New Year."
-    },
-    {
-     "id": "p006.s02",
-     "source": "Forty-eight days of rigid lenten abstinence, during which time no meat is eaten, precede the festivities of Easter Day."
-    },
-    {
-     "id": "p006.s03",
-     "source": "The first two or three days of the Holy Week are given over to housecleaning, which however must be finished by Thursday in order that the people may attend the ceremonies at church which continue until Easter Day."
-    },
-    {
-     "id": "p006.s04",
-     "source": "On Thursday afternoon “the Washing of the Feet,” to be described later, commences, and the service continues until past midnight."
-    },
-    {
-     "id": "p006.s05",
-     "source": "On Saturday all go to the bath, which is made an essential part of the week’s celebrations, and on the afternoon of the same day the real Easter service, called the Lighting of the Lights, begins."
-    },
-    {
-     "id": "p006.s06",
-     "source": "The church is first illuminated on Easter Eve, for on the three preceding days of mourning and sorrow the altar shrine is kept closed and no candles are lit."
-    },
-    {
-     "id": "p006.s07",
-     "source": "Even the congregation holds lighted wax candles while the triumphal songs are chanted by the robed choir of little boys."
+     "source": "“Eh!” he thought, nevertheless, “it is better to be torn by wild beasts than to become the slave of a wicked woman.”"
     }
    ],
    "id": "p006"
@@ -239,27 +107,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "At the evening meal of the day before Easter the lenten fast is partly broken by eating fish and boiled eggs, but no meat."
+     "source": "One day, as the cow was pasturing on a green meadow and Dyjhicon was lying down lazily, the flies stung him."
     },
     {
      "id": "p007.s02",
-     "source": "The denial of the flesh recommences, however, at bedtime, for not a morsel is eaten until Easter midday."
+     "source": "He cursed his wife and clapped his hands to kill the flies."
     },
     {
      "id": "p007.s03",
-     "source": "Early dawn sees the people putting on their new clothes, especially new shoes which are considered a necessity on this day, and all, newly attired, go to church where communion is celebrated."
+     "source": "Then he counted to see how many flies he had killed at one stroke, and lo! they were seven in number."
     },
     {
      "id": "p007.s04",
-     "source": "The church is usually filled with flowers and its most brilliant ornaments are displayed, the service ending at midday in time for the usual feast of stuffed roast lamb, the customary red eggs, and the egg bread made only at Easter time."
-    },
-    {
-     "id": "p007.s05",
-     "source": "In the afternoon the men visit from house to house and something dainty is always served, a cocktail or a cup of coffee with sweets like Turkish delight or bonbons."
-    },
-    {
-     "id": "p007.s06",
-     "source": "The formula repeated by the guest upon entering a house is always the same; “Christ is risen from the dead,” he exclaims, and is answered by the host with the usual formula, “Blessed is the resurrection of Christ.”"
+     "source": "This encouraged him, and he took his knife and carved upon his stick these words:"
     }
    ],
    "id": "p007"
@@ -269,27 +129,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Perhaps the boys enjoy Easter most of all."
-    },
-    {
-     "id": "p008.s02",
-     "source": "Provided with red Easter eggs, they collect in groups, whereupon there follows a most vivacious competition to win each other’s eggs by clashing them together."
-    },
-    {
-     "id": "p008.s03",
-     "source": "The champion egg is used until it is broken, when a new champion is quickly brought forth."
-    },
-    {
-     "id": "p008.s04",
-     "source": "This process continues as long as there are two or more unbroken eggs, the game being won when all of the broken eggs are in the possession of the boy who holds the champion egg."
-    },
-    {
-     "id": "p008.s05",
-     "source": "Picnic day, or the “Day of the Dead,” follows Easter Day, as I have described it, and it is singularly strange that a “day of resurrection” should be followed by a “day of the dead,” when prayers are said and offerings given in sacrifice for the departed."
-    },
-    {
-     "id": "p008.s06",
-     "source": "But people are not mindful of such little incongruities; they are simple and carry out the festival celebrated by their fathers, much as their fathers celebrated it."
+     "source": "“I am Dyjhicon; I have killed seven by one stroke of the hand.”"
     }
    ],
    "id": "p008"
@@ -299,63 +139,31 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "The week before Christmas is likewise devoted to a thorough housecleaning by the Armenian housewife, and on the day before, special dishes are prepared for the next day’s feast."
+     "source": "Then he got astride the cow and rode away."
     },
     {
      "id": "p009.s02",
-     "source": "Again there is the customary bath which is observed by all the members of the household."
+     "source": "After a long journey he came to a green meadow in the center of which there was a magnificent castle with an orchard around it ."
     },
     {
      "id": "p009.s03",
-     "source": "On Christmas Eve the abstinence of the preceding days is partly broken, usually with fried fish, lettuce, and boiled spinach."
+     "source": "He let the cow graze in the meadow and he lay down to sleep."
     },
     {
      "id": "p009.s04",
-     "source": "Boiled spinach is the rule because it is believed that this dish made up the supper of the Virgin Mary on the eve of Christ’s birth."
+     "source": "Seven brothers lived in that castle."
     },
     {
      "id": "p009.s05",
-     "source": "At church special vespers are sung and there is much emphasis laid upon special selections from the prophets which are also sung."
+     "source": "One of them, seeing Dyjhicon and his cow in the meadow came to find who it was that had ventured to enter their ground."
     },
     {
      "id": "p009.s06",
-     "source": "An hour before dawn the sexton alone, or with a group of choir boys, goes from door to door singing what is called “the good tidings.”"
+     "source": "Dyjhicon was sleeping, with his stick standing near him."
     },
     {
      "id": "p009.s07",
-     "source": "It is the signal for the faithful to awake, don their best clothes and go to church again without eating breakfast."
-    },
-    {
-     "id": "p009.s08",
-     "source": "The holy bread and wine are not to be profaned by the people having eaten a breakfast of ordinary food, with the consequence that not a few faint during the service, even as at Easter time."
-    },
-    {
-     "id": "p009.s09",
-     "source": "But the ceremony is finished by half past ten, after which the women go home to prepare the midday feast while the men visit the homes of their friends."
-    },
-    {
-     "id": "p009.s10",
-     "source": "The never-failing formula of the guest upon entering the house of a friend is, “Christ is born and manifested to-day,” which is responded to by the host with “Blessed is the manifestation of Christ.”"
-    },
-    {
-     "id": "p009.s11",
-     "source": "Each visit lasts about fifteen minutes and sweets and coffee are served."
-    },
-    {
-     "id": "p009.s12",
-     "source": "At midday the Christmas feast is partaken of, all make merry around the table, and in the afternoon more calls are paid and received."
-    },
-    {
-     "id": "p009.s13",
-     "source": "The festivities are observed for three days, the third being ladies’ day, which is devoted by the ladies to giving and receiving visits."
-    },
-    {
-     "id": "p009.s14",
-     "source": "They offer their salutations and good wishes to each other, eating dainties even as the men."
-    },
-    {
-     "id": "p009.s15",
-     "source": "Shops and business places of Armenians are usually kept closed for three days."
+     "source": "The man approached and, reading the inscription, was terrified."
     }
    ],
    "id": "p009"
@@ -365,37 +173,49 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "There is thus considerable similarity between Easter and the Christmas festivities, which is probably due to more or less sameness in the church ceremonies."
+     "source": "“What a hero!” he thought to himself, “he has killed seven men by one stroke of the hand."
     },
     {
      "id": "p010.s02",
-     "source": "These ceremonies, always well attended, are made attractive to the people by beautiful displays of flowers, vested choir boys, the charm of whose singing can only be understood by those who have heard them; also by special singing, not by the congregation, but by those who can sing, and with such enticing little additions as the Lighting of Lights."
+     "source": "He must be a brave man, else he would not dare to sleep here so carelessly."
     },
     {
      "id": "p010.s03",
-     "source": "The services are thus as much and as real a part of the day’s rejoicings as the feasts and social visits, and if they are designed consciously or unconsciously to give active expression to the sentiment of loyalty to the church one must admit that the expression is a perfectly free and natural one."
+     "source": "What courage! what boldness! he has come so far without arms, without a horse, without a companion."
     },
     {
      "id": "p010.s04",
-     "source": "Abstinences do not make the festivities attractive, to be sure, and there are more unfortunate communities who can not afford so lavish a display as others; but flowers need only to be picked from the fields, and boys there are always, even in the poorest churches."
-    },
-    {
-     "id": "p010.s05",
-     "source": "The holiday rejoicing has somewhat more of the serious blend which is to be contrasted with the more perfect gaiety of New Year’s Day, and is probably due to the weightiness of its religious significance of which one is constantly reminded, not only by the services at the church but also by the salutations of visitors and the necessary replies, always the same."
-    },
-    {
-     "id": "p010.s06",
-     "source": "But even the gaiety of New Year is not to be compared with the perfect lightness and freedom of merriment that characterize some aspects of Vartavar, nor do any of the Christian folk festivals have the completeness of Vartavar."
+     "source": "This man is surely a great hero.”"
     }
    ],
    "id": "p010"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Section 2. Special Church Ceremonies"
+     "source": "He went and informed his brothers as to what he had seen; and all the seven brothers came to pay their respects to the unknown hero, and to invite him to their humble home."
+    },
+    {
+     "id": "p011.s02",
+     "source": "The cow, being frightened by their approach, began to leap and bellow."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Her voice wakened Dyjhicon, who, seeing seven men standing before him, was terrified, and snatching his club, stood aside trembling."
+    },
+    {
+     "id": "p011.s04",
+     "source": "The seven brothers thought that he was angry with them, and was trembling on account of his wrath, and that he would kill all of them by one stroke of his stick."
+    },
+    {
+     "id": "p011.s05",
+     "source": "Thereupon they began to supplicate him to pardon their rudeness in disturbing his repose."
+    },
+    {
+     "id": "p011.s06",
+     "source": "Then they invited him to go with them, saying:"
     }
    ],
    "id": "p011"
@@ -405,15 +225,15 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Together with this second group of festivals including as they do Christmas, Easter, New Year, and the Blessing of the Grapes, I wish to include a short series of church ceremonies all of which have a very distinct festival value, beside their value in being singularly characteristic of the Armenian church."
+     "source": "“We are seven brothers and have a great reputation as good fighters in this district."
     },
     {
      "id": "p012.s02",
-     "source": "They are distinctly different from the festivals of the preceding section, in that the festivities are incidental to a ceremony peculiar to the Armenian church."
+     "source": "But we shall be entirely invincible, if you will join us and become our elder brother."
     },
     {
      "id": "p012.s03",
-     "source": "The “Washing of Feet,” the “Blessing of the Water,” the consecration of the Katholikos, and the manufacture of the holy oil, are those I desire to describe."
+     "source": "We will take great pleasure in placing our house and all that belongs to us at the service of such a hero as yourself.”"
     }
    ],
    "id": "p012"
@@ -423,35 +243,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "The “Washing of Feet” occurs on Maundy Thursday, three days before Easter."
-    },
-    {
-     "id": "p013.s02",
-     "source": "This day is the first of three successive days of mourning spoken of, during which the altar is closed, and no lights are lit."
-    },
-    {
-     "id": "p013.s03",
-     "source": "After the mass the bishop puts away his brocaded robes, and kneeling in imitation of Christ washing the feet of His disciples on the night of the betrayal, he washes the feet of the priests and choristers, of whom there are usually eleven."
-    },
-    {
-     "id": "p013.s04",
-     "source": "Christ washed the feet of twelve, but one of them was unworthy."
-    },
-    {
-     "id": "p013.s05",
-     "source": "The service then continues until midnight, and while the ceremony is in progress, the lights are put out one by one, to remain out until the “Lighting of the Lights” on Easter eve."
-    },
-    {
-     "id": "p013.s06",
-     "source": "If the church is a parish church in which a priest officiates, a number of little boys are ranged in order for the “Washing of Feet,” which in this case is performed by the priest, who anoints the soles of their feet with oil after he has washed them."
-    },
-    {
-     "id": "p013.s07",
-     "source": "Each boy is given a walnut shell and before he moves from his place he carefully scrapes some of the oil into his shell, and carries it home to place in the butter."
-    },
-    {
-     "id": "p013.s08",
-     "source": "If he does this it is believed that the supply of butter will not fail throughout the year."
+     "source": "Hearing this, Dyjhicon ceased trembling, and said:"
     }
    ],
    "id": "p013"
@@ -461,95 +253,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "This same service was observed by a writer in the Survey , in a church on East 27th Street, New York, rented by a company of Armenian folk residing in that city."
-    },
-    {
-     "id": "p014.s02",
-     "source": "The same symbolic “Washing of Feet” was carried out on the evening of Maundy Thursday in much the same fashion as it is carried out in the home-land."
-    },
-    {
-     "id": "p014.s03",
-     "source": "The symbolism, the pageantry, the color of oriental Armenian worship, the silver-mounted Bible on the altar in the center, the rising steps, the crosses, the lighted candles, and the incense were all there."
-    },
-    {
-     "id": "p014.s04",
-     "source": "A white-robed choir with green velvet copes filed in, singing long chants."
-    },
-    {
-     "id": "p014.s05",
-     "source": "The choir was followed by two priests, and the priests by the bishop with his mitre, robe of crimson and gold, and his ivory cross held in the right hand with a kerchief of crimson silk."
-    },
-    {
-     "id": "p014.s06",
-     "source": "A shining crozier held in his left hand marked his office as shepherd of the flock; a large jewel locket and cross hung from his breast and was probably the gift of the Czar."
-    },
-    {
-     "id": "p014.s07",
-     "source": "The choir chant that continues all the while was described as an intricate, rhythmless tune, now passionate, now wailing and altogether “oriental,” accompanied by a few older folk here and there who were humming in unison with the choir and the leader, who was beating time."
-    },
-    {
-     "id": "p014.s08",
-     "source": "Beside the humming the congregation took no part in the service except that it stood up for the psalm and prayer."
-    },
-    {
-     "id": "p014.s09",
-     "source": "Suddenly a sound to the right brought the observer’s attention to an old woman lying prostrate in the aisle."
-    },
-    {
-     "id": "p014.s10",
-     "source": "No one helped her, no one even seemed to notice her, but presently she rose to a kneeling posture and lifted her eyes in prayer to the altar."
-    },
-    {
-     "id": "p014.s11",
-     "source": "Again she prostrated herself, and again rose to lift her eyes to the altar, which performance was repeated a third time before the old woman took her seat."
-    },
-    {
-     "id": "p014.s12",
-     "source": "“Der Voghormia” meaning “Lord have mercy upon us,” was repeated ten times by the interceding bishop in a voice loud and intense, and a second ten times, and a third ten times."
-    },
-    {
-     "id": "p014.s13",
-     "source": "The chant quickened, and as the aged priest took the Bible from its place and held it toward the audience the bishop gave his benediction of peace to the “four corners of the earth.”"
-    },
-    {
-     "id": "p014.s14",
-     "source": "There was another chant after which the washing of the feet commenced."
-    },
-    {
-     "id": "p014.s15",
-     "source": "With deep seriousness the bishop placed his staff by the altar, laid aside his mitre and brocaded robes, and beginning with the aged priest, he knelt beside a bowl of water to wash his feet."
-    },
-    {
-     "id": "p014.s16",
-     "source": "Ten more of those who came forward shared in the ceremony."
-    },
-    {
-     "id": "p014.s17",
-     "source": "“I can not so serve you all,” he said at the close of his address, “I am sorry."
-    },
-    {
-     "id": "p014.s18",
-     "source": "Take as symbolic what is done.”"
-    },
-    {
-     "id": "p014.s19",
-     "source": "There was a short intermission, but before ten o’clock the penitential service recommenced and continued until midnight."
-    },
-    {
-     "id": "p014.s20",
-     "source": "The story of Christ’s betrayal in the garden was read, and the chants continued, wilder, sadder, and more wailing, accompanied by murmurs and occasionally by low cries from the people."
-    },
-    {
-     "id": "p014.s21",
-     "source": "As midnight approached the lights were dimmed one by one, and the emotion became more intense."
-    },
-    {
-     "id": "p014.s22",
-     "source": "As the hour struck, the congregation rose, and with clasped hands joined in a closing song and prayer."
-    },
-    {
-     "id": "p014.s23",
-     "source": "There were only a few score people present."
+     "source": "“Very well, let it be as you say.”"
     }
    ],
    "id": "p014"
@@ -559,23 +263,31 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "The prostration of the old woman reminds one of the spiritually wounded who lay prostrate over the floor during the times of the Kentucky revivals, but the fact is there is nothing hysterical in this particular phase of Armenian worship."
+     "source": "They took him to the castle with great pomp and served to him a grand banquet, at which all the seven brothers stood before him, folding their arms upon their breasts and awaiting his permission to sit."
     },
     {
      "id": "p015.s02",
-     "source": "The attitude is commonly practiced by Armenians, especially among the peasant classes."
+     "source": "Dyjhicon was in great alarm, his heart was faint and he had fallen into meditation as to the manner in which he might free himself from this perplexing situation."
     },
     {
      "id": "p015.s03",
-     "source": "They lie flat touching their heads to the ground."
+     "source": "The seven brothers thought that he was not only a very brave hero, but was also such a great sage, that he did not care even to look at their faces."
     },
     {
      "id": "p015.s04",
-     "source": "But the posture is more peculiarly oriental than it is peculiarly Armenian."
+     "source": "They began to cough in a low voice to draw his attention."
     },
     {
      "id": "p015.s05",
-     "source": "No sight is more common in the countries of Islam than the faithful Moslem who spreads his bit of carpet upon which he kneels with gaze fixed toward Mecca, prostrating himself repeatedly as he murmurs his prayers."
+     "source": "On account of his internal fear Dyjhicon suddenly shook his head."
+    },
+    {
+     "id": "p015.s06",
+     "source": "The seven brothers took this as a permission to sit."
+    },
+    {
+     "id": "p015.s07",
+     "source": "After the banquet they said to him:"
     }
    ],
    "id": "p015"
@@ -585,31 +297,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Although the picture given by Dubois of a simple church service he attended in Koulpe, Armenia, is not the ceremony of Maundy Thursday, it has one or two strokes of native color that make it impossible to omit."
+     "source": "“My lord, where have you left your horse, arms and servants?"
     },
     {
      "id": "p016.s02",
-     "source": "The church was poor and simple, the walls were built of stone cemented by clay or bad lime."
-    },
-    {
-     "id": "p016.s03",
-     "source": "Two rows of large beams neither squared nor trimmed supported the earthen roof in the manner of columns."
-    },
-    {
-     "id": "p016.s04",
-     "source": "At the farther end was a kind of niche, partitioned off by means of soiled curtains, thus forming a sanctuary where stood the priest, clothed in torn robe, to read the prayers."
-    },
-    {
-     "id": "p016.s05",
-     "source": "All of the little boys of the village encircled him, kneeling and chanting or reciting prayers, turn by turn."
-    },
-    {
-     "id": "p016.s06",
-     "source": "The eldest placed themselves outside of the choir and knelt on straw mats or on sheep’s skins which marked their customary places, and kissed the earth, or murmured very low the words of the priest, or responded to the chanting at high pitch."
-    },
-    {
-     "id": "p016.s07",
-     "source": "The women held themselves apart, their faces half veiled, filling the back of the church behind the men, and, with lowered heads, were the first to leave."
+     "source": "Will you command us to go and bring them?”"
     }
    ],
    "id": "p016"
@@ -619,11 +311,23 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "The kneeling posture and the prostration is again clearly in evidence, which together with what has been said is sufficient to show that this attitude, especially among the common people, is a very ordinary one and is therefore to be regarded merely as a very generally recognized posture of worship, and not at all significant necessarily of “conviction of sin” or a “feeling of penitence,” which is nevertheless suggested."
+     "source": "“Horse and arms are necessary for timid men,” said Dyjhicon; “I have never had need of them."
     },
     {
      "id": "p017.s02",
-     "source": "The church at Koulpe must have been a very poor one not to have benches, but it had its little chorus of boys, and the people participated in much the same way as in the little church in New York, although nearly a hundred years have passed since Dubois attended the simple service."
+     "source": "I use horse and arms only when I fight a great battle."
+    },
+    {
+     "id": "p017.s03",
+     "source": "As to servants, I never need them; all men are my servants."
+    },
+    {
+     "id": "p017.s04",
+     "source": "You see, I have come so far having only a cow and my stick."
+    },
+    {
+     "id": "p017.s05",
+     "source": "Dyjhicon is my name; I have killed seven by one stroke of the hand.”"
     }
    ],
    "id": "p017"
@@ -633,43 +337,11 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "“Khatchahankist,” meaning literally, “repose of the cross,” is the second of the four church ceremonies I shall describe."
+     "source": "Their esteem and admiration for Dyjhicon increased every day, and at last they were so much fascinated by his alleged bravery that they gave him in marriage their only sister, who was a very beautiful maiden."
     },
     {
      "id": "p018.s02",
-     "source": "The ceremony might better be named “the Blessing of the Water,” for that is what it really consists of."
-    },
-    {
-     "id": "p018.s03",
-     "source": "In the towns of Turkey the churches devote one day each week to the performance of this rite, but in other churches it occurs at the end of a special mass, as for example on Ascension Day, or on the commemoration day of St. Gregory."
-    },
-    {
-     "id": "p018.s04",
-     "source": "There is always a very great gathering on this occasion largely because of the various superstitions connected with it."
-    },
-    {
-     "id": "p018.s05",
-     "source": "A large silver bowl of water is brought and placed on a stand at the foot of the altar, after which the officiating priest comes forward with relics of the Holy Cross, of the saints, or a simple silver cross in his hand."
-    },
-    {
-     "id": "p018.s06",
-     "source": "The more frequently used relics are those of St. Gregory the Illuminator, St. John the Baptist, St. James of Nisibis, or St. George the Martyr."
-    },
-    {
-     "id": "p018.s07",
-     "source": "The priest reads prayers over the water, which are answered by the chants from the choir, after which he dips the relic or the cross into the water three times, finally making the sign of the cross over the bowl."
-    },
-    {
-     "id": "p018.s08",
-     "source": "The Lord’s prayer is repeated, after which a ladle is placed on one side of the vessel, while the priest kneels on the other, cross or relic in hand."
-    },
-    {
-     "id": "p018.s09",
-     "source": "Now the people crowd about, cross their faces and kiss the cross, and then take up the ladle to drink of the water thus blessed especially for drinking purposes."
-    },
-    {
-     "id": "p018.s10",
-     "source": "It is used also for ablutions, for popular belief endows the sacred liquid with curative power."
+     "source": "Dyjhicon knew that he was unworthy, but he could not refuse this gift."
     }
    ],
    "id": "p018"
@@ -679,35 +351,7 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Some of the prayers that are repeated and the texts that are read during this ceremony are well worth noting, for they illustrate the candid interest of all participating."
-    },
-    {
-     "id": "p019.s02",
-     "source": "After the reading of the texts, the deacon repeats the following proclamation: “Let us pray unto God who loveth mankind and hath given for hope and refuge his victorious holy cross, which is armor invincible against the inworkings of Satan, to the end that whatsoever it touches, this water and all creatures."
-    },
-    {
-     "id": "p019.s03",
-     "source": "He shall through the same vouchsafe both healing and mercy.”"
-    },
-    {
-     "id": "p019.s04",
-     "source": "The priest then prays: “Bless, O Lord, this water, and hallow it with thy holy cross, in order that the flocks and sheep which may approach and drink of the same, may derive therefrom freedom from disease and sterility; for from them we select sacrifices of fragrant sweetness and offer them as victims to thyself.”"
-    },
-    {
-     "id": "p019.s05",
-     "source": "And again the priest prays: “Bless, O Lord, this water with the life-giving powers of the cross that everyone who shall drink thereof may derive therefrom a medicine of soul and body, and a health from the diseases which afflict him.”"
-    },
-    {
-     "id": "p019.s06",
-     "source": "Again: “Bless, O Lord, this water with thy holy cross, that it may impart to the fields where it is sprinkled profitable harvests, and that all plants and herbs may be more than ever increased in fruitfulness.”"
-    },
-    {
-     "id": "p019.s07",
-     "source": "The cross is then passed three times over the water with the words, “Let this water be blessed and hallowed in the name of the Father, and of the Son, and of the Holy Spirit, Amen.”"
-    },
-    {
-     "id": "p019.s08",
-     "source": "This is followed by a short proclamation by the deacon and a closing prayer by the priest, after which the assembled people receive of the magic water as above described."
+     "source": "“Eh!” he said, “I will do you the favor of marrying her since you entreat me so earnestly.”"
     }
    ],
    "id": "p019"
@@ -717,11 +361,31 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "This frank personal interest is characteristic of many of the church ceremonies."
+     "source": "They brought costly garments, and putting them on Dyjhicon, made him a handsome bridegroom."
     },
     {
      "id": "p020.s02",
-     "source": "For example in the sacrament of holy communion, incense is offered with the prayer, “Do thou in its stead send upon us the graces and gifts of thine Holy Spirit.”"
+     "source": "They had a splendid wedding festival which was reported in all neighboring countries."
+    },
+    {
+     "id": "p020.s03",
+     "source": "The four princes of the neighboring countries had asked the hand of the maiden in marriage, and all of them had been refused."
+    },
+    {
+     "id": "p020.s04",
+     "source": "Now hearing that the maiden was given in marriage to a stranger, the four princes waged war against the seven brothers."
+    },
+    {
+     "id": "p020.s05",
+     "source": "Dyjhicon, hearing this, was stricken with fear, and longed that the earth might open its mouth and swallow him."
+    },
+    {
+     "id": "p020.s06",
+     "source": "He thought to run away, but there were no means of escaping."
+    },
+    {
+     "id": "p020.s07",
+     "source": "While he indulged in these sad meditations, the seven brothers came, and bowing down before him, said:"
     }
    ],
    "id": "p020"
@@ -731,59 +395,11 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "Of central importance to the nation as to the religion is the ceremony of the consecration of the Katholikos, the supreme authority of the church, which is held in front of the Cathedral at Etchmiadzin."
+     "source": "“What is your order, my lord?"
     },
     {
      "id": "p021.s02",
-     "source": "People from near and far gather together to witness this event, and lest they should fail to see the central act of the ceremony, the roofs near-by are all used for the greater advantage they give to the observer."
-    },
-    {
-     "id": "p021.s03",
-     "source": "The banner of the Katholikos is set flying from the belfry tower; in front of the entrance to the Cathedral is set a wooden dais covered with carpets and costly embroideries whereon the ceremony is performed; the procession is formed and all is then in readiness."
-    },
-    {
-     "id": "p021.s04",
-     "source": "A service is held in the Cathedral, after which the procession issues from the church, and the various state and church officials including representatives from the Russian government, the choir and deacons, all take their places about the platform."
-    },
-    {
-     "id": "p021.s05",
-     "source": "The twelve bishops who reside at Etchmiadzin, and whose business it is to wait upon the Katholikos, now appear gorgeously attired, escorting the central figure of the day, over whose head two attendants carry a richly embroidered canopy."
-    },
-    {
-     "id": "p021.s06",
-     "source": "The patriarch falls on his knees, his feet beneath his body in full accordance with the ordinary posture."
-    },
-    {
-     "id": "p021.s07",
-     "source": "One bishop now reads, after which another advances bearing in his hands the image of a dove wrought in gold."
-    },
-    {
-     "id": "p021.s08",
-     "source": "It is the receptacle of the holy oil, which is a mixture of the sacred oil blessed by St. Gregory, sparingly used and carefully preserved in the treasury of the Cathedral, and of the specially prepared oil consecrated in Sis in Cilicia."
-    },
-    {
-     "id": "p021.s09",
-     "source": "While one bishop is pouring the holy oil from the neck of the golden dove over the head of the patriarch , the other bishops gather around to spread the oil about with their thumbs, making at the same time the sign of the cross."
-    },
-    {
-     "id": "p021.s10",
-     "source": "A piece of cloth is now placed over his head, his face being covered at the same time by a veil which is attached to the cloth."
-    },
-    {
-     "id": "p021.s11",
-     "source": "After a brief interval the newly consecrated Katholikos, followed by the bishops, officials, and procession, reenters the church in order to complete the ceremony."
-    },
-    {
-     "id": "p021.s12",
-     "source": "When the procession again files out escorting the pontiff to his residence, the choir sings, and the Russian band plays."
-    },
-    {
-     "id": "p021.s13",
-     "source": "Festivities continue throughout the day and into the night, including mainly the banquet with its toasts and songs by the choir, and the concert furnished by the band in the evening."
-    },
-    {
-     "id": "p021.s14",
-     "source": "The band is a foreign innovation, although the particular band observed by Lynch consisted mostly of Armenians."
+     "source": "Will you go fight yourself, or will you have us go first?”"
     }
    ],
    "id": "p021"
@@ -793,35 +409,15 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "The holy oil used in the consecration consists for the most part of the preparation manufactured in Sis, as stated, and with which there is a special ceremony connected, which is of general importance, for the oil is also used for the various necessary consecrations of all the churches."
+     "source": "This caused Dyjhicon’s heart to melt."
     },
     {
      "id": "p022.s02",
-     "source": "In the church at Sis is treasured a gorgeous silver bowl, decorated with turrets and pinnacles, in which “Muron” as it is called, or holy oil is made every four years."
+     "source": "He began to tremble in his whole body, and to strike his teeth one against another."
     },
     {
      "id": "p022.s03",
-     "source": "Pilgrims come from far to witness the event."
-    },
-    {
-     "id": "p022.s04",
-     "source": "The bowl, which holds about a gallon of oil is placed outside the church, and in it are placed a hundred and one kinds of flowers amid prayers and chants."
-    },
-    {
-     "id": "p022.s05",
-     "source": "These flowers are stirred with the arm of St. Gregory, after which the lid is put on and the mixture made to boil."
-    },
-    {
-     "id": "p022.s06",
-     "source": "The privilege of lifting off the lid is auctioned, and it is said that £100 was once paid for the distinction."
-    },
-    {
-     "id": "p022.s07",
-     "source": "The oil is then sold to the pilgrims, all of whom take a phial of it along to their homes where it is used in baptism, marriage, and burial ceremonies."
-    },
-    {
-     "id": "p022.s08",
-     "source": "It is also believed to have wonderful medicinal properties."
+     "source": "The seven brothers thought that it was because of his violent rage, and that in his fury he would destroy whole armies."
     }
    ],
    "id": "p022"
@@ -831,51 +427,7 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "The chief social value of these ceremonies lies in the fact that they bring large groups of people together under unusual circumstances, all of which adds importance to the various rites and festivities of the occasion."
-    },
-    {
-     "id": "p023.s02",
-     "source": "Especially is this true of the consecration of the Katholikos, which may occur twice or at the most three times in a generation."
-    },
-    {
-     "id": "p023.s03",
-     "source": "For this reason and also because of the authority and position of the Katholikos, not only as head of the church, but also in a very real sense, as head of the nation, this ceremony is attended by many pilgrims from the various sections of the country."
-    },
-    {
-     "id": "p023.s04",
-     "source": "Having assembled, the occasion is thus made a great deal more of than if it were an ordinary event."
-    },
-    {
-     "id": "p023.s05",
-     "source": "The day is a festival day in the full meaning of the term."
-    },
-    {
-     "id": "p023.s06",
-     "source": "Besides the services there is the banquet, the special choir, and the band."
-    },
-    {
-     "id": "p023.s07",
-     "source": "The relics kept in the treasury, which it is probable that most people who come have not seen before; also the holy churches of St. Gaiane and St. Rhipsime, which are visited by small groups throughout the day; and most of all the sacred altar of the Cathedral, where Christ descended in the vision of St. Gregory, are special attractions."
-    },
-    {
-     "id": "p023.s08",
-     "source": "And then there is the library where many ancient and precious manuscripts are exhibited, the institution of the monastery, the garden of the Katholikos, the printing press, and the seminary, all of which are of interest to the spectator."
-    },
-    {
-     "id": "p023.s09",
-     "source": "In fact there is sufficient to induce the pilgrims to remain for a number of days, which many of them do."
-    },
-    {
-     "id": "p023.s10",
-     "source": "The grounds are provided with a pilgrim’s court surrounded by guest chambers utilized at this time."
-    },
-    {
-     "id": "p023.s11",
-     "source": "Naturally enough the various monuments suggest the traditions and legends with which they are connected, such as the traditions of St. Gregory, Tiridates, the legends of St. Rhipsime and St. Gaiane, and the other legends associated with the introduction of Christianity."
-    },
-    {
-     "id": "p023.s12",
-     "source": "Although centered about a religious ceremony which probably lasts no longer than fifteen minutes, the occasion is thus made a festival, and is about as important in fostering a real sentiment of patriotism and of church loyalty as any other single festival."
+     "source": "“My lord,” they said, finally, “let us seven brothers go fight them at first, and if we find them hard to conquer we will send you word, that you may come to our assistance.”"
     }
    ],
    "id": "p023"
@@ -885,43 +437,7 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "The ceremony of the manufacture of the holy oil is not of such central importance."
-    },
-    {
-     "id": "p024.s02",
-     "source": "It also, however, has the advantage of not occurring very frequently, coming as it does only once in every four years."
-    },
-    {
-     "id": "p024.s03",
-     "source": "This together with the general utility of the oil in all of the various church ceremonies, plus the superstitions connected with it, is sufficient to induce pilgrims to make the journey to Sis in Cilicia, where the ceremony is held."
-    },
-    {
-     "id": "p024.s04",
-     "source": "It is again this assembly of pilgrims that gives the ceremony a social importance."
-    },
-    {
-     "id": "p024.s05",
-     "source": "In a nation like the United States where all parts are connected by railroads, telegraphs, and telephones, such a pilgrimage would have comparatively little social value."
-    },
-    {
-     "id": "p024.s06",
-     "source": "Except for government centers, there are no telegraphs in Armenia, the telephone is known only in a few cities, and railroads there are none."
-    },
-    {
-     "id": "p024.s07",
-     "source": "This lack of communication gives such ceremonies to which pilgrimages are made a very special social value which they otherwise would not at all have."
-    },
-    {
-     "id": "p024.s08",
-     "source": "The electoral assemblies spoken of have the same value, and for the same reason."
-    },
-    {
-     "id": "p024.s09",
-     "source": "The Armenian is not a person to be silent, and talks even when prudence is the better part of valour."
-    },
-    {
-     "id": "p024.s10",
-     "source": "He criticizes, condemns, and praises openly, fearlessly, and carelessly, and such a gathering of pilgrims, or electors, if it means anything, would mean a wholesale exchange of facts relating to current events, opinions, and rumors with reference to politics, religion, and every phase of social and industrial life."
+     "source": "“Well, well; do so,” answered Dyjhicon, somewhat relieved."
     }
    ],
    "id": "p024"
@@ -931,23 +447,23 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "The Blessing of the Water can not be said to have so great a social value, occurring as it does in some parts of the country once every week."
+     "source": "They went and began the battle."
     },
     {
      "id": "p025.s02",
-     "source": "And yet this service is unusually well attended, largely because of the superstitions connected with the blessed water."
+     "source": "Their neighboring peoples were in constant terror of the seven brothers, who were famous as brave fighters."
     },
     {
      "id": "p025.s03",
-     "source": "Religion here appears to offer its biggest attraction to the less fortunate, such as the rheumatic, the tubercular, the dyspeptic, the epileptic, and the feeble-minded."
+     "source": "Now that they had also a brother-in-law who could kill seven men by one stroke of the hand, their foes were the more afraid of them."
     },
     {
      "id": "p025.s04",
-     "source": "But enough facts have been mentioned to show that the Armenian church is something more than an institution of cure and relief."
+     "source": "But this time the men of the four princes were united, and they fought with unusual zeal and determination."
     },
     {
      "id": "p025.s05",
-     "source": "It has identified itself too completely with the common life by keeping alive the streams and cross currents of social activity to admit of such a supposition."
+     "source": "This caused the seven brothers to retreat a little, and they sent to brother Dyjhicon, saying:"
     }
    ],
    "id": "p025"
@@ -957,30 +473,47 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "The ceremony of Maundy Thursday, or Washing of the Feet, is, of the four I have mentioned, of the least social importance."
-    },
-    {
-     "id": "p026.s02",
-     "source": "But it is generally attended, especially by the women who are compelled by the ban of custom to complete their house-cleaning before this service begins."
-    },
-    {
-     "id": "p026.s03",
-     "source": "And then too, it is the commencement of the Easter celebration, and as such has a distinct festival value."
-    },
-    {
-     "id": "p026.s04",
-     "source": "I have reviewed them therefore in the order of their social importance."
-    },
-    {
-     "id": "p026.s05",
-     "source": "The consecration of the Katholikos first; second the making of holy oil; third, the Blessing of the Water, and finally, the Washing of the Feet, which complete the second group of festivals."
+     "source": "“We are in trouble; come to our assistance.”"
     }
    ],
    "id": "p026"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "A fast horse and magnificent arms awaited him."
+    },
+    {
+     "id": "p027.s02",
+     "source": "He began to curse the day when he came to that house."
+    },
+    {
+     "id": "p027.s03",
+     "source": "But what could he do now?"
+    },
+    {
+     "id": "p027.s04",
+     "source": "At last he decided to go to the battle-field, cast himself against the swords of the enemy and die; death was preferable to such a disgraceful life."
+    },
+    {
+     "id": "p027.s05",
+     "source": "As soon as he mounted the horse, the beast who knew that the rider was inexperienced, ran away like a winged eagle."
+    },
+    {
+     "id": "p027.s06",
+     "source": "Dyjhicon could not stop or manage it."
+    },
+    {
+     "id": "p027.s07",
+     "source": "The seven brothers thought he was so brave that he left the horse free in order to reach and slaughter the enemy."
+    },
+    {
+     "id": "p027.s08",
+     "source": "The horse broke into the line of the enemy, who began to fly, saying:"
+    }
+   ],
    "id": "p027"
   },
   {
@@ -988,7 +521,7 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "Ormanian pp. 189–90."
+     "source": "“Who can stand before this great hero?”"
     }
    ],
    "id": "p028"
@@ -998,11 +531,23 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "For the ritual side of this festival, the church ceremony known as the Blessing of the Crops, or the Blessing of Harvest, and the prayers in connection therewith, F. C. Conybeare’s Ritual Armenorum , and St. Mesrob’s Maschtotz may be consulted."
+     "source": "In their hurry to retreat they began to slaughter one another."
     },
     {
      "id": "p029.s02",
-     "source": "The social side I have gotten from my wife who has taken part in the festival several times."
+     "source": "Dyjhicon, who had never been on horseback before, was so much afraid that he thought he was already lost."
+    },
+    {
+     "id": "p029.s03",
+     "source": "As the horse was running through the forest, he threw his arms around an oak tree and embraced it, letting the horse go from under him."
+    },
+    {
+     "id": "p029.s04",
+     "source": "The tree happened to be rotten and was rooted out when he took hold of it."
+    },
+    {
+     "id": "p029.s05",
+     "source": "This caused a great panic among the enemy, who ran away exclaiming:"
     }
    ],
    "id": "p029"
@@ -1012,11 +557,11 @@
    "segments": [
     {
      "id": "p030.s01",
-     "source": "A very common custom, especially in the interior villages of Armenia, is to give a lighted candle and an apple or orange in which small silver coins have been stuck, as gifts to the children."
+     "source": "“Aha! he has pulled up by the roots an enormous oak, and now he means to batter us into pieces with it."
     },
     {
      "id": "p030.s02",
-     "source": "This is done by the eldest member of the family, usually the grandmother, at the time the younger ones come up to kiss her hand and receive her blessing."
+     "source": "Who can stand before this strong warrior?”"
     }
    ],
    "id": "p030"
@@ -1026,7 +571,11 @@
    "segments": [
     {
      "id": "p031.s01",
-     "source": "For a description of the Easter and Christmas fasts, see Tavernier, Voyages 1:497–98."
+     "source": "So crying as they ran away, they slaughtered one another."
+    },
+    {
+     "id": "p031.s02",
+     "source": "Thereupon, the seven brothers came and embracing the feet of their heroic brother-in-law, exclaimed:"
     }
    ],
    "id": "p031"
@@ -1036,11 +585,11 @@
    "segments": [
     {
      "id": "p032.s01",
-     "source": "The festivals of New Year’s Day, Easter, and Christmas, I have described as related to me by my wife who has celebrated them in company with others in Constantinople."
+     "source": "“What magnificent courage!"
     },
     {
      "id": "p032.s02",
-     "source": "Such variations practiced in the interior of Armenia as I am aware of, I have indicated."
+     "source": "What a great victory!”"
     }
    ],
    "id": "p032"
@@ -1050,7 +599,11 @@
    "segments": [
     {
      "id": "p033.s01",
-     "source": "F. C. Conybeare, Ritual Armenorum pp. 213, 294."
+     "source": "With these words they brought Dyjhicon home with great pomp and glory."
+    },
+    {
+     "id": "p033.s02",
+     "source": "The four princes who waged the war, being greatly humiliated, sued for reconciliation, and in order to gain Dyjhicon’s favor, each of them sent him as a present one thousand ewes with their lambs, ten mares with their colts, and other costly offerings."
     }
    ],
    "id": "p033"
@@ -1060,134 +613,10 @@
    "segments": [
     {
      "id": "p034.s01",
-     "source": "Survey 36:167."
-    },
-    {
-     "id": "p034.s02",
-     "source": "Anonymous."
+     "source": "Thus the greatest coward became the greatest hero."
     }
    ],
    "id": "p034"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p035.s01",
-     "source": "Tavernier, Voyages 1:496."
-    }
-   ],
-   "id": "p035"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p036.s01",
-     "source": "Dubois 3:441."
-    }
-   ],
-   "id": "p036"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p037.s01",
-     "source": "Ormanian p. 177."
-    }
-   ],
-   "id": "p037"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p038.s01",
-     "source": "F. C. Conybeare, Ritual Armenorum p. 224."
-    }
-   ],
-   "id": "p038"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p039.s01",
-     "source": "Brightman, Eastern Liturgies , chapter on Armenian Liturgy."
-    },
-    {
-     "id": "p039.s02",
-     "source": "For an interesting variation of this ceremony see Tavernier 1:502."
-    }
-   ],
-   "id": "p039"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p040.s01",
-     "source": "Closely related to this ceremony is that of the blessing or purifying of a well."
-    },
-    {
-     "id": "p040.s02",
-     "source": "A well is not used until a priest has first blessed it, or if the water of a well becomes impure, it is necessary to purify it by the blessing of a priest."
-    },
-    {
-     "id": "p040.s03",
-     "source": "The latter takes a cross and a Bible and having requested the people to draw a pail of water which is thrown away, a second pail is drawn, over which the priest reads a psalm."
-    },
-    {
-     "id": "p040.s04",
-     "source": "The water is then blessed with the cross, incense is burned over the well, and the pail of water is emptied back. ( Maschtotz. )"
-    }
-   ],
-   "id": "p040"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p041.s01",
-     "source": "Lynch 1:203, 204."
-    }
-   ],
-   "id": "p041"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p042.s01",
-     "source": "Contemporary Review 70:695."
-    },
-    {
-     "id": "p042.s02",
-     "source": "J. T. Bent."
-    }
-   ],
-   "id": "p042"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p043.s01",
-     "source": "Tavernier, 1:500, 501."
-    }
-   ],
-   "id": "p043"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p044.s01",
-     "source": "The people believe that the holy relic causes the mixture to boil."
-    }
-   ],
-   "id": "p044"
   }
  ]
 }

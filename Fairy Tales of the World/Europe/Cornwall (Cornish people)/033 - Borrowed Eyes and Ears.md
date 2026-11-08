@@ -4,7 +4,7 @@
 - **Source book:** *The Piskey-Purse: Legends and Tales of North Cornwall*
 - **Author / collector / translator:** Tregarthen, Enys (author, d. 1923)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #37245 — https://www.gutenberg.org/ebooks/37245 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #37245 — https://www.gutenberg.org/ebooks/37245
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

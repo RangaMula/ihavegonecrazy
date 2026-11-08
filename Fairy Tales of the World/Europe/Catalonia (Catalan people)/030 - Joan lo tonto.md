@@ -1,0 +1,66 @@
+# Joan lo tonto
+
+- **Tradition:** Catalonia (Catalan people) (Europe)
+- **Source book:** *Lo rondallayre, Tercera série*
+- **Author / collector / translator:** Maspons i Labrós, Francesc (author, d. 1901)
+- **Original language of this text:** ca
+- **Source:** Project Gutenberg eBook #76026 — https://www.gutenberg.org/ebooks/76026
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Era una mare que tenia un fill que’s deya Joan y que era per demes beneyt y tonto. De tal manera que ni’n podia fer res ni confiarli cosa alguna. Ab tot, com que la dona era molt pobre, tenia de valerse mes de son fill de lo que desitjava, y aixi un dia li doná un sach de nous y li encarregá qu’anés á mercat á véndrelas, cuidant de que no l’enganyessin.
+
+Lo noy s’ho escoltá be y ab la resolució ferma de no deixarse enganyar, tot carregat ab lo sach que era ben feixuch, se’n aná cap á vendre las nous, arribant á la plassa á la millor hora de venda; per manera que tot desseguida se li acostaren los compradors.
+
+Y un que li diu: –Noy, á quan aqueixas nous?
+
+–Oh! no m’enganyareu pas.
+
+–No, home, no, á quan las nous.
+
+–Oh! no m’enganyareu pas.
+
+Lo mercadejant, veyent que no’n podia treure altre resposta, se’n cremá y va anarsen.
+
+Passá una estona y no hi aná ningú, tots los compradors se’n retreyan. Per fi al cap d’un xiquet se n’hi acostá un altre.
+
+–Noy, á quan aqueixas nous?
+
+–Oh, no m’enganyareu pas.
+
+Lo comprador va mirarsel: –A quan, dich, aqueixas nous?
+
+–Oh, no m’enganyareu pas?
+
+L’home que devia tenir un genit cremat: –Que’t pensas que só un murri? li diu y plif, plaf, li planta un parell de rebessos, que’l noy se va posar á plorar tot dihent: –Ay! ay! si la mare m’ho ha dit.– Mentres que com sol succehir sempre, tots los desenfeinats de mercat y gent que hi rodava se posá á mofarse d’ell y á riuressen.
+
+A tot aixo la tarde anava cayent y acostantse l’hora baixa; lo noy no tingué altre recurs qu’agafar lo sach qu’era ben feixuch y entornarsen tot poch á poch cap á casa seva, ahont hi arribá quasi ja entre dos llustres.
+
+–No t’han pas enganyat?
+
+–Oh! no, mare, no.
+
+–Y donchs las nous?– li digué la seva mare veyent lo sach.
+
+–Oh! per aixó las porto, perque no m’han enganyat.
+
+La pobre dona’s convencé de que no hi havia remey y de que no li podia encomanar cosa alguna. –A lo menos fossis bo pera fer foch li digué.
+
+Y ell que sentintho, tot sonso, sonso, se’n va á la cuina, agafa un misto, lo encén, lo fica entre mitg de la cendra de la llar y comensa a bufar. Ah! no ’us dich res com se va posar! tot blanch de cendra y, lo qu’es pitjor, ab uns ulls que, pobre minyó, li comensaren á coure de tal manera que comensa á cridar, y enrabiat agafa’ls rastells de canem y l’un despres de l’altre’ls posa sobre las brasas y hi cala foch.
+
+Heuse aqui que com la casa era molt petita, desseguida la flama va arribar á la porta, de la porta á las bigas y aviat fou tota la casa enarbolada.
+
+La seva mare quan va adonarsen, tota desesperada anava d’un cantó á l’altre, dihent: –Ay pobres de nosaltres, com ho farem, tan pobres com som, y encara la única cosa que teniam que se’ns arribi á perdre per aquest xicot, com ho farem?– Vos dich que donava llástima son desconsol y’l noy, tot aturdit, també anava d’un cantó’l altre dient que fugissin cap al mitg del bosch, com ho feren.
+
+Mes lo noy tot d’un plegat se gira y diu: –Oh! y com podrem tancarnos perque no’ns robin? oh, no, no, jo no me’n vaig sense endurmen una porta.
+
+–Pero home, que’n farás de la porta?
+
+Y del dit al fet; vá, arrenca una porta y corra detras de la seva mare qu’ab una germaneta petita ja anavan fugint mes que depressa.
+
+Quan foren á dins del bosch, com que ja era ben fosch, lo noy no feya mes que girarse d’un cantó á l’altre de tanta pór que tenia. Per fi senti una mica de fressa y correns ab la porta y tot s’enfilá á dalt d’un arbre, en lo que’l seguiren la mare y filla per resguardarse de cap mal ó bestia fera.
+
+Heuse aquí qu’era negre nit, quan sentiren remor de veus y passos y una colla d’homes que luego conegueren qu’eran lladres. Los quals s’aturaren al peu del arbre y comensaren á treure sachs, bossas y una pila de cosas, que deixaren á terra pera repartirsho. A tot aixó á la noyeta li vingueren ganas de fer una necessitat, y per mes que la mare sense gosar quasi ni respirar li deya que s’aguantés tan com li fos posible, la noya tingué de ferho y ho deixá anar demunt dels lladres.
+
+–Caramba, quina pluja.– Y encara no estavan dihent aixó, quan lo noy que desde que s’havia enfilat dalt del arbre tenia la porta aguantada ab las mans no pogué sostenirla mes, li faltaren las forsas y tot de un plegat, esquinsant ramas y fent mes soroll qu’una tronada, se’n aná la porta á daltabaix caiguent ab tot estrepit damunt dels lladres; los que ab lo assorament en que vivian, la pór qu’havian agafat, los cops que reberen y’l pes que damunt se’ls esdevenia, s’estremordiren tant que apretaren á corre deixantho tot á terra sense saber cap ahont anavan. Los de dalt del arbre quan veyeren á los lladres fora y tot lo seu tresor abandonat, baixaren mes que depressa, arreplegaren tot l’or y joyas qu’á terra hi havia que ’os dich que no eran pocas, y contents se’n anaren cap á ferse una casa, rientse lo noy del servey que’ls havia fet la porta, aixi com la mare de la beneyteria del seu fill que’ls havia fet richs y felissos per tots los anys de la sua vida.

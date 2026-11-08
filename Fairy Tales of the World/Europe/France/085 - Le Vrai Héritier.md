@@ -4,7 +4,7 @@
 - **Source book:** *Contes et légendes. 1re Partie*
 - **Author / collector / translator:** Guerber, H. A. (Hélène Adeline) (author, d. 1929)
 - **Original language of this text:** ['en', 'fr']
-- **Source:** Project Gutenberg eBook #18873 — https://www.gutenberg.org/ebooks/18873 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #18873 — https://www.gutenberg.org/ebooks/18873
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

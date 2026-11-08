@@ -1,0 +1,198 @@
+{
+ "id": "af-southern-africa-regional-tales-033",
+ "title": {
+  "id": "title",
+  "source": "Umusaani Umukiboole, Umukhasi Umukiboole"
+ },
+ "tradition": "Southern Africa (regional tales)",
+ "continent": "Africa",
+ "source_lang": "myx",
+ "source_book": "African Storybook — traditional tales retold (CC BY 4.0)",
+ "credits": "Southern African Folktale; Milton Eridad Shissa; Jemma Kahn (story, illustration and translation credits as listed by African Storybook)",
+ "gutenberg": "African Storybook story #3085 — https://www.africanstorybook.org/ (search the title)",
+ "copyright": "Creative Commons Attribution 4.0 (CC BY 4.0). Free to copy, translate and adapt for any purpose, including commercial, as long as you credit the original author(s), illustrator(s) and African Storybook and link to the licence: https://creativecommons.org/licenses/by/4.0/",
+ "markdown_file": "Africa/Southern Africa (regional tales)/033 - Umusaani Umukiboole, Umukhasi Umukiboole.md",
+ "stats": {
+  "paragraphs": 10,
+  "segments": 29,
+  "words": 291
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Aabawo khaalekho naabi, nga shiibala shishiili shiyaakha, nga tsinjiinji tsimboofu tsaabiimbilila shiibala nga ibulangiti, ni kimisaala kimileeyi nga kyaayiwuta mu ngaaki."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Mu shibala isho, mwabamo shisiba she kameetsi kamamali kali tiii, nga kamaleeyi naabi aasi, nga kakwalaala busa tsuu, naluundi nga kaanyira tsii."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Aasi e shisiba shino, yabayo tsindemu tsibili."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Indemu ndweela yaba imboofu, nga ili ni kamafunyo kamasaare, ne indala nga ili ifwiitikho, luundi nga imbolawolu."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Shifukhu shitweela, aabawo ikhuungu iye kamaani."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Lumweemwe lwaamulikha lwenjilila ilala aasi mu shisiba."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Isho shaakila kameetsi kaawukhanamwo imbuka ifwiiti iri."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Tsindemu tsana tsabona shibala khu ngaaki, nga shaayitsula kamakoondo, ni bibiindu bye tsimbonekha tsitsikhali ndweela ta, atweela ni bibipamburukha."
+    },
+    {
+     "id": "p004.s05",
+     "source": "Ne kameetsi ni keelilisa, tsindemu sitsebilila bumiliwu bweesi tsabonakho khu shibala ta."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Kila tsiilomela tsonyene tsiri, \"Ifwe sikhunyala khweloosela khuumenya mu shisiba shimali luundi shinyifu shino ta."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Khayo khurure ibulafu, khubone shibala nga ni shifwaana.\""
+    },
+    {
+     "id": "p005.s03",
+     "source": "Ne indemu injeekhekho yareeba iri, \"Ne khunamenya khuryeena khu shibala?"
+    },
+    {
+     "id": "p005.s04",
+     "source": "Kane khwikhururire aasi khu nda tseefwe?\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Ne iyashe yeelamo iri, \"Binywiinywi bye mu ngaaki singene bikhutsekhelele ifwe lwe khukyeenda mbola."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Sikane khwalaame aasi ta, ne kane khukyeende.\""
+    },
+    {
+     "id": "p006.s03",
+     "source": "Mbolambola tsekanyulula."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Tsaarakikha khuusubila tweela tsoombi, tsaarura ibulafu, khuutsya khu ngaaki isi buwaanga buli."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Nga ni tsoola khu meetsi khu ngaaki, shishiindu shishikhabatsakawo ta shaakholekha."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Imisya we kimikhiinga kyatso yaawukhamo khabili, yaamamwo bikyele, bikhaandakilo, ni tsintsala."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Khukhwaama mu makosi kaatso mwarubukhamwo kamakhono, biikalabo ni tsintsala."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Benyoola nga sibashiili tsindemu ta, ne Umusaani n'umukhasi."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Ne ni baalolana, baasimana, baakanana."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Umukhasi waaloma ari, \"Kane khutsye khwiyombekhele intsu yeefwe mu njiinji."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Buli kumutikhinyi khubonatsake inyaanga nga irura, khwoorere kumuumu.\""
+    },
+    {
+     "id": "p009.s03",
+     "source": "Umusaani naye waaloma ari, \"Kane khwaayilise bunyaasi, ni bisaala."
+    },
+    {
+     "id": "p009.s04",
+     "source": "Kane khube basaale be binywiinywi ni tsisolo tseene.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Umusaani umukiboole yuno waaloma ari, \"Yiitsa.\""
+    },
+    {
+     "id": "p010.s02",
+     "source": "Umukhasi umukiboole uyo naye waaloma ari, \"Khaniitse.\""
+    },
+    {
+     "id": "p010.s03",
+     "source": "Baakyendela atweela baatsya mu shibala shaabwe shishaakha."
+    }
+   ],
+   "id": "p010"
+  }
+ ]
+}

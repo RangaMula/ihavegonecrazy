@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-039",
  "title": {
   "id": "title",
-  "source": "The Dormouse"
+  "source": "Why Blackfeet Never Kill Mice"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Thirty Indian Legends",
- "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/039 - The Dormouse.md",
+ "source_book": "Indian Why Stories: Sparks from War Eagle's Lodge-Fire",
+ "credits": "Linderman, Frank Bird (author, d. 1938)",
+ "gutenberg": "Project Gutenberg eBook #606 — https://www.gutenberg.org/ebooks/606",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/039 - Why Blackfeet Never Kill Mice.md",
  "stats": {
-  "paragraphs": 30,
-  "segments": 87,
-  "words": 1199
+  "paragraphs": 26,
+  "segments": 79,
+  "words": 1186
  },
  "paragraphs": [
   {
@@ -23,31 +23,31 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Many years ago the animals ruled the earth."
+     "source": "Muskrat and his grandmother were gathering wood for the camp the next morning, when they came to an old buffalo skull."
     },
     {
      "id": "p001.s02",
-     "source": "They had killed every one but a brother and a sister."
+     "source": "The plains were dotted with these relics of the chase, for already the hide-hunting white man had played havoc with the great herds of buffalo."
     },
     {
      "id": "p001.s03",
-     "source": "These two lived in a lodge far away in the forest, where the animals could not find them."
+     "source": "This skull was in a grove of cottonwood-trees near the river, and as they approached two Mice scampered into it to hide."
     },
     {
      "id": "p001.s04",
-     "source": "The boy was a tiny, little fellow,—he had never grown any larger than a baby,—so the girl had to do all the work."
+     "source": "Muskrat, in great glee, secured a stick and was about to turn the skull over and kill the Mice, when his grandmother said: \"No, our people never kill Mice."
     },
     {
      "id": "p001.s05",
-     "source": "Each day she would go out into the bush and gather wood for the lodge fire."
+     "source": "Your grandfather will tell you why if you ask him."
     },
     {
      "id": "p001.s06",
-     "source": "She always took her brother with her, for he was too small to leave alone."
+     "source": "The Mice-people are our friends and we treat them as such."
     },
     {
      "id": "p001.s07",
-     "source": "A big bird might fly away with him."
+     "source": "Even small people can be good friends, you know—remember that.\""
     }
    ],
    "id": "p001"
@@ -57,23 +57,15 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "One day she gave him a little bow and arrows, and said, \"You stay here while I take the wood home."
+     "source": "All the day the boy wondered why the Mice-people should not be harmed; and just at dark he came for me to accompany him to War Eagle's lodge."
     },
     {
      "id": "p002.s02",
-     "source": "When the snow-birds come to get the worms out of the wood, see if you can shoot one.\""
+     "source": "On the way he told me what his grandmother had said, and that he intended to ask for the reason, as soon as we arrived."
     },
     {
      "id": "p002.s03",
-     "source": "So she went home and left him."
-    },
-    {
-     "id": "p002.s04",
-     "source": "He did not come until nearly evening."
-    },
-    {
-     "id": "p002.s05",
-     "source": "He looked very sad and tired, for he had been unable to shoot even one bird."
+     "source": "We found the other children already there, and almost before we had seated ourselves, Muskrat asked:"
     }
    ],
    "id": "p002"
@@ -83,11 +75,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "\"Never mind,\" said the sister, kindly."
+     "source": "\"Grandfather, why must we never kill the Mice-people?"
     },
     {
      "id": "p003.s02",
-     "source": "\"Try again to-morrow.\""
+     "source": "Grandmother said that you knew.\""
     }
    ],
    "id": "p003"
@@ -97,23 +89,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The next day he went again with her, and when he came back in the evening, he said, \"I shot this bird, and now, sister, strip the skin off it, stretch, and cure it."
+     "source": "\"Yes,\" replied War Eagle, \"I do know and you must know."
     },
     {
      "id": "p004.s02",
-     "source": "Then when I have killed enough birds, I shall have a coat made of the skins.\""
+     "source": "Therefore I shall tell you all to-night why the Mice-people must be let alone and allowed to do as they please, for we owe them much; much more than we can ever pay."
     },
     {
      "id": "p004.s03",
-     "source": "At last when he had ten skins, his sister made him a coat of them."
-    },
-    {
-     "id": "p004.s04",
-     "source": "He was so tiny that it fitted him nicely."
-    },
-    {
-     "id": "p004.s05",
-     "source": "Of course he was very proud of it."
+     "source": "Yes—they are great people, as you will see."
     }
    ],
    "id": "p004"
@@ -123,7 +107,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "One day he said, \"Sister, is there no one living in this world except ourselves?\""
+     "source": "\"It happened long, long ago, when there were few men and women on the world."
+    },
+    {
+     "id": "p005.s02",
+     "source": "OLD-man was chief of all then, and the animal-people and the bird-people were greater than our people, because we had not been on earth long and were not wise."
     }
    ],
    "id": "p005"
@@ -133,15 +121,35 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "\"Yes,\" she answered."
+     "source": "\"There was much quarrelling among the animals and the birds."
     },
     {
      "id": "p006.s02",
-     "source": "\"Many miles from here live the animals we are afraid of."
+     "source": "You see the Bear wanted to be chief, under OLD-man, and so did the Beaver."
     },
     {
      "id": "p006.s03",
-     "source": "But never go near their village, for they will kill you.\""
+     "source": "Almost every night they would have a council and quarrel over it."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Beside the Bear and Beaver, there were other animals, and also birds, that thought they had the right to be chief."
+    },
+    {
+     "id": "p006.s05",
+     "source": "They couldn't agree and the quarrelling grew worse as time went on."
+    },
+    {
+     "id": "p006.s06",
+     "source": "Some said the greatest thief should be chosen."
+    },
+    {
+     "id": "p006.s07",
+     "source": "Others thought the wisest one should be the leader; while some said the swiftest traveller was the one they wanted."
+    },
+    {
+     "id": "p006.s08",
+     "source": "So it went on and on until they were most all enemies instead of friends, and you could hear them quarrelling almost every night, until OLD-man came along that way."
     }
    ],
    "id": "p006"
@@ -151,7 +159,27 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"Oh, I am not afraid,\" he said; and in spite of all her coaxing he made ready to go on his journey."
+     "source": "\"He heard about the trouble."
+    },
+    {
+     "id": "p007.s02",
+     "source": "I forget who told him, but I think it was the Rabbit."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Anyhow he visited the council where the quarrelling was going on and listened to what each one had to say."
+    },
+    {
+     "id": "p007.s04",
+     "source": "It took until almost daylight, too."
+    },
+    {
+     "id": "p007.s05",
+     "source": "He listened to it all—every bit."
+    },
+    {
+     "id": "p007.s06",
+     "source": "When they had finished talking and the quarrelling commenced as usual, he said, 'stop!' and they did stop."
     }
    ],
    "id": "p007"
@@ -161,19 +189,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "One morning he set out, and by noon had walked quite a distance."
-    },
-    {
-     "id": "p008.s02",
-     "source": "He felt very tired and threw himself down on a plot of grass where the sun had melted the snow."
-    },
-    {
-     "id": "p008.s03",
-     "source": "He fell asleep, and while he was lying there the hot sun dried the skins of his bird coat."
-    },
-    {
-     "id": "p008.s04",
-     "source": "When he awoke, he felt as though he were buttoned up in a coat much too small for him."
+     "source": "\"Then he said to them: 'I will settle this thing right here and right now, so that there will be no more rows over it, forever.'"
     }
    ],
    "id": "p008"
@@ -183,15 +199,11 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "He was very angry at the sun, for he knew it had done this."
+     "source": "\"He opened his paint sack and took from it a small, polished bone."
     },
     {
      "id": "p009.s02",
-     "source": "\"I shall punish you,\" he cried up to it."
-    },
-    {
-     "id": "p009.s03",
-     "source": "\"You think you are so high up there, and I am so small, that you do not care, but I shall show you.\""
+     "source": "This he held up in the firelight, so that they might all see it, and he said:"
     }
    ],
    "id": "p009"
@@ -201,23 +213,11 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Then he went home to his sister and showed her the coat, and told her all about it."
+     "source": "\"'This will settle the quarrel."
     },
     {
      "id": "p010.s02",
-     "source": "She begged him not to feel so angry."
-    },
-    {
-     "id": "p010.s03",
-     "source": "He would not listen to her, but went and lay down on the bed."
-    },
-    {
-     "id": "p010.s04",
-     "source": "For ten days he stayed there without eating a bite."
-    },
-    {
-     "id": "p010.s05",
-     "source": "Then he turned over on his other side and lay for ten days more."
+     "source": "You all see this bone in my right hand, don't you?'"
     }
    ],
    "id": "p010"
@@ -227,31 +227,7 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "At last he arose and said, \"Sister, please make me a snare."
-    },
-    {
-     "id": "p011.s02",
-     "source": "I want to catch the sun.\""
-    },
-    {
-     "id": "p011.s03",
-     "source": "She told him she had nothing with which to make the snare."
-    },
-    {
-     "id": "p011.s04",
-     "source": "He nearly cried when she said this."
-    },
-    {
-     "id": "p011.s05",
-     "source": "Then she remembered some bits of deer sinew that were in the lodge."
-    },
-    {
-     "id": "p011.s06",
-     "source": "She made a snare of this, but he said, \"That will not do,\" and began to cry again."
-    },
-    {
-     "id": "p011.s07",
-     "source": "Then she asked him if her hair would do."
+     "source": "\"'Yes,' they replied."
     }
    ],
    "id": "p011"
@@ -261,7 +237,7 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"No, it will not,\" he said."
+     "source": "\"'Well, now you watch the bone and my hands, too, for they are quick and cunning.'"
     }
    ],
    "id": "p012"
@@ -271,27 +247,11 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "\"Well, I have nothing else,\" she told him, and went out of the lodge."
+     "source": "\"OLD-man began to sing the gambling song and to slip the bone from one hand to the other so rapidly and smoothly that they were all puzzled."
     },
     {
      "id": "p013.s02",
-     "source": "She thought and thought, and at last she said to herself, \"I shall use my hair, and perhaps he will never know.\""
-    },
-    {
-     "id": "p013.s03",
-     "source": "So she made a snare like the one used to catch moose."
-    },
-    {
-     "id": "p013.s04",
-     "source": "When she took it in to him, and asked, \"Will this do?\" he looked very pleased, and said, \"Oh, yes, that is the very thing.\""
-    },
-    {
-     "id": "p013.s05",
-     "source": "He took it, and drew the threads through his lips."
-    },
-    {
-     "id": "p013.s06",
-     "source": "They changed at once into red, metal cords, which he wound around his waist."
+     "source": "Finally he stopped singing and held out his hands—both shut tight, and both with their backs up."
     }
    ],
    "id": "p013"
@@ -301,15 +261,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Then he made ready for his journey, and about midnight he set out."
-    },
-    {
-     "id": "p014.s02",
-     "source": "He walked on for a long time, until he came to the spot where the sun came up."
-    },
-    {
-     "id": "p014.s03",
-     "source": "He fixed the snare, and then hid behind some bushes."
+     "source": "\"'Which of my hands holds the bone now?' he asked them."
     }
    ],
    "id": "p014"
@@ -319,7 +271,19 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "In a little while the sun began to rise, and was at once caught in the snare."
+     "source": "\"Some said it was in the right hand and others claimed that it was the left hand that held it."
+    },
+    {
+     "id": "p015.s02",
+     "source": "OLD-man asked the Bear to name the hand that held the bone, and the Bear did; but when OLD-man opened that hand it was empty—the bone was not there."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Then everybody laughed at the Bear."
+    },
+    {
+     "id": "p015.s04",
+     "source": "OLD-man smiled a little and began to sing and again pass the bone."
     }
    ],
    "id": "p015"
@@ -329,11 +293,7 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "The animals, who ruled the earth, were greatly excited because the morning did not come."
-    },
-    {
-     "id": "p016.s02",
-     "source": "They knew it was time for the sun to be up, so they called a council."
+     "source": "\"'Beaver, you are smart; name the hand that holds the bone this time.'"
     }
    ],
    "id": "p016"
@@ -343,7 +303,11 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "\"What is to be done?\" asked the bear."
+     "source": "\"The Beaver said: 'It's in your right hand."
+    },
+    {
+     "id": "p017.s02",
+     "source": "I saw you put it there.'"
     }
    ],
    "id": "p017"
@@ -353,7 +317,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "\"Some one must go and see what has happened,\" replied the wolf."
+     "source": "\"OLD-man opened that hand right before the Beaver's eyes, but the bone wasn't there, and again everybody laughed—especially the Bear."
     }
    ],
    "id": "p018"
@@ -363,7 +327,11 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "\"Let the dormouse go,\" said the beaver, \"as he is the largest of us all.\""
+     "source": "\"'Now, you see,' said OLD-man, 'that this is not so easy as it looks, but I am going to teach you all to play the game; and when you have all learned it, you must play it until you find out who is the cleverest at the playing."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Whoever that is, he shall be chief under me, forever.'"
     }
    ],
    "id": "p019"
@@ -373,11 +341,23 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "In those days the dormouse was very large."
+     "source": "\"Some were awkward and said they didn't care much who was chief, but most all of them learned to play pretty well."
     },
     {
      "id": "p020.s02",
-     "source": "He looked like a mountain when he stood up."
+     "source": "First the Bear and the Beaver tried it, but the Beaver beat the Bear easily and held the bone for ever so long."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Finally the Buffalo beat the Beaver and started to play with the Mouse."
+    },
+    {
+     "id": "p020.s04",
+     "source": "Of course the Mouse had small hands and was quicker than the Buffalo—quicker to see the bone."
+    },
+    {
+     "id": "p020.s05",
+     "source": "The Buffalo tried hard for he didn't want the Mouse to be chief but it didn't do him any good; for the Mouse won in the end."
     }
    ],
    "id": "p020"
@@ -387,15 +367,11 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "\"Yes,\" said the wolf, \"let the dormouse go."
+     "source": "\"It was a fair game and the Mouse was chief under the agreement."
     },
     {
      "id": "p021.s02",
-     "source": "He is proud of his size and his strength."
-    },
-    {
-     "id": "p021.s03",
-     "source": "Let him show us what he can do when there is danger before him.\""
+     "source": "He looked quite small among the rest but he walked right out to the centre of the council and said:"
     }
    ],
    "id": "p021"
@@ -405,7 +381,35 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "They all looked around for the dormouse, but there was no sign of him."
+     "source": "\"'Listen, brothers—what is mine to keep is mine to give away."
+    },
+    {
+     "id": "p022.s02",
+     "source": "I am too small to be your chief and I know it."
+    },
+    {
+     "id": "p022.s03",
+     "source": "I am not warlike."
+    },
+    {
+     "id": "p022.s04",
+     "source": "I want to live in peace with my wife and family."
+    },
+    {
+     "id": "p022.s05",
+     "source": "I know nothing of war."
+    },
+    {
+     "id": "p022.s06",
+     "source": "I get my living easily."
+    },
+    {
+     "id": "p022.s07",
+     "source": "I don't like to have enemies."
+    },
+    {
+     "id": "p022.s08",
+     "source": "I am going to give my right to be chief to the man that OLD-man has made like himself.'"
     }
    ],
    "id": "p022"
@@ -415,11 +419,15 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "\"He thinks that we shall send him to find the sun,\" said the fox."
+     "source": "\"That settled it."
     },
     {
      "id": "p023.s02",
-     "source": "\"He is afraid and has hidden himself.\""
+     "source": "That made the man chief forever, and that is why he is greater than the animals and the birds."
+    },
+    {
+     "id": "p023.s03",
+     "source": "That is why we never kill the Mice-people."
     }
    ],
    "id": "p023"
@@ -429,19 +437,15 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "\"Not so,\" returned the beaver."
+     "source": "\"You saw the Mice run into the buffalo skull, of course."
     },
     {
      "id": "p024.s02",
-     "source": "\"The dormouse is not a coward."
+     "source": "There is where they have lived and brought up their families ever since the night the Mouse beat the Buffalo playing the bone game."
     },
     {
      "id": "p024.s03",
-     "source": "Let us call him."
-    },
-    {
-     "id": "p024.s04",
-     "source": "He cannot be far away.\""
+     "source": "Yes—the Mice-people always make their nests in the heads of the dead Buffalo-people, ever since that night."
     }
    ],
    "id": "p024"
@@ -451,11 +455,23 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "With that, they all began to call the dormouse."
+     "source": "\"Our people play the same game, even today."
     },
     {
      "id": "p025.s02",
-     "source": "In a moment there was a crackling of branches and the sound of heavy footsteps, and a huge figure loomed up in the darkness."
+     "source": "See,\" and War Eagle took from his paint sack a small, polished bone."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Then he sang just as OLD-man did so long ago."
+    },
+    {
+     "id": "p025.s04",
+     "source": "He let the children try to guess the hand that held the bone, as the animal-people did that fateful night; but, like the animals, they always guessed wrong."
+    },
+    {
+     "id": "p025.s05",
+     "source": "Laughingly War Eagle said:"
     }
    ],
    "id": "p025"
@@ -465,86 +481,14 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "\"Brother dormouse,\" said the fox, \"you are so brave that we have chosen you to go in search of the sun."
+     "source": "\"Now go to your beds and come to see me to-morrow night."
     },
     {
      "id": "p026.s02",
-     "source": "What is your answer?\""
+     "source": "Ho!\""
     }
    ],
    "id": "p026"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p027.s01",
-     "source": "\"I am quite ready to go,\" replied the dormouse, \"and if I cannot find the sun and send it to you, I shall not return myself.\""
-    }
-   ],
-   "id": "p027"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p028.s01",
-     "source": "At once the dormouse started towards the sun."
-    },
-    {
-     "id": "p028.s02",
-     "source": "As he came close to it, the hot rays began to burn his back, but he kept on, and began to chew the cords, which bound it."
-    },
-    {
-     "id": "p028.s03",
-     "source": "In a few minutes the top of his back was a heap of ashes, and he felt himself shrivelling with the heat."
-    },
-    {
-     "id": "p028.s04",
-     "source": "He kept on bravely, and at last the cords were sundered and the sun free."
-    },
-    {
-     "id": "p028.s05",
-     "source": "But by this time the dormouse was a very small animal, and has remained so ever since."
-    }
-   ],
-   "id": "p028"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p029.s01",
-     "source": "All this time the brother, who was lying hidden, had been watching what was happening."
-    },
-    {
-     "id": "p029.s02",
-     "source": "As the dormouse began to smoke, he grew a little frightened, and when it began to shrivel he was terrified."
-    },
-    {
-     "id": "p029.s03",
-     "source": "All he wished for was to escape from this glaring sun, which surely would quickly consume him too."
-    }
-   ],
-   "id": "p029"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p030.s01",
-     "source": "Lying flat on the ground, he wriggled through the bushes for a long distance along the bank."
-    },
-    {
-     "id": "p030.s02",
-     "source": "Reaching the plain, he made a dash for home."
-    },
-    {
-     "id": "p030.s03",
-     "source": "His face and arms were scratched and bleeding, and when he told his sister what had happened, she was grieved to think that she had made the snare which had brought so much sorrow to the innocent dormouse."
-    }
-   ],
-   "id": "p030"
   }
  ]
 }

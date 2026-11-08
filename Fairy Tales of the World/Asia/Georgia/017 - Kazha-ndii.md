@@ -4,7 +4,7 @@
 - **Source book:** *Georgian Folk Tales*
 - **Author / collector / translator:** Wardrop, Marjory Scott (translator, d. 1909)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #44536 — https://www.gutenberg.org/ebooks/44536 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #44536 — https://www.gutenberg.org/ebooks/44536
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

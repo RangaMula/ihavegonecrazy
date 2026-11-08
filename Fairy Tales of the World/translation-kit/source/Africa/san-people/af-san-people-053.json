@@ -2,20 +2,20 @@
  "id": "af-san-people-053",
  "title": {
   "id": "title",
-  "source": "Mierkatte en Erdmannetjies"
+  "source": "„Die Dieredans” deur Boesmans uitgevoer"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
  "source_book": "Boesman-Stories. Deel 2, Dierstories en ander verhale",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/053 - Mierkatte en Erdmannetjies.md",
+ "markdown_file": "Africa/San people/053 - „Die Dieredans” deur Boesmans uitgevoer.md",
  "stats": {
-  "paragraphs": 24,
-  "segments": 70,
-  "words": 1341
+  "paragraphs": 79,
+  "segments": 110,
+  "words": 852
  },
  "paragraphs": [
   {
@@ -23,25 +23,53 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "OPMERKINGS:—In hierdie storie word ons iets oor die lewenswyse van mierkatte en erdmannetjies vertel."
+     "source": "OPMERKINGS:—Hierdie storie stel voor die wyse waarop Boesmans die diere in hulle danse namaak en naboots; want die Boesman is ’n uitstekende klugspeler, en ’n nabootser soos ons min sal kry."
     },
     {
      "id": "p001.s02",
-     "source": "Die erdmannetjie is die waaierstertmierkat, wat niks anders is nie as ’n eekhorinkie wat in die grond saam met mierkatte woon."
+     "source": "Een aand moes ons met ons vader in die veld naby Katkop aan Sakrivier, Calvinia, vernag. ’n Paar honderd tree van ons uitspanplek af was Boesmans (wat dié dag ’n goeie jag gemaak het) besig om te braai en te dans. ’n Ou vrind wat met die Boesman-taal en -gewoontes goed bekend was, stap mee."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Ná hy aan ieder ’n pruimpie tabak gegee het, vra hy die Boesmans om die dans van die diere uit te voer."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Onder die verrigtings kon hy ons die nodige inligtings gee."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Verder in dieselfde jaar, op Vryegans, Agter-Pêrel, het ’n Boesman, Hans, met ons saam vee opgepas."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Van elf- tot drie-uur in die dag staan die vee onder die eikebome, daar die blindevlieë en muggies hul so pla; dan het ons wagtertjies baie tyd om te speel, en Hans het ook oorgenoeg tyd om sy stories te vertel, sy klugspele uit te voer en te dans."
+    },
+    {
+     "id": "p001.s07",
+     "source": "Sy beloning is: ons oorskietkos en koffie."
+    },
+    {
+     "id": "p001.s08",
+     "source": "So het baie van daardie deuntjies en woorde van die riele ons bygebly, wat ons ook later aangeteken het."
+    },
+    {
+     "id": "p001.s09",
+     "source": "Byna al die diere kom aan die beurt; dog ons gee slegs enige, om sodoende die leser nie te verveel nie."
+    },
+    {
+     "id": "p001.s10",
+     "source": "Toe ons ’n kind was, was ons nogal ’n taamlike ekspert om riele uit te kerf."
     }
    ],
    "id": "p001"
   },
   {
-   "type": "prose",
+   "type": "heading",
    "segments": [
     {
      "id": "p002.s01",
-     "source": "D aar was ’n droogte wat strawwer en strawwer geword het; die waters gee op, en die wild trek weg."
-    },
-    {
-     "id": "p002.s02",
-     "source": "So moes die Boesmans en diere ook maar volg—almal in die koers van die wild."
+     "source": "Die Kameel se Dans"
     }
    ],
    "id": "p002"
@@ -51,19 +79,19 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Twee huisgesinne van Boesmans het saamgetrek."
+     "source": "Hier word natuurlik die kameelperd bedoel, wat die geleerdes giraf noem."
     },
     {
      "id": "p003.s02",
-     "source": "Op pad het hul dit met kos en water baie swaar gekry, en hulle kinders huil net gedurig oor kos en water."
+     "source": "Baie van die reëls en parte word oor en oor herhaal, daar Boesman-gedigte nie ’n groot verskeidenheid oplewer nie."
     },
     {
      "id": "p003.s03",
-     "source": "Dit het die ouers hulle harte net seer laat voel, sodat hul soms saam met hulle kinders wou huil."
+     "source": "Die nabootsings is moeilik op papier terug te gee."
     },
     {
      "id": "p003.s04",
-     "source": "Hier en daar kry hul ’n veldkossie of tel ’n skilpad op of kry ’n nes van ’n lammervanger of kuikendief waarin òf eiers òf kleintjies is; ook moes hul soms muise en akkedisse vang om daarmee hulle kinders in lewe te hou."
+     "source": "Onder ramkie- en tamboerspel lui die dans as volg:—"
     }
    ],
    "id": "p003"
@@ -73,11 +101,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Maar hoe omtrent water?"
+     "source": "Boem, boem, boem!"
     },
     {
      "id": "p004.s02",
-     "source": "Dit was hulle doodsteek!"
+     "source": "Ting, ting, ting!"
     }
    ],
    "id": "p004"
@@ -87,11 +115,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Een aand toe die kinders al van dors wou sterwe en hul algar met hulle koppe op die grond radeloos lê, hoor die een ou Boesman vir Groot-Waterslang onder die grond kruip."
+     "source": "Daar kom hy aan!"
     },
     {
      "id": "p005.s02",
-     "source": "Dis die groot slang met die skitterende steen op sy kop, wat vir die Boesmans water in die dor streke maak."
+     "source": "Daar kom hy aan!"
     }
    ],
    "id": "p005"
@@ -101,11 +129,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Die ou man begin met Waterslang te praat; hy strooi gemaalde boegoe op die grond dat die slang kan ruik en moet weet dat hy water moet kom maak of aanwys."
-    },
-    {
-     "id": "p006.s02",
-     "source": "Hy het die slang geprys, toe weer mooi gepraat, totdat die slang onder die grond antwoord gee en sê dat as dit in die oggend lig word, sal hy vir die Boesmans kos en water hê."
+     "source": "Kop in die lug, stert na die grond."
     }
    ],
    "id": "p006"
@@ -115,15 +139,11 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Die treurige nag het swaar verbygegaan."
+     "source": "Boem, boem, boem!"
     },
     {
      "id": "p007.s02",
-     "source": "Eindelik breek die dag, en die slang onder die grond roep uit: „Stap na daardie bome waar daardie groot rotse is; daar op daardie plat klipplaat is ’n baie diep gat water, wat nooit leeg word nie."
-    },
-    {
-     "id": "p007.s03",
-     "source": "Neem julle boë saam en julle sal daar iets te skiet kry.”"
+     "source": "Ting, ting, ting!"
     }
    ],
    "id": "p007"
@@ -133,19 +153,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Die mans, ewe bly, gryp die leë volstruiseierdoppe; ook neem hul hulle boë en pylkokers mee."
-    },
-    {
-     "id": "p008.s02",
-     "source": "By die water kry hul vir jakkals met sy vrou en kinders."
-    },
-    {
-     "id": "p008.s03",
-     "source": "Hy hol lafhartig weg, dog die Boesmans skiet sy vrou en al sy kinders dood."
-    },
-    {
-     "id": "p008.s04",
-     "source": "Toe drink hul en maak die leë eierdoppe vol om dié aan hulle vroue en kinders te bring."
+     "source": "Hier kom hy aan, hier kom hy aan!"
     }
    ],
    "id": "p008"
@@ -155,23 +163,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Dit was nie eens nodig nie, want by hierdie tyd kom die meide met die kinders aangestap."
-    },
-    {
-     "id": "p009.s02",
-     "source": "Hulle drink en drink asof hul nooit kan klaarkry nie."
-    },
-    {
-     "id": "p009.s03",
-     "source": "Ná die dors verslaan was, maak hul vuur en begin somar al die vleis van die jakkalse te braai; en op hierdie manier stil hul ook die groot honger van hulle en van die kinders."
-    },
-    {
-     "id": "p009.s04",
-     "source": "Toe haal hul die hongergordels, of hongerbande, van hulle lywe af en voel toe of hul nou lekkerder kon asem skep."
-    },
-    {
-     "id": "p009.s05",
-     "source": "Van die jakkalsies hulle velle word toe kinderkarossies gemaak."
+     "source": "O hy—stap so wyd, hy vat sy tyd!"
     }
    ],
    "id": "p009"
@@ -181,19 +173,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Jakkals, natuurlik, voel bedroef oor sy vrou en kinders wat dood is en wat die Boesmans nou sit en braai."
-    },
-    {
-     "id": "p010.s02",
-     "source": "Hy kry die ruik van hulle gebraaide vleis, en hy sit op veilige afstand bitter te tjank."
-    },
-    {
-     "id": "p010.s03",
-     "source": "Intussen roep hy uit: „Pas maar op vir julle kinders!"
-    },
-    {
-     "id": "p010.s04",
-     "source": "As ekke wat Jakkals is, hulle in die hande kry, dan sal ek hul wys hoe dood lyk.”"
+     "source": "O hy—stap so wyd, hy vat sy tyd!"
     }
    ],
    "id": "p010"
@@ -203,7 +183,7 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Die ou Boesman roep terug: „Solank ekke wat Boesman is, lewe, sal jy wat Jakkals is, vir hulle nie in hande kry nie—dit beloof ek jou!”"
+     "source": "en stap so wyd en vat sy tyd! ens. , ens."
     }
    ],
    "id": "p011"
@@ -213,19 +193,7 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Waarop Jakkals teëwerp: „’n Dag is ’n dag dat ekke hulle in hande sal kry!"
-    },
-    {
-     "id": "p012.s02",
-     "source": "En dan sal hulle dit gewaar!”"
-    },
-    {
-     "id": "p012.s03",
-     "source": "En hy tjank en huil weer bedroef."
-    },
-    {
-     "id": "p012.s04",
-     "source": "Om nog veiliger te wees, draf hy weg na die randjies se kant toe en gaan daar muise vang."
+     "source": "Nou dans hul dat die stof so trek."
     }
    ],
    "id": "p012"
@@ -235,11 +203,11 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Nou sien die Boesmans daar naby die nes van ’n lammervanger (voël)."
+     "source": "Boem, boem, boem!"
     },
     {
      "id": "p013.s02",
-     "source": "Hulle gaan die kleintjies, wat al vol vere was, uithaal; en hul braai dié ook vir hulle kinders."
+     "source": "Ting, ting, ting!"
     }
    ],
    "id": "p013"
@@ -249,11 +217,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Lammervanger—net soos Jakkals—voel bedroef en huil oor die kinders en roep ook uit: „Pas op vir julle kinders!"
+     "source": "Daar kom hy aan!"
     },
     {
      "id": "p014.s02",
-     "source": "Waar ek hul kry, daar sal dit nie goed met hulle afloop nie!”"
+     "source": "Daar kom hy aan!"
     }
    ],
    "id": "p014"
@@ -263,7 +231,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Andermaal roep die Boesman terug: „Solank as ekke wat Boesman is, nog lewe, sal jy wat Lammervanger is, vir hulle nie in hande kry nie!”"
+     "source": "Hy spalk sy been, hy staan nou drink."
     }
    ],
    "id": "p015"
@@ -273,11 +241,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Lammervanger gebruik dieselfde woorde as Jakkals en werp teë: „’n Dag is ’n dag dat ons ontmoet."
+     "source": "Boem, boem, boem!"
     },
     {
      "id": "p016.s02",
-     "source": "Pas maar op soos jy wil!”"
+     "source": "Ting, ting, ting!"
     }
    ],
    "id": "p016"
@@ -287,11 +255,7 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Daar die Boesmans moeg was en nou vereers genoeg kos en water gekry het, besluit hul om daar op die plek enige dae oor te bly om die water op te pas en om te kyk of daar nie wild sal kom drink nie."
-    },
-    {
-     "id": "p017.s02",
-     "source": "Dan kan hul daardie wild ook skiet."
+     "source": "Hier kom hy aan, hier kom hy aan!"
     }
    ],
    "id": "p017"
@@ -301,15 +265,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Daar het genoeg wild gekom, want Waterslang het mooi vir sy mense gesorg."
-    },
-    {
-     "id": "p018.s02",
-     "source": "En daarby het hy hul vertrou ."
-    },
-    {
-     "id": "p018.s03",
-     "source": "As hy êrens gaan wei, steek hy die blinksteen wat op sy kop is, sorgvuldig weg eer hy veld-toe gaan."
+     "source": "Hy trap—een poot hier en een poot daar!"
     }
    ],
    "id": "p018"
@@ -319,15 +275,7 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Nou, as iemand in besit is van so ’n steen, is hy vir altyd gelukkig; daarom kom daar ontroue gedagtes by die Boesmans op, en hulle maak plan om hulle weldoener van sy kroon te ontroof."
-    },
-    {
-     "id": "p019.s02",
-     "source": "Hulle loer toe die groot slang af om te sien waar hy die skitterende steen wegsteek."
-    },
-    {
-     "id": "p019.s03",
-     "source": "Toe hy vèr in die veld was, neem hul die steen, en hulle algar vlug daarmee ver weg."
+     "source": "Hy trap—een poot hier en een poot daar!"
     }
    ],
    "id": "p019"
@@ -337,15 +285,7 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "Toe die slang terugkom, soek hy na die steen, maar kon dit nie vind nie."
-    },
-    {
-     "id": "p020.s02",
-     "source": "Dog Lammervanger, wat al die tyd in die boom gesit het, het gesien dat die Boesmans die steen gesteel het en daarmee gevlug het."
-    },
-    {
-     "id": "p020.s03",
-     "source": "En hy vertel dit aan die groot slang."
+     "source": "met een poot hier en een poot daar! ens. , ens."
     }
    ],
    "id": "p020"
@@ -355,37 +295,17 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "Net toe kom daar leeus water drink, en die slang vra vir die leeus om die Boesmans te agtervolg en hul dan dood te byt."
+     "source": "Nou steun hul soos hul dans."
     }
    ],
    "id": "p021"
   },
   {
-   "type": "prose",
+   "type": "heading",
    "segments": [
     {
      "id": "p022.s01",
-     "source": "Die leeus was dadelik gewillig uit erkentlikheid dat die slang vir hulle water gemaak het; en ook, hulle het net lus vir Boesman-vleis gehad."
-    },
-    {
-     "id": "p022.s02",
-     "source": "Hulle vat die spore, loop vinnig en vind die Boesmans aan slaap."
-    },
-    {
-     "id": "p022.s03",
-     "source": "Hulle byt die grotes dood, en die kinders vlug in nou gate, waar die leeus hul nie kan bykom nie."
-    },
-    {
-     "id": "p022.s04",
-     "source": "Hulle eet toe die oues op; dog die kinders bly in die gate."
-    },
-    {
-     "id": "p022.s05",
-     "source": "Die slang kom toe daar en was weer baie bly om sy gewaardeerde steen terug te kry."
-    },
-    {
-     "id": "p022.s06",
-     "source": "Hy het geweet die kinders was onskuldig, so doen hy aan hul niks nie."
+     "source": "Die Springbok se Dans"
     }
    ],
    "id": "p022"
@@ -395,15 +315,7 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Dog Jakkals en Lammervanger het anders gedink en het hul voorgeneem om wraak uit te oefen, so het Lammervanger oordags en Jakkals snags die kinders opgepas."
-    },
-    {
-     "id": "p023.s02",
-     "source": "Om hierdie rede het die arme goedjies ’n baie ongeruste lewe gely."
-    },
-    {
-     "id": "p023.s03",
-     "source": "Die kinders wat karossies van wildvelle gehad het, het mierkatjies geword; en dié wat karossies van die jong jakkalsies se velletjies gehad het, het erdmannetjies geword; dog hulle het altyd saam in dieselfde gate gewoon."
+     "source": "Met die uitvoer van hierdie dans word gepronk en getrippel nes ’n springbok."
     }
    ],
    "id": "p023"
@@ -413,34 +325,612 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "Soggens, as die son uitkom, dan steek eers een sy koppie by die gat uit om te kyk of hy nie dalkies vir Jakkals of vir Lammervanger sien nie."
-    },
-    {
-     "id": "p024.s02",
-     "source": "Gewaar hy niks nie, dan kruip hy uit die gat en gaan daar penorent regop in die son sit om hom eers warm te maak."
-    },
-    {
-     "id": "p024.s03",
-     "source": "Dan roep hy die ander en sê vir hulle dat dit veilig is en dat hul gerus maar kan uitkom."
-    },
-    {
-     "id": "p024.s04",
-     "source": "Die ander kom dan ook kersregop in die sonnetjie sit."
-    },
-    {
-     "id": "p024.s05",
-     "source": "Daar gesels hul nou oor wat hul gaan doen."
-    },
-    {
-     "id": "p024.s06",
-     "source": "Wei-wei stap hul van die gate veld se kant toe."
-    },
-    {
-     "id": "p024.s07",
-     "source": "Vuur kan hul nie maak nie, daarom sit hul in die sonskyn; water drink hul nie meer nie—om die waarheid te sê, hulle durf nie so ver stap nie; daarom moet hul maar die doutjies van die plante aflek, en verder grawe hul sapperige wortels en plante en soek goggas om te eet; want hulle ouers, wat eers vir hulle rysmiere gegrawe het en wat vir hulle vuur gemaak het, is nou dood en deur die leeus opgeëet en kan dus vir hul teen aanvalle nie meer beskerm nie."
+     "source": "Hy trippel bietjie saggies; hy trippel bietjie saggies."
     }
    ],
    "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Daar wip hy!"
+    },
+    {
+     "id": "p025.s02",
+     "source": "Hy wip so!"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Hy trippel bietjie saggies; hy trippel bietjie saggies."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Daar wip hy!"
+    },
+    {
+     "id": "p027.s02",
+     "source": "Hy wip so!"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Kom trippel nou so, kom trippel nou so!"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Trippel, trippel, trippel nou so!"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Trippel, trippel, trippel nou so! ens. , ens."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Daar wip hy!"
+    },
+    {
+     "id": "p031.s02",
+     "source": "Hy wip so!"
+    },
+    {
+     "id": "p031.s03",
+     "source": "Hy wip so!"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Hy skoffel baie saggies; hy skoffel baie saggies."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Daar spring hy!"
+    },
+    {
+     "id": "p033.s02",
+     "source": "Hy spring so!"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Hy skoffel baie saggies, hy skoffel baie saggies."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Daar spring hy!"
+    },
+    {
+     "id": "p035.s02",
+     "source": "Hy spring so!"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Kom skoffel nou so, kom skoffel nou so!"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Skoffel, skoffel, skoffel nou so!"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Skoffel, skoffel, skoffel nou so! ens. , ens."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Daar spring hy!"
+    },
+    {
+     "id": "p039.s02",
+     "source": "(Klop) Askoek af, askoek af!"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Die Kwagga se Dans"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "D ie kwagga hier bedoel, is wat die geleerdes sebra noem; so word van die gestreepte kwagga en die vaal kwagga gepraat."
+    },
+    {
+     "id": "p041.s02",
+     "source": "Hierdie riel is ongeveer dieselfde as „Die Witpens-os” van die Hottentots—in ieder geval, die musiek verskil min."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "Die bont-streepperd, die bont-streepperd!"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "Sy nek die krul, sy hurke dril."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "Die bont-streepperd, die bont-streepperd!"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "Sy voorpoot buig, sy ore klap;"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "Hy skop sy stert, hy roggel só:"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "Roggo! roggo, roggo, roggo!"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "Roggo! roggo, roggo, roggo! ens. , ens."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "Die wit-streepperd, die swart-streepperd!"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "Hy wei op gras, hy drink sy taks."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "Die wit-streepperd, die swart-streepperd!"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "Hy byt na grond, hy skop die son:"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "Poeko! poeko, poeko, poeko! ens. , ens."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "Die kuifkop-perd, die kuifkop-perd!"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "Sy poot is rond, sy klou die klop."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "Die streepkop-perd, die streepkop-perd!"
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "Hy kap te net, hy draf te mooi:"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "Poeko! poeko, poeko, poeko! ens. , ens."
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "Die Toktokkie se Dans"
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "Die toktokkie is ’n gogga wat baie op ’n miskruier lyk; maar sy agterlyf is swaarder en ronder."
+    },
+    {
+     "id": "p060.s02",
+     "source": "Waar hy loop, klop hy op die grond en maak ’n tok-tok geraas—vandaar die naam."
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "Hy soek na sy vrou"
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "En soek na sy kind;"
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "Hy soek na sy kos,"
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "En sy water is op."
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "Hy tok-tok, hy tok-tok,"
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "Hy tok-tok, hy tok-tok."
+    },
+    {
+     "id": "p066.s02",
+     "source": "Ens. , ens."
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "Hy soek na sy vrou"
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "En soek na sy kind."
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "Hy tok-tok, hy tok-tok ."
+    },
+    {
+     "id": "p069.s02",
+     "source": "Ens. , ens."
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "Hy klop met sy lyf"
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "En hoor met sy oor."
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "Hy soek na sy vrou"
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "En soek na sy kind."
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "Hy tok-tok, hy tok-tok."
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "Hy tok-tok, hy tok-tok."
+    },
+    {
+     "id": "p075.s02",
+     "source": "Ens. , ens."
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "Hy soek na sy kos,"
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "En sy water is op."
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "Hy tok-tok, hy tok-tok."
+    }
+   ],
+   "id": "p078"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p079.s01",
+     "source": "Hy tok-tok, hy tok-tok."
+    },
+    {
+     "id": "p079.s02",
+     "source": "Ens. , ens."
+    }
+   ],
+   "id": "p079"
   }
  ]
 }

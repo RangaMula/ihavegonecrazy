@@ -1,0 +1,946 @@
+{
+ "id": "am-brazil-001",
+ "title": {
+  "id": "title",
+  "source": "O Negrinho Do Pastoreio"
+ },
+ "tradition": "Brazil",
+ "continent": "Americas",
+ "source_lang": "pt",
+ "source_book": "Lendas do sul",
+ "credits": "Lopes Neto, J. Simões (João Simões) (author, d. 1916)",
+ "gutenberg": "Project Gutenberg eBook #2837 — https://www.gutenberg.org/ebooks/2837",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Brazil/001 - O Negrinho Do Pastoreio.md",
+ "stats": {
+  "paragraphs": 74,
+  "segments": 120,
+  "words": 2212
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Naquele tempo os campos ainda eram abertos, não havia entre eles nem divisas nem cercas; somente numas volteadas se apanhava uma gadaria chucra e os veados e as avestruzes corriam sem empecilhos…"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Era uma vez um estancieiro, que tinha uma ponta de surrões cheios de onças e meias doblas e mais muita prataria; porém era muito cauíla e muito mau, muito."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Não dava posada a ninguém, não emprestava um cavalo a um andante; no inverno o fogo de sua casa não fazia brasas, as geadas e o minuano, podiam entanguir gente, que a sua porta não se abria; no verão a sombra dos seus umbus só abrigava os cachorros; e ninguém de fora bebia água das suas cacimbas."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Mas também quando tinha serviço na estância, ninguém vinha de boa vontade dar-lhe um ajutório; e a campeirada folheira não gostava de conchavar-se com ele, porque só dava para comer um churrasco de tourito magro, farinha grossa e erva caúna e nem um naco de fumo… e tudo, debaixo de tanta somiticaria e choradeira que parecia que era o seu próprio couro que ele estava lonqueando…"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Só para três viventes ele olhava nos olhos: era para o filho, menino cargoso como uma mosca, para um baio de cabos negros, que era o seu parelheiro de confiança, e para um escravo, pequeno ainda, muito bonitinho e preto como carvão e a quem todos chamavam somente o —Negrinho."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "A este não deram padrinhos nem nome; por isso o Negrinho se dizia afilhado da Virgem, Senhora nossa, que é a madrinha de quem não a tem."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Todas as madrugadas o Negrinho galopeava parelheiro; depois conduzia aos avios do chimarrão e à tarde sofria os maus tratos do menino, que o judiava e se ria."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "***"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Um dia, depois de muitas negaças, o estancieiro atou carreia com um seu vizinho."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Este queria que a parada fosse para os pobres; o outro que não, que não! que a parada devia ser do dono do cavalo que ganhasse."
+    },
+    {
+     "id": "p009.s03",
+     "source": "E trataram: o tiro era trinta quadras, a parada, mil onças de ouro."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "No dia aprazado, na cancha da carreira havia gente como em festa de santo grande."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Entre os dois parelheiros a gauchada não sabia se decidir, tão perfeito era e bem balançado cada um dos animais."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Do baio era fama que quando corria, corria tanto, que o vento assobiava-lhe nas crinas; tanto, que só se ouvia o barulho, mas não se lhe viam as patas baterem no chão…"
+    },
+    {
+     "id": "p011.s03",
+     "source": "E do mouro era voz que quanto mais cancha, mais agüente, e que desde a largada ele ia ser como um laço que se arrebenta…"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "As parcerias abriram as guaiacas, e aí no mais já se apostavam aperos contra rebanhos e redomões contra lenços."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "— Pelo baio!"
+    },
+    {
+     "id": "p013.s02",
+     "source": "Luz e doble!…"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "— Pelo mouro!"
+    },
+    {
+     "id": "p014.s02",
+     "source": "Doble e luz!…"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Os corredores fizeram suas partidas à vontade e depois as obrigadas; e quando foi a última na última, fizeram ambos sua senha e se convidaram."
+    },
+    {
+     "id": "p015.s02",
+     "source": "E amagando o corpo, de rebenque no ar, largaram, os parelheiros menando cascos, que parecia uma tormenta…"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "— Empate!"
+    },
+    {
+     "id": "p016.s02",
+     "source": "Empate! gritavam os aficionados ao longo da cancha por onde passava a parelha veloz, compassada como n’uma colhéra."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "— Valha-me a Virgem madrinha, Nossa Senhora! gemia o Negrinho."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Se o sete léguas perde meu senhor me mata!"
+    },
+    {
+     "id": "p017.s03",
+     "source": "Hip! hip! hip!…"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "E baixava o rebenque, cobrindo a marca do baio."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "—Se o corta-vento ganhar é só para os pobres! retrucava o outro corredor."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Hip! hip!"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "E cerrava as esporas no mouro."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Mas os fletes corriam compassados como numa colhéra."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Quando foi na última quadra, o mouro vinha arrematado e baio vinha aos tirões… mas sempre juntos, sempre emparelhados."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "E a duas braças da raia, quase em cima do laço, o baio assentou de sopetão, pôs-se em pé e fez uma cara-volta,, de modo que deu ao mouro tempo mais que preciso para passar, ganhando de luz aberta!"
+    },
+    {
+     "id": "p022.s02",
+     "source": "E o Negrinho, de em pelo, agarrou-se como um ginataço."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "—Foi mal jogo! gritava o estancieiro"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "—Mau jogo! secundavam os outros da sua parceria."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "A gauchada estava dividida: mais de um toreana coçou o punho da adaga, mais de desapresilhou a pistola, mais de um virou as esporas para o peito do pé…"
+    },
+    {
+     "id": "p025.s02",
+     "source": "Mas o juiz, que era um velho do tempo da guerra de Sapé-Tiaraiú, era um juiz macanudo, que já tinha visto muito mundo."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Abanado a cabeça branca sentenciou, para todos ouvirem."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "—Foi na lei!"
+    },
+    {
+     "id": "p026.s02",
+     "source": "A carreira é de parada morta; perdeu o cavalo baio, ganhou o cavalo mouro."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Quem perdeu, que pague."
+    },
+    {
+     "id": "p026.s04",
+     "source": "Eu perdi cem gateadas; quem as ganhou venha buscá-las."
+    },
+    {
+     "id": "p026.s05",
+     "source": "Foi na lei!"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Não havia o que alegar."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Despeitado e furioso o estancieiro pagou a parada, à vista de todos atirando as mil onças de ouro sobre o poncho do seu contrário, estendido no chão."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "E foi um alegrão por aqueles pagos, porque logo o ganhador mandou distribuir tambeiros e leiteiras, covados de baetas e baguais e deu de resto, de mota, ao pobrerio."
+    },
+    {
+     "id": "p028.s02",
+     "source": "Depois as carreiras seguiram com os changueiros que havia."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "***"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "O estancieiro retirou-se para sua pobre casa e veio pensando, pensando, calado, em todo caminho."
+    },
+    {
+     "id": "p030.s02",
+     "source": "A cara dele vinha lisa, mas o coração vinha corcoveando como touro de banhado laçado e meia espalda…"
+    },
+    {
+     "id": "p030.s03",
+     "source": "O trompaço das mil onças tinha-lhe arrebentado a alma."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "E conforme apeou-se, da mesma vereda mandou amarrar o Negrinho pelos pulsos a um palanque e dar-lhe, dar-lhe uma surra de relho."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Na madrugada saiu com ele e quando chegou no alto da coxilha falou assim:"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "— Trinta quadras tinha a cancha da carreira que tu perdeste: trinta dias ficarás aqui pastoreando a minha tropilha de tordilhos negros…"
+    },
+    {
+     "id": "p033.s02",
+     "source": "O baio fica de piquete na soga e tu ficarás de estaca!"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "O Negrinho começou a chorar, enquanto os cavalos iam pastando."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Veio o sol, veio o vento, veio a chuva, veio a noite."
+    },
+    {
+     "id": "p035.s02",
+     "source": "O Negrinho, varado de fome e já sem força nas mãos, enleiou a soga num pulso e deitou-se encostado a cupim."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Vieram então as corujas e fizeram roda, voando, paradas no ar e todas olhavam-no com os olhos reluzentes, amarelos na escuridão."
+    },
+    {
+     "id": "p036.s02",
+     "source": "E uma piou e todas piaram, como rindo-se dele, paradas no ar, sem barulho nas asas."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "O Negrinho tremia, de medo… porém de repente pensou na sua madrinha Nossa Senhora e sossegou e dormiu."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "E dormiu."
+    },
+    {
+     "id": "p038.s02",
+     "source": "Era já tarde da noite, iam passando as estrelas; o Cruzeiro apareceu, subiu e passou; passaram as Três Marias; a estrela d’alva subiu…"
+    },
+    {
+     "id": "p038.s03",
+     "source": "Então vieram os guaraxains ladrões e farejaram o Negrinho, e cortaram a guasca da soga."
+    },
+    {
+     "id": "p038.s04",
+     "source": "O baio sentindo- se solto rufou a galope, e toda tropilha com ele, escaramuçando no escuro e desaguaritando-se nas canhadas."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "O tropel acordou o Negrinho; os guaraxains fugiram, dando berros de escárnio."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Os galos estavam cantando, mas nem o céu nem as barras do dia se enxergava: era a cerração que tapava tudo."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "E assim o Negrinho perdeu o pastoreio."
+    },
+    {
+     "id": "p041.s02",
+     "source": "E chorou."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "***"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "O menino malévola foi lá e veio dizer ao pai que os cavalos não estavam."
+    },
+    {
+     "id": "p043.s02",
+     "source": "O estancieiro mandou outra vez amarrar o Negrinho pelos pulsos a um palanque e dar-lhe uma surra de relho."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "E quando era já noite fechada ordenou-lhe que fosse campear o perdido."
+    },
+    {
+     "id": "p044.s02",
+     "source": "Regulando, chorando e gemendo, o Negrinho pensou na sua madrinha Nossa Senhora e foi ao oratório da casa, tomou o coto de vela aceso em frente da imagem e saiu para o campo."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "Por coxilhas e canhadas, na beira dos lagoões, nos paradeiros e nas restingas, por onde o Negrinho ia passando, a vela benta ia pingando cera benta no chão: e de cada pingo nascia uma nova luz, e já eram tantas que clareavam a terra e as manadas chucras não disparavam…"
+    },
+    {
+     "id": "p045.s02",
+     "source": "Quando os galos estavam cantando, como na véspera, os cavalos relincharam todos juntos."
+    },
+    {
+     "id": "p045.s03",
+     "source": "O Negrinho montou no baio e tocou por diante a tropilha, até coxilha que o seu senhor lhe marcara."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "E assim o Negrinho achou o pastoreio."
+    },
+    {
+     "id": "p046.s02",
+     "source": "E se riu…"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "Gemendo, gemendo, o Negrinho deitou-se encostado ao cupim e no mesmo instante apagaram-se as luzes todas; e sonhando com a Virgem, sua madrinha, o negrinho dormiu."
+    },
+    {
+     "id": "p047.s02",
+     "source": "E não apareceram nem as corujas agoureiras nem os guaraxains ladrões; porém pior do que os bichos maus, ao clarear o dia veio o menino, filho do estancieiro e enxotou os cavalos, que se dispersaram, disparando campo fora, retouçando e desguaritando-se nas canhadas."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "O tropel acordou o Negrinho e o menino maleva foi dizer ao seu pai que os cavalos não estavam lá…"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "E assim o Negrinho perdeu o pastoreio."
+    },
+    {
+     "id": "p049.s02",
+     "source": "E chorou."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "***"
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "O estancieiro mandou outra vez amarrar o Negrinho pelos pulsos, a um palanque e dar-lhe, dar-lhe uma surra de relho… dar-lhe até ele não mais chorar nem bulir, com as carnes recortadas, o sangue vivo escorrendo do corpo…"
+    },
+    {
+     "id": "p051.s02",
+     "source": "O Negrinho chamou pela Virgem sua madrinha e Nossa Senhora, deu um suspiro triste, que chorou no ar como uma música, e pareceu que morreu…"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "E como já e para não gastar a enxada em fazer uma cova, o estancieiro mandou atirar o corpo do Negrinho na panela de um formigueiro, que era para as formigas devorarem-lhe a carne e o sangue e os ossos…"
+    },
+    {
+     "id": "p052.s02",
+     "source": "E assanhou bem as formigas; e quando elas, raivosas, cobriram todo o corpo do Negrinho e começaram a trincá-lo, é que então ele se foi embora, sem olhar para trás."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "Nessa noite o estancieiro sonhou que ele era ele mesmo, mil vezes e que tinha mil filhos e mil negrinhos, mil cavalos baios e mil vezes mil onças de ouro… e que tudo isto cabia folgado dentro de um formigueiro pequeno…"
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "Caiu a serenada silenciosa e molhou os pastos, as asas dos pássaros e a casca das frutas."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "Passou a noite de Deus e veio a manhã e o sol encoberto."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "E três dias houve cerração forte, e três noites o estancieiro teve o mesmo sonho."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "***"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "A peonada bateu o campo, porém ninguém achou a tropilha e nem rastro."
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "Então o senhor foi ao formigueiro, para ver o que restava do corpo escravo."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "Qual não foi o seu grande espanto, quando chagado perto, viu na boca do formigueiro o Negrinho de pé com a pele lisa, perfeita, sacudindo de si as formigas que o cobriam ainda!…"
+    },
+    {
+     "id": "p060.s02",
+     "source": "O Negrinho, de pé, e ali ao lado o cavalo baio e ali junto, a tropilha dos trinta cordilhos… e fazendo-lhe frente, de guarda ao mesquinho, o estancieiro viu a madrinha dos que não a tem, viu a Virgem, Nossa Senhora, tão serena, posada na terra, mas mostrando que estava no céu…"
+    },
+    {
+     "id": "p060.s03",
+     "source": "Quando tal viu, o senhor caiu de joelhos diante do escravo."
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "E o negrinho, sarado e risonho, pulando de em pelo e sem rédeas, no baio, chupou o beiço e tocou a tropilha a galope."
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "E assim o Negrinho pela última vez achou o pastoreio."
+    },
+    {
+     "id": "p062.s02",
+     "source": "E não chorou, e nem se riu."
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "***"
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "Correu no vizindário, a nova do fadário e da triste morte do Negrinho, devorado na panela do formigueiro."
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "Porém logo, de perto e de longe, de todos os rumos do vento, começaram a vir notícias de um caso que parecia um milagre novo…"
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "E era, que os posteiros e os andantes, os que dormiam sob as palhas dos ranchos e os que dormiam na cama das macegas, os chasques que cortavam por atalhos e os tropeiros que vinham pelas estradas, mascates e carreteiros, todos davam notícia — da mesma hora — de ter visto passar, como levada em pastoreio, uma tropilha de tordilhos, tocada por um Negrinho, gineteando de em pelo, em um cavalo baio!…"
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "Então, muitos acenderam velas e rezaram o Padre-nosso pela alma do judiado."
+    },
+    {
+     "id": "p067.s02",
+     "source": "Daí por diante, quando qualquer cristão perdia uma cousa, o que fosse, pela noite velha o Negrinho campeava e achava, mas só entregava a quem acendesse uma vela, cuja luz ele levava para pagar a do altar da sua madrinha, a Virgem, Nossa Senhora, que o remiu e salvou e deu-lhe uma tropilha, que ele conduz e pastoreia, sem ninguém ver."
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "***"
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "Todos os anos, durante três dias, o Negrinho desaparece: está metido em algum formigueiro grande, fazendo visita às formigas, suas amigas; a sua tropilha esparramava-se; e um aqui, outro por lá, os seus cavalos retouçam nas manadas das estâncias."
+    },
+    {
+     "id": "p069.s02",
+     "source": "Mas ao nascer do sol do terceiro dia, o baio relincha perto do seu ginete; o Negrinho monta-o e vai fazer a sua recolhida; é quando nas estâncias acontece a disparada das cavalhadas e a gente olha, olha, e não vê ninguém, nem na ponta, nem na culatra."
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "***"
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "Desde então e ainda hoje, conduzindo o seu pastoreio, o Negrinho, sarado e risonho, cruza os campos, corta os macegais, bandeia as restingas, desponta os banhados, vara os arroios, sobe as coxilhas e desce às canhadas."
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "O Negrinho anda sempre à procura dos objetos perdidos, pondo-os de jeito a serem achados pelos seus donos, quando estes acendem um coto de vela, cuja luz ele leva para o altar da Virgem Senhora, madrinha dos que não a têm."
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "Quem perder suas prendas nos campos, guarde a esperança: junto de algum moirão ou sob os ramos das árvores, acenda uma vela para o Negrinho do pastoreio e vá lhe dizendo — Foi por aí que eu perdi…"
+    },
+    {
+     "id": "p073.s02",
+     "source": "Foi por aí que eu perdi…"
+    },
+    {
+     "id": "p073.s03",
+     "source": "Foi por aí que eu perdi!…"
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "Se ele não achar… ninguém mais."
+    }
+   ],
+   "id": "p074"
+  }
+ ]
+}

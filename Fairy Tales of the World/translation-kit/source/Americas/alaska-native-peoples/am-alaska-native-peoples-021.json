@@ -1,0 +1,82 @@
+{
+ "id": "am-alaska-native-peoples-021",
+ "title": {
+  "id": "title",
+  "source": "The Origin Of The Winds"
+ },
+ "tradition": "Alaska Native peoples",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths and Legends of Alaska",
+ "credits": "Judson, Katharine Berry (compiler, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #47146 — https://www.gutenberg.org/ebooks/47146",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Alaska Native peoples/021 - The Origin Of The Winds.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 9,
+  "words": 96
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Tlingit"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "N OW Raven went off to a certain place and created West Wind."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Raven said to it, “You shall be my son’s daughter."
+    },
+    {
+     "id": "p002.s03",
+     "source": "No matter how hard you blow, you shall hurt nobody.”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Raven also made South Wind."
+    },
+    {
+     "id": "p003.s02",
+     "source": "When South Wind climbs on top of a rock it never ceases to blow."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Raven made North Wind and on top of a mountain he made a house for it with ice hanging down the sides."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Then he went in and said to North Wind, “Your back is white.”"
+    },
+    {
+     "id": "p004.s03",
+     "source": "That is why mountains are white with snow."
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

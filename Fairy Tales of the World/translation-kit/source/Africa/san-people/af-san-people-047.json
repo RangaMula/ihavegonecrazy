@@ -2,20 +2,20 @@
  "id": "af-san-people-047",
  "title": {
   "id": "title",
-  "source": "Wolf en sy twee Vroue"
+  "source": "Ystervark en Vlermuis"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
  "source_book": "Boesman-Stories. Deel 2, Dierstories en ander verhale",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/047 - Wolf en sy twee Vroue.md",
+ "markdown_file": "Africa/San people/047 - Ystervark en Vlermuis.md",
  "stats": {
-  "paragraphs": 26,
-  "segments": 76,
-  "words": 1372
+  "paragraphs": 19,
+  "segments": 81,
+  "words": 1573
  },
  "paragraphs": [
   {
@@ -23,7 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "OPMERKINGS:—Hierdie storie is slegs ’n karakterskets om die domastrantheid en vraatsug van Wolf af te teken."
+     "source": "OPMERKINGS:—Hierdie storie vertel ons iets oor die gewoontes en geaardheid van Ystervark en Vlermuis."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Ook word iets omtrent Uil vermeld."
     }
    ],
    "id": "p001"
@@ -33,23 +37,15 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "I n die dae wat lankal verby is, het daar baie bossiehuise van die ou geslag rond, en nie ver van mekaar nie, gestaan."
+     "source": "D aar was in die ou dae ’n ou Boesman en sy ou vrou wat aan die ou geslag behoor het, en hulle het ’n kleinjong en ’n kleinmeidjie as enigste kinders gehad."
     },
     {
      "id": "p002.s02",
-     "source": "Boesmans het daar gewoon; leeus het daar gewoon; Wolf en Jakkals het daar gewoon—algar in bossiehuise."
+     "source": "Toe die moeder sterf, was die kleinmeidjie nog baie jonk en begin net rond te loop; maar die kleinjong was al so groot dat hy goed kan rondhardloop en sy ouers met klein handreikinkies kan help."
     },
     {
      "id": "p002.s03",
-     "source": "En daar was ’n oor-en-weer-lopery van die een plek na die ander."
-    },
-    {
-     "id": "p002.s04",
-     "source": "Hulle het baie saam gejag, baie saam geëet en baie saam gedans en feesgevier."
-    },
-    {
-     "id": "p002.s05",
-     "source": "Toe was daar baie plesier; maar ook twis en rusie om aldag se eentonigheid aan stukke te kap."
+     "source": "Maar nou is hulle wesies."
     }
    ],
    "id": "p002"
@@ -59,23 +55,43 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Wolf was, en is tot vandag toe nog, ’n flukse jagter."
+     "source": "Ná ’n ruk neem die Boesman vir hom ’n ander vrou."
     },
     {
      "id": "p003.s02",
-     "source": "Maar hy ook het geweet dat aldag jagdag is, maar nie aldag doodmaakdag nie."
+     "source": "Sy was ’n jong meid en het nie baie van ander mense se kinders gehou nie; so het haar twee stiefkinders dit maar nie alte lekker onder haar behandeling gekry nie."
     },
     {
      "id": "p003.s03",
-     "source": "Die ou kan mos baie eet; dit vat ’n groot knapsak vol vleis om met sy honger mooi te praat en om dit stil te kry."
+     "source": "Vir die kleinjong het sy ekspres op velle van springbokke laat speel, en het die boog wat sy vader vir hom gemaak het, met vleis van springbokke gesmeer."
     },
     {
      "id": "p003.s04",
-     "source": "Oor hierdie manier het Wolf se ander bure nie van hom te veel te eet gekry nie."
+     "source": "Daarom het die gees van die springbokke so in die kleinjong en sy boog getrek dat al die springbokke vir hom bang was en hom nooit ’n kans gegee het om naby hulle te kom nie."
     },
     {
      "id": "p003.s05",
-     "source": "Dit is maar ’n gelukslag dat Wolf vir hulle kon trakteer."
+     "source": "Maar die seun was net soos sy pa—baie vlytig—en het baie pyle, klein en groot, gemaak."
+    },
+    {
+     "id": "p003.s06",
+     "source": "Maar met hulle op ’n afstand raakskiet, was net verniet."
+    },
+    {
+     "id": "p003.s07",
+     "source": "Vir die arme meisiekind het die stiefmoeder totaal verwaarloos en het haar baie honger laat ly; die arme kind het meestal van goggatjies en vlieë moes lewe."
+    },
+    {
+     "id": "p003.s08",
+     "source": "Die vader se raas en rusiemaak oor die slegte behandeling van sy kinders het niks gehelp nie."
+    },
+    {
+     "id": "p003.s09",
+     "source": "Hy is die meeste van die tyd in die veld om te jag om vir hulle kos te soek."
+    },
+    {
+     "id": "p003.s10",
+     "source": "Kom hy tuis, dan het hy so goed en lief as hy in staat was, vir sy kinders gesorg."
     }
    ],
    "id": "p003"
@@ -85,7 +101,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Maar as Wolf die dag of nag niks te vang gekry het nie, dan stap hy eenvoudig na sy bure se plekke toe, loop die een plek na die ander af; en sonder genooi te wees gaan hy aansit en eet ewe gulsig met hulle mee."
+     "source": "Maar daar was geen groei in sy kinders nie; hulle was en bly maar twee brokkies van die menslike geslag."
     }
    ],
    "id": "p004"
@@ -95,19 +111,15 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Die bure vind toe gou Wolf se laai uit; as hul hom hoor aankom, dan raap hul die kos weg en bêre dit op so ’n plek waar hy dit nie kan sien nie."
+     "source": "Een aand toe dit skemer word, stap die stiefmoeder na die hutte van haar bure om te gaan dans; want daar was baie heuning daardie dag uitgehaal en na daardie hutte toe gebring."
     },
     {
      "id": "p005.s02",
-     "source": "Maar sy ruik is goed."
+     "source": "Die vader van die twee kinders het ook ’n sakvol heuning gekry; maar hy was nog in die veld, op pad huis-toe."
     },
     {
      "id": "p005.s03",
-     "source": "Hy dwing en hou aan op so ’n onbeskaamde wyse dat hul hom eindelik iets te ete gee."
-    },
-    {
-     "id": "p005.s04",
-     "source": "En dan is hy nog nie tevrede nie."
+     "source": "So sit sy twee kinders alleen tuis."
     }
    ],
    "id": "p005"
@@ -117,11 +129,39 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Hiervan het die bure ook later moeg geword, toe weier hul beslis om selfs vir hom ’n murgbeen te gee."
+     "source": "Die gestorwe eie moeder van die twee kinders stuur toe vir Uil na haar kinders toe."
     },
     {
      "id": "p006.s02",
-     "source": "Wolf het hom nie laat vermaak nie; hy gryp die kos voor hulle weg, of maak die potte oop en haal die vleis daaruit, of hy trek die spitte met karmenaadjies by die vuur uit, of vat hulle karosse en stap daarmee weg en gaan alles gulsig opeet."
+     "source": "Uil is ’n towenaar en kan hom in ’n man of uil verander."
+    },
+    {
+     "id": "p006.s03",
+     "source": "En hy doen hom toe voor as die regte vader van die kinders."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Hy neem die twee kinders met hom saam na die klipkranse waar hy woon."
+    },
+    {
+     "id": "p006.s05",
+     "source": "Hy gee hul toe veldkos en veldvrugte, wat daar baie van was; dog die kleinmeidjie was maar te gewend om goggatjies te eet, sodat sy liewers haar gewone kos verkies as veldkos."
+    },
+    {
+     "id": "p006.s06",
+     "source": "So verander Uil die seun in ’n ystervark; sy pyle, wat baie was, verander hy in penne, wat in die karos van die kleinjong bly vassteek, sodat niemand hom durf aanrand nie."
+    },
+    {
+     "id": "p006.s07",
+     "source": "En die meidjie verander hy in ’n vlermuis, wat van goggatjies, tot vandag toe nog, lewe."
+    },
+    {
+     "id": "p006.s08",
+     "source": "Hy wys hul toe ’n spelonk aan om in te woon."
+    },
+    {
+     "id": "p006.s09",
+     "source": "Ystervark kruip in ’n skeur, en Vlermuis gaan bo aan die gewelf van die spelonk hang."
     }
    ],
    "id": "p006"
@@ -131,11 +171,15 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Hy het sy vrou geleer om haar eie pad te gaan en die einste ding te doen."
+     "source": "Voor die towenaar hul verander het, het hy hul eers verbied om weer terug na die hut van hulle ouers te gaan; en ná hy hul verander het, het hy hul vuurvliegies gegee om te eet, sodat hul goed in die donker kan sien."
     },
     {
      "id": "p007.s02",
-     "source": "En sy kon dit amper beter as haar man regkry."
+     "source": "Van toe af kan hul net in die nag sien en was blind in die dag as die son skyn."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Kom hul in die daglig uit, dan hol Ystervark teen die klippe en bosse vas, en Vlermuis vlie teen bome en rotse aan, waardeur hul baie seer kry."
     }
    ],
    "id": "p007"
@@ -145,23 +189,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Dit het dan ook nie lank geduur nie, of algar was vir Wolf en sy vrou buikvol."
-    },
-    {
-     "id": "p008.s02",
-     "source": "Hulle stap toe na Wolf se huis toe, toe hy en sy vrou nie daar is nie, en steek dit aan brand."
-    },
-    {
-     "id": "p008.s03",
-     "source": "Wolf bou weer ’n ander bossiehuis, en weer gaan die vuur daarin."
-    },
-    {
-     "id": "p008.s04",
-     "source": "Dit ontmoedig hom nog nie; hy bou weer, en andermaal gaan die vlam daarin, want die bure wil Wolf en sy vrou uit hulle geweste verdryf."
-    },
-    {
-     "id": "p008.s05",
-     "source": "Met aanhou het hul oorwen."
+     "source": "Van daardie tyd af woon Ystervark en Vlermuis saam in gate."
     }
    ],
    "id": "p008"
@@ -171,11 +199,11 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Wolf en sy vrou trek toe glad ’n ander oord in."
+     "source": "Die ou towenaar het hom dadelik weer in ’n uil verander; ook het hy die afgestorwe moeder van die twee in ’n ander soort uil verander, sodat sy snags haar kinders kan sien en vir hulle besoeke bring."
     },
     {
      "id": "p009.s02",
-     "source": "Die eerste waartoe hulle besluit, is om nie meer bossiehuise te maak nie, maar om in gate te gaan woon; want grond- en kliphuise kan nie aan brand gesteek word nie."
+     "source": "Sy gaan toe bo in die krans in ’n klipskeur slaap wanneer dit dag is, terwyl haar kinders onder die krans in die grot en klipskeur gedurende die dag hulle rus neem."
     }
    ],
    "id": "p009"
@@ -185,11 +213,39 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Wolf en sy vrou begin eers fatsoenlik te kuier; maar nog al die tyd vat ieder sy eie koers, sodat hul nooit saam op een plek aankom nie."
+     "source": "Saans as die son ondergegaan is, as een ster ná die ander dof aan die hemel begin te vertoon, is die moeder-uil die eerste om haar plek te verlaat."
     },
     {
      "id": "p010.s02",
-     "source": "Hulle het nie eens geweet dat Wolf ’n vrou het nie."
+     "source": "Voor sy uit haar skuilplek kom, open sy haar groot oë, rek dit sku vir die lig oop en kyk of dit dalkies nog te lig is."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Vind sy dat daar nog te baie lig is, dan byt-byt sy met haar bek asof sy wil vra: „Wanneer word dit dan regtig donker?"
+    },
+    {
+     "id": "p010.s04",
+     "source": "Ek het mos al baie honger.”"
+    },
+    {
+     "id": "p010.s05",
+     "source": "Sy gee ’n lui gaap, knyp haar oë vir ’n rukkie dig toe om nog ’n bietjie te sit en wag."
+    },
+    {
+     "id": "p010.s06",
+     "source": "Is dit naderhand donker genoeg na haar sin, dan verlaat sy met ’n gil haar plek en gaan naby in ’n boom sit om te kyk of dit nou regtig donker genoeg is."
+    },
+    {
+     "id": "p010.s07",
+     "source": "Sy vlie weer verder, en dan weer verder, tot sy ver is."
+    },
+    {
+     "id": "p010.s08",
+     "source": "Gewaar sy ’n slapende voëltjie, dan pak sy hom; of sien sy ’n muis, dan val sy op hom aan en sluk hom heel in."
+    },
+    {
+     "id": "p010.s09",
+     "source": "Dog die toestand waarin haar twee weeskinders verkeer, grief haar diep; en af en aan gee sy ’n diep kreun, asof iets haar hart erg pynig."
     }
    ],
    "id": "p010"
@@ -199,11 +255,23 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "„.…"
+     "source": "Daarna kom Vlermuis met haar klein karossie uit."
     },
     {
      "id": "p011.s02",
-     "source": "Hy loer in die skeur; en, ja waarlik, daar sit die snoer.…”"
+     "source": "Sy hou met haar handjies twee punte vas om as vlerkies to dien."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Vrolik vladder sy deur die lug en begin dadelik die muskiete en klein goggatjies wat rondvlie, te vang."
+    },
+    {
+     "id": "p011.s04",
+     "source": "Onder die oorhangpunte van die krans soek sy spinnekoppe en vlieë; ook die spinnerakke tussen bosse versuim sy nie om te deursnuffel nie."
+    },
+    {
+     "id": "p011.s05",
+     "source": "En al wat in die gogga-soort daaraan kleef, is hare."
     }
    ],
    "id": "p011"
@@ -213,27 +281,35 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Een aand gaan Wolf op ’n plek kuier, en daar sien hy ’n jong meid, so reg na sy sin; en hy begin somar daar sy lyf vryer-Hottentot te hou, want hy is nou vasberade om twee vroue te neem."
+     "source": "Arrie, wag, hier kom Ystervark uit."
     },
     {
      "id": "p012.s02",
-     "source": "Hy gedra hom baie ordentlik; hy begin oor sy jagtery te spog, hoe sterk hy is, hoe hy alles kan uitvind; en wat uithalerheid betref, loop sy kersvashouers glad nie rond nie."
+     "source": "Hy luister of hy niks hoor nie."
     },
     {
      "id": "p012.s03",
-     "source": "Hulle glo vir Wolf en nooi hom om baie oor te kom."
+     "source": "Daarvoor staan hy botstil; want hy kan baie fyn hoor."
     },
     {
      "id": "p012.s04",
-     "source": "Hy was ook nie links nie en laat sy stof net baie daar rondwaai."
+     "source": "Voetjie-vir-voetjie, sonder raas, gaan hy voort—altyd met die neus teen die wind op; want net so fyn as sy gehoor is, net so skerp is sy ruik ontwikkel."
     },
     {
      "id": "p012.s05",
-     "source": "Baie aande bring hy ’n agterkwart of ’n voorkwart van wild wat hy gevang het."
+     "source": "Hy ruik hierdie kant toe, dan weer daardie kant toe om seker te maak of alles veilig is."
     },
     {
      "id": "p012.s06",
-     "source": "Dit alles net om ’n twede vrou te kry."
+     "source": "Ag hy dit raadsaam, dan stap hy huiwerig voort; want hy hou hom nog altyd gereed om kortom na sy nes om te spring as ’n gevaar hom skielik bedreig."
+    },
+    {
+     "id": "p012.s07",
+     "source": "Al die tyd vladder sy sustertjie, Vlermuis, vrolik oor hom in die lug."
+    },
+    {
+     "id": "p012.s08",
+     "source": "Sy is bly om hom weer te sien."
     }
    ],
    "id": "p012"
@@ -243,15 +319,11 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Een aand vra hy die jong meid of sy maar sy vrou wil wees."
+     "source": "Saam gaan hulle veld-toe; hy grawe veldkos, sy vergas haar nog steeds aan die vlieënde goggatjies."
     },
     {
      "id": "p013.s02",
-     "source": "Sy het Wolf altyd onderdeur geloer en beskou; sy gee geen antwoord nie, maar werk aan ’n neksnoer sonder om op te kyk."
-    },
-    {
-     "id": "p013.s03",
-     "source": "Sy maak of sy nie gehoor het nie, maar sy dink ver."
+     "source": "Hulle slaan ag op die sterre en melkweg om te weet wanneer dit weer dag sal word; dan moet hul tuis wees—nog voor die eerste ligstrale die dagbreek aankondig."
     }
    ],
    "id": "p013"
@@ -261,15 +333,23 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Wolf praat weer."
+     "source": "Vlermuis is veilig, want sy kan so lugtig met haar karosse deur die lug omkantel en ronddartel."
     },
     {
      "id": "p014.s02",
-     "source": "Sy gee toe antwoord en sê dat Wolf oor drie aande weer moet kom."
+     "source": "Maar Ystervark glad nie—al het hy al sy pyle (penne) met hom meegebring."
     },
     {
      "id": "p014.s03",
-     "source": "Oor ’n rukkie stap hy weg."
+     "source": "Hy kan met sy pyle maar net ’n klein entjie ver skiet."
+    },
+    {
+     "id": "p014.s04",
+     "source": "(Dis ’n Hottentot- en Boesman-bygeloof.)"
+    },
+    {
+     "id": "p014.s05",
+     "source": "Maar ver kan hy glad nie skiet nie."
     }
    ],
    "id": "p014"
@@ -279,15 +359,27 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Die derde aand is hy daar."
+     "source": "Wag, hier kom Jakkals aan."
     },
     {
      "id": "p015.s02",
-     "source": "Sy sê toe: „Jy praat en spog so danig oor jou krag en dat jy alles kan uitvind."
+     "source": "Ystervark gaan stilletjies met sy kop in die bos staan, en hy wys sy penne."
     },
     {
      "id": "p015.s03",
-     "source": "Die neksnoer het ek êrens weggesteek; loop soek dit en bring dit hier, dan sal ek jou neem en met jou saam na jou huis toe gaan.”"
+     "source": "Jakkals kom agter verby."
+    },
+    {
+     "id": "p015.s04",
+     "source": "Ystervark is klaar en los ’n paar van sy pyle (penne) op Jakkals en neem die vlug."
+    },
+    {
+     "id": "p015.s05",
+     "source": "Hy vlug in ’n nou gat—kop na voor en die punte van sy penne na agter—en staan in verdediging klaar vir Jakkals."
+    },
+    {
+     "id": "p015.s06",
+     "source": "As Jakkals goed oortuig is dat dit nou neusie-verby is met hom, dan draai hy droë-bek om en vat sy ou gewone draffie glad in ’n ander koers om iets beters te gaan soek."
     }
    ],
    "id": "p015"
@@ -297,11 +389,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Wolf vat aan sy ken, en sy gedagtes dwaal ver buitekant sy hart; en hy begin toe somar te praat van die groot present—die stuk vleis wat hy met hom meegebring het."
+     "source": "As Ystervark bemerk dat alles weer veilig is, dan begin hy weer veldkos te grawe tot hy genoeg het."
     },
     {
      "id": "p016.s02",
-     "source": "Hy het gou geëet en weggestap—hy gee voor hy gaan nou die neksnoer haal."
+     "source": "Al die tyd hou hy die sterre en melkweg (of hemelstraat) in die oog om te sien hoe lank hy nog kan wei, rondslenter en plesier neem."
     }
    ],
    "id": "p016"
@@ -311,11 +403,11 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Maar Wolf is ’n ou onderkruiper: hy gaan daar naby onderkant die wind lê, van waar hy alles kan hoor wat hul in hulle hut praat."
+     "source": "Vlermuisie word haastig en roep hom om te kom om huis-toe te gaan."
     },
     {
      "id": "p017.s02",
-     "source": "Hy het nie te lank geluister nie, of die vader van die jong meid vra: „Waar het jy die neksnoer weggesteek?”"
+     "source": "Ewe plesierig maak sy tuimelinge deur die lug en vat koers na hulle slaapplek toe; want die sterre en melkweg lê in die posiesie om die spoedige aanbreek van die skimmeldag aan te kondig—en dan moet hul al veilig op hulle rusplek wees."
     }
    ],
    "id": "p017"
@@ -325,7 +417,15 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Sy antwoord: „Pa, in die klipskeur by die ’norra-kareeboom.”"
+     "source": "Ystervark volg; want hy weet as Vlermuis trek, dan is dit tyd om nie langer te versuim nie."
+    },
+    {
+     "id": "p018.s02",
+     "source": "As hy naby sy nes kom, stap hy eers om en om tot hy onderkant die wind kom om te ruik of dit daar by sy nes nog alles veilig is."
+    },
+    {
+     "id": "p018.s03",
+     "source": "Hy het sy toorgoed om sy voorlêers aan slaap te maak."
     }
    ],
    "id": "p018"
@@ -335,148 +435,26 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Wolf het nie juis geweet waar die ’norra-kareeboom is nie; dog uitvra-uitvra het hom gou die pad daarnatoe beduie."
+     "source": "Maar die Boesmans ken al die laaie van Ystervark."
     },
     {
      "id": "p019.s02",
-     "source": "Hy kry die regte plek; hy loer in die skeur; en, ja waarlik, daar sit die snoer in ’n oor van ’n koedoe weggesteek."
+     "source": "Hulle wat by die bek van die nes voorlê, voel so vaak dat hul nie hulle oë langer kan oophou nie."
+    },
+    {
+     "id": "p019.s03",
+     "source": "Dog hul weet dat dit Ystervark se paljas is; so probeer hul hard om nie te roer of te slaap nie."
+    },
+    {
+     "id": "p019.s04",
+     "source": "Hulle gewaar vir Ystervark—hulle skiet, die pyl tref, en daar het hul hom!"
+    },
+    {
+     "id": "p019.s05",
+     "source": "Maar gewaar Ystervark vir hulle die eerste, en vroegtydig, dan is dit Piet-se-twak met hulle: Ystervark neem die spat, en dis dan die laaste sien van die blikkantien!"
     }
    ],
    "id": "p019"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p020.s01",
-     "source": "Wolf neem ’n haakstok om die koedoe se oor nader te trek; dog die muise het die onderpunt van die oor weggevreet; en toe Wolf daaraan roer, glip die snoer daaruit en val dieper in die skeur, waar Wolf dit met geen moontlikheid kan bykom nie."
-    },
-    {
-     "id": "p020.s02",
-     "source": "Toe sit die ou, na baie te gesukkel het, hand in die hare."
-    }
-   ],
-   "id": "p020"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p021.s01",
-     "source": "Meteens kom Miskruier met ’n bol klei daar verby."
-    },
-    {
-     "id": "p021.s02",
-     "source": "Wolf bekyk hom en sê: „Ou vriend, hoor jy is dom om die bol klei agterstevoor te rol."
-    },
-    {
-     "id": "p021.s03",
-     "source": "Staan reg en doen jou werk soos dit moet wees.”"
-    }
-   ],
-   "id": "p021"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p022.s01",
-     "source": "„Og!” roep Miskruier uit, „ek is nie so dom en sleg as jy my voor verslyt nie."
-    },
-    {
-     "id": "p022.s02",
-     "source": "Sien jy nie hierdie bol klei is groot nie?"
-    },
-    {
-     "id": "p022.s03",
-     "source": "As ek dit met my kop na vore aanstoot, dan kan ek mos niks sien nie; stoot ek dit agterstevoor, dan kan ek die hele wêreld rondom my sien."
-    },
-    {
-     "id": "p022.s04",
-     "source": "Jy moet weet, ek is sterk en kan baie groter stukke klei as hierdie stoot—dis meer as jy kan doen!”"
-    }
-   ],
-   "id": "p022"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p023.s01",
-     "source": "„Wat!” werp Wolf teë, „ek rus net uit om hierdie groot rotse weg te rol."
-    },
-    {
-     "id": "p023.s02",
-     "source": "Ek wed jou jy kan nie daardie neksnoer in hierdie klipskeur tussen die rotse verroer nie."
-    },
-    {
-     "id": "p023.s03",
-     "source": "Loop haal dit uit en bring dit hier, dan sal ek jou wys hoe maklik ek weer aan my kant hierdie tamaai groot rotse rondrol.”"
-    }
-   ],
-   "id": "p023"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p024.s01",
-     "source": "„Nou toe, laat ek sien,” sê Miskruier toe hy die skeur instap om die neksnoer daaruit te sleep."
-    },
-    {
-     "id": "p024.s02",
-     "source": "Hy steek sy horing teen die snoer, kom daarmee aangestap en smyt dit voor Wolf neer."
-    },
-    {
-     "id": "p024.s03",
-     "source": "Daar gryp Wolf dit en hol daarmee na die jong meid toe."
-    },
-    {
-     "id": "p024.s04",
-     "source": "Voor hulle in die hut geslaap het, en terwyl hulle nog aan Wolf se presentvleis sit en braai, is Wolf daar en oorhandig die neksnoer."
-    }
-   ],
-   "id": "p024"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p025.s01",
-     "source": "A nee, nou moet die jong meid glo dat Wolf alles weet en alles kan uitvind."
-    },
-    {
-     "id": "p025.s02",
-     "source": "Sy maak haar klaar en stap met Wolf mee na sy huis."
-    },
-    {
-     "id": "p025.s03",
-     "source": "En net kom Wolf se eerste vrou daar, en dit was ’n getwis uit die staanspoor."
-    },
-    {
-     "id": "p025.s04",
-     "source": "Nooit het daar weer rus in daardie huis gekom nie."
-    },
-    {
-     "id": "p025.s05",
-     "source": "Wolf wou naderhand gek word."
-    }
-   ],
-   "id": "p025"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p026.s01",
-     "source": "Toe sê die bure wat dit gehoor het, dat dit die beste straf is wat hul Wolf kan gegee het."
-    },
-    {
-     "id": "p026.s02",
-     "source": "En dit het ’n spreekwoord onder die Boesmans geword as iemand straf verdien: „Gee hom twee vroue;” want die jong vrou trek sy grys hare uit om hom jonk te maak, en die ou vrou sy swart hare om hom oud te laat lyk."
-    }
-   ],
-   "id": "p026"
   }
  ]
 }

@@ -4,7 +4,7 @@
 - **Source book:** *Reynard the fox in South Africa : $b or, Hottentot Fables and Tales, chiefly translated from original manuscripts in the Library of His Excellency Sir George Grey, K.C.B.*
 - **Author / collector / translator:** Bleek, W. H. I. (Wilhelm Heinrich Immanuel) (author, d. 1875)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #73413 — https://www.gutenberg.org/ebooks/73413 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #73413 — https://www.gutenberg.org/ebooks/73413
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

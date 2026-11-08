@@ -5,7 +5,7 @@
 or, Fairy Tales from the South*
 - **Author / collector / translator:** Kincaid, C. A. (Charles Augustus) (author, d. 1954)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #11167 — https://www.gutenberg.org/ebooks/11167 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #11167 — https://www.gutenberg.org/ebooks/11167
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

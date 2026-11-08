@@ -1,7 +1,7 @@
 # Burma (Myanmar)
 
 Continent: Asia  
-Tales in this folder: **7** (fewer than 100: every distinct tale found in the public-domain sources below is included)
+Tales in this folder: **7** (fewer than 100: every distinct tale found in the free sources below is included)
 
 ## Sources
 

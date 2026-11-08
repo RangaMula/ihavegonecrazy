@@ -1,0 +1,76 @@
+{
+ "id": "eu-slavic-peoples-pan-slavic-044",
+ "title": {
+  "id": "title",
+  "source": "White Russian Stories"
+ },
+ "tradition": "Slavic peoples (pan-Slavic)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Sixty Folk-Tales from Exclusively Slavonic Sources",
+ "credits": "Wratislaw, Albert Henry (compiler, d. 1892)",
+ "gutenberg": "Project Gutenberg eBook #48761 — https://www.gutenberg.org/ebooks/48761",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Slavic peoples (pan-Slavic)/044 - White Russian Stories.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 9,
+  "words": 254
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "W E now come to the first set of stories belonging to those Slavonians who make use of the Cyrillic instead of the Latin characters."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The White Russians occupy the whole of the Governments of Minsk and Mogilef, and great part of those of Vitebsk and Grodno."
+    },
+    {
+     "id": "p001.s03",
+     "source": "In these stories we first met with the distinction between the Western and Eastern Slavonic terms for monarch."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The Western Slavonians employ the terms kral , krul , or korol , for a monarch, which are believed to originate from the name of the mighty Frankish monarch, Karl the Great, whom we generally know by his French title, Charlemagne."
+    },
+    {
+     "id": "p001.s05",
+     "source": "The Eastern Slavonians usually make use of the term Tzar , ‘Emperor,’ which is a corruption of the Latin ‘Cæsar,’ the title of the emperors of Constantinople, and later of the Russian emperors."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Thus in the following stories we shall find emperors and empresses generally, though not invariably, replacing kings and queens, till we return again to the West."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The White Russian language possesses but little literature, but was employed for diplomatic purposes by the once powerful state of Lithuania (Morfill’s ‘Slavonic Literature,’ S.P.C.K., p. 113)."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "The heroes ‘Overturn-hill’ ( Vertogor ) and ‘Overturn-oak’ ( Vertodub ), who appear in No. 22 , occur also in a story from the Ukraine, given by Mr. Ralston (pp. 170-175)."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Several circumstances in No. 22 are also similar to incidents in the Russian tale of ‘Ivan Popyalof’ (Ralston, p. 66), but in spite of these similarities the stories are truly distinct."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

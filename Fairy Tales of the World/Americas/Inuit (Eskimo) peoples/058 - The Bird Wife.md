@@ -4,7 +4,7 @@
 - **Source book:** *A Treasury of Eskimo Tales*
 - **Author / collector / translator:** Bayliss, Clara Kern (author, d. 1948)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #24569 — https://www.gutenberg.org/ebooks/24569 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #24569 — https://www.gutenberg.org/ebooks/24569
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

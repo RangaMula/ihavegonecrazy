@@ -4,7 +4,7 @@
 - **Source book:** *Tales of the Sun; or, Folklore of Southern India*
 - **Author / collector / translator:** Cleeve, Lucas (author, d. 1908); Sastri, Pandit Natesa (author)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #37002 — https://www.gutenberg.org/ebooks/37002 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #37002 — https://www.gutenberg.org/ebooks/37002
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

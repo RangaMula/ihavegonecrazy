@@ -2,20 +2,20 @@
  "id": "af-san-people-051",
  "title": {
   "id": "title",
-  "source": "Die Hamerkopvoël en die Swaweltjies"
+  "source": "Mierkatte en Erdmannetjies"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
  "source_book": "Boesman-Stories. Deel 2, Dierstories en ander verhale",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/051 - Die Hamerkopvoël en die Swaweltjies.md",
+ "markdown_file": "Africa/San people/051 - Mierkatte en Erdmannetjies.md",
  "stats": {
-  "paragraphs": 18,
-  "segments": 63,
-  "words": 1194
+  "paragraphs": 24,
+  "segments": 70,
+  "words": 1341
  },
  "paragraphs": [
   {
@@ -23,7 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "OPMERKINGS:—Hierdie storie is aan my in 1885 deur ’n Transvaalse Boesman vertel."
+     "source": "OPMERKINGS:—In hierdie storie word ons iets oor die lewenswyse van mierkatte en erdmannetjies vertel."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Die erdmannetjie is die waaierstertmierkat, wat niks anders is nie as ’n eekhorinkie wat in die grond saam met mierkatte woon."
     }
    ],
    "id": "p001"
@@ -33,23 +37,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "D ie hamerkopvoël weet van meer dinge as ons van weet."
+     "source": "D aar was ’n droogte wat strawwer en strawwer geword het; die waters gee op, en die wild trek weg."
     },
     {
      "id": "p002.s02",
-     "source": "Diegene wat verstand het, verstaan wat hy vertel; maar dié wat nie verstand besit nie, weet ook nie om hom te verstaan nie."
-    },
-    {
-     "id": "p002.s03",
-     "source": "Hy bou sy huis bo-op ’n oorhangklip van ’n steil klipkrans wat by ’n gat water is."
-    },
-    {
-     "id": "p002.s04",
-     "source": "Sy nes maak hy van stokke en gras, en dit is so groot dat dit ’n halwe wa-vrag hout is."
-    },
-    {
-     "id": "p002.s05",
-     "source": "Die deur van sy huis maak hy op die randjie van die oorhangklip, sodat hy maklik na onder in die gat water kan kyk."
+     "source": "So moes die Boesmans en diere ook maar volg—almal in die koers van die wild."
     }
    ],
    "id": "p002"
@@ -59,15 +51,19 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "In die water sien hy die gedaante van bome, berge wolke, van die son, maan en sterre."
+     "source": "Twee huisgesinne van Boesmans het saamgetrek."
     },
     {
      "id": "p003.s02",
-     "source": "En hy verstaan alles wat dié goeters vir hom kom vertel."
+     "source": "Op pad het hul dit met kos en water baie swaar gekry, en hulle kinders huil net gedurig oor kos en water."
     },
     {
      "id": "p003.s03",
-     "source": "Hy gaan dan die tyding aan die betrokke mense vertel; want hy bly nie stil as hy iets weet nie."
+     "source": "Dit het die ouers hulle harte net seer laat voel, sodat hul soms saam met hulle kinders wou huil."
+    },
+    {
+     "id": "p003.s04",
+     "source": "Hier en daar kry hul ’n veldkossie of tel ’n skilpad op of kry ’n nes van ’n lammervanger of kuikendief waarin òf eiers òf kleintjies is; ook moes hul soms muise en akkedisse vang om daarmee hulle kinders in lewe te hou."
     }
    ],
    "id": "p003"
@@ -77,19 +73,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Die swaweltjies (kransswaweltjies) maak weer hulle huisies onder die oorhangklip."
+     "source": "Maar hoe omtrent water?"
     },
     {
      "id": "p004.s02",
-     "source": "Die nessies lyk soos die maan, waarvan die twee horings na bo staan."
-    },
-    {
-     "id": "p004.s03",
-     "source": "Die kransswaweltjies bou hulle huisies van klei op ’n hoop en maak nie tuite vir deurtjies soos die huisswaweltjies nie."
-    },
-    {
-     "id": "p004.s04",
-     "source": "Daarom lyk hulle nessies in vorm nes die afsterwende maan; want Hamerkop het hul gesê om dit so te bou."
+     "source": "Dit was hulle doodsteek!"
     }
    ],
    "id": "p004"
@@ -99,23 +87,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Nou, die maan, as hy ’n bak na boontoe maak, dra die lyke van mense wat net gesterwe het."
+     "source": "Een aand toe die kinders al van dors wou sterwe en hul algar met hulle koppe op die grond radeloos lê, hoor die een ou Boesman vir Groot-Waterslang onder die grond kruip."
     },
     {
      "id": "p005.s02",
-     "source": "En die swaweltjies is gestorwe kindertjies wat weer lewendig geword het."
-    },
-    {
-     "id": "p005.s03",
-     "source": "As die maan weer half word, dan verdwyn die holte, en dan is daar nie meer plek vir die kindertjies nie; so val hul uit die lug en word dan swaweltjies."
-    },
-    {
-     "id": "p005.s04",
-     "source": "Hamerkop gaan hul dan haal en bring hul na die nessies wat net soos die gehoringde maan lyk."
-    },
-    {
-     "id": "p005.s05",
-     "source": "Ja, hy leer hul selfs om so ’n patroon van nessie te maak; en die swaweltjies hou net baie daarvan."
+     "source": "Dis die groot slang met die skitterende steen op sy kop, wat vir die Boesmans water in die dor streke maak."
     }
    ],
    "id": "p005"
@@ -125,23 +101,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Hamerkop het die swaweltjies aan Son gegee."
+     "source": "Die ou man begin met Waterslang te praat; hy strooi gemaalde boegoe op die grond dat die slang kan ruik en moet weet dat hy water moet kom maak of aanwys."
     },
     {
      "id": "p006.s02",
-     "source": "As dit winter word en Son trek noordwaarts weg, dan roep hy sy kindertjies om saam te gaan waar hy lekker gaan skyn en waar hulle by ’n ander Hamerkop kan gaan woon."
-    },
-    {
-     "id": "p006.s03",
-     "source": "Op hulle reis deur die lug soontoe, en met hulle terugreis hiernatoe, sien en gewaar hul baie dingetjies."
-    },
-    {
-     "id": "p006.s04",
-     "source": "Dit alles gaan hul aan Hamerkop vertel."
-    },
-    {
-     "id": "p006.s05",
-     "source": "Hy sit dan mooi na hulle tierelier te luister, en dit maak hom ook nog slimmer."
+     "source": "Hy het die slang geprys, toe weer mooi gepraat, totdat die slang onder die grond antwoord gee en sê dat as dit in die oggend lig word, sal hy vir die Boesmans kos en water hê."
     }
    ],
    "id": "p006"
@@ -151,15 +115,15 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Een aand toe dit donker word, kyk Hamerkop meteens voor hom uit sy nes op die water (want die bek van sy nes gaan skuins van onder in)."
+     "source": "Die treurige nag het swaar verbygegaan."
     },
     {
      "id": "p007.s02",
-     "source": "Hy sien in die water dat ’n groot moordbende van lang swart mense in aantog is."
+     "source": "Eindelik breek die dag, en die slang onder die grond roep uit: „Stap na daardie bome waar daardie groot rotse is; daar op daardie plat klipplaat is ’n baie diep gat water, wat nooit leeg word nie."
     },
     {
      "id": "p007.s03",
-     "source": "Hy vlie dadelik uit en roep vir Uil, wat ook daar naby sy huis in dieselfde krans het, en sê dat hulle twee die Boesmans moet gaan waarsku dat hulle lewe in gevaar is."
+     "source": "Neem julle boë saam en julle sal daar iets te skiet kry.”"
     }
    ],
    "id": "p007"
@@ -169,23 +133,19 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Die twee vlie toe weg en kom by die eerste en verste Boesmans hulle kraaltjie aan."
+     "source": "Die mans, ewe bly, gryp die leë volstruiseierdoppe; ook neem hul hulle boë en pylkokers mee."
     },
     {
      "id": "p008.s02",
-     "source": "Hamerkop vlie heen en weer in die skemer oor die hutte en maak sy skril geluid keer op keer."
+     "source": "By die water kry hul vir jakkals met sy vrou en kinders."
     },
     {
      "id": "p008.s03",
-     "source": "Uil gaan in ’n boom sit en sit daar te hoe-hoe."
+     "source": "Hy hol lafhartig weg, dog die Boesmans skiet sy vrou en al sy kinders dood."
     },
     {
      "id": "p008.s04",
-     "source": "Dog dit was dom Boesmans wat nie verstaan nie; hulle klap op hulle hande om vir Hamerkop weg te ja, en die kinders neem klippe en gooi Uil daarmee."
-    },
-    {
-     "id": "p008.s05",
-     "source": "Die gevolg was: albei, Hamerkop en Uil, vlie bedroef weg."
+     "source": "Toe drink hul en maak die leë eierdoppe vol om dié aan hulle vroue en kinders te bring."
     }
    ],
    "id": "p008"
@@ -195,19 +155,23 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Hulle twee kom toe terug en gaan by die twede Boesman-kraaltjie aan, en hulle maak net soos hul by die eerste kraaltjie gemaak het."
+     "source": "Dit was nie eens nodig nie, want by hierdie tyd kom die meide met die kinders aangestap."
     },
     {
      "id": "p009.s02",
-     "source": "Ook hier begin hul die twee weg te ja; maar daar was ’n stokou Boesman, wat slim is en dinge verstaan."
+     "source": "Hulle drink en drink asof hul nooit kan klaarkry nie."
     },
     {
      "id": "p009.s03",
-     "source": "Hy roep uit dat die ander nie so moet maak nie."
+     "source": "Ná die dors verslaan was, maak hul vuur en begin somar al die vleis van die jakkalse te braai; en op hierdie manier stil hul ook die groot honger van hulle en van die kinders."
     },
     {
      "id": "p009.s04",
-     "source": "Hulle hou dadelik op en hol na die ou man toe om te hoor wat hy te sê het; want algar het hom as baie verstandig beskou."
+     "source": "Toe haal hul die hongergordels, of hongerbande, van hulle lywe af en voel toe of hul nou lekkerder kon asem skep."
+    },
+    {
+     "id": "p009.s05",
+     "source": "Van die jakkalsies hulle velle word toe kinderkarossies gemaak."
     }
    ],
    "id": "p009"
@@ -217,15 +181,19 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Hy antwoord toe: „Arrie, waarom doen julle sulke dinge?"
+     "source": "Jakkals, natuurlik, voel bedroef oor sy vrou en kinders wat dood is en wat die Boesmans nou sit en braai."
     },
     {
      "id": "p010.s02",
-     "source": "Hoor jul nie dat die twee voëls ons kom waarsku nie?"
+     "source": "Hy kry die ruik van hulle gebraaide vleis, en hy sit op veilige afstand bitter te tjank."
     },
     {
      "id": "p010.s03",
-     "source": "Wag, stil, laat ek eers hoor wat hulle te sê het.”"
+     "source": "Intussen roep hy uit: „Pas maar op vir julle kinders!"
+    },
+    {
+     "id": "p010.s04",
+     "source": "As ekke wat Jakkals is, hulle in die hande kry, dan sal ek hul wys hoe dood lyk.”"
     }
    ],
    "id": "p010"
@@ -235,7 +203,7 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Ná die voëls hulle waarskuwing uitgespreek het, vlie hul weg; en toe vertel die ou man dat die twee kom vertel dat ’n moordbende Kaffers in aantog is en dat die statjie se volk gereed moet wees."
+     "source": "Die ou Boesman roep terug: „Solank ekke wat Boesman is, lewe, sal jy wat Jakkals is, vir hulle nie in hande kry nie—dit beloof ek jou!”"
     }
    ],
    "id": "p011"
@@ -245,11 +213,19 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Die anderdagoggend toe die swaweltjies uit hulle nessies vlie, roep Hamerkop hulle en sê dat hul in die water moet kyk, dan sal hul ’n moordbende Kaffers in die verte sien aankom."
+     "source": "Waarop Jakkals teëwerp: „’n Dag is ’n dag dat ekke hulle in hande sal kry!"
     },
     {
      "id": "p012.s02",
-     "source": "Die Kaffers sal vanaand ’n kraal van die Boesmans aanval, dan sal hul weer baie kinders vermoor, sodat die swaweltjies weer ’n klomp boeties en sussies sal bykry."
+     "source": "En dan sal hulle dit gewaar!”"
+    },
+    {
+     "id": "p012.s03",
+     "source": "En hy tjank en huil weer bedroef."
+    },
+    {
+     "id": "p012.s04",
+     "source": "Om nog veiliger te wees, draf hy weg na die randjies se kant toe en gaan daar muise vang."
     }
    ],
    "id": "p012"
@@ -259,15 +235,11 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Die swaweltjies treur toe oor die slegte tyding; want hulle self was net so deur ander vermoor of deur siekte omgekom."
+     "source": "Nou sien die Boesmans daar naby die nes van ’n lammervanger (voël)."
     },
     {
      "id": "p013.s02",
-     "source": "Hulle sweef toe laag oor die water om daarin te kyk om te sien wat in die verte aangaan."
-    },
-    {
-     "id": "p013.s03",
-     "source": "Daardie dag egter het stil verbygaan; al wat hul in die water gesien het, is hoe die lang swart mense in aantog is."
+     "source": "Hulle gaan die kleintjies, wat al vol vere was, uithaal; en hul braai dié ook vir hulle kinders."
     }
    ],
    "id": "p013"
@@ -277,31 +249,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Daardie aand verskiet daar baie sterretjies."
+     "source": "Lammervanger—net soos Jakkals—voel bedroef en huil oor die kinders en roep ook uit: „Pas op vir julle kinders!"
     },
     {
      "id": "p014.s02",
-     "source": "Die swaweltjies kan uit hulle huisies op die water sien hoe die sterre heen en weer verskiet."
-    },
-    {
-     "id": "p014.s03",
-     "source": "Sommige word benoud en dink dis die swartes wat so met vuur rondsmyt."
-    },
-    {
-     "id": "p014.s04",
-     "source": "Dog Hamerkop kom uit en kyk hoe die sterre in die lug nes vuurstompe rondvlie."
-    },
-    {
-     "id": "p014.s05",
-     "source": "Hy roep uit: „Nou moor die groot swartes die klein bruinetjies uit."
-    },
-    {
-     "id": "p014.s06",
-     "source": "Ek kan sien, dis by die eerste en verste kraal waar Uil en ek gisteraand was."
-    },
-    {
-     "id": "p014.s07",
-     "source": "Hulle daar wou mos nie vir ons glo nie.”"
+     "source": "Waar ek hul kry, daar sal dit nie goed met hulle afloop nie!”"
     }
    ],
    "id": "p014"
@@ -311,15 +263,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Hy kyk gedurig in die water en in die lug."
-    },
-    {
-     "id": "p015.s02",
-     "source": "Later in die nag begin weer enige sterre met langer sterte te verskiet."
-    },
-    {
-     "id": "p015.s03",
-     "source": "Die swaweltjies word toe weer vir die skietligte bevrees en begin weer te woel."
+     "source": "Andermaal roep die Boesman terug: „Solank as ekke wat Boesman is, nog lewe, sal jy wat Lammervanger is, vir hulle nie in hande kry nie!”"
     }
    ],
    "id": "p015"
@@ -329,7 +273,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Maar Hamerkop sê: „Wees julle maar gerus; die groot swartes maak nou die aanval by die twede en naaste kraaltjie, waar Uil en ek gisteraand was; die Boesmans sit daar gewapen in ’n kliprandjie en skiet die groot swartes by hope dood—ek kan in die water sien hoe hul omrol.”"
+     "source": "Lammervanger gebruik dieselfde woorde as Jakkals en werp teë: „’n Dag is ’n dag dat ons ontmoet."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Pas maar op soos jy wil!”"
     }
    ],
    "id": "p016"
@@ -339,19 +287,11 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Maan was net by hierdie tyd weer bak na bo."
+     "source": "Daar die Boesmans moeg was en nou vereers genoeg kos en water gekry het, besluit hul om daar op die plek enige dae oor te bly om die water op te pas en om te kyk of daar nie wild sal kom drink nie."
     },
     {
      "id": "p017.s02",
-     "source": "Die dooies lê weer in die holte; maar ná enige dae was die hol plek gelyk toegegroei (eerste kwartier), toe val die liggame van Maan af; en toe Son uitkom, stuur hy die bruin kindertjies van die Boesmans lewendig na Hamerkop toe."
-    },
-    {
-     "id": "p017.s03",
-     "source": "Hulle word swaweltjies en word ewe lief deur die ander boeties en sussies verwelkom."
-    },
-    {
-     "id": "p017.s04",
-     "source": "Dadelik begin hul naas die ander vir hulle halfmaannessies bou, sonder dat die ander swaweltjies hulle belet."
+     "source": "Dan kan hul daardie wild ook skiet."
     }
    ],
    "id": "p017"
@@ -361,22 +301,146 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Vir die groot swart Kaffers het die Son in swart kraaie verander—die soort kraaie wat so in die mielielande kan pla; want Kaffers leef mos van mieliepap."
+     "source": "Daar het genoeg wild gekom, want Waterslang het mooi vir sy mense gesorg."
     },
     {
      "id": "p018.s02",
-     "source": "Net soos die Kaffers kan hard praat en raas, net so ’n rumoer skop daardie swart voëls op."
+     "source": "En daarby het hy hul vertrou ."
     },
     {
      "id": "p018.s03",
-     "source": "Daarom wou Hamerkop vir hulle nie by hom in die krans hê nie."
-    },
-    {
-     "id": "p018.s04",
-     "source": "So het die swartgoed getrek en woon weer waar hul vandaan gekom het, en pla daar tot vandag toe nog straf in die mielielande; terwyl Hamerkop en die kindertjies van Son, die swaweltjies, tot vandag toe nog in kranse saam in liefde woon."
+     "source": "As hy êrens gaan wei, steek hy die blinksteen wat op sy kop is, sorgvuldig weg eer hy veld-toe gaan."
     }
    ],
    "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Nou, as iemand in besit is van so ’n steen, is hy vir altyd gelukkig; daarom kom daar ontroue gedagtes by die Boesmans op, en hulle maak plan om hulle weldoener van sy kroon te ontroof."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Hulle loer toe die groot slang af om te sien waar hy die skitterende steen wegsteek."
+    },
+    {
+     "id": "p019.s03",
+     "source": "Toe hy vèr in die veld was, neem hul die steen, en hulle algar vlug daarmee ver weg."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Toe die slang terugkom, soek hy na die steen, maar kon dit nie vind nie."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Dog Lammervanger, wat al die tyd in die boom gesit het, het gesien dat die Boesmans die steen gesteel het en daarmee gevlug het."
+    },
+    {
+     "id": "p020.s03",
+     "source": "En hy vertel dit aan die groot slang."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Net toe kom daar leeus water drink, en die slang vra vir die leeus om die Boesmans te agtervolg en hul dan dood te byt."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Die leeus was dadelik gewillig uit erkentlikheid dat die slang vir hulle water gemaak het; en ook, hulle het net lus vir Boesman-vleis gehad."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Hulle vat die spore, loop vinnig en vind die Boesmans aan slaap."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Hulle byt die grotes dood, en die kinders vlug in nou gate, waar die leeus hul nie kan bykom nie."
+    },
+    {
+     "id": "p022.s04",
+     "source": "Hulle eet toe die oues op; dog die kinders bly in die gate."
+    },
+    {
+     "id": "p022.s05",
+     "source": "Die slang kom toe daar en was weer baie bly om sy gewaardeerde steen terug te kry."
+    },
+    {
+     "id": "p022.s06",
+     "source": "Hy het geweet die kinders was onskuldig, so doen hy aan hul niks nie."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Dog Jakkals en Lammervanger het anders gedink en het hul voorgeneem om wraak uit te oefen, so het Lammervanger oordags en Jakkals snags die kinders opgepas."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Om hierdie rede het die arme goedjies ’n baie ongeruste lewe gely."
+    },
+    {
+     "id": "p023.s03",
+     "source": "Die kinders wat karossies van wildvelle gehad het, het mierkatjies geword; en dié wat karossies van die jong jakkalsies se velletjies gehad het, het erdmannetjies geword; dog hulle het altyd saam in dieselfde gate gewoon."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Soggens, as die son uitkom, dan steek eers een sy koppie by die gat uit om te kyk of hy nie dalkies vir Jakkals of vir Lammervanger sien nie."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Gewaar hy niks nie, dan kruip hy uit die gat en gaan daar penorent regop in die son sit om hom eers warm te maak."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Dan roep hy die ander en sê vir hulle dat dit veilig is en dat hul gerus maar kan uitkom."
+    },
+    {
+     "id": "p024.s04",
+     "source": "Die ander kom dan ook kersregop in die sonnetjie sit."
+    },
+    {
+     "id": "p024.s05",
+     "source": "Daar gesels hul nou oor wat hul gaan doen."
+    },
+    {
+     "id": "p024.s06",
+     "source": "Wei-wei stap hul van die gate veld se kant toe."
+    },
+    {
+     "id": "p024.s07",
+     "source": "Vuur kan hul nie maak nie, daarom sit hul in die sonskyn; water drink hul nie meer nie—om die waarheid te sê, hulle durf nie so ver stap nie; daarom moet hul maar die doutjies van die plante aflek, en verder grawe hul sapperige wortels en plante en soek goggas om te eet; want hulle ouers, wat eers vir hulle rysmiere gegrawe het en wat vir hulle vuur gemaak het, is nou dood en deur die leeus opgeëet en kan dus vir hul teen aanvalle nie meer beskerm nie."
+    }
+   ],
+   "id": "p024"
   }
  ]
 }

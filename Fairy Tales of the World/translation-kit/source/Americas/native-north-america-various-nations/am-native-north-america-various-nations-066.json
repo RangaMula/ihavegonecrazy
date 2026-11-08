@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-066",
  "title": {
   "id": "title",
-  "source": "Katharine Berry Judson"
+  "source": "The Tribe That Grew Out Of A Shell"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Myths and Legends of the Great Plains",
- "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
- "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/066 - Katharine Berry Judson.md",
+ "source_book": "Thirty Indian Legends",
+ "credits": "Bemister, Margaret (author)",
+ "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Americas/Native North America (various nations)/066 - The Tribe That Grew Out Of A Shell.md",
  "stats": {
-  "paragraphs": 20,
-  "segments": 38,
-  "words": 266
+  "paragraphs": 19,
+  "segments": 63,
+  "words": 877
  },
  "paragraphs": [
   {
@@ -23,7 +23,27 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Author of “Myths and Legends of California and the Old Southwest,” “Myths and Legends of the Pacific Northwest,” “Montana,” “Myths and Legends of Alaska,” and “When the Forests are Ablaze.”"
+     "source": "Once, when the land along the Missouri River was uninhabited, save by the beaver and other animals, a snail lay asleep on the bank of the river."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One day the waters began to rise, and soon came up to where he lay."
+    },
+    {
+     "id": "p001.s03",
+     "source": "They swept him out, and he was carried some miles down by the current."
+    },
+    {
+     "id": "p001.s04",
+     "source": "When the waves lowered, he found himself bedded deep in the mud."
+    },
+    {
+     "id": "p001.s05",
+     "source": "He tried to free himself, but he could not."
+    },
+    {
+     "id": "p001.s06",
+     "source": "He was hungry and tired, and at last became so discouraged that he would not try any more."
     }
    ],
    "id": "p001"
@@ -33,7 +53,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "ILLUSTRATED"
+     "source": "Then a strange thing happened."
+    },
+    {
+     "id": "p002.s02",
+     "source": "He felt his shell crack, and his head began to rise upright."
+    },
+    {
+     "id": "p002.s03",
+     "source": "His body and legs grew and lengthened, and at last he felt arms stretching out from his sides."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Then he stood upright—a MAN."
     }
    ],
    "id": "p002"
@@ -43,11 +75,19 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "CHICAGO A. C. McCLURG & CO."
+     "source": "He felt very stupid at first, but after a while some thoughts came to him."
     },
     {
      "id": "p003.s02",
-     "source": "1913"
+     "source": "He knew he was hungry and wished he were a snail again; for he knew how to get food as a snail, but not as a man."
+    },
+    {
+     "id": "p003.s03",
+     "source": "He saw plenty of birds, but did not know how to kill them."
+    },
+    {
+     "id": "p003.s04",
+     "source": "He wandered on through the forest, until he became so tired that he lay down to rest."
     }
    ],
    "id": "p003"
@@ -57,11 +97,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Copyright A. C. McCLURG & CO."
+     "source": "He heard a gentle voice speaking to him, and looking up, he saw the Great Spirit, who was seated on a snow-white horse."
     },
     {
      "id": "p004.s02",
-     "source": "1913"
+     "source": "His eyes shone like stars, and his hair like threads of gold."
     }
    ],
    "id": "p004"
@@ -71,7 +111,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Published November, 1913"
+     "source": "\"Wasbashas, why are you trembling?\""
     }
    ],
    "id": "p005"
@@ -81,7 +121,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "W. F. Hall Printing Company Chicago"
+     "source": "\"I am frightened,\" replied the man, \"because I stand before the One who raised me from the ground."
+    },
+    {
+     "id": "p006.s02",
+     "source": "I am faint from hunger, for I have eaten nothing since I left the shell in the bank of the river.\""
     }
    ],
    "id": "p006"
@@ -91,7 +135,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "BY THE SAME AUTHOR"
+     "source": "\"Look, Wasbashas,\" said the spirit, as he drew forth a beautiful bow and arrow."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Putting an arrow into the bow, he aimed at a bird in a tree near by."
+    },
+    {
+     "id": "p007.s03",
+     "source": "He shot, and the bird fell."
+    },
+    {
+     "id": "p007.s04",
+     "source": "A deer passed just then, and the spirit shot it, also."
     }
    ],
    "id": "p007"
@@ -101,15 +157,23 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "MYTHS AND LEGENDS OF CALIFORNIA AND THE OLD SOUTHWEST."
+     "source": "\"Now, Wasbashas,\" said the spirit, \"I shall show you how to skin this deer, and show you how to make a blanket."
     },
     {
      "id": "p008.s02",
-     "source": "Over fifty full-page illustrations."
+     "source": "Then you must learn to cook the flesh."
     },
     {
      "id": "p008.s03",
-     "source": "Small quarto. $1.50 net."
+     "source": "I shall give you the gift of fire."
+    },
+    {
+     "id": "p008.s04",
+     "source": "For now that you are a man, you must not eat raw food."
+    },
+    {
+     "id": "p008.s05",
+     "source": "You shall be placed at the head of all the animals and birds.\""
     }
    ],
    "id": "p008"
@@ -119,15 +183,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "MYTHS AND LEGENDS OF ALASKA."
-    },
-    {
-     "id": "p009.s02",
-     "source": "Beautifully illustrated."
-    },
-    {
-     "id": "p009.s03",
-     "source": "Small quarto. $1.50 net."
+     "source": "After the spirit had shown him the things he had promised, both horse and rider arose in the air and vanished."
     }
    ],
    "id": "p009"
@@ -137,19 +193,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "MYTHS AND LEGENDS OF THE PACIFIC NORTHWEST."
-    },
-    {
-     "id": "p010.s02",
-     "source": "Especially of Washington and Oregon."
-    },
-    {
-     "id": "p010.s03",
-     "source": "With fifty full-page illustrations."
-    },
-    {
-     "id": "p010.s04",
-     "source": "Small quarto. $1.50 net."
+     "source": "Wasbashas walked on down the river until he came to a place where a beaver was lying."
     }
    ],
    "id": "p010"
@@ -159,23 +203,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "MONTANA: “The Land of Shining Mountains.”"
+     "source": "\"Good-day,\" said the beaver."
     },
     {
      "id": "p011.s02",
-     "source": "Illustrated."
-    },
-    {
-     "id": "p011.s03",
-     "source": "Indexed."
-    },
-    {
-     "id": "p011.s04",
-     "source": "Square 8vo."
-    },
-    {
-     "id": "p011.s05",
-     "source": "75 cents net."
+     "source": "\"Who are you?\""
     }
    ],
    "id": "p011"
@@ -185,15 +217,15 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "WHEN THE FORESTS ARE ABLAZE."
+     "source": "\"I am a man."
     },
     {
      "id": "p012.s02",
-     "source": "Illustrated."
+     "source": "The Great Spirit raised me from a shell, and now I am head of all the animals."
     },
     {
      "id": "p012.s03",
-     "source": "Crown 8vo. $1.35 net."
+     "source": "And who are you?\""
     }
    ],
    "id": "p012"
@@ -203,22 +235,59 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "A. C. McClurg & Co., Publishers"
+     "source": "\"I am a beaver."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Will you come with me until I show you how we build our lodges?\""
     }
    ],
    "id": "p013"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Wasbashas followed the beaver and watched him cut down a tree with his teeth."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Then the animal showed him how they dammed up the river, by letting the trees fall across it and filling the spaces between with mud and leaves."
+    }
+   ],
    "id": "p014"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p015.s01",
-     "source": "BIANKI’S VISION"
+     "source": "\"Now will you come and visit my lodge?\" said the beaver chief."
+    },
+    {
+     "id": "p015.s02",
+     "source": "He led Wasbashas to his neat lodge made of clay and shaped like a cone."
+    },
+    {
+     "id": "p015.s03",
+     "source": "The floor was carpeted with mats."
+    },
+    {
+     "id": "p015.s04",
+     "source": "The beaver's wife and daughter received the stranger kindly."
+    },
+    {
+     "id": "p015.s05",
+     "source": "They busied themselves getting a meal ready, and soon brought dishes of peeled poplar and alder bark."
+    },
+    {
+     "id": "p015.s06",
+     "source": "Wasbashas did not like the taste of it, but managed to eat a few pieces."
+    },
+    {
+     "id": "p015.s07",
+     "source": "The beavers seemed to enjoy the meal very much."
     }
    ],
    "id": "p015"
@@ -228,7 +297,15 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "(Kiowa Drawing)"
+     "source": "Wasbashas had been watching the daughter, and he liked her nice, tidy ways and the respect she showed her father."
+    },
+    {
+     "id": "p016.s02",
+     "source": "In the evening he asked the chief if he would give the maiden to him for his bride."
+    },
+    {
+     "id": "p016.s03",
+     "source": "The chief was very pleased at the idea, for he liked Wasbashas."
     }
    ],
    "id": "p016"
@@ -238,11 +315,23 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "The ghost-dance among the Sioux was based on the belief that the dead Indians would all come to life and drive out the white intruders."
+     "source": "The beaver invited all the animals to the feast, which was to be held the next day."
     },
     {
      "id": "p017.s02",
-     "source": "Then the buffaloes, which were disappearing, would come back in the immense herds of the olden time."
+     "source": "Early the following morning they began to arrive."
+    },
+    {
+     "id": "p017.s03",
+     "source": "First came the beavers, each bringing a present of a lump of clay on his flat tail."
+    },
+    {
+     "id": "p017.s04",
+     "source": "Next came the otters, each bringing a large fish in his mouth."
+    },
+    {
+     "id": "p017.s05",
+     "source": "Later in the morning came the minks, the water-rats, and the weasels, all very proud to accept the invitation of the great chief of the beavers."
     }
    ],
    "id": "p017"
@@ -252,23 +341,27 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "The vision of one of the dreamer priests is represented."
+     "source": "When the animals had all assembled, the beavers held a council among themselves."
     },
     {
      "id": "p018.s02",
-     "source": "After reaching the spirit world, Bianki found himself on a vast prairie covered with innumerable buffaloes and ponies."
+     "source": "After talking for some time they invited the other animals to follow them."
     },
     {
      "id": "p018.s03",
-     "source": "He went through the herds (dotted lines) until he came to a large Kiowa camp, with its ornament tepees."
+     "source": "And going a short distance down the river bank, they stopped."
     },
     {
      "id": "p018.s04",
-     "source": "He met four young women who had died years before, and asked about two of his brothers, also dead."
+     "source": "Each beaver took the lump of clay he had brought with him and placed it near the water's edge."
     },
     {
      "id": "p018.s05",
-     "source": "He soon met them coming into camp, with buffalo meat hanging from their saddles."
+     "source": "Then they began to build a dome-shaped lodge of small pieces of trees and the clay."
+    },
+    {
+     "id": "p018.s06",
+     "source": "After several hours of steady work it was finished, and then they went to the chief's lodge, where the feast was to be held."
     }
    ],
    "id": "p018"
@@ -278,15 +371,18 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Courtesy of the Smithsonian Institution"
+     "source": "When the meal was over the snail man and the beaver maiden were led to their lodge, which was the wedding-gift of the beavers."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Here they lived happy ever after."
+    },
+    {
+     "id": "p019.s03",
+     "source": "Many years later their descendants were called the Osages tribe of Indians."
     }
    ],
    "id": "p019"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p020"
   }
  ]
 }

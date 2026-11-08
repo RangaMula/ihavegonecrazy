@@ -4,7 +4,7 @@
 - **Source book:** *Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas of Arizona*
 - **Author / collector / translator:** Lloyd, J. Wm. (John William) (author, d. 1940); Comalk-Hawk-Kih (author); Wood, Edward Hubert (translator)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #38064 — https://www.gutenberg.org/ebooks/38064 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #38064 — https://www.gutenberg.org/ebooks/38064
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

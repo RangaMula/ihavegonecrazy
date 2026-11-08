@@ -1,0 +1,46 @@
+{
+ "id": "am-chile-068",
+ "title": {
+  "id": "title",
+  "source": "El Diablo Bailarin (1910.)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/068 - El Diablo Bailarin (1910.).md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 3,
+  "words": 112
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Es fama que en el siglo XVIII el Diablo era grande amigo de los mineros de Petorca, donde había sentado sus reales."
+    },
+    {
+     "id": "p001.s02",
+     "source": "En los días de pago, bajaba con ellos al pueblo, o a los lugares inmediatos, a remoler y a bailar cueca en la plazuela del Diablo, situada casi donde termina la calle de Silva, o en el cerro de la Plaza y en el del Piojo."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Una vez que bailaba en este último, lo hacía tan bien que un minero no pudo menos de exclamar:—“¡Virgen Santísima, y qué bien baila este roto!”; y el Diablo, al oir la invocación a la Virgen, reventó, dejando el lugar pasado a azufre quemado."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

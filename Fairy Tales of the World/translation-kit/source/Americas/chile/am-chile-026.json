@@ -1,0 +1,100 @@
+{
+ "id": "am-chile-026",
+ "title": {
+  "id": "title",
+  "source": "EL VENDEDOR DE PEQUENES (Variante del anterior)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/026 - EL VENDEDOR DE PEQUENES (Variante del anterior).md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 9,
+  "words": 85
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Un francés recién llegado a Santiago, que no habla español, se acerca a un pequenero y le pregunta, mostrándole los pequenes:"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "—Ces sont des gateaux?"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "—¡De gato!"
+    },
+    {
+     "id": "p003.s02",
+     "source": "De purita carne de cordero, iñor! ¿qué si ha figurao usté?"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "—Qu’est ce que ce que ça?"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "—¿Asáas?"
+    },
+    {
+     "id": "p005.s02",
+     "source": "Clarito, pus, ñor, y recién sacaítas del horno qui están!"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "—Je ne comprend pas."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "—No comprís, pus, gringo leso; pa lo que se me da; ¡cuando la gente se las pelotea y en un dos por tres se las acaba!"
+    }
+   ],
+   "id": "p007"
+  }
+ ]
+}

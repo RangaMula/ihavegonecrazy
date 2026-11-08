@@ -1,0 +1,100 @@
+{
+ "id": "af-berber-amazigh-peoples-of-north-africa-010",
+ "title": {
+  "id": "title",
+  "source": "Le hérisson et le chacal (//dfrj/ff^)"
+ },
+ "tradition": "Berber (Amazigh) peoples of North Africa",
+ "continent": "Africa",
+ "source_lang": "fr",
+ "source_book": "Nouveaux contes berbères (1897)",
+ "credits": "Basset, René (author, d. 1924)",
+ "gutenberg": "Internet Archive item `nouveauxcontesb00bassgoog` — https://archive.org/details/nouveauxcontesb00bassgoog (OCR text, lightly cleaned)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Africa/Berber (Amazigh) peoples of North Africa/010 - Le hérisson et le chacal ( dfrj ff^).md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 9,
+  "words": 138
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "(162) Ce texte, que j*ai recueilli à Renault, en 1^95, a été publié avec la transcription dans mon Étude sur la Zénatia de VOuarsenis, pp. 68-69."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "88. — Les noces de la fovP^ui."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "(i63) Ce texte m'a été communiqué, en 1896, à Sedrata, par Salah ben es Sa'ad : il a été publié avec la transcription dans mes Notes sur le Chaouia pp^ 21-22, 2^-28."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "89. — L'oiseau et le poisson"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "(t6o) Le texte de cette légende que j'ai recueillie à Oran en i, a été publié avec la transcription datts mon Recueil de textes et de documents relatifs à la philologie berbère,"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "(i65) Cf. Ahmed ech Chirouâni, Naouddir, p. 72, hist. i5o."
+    },
+    {
+     "id": "p006.s02",
+     "source": "On peut en rapprocher les vers suivants du Commonitorium de S. Orientius"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Et tibi nunc imo trahitur de gurgite piscis."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Aère nunc summo decipiuntur aves."
+    }
+   ],
+   "id": "p007"
+  }
+ ]
+}

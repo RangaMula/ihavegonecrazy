@@ -4,7 +4,7 @@
 - **Source book:** *Czech Folk Tales*
 - **Author / collector / translator:** Baudiš, Josef (translator)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #52596 — https://www.gutenberg.org/ebooks/52596 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #52596 — https://www.gutenberg.org/ebooks/52596
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

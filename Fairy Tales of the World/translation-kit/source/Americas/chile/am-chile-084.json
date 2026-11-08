@@ -1,0 +1,50 @@
+{
+ "id": "am-chile-084",
+ "title": {
+  "id": "title",
+  "source": "Los Gansos"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos chilenos de nunca acabar",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #69164 — https://www.gutenberg.org/ebooks/69164",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/084 - Los Gansos.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 4,
+  "words": 149
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Este era un vendedor de gansos que tenia muchos miles de estas aves, i un dia que supo que donde el rei iban a tener una gran fiesta, quiso llevarlos todos para ver si se los compraban."
+    },
+    {
+     "id": "p001.s02",
+     "source": "En el camino tropezó con un rio que llevaba mucha agua, i buscando i buscando por donde pasarlo, dió al fin con un puentecito mui angosto, por el que no cabia mas que un ave."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Puso entónces todos sus gansos en fila, de a uno en fondo, i ocuparon muchas leguas de largo; entónces hizo que pasara un ganso por el puentecito; despues otro; despues otro... etc. (El que cuenta se queda callado, i cuando le preguntan ¿i qué hubo?, responde: todavia van pasando los gansos)."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Este cuentecillo tiene gran parecido con el de los Pavos que refiere Rodríguez Marin en el tomo I, pájina 112, nota 20 de su obra citada."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

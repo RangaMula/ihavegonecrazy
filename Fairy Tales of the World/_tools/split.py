@@ -36,7 +36,9 @@ JUNK = re.compile(
     r"^chapter [a-z]+$|^(january|february|march|april|may|june|july|august|september|october|november|december) \d|"
     r"\bnote\b|^editor|^mrs\.|^mr\. [A-Z]\.|^scene:|^the story of these|^the legends$|^the traditions of|"
     r"folk tales retold$|^[a-z]+ tales$|^stories of oriental|^translator|^song of|^a song|"
-    r"\bpages? \d|\. pages?\b|erd[ée]lyi|^\(|\bnotes\b|version of|^\d+\s*re partie|\bpartie$|\s[ivxlc]+\.?\s?\d+$|^contents$",
+    r"\bpages? \d|\. pages?\b|erd[ée]lyi|^\(|^inhoud|^inleiding|^voorwoord|^vorwort|^inhalt|^einleitung|^pr[ée]face|^sommaire|"
+    r"^chapitre\b|^avant-propos|^remarques|^nota$|^’n paar woorde|^'n paar woorde|^argumento|^books by|^altemus|^table des|^índice|^pr[óo]logo|"
+    r"^introducci[óo]n|^[íi]ndice|^figure$|\d(st|nd|rd|th) figure|^klipgereedskappe|\bnotes\b|version of|^\d+\s*re partie|\bpartie$|\s[ivxlc]+\.?\s?\d+$|^contents$",
     re.I,
 )
 
@@ -281,6 +283,8 @@ def dedupe_longest(tales):
 
 
 def split_book(repo, meta):
+    if meta.get("presplit"):
+        return json.load(open(os.path.join(CACHE, repo + ".tales.json"), encoding="utf-8"))
     return dedupe_longest(_split_book(repo, meta))
 
 

@@ -5,7 +5,7 @@
 Anthropological Papers of the American Museum of Natural History Vol. XXIV, Part II*
 - **Author / collector / translator:** Goddard, Pliny Earle (author, d. 1928)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #53113 — https://www.gutenberg.org/ebooks/53113 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #53113 — https://www.gutenberg.org/ebooks/53113
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

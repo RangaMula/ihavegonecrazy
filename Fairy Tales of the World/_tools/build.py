@@ -29,6 +29,8 @@ NOT_TALES = re.compile(r"^(how to get into this book|notes? and references|after
 
 
 def pd_status(meta):
+    if meta.get("license") == "ccby":
+        return "ccby", []
     persons = [(r, n, KNOWN_DEATHS.get(n, d)) for r, n, b, d in people(meta) if r not in TEXT_ROLES_IGNORED]
     persons = [p for p in persons if p[1] not in ("Anonymous", "Unknown", "Various")]
     deaths = [p[2] for p in persons]
@@ -82,7 +84,7 @@ def prepare(gid):
 
 
 def main(root):
-    gids = sorted({g for ids in CATALOG.values() for g in ids})
+    gids = sorted({g for ids in CATALOG.values() for g in ids}, key=str)
     with cf.ThreadPoolExecutor(12) as ex:
         books = {r[0]: r for r in ex.map(prepare, gids)}
     index_rows, report = [], []
@@ -92,7 +94,7 @@ def main(root):
         seen, picked, used = set(), [], []
         for gid in ids:
             _, repo, meta, tales, status = books[gid]
-            if status not in ("worldwide", "us"):
+            if status not in ("worldwide", "us", "ccby"):
                 report.append(f"{folder}: skipped #{gid} ({status})")
                 continue
             n0 = len(picked)
@@ -106,38 +108,44 @@ def main(root):
                 if not k or k in seen:
                     continue
                 seen.add(k)
-                picked.append((title, t["text"], gid, meta, status))
+                picked.append((title, t["text"], gid, meta, status, t))
             if len(picked) > n0:
                 used.append((gid, meta, status, len(picked) - n0))
             if len(picked) >= MAX_PER_FOLDER:
                 break
         # write tales
-        for i, (title, text, gid, meta, status) in enumerate(picked, 1):
+        for i, (title, text, gid, meta, status, t) in enumerate(picked, 1):
             _, persons = pd_status(meta)
             fn = f"{i:03d} - {safe(title)}.md"
-            lic = ("Public domain worldwide: the text was published long ago and every named author/translator "
+            src = t.get("source") or meta.get("source_line") or f"Project Gutenberg eBook #{gid} — https://www.gutenberg.org/ebooks/{gid}"
+            who = t.get("credit") or credit(persons)
+            lang = t.get("language") or meta.get("language")
+            lic = t.get("license_text") or ("Public domain worldwide: the text was published long ago and every named author/translator "
                    f"died in or before {PD_CUTOFF}." if status == "worldwide" else
                    "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; "
                    "this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.")
             hdr = (f"# {title}\n\n"
                    f"- **Tradition:** {folder} ({cont})\n"
                    f"- **Source book:** *{meta.get('title','').strip()}*\n"
-                   f"- **Author / collector / translator:** {credit(persons)}\n"
-                   f"- **Original language of this text:** {meta.get('language')}\n"
-                   f"- **Source:** Project Gutenberg eBook #{gid} — https://www.gutenberg.org/ebooks/{gid} (copied via the GITenberg mirror)\n"
-                   f"- **Copyright status:** {lic}\n\n---\n\n")
+                   f"- **Author / collector / translator:** {who}\n"
+                   f"- **Original language of this text:** {lang}\n"
+                   f"- **Source:** {src}\n"
+                   f"- **Copyright status:** {lic}\n"
+                   + (f"- **Note:** {t['note']}\n" if t.get("note") else "") + "\n---\n\n")
             with open(os.path.join(out_dir, fn), "w", encoding="utf-8") as f:
                 f.write(hdr + text.strip() + "\n")
-            index_rows.append([cont, folder, i, title, fn, gid, meta.get("title", "").strip(), credit(persons), status])
+            index_rows.append([cont, folder, i, title, fn, gid, meta.get("title", "").strip(), who, status])
         # folder README
         with open(os.path.join(out_dir, "_README.md"), "w", encoding="utf-8") as f:
             f.write(f"# {folder}\n\nContinent: {cont}  \nTales in this folder: **{len(picked)}**"
-                    f"{'' if len(picked) >= MAX_PER_FOLDER else (f' (fewer than {MAX_PER_FOLDER}: every distinct tale found in the public-domain sources below is included)' if picked else ' — no worldwide-public-domain source text could be extracted for this tradition yet; see the top-level README, section Gaps')}\n\n"
+                    f"{'' if len(picked) >= MAX_PER_FOLDER else (f' (fewer than {MAX_PER_FOLDER}: every distinct tale found in the free sources below is included)' if picked else ' — no worldwide-public-domain source text could be extracted for this tradition yet; see the top-level README, section Gaps')}\n\n"
                     "## Sources\n\n")
             for gid, meta, status, n in used:
                 _, persons = pd_status(meta)
-                f.write(f"- *{meta.get('title','').strip()}* — {credit(persons)} — Gutenberg #{gid} — {n} tales — "
-                        f"{'PD worldwide' if status == 'worldwide' else 'PD in USA; translator death date unrecorded'}\n")
+                label = {"worldwide": "PD worldwide", "us": "PD in USA; translator death date unrecorded",
+                         "ccby": "CC BY 4.0 — credit authors/illustrators when translating"}[status]
+                f.write(f"- *{meta.get('title','').strip()}* — {credit(persons) if persons else 'see each tale'} — "
+                        f"{meta.get('source_line') or 'Gutenberg #' + str(gid)} — {n} tales — {label}\n")
             f.write("\n## Tales\n\n")
             for i, (title, *_r) in enumerate(picked, 1):
                 f.write(f"{i}. {title}\n")

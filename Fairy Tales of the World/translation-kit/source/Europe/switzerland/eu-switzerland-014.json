@@ -2,20 +2,20 @@
  "id": "eu-switzerland-014",
  "title": {
   "id": "title",
-  "source": "Thurgau"
+  "source": "The Fairy Of The Edelweiss"
  },
  "tradition": "Switzerland",
  "continent": "Europe",
  "source_lang": "en",
- "source_book": "Legends of Switzerland",
- "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #64163 — https://www.gutenberg.org/ebooks/64163 (copied via the GITenberg mirror)",
+ "source_book": "Swiss Fairy Tales",
+ "credits": "Griffis, William Elliot (author, d. 1928)",
+ "gutenberg": "Project Gutenberg eBook #69739 — https://www.gutenberg.org/ebooks/69739",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Europe/Switzerland/014 - Thurgau.md",
+ "markdown_file": "Europe/Switzerland/014 - The Fairy Of The Edelweiss.md",
  "stats": {
-  "paragraphs": 12,
-  "segments": 26,
-  "words": 766
+  "paragraphs": 59,
+  "segments": 126,
+  "words": 2821
  },
  "paragraphs": [
   {
@@ -23,11 +23,19 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "The canton of Thurgau, bordering on the Lake of Constance, is less frequently visited by tourists than almost any other, because it consists principally of arable land and thriving manufacturing towns."
+     "source": "Every child in Switzerland has heard of the Golden Age, long, long ago, when no ice or snow covered the mountains."
     },
     {
      "id": "p001.s02",
-     "source": "It is not, however, without romantic interest; but most of its legends are only slight variations of those already mentioned in connection with other places."
+     "source": "Then grass grew, and flowers bloomed, clear up on the highest summits."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Those barren and rocky heights, such as we see now, where nothing can live, but the big horned woolly ibex, were unknown; for they were then clothed with forests and verdure."
+    },
+    {
+     "id": "p001.s04",
+     "source": "One could walk all the way up to the peak’s top, amid beautiful trees, lovely shrubs and blossoming plants and sweet-smelling herbage."
     }
    ],
    "id": "p001"
@@ -37,11 +45,23 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "In the days of Charlemagne a Thurgau giant named Kisher joined the imperial forces, and went with them to fight against the Huns and Avars."
+     "source": "Summer then reigned for at least ten months in the year."
     },
     {
      "id": "p002.s02",
-     "source": "Such was the size and strength of this warrior that he waded across every river, however deep, and when his horse hesitated to follow him, dragged it after him by its tail, crying, “Comrade, you must come along too!”"
+     "source": "The cows grazed on the delicious aromatic grass, that makes the breath of kine so sweet."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Where now are only masses of snow and ice, and rivers called glaciers, were flowery meadows, full of birds and bright dragon flies, and musical with bees, crickets and singing insects."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Then the cows were so big and fat, that they gave their milk, that was rich in cream, three times a day."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Pastures were everywhere, and nobody [ ] went hungry, for food was as cheap as leaves or pebbles."
     }
    ],
    "id": "p002"
@@ -51,15 +71,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "In presence of the enemy this mighty giant remained unmoved, and placing himself at the head of the army, mowed down the foe as calmly and steadily as if he were cutting hay in his native country."
+     "source": "The old people still tell us that, during this period, all that one had to do was to ladle out the milk from tanks, as large as ponds, or pick big red cherries, by putting out your hands."
     },
     {
      "id": "p003.s02",
-     "source": "The battle over, Kisher strung seven or eight of his victims on his lance, and flinging it across his shoulder, tramped home as coolly as if returning from a day’s hunt with his game."
+     "source": "Then the fairies were happy."
     },
     {
      "id": "p003.s03",
-     "source": "Such were his prowesses that Charlemagne declared that, as he was a host in himself, his name should be changed from Kisher to Einheer, which means an army."
+     "source": "On every moonlight night, they held dancing parties in the meadows."
     }
    ],
    "id": "p003"
@@ -69,11 +89,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "In going from Romanshorn to Constance, one passes the village of Güttingen with its old castle."
+     "source": "But by and bye, the terrible Frost Giants, that live up around the North Pole, heard of this Land of a Thousand Mountains, where the chief rivers of Europe were born and still have their cradles."
     },
     {
      "id": "p004.s02",
-     "source": "The lords of this place, equally noted for their wealth and avarice, had several other castles, one of which stood so near the lake that the waves constantly dashed against its walls."
+     "source": "Then these greedy fellows that in winter tie up all things fast, or freeze them solid, except for a few hours on warm days, when the sun is shining, said one to the other:"
     }
    ],
    "id": "p004"
@@ -83,11 +103,31 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Once, when there was a great famine in the land, the starving people, knowing their lords had great quantities of food stored away in their granaries, surrounded the castle and began to clamour loudly for grain."
+     "source": "“Come on, fellows, let us go down and conquer this mountain country, that is so rich in honey, and cream, and flowers."
     },
     {
      "id": "p005.s02",
-     "source": "The lords of Güttingen, who were living on the fat of the land themselves, would not give anything to the poor, and, weary of their importunate cries, determined to get rid of them once for all."
+     "source": "We shall pile up the snow flakes, leagues high, and freeze solid the falling snow and cold water."
+    },
+    {
+     "id": "p005.s03",
+     "source": "We shall turn these into sheets of ice, that will cover the land thousands of yards thick, and kill all living things."
+    },
+    {
+     "id": "p005.s04",
+     "source": "We shall drive off all the flowers, blow the grass away, and chill the noses of the cows, so that they cannot graze."
+    },
+    {
+     "id": "p005.s05",
+     "source": "That will prevent men from having houses, and milk churns, and stores of cheeses."
+    },
+    {
+     "id": "p005.s06",
+     "source": "We must drive off the hens, too, so the [ ] people can have no eggs."
+    },
+    {
+     "id": "p005.s07",
+     "source": "If the sun tries to stop our work, we’ll laugh at him, so we will.”"
     }
    ],
    "id": "p005"
@@ -97,15 +137,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "They therefore bade their hungry vassals assemble in an empty old barn, where they assured them their pangs would soon be stilled."
-    },
-    {
-     "id": "p006.s02",
-     "source": "The people, thinking their masters were about to distribute food, thronged into this place; but when it was full, almost to overflowing, the cruel lords of Güttingen bade their servants close the doors and set fire to the building."
-    },
-    {
-     "id": "p006.s03",
-     "source": "When the bright flames rose all around them, the poor victims loudly begged for mercy; yet although their pitiful cries would have touched any one else, the lords of Güttingen quietly sat there on their steeds, and laughed aloud when one of them sarcastically cried, “Just hear those mice squeak!”"
+     "source": "Thus spoke the Frost King, while the mists rolled out in clouds from his mouth, as he boasted of what he could do."
     }
    ],
    "id": "p006"
@@ -115,23 +147,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Before long the roof fell in and the clamours ceased; but from the smoking ruins suddenly came hosts of mice, which, running straight to the Güttingen castles, devoured everything they could find."
-    },
-    {
-     "id": "p007.s02",
-     "source": "The lords themselves, terrified at the sight of these pests, fled to their Wasserburg, or Castle in the Water."
-    },
-    {
-     "id": "p007.s03",
-     "source": "But the mice pursued them there too, and having disposed of everything else, pounced upon them."
-    },
-    {
-     "id": "p007.s04",
-     "source": "In a few moments heaps of clean picked bones were all that was left of these heartless lords, whose castle shortly afterwards sank into the lake."
-    },
-    {
-     "id": "p007.s05",
-     "source": "There its ruins can be seen when the water is very low, and some people claim you can still hear mice gnawing the bones of those cruel men if you listen very attentively."
+     "source": "“Yes, yes, indeed we shall,” cried all the Frost Giants, and a shower of snow flakes and ice particles filled the air, for even their icy breath turned solid and was deadly to all plants."
     }
    ],
    "id": "p007"
@@ -141,7 +157,11 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "For similar legends of Bingen and others of this section, see the author’s “Legends of the Rhine.”"
+     "source": "When the North Wind blew down the news to the Swiss fairies, there was much sadness and even terror."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Where could the fairies dance, when the meadows were gone and the flowers dead?"
     }
    ],
    "id": "p008"
@@ -151,11 +171,23 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "A Count of Seeheim eloped with a maiden of Kyburg because her father objected to their union."
+     "source": "How could they float in the air, clad only in gauzy garments?"
     },
     {
      "id": "p009.s02",
-     "source": "The lovers, dreading the Count of Kyburg’s wrath, placed themselves immediately under the protection of the Abbot of Reichenau, who promised to aid and watch over them, and pronounced their nuptial benediction."
+     "source": "How could they see each other, if mist and storm and darkness filled the air, and ice covered the ground?"
+    },
+    {
+     "id": "p009.s03",
+     "source": "And how could they live without the blossoms?"
+    },
+    {
+     "id": "p009.s04",
+     "source": "One fairy actually wept tears, in sympathy for the poor cows, that were certain to starve."
+    },
+    {
+     "id": "p009.s05",
+     "source": "And as for the children, whom the fairies loved, where could they play, if there were no fields to play in, or roses or violets to pick?"
     }
    ],
    "id": "p009"
@@ -165,11 +197,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "The bride, having a fortune of her own, soon built a castle near the boundary of her father’s land, carefully providing it with strong walls so that he could not molest her or her beloved spouse."
-    },
-    {
-     "id": "p010.s02",
-     "source": "For some time after the two families lived on a war footing, but in course of time a complete reconciliation took place."
+     "source": "One bold fairy looked defiance and spoke out loud in the meeting:"
     }
    ],
    "id": "p010"
@@ -179,19 +207,674 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "In memory of this feud and of its happy termination, the town which rose around the new castle received the name of Frauenfeld, and the coat of arms of that city still bears the effigy of the faithful woman."
+     "source": "“I’m not afraid of these Frost Giants, from the North Pole."
     },
     {
      "id": "p011.s02",
-     "source": "She is represented controlling a lion, which fierce animal is intended to represent the race from which she sprang, and whose wrath she successfully defied and subdued."
+     "source": "They are nothing but big, boasting bullies."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Let our Fairy Queen change [ ] me into a flower, and clothe me warm enough, and I’ll defy even the Frost King to hurt me.”"
     }
    ],
    "id": "p011"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Bravo, bravo!” cried all the fairies in chorus."
+    }
+   ],
    "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“But how could you stay all the time up there, with no living thing near you, and all alone?"
+    },
+    {
+     "id": "p013.s02",
+     "source": "You will have no neighbors, except the rocks and crags, and even they will be all bare, and swept by the fierce winds."
+    },
+    {
+     "id": "p013.s03",
+     "source": "Can you stand that?” asked an old fairy, doubtingly."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“Yes, if for nothing else, than to show that we fairies are not afraid of the Frost Giants, I should be willing to live alone."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Besides, our fairy queen will see that, by and bye, there will be others like me, and then I shall have company."
+    },
+    {
+     "id": "p014.s03",
+     "source": "The more of us, the merrier, I am sure."
+    },
+    {
+     "id": "p014.s04",
+     "source": "In a few thousand years, we’ll make an army and a victorious one, too.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Seeing this brave one, of her company, so ready and willing, the Queen of the Fairies put on her thinking cap."
+    },
+    {
+     "id": "p015.s02",
+     "source": "She spent a whole night in planning how to turn this volunteer fairy into a flower."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Then she would bundle her up in furs, and dress her so warmly, that even the biggest and coldest of the Frost Giants could not kill her with his icy breath."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "And this was the way this volunteer, from the fairy ranks, was clothed and made ready to fight, in the long war with cold and storm, so that for ages, this little thing has been able to live far [ ] up on the mountain heights and, all the time, to smile and be joyful, and laugh, in the face of the Frost Giants."
+    },
+    {
+     "id": "p016.s02",
+     "source": "In fact, so happy is she, among the rock crags and sunshiny crannies, and so amused at herself, in looking down over the terrible precipices, to the rocks, thousands of feet below, that she would not exchange places or climates, with even the cloves and nutmegs; no, not even with the tea roses and coffee blossoms in the Spice Islands of the southern seas."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Now it is customary in all happy families, when father and mother are expecting the cradle soon to be filled, to choose a name for the baby, and to have its clothes ready."
+    },
+    {
+     "id": "p017.s02",
+     "source": "This is done, so that the poor little thing, on coming into the world, will not get a chill, or sneeze, or have a cough, and die."
+    },
+    {
+     "id": "p017.s03",
+     "source": "Moreover, if it have a name, no one will mistake one baby for another, unless they arrive as twins, when some mark, such as a blue ribbon for a boy, and a pink one for a girl, is necessary."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "So the old fairies put their heads together, to find a proper name for the new fairy flower-baby, that was to live among the cold mountain tops and refuse to be frightened, or frozen, or be driven down lower, or to be cuddled up in meadows, near men’s houses, where it was warm."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“What say you?” asked the Queen, of the wisest of the fairies, who was considered a sort of [ ] sage or prophet, and who had a wonderfully long head. “ What name do you give?”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "With a loud voice, almost like a roar, this fairy, that wore clothes the color of an old man’s beard, called out “Anawphilis Margarita.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "At this, every fairy looked at each other, as if to say, “What a mouthful,” “How strange a name,” or “So big for a little fairy!” or “Why does she talk Latin?”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "There were questions in their eyes also, but none asked “What does the name mean?” for all fairies are very shy about confessing ignorance."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "But the Fairy Queen, who knew almost everything, put on a look of great dignity, and discreetly inquired, of the sage, if her everyday talk was in Latin."
+    },
+    {
+     "id": "p023.s02",
+     "source": "She did not mean to be sarcastic, however."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“Why would you call me by the ‘Pearly Lion’s Foot,’ if I were to volunteer?” asked a bright young fairy."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“For two reasons, your Majesty,” answered the old oracle, addressing, not the young volunteer, but the Queen, as was proper."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“First, to reward valor and virtue, by giving an august name; and second, to let the Frost Giants, the insolent fellows from the North Pole, know, that when even one of us fairies puts her foot down, it is like a lion’s. No one can move, or lift, or push, or drive it away."
+    },
+    {
+     "id": "p026.s02",
+     "source": "We [ ] thrust forward this fairy flower, as our banner, to say to the enemy, ‘We shall not surrender, and we defy you!’ ”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "The Fairy Queen, full of admiration, replied:"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“We bow to your wisdom, and so it shall be written in our books."
+    },
+    {
+     "id": "p028.s02",
+     "source": "Nevertheless, both mortals and fairies must have also a short name for everyday use."
+    },
+    {
+     "id": "p028.s03",
+     "source": "How about the second, or personal part, Margarita?”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“As you will, your Highness, but may I suggest even a better term, in the speech of the mortals of this mountain land?"
+    },
+    {
+     "id": "p029.s02",
+     "source": "They will love anything that you may clothe and adorn, I am sure.”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "After this ending of her speech, the wise old fairy curtsied most politely."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "The Fairy Queen looked very lovely, as thus flattered, by the fine tact, and the charming speech, of this oldest member of the family; and, besides, as she loved the brave Swiss nation, she said."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“You are always wise."
+    },
+    {
+     "id": "p032.s02",
+     "source": "So please let me have a name that will be popular with the Swiss people.”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“Well, your highness, if it be your pleasure, we shall clothe your pet in purest white, like ermine, rivalling even the snow, without spot, or stain, or any dark tint."
+    },
+    {
+     "id": "p033.s02",
+     "source": "So, we may justly call it, the Edelweiss, that is, the Noble White.” [ ]"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "At this, all the fairies shouted with delight."
+    },
+    {
+     "id": "p034.s02",
+     "source": "Even the Queen herself smiled, and then made answer."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“You have well spoken; ‘Edelweiss’ it shall be.”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Now that the name was ready, the Queen called for the attendant maids of the brave fairy volunteer and, then and there, the custom was begun, which mortals always afterwards followed, of robing a princess, who was to marry a husband in a foreign country."
+    },
+    {
+     "id": "p036.s02",
+     "source": "She must drop off all her former clothing, even to her glistening skin."
+    },
+    {
+     "id": "p036.s03",
+     "source": "Then, entering another room, in the new land, she must apparel herself in the garments that are fashionable in her new home—as in the case, for example, of the Belgian lady, who, long afterwards, came as a bride to the Castle of the Hawk, in the Land of the Swiss."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Stripped of all her pretty gauzy skirts, bodice, and chemise, and standing forth as nude as a baby in the bath tub, the Queen bade her brave fairy look at her new wardrobe, which lay piled up and as white as any snowdrift."
+    },
+    {
+     "id": "p037.s02",
+     "source": "Then, before all the other fairies, the Queen put this question:"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“Are you willing, to leave the company of your fellows in fairy land, and be a flower, to remain rooted in the rocks, and amid the cold forever?” [ ]"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“Yes, truly, with all my heart,” answered the brave one."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "“And will you cast seed every year and multiply your family, that will bear your noble name?”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "“Surely, for the more of us there are, and the more we can resist the cruel enemy, the Frost Giants, and make mortals glad, the happier we shall be.”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“You have spoken wisely,” said the Queen."
+    },
+    {
+     "id": "p042.s02",
+     "source": "“We shall clothe you very thickly, in white robes, that look like flannel, but that are even warmer."
+    },
+    {
+     "id": "p042.s03",
+     "source": "So, no giant can hurt you, when he bites with frost, no snow storm chill you, or ice choke you, or North Wind make you shiver."
+    },
+    {
+     "id": "p042.s04",
+     "source": "We shall give you roots, that dig their way down deep in the crannies, and that will nourish your life."
+    },
+    {
+     "id": "p042.s05",
+     "source": "Besides, we have searched the world over, and, whatever of hair, or fur of arctic animals, or wool of sheep, or down of birds can show or suggest to us, we have used to weave a garment so warm, that the biggest of the giants, with the iciest breath and a beard of icicles, cannot even give you a chill."
+    },
+    {
+     "id": "p042.s06",
+     "source": "With your long hair, and woolly coat, and roots that resist frost bites, you can tickle his nose when he comes too near and even laugh in his face.”"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“Indeed I will,” answered the fairy defiantly."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“And will you do even more?"
+    },
+    {
+     "id": "p044.s02",
+     "source": "Will you keep [ ] your eye on the cracks and crevices, that hold the sun’s warmth, so that your children can creep up higher every year?” asked the Queen."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“The sun in the heaven helping me, I will,” replied this “Fairy of the Vanguard,” as some of her sisters already spoke of her."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "Then the Queen lifted her wand tipped with a star."
+    },
+    {
+     "id": "p046.s02",
+     "source": "She touched the forehead of the Fairy of the Lion’s Foot, which was her war name; while in the talk of mortals, she was called Noble White, though still the fairies, quite often, use the name Margarita."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "Then they stood fairy Edelweiss on a pile of rocks, filled in with sand and earth, to show the others where, and how, in the new world, Edelweiss was to live and grow and enlarge her kingdom."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "It was a strange and wonderful transformation, as the fairy’s pretty feet turned into rootlets, that quickly thrust themselves deeply downwards, gripping the rough rock and drinking in the moisture and juices in the soil."
+    },
+    {
+     "id": "p048.s02",
+     "source": "Grandly the Edelweiss showed her pride, in belonging to the great family which a famous man first named after the Little Frogs, because they love moist, damp and soft places."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "Yet all this was beneath."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "Above, there first rose a stalk, a few inches high, until it reached half a foot."
+    },
+    {
+     "id": "p050.s02",
+     "source": "Then the [ ] arms multiplied and stretched out."
+    },
+    {
+     "id": "p050.s03",
+     "source": "They were densely covered, like sleeves of overcoats, with thick coverings, each resembling white flannel, or velvet, and as warm as the fur of an ermine."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "“Looks as if she had on an ulster,” said one of the many fairies, some of whom thought she looked too sweet for any use."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "And yet, so far, there was no real flower, but only a defence, like armor, against those worst enemies of a plant, cold and frost."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "“ Now for beauty and for glory,” said the Queen."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "Out of, and on top, the dense star-like mass of warmth and coziness, as if robed for a skiing or skating party, there blossomed forth many round-headed tufts, or rosettes, that were pearly white."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "Now, not only thickly clothed, but beautiful and strong, the Noble White was given a home at once in a rock cranny."
+    },
+    {
+     "id": "p055.s02",
+     "source": "Like a new-born baby, that, as soon as it arrives, sticks its thumb in its mouth, as much as to say, “This world is all right; I am going to like it,” the Edelweiss rooted itself at once and began to grow."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "Years passed by, and the lovely white flower, flourishing where only the chamois and the ibex among animals lived, or the red Alpine rose could bloom, multiplied."
+    },
+    {
+     "id": "p056.s02",
+     "source": "Like a brave army, it moved steadily forward, occupying every crevice, [ ] cranny and hollow."
+    },
+    {
+     "id": "p056.s03",
+     "source": "These the hardy plants held, like forts, against all cold comers; yes, even resisting the avalanches, that tried to crush these little strangers."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "In a few hundred years, thousands of the Noble White plants dotted, or made beautiful, the bare rocks, or hung over the precipices."
+    },
+    {
+     "id": "p057.s02",
+     "source": "In vain did the icy breath of polar winds, or the blasts of the rude Frost Giants, or even the hurtling avalanches, drive the Edelweiss away."
+    },
+    {
+     "id": "p057.s03",
+     "source": "Nor was the hot south wind, the Föhn able to wither it."
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "Swiss maidens made this flower the emblem of their own purity, and also of the tenacity of faithful lovers."
+    },
+    {
+     "id": "p058.s02",
+     "source": "At the wrestling and shooting matches, the young men wore its flowers in their hats, or twisted them among the ropes, which marked off the boundaries of their games and wrestling bouts."
+    },
+    {
+     "id": "p058.s03",
+     "source": "To heroes, it was the symbol of perseverance, endurance and that quiet force which compels victory."
+    },
+    {
+     "id": "p058.s04",
+     "source": "Patriots so loved it, because of its resisting power—the spirit of advance instead of retreat—that they would gladly make it the national flower."
+    },
+    {
+     "id": "p058.s05",
+     "source": "Switzerland—the Edelweiss among nations—has held its own for ages, maintaining her life and independence despite the alien power of invaders and tyrants, and the Swiss still sing their national hymn, “Stand fast, O Fatherland!” [ ]"
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "So also Edelweiss, the Noble White, remains forever as the Swiss emblem of their republic, and of its beauty and permanence."
+    },
+    {
+     "id": "p059.s02",
+     "source": "To destroy this flower, the Frost Giants make their continual assaults in vain."
+    },
+    {
+     "id": "p059.s03",
+     "source": "Just as mighty monarchs have tried again and again to overwhelm, as with avalanche of invasion, the freedom of the Swiss, and have always failed, so the Edelweiss never yields."
+    },
+    {
+     "id": "p059.s04",
+     "source": "Its white banner hangs forever on the heights."
+    },
+    {
+     "id": "p059.s05",
+     "source": "To every boy and girl, it is, as a living motto, bearing, amid snow and ice, the message of Excelsior—Higher yet and ever onward! [ ]"
+    }
+   ],
+   "id": "p059"
   }
  ]
 }

@@ -4,7 +4,7 @@
 - **Source book:** *Shan Folk Lore Stories from the Hill and Water Country*
 - **Author / collector / translator:** Griggs, William Charles (author)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #32375 — https://www.gutenberg.org/ebooks/32375 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #32375 — https://www.gutenberg.org/ebooks/32375
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

@@ -4,7 +4,7 @@
 - **Source book:** *Gaal György magyar népmese-gyűjteménye (1. kötet)*
 - **Author / collector / translator:** Gaal, György (author, d. 1855)
 - **Original language of this text:** hu
-- **Source:** Project Gutenberg eBook #39299 — https://www.gutenberg.org/ebooks/39299 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #39299 — https://www.gutenberg.org/ebooks/39299
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

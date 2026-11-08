@@ -1,0 +1,82 @@
+{
+ "id": "am-chile-064",
+ "title": {
+  "id": "title",
+  "source": "EL ENTIERRO DEL NARANJO (Referido en 1911, por D. J. Andrés González, de años, de Santiago.)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/064 - EL ENTIERRO DEL NARANJO (Referido en 1911, por D. J. Andrés González, de años, de Santiago.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 9,
+  "words": 253
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "En 1890, más o menos, en una casa situada en la calle de la Recoleta, de Santiago, frente a la iglesia de este nombre, en la cual vivió y murió un clérigo, habitaba un hombre que se llamaba Pedro (el informante no se acuerda del apellido), que tenía una tienda en la misma casa, y a su servicio un muchachito como de 12 años."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Una mañana encontró el dicho Pedro al muchachito tendido en el patio, sin conocimiento; después de hacerle algunos remedios, volvió en sí, pero muy asustado."
+    },
+    {
+     "id": "p001.s03",
+     "source": "El patrón le preguntó qué le había pasado, y aunque haciéndose mucho de rogar, contó al fin que en la noche salió a hacer una necesidad y cuando volvía vió en el patio, debajo de un naranjo, a un clérigo que le dijo que ahí mismo había dejado una gran cantidad de plata enterrada."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Pedro dijo al muchacho que habría soñado y que no hiciera juicio de leseras."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Al día siguiente le pagó el sueldo de un mes, le ordenó que se fuese a medicinar a su casa y que no volviera hasta que estuviere bien bueno."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "En la misma noche el hombre se puso a cavar, y efectivamente encontró un entierro."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Realizó su negocio y se fué para el campo a trabajar en tienda y despacho."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "De la plata que encontró debajo del naranjo, nada gastó hasta pasado un año, pues, de otro modo, la habría perdido toda."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Fué muy rico, pero se botó a tunante y no pasó de una modesta medianía."
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

@@ -5,7 +5,7 @@
 Imps, Ghosts and Faries*
 - **Author / collector / translator:** Yi, Yuk (author, d. 1498); Im, Pang (author, d. 1724); Gale, James Scarth (translator, d. 1937)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #51002 — https://www.gutenberg.org/ebooks/51002 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #51002 — https://www.gutenberg.org/ebooks/51002
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

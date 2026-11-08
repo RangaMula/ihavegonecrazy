@@ -1,0 +1,502 @@
+{
+ "id": "af-southern-africa-regional-tales-036",
+ "title": {
+  "id": "title",
+  "source": "Omukazi Eyava Mu Muti"
+ },
+ "tradition": "Southern Africa (regional tales)",
+ "continent": "Africa",
+ "source_lang": "lg",
+ "source_book": "African Storybook — traditional tales retold (CC BY 4.0)",
+ "credits": "Southern African Folktale Robert Ssebukyu Jemma Kahn (story, illustration and translation credits as listed by African Storybook)",
+ "gutenberg": "African Storybook story #3141 — https://www.africanstorybook.org/ (search the title)",
+ "copyright": "Creative Commons Attribution 4.0 (CC BY 4.0). Free to copy, translate and adapt for any purpose, including commercial, as long as you credit the original author(s), illustrator(s) and African Storybook and link to the licence: https://creativecommons.org/licenses/by/4.0/",
+ "markdown_file": "Africa/Southern Africa (regional tales)/036 - Omukazi Eyava Mu Muti.md",
+ "stats": {
+  "paragraphs": 44,
+  "segments": 54,
+  "words": 365
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Awo olwatuuka, ne wabaawo omusajja eyali omugagga ennyo."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Yalina ennimiro engimu n'eddundiro eddene okuli ente, endiga n'embuzi."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Bwe yagenda akaddiwa, nanakuwala nnyo kubanga teyalina mukazi."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Lumu, aba ayimiridde wansi w'omuti n'afuna ekirowoozo."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Nti oba nga yali tasobola kufuna omukyala, waakiri asobola okwekolerayo omu?"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Awo bwe yalaba ettabi eddungi n'atandika okubajjamu omukyala omulungi."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Ng'amazze okubajja, n'akwatta ku maaso g'ekibajje ne gafuuka amaaso ddala."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Ekibajje n'akifuuwamu omukka ne kifuna obulamu."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Oyo ye mukyala omulungi ennyo gwe yali talababangako."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Yafukamira mu maaso ge n'amusaba abeere mu kaziwe."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Yamwambaza ekyambalo ky'obugole, embira, n'omuge n'alabikira ddala ng'omugole bw'abera."
+    },
+    {
+     "id": "p009.s02",
+     "source": "N'amuzimbira ennyumba ey'obudongo n'essubi mweyawummuliranga."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"Ekintu kimu kye nkusaba."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Tobuulirangako omuntu yenna gye wava.\""
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Naye nga tewannayita kiseera kinene, abavubuka ku kyalo eky'okumulirano baatandika okwogera bokka na bokka nti, \"Kijja kitya omusajja omukadde bw'atyo okubeera n'omukyala omuto ate nga mulungi nyo bw'atyo?\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Kye baava basalawo bamubbe bamutwale mu kiraalo kyabwe."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Omusajja omukadde okumubbako omukyala ky'amukutula omutima era n'alowooza nti tasobola kubeerawo nga talina mukyala."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Kye yava alowooza nti, \"Singa mbadde nnina ekintu kye kyonna oba sandinakuwadde nnyo?\""
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Bw'atyo n'asindika amayuba ge okumunoonya, gamuyimbire n'okumuleetera ekintu kyonna eky'omukyala."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Amayuba bwe gaamusanga ne gamuyimbira mu lulimi lw'ebinyonyi:"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Omukazi omubajje"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Omukazi omubajje"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Oli mulungi okukira"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Abakazi abalala"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Balo atutumye okuzzaayo"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Ekyambalo kyo"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Omukazi n'awa amayuba ekyambalo ne gabuuka ne gakitwalira bba."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Bwe yakyebika mumaaso, n'awulira bulungi okumala akaseera."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Naye ebirowoozo bye tebyatereera."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Era n'addamu n'atuma amayuba ge okumuyimbira:"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Omukazi omubajje"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Omukazi omubajje"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Olimulungi okukira"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Abakazi abalala"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Balo atutumye okuzzayo"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Engule yo"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Ne biddayo n'engule ng'akabonero k'omukazi omufumbo."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Yakwata engule n'agissa ku nnyindo nga bw'asika omukka ng'ali eyo mu biraalo by'abantu abalala."
+    },
+    {
+     "id": "p032.s02",
+     "source": "Nga wayise akaseera, yaddamu nate okuyita amayuba ge era n'agatuma gaddeyo gamuyimbire:"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Omukazi omubajje"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Omukazi omubajje"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Olimulungi okukira"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Abakazi abalala"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Balo atutumye okuzzaayo"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Obulamu bwo"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Era amayuba ne gaddayo ogwokusatu."
+    },
+    {
+     "id": "p039.s02",
+     "source": "Ne gagwa ku bibegabega bye, ne bimubojja amaaso ge gombi nga bwe biyimba."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Amangu ago, n'afuuka ekibajje."
+    },
+    {
+     "id": "p040.s02",
+     "source": "Ebigere bye n'emikono gye ne bikutukako n'omutwe gwe era bw'atyo yenna n'agwa wansi."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "Omwami we n'asindika mpola mpola ekibajje okutuuka ku mugga."
+    },
+    {
+     "id": "p041.s02",
+     "source": "N'amuyimiriza mu mazzi n'ekikolo kye kiri mu ttaka."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "Era bwe yafuna amazzi n'ettaka lye yamusimbamu, yaddamu n'amera ebikoola."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "Era embuyaga bw'ekuunta ebikoola nga byenyeenya nga bwe bivaamu eddoboozi."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "Nga bikolera ddala ng'omukazi bw'akola ng'ayagala bba."
+    }
+   ],
+   "id": "p044"
+  }
+ ]
+}

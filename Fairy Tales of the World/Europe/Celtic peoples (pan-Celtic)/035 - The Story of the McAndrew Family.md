@@ -4,7 +4,7 @@
 - **Source book:** *More Celtic Fairy Tales*
 - **Author / collector / translator:** Jacobs, Joseph (editor, d. 1916)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #34453 — https://www.gutenberg.org/ebooks/34453 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #34453 — https://www.gutenberg.org/ebooks/34453
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

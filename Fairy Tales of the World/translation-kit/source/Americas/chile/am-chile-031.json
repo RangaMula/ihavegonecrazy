@@ -1,0 +1,76 @@
+{
+ "id": "am-chile-031",
+ "title": {
+  "id": "title",
+  "source": "Los Guairaos Y El Sapo"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/031 - Los Guairaos Y El Sapo.md",
+ "stats": {
+  "paragraphs": 5,
+  "segments": 6,
+  "words": 53
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Iban volando dos Guairaos y divisan a un Sapo que estaba de espaldas con la guata al sol, tan blanquita, que le brillaba."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Dice un Guairao al otro:"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "—Hermanito, el que está ahí ¿no es un Sapo?"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Y el Sapo, que los oye, le contesta:"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Entonces el Guairao dijo:"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Y se lo comió."
+    }
+   ],
+   "id": "p005"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "id": "am-chile-036",
+ "title": {
+  "id": "title",
+  "source": "LA VIUDA (Me lo contó el joven estudiante D. Carlos Puccio, de Molina y años de edad, en 1911.)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/036 - LA VIUDA (Me lo contó el joven estudiante D. Carlos Puccio, de Molina y años de edad, en 1.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 2,
+  "words": 52
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Cuando construían el hospital de Molina, a los que pasaban cerca de él a las 12 de la noche, les salía una mujer vestida de negro (a los que iban a caballo se les montaba al anca), y del susto, perdían el conocimiento."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Entonces la mujer les robaba todo lo que llevaban."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

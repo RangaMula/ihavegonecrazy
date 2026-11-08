@@ -1,0 +1,24 @@
+# La fustots
+
+- **Tradition:** Catalonia (Catalan people) (Europe)
+- **Source book:** *Lo rondallayre*
+- **Author / collector / translator:** Maspons i Labrós, Francesc (author, d. 1901)
+- **Original language of this text:** ca
+- **Source:** Project Gutenberg eBook #75409 — https://www.gutenberg.org/ebooks/75409
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Hi havia un pare que tenia tres fillas, totas tres guapas y hermosas y per ell molt estimadas, tant que volent saber si dignament á lo seu amor corresponian, un dia las hi va preguntar com cadescuna d’ellas lo estimava y la mes gran li va dir que lo estimava com lo pa, la mitjana com lo vi y la mes petita va dirli que lo estimava com la sal. De qual resposta ne fou molt enujat lo pare per tenir á la sal com á poca cosa y maná á los seus criats que inmediatament la agafessin y la duguessin á matarla, mostrantli despres com á cumpliment de sas ordres, una ampolleta de sanch y’l dit mes gros del peu.
+
+Mes los criats ne tingueren molta de llástima, agafaren una gallina que al esser al mitj del bosch mataren, ompliren de sa sanch l’ampolleta, llevaren lo dit á la noya y la deyxaren tota sola. Llavoras ella se’n va anar y tot caminant arrivá á una pagesía en la quina la prengueren pera guardar las ocas, y li’n feren uns sochs y vestit de trossets de fusta que per aixó l’anomenavan la Fustots. Mes ella’n tenia d’amagat un tot d’or y plomas de canari y cada vegada que anava á guardar las ocas se’l posava y las ocas la descovrian tot arreu, posantse á cantar desseguida
+
+Fins al davant de los seus amos ho cantavan, los quins ni sisquera’n feyan gens de cas, ans al contrari la tenian molt aburrida com que sempre se’n burlavan, y cada vegada que espetarrallava la llenya, deyan que era un poll de la Fustots, que al foch queya.
+
+Y veus aquí que un dia mentres estava guardant las ocas s’ensopegá á passar lo fill del rey, lo qui com la vejés tan ben vestida tota d’or y plomas y tan hermosa, s’hi acostá per estranyesa que del cas tenia y preguntali com era allí ab aquellas vestiduras y fent feyna tan baixa essentne tan gentil y bella. Y la noya li contá com la havian treta de casa seva per la resposta que havia dada, y ho feu ab tanta dolor y senzillesa que’l príncep se’n agradá y se l’endugué á lo palau dels seus pares. Y com de tractes n’ixen bodas ben prompte la prengué per esposa y’l dia en que foren celebradas convingueren en convidarhi al pare y á las germanas de la noya, arreglantne lo dinar sense gens ni mica de sal en la vianda.
+
+Veus aquí que’ls pares hi anaren ab molta estranyesa de part seva de veures convidats, pus que res ne sabian, y quan foren á la hora del dinar fou servit á la taula un plat de que ningú’n pogué menjarne per fat que’n era; al esser al segon plat tampoch ningú va menjarne, vist lo qual lo príncep preguntá al pare de la noya que li semblava de la vianda y si no tenia gana que la deixés tota. Y encara que lo pare no gosava dirho per respecte que tenia, á la fi esplicá que era perque trobava la vianda tan dolsa que semblava que no haguessin tirat gens de sal á l’olla. A lo qual va respondre lo príncep que be podia esser, mes que com á la sua esposa la havian treta una vegada de casa seva y fins manat matarla perque havia dit que com la sal estimava á lo seu pare, ell havia cregut que no devia posarne á la vianda, pus que segons parer de lo dit pare no era cosa gens necessaria.
+
+Lo pare y las germanas eran mes aturdits que no sabian tornar resposta y maravellats de veure á la sua filla y germana per sols sos merits posada en tan alt puesto. Reconegueren la sua culpa y abrassaren á la princesa, diguentli que be coneixian ara lo molt que estimava al pare y que’ls concedís perdó de la seva malifeta. Y la noya ab llágrimas als ulls los hi mostrá quant era’l seu amor y foren tots molt contents y felissos, que tothom ne rebé alegria.
+
+Altres, fan eixir á la noya de casa seva y guardar porchs fins que un dia veyent una gran festa en una casa per hont passava hi va ficarshi per veure si la necessitavan per alguna cosa y la van encarregar de la cuina. Y era que’s casava la seva germana gran, y la noya ben prompte la conegué aixis com á son pare que anava per tot arreu pera que tot estés á lo seu punt y hora, y va arreglar lo dinar sense gota de sal; de modo que quan foren á taula ningú pogué menjar res de fat qu’era y lo pare tot enfadat cridá qui era que havia cuinat alló y comparegué la noya y va dir que com un dia hagués respost á lo seu pare que l’estimava com la sal, est tenint á n’aquesta per poca cosa, se’n enujá tan d’ella que la tragué de casa, rahó per la qual desde llavoras may mes ne posá sal á la vianda. Y lo pare coneixent la sua falta y la rahó que tenia sa filla corregué á ella, l’abrassá y li demaná perdó de la sua culpa.

@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-044",
  "title": {
   "id": "title",
-  "source": "The Tribe That Grew Out Of A Shell"
+  "source": "Why The Night-Hawk'S Wings Are Beautiful"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Thirty Indian Legends",
- "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/044 - The Tribe That Grew Out Of A Shell.md",
+ "source_book": "Indian Why Stories: Sparks from War Eagle's Lodge-Fire",
+ "credits": "Linderman, Frank Bird (author, d. 1938)",
+ "gutenberg": "Project Gutenberg eBook #606 — https://www.gutenberg.org/ebooks/606",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/044 - Why The Night-Hawk'S Wings Are Beautiful.md",
  "stats": {
   "paragraphs": 19,
-  "segments": 63,
-  "words": 877
+  "segments": 66,
+  "words": 1090
  },
  "paragraphs": [
   {
@@ -23,27 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Once, when the land along the Missouri River was uninhabited, save by the beaver and other animals, a snail lay asleep on the bank of the river."
-    },
-    {
-     "id": "p001.s02",
-     "source": "One day the waters began to rise, and soon came up to where he lay."
-    },
-    {
-     "id": "p001.s03",
-     "source": "They swept him out, and he was carried some miles down by the current."
-    },
-    {
-     "id": "p001.s04",
-     "source": "When the waves lowered, he found himself bedded deep in the mud."
-    },
-    {
-     "id": "p001.s05",
-     "source": "He tried to free himself, but he could not."
-    },
-    {
-     "id": "p001.s06",
-     "source": "He was hungry and tired, and at last became so discouraged that he would not try any more."
+     "source": "I was awakened by the voice of the camp-crier, and although it was yet dark I listened to his message."
     }
    ],
    "id": "p001"
@@ -53,19 +33,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Then a strange thing happened."
+     "source": "The camp was to move."
     },
     {
      "id": "p002.s02",
-     "source": "He felt his shell crack, and his head began to rise upright."
-    },
-    {
-     "id": "p002.s03",
-     "source": "His body and legs grew and lengthened, and at last he felt arms stretching out from his sides."
-    },
-    {
-     "id": "p002.s04",
-     "source": "Then he stood upright—a MAN."
+     "source": "All were to go to the mouth of the Maria's—\"The River That Scolds at the Other\"—the Indians call this stream, that disturbs the waters of the Missouri with its swifter flood."
     }
    ],
    "id": "p002"
@@ -75,19 +47,19 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "He felt very stupid at first, but after a while some thoughts came to him."
+     "source": "On through the camp the crier rode, and behind him the lodge-fires glowed in answer to his call."
     },
     {
      "id": "p003.s02",
-     "source": "He knew he was hungry and wished he were a snail again; for he knew how to get food as a snail, but not as a man."
+     "source": "The village was awake, and soon the thunder of hundreds of hoofs told me that the pony-bands were being driven into camp, where the faithful were being roped for the journey."
     },
     {
      "id": "p003.s03",
-     "source": "He saw plenty of birds, but did not know how to kill them."
+     "source": "Fires flickered in the now fading darkness, and down came the lodges as though wizard hands had touched them."
     },
     {
      "id": "p003.s04",
-     "source": "He wandered on through the forest, until he became so tired that he lay down to rest."
+     "source": "Before the sun had come to light the world, we were on our way to \"The River That Scolds at the Other.\""
     }
    ],
    "id": "p003"
@@ -97,11 +69,19 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "He heard a gentle voice speaking to him, and looking up, he saw the Great Spirit, who was seated on a snow-white horse."
+     "source": "Not a cloud was in the sky, and the wind was still."
     },
     {
      "id": "p004.s02",
-     "source": "His eyes shone like stars, and his hair like threads of gold."
+     "source": "The sun came and touched the plains and hilltops with the light that makes all wild things glad."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Here and there a jack-rabbit scurried away, often followed by a pack of dogs, and sometimes, though not often, they were overtaken and devoured on the spot."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Bands of graceful antelope bounded out of our way, stopping on a knoll to watch the strange procession with wondering eyes, and once we saw a dust-cloud raised by a moving herd of buffalo, in the distance."
     }
    ],
    "id": "p004"
@@ -111,7 +91,19 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "\"Wasbashas, why are you trembling?\""
+     "source": "So the day wore on, the scene constantly changing as we travelled."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Wolves and coyotes looked at us from almost every knoll and hilltop; and sage-hens sneaked to cover among the patches of sage-brush, scarcely ten feet away from our ponies."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Toward sundown we reached a grove of cottonwoods near the mouth of the Maria's, and in an incredibly short space of time the lodges took form."
+    },
+    {
+     "id": "p005.s04",
+     "source": "Soon, from out the tops of a hundred camps, smoke was curling just as though the lodges had been there always, and would forever remain."
     }
    ],
    "id": "p005"
@@ -121,11 +113,15 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "\"I am frightened,\" replied the man, \"because I stand before the One who raised me from the ground."
+     "source": "As soon as supper was over I found the children, and together we sought War Eagle's lodge."
     },
     {
      "id": "p006.s02",
-     "source": "I am faint from hunger, for I have eaten nothing since I left the shell in the bank of the river.\""
+     "source": "He was in a happy mood and insisted upon smoking two pipes before commencing his story-telling."
+    },
+    {
+     "id": "p006.s03",
+     "source": "At last he said:"
     }
    ],
    "id": "p006"
@@ -135,19 +131,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"Look, Wasbashas,\" said the spirit, as he drew forth a beautiful bow and arrow."
+     "source": "\"To-night I shall tell you why the Nighthawk wears fine clothes."
     },
     {
      "id": "p007.s02",
-     "source": "Putting an arrow into the bow, he aimed at a bird in a tree near by."
+     "source": "My grandfather told me about it when I was young."
     },
     {
      "id": "p007.s03",
-     "source": "He shot, and the bird fell."
+     "source": "I am sure you have seen the Night-hawk sailing over you, dipping and making that strange noise."
     },
     {
      "id": "p007.s04",
-     "source": "A deer passed just then, and the spirit shot it, also."
+     "source": "Of course there is a reason for it."
     }
    ],
    "id": "p007"
@@ -157,23 +153,27 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "\"Now, Wasbashas,\" said the spirit, \"I shall show you how to skin this deer, and show you how to make a blanket."
+     "source": "\"OLD-man was travelling one day in the springtime; but the weather was fine for that time of year."
     },
     {
      "id": "p008.s02",
-     "source": "Then you must learn to cook the flesh."
+     "source": "He stopped often and spoke to the bird-people and to the animal-people, for he was in good humor that day."
     },
     {
      "id": "p008.s03",
-     "source": "I shall give you the gift of fire."
+     "source": "He talked pleasantly with the trees, and his heart grew tender."
     },
     {
      "id": "p008.s04",
-     "source": "For now that you are a man, you must not eat raw food."
+     "source": "That is, he had good thoughts; and of course they made him happy."
     },
     {
      "id": "p008.s05",
-     "source": "You shall be placed at the head of all the animals and birds.\""
+     "source": "Finally he felt tired and sat down to rest on a big, round stone—the kind of stone our white friend there calls a bowlder."
+    },
+    {
+     "id": "p008.s06",
+     "source": "Here he rested for a while, but the stone was cold, and he felt it through his robe; so he said:"
     }
    ],
    "id": "p008"
@@ -183,7 +183,23 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "After the spirit had shown him the things he had promised, both horse and rider arose in the air and vanished."
+     "source": "\"'Stone, you seem cold to-day."
+    },
+    {
+     "id": "p009.s02",
+     "source": "You may have my robe."
+    },
+    {
+     "id": "p009.s03",
+     "source": "I have hundreds of robes in my camp, and I don't need this one at all.'"
+    },
+    {
+     "id": "p009.s04",
+     "source": "That was a lie he told about having so many robes."
+    },
+    {
+     "id": "p009.s05",
+     "source": "All he had was the one he wore."
     }
    ],
    "id": "p009"
@@ -193,7 +209,19 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Wasbashas walked on down the river until he came to a place where a beaver was lying."
+     "source": "\"He spread his robe over the stone, and then started down the hill, naked, for it was really a fine day."
+    },
+    {
+     "id": "p010.s02",
+     "source": "But storms hide in the mountains, and are never far away when it is springtime."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Soon it began to snow—then the wind blew from the north with a good strength behind it."
+    },
+    {
+     "id": "p010.s04",
+     "source": "OLD-man said:"
     }
    ],
    "id": "p010"
@@ -203,11 +231,19 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "\"Good-day,\" said the beaver."
+     "source": "\"'Well, I guess I do need that robe myself, after all."
     },
     {
      "id": "p011.s02",
-     "source": "\"Who are you?\""
+     "source": "That stone never did anything for me anyhow."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Nobody is ever good to a stone."
+    },
+    {
+     "id": "p011.s04",
+     "source": "I'll just go back and get my robe.'"
     }
    ],
    "id": "p011"
@@ -217,15 +253,23 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"I am a man."
+     "source": "\"Back he went and found the stone."
     },
     {
      "id": "p012.s02",
-     "source": "The Great Spirit raised me from a shell, and now I am head of all the animals."
+     "source": "Then he pulled the robe away, and wrapped it about himself."
     },
     {
      "id": "p012.s03",
-     "source": "And who are you?\""
+     "source": "Ho! but that made the stone angry—Ho!"
+    },
+    {
+     "id": "p012.s04",
+     "source": "OLD-man started to run down the hill, and the stone ran after him."
+    },
+    {
+     "id": "p012.s05",
+     "source": "Ho! it was a funny race they made, over the grass, over smaller stones, and over logs that lay in the way, but OLD-man managed to keep ahead until he stubbed his toe on a big sage-brush, and fell—swow!"
     }
    ],
    "id": "p012"
@@ -235,11 +279,11 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "\"I am a beaver."
+     "source": "\"'Now I have you!' cried the stone—'now I'll kill you, too!"
     },
     {
      "id": "p013.s02",
-     "source": "Will you come with me until I show you how we build our lodges?\""
+     "source": "Now I will teach you to give presents and then take them away,' and the stone rolled right on top of OLD-man, and sat on his back."
     }
    ],
    "id": "p013"
@@ -249,11 +293,23 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Wasbashas followed the beaver and watched him cut down a tree with his teeth."
+     "source": "\"It was a big stone, you see, and OLD-man couldn't move it at all."
     },
     {
      "id": "p014.s02",
-     "source": "Then the animal showed him how they dammed up the river, by letting the trees fall across it and filling the spaces between with mud and leaves."
+     "source": "He tried to throw off the stone but failed."
+    },
+    {
+     "id": "p014.s03",
+     "source": "He squirmed and twisted—no use—the stone held him fast."
+    },
+    {
+     "id": "p014.s04",
+     "source": "He called the stone some names that are not good; but that never helps any."
+    },
+    {
+     "id": "p014.s05",
+     "source": "At last he began to call:"
     }
    ],
    "id": "p014"
@@ -263,31 +319,23 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "\"Now will you come and visit my lodge?\" said the beaver chief."
+     "source": "\"'Help!—Help!—Help!' but nobody heard him except the Night-hawk, and he told the OLD-man that he would help him all he could; so he flew away up in the air—so far that he looked like a black speck."
     },
     {
      "id": "p015.s02",
-     "source": "He led Wasbashas to his neat lodge made of clay and shaped like a cone."
+     "source": "Then he came down straight and struck that rock an awful blow—'swow!'—and broke it in two pieces."
     },
     {
      "id": "p015.s03",
-     "source": "The floor was carpeted with mats."
+     "source": "Indeed he did."
     },
     {
      "id": "p015.s04",
-     "source": "The beaver's wife and daughter received the stranger kindly."
+     "source": "The blow was so great that it spoiled the Night-hawk's bill, forever—made it queer in shape, and jammed his head, so that it is queer, too."
     },
     {
      "id": "p015.s05",
-     "source": "They busied themselves getting a meal ready, and soon brought dishes of peeled poplar and alder bark."
-    },
-    {
-     "id": "p015.s06",
-     "source": "Wasbashas did not like the taste of it, but managed to eat a few pieces."
-    },
-    {
-     "id": "p015.s07",
-     "source": "The beavers seemed to enjoy the meal very much."
+     "source": "But he broke the rock, and OLD-man stood upon his feet."
     }
    ],
    "id": "p015"
@@ -297,15 +345,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Wasbashas had been watching the daughter, and he liked her nice, tidy ways and the respect she showed her father."
+     "source": "\"'Thank you, Brother Night-hawk,' said OLD-man, 'now I will do something for you."
     },
     {
      "id": "p016.s02",
-     "source": "In the evening he asked the chief if he would give the maiden to him for his bride."
-    },
-    {
-     "id": "p016.s03",
-     "source": "The chief was very pleased at the idea, for he liked Wasbashas."
+     "source": "I am going to make you different from other birds—make you so people will always notice you.'"
     }
    ],
    "id": "p016"
@@ -315,23 +359,11 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "The beaver invited all the animals to the feast, which was to be held the next day."
+     "source": "\"You know that when you break a rock the powdered stone is white, like snow; and there is always some of the white powder whenever you break a rock, by pounding it."
     },
     {
      "id": "p017.s02",
-     "source": "Early the following morning they began to arrive."
-    },
-    {
-     "id": "p017.s03",
-     "source": "First came the beavers, each bringing a present of a lump of clay on his flat tail."
-    },
-    {
-     "id": "p017.s04",
-     "source": "Next came the otters, each bringing a large fish in his mouth."
-    },
-    {
-     "id": "p017.s05",
-     "source": "Later in the morning came the minks, the water-rats, and the weasels, all very proud to accept the invitation of the great chief of the beavers."
+     "source": "Well, Old-man took some of the fine powdered stone and shook it on the Night-hawk's wings in spots and stripes—made the great white stripes you have seen on his wings, and told him that no other bird could have such marks on his clothes."
     }
    ],
    "id": "p017"
@@ -341,27 +373,11 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "When the animals had all assembled, the beavers held a council among themselves."
+     "source": "\"All the Night-hawk's children dress the same way now; and they always will as long as there are Night-hawks."
     },
     {
      "id": "p018.s02",
-     "source": "After talking for some time they invited the other animals to follow them."
-    },
-    {
-     "id": "p018.s03",
-     "source": "And going a short distance down the river bank, they stopped."
-    },
-    {
-     "id": "p018.s04",
-     "source": "Each beaver took the lump of clay he had brought with him and placed it near the water's edge."
-    },
-    {
-     "id": "p018.s05",
-     "source": "Then they began to build a dome-shaped lodge of small pieces of trees and the clay."
-    },
-    {
-     "id": "p018.s06",
-     "source": "After several hours of steady work it was finished, and then they went to the chief's lodge, where the feast was to be held."
+     "source": "Of course their clothes make them proud; and that is why they keep at flying over people's heads—soaring and dipping and turning all the time, to show off their pretty wings."
     }
    ],
    "id": "p018"
@@ -371,15 +387,11 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "When the meal was over the snail man and the beaver maiden were led to their lodge, which was the wedding-gift of the beavers."
+     "source": "\"That is all for to-night."
     },
     {
      "id": "p019.s02",
-     "source": "Here they lived happy ever after."
-    },
-    {
-     "id": "p019.s03",
-     "source": "Many years later their descendants were called the Osages tribe of Indians."
+     "source": "Muskrat, tell your father I would run Buffalo with him tomorrow—Ho!\""
     }
    ],
    "id": "p019"

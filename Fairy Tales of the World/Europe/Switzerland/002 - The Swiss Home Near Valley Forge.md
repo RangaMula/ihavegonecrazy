@@ -1,0 +1,72 @@
+# The Swiss Home Near Valley Forge
+
+- **Tradition:** Switzerland (Europe)
+- **Source book:** *Swiss Fairy Tales*
+- **Author / collector / translator:** Griffis, William Elliot (author, d. 1928)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #69739 — https://www.gutenberg.org/ebooks/69739
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Only a few days did the Harbys abide on the banks of the Delaware, in the little city of Brotherly Love, where lived a few hundred people, mostly Friends, in drab clothes. Then, from one of William Penn’s land agents—the ancestor of American bishops—John Harby bought a farm. It lay on a piece of high ground, at Barren Hill, which was part of a ridge near the Schuylkill river. It was named after the bears that were still numerous in the forests that then clothed the land. It is known as Lafayette Hill and we shall soon see why. The neighborhood afforded good hunting, for any young man, that had brought his chamois rifle with him. One of the active fellows, who was reckoned a sure shot, was Harby’s nephew, of whom we shall hear later. He shot many deer and the family had venison often. Not far away was White Marsh. Over in another direction, was Fox Chase, where they had hounds and hunted foxes. [ ]
+
+Only a few miles distant, across the Hidden Stream, or Schuylkill, as the Dutch had named the river, was the valley forge, where the farmers in the region around had their tools made and mended.
+
+Not far away, on the hill, was soon built Saint Peter’s Lutheran church. In Switzerland, the Harbys had been members of the Reformed church, but all the people of the neighborhood now worshipped together.
+
+The Harbys made their house first of logs of wood, notched at the corners. Trees were plentiful, and the forest was near at hand. Many things were about them to remind them of their old home, though there were no glaciers, or avalanches, or high mountains, with snow lying on them all the year round, and all was as yet rough, in the new country.
+
+When the barn had been built, the cows, pigs and fowls made things look friendly and sociable. They had no cuckoo clock any more, but it was really homelike to hear the cocks crow at sunrise. This sound was certainly much pleasanter, indeed, than to hear the howling of the wolves at night. Occasionally, early in the morning, the Harbys would see a bear in the barnyard, and they had to keep the chickens locked up in the chicken house, for foxes were plentiful, and always on the watch for a poultry dinner. Wild [ ] turkeys—a new sort of bird for them—and wild pigeons were plentiful. Benjamin Franklin, who was then a little boy in Boston, the oldest in a family of seventeen children, when a grown man, wanted to make the wild turkey, which gives food to man, the national emblem, instead of the eagle, that lives on flesh and kills little birds.
+
+Inside the house, there were wide seats at the chimney side, and puss purred in front of the great hearth fire. Outside, the dogs kept watch and ward, and often had a lively tussle with wolves and young bears.
+
+When spring time came, the girls went blossom hunting. One very common flower, which they had known in Switzerland, the Pearly Everlasting, somehow reminded them of the Edelweiss. Daddy, who loved trees, almost to worship, saluted the same species as those which he had seen growing in the Old World—fir, birch, pine, and oak; but the persimmon tree was new to him and he enjoyed the autumn fruit, which the frost seemed to ripen; while the sugar maple was as good as a fairy tale, for the idea of a tree bearing candy was wonderful. In fact, the Harbys hailed the trees as friends, true and tried, with reverence and awe.
+
+A generation came and went, and soon there was a little God’s acre around the little church [ ] on the hill top. The Hess family, from Zurich, also had made their home near by, at Whitemarsh, and several couples of the young men and maidens of the two households made love and married together.
+
+The fathers and mothers, who had known the old home land beyond the sea, talked often of chamois and ibex, and edelweiss and the rock roses, and the meadow flowers, and the cows and the yodel music. When they spoke of the “Alps,” they meant the summer pastures high up, and not mountains. At times, especially in June, they felt homesick for the yodel songs and the Alpine horn echoes. They spoke often of the curious things at Neuchatel, and Berne, and Zurich, and the Lake of the Four Cantons. They sang the hymns of Heimath, or Home, and of the Fatherland, and of the Heavenly Land, and recounted the exploits of the Swiss heroes. The children were taught not to be afraid of the dark, and all knew by heart many hymns, especially that beginning, “Alone, yet not alone with God am I.”
+
+On the other hand, the new generation told of other game, deer, bear, wolf, wild turkey and pigeons, and of new fruits like the persimmon. Their model, in civil life, was the good governor, William Penn, and their hero in valor and rescue of captives was Colonel Bouquet, the Swiss soldier [ ] in the service of their sovereign, Queen Anne. They loved her, also, because she loved the yodel music. Later came the kings named George. The flag over them was the Union Jack, which they saw float on the staff, when they went to Philadelphia often, and, occasionally, to Lancaster.
+
+Yet all this time, one great desire and romantic longing of the maidens was unfulfilled. The yearning of the girls, as they became sweethearts, wives, and mothers, was handed down, as if it were a family heirloom, to see a real prince or a nobleman, or a man with a title. They hoped that some officer, in resplendent uniform, such as they had seen in their home village, would come into their neighborhood, for they were tired of Quaker drab. Even though their grandparents were democratic by their Swiss inheritance, and almost by instinct, and though reared in the oldest of republics, and accustomed to town meetings, the little maids, Sarah and Hannah, longed to see a real pageant, a prince; or at least a marquis, and something of the pomp of courts or even of armies. They heard that the Prince of Wales, who became King George II, had indeed visited New York, and skated on the ice of the Collect Pond; but he had come and gone, as a private person, and it was not likely [ ] that either he, again, or even King George III would ever visit the colonies.
+
+Before the two little girls could know what it all meant, the Harbys heard, in their home at Barren Hill, of the Continental Congress, held in Carpenters’ Hall, in Philadelphia. In this gathering Canada was represented. Then, it was hoped that there would be fourteen stripes in the flag, which the Philadelphia City Troop of cavalry were making. But when their flag was unfurled and the handsome horsemen escorted Colonel George Washington, of Virginia, to Cambridge, many felt very sorry, that there were only thirteen, instead of the longed-for fourteen stripes, and hoped, even yet, that Canada would join.
+
+War broke out. From the new State House, in Philadelphia, then one of the most wonderful buildings in any of the colonies, floated the flag of thirteen stripes, red and white, and independence was proclaimed.
+
+Then, after two years, this same flag had as many stars in its blue field. Yet the armies of the Congress met with many disasters, and, one day the little girls out in the garden heard the boom of the cannon at Brandywine. It was not very long afterward, that the Continentals marched past the house, to make camp and winter quarters at Valley Forge. [ ]
+
+Among the young men riding on horses, as Washington’s body guard of young troopers, who were mostly Pennsylvania Swiss, or Germans, was John Harby’s nephew, Gustave. At the camp, besides being an orderly at headquarters, it was his special duty to raise, at sunrise, and lower, at sunset, the thirteen-striped flag, which now bore no longer the British Union Jack, but a blue field, in which, in a circle of glory, were thirteen stars; and he and his comrades rejoiced that the colonies had been made independent, and each stripe and star stood for a state, and all in a union. It was his people that, first of all, spoke of Washington as the “Father of his country”; or, as the minister said, “ Pater Patriæ .”
+
+The winter of 1777–78 had nearly passed and many a skirmish, between the British foraging parties, of Hessians and red coats, and the American Colonel Sheldon’s dragoons, had taken place. One fine morning, in the spring, while Gustave was taking breakfast, with his little cousins at the Harbys, all were startled by the firing of guns at Valley Forge. Evidently the Continentals were busy burning powder, but why?
+
+“A battle?” asked the mother as she glanced at her husband.
+
+At the first roll of the echoes, the young [ ] trooper, Gustave, put on his bearskin cap, seized his carbine, and rushed out to hear. Putting his ear to the ground, he made up his mind that the reports were too regular for war. Then, entering the house, he declared it must be a salvo—a feu de jeu —or joy volley.
+
+“For what, I wonder,” asked Mrs. Harby.
+
+“I know,” said Daddy. “We have been waiting for news of the alliance with France. Now, our Continentals and the sparkling Bourbonnieres will march together. Whole companies, among these, are our Swiss boys. ” Then he hummed, joyfully, the old German tune of Yankee Doodle. Perhaps now, a French fleet would come up the Delaware, blockade Philadelphia, and capture Howe’s army, as Burgoyne had been captured. At the table, they kept on talking a long time.
+
+Only a few days later, a line of wagons, driven up from a southern port, brought in supplies from France. Five of the wagons contained saddles, bridles, stirrups and a full equipment, made in France, for the whole regiment of Colonel Sheldon’s cavalry, which had been at first raised in Connecticut. This was Lafayette’s own gift, and had been paid from out of his own purse. The Continental Congress had given him a commission in the American army, with the rank of Major-General. [ ]
+
+“Why, that sounds like a prince,” murmured little Sarah to herself.
+
+A few days later, and another surprise broke the monotony of life at Barren Hill. Washington wished to know what the British in Philadelphia were going to do. Would they attack him? Or, considering his military position too strong to risk assault, would they retire to New York? Would Washington capture, or be captured?
+
+So May 18, 1778, the commander-in-chief, who trusted the young French nobleman, as fully as he would trust his oldest general, placed twenty-two hundred of his best soldiers and five cannon under his charge. He was to reconnoitre, as the French say. So Lafayette led his force out, and took up to a strong position on Barren Hill.
+
+This movement was quickly known in Philadelphia, and at once three columns of British and Hessians marched to entrap and capture Lafayette and the Continentals.
+
+All this is national history. Yet it was like a fairy tale to the little Harby maids, Sarah and Hannah, to see the Continental soldiers, now so proud of their drilling, during the long winter, by Baron Steuben. Father Hess, the night before, had sent to the nobleman from over the great sea, an invitation to breakfast. You may [ ] be sure that Mrs. Harby got out her best gold-rimmed China cups and saucers, and her caraway-seed cakes, her Zurich cookies, and her best “Dutch cake,” and silver teapot, to set before the real, live Marquis. When she told her two small daughters that she would let them wait on the young nobleman, they clapped their hands for joy. At last, they were to see, not, indeed, a prince, but a nobleman who had been at Court, talked with the mighty monarch, and who had a bride and a chateau in France.
+
+The little girls, as they brought Lafayette his food, noticed his deep red hair, his fine forehead, his pleasing mouth and firm chin, but, most of all, his clear hazel eyes. More than once, he smiled his thanks, and this was what they, long afterward, told most about. In fact, the great man’s features seemed to bespeak strength, more than beauty; but this was what all the Harbys liked.
+
+Did the British capture Lafayette? Did he show fear, when Gustave Hess, the scout, rode up and told of three columns of red coats marching by different roads? Two were on one side of the Schuylkill river, and one on the other. Surely, with their five thousand men, they would, as they fully expected, trap the Marquis; and, they might even bag his whole force. A ship was actually waiting in the Delaware river to take [ ] the young Frenchman a captive to London. Indeed, Lord Howe had invited some handsome Tory ladies to dinner, expecting to outwit Washington and to have the young Frenchman to sit as guest and captive.
+
+But the young general spoiled this game. Mounting his horse, he ordered out, what military men call “false heads of columns.” This made the British, who knew not what might be behind these front files, halt, until reinforced. Then they deployed, and, bringing up their cannon, sent a round shot that smashed the axle tree of one of Lafayette’s field pieces.
+
+Must, then, the young Frenchman abandon his gun, and face Washington, with one of his cannon lost by capture? Not he! Turning the heads of their horses, the artillery men of the Continentals drove into the Harby farm yard, drew out a wagon, lashed the dismounted cannon to the hind axle, hitched on the team, and, whipping up the steeds, the whole battery dashed toward Matson’s ford, and reached safely the camp at Valley Forge. Seven gallant American lads, in the rear guard of the young Continentals, died in the fight to save the guns for their country.
+
+But the rest of that breakfast, and all there was in the spring house, pantry, kitchen and even in the ovens, was eaten by the hot and hungry, [ ] and mad, and disappointed Hessians. The two little girls lived to tell what they had seen, and another little sister, born before the war was over, stood with them on Chestnut street in 1824, to see the Marquis de Lafayette again. He was riding in the parade and amid the general joy, when the City Troop, with their old thirteen-striped flag, of 1775, escorted the aged friend of America. And the same cannon that was saved at Barren Hill thundered welcome from its iron throat. [ ]

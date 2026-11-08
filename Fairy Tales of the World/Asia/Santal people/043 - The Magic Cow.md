@@ -4,7 +4,7 @@
 - **Source book:** *Folklore of the Santal Parganas*
 - **Author / collector / translator:** Bompas, Cecil Henry (author)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #11938 — https://www.gutenberg.org/ebooks/11938 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #11938 — https://www.gutenberg.org/ebooks/11938
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

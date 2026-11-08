@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-094",
  "title": {
   "id": "title",
-  "source": "Pawnee Beliefs"
+  "source": "Origin Of Strawberries"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
  "source_book": "Myths and Legends of the Great Plains",
  "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/094 - Pawnee Beliefs.md",
+ "markdown_file": "Americas/Native North America (various nations)/094 - Origin Of Strawberries.md",
  "stats": {
-  "paragraphs": 14,
-  "segments": 40,
-  "words": 526
+  "paragraphs": 12,
+  "segments": 30,
+  "words": 255
  },
  "paragraphs": [
   {
@@ -23,7 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Pawnee"
+     "source": "Cherokee"
     }
    ],
    "id": "p001"
@@ -33,31 +33,27 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "A t the creation of the world, lesser powers were made, because Tira’wa-tius, the Mighty Power, could not come near to man, or be seen or felt by him."
+     "source": "W hen the world was new, there was one man and one woman."
     },
     {
      "id": "p002.s02",
-     "source": "These lesser powers dwell in the great circle of the sky."
+     "source": "They were happy; then they quarreled."
     },
     {
      "id": "p002.s03",
-     "source": "One is North Star; another is Brown Eagle."
+     "source": "At last the woman left the man and began to walk away toward the Sunland, the Eastland."
     },
     {
      "id": "p002.s04",
-     "source": "The Winds were the first of the lesser powers to come near man."
+     "source": "The man followed."
     },
     {
      "id": "p002.s05",
-     "source": "Therefore, when man calls for aid, he calls first to the Winds."
+     "source": "He felt sorry, but the woman walked straight on."
     },
     {
      "id": "p002.s06",
-     "source": "They stand at the four points, and guard the four paths down which the lesser powers come when they help mankind."
-    },
-    {
-     "id": "p002.s07",
-     "source": "The Winds are always near us, by day and by night."
+     "source": "She did not look back."
     }
    ],
    "id": "p002"
@@ -67,11 +63,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "The Sun is one of these powers."
+     "source": "Then Sun, the great Apportioner, was sorry for the man."
     },
     {
      "id": "p003.s02",
-     "source": "It comes from the mighty power above; therefore it has great strength."
+     "source": "He said,"
     }
    ],
    "id": "p003"
@@ -81,23 +77,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Mother Earth is another power."
-    },
-    {
-     "id": "p004.s02",
-     "source": "She is very near to man."
-    },
-    {
-     "id": "p004.s03",
-     "source": "From her we get food; upon her we lie down."
-    },
-    {
-     "id": "p004.s04",
-     "source": "We live and walk on her."
-    },
-    {
-     "id": "p004.s05",
-     "source": "We could not exist without Mother Earth, without Sun, and without the Winds."
+     "source": "“Are you still angry with your wife?”"
     }
    ],
    "id": "p004"
@@ -107,11 +87,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Water is another lesser power."
-    },
-    {
-     "id": "p005.s02",
-     "source": "Water is necessary to mankind."
+     "source": "The man said, “No.”"
     }
    ],
    "id": "p005"
@@ -121,19 +97,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Fire made by rubbing two sticks together is sacred."
-    },
-    {
-     "id": "p006.s02",
-     "source": "It comes direct from the power granted Toharu, vegetation, in answer to man’s prayer as he rubs the sticks."
-    },
-    {
-     "id": "p006.s03",
-     "source": "When the flame leaps from the glowing wood, it is the word of the fire."
-    },
-    {
-     "id": "p006.s04",
-     "source": "The power has come near."
+     "source": "Sun said, “Would you like to have her come back to you?”"
     }
    ],
    "id": "p006"
@@ -143,11 +107,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Blue is the color of the sky, the dwelling place of Tira´ wahut, the circle of powers which watch over man."
-    },
-    {
-     "id": "p007.s02",
-     "source": "As a man paints the blue stick he sings."
+     "source": "“Yes,” said the man."
     }
    ],
    "id": "p007"
@@ -157,11 +117,27 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Red is the color of the sun."
+     "source": "So Sun made a great patch of huckleberries which he placed in front of the woman’s trail."
     },
     {
      "id": "p008.s02",
-     "source": "Green is the color of Mother Earth."
+     "source": "She passed them without paying any attention to them."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Then Sun made a clump of blackberry bushes and put those in front of her trail."
+    },
+    {
+     "id": "p008.s04",
+     "source": "The woman walked on."
+    },
+    {
+     "id": "p008.s05",
+     "source": "Then Sun created beautiful service-berry bushes which stood beside the trail."
+    },
+    {
+     "id": "p008.s06",
+     "source": "Still the woman walked on."
     }
    ],
    "id": "p008"
@@ -171,7 +147,11 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Eagle is the chief of day; Owl is chief of the night; Woodpecker is chief of the trees; Duck is chief of the water."
+     "source": "So Sun made other fruits and berries."
+    },
+    {
+     "id": "p009.s02",
+     "source": "But the woman did not look at them."
     }
    ],
    "id": "p009"
@@ -181,15 +161,31 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "The ear of corn represents the supernatural power that dwells in the earth, which brings forth the food that sustains life; there corn is spoken of as h’Atira , “mother breathing forth life.”"
+     "source": "Then Sun created a patch of beautiful ripe strawberries."
     },
     {
      "id": "p010.s02",
-     "source": "The power which dwells in the earth, which enables it to give life to all growing things, comes from above."
+     "source": "They were the first strawberries."
     },
     {
      "id": "p010.s03",
-     "source": "Therefore, in the Hako, the Pawnee ceremony, the ear of corn is painted with blue."
+     "source": "When the woman saw those, she stopped to gather a few."
+    },
+    {
+     "id": "p010.s04",
+     "source": "As she gathered them, she turned her face toward the west."
+    },
+    {
+     "id": "p010.s05",
+     "source": "Then she remembered the man."
+    },
+    {
+     "id": "p010.s06",
+     "source": "She turned to the Sunland but could not go on."
+    },
+    {
+     "id": "p010.s07",
+     "source": "She could not go any further."
     }
    ],
    "id": "p010"
@@ -199,67 +195,19 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "The wildcat was made to live in the forest."
+     "source": "Then the woman picked some of the strawberries and started back on her trail, away from the Sunland."
     },
     {
      "id": "p011.s02",
-     "source": "He has much skill and ingenuity."
-    },
-    {
-     "id": "p011.s03",
-     "source": "The wildcat shows us we must think, must use tact, must be shrewd when we set out to do anything."
-    },
-    {
-     "id": "p011.s04",
-     "source": "The wildcat is one of the sacred animals."
+     "source": "So her husband met her, and they went back together."
     }
    ],
    "id": "p011"
   },
   {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p012.s01",
-     "source": "Trees grow along the banks of the streams; we can see them at a distance, like a long line, and we can see the river glistening in the sunlight in its length."
-    },
-    {
-     "id": "p012.s02",
-     "source": "We sing to the river, and when we come nearer and see the water and hear it rippling along, then we sing to the water, the water that ripples as it runs."
-    }
-   ],
-   "id": "p012"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p013.s01",
-     "source": "Hills were made by Tira’wa."
-    },
-    {
-     "id": "p013.s02",
-     "source": "We ascend hills when we go away alone to pray."
-    },
-    {
-     "id": "p013.s03",
-     "source": "From the top of a hill we can look over the country to see if there are enemies in sight, or if any danger is near us."
-    },
-    {
-     "id": "p013.s04",
-     "source": "We can see if we are to meet friends."
-    },
-    {
-     "id": "p013.s05",
-     "source": "The hills help man, so we sing to them."
-    }
-   ],
-   "id": "p013"
-  },
-  {
    "type": "break",
    "segments": [],
-   "id": "p014"
+   "id": "p012"
   }
  ]
 }

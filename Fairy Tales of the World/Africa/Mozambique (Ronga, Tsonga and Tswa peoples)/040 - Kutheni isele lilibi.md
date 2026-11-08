@@ -1,0 +1,28 @@
+# Kutheni isele lilibi?
+
+- **Tradition:** Mozambique (Ronga, Tsonga and Tswa peoples) (Africa)
+- **Source book:** *African Storybook — traditional tales retold (CC BY 4.0)*
+- **Author / collector / translator:** Mozambican folktale Nokuthula Bernelee Dyonase Hélder de Paz Alexandre (story, illustration and translation credits as listed by African Storybook)
+- **Original language of this text:** isiXhosa
+- **Source:** African Storybook story #13083 — https://www.africanstorybook.org/ (search the title)
+- **Copyright status:** Creative Commons Attribution 4.0 (CC BY 4.0). Free to copy, translate and adapt for any purpose, including commercial, as long as you credit the original author(s), illustrator(s) and African Storybook and link to the licence: https://creativecommons.org/licenses/by/4.0/
+
+---
+
+Kudala-dala, icilikishe nesele babe ngabahlobo.
+
+Isele lalinomona bubuhle nenkazimlo yecilikishe.
+
+"Wenze njani ukuze ubemhle? Jonga mna, ndimbi. Ndenze njani ngolwam ulusu?" latsho isele.
+
+Lathi icilikishe, "Mamela, galela amanzi embizeni uyibeke emlilweni. Ecaleni kwakho."
+
+Kodwa isele lathi, "Sendiyazi, ndiyayazi. Thula, mhlobo wam." Lahamba.
+
+Lafika ekhaya lagalela amanzi embizeni.
+
+Athe xa amanzi eqala ukubila, lazijula kuwo.
+
+Ze latsha ulusu lakhe, laqhawukelwa nangumsila.
+
+Endaweni yokuba liqhakazele libelihle nje ngecilikishe, laba libi nangakumbi!

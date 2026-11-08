@@ -5,7 +5,7 @@
 Stories Told by Penobscot, Passamaquoddy and Micmac Indians to Abby L. Alger*
 - **Author / collector / translator:** Alger, Abby Langdon (author, d. 1917)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #51908 — https://www.gutenberg.org/ebooks/51908 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #51908 — https://www.gutenberg.org/ebooks/51908
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

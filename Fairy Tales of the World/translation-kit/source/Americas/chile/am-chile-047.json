@@ -1,0 +1,36 @@
+{
+ "id": "am-chile-047",
+ "title": {
+  "id": "title",
+  "source": "La Cueva De La Mula"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/047 - La Cueva De La Mula.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 2,
+  "words": 91
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "En un cerro que se levanta al lado sur del Tinguiririca, en el departamento de San Fernando, por cuya falda pasa el camino del Calabozo, hay una cueva de Salamanca que tiene a la entrada una gran piedra en que se ve estampada una pata de mula."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Para entrar a esta cueva deben hacerlo varias personas en compañía, las cuales pueden tomar para sí lo que quieran de un gran tesoro que hay en el medio de ella; pero, para salir, tienen que dejar encerrado a uno de los que entraron."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

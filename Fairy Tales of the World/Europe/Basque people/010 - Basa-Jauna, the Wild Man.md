@@ -4,7 +4,7 @@
 - **Source book:** *Basque Legends; With an Essay on the Basque Language*
 - **Author / collector / translator:** Webster, Wentworth (author, d. 1907)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #34902 — https://www.gutenberg.org/ebooks/34902 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #34902 — https://www.gutenberg.org/ebooks/34902
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

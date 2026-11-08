@@ -2,20 +2,20 @@
  "id": "as-turkey-007",
  "title": {
   "id": "title",
-  "source": "How Cobbler Ahmet Became The Chief Astrologer"
+  "source": "The Cinder-Youth"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/007 - How Cobbler Ahmet Became The Chief Astrologer.md",
+ "markdown_file": "Asia/Turkey/007 - The Cinder-Youth.md",
  "stats": {
-  "paragraphs": 33,
-  "segments": 97,
-  "words": 2126
+  "paragraphs": 29,
+  "segments": 108,
+  "words": 3175
  },
  "paragraphs": [
   {
@@ -23,15 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "very day cobbler Ahmet, year in and year out, measured the breadth of his tiny cabin with his arms as he stitched old shoes."
+     "source": "Once upon a time that was no time, in the days when the servants of Allah were many and the misery of man was great, there lived a poor woman who had three sons and one daughter."
     },
     {
      "id": "p001.s02",
-     "source": "To do this was his Kismet, his decreed fate, and he was content—and why not? his business brought him quite sufficient to provide the necessaries of life for both himself and his wife."
-    },
-    {
-     "id": "p001.s03",
-     "source": "And had it not been for a coincidence that occurred, in all probability he would have mended old boots and shoes to the end of his days."
+     "source": "The youngest son was half-witted, and used to roll about all day in the warm ashes."
     }
    ],
    "id": "p001"
@@ -41,11 +37,7 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "One day cobbler Ahmet's wife went to the Hamam (bath), and while there she was much annoyed at being obliged to give up her compartment, owing to the arrival of the Harem and retinue of the Chief Astrologer to the Sultan."
-    },
-    {
-     "id": "p002.s02",
-     "source": "Much hurt, she returned home and vented her pique upon her innocent husband."
+     "source": "One day the two elder brothers went out to plough, and said to their mother: “Boil us something, and send our sister out with it into the field.”—Now the three-faced devil had pitched his tent close to this field, and in order that the girl might not come near them he determined to persuade her to go all round about instead of straight to them."
     }
    ],
    "id": "p002"
@@ -55,11 +47,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "\"Why are you not the Chief Astrologer to the Sultan?\" she said."
+     "source": "The mother cooked the dinner and the girl went into the field with it, but the devil contrived to make her lose her road, so that she wandered further and further away from the place where she wanted to go."
     },
     {
      "id": "p003.s02",
-     "source": "\"I will never call or think of you as my husband until you have been appointed Chief Astrologer to his Majesty.\""
+     "source": "At last, when her poor head was quite con fused, the devil’s wife appeared before her and asked the terrified girl what she meant by trespassing there."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Then she talked her over and persuaded her to come home with her, that she might hide her from the vengeance of the devil, her husband."
     }
    ],
    "id": "p003"
@@ -69,27 +65,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Ahmet thought that this was another phase in the eccentricity of woman which in all probability would disappear before morning, so he took small notice of what his wife said."
+     "source": "But the three-faced devil had got home before them, and when they arrived the old woman told the girl to make haste and get something ready to eat while her maid-servant stirred up the fire."
     },
     {
      "id": "p004.s02",
-     "source": "But Ahmet was wrong."
-    },
-    {
-     "id": "p004.s03",
-     "source": "His wife persisted so much in his giving up his present means of earning a livelihood and becoming an astrologer, that finally, for the sake of peace, he complied with her desire."
-    },
-    {
-     "id": "p004.s04",
-     "source": "He sold his tools and collection of sundry old boots and shoes, and, with the proceeds purchased an inkwell and reeds."
-    },
-    {
-     "id": "p004.s05",
-     "source": "But this, alas! did not constitute him an astrologer, and he explained to his wife that this mad idea of hers would bring him to an unhappy end."
-    },
-    {
-     "id": "p004.s06",
-     "source": "She, however, could not be moved, and insisted on his going to the highway, there to wisely practise the art, and thus ultimately become the Chief Astrologer."
+     "source": "But scarcely had she begun to get the dish ready than the devil crept stealthily up behind her, opened his mouth wide, and swallowed the girl whole, clothes and all."
     }
    ],
    "id": "p004"
@@ -99,15 +79,15 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "In obedience to his wife's instructions, Ahmet sat down on the highroad, and his oppressed spirit sought comfort in looking at the heavens and sighing deeply."
+     "source": "Meanwhile her brothers were waiting in the field for their dinner, but neither the damsel nor the victuals appeared."
     },
     {
      "id": "p005.s02",
-     "source": "While in this condition a Hanoum in great excitement came and asked him if he communicated with the stars."
+     "source": "Afternoon came and went and evening too, and then the lads went home, and when they heard from their mother that their sister had gone to seek them early in the morning they suspected what had happened—their little sister must have fallen into the hands of the devil."
     },
     {
      "id": "p005.s03",
-     "source": "Poor Ahmet sighed, saying that he was compelled to converse with them."
+     "source": "The two elder brothers did not think twice about it, but the elder of them set off at once to seek his sister."
     }
    ],
    "id": "p005"
@@ -117,7 +97,15 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "\"Then please tell me where my diamond ring is, and I will both bless and handsomely reward you.\""
+     "source": "He went on and on, puffing at his chibook, sniffing the perfume of flowers and drinking coffee, till he came to an oven by the wayside."
+    },
+    {
+     "id": "p006.s02",
+     "source": "By the oven sat an old man, who asked the youth on what errand he was bent."
+    },
+    {
+     "id": "p006.s03",
+     "source": "The youth told him of his sister’s case, and said he was going in search of the three-faced devil, and would not be content till he had killed him.—“Thou wilt never be able to slay the devil,” said the man, “till thou hast eaten of bread that has been baked in this oven.”—The youth thought this no very difficult matter, took the loaves out of the oven, but scarcely had he bitten a piece out of one of them than the oven, the man, and the loaves all disappeared before his eyes, and the bit he had taken swelled within him so that he nearly burst."
     }
    ],
    "id": "p006"
@@ -127,7 +115,23 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "The Hanoum, with this, immediately squatted on the ground, and began to tell Ahmet that she had gone to the bath that morning and that she was positive that she then had the ring, but every corner of the Hamam had been searched, and the ring was not to be found."
+     "source": "The youth hadn’t gone two steps further on when he saw on the highway a large cauldron, and the cauldron was full of wine."
+    },
+    {
+     "id": "p007.s02",
+     "source": "A man was sitting in front of the cauldron, and he asked him the way, and told him the tale of the devil."
+    },
+    {
+     "id": "p007.s03",
+     "source": "“Thou wilt never be able to cope with the devil,” said the man, “if thou dost not drink of this wine.”"
+    },
+    {
+     "id": "p007.s04",
+     "source": "The youth drank, but: “Woe betide my stomach, woe betide my bowels!” for so plagued was he that he could not have stood upright if he had not seen two bridges before him."
+    },
+    {
+     "id": "p007.s05",
+     "source": "One of these bridges was of wood and the other was of iron, and beyond the two bridges were two apple-trees, and one bore unripe bitter apples and the other sweet ripe ones."
     }
    ],
    "id": "p007"
@@ -137,7 +141,15 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "\"Oh! astrologer, for the love of Allah, exert your eye to see the unseen.\""
+     "source": "The three-faced devil was waiting on the road to see which bridge he would choose, the wooden or the iron one, and which apples he would eat, the sour or the sweet ones."
+    },
+    {
+     "id": "p008.s02",
+     "source": "The youth went along the iron bridge, lest the wooden one might break down, and plucked the sweet apples, because the green ones were bitter."
+    },
+    {
+     "id": "p008.s03",
+     "source": "That was just what the devil wanted him to do, and he at once sent his mother to meet the youth and entice him into his house as he had done his sister, and it was not long before he also found his way into the devil’s belly."
     }
    ],
    "id": "p008"
@@ -147,11 +159,67 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "\"Hanoum Effendi,\" replied Ahmet, the instant her excited flow of language had ceased, \"I perceive a rent,\" referring to a tear he had noticed in her shalvars or baggy trousers."
+     "source": "And next in order, the middling brother, not wishing to be behind-hand, also went in search of his kinsmen."
     },
     {
      "id": "p009.s02",
-     "source": "Up jumped the Hanoum, exclaiming:"
+     "source": "He also could not eat of the bread his inside also was plagued by the wine, he went across the iron bridge and ate of the sweet apples, and so he also found his way into the devil’s belly."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Only the youngest brother who lay among the ashes remained."
+    },
+    {
+     "id": "p009.s04",
+     "source": "His mother besought him not to forsake her in her old age."
+    },
+    {
+     "id": "p009.s05",
+     "source": "If the others had gone he at least could remain and comfort her, she said."
+    },
+    {
+     "id": "p009.s06",
+     "source": "But the youth would not listen."
+    },
+    {
+     "id": "p009.s07",
+     "source": "“I will not rest,” said Cinderer, “till I have found the three lost ones, my two brothers and my sister, and slain the devil.”"
+    },
+    {
+     "id": "p009.s08",
+     "source": "Then he rose from his chimney corner, and no sooner had he shaken the ashes from off him than such a tempest arose that all the labourers at work in the fields left their ploughs where they stood, and ran off as far as their eyes could see."
+    },
+    {
+     "id": "p009.s09",
+     "source": "Then the youngest son gathered together the ploughshares and bade a blacksmith make a lance of them, but a lance of such a kind as would fly into the air and come back again to the hand that hurled it without breaking its iron point."
+    },
+    {
+     "id": "p009.s10",
+     "source": "The smith made the lance, and the youth hurled it."
+    },
+    {
+     "id": "p009.s11",
+     "source": "Up into the air flew the lance, but when it came down again on to the tip of his little finger it broke to pieces."
+    },
+    {
+     "id": "p009.s12",
+     "source": "Then the youth shook himself still more violently in the ashes, and again the labourers in the field fled away before the terrible tempest which immediately arose, and the youth gathered together a still greater multitude of ploughshares and took them to the smith."
+    },
+    {
+     "id": "p009.s13",
+     "source": "The smith made a second lance, and that also flew up into the air and broke to pieces when it came down again."
+    },
+    {
+     "id": "p009.s14",
+     "source": "Then the youth shook himself in the ashes a third time, and such a hurricane arose that there was scarce a ploughshare in the whole country-side that was not carried away."
+    },
+    {
+     "id": "p009.s15",
+     "source": "It was only with great difficulty that the smith could make the third lance, but when that came down on the youth’s finger it did not break in pieces like the others."
+    },
+    {
+     "id": "p009.s16",
+     "source": "“This will do pretty well,” said the youth, and catching up the lance he went forth into the wide world."
     }
    ],
    "id": "p009"
@@ -161,23 +229,19 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"A thousand holy thanks!"
+     "source": "He went on and on and on till he also came to the oven and the cauldron."
     },
     {
      "id": "p010.s02",
-     "source": "You are right!"
+     "source": "The men who guarded the oven and the cauldron stopped him and asked him his business, and on finding out that he was going to kill the devil, they told the youth that he must first eat the bread of the oven and then drink the wine in the cauldron if he could."
     },
     {
      "id": "p010.s03",
-     "source": "Now I remember!"
+     "source": "The son of the cinders wished for nothing better."
     },
     {
      "id": "p010.s04",
-     "source": "I put the ring in a crevice of the cold water fountain.\""
-    },
-    {
-     "id": "p010.s05",
-     "source": "And in her gratitude she handed Ahmet several gold pieces."
+     "source": "He ate the loaves that were baked in the oven, drank all the wine, and further on he saw the wooden bridge and the iron bridge, and beyond the bridges the apple-trees."
     }
    ],
    "id": "p010"
@@ -187,7 +251,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "In the evening he returned to his home, and giving the gold to his wife, said: \"Take this money, wife; may it satisfy you, and in return all I ask is that you allow me to go back to the trade of my father, and not expose me to the danger and suffering of trudging the road shoeless.\""
+     "source": "The devil had observed the youth from afar, and his courage began to ooze out of him when he saw the deeds of the son of the ashes."
+    },
+    {
+     "id": "p011.s02",
+     "source": "“Any fool can go across the iron bridge,” thought the youth, “I’ll go across the wooden one,” and as it was no very great feat to eat the sweet apples he ate the sour ones.—“There will be no joking with this one,” said the devil, “I see I must get ready my lance and measure my strength with him.”"
     }
    ],
    "id": "p011"
@@ -197,11 +265,7 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "But her purpose was unmoved."
-    },
-    {
-     "id": "p012.s02",
-     "source": "Until he became the Chief Astrologer she would neither call him nor think of him as her husband."
+     "source": "The son of the ashes saw the devil from afar, and full of the knowledge of his own valour went straight up to him."
     }
    ],
    "id": "p012"
@@ -211,11 +275,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "In the meantime, owing to the discovery of the ring, the fame of Ahmet the cobbler spread far and wide."
-    },
-    {
-     "id": "p013.s02",
-     "source": "The tongue of the Hanoum never ceased to sound his praise."
+     "source": "“If thou doest not homage to me, I’ll swallow thee straight off,” cried the devil."
     }
    ],
    "id": "p013"
@@ -225,7 +285,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "It happened that the wife of a certain Pasha had appropriated a valuable diamond necklace, and as a last resource, the Pasha determined, seeing that all the astrologers, Hodjas, and diviners had failed to discover the article, to consult Ahmet the cobbler, whose praises were in every mouth."
+     "source": "“And if thou doest not homage to me, I’ll knock thee to pieces with my lance,” replied the youth."
     }
    ],
    "id": "p014"
@@ -235,15 +295,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "The Pasha went to Ahmet, and, in fear and trembling, the wife who had appropriated the necklace sent her confidential slave to overhear what the astrologer would say."
-    },
-    {
-     "id": "p015.s02",
-     "source": "The Pasha told Ahmet all he knew about the necklace, but this gave no clue, and in despair he asked how many diamonds the necklace contained."
-    },
-    {
-     "id": "p015.s03",
-     "source": "On being told that there were twenty-four, Ahmet, to put off the evil hour, said it would take an hour to discover each diamond, consequently would the Pasha come on the morrow at the same hour when, Inshallah, he would perhaps be able to give him some news."
+     "source": "“Oh ho! if we’re so brave as all that,” cried the three-faced monster, “let us out with our lances without losing any more time. ”"
     }
    ],
    "id": "p015"
@@ -253,7 +305,39 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "The Pasha departed, and no sooner was he out of earshot, than the troubled Ahmet exclaimed in a loud voice:"
+     "source": "So the devil out with his lance, whirled it round his head, and aimed it with all his might at the youth, who gave but one little twist with his finger, and crick-crack! the devil’s lance broke all to bits."
+    },
+    {
+     "id": "p016.s02",
+     "source": "“Now it’s my turn,” cried the son of the cinders; and he hurled his lance at the devil with such force that the devil’s first soul flew out of his nose.—“At it again once more, if thou art a man,” yelled the devil, with a great effort."
+    },
+    {
+     "id": "p016.s03",
+     "source": "“Not I,” cried the youth, “for my mother only bore me once,” whereupon the devil breathed forth his last soul also."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Then the youth went on to seek the devil’s wife."
+    },
+    {
+     "id": "p016.s05",
+     "source": "Her also he chased down the road after her husband, and when he had cut them both in two, lo and behold! all three of his kinsfolk stood before him, so he turned back home and took them with him."
+    },
+    {
+     "id": "p016.s06",
+     "source": "Now his brothers and sister had grown very thirsty in the devil’s belly, and when they saw a large well by the wayside, they asked their brother Cinder-son to draw them a little water."
+    },
+    {
+     "id": "p016.s07",
+     "source": "Then the youths took off their girdles, tied them together, and let down the biggest brother, but he had scarcely descended more than half-way down when he began to shriek unmercifully: “Oh, oh, draw me up, I have had enough,” so that they had to pull him up and let the second brother try."
+    },
+    {
+     "id": "p016.s08",
+     "source": "And with him it fared the same way."
+    },
+    {
+     "id": "p016.s09",
+     "source": "“Now ’tis my turn,” cried Cinder-son, “but mind you do not pull me"
     }
    ],
    "id": "p016"
@@ -263,31 +347,7 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "\"Oh woman!"
-    },
-    {
-     "id": "p017.s02",
-     "source": "Oh woman! what evil influence impelled you to go the wrong path, and drag others with you!"
-    },
-    {
-     "id": "p017.s03",
-     "source": "When the twenty-four hours are up, you will perhaps repent!"
-    },
-    {
-     "id": "p017.s04",
-     "source": "Alas!"
-    },
-    {
-     "id": "p017.s05",
-     "source": "Too late."
-    },
-    {
-     "id": "p017.s06",
-     "source": "Your husband gone from you forever!"
-    },
-    {
-     "id": "p017.s07",
-     "source": "Without a hope even of being united in paradise.\""
+     "source": "The Cinder-Youth and the Three Damsels.—p. 91."
     }
    ],
    "id": "p017"
@@ -297,23 +357,35 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Ahmet was referring to himself and his wife, for he fully expected to be cast into prison on the following day as an impostor."
+     "source": "up, however loudly I holloa.”"
     },
     {
      "id": "p018.s02",
-     "source": "But the slave who had been listening gave another interpretation to his words, and hurrying off, told her mistress that the astrologer knew all about the theft."
+     "source": "So they let down the youngest brother, and he too began to holloa and bawl, but they paid no heed to it, and let him down till he stood on the dry bottom of the well."
     },
     {
      "id": "p018.s03",
-     "source": "The good man had even bewailed the separation that would inevitably take place."
+     "source": "A door stood before him, he opened it, and there were three lovely damsels sitting in a room together, and each of them shone like the moon when she is only fourteen days old."
     },
     {
      "id": "p018.s04",
-     "source": "The Pasha's wife was distracted, and hurried off to plead her cause in person with the astrologer."
+     "source": "The three damsels were amazed at the sight of the youth."
     },
     {
      "id": "p018.s05",
-     "source": "On approaching Ahmet, the first words she said, in her excitement, were:"
+     "source": "How durst he come into the devil’s cavern? they asked—and they begged and besought him to escape as he valued dear life."
+    },
+    {
+     "id": "p018.s06",
+     "source": "But the youth would not budge at any price, till he had got the better of this devil also."
+    },
+    {
+     "id": "p018.s07",
+     "source": "The end of the matter was that he slew the devil and released the three damsels, who were Sultan’s daughters, and had been stolen from their fathers and kept here for the last seven years."
+    },
+    {
+     "id": "p018.s08",
+     "source": "The two elder princesses he intended for his two brothers, but the youngest, who was also the loveliest, he chose for himself, and filling the pitcher with water he brought the damsels to the bottom of the well, right below the mouth of it."
     }
    ],
    "id": "p018"
@@ -323,15 +395,15 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "\"Oh learned Hodja, you are a great and good man."
+     "source": "First of all he let them draw up the eldest princess for his eldest brother, then he made them pull up the middling princess for his middling brother, and then it came to the youngest damsel’s turn."
     },
     {
      "id": "p019.s02",
-     "source": "Have compassion on my weakness and do not expose me to the wrath of my husband!"
+     "source": "But she desired that the youth should be drawn up at all hazards and herself afterwards."
     },
     {
      "id": "p019.s03",
-     "source": "I will do such penance as you may order, and bless you five times daily as long as I live.\""
+     "source": "“Thy brethren, ” she explained, “will be wroth with thee for keeping the loveliest damsel for thyself, and will not draw thee out of the well for sheer jealousy.”"
     }
    ],
    "id": "p019"
@@ -341,11 +413,23 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "\"How can I save you?\" innocently asked Ahmet."
+     "source": "“I’ll find my way out even then,” answered the youth, and though she begged and besought him till there was no more soul in her, he would not listen to her."
     },
     {
      "id": "p020.s02",
-     "source": "\"What is decreed is decreed!\""
+     "source": "Then the damsel drew from her breast a casket and said to the youth: “If any mischief befall thee, open this casket."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Inside it is a piece of flint, and if thou strike it once a negro efrit will appear before thee and fulfil all thy desires."
+    },
+    {
+     "id": "p020.s04",
+     "source": "If thy brethren leave thee in the well, go to the palace of the devil and stand by the well."
+    },
+    {
+     "id": "p020.s05",
+     "source": "Two rams come there every day, a black one and a white one; if thou cling fast to the white one, thou wilt come to the surface of the earth, but if thou cling on to the black one thou wilt sink down into the seventh world.”"
     }
    ],
    "id": "p020"
@@ -355,7 +439,7 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "And then, though silent, looked volumes, for he instinctively knew that words unuttered were arrows still in the quiver."
+     "source": "Then he let them draw up the youngest damsel, and no sooner did his brethren see their brother’s bride and perceive that she was the loveliest of all, than jealousy overtook them, and in their wrath they left him in the well and went home with the damsels."
     }
    ],
    "id": "p021"
@@ -365,7 +449,31 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "\"If you won't pity me,\" continued the Hanoum, in despair, \"I will go and confess to my Pasha, and perhaps he will forgive me.\""
+     "source": "So what else could the poor youth at the bottom of the well do than go back to the devil’s palace, stand by the well, and wait for the two rams?"
+    },
+    {
+     "id": "p022.s02",
+     "source": "Not very long afterwards a white ram came bounding along before him, and after that a black ram, and the youth, instead of catching hold of the white ram, seized the black one and immediately perceived that he was at the bottom of the seventh world...."
+    },
+    {
+     "id": "p022.s03",
+     "source": "He went on and on, he went for a long time and he went for a short time, he went by day and he went by night, he went up hill and down dale till he could do no more, and stopped short by a large tree to take a little rest."
+    },
+    {
+     "id": "p022.s04",
+     "source": "But what was that he saw before him?"
+    },
+    {
+     "id": "p022.s05",
+     "source": "A large serpent was gliding up the trunk of the tree and would have devoured all the young birds on the tree if Cinder-son had let him."
+    },
+    {
+     "id": "p022.s06",
+     "source": "But the youth quickly drew forth his lance and cut the serpent in two with a single blow."
+    },
+    {
+     "id": "p022.s07",
+     "source": "Then, like one who has done his work well, he lay down at the foot of the tree, and inasmuch as he was tired and it was warm he fell asleep at once."
     }
    ],
    "id": "p022"
@@ -375,15 +483,27 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "To this appeal Ahmet said he must ask the stars for their views on the subject."
+     "source": "Now while he slept the emerald Anka, who is the mother of the birds and the Padishah of the Peris, passed by that way, and when she saw the sleeping youth she fancied him to be her enemy, who was wont to destroy her children year by year."
     },
     {
      "id": "p023.s02",
-     "source": "The Hanoum inquired if the answer would come before the twenty-four hours were up."
+     "source": "She was about to cut him to pieces, when the birds whispered to her not to hurt the youth, because he had killed their enemy the serpent."
     },
     {
      "id": "p023.s03",
-     "source": "Ahmet's reply to this was a long and concentrated gaze at the heavens."
+     "source": "It was only then that the Anka perceived the two halves of the serpent."
+    },
+    {
+     "id": "p023.s04",
+     "source": "And now, lest anything should harm the sleeping youth, she hopped round and round him, and touched him softly and sheltered him with both her wings lest the sun should scorch him, and when he awoke from his sleep the wing of the bird was spread over him like a tent."
+    },
+    {
+     "id": "p023.s05",
+     "source": "And now the Anka approached him and said she would fain reward him for his good deed, and he might make a request of her."
+    },
+    {
+     "id": "p023.s06",
+     "source": "Then replied the youth: “I would fain get to the surface of the earth again.”"
     }
    ],
    "id": "p023"
@@ -393,11 +513,7 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "\"Oh Hodja Effendi, I must go now, or the Pasha will miss me."
-    },
-    {
-     "id": "p024.s02",
-     "source": "Shall I give you the necklace to restore to the Pasha without ex planation, when he comes to-morrow for the answer?\""
+     "source": "“Be it so,” said the emerald bird, “but first thou must get forty tons of ox-flesh and forty pitchers of water and sit on my back with them, so that when I say ‘Gik!’ thou mayest give me to eat, and when I say ‘Gak!’ thou mayest give me to drink.”"
     }
    ],
    "id": "p024"
@@ -407,11 +523,19 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "Ahmet now realized what all the trouble was about, and in consideration of a fee, he promised not to reveal her theft on the condition that she would at once return home and place the necklace between the mattresses of her Pasha's bed."
+     "source": "Then the youth bethought him of his casket, took the flint-stone out of it, and struck it once, and immediately a black efrit with a mouth as big as the world stood before him and said: “What dost thou command, my Sultan?”—“Forty tons of ox-flesh, and forty pitchers of water,” said the youth."
     },
     {
      "id": "p025.s02",
-     "source": "This the grateful woman agreed to do, and departed invoking blessings on Ahmet, who in return promised to exercise his influence in her behalf for astral intervention."
+     "source": "In a short time the efrit brought the flesh and the water, and the youth packed it all up together and mounted on the wing of the bird."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Off they went, and whenever the Anka cried “Gik!” he gave her flesh, and whenever she cried “Gak!” he gave her water."
+    },
+    {
+     "id": "p025.s04",
+     "source": "They flew from one layer of worlds to the next, till in a short time they got above the surface of the earth again, and he dismounted from the bird’s back and said to her: “Wait here a while, and in a short time I shall be back. ”"
     }
    ],
    "id": "p025"
@@ -421,19 +545,31 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "When the Pasha came to the astrologer at the appointed time, he explained to him, that if he wanted both the necklace and the thief or thieves, it would take a long time, as it was impossible to hurry the stars; but if he would be content with the necklace alone, the horoscope indicated that the stars would oblige him at once."
+     "source": "Then the youth took out his coffer, struck the flint-stone, and bade the black bounding efrit get him tidings of the three sisters."
     },
     {
      "id": "p026.s02",
-     "source": "The Pasha said that he would be quite satisfied if he could get his diamonds again, and Ahmet at once told him where to find them."
+     "source": "In a short time the efrit re-appeared with the three damsels, who were preparing a banquet for the brothers."
     },
     {
      "id": "p026.s03",
-     "source": "The Pasha returned to his home not a little sceptical, and immediately searched for the necklace where Ahmet had told him it was to be found."
+     "source": "He made them all sit on the bird’s back, took with him again forty tons of ox-flesh and forty pitchers of water, and away they all went to the land of the three damsels."
     },
     {
      "id": "p026.s04",
-     "source": "His joy and astonishment on discovering the long-lost article knew no bounds, and the fame of Ahmet the cobbler was the theme of every tongue."
+     "source": "Every time the Anka said “Gik!” he gave her flesh to eat, and every time she said “Gak!” he gave her water to drink."
+    },
+    {
+     "id": "p026.s05",
+     "source": "But as the youth now had three with him besides himself, it came to pass that the flesh ran short, so that when the Anka said “Gik!” once more he had nothing to give her."
+    },
+    {
+     "id": "p026.s06",
+     "source": "Then the youth drew his knife, cut a piece of flesh out of his thigh, and stuffed it into the bird’s mouth."
+    },
+    {
+     "id": "p026.s07",
+     "source": "The Anka perceived that it was human flesh and did not eat it, but kept it in her mouth, and when they had reached the realm of the three damsels, the bird told him that he might now go in peace."
     }
    ],
    "id": "p026"
@@ -443,19 +579,11 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "Having received handsome payment from both the Pasha and the Hanoum, Ahmet earnestly begged of his wife to desist and not bring down sorrow and calamity upon his head."
+     "source": "But the poor youth could not move a step because of the smart in his leg."
     },
     {
      "id": "p027.s02",
-     "source": "But his pleadings were in vain."
-    },
-    {
-     "id": "p027.s03",
-     "source": "Satan had closed his wife's ear to reason with envy."
-    },
-    {
-     "id": "p027.s04",
-     "source": "Resigned to his fate, all he could do was to consult the stars, and after mature thought give their communication, or assert that the stars had, for some reason best known to the applicant, refused to commune on the subject."
+     "source": "“Thou go on first,” he said to the bird, “but I will first rest me here a while.”"
     }
    ],
    "id": "p027"
@@ -465,35 +593,7 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "It happened that forty cases of gold were stolen from the Imperial Treasury, and every astrologer having failed to get even a clue as to where the money was or how it had disappeared, Ahmet was approached."
-    },
-    {
-     "id": "p028.s02",
-     "source": "Poor man, his case now looked hopeless!"
-    },
-    {
-     "id": "p028.s03",
-     "source": "Even the Chief Astrologer was in disgrace."
-    },
-    {
-     "id": "p028.s04",
-     "source": "What might be his punishment he did not know—most probably death."
-    },
-    {
-     "id": "p028.s05",
-     "source": "Ahmet had no idea of the numerical importance of forty; but concluding that it must be large he asked for a delay of forty days to discover the forty cases of gold."
-    },
-    {
-     "id": "p028.s06",
-     "source": "Ahmet gathered up the implements of his occult art, and before returning to his home, went to a shop and asked for forty beans—neither one more nor one less."
-    },
-    {
-     "id": "p028.s07",
-     "source": "When he got home and laid them down before him he appreciated the number of cases of gold that had been stolen, and also the number of days he had to live."
-    },
-    {
-     "id": "p028.s08",
-     "source": "He knew it would be useless to explain to his wife the seriousness of the case, so that evening he took from his pocket the forty beans and mournfully said:"
+     "source": "“Nay, but thou art a droll rogue,” quoth the bird, and with that it spit out of its mouth the piece of human flesh and put it back in its proper place just as if it had never been cut out."
     }
    ],
    "id": "p028"
@@ -503,105 +603,26 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "\"Forty cases of gold,—forty thieves,—forty days; and here is one of them,\" handing a bean to his wife."
+     "source": "The whole city was amazed at the sight of the return of the Sultan’s daughters."
     },
     {
      "id": "p029.s02",
-     "source": "\"The rest remain in their place until the time comes to give them up.\""
+     "source": "The old Padishah could scarce believe his own eyes."
+    },
+    {
+     "id": "p029.s03",
+     "source": "He looked and looked and then he embraced the first princess; he looked and looked and then he kissed the second princess, and when they had told him the story he gave his whole kingdom and his three daughters to Cinder-son."
+    },
+    {
+     "id": "p029.s04",
+     "source": "Then the youth sent for his mother and his sister, and they all sat down to the banquet together."
+    },
+    {
+     "id": "p029.s05",
+     "source": "Moreover he found his sister a husband who was the son of the Vizier, and for forty days and forty nights they were full of joyfulness."
     }
    ],
    "id": "p029"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p030.s01",
-     "source": "While Ahmet was saying this to his wife one of the thieves was listening at the window."
-    },
-    {
-     "id": "p030.s02",
-     "source": "The thief was sure he had been discovered when he heard Ahmet say, \"And here is one of them,\" and hurried off to tell his companions."
-    }
-   ],
-   "id": "p030"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p031.s01",
-     "source": "The thieves were greatly distressed, but decided to wait till the next evening and see what would happen then, and another of the number was sent to listen and see if the report would be verified."
-    },
-    {
-     "id": "p031.s02",
-     "source": "The listener had not long been stationed at his post when he heard Ahmet say to his wife: \"And here is another of them,\" meaning another of the forty days of his life."
-    },
-    {
-     "id": "p031.s03",
-     "source": "But the thief understood the words otherwise, and hurried off to tell his chief that the astrologer knew all about it and knew that he had been there."
-    },
-    {
-     "id": "p031.s04",
-     "source": "The thieves consequently decided to send a delegation to Ahmet, confessing their guilt and offering to return the forty cases of gold intact."
-    },
-    {
-     "id": "p031.s05",
-     "source": "Ahmet received them, and on hearing their confession, accompanied with their condition to return the gold, boldly told them that he did not require their aid; that it was in his power to take possession of the forty cases of gold whenever he wished, but that he had no special desire to see them all executed, and he would plead their cause if they would go and put the gold in a place he indicated."
-    },
-    {
-     "id": "p031.s06",
-     "source": "This was agreed to, and Ahmet continued to give his wife a bean daily—but now with another purpose; he no longer feared the loss of his head, but discounted by degrees the great reward he hoped to receive."
-    },
-    {
-     "id": "p031.s07",
-     "source": "At last the final bean was given to his wife, and Ahmet was summoned to the Palace."
-    },
-    {
-     "id": "p031.s08",
-     "source": "He went, and explained to his Majesty that the stars refused both to reveal the thieves and the gold, but whichever of the two his Majesty wished would be immediately granted."
-    },
-    {
-     "id": "p031.s09",
-     "source": "The Treasury being low, it was decided that, provided the cases were returned with the gold intact, his Majesty would be satisfied."
-    },
-    {
-     "id": "p031.s10",
-     "source": "Ahmet conducted them to the place where the gold was buried, and amidst great rejoicing it was taken back to the Palace."
-    },
-    {
-     "id": "p031.s11",
-     "source": "The Sultan was so pleased with Ahmet, that he appointed him to the office of Chief Astrologer, and his wife attained her desire."
-    }
-   ],
-   "id": "p031"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p032.s01",
-     "source": "The Sultan was one day walking in his Palace grounds accompanied by his Chief Astrologer; wishing to test his powers he caught a grasshopper, and holding his closed hand out to the astrologer asked him what it contained."
-    },
-    {
-     "id": "p032.s02",
-     "source": "Ahmet, in a pained and reproachful tone, answered the Sultan by a much-quoted proverb: \"Alas!"
-    },
-    {
-     "id": "p032.s03",
-     "source": "Your Majesty! the grasshopper never knows where its third leap will land it,\" figuratively alluding to himself and the dangerous hazard of guessing what was in the clenched hand of his Majesty."
-    },
-    {
-     "id": "p032.s04",
-     "source": "The Sultan was so struck by the reply that Ahmet was never again troubled to demonstrate his powers."
-    }
-   ],
-   "id": "p032"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p033"
   }
  ]
 }

@@ -4,7 +4,7 @@
 - **Source book:** *Japanese Fairy Tales*
 - **Author / collector / translator:** Ozaki, Yei Theodora (author, d. 1932)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #4018 — https://www.gutenberg.org/ebooks/4018 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #4018 — https://www.gutenberg.org/ebooks/4018
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

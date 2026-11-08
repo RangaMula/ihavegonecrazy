@@ -4,7 +4,7 @@
 - **Source book:** *Irish Fairy Tales*
 - **Author / collector / translator:** Stephens, James (author, d. 1950)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #2892 — https://www.gutenberg.org/ebooks/2892 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #2892 — https://www.gutenberg.org/ebooks/2892
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

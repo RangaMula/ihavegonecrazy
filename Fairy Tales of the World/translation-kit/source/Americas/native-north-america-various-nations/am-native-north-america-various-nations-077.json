@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-077",
  "title": {
   "id": "title",
-  "source": "Ikto And The Thunders"
+  "source": "The Strange Dream"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Myths and Legends of the Great Plains",
- "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
- "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/077 - Ikto And The Thunders.md",
+ "source_book": "Thirty Indian Legends",
+ "credits": "Bemister, Margaret (author)",
+ "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Americas/Native North America (various nations)/077 - The Strange Dream.md",
  "stats": {
-  "paragraphs": 7,
-  "segments": 13,
-  "words": 139
+  "paragraphs": 23,
+  "segments": 61,
+  "words": 864
  },
  "paragraphs": [
   {
@@ -23,7 +23,19 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Teton"
+     "source": "A warrior and his wife once had a beautiful boy, for whom they made many plans."
+    },
+    {
+     "id": "p001.s02",
+     "source": "But when he grew up, and reached the right age, he would not consent to the fast."
+    },
+    {
+     "id": "p001.s03",
+     "source": "They wished him to blacken his face with charcoal, and not to eat anything for three days."
+    },
+    {
+     "id": "p001.s04",
+     "source": "But he threw away the charcoal, and when they denied him food, he ate birds' eggs and the heads of fish which had been cast away."
     }
    ],
    "id": "p001"
@@ -33,15 +45,27 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "I kto once stood on the bank of a stream across which he could not swim."
+     "source": "At length one day he came home, and, taking some coals, blackened his face."
     },
     {
      "id": "p002.s02",
-     "source": "He stood on the bank and thought."
+     "source": "Then he went out of the lodge and lay down on the grass to sleep."
     },
     {
      "id": "p002.s03",
-     "source": "Then he sang:"
+     "source": "As he lay there, he had a wonderful dream."
+    },
+    {
+     "id": "p002.s04",
+     "source": "He thought a beautiful maiden came to him, and said, \"Onawataquto, come with me."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Step in my tracks.\""
+    },
+    {
+     "id": "p002.s06",
+     "source": "He arose and did so, and felt himself mounting up over the tree-tops, until he reached the sky."
     }
    ],
    "id": "p002"
@@ -51,11 +75,31 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Just then a long Something passed, swimming against the current."
+     "source": "The maiden entered through a small opening, and he followed her."
     },
     {
      "id": "p003.s02",
-     "source": "When it reached Ikto, it said,"
+     "source": "Looking around, he found himself on a beautiful, grassy plain."
+    },
+    {
+     "id": "p003.s03",
+     "source": "A tall lodge stood in the distance."
+    },
+    {
+     "id": "p003.s04",
+     "source": "She led him to it, and he saw that it was divided into two parts."
+    },
+    {
+     "id": "p003.s05",
+     "source": "In one end there were bows, arrows, clubs, and spears, and other things that belong to a warrior."
+    },
+    {
+     "id": "p003.s06",
+     "source": "In the other end were strings of colored beads, bright pieces of cloth, and fancy moccasins, such as belong to a maiden."
+    },
+    {
+     "id": "p003.s07",
+     "source": "On a frame was a broad belt, beautifully colored, that she was weaving."
     }
    ],
    "id": "p003"
@@ -65,15 +109,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "“I will take you across, but you must not lift your head above the water."
+     "source": "\"My brother will soon be home,\" she said, \"and I do not wish him to see you, so come until I hide you.\""
     },
     {
      "id": "p004.s02",
-     "source": "Should you notice even a small cloud, warn me at once, as I must go under the water."
-    },
-    {
-     "id": "p004.s03",
-     "source": "If you see a small cloud, you must say, ‘Younger brother, your grandfather is coming.’”"
+     "source": "She put him in a corner and spread the belt over him."
     }
    ],
    "id": "p004"
@@ -83,11 +123,27 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Before the other bank was reached, Ikto looked up."
+     "source": "In a short time the brother returned, and sat down in his end of the lodge."
     },
     {
      "id": "p005.s02",
-     "source": "He saw a small cloud and said, “Younger brother, your grandfather is coming.”"
+     "source": "He took down his pipe, and began to smoke."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Then, in a little while, he said, \"Sister, when are you going to stop this practice?"
+    },
+    {
+     "id": "p005.s04",
+     "source": "Do you forget that the Greatest of the Spirits has forbidden you to take the children of the earth?"
+    },
+    {
+     "id": "p005.s05",
+     "source": "I know whom you have behind that belt."
+    },
+    {
+     "id": "p005.s06",
+     "source": "Come forth, Onawataquto.\""
     }
    ],
    "id": "p005"
@@ -97,19 +153,252 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "There was a sudden commotion."
+     "source": "When the young man came forth, he presented him with bows and arrows and a pipe of red stone."
     },
     {
      "id": "p006.s02",
-     "source": "When Ikto became conscious again, the Thunder Beings were roaring, and the water was dashing high, but the monster had vanished."
+     "source": "Now this meant that he was married to the maiden."
     }
    ],
    "id": "p006"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "After that the brother used to take him with him over the beautiful plains, and he found everything very peaceful."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Then he began to notice that the brother left the lodge each morning, and did not return until night."
+    },
+    {
+     "id": "p007.s03",
+     "source": "He asked him what he did when he was away."
+    }
+   ],
    "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"Come with me, and I shall show you,\" said the brother."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "So they set off early next morning, and walked on for a long time."
+    },
+    {
+     "id": "p009.s02",
+     "source": "At last Onawataquto began to feel hungry."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"Wait a few minutes,\" said the brother, \"and I shall show you how I get food.\""
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "When they reached a spot where they could see down to the earth below, he said, \"Now sit down and watch.\""
+    },
+    {
+     "id": "p011.s02",
+     "source": "And Onawataquto did so."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "When he looked down, he could see the earth quite plainly."
+    },
+    {
+     "id": "p012.s02",
+     "source": "In one village he saw a war party getting ready."
+    },
+    {
+     "id": "p012.s03",
+     "source": "In another he saw them dancing, and in another, a group of children playing beside a lodge."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"Do you see that beautiful boy down there?\" asked the brother."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"Yes,\" he replied."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Suddenly the brother darted something from his hand at the child, and he fell senseless."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "The parents rushed out and carried him into the lodge, and made great wailing."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Then they saw people gather around the lodge, and the medicine man arrived."
+    },
+    {
+     "id": "p015.s03",
+     "source": "He addressed himself to the spirit brother, and asked him what sacrifice he desired."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"I shall allow the boy to get better if you will make me the sacrifice of a white dog,\" answered the brother, through the opening in the sky."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "They at once caught a white dog, and killed and roasted it."
+    },
+    {
+     "id": "p017.s02",
+     "source": "The meat was then put on dishes, which at once floated up to the spirit brother."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Now eat,\" he said to Onawataquto."
+    },
+    {
+     "id": "p018.s02",
+     "source": "\"This is the way I get all my meals.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "After a while the young man grew tired of the quiet days, and desired to go back to the earth."
+    },
+    {
+     "id": "p019.s02",
+     "source": "His wife was angry when she heard him say this, and said she would not let him go."
+    },
+    {
+     "id": "p019.s03",
+     "source": "But after a while she consented, and said, \"You may go; but remember you are not to marry any of the earth maidens, for at any time I can draw you back here.\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Next morning Onawataquto found himself lying on the grass by his father's lodge, with his face still blackened."
+    },
+    {
+     "id": "p020.s02",
+     "source": "His father and mother and all his friends were standing near him in glad surprise."
+    },
+    {
+     "id": "p020.s03",
+     "source": "They told him he had been away a year."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "For some days he went around very quietly; then he began to forget his dream."
+    },
+    {
+     "id": "p021.s02",
+     "source": "After a while he could hardly remember it at all."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "In a few months, he married one of the maidens of the tribe."
+    },
+    {
+     "id": "p022.s02",
+     "source": "That night he went out of his father's lodge, and was never seen again."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "It is said that the spirit maiden had drawn him back to her home in the sky."
+    }
+   ],
+   "id": "p023"
   }
  ]
 }

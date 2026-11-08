@@ -4,7 +4,7 @@
 - **Source book:** *Manx Fairy Tales*
 - **Author / collector / translator:** Morrison, Sophia (author, d. 1917)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #51762 — https://www.gutenberg.org/ebooks/51762 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #51762 — https://www.gutenberg.org/ebooks/51762
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

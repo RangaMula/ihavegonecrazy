@@ -1,0 +1,286 @@
+{
+ "id": "af-south-africa-098",
+ "title": {
+  "id": "title",
+  "source": "UNcede inkosi yeentaka"
+ },
+ "tradition": "South Africa",
+ "continent": "Africa",
+ "source_lang": "xh",
+ "source_book": "African Storybook — traditional tales retold (CC BY 4.0)",
+ "credits": "South African Folktale Xolisa Guzula Wiehan de Jager (story, illustration and translation credits as listed by African Storybook)",
+ "gutenberg": "African Storybook story #17575 — https://www.africanstorybook.org/ (search the title)",
+ "copyright": "Creative Commons Attribution 4.0 (CC BY 4.0). Free to copy, translate and adapt for any purpose, including commercial, as long as you credit the original author(s), illustrator(s) and African Storybook and link to the licence: https://creativecommons.org/licenses/by/4.0/",
+ "markdown_file": "Africa/South Africa/098 - UNcede inkosi yeentaka.md",
+ "stats": {
+  "paragraphs": 12,
+  "segments": 48,
+  "words": 344
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Kudala, iintaka zazingenayo inkosi."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Ngenye imini zagqiba ekubeni zibe nentlanganiso, apho zaziza kuxoxa ngokuba ngubani na owayenokuba yinkosi yazo."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Zabuzana ukuba ngubani owayengaba yinkosi yazo?"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"UKhozi womelele kwaye ukhangeleka enentsobi yobukhosi.\""
+    },
+    {
+     "id": "p002.s02",
+     "source": "Yatsho enye intaka."
+    },
+    {
+     "id": "p002.s03",
+     "source": "\"Hayi angekhe, uKhozi akanaso isitshaba."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Futhi xa ekhwaza akavakali kakuhle.\""
+    },
+    {
+     "id": "p002.s05",
+     "source": "\"Kungcono uNciniba ngoba yena mkhulu, xa ekhala uvakala njengengonyama.\""
+    },
+    {
+     "id": "p002.s06",
+     "source": "Kwatsho enye intaka."
+    },
+    {
+     "id": "p002.s07",
+     "source": "\"Hayi, soze, akakwazi ukubhabha, inkosi yeentaka kufanele ukuba ikwazi ukubhabha.\""
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"Mna ndicinga ukuba ndingaba yinkosi,\" watsho uPikoko edlalisa isisila sakhe."
+    },
+    {
+     "id": "p003.s02",
+     "source": "\"Ndimhle kakhulu.\""
+    },
+    {
+     "id": "p003.s03",
+     "source": "\"Kodwa uyaziqhenya,\" kwatsho uSikhova."
+    },
+    {
+     "id": "p003.s04",
+     "source": "\"Mna ndinamehlo amakhulu kunazo zonke iintaka."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Ndingaba yinkosi.\""
+    },
+    {
+     "id": "p003.s06",
+     "source": "\"Hayi, unotshe."
+    },
+    {
+     "id": "p003.s07",
+     "source": "Ungaba yinkosi njani wena Sikhova njengokuba ulala xa kuza kusa nje!\""
+    },
+    {
+     "id": "p003.s08",
+     "source": "Zonke iintaka zamphikisa."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Zathi zisaqhubeka nengxoxo, enye yeentaka yeza nombono wokuba okungcono iintaka zibhabhe."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Eyona ibhabhela phezulu kakhulu ibe yiyona eza kuba yinkosi yeentaka."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Zavumela phezulu zonke iintaka, zaqalisa ukubhabha zisiya phezulu esibhakabhakeni."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "URhanisi wabhabha usuku olunye wabhabhela phezu kwezona ntaba ziphakamileyo elizweni."
+    },
+    {
+     "id": "p005.s02",
+     "source": "UKhozi yena wabhabhela phezu kweentaba eziluhlaza iintsuku ezimbini."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Kodwa uXhalanga wabhabhela phezulu iintsuku ezintathu engami, entingela ngqo kufutshane nelanga."
+    },
+    {
+     "id": "p005.s04",
+     "source": "Wathi esabhabha njalo uXhalanga, suka waviwa zezinye iintaka ekhwaza lisithi \"Ndiphezulu, ndiyinkosi!\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Kodwa ngentla kwakhe uXhalanga wesuka weva ngelizwi elincinci lisithi, \"Tswi, tswi, tswi!"
+    },
+    {
+     "id": "p006.s02",
+     "source": "Ndiphezulu ndiyinkosi.\""
+    },
+    {
+     "id": "p006.s03",
+     "source": "Kwakusitsho eyona ntaka encinane iNcede."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Kwathi kanti yayikhwele ephikweni likaXhalanga ngelixa entingela phezulu esibhakabhakeni!"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "\"Awusokuze undogqithe,\" watsho uXhalanga entingela phezulu kwakhona."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Wabhabha de waphelelwa ngamandla."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Waphinda wakhwaza futhi \"Ndiphezulu Ndiyinkosi yenu.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Kodwa ngaphantsi kwephiko lakhe kwakusazimele uNcede."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Waphuma uNcede, \"Tswi, tswi!"
+    },
+    {
+     "id": "p008.s03",
+     "source": "Tswi, tswi!"
+    },
+    {
+     "id": "p008.s04",
+     "source": "Ndim intaka encinci, ndiyinkosi.\""
+    },
+    {
+     "id": "p008.s05",
+     "source": "Kodwa uXhalanga wayediniwe ukuba angabasantingela phezulu."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Wehlela ngezantsi kodwa uNcede wayesazifihle phantsi kwephiko lakhe."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Ezinye iintaka zazinomsindo kakhulu nguNcede."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Zazimlindele ukuze athi xa efika nje zimxuthe zonke iintsiba zakhe."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Kodwa intaka encinane yabona indlela ezinye iintaka ezazinomsindo ngayo."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Ngokukhawuleza yehla yangena emngxunyeni wenyoka ongenanto."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Iintaka zathi kuSikhova, \"Wena S'khova ngoba unamehlo amakhulu, gada uNcede umbambe xa ephuma.\""
+    },
+    {
+     "id": "p010.s04",
+     "source": "Ngokunjalo, uSikhova wahlala phambi komngxunya wawugada."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Kodwa emini xa ilanga selifudumele uSikhova wabiwa bubuthongo walala."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Intaka encinci uNcede yalunguza yabona uSikhova elele, yaze ngokukhawuleza yanyonyoba, yaphuma yabhabha."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "USikhova waba neentloni ngento ayenzileyo, yokubhungcisa uNcede."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Ukusukela ngaloo mini, uSikhova waqala ukuzingela ebusuku, aze alale emini, azimele ukuze angabonwa zezinye iintaka."
+    }
+   ],
+   "id": "p012"
+  }
+ ]
+}

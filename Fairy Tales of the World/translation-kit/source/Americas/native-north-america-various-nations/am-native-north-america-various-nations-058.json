@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-058",
  "title": {
   "id": "title",
-  "source": "The Whispering Grass"
+  "source": "The Sleep Fairies"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
  "source_book": "Thirty Indian Legends",
  "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978",
  "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/058 - The Whispering Grass.md",
+ "markdown_file": "Americas/Native North America (various nations)/058 - The Sleep Fairies.md",
  "stats": {
-  "paragraphs": 42,
-  "segments": 122,
-  "words": 2011
+  "paragraphs": 26,
+  "segments": 109,
+  "words": 1605
  },
  "paragraphs": [
   {
@@ -23,11 +23,51 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Once, many long years ago, there was a green hill covered with long grass, which whispered and talked as the wind blew through it."
+     "source": "A hunter was once going through a forest with his dogs."
     },
     {
      "id": "p001.s02",
-     "source": "It was the great friend of all the animals, especially the wild deer, the gray wolf, and the fox."
+     "source": "After he had gone some distance he missed them."
+    },
+    {
+     "id": "p001.s03",
+     "source": "He called and whistled, but they did not come, so he turned back to find them."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Going some distance farther, he thought he saw one lying under some low bushes, and when he reached the spot, he saw his three dogs lying there fast asleep."
+    },
+    {
+     "id": "p001.s05",
+     "source": "He tried to waken them, but they would open their eyes only for a moment, then fall asleep again."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Soon he began to feel a strange, sleepy feeling coming over him."
+    },
+    {
+     "id": "p001.s07",
+     "source": "He shook himself and tried to keep awake."
+    },
+    {
+     "id": "p001.s08",
+     "source": "Just then he noticed a very large insect on a branch of a tree."
+    },
+    {
+     "id": "p001.s09",
+     "source": "It had many wings on its back, which kept up a steady, droning noise."
+    },
+    {
+     "id": "p001.s10",
+     "source": "When it noticed the hunter looking at it, the insect said, \"I am Weeng, the spirit of sleep."
+    },
+    {
+     "id": "p001.s11",
+     "source": "Your dogs came too near my home, and so they have fallen under my spell."
+    },
+    {
+     "id": "p001.s12",
+     "source": "In a few minutes you will be asleep yourself.\""
     }
    ],
    "id": "p001"
@@ -37,23 +77,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "One summer day the whispering grass was very excited."
+     "source": "\"Must I go to sleep?\" said the hunter."
     },
     {
      "id": "p002.s02",
-     "source": "The south wind had brought strange news to it, and now, as the sun rose up to noonday, they could see this strange thing for themselves."
-    },
-    {
-     "id": "p002.s03",
-     "source": "It meant great danger to their friends the animals, and they must send a message to warn them."
-    },
-    {
-     "id": "p002.s04",
-     "source": "So the grass called to the butterflies, and told them to go at once to the deer, the wolf, and the fox, and tell them to come to the green hill."
-    },
-    {
-     "id": "p002.s05",
-     "source": "Away flew the butterflies, and soon the animals had gathered to hear what this message might mean."
+     "source": "\"I would like to go back to my lodge.\""
     }
    ],
    "id": "p002"
@@ -63,11 +91,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "\"Listen, my brothers,\" said the whispering grass."
+     "source": "\"You are a brave chief and have always been kind to the forest insects, so this time I am going to let you go."
     },
     {
      "id": "p003.s02",
-     "source": "\"There is great danger for you this day, for across the prairie there comes a band of hunters to take your lives.\""
+     "source": "Take a leaf from yonder little tree, chew it and swallow the juice.\""
     }
    ],
    "id": "p003"
@@ -77,15 +105,19 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "\"Hunters?"
+     "source": "The hunter did as he was told and at once the sleepy feeling was gone."
     },
     {
      "id": "p004.s02",
-     "source": "What are they?\" asked the animals."
+     "source": "Then the strangest thing happened."
     },
     {
      "id": "p004.s03",
-     "source": "\"We have never heard of such things.\""
+     "source": "He saw all around him queer, little fairies, each one with a tiny war-club."
+    },
+    {
+     "id": "p004.s04",
+     "source": "They peeped from out the bark of the trees, from amidst the grass, and even from out his pouch."
     }
    ],
    "id": "p004"
@@ -95,11 +127,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "\"They are Indians,\" returned the grass, \"with bows and arrows—deadly arrows that will pierce your hearts."
-    },
-    {
-     "id": "p005.s02",
-     "source": "These hunters are very near, and once they see you they will shoot their arrows at you, and that is your end.\""
+     "source": "\"What are these?\" he asked Weeng."
     }
    ],
    "id": "p005"
@@ -109,11 +137,15 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "\"What must we do?\" asked the animals."
+     "source": "\"They are my sleep fairies, and are called 'Weengs.'"
     },
     {
      "id": "p006.s02",
-     "source": "\"You are wise, whispering grass; tell us what we may do to save ourselves.\""
+     "source": "Now you may waken your dogs and go.\""
+    },
+    {
+     "id": "p006.s03",
+     "source": "And before the hunter had time to reply the insect had gone."
     }
    ],
    "id": "p006"
@@ -123,11 +155,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"Go to your homes,\" answered the grass, \"and remain there until sundown to-morrow."
+     "source": "He turned and roused the dogs, who followed him, still looking very stupid."
     },
     {
      "id": "p007.s02",
-     "source": "If all is safe, I shall send my messengers, the butterflies, to you at that hour to tell you to come to me.\""
+     "source": "As he went he saw the Weengs all around the trees, and many seemed to be coming with him."
+    },
+    {
+     "id": "p007.s03",
+     "source": "When he reached his lodge, he saw the little creatures run to the men and climb up their foreheads; then with their war-clubs they began to knock them on the head."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Soon the Indians began to yawn and rub their eyes, and in a little while they all lay asleep."
     }
    ],
    "id": "p007"
@@ -137,19 +177,15 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "The animals did as they were commanded, and by the time the hunters reached the foot of the hill, there was nothing living to be seen but some dainty butterflies that hovered above the grass."
+     "source": "Then the hunter began to feel his own head grow heavy."
     },
     {
      "id": "p008.s02",
-     "source": "The remainder of that day and all the next the hunters searched for game in the hills, but not a deer could they see, not a wolf, not a fox."
+     "source": "He tried to keep awake, but could not, so he stretched himself beside the fire and went to sleep."
     },
     {
      "id": "p008.s03",
-     "source": "In the late afternoon they returned to their camp at the foot of the hill."
-    },
-    {
-     "id": "p008.s04",
-     "source": "They were tired and very hungry, for they had not brought food with them, as they expected to find game."
+     "source": "When he awakened and looked around, there were no fairies to be seen."
     }
    ],
    "id": "p008"
@@ -159,15 +195,27 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "\"Let us return,\" said one hunter."
+     "source": "The hunter determined to go into the forest and see if he could find the little tree from which he had plucked the leaf."
     },
     {
      "id": "p009.s02",
-     "source": "\"There is no game in this land, and I am hungry."
+     "source": "But before he went, he carefully tied up his dogs, for he did not wish them to follow him and again fall under the spell of Weeng."
     },
     {
      "id": "p009.s03",
-     "source": "Let us go back to our village.\""
+     "source": "They whined when he left them and pulled at their ropes, but he was soon lost to their sight among the trees."
+    },
+    {
+     "id": "p009.s04",
+     "source": "Making his way slowly through the forest, he kept a sharp lookout for the little tree with the magic leaves."
+    },
+    {
+     "id": "p009.s05",
+     "source": "But he could see nothing that looked like it."
+    },
+    {
+     "id": "p009.s06",
+     "source": "For many hours he tramped on, and at last he threw himself down on the ground to rest."
     }
    ],
    "id": "p009"
@@ -177,15 +225,11 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"Not so,\" said the second hunter."
+     "source": "As he lay there, he heard a droning noise above his head."
     },
     {
      "id": "p010.s02",
-     "source": "\"Let us wait until to-morrow."
-    },
-    {
-     "id": "p010.s03",
-     "source": "Perhaps to-morrow we shall see game.\""
+     "source": "He looked up quickly, and there sat Weeng on the farthermost branch of the tree."
     }
    ],
    "id": "p010"
@@ -195,15 +239,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "\"Yes, let us wait until to-morrow,\" said a third hunter, \"and to-night we shall eat grass."
+     "source": "\"Good-morning, great hunter,\" said the insect."
     },
     {
      "id": "p011.s02",
-     "source": "See, yonder is a hill well covered with grass."
-    },
-    {
-     "id": "p011.s03",
-     "source": "If the animals eat it, why can not we?\""
+     "source": "\"You have been searching for my little tree, have you not?\""
     }
    ],
    "id": "p011"
@@ -213,11 +253,11 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"But it is whispering grass,\" said the first hunter, in a low voice."
+     "source": "\"Yes,\" replied the hunter."
     },
     {
      "id": "p012.s02",
-     "source": "\"And he who eats of whispering grass can no longer kill anything with his arrows.\""
+     "source": "\"How did you know?\""
     }
    ],
    "id": "p012"
@@ -227,15 +267,27 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "\"Not so, brother,\" said the second hunter."
+     "source": "\"I know many things,\" said Weeng; \"but listen, to me."
     },
     {
      "id": "p013.s02",
-     "source": "\"It is not whispering grass."
+     "source": "Yonder is the tree.\""
     },
     {
      "id": "p013.s03",
-     "source": "Listen; there is a west wind blowing through it, and yet we can hear no sound of whispering.\""
+     "source": "As he spoke, he pointed to a little tree not two yards away."
+    },
+    {
+     "id": "p013.s04",
+     "source": "\"Pluck one of the leaves, but do not chew it until sunset."
+    },
+    {
+     "id": "p013.s05",
+     "source": "At that hour I utter my sleep call, which bids all the insects fly home to rest."
+    },
+    {
+     "id": "p013.s06",
+     "source": "When you hear the call, you may chew the leaf, for I want you to see what happens then.\""
     }
    ],
    "id": "p013"
@@ -245,11 +297,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "They all listened intently, and as the second hunter had said, there was no sound of whispering."
-    },
-    {
-     "id": "p014.s02",
-     "source": "The wind was waving the grass blades and bending them low, and not a sound came from them."
+     "source": "\"Is anything strange going to happen?\" asked the hunter."
     }
    ],
    "id": "p014"
@@ -259,11 +307,11 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "\"You are right."
+     "source": "\"Great hunter,\" said Weeng, \"if you will remain in this forest behind that large oak tree, you may see it all."
     },
     {
      "id": "p015.s02",
-     "source": "It is not whispering grass,\" said the first hunter, \"and I am hungry; let us eat.\""
+     "source": "One hour before sunset, the Red Squirrel and all his army are coming to attack me.\""
     }
    ],
    "id": "p015"
@@ -273,11 +321,7 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "So they all gathered many handfuls of the green grass, and putting it into a pot, they boiled it, then gathering around the pot, they ate the grass with much relish."
-    },
-    {
-     "id": "p016.s02",
-     "source": "Then, rolling themselves in their deerskins, they fell asleep."
+     "source": "\"Why are they going to do that?\" asked the hunter, in surprise."
     }
    ],
    "id": "p016"
@@ -287,7 +331,15 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "It was now the sunset hour; so, calling the butterflies to it, the whispering grass gave them a message for the animals."
+     "source": "\"Because the Red Squirrel wishes to have my branch for his home."
+    },
+    {
+     "id": "p017.s02",
+     "source": "He ordered me to get down, and I refused."
+    },
+    {
+     "id": "p017.s03",
+     "source": "So, one hour before sunset, he and his army are coming to drive me from my home.\""
     }
    ],
    "id": "p017"
@@ -297,11 +349,11 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "\"Go to your brothers,\" it said, \"and tell them all is safe now; that at sunrise to-morrow morning they may come forth from their homes and wander as usual among the hills."
+     "source": "\"What are you going to do?\" asked the hunter."
     },
     {
      "id": "p018.s02",
-     "source": "Their enemies, the hunters, will try to shoot them with their arrows, but they must not be afraid, for now these arrows can never touch them.\""
+     "source": "\"Can I help you?\""
     }
    ],
    "id": "p018"
@@ -311,7 +363,19 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "The butterflies flew away quickly and gave the message to the deer, the wolf, and the fox."
+     "source": "\"I and my winged friends,\" said Weeng, \"are going to fight them when they come."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Yes, great hunter, you can help us by remaining to see that the battle is fair."
+    },
+    {
+     "id": "p019.s03",
+     "source": "The Red Squirrel knows that if he can once touch me, I must fall."
+    },
+    {
+     "id": "p019.s04",
+     "source": "But my insects have sharp swords, and they can keep the army back till sunset.\""
     }
    ],
    "id": "p019"
@@ -321,19 +385,7 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "At sunrise the next morning the animals came forth gladly, and they had not gone far, when they saw the hunters coming towards them."
-    },
-    {
-     "id": "p020.s02",
-     "source": "Remembering the message of their friend, the grass, they did not fear to remain, and soon saw that the grass had been right."
-    },
-    {
-     "id": "p020.s03",
-     "source": "The hunters aimed their arrows at them and shot, but every arrow flew through the air and fell harmlessly at their feet."
-    },
-    {
-     "id": "p020.s04",
-     "source": "All day this strange thing happened, and at last the hunters, tired and discouraged, went back to their camp at the foot of the hill."
+     "source": "\"And what will happen then?\" asked the hunter."
     }
    ],
    "id": "p020"
@@ -343,11 +395,19 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "\"My brothers,\" said the first hunter, \"that was indeed whispering grass which we ate last night."
+     "source": "\"Then the insects must go to their homes."
     },
     {
      "id": "p021.s02",
-     "source": "For see, all day our arrows have failed to hit their mark, though the game has been many.\""
+     "source": "But, if you swallow the juice of the leaf, you will see the end of the battle."
+    },
+    {
+     "id": "p021.s03",
+     "source": "Now go and hide behind the oak tree."
+    },
+    {
+     "id": "p021.s04",
+     "source": "In a few minutes my army will be here.\""
     }
    ],
    "id": "p021"
@@ -357,11 +417,31 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "\"Why did the grass not whisper, then?\" asked the second hunter."
+     "source": "The hunter did as he was bidden and took his place behind the tree."
     },
     {
      "id": "p022.s02",
-     "source": "\"It deceived us.\""
+     "source": "From here he could see Weeng quite plainly, but he was himself hidden."
+    },
+    {
+     "id": "p022.s03",
+     "source": "In a few minutes the insects began to assemble."
+    },
+    {
+     "id": "p022.s04",
+     "source": "First came the wasps, looking fierce and warlike."
+    },
+    {
+     "id": "p022.s05",
+     "source": "Then came the bees, buzzing along with indignation."
+    },
+    {
+     "id": "p022.s06",
+     "source": "Then dozens of flies, bluebottles, sand-flies, and bull-flies, all ready for the fight."
+    },
+    {
+     "id": "p022.s07",
+     "source": "Then followed the moths, ladybugs, butterflies, and mosquitoes."
     }
    ],
    "id": "p022"
@@ -371,15 +451,19 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "\"Yes, it deceived us,\" said the third hunter."
+     "source": "Lastly, with a great noise, came a regiment of hornets and took their places on the branch directly in front of Weeng."
     },
     {
      "id": "p023.s02",
-     "source": "\"It kept silence while we listened, so that we might be tempted to eat of it."
+     "source": "The others had gathered in a huge circle around him, and in the midst of the bodyguard he sat, like a general ready for the attack of the enemy."
     },
     {
      "id": "p023.s03",
-     "source": "Now we have lost our power of hunting and shall be laughed at by the other hunters.\""
+     "source": "He had not long to wait, for somewhere in the forest the Red Squirrel had assembled his army, and now he brought them forward in one body to the foot of the tree."
+    },
+    {
+     "id": "p023.s04",
+     "source": "All the red squirrels were in front, next came the gray squirrels, then the chipmunks."
     }
    ],
    "id": "p023"
@@ -389,11 +473,35 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "\"We must fight this whispering grass,\" said the first hunter."
+     "source": "The Red Squirrel gave the command, and up the tree his army began to climb."
     },
     {
      "id": "p024.s02",
-     "source": "\"Let us go and pull it up by the roots, so that never again it may be able to deceive any hunter.\""
+     "source": "Out on the branch they came, where Weeng sat at the farthest end."
+    },
+    {
+     "id": "p024.s03",
+     "source": "But the hornets were ready for them, and as they advanced the sharp swords of the defenders pricked their noses, eyes, and bodies."
+    },
+    {
+     "id": "p024.s04",
+     "source": "Backward they tumbled, some falling from the limb, others clinging desperately to the under side."
+    },
+    {
+     "id": "p024.s05",
+     "source": "Then the gray squirrels pushed forward, and in spite of many wounds, broke through the ranks of the hornets."
+    },
+    {
+     "id": "p024.s06",
+     "source": "They had nearly reached Weeng when the bees, buzzing more indignantly than ever, made one fierce dash at them."
+    },
+    {
+     "id": "p024.s07",
+     "source": "The gray squirrels fought bravely, but at every turn they met terrible, stinging blows."
+    },
+    {
+     "id": "p024.s08",
+     "source": "At last they could not see what they were doing, and, like the red squirrels, many of them fell from the limb."
     }
    ],
    "id": "p024"
@@ -403,11 +511,59 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "\"Let us wait until the moon rises high in the sky,\" said the second hunter."
+     "source": "While this part of the battle was going on, the chipmunks had been waging a war of their own with the wasps, who had attacked them."
     },
     {
      "id": "p025.s02",
-     "source": "\"Then, indeed, we shall uproot the whispering grass and leave the green hill bare and naked.\""
+     "source": "The battle had been a sharp one, and many soldiers of both armies lay dead on the ground below the tree."
+    },
+    {
+     "id": "p025.s03",
+     "source": "But the chipmunks had won the victory, and now made their way along the branches towards Weeng."
+    },
+    {
+     "id": "p025.s04",
+     "source": "Their leader, a large, bold-looking chipmunk, made a fierce rush at Weeng, and almost touched him."
+    },
+    {
+     "id": "p025.s05",
+     "source": "But just as he did so, with a noiseless swoop, down came the mosquitoes upon him."
+    },
+    {
+     "id": "p025.s06",
+     "source": "They covered his head, until not a part of it was to be seen."
+    },
+    {
+     "id": "p025.s07",
+     "source": "He slapped wildly at them, lost his hold on the branch, and fell to the ground."
+    },
+    {
+     "id": "p025.s08",
+     "source": "With redoubled fury on rushed the other chipmunks and the red squirrels, who had by this time recovered."
+    },
+    {
+     "id": "p025.s09",
+     "source": "They were met by a solid wall of insects bristling with sharp swords, for the wasps, the hornets, and flies had placed themselves across their path."
+    },
+    {
+     "id": "p025.s10",
+     "source": "Then came the hottest part of the battle, and in one confused mass they struggled and fought on the slender branch."
+    },
+    {
+     "id": "p025.s11",
+     "source": "In the midst of this there sounded a soft, sweet call."
+    },
+    {
+     "id": "p025.s12",
+     "source": "It was the sleep call of the fairy Weeng."
+    },
+    {
+     "id": "p025.s13",
+     "source": "At once all the insects sheathed their swords, and turning, fluttered slowly home to bed."
+    },
+    {
+     "id": "p025.s14",
+     "source": "As each one departed, he uttered a soft good-night to Weeng."
     }
    ],
    "id": "p025"
@@ -417,346 +573,42 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "The butterflies, who had been hovering near, heard what the Indians were saying, and now they flew with all speed to the animals and told them what was going to happen to the whispering grass."
+     "source": "The hunter, who was watching all this anxiously, wondered that although the Red Squirrel's army was still fighting it was making no headway."
+    },
+    {
+     "id": "p026.s02",
+     "source": "He wondered how this could be."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Suddenly he remembered the leaf in his pocket."
+    },
+    {
+     "id": "p026.s04",
+     "source": "At once he chewed it, and he then saw the reason for the squirrels' defeat."
+    },
+    {
+     "id": "p026.s05",
+     "source": "At the call of Weeng his sleep fairies had come forth, and now with their clubs were knocking their enemies on the head."
+    },
+    {
+     "id": "p026.s06",
+     "source": "Blow after blow they struck."
+    },
+    {
+     "id": "p026.s07",
+     "source": "The squirrels resisted bravely, but it was useless."
+    },
+    {
+     "id": "p026.s08",
+     "source": "In a few minutes they were driven back and off the branch of the tree, and were glad to escape to their homes."
+    },
+    {
+     "id": "p026.s09",
+     "source": "As the darkness gathered and the magic of the leaf began to wear away, the hunter could just dimly see Weeng sitting in the midst of his sleep fairies, like a great general who has won his battle."
     }
    ],
    "id": "p026"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p027.s01",
-     "source": "\"Oh, my brothers,\" said the butterflies, \"your enemies, the hunters, have planned to kill the whispering grass to-night."
-    },
-    {
-     "id": "p027.s02",
-     "source": "Can you not save it?\""
-    }
-   ],
-   "id": "p027"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p028.s01",
-     "source": "\"We must save it,\" said the deer."
-    },
-    {
-     "id": "p028.s02",
-     "source": "\"The whispering grass is our friend."
-    },
-    {
-     "id": "p028.s03",
-     "source": "It saved our lives, and now we must save it.\""
-    },
-    {
-     "id": "p028.s04",
-     "source": "Turning to the fox, the deer said, \"Oh, brother, you are wise and great."
-    },
-    {
-     "id": "p028.s05",
-     "source": "Can you not think of a plan to save the grass?\""
-    }
-   ],
-   "id": "p028"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p029.s01",
-     "source": "\"I am not wise enough for that,\" said the fox, \"but I know one who is wise."
-    },
-    {
-     "id": "p029.s02",
-     "source": "You, my brothers, remain here, while I run with all speed to the Dark Hills where the Manitou of the Bright Fire lives."
-    },
-    {
-     "id": "p029.s03",
-     "source": "He is wise and great, and he will help us.\""
-    }
-   ],
-   "id": "p029"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p030.s01",
-     "source": "Saying this, the fox ran at full speed in the direction of a long line of hills, and it was not long before he reached a small opening which led down under them."
-    },
-    {
-     "id": "p030.s02",
-     "source": "Entering this, he found himself in a long passage, at the end of which a red light could be seen."
-    },
-    {
-     "id": "p030.s03",
-     "source": "When he reached the end of the passage, he found himself in a large, low cave."
-    },
-    {
-     "id": "p030.s04",
-     "source": "In the centre of this cave a bright red fire glowed, and by its light he could see a dark figure seated on the floor near the fire."
-    },
-    {
-     "id": "p030.s05",
-     "source": "It turned its face as the fox entered, and he saw the kind face of the Manitou of the Bright Fire."
-    }
-   ],
-   "id": "p030"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p031.s01",
-     "source": "\"You have come to me for help,\" said the Manitou, in a deep, soft voice."
-    },
-    {
-     "id": "p031.s02",
-     "source": "\"What is wrong, my brother?\""
-    }
-   ],
-   "id": "p031"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p032.s01",
-     "source": "\"Our friend, the whispering grass, is going to be uprooted to-night by the hunters,\" said the fox."
-    },
-    {
-     "id": "p032.s02",
-     "source": "\"Can you tell us how to save the grass, for it has been kind and has saved us from these same hunters?\""
-    }
-   ],
-   "id": "p032"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p033.s01",
-     "source": "\"My brother,\" said the Manitou, \"do you see these things which look like dark stones?\""
-    },
-    {
-     "id": "p033.s02",
-     "source": "As he said this, he pointed to where a heap of black objects resembling stones was lying on the floor of the cave."
-    },
-    {
-     "id": "p033.s03",
-     "source": "\"I have gathered these from the bowels of the earth."
-    },
-    {
-     "id": "p033.s04",
-     "source": "Many years ago Gitche Manitou, the Mighty Spirit, put them there."
-    },
-    {
-     "id": "p033.s05",
-     "source": "He took pieces of the midnight sky and mixed with each piece a million sunbeams."
-    },
-    {
-     "id": "p033.s06",
-     "source": "Then He hid these deep in the earth, where man would find them when he needed light and heat."
-    },
-    {
-     "id": "p033.s07",
-     "source": "I shall place some of these dark stones in my fire, while you return to your brothers, the wolf and the deer."
-    },
-    {
-     "id": "p033.s08",
-     "source": "Bid them return with you, and when you again reach my cave these stones shall be ready for you."
-    },
-    {
-     "id": "p033.s09",
-     "source": "Now go, and waste no time, for you must have everything ready before the hunters awaken.\""
-    }
-   ],
-   "id": "p033"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p034.s01",
-     "source": "The fox needed no second bidding."
-    },
-    {
-     "id": "p034.s02",
-     "source": "Away he went like the wind."
-    },
-    {
-     "id": "p034.s03",
-     "source": "When he reached the deer and the wolf, he found them anxiously waiting for him."
-    },
-    {
-     "id": "p034.s04",
-     "source": "Quickly giving them the Manitou's message, they all ran back to the cave."
-    },
-    {
-     "id": "p034.s05",
-     "source": "When they reached it, they found that the Manitou had placed a number of the dark stones in his fire, and that now they were no longer dark stones but bright red ones."
-    }
-   ],
-   "id": "p034"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p035.s01",
-     "source": "\"My children,\" said the Manitou, \"take these burning coals and place them in a circle on the hillside among the whispering grass."
-    },
-    {
-     "id": "p035.s02",
-     "source": "They will not harm the grass and their heat will not burn you as you journey back."
-    },
-    {
-     "id": "p035.s03",
-     "source": "But after this, always beware of a glowing fire, for I can give you my protection this time only.\""
-    }
-   ],
-   "id": "p035"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p036.s01",
-     "source": "The animals at once seized as many of the burning coals as they could carry and raced back to the hill."
-    },
-    {
-     "id": "p036.s02",
-     "source": "The night was dark, as the moon had not yet risen, and when at length they gained the hillside, they saw that the hunters still slept."
-    },
-    {
-     "id": "p036.s03",
-     "source": "Obeying the Manitou, they placed the coals in a circle on the side of the hill, and then hid behind some trees."
-    }
-   ],
-   "id": "p036"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p037.s01",
-     "source": "Scarcely had they done this, when the hunters awakened."
-    },
-    {
-     "id": "p037.s02",
-     "source": "At once they noticed the strange, glowing circle on the hillside."
-    },
-    {
-     "id": "p037.s03",
-     "source": "They rubbed their eyes and looked again; it was still there, burning and yet having no flame."
-    },
-    {
-     "id": "p037.s04",
-     "source": "Terrified, they gazed at it, not daring to climb the hillside."
-    },
-    {
-     "id": "p037.s05",
-     "source": "At last one said:"
-    }
-   ],
-   "id": "p037"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p038.s01",
-     "source": "\"My brothers, let us return at once to our village."
-    },
-    {
-     "id": "p038.s02",
-     "source": "This whispering grass must be a great friend of Gitche Manitou, and we have done wrong to eat of it."
-    },
-    {
-     "id": "p038.s03",
-     "source": "Let us return and warn our brothers.\""
-    }
-   ],
-   "id": "p038"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p039.s01",
-     "source": "\"You are right, my brother,\" said the other hunter."
-    },
-    {
-     "id": "p039.s02",
-     "source": "\"We will return and tell of this strange, terrible warning which Gitche Manitou has sent to us.\""
-    }
-   ],
-   "id": "p039"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p040.s01",
-     "source": "So saying, they turned and disappeared rapidly in the darkness, while the circle on the hillside glowed brightly until the sun rose."
-    },
-    {
-     "id": "p040.s02",
-     "source": "When daylight came there was nothing to be seen of the coals, but on the hillside where they had been there was a large, brown circle, which could be seen quite plainly from the valley."
-    },
-    {
-     "id": "p040.s03",
-     "source": "And there it can be seen to this day."
-    }
-   ],
-   "id": "p040"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p041.s01",
-     "source": "On climbing the hill, the circle vanishes, and not a spot of burnt grass is to be found, but always from the valley below the brown circle can be seen."
-    },
-    {
-     "id": "p041.s02",
-     "source": "And the animals from that night have been afraid of glowing fire, for they know the Manitou cannot give his protection another time."
-    }
-   ],
-   "id": "p041"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p042.s01",
-     "source": "But he has been their greatest friend ever since that night."
-    },
-    {
-     "id": "p042.s02",
-     "source": "When they are in any trouble they go at once to the Dark Hills, and, creeping through the long passage, reach the cave where the bright fire glows."
-    },
-    {
-     "id": "p042.s03",
-     "source": "There they tell the kind Manitou all that makes them sad, and he comforts them."
-    },
-    {
-     "id": "p042.s04",
-     "source": "In the autumn he tells the deer where to hide in the hills, so that the hunters cannot kill them."
-    },
-    {
-     "id": "p042.s05",
-     "source": "In the long, cold winter he tells the hungry gray wolf where to find food, and in the summer he shows the red fox how to double on his trail so that none may catch him."
-    },
-    {
-     "id": "p042.s06",
-     "source": "And to all of them he has taught the secret of the glowing fire, that its brightness means danger, save when they rest beside it in his cave under the Dark Hills."
-    }
-   ],
-   "id": "p042"
   }
  ]
 }

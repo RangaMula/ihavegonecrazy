@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-057",
  "title": {
   "id": "title",
-  "source": "The Red Swan"
+  "source": "The Summer-Maker"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
  "source_book": "Thirty Indian Legends",
  "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978",
  "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/057 - The Red Swan.md",
+ "markdown_file": "Americas/Native North America (various nations)/057 - The Summer-Maker.md",
  "stats": {
-  "paragraphs": 20,
-  "segments": 120,
-  "words": 1642
+  "paragraphs": 23,
+  "segments": 89,
+  "words": 1403
  },
  "paragraphs": [
   {
@@ -23,23 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Three brothers, who were hunters, once lived together in a forest."
+     "source": "Once in the far north there lived a Manitou whose name was Ojeeg, or the fisher."
     },
     {
      "id": "p001.s02",
-     "source": "They were very skilful and always returned well laden from the chase."
-    },
-    {
-     "id": "p001.s03",
-     "source": "One day they all agreed to go hunting."
-    },
-    {
-     "id": "p001.s04",
-     "source": "They were each to kill the animals that they usually killed, and then see who could get back to the lodge first and have the game cooked."
-    },
-    {
-     "id": "p001.s05",
-     "source": "So they took their finest arrows, and off they went."
+     "source": "He and his wife and one son lived on the shore of a lake and were very happy together."
     }
    ],
    "id": "p001"
@@ -49,51 +37,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "The youngest brother, whose name was Odjibaa, had not gone far when he saw a bear."
+     "source": "In that country there was never any spring or summer, and the snow lay deep on the ground all the year round."
     },
     {
      "id": "p002.s02",
-     "source": "Now this was one animal that he was not supposed to kill, but he forgot his bargain and shot it."
-    },
-    {
-     "id": "p002.s03",
-     "source": "Then everything seemed to grow red, and he heard a queer noise."
-    },
-    {
-     "id": "p002.s04",
-     "source": "He followed it, and as he tramped on, the noise seemed closer."
-    },
-    {
-     "id": "p002.s05",
-     "source": "At last he came to the edge of the lake and there, floating on the water, was a beautiful Red Swan."
-    },
-    {
-     "id": "p002.s06",
-     "source": "Every once in a while it uttered the queer noise he had been hearing."
-    },
-    {
-     "id": "p002.s07",
-     "source": "He shot an arrow at the bird, but it flew past her."
-    },
-    {
-     "id": "p002.s08",
-     "source": "He shot another and another."
-    },
-    {
-     "id": "p002.s09",
-     "source": "They all fell near her, but she was quite unharmed."
-    },
-    {
-     "id": "p002.s10",
-     "source": "She swam around in the water, bending her head and arching her neck and not even noticing Odjibaa."
-    },
-    {
-     "id": "p002.s11",
-     "source": "This made him want her more than ever, so he shot the rest of his arrows."
-    },
-    {
-     "id": "p002.s12",
-     "source": "Still she was untouched."
+     "source": "But this did not daunt the fisher."
     }
    ],
    "id": "p002"
@@ -103,27 +51,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Then he remembered that, in his dead father's medicine sack, there were three magic arrows, so he ran back at once to the lodge and took them."
-    },
-    {
-     "id": "p003.s02",
-     "source": "When he again reached the shore of the lake, he put one in his bow."
-    },
-    {
-     "id": "p003.s03",
-     "source": "He took good aim and shot."
-    },
-    {
-     "id": "p003.s04",
-     "source": "It came close to the bird."
-    },
-    {
-     "id": "p003.s05",
-     "source": "The second arrow came closer, and the third went through her neck."
-    },
-    {
-     "id": "p003.s06",
-     "source": "She did not fall into the water, but rose slowly into the air, and flew away towards the setting sun, with the arrow still in her neck."
+     "source": "He went forth every day and always brought back plenty of game."
     }
    ],
    "id": "p003"
@@ -133,15 +61,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Odjibaa waded into the lake and picked up the two magic arrows which were floating on the water."
+     "source": "The son wished to be a great hunter like his father, so he often took his bow and arrows and went out to kill birds."
     },
     {
      "id": "p004.s02",
-     "source": "When he reached the shore again, he set out to follow the Red Swan."
-    },
-    {
-     "id": "p004.s03",
-     "source": "He was a great runner, for when he shot an arrow ahead of him, he could run so fast that it fell behind him."
+     "source": "But he nearly always returned with benumbed hands and crying with cold."
     }
    ],
    "id": "p004"
@@ -151,31 +75,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "So now he ran at his greatest speed."
+     "source": "One day, as he was returning, feeling very discouraged and ready to cry, he noticed a red squirrel on the top of a tree."
     },
     {
      "id": "p005.s02",
-     "source": "But the Red Swan was already out of sight."
-    },
-    {
-     "id": "p005.s03",
-     "source": "On he went through the forest, across streams, and over the prairie."
-    },
-    {
-     "id": "p005.s04",
-     "source": "At nightfall he reached a town where many Indians lived."
-    },
-    {
-     "id": "p005.s05",
-     "source": "The chief made him welcome and let him stay the night."
-    },
-    {
-     "id": "p005.s06",
-     "source": "In the morning, he set out once more, and by night he had reached a second town."
-    },
-    {
-     "id": "p005.s07",
-     "source": "He stayed there till morning and then continued his race."
+     "source": "As he reached for his arrows to shoot him, the squirrel spoke:"
     }
    ],
    "id": "p005"
@@ -185,39 +89,51 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "By the next night, he had reached a lodge where a magician lived."
+     "source": "\"Put away your arrows and listen to me."
     },
     {
      "id": "p006.s02",
-     "source": "The old man treated him very kindly."
+     "source": "I see you go forth each day and always return nearly frozen and with never a bird."
     },
     {
      "id": "p006.s03",
-     "source": "He made him sit down by the fire."
+     "source": "Now, if you will do as I tell you, we shall have summer all the time instead of the snow."
     },
     {
      "id": "p006.s04",
-     "source": "Then he spoke a few words, and a metal pot with legs walked out and stood by the fire."
+     "source": "Then I shall have plenty to eat, and you may kill all the birds you wish."
     },
     {
      "id": "p006.s05",
-     "source": "He spoke a few more words and put one grain of corn and one berry into the pot."
+     "source": "When you go home, you must cry and sob."
     },
     {
      "id": "p006.s06",
-     "source": "At once it became full of porridge."
+     "source": "When your mother asks you what is the matter, do not answer, but throw away your bow and arrow and cry harder than ever."
     },
     {
      "id": "p006.s07",
-     "source": "He told Odjibaa to eat this, and when he had done so, the pot became full again."
+     "source": "Do not eat any supper, and when your father comes home, he will ask your mother what is the matter with you."
     },
     {
      "id": "p006.s08",
-     "source": "It continued to do this until Odjibaa had eaten all he could."
+     "source": "She will say that she does not know, that you only sob and cry, and will not speak."
     },
     {
      "id": "p006.s09",
-     "source": "Then the magician told the hunter to lie down and rest, and in the morning he said to him:"
+     "source": "When he asks you to give the reason of your sorrow, tell him that you want summer to come."
+    },
+    {
+     "id": "p006.s10",
+     "source": "Coax him to get it for you."
+    },
+    {
+     "id": "p006.s11",
+     "source": "He will say it is a very hard thing to do, but will promise to try."
+    },
+    {
+     "id": "p006.s12",
+     "source": "Now remember all this and do as I tell you.\""
     }
    ],
    "id": "p006"
@@ -227,15 +143,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"My grandchild, you are in search of the Red Swan."
+     "source": "As the squirrel finished speaking, he disappeared, and the son returned home."
     },
     {
      "id": "p007.s02",
-     "source": "Be brave and travel on, and at last you will be successful."
+     "source": "Everything happened as the little squirrel had said, and when the son asked his father to get summer for him, Ojeeg replied, \"My son, this is a hard task you have given me."
     },
     {
      "id": "p007.s03",
-     "source": "When you near the end, you will come to a lodge of another magician, and he will tell you what to do.\""
+     "source": "But I love you and so shall try for your sake."
+    },
+    {
+     "id": "p007.s04",
+     "source": "It may cost me my life, but I shall do my best.\""
     }
    ],
    "id": "p007"
@@ -245,7 +165,11 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Odjibaa thanked the old man, and went once more on his way."
+     "source": "Then he called together all his friends, and they had a feast."
+    },
+    {
+     "id": "p008.s02",
+     "source": "A bear was killed and roasted, and they arranged to meet on Thursday to begin their journey."
     }
    ],
    "id": "p008"
@@ -255,23 +179,23 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "When he had gone some distance, he shot an arrow ahead of him and it fell behind him, so he knew that he was still going his best."
+     "source": "When the day came, they all gathered; there was the otter, the beaver, the lynx, and the wolverine."
     },
     {
      "id": "p009.s02",
-     "source": "He went on for some days and at last saw the lodge of the magician."
+     "source": "Ojeeg said good-bye to his wife and son, and the party set out."
     },
     {
      "id": "p009.s03",
-     "source": "This second old man was as kind as the first and treated him in much the same way."
+     "source": "For twenty days they travelled through the snow, and at last came to the foot of a mountain."
     },
     {
      "id": "p009.s04",
-     "source": "He gave him food from a magic kettle exactly like the first, and then bade him stay the night."
+     "source": "The animals were all very tired by this time, all but Ojeeg."
     },
     {
      "id": "p009.s05",
-     "source": "Then in the morning he said to him:"
+     "source": "He was a nimble little animal and used to long journeys."
     }
    ],
    "id": "p009"
@@ -281,35 +205,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"My grandchild, you are following the Red Swan."
-    },
-    {
-     "id": "p010.s02",
-     "source": "Many a hunter has done the same and has never returned."
-    },
-    {
-     "id": "p010.s03",
-     "source": "For she is the sister of a great chief."
-    },
-    {
-     "id": "p010.s04",
-     "source": "He once had a wampum cap which was fastened to his scalp."
-    },
-    {
-     "id": "p010.s05",
-     "source": "One day some warriors came and told him that the daughter of their chief was very sick."
-    },
-    {
-     "id": "p010.s06",
-     "source": "She said the only thing that would cure her was this cap of wampum and that the sight of it would make her better at once."
-    },
-    {
-     "id": "p010.s07",
-     "source": "The chief did not like to lend his cap, for if he took it off, his head would be bare and bloody."
-    },
-    {
-     "id": "p010.s08",
-     "source": "But he thought again of the sick girl and at last gave it to the warriors."
+     "source": "As they began to go up the mountain, they noticed footprints and marks of blood, as if some hunter had gone before them with an animal he had killed."
     }
    ],
    "id": "p010"
@@ -319,35 +215,7 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "\"That is many years ago, but they have not returned the cap yet."
-    },
-    {
-     "id": "p011.s02",
-     "source": "They were cheats and are keeping it to make fun of it."
-    },
-    {
-     "id": "p011.s03",
-     "source": "They carry it from one village to another to dance around it, and at every mean thing they say, the old man groans with pain."
-    },
-    {
-     "id": "p011.s04",
-     "source": "Many young men have tried to get it for him, but all have failed."
-    },
-    {
-     "id": "p011.s05",
-     "source": "He has offered many gifts to the one who gets it, and even the Red Swan will belong to the successful one."
-    },
-    {
-     "id": "p011.s06",
-     "source": "She is a very beautiful maiden, and for her many young men have risked their lives."
-    },
-    {
-     "id": "p011.s07",
-     "source": "You are very brave and will face great dangers."
-    },
-    {
-     "id": "p011.s08",
-     "source": "Go as you have come, and you will be the one to win the precious wampum.\""
+     "source": "\"Let us follow these tracks,\" said the fisherman, \"and see if we can get something to eat.\""
     }
    ],
    "id": "p011"
@@ -357,27 +225,7 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "So Odjibaa travelled for several more days."
-    },
-    {
-     "id": "p012.s02",
-     "source": "At last he saw a lodge, but before he came up to it he could hear the groans of some one inside."
-    },
-    {
-     "id": "p012.s03",
-     "source": "Coming up to the door, he knocked, and a voice bade him come in."
-    },
-    {
-     "id": "p012.s04",
-     "source": "On entering he saw a very old man seated in one corner."
-    },
-    {
-     "id": "p012.s05",
-     "source": "His face was withered and his head bare and bloody."
-    },
-    {
-     "id": "p012.s06",
-     "source": "He seemed to be in great pain."
+     "source": "When they reached the top of the mountain, they noticed a small lodge."
     }
    ],
    "id": "p012"
@@ -387,35 +235,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "The young man spoke kindly to him and asked him how he lost his scalp."
-    },
-    {
-     "id": "p013.s02",
-     "source": "Then the old man told his story: how the young men had cheated him, and how they were abusing the scalp now."
-    },
-    {
-     "id": "p013.s03",
-     "source": "Odjibaa looked very sorry, and when the old man saw this, he began to coax him to try and get it back."
-    },
-    {
-     "id": "p013.s04",
-     "source": "He promised him blankets and many other things that make an Indian rich."
-    },
-    {
-     "id": "p013.s05",
-     "source": "But he did not mention the Red Swan."
-    },
-    {
-     "id": "p013.s06",
-     "source": "Odjibaa noticed that a wall divided the lodge into two parts."
-    },
-    {
-     "id": "p013.s07",
-     "source": "He guessed that the Red Swan was behind the wall, for he thought he heard her dress rustle."
-    },
-    {
-     "id": "p013.s08",
-     "source": "After he had talked with the old man, and had learned many things about the unfriendly Indians, he said:"
+     "source": "\"Now be very careful and do not laugh at anything we see,\" said Ojeeg."
     }
    ],
    "id": "p013"
@@ -425,11 +245,31 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "\"I shall go in search of the cap."
+     "source": "They knocked at the door, and it was opened by a very strange man."
     },
     {
      "id": "p014.s02",
-     "source": "When you hear the noise of a hawk, put your head out of the door, so I may put the scalp on you quickly.\""
+     "source": "He had a huge head, big, strong teeth, and no arms."
+    },
+    {
+     "id": "p014.s03",
+     "source": "He invited them to come in and eat."
+    },
+    {
+     "id": "p014.s04",
+     "source": "There was meat cooking in a wooden pot on the fire."
+    },
+    {
+     "id": "p014.s05",
+     "source": "The man lifted it off when they were not looking, and gave them all something to eat."
+    },
+    {
+     "id": "p014.s06",
+     "source": "They wondered how he could do this, and how he had killed the animal, but they soon learned the secret."
+    },
+    {
+     "id": "p014.s07",
+     "source": "He was a Manitou!"
     }
    ],
    "id": "p014"
@@ -439,67 +279,15 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Early next morning he set out, and before the day was over had come near the Indian village."
+     "source": "As they were eating, the otter began to laugh at the strange movements of the Manitou, who, hearing a noise, turned quickly and threw himself on the otter."
     },
     {
      "id": "p015.s02",
-     "source": "As he drew near he could hear the sound of much shouting, and in a few minutes could see hundreds of warriors dancing and yelling around a pole."
+     "source": "He was going to smother him, as this was his way of killing animals."
     },
     {
      "id": "p015.s03",
-     "source": "On the top of this pole was the scalp."
-    },
-    {
-     "id": "p015.s04",
-     "source": "He changed himself into a humming-bird and flew by their heads."
-    },
-    {
-     "id": "p015.s05",
-     "source": "When they heard the soft, humming noise, they said, \"What is that?\""
-    },
-    {
-     "id": "p015.s06",
-     "source": "He flew on, until he came near the pole."
-    },
-    {
-     "id": "p015.s07",
-     "source": "Then he changed himself into a blue butterfly and fluttered up to it."
-    },
-    {
-     "id": "p015.s08",
-     "source": "He took the scalp in his mouth and lifted it from the pole."
-    },
-    {
-     "id": "p015.s09",
-     "source": "A mighty shout went up from the Indians when they saw what was happening."
-    },
-    {
-     "id": "p015.s10",
-     "source": "But they could not reach the butterfly, as it was so high up in the air."
-    },
-    {
-     "id": "p015.s11",
-     "source": "It began to float slowly away with the scalp."
-    },
-    {
-     "id": "p015.s12",
-     "source": "This was hard work, and the load was almost too heavy for Odjibaa, but he hung on until he was safe outside the village."
-    },
-    {
-     "id": "p015.s13",
-     "source": "Then he changed himself into a hawk and flew rapidly away."
-    },
-    {
-     "id": "p015.s14",
-     "source": "When he came near the lodge of the old man, he uttered the cry of the hawk."
-    },
-    {
-     "id": "p015.s15",
-     "source": "The old man put his head out, and with a great blow Odjibaa clapped his scalp on."
-    },
-    {
-     "id": "p015.s16",
-     "source": "The old man fell senseless and lay very still for a long time."
+     "source": "But the otter managed to wriggle from under him, and escaped out of the door."
     }
    ],
    "id": "p015"
@@ -509,23 +297,15 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Odjibaa entered the lodge and sat down to wait."
+     "source": "The rest remained there for the night."
     },
     {
      "id": "p016.s02",
-     "source": "At length the old man opened his eyes and arose."
+     "source": "When they were going in the morning, the Manitou told them what path to take and what to do when they reached the right spot."
     },
     {
      "id": "p016.s03",
-     "source": "But he was no longer an old man."
-    },
-    {
-     "id": "p016.s04",
-     "source": "Instead there stood a handsome, young warrior."
-    },
-    {
-     "id": "p016.s05",
-     "source": "He reached out his hand to Odjibaa and said:"
+     "source": "They thanked him and started on again."
     }
    ],
    "id": "p016"
@@ -535,23 +315,51 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "\"I can never thank you for all you have done for me."
+     "source": "For twenty more days they travelled, and then they reached another mountain."
     },
     {
      "id": "p017.s02",
-     "source": "See, you have given me back my youth and strength."
+     "source": "They climbed to the top of this, and they knew by certain signs it was the spot the Manitou had described."
     },
     {
      "id": "p017.s03",
-     "source": "Now I shall never grow old."
+     "source": "So they seated themselves in a circle and filled their pipes."
     },
     {
      "id": "p017.s04",
-     "source": "You must stay and live with me and I shall make you a great chief.\""
+     "source": "They pointed to the sky, the four winds, and the earth; then they began to smoke."
     },
     {
      "id": "p017.s05",
-     "source": "Odjibaa replied:"
+     "source": "As they looked up at the sky they were silent with awe, for they were on such a high mountain that the sky seemed only a few yards off."
+    },
+    {
+     "id": "p017.s06",
+     "source": "They then prepared themselves, and Ojeeg told the otter to have the first trial at making a hole in the sky."
+    },
+    {
+     "id": "p017.s07",
+     "source": "With a grin the otter consented."
+    },
+    {
+     "id": "p017.s08",
+     "source": "He made a spring, but fell down the side of the hill."
+    },
+    {
+     "id": "p017.s09",
+     "source": "The snow was moist, so he slid all the way to the bottom."
+    },
+    {
+     "id": "p017.s10",
+     "source": "When he had picked himself up, he said, \"This is the last time I shall make such a jump; I am going home,\" and away he went."
+    },
+    {
+     "id": "p017.s11",
+     "source": "The beaver had the next turn, but did no better, The lynx had no better luck."
+    },
+    {
+     "id": "p017.s12",
+     "source": "Then came the turn of the wolverine."
     }
    ],
    "id": "p017"
@@ -561,23 +369,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "\"No, I must go back to my brothers."
-    },
-    {
-     "id": "p018.s02",
-     "source": "I shall leave early to-morrow morning.\""
-    },
-    {
-     "id": "p018.s03",
-     "source": "Then the magician began to get ready a bundle for Odjibaa."
-    },
-    {
-     "id": "p018.s04",
-     "source": "He put blankets, beads, feathers, and paints in it, but he said no word about the Red Swan, and Odjibaa did not like to ask him."
-    },
-    {
-     "id": "p018.s05",
-     "source": "The next morning the hunter said good-bye to the magician and prepared to go."
+     "source": "\"Now,\" said Ojeeg to him, \"I am going to depend on you; you are brave and will try again and again.\""
     }
    ],
    "id": "p018"
@@ -587,19 +379,43 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "\"Wait, my friend,\" he said, as he opened the door in the wall."
+     "source": "So the wolverine took a jump, and the first time nearly reached the sky; the second time he cracked it, and the third time he made a hole and crawled in."
     },
     {
      "id": "p019.s02",
-     "source": "A beautiful maiden stepped forth."
+     "source": "Ojeeg nimbly followed, and they found themselves on a beautiful, green plain."
     },
     {
      "id": "p019.s03",
-     "source": "\"This is my sister, Red Swan."
+     "source": "Lovely shade trees grew at some distance, and among the trees were rivers and lakes."
     },
     {
      "id": "p019.s04",
-     "source": "She is to be yours, as you saved my scalp.\""
+     "source": "On the water floated all kinds of water-fowl."
+    },
+    {
+     "id": "p019.s05",
+     "source": "Then they noticed long lodges."
+    },
+    {
+     "id": "p019.s06",
+     "source": "They were empty, except for a great many cages filled with beautiful birds."
+    },
+    {
+     "id": "p019.s07",
+     "source": "The spirits who lived in these lodges were wandering among the trees."
+    },
+    {
+     "id": "p019.s08",
+     "source": "As Ojeeg noticed the birds, he remembered his son."
+    },
+    {
+     "id": "p019.s09",
+     "source": "He quickly opened the doors of the cages, and the birds rushed out."
+    },
+    {
+     "id": "p019.s10",
+     "source": "They flew through the air and down through the opening in the sky."
     }
    ],
    "id": "p019"
@@ -609,14 +425,92 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "Odjibaa was overjoyed at this."
+     "source": "The warm winds, that always blow in that heavenly place, followed the birds down through the opening and began to melt the snows of the north."
     },
     {
      "id": "p020.s02",
-     "source": "He thanked the magician again; then taking the maiden by the hand, they set out for his home."
+     "source": "Then the guardian spirits noticed what was happening, and ran with great shouts to the spot where all were escaping."
+    },
+    {
+     "id": "p020.s03",
+     "source": "But Spring and Summer had nearly gone."
+    },
+    {
+     "id": "p020.s04",
+     "source": "They struck a great blow and cut Summer in two, so that only part of it reached the earth."
+    },
+    {
+     "id": "p020.s05",
+     "source": "The wolverine heard the noise and raced for the hole, getting through before they could close it."
+    },
+    {
+     "id": "p020.s06",
+     "source": "But the fisher was farther away and could not reach the hole in time."
+    },
+    {
+     "id": "p020.s07",
+     "source": "The spirits closed up the opening and turned to catch him."
+    },
+    {
+     "id": "p020.s08",
+     "source": "He ran over the plains to the north, going so fast that he gained the trees before they could catch him."
+    },
+    {
+     "id": "p020.s09",
+     "source": "He quickly climbed the largest one, and they began to shoot at him with their arrows."
     }
    ],
    "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "There was only one place in the fisher's body where he could be hurt,—a spot near the tip of his tail; so the spirits kept shooting a long time before an arrow struck that spot."
+    },
+    {
+     "id": "p021.s02",
+     "source": "At last one did, and he fell to the ground."
+    },
+    {
+     "id": "p021.s03",
+     "source": "As it was now nearly night, the spirits went back to their lodges and left him there alone."
+    },
+    {
+     "id": "p021.s04",
+     "source": "He stretched out his limbs and said:"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"I have kept my promise to my son, though it has cost me my life."
+    },
+    {
+     "id": "p022.s02",
+     "source": "But I shall always be remembered by the natives of the earth, and I am happy to think of the good I have sent them."
+    },
+    {
+     "id": "p022.s03",
+     "source": "From now on they will have different seasons, and eight to ten moons without snow.\""
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "In the morning they found him lying dead with the arrow through his tail, and to this day he may be seen in the northern sky."
+    }
+   ],
+   "id": "p023"
   }
  ]
 }

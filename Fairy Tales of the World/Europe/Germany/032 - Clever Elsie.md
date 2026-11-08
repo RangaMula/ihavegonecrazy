@@ -4,7 +4,7 @@
 - **Source book:** *Grimms' Fairy Tales*
 - **Author / collector / translator:** Grimm, Jacob (author, d. 1863); Grimm, Wilhelm (author, d. 1859)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #2591 — https://www.gutenberg.org/ebooks/2591 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #2591 — https://www.gutenberg.org/ebooks/2591
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

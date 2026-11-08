@@ -1,0 +1,82 @@
+# Olga’S Courage Rescues Her Brothers, Queen Hertha Is Restored To Her Husband, And The Parents Recover Their Children
+
+- **Tradition:** Iceland (Europe)
+- **Source book:** *Icelandic Fairy Tales*
+- **Author / collector / translator:** Hall, Angus W., Mrs. (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #67085 — https://www.gutenberg.org/ebooks/67085
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+It seemed to Olga as if the time would never pass. Each day seemed longer than the last, and when the morning of the third day arrived, she had scarcely courage to look at her knife as she sat down to her breakfast.
+
+But, oh joy! the blade was bright and clear, and with a light and happy heart, she went about her daily tasks.
+
+When midday approached, she again glanced anxiously at the table, but, to her intense relief, the knife beside her plate was undimmed by either spot or stain, and feeling as if a great weight had been lifted off her, she sat down to her spinning-wheel, which she had not had the heart to do before, and hummed one of her favourite ballads, to drive away the feeling of loneliness that crept over her. And thus the hours passed; then, as the long, slanting rays of the sun warned her that the day was nearly over, Olga put away her spinning-wheel, and got ready her supper. She had placed her plate of porridge on the table, and, bringing a bowl of milk from the cupboard, had just seated herself, when, glancing down, she saw three bright crimson drops on the knife beside her plate!
+
+With a cry of grief and horror, Olga sprang up. There was now no thought of food or rest. Not a second must be lost if she hoped to save her brothers!
+
+Hastily putting on her cloak and hood, she hurried out into the forest, following the path she had seen her brothers take.
+
+Evening was closing in, and the tall trees cast dark and weird shadows around her. But never for a moment did Olga hesitate or rest. Strange, uncouth sounds seemed to fill the air, and she could almost fancy that the clinging brushwood which often crossed her path, seemed like long arms trying to hold her back. But she had only one thought, one resolve—the rescue of her brothers; so she kept bravely on, putting aside every obstacle that obstructed her way.
+
+At length, after a long and weary journey, Olga arrived at the valley in which stood the great rock. As she came near, she saw that the whole ground was covered with innumerable stones of quaint and varied forms. Some looked like people, some like animals, and one tall figure had several square stones at his feet, like chests or boxes.
+
+“OLGA WENT BRAVELY UP THE ROCK.”
+
+But Olga, though her heart almost jumped into her mouth at the wild, weird scene, walked courageously forward, turning neither to the right nor left till she reached the rock on which sat the bird, his crest raised fiercely, while angry flashes of light from his eyes almost blinded her. No sooner, however, had her foot touched it, than a loud rumbling noise arose, wild cries and screams filled the air, thunder pealed, and flash after flash of lightning filled the valley with a lurid light, strong arms caught hold of her and tried to keep her back, while entreaties for help sounded on every side. Once, indeed, she distinctly heard her brothers’ voices, praying her to look round if she loved them. Steadfastly, however, with a prayer on her lips for strength and guidance, Olga went bravely up the rock.
+
+No sooner had she reached the summit, than immediately the thunder and lightning ceased, the weird cries and screams were silent, and, as she approached the great bird, he lowered his angry crest, and in a soft voice, praised her for her courage and steadfastness.
+
+“I can now tell you whatever you desire, and will gladly help you in any way you wish,” he added.
+
+Then Olga asked that she might first of all be allowed to restore to life all those who had been turned to stone.
+
+This the bird readily granted, and, filling the lid of the stone jar with some of the life-restoring water, Olga lost no time in sprinkling all the strangely shaped stones with the magic water.
+
+They all immediately regained their natural forms; the still and silent valley soon re-echoed with the sound of voices, and as the girl stood there between her two rescued brothers, all the others came up to thank the fair and brave maiden whose courage and steadfastness had rescued them from their stony prison and restored them to life.
+
+“And now,” said Olga, turning again to the wonderful bird, “can you tell us whose children we are?”
+
+“You are the children of the king of this country,” he replied; and then proceeded to tell them how the two wicked aunts, through jealousy, had caused them to be carried away, and had then accused their mother of destroying them, for which supposed misdeed she had been thrown into the lion’s den.
+
+“But,” he added, seeing the grief and horror of the young people, “the lion’s mouth was closed, so that, instead of killing her, he not only shares his food with her, but has so guarded the cage that no one dares enter; she is still alive, therefore, though almost at death’s door through grief and all the anxiety she has endured.”
+
+Then one of the strange figures who had been restored to life, and whom Olga had especially noticed as being taller and fairer than most of the others, and also because he was surrounded with several quaintly shaped chests, now came forward. He was a handsome young fellow, and stated that he was called Odo, and was the son of a neighbouring king, and that, having gone forth in search of treasure and adventures, he had succeeded in amassing a large quantity of gold and precious stones, and was on his way home, when he heard of the wonderful bird, who could foretell the future. He had gained the valley and was almost close to the bird, when he incautiously looked back, hearing wild cries for help, and in that moment he had been turned to stone, and his were the quaintly shaped chests Olga had noticed.
+
+The bird, being in a gracious mood, allowed the prince to carry away his treasure; so, followed by his servants, he accompanied Olga and her brothers to their home.
+
+As soon as they arrived, they at once went to the lion’s den and liberated the poor queen—the lion offering no resistance—and took her back to their hut. Poor Hertha was almost dead with grief and anxiety; but loving care quickly restored her to health, and the delight of seeing her dear children, whom she had thought dead, alive and well before her, did more than anything to restore her and make her strong and well.
+
+They then procured her some rich and fitting garments, and leaving her in the hut, they repaired to the king’s court and demanded an audience.
+
+After some little delay, this was granted, for after the loss of his wife and children the king had grown sad and listless, often blaming himself for condemning his queen so hurriedly; for, when he had time to think it all over, he could not, despite her sisters’ repeated representations, believe that the queen had really killed her children.
+
+When the sister and brothers were ushered into the royal presence, the king was at once struck by their noble appearance, especially with Olga, whose likeness to her mother was marvellous.
+
+They then told him who they were and how they had been saved, and also that they had just freed their mother, who was not dead, as he had been told.
+
+King Leofric could scarcely believe he heard aright as they related their wonderful tale, the particulars of which they had received from the magic bird, and it is impossible to describe his delight and thankfulness to find that his wife, whom he had loved so dearly, was not only proved innocent, but was alive and well.
+
+He immediately sent for her two wicked sisters, and when questioned as to what they had done, they began first to prevaricate, and then each accused the other of having done the wicked deed. But the truth was clearly proved against them, they were therefore both thrown into the lion’s den, where the poor queen had so long lingered; this time, however, the lion never hesitated, but eat them both up at once.
+
+The king then eagerly went to fetch his queen, who returned to the palace with all due honours and splendour.
+
+A great feast was immediately prepared to celebrate the happy restoration of the lost queen and her three children.
+
+This feast lasted many days, for all who chose to come were welcome; indeed, it seemed as if the king could not do enough to show how thankful he was.
+
+He remitted the sentences of many state prisoners, and all the poor in the kingdom received rich gifts.
+
+When at length the feast came to an end, Prince Odo asked the king for the hand of his daughter, the fair princess Olga.
+
+Thereupon a fresh feast was arranged to celebrate the marriage of the prince and princess, and this was carried out with still greater splendour, such as had never been seen before.
+
+Not only was the big hall of the palace prepared for the invited guests, but endless tables were spread in the great courtyard for all the poor and homeless, to whom abundant good fare was generously dispensed, for, Princess Olga said, as they had been poor themselves they must never forget their less fortunate subjects.
+
+Then, when it was over, Prince Odo returned to his own kingdom with his wife, where they reigned in peace and happiness for many years.
+
+Wilhelm married a beautiful cousin, and succeeded to the throne at his father’s death, Sigurd also married a lovely princess in a neighbouring state, and came to the throne on the death of his father-in-law.
+
+Thus Olga and her brothers, after all their trials, lived long and happily, their children and children’s children reigning after them for many generations.

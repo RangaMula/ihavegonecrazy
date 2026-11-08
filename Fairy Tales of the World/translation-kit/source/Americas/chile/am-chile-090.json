@@ -1,0 +1,548 @@
+{
+ "id": "am-chile-090",
+ "title": {
+  "id": "title",
+  "source": "La Pava"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos chilenos de nunca acabar",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #69164 — https://www.gutenberg.org/ebooks/69164",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/090 - La Pava.md",
+ "stats": {
+  "paragraphs": 46,
+  "segments": 63,
+  "words": 1021
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Sustitúyanse a pava , polla , torcaza , los nombres de otras aves: paloma , gallina , pata , lloica , queltehue , diuca , etc., etc., i se tendrá una tonada de nunca acabar."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Desnudo de todo comentario entrego este corto material para que vaya a acrecentar el pequeño acervo que a Chile corresponde en el vastísimo campo folk-lórico, i con objeto de que, comparadas estas piezas con las análogas que existen en todos los paises civilizados, i talvez en muchos salvajes, se deduzcan las conclusiones que de tal estudio puedan derivarse."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "NOTAS:"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Castigo en forma de azotes que se daban en las palmas de las manos a los colejiales."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "El tugar (ántes tugargajo ) se juega entre varios niños."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Uno de ellos oculta un pañuelo arreglado en forma de látigo, e inmediatamente se dirije a la capilla , donde están los otros, gritando tugar , tugar , salir a buscar ... tugar , tugar , salir a buscar ... (antes se decía tu ... gar ... gâjo ... tu ... gar ... gâjo )."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Cuando los niños se hallan distantes del sitio en que está oculto el pañuelo, el que manda el juego dice, frio , frio , como el agua del rio ; cuando se acercan, caliente , caliente , como el aguardiente ; cuando están mui próximos, que se quema , que se quema ; i en el momento en que uno de los chicos toma el pañuelo, se quemó , se quemó , a cuya voz huyen todos perseguidos por el que tiene el pañuelo, con el cual trata de darles de azotes hasta que llegan a la capilla, sitio en que los jugadores quedan libres de toda pena."
+    },
+    {
+     "id": "p006.s04",
+     "source": "El que ha encontrado el pañuelo va a esconderlo de nuevo, i el juego continúa en la forma ya dicha."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Los huevos."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Se colocan cuatro niños en los rincones de una pieza, o mas bien de un patio."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Otro niño se acerca sucesivamente a ellos preguntándoles ¿hai huevos? , a lo cual le contestan, a l’otrr’esquina por ei (a la otra esquina, por ahí)."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Cuando el quinto niño va de un rincón a otro, cambian precipitadamente de lugar los que quedan a su espalda, i si logra tomar el sitio de uno de éstos en el instante en que está desocupado, el desposeido queda en el medio i pasa a hacer la pregunta ¿hai huevos? hasta que consigue ocupar un rincon."
+    },
+    {
+     "id": "p007.s05",
+     "source": "Este juego suelen hacerlo de prenda."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "El cuento del Compadrito leon , potito quemado , que éste es su nombre completo, es mui largo para ponerlo en nota."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Lo contaré en otra ocasion."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "La espresion chilena mas que no sea equivale al castellano siquiera ."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Chacharacha , cosa de escaso valor."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Lacho , elegante, enamorado, amante."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Potito , diminutivo de poto , trasero, asentaderas."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Cutama , bolson, saco."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "No sé que signifique este vocablo."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Puede que tenga que ver algo con zarapito , nombre del ave del órden de las zancudas conocida vulgarmente entre nosotros por perdiz de mar ( Numenius )."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Si así fuera, podria referirse a los gatos cenceños, cuyas piernas, por efecto de la delgadez del cuerpo, se ven mas largas que de ordinario."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Cantos Populares Españoles, recojidos, ordenados e ilustrados por Francisco Rodríguez Marin ."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Sevilla, 1882-1883.—5 vols. en 8.º"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Diccionario Provincial casi-razonado de Vozes Cubanas, por el Auditor hon.º de Marina D. Estéban Pichardo ."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Tercera edicion, notablemente aumentada i correjida."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Habana, 1861.—1 vol. en 4.º—Pájina 112, col. 2, voz Gallo ."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Cachos , cuernos."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Ranchito , diminutivo de rancho , choza pajiza."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "El zorzal de Chile es el Turdus falklandicus ."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Calle de la Nevería , mas conocida por de la Nievería , es la actual calle de 21 de Mayo , de Santiago, nombre que se le puso en conmemoración del combate naval de Iquique ocurrido en aquel dia del año 1879."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Cheuto , labihendido."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Fililo , por pililo , zaparrastroso, harapiento."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Bochi , bochinche , alboroto, pendencia."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "De todos los diachos , de todos los diablos."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Faco por paco , policial, jendarme."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Fito por pito , instrumento de caña, i mas jeneralmente de hueso, con que los policiales se llaman unos a otros por medio de toques especiales."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "La palabra cortada que sirve para reentrar en el cuento, es poto , trasero, asentaderas."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Fundillos , fondillos."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Cóguil , coil o coile , una enredadera con fruto comestible, Lardizabala biternata ."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Tenca , Mimus thenca, avecita cantora mui comun."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Tomar, beber."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Cuentos, oraciones, adivinas i refranes populares e infantiles recojidos por Fernan Caballero ."
+    },
+    {
+     "id": "p032.s02",
+     "source": "Segunda edicion."
+    },
+    {
+     "id": "p032.s03",
+     "source": "Madrid, 1880.—1 vol. en 8.º"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Este cuento apareció en las pájinas 183, 184 y 185 del Almanak Popular Brazileiro para el año 1897, publicado por Alberto T. Rodrigues , de Porto Alegre, tomándolo de la obra Contos Populares Portuguezes de Adolfo Coelho ."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Carochinha es una palabra que en portugues designa un mito popular, diablita o brujita."
+    },
+    {
+     "id": "p034.s02",
+     "source": "Contos da Carochinha es una espresion familiar, que equivale a cuentos para niños, puerilidades, aproximadamente, cuentos de hadas. ( Nota del traductor )."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Las haches finales indican una pequeña aspiracion con que el chileno sustituye las eses en que terminan los plurales."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Lo mismo he debido escribir las eses en medio de diccion, como en uhté , usted; suhto , susto; pero no lo he hecho por no dificultar la lectura."
+    },
+    {
+     "id": "p035.s03",
+     "source": "De igual manera debí escribir el cuento de La Tenquita , pero no usé esa ortografía por la razon espresada."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Ni por cuando , espresion que se usa para denotar un largo espacio de tiempo, nunca mas , ya no , etc."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "La media mata ."
+    },
+    {
+     "id": "p037.s02",
+     "source": "El medio la media antepuestos a un sustantivo, sirven al pueblo para aumentar el significado del sustantivo que les sigue; así la media mata , es como si dijéramos mata mui grande ."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Cocavin , provisiones lijeras para el camino."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Chatre , elegante."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Pijote , aumentativo de pije , lechuguino, pisaverde, elegante."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "En de que , en cuanto, desde que."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "Un chicote indíjena, usado tambien por los arjentinos, que lo llaman «talero»."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "Lloica , vulgarmente loica , Sturnella militaris."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "Queltehue o tregle , Vanellus cayenensis."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "Diuca , Fringuilla diuca."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p046"
+  }
+ ]
+}

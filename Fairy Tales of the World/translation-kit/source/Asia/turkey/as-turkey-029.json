@@ -2,20 +2,20 @@
  "id": "as-turkey-029",
  "title": {
   "id": "title",
-  "source": "The Effects Of Raki"
+  "source": "The Wise Son Of Ali Pasha"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
  "source_book": "Told in the Coffee House: Turkish Tales",
  "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/029 - The Effects Of Raki.md",
+ "markdown_file": "Asia/Turkey/029 - The Wise Son Of Ali Pasha.md",
  "stats": {
-  "paragraphs": 45,
-  "segments": 56,
-  "words": 936
+  "paragraphs": 16,
+  "segments": 48,
+  "words": 1208
  },
  "paragraphs": [
   {
@@ -23,31 +23,31 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "ekri Mustafe, who lived during the reign of Sultan Selim, was a celebrated toper, and perhaps at that time the only Moslem drunkard in Turkey."
+     "source": "servant of his Majesty Sultan Ahmet, who had been employed for twenty-five years in the Palace, begged leave of the Sultan to allow him to retire to his native home, and at the same time solicited a pension to enable him to live."
     },
     {
      "id": "p001.s02",
-     "source": "Consequently, he was often the subject of conversation in circles both high and low."
+     "source": "The Sultan asked him if he had not saved any money."
     },
     {
      "id": "p001.s03",
-     "source": "It happened that his Majesty the Sultan had occasion to speak to Bekri one day, and he asked him what pleasure he found in drinking so much raki, and why he disobeyed the laws of the Prophet."
+     "source": "The man replied that owing to his having to support a large family, he had been unable to do so."
     },
     {
      "id": "p001.s04",
-     "source": "Bekri replied that raki was a boon to man; that it made the deaf to hear, the blind to see, the lame to walk, and the poor rich, and that he, Bekri, when drunk, could hear, see, and walk like two Bekris."
+     "source": "The Sultan was very angry that any of his servants, especially in the immediate employ of his household, should, after so many years' service, say that he was penniless."
     },
     {
      "id": "p001.s05",
-     "source": "The Sultan, to verify the truth of this statement, sent his servants into the highways to bring four men, the one blind, the other deaf, the third lame, and the fourth poor."
+     "source": "Disbelieving the statement, and in order to make an example, the Sultan gave orders that Hassan should quit the Palace in the identical state he had entered it twenty- five years before."
     },
     {
      "id": "p001.s06",
-     "source": "Directly these were brought, his Majesty ordered raki to be served to them in company with Bekri."
+     "source": "Hassan was accordingly disrobed of all his splendor, and his various effects, the accumulation of a quarter of a century, were confiscated, and distributed amongst the legion of Palace servants."
     },
     {
      "id": "p001.s07",
-     "source": "They had not been drinking long when, to the glory of Bekri, the deaf man said: \"I hear the sound of great rumbling.\""
+     "source": "Poor Hassan, without a piaster in his pocket, and dressed in the rude costume of his native province, began his weary journey homeward on foot."
     }
    ],
    "id": "p001"
@@ -57,7 +57,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "And the blind man replied: \"I can see him; it is an enemy who seeks our destruction.\""
+     "source": "In time he reached the suburbs of a town in Asia Minor, and seeing some boys playing, he approached them, sat on the ground, and watched their pastime."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The boys were playing at state affairs: one was a Sultan, another his Vizier, who had his cabinet of Ministers, while close by were a number of boys bound hand and foot, representing political and other prisoners, awaiting judgment for their imaginary misdeeds."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The Sultan, who was sitting with worthy dignity on a throne made of branches and stones, decorated with many-colored centrepieces, beckoned to Hassan to draw near, and asked him where he had come from."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Has san replied that he had come from Stamboul, from the Palace of the Sultan."
     }
    ],
    "id": "p002"
@@ -67,7 +79,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "The lame man asked where he was, saying, \"Show him to me, and I will quickly despatch him.\""
+     "source": "\"That's a lie,\" said the mock Sultan, \"no one ever came from Stamboul dressed in that fashion, much less from the Palace; you are from the far interior, and if you do not confess that what I say is true, you will be tried by my Ministers, and punished accordingly.\""
     }
    ],
    "id": "p003"
@@ -77,7 +89,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "And the poor man called out: \"Don't be afraid to kill him; I've got his blood money in my pocket.\""
+     "source": "Hassan, partly to participate in their boyish amusement, and partly to unburden his aching heart, related his sad fate to his youthful audience."
+    },
+    {
+     "id": "p004.s02",
+     "source": "When he had finished, the boy Sultan, Ali by name, asked him if he had received his twenty-five years."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Hassan, not fully grasping what the boy said, replied:"
     }
    ],
    "id": "p004"
@@ -87,15 +107,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Just then a funeral happened to pass by the Palace buildings, and Bekri got up and ordered the solemn procession to stop."
+     "source": "\"Nothing!"
     },
     {
      "id": "p005.s02",
-     "source": "Removing the lid of the coffin, he whispered a few words into the ear of the dead man, and then putting his ear to the dead man's mouth, vented an exclamation of surprise."
-    },
-    {
-     "id": "p005.s03",
-     "source": "He then ordered the funeral to proceed, and returned to the Palace."
+     "source": "Nothing!\""
     }
    ],
    "id": "p005"
@@ -105,7 +121,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "The Sultan asked him what he had said to the dead man, and what the dead man replied."
+     "source": "\"That is unjust,\" continued Ali, \"and you shall go back to the Sultan and ask that your twenty-five years be returned to you so that you may plough and till your ground, and thus make provision for the period of want, old age.\""
     }
    ],
    "id": "p006"
@@ -115,7 +131,23 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"I simply asked him where he was going and from what he had died, and he replied he was going to Paradise, and that he had died from drinking raki without a mézé.\""
+     "source": "Hassan was struck by the sound advice the boy had given him, thanked him and said he would follow it to the letter."
+    },
+    {
+     "id": "p007.s02",
+     "source": "The boys then in thoughtless mirth separated, to return to their homes, never dreaming that the seeds of destiny of one of their number had been sown in play."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Hassan, retracing his steps, reappeared in time at the gates of the Palace and begged admittance, stating that he had forgotten to communicate something of importance to his Majesty."
+    },
+    {
+     "id": "p007.s04",
+     "source": "His request being granted, he humbly solicited, that, inasmuch as his Majesty had been dissatisfied with his long service, the twenty-five years he had devoted to him should be returned, so that he might labor and put by something to provide for the inevitable day when he could no longer work."
+    },
+    {
+     "id": "p007.s05",
+     "source": "The Sultan answered:"
     }
    ],
    "id": "p007"
@@ -125,32 +157,73 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Whereupon the Sultan understanding what he wanted, ordered that the mézé should be immediately served."
+     "source": "\"That is well said and just."
+    },
+    {
+     "id": "p008.s02",
+     "source": "As it is not in my power to give you the twenty-five years, the best equivalent I can grant you is the means of sustenance for a period of that duration should you live so long."
+    },
+    {
+     "id": "p008.s03",
+     "source": "But tell me, who advised you to make this request?\""
     }
    ],
    "id": "p008"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Hassan then related his adventure with the boys while on his journey home, and his Majesty was so pleased with the judgment and advice of the lad that he sent for him and had him educated."
+    },
+    {
+     "id": "p009.s02",
+     "source": "The boy studied medicine, and distinguishing himself in the profession ultimately rose to be Hekim Ali Pasha."
+    }
+   ],
    "id": "p009"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p010.s01",
-     "source": "ON THE FACE OF THE WATERS"
+     "source": "He had one son who was known as Doctor Ali Pasha's son."
+    },
+    {
+     "id": "p010.s02",
+     "source": "He studied calligraphy, and became so proficient in this art, now almost lost, that his imitations of the Imperial Iradés (decrees) were perfect fac-similes of the originals."
+    },
+    {
+     "id": "p010.s03",
+     "source": "One day he took it into his head to write an Iradé appointing himself Grand Vizier, in place of the reigning one, a protégé of the Imperial Palace, which Iradé he took to the Sublime Porte and there and then installed himself."
+    },
+    {
+     "id": "p010.s04",
+     "source": "By chance the Sultan happened to drive through Stamboul that day, in disguise, and noticing considerable excitement and cries of \"Padishahim chok yasha\" (long live my Sultan) amongst the people, made inquiries as to the cause of this unusual occurrence."
+    },
+    {
+     "id": "p010.s05",
+     "source": "His Majesty's informers brought him the word that the people rejoiced in the fall of the old Grand Vizier, and the appointment of the new one, Doctor Ali Pasha's son."
+    },
+    {
+     "id": "p010.s06",
+     "source": "The Sultan returned to the Palace and immediately sent one of his eunuchs to the Sublime Porte to see the Grand Vizier and find out the meaning of these strange proceedings."
     }
    ],
    "id": "p010"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p011.s01",
-     "source": "By FLORA ANNIE STEEL,"
+     "source": "The eunuch was announced, and the Grand Vizier ordered him to be brought into his presence."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Directly he appeared in the doorway, he was greeted with: \"What do you want, you black dog?\""
     }
    ],
    "id": "p011"
@@ -160,7 +233,7 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Author of \"Miss Stuart's Legacy,\" \"Flower of Forgiveness,\" \"Red Rowans,\" \"Tales from the Punjab,\" etc., etc."
+     "source": "Then turning to the numerous attendants about, he said: \"Take this nigger to the slave market, and see what price he will bring.\""
     }
    ],
    "id": "p012"
@@ -170,11 +243,11 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "12mo."
+     "source": "The eunuch was taken to the slave market, and the highest price bid for him was fifty piasters."
     },
     {
      "id": "p013.s02",
-     "source": "Cloth. $1.50."
+     "source": "On hearing this, the Grand Vizier turned to the eunuch and said: \"Go and tell your master what you are worth, and tell him that I think it too much by far.\""
     }
    ],
    "id": "p013"
@@ -184,328 +257,53 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "\"We have read Mrs. Steel's book with ever-increasing surprise and admiration."
+     "source": "The eunuch was glad to get off, and com municated to his Majesty the story of his strange treatment."
     },
     {
      "id": "p014.s02",
-     "source": "It is the most wonderful picture."
+     "source": "The Sultan then ordered his Chief Eunuch, a not unimportant personage in the Ottoman Empire, to call on the Grand Vizier for an explanation."
     },
     {
      "id": "p014.s03",
-     "source": "We know that none who lived through the mutiny will lay it down without a gasp of admiration, and believe that the same emotion will be felt by thousands to whom the scenes depicted are but lurid phantasmagoria.\"— The Spectator."
+     "source": "At the Sublime Porte, however, no respect was paid to this high dignitary."
+    },
+    {
+     "id": "p014.s04",
+     "source": "Ali Pasha received him in precisely the same manner as he had received his subordinate."
+    },
+    {
+     "id": "p014.s05",
+     "source": "The chief was taken to the slave market, and the highest sum bid for him was five hundred piasters."
+    },
+    {
+     "id": "p014.s06",
+     "source": "The self-appointed Grand Vizier ordered him to go and tell his master the amount some foolish people were willing to pay for him."
     }
    ],
    "id": "p014"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "When the Sultan heard of these strange proceedings he sent an autograph letter to Ali Pasha, commanding him to come to the Palace."
+    },
+    {
+     "id": "p015.s02",
+     "source": "The Grand Vizier immediately set out for the Palace and was received in audience, when he explained to his Majesty that the affairs of State could not be managed by men not worth more than from fifty to five hundred piasters, and that if radical changes were not made, certain ruin would be the outcome."
+    },
+    {
+     "id": "p015.s03",
+     "source": "The Sultan appreciated this earnest communication, and ratified the appointment, as Grand Vizier, of Ali Pasha, the son of the boy who had played at state affairs in a village of Asia Minor."
+    }
+   ],
    "id": "p015"
   },
   {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p016.s01",
-     "source": "TALES OF THE PUNJAB"
-    }
-   ],
+   "type": "break",
+   "segments": [],
    "id": "p016"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p017.s01",
-     "source": "TOLD BY THE PEOPLE"
-    }
-   ],
-   "id": "p017"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p018.s01",
-     "source": "By MRS. F. A. STEEL"
-    }
-   ],
-   "id": "p018"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p019.s01",
-     "source": "With Illustrations by J. Lockwood Kipling, C.I.E. , and Notes by R. C. Temple."
-    }
-   ],
-   "id": "p019"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p020.s01",
-     "source": "16mo."
-    },
-    {
-     "id": "p020.s02",
-     "source": "Cloth, Gilt. $2.00."
-    }
-   ],
-   "id": "p020"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p021.s01",
-     "source": "\"A book that will be welcomed no less eagerly by the children than by students of folklore from a scientific standpoint is Mrs. Steel's collection of Indian stories, entitled 'Tales of the Punjab.'"
-    },
-    {
-     "id": "p021.s02",
-     "source": "They were taken down by her from the very lips of the natives in some of the most primitive districts in India."
-    },
-    {
-     "id": "p021.s03",
-     "source": "Yet these tales, handed down solely by word of mouth from one generation to another, could hardly be distinguished from those in a Teutonic collection like that of the Brothers Grimm; and even closer examination serves only to impress upon us more strongly than ever before the unity of the great Indo-European family of nations.\"— Nashville Banner."
-    }
-   ],
-   "id": "p021"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p022"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p023.s01",
-     "source": "UNIFORM EDITION OF THE STORIES AND POEMS OF RUDYARD KIPLING"
-    }
-   ],
-   "id": "p023"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p024.s01",
-     "source": "Seven Volumes. 12mo. Cloth. $1. each"
-    }
-   ],
-   "id": "p024"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p025.s01",
-     "source": "PLAIN TALES FROM THE HILLS"
-    }
-   ],
-   "id": "p025"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p026.s01",
-     "source": "\"Mr. Kipling knows and appreciates the English in India, and is a born story-teller and a man of humor into the bargain...."
-    },
-    {
-     "id": "p026.s02",
-     "source": "It would be hard to find better reading.\"— The Saturday Review, London."
-    }
-   ],
-   "id": "p026"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p027.s01",
-     "source": "THE LIGHT THAT FAILED"
-    }
-   ],
-   "id": "p027"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p028.s01",
-     "source": "\"'The Light that Failed' is an organic whole—a book with a backbone—and stands out boldly among the nerveless, flaccid, invertebrate things that enjoy an expensive but ephemeral existence in the circulating libraries.\"— The Athenæum."
-    }
-   ],
-   "id": "p028"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p029.s01",
-     "source": "LIFE'S HANDICAP. Stories of Mine Own People"
-    }
-   ],
-   "id": "p029"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p030.s01",
-     "source": "\"No volume of his yet published gives a better illustration of his genius, and of the weird charm which has given his stories such deserved popularity.\"— Boston Daily Traveler."
-    }
-   ],
-   "id": "p030"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p031.s01",
-     "source": "THE NAULAHKA. A Story of East and West"
-    }
-   ],
-   "id": "p031"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p032.s01",
-     "source": "By RUDYARD KIPLING and WOLCOTT BALESTIER."
-    }
-   ],
-   "id": "p032"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p033.s01",
-     "source": "\"What is the most surprising, and at the same time most admirable in this book, is the manner in which Mr. Kipling seems to grasp the character of the native women; we know of nothing in the English language of its kind to compare with chapter xx. in its delicacy and genuine sympathy.\""
-    }
-   ],
-   "id": "p033"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p034.s01",
-     "source": "UNDER THE DEODARS, THE PHANTOM 'RICKSHAW, AND WEE WILLIE WINKIE"
-    }
-   ],
-   "id": "p034"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p035.s01",
-     "source": "With additional matter, now published for the first time."
-    }
-   ],
-   "id": "p035"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p036.s01",
-     "source": "SOLDIERS THREE, THE STORY OF THE GADSBYS, and BLACK AND WHITE"
-    }
-   ],
-   "id": "p036"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p037.s01",
-     "source": "Also together with additional matter."
-    }
-   ],
-   "id": "p037"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p038.s01",
-     "source": "BALLADS AND BARRACK-ROOM BALLADS"
-    }
-   ],
-   "id": "p038"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p039.s01",
-     "source": "\"Mr. Kipling differs from other ballad-writers of the day in that he has that rare possession, imagination, and he has the temerity to speak out what is in him with no conventional reservations or deference to the hypocrisies of public opinion.\"— Boston Beacon."
-    }
-   ],
-   "id": "p039"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p040"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p041.s01",
-     "source": "THE MACMILLAN COMPANY, FIFTH AVENUE, NEW YORK"
-    }
-   ],
-   "id": "p041"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p042"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p043.s01",
-     "source": "TRANSCRIBER'S NOTES"
-    }
-   ],
-   "id": "p043"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p044.s01",
-     "source": "Other than the corrections listed below, printer's inconsistencies in spelling, punctuation, hyphenation and ligature usage have been retained: \"to-morrrow\" corrected to \"to-morrow\" (page 158)"
-    }
-   ],
-   "id": "p044"
-  },
-  {
-   "type": "verse",
-   "segments": [
-    {
-     "id": "p045.s01",
-     "source": "End of the Project Gutenberg EBook of Told in the Coffee House, by"
-    },
-    {
-     "id": "p045.s02",
-     "source": "Cyrus Adler and Allan Ramsay"
-    }
-   ],
-   "id": "p045"
   }
  ]
 }

@@ -2,28 +2,28 @@
  "id": "eu-belgium-flemish-people-002",
  "title": {
   "id": "title",
-  "source": "The Three Sisters"
+  "source": "The Swan Maidens And The Silver Knight"
  },
  "tradition": "Belgium (Flemish people)",
  "continent": "Europe",
  "source_lang": "en",
- "source_book": "Flemish Legends",
- "credits": "Coster, Charles de (author, d. 1879); Taylor, Harold (translator)",
- "gutenberg": "Project Gutenberg eBook #37668 — https://www.gutenberg.org/ebooks/37668 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Europe/Belgium (Flemish people)/002 - The Three Sisters.md",
+ "source_book": "Belgian Fairy Tales",
+ "credits": "Griffis, William Elliot (author, d. 1928)",
+ "gutenberg": "Project Gutenberg eBook #67256 — https://www.gutenberg.org/ebooks/67256",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Belgium (Flemish people)/002 - The Swan Maidens And The Silver Knight.md",
  "stats": {
-  "paragraphs": 105,
-  "segments": 137,
-  "words": 2678
+  "paragraphs": 52,
+  "segments": 165,
+  "words": 3229
  },
  "paragraphs": [
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Of the three noble ladies and their great beauty"
+     "source": "The two countries, Gelderland and Brabant adjoin each other, but their rivers flow far apart."
     }
    ],
    "id": "p001"
@@ -33,7 +33,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "In the year of Our Lord Jesus Christ 690, lived three maidens, descended, by male issue, from the noble line of the great emperor Octavian."
+     "source": "Once there was a castle, that stood on the banks of the Scheldt, on which the city of Brabo, named Antwerp, stands."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Instead of being full of light and joy for all within its walls, there was a princess named Elsje, who was kept a prisoner there."
     }
    ],
    "id": "p002"
@@ -43,7 +47,19 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Their names were Blanche, Claire, and Candide."
+     "source": "Her father and mother, dying when she was a little child, left her in the care of a count, who was to be her guardian."
+    },
+    {
+     "id": "p003.s02",
+     "source": "This nobleman was a selfish villain, and hoped to get her lands and estate."
+    },
+    {
+     "id": "p003.s03",
+     "source": "So he shut her up as a prisoner in the castle."
+    },
+    {
+     "id": "p003.s04",
+     "source": "If any knight should fight and overcome him, the princess would be delivered; but, as the wicked count was a man of gigantic strength and skilled in war, no one had ever attempted to meet him in battle."
     }
    ],
    "id": "p003"
@@ -53,7 +69,39 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Though they had dedicated the flower of their maidenhead to God, it is not to be supposed that this was for lack of lovers."
+     "source": "The Princess Elsje was very lovely in character."
+    },
+    {
+     "id": "p004.s02",
+     "source": "In her captivity she was kind to the birds [ ] and all the winged creatures, being especially fond of seven swans, which she fed every day."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Each one was very tame and took its food out of her hand."
+    },
+    {
+     "id": "p004.s04",
+     "source": "She knew them all by the names she had given them, Fuzzy, Buzzy, Trumpet, Jet, Diamond, Whitey and Black Eye."
+    },
+    {
+     "id": "p004.s05",
+     "source": "They were her best friends, for she was very lonely and had no human companions."
+    },
+    {
+     "id": "p004.s06",
+     "source": "Nor had she any idea that they were anything but dumb creatures that never could repay her kindness."
+    },
+    {
+     "id": "p004.s07",
+     "source": "But, strange to say, these seven swans were birds only in form."
+    },
+    {
+     "id": "p004.s08",
+     "source": "They had been changed by a wicked fairy from pretty maidens into swans."
+    },
+    {
+     "id": "p004.s09",
+     "source": "It was on this wise."
     }
    ],
    "id": "p004"
@@ -63,7 +111,27 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "For, on every day that passed, a crowd of people used to collect for nothing else than to see them go by on their way to church, and onlookers would say of them: “See what gentle eyes, see what white hands!”"
+     "source": "Once, while the good king of Gelderland had gone out hunting in the forest, with his lords and retainers, he rode in advance, for he was pursuing a deer."
+    },
+    {
+     "id": "p005.s02",
+     "source": "He got so far from his companions that he lost his way."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Coming near a hut in the woods, to inquire how he might get back to his palace, he met an old woman."
+    },
+    {
+     "id": "p005.s04",
+     "source": "She promised to show him the way out and back home."
+    },
+    {
+     "id": "p005.s05",
+     "source": "Immediately the king pulled out his purse to hand her a gold coin; but the old woman proudly waved her hand to scorn the money and said to him, “You must marry my daughter and make her your queen."
+    },
+    {
+     "id": "p005.s06",
+     "source": "If you do not, you can never get home again.”"
     }
    ],
    "id": "p005"
@@ -73,7 +141,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "More than one, besides, with his mouth watering to look at them, would say sorrowfully: “Must it be that such sweet maids as these should dedicate themselves to God, who has eleven thousand or more in his Paradise already.”"
+     "source": "The king hesitated about giving his promise [ ] at once, even before he had seen the lady, for he had seven motherless children, all daughters at home."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Their mother, on her dying bed, had made her husband give her a promise that the children should always be first in his thoughts."
     }
    ],
    "id": "p006"
@@ -83,7 +155,11 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "“But none so fair,” answered an old wheezing merchant behind them, who was drinking in the fragrance of their dresses."
+     "source": "Now, if he should marry again, would his new wife be good to them?"
+    },
+    {
+     "id": "p007.s02",
+     "source": "He would much rather that they should first see their future mother and give their love to her, before he took his second wife."
     }
    ],
    "id": "p007"
@@ -93,17 +169,29 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "And going off on his way, if the old man saw any young fellow loafing by the roadside, or lying on his belly in the grass to warm his back in the sun, he would give him a kick in the ribs, saying: “Well now, dost thou care nothing to see the finest flowers of beauty that were ever blowing?”"
+     "source": "But now, as he was very weary and almost ready to drop with hunger, he could not hesitate."
+    },
+    {
+     "id": "p008.s02",
+     "source": "He might die of weakness, while vainly wandering in the forest."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Moreover, the old woman said to him, quite sharply:"
     }
    ],
    "id": "p008"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p009.s01",
-     "source": "How a prince of Araby was taken with love for the youngest sister, and what came of it"
+     "source": "“If you refuse, you will never get out of these woods and will starve to death."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Come into my hut and I will feed you well.”"
     }
    ],
    "id": "p009"
@@ -113,7 +201,11 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Not a few young men tried to win them in marriage, but failing in this endeavour, turned moody and pined visibly away."
+     "source": "The king entered and found sitting by the fire a most beautiful maiden."
+    },
+    {
+     "id": "p010.s02",
+     "source": "He thought he had never seen a woman so fair, yet he did not like her."
     }
    ],
    "id": "p010"
@@ -123,11 +215,15 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Among them was a certain prince of Araby, who had himself baptized with great ceremony."
+     "source": "She rose from her seat and came forward to greet him, as if she had been waiting for him."
     },
     {
      "id": "p011.s02",
-     "source": "And this for the sake of the youngest sister solely."
+     "source": "There was a table spread with plenty of good things to eat."
+    },
+    {
+     "id": "p011.s03",
+     "source": "The king sat down and the damsel herself waited upon him while he enjoyed the meal."
     }
    ],
    "id": "p011"
@@ -137,7 +233,19 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "But, failing to attain his end, either by pleading or by force, set himself one morning before her door, and there let himself fall on his sword."
+     "source": "But all the time, the king did not like her [ ] looks, any more than at the first."
+    },
+    {
+     "id": "p012.s02",
+     "source": "At times he shuddered, for fear she might be some evil creature in lovely human form."
+    },
+    {
+     "id": "p012.s03",
+     "source": "However, he had promised the old woman to marry her daughter and it was now death to refuse."
+    },
+    {
+     "id": "p012.s04",
+     "source": "So he took the beautiful girl on his steed and rode straight to his castle, for the horse seemed to know the right way."
     }
    ],
    "id": "p012"
@@ -147,7 +255,19 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "The maid, hearing this fair lord cry out, came down in haste and had him carried in and laid on her own bed; whereat (for he was not quite dead) he found great solace."
+     "source": "That very evening, the wedding took place with great pomp."
+    },
+    {
+     "id": "p013.s02",
+     "source": "The wonderful thing was, that all the lords and ladies and servants had supposed that their master the king had purposely left them, the day before, to make a journey to get him a wife."
+    },
+    {
+     "id": "p013.s03",
+     "source": "So they were now all ready for him in their best dresses and jewels, and glad to welcome his bride."
+    },
+    {
+     "id": "p013.s04",
+     "source": "All remarked upon her beauty, but the king still feared that his new wife was wicked and cruel, and his heart sank within him."
     }
    ],
    "id": "p013"
@@ -157,7 +277,23 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "And when she bent over him to bathe and dress his wound, he roused what force he had left in him, kissed her on her red mouth, sighed like a man delivered from torment, and so gave up his soul happily."
+     "source": "So, to make sure, he took his seven children off into a castle that was deep in the forests and not easily found."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Even he himself had trouble in getting to it, until a wise old woman gave him a ball of yarn."
+    },
+    {
+     "id": "p014.s03",
+     "source": "This ball had the wonderful property of finding paths in the wood."
+    },
+    {
+     "id": "p014.s04",
+     "source": "If one threw it on the ground it would unroll of itself."
+    },
+    {
+     "id": "p014.s05",
+     "source": "So the king had a clue to the forest palace and daily went to visit his little folks and played with them. [ ]"
     }
    ],
    "id": "p014"
@@ -167,21 +303,49 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "But the maid was not at all pleased at this kiss, for she considered it a dishonour to her divine husband Jesus."
+     "source": "The new wife noticed his going away so often, and becoming jealous of her lord’s absences, she scolded him, saying to him that he did not love her, to be thus away from her so many times."
     },
     {
      "id": "p015.s02",
-     "source": "Nevertheless she wept for the fair lord, a little."
+     "source": "At last she found out, from the palace servants, where he kept the ball."
     }
    ],
    "id": "p015"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Wherein it is seen how Satan persecutes those ladies who seek to escape from the world"
+     "source": "Then she made seven little coats and in each one she sewed an evil charm, which her wicked old mother had taught her."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Walking in the woods until she came to the castle, she pretended to be glad to see the children, telling them that she had brought each one a present."
+    },
+    {
+     "id": "p016.s03",
+     "source": "The little folks were delighted and thought their step-mother was both lovely and kind."
+    },
+    {
+     "id": "p016.s04",
+     "source": "They put on their new coats and then gleefully danced together, joining hands as in a chorus."
+    },
+    {
+     "id": "p016.s05",
+     "source": "But in a few minutes a strange feeling came over them."
+    },
+    {
+     "id": "p016.s06",
+     "source": "Wings grew where their arms had been, their necks lengthened, while their legs shortened and became weblike."
+    },
+    {
+     "id": "p016.s07",
+     "source": "They were all changed into swans and flew out of the window."
+    },
+    {
+     "id": "p016.s08",
+     "source": "So the king never saw his children again."
     }
    ],
    "id": "p016"
@@ -191,7 +355,11 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "There were oftentimes a great crowd of suitors before the dwelling of the three ladies, some of them sighing laments, others prancing up and down on fine horses, others without uttering a word, but only looking up at the windows all the day long."
+     "source": "The seven swans enjoyed their life in the air and soon joined the great flock that belonged to the king of the country of Brabant, where the princess Elsje was kept in the castle, on the Scheldt River."
+    },
+    {
+     "id": "p017.s02",
+     "source": "The royal swanherd, though he had a thousand or more birds under his care, when counting the cygnets, or swan babies, noticed [ ] the addition of the seven pretty birds and wondered whence they had come."
     }
    ],
    "id": "p017"
@@ -201,11 +369,27 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "And oftentimes these men would fight together and kill one another, from jealousy."
+     "source": "The seven swan maidens soon got acquainted with all the other swans, for these birds are very sociable and talk to each other in their own language."
     },
     {
      "id": "p018.s02",
-     "source": "At this the ladies were saddened exceedingly."
+     "source": "In this way they learned the story of the captive Brabant princess."
+    },
+    {
+     "id": "p018.s03",
+     "source": "When they found they were her favorites, and she had given each one of them a name, and every day called them to be fed, their hearts were melted by the kindness of the pretty lady."
+    },
+    {
+     "id": "p018.s04",
+     "source": "Sometimes they found her in tears and heard her pray for wings to fly away."
+    },
+    {
+     "id": "p018.s05",
+     "source": "This made them wish that they could leave their swan forms and be like her again, as they once were."
+    },
+    {
+     "id": "p018.s06",
+     "source": "Or, if not thus able, they longed to help her in some way."
     }
    ],
    "id": "p018"
@@ -215,11 +399,15 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "“Ah,” said the two elder to their sister, “pray for us, white Blanche, white of soul and white of body, pray for us, little one."
+     "source": "They all agreed that they would rather remain swan maidens and be free to fly and do as they liked, rising about and up into the air, or sailing on the water, than to be shut up for life in a prison."
     },
     {
      "id": "p019.s02",
-     "source": "Jesus listens readily to the prayers of such maids as thou art.”"
+     "source": "Even though it were in a castle with gardens and a swan lake, they would rather be birds than captives."
+    },
+    {
+     "id": "p019.s03",
+     "source": "They were filled with pity for the lonely princess thus pining away."
     }
    ],
    "id": "p019"
@@ -229,7 +417,19 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "“My sisters,” answered she, “I am less worthy than you, but I will pray, if you so wish it.”"
+     "source": "The oldest and the youngest of the seven swans, Fuzzy and Black Eye, both of which had snow white plumage, were especially eager to help the maiden."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Of all the seven, they two were the strongest."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Every day they declared [ ] to their sisters and to the real swans that they would sometime find a way to set the princess free."
+    },
+    {
+     "id": "p020.s04",
+     "source": "The oldest of the swans only jeered at the idea or hissed scornfully."
     }
    ],
    "id": "p020"
@@ -239,7 +439,15 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "“Yes,” said they."
+     "source": "“How can human beings fly?"
+    },
+    {
+     "id": "p021.s02",
+     "source": "They have no wings like us and you boasters cannot give her yours.”"
+    },
+    {
+     "id": "p021.s03",
+     "source": "And they laughed a swan’s laugh."
     }
    ],
    "id": "p021"
@@ -249,7 +457,11 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "Then the three sisters knelt down, and the youngest prayed in this manner:"
+     "source": "Now in one thing, at least, these seven swan sisters were different from the other birds."
+    },
+    {
+     "id": "p022.s02",
+     "source": "They were accustomed, every week or so, to make a long flight back to Gelderland, to their old forest home and playground, to take a look at their fond father, who, however, never dreamed that these winged creatures were his children."
     }
    ],
    "id": "p022"
@@ -259,35 +471,15 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "“Kind Jesus, we have sinned against you assuredly, else you would not have let our beauty so touch these wicked men."
+     "source": "In the times of these visits to the forest palace, but only while they were there, the enchantment failed; yet only for a quarter of an hour."
     },
     {
      "id": "p023.s02",
-     "source": "Yes, we have indeed sinned, but, weaklings that we are, despite ourselves, Lord."
+     "source": "During these few minutes, while in the woods, they played together as girls, as in the happy days of yore, when their father used to come and see them."
     },
     {
      "id": "p023.s03",
-     "source": "Ah, grant us pardon for our great sorrow."
-    },
-    {
-     "id": "p023.s04",
-     "source": "You would have us for your own, and so indeed we have kept ourselves: our youth and beauty, mirth and sadness, vows and prayers, souls and bodies, thoughts and deeds, everything."
-    },
-    {
-     "id": "p023.s05",
-     "source": "In the morning, at noon, and at vesper-time, at all hours and all moments, do we not have you in our minds?"
-    },
-    {
-     "id": "p023.s06",
-     "source": "When your bright sun rises, O beloved, and no less when your bright stars shine in your heaven, they can see us at prayer, and offering to you, not gold, frankincense, or myrrh, but our humble loves and our poor hearts."
-    },
-    {
-     "id": "p023.s07",
-     "source": "That is not enough, we know well."
-    },
-    {
-     "id": "p023.s08",
-     "source": "Dear one, teach us to do more.”"
+     "source": "But this they could not do now within the royal palace gardens, where their father walked, and when in the dense forest itself, they could not find the way out as girls, for they were swans again, almost as soon as they started to find the path."
     }
    ],
    "id": "p023"
@@ -297,7 +489,23 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "Pausing here they sighed sorrowfully, all three."
+     "source": "So they did the next best thing."
+    },
+    {
+     "id": "p024.s02",
+     "source": "They flew to the royal palace gardens and circled around his head and dropped feathers to show their [ ] feelings."
+    },
+    {
+     "id": "p024.s03",
+     "source": "The king noticed this, and gave strict orders that no one should shoot an arrow, throw a net, or lay a trap for these birds, that he loved to welcome as visitors which gave him happiness."
+    },
+    {
+     "id": "p024.s04",
+     "source": "The wicked queen, however, knew all about these swans, but she never told her husband."
+    },
+    {
+     "id": "p024.s05",
+     "source": "She let him mourn for his children, month after month and year after year."
     }
    ],
    "id": "p024"
@@ -307,55 +515,15 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "“Kind Jesus,” went on the youngest sister, “we know well enough the desire of these men."
+     "source": "Now while the swan sisters were thinking of rescuing the Princess Elsje, she also was planning to save them, in order to bring them back to human form."
     },
     {
      "id": "p025.s02",
-     "source": "They think themselves brave and handsome, and hope on this account to capture our love, but they are neither handsome, nor brave, nor good, as you are, Jesus."
+     "source": "There was a good fairy who lived on the Lek River, who hated the wicked step-mother of the swan maidens and knew how to destroy her enchantments."
     },
     {
      "id": "p025.s03",
-     "source": "And yours we are and shall be always, and theirs never."
-    },
-    {
-     "id": "p025.s04",
-     "source": "Will you please to love us also a little, for you alone are our comfort and joy in this sad world, Jesus?"
-    },
-    {
-     "id": "p025.s05",
-     "source": "We will not be unfaithful to you in anything."
-    },
-    {
-     "id": "p025.s06",
-     "source": "Ah, let us rather die quickly, for we hunger and thirst for you."
-    },
-    {
-     "id": "p025.s07",
-     "source": "If you will, let these evil men continue to pursue us with their loves, ’twill be but delight to suffer it for your sake."
-    },
-    {
-     "id": "p025.s08",
-     "source": "Nevertheless, the mortal husband leaves not his wife in danger, nor the betrothed his bride."
-    },
-    {
-     "id": "p025.s09",
-     "source": "Are you not better than they, and will you not keep us also from the snares of the enemy?"
-    },
-    {
-     "id": "p025.s10",
-     "source": "If it be not pleasing to you, do nothing, but then it may be that one day some one will steal from us our virginity, which is yours only."
-    },
-    {
-     "id": "p025.s11",
-     "source": "Ah, dear beloved, rather let us pass our lives old, ugly, leprous, and then descend into purgatory, among devils, flame, and brimstone, there to wait until you deem us pure enough at length to take us into your Paradise, where we shall be allowed to see you and love you for ever."
-    },
-    {
-     "id": "p025.s12",
-     "source": "Have pity upon us."
-    },
-    {
-     "id": "p025.s13",
-     "source": "Amen.”"
+     "source": "But this good fairy possessed her power only on the water, but she fastened on the neck of Fuzzy, the oldest of the swans, a message telling the princess how to break the charm."
     }
    ],
    "id": "p025"
@@ -365,17 +533,29 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "And having spoken thus, the poor child wept, and her sisters with her, saying: “Pity, Jesus, pity.”"
+     "source": "The way to do it was this: The princess was to make seven little coats of swan feathers, and then she was not to speak a word to any soul, for seven months."
+    },
+    {
+     "id": "p026.s02",
+     "source": "At the end of that time, she was to put a coat on each of the swan sisters."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Then, they would at once become maidens again."
     }
    ],
    "id": "p026"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p027.s01",
-     "source": "Of the voice of the divine bridegroom, and of the horseman in silvern armour"
+     "source": "Now in Gelderland there lived a handsome young knight, who wore a suit of armor of silver steel and had a plume of snow white feathers in his helmet."
+    },
+    {
+     "id": "p027.s02",
+     "source": "He was as brave as a lion and [ ] loved to rescue poor people from robbers and to help all who were in trouble."
     }
    ],
    "id": "p027"
@@ -385,7 +565,11 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "Suddenly they heard a low voice saying: “Take heart.”"
+     "source": "One day, while out hunting, he by chance reached the castle in the woods, where the king had kept his children and to which the seven swans flew every week."
+    },
+    {
+     "id": "p028.s02",
+     "source": "He drew his bow and was just about to shoot, when the birds dropped their feather suits and seven pretty maidens stood before him."
     }
    ],
    "id": "p028"
@@ -395,7 +579,11 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "“Hark,” they said, “the husband deigns to speak to his brides.”"
+     "source": "“Oh, good sir, hurt us not,” they cried, “we are human, only for a quarter of an hour; but, oh, do come and follow us."
+    },
+    {
+     "id": "p029.s02",
+     "source": "We’ll guide you to a princess in distress and you can save her.”"
     }
    ],
    "id": "p029"
@@ -405,7 +593,19 @@
    "segments": [
     {
      "id": "p030.s01",
-     "source": "And presently the room was filled with a perfume more delicate than that of a censer burning finest frankincense."
+     "source": "The knight was delighted to hear these words, for the task the swan maidens proposed was just what he longed to attempt."
+    },
+    {
+     "id": "p030.s02",
+     "source": "They had hardly told their story, before they had to resume their swan forms."
+    },
+    {
+     "id": "p030.s03",
+     "source": "It was agreed that Fuzzy and Black Eye, the whitest and the strongest of the seven swans, should be the pilots of the knight to the well-guarded castle, where the princess was a captive."
+    },
+    {
+     "id": "p030.s04",
+     "source": "The five swans flew back to the flock, but the absence of the other two was not noticed by the king’s swanherd."
     }
    ],
    "id": "p030"
@@ -415,15 +615,15 @@
    "segments": [
     {
      "id": "p031.s01",
-     "source": "Then the voice spake further: “To-morrow,” it said, “when dawn breaks, go out from the town."
+     "source": "So, guided by his brace of snowy white and feathered pilots, who kept in the air above him, the knight made his way through the forests and across the country, until he came to the Scheldt River."
     },
     {
      "id": "p031.s02",
-     "source": "Mount your palfreys, and, riding without halt, follow the road without heeding whither it leads."
+     "source": "There were no boats, the current was [ ] rapid and the river wide."
     },
     {
      "id": "p031.s03",
-     "source": "I will guide you.”"
+     "source": "How should he get across?"
     }
    ],
    "id": "p031"
@@ -433,7 +633,7 @@
    "segments": [
     {
      "id": "p032.s01",
-     "source": "“We will obey you,” they said, “for you have made us the happiest of the daughters of men.”"
+     "source": "“Oh, how shall we help our knight down such a flood as this?” said Fuzzy to Black Eye."
     }
    ],
    "id": "p032"
@@ -443,7 +643,15 @@
    "segments": [
     {
      "id": "p033.s01",
-     "source": "And rising from their knees, they kissed one another joyfully."
+     "source": "While the Silver Knight was wondering, the good fairy who had sent the message to the princess, stepped out from among the river weeds."
+    },
+    {
+     "id": "p033.s02",
+     "source": "She had a star crown on her head and a wand of gold in her hand."
+    },
+    {
+     "id": "p033.s03",
+     "source": "She spoke thus to the knight:"
     }
    ],
    "id": "p033"
@@ -453,11 +661,19 @@
    "segments": [
     {
      "id": "p034.s01",
-     "source": "While the voice was speaking to them, there had come into the square a beautiful horseman in silvern armour, with a golden helm on his head, and, flying above that like a bird, a crest more brilliant than a flame."
+     "source": "“Take that dead tree trunk, which lies on the ground, all wreathed with vines, and launch it into the river, for my power extends only over the water."
     },
     {
      "id": "p034.s02",
-     "source": "The horse whereon he rode was of pure white."
+     "source": "Because of your knightly record as a brave hero, I shall have these swans guide you to the castle."
+    },
+    {
+     "id": "p034.s03",
+     "source": "Once on shore, you must fight your own battle."
+    },
+    {
+     "id": "p034.s04",
+     "source": "Promise to rescue the princess.”"
     }
    ],
    "id": "p034"
@@ -467,7 +683,19 @@
    "segments": [
     {
      "id": "p035.s01",
-     "source": "None of those there had seen him coming, and he was as if risen from the ground among the crowd of lovers, who, seized with fear, dared not look him in the face."
+     "source": "The knight took oath, on the hilt of his sword, that he would."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Then the fairy touched the dead tree and it became a pretty boat, shaped like a shell."
+    },
+    {
+     "id": "p035.s03",
+     "source": "She bade the two swans take their places in front."
+    },
+    {
+     "id": "p035.s04",
+     "source": "Then touching the wild vines, growing on the log, and throwing them over their long curved snow-white necks, lo! they became silver harness, to draw the boat, and silver bridles, which the rider standing in the boat, held, as the birds darted swiftly forward."
     }
    ],
    "id": "p035"
@@ -477,11 +705,7 @@
    "segments": [
     {
      "id": "p036.s01",
-     "source": "“Rascals,” quoth he, “take these horses away out of the square."
-    },
-    {
-     "id": "p036.s02",
-     "source": "Do you not know that the noise of their hooves troubles these three ladies in their prayers?”"
+     "source": "He waved his thanks and farewell in gratitude to the fairy. [ ]"
     }
    ],
    "id": "p036"
@@ -491,7 +715,11 @@
    "segments": [
     {
      "id": "p037.s01",
-     "source": "And therewith he rode away towards the east."
+     "source": "“Good speed and sure success to you,” cried the fairy."
+    },
+    {
+     "id": "p037.s02",
+     "source": "“You will find the princess doing my work.”"
     }
    ],
    "id": "p037"
@@ -501,21 +729,37 @@
    "segments": [
     {
      "id": "p038.s01",
-     "source": "“Ah,” said the lovers to one another, “saw you that silvern armour and that flaming crest? ’Twas an angel of God assuredly, come from Paradise for the sake of these three ladies.”"
+     "source": "It was to be a battle of enchantments, for the good fairy was trying to undo the spell, which the wicked stepmother, the king’s wife, had cast over the swan maidens."
     },
     {
      "id": "p038.s02",
-     "source": "The more insistent among them muttered: “He did not forbid us to stand on foot before the door, and in that wise we may yet remain with impunity.”"
+     "source": "Yet she could do nothing on land without the aid of a brave knight."
+    },
+    {
+     "id": "p038.s03",
+     "source": "She had been a long time waiting for such a hero."
+    },
+    {
+     "id": "p038.s04",
+     "source": "Now he had come."
     }
    ],
    "id": "p038"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p039.s01",
-     "source": "How, by the command of God, the three ladies rode to adventure"
+     "source": "To make effective the charm of restoring swan maidens to human forms, while she was making the feather coats, it was absolutely necessary for the Princess Elsje to do two hard things; one was, not to speak a word till the coats were finished, and the swans transformed; the second was not to ask the knight who he was or where he came from."
+    },
+    {
+     "id": "p039.s02",
+     "source": "Even when he was her husband, she must be silent on this matter."
+    },
+    {
+     "id": "p039.s03",
+     "source": "She had to promise this, or the good fairy would do nothing."
     }
    ],
    "id": "p039"
@@ -525,15 +769,11 @@
    "segments": [
     {
      "id": "p040.s01",
-     "source": "On the morrow, therefore, before daylight, the suitors returned once again in great numbers, but first left their horses behind them in their stables."
+     "source": "Into the swan boat, the young knight in his shining silver-steel armor, bravely stepped."
     },
     {
      "id": "p040.s02",
-     "source": "Soon after daybreak they saw the three ladies ride out from their courtyard, in obedience to the command which God had given them, each one mounted upon her palfrey."
-    },
-    {
-     "id": "p040.s03",
-     "source": "Supposing that they were but going out into the neighbouring meadows to take the clean air, they followed behind, one and all, singing merry carols in their honour."
+     "source": "Then with their four web feet beating tirelessly under the river waves, that curled against their breasts, the two strong birds drew the shell boat until they were near the castle in Brabant."
     }
    ],
    "id": "p040"
@@ -543,7 +783,19 @@
    "segments": [
     {
      "id": "p041.s01",
-     "source": "For so long as they were in the streets of the town the palfreys moved slowly, but once out in the open country they began galloping."
+     "source": "It was a day of tournament, and hundreds of lords and ladies were gathered together to see the knights on horseback rush at each other in [ ] the game of friendly rivalry, as rough as war, in which sometimes men were killed."
+    },
+    {
+     "id": "p041.s02",
+     "source": "The herald sounded the trumpet to call forth a champion for the imprisoned maiden."
+    },
+    {
+     "id": "p041.s03",
+     "source": "Whosoever should vanquish the cruel count should have the lady’s strong castle and her rich estate."
+    },
+    {
+     "id": "p041.s04",
+     "source": "Glorious in her beauty, Princess Elsje sat in the place of honor, crowned with flowers, as she had sat again and again before, but never a word had she spoken to a soul."
     }
    ],
    "id": "p041"
@@ -553,7 +805,11 @@
    "segments": [
     {
      "id": "p042.s01",
-     "source": "The lovers tried still to follow them, but at last were forced to drop off, and fell one by one along the wayside."
+     "source": "The echoes of the first trumpet blast died away."
+    },
+    {
+     "id": "p042.s02",
+     "source": "No one came."
     }
    ],
    "id": "p042"
@@ -563,7 +819,11 @@
    "segments": [
     {
      "id": "p043.s01",
-     "source": "When they had covered some miles the palfreys stood still; and the three ladies, seeing that they had come free of their pursuers, resolved to give honour to God for his aid, and to this end to build him a fair church."
+     "source": "The second summons sounded."
+    },
+    {
+     "id": "p043.s02",
+     "source": "None answered."
     }
    ],
    "id": "p043"
@@ -573,15 +833,15 @@
    "segments": [
     {
      "id": "p044.s01",
-     "source": "Where?"
+     "source": "The third blast had not ended, before the knight in the silver steel armor stepped forward."
     },
     {
      "id": "p044.s02",
-     "source": "They did not know."
+     "source": "He asked the maiden if she would accept him as her husband, if he overcame the count."
     },
     {
      "id": "p044.s03",
-     "source": "But the thing was already decided in Paradise, as you shall see."
+     "source": "She spoke not a word, but nodded her head, beaming with a joy that inspired him to valor."
     }
    ],
    "id": "p044"
@@ -591,7 +851,7 @@
    "segments": [
     {
      "id": "p045.s01",
-     "source": "For as soon as they were once again on their horses, the animals, guided by God’s holy spirit, set off at a high trot."
+     "source": "The Silver Knight threw down his glove as a challenge."
     }
    ],
    "id": "p045"
@@ -601,7 +861,15 @@
    "segments": [
     {
      "id": "p046.s01",
-     "source": "And leapt rivers, threaded forests, passed through towns, whereof the gates opened of themselves to let them by, and closed again after, bounded over walls and like obstacles."
+     "source": "Again the trumpet pealed and the two champions rushed at each other."
+    },
+    {
+     "id": "p046.s02",
+     "source": "All expected that the count, being so heavy and strong would win, but the battle was soon decided, for the Silver Knight was victorious."
+    },
+    {
+     "id": "p046.s03",
+     "source": "The count, senseless, and with a broken head, was borne off the field."
     }
    ],
    "id": "p046"
@@ -611,7 +879,11 @@
    "segments": [
     {
      "id": "p047.s01",
-     "source": "And startled every one they met, all amazed to see go by, quick as the wind, these three white horses and these three fair ladies."
+     "source": "Now the knight had been told not to expect [ ] his bride to speak to him until after the marriage, but to be content with a nod of her head and the language of her eyes."
+    },
+    {
+     "id": "p047.s02",
+     "source": "Yet those eyes spoke to him their message, and he was full of joy."
     }
    ],
    "id": "p047"
@@ -621,17 +893,29 @@
    "segments": [
     {
      "id": "p048.s01",
-     "source": "And travelled in this way for a thousand leagues, or rather more."
+     "source": "Even when he asked her whether she would marry him, without ever now, or hereafter, asking who he was, or whence he came, her answer was with a nod of the head, and a low bow, with one of her hands on her heart and the other raised to heaven."
+    },
+    {
+     "id": "p048.s02",
+     "source": "This was enough."
+    },
+    {
+     "id": "p048.s03",
+     "source": "He was satisfied."
     }
    ],
    "id": "p048"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p049.s01",
-     "source": "Of the diamond hammers, and foundations torn up from the ground"
+     "source": "The wedding was celebrated with great pomp and joy."
+    },
+    {
+     "id": "p049.s02",
+     "source": "For many weeks afterwards, the silent princess kept busy with her needle, making little coats of swan feathers, but of this her husband seemed to approve and gladly he praised his bride’s industry."
     }
    ],
    "id": "p049"
@@ -641,7 +925,23 @@
    "segments": [
     {
      "id": "p050.s01",
-     "source": "At Haeckendover, in the duchy of Brabant, the palfreys stood still once again, and neighed."
+     "source": "Now on the day when the seven swans from Gelderland were accustomed to fly back to their old home, the forest castle, and before they had risen from the water to stretch their wings, the princess called them, and each by name before her."
+    },
+    {
+     "id": "p050.s02",
+     "source": "Then, in the presence of her knight, she threw the coats over them."
+    },
+    {
+     "id": "p050.s03",
+     "source": "Instantly feathers, wings, arched necks and webbed feet disappeared, and seven lovely maidens stood before them."
+    },
+    {
+     "id": "p050.s04",
+     "source": "Now, since their father had died, they all asked to stay in Brabant and serve the princess [ ] at her court."
+    },
+    {
+     "id": "p050.s05",
+     "source": "This offer she gladly accepted."
     }
    ],
    "id": "p050"
@@ -651,7 +951,23 @@
    "segments": [
     {
      "id": "p051.s01",
-     "source": "And would not go one step forward, nor back."
+     "source": "But the princess had no sooner regained the use of her voice than she seemed consumed with a curiosity she had not felt before."
+    },
+    {
+     "id": "p051.s02",
+     "source": "In the new joy of having fulfilled one promise, made to the river fairy in behalf of the swan sisters, she forgot that made to the knight, her husband."
+    },
+    {
+     "id": "p051.s03",
+     "source": "Her eagerness to know who and whence he was increased, until one day she burst out, with the questions."
+    },
+    {
+     "id": "p051.s04",
+     "source": "The knight reminded her of her vow which, with solemn gesture, she had made to him, before he risked his life for her."
+    },
+    {
+     "id": "p051.s05",
+     "source": "When she urged that his love for her could not be deep or real, if he kept a secret from her, he made answer:"
     }
    ],
    "id": "p051"
@@ -661,540 +977,18 @@
    "segments": [
     {
      "id": "p052.s01",
-     "source": "For this was where God had chosen to have his church."
+     "source": "“It is not I that love less, or have broken faith."
+    },
+    {
+     "id": "p052.s02",
+     "source": "It is you.”"
+    },
+    {
+     "id": "p052.s03",
+     "source": "Then, rushing out of the palace, he leaped upon his horse and disappeared in the forest, riding back to Gelderland, and the princess though no longer a captive, but free and rich, was sorrowful and lonely. [ ]"
     }
    ],
    "id": "p052"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p053.s01",
-     "source": "But the ladies, supposing that they had stopped there because they were tired, went on as far as Hoy-Bout on foot, and there determined to start building."
-    }
-   ],
-   "id": "p053"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p054.s01",
-     "source": "Therefore they sent for the most skilful workers in stone, and master-builders also, in so great number that at the end of one day the foundations were two hands’ breadth high in the lowest part."
-    }
-   ],
-   "id": "p054"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p055.s01",
-     "source": "And seeing this good beginning the ladies rejoiced greatly, and supposed their work agreeable to God."
-    }
-   ],
-   "id": "p055"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p056.s01",
-     "source": "But on the morrow, alas, found all the stones torn up out of the ground."
-    }
-   ],
-   "id": "p056"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p057.s01",
-     "source": "Thinking that by chance some traitor heretic had been buried in that place, who at night shook down the stones of their church with the trembling of his accursed bones, they removed to Steenen-Berg with their workmen, and there started afresh in the same manner as at Hoy-Bout."
-    }
-   ],
-   "id": "p057"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p058.s01",
-     "source": "But on the morrow morning found the walls once again out of the ground."
-    }
-   ],
-   "id": "p058"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p059.s01",
-     "source": "For the Lord Jesus was minded to be worshipped more particularly at Haeckendover."
-    }
-   ],
-   "id": "p059"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p060.s01",
-     "source": "And sent, therefore, his angels by night, with hammers of diamond from the workshops of Paradise."
-    }
-   ],
-   "id": "p060"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p061.s01",
-     "source": "And bade them tear down the work of the three ladies."
-    }
-   ],
-   "id": "p061"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p062.s01",
-     "source": "Therefore the sisters, greatly perplexed and wondering, went down on their knees, praying God that he would tell them where he wished to have his church."
-    }
-   ],
-   "id": "p062"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p063.s01",
-     "source": "Of the youngest sister and the beautiful angel"
-    }
-   ],
-   "id": "p063"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p064.s01",
-     "source": "And suddenly they saw a young man, of a beauty more than earthly, clad in a robe of the colour of the setting sun."
-    }
-   ],
-   "id": "p064"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p065.s01",
-     "source": "Kindly he looked at them."
-    }
-   ],
-   "id": "p065"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p066.s01",
-     "source": "Knowing him for God’s angel, the three ladies fell on their faces before him."
-    }
-   ],
-   "id": "p066"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p067.s01",
-     "source": "But the youngest, bolder than the others, as is the way with children, dared to steal a look at the fair ambassador, and, seeing him so comely, took heart and smiled."
-    }
-   ],
-   "id": "p067"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p068.s01",
-     "source": "The angel took her by the hand, saying to her and to her sisters: “Come and follow me.”"
-    }
-   ],
-   "id": "p068"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p069.s01",
-     "source": "This they did."
-    }
-   ],
-   "id": "p069"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p070.s01",
-     "source": "And thence they came to the spot where the church now stands, and the angel said to them: “This is the place.”"
-    }
-   ],
-   "id": "p070"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p071.s01",
-     "source": "“Thank you, My Lord,” said the youngest joyously."
-    }
-   ],
-   "id": "p071"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p072.s01",
-     "source": "How the three ladies saw a green island, with sweet flowers and birds thereon"
-    }
-   ],
-   "id": "p072"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p073.s01",
-     "source": "At that time it was thirteen days past the feast of the Kings; snow had fallen heavily and set hard in frost after, by reason of a north wind which was blowing."
-    }
-   ],
-   "id": "p073"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p074.s01",
-     "source": "And the three ladies saw before them, among the snow, as it were a green island."
-    }
-   ],
-   "id": "p074"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p075.s01",
-     "source": "And this island was girt about with a cord of purple silk."
-    }
-   ],
-   "id": "p075"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p076.s01",
-     "source": "And upon the island the air was fresh as in spring, and roses were blowing, with violets and jessamine, whose smell is like balm."
-    }
-   ],
-   "id": "p076"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p077.s01",
-     "source": "But outside was naught but storm, north wind, and terrible cold."
-    }
-   ],
-   "id": "p077"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p078.s01",
-     "source": "Towards the middle, where now stands the grand altar, was a holm-oak, covered with blossom as if it had been a Persian jessamine."
-    }
-   ],
-   "id": "p078"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p079.s01",
-     "source": "In the branches, warblers, finches and nightingales sang to their hearts’ content the sweetest songs of Paradise."
-    }
-   ],
-   "id": "p079"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p080.s01",
-     "source": "For these were angels, who had put on feathered guise, carolling in this fashion in God’s honour."
-    }
-   ],
-   "id": "p080"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p081.s01",
-     "source": "One fair nightingale, the sweetest singer of them all, held in his right claw a roll of parchment, whereon was written in letters of gold:"
-    }
-   ],
-   "id": "p081"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p082.s01",
-     "source": "“This is the place chosen by God and shown by him to the three maidens for the building of a church to the glory of Our Lord and Saviour Jesus Christ.”"
-    }
-   ],
-   "id": "p082"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p083.s01",
-     "source": "Great was the joy of the ladies at that sight, and the youngest said to the angel:"
-    }
-   ],
-   "id": "p083"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p084.s01",
-     "source": "“We see certainly that God loves us somewhat; what must we do now, My Lord Angel?”"
-    }
-   ],
-   "id": "p084"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p085.s01",
-     "source": "“Thou must build the church here, little one,” answered the messenger, “and choose for this work twelve of the most skilled workmen, neither more nor less; God himself will be the thirteenth.”"
-    }
-   ],
-   "id": "p085"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p086.s01",
-     "source": "And having said so much he returned to high heaven."
-    }
-   ],
-   "id": "p086"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p087.s01",
-     "source": "Of the church of Our Lord at Haeckendover, and of the strange mason who worked there"
-    }
-   ],
-   "id": "p087"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p088.s01",
-     "source": "Then all three went off in haste to choose from among the others the twelve good workmen who should set up the foundations of the church where they had seen the cord of purple silk."
-    }
-   ],
-   "id": "p088"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p089.s01",
-     "source": "The work went on so well that it was a pleasure to see the stones mounting up, straight and quickly."
-    }
-   ],
-   "id": "p089"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p090.s01",
-     "source": "But the miracle was this, that during the hours of labour the masons were always thirteen in number, but at dinner and at paytime twelve only."
-    }
-   ],
-   "id": "p090"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p091.s01",
-     "source": "For the Lord Jesus was pleased to work with the others, but neither ate nor drank with them; he who in Paradise had such fine broth and such sweet fruits, and wine from the fountain of Saphir, which is a fountain giving forth without intermission wine of a richer yellow than liquid gold itself."
-    }
-   ],
-   "id": "p091"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p092.s01",
-     "source": "Nor did he suffer for want of money; for that is an evil reserved to us needy, piteous, and ill-faring mortals."
-    }
-   ],
-   "id": "p092"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p093.s01",
-     "source": "The building advanced so well that soon the bell was hung in the tower as a sign that the church was finished."
-    }
-   ],
-   "id": "p093"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p094.s01",
-     "source": "Then the three maids entered in together; and, falling on her knees, the youngest said:"
-    }
-   ],
-   "id": "p094"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p095.s01",
-     "source": "“By whom, divine husband and beloved Jesus, shall we dedicate this church built for your service?”"
-    }
-   ],
-   "id": "p095"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p096.s01",
-     "source": "To which the Lord Jesus replied: “It is I Myself who will consecrate and dedicate this church; let none come after me to consecrate it anew.”"
-    }
-   ],
-   "id": "p096"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p097.s01",
-     "source": "Of the two bishops, and the withered hands"
-    }
-   ],
-   "id": "p097"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p098.s01",
-     "source": "By and by two venerable bishops passed through Haeckendover, and seeing the new church were minded to give it their blessing."
-    }
-   ],
-   "id": "p098"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p099.s01",
-     "source": "They knew nothing of the words of Jesus to the three ladies, or they would not have thought of such temerity."
-    }
-   ],
-   "id": "p099"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p100.s01",
-     "source": "But they were punished terribly none the less."
-    }
-   ],
-   "id": "p100"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p101.s01",
-     "source": "For as one of them was about to bless the water for this purpose he became suddenly blind."
-    }
-   ],
-   "id": "p101"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p102.s01",
-     "source": "And the other, who was holding the holy water brush, when he lifted his arms for the blessing, found them suddenly withered and stiffened, so that he could no longer move them."
-    }
-   ],
-   "id": "p102"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p103.s01",
-     "source": "And perceiving that they had sinned in some way the two bishops were filled with repentance and prayed to the Lord Jesus to pardon them."
-    }
-   ],
-   "id": "p103"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p104.s01",
-     "source": "And they were straightway pardoned, seeing that they had sinned in ignorance."
-    }
-   ],
-   "id": "p104"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p105.s01",
-     "source": "And thereafter they came oftentimes most devoutly to Haeckendover."
-    }
-   ],
-   "id": "p105"
   }
  ]
 }

@@ -4,7 +4,7 @@
 - **Source book:** *Japanese Fairy Tales*
 - **Author / collector / translator:** James, Grace (author)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #35853 — https://www.gutenberg.org/ebooks/35853 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #35853 — https://www.gutenberg.org/ebooks/35853
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

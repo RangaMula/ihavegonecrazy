@@ -4,7 +4,7 @@
 - **Source book:** *Tales of Bengal*
 - **Author / collector / translator:** Banerjea, S. B. (author); Skrine, Francis Henry (editor, d. 1933)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #10999 — https://www.gutenberg.org/ebooks/10999 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #10999 — https://www.gutenberg.org/ebooks/10999
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

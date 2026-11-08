@@ -1,0 +1,40 @@
+{
+ "id": "am-chile-041",
+ "title": {
+  "id": "title",
+  "source": "LA SIRENA DEL RIO CATO. (D. Augusto Escárate, de años; ha vivido en Chillán.)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/041 - LA SIRENA DEL RIO CATO. (D. Augusto Escárate, de años; ha vivido en Chillán.).md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 68
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Cerca del río Cato, provincia de Ñuble, en una parte alejada del camino, sale en las tardes de los jueves una niña muy hermosa que tiene los cabellos de oro y canta con muy linda voz."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Algunas personas, atraídas por el canto, se internan en la montaña en donde está la Sirena (la conocen con este nombre) y no vuelven más."
+    },
+    {
+     "id": "p001.s03",
+     "source": "No se sabe lo que les suceda."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

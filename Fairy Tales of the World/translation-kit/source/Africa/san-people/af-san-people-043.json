@@ -2,20 +2,20 @@
  "id": "af-san-people-043",
  "title": {
   "id": "title",
-  "source": "Perdeby en sy Vrou"
+  "source": "Boesman-gedigte"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
  "source_book": "Boesman-Stories. Deel 2, Dierstories en ander verhale",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/043 - Perdeby en sy Vrou.md",
+ "markdown_file": "Africa/San people/043 - Boesman-gedigte.md",
  "stats": {
-  "paragraphs": 25,
-  "segments": 52,
-  "words": 1069
+  "paragraphs": 89,
+  "segments": 120,
+  "words": 562
  },
  "paragraphs": [
   {
@@ -23,41 +23,57 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "OPMERKINGS:—Hierdie storie is amper op die model van ’n Hottentot-dierestorie, dog die Boesman-herkoms is te duidelik."
+     "source": "OPMERKINGS:—Om die Boesman reg te laat wedervaar, neem ons ’n paar van sy gedigte op."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Daar is baie daarvan; dog as ons ’n vertaling daarvan moet lewer, dan word dié bepaald waardeloos, omdat die gedigte meestal nabootsings in sy eie taal van natuurklanke is."
+    },
+    {
+     "id": "p001.s03",
+     "source": "So boots b.v. ons blank kinders die tortelduif se sang na as: „Werk stadig!"
+    },
+    {
+     "id": "p001.s04",
+     "source": "Werk stadig!”"
+    },
+    {
+     "id": "p001.s05",
+     "source": "Of dié van die lemoenduifie as: „Ek gaan na Woester toe!"
+    },
+    {
+     "id": "p001.s06",
+     "source": "Ek gaan na Woester toe!”"
+    },
+    {
+     "id": "p001.s07",
+     "source": "Vertaal dit in ’n ander taal en kyk dan watter gebrou dit afgee."
+    },
+    {
+     "id": "p001.s08",
+     "source": "Maar ons het darem ’n paar gedigte deur ’n mak Boesman gemaak, opgevang."
+    },
+    {
+     "id": "p001.s09",
+     "source": "En dié kan ons met ’n sekere mate van vrymoedigheid aanbied."
+    },
+    {
+     "id": "p001.s10",
+     "source": "Let op, die rymmaat is in ooreenstemming met hulle dansmusiek, of riele, gebring."
+    },
+    {
+     "id": "p001.s11",
+     "source": "Baie reëls en parte van die gedigte word oor en oor herhaal."
     }
    ],
    "id": "p001"
   },
   {
-   "type": "prose",
+   "type": "heading",
    "segments": [
     {
      "id": "p002.s01",
-     "source": "D aar was ’n ou Boesman wat gelukkig met sy ou vrou en kinders gelewe het."
-    },
-    {
-     "id": "p002.s02",
-     "source": "Hy was ’n kriewelkop; maar as hul nie met hom lol nie, dan was daar nie ’n beter man as hy nie."
-    },
-    {
-     "id": "p002.s03",
-     "source": "Dog sy ou vrou was bepaald verspot."
-    },
-    {
-     "id": "p002.s04",
-     "source": "Haar grootste vermaak was om haar kinders in hulle gesigte voor andere te prys."
-    },
-    {
-     "id": "p002.s05",
-     "source": "Nou, soiets is mos ’n baie slegte trek in ’n moeder; want dit laat die kinders dink dat hul beter is as ander mense se kinders: wat sleg is, word nog slegter; en wat goed is, steur hul nie grootliks aan hulle moeder se lawwe praatjies nie."
-    },
-    {
-     "id": "p002.s06",
-     "source": "Dan, so ’n trek in die moeder maak dat ander mense maar baie min van haar kinders dink—die jongkêrels kry teësin in die dogters, en die meisies gee nie om vir sulke danige blinkgemaakte jongkêrels nie."
-    },
-    {
-     "id": "p002.s07",
-     "source": "So het haar kinders been-oud geword voor hulle getrou het."
+     "source": "DIE DIERE GAAN WATER DRINK"
     }
    ],
    "id": "p002"
@@ -67,11 +83,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Maar die jongste dogter was darem regte mooi; sy was ’n terggees van die bestes en baie deur die windmaak van die moeder bederwe."
-    },
-    {
-     "id": "p003.s02",
-     "source": "Maar tog met dit al was die jongmense gek na haar; hulle het baie by haar kom kuier as die moeder opsy was."
+     "source": "D ie diere die kom,"
     }
    ],
    "id": "p003"
@@ -81,7 +93,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Maar kom die ou moeder in die geselskap, dan is dit maar weer só: sy sit haar dogter tot vervelens toe met woorde te verkoop en sê dat die man wat dié dogter vat, moet kan mooi sing."
+     "source": "Die diere die kom,"
     }
    ],
    "id": "p004"
@@ -91,15 +103,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Kriekie kom sing, Sonbesie kom sing, Uil kom sing, Wolf en Jakkals kom sing; maar die dogter, tot groot ontsteltenis van die moeder, bars uit van lag en spot die singers lekker in hulle gesigte uit."
-    },
-    {
-     "id": "p005.s02",
-     "source": "Dit maak die moeder teen die dogter isegrimmig, en die singers stap boos weg."
-    },
-    {
-     "id": "p005.s03",
-     "source": "Hul vat op die daad hul karos en verlaat die geselskap."
+     "source": "Die diere die brom—"
     }
    ],
    "id": "p005"
@@ -109,7 +113,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Toe die dogter en die moeder weer alleen was, begin die moeder by haar dogter te pamperlang en vra die dogter wat nou eintlik haar sin vir iemand is."
+     "source": "Hul draf na die water toe."
     }
    ],
    "id": "p006"
@@ -119,11 +123,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Die dogter begin toe eers hierdie kant toe te praat, en toe weer daardie kant toe te praat; en sy raak so deurmekaar dat sy somar alkant-toe praat."
-    },
-    {
-     "id": "p007.s02",
-     "source": "Toe was die moeder nog net so met haar dogter opgeskeep en was niks wyser geword nie."
+     "source": "Met kop na die grond,"
     }
    ],
    "id": "p007"
@@ -133,11 +133,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Eendag was daar weer ’n geselskap, en die moeder en dogter was ook daar."
-    },
-    {
-     "id": "p008.s02",
-     "source": "Weer begin die moeder oor haar dogter uit te wy en sê dat die een wat die mooiste kan dans, dié kan die dogter kry."
+     "source": "Hul sterte swaai rond—"
     }
    ],
    "id": "p008"
@@ -147,15 +143,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Meteens begin Padda te dans, toe Springbok, toe Hasie, toe Slang, toe Patrys, toe Skilpad; maar weer, tot steurnis van die moeder, sit die dogter die hele klomp dansers in hulle gesigte uit te lag."
-    },
-    {
-     "id": "p009.s02",
-     "source": "Die moeder voel toe vererg, en die dansers nie minder beledig nie."
-    },
-    {
-     "id": "p009.s03",
-     "source": "In ’n ommesientjie sit die moeder met haar dogter weer alleen; algar het karos gevat en weggestap."
+     "source": "Hul draf na die water toe."
     }
    ],
    "id": "p009"
@@ -165,11 +153,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Daar was toe geen ander plan vir moeder en dogter nie, as ook maar karosse te pak en na hulle huis toe te stap."
-    },
-    {
-     "id": "p010.s02",
-     "source": "Op pad vra die moeder andermaal wat die sin van die dogter is."
+     "source": "Namakwa-patrys,"
     }
    ],
    "id": "p010"
@@ -179,7 +163,7 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Sy praat toe weer hierdie kant toe, toe daardie kant toe, en somar daarop alkant-toe, en was so deurmekaar as ’n vlieg in ’n spinnerak."
+     "source": "Wat water kan wys—"
     }
    ],
    "id": "p011"
@@ -189,11 +173,7 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Op ’n sekere dag sit die moeder en haar dogter weer in ’n ander geselskap."
-    },
-    {
-     "id": "p012.s02",
-     "source": "Andermaal begin die moeder die fluitjie van prys vir haar dogter te blaas en sê dat die een wat die netste met ’n pyl kan skiet, die dogter kan kry."
+     "source": "Hy vlie na die water toe."
     }
    ],
    "id": "p012"
@@ -203,11 +183,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Toe vat Heuningby sy boog en pylkoker, en hy begin daar rond te skiet; Muskiet begin te skiet; Muggie begin te skiet; Blindevlieg begin te skiet; ook Vlooi begin te skiet."
-    },
-    {
-     "id": "p013.s02",
-     "source": "Toe saai die geselskap uitmekaar—moeder en dogter inkluis—, en karosse bly in die slag."
+     "source": "Die kwagga loop voor,"
     }
    ],
    "id": "p013"
@@ -217,11 +193,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Op pad huis-toe sê die dogter: „A, nee, ma, jy moet eers dink voor jy praat!"
-    },
-    {
-     "id": "p014.s02",
-     "source": "Kyk hoe toe is ons oë nou geswel!”"
+     "source": "Die leeu vat spoor—"
     }
    ],
    "id": "p014"
@@ -231,7 +203,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Die moeder voel toe dat sy haar saak nie goed oordink het nie; so begin sy somar te sê: „Kom, vertel my nou regtig wat jou sin is!”"
+     "source": "Hul draf na die water toe."
     }
    ],
    "id": "p015"
@@ -241,11 +213,7 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Soos gewoonlik praat die dogter weer hierdie kant toe, daarop daardie kant toe en toe somar alkant-toe, dat sy andermaal nes ’n vlieg in heuning vassit."
-    },
-    {
-     "id": "p016.s02",
-     "source": "En die moeder bly toe nog net so dom."
+     "source": "Die Boesman wag daar,"
     }
    ],
    "id": "p016"
@@ -255,7 +223,7 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "By ’n ander geleentheid bevind hul vir hulle weer in ’n groot geselskap, en die moeder haar mond borrel weer oor van lof van haar dogter; en sy sê dat die een wat die mooiste karos het, dié kan haar dogter kry."
+     "source": "Met boog en sy snaar—"
     }
    ],
    "id": "p017"
@@ -265,11 +233,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Toe tree Mot te voorskyn met sy karos; Muis kom met syne; Akkedis met syne; Suikervoëltjie met syne; Kwagga met syne; Muishond met syne; en Perdeby met syne."
-    },
-    {
-     "id": "p018.s02",
-     "source": "En hulle maak hul karosse oop en toe om te wys hoe mooi dit is—net Perdeby nie."
+     "source": "Hy kruip by die water weg."
     }
    ],
    "id": "p018"
@@ -279,11 +243,7 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Die dogter het hierdie slag haar moeder plegtig belowe om nie haar lagbui te hervat nie en om haar stemmig te gedra."
-    },
-    {
-     "id": "p019.s02",
-     "source": "Haar keuse val toe op die mooi glinsterende blou karos van Perdeby, en sy neem hom; en hulle twee gaan saam na die kleihuis van Perdeby, met die baie kamers."
+     "source": "Die diere kom drie,"
     }
    ],
    "id": "p019"
@@ -293,15 +253,7 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "Maar Perdeby vang net ruspers, wurms en spinnekoppe en bring dié na sy huis toe en vul die kamers daarmee."
-    },
-    {
-     "id": "p020.s02",
-     "source": "Sy vrou objekteer en sê aan hom dat sy nie gewoon is om sulke gogga-goed te eet nie; hy moet vir haar wild gaan skiet."
-    },
-    {
-     "id": "p020.s03",
-     "source": "En hulle twee stap saam veld-toe."
+     "source": "Die pyle die vlie"
     }
    ],
    "id": "p020"
@@ -311,7 +263,7 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "Sy sien ’n haas lê en slaap, en sy roep hom en sê: „Kom hier, my man, en skiet hierdie hasie vir my.”"
+     "source": "En skiet by die water dood."
     }
    ],
    "id": "p021"
@@ -321,7 +273,7 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "Hy neem ’n pyl uit sy koker en sit dit op die boog en vra: „Waar is die haas?”"
+     "source": "Die Boesman kry kos"
     }
    ],
    "id": "p022"
@@ -331,27 +283,7 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Waarop sy antwoord: „Hierso, onder hierdie bossie!”"
-    },
-    {
-     "id": "p023.s02",
-     "source": "Hy bekruip toe die haas; maar sy sê: „Gooi tog af jou karos!”"
-    },
-    {
-     "id": "p023.s03",
-     "source": "Hy maak so."
-    },
-    {
-     "id": "p023.s04",
-     "source": "Toe sien sy die danige dun lyfie van Perdeby, haar man, en sy skater uit van lag oor daardie danige dun lyf en roep uit: „O so, nou verstaan ek waarom jy nooit jou karos wil afgehaal het nie!"
-    },
-    {
-     "id": "p023.s05",
-     "source": "Ga, ga, ga!"
-    },
-    {
-     "id": "p023.s06",
-     "source": "Kyk daardie verspotte dun lyfie!”"
+     "source": "En spring uit die bos—"
     }
    ],
    "id": "p023"
@@ -361,7 +293,7 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "Perdeby word toe so boos—want hy kan gou kwaad word—dat hy sy vrou op die plek met ’n pyl doodskiet."
+     "source": "Hy hol na die water toe."
     }
    ],
    "id": "p024"
@@ -371,10 +303,734 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "En dis nou die betaling wat die moeder met al die pronkery met haar dogter gekry het."
+     "source": "Die wild lê rond skop,"
     }
    ],
    "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Hy moker die kop"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Van wild wat by water vrek."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "’N RIEL"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Mans :"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Kwagga, kwagga met sy bont poot saam."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Kwagga, kwagga met sy rond poot saam."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Kwagga met sy knoppoot saam."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Kwagga met sy kloppoot saam."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Meide :"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Ei!"
+    },
+    {
+     "id": "p035.s02",
+     "source": "Hy blaas as hy draf."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Ei!"
+    },
+    {
+     "id": "p036.s02",
+     "source": "Hy snork as hy draf."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Ei!"
+    },
+    {
+     "id": "p037.s02",
+     "source": "Hy trippel met sy voorlyf weg!"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Mans"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "( met hande in die sy ) :—"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Hòggô!"
+    },
+    {
+     "id": "p040.s02",
+     "source": "Hòggô, hòggô, hòggô!"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "Hòggô!"
+    },
+    {
+     "id": "p041.s02",
+     "source": "Hòggô, hòggô, hòggô!"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "Meide :"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "O, dis sy wegdraf dié!"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "O, dis sy pronkslag dié!"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "Mans :"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "Hòggô!"
+    },
+    {
+     "id": "p046.s02",
+     "source": "Hòggô, hòggô, hòggô!"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "Hòggô!"
+    },
+    {
+     "id": "p047.s02",
+     "source": "Hòggô, hòggô, hòggô!"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "Hoeit! ( en handegeklap. )"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "Mans :"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "Korhaan, korhaan met sy speekbeen saam."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "Korhaan, korhaan met sy blink skeen saam."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "Korhaan, korhaan met sy lang nek saam."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "Korhaan, korhaan met sy plat bek saam."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "Meide :"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "Ei!"
+    },
+    {
+     "id": "p055.s02",
+     "source": "Hy koes as hy draf."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "Ei!"
+    },
+    {
+     "id": "p056.s02",
+     "source": "Hy buk as hy draf."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "Ei!"
+    },
+    {
+     "id": "p057.s02",
+     "source": "Hy trippel met sy voorlyf weg!"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "Mans"
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "( met hande in die sy ) :—"
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "Hòggô!"
+    },
+    {
+     "id": "p060.s02",
+     "source": "Hòggô, hòggô, hòggô!"
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "Hòggô!"
+    },
+    {
+     "id": "p061.s02",
+     "source": "Hòggô, hòggô, hòggô!"
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "Meide :"
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "O, dis sy wegdraf dié!"
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "O, dis sy koesslag dié!"
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "Mans :"
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "Hòggô!"
+    },
+    {
+     "id": "p066.s02",
+     "source": "Hòggô, hòggô, hòggô!"
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "Hòggô!"
+    },
+    {
+     "id": "p067.s02",
+     "source": "Hòggô, hòggô, hòggô!"
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "Hoeit! ( en handegeklap. )"
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "Mans :"
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "Hiekie, kriekie met sy groot toon saam ."
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "Hiekie, kriekie met sy swart boon saam."
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "Hiekie, kriekie met sy strykstok saam."
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "Hiekie, kriekie met twee-lok saam."
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "Meide :"
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "Ei!"
+    },
+    {
+     "id": "p075.s02",
+     "source": "Hy wip as hy spring!"
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "Ei!"
+    },
+    {
+     "id": "p076.s02",
+     "source": "Hy glip as hy spring!"
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "Ei!"
+    },
+    {
+     "id": "p077.s02",
+     "source": "Hy trippel met sy groot toon weg!"
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "Mans"
+    }
+   ],
+   "id": "p078"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p079.s01",
+     "source": "( met hande in die sy ) :—"
+    }
+   ],
+   "id": "p079"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p080.s01",
+     "source": "Hòggô!"
+    },
+    {
+     "id": "p080.s02",
+     "source": "Hòggô, hòggô, hòggô!"
+    }
+   ],
+   "id": "p080"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p081.s01",
+     "source": "Hòggô!"
+    },
+    {
+     "id": "p081.s02",
+     "source": "Hòggô, hòggô, hòggô!"
+    }
+   ],
+   "id": "p081"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p082.s01",
+     "source": "Meide :"
+    }
+   ],
+   "id": "p082"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p083.s01",
+     "source": "O, dis sy wegloop dié!"
+    }
+   ],
+   "id": "p083"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p084.s01",
+     "source": "O, dis sy wegspring dié!"
+    }
+   ],
+   "id": "p084"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p085.s01",
+     "source": "Mans :"
+    }
+   ],
+   "id": "p085"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p086.s01",
+     "source": "Hòggô!"
+    },
+    {
+     "id": "p086.s02",
+     "source": "Hòggô, hòggô, hòggô!"
+    }
+   ],
+   "id": "p086"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p087.s01",
+     "source": "Hòggô!"
+    },
+    {
+     "id": "p087.s02",
+     "source": "Hòggô, hòggô, hòggô!"
+    }
+   ],
+   "id": "p087"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p088.s01",
+     "source": "Hoeit! ( handegeklap en gelag. )"
+    }
+   ],
+   "id": "p088"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p089.s01",
+     "source": "( Dan volg een herhaling van hierdie riel ná die ander, tot hul weer ’n ander een opvat. )"
+    }
+   ],
+   "id": "p089"
   }
  ]
 }

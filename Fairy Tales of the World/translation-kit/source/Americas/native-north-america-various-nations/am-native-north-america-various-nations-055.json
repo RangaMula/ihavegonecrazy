@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-055",
  "title": {
   "id": "title",
-  "source": "The Strange Dream"
+  "source": "Retrospection"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Thirty Indian Legends",
- "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/055 - The Strange Dream.md",
+ "source_book": "Indian Why Stories: Sparks from War Eagle's Lodge-Fire",
+ "credits": "Linderman, Frank Bird (author, d. 1938)",
+ "gutenberg": "Project Gutenberg eBook #606 — https://www.gutenberg.org/ebooks/606",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/055 - Retrospection.md",
  "stats": {
-  "paragraphs": 23,
-  "segments": 61,
-  "words": 864
+  "paragraphs": 3,
+  "segments": 24,
+  "words": 538
  },
  "paragraphs": [
   {
@@ -23,19 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "A warrior and his wife once had a beautiful boy, for whom they made many plans."
+     "source": "It was evening in the bad-lands, and the red sun had slipped behind the far-off hills."
     },
     {
      "id": "p001.s02",
-     "source": "But when he grew up, and reached the right age, he would not consent to the fast."
+     "source": "The sundown breeze bent the grasses in the coulees and curled tiny dust-clouds on the barren knolls."
     },
     {
      "id": "p001.s03",
-     "source": "They wished him to blacken his face with charcoal, and not to eat anything for three days."
+     "source": "Down in a gulch a clear, cool creek dallied its way toward the Missouri, where its water, bitter as gall, would be lost in the great stream."
     },
     {
      "id": "p001.s04",
-     "source": "But he threw away the charcoal, and when they denied him food, he ate birds' eggs and the heads of fish which had been cast away."
+     "source": "Here, where Nature forbids man to work his will, and where the she wolf dens and kills to feed her litter, an aged Indian stood near the scattered bones of two great buffalo-bulls."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Time had bleached the skulls and whitened the old warrior's hair, but in the solitude he spoke to the bones as to a boyhood friend:"
     }
    ],
    "id": "p001"
@@ -45,27 +49,43 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "At length one day he came home, and, taking some coals, blackened his face."
+     "source": "\"Ho!"
     },
     {
      "id": "p002.s02",
-     "source": "Then he went out of the lodge and lay down on the grass to sleep."
+     "source": "Buffalo, the years are long since you died, and your tribe, like mine, was even then shrinking fast, but you did not know it; would not believe it; though the signs did not lie."
     },
     {
      "id": "p002.s03",
-     "source": "As he lay there, he had a wonderful dream."
+     "source": "My father and his father knew your people, and when one night you went away, we thought you did but hide and would soon come back."
     },
     {
      "id": "p002.s04",
-     "source": "He thought a beautiful maiden came to him, and said, \"Onawataquto, come with me."
+     "source": "The snows have come and gone many times since then, and still your people stay away."
     },
     {
      "id": "p002.s05",
-     "source": "Step in my tracks.\""
+     "source": "The young-men say that the great herds have gone to the Sand Hills, and that my father still has meat."
     },
     {
      "id": "p002.s06",
-     "source": "He arose and did so, and felt himself mounting up over the tree-tops, until he reached the sky."
+     "source": "They have told me that the white man, in his greed, has killed—and not for meat—all the Buffalo that our people knew."
+    },
+    {
+     "id": "p002.s07",
+     "source": "They have said that the great herds that made the ground tremble as they ran were slain in a few short years by those who needed not."
+    },
+    {
+     "id": "p002.s08",
+     "source": "Can this be true, when ever since there was a world, our people killed your kind, and still left herds that grew in numbers until they often blocked the rivers when they passed?"
+    },
+    {
+     "id": "p002.s09",
+     "source": "Our people killed your kind that they themselves might live, but never did they go to war against you."
+    },
+    {
+     "id": "p002.s10",
+     "source": "Tell me, do your people hide, or are the young-men speaking truth, and have your people gone with mine to Sand Hill shadows to come back no more?\""
     }
    ],
    "id": "p002"
@@ -75,330 +95,42 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "The maiden entered through a small opening, and he followed her."
+     "source": "\"Ho! red man—my people all have gone."
     },
     {
      "id": "p003.s02",
-     "source": "Looking around, he found himself on a beautiful, grassy plain."
+     "source": "The young-men tell the truth and all my tribe have gone to feed among the shadow-hills, and your father still has meat."
     },
     {
      "id": "p003.s03",
-     "source": "A tall lodge stood in the distance."
+     "source": "My people suffer from his arrows and his lance, yet there the herds increase as they did here, until the white man came and made his war upon us without cause or need."
     },
     {
      "id": "p003.s04",
-     "source": "She led him to it, and he saw that it was divided into two parts."
+     "source": "I was one of the last to die, and with my brother here fled to this forbidding country that I might hide; but one day when the snow was on the world, a white murderer followed on our trail, and with his noisy weapon sent our spirits to join the great shadow-herds."
     },
     {
      "id": "p003.s05",
-     "source": "In one end there were bows, arrows, clubs, and spears, and other things that belong to a warrior."
+     "source": "Meat?"
     },
     {
      "id": "p003.s06",
-     "source": "In the other end were strings of colored beads, bright pieces of cloth, and fancy moccasins, such as belong to a maiden."
+     "source": "No, he took no meat, but from our quivering flesh he tore away the robes that Napa gave to make us warm, and left us for the Wolves."
     },
     {
      "id": "p003.s07",
-     "source": "On a frame was a broad belt, beautifully colored, that she was weaving."
+     "source": "That night they came, and quarrelling, fighting, snapping 'mong themselves, left but our bones to greet the morning sun."
+    },
+    {
+     "id": "p003.s08",
+     "source": "These bones the Coyotes and the weaker ones did drag and scrape, and scrape again, until the last of flesh or muscle disappeared."
+    },
+    {
+     "id": "p003.s09",
+     "source": "Then the winds came and sang—and all was done.\""
     }
    ],
    "id": "p003"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p004.s01",
-     "source": "\"My brother will soon be home,\" she said, \"and I do not wish him to see you, so come until I hide you.\""
-    },
-    {
-     "id": "p004.s02",
-     "source": "She put him in a corner and spread the belt over him."
-    }
-   ],
-   "id": "p004"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p005.s01",
-     "source": "In a short time the brother returned, and sat down in his end of the lodge."
-    },
-    {
-     "id": "p005.s02",
-     "source": "He took down his pipe, and began to smoke."
-    },
-    {
-     "id": "p005.s03",
-     "source": "Then, in a little while, he said, \"Sister, when are you going to stop this practice?"
-    },
-    {
-     "id": "p005.s04",
-     "source": "Do you forget that the Greatest of the Spirits has forbidden you to take the children of the earth?"
-    },
-    {
-     "id": "p005.s05",
-     "source": "I know whom you have behind that belt."
-    },
-    {
-     "id": "p005.s06",
-     "source": "Come forth, Onawataquto.\""
-    }
-   ],
-   "id": "p005"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p006.s01",
-     "source": "When the young man came forth, he presented him with bows and arrows and a pipe of red stone."
-    },
-    {
-     "id": "p006.s02",
-     "source": "Now this meant that he was married to the maiden."
-    }
-   ],
-   "id": "p006"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p007.s01",
-     "source": "After that the brother used to take him with him over the beautiful plains, and he found everything very peaceful."
-    },
-    {
-     "id": "p007.s02",
-     "source": "Then he began to notice that the brother left the lodge each morning, and did not return until night."
-    },
-    {
-     "id": "p007.s03",
-     "source": "He asked him what he did when he was away."
-    }
-   ],
-   "id": "p007"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p008.s01",
-     "source": "\"Come with me, and I shall show you,\" said the brother."
-    }
-   ],
-   "id": "p008"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p009.s01",
-     "source": "So they set off early next morning, and walked on for a long time."
-    },
-    {
-     "id": "p009.s02",
-     "source": "At last Onawataquto began to feel hungry."
-    }
-   ],
-   "id": "p009"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p010.s01",
-     "source": "\"Wait a few minutes,\" said the brother, \"and I shall show you how I get food.\""
-    }
-   ],
-   "id": "p010"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p011.s01",
-     "source": "When they reached a spot where they could see down to the earth below, he said, \"Now sit down and watch.\""
-    },
-    {
-     "id": "p011.s02",
-     "source": "And Onawataquto did so."
-    }
-   ],
-   "id": "p011"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p012.s01",
-     "source": "When he looked down, he could see the earth quite plainly."
-    },
-    {
-     "id": "p012.s02",
-     "source": "In one village he saw a war party getting ready."
-    },
-    {
-     "id": "p012.s03",
-     "source": "In another he saw them dancing, and in another, a group of children playing beside a lodge."
-    }
-   ],
-   "id": "p012"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p013.s01",
-     "source": "\"Do you see that beautiful boy down there?\" asked the brother."
-    }
-   ],
-   "id": "p013"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p014.s01",
-     "source": "\"Yes,\" he replied."
-    },
-    {
-     "id": "p014.s02",
-     "source": "Suddenly the brother darted something from his hand at the child, and he fell senseless."
-    }
-   ],
-   "id": "p014"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p015.s01",
-     "source": "The parents rushed out and carried him into the lodge, and made great wailing."
-    },
-    {
-     "id": "p015.s02",
-     "source": "Then they saw people gather around the lodge, and the medicine man arrived."
-    },
-    {
-     "id": "p015.s03",
-     "source": "He addressed himself to the spirit brother, and asked him what sacrifice he desired."
-    }
-   ],
-   "id": "p015"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p016.s01",
-     "source": "\"I shall allow the boy to get better if you will make me the sacrifice of a white dog,\" answered the brother, through the opening in the sky."
-    }
-   ],
-   "id": "p016"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p017.s01",
-     "source": "They at once caught a white dog, and killed and roasted it."
-    },
-    {
-     "id": "p017.s02",
-     "source": "The meat was then put on dishes, which at once floated up to the spirit brother."
-    }
-   ],
-   "id": "p017"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p018.s01",
-     "source": "\"Now eat,\" he said to Onawataquto."
-    },
-    {
-     "id": "p018.s02",
-     "source": "\"This is the way I get all my meals.\""
-    }
-   ],
-   "id": "p018"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p019.s01",
-     "source": "After a while the young man grew tired of the quiet days, and desired to go back to the earth."
-    },
-    {
-     "id": "p019.s02",
-     "source": "His wife was angry when she heard him say this, and said she would not let him go."
-    },
-    {
-     "id": "p019.s03",
-     "source": "But after a while she consented, and said, \"You may go; but remember you are not to marry any of the earth maidens, for at any time I can draw you back here.\""
-    }
-   ],
-   "id": "p019"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p020.s01",
-     "source": "Next morning Onawataquto found himself lying on the grass by his father's lodge, with his face still blackened."
-    },
-    {
-     "id": "p020.s02",
-     "source": "His father and mother and all his friends were standing near him in glad surprise."
-    },
-    {
-     "id": "p020.s03",
-     "source": "They told him he had been away a year."
-    }
-   ],
-   "id": "p020"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p021.s01",
-     "source": "For some days he went around very quietly; then he began to forget his dream."
-    },
-    {
-     "id": "p021.s02",
-     "source": "After a while he could hardly remember it at all."
-    }
-   ],
-   "id": "p021"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p022.s01",
-     "source": "In a few months, he married one of the maidens of the tribe."
-    },
-    {
-     "id": "p022.s02",
-     "source": "That night he went out of his father's lodge, and was never seen again."
-    }
-   ],
-   "id": "p022"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p023.s01",
-     "source": "It is said that the spirit maiden had drawn him back to her home in the sky."
-    }
-   ],
-   "id": "p023"
   }
  ]
 }

@@ -4,7 +4,7 @@
 - **Source book:** *Tales from the Arabic — Complete*
 - **Author / collector / translator:** Payne, John (translator, d. 1916)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #5245 — https://www.gutenberg.org/ebooks/5245 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #5245 — https://www.gutenberg.org/ebooks/5245
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

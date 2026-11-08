@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-054",
  "title": {
   "id": "title",
-  "source": "The Cliff Of Sinikielt"
+  "source": "Dreams"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Thirty Indian Legends",
- "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/054 - The Cliff Of Sinikielt.md",
+ "source_book": "Indian Why Stories: Sparks from War Eagle's Lodge-Fire",
+ "credits": "Linderman, Frank Bird (author, d. 1938)",
+ "gutenberg": "Project Gutenberg eBook #606 — https://www.gutenberg.org/ebooks/606",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/054 - Dreams.md",
  "stats": {
-  "paragraphs": 13,
-  "segments": 72,
-  "words": 1355
+  "paragraphs": 24,
+  "segments": 79,
+  "words": 1446
  },
  "paragraphs": [
   {
@@ -23,23 +23,27 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Once long ago there was a chief of the Okanagan Indians called Tserman."
+     "source": "As soon as manhood is attained, the young Indian must secure his \"charm,\" or \"medicine.\""
     },
     {
      "id": "p001.s02",
-     "source": "He was very brave and very daring, and he stopped at nothing when he wanted to have his own way."
+     "source": "After a sweat-bath, he retires to some lonely spot, and there, for four days and nights, if necessary, he remains in solitude."
     },
     {
      "id": "p001.s03",
-     "source": "The village of the Okanagans lay in a beautiful valley; to the north-west lay the hunting grounds of the Nicolas, who had been enemies of the Okanagans for years."
+     "source": "During this time he eats nothing; drinks nothing; but spends his time invoking the Great Mystery for the boon of a long life."
     },
     {
      "id": "p001.s04",
-     "source": "Now the chief of the Nicolas had a lovely daughter, Lalita, and Chief Tserman fell in love with this beautiful maiden."
+     "source": "In this state of mind, he at last sleeps, perhaps dreams."
     },
     {
      "id": "p001.s05",
-     "source": "He knew there was no use asking her father to give him Lalita, so he made up his mind to steal her."
+     "source": "If a dream does not come to him, he abandons the task for a time, and later on will take another sweat-bath and try again."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Sometimes dangerous cliffs, or other equally uncomfortable places, are selected for dreaming, because the surrounding terrors impress themselves upon the mind, and even in slumber add to the vividness of dreams."
     }
    ],
    "id": "p001"
@@ -49,15 +53,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "One dark night he saddled his black pony, which could run faster than any other horse of the tribe, and, under cover of the darkness, he made his way over the hills and down the valley until he came to the camp of the Nicolas."
+     "source": "At last the dream comes, and in it some bird or animal appears as a helper to the dreamer, in trouble."
     },
     {
      "id": "p002.s02",
-     "source": "All was very still in the camp, for it was late and the Indians were all tired, for they had just returned from a long hunting trip."
+     "source": "Then he seeks that bird or animal; kills a specimen; and if a bird, he stuffs its skin with moss and forever keeps it near him."
     },
     {
      "id": "p002.s03",
-     "source": "Tserman could see the small, white lodge of Lalita close beside that of her father."
+     "source": "If an animal, instead of a bird, appears in the dream, the Indian takes his hide, claws, or teeth; and throughout his life never leaves it behind him, unless in another dream a greater charm is offered."
+    },
+    {
+     "id": "p002.s04",
+     "source": "If this happens, he discards the old \"medicine\" for the new; but such cases are rare."
     }
    ],
    "id": "p002"
@@ -67,19 +75,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Leaving his horse standing beside a tall pine-tree, he crept cautiously towards Lalita's wigwam."
+     "source": "Sometimes the Indian will deck his \"medicine-bundle\" with fanciful trinkets and quill-work At other times the \"bundle\" is kept forever out of the sight of all uninterested persons, and is altogether unadorned."
     },
     {
      "id": "p003.s02",
-     "source": "When he reached the opening, he remained very still and listened."
-    },
-    {
-     "id": "p003.s03",
-     "source": "There was not a stir or sound of any one moving in the camp."
-    },
-    {
-     "id": "p003.s04",
-     "source": "Throwing aside the curtain, he quickly entered the lodge, snatched Lalita from her couch, and in an instant had her beside him on his horse and was galloping rapidly back to the village of the Okanagans."
+     "source": "But \"medicine\" is necessary; without it, the Indian is afraid of his shadow."
     }
    ],
    "id": "p003"
@@ -89,35 +89,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The Nicolas, roused by the sound of the horse's hoofs, jumped up hastily."
-    },
-    {
-     "id": "p004.s02",
-     "source": "At once they knew what had happened, for the curtain of Lalita's lodge was still thrown back."
-    },
-    {
-     "id": "p004.s03",
-     "source": "The chief ordered his warriors to mount their ponies and quickly follow in pursuit."
-    },
-    {
-     "id": "p004.s04",
-     "source": "And soon, in the darkness, the sound of their ponies could be heard as they raced wildly after the flying chief."
-    },
-    {
-     "id": "p004.s05",
-     "source": "But Tserman's horse could run much faster than any horse in the mountains, and before the Nicolas were halfway to the village, he and Lalita were safe within his lodge."
-    },
-    {
-     "id": "p004.s06",
-     "source": "On came the Nicolas, and at last only one hill lay between them and the village of their enemies."
-    },
-    {
-     "id": "p004.s07",
-     "source": "To go around this hill would be many miles, so, leaving their horses at the foot, they began to climb its slippery side."
-    },
-    {
-     "id": "p004.s08",
-     "source": "At length they reached the top, but they did not know that this was a sheer cliff they had climbed, and that at its foot, between them and the Okanagan village, there flowed a deep river."
+     "source": "An old chief, who had been in many battles, once told me his great dream, withholding the name of the animal or bird that appeared therein and became his \"medicine.\""
     }
    ],
    "id": "p004"
@@ -127,43 +99,15 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "One of their warriors, Sinikielt, wanted to go ahead and find out the best way to reach the village and surround it."
+     "source": "He said that when he was a boy of twelve years, his father, who was chief of his tribe, told him that it was time that he tried to dream."
     },
     {
      "id": "p005.s02",
-     "source": "He crept forward in the darkness, and with a wild cry fell over the steep cliff into the river beneath."
+     "source": "After his sweat-bath, the boy followed his father without speaking, because the postulant must not converse or associate with other humans between the taking of the bath and the finished attempt to dream."
     },
     {
      "id": "p005.s03",
-     "source": "His cry rang out through the night and was heard by the Okanagans on the other side of the river."
-    },
-    {
-     "id": "p005.s04",
-     "source": "Quickly the camp was aroused, and going forth, the warriors encircled the hill."
-    },
-    {
-     "id": "p005.s05",
-     "source": "When the morning came, the Okanagans began to climb the hill to attack their enemies."
-    },
-    {
-     "id": "p005.s06",
-     "source": "The Nicolas saw them coming and knew there was nothing for them but certain death."
-    },
-    {
-     "id": "p005.s07",
-     "source": "The Okanagans were many and strong and were well armed."
-    },
-    {
-     "id": "p005.s08",
-     "source": "The Nicolas were only a few warriors, and if they remained to fight, they were sure of being either killed or taken prisoners."
-    },
-    {
-     "id": "p005.s09",
-     "source": "There was only one thing for them to do."
-    },
-    {
-     "id": "p005.s10",
-     "source": "Turning their backs on their fast-approaching enemies, they made one running leap from the cliff to the river below and sank forever in its waters."
+     "source": "On and on into the dark forest the father led, followed by the naked boy, till at last the father stopped on a high hill, at the foot of a giant pine-tree."
     }
    ],
    "id": "p005"
@@ -173,39 +117,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Many years after, when Tserman had gone to the happy hunting ground and his son Lemichin was made chief in his stead, there came sad days to Lalita."
+     "source": "By signs the father told the boy to climb the tree and to get into an eagle's nest that was on the topmost boughs."
     },
     {
      "id": "p006.s02",
-     "source": "Lemichin was a great warrior and strong and handsome like his father, but he cared nothing for the good of his tribe."
-    },
-    {
-     "id": "p006.s03",
-     "source": "His only thought was his own pleasure."
-    },
-    {
-     "id": "p006.s04",
-     "source": "Little by little he gambled away all his possessions, until nothing was left but his saddle-horse."
-    },
-    {
-     "id": "p006.s05",
-     "source": "Then one night that was lost, too."
-    },
-    {
-     "id": "p006.s06",
-     "source": "Lalita begged him to turn from his evil ways, but he made her no reply."
-    },
-    {
-     "id": "p006.s07",
-     "source": "Going forth from the lodge, he made his way to the hills and remained there for one moon."
-    },
-    {
-     "id": "p006.s08",
-     "source": "At the end of that time he returned to the tribe."
-    },
-    {
-     "id": "p006.s09",
-     "source": "Going to his mother, he said:"
+     "source": "Then the old man went away, in order that the boy might reach the nest without coming too close to his human conductor."
     }
    ],
    "id": "p006"
@@ -215,19 +131,15 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"Lalita, when I was in the hills, I fasted and then I slept, and in my dreams my father came to me."
+     "source": "Obediently the boy climbed the tree and sat upon the eagle's nest on the top."
     },
     {
      "id": "p007.s02",
-     "source": "He told me what to do to make my evil life turn into a good one."
+     "source": "\"I could see very far from that nest,\" he told me."
     },
     {
      "id": "p007.s03",
-     "source": "First, I must make peace with the Nicolas."
-    },
-    {
-     "id": "p007.s04",
-     "source": "After that I must win my way back until I am a great chief, like my father was before me.\""
+     "source": "\"The day was warm and I hoped to dream that night, but the wind rocked the tree top, and the darkness made me so much afraid that I did not sleep."
     }
    ],
    "id": "p007"
@@ -237,7 +149,35 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "\"My son,\" said Lalita, \"this is indeed a happy thing you have told me, and great indeed is the spirit of your father which has come to you and told you what to do.\""
+     "source": "\"On the fourth night there came a terrible thunder-storm, with lightning and much wind."
+    },
+    {
+     "id": "p008.s02",
+     "source": "The great pine groaned and shook until I was sure it must fall."
+    },
+    {
+     "id": "p008.s03",
+     "source": "All about it, equally strong trees went down with loud crashings, and in the dark there were many awful sounds—sounds that I sometimes hear yet."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Rain came, and I grew cold and more afraid."
+    },
+    {
+     "id": "p008.s05",
+     "source": "I had eaten nothing, of course, and I was weak—so weak and tired, that at last I slept, in the nest."
+    },
+    {
+     "id": "p008.s06",
+     "source": "I dreamed; yes, it was a wonderful dream that came to me, and it has most all come to pass."
+    },
+    {
+     "id": "p008.s07",
+     "source": "Part is yet to come."
+    },
+    {
+     "id": "p008.s08",
+     "source": "But come it surely will."
     }
    ],
    "id": "p008"
@@ -247,51 +187,31 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "The next day Lemichin sent a messenger of peace to the Nicolas."
+     "source": "\"First I saw my own people in three wars."
     },
     {
      "id": "p009.s02",
-     "source": "Their old chief, Lalita's father, sent back word that there would be no more fighting between the tribes, but that the Nicolas and the Okanagans could never be friends."
+     "source": "Then I saw the Buffalo disappear in a hole in the ground, followed by many of my people."
     },
     {
      "id": "p009.s03",
-     "source": "Lemichin made no answer when this message was brought to him."
+     "source": "Then I saw the whole world at war, and many flags of white men were in this land of ours."
     },
     {
      "id": "p009.s04",
-     "source": "Going forth, he began gambling again."
+     "source": "It was a terrible war, and the fighting and the blood made me sick in my dream."
     },
     {
      "id": "p009.s05",
-     "source": "Lalita followed him and begged him to return with her, to forsake these evil ways."
+     "source": "Then, last of all, I saw a 'person' coming—coming across what seemed the plains."
     },
     {
      "id": "p009.s06",
-     "source": "But to her also he made no reply."
+     "source": "There were deep shadows all about him as he approached."
     },
     {
      "id": "p009.s07",
-     "source": "Day after day he gambled, but now he was not losing his possessions, but was winning them back again."
-    },
-    {
-     "id": "p009.s08",
-     "source": "At last they were all won, and then Lemichin called a council of his wisest warriors."
-    },
-    {
-     "id": "p009.s09",
-     "source": "He told them he wished to win the friendship of the Nicolas, and that he and Lalita would go to their village and take with them a large number of the herd as a gift."
-    },
-    {
-     "id": "p009.s10",
-     "source": "The next morning they set out,—Lemichin and Lalita riding ahead and three herd-boys, driving the greater part of the herd, followed behind."
-    },
-    {
-     "id": "p009.s11",
-     "source": "When they reached the village of the Nicolas, Lemichin told his mother to wait with the herd-boys, and dismounting from his pony, he went alone and on foot to the lodge of the old chief."
-    },
-    {
-     "id": "p009.s12",
-     "source": "Kneeling before the old warrior, he gave himself up to make reparation for the deed of his father Tserman."
+     "source": "This 'person' kept beckoning me to come to him, and at last I did go to him."
     }
    ],
    "id": "p009"
@@ -301,31 +221,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "The old chief was very angry at first and called his warriors to bind Lemichin and kill him."
-    },
-    {
-     "id": "p010.s02",
-     "source": "But Lemichin asked him to let him speak first."
-    },
-    {
-     "id": "p010.s03",
-     "source": "Then he told him how sorry his father had been for what he had done."
-    },
-    {
-     "id": "p010.s04",
-     "source": "How much he wished that the two tribes might become friends, and how anxious Lalita was to win the love of her father again."
-    },
-    {
-     "id": "p010.s05",
-     "source": "Then he asked him to accept the herd which he had brought with him."
-    },
-    {
-     "id": "p010.s06",
-     "source": "The old chief felt his anger fade away when the young man talked, and now, when he saw what a great gift he had brought with him, he felt that he could not kill so generous and manly a warrior."
-    },
-    {
-     "id": "p010.s07",
-     "source": "So, taking Lemichin by the hand, he walked with him to where Lalita sat on her pony."
+     "source": "\"'Do you know who I am,' he asked me."
     }
    ],
    "id": "p010"
@@ -335,11 +231,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "When she saw her father Lalita uttered a cry of joy."
+     "source": "\"'No, \"person,\" I do not know you."
     },
     {
      "id": "p011.s02",
-     "source": "The old man fondly embraced his daughter and said:"
+     "source": "Who are you, and where is your country?'"
     }
    ],
    "id": "p011"
@@ -349,27 +245,15 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"My daughter, many moons ago you left your father's lodge and joined the tribe of our enemies."
+     "source": "\"'If you will listen to me, boy, you shall be a great chief and your people shall love you."
     },
     {
      "id": "p012.s02",
-     "source": "But this day your son has proven to me that our enemies can be brave and generous."
+     "source": "If you do not listen, then I shall turn against you."
     },
     {
      "id": "p012.s03",
-     "source": "My heart has been lonely all the summers and winters since you went away."
-    },
-    {
-     "id": "p012.s04",
-     "source": "Come now, you and your brave son, and live with the old chief so that his heart and his lodge shall no longer be empty.\""
-    },
-    {
-     "id": "p012.s05",
-     "source": "And weeping for joy, the old man led Lalita and Lemichin to his lodge."
-    },
-    {
-     "id": "p012.s06",
-     "source": "Thus friendship between the Nicolas and the Okanagans was established."
+     "source": "My name is \"Reason.\"'"
     }
    ],
    "id": "p012"
@@ -379,10 +263,220 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "That was many years ago, but yet in the night the wild cry of Sinikielt answers the cry of the loon, and is echoed from the cliff far out across the river."
+     "source": "\"As the 'person' spoke this last, he struck the ground with a stick he carried, and the blow set the grass afire."
+    },
+    {
+     "id": "p013.s02",
+     "source": "I have always tried to know that 'person.'"
+    },
+    {
+     "id": "p013.s03",
+     "source": "I think I know him wherever he may be, and in any camp."
+    },
+    {
+     "id": "p013.s04",
+     "source": "He has helped me all my life, and I shall never turn against him—never.\""
     }
    ],
    "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "That was the old chief's dream and now a word about the sweat-bath."
+    },
+    {
+     "id": "p014.s02",
+     "source": "A small lodge is made of willows, by bending them and sticking the ends in the ground."
+    },
+    {
+     "id": "p014.s03",
+     "source": "A completed sweat-lodge is shaped like an inverted bowl, and in the centre is a small hole in the ground."
+    },
+    {
+     "id": "p014.s04",
+     "source": "The lodge is covered with robes, bark, and dirt, or anything that will make it reasonably tight."
+    },
+    {
+     "id": "p014.s05",
+     "source": "Then a fire is built outside and near the sweat-lodge in which stones are heated."
+    },
+    {
+     "id": "p014.s06",
+     "source": "When the stones are ready, the bather crawls inside the sweat-lodge, and an assistant rolls the hot stones from the fire, and into the lodge."
+    },
+    {
+     "id": "p014.s07",
+     "source": "They are then rolled into the hole in the lodge and sprinkled with water."
+    },
+    {
+     "id": "p014.s08",
+     "source": "One cannot imagine a hotter vapor bath than this system produces, and when the bather has satisfied himself inside, he darts from the sweat-lodge into the river, winter or summer."
+    },
+    {
+     "id": "p014.s09",
+     "source": "This treatment killed thousands of Indians when the smallpox was brought to them from Saint Louis, in the early days."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "That night in the lodge War Eagle told a queer yarn."
+    },
+    {
+     "id": "p015.s02",
+     "source": "I shall modify it somewhat, but in our own sacred history there is a similar tale, well known to all."
+    },
+    {
+     "id": "p015.s03",
+     "source": "He said:"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"Once, a long time ago, two 'thunders' were travelling in the air."
+    },
+    {
+     "id": "p016.s02",
+     "source": "They came over a village of our people, and there stopped to look about."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"In this village there was one fine, painted lodge, and in it there was an old man, an aged woman, and a beautiful young woman with wonderful hair."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Of course the 'thunders' could look through the lodge skin and see all that was inside."
+    },
+    {
+     "id": "p017.s03",
+     "source": "One of them said to the other: 'Let us marry that young woman, and never tell her about it.'"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"'All right,' replied the other 'thunder.'"
+    },
+    {
+     "id": "p018.s02",
+     "source": "'I am willing, for she is the finest young woman in all the village."
+    },
+    {
+     "id": "p018.s03",
+     "source": "She is good in her heart, and she is honest.'"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"So they married her, without telling her about it, and she became the mother of twin boys."
+    },
+    {
+     "id": "p019.s02",
+     "source": "When these boys were born, they sat up and told their mother and the other people that they were not people, but were 'thunders,' and that they would grow up quickly."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"'When we shall have been on earth a while, we shall marry, and stay until we each have four sons of our own, then we shall go away and again become \"thunders,\"' they said."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"It all came to pass, just as they said it would."
+    },
+    {
+     "id": "p021.s02",
+     "source": "When they had married good women and each had four sons, they told the people one day that it was time for them to go away forever."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"There was much sorrow among the people, for the twins were good men and taught many good things which we have never forgotten, but everybody knew it had to be as they said."
+    },
+    {
+     "id": "p022.s02",
+     "source": "While they lived with us, these twins could heal the sick and tell just what was going to happen on earth."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"One day at noon the twins dressed themselves in their finest clothes and went out to a park in the forest."
+    },
+    {
+     "id": "p023.s02",
+     "source": "All the people followed them and saw them lie down on the ground in the park."
+    },
+    {
+     "id": "p023.s03",
+     "source": "The people stayed in the timber that grew about the edge of the park, and watched them until clouds and mists gathered about and hid them from view."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"It thundered loudly and the winds blew; trees fell down; and when the mists and clouds cleared away, they were gone—gone forever."
+    },
+    {
+     "id": "p024.s02",
+     "source": "But the people have never forgotten them, and my grandfather, who is in the ground near Rocker, was a descendant from one of the sons of the 'thunders.'"
+    },
+    {
+     "id": "p024.s03",
+     "source": "Ho!\""
+    }
+   ],
+   "id": "p024"
   }
  ]
 }

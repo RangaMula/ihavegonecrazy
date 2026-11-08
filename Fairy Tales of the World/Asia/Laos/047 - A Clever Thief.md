@@ -4,7 +4,7 @@
 - **Source book:** *Laos Folk-Lore of Farther India*
 - **Author / collector / translator:** Fleeson, Katherine Neville (author)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #35564 — https://www.gutenberg.org/ebooks/35564 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #35564 — https://www.gutenberg.org/ebooks/35564
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

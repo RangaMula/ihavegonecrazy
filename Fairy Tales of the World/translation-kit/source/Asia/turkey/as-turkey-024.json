@@ -2,20 +2,20 @@
  "id": "as-turkey-024",
  "title": {
   "id": "title",
-  "source": "The Swallow'S Advice"
+  "source": "The Hanoum And The Unjust Cadi"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
  "source_book": "Told in the Coffee House: Turkish Tales",
  "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/024 - The Swallow'S Advice.md",
+ "markdown_file": "Asia/Turkey/024 - The Hanoum And The Unjust Cadi.md",
  "stats": {
-  "paragraphs": 9,
-  "segments": 15,
-  "words": 289
+  "paragraphs": 18,
+  "segments": 36,
+  "words": 838
  },
  "paragraphs": [
   {
@@ -23,11 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "man one day saw a swallow and caught it."
-    },
-    {
-     "id": "p001.s02",
-     "source": "The bird pleaded hard for liberty, saying:"
+     "source": "t was, and still is, in some parts of Constantinople, the custom of the refuse-gatherer to go about the streets with a basket on his back, and a wooden shovel in his hand, calling out 'refuse removed.'"
     }
    ],
    "id": "p001"
@@ -37,7 +33,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "\"If thou wilt let me go, thy gain will be great, for I will give thee three counsels that will hereafter be of use to thee.\""
+     "source": "A certain Chepdji, plying his trade, had, in the course of five years of assiduous labor, amassed, to him, the no unimportant sum of five hundred piasters."
+    },
+    {
+     "id": "p002.s02",
+     "source": "He was afraid to keep this money by him; so hearing the Cadi of Stamboul highly and reverently spoken of, he decided to entrust his hard-earned savings to the Cadi's keeping."
     }
    ],
    "id": "p002"
@@ -47,11 +47,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "The man listened to the bird and let it go."
+     "source": "Going to the Cadi, he said: \"Oh learned and righteous man, for five long years have I labored, carrying the dregs and dross of rich and poor alike, and I have saved a sum of five hundred piasters."
     },
     {
      "id": "p003.s02",
-     "source": "Flying to a tree close by it perched on a branch, and said:"
+     "source": "With the help of Allah, in another two years I shall have saved a further sum of at least one hundred piasters, when, Inshallah, I shall return to my country and clasp my wife and children again."
+    },
+    {
+     "id": "p003.s03",
+     "source": "In the meantime you will be granting a boon to your slave, if you will consent to keep this money for me until the time for departure has come.\""
     }
    ],
    "id": "p003"
@@ -61,15 +65,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "\"Hearken and give thine ear to the three advices that will guide thee."
-    },
-    {
-     "id": "p004.s02",
-     "source": "The first is, do not believe things that are incredible; the second is, do not attempt to stretch out thine hand to a place thou art unable to reach; and the third advice I give thee is, do not pine after a thing that is past and gone."
-    },
-    {
-     "id": "p004.s03",
-     "source": "Take these my counsels and do not forget them.\""
+     "source": "The Cadi replied: \"Thou hast done well, my son; the money will be kept and given to thee when required.\""
     }
    ],
    "id": "p004"
@@ -79,7 +75,15 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The bird then tempted the man, saying: \"Inside of me there is a large pearl of great value; it is both magnificent and splendid, and as large as the egg of a kite.\""
+     "source": "The poor Chepdji, well satisfied, departed."
+    },
+    {
+     "id": "p005.s02",
+     "source": "But after a very short time he learned that several of his friends were about to return to their Memleket (province), and he decided to join them, thinking that his five hundred piasters were ample for the time being, 'Besides,' said he, 'who knows what may or may not happen in the next two years?'"
+    },
+    {
+     "id": "p005.s03",
+     "source": "So he decided to depart with his friends at once."
     }
    ],
    "id": "p005"
@@ -89,7 +93,19 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Now, hearing this, the man repented at having let the bird go, the color of his face went to sadness, and he at once stretched out his hand to catch the swallow, but the latter said to the foolish man:"
+     "source": "He went to the Cadi, explained that he had changed his mind, that he was going to leave for his country immediately, and asked for his money."
+    },
+    {
+     "id": "p006.s02",
+     "source": "The Cadi called him a dog and ordered him to be whipped out of the place by his servants."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Alas! what could the poor Chepdji do!"
+    },
+    {
+     "id": "p006.s04",
+     "source": "He wept in impotent despair, as he counted the number of years he must yet work before beholding his loved ones."
     }
    ],
    "id": "p006"
@@ -99,15 +115,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"What!"
+     "source": "One day, while moving the dirt from the Konak of a wealthy Pasha, his soul uttered a sigh which reached the ears of the Hanoum, and from the window she asked him why he sighed so deeply."
     },
     {
      "id": "p007.s02",
-     "source": "Hast thou already forgotten the advice I gave thee, and the lie which I told thee, hast thou considered as true?"
+     "source": "He replied that he sighed for something that could in no way interest her."
     },
     {
      "id": "p007.s03",
-     "source": "I had fallen into thy hands, yet thou wert unable to retain me, and now thou art sorrowing for the past for which there is no remedy.\""
+     "source": "The Hanoum's sympathy was excited, and after much persuasion, he finally, with tears in his eyes, related to her his great misfortune."
+    },
+    {
+     "id": "p007.s04",
+     "source": "The Hanoum thought for a few minutes and then told him to go the following day to the Cadi at a certain hour and again ask for the money as if nothing had happened."
     }
    ],
    "id": "p007"
@@ -117,19 +137,137 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Such are those that worship idols, and give the name of God to their own handiwork."
-    },
-    {
-     "id": "p008.s02",
-     "source": "They have left aside God Almighty, and have forgotten the Great Bestower of all good gifts."
+     "source": "The Hanoum in the meantime gathered together a quantity of jewelry, to the value of several hundred pounds, and instructed her favorite and confidential slave to come with her to the Cadi and remain outside whilst she went in, directing her that when she saw the Chepdji come out and learned that he had gotten his money, to come in the Cadi's room hurriedly and say to her, \"your husband has arrived from Egypt, and is waiting for you at the Konak.\""
     }
    ],
    "id": "p008"
   },
   {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "The Hanoum then went to the Cadi, carrying in her hand a bag containing the jewelry."
+    },
+    {
+     "id": "p009.s02",
+     "source": "With a profound salaam she said:"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"Oh Cadi, my husband, who is in Egypt and who has been there for several years, has at last asked me to come and join him there; these jewels are of great value, and I hesitate to take them with me on so long and dangerous a journey."
+    },
+    {
+     "id": "p010.s02",
+     "source": "If you would kindly consent to keep them for me until my return, or if I never return to keep them as a token of my esteem, I will think of you with lifelong gratitude.\""
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "The Hanoum then began displaying the rich jewelry."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Just then the Chepdji entered, and bending low, said:"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"Oh master, your slave has come for his savings in order to proceed to his country.\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"Ah, welcome,\" said the Cadi, \"so you are going already!\" and immediately ordered the treasurer to pay the five hundred piasters to the Chepdji."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"You see,\" said the Cadi to the Hanoum, \"what confidence the people have in me."
+    },
+    {
+     "id": "p014.s02",
+     "source": "This money I have held for some time without receipt or acknowledgment; but directly it is asked for it is paid.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "No sooner had the Chepdji gone out of the door, than the Hanoum's slave came rushing in, crying: \"Hanoum Effendi!"
+    },
+    {
+     "id": "p015.s02",
+     "source": "Hanoum Effendi!"
+    },
+    {
+     "id": "p015.s03",
+     "source": "Your husband has arrived from Egypt, and is anxiously awaiting you at the Konak.\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "The Hanoum, in well-feigned excitement, gathered up her jewelry and, wishing the Cadi a thousand years of happiness, departed."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "The Cadi was thunderstruck, and caressing his beard with grave affection thoughtfully said: \"Allah!"
+    },
+    {
+     "id": "p017.s02",
+     "source": "Allah!"
+    },
+    {
+     "id": "p017.s03",
+     "source": "For forty years have I been judge, but never was a cause pleaded in this fashion before.\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
    "type": "break",
    "segments": [],
-   "id": "p009"
+   "id": "p018"
   }
  ]
 }

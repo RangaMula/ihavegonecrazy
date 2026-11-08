@@ -4,7 +4,7 @@
 - **Source book:** *Myths of the Modocs*
 - **Author / collector / translator:** Curtin, Jeremiah (author, d. 1906)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #73418 — https://www.gutenberg.org/ebooks/73418 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #73418 — https://www.gutenberg.org/ebooks/73418
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

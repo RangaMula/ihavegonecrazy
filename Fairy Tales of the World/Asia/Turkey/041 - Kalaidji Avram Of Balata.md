@@ -1,0 +1,34 @@
+# Kalaidji Avram Of Balata
+
+- **Tradition:** Turkey (Asia)
+- **Source book:** *Told in the Coffee House: Turkish Tales*
+- **Author / collector / translator:** Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+alata, situated on the Golden Horn, is mostly inhabited by Jews of the poorer classes, who make their livelihood as tinsmiths, tinkers, and hawkers.
+
+Here, in the early days when the Janissaries flourished, there lived a certain tinsmith called Kalaidji Avram. Having rather an extensive business, his neighbors, especially those who lived nearest, were always complaining of the annoying smoke and disagreeable odor of ammonia which he used in tinning his pots and pans.
+
+Opposite Avram's place the village guard-house was situated, and the chief, a Janissary, often had disputes with Avram about the smoke. Avram would invariably reply: "I have my children to feed and I must work; and without smoke I cannot earn their daily bread."
+
+The Janissary, much annoyed, cultivated a dislike for Avram and a thirst for revenge.
+
+It happened that a Jew one day came to the Janissary and said to him: "Do you want to make a fortune? if so, you have the means of doing this, provided you will agree to halve with me whatever is made."
+
+The Janissary, on being assured that he had but to say a word or two to a person he would designate and the money would be forthcoming, accepted the conditions. The Jew then said: "All you have to do is to go up to a Jewish funeral procession that will pass by here to-morrow on its way to the necropolis outside the city, and order it to stop. It is against the religion of the Jews for such a thing to happen, and the Chacham (rabbi) will offer you first ten, then twenty, and finally one hundred and ten thousand piasters to allow the funeral to proceed. The half will be for you to compensate you for your trouble and the other fifty-five thousand piasters for me."
+
+This, as the Jew had told him, seemed very simple to the Janissary. The next day, true enough, he beheld a funeral, and immediately went out and ordered it to stop. The Chacham protested, offering first small bribes, then larger and larger, till ultimately he promised to bring to the worthy captain one hundred and ten thousand piasters for allowing the funeral to proceed.
+
+That evening, as agreed, the Chacham came and handed the money to the captain of the Janissaries. Then taking another bag containing a second one hundred and ten thousand piasters, he said: "If you will tell me who informed you that we would pay so much money rather than have a funeral stopped, you can have this further sum."
+
+The Janissary immediately bethought him of Avram, the tinsmith, and accused him as his informant, and the Chacham, satisfied, paid the sum and departed.
+
+Avram disappeared nobody knew where. The Chacham said that death had taken him for his own as a punishment for stopping him while on a journey.
+
+The accomplice of the Janissary came a few days later for his share of the money. The Janissary handed him the fifty-five thousand piasters, and at the same time said: "Of these fifty-five thousand piasters, thirty thousand must be given to the widow and children of Avram, and I advise you to give it willingly, for Avram has taken your place."
+
+* * *

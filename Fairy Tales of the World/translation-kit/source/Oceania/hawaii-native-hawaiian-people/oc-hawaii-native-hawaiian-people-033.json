@@ -2,20 +2,20 @@
  "id": "oc-hawaii-native-hawaiian-people-033",
  "title": {
   "id": "title",
-  "source": "A Shark Punished At Waikiki"
+  "source": "Characters"
  },
  "tradition": "Hawaii (Native Hawaiian people)",
  "continent": "Oceania",
  "source_lang": "en",
- "source_book": "Legends of Old Honolulu (Mythology)",
- "credits": "Westervelt, W. D. (William Drake) (author, d. 1939)",
- "gutenberg": "Project Gutenberg eBook #66547 — https://www.gutenberg.org/ebooks/66547 (copied via the GITenberg mirror)",
+ "source_book": "The Legends and Myths of Hawaii: The fables and folk-lore of a strange people",
+ "credits": "Kalakaua, David, King of Hawaii (author, d. 1891); Daggett, Rollin Mallory (editor, d. 1901)",
+ "gutenberg": "Project Gutenberg eBook #56597 — https://www.gutenberg.org/ebooks/56597",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/033 - A Shark Punished At Waikiki.md",
+ "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/033 - Characters.md",
  "stats": {
   "paragraphs": 29,
-  "segments": 45,
-  "words": 646
+  "segments": 102,
+  "words": 2784
  },
  "paragraphs": [
   {
@@ -23,11 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "A mong the legendary characters of the early Hawaiians was Ka-ehu—the little yellow shark of Pearl Harbor."
+     "source": "Kapoho and children of Kahavari."
     },
     {
      "id": "p001.s02",
-     "source": "He had been given magic power and great wisdom by his ancestor Ka-moho-alii the shark-god, brother of the fire goddess Pele."
+     "source": "Kaohe ,"
     }
    ],
    "id": "p001"
@@ -37,11 +37,7 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Part of his life had been spent with his parents, who guarded the sea precipices of the Coast of Puna in the southern part of the island Hawaii."
-    },
-    {
-     "id": "p002.s02",
-     "source": "While at Pearl Harbor he became homesick for the beauty of Puna, so he chanted:"
+     "source": "KAHAVARI, CHIEF OF PUNA."
     }
    ],
    "id": "p002"
@@ -51,7 +47,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "“O my land of rustling lehua -trees!"
+     "source": "A STORY OF THE VENGEANCE OF THE GODDESS PELE."
     }
    ],
    "id": "p003"
@@ -61,7 +57,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Rain is treading on your budding flowers,"
+     "source": "Between Cape Kumakahi, the extreme eastern point of the island of Hawaii, and the great lava flow of 1840, which burst forth apparently from a long subterranean channel connecting with the crater of Kilauea, and went down to the sea at Nanawale over villages and groves of palms, is a small historic district which, notwithstanding the repeated volcanic disturbances with which it has been convulsed in the past, the chasms with which it has been rent, and the smoke and ashes that have shut out the light of the sun and driven its people to the protection of their temples, still possesses many fertile nooks and natural attractions."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Within a few miles of each other, not far inland, are a number of extinct craters; but the rains are abundant in Puna, and spring is eternal, and the vegetation grows rank above hidden patches of lava, and is constantly stretching and deepening its mantle of green over the vitreous rivers of Kilauea and the lower and lesser volcanic vents clinging to its base like so many cauterized ulcers."
     }
    ],
    "id": "p004"
@@ -71,7 +71,15 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "It carries them to the sea."
+     "source": "The valleys are green in that part of Puna now, and there the banana and the bread-fruit grow, and the ohia and pineapple scent the air."
+    },
+    {
+     "id": "p005.s02",
+     "source": "But so has it not always been, for the mango ripens over fields of buried lava, and the palms grow tall from the refilled chasms of dead streams of fire."
+    },
+    {
+     "id": "p005.s03",
+     "source": "The depression of Kapoho, now sweet with tropical odors, marks the site of a sunken mountain, and where to-day sleep the quiet waters of a lake once boiled a sea of liquid lava, in a basin broader, perhaps, than the mighty caldron of Kilauea."
     }
    ],
    "id": "p005"
@@ -81,7 +89,31 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "They meet the fish in the sea."
+     "source": "We are now about to speak of one of the many irruptions which at intervals in the past poured their desolating torrents of fire through the district, alternately loved and hated by Pele, the dreadful goddess of the volcanoes."
+    },
+    {
+     "id": "p006.s02",
+     "source": "In connection with it tradition has brought down a tale combining elements of simplicity and grandeur strikingly characteristic of the mythological legends of Polynesia—legends equaling the Norse in audacity, but lacking the motive and connecting causes of the Greek."
+    },
+    {
+     "id": "p006.s03",
+     "source": "They are simply legendary epics, beginning in caprice and abruptly ending, in many instances, in grandest tumult."
+    },
+    {
+     "id": "p006.s04",
+     "source": "They are like chapters torn from a lost volume—patches of disturbed elements and gigantic forms and energies clandestinely cut from a passing panorama and placed in the foreground of strange and inharmonious conditions."
+    },
+    {
+     "id": "p006.s05",
+     "source": "They embrace gods reminding us of Thor, monsters more hideous than Polyphemus, demi-gods mighty as the son of Thetis, and kings with strains reaching back to the loins of gods; but in motive and action they were independent of, and not unfrequently hostile to, each other."
+    },
+    {
+     "id": "p006.s06",
+     "source": "No celestial synod shaped their course or moved them to effort, and to no authority higher than their individual wills were they usually responsible."
+    },
+    {
+     "id": "p006.s07",
+     "source": "Many of them were created with no reference to the necessity of their being or the maintenance of divine respect or authority, and not a few seem to have been the creations of accident."
     }
    ],
    "id": "p006"
@@ -91,7 +123,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "This is the day when love meets love,"
+     "source": "As an example the demi-god Maui may be mentioned."
+    },
+    {
+     "id": "p007.s02",
+     "source": "As told by tradition, his principal abode was Hawaii, although his facilities for visiting the other islands of the group will be considered ample when it is stated that he could step from one to another, even from Oahu to Kauai, a distance of seventy miles."
+    },
+    {
+     "id": "p007.s03",
+     "source": "When he bathed—and bathing was one of his greatest delights—his feet trod the deepest basins of the ocean and his hair was moistened with the vapor of the clouds."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Neither his creator nor the purpose of his creation is mentioned; but he was blest with a wife with proportions, it is presumed, somewhat in keeping with his own, and as an evidence of their attachment it is related that at one time he reached up and seized the sun, and held it for some hours motionless in the heavens, to enable his industrious spouse to complete the manufacture of a piece of kapa upon which she was engaged."
     }
    ],
    "id": "p007"
@@ -101,7 +145,35 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "My longings are stirring within me"
+     "source": "And Kana was another gigantic being of similar proportions."
+    },
+    {
+     "id": "p008.s02",
+     "source": "He, too, was partial to Hawaii, and could step from island to island, and frequently stood for his amusement with one foot on Oahu and the other either on Maui or Kauai."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Tradition may have confounded these two monsters; but, as Kana was wifeless, we are constrained to regard them as distinct; and, being without the care of a wife, he was enabled to devote his entire attention to himself and the inhabitants of the islands crawling at his feet."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Hence, when the king of Kahiki, who was the keeper of the sun, shut its light from the Hawaiians for some trivial offence, Kana waded the ocean to the home of the vindictive monarch, and by threats compelled him to restore the light to the Hawaiian group."
+    },
+    {
+     "id": "p008.s05",
+     "source": "This done, he waded back and hung his mantle to dry on Mauna Kea, which was then an active volcano."
+    },
+    {
+     "id": "p008.s06",
+     "source": "Another demi-god of the same name is also referred to in some of the early meles of Hawaii."
+    },
+    {
+     "id": "p008.s07",
+     "source": "He was the son of Hina, who went with his brother to the rescue of their mother, who had been during their infancy abducted by the son of the king of Molokai."
+    },
+    {
+     "id": "p008.s08",
+     "source": "He was endowed by his grandmother, a sorceress from one of the southern islands, with the faculty of so elongating and contracting his person as to be able to pass through the deepest waters with his head at all times above the surface."
     }
    ],
    "id": "p008"
@@ -111,7 +183,23 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "For the spirit friends of my land."
+     "source": "The shadows of these and other monsters are seen far back in the past; but human beings of gigantic proportions, of natural birth and claiming no connection with the gods, are mentioned in Hawaiian folk-lore as having lived as late as the beginning of the sixteenth century."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Thus, during the reign of Umi, king of Hawaii, whose romantic ascent to the throne is the theme of chant and song, and to whom the past and present dynasties of united Hawaii trace their descent, lived the giant Maukaleoleo."
+    },
+    {
+     "id": "p009.s03",
+     "source": "He was one of Umi’s warriors, and must have been a mighty host in himself."
+    },
+    {
+     "id": "p009.s04",
+     "source": "His measure in feet is not recorded, but he stood upon the ground and plucked cocoanuts from the tallest trees, and once, without wetting his loins, strode out into six fathoms of water and saved the life of his chief."
+    },
+    {
+     "id": "p009.s05",
+     "source": "As the traditions relating to Umi are quite elaborate and circumstantial, the existence of Maukaleoleo cannot well be doubted, however greatly we may feel disposed to curtail his proportions."
     }
    ],
    "id": "p009"
@@ -121,7 +209,35 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "They call me back to my home,"
+     "source": "But, in groping among these monsters of the Hawaiian past, we have been led somewhat from the story of the irruption in Puna, to which reference has been made."
+    },
+    {
+     "id": "p010.s02",
+     "source": "However, as pertinent to it, and to the goddess whose wrath invoked it, it may be mentioned that many centuries ago a family of gods and goddesses came to Hawaii from Tahiti and took possession of the volcanic mountains of that island."
+    },
+    {
+     "id": "p010.s03",
+     "source": "The family consisted of five brothers and nine sisters, of which Pele was the principal deity."
+    },
+    {
+     "id": "p010.s04",
+     "source": "The others possessed specific powers and functions, such as controlling the fires, smoke, steam, explosions, etc., of the volcanoes under their supervision."
+    },
+    {
+     "id": "p010.s05",
+     "source": "Although they frequently dwelt in other volcanoes, their principal and favorite abode was the crater of Kilauea."
+    },
+    {
+     "id": "p010.s06",
+     "source": "Almost without exception they were destructive and merciless."
+    },
+    {
+     "id": "p010.s07",
+     "source": "Temples were erected to Pele in every district menaced by volcanic disturbance, and offerings of fruits, animals, and sometimes of human beings were laid upon her altars and thrown into the crater to secure her favor or placate her wrath."
+    },
+    {
+     "id": "p010.s08",
+     "source": "In the legend of “The Apotheosis of Pele” a more extended reference is made to the goddess and her family."
     }
    ],
    "id": "p010"
@@ -131,7 +247,23 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "I must return.”"
+     "source": "With this knowledge of the power and disposition of Pele, the reader will be prepared for the story of the exhibition of her wrath in Puna, which will now be related nearly in the language of tradition."
+    },
+    {
+     "id": "p011.s02",
+     "source": "The event occurred during the reign of Kahoukapu, who from about 1340 to 1380 was the alii-nui , or governing chief, of Hawaii."
+    },
+    {
+     "id": "p011.s03",
+     "source": "The chief of the district of Puna was Kahavari, a young noble distinguished for his strength, courage and manly accomplishments."
+    },
+    {
+     "id": "p011.s04",
+     "source": "How he came to be chief or governor of Puna is not stated."
+    },
+    {
+     "id": "p011.s05",
+     "source": "As his father and sister lived on Oahu, he was probably a native of that island, and may have been advanced to his position through military service rendered the Hawaiian king, since it was customary in those days, as it was at later periods, for young men of martial tastes to seek adventure and employment at arms with the kings and chiefs of neighboring islands."
     }
    ],
    "id": "p011"
@@ -141,7 +273,11 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "[ ]"
+     "source": "The grass-thatched mansion of the young chief was near Kapoho, where his wife lived with their two children, Paupoulu and Kaohe; and at Kukii, no great distance away, dwelt his old mother, then on a visit to her distinguished son."
+    },
+    {
+     "id": "p012.s02",
+     "source": "As his taro lands were large and fertile, and he had fish-ponds on the sea-shore, he entertained with prodigality, and the people of Puna thought there was no chief like him in all Hawaii."
     }
    ],
    "id": "p012"
@@ -151,19 +287,31 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Ka-ehu called his shark friends and started along the Oahu shores on his way to Hawaii."
+     "source": "It was at the time of the monthly festival of Lono ."
     },
     {
      "id": "p013.s02",
-     "source": "At Waikiki they met Pehu, a shark visitor from Maui, who lived in the sea belonging to Hono-ka-hau."
+     "source": "The day was beautiful."
     },
     {
      "id": "p013.s03",
-     "source": "Pehu was a man-eating shark and was swimming back and forth at Kalehua-wike."
+     "source": "The trade-winds were bending the leaves of the palms and scattering the spray from the breakers chasing each other over the reef."
     },
     {
      "id": "p013.s04",
-     "source": "He was waiting for some surf-rider to go out far enough to be caught."
+     "source": "A holua contest had been announced between the stalwart young chief and his favorite friend and companion, Ahua, and a large concourse of men, women and children had assembled at the foot of the hill to witness the exciting pastime."
+    },
+    {
+     "id": "p013.s05",
+     "source": "They brought with them drums, ohes , ulilis , rattling gourds and other musical instruments, and while they awaited the coming of the contestants all frolicked as if they were children—frolicked as was their way before the white man came to tell them they were nearly naked, and that life was too serious a thing to be frittered away in enjoyment."
+    },
+    {
+     "id": "p013.s06",
+     "source": "They ate ohias , cocoanuts and bananas under the palms, and chewed the pith of sugar-cane."
+    },
+    {
+     "id": "p013.s07",
+     "source": "They danced, sang and laughed at the hula and other sports of the children, and grew nervous with enthusiasm when their bards chanted the meles of by-gone years."
     }
    ],
    "id": "p013"
@@ -173,11 +321,27 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Ka-ehu asked him what he was doing there."
+     "source": "The game of holua consists in sliding down a sometimes long but always steep hill on a narrow sledge from six to twelve feet in length, called a papa ."
     },
     {
      "id": "p014.s02",
-     "source": "He replied, “I am catching a crab for my breakfast.”"
+     "source": "The light and polished runners, bent upward at the front, are bound quite closely together, with cross-bars for the hands and feet."
+    },
+    {
+     "id": "p014.s03",
+     "source": "With a run at the top of the sliding track, slightly smoothed and sometimes strewn with rushes, the rider throws himself face downward on the narrow papa and dashes headlong down the hill."
+    },
+    {
+     "id": "p014.s04",
+     "source": "As the sledge is not more than six or eight inches in width, with more than as many feet in length, one of the principal difficulties of the descent is in keeping it under the rider; the other, of course, is in guiding it; but long practice is required to master the subtleties of either."
+    },
+    {
+     "id": "p014.s05",
+     "source": "Kahavari was an adept with the papa , and so was Ahua."
+    },
+    {
+     "id": "p014.s06",
+     "source": "Rare sport was therefore expected, and the people of the neighborhood assembled almost in a body to witness it."
     }
    ],
    "id": "p014"
@@ -187,7 +351,15 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Ka-ehu said, “We will help you catch your crab.”"
+     "source": "Finally appearing at the foot of the hill, Kahavari and his companion were heartily cheered by their good-natured auditors."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Their papas were carried by attendants."
+    },
+    {
+     "id": "p015.s03",
+     "source": "The chief smiled upon the assemblage, and as he struck his tall spear into the ground and divested his broad shoulders of the kihei covering them, the wagers of fruit and pigs were three to one that he would reach the bottom first, although Ahua was expert with the papa , and but a month before had beaten the champion of Kau on his own ground."
     }
    ],
    "id": "p015"
@@ -197,15 +369,19 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "He told Pehu to go near the coral reef while he and his large retinue of sharks would go seaward."
+     "source": "Taking their sledges under their arms, the contestants laughingly mounted the hill with firm, strong strides, neither thinking of resting until the top was gained."
     },
     {
      "id": "p016.s02",
-     "source": "When a number of surf-riders were far out he and his sharks would appear and drive them shoreward in a tumultuous rush; then Pehu could easily catch the crab."
+     "source": "Stopping for a moment preparatory to the descent, a comely-looking woman stepped out from behind a clump of undergrowth and bowed before them."
     },
     {
      "id": "p016.s03",
-     "source": "This pleased the shark from Maui, so he went close to the reef and hid himself in its shadows."
+     "source": "Little attention was paid to her until she approached still nearer and boldly challenged Kahavari to contest the holua with her instead of Ahua."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Exchanging a smile of amusement with his companion, the chief scanned the lithe and shapely figure of the woman for a moment, and then exclaimed, more in astonishment than in anger: “What! with a woman?”"
     }
    ],
    "id": "p016"
@@ -215,15 +391,7 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Ka-ehu said to his friends: “We must kill this man-eating shark who is destroying our people."
-    },
-    {
-     "id": "p017.s02",
-     "source": "This will be a part of our pay to them for honoring us at Puu-loa (Pearl Harbor)."
-    },
-    {
-     "id": "p017.s03",
-     "source": "We will all go and push Pehu into the shallow water.”"
+     "source": "“And why not with a woman, if she is your superior and you lack not the courage?” was the calm rejoinder."
     }
    ],
    "id": "p017"
@@ -233,11 +401,11 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "A number of surf-riders poised on the waves, [ ] and Pehu called for the other sharks to come, but Ka-ehu told him to wait for a better chance."
+     "source": "“You are bold, woman,” returned the chief, with something of a frown."
     },
     {
      "id": "p018.s02",
-     "source": "Soon two men started on a wave from the distant dark blue sea where the high surf begins."
+     "source": "“What know you of the papa ?”"
     }
    ],
    "id": "p018"
@@ -247,15 +415,7 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Ka-ehu gave a signal for an attack."
-    },
-    {
-     "id": "p019.s02",
-     "source": "He told his friends to rush in under the great wave and as it passed over the waiting Pehu, crowd the men and their surf-boards to one side and push the leaping Pehu so that he would be upset."
-    },
-    {
-     "id": "p019.s03",
-     "source": "Then while he was floundering in the surf they must hurl him over the reef."
+     "source": "“Enough to reach the bottom of the hill in front of the chief of Puna,” was the prompt and defiant answer."
     }
    ],
    "id": "p019"
@@ -265,11 +425,11 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "As Pehu leaped to catch one of the coming surf-riders he was astonished to see the man shoved to one side, then as he rose almost straight up in the water he was caught by the other sharks and tossed over and over until he plunged head first into a deep hole in the coral."
+     "source": "“Is it so, indeed?"
     },
     {
      "id": "p020.s02",
-     "source": "There he thrashed his great tail about, but only forced himself farther in so that he could not escape."
+     "source": "Then take the papa and we will see!” said Kahavari, with an angry look which did not seem to disturb the woman in the least."
     }
    ],
    "id": "p020"
@@ -279,15 +439,11 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "The surf-riders were greatly frightened when they saw the company of sharks swimming swiftly outside the coral reef—but they were not afraid of Pehu."
+     "source": "At a motion from the chief, Ahua handed his papa to the woman, and the next moment Kahavari, with the strange contestant closely behind him, was dashing down the hill."
     },
     {
      "id": "p021.s02",
-     "source": "They went out to the hole and killed him and cut his body in pieces."
-    },
-    {
-     "id": "p021.s03",
-     "source": "Inside the body they found hair and bones, showing that this shark had been destroying some of their people."
+     "source": "On, on they went, around and over rocks, at break-neck speed; but for a moment the woman lost her balance, and Kahavari reached the end of the course a dozen paces in advance."
     }
    ],
    "id": "p021"
@@ -297,7 +453,11 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "They took the pieces of the body of that [ ] great fish to Pele-ula, where they made a great oven and burned the pieces."
+     "source": "Music and shouting followed the victory of the chief, and, scowling upon the exultant multitude, the woman pointed to the hill, silently challenging the victor to another trial."
+    },
+    {
+     "id": "p022.s02",
+     "source": "They mounted the hill without a word, and turned for another start."
     }
    ],
    "id": "p022"
@@ -307,7 +467,15 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Ka-ehu passed on toward Hawaii as a knight-errant, meeting many adventures and punishing evil-minded residents of the great sea."
+     "source": "“Stop!” said the woman, while a strange light flashed in her eyes."
+    },
+    {
+     "id": "p023.s02",
+     "source": "“Your papa is better than mine."
+    },
+    {
+     "id": "p023.s03",
+     "source": "If you would act fairly, let us now exchange!”"
     }
    ],
    "id": "p023"
@@ -317,7 +485,19 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "Feather Helmet"
+     "source": "“Why should I exchange?” replied the chief, hastily."
+    },
+    {
+     "id": "p024.s02",
+     "source": "“You are neither my wife nor my sister, and I know you not."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Come !”"
+    },
+    {
+     "id": "p024.s04",
+     "source": "And, presuming the woman was following him, Kahavari made a spring and dashed down the hill on his papa ."
     }
    ],
    "id": "p024"
@@ -327,14 +507,39 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "[ ]"
+     "source": "With this the woman stamped her foot, and a river of burning lava burst from the hill and began to pour down into the valley beneath."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Reaching the bottom, Kahavari rose and looked behind him, and to his horror saw a wide and wild torrent of lava rushing down the hillside toward the spot where he was standing; and riding on the crest of the foremost wave was the woman—now no longer disguised, but Pele, the dreadful goddess of Kilauea—with thunder at her feet and lightning playing with her flaming tresses."
     }
    ],
    "id": "p025"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Seizing his spear, Kahavari, accompanied by Ahua, fled for his life to the small eminence of Puukea."
+    },
+    {
+     "id": "p026.s02",
+     "source": "He looked behind, and saw the entire assemblage of spectators engulfed in a sea of fire."
+    },
+    {
+     "id": "p026.s03",
+     "source": "With terrible rapidity the valleys began to fill, and he knew that his only hope of escape was in reaching the ocean, for it was manifest that Pele was intent upon his destruction."
+    },
+    {
+     "id": "p026.s04",
+     "source": "He fled to his house, and, passing it without stopping, said farewell to his mother, wife and children, and to his favorite hog Aloipuaa."
+    },
+    {
+     "id": "p026.s05",
+     "source": "Telling them that Pele was in pursuit of him with a river of fire, and to save themselves, if possible, by escaping to the hills, he left them to their fate."
+    }
+   ],
    "id": "p026"
   },
   {
@@ -342,11 +547,27 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "Ohia-lehua."
+     "source": "Coming to a chasm, he saw Pele pouring down it to cut off his retreat."
     },
     {
      "id": "p027.s02",
-     "source": "Metrosideros polymorpha . ↑"
+     "source": "He crossed on his spear, pulling his friend over after him."
+    },
+    {
+     "id": "p027.s03",
+     "source": "At length, closely pursued, he reached the ocean."
+    },
+    {
+     "id": "p027.s04",
+     "source": "His brother, discovering the danger, had just landed from his fishing canoe and gone to look after the safety of his family."
+    },
+    {
+     "id": "p027.s05",
+     "source": "Kahavari leaped into the canoe with his companion, and, using his spear for a paddle, was soon beyond the reach of the pursuing lava."
+    },
+    {
+     "id": "p027.s06",
+     "source": "Enraged at his escape, Pele ran some distance into the water and hurled after him huge stones, that hissed as they struck the waves, until an east wind sprang up and carried him far out to sea."
     }
    ],
    "id": "p027"
@@ -356,7 +577,15 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "Near the Moana Hotel. ↑"
+     "source": "He first reached the island of Maui, and thence by the way of Lanai found his way to Oahu, where he remained to the end of his days."
+    },
+    {
+     "id": "p028.s02",
+     "source": "All of his relatives in Puna perished, with hundreds of others in the neighborhood of Kapoho."
+    },
+    {
+     "id": "p028.s03",
+     "source": "But he never ventured back to Puna, the grave of his hopes and his people, for he believed Pele, the unforgiving, would visit the place with another horror if he did."
     }
    ],
    "id": "p028"
@@ -366,7 +595,7 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "Near corner Nuuanu and Beretania Streets. ↑"
+     "source": "Pele had come down from Kilauea in a pleasant mood to witness the holua contest; but Kahavari angered her unwittingly, and what followed has just been described."
     }
    ],
    "id": "p029"

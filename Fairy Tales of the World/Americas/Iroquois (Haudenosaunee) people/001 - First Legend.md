@@ -4,7 +4,7 @@
 - **Source book:** *Birch Bark Legends of Niagara*
 - **Author / collector / translator:** Owahyah (author)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #7783 — https://www.gutenberg.org/ebooks/7783 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #7783 — https://www.gutenberg.org/ebooks/7783
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

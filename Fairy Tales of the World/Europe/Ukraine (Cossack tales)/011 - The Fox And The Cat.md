@@ -4,7 +4,7 @@
 - **Source book:** *Cossack Fairy Tales and Folk Tales*
 - **Author / collector / translator:** Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #29672 — https://www.gutenberg.org/ebooks/29672 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #29672 — https://www.gutenberg.org/ebooks/29672
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

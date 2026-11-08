@@ -4,7 +4,7 @@
 - **Source book:** *Legends of the City of Mexico*
 - **Author / collector / translator:** Janvier, Thomas A. (Thomas Allibone) (author, d. 1913)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #45852 — https://www.gutenberg.org/ebooks/45852 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #45852 — https://www.gutenberg.org/ebooks/45852
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

@@ -1,0 +1,50 @@
+{
+ "id": "am-chile-062",
+ "title": {
+  "id": "title",
+  "source": "Maldicion 35. El Risco Del Arriero (1910)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/062 - Maldicion 35. El Risco Del Arriero (1910).md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 4,
+  "words": 103
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "En el cerro de las Petacas, departamento de Colchagua, hay un risco muy grande que tiene una mancha amarillenta que representa a un arriero que tiene una mula a su lado."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Dicen que en tiempos antiguos, un fraile salió, en ese sitio, a pedir limosna a un arriero que con ducía una mula con una carga de plata, y no sólo no le dio nada, sino que lo injurió."
+    },
+    {
+     "id": "p001.s03",
+     "source": "El sacerdote lo maldijo, y tanto el arriero como la mula quedaron incrustados en la piedra."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "En otro risco que está cerca, se ve otra mancha amarillenta, que semeja la figura de un fraile."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "id": "am-chile-077",
+ "title": {
+  "id": "title",
+  "source": "Los italianos i el inglés"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos chilenos de nunca acabar",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #69164 — https://www.gutenberg.org/ebooks/69164",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/077 - Los italianos i el inglés.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 7,
+  "words": 54
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "—Estos eran tres: dos italianos i un inglés."
+    },
+    {
+     "id": "p001.s02",
+     "source": "El inglés tiró su espada; los mató i no los mató."
+    },
+    {
+     "id": "p001.s03",
+     "source": "¿Querís que te cuente lo que pasó?"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "—Bueno."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "—Estos eran tres: dos italianos i un inglés."
+    },
+    {
+     "id": "p003.s02",
+     "source": "El inglés tiró su espada; los mató i no los mató."
+    },
+    {
+     "id": "p003.s03",
+     "source": "¿Querís que te cuente lo que pasó?... etc."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

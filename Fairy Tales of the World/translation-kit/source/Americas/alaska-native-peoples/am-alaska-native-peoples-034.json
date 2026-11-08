@@ -1,0 +1,98 @@
+{
+ "id": "am-alaska-native-peoples-034",
+ "title": {
+  "id": "title",
+  "source": "East Wind And North Wind"
+ },
+ "tradition": "Alaska Native peoples",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths and Legends of Alaska",
+ "credits": "Judson, Katharine Berry (compiler, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #47146 — https://www.gutenberg.org/ebooks/47146",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Alaska Native peoples/034 - East Wind And North Wind.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 13,
+  "words": 112
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Tlingit"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "A HIGH-CASTE man married first the daughter of East Wind."
+    },
+    {
+     "id": "p002.s02",
+     "source": "When he heard of the pretty daughter of North Wind he married her also."
+    },
+    {
+     "id": "p002.s03",
+     "source": "He took her back to the village where his first wife lived."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Then people said to the daughter of East Wind, “There is a pretty woman here."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Her clothes sparkle all over."
+    },
+    {
+     "id": "p003.s03",
+     "source": "They make a tingling noise.”"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The daughter of East Wind was very jealous."
+    },
+    {
+     "id": "p004.s02",
+     "source": "She made the east wind to blow."
+    },
+    {
+     "id": "p004.s03",
+     "source": "It began to grow warm and cloudy."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Then the daughter of North Wind lost all her sparkling clothing."
+    },
+    {
+     "id": "p004.s05",
+     "source": "The icicles and the frost melted away."
+    },
+    {
+     "id": "p004.s06",
+     "source": "Then the daughter of North Wind was no longer beautiful."
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

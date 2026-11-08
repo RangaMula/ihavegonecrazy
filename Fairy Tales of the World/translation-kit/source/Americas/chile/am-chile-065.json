@@ -1,0 +1,76 @@
+{
+ "id": "am-chile-065",
+ "title": {
+  "id": "title",
+  "source": "LOS DOS VIAJEROS (Contado por D. Francisco 2.º Vásquez, en 1911.)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/065 - LOS DOS VIAJEROS (Contado por D. Francisco 2.º Vásquez, en 1911.).md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 9,
+  "words": 335
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Dos hombres habían salido a hacer una excursión a pie, y después de mucho andar se extraviaron y rendidos de fatiga se recostaron en la tierra, a la sombra de unos árboles."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Uno de los excursionistas se quedó dormido casi inmediatamente, pero el otro no pudo cerrar los ojos y se sentó a fumar un cigarrillo."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Mientras fumaba, miró a su compañero, que seguía durmiendo como un ángel de Dios, y se extrañó sobremanera de ver que de su boca salían unos como globitos de colores que se desvanecían en el aire, pero de repente salió uno mucho más grande que los otros que se elevó un poco y después siguió en dirección hacia el oriente, rodeado de unos cuantos jotes que lo acompañaban dando manifestaciones de alegría."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Esto le llamó mucho la atención y, levantándose, siguió al globo y a sus acompañantes, los cuales no se detuvieron sino al llegar al pie de un peñasco situado en la falda de un cerro cercano, debajo del cual se introdujo el globo."
+    },
+    {
+     "id": "p001.s05",
+     "source": "El hombre dejó una señal y volvió a reunirse con su compañero, que todavía dormía."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Para despertarlo, lo remeció fuertemente; pero fué menester repetir tres veces la operación para que produjera resultado."
+    },
+    {
+     "id": "p001.s07",
+     "source": "El dormilón, al despertar, dijo a su amigo:—“Soñaba un sueño muy lindo: que iba por un camino y me encontraba con unos amigos que me recibieron muy alegremente y me dijeron que me iban a regalar un tesoro; cuando tú me despertaste, me llevaban a mostrármelo”."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "El amigo escuchó la relación, y en seguida condujo a su compañero al pie del peñasco y sin contarle lo que había visto, lo invitó a que lo acompañara a cavar en el lugar en que había visto desaparecer el globo de color, y, como lo esperaba, a las pocas azadonadas, tropezaron con una gran paila llena de onzas de oro."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Sólo después de repartirse el tesoro entre los dos, contó el que había estado en vela a su amigo dormilón todo lo que había visto."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

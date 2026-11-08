@@ -4,7 +4,7 @@
 - **Source book:** *Tales from the Lands of Nuts and Grapes (Spanish and Portuguese Folklore)*
 - **Author / collector / translator:** Sellers, Charles (author)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #31481 — https://www.gutenberg.org/ebooks/31481 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #31481 — https://www.gutenberg.org/ebooks/31481
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

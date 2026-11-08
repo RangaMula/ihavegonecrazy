@@ -2,20 +2,20 @@
  "id": "as-turkey-009",
  "title": {
   "id": "title",
-  "source": "The Merciful Khan"
+  "source": "The Magic Turban, The Magic Whip, And The Magic Carpet"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/009 - The Merciful Khan.md",
+ "markdown_file": "Asia/Turkey/009 - The Magic Turban, The Magic Whip, And The Magic Carpet.md",
  "stats": {
-  "paragraphs": 9,
-  "segments": 27,
-  "words": 555
+  "paragraphs": 22,
+  "segments": 79,
+  "words": 2285
  },
  "paragraphs": [
   {
@@ -23,11 +23,19 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "here lived once near Ispahan a tailor, a hard-working man, who was very poor."
+     "source": "Once upon a time that was no time there were two brothers."
     },
     {
      "id": "p001.s02",
-     "source": "So poor was he that his workshop and house together consisted of a wooden cottage of but one room."
+     "source": "Their father and mother had died and divided all their property between them."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The elder brother opened a shop, but the younger brother, who was but a feather-brain, idled about and did nothing; so that at last, what with eating and drinking and gadding abroad, the day came when he had no more money left."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Then he went to his elder brother and begged a copper or two of him, and when that all was spent he came to him again, and so he continued to live upon him."
     }
    ],
    "id": "p001"
@@ -37,15 +45,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "But poverty is no protection against thieves, and so it happened that one night a thief entered the hut of the tailor."
+     "source": "At last the elder brother began to grow tired of this waste, but seeing that he could not be quit of his younger brother, he turned all his possessions into sequins, and embarked on a ship in order to go into another kingdom."
     },
     {
      "id": "p002.s02",
-     "source": "The tailor had driven nails in various places in the walls on which to hang the garments that were brought to him to mend."
+     "source": "The younger brother, however, had got wind of it, and before the ship started he managed to creep on board and conceal himself without any one observing him."
     },
     {
      "id": "p002.s03",
-     "source": "It chanced that in groping about for plunder, the thief struck against one of these nails and put out his eye."
+     "source": "The elder brother suspected that if the younger one heard of his departure he would be sure to follow after, so he took good care not to show himself on deck."
+    },
+    {
+     "id": "p002.s04",
+     "source": "But scarcely had they unfurled the sails when the two brothers came face to face, and the elder brother found himself saddled with his younger brother again."
     }
    ],
    "id": "p002"
@@ -55,15 +67,19 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "The next morning the thief appeared before the Khan (Judge) and demanded justice."
+     "source": "The elder brother was not a little angry, but what was the use of that!—for the ship did not stop till it came to Egypt."
     },
     {
      "id": "p003.s02",
-     "source": "The Khan accordingly sent for the tailor, stated the complaint of the thief, and said that in accordance with the law, 'an eye for an eye,' it would be necessary to put out one of the tailor's eyes."
+     "source": "There the elder brother said to the younger brother: “Thou stay here, and I will go and get two mules that we may go on further.”"
     },
     {
      "id": "p003.s03",
-     "source": "As usual, however, the tailor was allowed to plead in his own defence, whereupon he thus addressed the court:"
+     "source": "The youth sat down on the shore and waited for his brother, and waited, but waited in vain."
+    },
+    {
+     "id": "p003.s04",
+     "source": "“I think I had better look for him,” thought he, and up he got and went after his elder brother."
     }
    ],
    "id": "p003"
@@ -73,27 +89,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "\"Oh great and mighty Khan, it is true that the law says an eye for an eye, but it does not say my eye."
+     "source": "He went on and on and on, he went a short distance and he went a long distance, six months was he crossing a field; but once as he looked over his shoulder, he saw that for all his walking he walked no further than a barley-stalk reaches."
     },
     {
      "id": "p004.s02",
-     "source": "Now I am a poor man, and a tailor."
+     "source": "Then he strode still more, he strode still further, he strode for half a year continuously; he kept plucking violets as he went along, and as he went striding, striding, his feet struck upon a hill, and there he saw three youths quarrelling with one another about something."
     },
     {
      "id": "p004.s03",
-     "source": "If the Khan puts out one of my eyes, I will not be able to carry on my trade, and so I shall starve."
-    },
-    {
-     "id": "p004.s04",
-     "source": "Now it happens that there lives near me a gunsmith."
-    },
-    {
-     "id": "p004.s05",
-     "source": "He uses but one eye with which he squints along the barrel of his guns."
-    },
-    {
-     "id": "p004.s06",
-     "source": "Take his other eye, oh Khan, and let the law be satisfied.\""
+     "source": "He soon made a fourth, and asked them what they were tussling about."
     }
    ],
    "id": "p004"
@@ -103,11 +107,15 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The Khan was favorably impressed with this idea, and accordingly sent for the gunsmith."
+     "source": "“We are the children of one father,” said the youngest of them, “and our father has just died and left us, by way of inheritance, a turban, a whip, and a carpet."
     },
     {
      "id": "p005.s02",
-     "source": "He recited to the gunsmith the complaint of the thief and the statement of the tailor, whereupon the gunsmith said:"
+     "source": "Whoever puts the turban on his head is hidden from mortal eyes."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Whoever extends himself on the carpet and strikes it once with the whip can fly far away, after the manner of birds; and we are eternally quarrelling among ourselves as to whose shall be the turban, whose the whip, and whose the carpet.”"
     }
    ],
    "id": "p005"
@@ -117,27 +125,15 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "\"Oh great and mighty Khan, this tailor knows not whereof he talks."
+     "source": "“All three of them must belong to one of us,” cried they all."
     },
     {
      "id": "p006.s02",
-     "source": "I need both of my eyes; for while it is true that I squint one eye along one side of the barrel of the gun, to see if it is straight, I must use the other eye for the other side."
+     "source": "“They are mine, because I am the biggest,” said one.—“They are mine by right, because I am the middling-sized brother,” cried the second.—“They are mine, because I am the smallest,” cried the third."
     },
     {
      "id": "p006.s03",
-     "source": "If, therefore, you put out one of my eyes you will take away from me the means of livelihood."
-    },
-    {
-     "id": "p006.s04",
-     "source": "It happens, however, that there lives not far from me a flute-player."
-    },
-    {
-     "id": "p006.s05",
-     "source": "Now I have noticed that whenever he plays the flute he closes both of his eyes."
-    },
-    {
-     "id": "p006.s06",
-     "source": "Take out one of his eyes, oh Khan, and let the law be satisfied.\""
+     "source": "From words they speedily came to blows, so that it was as much as the youth could do to keep them apart."
     }
    ],
    "id": "p006"
@@ -147,15 +143,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Accordingly, the Khan sent for the flute-player, and after reciting to him the complaint of the thief, and the words of the gunsmith, he ordered him to play upon his flute."
+     "source": "“You can’t settle it like that,” said he; “I’ll tell you what we’ll do."
     },
     {
      "id": "p007.s02",
-     "source": "This the flute-player did, and though he endeavored to control himself, he did not succeed, but, as the result of long habit, closed both of his eyes."
+     "source": "I’ll make an arrow from this little piece of wood, and shoot it off."
     },
     {
      "id": "p007.s03",
-     "source": "When the Khan saw this, he ordered that one of the flute-player's eyes be put out, which being done, the Khan spoke as follows:"
+     "source": "You run after it, and he who brings it to me here soonest shall have all three things.”"
+    },
+    {
+     "id": "p007.s04",
+     "source": "Away flew the dart, and after it pelted the three brothers, helter-skelter; but the wise youth knew a trick worth two of that, for he stuck the turban on his head, sat down on the carpet, tapped it once with the whip, and cried: “Hipp—hopp! let me be where my elder brother is!” and when he awoke a large city lay before him."
     }
    ],
    "id": "p007"
@@ -165,19 +165,306 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "\"Oh flute-player, I saw that when playing upon your flute you closed both of your eyes."
+     "source": "He had scarce taken more than a couple of steps through the street, when the Padishah’s herald came along, and proclaimed to the inhabitants of the town that the Sultan’s daughter disappeared every night from the palace."
     },
     {
      "id": "p008.s02",
-     "source": "It was thus clear to me that neither was necessary for your livelihood, and I had intended to have them both put out, but I have decided to put out only one in order that you may tell among men how merciful are the Khans.\""
+     "source": "Whoever could find out what became of her should receive the damsel and half the kingdom."
+    },
+    {
+     "id": "p008.s03",
+     "source": "“Here am I!” cried the youth, “lead me to the Padishah, and if I don’t find out, let them take my head!”"
     }
    ],
    "id": "p008"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "So they brought the fool into the palace, and in the evening there lay the Sultan’s daughter watching, with her eyes half-closed, all that was going on."
+    },
+    {
+     "id": "p009.s02",
+     "source": "The damsel was only waiting for him to go to sleep, and presently she stuck a needle into her heel, took the candle with her, lest the youth should awake, and went out by a side door."
+    }
+   ],
    "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "The youth had his turban on his head in a trice, and no sooner had he popped out of the same door than he saw a black efrit standing there with a golden buckler on his head, and on the buckler sat the Sultan’s daughter, and they were just on the point of starting off."
+    },
+    {
+     "id": "p010.s02",
+     "source": "The lad was not such a fool as to fancy that he could keep up with them by himself, so he also leaped on to the buckler, and very nearly upset the pair of them in consequence."
+    },
+    {
+     "id": "p010.s03",
+     "source": "The efrit was alarmed, and asked the damsel in Allah’s name what she was about, as they were within a hair’s-breadth of falling."
+    },
+    {
+     "id": "p010.s04",
+     "source": "“I never moved,” said the damsel; “I am sitting on the buckler just as you put me there.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "The black efrit had scarcely taken a couple of steps, when he felt that the buckler was unusually heavy."
+    },
+    {
+     "id": "p011.s02",
+     "source": "The youth’s turban naturally made him invisible, so the efrit turned to the damsel and said: “My Sultana, thou art so heavy to-day that I all but break down beneath thee!”—“Darling Lala!” replied the girl, “thou art very odd to-night, for I am neither bigger nor smaller than I was yesterday.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Shaking his head the black efrit pursued his way, and they went on and on till they came to a wondrously beautiful garden, where the trees were made of nothing but silver and diamonds."
+    },
+    {
+     "id": "p012.s02",
+     "source": "The youth broke off a twig and put it in his pocket, when straightway the trees began to sigh and weep and say: “There’s a child of man here who tortures us! there’s a child of man here who tortures us!”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "The efrit and the damsel looked at each other."
+    },
+    {
+     "id": "p013.s02",
+     "source": "“They sent a youth in to me to-day,” said the damsel, “maybe his soul is pursuing us.”"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Then they went on still further, till they came to another garden, where every tree was sparkling with gold and precious stones."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Here too the youth broke off a twig and shoved it into his pocket, and immediately the earth and the sky shook, and the rustling of the trees said: “There’s a child of man here torturing us, there’s a child of man here torturing us,” so that both he and the damsel very nearly fell from the buckler in their fright."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Not even the efrit knew what to make of it."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "After that they came to a bridge, and beyond the bridge was a fairy palace, and there an army of slaves awaited the damsel, and with their hands straight down by their sides they bowed down before her till their foreheads touched the ground."
+    },
+    {
+     "id": "p015.s02",
+     "source": "The Sultan’s daughter dismounted from the efrit’s head, the youth also leaped down; and when they brought the princess a pair of slippers covered with diamonds and precious stones, the youth snatched one of them away, and put it in his pocket."
+    },
+    {
+     "id": "p015.s03",
+     "source": "The girl put on one of the slippers, but being unable to find the other, sent for another pair, when, presto! one of these also disappeared."
+    },
+    {
+     "id": "p015.s04",
+     "source": "At this the damsel was so annoyed that she walked on without slippers; but the youth, with the turban on his head and the whip and the carpet in his hand, followed her everywhere like her shadow."
+    },
+    {
+     "id": "p015.s05",
+     "source": "So the damsel went on before, and he followed her into a room, and there he saw the black Peri, one of whose lips touched the sky, while the other lip swept the ground."
+    },
+    {
+     "id": "p015.s06",
+     "source": "He angrily asked the damsel where she had been all the time, and why she hadn’t come sooner."
+    },
+    {
+     "id": "p015.s07",
+     "source": "The damsel told him about the youth who had arrived the evening before, and about what had happened on the way, but the Peri comforted her by saying that the whole thing was fancy, and she was not to trouble herself about it any more."
+    },
+    {
+     "id": "p015.s08",
+     "source": "After that he sat down with the damsel, and ordered a slave to bring them sherbet."
+    },
+    {
+     "id": "p015.s09",
+     "source": "A black slave brought the noble drink in a lovely diamond cup, but just as he was handing it to the Sultan’s daughter the invisible youth gave the hand of the slave such a wrench that he dropped and broke the cup to pieces."
+    },
+    {
+     "id": "p015.s10",
+     "source": "A piece of this also the youth concealed in his pocket."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“Now didn’t I say that something was wrong?” cried the Sultan’s daughter."
+    },
+    {
+     "id": "p016.s02",
+     "source": "“I want no sherbet nor anything else, and I think I had better get back again as soon as possible.”—“Tush! tush!” said the efrit, and he ordered other slaves to bring them something to eat."
+    },
+    {
+     "id": "p016.s03",
+     "source": "So they brought a little table covered with many dishes, and they began to eat together; whereupon the hungry youth also set to work, and the viands disappeared as if three were eating instead of two."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "And the black Peri himself began to be a little impatient, when not only the food but also the forks and spoons began to disappear, and he said to his sweetheart, the Sultan’s daughter, that perhaps it would be as well if she did make haste home again."
+    },
+    {
+     "id": "p017.s02",
+     "source": "First of all the black efrit wanted to kiss the girl, but the youth slipped in between them, pulled them asunder, and one of them fell to the right and the other to the left."
+    },
+    {
+     "id": "p017.s03",
+     "source": "They both turned pale, called the Lala with his buckler, the damsel sat upon it, and away they went."
+    },
+    {
+     "id": "p017.s04",
+     "source": "But the youth took down a sword from the wall, bared his arm, and with one blow he chopped off the head of the black Peri."
+    },
+    {
+     "id": "p017.s05",
+     "source": "No sooner had his head rolled from his shoulders than the heavens roared so terribly, and the earth groaned so horribly, and a voice cried so mightily: “Woe to us, a child of man hath slain our king!” that the terrified youth knew not whether he stood on his head or his heels."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "He seized his carpet, sat upon it, gave it one blow with his whip, and when the Sultan’s daughter returned to the palace, there she found the youth snoring in his room."
+    },
+    {
+     "id": "p018.s02",
+     "source": "“Oh, thou wretched bald-pate,” cried the damsel viciously, “what a night I’ve had of it."
+    },
+    {
+     "id": "p018.s03",
+     "source": "So much the worse for thee!”"
+    },
+    {
+     "id": "p018.s04",
+     "source": "Then she took out a needle and pricked the youth in the heel, and because he never stirred she fancied he was asleep, and lay down to sleep herself also."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Next morning when she awoke she bade the youth prepare for death, as his last hour had come."
+    },
+    {
+     "id": "p019.s02",
+     "source": "“Nay,” replied he, “not to thee do I owe an account of myself; let us both come before the Padishah.”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Then they led him before the father of the damsel, but he said he would only tell them what had happened in the night if they called all the people of the town together."
+    },
+    {
+     "id": "p020.s02",
+     "source": "“In that way I shall find my brother, perhaps,” thought he."
+    },
+    {
+     "id": "p020.s03",
+     "source": "So the town-crier called all the people together, and the youth stood on a high daïs beside the Padishah and the Sultana, and began to tell them the whole story, from the efrit’s buckler to the Peri king."
+    },
+    {
+     "id": "p020.s04",
+     "source": "“Believe him not, my lord Padishah and father; he lies, my lord father and Padishah!” stammered the damsel; whereupon the youth drew from his pocket the diamond twig, the twig of gems, the golden slipper, the precious spoons and forks."
+    },
+    {
+     "id": "p020.s05",
+     "source": "Then he went on to tell them of the death of the black Peri, when all at once he caught sight of his elder brother, whom he had been searching for so long."
+    },
+    {
+     "id": "p020.s06",
+     "source": "He had now neither eyes nor ears for anything else, but leaping off the daïs, he forced his way on and on through the crowd to his brother, till they both came together."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Then the elder brother told their story, while the younger brother begged the Padishah to give his daughter and half the kingdom to his elder brother."
+    },
+    {
+     "id": "p021.s02",
+     "source": "He was quite content, he said, with the magic turban and the magic whip and carpet to the day of his death, if only he might live close to his elder brother."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "But the Sultan’s daughter rejoiced most of all when she heard of the death of the Peri king."
+    },
+    {
+     "id": "p022.s02",
+     "source": "He had carried her off by force from her room one day, and so enchanted her with his power that she had been unable to set herself free."
+    },
+    {
+     "id": "p022.s03",
+     "source": "In her joy she agreed that the youth’s elder brother should be her lord; and they made a great banquet, at which they feasted forty days and forty nights with one another."
+    },
+    {
+     "id": "p022.s04",
+     "source": "I also was there, and I begged so much pilaw from the cook, and I got so much in the palm of my hand, that I limp to this day."
+    }
+   ],
+   "id": "p022"
   }
  ]
 }

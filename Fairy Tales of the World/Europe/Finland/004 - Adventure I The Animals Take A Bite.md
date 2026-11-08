@@ -4,7 +4,7 @@
 - **Source book:** *Mighty Mikko: A Book of Finnish Fairy Tales and Folk Tales*
 - **Author / collector / translator:** Fillmore, Parker (author, d. 1944)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #38112 — https://www.gutenberg.org/ebooks/38112 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #38112 — https://www.gutenberg.org/ebooks/38112
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

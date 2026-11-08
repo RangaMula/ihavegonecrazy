@@ -5,7 +5,7 @@
 The ancient legends and traditions of the Maoris*
 - **Author / collector / translator:** Dittmer, Wilhelm (author)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #54610 — https://www.gutenberg.org/ebooks/54610 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #54610 — https://www.gutenberg.org/ebooks/54610
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

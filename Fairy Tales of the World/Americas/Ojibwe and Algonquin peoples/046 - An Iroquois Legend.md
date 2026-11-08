@@ -4,7 +4,7 @@
 - **Source book:** *Myths and Folk-lore of the Timiskaming Algonquin and Timagami Ojibwa*
 - **Author / collector / translator:** Speck, F. G. (author, d. 1950)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #66509 — https://www.gutenberg.org/ebooks/66509 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #66509 — https://www.gutenberg.org/ebooks/66509
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

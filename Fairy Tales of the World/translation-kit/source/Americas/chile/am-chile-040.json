@@ -1,0 +1,60 @@
+{
+ "id": "am-chile-040",
+ "title": {
+  "id": "title",
+  "source": "EL HOMBRE TIGRE. (D. Francisco 2.º Vásquez, 1911.)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/040 - EL HOMBRE TIGRE. (D. Francisco 2.º Vásquez, 1911.).md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 5,
+  "words": 192
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "En el camino de los Callejones (en la misma Cordillera, pero no sabe mi informante en qué provincia), salía un tigre a atacar a los viajeros y les robaba, los llevaba a la cueva en que vivía y los mataba."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Una vez iba por ese camino un sacerdote acompañado de su mozo, y les salió el tigre."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "El sacerdote se asustó mucho, y al verlo que temblaba de pavor, el mozo le dijo:—“No se le dé nada, señor”;—y sacándole la montura al caballo, se revolcó en ella, se volvió tigre y se puso a pelear con el que les había salido al camino, y lo venció, dejándolo bastante maltratado."
+    },
+    {
+     "id": "p003.s02",
+     "source": "El vencido dijo:—“No me mates, que soy hombre como tú y soy tu amigo”.—El mozo del cura lo perdonó, y ambos, refregándose en la montura, se convirtieron en hombres."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Entonces el que había salido a atacarlos llevó al cura y al mozo a la cueva en que vivía y les dió de todo lo que tenía guardado en ella: espuelas de plata, ropa, sillas de montar, alhajas, etc. Después de lo cual se despidieron y el cura con su mozo continuó su camino."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

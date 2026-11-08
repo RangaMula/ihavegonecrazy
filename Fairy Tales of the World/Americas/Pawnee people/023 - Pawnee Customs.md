@@ -5,7 +5,7 @@
 With notes on the origin, customs and character of the Pawnee people*
 - **Author / collector / translator:** Grinnell, George Bird (author, d. 1938)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #36923 — https://www.gutenberg.org/ebooks/36923 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #36923 — https://www.gutenberg.org/ebooks/36923
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

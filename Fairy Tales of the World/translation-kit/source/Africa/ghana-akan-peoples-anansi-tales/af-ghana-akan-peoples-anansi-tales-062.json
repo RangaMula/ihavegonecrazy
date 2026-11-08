@@ -1,0 +1,108 @@
+{
+ "id": "af-ghana-akan-peoples-anansi-tales-062",
+ "title": {
+  "id": "title",
+  "source": "Anansi Nakalany"
+ },
+ "tradition": "Ghana (Akan peoples, Anansi tales)",
+ "continent": "Africa",
+ "source_lang": "tuv",
+ "source_book": "African Storybook — traditional tales retold (CC BY 4.0)",
+ "credits": "Ghanaian folktale Simon Ipoo Wiehan de Jager (story, illustration and translation credits as listed by African Storybook)",
+ "gutenberg": "African Storybook story #20409 — https://www.africanstorybook.org/ (search the title)",
+ "copyright": "Creative Commons Attribution 4.0 (CC BY 4.0). Free to copy, translate and adapt for any purpose, including commercial, as long as you credit the original author(s), illustrator(s) and African Storybook and link to the licence: https://creativecommons.org/licenses/by/4.0/",
+ "markdown_file": "Africa/Ghana (Akan peoples, Anansi tales)/062 - Anansi Nakalany.md",
+ "stats": {
+  "paragraphs": 7,
+  "segments": 11,
+  "words": 50
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Amina akimuj, nakaneni pe ayeni akidorokin."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Dio Anansi kimanamanak ng'aunoi keng nakejen ka amot."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "\"Ekadokot, kimori ng'imare a?\""
+    },
+    {
+     "id": "p003.s02",
+     "source": "\"Ibwa mono atobekutu.\""
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Eputir, kimori ng'igilae a?\""
+    },
+    {
+     "id": "p004.s02",
+     "source": "\"Ibwa mono edorokisi.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Dio tanang ni aenatar ng'akejen ka Anansi daang namoti."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Tanang ni eriyarere daang!"
+    },
+    {
+     "id": "p006.s02",
+     "source": "\"Nyiiriya!\" kikalou Anansi."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Topetar ng'akejen ka Anansi!"
+    },
+    {
+     "id": "p007.s02",
+     "source": "Todiimemeta jik!"
+    }
+   ],
+   "id": "p007"
+  }
+ ]
+}

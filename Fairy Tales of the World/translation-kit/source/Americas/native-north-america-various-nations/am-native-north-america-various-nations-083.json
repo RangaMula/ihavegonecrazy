@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-083",
  "title": {
   "id": "title",
-  "source": "The Buffalo And The Grizzly Bear"
+  "source": "A Wonderful Journey"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Myths and Legends of the Great Plains",
- "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
- "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/083 - The Buffalo And The Grizzly Bear.md",
+ "source_book": "Thirty Indian Legends",
+ "credits": "Bemister, Margaret (author)",
+ "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Americas/Native North America (various nations)/083 - A Wonderful Journey.md",
  "stats": {
-  "paragraphs": 27,
-  "segments": 72,
-  "words": 791
+  "paragraphs": 18,
+  "segments": 63,
+  "words": 1099
  },
  "paragraphs": [
   {
@@ -23,7 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Omaha"
+     "source": "One day Wesakchak decided to go on a long journey."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He knew that somewhere, many miles away, there was a village where people lived, and he made up his mind to go and see them."
     }
    ],
    "id": "p001"
@@ -33,47 +37,27 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "G rizzly Bear was going somewhere, following the course of a stream, and at last he went straight towards the headland."
+     "source": "The birds all loved Wesakchak, so a great many of them had given him their feathers to make into a suit."
     },
     {
      "id": "p002.s02",
-     "source": "When he got in sight, Buffalo Bull was standing beneath it."
+     "source": "When it was finished, it was very beautiful."
     },
     {
      "id": "p002.s03",
-     "source": "Grizzly Bear retraced his steps, going again to the stream, following its course until he got beyond the headland."
+     "source": "The vest was of snow-white feathers from the pigeons' breasts, the coat, of shining blue ones, given by the bluebirds."
     },
     {
      "id": "p002.s04",
-     "source": "Then he drew near and peeped."
+     "source": "The leggings were made of black and brown feathers, which the blackbirds and thrushes had gladly sent to him."
     },
     {
      "id": "p002.s05",
-     "source": "He saw that Buffalo Bull was very lean, and standing with his head bowed, as if sluggish."
+     "source": "Around his neck and wrists he put bright yellow feathers, the gift of the canaries."
     },
     {
      "id": "p002.s06",
-     "source": "So Grizzly Bear crawled up close to him, made a rush, seized him by the hair of his head, and pulled down his head."
-    },
-    {
-     "id": "p002.s07",
-     "source": "He turned Buffalo Bull round and round, shaking him now and then, saying, “Speak!"
-    },
-    {
-     "id": "p002.s08",
-     "source": "Speak!"
-    },
-    {
-     "id": "p002.s09",
-     "source": "I have been coming to this place a long time, and they say you have threatened to fight me."
-    },
-    {
-     "id": "p002.s10",
-     "source": "Speak!”"
-    },
-    {
-     "id": "p002.s11",
-     "source": "Then he hit Buffalo Bull on the nose with his open paw."
+     "source": "In his hair he wore the eagle's feathers, for he was a great chief."
     }
    ],
    "id": "p002"
@@ -83,7 +67,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "“Why!” said Buffalo Bull, “I have never threatened to fight you, who have been coming to this country so long.”"
+     "source": "He set off early one morning, and as he travelled on, the birds and animals whom he passed all spoke to him."
+    },
+    {
+     "id": "p003.s02",
+     "source": "By and by he met a prairie-chicken."
+    },
+    {
+     "id": "p003.s03",
+     "source": "In those days the prairie-chicken was a pale gray color."
     }
    ],
    "id": "p003"
@@ -93,19 +85,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "“Not so!"
+     "source": "\"Good-morning, brother prairie-chicken,\" said Wesakchak."
     },
     {
      "id": "p004.s02",
-     "source": "You have threatened to fight me.”"
+     "source": "\"I have been hearing strange tales about you."
     },
     {
      "id": "p004.s03",
-     "source": "Letting go the buffalo’s head, Grizzly Bear went around and seized him by the tail, turning him round and round."
-    },
-    {
-     "id": "p004.s04",
-     "source": "Then he left, but as he did so, he gave him a hard blow with his open paw."
+     "source": "The animals tell me that you are very proud of the way that you can startle them.\""
     }
    ],
    "id": "p004"
@@ -115,27 +103,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "“Oh!"
+     "source": "\"But I only remain still in the grass until they come close to me and then fly up suddenly,\" replied the prairie-chicken."
     },
     {
      "id": "p005.s02",
-     "source": "Oh!"
-    },
-    {
-     "id": "p005.s03",
-     "source": "Oh!"
-    },
-    {
-     "id": "p005.s04",
-     "source": "Oh!"
-    },
-    {
-     "id": "p005.s05",
-     "source": "Oh! you have caused me great pain,” said Buffalo Bull."
-    },
-    {
-     "id": "p005.s06",
-     "source": "Bobtailed Grizzly Bear departed."
+     "source": "\"I do not mean to frighten them, but it is great fun to see them jump.\""
     }
    ],
    "id": "p005"
@@ -145,11 +117,15 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Buffalo Bull thought thus: “Attack him!"
+     "source": "\"That may be so,\" said Wesakchak."
     },
     {
      "id": "p006.s02",
-     "source": "You too have been just that sort of a person.”"
+     "source": "\"But it is not kind of you to fly up in their faces."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Then I hear that you are so proud of this, that you call yourself 'Kee-koo,' or the Startsome Bird.\""
     }
    ],
    "id": "p006"
@@ -159,7 +135,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Grizzly Bear knew what he was thinking, so he said, “Why! what are you saying?”"
+     "source": "The prairie-chicken did not reply to this, but remained still in the grass."
     }
    ],
    "id": "p007"
@@ -169,7 +145,15 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "“I said nothing,” said Buffalo Bull."
+     "source": "\"Why do you not fly up in front of me?\" asked Wesakchak."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Still the prairie-chicken did not move or speak."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Suddenly Wesakchak leaned down and gathered a handful of little stones."
     }
    ],
    "id": "p008"
@@ -179,31 +163,15 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Then Grizzly Bear came back."
+     "source": "\"Start now,\" he said, as he threw them at the chicken."
     },
     {
      "id": "p009.s02",
-     "source": "He seized Buffalo Bull by the tail, pulling him round and round."
+     "source": "The small pebbles lit on its back and it flew up suddenly."
     },
     {
      "id": "p009.s03",
-     "source": "Then he seized him by the horns, pulling his head round and round."
-    },
-    {
-     "id": "p009.s04",
-     "source": "Then he seized him again by the tail and hit him again with the open paw."
-    },
-    {
-     "id": "p009.s05",
-     "source": "Again Grizzly Bear departed."
-    },
-    {
-     "id": "p009.s06",
-     "source": "And again Buffalo Bull thought as he had done before."
-    },
-    {
-     "id": "p009.s07",
-     "source": "Then Grizzly Bear came back and treated Buffalo Bull as he had before."
+     "source": "The stones rolled off, but their marks remained, and so after that the prairie-chicken was always speckled."
     }
    ],
    "id": "p009"
@@ -213,7 +181,31 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Buffalo Bull stepped backward, throwing his tail into the air."
+     "source": "Wesakchak continued his journey, and late in the afternoon he came to a creek."
+    },
+    {
+     "id": "p010.s02",
+     "source": "The water of the little stream was not clean enough to wade through, for green slime floated on the top and reeds grew in its boggy mud."
+    },
+    {
+     "id": "p010.s03",
+     "source": "It was rather too wide to jump, but Wesakchak decided to make a running jump and see if he could get across."
+    },
+    {
+     "id": "p010.s04",
+     "source": "He ran back a pace on the prairie, then forward to the bank, but the prairie-grass was so long that his feet became entangled, so he went back to start again."
+    },
+    {
+     "id": "p010.s05",
+     "source": "He did this two or three times, and at last had the grass packed down enough so that he could make a good run."
+    },
+    {
+     "id": "p010.s06",
+     "source": "Then he came forward at a great speed and made a leap."
+    },
+    {
+     "id": "p010.s07",
+     "source": "But just as he did so, the prairie-chicken flew up at his feet, and he fell face downwards in the swampy water."
     }
    ],
    "id": "p010"
@@ -223,11 +215,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "“Why!"
+     "source": "Wesakchak was very vexed, and he called out to the prairie-chicken, \"This is a mean trick you have played on me, and in punishment you shall not be able to fly very well after this.\""
     },
     {
      "id": "p011.s02",
-     "source": "Do not flee,” said Grizzly Bear."
+     "source": "The prairie-chicken heard him and began to fly towards the forest, but its wings seemed shorter than they used to be and it fluttered away amid the tall grass."
     }
    ],
    "id": "p011"
@@ -237,11 +229,15 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Buffalo threw himself down, and rolled over and over."
+     "source": "As Wesakchak waded out through the reeds, each bent before him, making a path that has remained there ever since."
     },
     {
      "id": "p012.s02",
-     "source": "Then he continued backing, pawing the ground."
+     "source": "When he reached the shore, it look him a long time to clean his beautiful suit, and by the time he was ready to go on, it was nearly evening."
+    },
+    {
+     "id": "p012.s03",
+     "source": "He was anxious to reach the village before nightfall, so he hurried on, wishing he could find some one to take him the rest of the way, for he was feeling tired."
     }
    ],
    "id": "p012"
@@ -251,15 +247,19 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "“Why!"
+     "source": "After a time he came in sight of a little lake, and there saw two swans floating on the water."
     },
     {
      "id": "p013.s02",
-     "source": "I say, do not flee,” said Grizzly Bear."
+     "source": "He called to them, but they did not seem to hear, so he jumped into the water and dove down to the bottom."
     },
     {
      "id": "p013.s03",
-     "source": "When Buffalo Bull backed, making ready to attack him, Grizzly Bear thought he was scared."
+     "source": "Then he came up under the swans and caught each one by the legs."
+    },
+    {
+     "id": "p013.s04",
+     "source": "They flew up with him hanging to their feet."
     }
    ],
    "id": "p013"
@@ -269,15 +269,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Then Buffalo Bull ran towards Grizzly, puffing a great deal."
+     "source": "\"Take me to the village that is built on the river bank,\" Wesakchak said to them."
     },
     {
      "id": "p014.s02",
-     "source": "When he neared him, he rushed on him."
-    },
-    {
-     "id": "p014.s03",
-     "source": "He sent Grizzly Bear flying through the air."
+     "source": "They did not answer, but flew rapidly through the air."
     }
    ],
    "id": "p014"
@@ -287,31 +283,55 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "As Grizzly Bear came down towards the earth, Buffalo Bull caught him on his horns and threw him into the air again."
+     "source": "After they had gone some miles, he noticed they were not taking the right direction."
     },
     {
      "id": "p015.s02",
-     "source": "When Grizzly Bear fell and lay on the ground, Buffalo Bull made at him with his horns to gore him, but just missed him."
+     "source": "He called to them and told them to turn to the east, but they did not reply."
     },
     {
      "id": "p015.s03",
-     "source": "Grizzly Bear crawled away slowly, with Buffalo Bull following him step by step, thrusting at him now and then, though without striking him."
+     "source": "When he saw they were not going to obey, he hung on tightly by one hand, and reaching up, he caught one swan by the neck."
     },
     {
      "id": "p015.s04",
-     "source": "When Grizzly Bear came to a cliff, he plunged over headlong, and landed in a thicket at the foot."
+     "source": "He tried to pull its head down so that he could talk to it, but the harder he pulled, the firmer it held its head up, until at last its neck was turned into a curve."
     },
     {
      "id": "p015.s05",
-     "source": "Buffalo Bull had run so fast he could not stop at the edge where Grizzly Bear went over, but followed the cliff for some distance."
+     "source": "He then tried the other swan, but with no more success, so now both birds had their beautiful, white necks curved like the letter S. When Wesakchak saw they would not listen to him, and that they were taking him in the wrong direction, he let go his hold of their feet and dropped like a stone through the air."
     },
     {
      "id": "p015.s06",
-     "source": "Then he came back and stood with his tail partly raised."
+     "source": "He landed on a hollow stump, and with such force that he sank deep into the soft wood."
     },
     {
      "id": "p015.s07",
-     "source": "Grizzly Bear returned to the bank and peeped."
+     "source": "Not a sign of him could be seen; he had disappeared entirely."
+    },
+    {
+     "id": "p015.s08",
+     "source": "After some time two squaws came to get the soft, yellow wood from the stump."
+    },
+    {
+     "id": "p015.s09",
+     "source": "They use this wood to smoke their buckskins, because it gives the skin a nice color."
+    },
+    {
+     "id": "p015.s10",
+     "source": "They had brought axes with them to chop down the stump."
+    },
+    {
+     "id": "p015.s11",
+     "source": "As they began chopping, they heard a noise like groans coming from within the stump."
+    },
+    {
+     "id": "p015.s12",
+     "source": "They were very frightened and thought it was a bear."
+    },
+    {
+     "id": "p015.s13",
+     "source": "Just as they were turning to run away Wesakchak called to them."
     }
    ],
    "id": "p015"
@@ -321,149 +341,42 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "“Oh, Buffalo Bull,” said Grizzly Bear."
+     "source": "\"It is no bear,\" said the first woman."
     },
     {
      "id": "p016.s02",
-     "source": "“Let us be friends."
-    },
-    {
-     "id": "p016.s03",
-     "source": "We are very much alike in disposition.”"
+     "source": "\"It is the wise man, Wesakchak, who is coming to visit us.\""
     }
    ],
    "id": "p016"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"It is, indeed, he,\" said the second woman."
+    },
+    {
+     "id": "p017.s02",
+     "source": "\"We must chop him out.\""
+    }
+   ],
    "id": "p017"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p018.s01",
-     "source": "RIVALRY OVER THE BUFFALO"
+     "source": "So they set to work with their axes, and in a little while had chopped open the stump and set him free."
+    },
+    {
+     "id": "p018.s02",
+     "source": "They were overjoyed when they saw it was really Wesakchak whom they had freed, and they took him with them to the village, where all came forth to welcome him."
     }
    ],
    "id": "p018"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p019.s01",
-     "source": "(Comanche drawing on a buffalo shoulder blade)"
-    }
-   ],
-   "id": "p019"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p020.s01",
-     "source": "The Indian chase is by arrow; the white man’s by the lasso, gun, and spear."
-    },
-    {
-     "id": "p020.s02",
-     "source": "The rivalry is indicated by half the buffalo being drawn as belonging to one race, half to the other."
-    },
-    {
-     "id": "p020.s03",
-     "source": "The white men are supposed to be Spaniards."
-    },
-    {
-     "id": "p020.s04",
-     "source": "The shoulder blade was found in the Comanche country, in Texas."
-    }
-   ],
-   "id": "p020"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p021.s01",
-     "source": "Enlarged from a sketch in Report of the Bureau of Ethnology"
-    }
-   ],
-   "id": "p021"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p022"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p023.s01",
-     "source": "CAPTURE OF A WANDERING BUFFALO"
-    }
-   ],
-   "id": "p023"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p024.s01",
-     "source": "(Indian drawing)"
-    }
-   ],
-   "id": "p024"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p025.s01",
-     "source": "A buffalo has wandered near an Indian village, and is being captured."
-    },
-    {
-     "id": "p025.s02",
-     "source": "The dotted lines indicate footprints."
-    },
-    {
-     "id": "p025.s03",
-     "source": "One Indian, having secured the buffalo by his forefeet, tells his companion of his success—indicated by the line drawn from his mouth to its feet."
-    },
-    {
-     "id": "p025.s04",
-     "source": "Another, having secured the buffalo by the horns, gives a companion a chance to kill it with an axe."
-    },
-    {
-     "id": "p025.s05",
-     "source": "This he intends to do—indicated by the line from his mouth to its head, as well as by his attitude."
-    },
-    {
-     "id": "p025.s06",
-     "source": "The Indian in the upper corner is told by his squaw to take an arrow and join in the capture."
-    },
-    {
-     "id": "p025.s07",
-     "source": "He turns his head to inform her that he has an arrow—indicated by holding it up, and by the line from his mouth to her."
-    }
-   ],
-   "id": "p025"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p026.s01",
-     "source": "Enlarged from a sketch in Report of the Bureau of Ethnology"
-    }
-   ],
-   "id": "p026"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p027"
   }
  ]
 }

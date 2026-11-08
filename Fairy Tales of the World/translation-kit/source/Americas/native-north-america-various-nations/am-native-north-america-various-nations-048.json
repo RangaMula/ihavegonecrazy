@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-048",
  "title": {
   "id": "title",
-  "source": "The Stone Canoe"
+  "source": "Why The Deer Has No Gall"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Thirty Indian Legends",
- "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/048 - The Stone Canoe.md",
+ "source_book": "Indian Why Stories: Sparks from War Eagle's Lodge-Fire",
+ "credits": "Linderman, Frank Bird (author, d. 1938)",
+ "gutenberg": "Project Gutenberg eBook #606 — https://www.gutenberg.org/ebooks/606",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/048 - Why The Deer Has No Gall.md",
  "stats": {
-  "paragraphs": 13,
-  "segments": 59,
-  "words": 957
+  "paragraphs": 28,
+  "segments": 58,
+  "words": 890
  },
  "paragraphs": [
   {
@@ -23,15 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Once a beautiful Chippewa maiden died on the day she was to have married a brave, young warrior."
-    },
-    {
-     "id": "p001.s02",
-     "source": "He was very brave, but this sorrow was almost too great for him to bear."
-    },
-    {
-     "id": "p001.s03",
-     "source": "He sat down at the door of his lodge and would not go hunting with the other Indians."
+     "source": "Bright and early the next morning the children were playing on the bank of \"The River That Scolds the Other,\" when Fine Bow said:"
     }
    ],
    "id": "p001"
@@ -41,39 +33,7 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "All that he could think of was the dead maiden, and he wished and wished that he might go to the Land of Souls, where he knew she now lived."
-    },
-    {
-     "id": "p002.s02",
-     "source": "But he did not know where this land was."
-    },
-    {
-     "id": "p002.s03",
-     "source": "All that the old people could tell him was that it lay to the south."
-    },
-    {
-     "id": "p002.s04",
-     "source": "So, after sorrowing for many days, he made up his mind to try to find it."
-    },
-    {
-     "id": "p002.s05",
-     "source": "He put some food in a bag, gathered up his arrows and bow, and calling his dog to him, started off."
-    },
-    {
-     "id": "p002.s06",
-     "source": "On he went for many days, and everything looked the same as in the land he had left—forests, hills, and valleys, with snow lying thick on the ground and matted in the trees."
-    },
-    {
-     "id": "p002.s07",
-     "source": "Then gradually the snow began to vanish, and as he went on he saw trees with leaves budding on them, and could hear the songs of birds."
-    },
-    {
-     "id": "p002.s08",
-     "source": "At the end of a few more days, he had reached the southern land, where all is warm and bright."
-    },
-    {
-     "id": "p002.s09",
-     "source": "There he saw a narrow path leading through a forest and up a hill."
+     "source": "\"Let us find a Deer's foot, and the foot of an Antelope and look at them, for to-night grandfather will tell us why the Deer has the dew-claws, and why the Antelope has none.\""
     }
    ],
    "id": "p002"
@@ -83,15 +43,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "He followed this path, and at the top of the hill found a lodge."
+     "source": "\"Yes, and let us ask mother if the Deer has no gall on its liver."
     },
     {
      "id": "p003.s02",
-     "source": "At the door of the lodge stood an Indian, dressed in a robe of bearskins."
-    },
-    {
-     "id": "p003.s03",
-     "source": "He was a very old man, but his eyes were bright and soft."
+     "source": "Maybe she can show both the liver of a Deer and that of an Antelope; then we can see for ourselves,\" said Bluebird."
     }
    ],
    "id": "p003"
@@ -101,39 +57,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "\"Come in, my grandson,\" he said."
+     "source": "So they began to look about where the hides had been grained for tanning; and sure enough, there were the feet of both the antelope and the deer."
     },
     {
      "id": "p004.s02",
-     "source": "\"I have been expecting you."
+     "source": "On the deer's feet, or legs, they found the dew-claws, but on the antelope there were none."
     },
     {
      "id": "p004.s03",
-     "source": "The maiden whom you seek passed here a few days ago."
-    },
-    {
-     "id": "p004.s04",
-     "source": "You may follow her and enter the Land of Souls, but you must leave your body behind with me."
-    },
-    {
-     "id": "p004.s05",
-     "source": "My lodge is the gateway into that beautiful land, and you do not need your body there, nor your arrows, nor your bow."
-    },
-    {
-     "id": "p004.s06",
-     "source": "Leave them with me and I shall keep them safe for you."
-    },
-    {
-     "id": "p004.s07",
-     "source": "Look yonder!"
-    },
-    {
-     "id": "p004.s08",
-     "source": "Do you see that deep gorge and the beautiful plain beyond?"
-    },
-    {
-     "id": "p004.s09",
-     "source": "That is the Land of Souls, and the one you seek is already there.\""
+     "source": "This made them all anxious to know why these animals, so nearly alike, should differ in this way."
     }
    ],
    "id": "p004"
@@ -143,23 +75,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Suddenly the young man felt himself grow very light, and his feet began to run as though they were winged."
-    },
-    {
-     "id": "p005.s02",
-     "source": "Everything looked the same to him, only more beautiful, and the little animals did not seem afraid."
-    },
-    {
-     "id": "p005.s03",
-     "source": "They seemed to know that he would not kill them."
-    },
-    {
-     "id": "p005.s04",
-     "source": "As he went on swiftly through the forest, he noticed that the trees did not stop him."
-    },
-    {
-     "id": "p005.s05",
-     "source": "He seemed to pass right through them, and he saw then that they were only images of trees."
+     "source": "Bluebird's mother passed the children on her way to the river for water, and the little girl asked: \"Say, mother, does the Deer have gall on his liver?\""
     }
    ],
    "id": "p005"
@@ -169,51 +85,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "At last he came to a beautiful lake, whose waters were clear and sparkling."
-    },
-    {
-     "id": "p006.s02",
-     "source": "In the centre of this lake was an island, with green grass and flowers and birds."
-    },
-    {
-     "id": "p006.s03",
-     "source": "Then, to his joy, he noticed a canoe tied to the shore of the lake."
-    },
-    {
-     "id": "p006.s04",
-     "source": "It was made of shining, white stone and had paddles that shone, also."
-    },
-    {
-     "id": "p006.s05",
-     "source": "He climbed in and pushed away from the shore, and, to his surprise, he saw the maiden whom he loved, in a canoe exactly like his, floating beside him."
-    },
-    {
-     "id": "p006.s06",
-     "source": "They kept close together and began to cross the lake."
-    },
-    {
-     "id": "p006.s07",
-     "source": "Its waves seemed to be rising, and at a distance looked ready to swallow them up."
-    },
-    {
-     "id": "p006.s08",
-     "source": "But when the huge waves drew close, they passed by and left them unharmed, and the maiden and her lover saw that they were only the shapes of waves."
-    },
-    {
-     "id": "p006.s09",
-     "source": "But another thing frightened them."
-    },
-    {
-     "id": "p006.s10",
-     "source": "It was the clearness of the water , for as they looked down, they could see the bodies of people who had been drowned."
-    },
-    {
-     "id": "p006.s11",
-     "source": "And in the water all along, there were men and women of all ages struggling and sinking in the waves."
-    },
-    {
-     "id": "p006.s12",
-     "source": "Only the canoes of the little children floated on in safety."
+     "source": "\"No, my child, but the Antelope does; and your grandfather will tell you why if you ask him.\""
     }
    ],
    "id": "p006"
@@ -223,15 +95,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "At last their canoes reached the shore of the island, and jumping out, they roamed joyfully over the soft grass."
-    },
-    {
-     "id": "p007.s02",
-     "source": "They felt that the very air was food, and thought only of great things."
-    },
-    {
-     "id": "p007.s03",
-     "source": "For there was nothing that was sad here in this land, no cold winds, no hunger—only brightness and joy."
+     "source": "That night in the lodge War Eagle placed before his grandchildren the leg of a deer and the leg of an antelope, as well as the liver of a deer and the liver of an antelope."
     }
    ],
    "id": "p007"
@@ -241,27 +105,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "As the warrior, wandered by the maiden's side, he heard the voice of the Master of Life speaking to him."
-    },
-    {
-     "id": "p008.s02",
-     "source": "\"Go back,\" he said, \"to the land whence you came."
-    },
-    {
-     "id": "p008.s03",
-     "source": "Your work is not completed yet."
-    },
-    {
-     "id": "p008.s04",
-     "source": "Go back and be a good man, and do all the work that I send to you."
-    },
-    {
-     "id": "p008.s05",
-     "source": "You must leave the spirit whom you love, but she shall wait here for you, for she is accepted, and shall always remain young and happy."
-    },
-    {
-     "id": "p008.s06",
-     "source": "When your work is finished, I shall call you also from the land of hunger and tears, to come to this beautiful Land of Souls.\""
+     "source": "\"See for yourselves that this thing is true, before I tell you why it is so, and how it happened.\""
     }
    ],
    "id": "p008"
@@ -271,15 +115,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "So the young man said farewell to the maiden, and getting into the canoe, he was carried across the lake."
-    },
-    {
-     "id": "p009.s02",
-     "source": "In a few minutes, he was at the lodge of the old man."
-    },
-    {
-     "id": "p009.s03",
-     "source": "The Indian smiled when he saw him."
+     "source": "\"We see,\" they replied, \"and to-day we found that these strange things are true, but we don't know why, grandfather.\""
     }
    ],
    "id": "p009"
@@ -289,7 +125,11 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"Enter, my grandson,\" he said, \"and you will find your body within.\""
+     "source": "\"Of course you don't know why."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Nobody knows that until he is told, and now I shall tell you, so you will always know, and tell your children, that they, too, may know."
     }
    ],
    "id": "p010"
@@ -299,15 +139,23 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "The young man obeyed, and when he came forth he felt as when he had first arrived."
+     "source": "\"It was long, long ago, of course."
     },
     {
      "id": "p011.s02",
-     "source": "But his heart was brave now."
+     "source": "All these things happened long ago when the world was young, as you are now."
     },
     {
      "id": "p011.s03",
-     "source": "The Indian smiled again at him."
+     "source": "It was on a summer morning, and the Deer was travelling across the plains country to reach the mountains on the far-off side, where he had relatives."
+    },
+    {
+     "id": "p011.s04",
+     "source": "He grew thirsty, for it was very warm, and stopped to drink from a water-hole on the plains."
+    },
+    {
+     "id": "p011.s05",
+     "source": "When he had finished drinking he looked up, and there was his own cousin, the Antelope, drinking near him."
     }
    ],
    "id": "p011"
@@ -317,7 +165,11 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"I see how brave and strong you are,\" he said, \"and my message to you is: always remain cheerful and brighten every sad life that you see.\""
+     "source": "\"'Good morning, cousin,' said the Deer."
+    },
+    {
+     "id": "p012.s02",
+     "source": "'It is a warm morning and water tastes good, doesn't it?'"
     }
    ],
    "id": "p012"
@@ -327,10 +179,244 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "The young man promised to obey the message, and, with one long look at the Land of Souls, he turned and began his journey towards his home."
+     "source": "\"'Yes,' replied the Antelope, 'it is warm to-day, but I can beat you running, just the same.'"
     }
    ],
    "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"'Ha-ha!' laughed the Deer—'you beat me running?"
+    },
+    {
+     "id": "p014.s02",
+     "source": "Why, you can't run half as fast as I can, but if you want to run a race let us bet something."
+    },
+    {
+     "id": "p014.s03",
+     "source": "What shall it be?'"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"'I will bet you my gall-sack,' replied the Antelope."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"'Good,' said the Deer, 'but let us run toward that range of mountains, for I am going that way, anyhow, to see my relations.'"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"'All right,' said the Antelope."
+    },
+    {
+     "id": "p017.s02",
+     "source": "'All ready, and here we go.'"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Away they ran toward the far-off range."
+    },
+    {
+     "id": "p018.s02",
+     "source": "All the way the Antelope was far ahead of the Deer; and just at the foot of the mountains he stopped to wait for him to catch up."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"Both were out of breath from running, but both declared they had done their best, and the Deer, being beaten, gave the Antelope his sack of gall."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"'This ground is too flat for me,' said the Deer."
+    },
+    {
+     "id": "p020.s02",
+     "source": "'Come up the hillside where the gulches cut the country, and rocks are in our way, and I will show you how to run."
+    },
+    {
+     "id": "p020.s03",
+     "source": "I can't run on flat ground."
+    },
+    {
+     "id": "p020.s04",
+     "source": "It's too easy for me.' another race with you on your own ground, and I think I can beat you there, too.'"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"Together they climbed the hill until they reached a rough country, when the Deer said:"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"'This is my kind of country."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Let us run a race here."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Whoever gets ahead and stays there, must keep on running until the other calls on him to stop.'"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"'That suits me,' replied the Antelope, 'but what shall we bet this time?"
+    },
+    {
+     "id": "p023.s02",
+     "source": "I don't want to waste my breath for nothing."
+    },
+    {
+     "id": "p023.s03",
+     "source": "I'll tell you—let us bet our dew-claws.'"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"'Good."
+    },
+    {
+     "id": "p024.s02",
+     "source": "I'll bet you my dew-claws against your own, that I can beat you again."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Are you all ready?—Go!'"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"Away they went over logs, over stones and across great gulches that cut the hills in two."
+    },
+    {
+     "id": "p025.s02",
+     "source": "On and on they ran, with the Deer far ahead of the Antelope."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Both were getting tired, when the Antelope called:"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"'Hi, there—you!"
+    },
+    {
+     "id": "p026.s02",
+     "source": "Stop, you can beat me."
+    },
+    {
+     "id": "p026.s03",
+     "source": "I give up.'"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"So the Deer stopped and waited until the Antelope came up to him, and they both laughed over the fun, but the Antelope had to give the Deer his dew-claws, and now he goes without himself."
+    },
+    {
+     "id": "p027.s02",
+     "source": "The Deer wears dew-claws and always will, because of that race, but on his liver there is no gall, while the Antelope carries a gall-sack like the other animals with cloven hoofs."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"That is all of that story, but it is too late to tell you another to-night."
+    },
+    {
+     "id": "p028.s02",
+     "source": "If you will come to-morrow evening, I will tell you of some trouble that OLD-man got into once."
+    },
+    {
+     "id": "p028.s03",
+     "source": "He deserved it, for he was wicked, as you shall see."
+    },
+    {
+     "id": "p028.s04",
+     "source": "Ho!\""
+    }
+   ],
+   "id": "p028"
   }
  ]
 }

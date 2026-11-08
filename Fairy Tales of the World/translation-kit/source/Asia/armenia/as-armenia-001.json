@@ -2,20 +2,20 @@
  "id": "as-armenia-001",
  "title": {
   "id": "title",
-  "source": "The Geography of Armenia"
+  "source": "The Story-Teller To His Audience"
  },
  "tradition": "Armenia",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Armenian Legends and Festivals",
- "credits": "Boettiger, Louis A. (Louis Angelo) (author)",
- "gutenberg": "Project Gutenberg eBook #38129 — https://www.gutenberg.org/ebooks/38129 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Asia/Armenia/001 - The Geography of Armenia.md",
+ "source_book": "The Golden Maiden, and other folk tales and fairy stories told in Armenia",
+ "credits": "Seklemian, A. G. (Apraham Garabed) (author, d. 1920)",
+ "gutenberg": "Project Gutenberg eBook #46944 — https://www.gutenberg.org/ebooks/46944",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Armenia/001 - The Story-Teller To His Audience.md",
  "stats": {
-  "paragraphs": 14,
-  "segments": 68,
-  "words": 1865
+  "paragraphs": 13,
+  "segments": 48,
+  "words": 1447
  },
  "paragraphs": [
   {
@@ -23,43 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Armenia is a huge plateau, a westward extension of the great Iranian highland, bounded by the Caucasus Mountains on the north, the Taurus Mountains and Kurdistan on the south, the Persian lowlands on the southeast, and the Black and Caspian seas."
+     "source": "If I were telling my stories to an audience composed of Armenians, as I told them years ago, I would begin without any preliminary remarks or introduction."
     },
     {
      "id": "p001.s02",
-     "source": "The average height of the plateau is 6,000 feet."
-    },
-    {
-     "id": "p001.s03",
-     "source": "As it ends abruptly at the Black Sea on one side, so on the other it breaks down in rugged terraces to the Mesopotamian lowlands; on the east it sinks gradually to the lower levels of Persia, and on the west to the plains of Asia Minor."
-    },
-    {
-     "id": "p001.s04",
-     "source": "The chief mountain ranges run from northeast to southwest, rising above the general level of the plateau to an altitude ranging from 8,000 to 12,000 feet and culminating in Ararat, the lofty summit of which stands 17,000 feet above sea level."
-    },
-    {
-     "id": "p001.s05",
-     "source": "Broad, elevated, and fertile valleys range themselves between the mountains, the main lines of which are determined by the four chief rivers of the country, the Tigris, the Euphrates, the Aras, and the Kur."
-    },
-    {
-     "id": "p001.s06",
-     "source": "All four rise in the plateau, the two former emptying into the Persian Gulf, and the latter two into the Caspian Sea."
-    },
-    {
-     "id": "p001.s07",
-     "source": "The Euphrates divides the country into what is known as great and little Armenia, or Armenia major and Armenia minor, Armenia major on the east and Armenia minor on the west."
-    },
-    {
-     "id": "p001.s08",
-     "source": "Although the valleys are generally broad expanses of arable land, grass covered and treeless, the gorges of the Euphrates and Tigris can not be surpassed in grandeur and wildness."
-    },
-    {
-     "id": "p001.s09",
-     "source": "The winters are long and severe, and the summers short, dry, and hot."
-    },
-    {
-     "id": "p001.s10",
-     "source": "In the city of Erzerum the range of temperature is from -22° to 84°, and snow is usually present in June."
+     "source": "But since the audience is made up of people who are comparatively unacquainted with my native land and its traditions, naturally they will like to know who the story-teller is, where he got his narratives, and by whom and how his tales were first told."
     }
    ],
    "id": "p001"
@@ -69,71 +37,35 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "In consequence of the long and severe winters the villages are built on gentle slopes of the hillsides in which the houses are excavated."
+     "source": "About twenty years ago I was a boy living in a village on the heights of the Taurus Mountains in Cilicia, or Lesser Armenia, not far from the Mediterranean Sea."
     },
     {
      "id": "p002.s02",
-     "source": "Robert Curzon, who traveled through the country about 1850, has written the best description of them."
+     "source": "Like boys and girls all over the world, I was very fond of stories; but there were no story-books or other reading matter with which I and other children of my age could gratify our eager desire for stories."
     },
     {
      "id": "p002.s03",
-     "source": "A rectangular plot of ground about the size of an English acre is laid out and excavated to a depth of seven or eight feet at the back side, decreasing gradually with the slope of the hill to a depth of about two feet."
+     "source": "But better than these were the aged folks who told us all the interesting stories which our inquisitive childhood required."
     },
     {
      "id": "p002.s04",
-     "source": "After a careful leveling of the ground, trunks of straight trees are cut and arranged in rows for the support of the ceiling, which consists of cross-beams interspersed by a wooden frame-work upon which the removed soil is laid to a considerable thickness."
+     "source": "I had two grandmothers and half a dozen aunts, all unlettered country people, who took great delight in a rich store of folk-lore and fairy tales, and who told me the most entertaining and delightful stories that I have ever heard."
     },
     {
      "id": "p002.s05",
-     "source": "The walls are made of stone."
+     "source": "In every village home there were one or two such old people, who entertained the youth of their respective homes."
     },
     {
      "id": "p002.s06",
-     "source": "In entering the habitation at the lower slope of the hillside, one is obliged to descend three or four steps to the outer door, which opens to a passage six to ten feet in length, at the end of which is a second door, constructed of wood like the first."
+     "source": "During the long winter evenings we boys and girls gathered together around the village hearth to listen to the old man or aged woman rehearsing tales of fairies, giants, genii, dragons, knights, winged beauties, captive maidens, and other thousand and one mysterious beings."
     },
     {
      "id": "p002.s07",
-     "source": "This door swings to through the operation of a curious wooden weight passed over a kind of pulley, in order to keep the outside cold from entering the inner chamber."
+     "source": "I need not say how, with utmost interest, our youthful minds used to follow the details of these vivid and picturesque stories, drinking in every word with the greatest avidity."
     },
     {
      "id": "p002.s08",
-     "source": "The inside of the door is usually covered with a rough, red-dyed goatskin."
-    },
-    {
-     "id": "p002.s09",
-     "source": "Directly before the inner door is a wooden platform raised some two feet above the ground and known in Turkish as the “Salamlik,” the hall of reception of the head of the family."
-    },
-    {
-     "id": "p002.s10",
-     "source": "Chairs and tables it possesses none, only divans richly draped with Kurdish stuffs placed against the stone walls that bound the two sides of the platform."
-    },
-    {
-     "id": "p002.s11",
-     "source": "The floor is carpeted with tekeke, a kind of grey felt, and the walls are decorated with swords, knives, pistols, and other weapons."
-    },
-    {
-     "id": "p002.s12",
-     "source": "On the other two sides, the Salamlik is bounded by wooden rails to keep away the sheep and cattle which occupy the greatest proportion of floor space, and whose breathing helps materially to keep the chamber warm."
-    },
-    {
-     "id": "p002.s13",
-     "source": "The other members of the household are confined behind the stone wall where the space is sometimes split up into two or more chambers for the various families of the patriarchal household."
-    },
-    {
-     "id": "p002.s14",
-     "source": "One of these rooms is the common eating-room, and is provided with an open hearth, fireplace, and chimney which leans forward over the fireplace and draws up the smoke through a hole in the turf-covered roof."
-    },
-    {
-     "id": "p002.s15",
-     "source": "A great stone is placed over the chimney to keep children at play and grazing animals from falling through."
-    },
-    {
-     "id": "p002.s16",
-     "source": "In traveling through the country on horseback, particular care must be taken lest the horse step through an old chimney hole and break his leg."
-    },
-    {
-     "id": "p002.s17",
-     "source": "The windows are funnel shaped holes through the ceiling spanned with oiled paper."
+     "source": "This was true not only of children but of grown-up people also, whose principal pastime, during the long and tedious winter nights, was the rehearsing of folk-tales and fairy stories, or listening to others as they told them."
     }
    ],
    "id": "p002"
@@ -143,23 +75,23 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Such is the Armenian household in which the people live day and night during eight winter months of the year in the coldest section of the country, as Erzerum and Mush."
+     "source": "These circumstances gave me opportunity and power to commit to memory a great number of tales and rehearse them whenever there was a favorable occasion."
     },
     {
      "id": "p003.s02",
-     "source": "That many of the evenings were passed in listening to the tales and gossip of a wandering minstrel, or to the legends and folk-beliefs of the grey-haired members of the family, there can be no doubt."
+     "source": "By this means I improved and increased my store of tales so much that I became quite a noted story-teller in our village, at a time when I was but a mere lad."
     },
     {
      "id": "p003.s03",
-     "source": "That the national tradition was passed on in this manner from the aged to the younger, to be again passed on in their turn, is a matter of as much certainty as that part at least of this same tradition has been preserved through the continually recurring storms of the passing centuries."
+     "source": "Subsequently, both during my college course in Aintab, Cilicia, and during the period when I was a teacher in Erzroom, of Armenia proper, I had the opportunity to travel a great deal and to study the life and manners of the Armenians in their primitive homes."
     },
     {
      "id": "p003.s04",
-     "source": "The recounting of national legends and folk-lore is a chief means of amusement even in the warmer sections of the country, where the climate makes a free community life possible."
+     "source": "I found the same fairy stories and folk-tales current everywhere, with such slight differences only as the people made when appropriating the tales to their own surroundings and to their fund of knowledge."
     },
     {
      "id": "p003.s05",
-     "source": "How much more place, then, must it have had in these colder sections where only the head of the family ever left the household in winter-time, and then only in case of absolute necessity."
+     "source": "At that time it occurred to my mind that it would be a good plan to make a collection of these tales in order to make use of them some day, and so I kept notes of the tales just as they were told by the common, unlettered country people."
     }
    ],
    "id": "p003"
@@ -169,39 +101,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "As has been suggested, this style of dwelling-place is not common to all parts of Armenia."
+     "source": "Bishop Sirwantzdiants, an Armenian clergyman, also made a collection of Armenian folk-tales, taking them from the mouth of the people just as they were told."
     },
     {
      "id": "p004.s02",
-     "source": "In some places the houses are built entirely above ground, usually of stone, and sometimes, especially in the case of the poorer inhabitants, of mud."
+     "source": "He published his collection in two separate books."
     },
     {
      "id": "p004.s03",
-     "source": "Though the winters are not so long or severe as in the district of Erzerum, they are nevertheless sufficiently cold to require a fire six or seven months of the year."
-    },
-    {
-     "id": "p004.s04",
-     "source": "The characteristic feature of every living- and dining-room is the large “toneer” or circular fireplace dug out to a depth of three to four feet in the center of the room."
-    },
-    {
-     "id": "p004.s05",
-     "source": "Here the fire is built in the morning, usually with “tezek,” the most common variety of fuel which is a sun-baked mixture of straw and sheep or cow dung."
-    },
-    {
-     "id": "p004.s06",
-     "source": "The bread is baked and the meals are cooked in the “toneer” and when it is time to eat, the members sit about the open space, letting their feet hang over the fire to keep warm."
-    },
-    {
-     "id": "p004.s07",
-     "source": "In the hut described by Montpèreux, there was but a single opening in the roof which served for window and chimney at the same time, and which was often carefully sealed up with straw to keep out the cold."
-    },
-    {
-     "id": "p004.s08",
-     "source": "This author has given a clear picture of the common family fireplace and sleeping chamber in which each person fell asleep as best he might upon rugs and skins, keeping as near the “toneer” as possible."
-    },
-    {
-     "id": "p004.s09",
-     "source": "And if the traditions, legends, and folk-lore that will make up the body of this thesis are the common possession of the people, as I have reason to believe them to be, in spite of drastic measures taken to suppress them, how better could they have been told and retold than while lounging about the “toneer” during long winter evenings before sleeping time?"
+     "source": "The first, “Manana” (Manna), was printed in Constantinople in 1876 by the Dindessian Printing-press (since closed), and the second, “Hamov-Hodov” (Delicious and Fragrant), was printed in Constantinople in 1884 by the Bagdadlian Printing-press."
     }
    ],
    "id": "p004"
@@ -211,31 +119,19 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "In what other respects the natural environment of the people moulded the common life, one can only conjecture."
+     "source": "My personal notes of Armenian tales and these two books of Bishop Sirwantzdiants have furnished the material of the present volume."
     },
     {
      "id": "p005.s02",
-     "source": "That the cold winters and deep river valleys have tended to the formation of isolated communities, clannishness, and provincialism, as is contended by some writers, has not generally been true."
+     "source": "As the Bishop and myself made our collections independently in different districts of Armenia, our texts naturally differed from each other in some points."
     },
     {
      "id": "p005.s03",
-     "source": "Tidal waves of conquering civilizations have passed over the country too frequently to make such an influence possible."
+     "source": "But the two being substantially the same, in putting the stories into English I have followed the one which I thought to be the most original, taking all the circumstances into consideration."
     },
     {
      "id": "p005.s04",
-     "source": "Furthermore the people are bound together by a national religion, whose chief officials are chosen by the lay members and priesthood of the many communities."
-    },
-    {
-     "id": "p005.s05",
-     "source": "These representatives to the national religious assemblies return to their own people brimming with news and reports of political as well as religious and social matters."
-    },
-    {
-     "id": "p005.s06",
-     "source": "Such facts together with a common ancestry, a common tradition, and a common language have moulded a nation, and not a thousand differentiated groups among a people who were once a nation."
-    },
-    {
-     "id": "p005.s07",
-     "source": "They have tended to solidify and unify the national character, and it is just this process of solidification that gives significance to the whole fabric of beliefs, legends, and festivals of the people."
+     "source": "Let me here emphasize the point again that all the stories that appear in the present volume were taken down directly from the lips of the ignorant, unlettered peasantry of Armenia, literally without any embellishment or addition whatever, except in the case of rude and unbecoming expressions which had to undergo some slight change."
     }
    ],
    "id": "p005"
@@ -245,19 +141,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "As a nation, the Armenian people are exclusive, but this is an entirely different matter."
+     "source": "How those unlettered, ignorant people came into possession of these stories, and what the value of such tales is to the student of antiquity and ethnology, are questions which I will not venture to answer."
     },
     {
      "id": "p006.s02",
-     "source": "For three years I have had occasion to observe groups of students belonging to different nations, chiefly Egyptians, Syrians, Greeks, Jews, Persians, Turks, and Armenians, and the latter always showed a most persistent determination to confine their friendships and social intercourse to themselves."
-    },
-    {
-     "id": "p006.s03",
-     "source": "Perhaps this is due to the fact that nearly all of the nations above mentioned have at one time or another dominated the Armenians; perhaps it is due to the persecution they have recently suffered, which, though it has been a sufficiently important fact to result in serious social and psychological changes, has by no means been characteristic of the history of the people, as it has been, for example, of the Jews; or perhaps it is due to the solidarity and oneness of the people as a whole."
-    },
-    {
-     "id": "p006.s04",
-     "source": "I am inclined rather to the latter explanation, and may perhaps be able to prove it so."
+     "source": "I wish, however, to make a few statements which have been suggested to me by the study of the Armenian folk-tales and fairy stories."
     }
    ],
    "id": "p006"
@@ -267,34 +155,59 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Nevertheless, the singularity of the physical environment has placed its irremovable stamp upon the people."
+     "source": "The history of the Armenians is greatly mixed up with mythology and tradition, as is the case with the history of all ancient nations."
     },
     {
      "id": "p007.s02",
-     "source": "The words that best describe the country are not trees, hills, forests, gently flowing streams, such words as commonly express American landscape, but rather, gorges, mountain ranges, broad river valleys, treeless expanses of country."
+     "source": "Many of the legends given in the written history of Armenia bear a marked similarity to the folk-tales of the present day."
     },
     {
      "id": "p007.s03",
-     "source": "There is space to make one think of other worlds and other shores, and there are mountains suggestive of strength, that rise majestic above the plateau, to fill one with awe and wonder."
+     "source": "The peculiar geography of Armenia must have had a great deal to do with the formation of these tales."
     },
     {
      "id": "p007.s04",
-     "source": "Religious the people are naturally, but more than that, they are thoughtful, reflecting, considering."
+     "source": "High, inaccessible mountain ranges have divided the country into such distinct divisions that the inhabitants of one section have, even in the present time, very strange ideas with regard to the people of the other section, attributing to one another magic, witchcraft and other superhuman powers and practices."
     },
     {
      "id": "p007.s05",
-     "source": "No writer that I have read but has spoken of the Armenian as intellectually alert and capable."
+     "source": "This, of course, was still more so in olden times, when the population of the country had not yet been fused together into one nation."
     },
     {
      "id": "p007.s06",
-     "source": "That this thoughtfulness, this robust element in their idealism is in part the stamp of physical nature, there can be little doubt."
+     "source": "That was probably the time when most of these tales were formed."
     }
    ],
    "id": "p007"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "S. Baring-Gould supposes that many of the fairy tales current among all nations took their beginning at a time when a conquering people of one race lived among the conquered people of an entirely different race."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Thus “two distinct races dwelt in close proximity, not comprehending each other, each suspicious of and dreading the other, and each investing the other with superhuman powers or knowledge.”"
+    },
+    {
+     "id": "p008.s03",
+     "source": "[See “Fairy Tales from Grimm” Preface, pp. xvi. and xxi.]"
+    },
+    {
+     "id": "p008.s04",
+     "source": "There are many instances in Armenian history which confirm this supposition, so that in the case of such tales or portion of tales as are purely Armenian, we may suppose that the process of fusion of two ancient races, one the conquering and the other the conquered, has given birth to them."
+    },
+    {
+     "id": "p008.s05",
+     "source": "Although all the tales contained in this volume are taken directly from the lips of the Armenians, it will be noticed that some of them bear traces of Persian, Arabic and Turkish influence."
+    },
+    {
+     "id": "p008.s06",
+     "source": "This, of course, was naturally to be expected, as the Armenians have been ruled successively by these nations."
+    }
+   ],
    "id": "p008"
   },
   {
@@ -302,11 +215,15 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Detailed descriptions of geography and geology may be found in Lynch, Armenia ; St. Martin, Mémoire sur l’Arménie , 2."
+     "source": "But one of the greatest factors in the formation of the distinctively Armenian tales was, no doubt, Mount Ararat."
     },
     {
      "id": "p009.s02",
-     "source": "Summary descriptions may be found in the New Schaff Herzog and Britannica encyclopedias."
+     "source": "That majestic mountain, situated in the middle of an extensive plateau in the heart of Armenia, and seen from points distant a three or four days’ journey, would naturally draw the attention of the people."
+    },
+    {
+     "id": "p009.s03",
+     "source": "The many mythological and historical facts attached to it; its hoary, inaccessible peak covered with everlasting snow; its towering heights piercing the sky; its high, steep precipices; its deep cañons; its underground caverns; its fierce storms, and the wild beasts and large birds living on its slopes—would naturally give birth to half-true and half-imaginary stories which gradually and by lapse of time would grow into legendary tales."
     }
    ],
    "id": "p009"
@@ -316,7 +233,11 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Robert Curzon, Armenia ."
+     "source": "These are not the only folk-tales current among the Armenians; there are a great many more."
+    },
+    {
+     "id": "p010.s02",
+     "source": "We may be tempted to make another collection if this one proves acceptable."
     }
    ],
    "id": "p010"
@@ -326,7 +247,15 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Dubois de Montpèreux, Voyages 3:400."
+     "source": "Before closing these notes, I have to confess that my use of English is defective, owing to the fact that it is not my mother tongue."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Consequently I owe a great deal to generous friends who have been so kind as to take up my manuscript and pass upon it before it was given to the press, smoothing the narrative without destroying the personality of the story-teller."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Among these generous friends I take pleasure in mentioning the names of Mr. W. H. Brett, Librarian of the Cleveland Public Library; Mr. Wallace W. Newell, Secretary of the American Folk-Lore Society; Miss Alice Stone Blackwell, the noted poetess and editor of the Woman’s Journal , and my publishers."
     }
    ],
    "id": "p011"
@@ -336,15 +265,15 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "There is a belief that the toneer is sacred."
+     "source": "Now, I do not see how to remunerate these friends for their valuable assistance to me unless I share with them the “three apples” which fall from Heaven at the end of each tale, and which I had to appropriate to myself as a genuine story-teller."
     },
     {
      "id": "p012.s02",
-     "source": "“Nur der alte T’onir, der offen Backofen, der von den Iraniern entlehnt ist und am fünften Jahrhundert schon gebraucht wird, gilt überall in Armenien als heilig.”"
+     "source": "This I gladly do."
     },
     {
      "id": "p012.s03",
-     "source": "Abeghian, Der armenische Volksglaube p. 3."
+     "source": "May they prove as pleasant to them, and the stories be as interesting to you, as has been the re-telling of them to me."
     }
    ],
    "id": "p012"
@@ -354,24 +283,10 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Surrounded as Armenia was with almost all of the ancient civilizations, including the Parthians, Scythians, Medes, Assyrians, Babylonians, Persians, Greeks, and Romans, she was inevitably involved in continual warfare, while the central situation of the territory made it a common stamping ground for hostile armies."
-    },
-    {
-     "id": "p013.s02",
-     "source": "Langlois 1:ix."
+     "source": "A. G. Seklemian."
     }
    ],
    "id": "p013"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p014.s01",
-     "source": "Ormanian, The Church of Armenia pp. 151–54."
-    }
-   ],
-   "id": "p014"
   }
  ]
 }

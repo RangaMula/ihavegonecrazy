@@ -1,0 +1,64 @@
+{
+ "id": "am-chile-063",
+ "title": {
+  "id": "title",
+  "source": "Tesoros"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/063 - Tesoros.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 6,
+  "words": 87
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Informaciones :"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "I.—Los entierros están siempre en pailas de cobre y a los pies de un boldo o de una patagua."
+    },
+    {
+     "id": "p002.s02",
+     "source": "En la noche, entre 7 y 8, salen candelillas del punto en que está oculto el tesoro."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "II.—Cuando se encuentra un entierro, se toma de él nada más que una moneda, que se guarda sin gastarla, durante un año."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Transcurrido el año se puede sacar lo demás."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Al hallar el entierro, se deben mandar decir cinco misas por el alma del que fué dueño del tesoro."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

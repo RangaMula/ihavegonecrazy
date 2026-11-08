@@ -1,0 +1,148 @@
+{
+ "id": "af-southern-africa-regional-tales-022",
+ "title": {
+  "id": "title",
+  "source": "Bana ba kerese"
+ },
+ "tradition": "Southern Africa (regional tales)",
+ "continent": "Africa",
+ "source_lang": "tn",
+ "source_book": "African Storybook — traditional tales retold (CC BY 4.0)",
+ "credits": "Southern African Folktale Lorato Trok Wiehan de Jager (story, illustration and translation credits as listed by African Storybook)",
+ "gutenberg": "African Storybook story #2519 — https://www.africanstorybook.org/ (search the title)",
+ "copyright": "Creative Commons Attribution 4.0 (CC BY 4.0). Free to copy, translate and adapt for any purpose, including commercial, as long as you credit the original author(s), illustrator(s) and African Storybook and link to the licence: https://creativecommons.org/licenses/by/4.0/",
+ "markdown_file": "Africa/Southern Africa (regional tales)/022 - Bana ba kerese.md",
+ "stats": {
+  "paragraphs": 11,
+  "segments": 15,
+  "words": 163
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Bogologolo tala go kile ga nna lelapa lengwe le le itumetseng."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Bana ba ne ba utlwana mme ba sa rate ntwa."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Ba ne ba thusa batsadi ba bona kwa gae le kwa masimong."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Mme ba ne ba sa letlelelwa go atamela fa thoko ga molelo."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Ba ne ba letlelelwa fela go dira ditiro tsa bona bosigo."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Mme mongwe wa basimane o ne a eletsa go bona letsatsi."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Ka letsatsi lengwe keletso ya gagwe e ne ya mo fenya."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Basimane ba bangwe ba ne ba mo kgalema."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Mme go ne so setse go le thari!"
+    },
+    {
+     "id": "p007.s02",
+     "source": "O ne a tlhapologa mo letsatsing."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Bana ba kerese ba ne ba utlwa botlhoko go bona o mongwe wa bona a tlhapologa."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Mme ba ne ba dira leano."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Ba ne ba tsaya kerese e e tlhapologileng ba e aga go nna nonyane."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Ba ile ba tsaya nonyane e ba e baya kwa godimo ga thaba."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Fa letsatsi le tlhaba, o ile a fofela kwa godima a opela a itumetse."
+    }
+   ],
+   "id": "p011"
+  }
+ ]
+}

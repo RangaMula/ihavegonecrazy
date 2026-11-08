@@ -4,7 +4,7 @@
 - **Source book:** *Algonquin Indian Tales*
 - **Author / collector / translator:** Young, Egerton Ryerson (author, d. 1909)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #10891 — https://www.gutenberg.org/ebooks/10891 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #10891 — https://www.gutenberg.org/ebooks/10891
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

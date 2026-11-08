@@ -2,20 +2,20 @@
  "id": "af-san-people-006",
  "title": {
   "id": "title",
-  "source": "Die Berge is die oudste Dogter"
+  "source": "Die Weerklank, of Echo"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
  "source_book": "Boesman-Stories. Deel 1, Mitologie en legendes",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #62330 — https://www.gutenberg.org/ebooks/62330 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #62330 — https://www.gutenberg.org/ebooks/62330",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/006 - Die Berge is die oudste Dogter.md",
+ "markdown_file": "Africa/San people/006 - Die Weerklank, of Echo.md",
  "stats": {
-  "paragraphs": 15,
-  "segments": 31,
-  "words": 820
+  "paragraphs": 31,
+  "segments": 79,
+  "words": 1163
  },
  "paragraphs": [
   {
@@ -23,11 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "OPMERKINGS:—In hierdie Storie word ons vertel omtrent die ontstaan van Berge."
-    },
-    {
-     "id": "p001.s02",
-     "source": "Die verteller het die oudste suster altijd ’Kou genoem, wat berg in die Boesmantaal beteken ."
+     "source": "OPMERKINGS:—In hierdie Storie word die Weerklank voorgestel as ’n Gees wat mense bedrieg, bespot en weglok."
     }
    ],
    "id": "p001"
@@ -37,15 +33,23 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "’Kou , die oudste Dogter, en haar man, die seun van die Hotnotsgod, het vir hulle hutte van bossies gemaak en daarin gewoon."
+     "source": "Die Weerklank, of Echo, is die dogter van die Berge—haar pa is die Wind, wat deur sij dogter spreek."
     },
     {
      "id": "p002.s02",
-     "source": "Sij het nooit die snoer van Skilpaddoppies van haar hals afgehaal nie; so was daar baie Skilpaaie, en sij kon net soveel vang om te eet as sij wil."
+     "source": "Sij is ’n spotter, wat van korswil nooit moeg word nie."
     },
     {
      "id": "p002.s03",
-     "source": "Sij word toe so gek na Skilpadvleis dat sij glad geen lus vir ander kos krij nie—sij wou net Skilpadvleis eet en niks anders nie."
+     "source": "Die een wat sij uitkoggel, sal moeg en kwaad word, maar die Weerklank nooit nie!"
+    },
+    {
+     "id": "p002.s04",
+     "source": "Hoe meer iemand lag of huil, sing of skel, hoe mooier dit vir haar is."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Sonder een woord uit te laat, sê sij as sij alleen is, alles na wat ’n ander uiter."
     }
    ],
    "id": "p002"
@@ -55,23 +59,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Maar ’n Skilpad is ’n diertjie wat stadig loop en lui is—so het ’Kou ook stadig en lui geword."
+     "source": "Sij woon daar bij haar ma in die berge: in die diep klowe waar klipkranse en afgronde is, daar is sij altijd te vinde."
     },
     {
      "id": "p003.s02",
-     "source": "As sij vir haarself gaan Skilpaaie daar nabij in die veld haal, dan neem dit amper die hele dag vir haar om die kort entjie daarheen en terug af te stap."
-    },
-    {
-     "id": "p003.s03",
-     "source": "Sij doen toe niks meer vir haar man en kind nie."
-    },
-    {
-     "id": "p003.s04",
-     "source": "Die man het eers met haar daaroor geraas en toe geslaan; maar hij kon net so goed met ’n Skilpad, of die klippies wat in die Skilpaddoppies was, geraas het."
-    },
-    {
-     "id": "p003.s05",
-     "source": "Die man moes toe voortaan maar alles self alleen doen—ja, hij moes selfs gaan om vir haar Skilpaaie te vang."
+     "source": "Ofskoon sij lank kan stilblij en nooit uit haar eie gesels nie, slaap sij nooit nie; want roep iemand, dan gee sij dadelik antwoord; sij is altijd wakker."
     }
    ],
    "id": "p003"
@@ -81,7 +73,31 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Hij het altijd gaan jag en veldkos gaan haal, waarvan hij en die kind gelewe het; want hulle twee wou nie Skilpadvleis alleen eet nie, uit vrees dat hulle ook net so lui as ’Kou sou word."
+     "source": "Die man wat eerste Musiek uitgevind het, se naam is Speelman."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Hij het vir hom verskillende trompetters van Wildhorings gemaak."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Van fluitjiesriet het hij fluite gemaak."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Snaarinstrumente het hij van snare van Wildderms gemaak."
+    },
+    {
+     "id": "p004.s05",
+     "source": "Selfs ’n tamboer het nie makeer nie: hij het ’n pot geneem en het daaroor ’n Springbokvel getrek waarvan die hare afgemaak was."
+    },
+    {
+     "id": "p004.s06",
+     "source": "Speelman kon o, so mooi sing en speel."
+    },
+    {
+     "id": "p004.s07",
+     "source": "Daarom het hij iemand gesoek wat ook net so pragtig kan sing en speel as hij; maar hij kon die persoon nie vind nie."
     }
    ],
    "id": "p004"
@@ -91,7 +107,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Een dag was die man weg veld-toe om te gaan jag, toe kom daar ’n Bobiaan en vra aan die kind, waar sij ma is, want hij wil die riempie hê waarmee die Skilpaddoppies om haar nek ingesnoer is."
+     "source": "Die mense vertel hom toe dat daar in die klowe so ’n mooi jongmeid woon, wat net so mooi kan sing en speel."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Haar naam is Weerklank—ander noem haar Echo."
     }
    ],
    "id": "p005"
@@ -101,7 +121,19 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Die kind wou nie vertel waar sij ma is nie, so sê die Bobiaan aan die kind dat hij daardie riempie wil hê, want dit was gemaak van die vel van sij broer, en sê dat hij die volgende dag weer sou kom en dan sou hij die riempie van ’Kou haar nek met geweld kom afpluk."
+     "source": "Speelman stap toe na daardie klowe in die berge toe."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Hij begin op sij wildhoring te blaas, en toe hij antwoord krij, begin hij te sing."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Was hij nie verwonderd nie toe hij hoor dat Echo nog mooier as hij kan sing?"
+    },
+    {
+     "id": "p006.s04",
+     "source": "Want ’n weerklank klink altijd mooier as die stem wat dit weerkaats."
     }
    ],
    "id": "p006"
@@ -111,7 +143,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Toe die man thuis kom, vertel die kind aan hom hoe brutaal die Bobiaan was, en smeek sij pa om tog die ander dag nie veld-toe te gaan nie, maar thuis te blij."
+     "source": "Hij roep: “Waar is jij!”"
     }
    ],
    "id": "p007"
@@ -121,7 +153,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Die volgende dag kom die Bobiaan net soos hij gesê het, en hij herhaal sij eis; dog die man grijp na sij pijl en boog en dreig om die Bobiaan te skiet as hij nie op die daad weggaan nie."
+     "source": "Die antwoord kom: “Waar is jij?”"
     }
    ],
    "id": "p008"
@@ -131,11 +163,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Die Bobiaan, wat ook een van die ougeslag se mense was, sê dat hij sal loop, maar waarskuw ’Kou dat hij die volgende dag met ’n kommando van sij broers sou kom om die riempie te haal, en dan sal hulle die hutte meteens flenters breek."
-    },
-    {
-     "id": "p009.s02",
-     "source": "Daarop stap hij brom-brom weg."
+     "source": "Hij antwoord: “Hier is ek; kom jij hiernatoe!”"
     }
    ],
    "id": "p009"
@@ -145,7 +173,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Die man gaan toe gouw veld-toe om kos in die huis te bring en hij maak hom gereed vir die aanval op die volgende dag."
+     "source": "Die Echo roep: “Hier is ek; kom jij hiernatoe!”"
     }
    ],
    "id": "p010"
@@ -155,7 +183,19 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Net soos hij gesê het, kom die Bobiaan die volgende dag met ’n groot geselskap van sij famielie."
+     "source": "Speelman staan op en loop daarnatoe."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Onderwijl speel hij op sij ramkie."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Maar toe hij nader bij die plek kom, toe verplaas die klank haar en gee antwoord van glad ’n ander krans af."
+    },
+    {
+     "id": "p011.s04",
+     "source": "Die musiek van die Weerklank was vir hom te mooi."
     }
    ],
    "id": "p011"
@@ -165,31 +205,11 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Die Hotnotsgod, die vader van die man, sit die speletjies bedaard aan te kijk."
+     "source": "Hij roep: “Waarheen loop jij nou?"
     },
     {
      "id": "p012.s02",
-     "source": "Hij verander die man, wat sij seun is, in ’n groot Voël, en die kind verander hij in die Weerklank, of Echo."
-    },
-    {
-     "id": "p012.s03",
-     "source": "Die Voël vlie op en maak ’n groot wind met sij vlerke, sodat daar ’n dik stof kom en die Weerklank maak ’n groot geraas."
-    },
-    {
-     "id": "p012.s04",
-     "source": "Toe die Voël in die rondte warrel, ontstaan daar ’n vreeslike warrelwind, wat klippers en stukke hout rondsmijt."
-    },
-    {
-     "id": "p012.s05",
-     "source": "Hier krij ’n Bobiaan ’n slag met ’n klip teen die kop, daar ’n ander ’n houw met ’n stuk hout, en die sand en stof dwarrel so verskriklik in die oë van die Bobiane dat hulle verplig was om uitmekaar te spat en op vlug te gaan."
-    },
-    {
-     "id": "p012.s06",
-     "source": "In hulle vlug, daar vér vandaan, roep hulle uit: “Wag maar, ons sal ’Kou nooit met rus laat nie—op haar graf sal ons rondstap en die klippe daarvan sal ons gedurig omkrap en omrol.”"
-    },
-    {
-     "id": "p012.s07",
-     "source": "Maar in ieder geval stap hulle skel-skel voort."
+     "source": "Wag, ek kom na jou toe!”"
     }
    ],
    "id": "p012"
@@ -199,11 +219,11 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Maar ’Kou het bij die dag luier en luier geword: sij raak toe in slaap, en sij slaap, slaap, slaap tot vandag toe nog."
+     "source": "Sij roep: “Waarheen loop jij nou?"
     },
     {
      "id": "p013.s02",
-     "source": "Sij het in haar slaap in ’n groot berg verander, om nooit weer wakker te word nie."
+     "source": "Wag, ek kom na jou toe!”"
     }
    ],
    "id": "p013"
@@ -213,11 +233,19 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Toe die Bobiane sien hoe ’Kou in berge verander het, was hulle net blij, en uit weerwraak gaan hulle daar op die berge rinkink; want hulle het ’Kou mos gesweer dat hul haar graf nie met rus sou laat nie en het haar voorspel dat hulle die klippe van haar graf gedurig sou omkeer en rondrol."
+     "source": "Hij gaan sit en wag en hou aan sing en speel."
     },
     {
      "id": "p014.s02",
-     "source": "En hulle maak vandag nog so en sal so maak tot solank as daar nog ’n Bobiaan te vinde is om klippe om te rol."
+     "source": "Maar nou hoor Speelman dat die stem van meer as een plek kom."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Dit maak hom nog meer nuwsgierig en ongeduldig."
+    },
+    {
+     "id": "p014.s04",
+     "source": "En wat nog meer sij nuwsgierigheid en geduld op die proef stel, is dat die stemme glad nie nader kom nie, maar blij waar dit is."
     }
    ],
    "id": "p014"
@@ -227,10 +255,269 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "’Kou , die berge, is nie dood nie, maar rus in ’n ewige slaap."
+     "source": "Nou weet hij glad nie hoe hij dit het nie."
     }
    ],
    "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Hij begin toe agter die lokstemme aan te stap."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Hoe nader hij kom, hoe verder uitmekaar die stemme gaan—dan hoor hij een stem, dan twee, dan drie en dan meer."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Hij gee nie moed op nie en hou aan stap."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Hij dwaal toe so ver weg tussen die klowe en gebergtes dat hij eindelik in die gramadoelas te lande kom om daar te verdwaal."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Wel, in sulke gramadoelas het Speelman te lande gekom."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Stemme ontbreek nou nie."
+    },
+    {
+     "id": "p017.s03",
+     "source": "Die Echo laat haar steeds hoor; maar aan die gebrul van Leeuws, gehuil van Wolwe, getjank van Jakhalse en geblaf van Bobiane ontbreek dit nie—om nie eens van die gehoehoe van Uile te praat nie."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Toe, vir die eerste maal, gevoel Speelman hom in ’n benarde toestand."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Hij maak toe plan om terug te keer."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Maar watter kant toe nou?"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Hij het toe begin te dwaal en verdwaal."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Die eerste wat hom teëkom, was ’n trop Bobiane."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Die ou voorman van hulle vra aan Speelman wat hij daar op hulle veld kom soek."
+    },
+    {
+     "id": "p020.s04",
+     "source": "Die Bobiaanwijfies roep uit: “Snij sij bene af en gee dié aan ons, dat ons ook kan regop loop.”"
+    },
+    {
+     "id": "p020.s05",
+     "source": "Die Bobiaankinders roep uit: “Snij sij kop af, dat ons daarmee bal-bal kan speel; want dit lijk of dit nie kan breek nie.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Versigtig stap Speelman agteruit tot hij bij ’n boom kom en so gouw as ’n kat klim hij daarin."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Die voormanne van die Bobiane storm die boom; dog Speelman vat sij groot wildhoring en blaas so hard daarop dat die klowe daarvan weergalm."
+    },
+    {
+     "id": "p021.s03",
+     "source": "Die Bobiaankinders sit ’n keel op, hol weg en skree dat die berge wou vergaan."
+    },
+    {
+     "id": "p021.s04",
+     "source": "Die Bobiaanwijfies vlug agter hulle kinders aan, en al die ander volg en spaander die rant oor."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Toe klim Speelman uit die boom en vlug."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Hij moes toe sij weg baan deur Tiere, Wolwe en Jakhalse, wat algaar dreig om hom te verskeur."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Maar geeneen durf aan hom vat as hij op sij musiekinstrumente blaas of speel nie."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Hij was moeg, honger, dors en uitgeput en gaan toe sit en rus; dog ongelukkig val hij in slaap."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Toe hij wakker skrik, het ’n Leeuw hom aan sij toegedraaide karos."
+    },
+    {
+     "id": "p023.s03",
+     "source": "Speelman hou asem op en maak of hij dood is."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Die Leeuw dra hom toe weg om hom aan sij kinders te gee."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Maar die Leeuw word moeg van dra en gaan toe rus."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Hij lê Speelman op die grond neer, maar kijk eers goed of hij wel regtig dood is."
+    },
+    {
+     "id": "p024.s04",
+     "source": "Daarop gaan die Leeuw op ’n kort afstand agter ’n klip staan en loer om die hoekie of Speelman nie roer nie."
+    },
+    {
+     "id": "p024.s05",
+     "source": "Maar Speelman het wel effe sij kop gedraai om te kijk wat die Leeuw nou wil maak."
+    },
+    {
+     "id": "p024.s06",
+     "source": "Die Leeuw kom terug en draai Speelman se kop weer soos dit gelê het en hij gaan toe weer agter daardie groot rots staan en loer—want dis die ou gewoonte van Leeuws om soiets te doen om uit te vind of die een regtig dood is."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Speelman draai toe sij kop effe, net dat hij met een oog kan sien wat die plan van die Leeuw is."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Die Leeuw stap verder en staan weer bo oor ’n rantjie te loer."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Hij stap weg, maar kom dadelik gouw weer terug om te loer."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Speelman lê nog stil."
+    },
+    {
+     "id": "p026.s04",
+     "source": "Maar toe die Leeuw verdwijn en so lank nie kom kijk nie, spring Speelman op, klouter ’n steil krans uit en verdwijn aan die anderkant van die rantjie."
+    },
+    {
+     "id": "p026.s05",
+     "source": "Toe die Leeuw met sij kinders terugkom, was Speelman baie weg."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Die Leeuw kon die spore van Speelman oor die steil kranse nie volg nie, en so het Speelman vrijgekom."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "En na lank rondgedwaal te hê, het Speelman sij huis bereik."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Op hierdie manier het die Weerklank baie mense wat die Echo nie ken nie, verlei en het hul nes blinde laat ronddwaal en verdwaal tot iemand die verdwaaldes weer tereg help."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Die woord gramadoelas is ’n Afrikaanse woord, wat beteken ’n aaneengeskakelde, woeste en onbewoonde gebergte, waar ’n mens net sien koppe, rante, klowe, kranse, afgronde en houtbosse, wat algaar met ’n blouwkristalhemelgewelf oordek is. ↑"
+    }
+   ],
+   "id": "p031"
   }
  ]
 }

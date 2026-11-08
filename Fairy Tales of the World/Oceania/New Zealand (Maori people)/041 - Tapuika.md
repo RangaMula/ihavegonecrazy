@@ -5,7 +5,7 @@
 Illustrated by Translations of Traditions, Karakia, &c., to Which Are Added Notes on Maori Tenure of Land*
 - **Author / collector / translator:** Shortland, Edward (author, d. 1893)
 - **Original language of this text:** ['en', 'mi']
-- **Source:** Project Gutenberg eBook #42218 — https://www.gutenberg.org/ebooks/42218 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #42218 — https://www.gutenberg.org/ebooks/42218
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

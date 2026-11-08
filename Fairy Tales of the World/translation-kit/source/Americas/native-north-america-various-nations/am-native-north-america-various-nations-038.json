@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-038",
  "title": {
   "id": "title",
-  "source": "The Queer Little Animal"
+  "source": "Old-Man Remakes The World"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Thirty Indian Legends",
- "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/038 - The Queer Little Animal.md",
+ "source_book": "Indian Why Stories: Sparks from War Eagle's Lodge-Fire",
+ "credits": "Linderman, Frank Bird (author, d. 1938)",
+ "gutenberg": "Project Gutenberg eBook #606 — https://www.gutenberg.org/ebooks/606",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/038 - Old-Man Remakes The World.md",
  "stats": {
-  "paragraphs": 8,
-  "segments": 66,
-  "words": 911
+  "paragraphs": 41,
+  "segments": 133,
+  "words": 2400
  },
  "paragraphs": [
   {
@@ -23,27 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "An Indian was once wandering across the prairie."
-    },
-    {
-     "id": "p001.s02",
-     "source": "He was tired and hungry and very lonely, too, for he had not seen a human being for many weeks."
-    },
-    {
-     "id": "p001.s03",
-     "source": "He lay down on the ground and fell asleep."
-    },
-    {
-     "id": "p001.s04",
-     "source": "While he was lying there, he dreamed that a small voice said, \"My grandson,\" to him."
-    },
-    {
-     "id": "p001.s05",
-     "source": "He wakened with a start and again heard the voice."
-    },
-    {
-     "id": "p001.s06",
-     "source": "It came from the grass near him, but he could see nothing."
+     "source": "The sun was just sinking behind the hills when we started for War Eagle's lodge."
     }
    ],
    "id": "p001"
@@ -53,11 +33,7 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "\"Pick me up,\" said the voice, \"and I shall be your friend forever."
-    },
-    {
-     "id": "p002.s02",
-     "source": "Put me in your belt and never lay me aside, and you will always have success.\""
+     "source": "\"To-morrow will be a fine day,\" said Other-person, \"for grandfather says that a red sky is always the sun's promise of fine weather, and the sun cannot lie.\""
     }
    ],
    "id": "p002"
@@ -67,35 +43,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "The Indian looked closely in the grass and saw a tiny creature."
+     "source": "\"Yes,\" said Bluebird, \"and he said that when this moon was new it travelled well south for this time of year and its points were up."
     },
     {
      "id": "p003.s02",
-     "source": "It was about the size of a baby mouse, and had no hair on its skin excepting a little bunch on the tip of its tail."
-    },
-    {
-     "id": "p003.s03",
-     "source": "He picked it up and sewed it in his belt."
-    },
-    {
-     "id": "p003.s04",
-     "source": "Then he travelled on until he came to a village where a tribe of Indians lived."
-    },
-    {
-     "id": "p003.s05",
-     "source": "A broad road ran through the centre of the village, but the strange thing was, that the lodges on one side of the road were empty, while those on the other side were filled with Indians."
-    },
-    {
-     "id": "p003.s06",
-     "source": "He walked boldly into the village."
-    },
-    {
-     "id": "p003.s07",
-     "source": "The people ran out to meet him, crying, \"Here is the being of whom we have heard so much."
-    },
-    {
-     "id": "p003.s08",
-     "source": "Welcome, Anishinaba.\""
+     "source": "That means fine, warm weather.\""
     }
    ],
    "id": "p003"
@@ -105,39 +57,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The chief's son was very kind to him and took him to his father's lodge."
-    },
-    {
-     "id": "p004.s02",
-     "source": "The people of this tribe spent most of their time in games and trials of strength."
-    },
-    {
-     "id": "p004.s03",
-     "source": "The trial they liked best was called The Freezing Water Trial; that was, they had to lie down in icy, cold water and let it freeze around them."
-    },
-    {
-     "id": "p004.s04",
-     "source": "The man who could stay the longest was considered the bravest."
-    },
-    {
-     "id": "p004.s05",
-     "source": "The next night they asked Anishinaba to try the test with them."
-    },
-    {
-     "id": "p004.s06",
-     "source": "He was quite willing and went with them to the place where the test was to be made."
-    },
-    {
-     "id": "p004.s07",
-     "source": "He kept on his belt, and so felt very comfortable, for the little animal made everything easy for him."
-    },
-    {
-     "id": "p004.s08",
-     "source": "The water began to freeze and the Indians called out, \"How are you feeling?\""
-    },
-    {
-     "id": "p004.s09",
-     "source": "He did not answer them."
+     "source": "\"I wish I knew as much as grandfather,\" said Fine-bow with pride."
     }
    ],
    "id": "p004"
@@ -147,47 +67,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "About midnight, he noticed they had stopped talking."
-    },
-    {
-     "id": "p005.s02",
-     "source": "He called out, \"How are you feeling now?"
-    },
-    {
-     "id": "p005.s03",
-     "source": "I am very warm.\""
-    },
-    {
-     "id": "p005.s04",
-     "source": "They did not answer him, so he arose and walked to where they were lying."
-    },
-    {
-     "id": "p005.s05",
-     "source": "They were frozen stiff."
-    },
-    {
-     "id": "p005.s06",
-     "source": "He went back to the camp and told the other Indians."
-    },
-    {
-     "id": "p005.s07",
-     "source": "Everybody declared that he was the bravest warrior, since he had not been frozen."
-    },
-    {
-     "id": "p005.s08",
-     "source": "The chief was so pleased with him that he gave him his daughter."
-    },
-    {
-     "id": "p005.s09",
-     "source": "The Indians went to fetch the bodies of the frozen men, but were surprised to find them changed into buffaloes."
-    },
-    {
-     "id": "p005.s10",
-     "source": "These animals went to live in the other side of the village; and after that, every one Anishinaba killed was changed into some kind of an animal and went into that part of the village to live."
-    },
-    {
-     "id": "p005.s11",
-     "source": "Very shortly the empty lodges were filled."
+     "source": "The pipe was laid aside at once upon our entering the lodge and the old warrior said:"
     }
    ],
    "id": "p005"
@@ -197,59 +77,23 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "One day Anishinaba lay down on the grass to have a sleep."
+     "source": "\"I have told you that OLD-man taught the animals and the birds all they know."
     },
     {
      "id": "p006.s02",
-     "source": "He had taken off his belt, and it lay in the long grass beside him."
+     "source": "He made them and therefore knew just what each would have to understand in order to make his living."
     },
     {
      "id": "p006.s03",
-     "source": "When he wakened, he forgot about it."
+     "source": "They have never forgotten anything he told them—even to this day."
     },
     {
      "id": "p006.s04",
-     "source": "This was the first time he had ever gone without the little animal since he came to the village."
+     "source": "Their grandfathers told the young ones what they had been told, just as I am telling you the things you should know."
     },
     {
      "id": "p006.s05",
-     "source": "That night some Indians who were unfriendly to him, asked him to try the freezing trial again."
-    },
-    {
-     "id": "p006.s06",
-     "source": "He consented, for he was not at all afraid."
-    },
-    {
-     "id": "p006.s07",
-     "source": "But still he did not think of his belt, and so the freezing water benumbed his body and in a short time he was frozen stiff."
-    },
-    {
-     "id": "p006.s08",
-     "source": "His enemies then cut his body into many pieces and scattered them over the village."
-    },
-    {
-     "id": "p006.s09",
-     "source": "His wife wept bitterly for many days."
-    },
-    {
-     "id": "p006.s10",
-     "source": "Then suddenly she remembered his belt, and went in search of it."
-    },
-    {
-     "id": "p006.s11",
-     "source": "She found it in the grass where he had slept."
-    },
-    {
-     "id": "p006.s12",
-     "source": "As she picked it up, the tiny voice said, \"Unpin me.\""
-    },
-    {
-     "id": "p006.s13",
-     "source": "She opened the little seam where the animal lay and out he came."
-    },
-    {
-     "id": "p006.s14",
-     "source": "He began to shake himself, and at each shake grew larger, until at last he was the size of a small dog."
+     "source": "Be like the birds and animals—tell your children and grandchildren what I have told you, that our people may always know how things were made, and why strange things are true."
     }
    ],
    "id": "p006"
@@ -259,55 +103,15 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "The queer-looking animal ran away then as fast as he could go."
+     "source": "\"Yes—OLD-man taught the Beaver how to build his dams to make the water deeper; taught the Squirrel to plant the pine-nut so that another tree might grow and have nuts for his children; told the Bear to go to sleep in the winter, when the snow made hard travelling for his short legs—told him to sleep, and promised him that he would need no meat while he slept."
     },
     {
      "id": "p007.s02",
-     "source": "All around the village he went, gathering up the pieces of his master's body."
+     "source": "All winter long the Bear sleeps and eats nothing, because OLD-man told him that he could."
     },
     {
      "id": "p007.s03",
-     "source": "When he had them gathered, he laid them together in their right places."
-    },
-    {
-     "id": "p007.s04",
-     "source": "Then he uttered a loud howl, and the pieces joined together."
-    },
-    {
-     "id": "p007.s05",
-     "source": "He uttered another, and the body began to breathe."
-    },
-    {
-     "id": "p007.s06",
-     "source": "Then he uttered one that reached to the skies, and his master arose and stood before him."
-    },
-    {
-     "id": "p007.s07",
-     "source": "The animal then spoke."
-    },
-    {
-     "id": "p007.s08",
-     "source": "\"You should not have parted with me,\" he said."
-    },
-    {
-     "id": "p007.s09",
-     "source": "\"That was why you lost your life."
-    },
-    {
-     "id": "p007.s10",
-     "source": "Now, I shall reveal myself to you.\""
-    },
-    {
-     "id": "p007.s11",
-     "source": "He began shaking himself like a dog, and at each shake he grew larger, until at last he was immense."
-    },
-    {
-     "id": "p007.s12",
-     "source": "Then a long snout grew from his head, and two big, shining teeth from his mouth."
-    },
-    {
-     "id": "p007.s13",
-     "source": "His skin was still smooth, without one hair excepting the bunch on the end of his tail."
+     "source": "He sleeps so much in the winter that he spends most of his time in summer hunting."
     }
    ],
    "id": "p007"
@@ -317,18 +121,680 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "\"I am going to give my gift to you,\" said the wild boar."
+     "source": "\"It was OLD-man who showed the Owl how to hunt at night and it was OLD-man that taught the Weasel all his wonderful ways—his bloodthirsty ways—for the Weasel is the bravest of the animal-people, considering his size."
     },
     {
      "id": "p008.s02",
-     "source": "\"After this you shall live on the meat of animals, instead of the animals eating you."
-    },
-    {
-     "id": "p008.s03",
-     "source": "But you and all mankind must respect me and must not eat my flesh nor that of any of my kind.\""
+     "source": "He taught the Beaver one strange thing that you have noticed, and that is to lay sticks on the creek-bottoms, so that they will stay there as long as he wants them to."
     }
    ],
    "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Whenever the animal-people got into trouble they always sought OLD-man and told him about it."
+    },
+    {
+     "id": "p009.s02",
+     "source": "All were busy working and making a living, when one day it commenced to rain."
+    },
+    {
+     "id": "p009.s03",
+     "source": "That was nothing, of course, but it didn't stop as it had always done before."
+    },
+    {
+     "id": "p009.s04",
+     "source": "No, it kept right on raining until the rivers overran their banks, and the water chased the Weasel out of his hole in the ground."
+    },
+    {
+     "id": "p009.s05",
+     "source": "Yes, and it found the Rabbit's hiding-place and made him leave it."
+    },
+    {
+     "id": "p009.s06",
+     "source": "It crept into the lodge of the Wolf at night and frightened his wife and children."
+    },
+    {
+     "id": "p009.s07",
+     "source": "It poured into the den of the Bear among the rocks and he had to move."
+    },
+    {
+     "id": "p009.s08",
+     "source": "It crawled under the logs in the forest and found the Mice-people."
+    },
+    {
+     "id": "p009.s09",
+     "source": "Out it went to the plains and chased them out of their homes in the buffalo skulls."
+    },
+    {
+     "id": "p009.s10",
+     "source": "At last the Beavers' dams broke under the strain and that made everything worse."
+    },
+    {
+     "id": "p009.s11",
+     "source": "It was bad—very bad, indeed."
+    },
+    {
+     "id": "p009.s12",
+     "source": "Everybody except the fish-people were frightened and all went to find OLD-man that they might tell him what had happened."
+    },
+    {
+     "id": "p009.s13",
+     "source": "Finally they found his fire, far up on a timbered bench, and they said that they wanted a council right away."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"It was a strange sight to see the Eagle sitting next to the Grouse; the Rabbit sitting close to the Lynx; the Mouse right under the very nose of the Bobcat, and the tiny Humming-bird talking to the Hawk in a whisper, as though they had always been great friends."
+    },
+    {
+     "id": "p010.s02",
+     "source": "All about OLD-man's fire they sat and whispered or talked in signs."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Even the Deer spoke to the Mountain-lion, and the Antelope told the Wolf that he was glad to see him, because fear had made them all friends."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"The whispering and the sign-making stopped when OLD-man raised his hand-like that\" (here War Eagle raised his hand with the palm outward)—\"and asked them what was troubling them."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"The Bear spoke first, of course, and told how the water had made him move his camp."
+    },
+    {
+     "id": "p012.s02",
+     "source": "He said all the animal-people were moving their homes, and he was afraid they would be unable to find good camping-places, because of the water."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Then the Beaver spoke, because he is wise and all the forest-people know it."
+    },
+    {
+     "id": "p012.s04",
+     "source": "He said his dams would not hold back the water that came against them; that the whole world was a lake, and that he thought they were on an island."
+    },
+    {
+     "id": "p012.s05",
+     "source": "He said he could live in the water longer than most people, but that as far as he could see they would all die except, perhaps, the fish-people, who stayed in the water all the time, anyhow."
+    },
+    {
+     "id": "p012.s06",
+     "source": "He said he couldn't think of a thing to do—then he sat down and the sign-talking and whispering commenced again."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"OLD-man smoked a long time—smoked and thought hard."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Finally he grabbed his magic stone axe, and began to sing his war-song."
+    },
+    {
+     "id": "p013.s03",
+     "source": "Then the rest knew he had made up his mind and knew what he would do."
+    },
+    {
+     "id": "p013.s04",
+     "source": "Swow! he struck a mighty pine-tree a blow, and it fell down."
+    },
+    {
+     "id": "p013.s05",
+     "source": "Swow! down went another and another, until he had ten times ten of the longest, straightest, and largest trees in all the world lying side by side before him."
+    },
+    {
+     "id": "p013.s06",
+     "source": "Then OLD-man chopped off the limbs, and with the aid of magic rolled the great logs tight together."
+    },
+    {
+     "id": "p013.s07",
+     "source": "With withes of willow that he told the Beaver to cut for him, he bound the logs fast together until they were all as one."
+    },
+    {
+     "id": "p013.s08",
+     "source": "It was a monstrous raft that OLD-man had built, as he sang his song in the darkness."
+    },
+    {
+     "id": "p013.s09",
+     "source": "At last he cried, 'Ho! everybody hurry and sit on this raft I have made'; and they did hurry."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"It was not long till the water had reached the logs; then it crept in between them, and finally it went on past the raft and off into the forest, looking for more trouble."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"By and by the raft began to groan, and the willow withes squeaked and cried out as though ghost-people were crying in the night."
+    },
+    {
+     "id": "p015.s02",
+     "source": "That was when the great logs began to tremble as the water lifted them from the ground."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Rain was falling—night was there, and fear made cowards of the bravest on the raft."
+    },
+    {
+     "id": "p015.s04",
+     "source": "All through the forest there were bad noises—noises that make the heart cold—as the raft bumped against great trees rising from the earth that they were leaving forever."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"Higher and higher went the raft; higher than the bushes; higher than the limbs on the trees; higher than the Woodpecker's nest; higher than the tree tops, and even higher than the mountains."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Then the world was no more, for the water had whipped the land in the war it made against it."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"Day came, and still the rain was falling."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Night returned, and yet the rain came down."
+    },
+    {
+     "id": "p017.s03",
+     "source": "For many days and nights they drifted in the falling rain; whirling and twisting about while the water played with the great raft, as a Bear would play with a Mouse."
+    },
+    {
+     "id": "p017.s04",
+     "source": "It was bad, and they were all afraid—even OLD-man himself was scared."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"At last the sun came but there was no land."
+    },
+    {
+     "id": "p018.s02",
+     "source": "All was water."
+    },
+    {
+     "id": "p018.s03",
+     "source": "The water was the world."
+    },
+    {
+     "id": "p018.s04",
+     "source": "It reached even to the sky and touched it all about the edges."
+    },
+    {
+     "id": "p018.s05",
+     "source": "All were hungry, and some of them were grumbling, too."
+    },
+    {
+     "id": "p018.s06",
+     "source": "There are always grumblers when there is great trouble, but they are not the ones who become great chiefs—ever."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"OLD-man sat in the middle of the raft and thought."
+    },
+    {
+     "id": "p019.s02",
+     "source": "He knew that something must be done, but he didn't know what."
+    },
+    {
+     "id": "p019.s03",
+     "source": "Finally he said: 'Ho!"
+    },
+    {
+     "id": "p019.s04",
+     "source": "Chipmunk, bring me the Spotted Loon."
+    },
+    {
+     "id": "p019.s05",
+     "source": "Tell him I want him.'"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"The Chipmunk found the Spotted Loon and told him that OLD-man wanted him, so the Loon went to where OLD-man sat."
+    },
+    {
+     "id": "p020.s02",
+     "source": "When he got there, OLD-man said:"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"'Spotted Loon you are a great diver."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Nobody can dive as you can."
+    },
+    {
+     "id": "p021.s03",
+     "source": "I made you that way and I know."
+    },
+    {
+     "id": "p021.s04",
+     "source": "If you will dive and swim down to the world I think you might bring me some of the dirt that it is made of—then I am sure I can make another world.'"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"'It is too deep, this water,' replied the Loon, 'I am afraid I shall drown.'"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"'Well, what if you do?' said OLD-man."
+    },
+    {
+     "id": "p023.s02",
+     "source": "'I gave you life, and if you lose it this way I will return it to you."
+    },
+    {
+     "id": "p023.s03",
+     "source": "You shall live again!'"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"'All right, OLD-man,' he answered, 'I am willing to try'; so he waddled to the edge of the raft."
+    },
+    {
+     "id": "p024.s02",
+     "source": "He is a poor walker—the Loon, and you know I told you why."
+    },
+    {
+     "id": "p024.s03",
+     "source": "It was all because OLD-man kicked him in the back the night he painted all the Duck-people."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "\"Down went the Spotted Loon, and long he stayed beneath the water."
+    },
+    {
+     "id": "p025.s02",
+     "source": "All waited and watched, and longed for good luck, but when he came to the top he was dead."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Everybody groaned—all felt badly, I can tell you, as OLD-man laid the dead Loon on the logs."
+    },
+    {
+     "id": "p025.s04",
+     "source": "The Loon's wife was crying, but OLD-man told her to shut up and she did."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"Then OLD-man blew his own breath into the Loon's bill, and he came back to life."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"'What did you see, Brother Loon?' asked OLD-man, while everybody crowded as close as he could."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "\"'Nothing but water,' answered the Loon, 'we shall all die here, I cannot reach the world by swimming."
+    },
+    {
+     "id": "p028.s02",
+     "source": "My heart stops working.'"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "\"There were many brave ones on the raft, and the Otter tried to reach the world by diving; and the Beaver, and the Gray Goose, and the Gray Goose's wife; but all died in trying, and all were given a new life by OLD-man."
+    },
+    {
+     "id": "p029.s02",
+     "source": "Things were bad and getting worse."
+    },
+    {
+     "id": "p029.s03",
+     "source": "Everybody was cross, and all wondered what OLD-man would do next, when somebody laughed."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "\"All turned to see what there could be to laugh at, at such a time, and OLD-man turned about just in time to see the Muskrat bid good-by to his wife—that was what they were laughing at."
+    },
+    {
+     "id": "p030.s02",
+     "source": "But he paid no attention to OLD-man or the rest, and slipped from the raft to the water."
+    },
+    {
+     "id": "p030.s03",
+     "source": "Flip!—his tail cut the water like a knife, and he was gone."
+    },
+    {
+     "id": "p030.s04",
+     "source": "Some laughed again, but all wondered at his daring, and waited with little hope in their hearts; for the Muskrat wasn't very great, they thought."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "\"He was gone longer than the Loon, longer than the Beaver, longer than the Otter or the Gray Goose or his wife, but when he came to the surface of the water he was dead."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "\"OLD-man brought Muskrat back to life, and asked him what he had seen on his journey."
+    },
+    {
+     "id": "p032.s02",
+     "source": "Muskrat said: 'I saw trees, OLD-man, but I died before I got to them.'"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "\"OLD-man told him he was brave."
+    },
+    {
+     "id": "p033.s02",
+     "source": "He said his people should forever be great if he succeeded in bringing some dirt to the raft; so just as soon as the Muskrat was rested he dove again."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "\"When he came up he was dead, but clinched in his tiny hand OLD-man found some dirt—not much, but a little."
+    },
+    {
+     "id": "p034.s02",
+     "source": "A second time OLD-man gave the Muskrat his breath, and told him that he must go once more, and bring dirt."
+    },
+    {
+     "id": "p034.s03",
+     "source": "He said there was not quite enough in the first lot, so after resting a while the Muskrat tried a third time and a third time he died, but brought up a little more dirt."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "\"Everybody on the raft was anxious now, and they were all crowding about OLD-man; but he told them to stand back, and they did."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Then he blew his breath in Muskrat's mouth a third time, and a third time he lived and joined his wife."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "\"OLD-man then dried the dirt in his hands, rubbing it slowly and singing a queer song."
+    },
+    {
+     "id": "p036.s02",
+     "source": "Finally it was dry; then he settled the hand that held the dirt in the water slowly, until the water touched the dirt."
+    },
+    {
+     "id": "p036.s03",
+     "source": "The dry dirt began to whirl about and then OLD-man blew upon it."
+    },
+    {
+     "id": "p036.s04",
+     "source": "Hard he blew and waved his hands, and the dirt began to grow in size right before their eyes."
+    },
+    {
+     "id": "p036.s05",
+     "source": "OLD-man kept blowing and waving his hands until the dirt became real land, and the trees began to grow."
+    },
+    {
+     "id": "p036.s06",
+     "source": "So large it grew that none could see across it."
+    },
+    {
+     "id": "p036.s07",
+     "source": "Then he stopped his blowing and sang some more."
+    },
+    {
+     "id": "p036.s08",
+     "source": "Everybody wanted to get off the raft, but OLD-man said 'no.'"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "\"'Come here, Wolf,' he said, and the Wolf came to him."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "\"'You are swift of foot and brave."
+    },
+    {
+     "id": "p038.s02",
+     "source": "Run around this land I have made, that I may know how large it is.'"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "\"The Wolf started, and it took him half a year to get back to the raft."
+    },
+    {
+     "id": "p039.s02",
+     "source": "He was very poor from much running, too, but OLD-man said the world wasn't big enough yet so he blew some more, and again sent the Wolf out to run around the land."
+    },
+    {
+     "id": "p039.s03",
+     "source": "He never came back—no, the OLD-man had made it so big that the Wolf died of old age before he got back to the raft."
+    },
+    {
+     "id": "p039.s04",
+     "source": "Then all the people went out upon the land to make their living, and they were happy, there, too."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "\"After they had been on the land for a long time OLD-man said: 'Now I shall make a man and a woman, for I am lonesome living with you people."
+    },
+    {
+     "id": "p040.s02",
+     "source": "He took two or three handfuls of mud from the world he had made, and moulded both a man and a woman."
+    },
+    {
+     "id": "p040.s03",
+     "source": "Then he set them side by side and breathed upon them."
+    },
+    {
+     "id": "p040.s04",
+     "source": "They lived!—and he made them very strong and healthy—very beautiful to look upon."
+    },
+    {
+     "id": "p040.s05",
+     "source": "Chippewas, he called these people, and they lived happily on that world until a white man saw an Eagle sailing over the land and came to look about."
+    },
+    {
+     "id": "p040.s06",
+     "source": "He stole the woman—that white man did; and that is where all the tribes came from that we know to-day."
+    },
+    {
+     "id": "p040.s07",
+     "source": "None are pure of blood but the two humans he made of clay, and their own children."
+    },
+    {
+     "id": "p040.s08",
+     "source": "And they are the Chippewas!"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "\"That is a long story and now you must hurry to bed."
+    },
+    {
+     "id": "p041.s02",
+     "source": "To-morrow night I will tell you another story—Ho!\""
+    }
+   ],
+   "id": "p041"
   }
  ]
 }

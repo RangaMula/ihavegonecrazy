@@ -4,7 +4,7 @@
 - **Source book:** *Folk-Tales of Bengal*
 - **Author / collector / translator:** Day, Lal Behari (author, d. 1894)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #38488 — https://www.gutenberg.org/ebooks/38488 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #38488 — https://www.gutenberg.org/ebooks/38488
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

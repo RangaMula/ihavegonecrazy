@@ -4,7 +4,7 @@
 - **Source book:** *Celtic Tales, Told to the Children*
 - **Author / collector / translator:** Chisholm, Louey (author)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #7488 — https://www.gutenberg.org/ebooks/7488 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #7488 — https://www.gutenberg.org/ebooks/7488
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

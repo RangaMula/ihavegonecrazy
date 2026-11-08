@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-062",
  "title": {
   "id": "title",
-  "source": "The Gray Goose"
+  "source": "The Windmaker"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
  "source_book": "Thirty Indian Legends",
  "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978",
  "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/062 - The Gray Goose.md",
+ "markdown_file": "Americas/Native North America (various nations)/062 - The Windmaker.md",
  "stats": {
-  "paragraphs": 17,
-  "segments": 63,
-  "words": 1171
+  "paragraphs": 21,
+  "segments": 94,
+  "words": 1588
  },
  "paragraphs": [
   {
@@ -23,11 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Many years ago, when Wesakchak was the only man upon the earth, there was a being, the Evil Spirit, who did not love him."
+     "source": "Once there was a tribe of Indians who had always lived in the mountains."
     },
     {
      "id": "p001.s02",
-     "source": "This spirit was very wicked, and when he saw how much the animals loved Wesakchak, he made up his mind to carry out a cunning scheme, for he wanted to become the master of the animals himself, and it made him very jealous to see how they obeyed Wesakchak."
+     "source": "Their village was built at the foot of a very large mountain, and their lodges were made from branches of the pine-trees, covered with the skins of animals."
     }
    ],
    "id": "p001"
@@ -37,27 +37,27 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "But the North Wind, when it was passing by his wigwam, heard the Evil Spirit say what he was going to do."
+     "source": "One day one of their hunters followed a bear's track for many miles."
     },
     {
      "id": "p002.s02",
-     "source": "The wind passed on, and when it came to the birch-tree, it told her."
+     "source": "By evening he found himself a great distance from the village."
     },
     {
      "id": "p002.s03",
-     "source": "She told it to her leaves, and they rustled in the wind, as they listened to the terrible plan."
+     "source": "He noticed that the hills around him were much smaller than those he had left, so he made up his mind to continue in the direction he had been going, which was eastwards, to see if the hills would grow smaller as he went."
     },
     {
      "id": "p002.s04",
-     "source": "\"Oh, North Wind,\" said the birch-tree, \"will you carry my leaves to the wigwam of Wesakchak, and they will tell him of his danger?\""
+     "source": "He rested during the night, and when the sun rose next morning, he continued walking towards the east."
     },
     {
      "id": "p002.s05",
-     "source": "So the North Wind took the dried leaves of the birch-tree and carried them many miles, until they reached the wigwam of Wesakchak."
+     "source": "For several days he travelled, and at last he found himself on the edge of a very large plain."
     },
     {
      "id": "p002.s06",
-     "source": "There it dropped them at his door."
+     "source": "Miles and miles of green prairie lay before him, and he wondered what was beyond, on the other side of this vast plain."
     }
    ],
    "id": "p002"
@@ -67,19 +67,23 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Wesakchak was sitting by the fire, and he heard the rustling leaves."
+     "source": "He travelled back joyfully to the village and told the others of the tribe what he had discovered."
     },
     {
      "id": "p003.s02",
-     "source": "\"Listen!\" they said to him, \"We have a message for you.\""
+     "source": "As they listened they became anxious to see this great prairie and what lay beyond it."
     },
     {
      "id": "p003.s03",
-     "source": "Then they told him of the terrible plan the North Wind had overheard."
+     "source": "So they went to their chief and begged him to let them all go and travel until they should reach the other side of the prairie."
     },
     {
      "id": "p003.s04",
-     "source": "It was in the spring the Evil Spirit was going to carry out his purpose."
+     "source": "The chief told them that this was a wrong thing to ask, because they were mountain Indians and so would never be happy away from the mountains."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Still they begged and coaxed, and at length he said:"
     }
    ],
    "id": "p003"
@@ -89,31 +93,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Wesakchak hunted all winter in the forest."
+     "source": "\"I shall grant your request, my children, because my greatest wish is to see you happy."
     },
     {
      "id": "p004.s02",
-     "source": "When spring came, he was near the edge of the woods one day, and as he stepped out into the prairie, he heard a little rustle at his feet."
+     "source": "To-morrow we shall all make ready for our journey to this great prairie."
     },
     {
      "id": "p004.s03",
-     "source": "He looked down and saw some leaves of the birch-tree."
-    },
-    {
-     "id": "p004.s04",
-     "source": "\"Remember the message we carried to you, O Master,\" they said."
-    },
-    {
-     "id": "p004.s05",
-     "source": "Wesakchak answered, \"Yes, I remember."
-    },
-    {
-     "id": "p004.s06",
-     "source": "It is now spring, and I shall go back to my wigwam for my bow and arrows."
-    },
-    {
-     "id": "p004.s07",
-     "source": "Then I shall go in search of the Evil Spirit, my enemy.\""
+     "source": "I shall go with you, although it grieves me very much to leave my mountains, but your wish shall be granted.\""
     }
    ],
    "id": "p004"
@@ -123,31 +111,19 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The next day Wesakchak left his lodge and travelled over the prairie."
+     "source": "By evening the next day the tribe was ready for the journey."
     },
     {
      "id": "p005.s02",
-     "source": "Towards nightfall he reached a low valley."
+     "source": "They had taken down their lodges, and the branches of the pine-trees and the skins of the animals were packed on the mountain ponies."
     },
     {
      "id": "p005.s03",
-     "source": "He saw that the snow was melting and that some feet of water lay in the valley."
+     "source": "The chief rode in front on a small, white pony."
     },
     {
      "id": "p005.s04",
-     "source": "But he did not stop for this."
-    },
-    {
-     "id": "p005.s05",
-     "source": "He walked on through the water, never resting even when the darkness descended."
-    },
-    {
-     "id": "p005.s06",
-     "source": "But when the sun rose next morning, he saw that the plan of the Evil Spirit was being carried out, for all around him lay water."
-    },
-    {
-     "id": "p005.s07",
-     "source": "The Evil Spirit had melted the snow during the night, and now every little stream was swollen as big as a river, and the valley was full of water to the brim."
+     "source": "His face looked very sad as they set out."
     }
    ],
    "id": "p005"
@@ -157,15 +133,23 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Wesakchak had to swim, and after he had gone some miles, he began to feel very tired."
+     "source": "For many days they travelled, and at length they reached the edge of the prairie, as the hunter before them had done."
     },
     {
      "id": "p006.s02",
-     "source": "Then the jackfish swam up to him and said, \"My Master, get on my back and I shall take you safely to the land.\""
+     "source": "They were all much astonished to see the great plain of green grass, and they told their chief that this land was much more beautiful than their mountains."
     },
     {
      "id": "p006.s03",
-     "source": "Wesakchak at once did as he was told, and the jackfish, who was strong and a swift swimmer, soon brought him safely to the dry land."
+     "source": "He did not make them any reply."
+    },
+    {
+     "id": "p006.s04",
+     "source": "For several days they travelled across the prairie in the daytime and camped at night."
+    },
+    {
+     "id": "p006.s05",
+     "source": "Each morning they said as they prepared to move forward, \"To-day we shall surely reach the other side of this prairie.\""
     }
    ],
    "id": "p006"
@@ -175,15 +159,35 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Then Wesakchak went home to his lodge."
+     "source": "Each night, however, found them with as many miles in front of them as there were behind them."
     },
     {
      "id": "p007.s02",
-     "source": "It was not far away, and he could see it rising out of the water like an island, for the land on which it was built was a tiny hill."
+     "source": "At last they grew weary, and began to wonder how long they would have to travel before they could see what was beyond this prairie."
     },
     {
      "id": "p007.s03",
-     "source": "He was very glad to be inside his wigwam and to sit down beside the fire; but as he looked out through the open door, he saw the water rising steadily, and knew that by morning it would be in his lodge, and that he, if no help came, would be drowned."
+     "source": "They had made their camp for the night on the bank of a river."
+    },
+    {
+     "id": "p007.s04",
+     "source": "This river was too wide and deep for them to cross, and they did not know what they would do."
+    },
+    {
+     "id": "p007.s05",
+     "source": "During the night a strange thing happened."
+    },
+    {
+     "id": "p007.s06",
+     "source": "Their lodges were caught as if by unseen hands, lifted high in the air, and tossed into the river."
+    },
+    {
+     "id": "p007.s07",
+     "source": "The little children clung to their mothers in terror, while these unseen hands seemed trying to pull them away and toss them after the lodges."
+    },
+    {
+     "id": "p007.s08",
+     "source": "The Indians, terrified, gathered around their chief."
     }
    ],
    "id": "p007"
@@ -193,27 +197,11 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Wesakchak was very tired, and as he sat there thinking, he fell asleep, and he had a strange dream."
+     "source": "\"What is this?\" they cried."
     },
     {
      "id": "p008.s02",
-     "source": "He thought Nihka, the wild goose, flew into the wigwam and around and around near the top, napping her wings and crying."
-    },
-    {
-     "id": "p008.s03",
-     "source": "She seemed to say, \"Give me a message!"
-    },
-    {
-     "id": "p008.s04",
-     "source": "Give me a message!"
-    },
-    {
-     "id": "p008.s05",
-     "source": "And I shall save you.\""
-    },
-    {
-     "id": "p008.s06",
-     "source": "Around and around she flew, and at last lighted in the ashes of the smouldering fire and disappeared."
+     "source": "\"What is this awful thing that has such strength and which we cannot see?\""
     }
    ],
    "id": "p008"
@@ -223,19 +211,19 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Then Wesakchak wakened, and as he looked around the wigwam, he knew that Nihka must have been there, for everything had fallen on the floor as if struck by her wings, and the floor of the lodge was covered with ashes."
+     "source": "\"It is the wind, my children,\" said the chief."
     },
     {
      "id": "p009.s02",
-     "source": "The fire was out, and in the centre of it lay the quill of a goose."
+     "source": "\"Far up on the mountain lives the Windmaker."
     },
     {
      "id": "p009.s03",
-     "source": "Wesakchak picked it up, and saw that a little piece of birch bark was rolled inside."
+     "source": "This is his message to us, to tell us that he is angry, because we have left our mountain home."
     },
     {
      "id": "p009.s04",
-     "source": "He pulled it out, and as he did so, he heard the honk-honk of a wild goose, and Nihka flew in at the door."
+     "source": "Let us all go back to our home and be happy once more.\""
     }
    ],
    "id": "p009"
@@ -245,7 +233,19 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"Write on the birch bark,\" she said, \"and I shall take it to your friend the beaver.\""
+     "source": "But the Indians murmured at this."
+    },
+    {
+     "id": "p010.s02",
+     "source": "They did not wish to go back to the mountains."
+    },
+    {
+     "id": "p010.s03",
+     "source": "They wished to see what was beyond the great prairie."
+    },
+    {
+     "id": "p010.s04",
+     "source": "The chief sadly shook his head and said, \"Well, my children, you must suffer what the Windmaker sends us.\""
     }
    ],
    "id": "p010"
@@ -255,19 +255,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Wesakchak did as she told him."
+     "source": "Then up spoke a young warrior named Broken Arrow."
     },
     {
      "id": "p011.s02",
-     "source": "He wrote a message on the birch bark and slipped it in the hollow end of the quill."
-    },
-    {
-     "id": "p011.s03",
-     "source": "As he gave it to Nihka, he saw that she was no longer white as she had been, but was gray with the ashes of the fire, and marked with black specks where the cinders had touched her."
-    },
-    {
-     "id": "p011.s04",
-     "source": "Her breast was still white, and a small patch under her wings."
+     "source": "He had long wished for a chance to show the chief that he was brave, for he loved the chief's daughter and knew he could not wed her until he had proven his bravery."
     }
    ],
    "id": "p011"
@@ -277,27 +269,11 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Nihka took the quill and flew off at once."
+     "source": "\"Oh, chief,\" he said, \"let me go to this Windmaker."
     },
     {
      "id": "p012.s02",
-     "source": "It was not long before Wesakchak saw the beaver coming to him through the water."
-    },
-    {
-     "id": "p012.s03",
-     "source": "When he came close, Wesakchak saw that he carried mud in his paws and on his broad, flat tail."
-    },
-    {
-     "id": "p012.s04",
-     "source": "When he reached the door of the lodge, he put the mud down and patted it smooth and hard with his tail."
-    },
-    {
-     "id": "p012.s05",
-     "source": "Then he swam away and brought back more, and this he did until he had made a path across the water."
-    },
-    {
-     "id": "p012.s06",
-     "source": "Wesakchak had stood watching the beaver as he worked, and now as it was finished, he said:"
+     "source": "Let me shoot my sharpest arrows at him, so that I may kill this wicked one who is causing so much sorrow.\""
     }
    ],
    "id": "p012"
@@ -307,15 +283,11 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "\"Brother Beaver, this is a wonderful bridge you have made for me."
+     "source": "The chief smiled at the brave youth and said, \"My son, you may go, but it is a useless quest."
     },
     {
      "id": "p013.s02",
-     "source": "How did you learn to do it?"
-    },
-    {
-     "id": "p013.s03",
-     "source": "Surely the Great Spirit has taught you this, to make a path of land in the midst of the water.\""
+     "source": "This Windmaker cannot be killed.\""
     }
    ],
    "id": "p013"
@@ -325,11 +297,15 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "\"Yes, Master,\" answered the beaver, \"the Great Spirit has taught me how to do this, that you might escape the wicked snares of your enemy."
+     "source": "Broken Arrow replied proudly, \"We shall see."
     },
     {
      "id": "p014.s02",
-     "source": "If you cross to the other side, you will be safe.\""
+     "source": "My arrows carry far and fly straight."
+    },
+    {
+     "id": "p014.s03",
+     "source": "This Windmaker shall feel their point.\""
     }
    ],
    "id": "p014"
@@ -339,7 +315,51 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "\"Thank you, Brother Beaver,\" said Wesakchak, \"I shall do as you say,\" and stepping out on the mud bridge, he walked safely to dry land."
+     "source": "The women of the tribe put food in a bag and several pairs of moccasins, and the young warrior set out on his journey."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Day and night he travelled, and at last, after his food was all gone and his last pair of moccasins was nearly worn out, he reached the foot of the great mountain where the Windmaker lived."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Looking up, he saw the monster,—a great, gray creature that seemed a part of the mountain itself."
+    },
+    {
+     "id": "p015.s04",
+     "source": "His head was crowned with snow-white hair that lay around his shoulders like drifts of snow."
+    },
+    {
+     "id": "p015.s05",
+     "source": "His huge ears stood out from the sides of his head, and as he waved them, a breeze came down the mountain side that almost took the warrior off his feet."
+    },
+    {
+     "id": "p015.s06",
+     "source": "Fitting an arrow into his bow, he let it fly."
+    },
+    {
+     "id": "p015.s07",
+     "source": "It was aimed for the Windmaker's heart, and was going straight there, when the monster moved one ear and the arrow flew to one side."
+    },
+    {
+     "id": "p015.s08",
+     "source": "The same fate overtook the next arrow, and the next."
+    },
+    {
+     "id": "p015.s09",
+     "source": "Still the warrior shot bravely on, but as each one came near the monster he waved his ears and blew it aside."
+    },
+    {
+     "id": "p015.s10",
+     "source": "At last every arrow had been spent, and the Windmaker was uninjured."
+    },
+    {
+     "id": "p015.s11",
+     "source": "There was nothing for the young warrior to do but to go back and tell of his failure."
+    },
+    {
+     "id": "p015.s12",
+     "source": "Sadly he turned away, and after many days' travelling he arrived at the camp, faint with hunger, and with bare and bleeding feet."
     }
    ],
    "id": "p015"
@@ -349,11 +369,23 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Then, in memory of this kindness, Wesakchak told the beaver that from that time he might always build a path across the water to remind his children of what he had done."
+     "source": "The chief smiled proudly as he saw him."
     },
     {
      "id": "p016.s02",
-     "source": "Then, turning to the goose, he told her that he wished her to wear always her dress of gray and black, so that the world might not forget her loving service."
+     "source": "\"Welcome, my son,\" he said."
+    },
+    {
+     "id": "p016.s03",
+     "source": "\"Do not feel sad."
+    },
+    {
+     "id": "p016.s04",
+     "source": "You have done nobly, and have proven to me how great a warrior you are."
+    },
+    {
+     "id": "p016.s05",
+     "source": "You shall be my son, and I am proud to call you that.\""
     }
    ],
    "id": "p016"
@@ -363,14 +395,130 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Each spring, the Evil Spirit, who is the spring flood, grows wild with rage, as he remembers how his plan was spoiled, and he tries to waste the lands of Wesakchak and his children."
-    },
-    {
-     "id": "p017.s02",
-     "source": "But this is always in vain, for the Evil One can never win."
+     "source": "After the wedding feast that night, the chief told the Indians that on the morrow he was going to the mountain to see if he could kill the Windmaker."
     }
    ],
    "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "When they heard this, there was great weeping, and they begged him not to go."
+    },
+    {
+     "id": "p018.s02",
+     "source": "But he was firm, so they said, \"Then we shall go with you."
+    },
+    {
+     "id": "p018.s03",
+     "source": "Where our chief goes, we go too, and we shall watch you fight this wicked one.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "So, after many days' travelling, they all reached the foot of the great mountain where the Windmaker lived."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Looking up, they could see him just as Broken Arrow had told them they would."
+    },
+    {
+     "id": "p019.s03",
+     "source": "The chief turned to them and said, \"My children, you must remain here at the foot of this mountain, while I climb up to the top."
+    },
+    {
+     "id": "p019.s04",
+     "source": "There is no use in trying to shoot this great monster, for he will but blow my arrows away, so I must climb up and strike him with my tomahawk.\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Again they begged him not to go, but again he was firm, and they sadly watched him begin to climb up the rocky side of the mountain."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Little by little, he ascended the steep, rough hill, until at last he was almost at the feet of the Windmaker."
+    },
+    {
+     "id": "p020.s03",
+     "source": "All this time the monster had been perfectly still."
+    },
+    {
+     "id": "p020.s04",
+     "source": "Then suddenly, just as the chief was within reach of him, he waved both his ears, and a terrible gale tore down the mountain side, carrying rocks and stones with it."
+    },
+    {
+     "id": "p020.s05",
+     "source": "It caught the chief, lifted him off his feet and carried him down."
+    },
+    {
+     "id": "p020.s06",
+     "source": "When he reached the bottom he lay as if insensible for a few moments."
+    },
+    {
+     "id": "p020.s07",
+     "source": "Then, recovering his breath, he began to climb again."
+    },
+    {
+     "id": "p020.s08",
+     "source": "Once more the Windmaker let him nearly reach his feet before he made a movement."
+    },
+    {
+     "id": "p020.s09",
+     "source": "This time he sent a current of air against a large boulder resting on a narrow ledge."
+    },
+    {
+     "id": "p020.s10",
+     "source": "The chief leaped just in time, for it fell with a terrible noise on the very spot where he had stood."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Angered by this, the chief grasped his tomahawk more firmly, and dashing up a few paces, aimed a blow at the monster's feet."
+    },
+    {
+     "id": "p021.s02",
+     "source": "But before it fell, the Windmaker waved both ears again."
+    },
+    {
+     "id": "p021.s03",
+     "source": "With a roar like thunder the gale swept down, carrying the brave chief with it."
+    },
+    {
+     "id": "p021.s04",
+     "source": "It tossed him in the air, turned him around two or three times, and hurled him into a clump of fir-trees at the foot of the mountain."
+    },
+    {
+     "id": "p021.s05",
+     "source": "The Indians ran frantically to the spot and picked him up, but he was quite dead."
+    },
+    {
+     "id": "p021.s06",
+     "source": "They buried him sadly where he had fallen, at the foot of the tender firs."
+    },
+    {
+     "id": "p021.s07",
+     "source": "Then they went quietly back to their village in the mountains and have been content to live there ever since."
+    }
+   ],
+   "id": "p021"
   }
  ]
 }

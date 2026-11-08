@@ -1,0 +1,44 @@
+{
+ "id": "am-chile-086",
+ "title": {
+  "id": "title",
+  "source": "El Fililo"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos chilenos de nunca acabar",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #69164 — https://www.gutenberg.org/ebooks/69164",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/086 - El Fililo.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 97
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Una vez un fililo, borracho como una farra, armó un bochi de todos los diachos ."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Llegó un faco i le gritó «fase f’entro»; fero el fililo, en lugar de obedecer, levantó un garrote i... falo i falo, i entonces el faco... fito i fito ."
+    },
+    {
+     "id": "p001.s03",
+     "source": "En lo mejor llegó otro fililo a ayudar a su confañero, i detras del fililo, otro faco; i los fililos, falo i falo, i los facos, fito i fito."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Entónces llegó otro fililo a ayudar a sus compañeros, i detrás del fililo, otro faco; i los fililos, falo i falo... etc."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

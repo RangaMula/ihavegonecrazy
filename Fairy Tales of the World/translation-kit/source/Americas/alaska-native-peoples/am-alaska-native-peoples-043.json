@@ -1,0 +1,76 @@
+{
+ "id": "am-alaska-native-peoples-043",
+ "title": {
+  "id": "title",
+  "source": "The Meteor (?)"
+ },
+ "tradition": "Alaska Native peoples",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths and Legends of Alaska",
+ "credits": "Judson, Katharine Berry (compiler, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #47146 — https://www.gutenberg.org/ebooks/47146",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Alaska Native peoples/043 - The Meteor ( ).md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 9,
+  "words": 68
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Tsetsaut"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "A LONG time ago fire was seen coming through the air from the north."
+    },
+    {
+     "id": "p002.s02",
+     "source": "It looked like a huge animal."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Its face was fire."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Fire came from its mouth and also from its back."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Flames of fire shot from its paws."
+    },
+    {
+     "id": "p002.s06",
+     "source": "The Thing, moving backward, thundered through the air."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "In the olden times, these monsters came often."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Now they have not been seen for a long time."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

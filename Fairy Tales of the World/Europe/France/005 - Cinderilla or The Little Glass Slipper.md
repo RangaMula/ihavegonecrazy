@@ -4,7 +4,7 @@
 - **Source book:** *The Fairy Tales of Charles Perrault*
 - **Author / collector / translator:** Perrault, Charles (author, d. 1703); Samber, Robert (translator); Mansion, J. E. (Jean Edmond) (translator, d. 1942)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #29021 — https://www.gutenberg.org/ebooks/29021 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #29021 — https://www.gutenberg.org/ebooks/29021
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

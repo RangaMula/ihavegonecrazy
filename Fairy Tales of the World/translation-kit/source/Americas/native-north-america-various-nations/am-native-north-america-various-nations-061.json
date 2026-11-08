@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-061",
  "title": {
   "id": "title",
-  "source": "A Wonderful Journey"
+  "source": "The Dormouse"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
  "source_book": "Thirty Indian Legends",
  "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978",
  "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/061 - A Wonderful Journey.md",
+ "markdown_file": "Americas/Native North America (various nations)/061 - The Dormouse.md",
  "stats": {
-  "paragraphs": 18,
-  "segments": 63,
-  "words": 1099
+  "paragraphs": 30,
+  "segments": 87,
+  "words": 1199
  },
  "paragraphs": [
   {
@@ -23,11 +23,31 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "One day Wesakchak decided to go on a long journey."
+     "source": "Many years ago the animals ruled the earth."
     },
     {
      "id": "p001.s02",
-     "source": "He knew that somewhere, many miles away, there was a village where people lived, and he made up his mind to go and see them."
+     "source": "They had killed every one but a brother and a sister."
+    },
+    {
+     "id": "p001.s03",
+     "source": "These two lived in a lodge far away in the forest, where the animals could not find them."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The boy was a tiny, little fellow,—he had never grown any larger than a baby,—so the girl had to do all the work."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Each day she would go out into the bush and gather wood for the lodge fire."
+    },
+    {
+     "id": "p001.s06",
+     "source": "She always took her brother with her, for he was too small to leave alone."
+    },
+    {
+     "id": "p001.s07",
+     "source": "A big bird might fly away with him."
     }
    ],
    "id": "p001"
@@ -37,27 +57,23 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "The birds all loved Wesakchak, so a great many of them had given him their feathers to make into a suit."
+     "source": "One day she gave him a little bow and arrows, and said, \"You stay here while I take the wood home."
     },
     {
      "id": "p002.s02",
-     "source": "When it was finished, it was very beautiful."
+     "source": "When the snow-birds come to get the worms out of the wood, see if you can shoot one.\""
     },
     {
      "id": "p002.s03",
-     "source": "The vest was of snow-white feathers from the pigeons' breasts, the coat, of shining blue ones, given by the bluebirds."
+     "source": "So she went home and left him."
     },
     {
      "id": "p002.s04",
-     "source": "The leggings were made of black and brown feathers, which the blackbirds and thrushes had gladly sent to him."
+     "source": "He did not come until nearly evening."
     },
     {
      "id": "p002.s05",
-     "source": "Around his neck and wrists he put bright yellow feathers, the gift of the canaries."
-    },
-    {
-     "id": "p002.s06",
-     "source": "In his hair he wore the eagle's feathers, for he was a great chief."
+     "source": "He looked very sad and tired, for he had been unable to shoot even one bird."
     }
    ],
    "id": "p002"
@@ -67,15 +83,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "He set off early one morning, and as he travelled on, the birds and animals whom he passed all spoke to him."
+     "source": "\"Never mind,\" said the sister, kindly."
     },
     {
      "id": "p003.s02",
-     "source": "By and by he met a prairie-chicken."
-    },
-    {
-     "id": "p003.s03",
-     "source": "In those days the prairie-chicken was a pale gray color."
+     "source": "\"Try again to-morrow.\""
     }
    ],
    "id": "p003"
@@ -85,15 +97,23 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "\"Good-morning, brother prairie-chicken,\" said Wesakchak."
+     "source": "The next day he went again with her, and when he came back in the evening, he said, \"I shot this bird, and now, sister, strip the skin off it, stretch, and cure it."
     },
     {
      "id": "p004.s02",
-     "source": "\"I have been hearing strange tales about you."
+     "source": "Then when I have killed enough birds, I shall have a coat made of the skins.\""
     },
     {
      "id": "p004.s03",
-     "source": "The animals tell me that you are very proud of the way that you can startle them.\""
+     "source": "At last when he had ten skins, his sister made him a coat of them."
+    },
+    {
+     "id": "p004.s04",
+     "source": "He was so tiny that it fitted him nicely."
+    },
+    {
+     "id": "p004.s05",
+     "source": "Of course he was very proud of it."
     }
    ],
    "id": "p004"
@@ -103,11 +123,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "\"But I only remain still in the grass until they come close to me and then fly up suddenly,\" replied the prairie-chicken."
-    },
-    {
-     "id": "p005.s02",
-     "source": "\"I do not mean to frighten them, but it is great fun to see them jump.\""
+     "source": "One day he said, \"Sister, is there no one living in this world except ourselves?\""
     }
    ],
    "id": "p005"
@@ -117,15 +133,15 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "\"That may be so,\" said Wesakchak."
+     "source": "\"Yes,\" she answered."
     },
     {
      "id": "p006.s02",
-     "source": "\"But it is not kind of you to fly up in their faces."
+     "source": "\"Many miles from here live the animals we are afraid of."
     },
     {
      "id": "p006.s03",
-     "source": "Then I hear that you are so proud of this, that you call yourself 'Kee-koo,' or the Startsome Bird.\""
+     "source": "But never go near their village, for they will kill you.\""
     }
    ],
    "id": "p006"
@@ -135,7 +151,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "The prairie-chicken did not reply to this, but remained still in the grass."
+     "source": "\"Oh, I am not afraid,\" he said; and in spite of all her coaxing he made ready to go on his journey."
     }
    ],
    "id": "p007"
@@ -145,15 +161,19 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "\"Why do you not fly up in front of me?\" asked Wesakchak."
+     "source": "One morning he set out, and by noon had walked quite a distance."
     },
     {
      "id": "p008.s02",
-     "source": "Still the prairie-chicken did not move or speak."
+     "source": "He felt very tired and threw himself down on a plot of grass where the sun had melted the snow."
     },
     {
      "id": "p008.s03",
-     "source": "Suddenly Wesakchak leaned down and gathered a handful of little stones."
+     "source": "He fell asleep, and while he was lying there the hot sun dried the skins of his bird coat."
+    },
+    {
+     "id": "p008.s04",
+     "source": "When he awoke, he felt as though he were buttoned up in a coat much too small for him."
     }
    ],
    "id": "p008"
@@ -163,15 +183,15 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "\"Start now,\" he said, as he threw them at the chicken."
+     "source": "He was very angry at the sun, for he knew it had done this."
     },
     {
      "id": "p009.s02",
-     "source": "The small pebbles lit on its back and it flew up suddenly."
+     "source": "\"I shall punish you,\" he cried up to it."
     },
     {
      "id": "p009.s03",
-     "source": "The stones rolled off, but their marks remained, and so after that the prairie-chicken was always speckled."
+     "source": "\"You think you are so high up there, and I am so small, that you do not care, but I shall show you.\""
     }
    ],
    "id": "p009"
@@ -181,31 +201,23 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Wesakchak continued his journey, and late in the afternoon he came to a creek."
+     "source": "Then he went home to his sister and showed her the coat, and told her all about it."
     },
     {
      "id": "p010.s02",
-     "source": "The water of the little stream was not clean enough to wade through, for green slime floated on the top and reeds grew in its boggy mud."
+     "source": "She begged him not to feel so angry."
     },
     {
      "id": "p010.s03",
-     "source": "It was rather too wide to jump, but Wesakchak decided to make a running jump and see if he could get across."
+     "source": "He would not listen to her, but went and lay down on the bed."
     },
     {
      "id": "p010.s04",
-     "source": "He ran back a pace on the prairie, then forward to the bank, but the prairie-grass was so long that his feet became entangled, so he went back to start again."
+     "source": "For ten days he stayed there without eating a bite."
     },
     {
      "id": "p010.s05",
-     "source": "He did this two or three times, and at last had the grass packed down enough so that he could make a good run."
-    },
-    {
-     "id": "p010.s06",
-     "source": "Then he came forward at a great speed and made a leap."
-    },
-    {
-     "id": "p010.s07",
-     "source": "But just as he did so, the prairie-chicken flew up at his feet, and he fell face downwards in the swampy water."
+     "source": "Then he turned over on his other side and lay for ten days more."
     }
    ],
    "id": "p010"
@@ -215,11 +227,31 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Wesakchak was very vexed, and he called out to the prairie-chicken, \"This is a mean trick you have played on me, and in punishment you shall not be able to fly very well after this.\""
+     "source": "At last he arose and said, \"Sister, please make me a snare."
     },
     {
      "id": "p011.s02",
-     "source": "The prairie-chicken heard him and began to fly towards the forest, but its wings seemed shorter than they used to be and it fluttered away amid the tall grass."
+     "source": "I want to catch the sun.\""
+    },
+    {
+     "id": "p011.s03",
+     "source": "She told him she had nothing with which to make the snare."
+    },
+    {
+     "id": "p011.s04",
+     "source": "He nearly cried when she said this."
+    },
+    {
+     "id": "p011.s05",
+     "source": "Then she remembered some bits of deer sinew that were in the lodge."
+    },
+    {
+     "id": "p011.s06",
+     "source": "She made a snare of this, but he said, \"That will not do,\" and began to cry again."
+    },
+    {
+     "id": "p011.s07",
+     "source": "Then she asked him if her hair would do."
     }
    ],
    "id": "p011"
@@ -229,15 +261,7 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "As Wesakchak waded out through the reeds, each bent before him, making a path that has remained there ever since."
-    },
-    {
-     "id": "p012.s02",
-     "source": "When he reached the shore, it look him a long time to clean his beautiful suit, and by the time he was ready to go on, it was nearly evening."
-    },
-    {
-     "id": "p012.s03",
-     "source": "He was anxious to reach the village before nightfall, so he hurried on, wishing he could find some one to take him the rest of the way, for he was feeling tired."
+     "source": "\"No, it will not,\" he said."
     }
    ],
    "id": "p012"
@@ -247,19 +271,27 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "After a time he came in sight of a little lake, and there saw two swans floating on the water."
+     "source": "\"Well, I have nothing else,\" she told him, and went out of the lodge."
     },
     {
      "id": "p013.s02",
-     "source": "He called to them, but they did not seem to hear, so he jumped into the water and dove down to the bottom."
+     "source": "She thought and thought, and at last she said to herself, \"I shall use my hair, and perhaps he will never know.\""
     },
     {
      "id": "p013.s03",
-     "source": "Then he came up under the swans and caught each one by the legs."
+     "source": "So she made a snare like the one used to catch moose."
     },
     {
      "id": "p013.s04",
-     "source": "They flew up with him hanging to their feet."
+     "source": "When she took it in to him, and asked, \"Will this do?\" he looked very pleased, and said, \"Oh, yes, that is the very thing.\""
+    },
+    {
+     "id": "p013.s05",
+     "source": "He took it, and drew the threads through his lips."
+    },
+    {
+     "id": "p013.s06",
+     "source": "They changed at once into red, metal cords, which he wound around his waist."
     }
    ],
    "id": "p013"
@@ -269,11 +301,15 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "\"Take me to the village that is built on the river bank,\" Wesakchak said to them."
+     "source": "Then he made ready for his journey, and about midnight he set out."
     },
     {
      "id": "p014.s02",
-     "source": "They did not answer, but flew rapidly through the air."
+     "source": "He walked on for a long time, until he came to the spot where the sun came up."
+    },
+    {
+     "id": "p014.s03",
+     "source": "He fixed the snare, and then hid behind some bushes."
     }
    ],
    "id": "p014"
@@ -283,55 +319,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "After they had gone some miles, he noticed they were not taking the right direction."
-    },
-    {
-     "id": "p015.s02",
-     "source": "He called to them and told them to turn to the east, but they did not reply."
-    },
-    {
-     "id": "p015.s03",
-     "source": "When he saw they were not going to obey, he hung on tightly by one hand, and reaching up, he caught one swan by the neck."
-    },
-    {
-     "id": "p015.s04",
-     "source": "He tried to pull its head down so that he could talk to it, but the harder he pulled, the firmer it held its head up, until at last its neck was turned into a curve."
-    },
-    {
-     "id": "p015.s05",
-     "source": "He then tried the other swan, but with no more success, so now both birds had their beautiful, white necks curved like the letter S. When Wesakchak saw they would not listen to him, and that they were taking him in the wrong direction, he let go his hold of their feet and dropped like a stone through the air."
-    },
-    {
-     "id": "p015.s06",
-     "source": "He landed on a hollow stump, and with such force that he sank deep into the soft wood."
-    },
-    {
-     "id": "p015.s07",
-     "source": "Not a sign of him could be seen; he had disappeared entirely."
-    },
-    {
-     "id": "p015.s08",
-     "source": "After some time two squaws came to get the soft, yellow wood from the stump."
-    },
-    {
-     "id": "p015.s09",
-     "source": "They use this wood to smoke their buckskins, because it gives the skin a nice color."
-    },
-    {
-     "id": "p015.s10",
-     "source": "They had brought axes with them to chop down the stump."
-    },
-    {
-     "id": "p015.s11",
-     "source": "As they began chopping, they heard a noise like groans coming from within the stump."
-    },
-    {
-     "id": "p015.s12",
-     "source": "They were very frightened and thought it was a bear."
-    },
-    {
-     "id": "p015.s13",
-     "source": "Just as they were turning to run away Wesakchak called to them."
+     "source": "In a little while the sun began to rise, and was at once caught in the snare."
     }
    ],
    "id": "p015"
@@ -341,11 +329,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "\"It is no bear,\" said the first woman."
+     "source": "The animals, who ruled the earth, were greatly excited because the morning did not come."
     },
     {
      "id": "p016.s02",
-     "source": "\"It is the wise man, Wesakchak, who is coming to visit us.\""
+     "source": "They knew it was time for the sun to be up, so they called a council."
     }
    ],
    "id": "p016"
@@ -355,11 +343,7 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "\"It is, indeed, he,\" said the second woman."
-    },
-    {
-     "id": "p017.s02",
-     "source": "\"We must chop him out.\""
+     "source": "\"What is to be done?\" asked the bear."
     }
    ],
    "id": "p017"
@@ -369,14 +353,198 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "So they set to work with their axes, and in a little while had chopped open the stump and set him free."
-    },
-    {
-     "id": "p018.s02",
-     "source": "They were overjoyed when they saw it was really Wesakchak whom they had freed, and they took him with them to the village, where all came forth to welcome him."
+     "source": "\"Some one must go and see what has happened,\" replied the wolf."
     }
    ],
    "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"Let the dormouse go,\" said the beaver, \"as he is the largest of us all.\""
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "In those days the dormouse was very large."
+    },
+    {
+     "id": "p020.s02",
+     "source": "He looked like a mountain when he stood up."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "\"Yes,\" said the wolf, \"let the dormouse go."
+    },
+    {
+     "id": "p021.s02",
+     "source": "He is proud of his size and his strength."
+    },
+    {
+     "id": "p021.s03",
+     "source": "Let him show us what he can do when there is danger before him.\""
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "They all looked around for the dormouse, but there was no sign of him."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"He thinks that we shall send him to find the sun,\" said the fox."
+    },
+    {
+     "id": "p023.s02",
+     "source": "\"He is afraid and has hidden himself.\""
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "\"Not so,\" returned the beaver."
+    },
+    {
+     "id": "p024.s02",
+     "source": "\"The dormouse is not a coward."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Let us call him."
+    },
+    {
+     "id": "p024.s04",
+     "source": "He cannot be far away.\""
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "With that, they all began to call the dormouse."
+    },
+    {
+     "id": "p025.s02",
+     "source": "In a moment there was a crackling of branches and the sound of heavy footsteps, and a huge figure loomed up in the darkness."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "\"Brother dormouse,\" said the fox, \"you are so brave that we have chosen you to go in search of the sun."
+    },
+    {
+     "id": "p026.s02",
+     "source": "What is your answer?\""
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"I am quite ready to go,\" replied the dormouse, \"and if I cannot find the sun and send it to you, I shall not return myself.\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "At once the dormouse started towards the sun."
+    },
+    {
+     "id": "p028.s02",
+     "source": "As he came close to it, the hot rays began to burn his back, but he kept on, and began to chew the cords, which bound it."
+    },
+    {
+     "id": "p028.s03",
+     "source": "In a few minutes the top of his back was a heap of ashes, and he felt himself shrivelling with the heat."
+    },
+    {
+     "id": "p028.s04",
+     "source": "He kept on bravely, and at last the cords were sundered and the sun free."
+    },
+    {
+     "id": "p028.s05",
+     "source": "But by this time the dormouse was a very small animal, and has remained so ever since."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "All this time the brother, who was lying hidden, had been watching what was happening."
+    },
+    {
+     "id": "p029.s02",
+     "source": "As the dormouse began to smoke, he grew a little frightened, and when it began to shrivel he was terrified."
+    },
+    {
+     "id": "p029.s03",
+     "source": "All he wished for was to escape from this glaring sun, which surely would quickly consume him too."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Lying flat on the ground, he wriggled through the bushes for a long distance along the bank."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Reaching the plain, he made a dash for home."
+    },
+    {
+     "id": "p030.s03",
+     "source": "His face and arms were scratched and bleeding, and when he told his sister what had happened, she was grieved to think that she had made the snare which had brought so much sorrow to the innocent dormouse."
+    }
+   ],
+   "id": "p030"
   }
  ]
 }

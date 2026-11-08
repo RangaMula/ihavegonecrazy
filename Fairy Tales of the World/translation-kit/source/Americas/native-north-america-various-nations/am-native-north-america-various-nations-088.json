@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-088",
  "title": {
   "id": "title",
-  "source": "The Race Between Humming Bird And Crane"
+  "source": "Katharine Berry Judson"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
  "source_book": "Myths and Legends of the Great Plains",
  "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/088 - The Race Between Humming Bird And Crane.md",
+ "markdown_file": "Americas/Native North America (various nations)/088 - Katharine Berry Judson.md",
  "stats": {
-  "paragraphs": 8,
-  "segments": 23,
-  "words": 260
+  "paragraphs": 20,
+  "segments": 38,
+  "words": 266
  },
  "paragraphs": [
   {
@@ -23,7 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Cherokee"
+     "source": "Author of “Myths and Legends of California and the Old Southwest,” “Myths and Legends of the Pacific Northwest,” “Montana,” “Myths and Legends of Alaska,” and “When the Forests are Ablaze.”"
     }
    ],
    "id": "p001"
@@ -33,23 +33,7 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "H umming Bird and Crane were both in love with a pretty woman."
-    },
-    {
-     "id": "p002.s02",
-     "source": "She liked Humming Bird, who was handsome."
-    },
-    {
-     "id": "p002.s03",
-     "source": "Crane was ugly, but he would not give up the pretty woman."
-    },
-    {
-     "id": "p002.s04",
-     "source": "So at last to get rid of him, she told them they must have a race, and that she would marry the winner."
-    },
-    {
-     "id": "p002.s05",
-     "source": "Now Humming Bird flew like a flash of light; but Crane was heavy and slow."
+     "source": "ILLUSTRATED"
     }
    ],
    "id": "p002"
@@ -59,15 +43,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "The birds started from the woman’s house to fly around the world to the beginning."
+     "source": "CHICAGO A. C. McCLURG & CO."
     },
     {
      "id": "p003.s02",
-     "source": "Humming Bird flew off like an arrow."
-    },
-    {
-     "id": "p003.s03",
-     "source": "He flew all day and when he stopped to roost he was far ahead."
+     "source": "1913"
     }
    ],
    "id": "p003"
@@ -77,19 +57,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Crane flew heavily, but he flew all night long."
+     "source": "Copyright A. C. McCLURG & CO."
     },
     {
      "id": "p004.s02",
-     "source": "He stopped at daylight at a creek to rest."
-    },
-    {
-     "id": "p004.s03",
-     "source": "Humming Bird waked up, and flew on again, and soon he reached a creek, and behold! there was Crane, spearing tadpoles with his long bill."
-    },
-    {
-     "id": "p004.s04",
-     "source": "Humming Bird flew on."
+     "source": "1913"
     }
    ],
    "id": "p004"
@@ -99,11 +71,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Soon Crane started on and flew all night as before."
-    },
-    {
-     "id": "p005.s02",
-     "source": "Humming Bird slept on his roost."
+     "source": "Published November, 1913"
     }
    ],
    "id": "p005"
@@ -113,27 +81,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Next morning Humming Bird flew on and Crane was far, far ahead."
-    },
-    {
-     "id": "p006.s02",
-     "source": "The fourth day, Crane was spearing tadpoles for dinner when Humming Bird caught up with him."
-    },
-    {
-     "id": "p006.s03",
-     "source": "By the seventh day Crane was a whole night’s travel ahead."
-    },
-    {
-     "id": "p006.s04",
-     "source": "At last he reached the beginning again."
-    },
-    {
-     "id": "p006.s05",
-     "source": "He stopped at the creek and preened his feathers, and then in the early morning went to the woman’s house."
-    },
-    {
-     "id": "p006.s06",
-     "source": "Humming Bird was far, far behind."
+     "source": "W. F. Hall Printing Company Chicago"
     }
    ],
    "id": "p006"
@@ -143,19 +91,202 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "But the woman declared she would not marry so ugly a man as Crane."
-    },
-    {
-     "id": "p007.s02",
-     "source": "Therefore she remained single."
+     "source": "BY THE SAME AUTHOR"
     }
    ],
    "id": "p007"
   },
   {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "MYTHS AND LEGENDS OF CALIFORNIA AND THE OLD SOUTHWEST."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Over fifty full-page illustrations."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Small quarto. $1.50 net."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "MYTHS AND LEGENDS OF ALASKA."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Beautifully illustrated."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Small quarto. $1.50 net."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "MYTHS AND LEGENDS OF THE PACIFIC NORTHWEST."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Especially of Washington and Oregon."
+    },
+    {
+     "id": "p010.s03",
+     "source": "With fifty full-page illustrations."
+    },
+    {
+     "id": "p010.s04",
+     "source": "Small quarto. $1.50 net."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "MONTANA: “The Land of Shining Mountains.”"
+    },
+    {
+     "id": "p011.s02",
+     "source": "Illustrated."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Indexed."
+    },
+    {
+     "id": "p011.s04",
+     "source": "Square 8vo."
+    },
+    {
+     "id": "p011.s05",
+     "source": "75 cents net."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "WHEN THE FORESTS ARE ABLAZE."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Illustrated."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Crown 8vo. $1.35 net."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "A. C. McClurg & Co., Publishers"
+    }
+   ],
+   "id": "p013"
+  },
+  {
    "type": "break",
    "segments": [],
-   "id": "p008"
+   "id": "p014"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "BIANKI’S VISION"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "(Kiowa Drawing)"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "The ghost-dance among the Sioux was based on the belief that the dead Indians would all come to life and drive out the white intruders."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Then the buffaloes, which were disappearing, would come back in the immense herds of the olden time."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "The vision of one of the dreamer priests is represented."
+    },
+    {
+     "id": "p018.s02",
+     "source": "After reaching the spirit world, Bianki found himself on a vast prairie covered with innumerable buffaloes and ponies."
+    },
+    {
+     "id": "p018.s03",
+     "source": "He went through the herds (dotted lines) until he came to a large Kiowa camp, with its ornament tepees."
+    },
+    {
+     "id": "p018.s04",
+     "source": "He met four young women who had died years before, and asked about two of his brothers, also dead."
+    },
+    {
+     "id": "p018.s05",
+     "source": "He soon met them coming into camp, with buffalo meat hanging from their saddles."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Courtesy of the Smithsonian Institution"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p020"
   }
  ]
 }

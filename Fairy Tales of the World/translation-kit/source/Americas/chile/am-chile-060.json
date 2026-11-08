@@ -1,0 +1,46 @@
+{
+ "id": "am-chile-060",
+ "title": {
+  "id": "title",
+  "source": "LA NIÑA DE LOS GRANDES OJOS. (D. Francisco 2.º Vásquez, 1911.)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/060 - LA NIÑA DE LOS GRANDES OJOS. (D. Francisco 2.º Vásquez, 1911.).md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 3,
+  "words": 96
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Una noche iban dos jóvenes un poco chispos por la calle del Galán de la Burra (actual calle de Erasmo Escala, de Santiago) y divisaron, como a media cuadra, a una niña muy hermosa, con unos ojos que brillaban como luces, y a medida que se acercaban a ella, le veían los ojos más grandes; y tanto le fueron creciendo, que al llegar no vieron ni cara ni cuerpo, sino dos enormes ojos que los miraban fijamente."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Los jóvenes, huyeron despavoridos, rezando en voz alta."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Se cree que todo fué simple alucinación, producida por la embriaguez."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

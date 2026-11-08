@@ -4,7 +4,7 @@
 - **Source book:** *Roumanian Fairy Tales*
 - **Author / collector / translator:** Kremnitz, Mite (compiler, d. 1916)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #20552 — https://www.gutenberg.org/ebooks/20552 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #20552 — https://www.gutenberg.org/ebooks/20552
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

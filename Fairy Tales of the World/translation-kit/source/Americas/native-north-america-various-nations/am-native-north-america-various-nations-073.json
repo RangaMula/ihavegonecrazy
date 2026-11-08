@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-073",
  "title": {
   "id": "title",
-  "source": "Sacred Legend"
+  "source": "The Five Water-Spirits"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Myths and Legends of the Great Plains",
- "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
- "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/073 - Sacred Legend.md",
+ "source_book": "Thirty Indian Legends",
+ "credits": "Bemister, Margaret (author)",
+ "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Americas/Native North America (various nations)/073 - The Five Water-Spirits.md",
  "stats": {
-  "paragraphs": 16,
-  "segments": 94,
-  "words": 895
+  "paragraphs": 7,
+  "segments": 19,
+  "words": 336
  },
  "paragraphs": [
   {
@@ -23,7 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Omaha"
+     "source": "Once upon a time a gray, old man lived on the top of a mountain, where he could see glimpses of the sea."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He had a lodge made of birch bark that shone like silver in the sun."
     }
    ],
    "id": "p001"
@@ -33,23 +37,7 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "I n the beginning the people were in water."
-    },
-    {
-     "id": "p002.s02",
-     "source": "They opened their eyes, but they could see nothing."
-    },
-    {
-     "id": "p002.s03",
-     "source": "As the people came out of the water, they first saw the daylight."
-    },
-    {
-     "id": "p002.s04",
-     "source": "They had no clothing."
-    },
-    {
-     "id": "p002.s05",
-     "source": "Then they took weeds and grasses and from them wove clothing."
+     "source": "He had five beautiful daughters, whose names were Su, Mi, Hu, Sa, and Er."
     }
    ],
    "id": "p002"
@@ -59,39 +47,23 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "The people lived near a large body of water; it was in a wooded country where there was game."
+     "source": "One day the youngest said, \"My sisters, come and we will go and play near the broad, blue sea, where the waves beat against the rocks.\""
     },
     {
      "id": "p003.s02",
-     "source": "The men hunted the deer with clubs; they did not know the use of the bow."
+     "source": "So away they ran out of the lodge and down the mountain side."
     },
     {
      "id": "p003.s03",
-     "source": "The people wandered about the shores of the great water."
+     "source": "They were all dressed in robes of snow-white foam, that fluttered far behind them as they ran."
     },
     {
      "id": "p003.s04",
-     "source": "They were poor and cold."
+     "source": "Their sandals were of frozen water-drops, and their wings of painted wind."
     },
     {
      "id": "p003.s05",
-     "source": "The people thought, “What shall we do to help ourselves?”"
-    },
-    {
-     "id": "p003.s06",
-     "source": "So they began chipping stones."
-    },
-    {
-     "id": "p003.s07",
-     "source": "They found a bluish stone that was easily flaked and chipped; so they made knives and arrowheads out of it."
-    },
-    {
-     "id": "p003.s08",
-     "source": "But they were still poor and cold."
-    },
-    {
-     "id": "p003.s09",
-     "source": "They thought, “What shall we do?”"
+     "source": "On they scampered over valley and plain, until they came to a tall, bare rock as high as a mountain."
     }
    ],
    "id": "p003"
@@ -101,39 +73,19 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Then a man found an elm root that was very dry."
+     "source": "Then the youngest cried, \"Sisters, here is a dreadful leap, but if we are afraid, and go back, our father will laugh at us.\""
     },
     {
      "id": "p004.s02",
-     "source": "He dug a hole in it and put a stick in and rubbed it."
+     "source": "So, like birds, they all plunged with a merry skip down the side of the rock."
     },
     {
      "id": "p004.s03",
-     "source": "Then smoke came."
+     "source": "Then \"Ha-ha,\" they cried, \"let us try again.\""
     },
     {
      "id": "p004.s04",
-     "source": "He smelled it."
-    },
-    {
-     "id": "p004.s05",
-     "source": "Then the people smelled it and came near."
-    },
-    {
-     "id": "p004.s06",
-     "source": "Others helped him to rub."
-    },
-    {
-     "id": "p004.s07",
-     "source": "At last a spark came."
-    },
-    {
-     "id": "p004.s08",
-     "source": "They blew this into a flame."
-    },
-    {
-     "id": "p004.s09",
-     "source": "Thus fire came to warm the people and to cook their food."
+     "source": "So up to the top they climbed, laughing with joy, and down once more they went, nor ever stopped, laughing like girls on a holiday."
     }
    ],
    "id": "p004"
@@ -143,19 +95,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "After this the people built grass houses; they cut the grass with the shoulder blade of a deer."
+     "source": "The day wore on till sunset, and still they laughed and played."
     },
     {
      "id": "p005.s02",
-     "source": "Now the people had fire and ate their meat roasted."
-    },
-    {
-     "id": "p005.s03",
-     "source": "Then they grew tired of roast meat."
-    },
-    {
-     "id": "p005.s04",
-     "source": "They thought, “How shall we cook our meat differently?”"
+     "source": "The round moon came up, and by its silvery light they sprang from the tall, bare rock, and climbed joyously up its side again."
     }
    ],
    "id": "p005"
@@ -165,39 +109,19 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "A man found a piece of clay that stuck well together."
+     "source": "Next morning, when the sun arose, the rock was no longer bare."
     },
     {
      "id": "p006.s02",
-     "source": "Then he brought sand to mix with it."
+     "source": "Over its stony side poured great sheets of foaming water, and in the foam still played the five sisters."
     },
     {
      "id": "p006.s03",
-     "source": "Then he molded it as a pot."
+     "source": "They never reached the sea, and there they still play, giving to us the beautiful Niagara Falls."
     },
     {
      "id": "p006.s04",
-     "source": "Then he gathered grass until he had a large heap of it; he put the clay pot into the midst of the grass and set it on fire."
-    },
-    {
-     "id": "p006.s05",
-     "source": "This made the clay hard."
-    },
-    {
-     "id": "p006.s06",
-     "source": "After a time he put water into the pot; the water did not leak out."
-    },
-    {
-     "id": "p006.s07",
-     "source": "This was good."
-    },
-    {
-     "id": "p006.s08",
-     "source": "So he put water into it and then meat into it, and put the pot over the fire."
-    },
-    {
-     "id": "p006.s09",
-     "source": "Thus the people had boiled meat to eat."
+     "source": "Sometimes, if you look closely, their forms may be seen in the white foam, but always in the sunny spray you may see their sandals and their wings."
     }
    ],
    "id": "p006"
@@ -207,287 +131,10 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Now their grass coverings would grow fuzzy and drop off."
-    },
-    {
-     "id": "p007.s02",
-     "source": "It was hard to gather and keep these coverings."
-    },
-    {
-     "id": "p007.s03",
-     "source": "The people were not satisfied."
-    },
-    {
-     "id": "p007.s04",
-     "source": "Again they thought, “What can we do to have something different to wear?”"
+     "source": "Su, Superior; Mi, Michigan; Hu, Huron; Sa, St. Clair; Er, Erie."
     }
    ],
    "id": "p007"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p008.s01",
-     "source": "Before this, they had been throwing away the hides from the game which they killed."
-    },
-    {
-     "id": "p008.s02",
-     "source": "But now they took their stone knives to scrape down the hides and make them thin."
-    },
-    {
-     "id": "p008.s03",
-     "source": "They rubbed the hides with grass and with their hands to make them soft."
-    },
-    {
-     "id": "p008.s04",
-     "source": "Then they used the hides for clothing."
-    },
-    {
-     "id": "p008.s05",
-     "source": "Now they had clothing and were warm."
-    }
-   ],
-   "id": "p008"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p009.s01",
-     "source": "Now the women had to break the dry wood to keep up the fires."
-    },
-    {
-     "id": "p009.s02",
-     "source": "They had no tools."
-    },
-    {
-     "id": "p009.s03",
-     "source": "So the men made a stone ax with a groove."
-    },
-    {
-     "id": "p009.s04",
-     "source": "Then they put a handle on the grooved stone and fastened it with rawhide."
-    },
-    {
-     "id": "p009.s05",
-     "source": "This was used."
-    },
-    {
-     "id": "p009.s06",
-     "source": "Then they wanted something better to break the wood."
-    },
-    {
-     "id": "p009.s07",
-     "source": "So they made wedges of stone."
-    }
-   ],
-   "id": "p009"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p010.s01",
-     "source": "Now the grass shelter came to pieces easily."
-    },
-    {
-     "id": "p010.s02",
-     "source": "Then the people thought, “What shall we do?"
-    },
-    {
-     "id": "p010.s03",
-     "source": "How can we get something that will not come to pieces?”"
-    },
-    {
-     "id": "p010.s04",
-     "source": "Then they tried putting skins on poles."
-    }
-   ],
-   "id": "p010"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p011.s01",
-     "source": "First they tried deerskins."
-    },
-    {
-     "id": "p011.s02",
-     "source": "But they were too small."
-    },
-    {
-     "id": "p011.s03",
-     "source": "They tried elk skins."
-    },
-    {
-     "id": "p011.s04",
-     "source": "But they became hard and stiff in the rain and sun."
-    },
-    {
-     "id": "p011.s05",
-     "source": "Then they did not try skins longer."
-    },
-    {
-     "id": "p011.s06",
-     "source": "They used bark to cover the poles of their tepees."
-    }
-   ],
-   "id": "p011"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p012.s01",
-     "source": "But the bark houses were not warm."
-    },
-    {
-     "id": "p012.s02",
-     "source": "Then the people took the leg bone of the deer and splintered it So they made sharp pieces for awls."
-    },
-    {
-     "id": "p012.s03",
-     "source": "Then they took buffalo skins and sinews, and with the awl they fastened the skins together."
-    },
-    {
-     "id": "p012.s04",
-     "source": "So they made comfortable covers for their tepees."
-    }
-   ],
-   "id": "p012"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p013.s01",
-     "source": "Then a man wandered around a long time."
-    },
-    {
-     "id": "p013.s02",
-     "source": "One day he found some small pieces of something which were white, and red, and blue."
-    },
-    {
-     "id": "p013.s03",
-     "source": "He thought they must be something of great value, so he hid them in a mound of earth."
-    },
-    {
-     "id": "p013.s04",
-     "source": "Now one day he went to see if they were safe."
-    },
-    {
-     "id": "p013.s05",
-     "source": "Behold!"
-    },
-    {
-     "id": "p013.s06",
-     "source": "When he came to the mound, green stalks were growing out of it."
-    },
-    {
-     "id": "p013.s07",
-     "source": "And on the stalks were small kernels of white, and red, and blue."
-    },
-    {
-     "id": "p013.s08",
-     "source": "Behold!"
-    },
-    {
-     "id": "p013.s09",
-     "source": "It was corn."
-    },
-    {
-     "id": "p013.s10",
-     "source": "Then the man took the corn, and gave it to the people."
-    },
-    {
-     "id": "p013.s11",
-     "source": "They tried it for food."
-    },
-    {
-     "id": "p013.s12",
-     "source": "They found it good, and have ever since called it their life."
-    }
-   ],
-   "id": "p013"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p014.s01",
-     "source": "Now when the people found the corn good, they thought to hide it in mounds as the first man had done."
-    },
-    {
-     "id": "p014.s02",
-     "source": "So they took the shoulder blade of an elk and made mounds."
-    },
-    {
-     "id": "p014.s03",
-     "source": "Then they hid the corn in it."
-    },
-    {
-     "id": "p014.s04",
-     "source": "So the corn grew and the people had food."
-    }
-   ],
-   "id": "p014"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p015.s01",
-     "source": "Now as the people wandered around, they came to a forest where the birch trees grew."
-    },
-    {
-     "id": "p015.s02",
-     "source": "There was a great lake there."
-    },
-    {
-     "id": "p015.s03",
-     "source": "Then they made canoes of birch bark."
-    },
-    {
-     "id": "p015.s04",
-     "source": "They traveled in them on the water."
-    },
-    {
-     "id": "p015.s05",
-     "source": "Then a man found two young animals."
-    },
-    {
-     "id": "p015.s06",
-     "source": "He carried them home."
-    },
-    {
-     "id": "p015.s07",
-     "source": "He fed them so they grew bigger."
-    },
-    {
-     "id": "p015.s08",
-     "source": "Then he made a harness which he placed upon them and fastened it to poles."
-    },
-    {
-     "id": "p015.s09",
-     "source": "So these animals became burden bearers."
-    },
-    {
-     "id": "p015.s10",
-     "source": "Before that, every burden had to be carried on the back."
-    },
-    {
-     "id": "p015.s11",
-     "source": "Now the dogs helped the people."
-    }
-   ],
-   "id": "p015"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p016"
   }
  ]
 }

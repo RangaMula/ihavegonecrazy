@@ -4,7 +4,7 @@
 - **Source book:** *Jataka tales*
 - **Author / collector / translator:** Babbitt, Ellen C. (author)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #62514 — https://www.gutenberg.org/ebooks/62514 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #62514 — https://www.gutenberg.org/ebooks/62514
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

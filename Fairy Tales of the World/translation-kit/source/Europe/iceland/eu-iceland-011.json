@@ -1,0 +1,526 @@
+{
+ "id": "eu-iceland-011",
+ "title": {
+  "id": "title",
+  "source": "The Strange Adventures Of Geir"
+ },
+ "tradition": "Iceland",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Icelandic Fairy Tales",
+ "credits": "Hall, Angus W., Mrs. (author)",
+ "gutenberg": "Project Gutenberg eBook #67085 — https://www.gutenberg.org/ebooks/67085",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Europe/Iceland/011 - The Strange Adventures Of Geir.md",
+ "stats": {
+  "paragraphs": 38,
+  "segments": 69,
+  "words": 1522
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once upon a time, there lived a king and queen in a magnificent palace, surrounded by lovely gardens."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Beyond them there stretched out great fields and meadows, in which grazed large flocks of sheep and herds of cattle, all of which belonged to the king, and beyond these again there was a beautiful big forest."
+    },
+    {
+     "id": "p001.s03",
+     "source": "But in addition to all this, they had an only child called Sigrid, who was known as the fairest princess in all the land."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Now, the king of one of the neighbouring kingdoms wanted to marry the princess, and as he was very rich, her father and mother thought they could not do better than give him their daughter."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "But Sigrid much preferred her young cousin Olaf, who, having lost his parents when a child, had been brought up with her, and who was as brave and handsome as the king (her suitor) was old and ugly."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "When her father and the queen found that the princess would have nothing to say to the old king, they determined to send Olaf away."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“But we must be careful how we do it, and pretend it is for his good,” said the queen; “for remember, he has a fairy god-mother.”"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "So the king sent for Olaf his nephew, and told him he wished him to travel for a year and see something of the world."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“For it is not a good thing,” said he, “for a young man always to stay at home."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Go, therefore, to all the neighbouring kingdoms, and see what is done in other lands.”"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "The parting between Olaf and Sigrid was very sad, for he feared that the king and queen would force her to marry the rich old king during his absence, and Sigrid dreaded the dangers that might befall Olaf during his travels."
+    },
+    {
+     "id": "p008.s02",
+     "source": "But they promised to remain true to one another, and that nothing but death should part them."
+    },
+    {
+     "id": "p008.s03",
+     "source": "And then Olaf started on his journey."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Now, on the borders of the king’s forest there lived an old man and his wife."
+    },
+    {
+     "id": "p009.s02",
+     "source": "The old man was called Geir, and his wife Trude."
+    },
+    {
+     "id": "p009.s03",
+     "source": "The old couple were very, very poor; their little hut contained only the barest necessaries, but they had one cow, and having no children, the old man and his wife managed to live on the milk from their cow, and on the roots they gathered in the king’s forest."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "One Sunday, Trude, feeling very tired, said she would stay at home and rest, while her husband went alone to the village church."
+    },
+    {
+     "id": "p010.s02",
+     "source": "The pastor’s sermon that Sunday was on charity, and Geir returned home greatly delighted with what he had heard."
+    },
+    {
+     "id": "p010.s03",
+     "source": "In the evening, as they were sitting beside the hearth, his wife asked him what the sermon had been about."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Oh,” said Geir, “it was the best sermon I have ever heard."
+    },
+    {
+     "id": "p011.s02",
+     "source": "The pastor said that, whoever gave away what he possessed, it would be returned to him an hundredfold, and I mean to try it.”"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Ah,” said his wife, shaking her head, “I don’t think he can quite have meant that."
+    },
+    {
+     "id": "p012.s02",
+     "source": "You must have misunderstood him.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "But Geir maintained that he was right, and so they went on disputing for more than an hour without either convincing the other."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "The next morning, the old man hastened into the forest, and getting together a lot of woodcutters, he persuaded them to help him to build a hundred stalls."
+    },
+    {
+     "id": "p014.s02",
+     "source": "His wife grew very angry, and scolded him well for his folly, as she called it; but he turned a deaf ear to all her remonstrance, and continued his work."
+    },
+    {
+     "id": "p014.s03",
+     "source": "When the stalls were ready, Geir sat down and began to think who would be the best person to give his cow to, and so get a hundred cows in return."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“Surely, there is no one so rich as the king,” soliloquized Geir; “he could easily give me a hundred cows for my one cow.”"
+    },
+    {
+     "id": "p015.s02",
+     "source": "And thus thinking, he led forth his cow, despite all the angry protestations of his wife."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "When he had gone about halfway, a tremendous storm arose."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Heavy black clouds rolled up from the north, the lightning flashed, and he could hardly stand up under the drenching showers of rain and hail, whilst the cow, terrified at the noise and darkness, struggled frantically to get away."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“Alas,” sighed the old man, “I fear I shall have to let her go, for I cannot hold on much longer."
+    },
+    {
+     "id": "p017.s02",
+     "source": "It is so dark, I cannot see a step before me, nor do I know in which direction to travel!"
+    },
+    {
+     "id": "p017.s03",
+     "source": "Alas, alas! it will be a wonder if I ever reach home alive!”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "While he was thus wandering helplessly about in the dark, bewailing himself, and not knowing which way to turn, he suddenly saw an old woman standing before him, with a large sack on her shoulders."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“What are you doing out in such weather with your cow?” she asked."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Then Geir told her why he had set forth with his cow, and what a rich return he hoped to get."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“You will certainly lose your own cow, in place of getting a hundred new ones, and probably lose your own life too,” said the old woman."
+    },
+    {
+     "id": "p021.s02",
+     "source": "“You had much better give me your cow, which is leading you a fine dance, and take this sack in exchange."
+    },
+    {
+     "id": "p021.s03",
+     "source": "See, you can easily carry it on your back, and I promise you, you will find it contains good flesh and bones.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "At first Geir would not hear of the exchange; but finding the animal grow more and more restive and wild, he at last consented, and no sooner had the old woman got the cow, than both she and it disappeared."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "After some difficulty, the old man managed to lift the sack on to his shoulders, and, the storm having exhausted itself, made the best of his way home, groaning and panting under his burden, which seemed to grow heavier and heavier as he went on."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "At length he reached his hut, and told his wife what had happened to him, making a great to do over the sack he had carried, and all the good food it contained."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“Oh dear, oh dear!” cried Trude, wringing her hands."
+    },
+    {
+     "id": "p025.s02",
+     "source": "“I do think you grow more stupid every day!"
+    },
+    {
+     "id": "p025.s03",
+     "source": "It was bad enough to take away our only cow, and now you come back bringing an old sack!”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "But Geir told her not to scold."
+    },
+    {
+     "id": "p026.s02",
+     "source": "She had better fill the big pot with water and put it on the fire, for had not the old woman told him the sack contained good flesh and bones?"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Trude did as she was told, though grumbling the while, and when the pot began to boil, Geir went to the sack to untie it."
+    },
+    {
+     "id": "p027.s02",
+     "source": "But, behold, no sooner did he touch the string than the sack began to move and twist and turn about."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“There is something alive inside,” cried Trude, terrified; “open it quickly.”"
+    },
+    {
+     "id": "p028.s02",
+     "source": "And when Geir had untied the string, out stepped a little man dressed from head to foot in grey; even his hair and beard were grey."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“If you want to cook anything for your supper,” he cried laughingly, “I hope you will try your hand on something else than me.”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Poor Geir was struck dumb with amazement; but his wife made up for his silence, and jeered and laughed at him for his folly and stupidity."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“First you get rid of our only means of support, and now, when we know not how or where to get food for ourselves, you bring home another mouth to feed, and so add to our burden."
+    },
+    {
+     "id": "p031.s02",
+     "source": "You surely must have lost the little wit you ever had!”"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "And thus the war of words raged till the man in grey said—"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“Your wrangling will do none of us any good."
+    },
+    {
+     "id": "p033.s02",
+     "source": "Rather let me go out and see if I cannot bring back some food for supper."
+    },
+    {
+     "id": "p033.s03",
+     "source": "We shall certainly not grow fat on your quarrels.”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "So saying, and without awaiting a reply, he opened the door and sallied forth in the darkness, and ere the old couple could come to any decision as to who or what he was, good geni or wicked sprite, the grey man returned, bringing back with him a nice fat sheep ready killed."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“There,” he said, throwing it down, “now you can prepare some food, so that we may eat.”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Geir scratched his head, and looked at Trude."
+    },
+    {
+     "id": "p036.s02",
+     "source": "She returned the glance, and then they both looked at the grey man."
+    },
+    {
+     "id": "p036.s03",
+     "source": "Surely he must have stolen the sheep!"
+    },
+    {
+     "id": "p036.s04",
+     "source": "They did not know what to do."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "But at length hunger got the better of their scruples, and, following the directions of Greybeard, as they called him, they cut up the sheep, cooked a portion of it for their supper, and lived in comfort on the remainder for several days."
+    },
+    {
+     "id": "p037.s02",
+     "source": "When that sheep was finished, Greybeard brought in another, then a third, then a fourth, and also a fifth."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "By this time Greybeard had become a very welcome guest, and the old people wondered how they could ever have lived without him."
+    }
+   ],
+   "id": "p038"
+  }
+ ]
+}

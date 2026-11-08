@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-096",
  "title": {
   "id": "title",
-  "source": "Legend Of The Corn"
+  "source": "The Legend Of The Peace Pipes"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
  "source_book": "Myths and Legends of the Great Plains",
  "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/096 - Legend Of The Corn.md",
+ "markdown_file": "Americas/Native North America (various nations)/096 - The Legend Of The Peace Pipes.md",
  "stats": {
-  "paragraphs": 18,
-  "segments": 79,
-  "words": 813
+  "paragraphs": 14,
+  "segments": 47,
+  "words": 553
  },
  "paragraphs": [
   {
@@ -23,7 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Arikara"
+     "source": "Omaha"
     }
    ],
    "id": "p001"
@@ -33,43 +33,23 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "T he Arikara were the first to find the maize."
+     "source": "T he people came across a great water on logs tied together."
     },
     {
      "id": "p002.s02",
-     "source": "A young man went out hunting."
+     "source": "They pitched their tents on the shore."
     },
     {
      "id": "p002.s03",
-     "source": "He came to a high hill."
+     "source": "Then they thought to make for themselves certain bounds within which they were to live and rules which should govern them."
     },
     {
      "id": "p002.s04",
-     "source": "Looking down a valley, he saw a buffalo bull near where two rivers joined."
+     "source": "They cleared a space of grass and weeds so they could see each other’s faces."
     },
     {
      "id": "p002.s05",
-     "source": "When the young man looked to see how he could kill the buffalo, he saw how beautiful the country was."
-    },
-    {
-     "id": "p002.s06",
-     "source": "The banks of the two rivers were low, with many trees."
-    },
-    {
-     "id": "p002.s07",
-     "source": "The buffalo faced the north; therefore he could not get within bowshot of him."
-    },
-    {
-     "id": "p002.s08",
-     "source": "He thought he should wait until the buffalo moved close to the banks of one of the rivers, or to a ravine where there were bushes and shrubs."
-    },
-    {
-     "id": "p002.s09",
-     "source": "So the young man waited."
-    },
-    {
-     "id": "p002.s10",
-     "source": "The sun went down before the buffalo moved."
+     "source": "They sat down and there was no obstruction between them."
     }
    ],
    "id": "p002"
@@ -79,35 +59,19 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Nearly all night the hunter lay awake."
+     "source": "While they were holding a council, an owl hooted in the trees near by."
     },
     {
      "id": "p003.s02",
-     "source": "He had little food."
+     "source": "The leader said, “That bird is to take part in our council."
     },
     {
      "id": "p003.s03",
-     "source": "He felt sorry he could not reach the buffalo."
+     "source": "He calls to us."
     },
     {
      "id": "p003.s04",
-     "source": "Before the sun rose, he hurried to the top of the hill."
-    },
-    {
-     "id": "p003.s05",
-     "source": "The buffalo stood just where it had, but it faced the east."
-    },
-    {
-     "id": "p003.s06",
-     "source": "Again he waited for it to move."
-    },
-    {
-     "id": "p003.s07",
-     "source": "He waited all day."
-    },
-    {
-     "id": "p003.s08",
-     "source": "When the sun went down, the buffalo still stood in the same place."
+     "source": "He offers us his aid.”"
     }
    ],
    "id": "p003"
@@ -117,27 +81,23 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Nearly all night the young man lay awake."
+     "source": "Immediately afterward they heard a woodpecker."
     },
     {
      "id": "p004.s02",
-     "source": "He had very little food indeed."
+     "source": "He knocked against the trees."
     },
     {
      "id": "p004.s03",
-     "source": "The next morning he rose early, and came to the top of the hill, just as the sun came up."
+     "source": "The leader said, “That bird calls to us."
     },
     {
      "id": "p004.s04",
-     "source": "The buffalo was still standing in the same place; but now it faced the south."
+     "source": "He offers us his aid."
     },
     {
      "id": "p004.s05",
-     "source": "He waited all day."
-    },
-    {
-     "id": "p004.s06",
-     "source": "Then the sun went down."
+     "source": "He will take part in our council.”"
     }
    ],
    "id": "p004"
@@ -147,11 +107,15 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Now the next morning, when he arose early, the buffalo stood in the same place; this time it faced the west."
+     "source": "Then the chief appointed a man as servant."
     },
     {
      "id": "p005.s02",
-     "source": "All day the young man waited, but the buffalo did not move."
+     "source": "He said, “Go into the woods and get an ash sapling.”"
+    },
+    {
+     "id": "p005.s03",
+     "source": "The servant came back with a sapling having a rough bark."
     }
    ],
    "id": "p005"
@@ -161,15 +125,15 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Now the young man thought, “Why does not the buffalo move?”"
+     "source": "“We do not want that,” said the leader."
     },
     {
      "id": "p006.s02",
-     "source": "He saw it did not drink, did not eat, did not sleep."
+     "source": "“Go again and get a sapling with a smooth bark, bluish in color at the joint where a branch comes.”"
     },
     {
      "id": "p006.s03",
-     "source": "He thought some power must be influencing it."
+     "source": "So the servant went out, and came back with a sapling of the kind described."
     }
    ],
    "id": "p006"
@@ -179,19 +143,23 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Now the next morning, the young man hurried to the top of the hill."
+     "source": "When the leader took up the sapling, an eagle came and soared about the council which was sitting in the grass."
     },
     {
      "id": "p007.s02",
-     "source": "The sun had risen and everything was light."
+     "source": "He dropped a downy feather; it fell."
     },
     {
      "id": "p007.s03",
-     "source": "The buffalo was gone."
+     "source": "It fell in the center of the cleared space."
     },
     {
      "id": "p007.s04",
-     "source": "Then he saw where the buffalo had stood there was a strange bush."
+     "source": "Now this was the white eagle."
+    },
+    {
+     "id": "p007.s05",
+     "source": "The chief said, “This is not what we want,” so the white eagle passed on."
     }
    ],
    "id": "p007"
@@ -201,23 +169,23 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "He went to the place; then he saw it was a plant."
+     "source": "Then the bald eagle came swooping down, as though attacking its prey."
     },
     {
      "id": "p008.s02",
-     "source": "He looked for the tracks of the buffalo."
+     "source": "It balanced itself on its wings directly over the cleared space."
     },
     {
      "id": "p008.s03",
-     "source": "He saw where it had turned to the east and to the south and to the west."
+     "source": "It uttered fierce cries, and dropped one of its downy feathers, which stood on the ground as the other eagle’s feather had done."
     },
     {
      "id": "p008.s04",
-     "source": "In the center there was one track; out of it the small plant had grown."
+     "source": "The chief said, “This is not what we want.”"
     },
     {
      "id": "p008.s05",
-     "source": "There was no track to show where the buffalo had left the place."
+     "source": "So the bald eagle passed on."
     }
    ],
    "id": "p008"
@@ -227,19 +195,11 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Then the hunter hurried to his village."
+     "source": "Then came the spotted eagle, and soared over the council, and dropped its feather as the others had done."
     },
     {
      "id": "p009.s02",
-     "source": "He told the chiefs and the people of the strange buffalo and the plant."
-    },
-    {
-     "id": "p009.s03",
-     "source": "So all the chiefs and the people came to the place."
-    },
-    {
-     "id": "p009.s04",
-     "source": "They saw the tracks of the buffalo as he had stood, but there were no tracks of his coming or going."
+     "source": "The chief said, “This is not what we want,” and the spotted eagle passed on."
     }
    ],
    "id": "p009"
@@ -249,19 +209,15 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "So all the people knew that Wahkoda had given this strange plant to the people."
+     "source": "Then the imperial eagle, the eagle with the fantail, came, and soared over the people."
     },
     {
      "id": "p010.s02",
-     "source": "They knew of other plants they might eat."
+     "source": "It dropped a downy feather which stood upright in the center of the cleared space."
     },
     {
      "id": "p010.s03",
-     "source": "They knew there was a time when each plant was ripe."
-    },
-    {
-     "id": "p010.s04",
-     "source": "So they watched the strange plant; they guarded it and protected it."
+     "source": "The chief said, “This is what we want.”"
     }
    ],
    "id": "p010"
@@ -271,35 +227,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Then a flower appeared on the plant."
+     "source": "So the feathers of this eagle were used in making the peace pipes, together with the feathers of the owl and woodpecker, and with other things."
     },
     {
      "id": "p011.s02",
-     "source": "Afterwards, at one of the joints, a new part of the plant pushed out."
-    },
-    {
-     "id": "p011.s03",
-     "source": "It had hair."
-    },
-    {
-     "id": "p011.s04",
-     "source": "At first the hair was green; then it was brown."
-    },
-    {
-     "id": "p011.s05",
-     "source": "Then the people thought, “Perhaps this fruit is ripe.”"
-    },
-    {
-     "id": "p011.s06",
-     "source": "But they did not dare touch it."
-    },
-    {
-     "id": "p011.s07",
-     "source": "They met together."
-    },
-    {
-     "id": "p011.s08",
-     "source": "They looked at the plant."
+     "source": "These peace pipes were to be used in forming friendly relations with other tribes."
     }
    ],
    "id": "p011"
@@ -309,11 +241,35 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Then a young man said, “My life has not been good."
+     "source": "When the peace pipes were made, seven other pipes were made for keeping peace within the tribe."
     },
     {
      "id": "p012.s02",
-     "source": "If any evil comes to me, it will not matter.”"
+     "source": "One pipe was to prevent revenge."
+    },
+    {
+     "id": "p012.s03",
+     "source": "If one man should kill another, the chief took this pipe to the relatives and offered it to them."
+    },
+    {
+     "id": "p012.s04",
+     "source": "If the relatives of the dead man refused to accept it, it was offered again."
+    },
+    {
+     "id": "p012.s05",
+     "source": "It was offered four times."
+    },
+    {
+     "id": "p012.s06",
+     "source": "If it was refused four times, the chief said, “Well, you must take the consequences."
+    },
+    {
+     "id": "p012.s07",
+     "source": "We will do nothing, and you cannot now ask to see the pipes.”"
+    },
+    {
+     "id": "p012.s08",
+     "source": "He meant if they took revenge and any trouble came to them, they could not ask for help or for mercy."
     }
    ],
    "id": "p012"
@@ -323,123 +279,15 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "So the people were willing, and the young man put his hand on the plant and then on its fruit."
-    },
-    {
-     "id": "p013.s02",
-     "source": "He grasped the fruit boldly."
-    },
-    {
-     "id": "p013.s03",
-     "source": "He said to the people, “It is solid."
-    },
-    {
-     "id": "p013.s04",
-     "source": "It is ripe.”"
-    },
-    {
-     "id": "p013.s05",
-     "source": "Then he pulled apart the husks, and said, “It is red.”"
+     "source": "Each band had its own pipe."
     }
    ],
    "id": "p013"
   },
   {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p014.s01",
-     "source": "He took a few of the grains and showed them to the people."
-    },
-    {
-     "id": "p014.s02",
-     "source": "He ate some."
-    },
-    {
-     "id": "p014.s03",
-     "source": "He did not die."
-    },
-    {
-     "id": "p014.s04",
-     "source": "So the people knew Wahkoda had sent this plant to them for food."
-    }
-   ],
-   "id": "p014"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p015.s01",
-     "source": "Now in the fall, when the prairie grass turned brown, the leaves of this plant turned brown also."
-    },
-    {
-     "id": "p015.s02",
-     "source": "Then the fruit was plucked, and put away."
-    },
-    {
-     "id": "p015.s03",
-     "source": "After the winter was over, the kernels were divided."
-    },
-    {
-     "id": "p015.s04",
-     "source": "There were four to each family."
-    }
-   ],
-   "id": "p015"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p016.s01",
-     "source": "Then the people moved the lodges to the place where the plant had grown."
-    },
-    {
-     "id": "p016.s02",
-     "source": "When the hills became green, they planted the seed of the strange plant."
-    },
-    {
-     "id": "p016.s03",
-     "source": "But first they built little mounds like the one out of which it grew."
-    },
-    {
-     "id": "p016.s04",
-     "source": "So the fruit grew and ripened."
-    },
-    {
-     "id": "p016.s05",
-     "source": "It had many colors; red, and yellow, and white, and blue."
-    }
-   ],
-   "id": "p016"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p017.s01",
-     "source": "Then the next year there were many plants and many ears of corn."
-    },
-    {
-     "id": "p017.s02",
-     "source": "So they sent to other tribes."
-    },
-    {
-     "id": "p017.s03",
-     "source": "They invited them to visit them and gave them of the new food."
-    },
-    {
-     "id": "p017.s04",
-     "source": "Thus the Omahas came to have corn."
-    }
-   ],
-   "id": "p017"
-  },
-  {
    "type": "break",
    "segments": [],
-   "id": "p018"
+   "id": "p014"
   }
  ]
 }

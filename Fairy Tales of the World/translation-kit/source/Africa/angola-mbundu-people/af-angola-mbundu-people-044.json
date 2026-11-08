@@ -1,0 +1,72 @@
+{
+ "id": "af-angola-mbundu-people-044",
+ "title": {
+  "id": "title",
+  "source": "The White Man and the Negro"
+ },
+ "tradition": "Angola (Mbundu people)",
+ "continent": "Africa",
+ "source_lang": "en",
+ "source_book": "Folk-Tales of Angola (1894)",
+ "credits": "Chatelain, Héli (author, d. 1908)",
+ "gutenberg": "Internet Archive item `folktalesofangol00chat` — https://archive.org/details/folktalesofangol00chat (OCR text, lightly cleaned)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Africa/Angola (Mbundu people)/044 - The White Man and the Negro.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 8,
+  "words": 89
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Two men, a white man and a negro, had a discussion."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The white man said : “ I, in my house there is lacking nothing, I have all (things).”"
+    },
+    {
+     "id": "p002.s02",
+     "source": "The negro said : “ Untruth !"
+    },
+    {
+     "id": "p002.s03",
+     "source": "In thy house, I look for a thing, I do not find it.”"
+    },
+    {
+     "id": "p002.s04",
+     "source": "The white man said: “You, negroes, you lack all things ; I have to look for nothing.”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Manii, o muku’a uatambula umbanda ua hoji a hitu."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Abange mbeji."
+    },
+    {
+     "id": "p003.s03",
+     "source": "O muku’a, uatambula o umbanda, uxi: “Ngiia kua kamba diami, uakuatele pata.”"
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

@@ -4,7 +4,7 @@
 - **Source book:** *Fairy tales from South Africa*
 - **Author / collector / translator:** Bourhill, Sarah F. (author); Drake, Beatrice L. (author)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #75833 — https://www.gutenberg.org/ebooks/75833 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #75833 — https://www.gutenberg.org/ebooks/75833
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

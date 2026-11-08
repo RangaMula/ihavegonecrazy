@@ -1,0 +1,106 @@
+{
+ "id": "am-chile-025",
+ "title": {
+  "id": "title",
+  "source": "El Vendedor De Coquitos"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/025 - El Vendedor De Coquitos.md",
+ "stats": {
+  "paragraphs": 8,
+  "segments": 9,
+  "words": 76
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Un vendedor de coquitos tenía la costumbre, en vez de pregonar su mercadería, de hacerla sonar moviendo repetidas veces, de arriba abajo, el canasto que la contenía."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Se le acerca un gabacho que no habla castellano ni conoce los coquitos, y pregunta:"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "—Comment s’apelle—ça?"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "—Si no se pelan, ñor, se parten."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "—Comment?"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "—¡Con la mano!"
+    },
+    {
+     "id": "p006.s02",
+     "source": "No, iñor, con pieira."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "—Je ne comprend pas."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "—Y si no habís de comprar ¿pa qué preguntay, gringo tal por cual?"
+    }
+   ],
+   "id": "p008"
+  }
+ ]
+}

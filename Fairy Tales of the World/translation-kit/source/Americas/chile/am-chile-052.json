@@ -1,0 +1,56 @@
+{
+ "id": "am-chile-052",
+ "title": {
+  "id": "title",
+  "source": "EL FALTE BRUJO. (Me lo contó, en 1911, el joven D. Carlos Puccio, de años, de Molina.)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/052 - EL FALTE BRUJO. (Me lo contó, en 1911, el joven D. Carlos Puccio, de años, de Molina.).md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 4,
+  "words": 133
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Hay en Molina un falte que se llama Miguel Molina y es brujo y poeta."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Cuentan de él que una vez, en la Cordillera, se subió en pelo en un caballo blanco muy lindo que pacía en un potrero y vieron que de repente desapareció con la cabalgadura."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Dicen que llegó hasta la Argentina, pues ese mismo día lo vieron allá conversando con un amigo suyo."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Otra vez, que andaba vendiendo su mercadería por unos caminos, un hombre que conducía una carreta le sacó de la caja un pañuelo; él se hizo el que nada había visto y lo dejó irse; pero una vez que el hombre se hubo adelantado como tres cuadras, la carreta comenzó a retroceder hasta que llegó cerca del falte y el carretero tuvo que devolverle el pañuelo robado."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

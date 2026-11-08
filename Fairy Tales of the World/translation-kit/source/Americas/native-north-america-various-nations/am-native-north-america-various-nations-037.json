@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-037",
  "title": {
   "id": "title",
-  "source": "Shingebiss"
+  "source": "Why The Curlew'S Bill Is Long And Crooked"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Thirty Indian Legends",
- "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/037 - Shingebiss.md",
+ "source_book": "Indian Why Stories: Sparks from War Eagle's Lodge-Fire",
+ "credits": "Linderman, Frank Bird (author, d. 1938)",
+ "gutenberg": "Project Gutenberg eBook #606 — https://www.gutenberg.org/ebooks/606",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/037 - Why The Curlew'S Bill Is Long And Crooked.md",
  "stats": {
-  "paragraphs": 11,
-  "segments": 50,
-  "words": 639
+  "paragraphs": 17,
+  "segments": 65,
+  "words": 1040
  },
  "paragraphs": [
   {
@@ -23,31 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Once there was a little duck, whose name was Shingebiss."
+     "source": "When we reached War Eagle's lodge we stopped near the door, for the old fellow was singing—singing some old, sad song of younger days and keeping time with his tom-tom."
     },
     {
      "id": "p001.s02",
-     "source": "He lived by himself in a small lodge, and was very contented and happy."
-    },
-    {
-     "id": "p001.s03",
-     "source": "This lodge was built on the shore of a lake."
-    },
-    {
-     "id": "p001.s04",
-     "source": "When the cold winter days came, and the lake was frozen over, all the other ducks flew away to a warmer land."
-    },
-    {
-     "id": "p001.s05",
-     "source": "But Shingebiss was not afraid of the cold."
-    },
-    {
-     "id": "p001.s06",
-     "source": "He gathered four large logs and took them into his lodge."
-    },
-    {
-     "id": "p001.s07",
-     "source": "Each log was big enough to burn for a month, and as there were only four cold months, there would be enough to last him through the winter."
+     "source": "Somehow the music made me sad and not until it had ceased, did we enter."
     }
    ],
    "id": "p001"
@@ -57,11 +37,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Then each morning he would go to the lake, and hunt for places where the rushes came through the ice."
+     "source": "\"How!"
     },
     {
      "id": "p002.s02",
-     "source": "He would pull these out with his strong beak, and catch fish through the openings."
+     "source": "How!\"—he greeted us, with no trace of the sadness in his voice that I detected in his song."
     }
    ],
    "id": "p002"
@@ -71,15 +51,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Kabibonokka, the north wind, saw him, and said to himself, \"What a strange person this is."
+     "source": "\"You have come here to-night to learn why the Curlew's bill is so long and crooked."
     },
     {
      "id": "p003.s02",
-     "source": "He sings and is out on the coldest days."
-    },
-    {
-     "id": "p003.s03",
-     "source": "But I shall stop his singing.\""
+     "source": "I will tell you, as I promised, but first I must smoke.\""
     }
    ],
    "id": "p003"
@@ -89,11 +65,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "So he blew a cold blast from the north-west, which froze the ice on the lake much deeper."
-    },
-    {
-     "id": "p004.s02",
-     "source": "Still Shingebiss came out in the morning, caught his fish, and went home singing."
+     "source": "In silence we waited until the pipe was laid aside, then War Eagle began:"
     }
    ],
    "id": "p004"
@@ -103,11 +75,19 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "\"How strange,\" said the north wind, \"I cannot freeze him; I shall go and visit his lodge."
+     "source": "\"By this time you know that OLD-man was not always wise, even if he did make the world, and all that is on it."
     },
     {
      "id": "p005.s02",
-     "source": "Perhaps I can put out his fire.\""
+     "source": "He often got into trouble but something always happened to get him out of it."
+    },
+    {
+     "id": "p005.s03",
+     "source": "What I shall tell you now will show you that it is not well to try to do things just because others do them."
+    },
+    {
+     "id": "p005.s04",
+     "source": "They may be right for others, and wrong for us, but OLD-man didn't understand that, you see."
     }
    ],
    "id": "p005"
@@ -117,61 +97,49 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "So he went and knocked at the door of the lodge."
+     "source": "\"One day he saw some mice playing and went near to watch them."
     },
     {
      "id": "p006.s02",
-     "source": "Shingebiss was within."
+     "source": "It was spring-time, and the frost was just coming out of the ground."
     },
     {
      "id": "p006.s03",
-     "source": "He had cooked and eaten his fish, and now was lying on one side in front of the fire, singing a song."
+     "source": "A big flat rock was sticking out of a bank near a creek, and the sun had melted the frost from the earth about it, loosening it, so that it was about to fall."
     },
     {
      "id": "p006.s04",
-     "source": "He heard the north wind at the door, but he pretended that he did not."
+     "source": "The Chief-Mouse would sing a song, while all the other mice danced, and then the chief would cry 'now!' and all the mice would run past the big rock."
     },
     {
      "id": "p006.s05",
-     "source": "He went on singing in quite a loud voice:"
+     "source": "On the other side, the Chief-Mouse would sing again, and then say 'now!'—back they would come—right under the dangerous rock."
+    },
+    {
+     "id": "p006.s06",
+     "source": "Sometimes little bits of dirt would crumble and fall near the rock, as though warning the mice that the rock was going to fall, but they paid no attention to the warning, and kept at their playing."
+    },
+    {
+     "id": "p006.s07",
+     "source": "Finally OLD-man said:"
     }
    ],
    "id": "p006"
   },
   {
-   "type": "verse",
+   "type": "prose",
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"Windy god, I know your plan,"
+     "source": "\"'Say, Chief-Mouse, I want to try that."
     },
     {
      "id": "p007.s02",
-     "source": "You are but my fellow-man."
+     "source": "I want to play that game."
     },
     {
      "id": "p007.s03",
-     "source": "Blow you may your coldest breeze,"
-    },
-    {
-     "id": "p007.s04",
-     "source": "Shingebiss yon cannot freeze;"
-    },
-    {
-     "id": "p007.s05",
-     "source": "Sweep the strongest wind you can,"
-    },
-    {
-     "id": "p007.s06",
-     "source": "Shingebiss is still your man."
-    },
-    {
-     "id": "p007.s07",
-     "source": "Heigh, for life—ho, for bliss,"
-    },
-    {
-     "id": "p007.s08",
-     "source": "Who so free as Shingebiss?\""
+     "source": "I am a good runner.'"
     }
    ],
    "id": "p007"
@@ -181,47 +149,11 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "The north wind heard him and was very angry."
+     "source": "\"He wasn't, you know, but he thought he could run."
     },
     {
      "id": "p008.s02",
-     "source": "He blew his coldest blast under the doorway, Shingebiss felt it, but still went on singing."
-    },
-    {
-     "id": "p008.s03",
-     "source": "Then the north wind opened the door, and walked in."
-    },
-    {
-     "id": "p008.s04",
-     "source": "He took a seat beside the fire, and Shingebiss pretended not to see him."
-    },
-    {
-     "id": "p008.s05",
-     "source": "He just went on singing, and after a while took his poker and stirred the logs."
-    },
-    {
-     "id": "p008.s06",
-     "source": "This made them blaze brightly, and in a few minutes tears began to run down Kabibonokka's cheeks."
-    },
-    {
-     "id": "p008.s07",
-     "source": "He pushed his chair away from the fire and tried to blow his icy breath on the blazing log."
-    },
-    {
-     "id": "p008.s08",
-     "source": "But the warm air pushed the cold breeze back and wrapped Kabibonokka around like a cloak."
-    },
-    {
-     "id": "p008.s09",
-     "source": "The tears were running in streams down his cheeks now, and the heavy frost on his long beard and hair had melted and made pools of water on the floor."
-    },
-    {
-     "id": "p008.s10",
-     "source": "He could stand it no longer."
-    },
-    {
-     "id": "p008.s11",
-     "source": "Rising, he hastily passed out the door, saying to himself, \"I cannot put out his fire, but I shall freeze the lake so deep that he will not be able to catch any more fish.\""
+     "source": "That is often where we make great mistakes—when we try to do things we were not intended to do."
     }
    ],
    "id": "p008"
@@ -231,31 +163,23 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "So that night he blew his coldest breath."
+     "source": "\"'No—no!' cried the Chief-Mouse, as OLD-man prepared to make the race past the rock."
     },
     {
      "id": "p009.s02",
-     "source": "Next morning the ice on the lake was very thick."
+     "source": "'No!—No!—you will shake the ground."
     },
     {
      "id": "p009.s03",
-     "source": "Brave little Shingebiss went from one place to another trying to find a thin spot."
+     "source": "You are too heavy, and the rock may fall and kill you."
     },
     {
      "id": "p009.s04",
-     "source": "At last a bunch of rushes came out as he pulled, and, looking in the hole, he saw several fine fish."
+     "source": "My people are light of foot and fast."
     },
     {
      "id": "p009.s05",
-     "source": "He sang merrily as he caught them, and the north wind heard the song."
-    },
-    {
-     "id": "p009.s06",
-     "source": "Looking out of his lodge, he saw what Shingebiss was doing."
-    },
-    {
-     "id": "p009.s07",
-     "source": "At first he was very angry, then he began to feel afraid."
+     "source": "We are having a good time, but if you should try to do as we are doing you might get hurt, and that would spoil our fun.'"
     }
    ],
    "id": "p009"
@@ -265,11 +189,11 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"This duck must be helped by some Manitou,\" he said."
+     "source": "\"'Ho!' said OLD-man, 'stand back!"
     },
     {
      "id": "p010.s02",
-     "source": "\"I shall leave him in peace after this.\""
+     "source": "I'll show you what a runner I am.'"
     }
    ],
    "id": "p010"
@@ -279,10 +203,182 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Then Kabibonokka went in and closed his lodge door and Shingebiss never saw him again."
+     "source": "\"He ran like a grizzly bear, and shook the ground with his weight."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Swow!—came the great rock on top of OLD-man and held him fast in the mud."
+    },
+    {
+     "id": "p011.s03",
+     "source": "My! how he screamed and called for aid."
+    },
+    {
+     "id": "p011.s04",
+     "source": "All the Mice-people ran away to find help."
+    },
+    {
+     "id": "p011.s05",
+     "source": "It was a long time before the Mice-people found anybody, but they finally found the Coyote, and told him what had happened."
+    },
+    {
+     "id": "p011.s06",
+     "source": "Coyote didn't like OLD-man very much, but he said he would go and see what he could do, and he did."
+    },
+    {
+     "id": "p011.s07",
+     "source": "The Mice-people showed him the way, and when they all reached the spot—there was OLD-man deep in the mud, with the big rock on his back."
+    },
+    {
+     "id": "p011.s08",
+     "source": "He was angry and was saying things people should not say, for they do no good and make the mind wicked."
     }
    ],
    "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"Coyote said: 'Keep still, you big baby."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Quit kicking about so."
+    },
+    {
+     "id": "p012.s03",
+     "source": "You are splashing mud in my eyes."
+    },
+    {
+     "id": "p012.s04",
+     "source": "How can I see with my eyes full of mud?"
+    },
+    {
+     "id": "p012.s05",
+     "source": "Tell me that."
+    },
+    {
+     "id": "p012.s06",
+     "source": "I am going to try to help you out of your trouble.'"
+    },
+    {
+     "id": "p012.s07",
+     "source": "He tried but OLD-man insulted Coyote, and called him a name that is not good, so the Coyote said, 'Well, stay there,' and went away."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"Again OLD-man began to call for helpers, and the Curlew, who was flying over, saw the trouble, and came down to the ground to help."
+    },
+    {
+     "id": "p013.s02",
+     "source": "In those days Curlew had a short, stubby bill, and he thought that he could break the rock by pecking it."
+    },
+    {
+     "id": "p013.s03",
+     "source": "He pecked and pecked away without making any headway, till OLD-man grew angry at him, as he did at the Coyote."
+    },
+    {
+     "id": "p013.s04",
+     "source": "The harder the Curlew worked, the worse OLD-man scolded him."
+    },
+    {
+     "id": "p013.s05",
+     "source": "OLD-man lost his temper altogether, you see, which is a bad thing to do, for we lose our friends with it, often."
+    },
+    {
+     "id": "p013.s06",
+     "source": "Temper is like a bad dog about a lodge—no friends will come to see us when he is about."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"Curlew did his best but finally said: 'I'll go and try to find somebody else to help you."
+    },
+    {
+     "id": "p014.s02",
+     "source": "I guess I am too small and weak."
+    },
+    {
+     "id": "p014.s03",
+     "source": "I shall come back to you.'"
+    },
+    {
+     "id": "p014.s04",
+     "source": "He was standing close to OLD-man when he spoke, and OLD-man reached out and grabbed the Curlew by the bill."
+    },
+    {
+     "id": "p014.s05",
+     "source": "Curlew began to scream—oh, my—oh, my—oh, my—as you still hear them in the air when it is morning."
+    },
+    {
+     "id": "p014.s06",
+     "source": "OLD-man hung onto the bill and finally pulled it out long and slim, and bent it downward, as it is to-day."
+    },
+    {
+     "id": "p014.s07",
+     "source": "Then he let go and laughed at the Curlew."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"'You are a queer-looking bird now."
+    },
+    {
+     "id": "p015.s02",
+     "source": "That is a homely bill, but you shall always wear it and so shall all of your children, as long as there are Curlews in the world.'"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"I have forgotten who it was that got OLD-man out of his trouble, but it seems to me it was the bear."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Anyhow he did get out somehow, and lived to make trouble, until Manitou grew tired of him."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"There are good things that OLD-man did and to-morrow night, if you will come early, I will tell you how OLD-man made the world over after the water made its war on the land, scaring all the animal-people and the bird-people."
+    },
+    {
+     "id": "p017.s02",
+     "source": "I will also tell you how he made the first man and the first woman and who they were."
+    },
+    {
+     "id": "p017.s03",
+     "source": "But now the grouse is fast asleep; nobody is stirring but those who were made to see in the dark, like the owl and the wolf.— Ho!\""
+    }
+   ],
+   "id": "p017"
   }
  ]
 }

@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-093",
  "title": {
   "id": "title",
-  "source": "Omaha Beliefs"
+  "source": "The Ancestors Of People"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
  "source_book": "Myths and Legends of the Great Plains",
  "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/093 - Omaha Beliefs.md",
+ "markdown_file": "Americas/Native North America (various nations)/093 - The Ancestors Of People.md",
  "stats": {
-  "paragraphs": 6,
+  "paragraphs": 9,
   "segments": 15,
-  "words": 224
+  "words": 121
  },
  "paragraphs": [
   {
@@ -23,7 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Omaha"
+     "source": "Osage"
     }
    ],
    "id": "p001"
@@ -33,15 +33,23 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "S ong was an integral part of Omaha life."
+     "source": "T here are people who come from under the water."
     },
     {
      "id": "p002.s02",
-     "source": "Through song, the Omaha approached the mysterious Wakoda; through song he voiced his emotions, both individual and social; through song he embodied feelings and aspirations that eluded expression in words."
+     "source": "They lived in the water weeds that hang down, all green, into the water."
     },
     {
      "id": "p002.s03",
-     "source": "In one of their ceremonies, the Wa´ wa, “to sing for somebody,” songs are one of the chief characteristics."
+     "source": "They have leaves upon their stems."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Now the water people lived in shells."
+    },
+    {
+     "id": "p002.s05",
+     "source": "The shells were their houses and kept the water out."
     }
    ],
    "id": "p002"
@@ -51,47 +59,34 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "In this ceremony, the eagle is “Mother.”"
+     "source": "There were other animals who lived under the earth."
     },
     {
      "id": "p003.s02",
-     "source": "She calls to her nestlings and upon her strong wings she bears the message of peace."
+     "source": "Cougar lived under the earth, and bear, and buffalo."
     },
     {
      "id": "p003.s03",
-     "source": "Peace and its symbol, the clear, cloudless sky, are the theme of the principal songs."
+     "source": "These creatures came up out of the ground."
     },
     {
      "id": "p003.s04",
-     "source": "The curlew, in the early morning, stretches its neck and its wing as it sits on the roost, and utters a long note."
+     "source": "Then the shell people came up to the earth also; and the sky people came down."
     },
     {
      "id": "p003.s05",
-     "source": "The sound is considered an indication that the day will be cloudless."
+     "source": "So all these three peoples lived together."
+    },
+    {
+     "id": "p003.s06",
+     "source": "They are the fathers of the people who live on the earth today."
     }
    ],
    "id": "p003"
   },
   {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p004.s01",
-     "source": "Green represents the verdure of the earth; blue is the color of the sky; red is the color of the sun, typifying life."
-    },
-    {
-     "id": "p004.s02",
-     "source": "The eagle is the bird of tireless strength."
-    },
-    {
-     "id": "p004.s03",
-     "source": "The owl represents night, and the woodpecker the day and sun."
-    },
-    {
-     "id": "p004.s04",
-     "source": "These two birds also stand for life and death."
-    }
-   ],
+   "type": "break",
+   "segments": [],
    "id": "p004"
   },
   {
@@ -99,19 +94,40 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Wakoda gives to man the sunshine, the clear sky from which all storms, all clouds are absent; in the Wa´ wa ceremony, they stand for peace."
-    },
-    {
-     "id": "p005.s02",
-     "source": "In this connection, black storm clouds with their thunder and lightning are emblematic of war."
+     "source": "(Omaha)"
     }
    ],
    "id": "p005"
   },
   {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Courtesy of the Smithsonian Institution"
+    }
+   ],
+   "id": "p006"
+  },
+  {
    "type": "break",
    "segments": [],
-   "id": "p006"
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Courtesy of the Smithsonian Institution"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p009"
   }
  ]
 }

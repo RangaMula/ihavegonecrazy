@@ -1,0 +1,86 @@
+{
+ "id": "eu-slavic-peoples-pan-slavic-026",
+ "title": {
+  "id": "title",
+  "source": "Moravian Stories"
+ },
+ "tradition": "Slavic peoples (pan-Slavic)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Sixty Folk-Tales from Exclusively Slavonic Sources",
+ "credits": "Wratislaw, Albert Henry (compiler, d. 1892)",
+ "gutenberg": "Project Gutenberg eBook #48761 — https://www.gutenberg.org/ebooks/48761",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Slavic peoples (pan-Slavic)/026 - Moravian Stories.md",
+ "stats": {
+  "paragraphs": 4,
+  "segments": 10,
+  "words": 207
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "M ORAVIA is so named from the river Morava (in German the river March), of which, and its affluents, it is the basin."
+    },
+    {
+     "id": "p001.s02",
+     "source": "It falls into the Danube a little above Presburg."
+    },
+    {
+     "id": "p001.s03",
+     "source": "In very early times Moravia appears to have been more civilized and powerful than Bohemia; but later, Bohemia became a considerable kingdom, and Moravia a dependency of, and eventually a margravate under the Bohemian crown."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "The Moravian stories differ but little in character from those of Bohemia."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The country, unlike Bohemia, abounds in dialects, although the literary language is the Bohemian."
+    },
+    {
+     "id": "p002.s03",
+     "source": "On the east the Moravian melts into the Silesian, or ‘Water-Polish.’"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "No. 8 , ‘Godmother Death,’ is an interesting variant of the Teutonic ‘Godfather Death,’ which is given by Grimm."
+    },
+    {
+     "id": "p003.s02",
+     "source": "The reason why Death is represented as a Godmother, rather than a Godfather, in the Moravian story, is, that Death ( Smrt ) is feminine in all Slavonic dialects."
+    },
+    {
+     "id": "p003.s03",
+     "source": "The story constructed on this basis is more graceful and fuller of incident than the Teutonic tale, in which Death is masculine."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "No. 9 is another story falling under the head of ‘Natural Science in Allegory,’ which is clearer and simpler in construction and interpretation than any variant of it that I am acquainted with."
+    }
+   ],
+   "id": "p004"
+  }
+ ]
+}

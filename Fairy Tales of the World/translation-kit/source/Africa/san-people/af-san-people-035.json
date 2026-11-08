@@ -2,20 +2,20 @@
  "id": "af-san-people-035",
  "title": {
   "id": "title",
-  "source": "Die Boesman en Leeu ontmoet in ’n Spelonk"
+  "source": "Leeu, Wolf en Jakkals"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
  "source_book": "Boesman-Stories. Deel 2, Dierstories en ander verhale",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/035 - Die Boesman en Leeu ontmoet in ’n Spelonk.md",
+ "markdown_file": "Africa/San people/035 - Leeu, Wolf en Jakkals.md",
  "stats": {
-  "paragraphs": 22,
-  "segments": 63,
-  "words": 1305
+  "paragraphs": 27,
+  "segments": 59,
+  "words": 1065
  },
  "paragraphs": [
   {
@@ -23,19 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "OPMERKINGS:—Al die storievertellers verhaal dieselfde storie nie op dieselfde wyse nie."
-    },
-    {
-     "id": "p001.s02",
-     "source": "So word in baie gevalle dele van een storie by ’n ander gevoeg."
-    },
-    {
-     "id": "p001.s03",
-     "source": "Wanneer verskillende verhale met mekaar vergelyk word, dan kry ons min of meer ’n idee hoe ’n storie inmekaar sit."
-    },
-    {
-     "id": "p001.s04",
-     "source": "Hierdie storie is ’n karakterskildering van die gedrag van Leeu."
+     "source": "OPMERKINGS:—Hierdie storie is ’n duidelike skildering van wat Leeu, Wolf en Jakkals doen as hulle wild vang."
     }
    ],
    "id": "p001"
@@ -45,23 +33,31 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "L eeu behoor ook aan die ou geslag en kan baie fyn planne maak om aan sy kos te kom."
+     "source": "L eeu is ook een van die ou geslag; daarom is hy Leeu."
     },
     {
      "id": "p002.s02",
-     "source": "Hy kry eendag, toe die son ondergaan, ’n plan om reën te maak; hy laat die lug donker toetrek, sodat iemand nie sy hande voor sy oë kan sien nie."
+     "source": "Sy maters om te jag, loop maar min rond."
     },
     {
      "id": "p002.s03",
-     "source": "Ja, daardie aand word dit so donker, so donker, of iemand hom agter in ’n kliphuis in ’n stikdonker nag bevind."
+     "source": "Hy is man!"
     },
     {
      "id": "p002.s04",
-     "source": "Baie het ook daardie aand glad so verdwaal dat hul hulle huise nie kon vind nie."
+     "source": "Ek sê: hy is man!"
     },
     {
      "id": "p002.s05",
-     "source": "En moenie praat hoe dit reën nie!—dit lyk of ou meide en knopkieries tegelyk uit die lug val."
+     "source": "Wolf kan ook jag, hy kan ook iets in die hande kry; maar waar Leeu nog bly staan en sê: „Durf nader kom!” daar het Wolf al lankal rieme neergesit en gehol dat hy klein word."
+    },
+    {
+     "id": "p002.s06",
+     "source": "Van Jakkals is nie eens te praat nie!"
+    },
+    {
+     "id": "p002.s07",
+     "source": "Hy is ’n bedelaar, hol vir die kleinste geritsel en kan dan sulke fyn draaie om die bossies maak dat hy somar hierso-hierso by jou wegraak."
     }
    ],
    "id": "p002"
@@ -71,11 +67,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Een Boesman het glad sy pad verloor."
-    },
-    {
-     "id": "p003.s02",
-     "source": "Hy wis wel dat hy naby ’n spelonk, of kliphuis, was; maar waar dit juis is, dit kon hy op die oomblik nie sê nie."
+     "source": "Eendag toe die son ondergaan, staan Leeu van sy slaapplek op, rek hom ewe lui uit en begin teen die wind op te snuiwe. „Arrie, vrou, ek ruik kwaggas—ek ruik hul hier naby; toe kom jy en die kinders maar agter my aan en hol nader net so gou ek die kwagga teen die grond het.”"
     }
    ],
    "id": "p003"
@@ -85,11 +77,23 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Leeu merk toe dat die Boesman na die klipgrot soek."
+     "source": "Hy stap teen die wind op; en toe hy die kwaggas deur die bome en bosse sien wei, gaan hy koes-koes nader en gaan hul voorlê."
     },
     {
      "id": "p004.s02",
-     "source": "En daar dit so sterk reën en koud is, hol hy vooruit en gaan die Boesman in die plek afwag deur agterin te kruip."
+     "source": "Toe die Leeu-vrou dit sien, weet sy haar tyd: sy gaan saggies om, maak die kwaggas skrik; hul vlug, en daar het haar man ’n kans."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Hy spring uit sy skuilplek op, en met een spring sit hy bo-op ’n kwagga."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Hy slaan sy naels diep vas in die vel en pak sy prooi met die tande agter die nek, sodat hy die dier teen die grond laat val. ’n Worsteling vind plaas, en die wyfie kom by."
+    },
+    {
+     "id": "p004.s05",
+     "source": "Dit het nie lank geduur nie, of hy was oorlede kwagga."
     }
    ],
    "id": "p004"
@@ -99,7 +103,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Leeu was nat en koud: hy rittel soos hy bewe; en toe hy warm word, voel hy vakerig en val vas in die slaap, maar bly nog altyd so sit."
+     "source": "Toe storm die twee of drie kinders by: hulle brom en knor so woedend asof hulle die wild gevang het."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Die twee oues skeur die vel van die kwagga plek-plek weg om vir hulle en die kleintjies vreetplek te kry; dit is nie eet nie, maar wel gulsig vreet."
     }
    ],
    "id": "p005"
@@ -109,35 +117,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Die Boesman, wat nog altyd aan ronddwaal was, kry eindelik die plek en kruip met sy goed op sy rug voel-voel binne."
-    },
-    {
-     "id": "p006.s02",
-     "source": "Maar hy hoor iemand—miskien meer—hard asemhaal asof hy slaap."
-    },
-    {
-     "id": "p006.s03",
-     "source": "Dog die asemhaling was te hard en diep om dié van ’n mens te wees, so luister hy met gespanne aandag."
-    },
-    {
-     "id": "p006.s04",
-     "source": "Hy kan egter nie met sekerheid verklaar wat dit is wat so swaar asemhaal nie."
-    },
-    {
-     "id": "p006.s05",
-     "source": "Hy besluit om baie saggies nader te kruip om sy hand effentjies op die persoon of ding te lê."
-    },
-    {
-     "id": "p006.s06",
-     "source": "Hy voel en plaas sy hand op ’n harige iets."
-    },
-    {
-     "id": "p006.s07",
-     "source": "Hy skrik; dog om seker te wees, voel hy nog ’n keer."
-    },
-    {
-     "id": "p006.s08",
-     "source": "En, jou waarlik, dit is niemand anders as Leeu nie—’n tamaai knewel!"
+     "source": "Wolf en Jakkals, wat toe ook al by hierdie tyd op die rondsnuffel is, het gou die bloed geruik, die rumoer van die kleintjies gehoor—en hulle draf nader."
     }
    ],
    "id": "p006"
@@ -147,11 +127,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Saggies, soos ’n kat, kruip hy terug en stap voel-voel op die puntjies van sy voete die spelonk uit."
-    },
-    {
-     "id": "p007.s02",
-     "source": "Hy het nog nie sy goed neergesit nie, so het hy nie lank versuim nie."
+     "source": "„Asseblief, Leeu, gee tog vir my ook ’n stukkie,” vra Wolf."
     }
    ],
    "id": "p007"
@@ -161,11 +137,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Hy voel aan sy hart wat nou gaan gebeur: Leeu sal sy ruik kry en sal hom agtervolg."
-    },
-    {
-     "id": "p008.s02",
-     "source": "Daar hy min of meer weet waar hy toe was, kon hy ’n bekende pad volg en moes daar voor deur ’n stroom swem; want Leeu is maar ’n bietjie vies vir waterstrome."
+     "source": "„En vir my ook ’n stukkie,” smeek Jakkals."
     }
    ],
    "id": "p008"
@@ -175,27 +147,15 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Leeu skrik wakker toe hy die Boesman se ruik kry."
+     "source": "„Wat praat julle daar?"
     },
     {
      "id": "p009.s02",
-     "source": "Met ’n geknor en brul bespring hy die plek waar die ruik nog vars is; hy vang met sy voorpoot in die donker rond; maar alles wat hy mee in aanraking kom, is net skone lug."
+     "source": "Die kinders raas so dat ek vir julle nie kan verstaan nie."
     },
     {
      "id": "p009.s03",
-     "source": "Leeu word woedend en brul binnensmonds, dog hardop."
-    },
-    {
-     "id": "p009.s04",
-     "source": "Dadelik gaan hy op die ruik van die spoor en druk vinnig op om die Boesman in te haal."
-    },
-    {
-     "id": "p009.s05",
-     "source": "Hy kom voor die waterloop, en dis vol. Toe kry hy ’n bietjie spyt dat hy so danig baie laat reën het."
-    },
-    {
-     "id": "p009.s06",
-     "source": "Hy moes daar lank vertoef om deurgaanplek te kry."
+     "source": "Kom nader,” sê Leeu met ’n knik in sy oog, asof hy wil sê: „Durf tog asseblief nader kom, dan kan julle sien hare waai en hoor huil en tjank.”"
     }
    ],
    "id": "p009"
@@ -205,19 +165,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Onderwyl het die Boesman deurgeswem en het met ’n bekende pad voel-voel in die pikdonker aangedruk om ’n plek te bereik wat hy goed ken."
-    },
-    {
-     "id": "p010.s02",
-     "source": "Hy sien ’n vuurtjie brand en dog dat dit die plek of die oog van Leeu is wat so sterk in die donker blink."
-    },
-    {
-     "id": "p010.s03",
-     "source": "Asemloos steek hy vas, en sy hart klop tot in sy keel."
-    },
-    {
-     "id": "p010.s04",
-     "source": "Wat nou gedoen?"
+     "source": "Die twee waag dit; hulle kom stert tussen die bene smeek-smeek aan, dog voel darem nie alte perdgerus nie."
     }
    ],
    "id": "p010"
@@ -227,7 +175,15 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "„Dood is ek, dood!” sê hy by homself. „As dit Leeu is, kan ek nou nie ’n steek verder vlug nie.”"
+     "source": "„Waau!"
+    },
+    {
+     "id": "p011.s02",
+     "source": "Haau!” was al wat Leeu sê toe hy probeer hoe diep hy sy naels in Wolf se vel kan inploeg."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Wolf huil en vlug."
     }
    ],
    "id": "p011"
@@ -237,7 +193,7 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Naas die Boesman was ’n diep klipskeur; hy breek ’n doringtak af, kruip in die skeur en trek die tak voor hom in die skeur sodat Leeu hom nie kan bykom nie."
+     "source": "Jakkals sê net: „Die deksels!” en staan daar ver op die vlakte."
     }
    ],
    "id": "p012"
@@ -247,15 +203,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Hy het nie te lank gelê nie, of hy kom tot die oortuiging dat die lig wat hy sien, ’n regte vuur is; want hy het dit altyd in die oog gehou."
-    },
-    {
-     "id": "p013.s02",
-     "source": "Maar om nou te vlug om daardie vuur te bereik, is nie aan te dink nie, daar Leeu nou te baie tyd gekry het om hom in te haal."
-    },
-    {
-     "id": "p013.s03",
-     "source": "Dis bitter koud, hy voel nat; maar wat anders kan hy doen as om tot dag toe in daardie donker skeur te lê?"
+     "source": "„Asseblief, Leeu, gee tog vir my ook ’n stukkie,” vra Wolf. „En vir my ook ’n stukkie,” smeek Jakkals."
     }
    ],
    "id": "p013"
@@ -265,11 +213,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Pas het die gedagte deur sy hart gegaan, of die flou maan skyn deur die wolke en maak ’n grou lig—en hier staan Leeu regtig met sy twee blink oë vlak voor die skeur."
+     "source": "Wolf staan te huil: „Hoe-hoei!"
     },
     {
      "id": "p014.s02",
-     "source": "Hy roep: „Kom uit, of ek kom jou daaruit sleep!”"
+     "source": "Hoe-hoei!” toe hy sien hoe manhaftig Leeu hom staan nakyk, tong aflek en weer gulsig gaan vreet."
     }
    ],
    "id": "p014"
@@ -279,11 +227,15 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Die Boesman kruip nes Skilpad in sy dop—of liewers gesê: in die klipskeur."
+     "source": "Jakkals het dit op sy senuwee, en in die verwarring staan hy te tjank: „Haaa … eina!"
     },
     {
      "id": "p015.s02",
-     "source": "Dis ’n benoude uurtjie."
+     "source": "Soe-eina!” en dan begin hy meteen in ’n lag deurslaan: „Ha-ga-ga!"
+    },
+    {
+     "id": "p015.s03",
+     "source": "Ha-gè-gè, ha!”"
     }
    ],
    "id": "p015"
@@ -293,23 +245,7 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Gits! hier hoor hy ’n geritsel agter hom—daar is nie takke om te keer nie."
-    },
-    {
-     "id": "p016.s02",
-     "source": "Hy draai sy kop haastig om, en toe sien hy ’n syskeur; en daar skyn ’n dowwe lig in."
-    },
-    {
-     "id": "p016.s03",
-     "source": "Hy hoor stemme van Boesmans; en toe kruip hy dieper in, kronkel hom in die sygangetjie en sien ’n groot opening met ’n ander inkomplek."
-    },
-    {
-     "id": "p016.s04",
-     "source": "In die groot opening brand ’n heerlike vuur, waarby twee Boesmans, wat ook verdwaal het, lê en slaap."
-    },
-    {
-     "id": "p016.s05",
-     "source": "Maar hulle het ook vir die gebrul van Leeu wakkergeskrik: hulle sit nou regop en gryp na hulle pyle en boë."
+     "source": "(Die Boesmans kan die geluide beter naboots as ons dit kan neerskrywe.)"
     }
    ],
    "id": "p016"
@@ -319,15 +255,15 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Die Boesman in die skeur praat toe gou om te laat verstaan dat hy nie Leeu is nie."
+     "source": "„Oe .. è!"
     },
     {
      "id": "p017.s02",
-     "source": "Het hy dit nie gedoen nie, dan was hy so waar ’n kind van die dood; want die twee by die vuur sit net klaar om met hulle gifpyle in die skeur in te skiet waarin hy gekruip het."
+     "source": "Oe .. e!” brul die oues binnensmonds. „Njirr, njirr!"
     },
     {
      "id": "p017.s03",
-     "source": "Hulle was bly om mekaar in so ’n gevaarlike oomblik te ontmoet."
+     "source": "Ma-au, ma-au!” knor die kleintjies soos hulle dreig. (’n Klein leeutjie meeu net soos ’n kat.)"
     }
    ],
    "id": "p017"
@@ -337,11 +273,11 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Die vuur word groter gemaak om meer lig te gee en om stompe vuur te kry om Leeu mee te gooi as hy durf nader kom."
+     "source": "Wolf staan kop in die lug en huil."
     },
     {
      "id": "p018.s02",
-     "source": "Leeu het ook nie gewag nie: hy het om die klipstawel van groot rotse kom loer, dog was baie bang om die Boesmans by die brandende vuur te storm: vuur is sy moses."
+     "source": "Hieroor vererg Leeu se vrou haar, en sy maak ’n draai onder Wolf en die tjankende Jakkals, wat by hierdie tyd gaan sit het en kop in die lug met uitgesteekte tong sit tjank—maar sonder trane."
     }
    ],
    "id": "p018"
@@ -351,7 +287,15 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "So roep hy uit: „Stoot daardie man uit wat gedurf het om my in my huis te kom pla; hy is hier, want sy spore hou hierso op!”"
+     "source": "Die twee neem ’n vaart veld se kant toe dat die bossies so kraak."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Dog toe hul die wyfie weer aan vreet sien, kom hul voetjie vir voetjie nader en snuiwe in die lug of hul betaal word."
+    },
+    {
+     "id": "p019.s03",
+     "source": "Maar kans kry om ’n lekkie te steel, is net verniet."
     }
    ],
    "id": "p019"
@@ -361,7 +305,11 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "„Kom haal jy hom maar self hier uit as jy man genoeg is om hom hier uit te kom vat,” sê die ander twee by wyse van grootpraat."
+     "source": "Jakkals en Wolf het toe al hotkant-toe en toe haarkant-toe gestaan; maar nou ja die groot lus hul somar alkant-toe."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Hul moes maar behoorlik wag tot Leeu en sy gesin klaar met eet het en versadig wegstap om onder die naaste boom te gaan lê om te kyk wat nou gaan gebeur."
     }
    ],
    "id": "p020"
@@ -371,15 +319,7 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "Leeu blaas deur sy baard—so woedend word hy; dog hy staan uit vlakte se kant toe, want hy is vir daardie stompe vuur net so versigtig as wat ’n slang vir pypolie is."
-    },
-    {
-     "id": "p021.s02",
-     "source": "Hy stap toe sonder om geraas te maak daar ver om die plek en hou hulle gedurig dop of hulle nie huis-toe sal gaan nie, of ’n onbedagte oomblik hom nie ’n kans sal gee om tussen hulle in te spring, een te pak en met hom weg te stap nie."
-    },
-    {
-     "id": "p021.s03",
-     "source": "Maar daarvoor is oom Boesman te oulik: hulle bly by die vuur sit, al het die brandhout amper opgegee—en huistoegaan is nou net min by hulle."
+     "source": "Toe draf Wolf en Jakkals gulsig nader en val weg."
     }
    ],
    "id": "p021"
@@ -389,18 +329,92 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "Toe die son uitkom, stap Leeu nog daar ver om die klipkoppie; dog toe die aarde heeltemal onder die gloed van lig lê, stap Leeu ewe teleurgesteld na sy huis toe in die digte bosse of riete; want so dapper as hy is, sal hy dit nie somar waag om ’n man in die helder daglig te kom pak nie."
+     "source": "„Hier, jou kring!” roep Wolf teen Jakkals uit, „wie het jou verlof gegee?”"
     },
     {
      "id": "p022.s02",
-     "source": "Dit het die Boesmans in die geleentheid gestel—toe Leeu ’n ruk weg was—om ook na hulle huise en gesinne toe te gaan."
+     "source": "En Wolf hol al agter Jakkals om die aas, hap-hap na hom."
     },
     {
      "id": "p022.s03",
-     "source": "En daar was groot blydskap."
+     "source": "Plek-plek byt hy raak; maar mees hap hy net die lug raak; en wat nie weghol nie, is Jakkals."
     }
    ],
    "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Leeu kom onopgemerk saggies op die puntjies van sy vier voete en vlie onder die twee rusiemakers in en roep uit: „Wat is dit hier met julle twee te doen?”"
+    },
+    {
+     "id": "p023.s02",
+     "source": "Jakkals kry ’n paar skrams krappe, en Wolf kry genoeg daarvan om sy hare te laat waai—en daar spaander hul."
+    },
+    {
+     "id": "p023.s03",
+     "source": "Leeu se vrou bars uit van lag, en die kinders skater en rol van die pret."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Leeu brul deur sy baard, gee ’n paar lekke aan die bloed en gaan weer by sy vrou en kinders onder die boom lê."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Ná Leeu en sy vrou vir Wolf en Jakkals genoeg tempter het, laat hul die twee maar hulle eie gang gaan."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Wolf sien toe dat dit hom beter betaal om sy lyf by die vleis en murgbene te weer as om Jakkals daarvan weg te hou."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Jakkals, weer, weet goed dat dit hom nie betaam om te naby Wolf te eet nie."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Hy is mos ’n bedelaar en lewe van bedel; daarom gaan hy sit, hou sy kop in die lug, steek sy tong uit en sit dan te tjank om sy hart in verdriet uit te stort."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Maar nou hou hy een oog op die aas om te kyk waar die lekker vleisies en seninkies sit, en die ander oog hou hy op Wolf gerig om te loer wat dié doen."
+    },
+    {
+     "id": "p026.s04",
+     "source": "Al wat hy voor te sôre het, is net: as Wolf eenkant van die aas eet, dat hy dan aan die ander kant wei."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Ja, dat hul nou so slim is, is omdat hul eers ook Boesmans gewees het wat nou Leeu, Wolf en Jakkals geword het."
+    }
+   ],
+   "id": "p027"
   }
  ]
 }

@@ -2,20 +2,20 @@
  "id": "oc-hawaii-native-hawaiian-people-080",
  "title": {
   "id": "title",
-  "source": "Pele And Kama-Puaa"
+  "source": "Maui And Pea-Pea The Eight-Eyed"
  },
  "tradition": "Hawaii (Native Hawaiian people)",
  "continent": "Oceania",
  "source_lang": "en",
- "source_book": "Hawaiian Legends of Volcanoes (mythology)",
+ "source_book": "Legends of Ma-ui—a demi god of Polynesia, and of his mother Hina",
  "credits": "Westervelt, W. D. (William Drake) (author, d. 1939)",
- "gutenberg": "Project Gutenberg eBook #66516 — https://www.gutenberg.org/ebooks/66516 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #32601 — https://www.gutenberg.org/ebooks/32601",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/080 - Pele And Kama-Puaa.md",
+ "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/080 - Maui And Pea-Pea The Eight-Eyed.md",
  "stats": {
-  "paragraphs": 66,
-  "segments": 138,
-  "words": 2137
+  "paragraphs": 10,
+  "segments": 61,
+  "words": 733
  },
  "paragraphs": [
   {
@@ -23,11 +23,19 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Note : The adventure of the demi-god Kama-puaa has been given in “The Legends of Old Honolulu.”"
+     "source": "Maui had been fishing and had caught a great fish upon which he was feasting."
     },
     {
      "id": "p001.s02",
-     "source": "But because it is one of the most widely told of the Pele stories, it is repeated here."
+     "source": "He looked inland and saw his wife, Kumu-lama, seized and carried away by Pea-pea-maka-walu, \"Pea-pea the eight-eyed.\""
+    },
+    {
+     "id": "p001.s03",
+     "source": "This is a legend derived from the myths of many islands in which Lupe or Rupe (pigeon) changed himself into a bird and flew after his sister Hina who had been carried on the back of a shark to distant islands."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Sometimes as a man and sometimes as a bird he prosecuted his search until Hina was found."
     }
    ],
    "id": "p001"
@@ -37,23 +45,47 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "K ama-puaa was born on the island of Oahu, where he was known as a very powerful and destructive monster, also as a peculiarly handsome and even lovable chief."
+     "source": "Maui pursued Pea-pea, but could not catch him."
     },
     {
      "id": "p002.s02",
-     "source": "He was a kupua—a being who could appear at will as an animal or man."
+     "source": "He carried Maui's wife over the sea to a far away island."
     },
     {
      "id": "p002.s03",
-     "source": "He usually appeared as a man, but when his brutal desires to destroy overcame him or when he wished to hide from any one he adopted the form of a hog."
+     "source": "Maui was greatly troubled but his grandmother sent him inland to find an old man who would tell him what to do."
     },
     {
      "id": "p002.s04",
-     "source": "He had the two natures, human and brutal."
+     "source": "Maui went inland and looking down toward Waipahu saw this man Ku-olo-kele."
     },
     {
      "id": "p002.s05",
-     "source": "He had been endowed with super-human powers, according to the legends, and was many times called Puaa-akua (Hog-god) of Oahu."
+     "source": "He was hump-backed."
+    },
+    {
+     "id": "p002.s06",
+     "source": "Maui threw a large stone and hit the \"hill on the back\" knocked it off and made the back straight."
+    },
+    {
+     "id": "p002.s07",
+     "source": "The old man lifted up the stone and threw it to Waipahu, where it lies to this day."
+    },
+    {
+     "id": "p002.s08",
+     "source": "Then he and Maui talked together."
+    },
+    {
+     "id": "p002.s09",
+     "source": "He told Maui to go and catch birds and gather ti leaves and fibers of the ie-ie vine, and fill his house."
+    },
+    {
+     "id": "p002.s10",
+     "source": "These things Maui secured and brought to him."
+    },
+    {
+     "id": "p002.s11",
+     "source": "He told Maui to go home and return after three days."
     }
    ],
    "id": "p002"
@@ -63,15 +95,27 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "There is a curiously marked fish with an angular body and very thick skin, which is said by the Hawaiians to sometimes utter a grunting sound."
+     "source": "Ku-olo-kele took the ti leaves and the ie-ie threads and made the body of a great bird which he covered with bird feathers."
     },
     {
      "id": "p003.s02",
-     "source": "It is named the Humuhumu-nukunuku-a-puaa (The-grunting-angular-pig)."
+     "source": "He fastened all together with the ie-ie."
     },
     {
      "id": "p003.s03",
-     "source": "It [ ] was claimed that the hog-man could change himself into this fish as easily as into a hog."
+     "source": "This was done in the first day."
+    },
+    {
+     "id": "p003.s04",
+     "source": "The second day he placed food inside and tried his bird and it flew all right."
+    },
+    {
+     "id": "p003.s05",
+     "source": "\"Thus,\" as the Hawaiians say, \"the first flying ship was made in the time of Maui.\""
+    },
+    {
+     "id": "p003.s06",
+     "source": "This is a modern version of Rupe changing himself into a bird."
     }
    ],
    "id": "p003"
@@ -81,7 +125,39 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "An ancient chant thus described him:"
+     "source": "On the third day Maui came and saw the wonderful bird body thoroughly prepared for his journey."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Maui went inside."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Ku-olo-kele said, \"When you reach that land, look for a village."
+    },
+    {
+     "id": "p004.s04",
+     "source": "If the people are not there look to the beach."
+    },
+    {
+     "id": "p004.s05",
+     "source": "If there are many people, your wife and Pea-pea the eight-eyed will be there."
+    },
+    {
+     "id": "p004.s06",
+     "source": "Do not go near, but fly out over the sea."
+    },
+    {
+     "id": "p004.s07",
+     "source": "The people will say, 'O, the strange bird;' but Pea-pea will say, 'This is my bird."
+    },
+    {
+     "id": "p004.s08",
+     "source": "It is tabu.'"
+    },
+    {
+     "id": "p004.s09",
+     "source": "You can then come to the people.\""
     }
    ],
    "id": "p004"
@@ -91,7 +167,23 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "“O Kama-puaa!"
+     "source": "Maui pulled the ie-ie ropes fastened to the wings and made them move."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Thus he flew away into the sky."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Two days was his journey before he came to that strange island, Moana-liha-i-ka-wao-kele."
+    },
+    {
+     "id": "p005.s04",
+     "source": "It was a beautiful land."
+    },
+    {
+     "id": "p005.s05",
+     "source": "He flew inland to a village, but there were no people; according to the ancient chant:"
     }
    ],
    "id": "p005"
@@ -101,7 +193,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "You are the one with rising bristles."
+     "source": "\"The houses of Lima-loa stand, But there are no people; They are at Mana.\""
     }
    ],
    "id": "p006"
@@ -111,11 +203,35 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "O Rooter!"
+     "source": "The people were by the sea."
     },
     {
      "id": "p007.s02",
-     "source": "O Wallower in ponds!"
+     "source": "Maui flew over them."
+    },
+    {
+     "id": "p007.s03",
+     "source": "He saw his wife, but he passed on flying out over the sea, skimming like a sea bird down to the water and rising gracefully up to the sky."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Pea-pea called out, \"This is my bird."
+    },
+    {
+     "id": "p007.s05",
+     "source": "It is tabu.\""
+    },
+    {
+     "id": "p007.s06",
+     "source": "Maui heard and came to the beach."
+    },
+    {
+     "id": "p007.s07",
+     "source": "He was caught and placed in a tabu box."
+    },
+    {
+     "id": "p007.s08",
+     "source": "The servants carried him up to the village and put him in the chief's sleeping house, when Pea-pea and his people returned to their homes."
     }
    ],
    "id": "p007"
@@ -125,7 +241,63 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "O remarkable fish of the sea!"
+     "source": "In the night Pea-pea and Maui's wife lay down to sleep."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Maui watched Pea-pea, hoping that he would soon sleep."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Then he would kill him."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Maui waited."
+    },
+    {
+     "id": "p008.s05",
+     "source": "One eye was closed, seven eyes were opened."
+    },
+    {
+     "id": "p008.s06",
+     "source": "Then four eyes closed, leaving three."
+    },
+    {
+     "id": "p008.s07",
+     "source": "The night was almost past and dawn was near."
+    },
+    {
+     "id": "p008.s08",
+     "source": "Then Maui called to Hina with his spirit voice, \"O Hina, keep it dark.\""
+    },
+    {
+     "id": "p008.s09",
+     "source": "Hina made the gray dawn dark in the three eyes and two closed in sleep."
+    },
+    {
+     "id": "p008.s10",
+     "source": "The last eye was weary, and it also slept."
+    },
+    {
+     "id": "p008.s11",
+     "source": "Then Maui went out of the bird body and cut off the head of Pea-pea and put it inside the bird."
+    },
+    {
+     "id": "p008.s12",
+     "source": "He broke the roof of the house until a large opening was made."
+    },
+    {
+     "id": "p008.s13",
+     "source": "He took his wife, Kumu-lama, and flew away to the island of Oahu."
+    },
+    {
+     "id": "p008.s14",
+     "source": "The winds blew hard against the flying bird."
+    },
+    {
+     "id": "p008.s15",
+     "source": "Rain fell in torrents around it, but those inside had no trouble."
     }
    ],
    "id": "p008"
@@ -135,836 +307,19 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "O youth divine!”"
+     "source": "\"Thus Maui returned with his wife to his home in Oahu."
+    },
+    {
+     "id": "p009.s02",
+     "source": "The story is pau (finished).\""
     }
    ],
    "id": "p009"
   },
   {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p010.s01",
-     "source": "Kama-puaa had a beautiful magic shell—the leho ."
-    },
-    {
-     "id": "p010.s02",
-     "source": "This was a fairy boat in which he usually journeyed from island to island."
-    },
-    {
-     "id": "p010.s03",
-     "source": "When he landed he took this shell in his hands and it grew smaller and smaller until he could tuck it away in his loin cloth."
-    },
-    {
-     "id": "p010.s04",
-     "source": "When he sailed away alone it was just large enough to satisfy his need."
-    },
-    {
-     "id": "p010.s05",
-     "source": "If some of his household travelled with him, the canoe became the large ocean boat for the family."
-    }
-   ],
+   "type": "break",
+   "segments": [],
    "id": "p010"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p011.s01",
-     "source": "Some of the legends say that as a fish Kama-puaa swam through the seas to Hawaii, but others say that he used his leho boat, visited the different islands and passed slowly to the southeastern point of Hawaii to Cape Kumu-kahi."
-    }
-   ],
-   "id": "p011"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p012.s01",
-     "source": "He crossed the rough beds of lava, left by recent eruptions."
-    },
-    {
-     "id": "p012.s02",
-     "source": "He threaded his way through forests of trees and ferns and at last stood on the hills looking down upon the lake of fire."
-    },
-    {
-     "id": "p012.s03",
-     "source": "Akani-kolea was the hill upon which he stood clearly outlined against the sky. [ ]"
-    }
-   ],
-   "id": "p012"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p013.s01",
-     "source": "Here was Ka-lua-Pele (The-pit-of-Pele), the home of the goddess of fire."
-    },
-    {
-     "id": "p013.s02",
-     "source": "Here she rested among glorious fountains of fire; or, rising in sport, dashed the flaming clouds in twisted masses around the precipices guarding her palace."
-    },
-    {
-     "id": "p013.s03",
-     "source": "Here Kama-puaa looked down upon a fire-dance, wherein Pele and her sisters, wrapped in filmy gowns of bluish haze, swept back and forth over the lake of fire, the pressure of their footfalls marked by hundreds of boiling bubbles rising and bursting under their tread, until the entire surface was a restless sea covered with choppy waves of fire."
-    }
-   ],
-   "id": "p013"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p014.s01",
-     "source": "Suddenly a great cloud concealed the household, then rolled away, and all the surrounding cliffs were clearly revealed."
-    },
-    {
-     "id": "p014.s02",
-     "source": "One of the sisters looking up saw Kama-puaa and cried out: “Oh, see that fine-looking man standing on Akani-kolea."
-    },
-    {
-     "id": "p014.s03",
-     "source": "He stands as straight as a precipice."
-    },
-    {
-     "id": "p014.s04",
-     "source": "His face is bright like the moon."
-    },
-    {
-     "id": "p014.s05",
-     "source": "Perhaps if our sister frees him from her tabu he can be the husband of one of us.”"
-    }
-   ],
-   "id": "p014"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p015.s01",
-     "source": "The sisters looked."
-    },
-    {
-     "id": "p015.s02",
-     "source": "They heard the tum-tum-tum of a small hand-gourd drum, they saw a finely formed athletic stranger, who was dancing on the hilltop, gloriously outlined in the splendor of the morning light."
-    }
-   ],
-   "id": "p015"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p016.s01",
-     "source": "Pele scorned him and said: “That is not a man, but a hog."
-    },
-    {
-     "id": "p016.s02",
-     "source": "If I ridicule him he will be [ ] angry.”"
-    },
-    {
-     "id": "p016.s03",
-     "source": "Then she started the war of taunting words with which chiefs usually began a conflict."
-    },
-    {
-     "id": "p016.s04",
-     "source": "She called to him giving him all the characteristics of a hog."
-    },
-    {
-     "id": "p016.s05",
-     "source": "He was angry and boasted of his power to overcome and destroy the whole Pele family."
-    },
-    {
-     "id": "p016.s06",
-     "source": "Pele thought she could easily frighten him and drive him off, so she sent clouds of sulphur-smoke and a stream of boiling lava against him."
-    },
-    {
-     "id": "p016.s07",
-     "source": "To her surprise he brushed the clouds away, with a few words checked the eruption, and stood before them unharmed."
-    }
-   ],
-   "id": "p016"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p017.s01",
-     "source": "The sisters begged Pele to send for the handsome stranger and make him a member of their family."
-    },
-    {
-     "id": "p017.s02",
-     "source": "At last she sent her brother Kane-hoa-lani to speak to him."
-    },
-    {
-     "id": "p017.s03",
-     "source": "There were many hindrances before a thorough reconciliation took place."
-    }
-   ],
-   "id": "p017"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p018.s01",
-     "source": "For a time Pele and Kama-puaa lived together as husband and wife, in various parts of the district of Puna.—The places where they dwelt are pointed out even at this day by the natives who know the traditions.—It is said that a son was born and named Opelu-haa-lii and that the fiery life of his mother was so strenuous that he lived only a little while."
-    },
-    {
-     "id": "p018.s02",
-     "source": "Some say he became the fish “Opelu.”"
-    }
-   ],
-   "id": "p018"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p019.s01",
-     "source": "This marriage did not endure."
-    },
-    {
-     "id": "p019.s02",
-     "source": "Kama-puaa had too many of the habits and instincts of a hog to please Pele, and she was too quickly [ ] angry to suit the overbearing Kama-puaa."
-    },
-    {
-     "id": "p019.s03",
-     "source": "Pele was never patient even with her sisters, so with Kama-puaa she would burst into fiery rage, while taunts and bitter words were freely hurled back and forth."
-    }
-   ],
-   "id": "p019"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p020.s01",
-     "source": "A sarcastic chant has been handed down among the Hawaiians as one of the taunts hurled at Pele by Kama-puaa."
-    }
-   ],
-   "id": "p020"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p021.s01",
-     "source": "“Makole, Makole, akahi"
-    }
-   ],
-   "id": "p021"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p022.s01",
-     "source": "Hele i kai o Pikeha"
-    }
-   ],
-   "id": "p022"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p023.s01",
-     "source": "Heaha ke ai e aiai"
-    }
-   ],
-   "id": "p023"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p024.s01",
-     "source": "He lihilihi pau a ke akua.”"
-    }
-   ],
-   "id": "p024"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p025.s01",
-     "source": "“Oh, look at that one with the sore eyes!"
-    }
-   ],
-   "id": "p025"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p026.s01",
-     "source": "Tell her to go to the sea of Pikeha."
-    }
-   ],
-   "id": "p026"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p027.s01",
-     "source": "(To wash her eyes and cure them.)"
-    }
-   ],
-   "id": "p027"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p028.s01",
-     "source": "What food makes her fair as the moonlight?"
-    }
-   ],
-   "id": "p028"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p029.s01",
-     "source": "Even her eyebrows were shaved off by some god.”"
-    }
-   ],
-   "id": "p029"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p030.s01",
-     "source": "Pele was bitterly angry and tried her best to destroy her tormentor."
-    },
-    {
-     "id": "p030.s02",
-     "source": "She stamped on the ground, the earth shook, cracks opened in the surface and sometimes clouds of smoke and steam arose around Kama-puaa."
-    },
-    {
-     "id": "p030.s03",
-     "source": "He was unterrified and matched his divine powers against hers."
-    },
-    {
-     "id": "p030.s04",
-     "source": "It was demi-god against demi-goddess."
-    },
-    {
-     "id": "p030.s05",
-     "source": "It was the goddess-of-fire of Hawaii against the hog-god of Oahu."
-    },
-    {
-     "id": "p030.s06",
-     "source": "Pele’s home life was given up, the bitterness of strife swept over the black sands of the seashore."
-    }
-   ],
-   "id": "p030"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p031.s01",
-     "source": "When the earth seemed ready to open its [ ] doors and pour out mighty streams of flowing lava in the defence of Pele, Kama-puaa called for the waters of the ocean to rise up."
-    },
-    {
-     "id": "p031.s02",
-     "source": "Then flood met fire and quenched it."
-    },
-    {
-     "id": "p031.s03",
-     "source": "Pele was driven inland."
-    },
-    {
-     "id": "p031.s04",
-     "source": "Her former lover, hastening after her and striving to overcome her, followed her upward until at last amid clouds of poisonous gases she went back into her spirit home in the pit of Kilauea."
-    }
-   ],
-   "id": "p031"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p032.s01",
-     "source": "Then Kama-puaa as a god of the sea gathered the waters together in great masses and hurled them into the fire-pit."
-    },
-    {
-     "id": "p032.s02",
-     "source": "Violent explosions followed the inrush of waters."
-    },
-    {
-     "id": "p032.s03",
-     "source": "The sides of the great crater were torn to pieces by fierce earthquakes."
-    },
-    {
-     "id": "p032.s04",
-     "source": "Masses of fire expanded the water into steam, and Pele gathered the forces of the underworld to aid in driving back Kama-puaa."
-    },
-    {
-     "id": "p032.s05",
-     "source": "The lavas rose in many lakes and fountains."
-    },
-    {
-     "id": "p032.s06",
-     "source": "Rapidly the surface was cooled and the fountains checked by the water thrown in by Kama-puaa, but just as rapidly were new openings made and new streams of fire hurled at the demi-god of Oahu."
-    },
-    {
-     "id": "p032.s07",
-     "source": "It was a mighty battle of the elements."
-    }
-   ],
-   "id": "p032"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p033.s01",
-     "source": "The legends say that the hog-man, Kama-puaa, poured water into the crater until its fires were driven back to their lowest depths and Pele was almost drowned by the floods."
-    },
-    {
-     "id": "p033.s02",
-     "source": "The clouds of the skies dropped their burden [ ] of rain."
-    },
-    {
-     "id": "p033.s03",
-     "source": "All the waters of the sea that Kama-puaa could collect were poured into the crater."
-    }
-   ],
-   "id": "p033"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p034.s01",
-     "source": "Pele sent Lono-makua, who had charge over the earth-fires."
-    },
-    {
-     "id": "p034.s02",
-     "source": "He kindled eruptions manifold, but they were overwhelmed by the vast volumes of water hurled against them by Kama-puaa."
-    }
-   ],
-   "id": "p034"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p035.s01",
-     "source": "Kama-puaa raised his voice in the great ancient chant:"
-    }
-   ],
-   "id": "p035"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p036.s01",
-     "source": "“O gods in the skies!"
-    }
-   ],
-   "id": "p036"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p037.s01",
-     "source": "Let the rain come, let it fall."
-    }
-   ],
-   "id": "p037"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p038.s01",
-     "source": "Let Paoa [Pele’s spade] be broken."
-    }
-   ],
-   "id": "p038"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p039.s01",
-     "source": "Let the rain be separated from the sun."
-    }
-   ],
-   "id": "p039"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p040.s01",
-     "source": "O clouds in the skies!"
-    }
-   ],
-   "id": "p040"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p041.s01",
-     "source": "O great clouds of Iku! black as smoke!"
-    }
-   ],
-   "id": "p041"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p042.s01",
-     "source": "Let the heavens fall on the earth,"
-    }
-   ],
-   "id": "p042"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p043.s01",
-     "source": "Let the heavens roll open for the rain,"
-    }
-   ],
-   "id": "p043"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p044.s01",
-     "source": "Let the storm come.”"
-    }
-   ],
-   "id": "p044"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p045.s01",
-     "source": "The storm fell in torrents from black clouds gathered right over the pit."
-    },
-    {
-     "id": "p045.s02",
-     "source": "The water filled the crater, according to the Hawaiian, ku-ma-waho, i.e. , rising until it overflowed the walls of the crater."
-    },
-    {
-     "id": "p045.s03",
-     "source": "The fires were imprisoned and drowned—the home of Pele seemed to be destroyed."
-    },
-    {
-     "id": "p045.s04",
-     "source": "There remained, however, a small spark of fire hidden in the breast of Lono-makua."
-    }
-   ],
-   "id": "p045"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p046.s01",
-     "source": "Pele prayed for:"
-    }
-   ],
-   "id": "p046"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p047.s01",
-     "source": "“The bright gods of the underworld."
-    }
-   ],
-   "id": "p047"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p048.s01",
-     "source": "Shining in Wawao (Vavau) are the gods of the night."
-    }
-   ],
-   "id": "p048"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p049.s01",
-     "source": "The gods thick clustered for Pele.”"
-    }
-   ],
-   "id": "p049"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p050.s01",
-     "source": "[ ]"
-    }
-   ],
-   "id": "p050"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p051.s01",
-     "source": "Kama-puaa thought he had destroyed Pele’s resources, but just as his wonderful storms had put forth their greatest efforts, Lono-makua kindled the flames of fierce eruptions once more."
-    },
-    {
-     "id": "p051.s02",
-     "source": "The gods of the underworld lent their aid to the Pele family."
-    },
-    {
-     "id": "p051.s03",
-     "source": "The new attack was more than Kama-puaa could endure."
-    },
-    {
-     "id": "p051.s04",
-     "source": "The lua-pele (pit of Pele) was full of earth-fire."
-    },
-    {
-     "id": "p051.s05",
-     "source": "Streams of lava poured out against Kama-puaa."
-    }
-   ],
-   "id": "p051"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p052.s01",
-     "source": "ASA-YAMA, JAPAN"
-    }
-   ],
-   "id": "p052"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p053.s01",
-     "source": "He changed his body into a kind of grass now known as Ku-kae-puaa, filling a large field with it."
-    },
-    {
-     "id": "p053.s02",
-     "source": "When the grass lay in the pathway of the fire, the lava was turned aside for a time; but Pele, inspired by the beginning of victory, called anew upon the gods of the underworld for strong reinforcements."
-    }
-   ],
-   "id": "p053"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p054.s01",
-     "source": "Out from the pits of Kilauea came vast masses of lava piling up against the field of grass in its pathway, and soon the grass began to burn; then Kama-puaa assumed the shape of a man, the hair or bristles on his body were singed and the smart of many burns began to cause agony.—Apparently the grass represented the bristles on the front of his hog-body which were scorched and burned."
-    },
-    {
-     "id": "p054.s02",
-     "source": "The legends say that since this time hogs have had very little hair on the stomach."
-    }
-   ],
-   "id": "p054"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p055.s01",
-     "source": "Down he rushed to the sea, but the lava spread out on either side cutting off retreat along the beach."
-    },
-    {
-     "id": "p055.s02",
-     "source": "Pele followed close behind, [ ] striving to overtake him before he could reach the water."
-    },
-    {
-     "id": "p055.s03",
-     "source": "The side streams had poured into the sea and the water was rapidly heated into tossing, boiling waves."
-    },
-    {
-     "id": "p055.s04",
-     "source": "Pele threw great masses of lava at Kama-puaa, striking and churning the sea into which he leaped midst the swirling heated mass."
-    },
-    {
-     "id": "p055.s05",
-     "source": "Kama-puaa gave up the battle, and, thoroughly defeated, changed himself into a fish."
-    },
-    {
-     "id": "p055.s06",
-     "source": "To that fish he gave the tough skin which he assumed when roaming over the islands as a hog."
-    },
-    {
-     "id": "p055.s07",
-     "source": "It was thick enough to withstand the boiling waves through which he swam out into the deep sea."
-    },
-    {
-     "id": "p055.s08",
-     "source": "The Hawaiians say that this fish has always been able to make a noise like the grunting of a small hog, so it was given the name Humu-humu-nuku-nuku-a-puaa."
-    }
-   ],
-   "id": "p055"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p056.s01",
-     "source": "It was said that Kama-puaa fled to foreign lands, where he married a high chiefess and lived with his family many years."
-    }
-   ],
-   "id": "p056"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p057.s01",
-     "source": "Sometime during this adventure of Kama-puaa in the domains of Pele, the islands were divided between the two demi-gods, and an oath of divine solemnity was taken by them."
-    },
-    {
-     "id": "p057.s02",
-     "source": "They set apart a large portion of the island of Hawaii for Pele, and the eastern shore from Hilo to Kohala and all the islands northwest of Hawaii as the kingdom over which Kama-puaa might establish rulers."
-    },
-    {
-     "id": "p057.s03",
-     "source": "It is said that the oath has never been broken. [ ]"
-    }
-   ],
-   "id": "p057"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p058.s01",
-     "source": "One of the long legends describes a new island home brought up from ocean depths by Kama-puaa, in which he established his family and from which he visited Hawaii."
-    },
-    {
-     "id": "p058.s02",
-     "source": "It says that Pele saw him and called to him:"
-    }
-   ],
-   "id": "p058"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p059.s01",
-     "source": "“O Kama-puaa divine,"
-    }
-   ],
-   "id": "p059"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p060.s01",
-     "source": "My love is for you."
-    }
-   ],
-   "id": "p060"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p061.s01",
-     "source": "Return, we shall have the land together,"
-    }
-   ],
-   "id": "p061"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p062.s01",
-     "source": "You the upland—I the lowland."
-    }
-   ],
-   "id": "p062"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p063.s01",
-     "source": "Return, O my husband,"
-    }
-   ],
-   "id": "p063"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p064.s01",
-     "source": "Our difficulties are at an end.”"
-    }
-   ],
-   "id": "p064"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p065.s01",
-     "source": "He refused, saying that it was best for them to abide by their oath, and not take any part of what belonged to the other."
-    },
-    {
-     "id": "p065.s02",
-     "source": "Perhaps this desire for reconciliation underlies the legendary love of Pele for sacrifices of those things which would most intimately connect her with Kama-puaa."
-    }
-   ],
-   "id": "p065"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p066.s01",
-     "source": "Kama-puaa has figured to the last days of Pele worship in the sacrifices offered to the fire-goddess."
-    },
-    {
-     "id": "p066.s02",
-     "source": "The most acceptable sacrifice to Pele was supposed to be puaa (a hog)."
-    },
-    {
-     "id": "p066.s03",
-     "source": "If a hog could not be secured when an offering was necessary, the priest would take the fish humu-humu-nuku-nuku-a-puaa and throw it into the pit of fire."
-    },
-    {
-     "id": "p066.s04",
-     "source": "If the hog and the fish both failed, the priest would offer any of the things into which it was said in their traditions that Kama-puaa could change himself. [ ]"
-    }
-   ],
-   "id": "p066"
   }
  ]
 }

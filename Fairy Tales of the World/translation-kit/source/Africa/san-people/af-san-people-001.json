@@ -2,20 +2,20 @@
  "id": "af-san-people-001",
  "title": {
   "id": "title",
-  "source": "Inhoud"
+  "source": "Die Koningin van Skeba"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
  "source_book": "Boesman-Stories. Deel 1, Mitologie en legendes",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #62330 — https://www.gutenberg.org/ebooks/62330 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #62330 — https://www.gutenberg.org/ebooks/62330",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/001 - Inhoud.md",
+ "markdown_file": "Africa/San people/001 - Die Koningin van Skeba.md",
  "stats": {
-  "paragraphs": 1,
-  "segments": 26,
-  "words": 191
+  "paragraphs": 2,
+  "segments": 9,
+  "words": 183
  },
  "paragraphs": [
   {
@@ -23,110 +23,48 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "No. Bladsij. ’n Paar Woorde vooraf i 1."
+     "source": "Die Egiptiese Koningin Hatshepsu het meer as 1,500 jaar voor die geboorte van Christus regeer."
     },
     {
      "id": "p001.s02",
-     "source": "Hoe Boesmans Stories vertel 1 2."
+     "source": "Sij het ’n gesantskap met skepe na die Landpunt (Skeba) gestuur om daar skatte te gaan haal om ’n tempel vir haar god Amon-Ra te bouw."
     },
     {
      "id": "p001.s03",
-     "source": "Nag en Duisternis en hulle drie Dogters 9 3."
+     "source": "Die skepe het drie jaar weggeblij en het goud, edelgesteente en speserije gebring."
     },
     {
      "id": "p001.s04",
-     "source": "Die Berge is die oudste Dogter 17 4."
+     "source": "Die Koningin van daardie land het self oor land gekom en nog meer skatte saamgebring."
     },
     {
      "id": "p001.s05",
-     "source": "Die Wind en die Windvoël 25 5."
+     "source": "Hatshepsu het die tempel toe te Deir-el-Bahri nabij Tebe in Egipte gebouw."
     },
     {
      "id": "p001.s06",
-     "source": "Die Weerklank of Echo 31 6."
+     "source": "Ter ere van die optog van die Koningin van Skeba het Hatshepsu ’n tekening in die tempel laat afskilder en dit is vandag nog te sien."
     },
     {
      "id": "p001.s07",
-     "source": "Die Vlaktes is die tweede Dogter 41 7."
+     "source": "As jij eendag die geluk het om dié tempel te besoek, let op na die postuur en kleredrag, na die klein handjies en voetjies, die plat neus en kroeshare van die Koningin van Skeba."
     },
     {
      "id": "p001.s08",
-     "source": "Die Vuur en die ’Nu-Fees 47 8."
-    },
-    {
-     "id": "p001.s09",
-     "source": "Die Opgewing of Lugspiegeling 53 9."
-    },
-    {
-     "id": "p001.s10",
-     "source": "Die Waters is die jongste Dogter 59 10."
-    },
-    {
-     "id": "p001.s11",
-     "source": "Die Reënbees en die Bobiaan 67 11."
-    },
-    {
-     "id": "p001.s12",
-     "source": "Die groot Waterslang 75 12."
-    },
-    {
-     "id": "p001.s13",
-     "source": "Die Son is die Kop van Danser Vuurman 85 13."
-    },
-    {
-     "id": "p001.s14",
-     "source": "Die Maan is die Skoen van die Hotnotsgod 95 14."
-    },
-    {
-     "id": "p001.s15",
-     "source": "Die Sterre is Kole en As 101 15."
-    },
-    {
-     "id": "p001.s16",
-     "source": "Die Hamerkopvoël en die Paddas 107 16."
-    },
-    {
-     "id": "p001.s17",
-     "source": "Die Uil en die Muise 113 17."
-    },
-    {
-     "id": "p001.s18",
-     "source": "Die Reënboog 119 18."
-    },
-    {
-     "id": "p001.s19",
-     "source": "Die Hotnotsgod en Bobiane baklei 127 19."
-    },
-    {
-     "id": "p001.s20",
-     "source": "Die Meid van die Waters 137 20."
-    },
-    {
-     "id": "p001.s21",
-     "source": "Die geniepsigheid van die Skilpad 143 21."
-    },
-    {
-     "id": "p001.s22",
-     "source": "Die Môrester is die Hart van Dageraad 149 22."
-    },
-    {
-     "id": "p001.s23",
-     "source": "Die Aandster is die Oog van Aandskemering 161 23."
-    },
-    {
-     "id": "p001.s24",
-     "source": "Dampertjie en Spuitertjie skiet met Weerlig 169 24."
-    },
-    {
-     "id": "p001.s25",
-     "source": "Die Diere vra om Kos en Water 177 25."
-    },
-    {
-     "id": "p001.s26",
-     "source": "Boesman-Gebede 185 Naberig 193"
+     "source": "En wie sal nie sê nie: “Dis ’n uitgeknipte Boesmanmeid”?"
     }
    ],
    "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Hatshepsu het begin te regeer in 1552 voor die geboorte van Christus en Salomo in 977 voor die geboorte van Christus, dus was die Koningin wat Salomo besoek het, ’n ander persoon."
+    }
+   ],
+   "id": "p002"
   }
  ]
 }

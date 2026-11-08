@@ -4,7 +4,7 @@
 - **Source book:** *Legends of the Northwest*
 - **Author / collector / translator:** Gordon, Hanford Lennox (author, d. 1920)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #8122 — https://www.gutenberg.org/ebooks/8122 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #8122 — https://www.gutenberg.org/ebooks/8122
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

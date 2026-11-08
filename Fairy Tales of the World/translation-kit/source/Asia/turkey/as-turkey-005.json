@@ -2,20 +2,20 @@
  "id": "as-turkey-005",
  "title": {
   "id": "title",
-  "source": "How The Junkman Travelled To Find Treasure In His Own Yard"
+  "source": "The Golden-Haired Children"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/005 - How The Junkman Travelled To Find Treasure In His Own Yard.md",
+ "markdown_file": "Asia/Turkey/005 - The Golden-Haired Children.md",
  "stats": {
-  "paragraphs": 23,
-  "segments": 55,
-  "words": 1319
+  "paragraphs": 63,
+  "segments": 207,
+  "words": 5109
  },
  "paragraphs": [
   {
@@ -23,7 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "n one of the towers overlooking the Sea of Marmora and skirting the ancient city of Stamboul, there lived an old junkman, who earned a precarious livelihood in gathering cinders and useless pieces of iron, and selling them to smiths."
+     "source": "Once upon a time, in days long gone by, when my father was my father, and I was my fathers son, when my father was my son, and I was my father’s mother, once upon a time, I say, at the uttermost ends of the world, hard by the realm of demons, stood a great city."
     }
    ],
    "id": "p001"
@@ -33,19 +33,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Often did he moralize on the sad Kismet that had reduced him to the task of daily laboring for his bread to make a shoe, perhaps for an ass."
+     "source": "In this same city there dwelt three poor damsels, the daughters of a poor wood-cutter."
     },
     {
      "id": "p002.s02",
-     "source": "Surely he, a true Mussulman, might at least be permitted to ride the ass."
-    },
-    {
-     "id": "p002.s03",
-     "source": "His eternal longing often found satisfaction in passing his hours of sleep in dreams of wealth and luxury."
-    },
-    {
-     "id": "p002.s04",
-     "source": "But with the dawning of the day came reality and increased longing."
+     "source": "From morn to eve, from evening to morning, they did nothing but sew and stitch, and when the embroideries were finished, one of them would go to the market-place and sell them, and so purchase wherewithal to live upon."
     }
    ],
    "id": "p002"
@@ -55,7 +47,19 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Often did he call on the spirit of sleep to reverse matters, but in vain; with the rising of the sun began the gathering of the cinders and iron."
+     "source": "Now it fell out, one day, that the Padishah of that city was wroth with the people, and in his rage he commanded that for three days and three nights nobody should light a candle in that city."
+    },
+    {
+     "id": "p003.s02",
+     "source": "What were these three poor sisters to do?"
+    },
+    {
+     "id": "p003.s03",
+     "source": "They could not work in the dark."
+    },
+    {
+     "id": "p003.s04",
+     "source": "So they covered their window with a large thick curtain, lit a tiny rushlight, and sat them down to earn their daily bread."
     }
    ],
    "id": "p003"
@@ -65,7 +69,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "One night he dreamt that he begged this nocturnal visitor to change his night to day, and the spirit said to him: \"Go to Egypt, and it shall be so.\""
+     "source": "On the third night of the prohibition, the Padishah took it into his head to go round the city himself to see whether every one was keeping his commandment."
+    },
+    {
+     "id": "p004.s02",
+     "source": "He chanced to step in front of the house of the three poor damsels, and as the folds of the curtain did not quite cover the bottom of the window he caught sight of the light within."
+    },
+    {
+     "id": "p004.s03",
+     "source": "The damsels, however, little suspecting their danger, went on sewing and stitching and talking amongst themselves about their poor affairs."
     }
    ],
    "id": "p004"
@@ -75,11 +87,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "This encouraging phrase haunted him by day and inspired him by night."
+     "source": "“Oh,” said the eldest, “if only the Padishah would wed me to his chief cook, what delicious dishes I should have every day."
     },
     {
      "id": "p005.s02",
-     "source": "So persecuted was he with the thought that when his wife said to him, from the door, \"Have you brought home any bread?\" he would reply, \"No, I have not gone; I will go to-morrow;\" thinking she had asked him, \"Have you gone to Egypt?\""
+     "source": "Yes, and I would embroider him for it a carpet so long that all his horses and all his men could find room upon it.”"
     }
    ],
    "id": "p005"
@@ -89,23 +101,15 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "At last, when friends and neighbors began to pity poor Ahmet, for that was his name, as a man on whom the hand of Allah was heavily laid, removing his intelligence, he one morning left his house, saying: \"I go!"
+     "source": "“As for me,” said the middling damsel, “I should like to be wedded to the keeper of his wardrobe."
     },
     {
      "id": "p006.s02",
-     "source": "I go! to the land of wealth!\""
+     "source": "What lovely splendid raiment I should then have to put on."
     },
     {
      "id": "p006.s03",
-     "source": "And he left his wife wringing her hands in despair, while the neighbors tried to comfort her."
-    },
-    {
-     "id": "p006.s04",
-     "source": "Poor Ahmet went straight on board a boat which he had been told was bound for Iskender (Alexandria), and assured the captain that he was summoned thither, and that he was bound to take him."
-    },
-    {
-     "id": "p006.s05",
-     "source": "Half-witted and mad persons being more holy than others, Ahmet was conveyed to Iskender."
+     "source": "And then I would make the Padishah a tent so large, that all his horses and all his men should find shelter beneath it.”"
     }
    ],
    "id": "p006"
@@ -115,15 +119,11 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Arriving in Iskender, Hadji Ahmet roamed far and wide, proceeding as far as Cairo, in search of the luxuries he had enjoyed at Constantinople when in the land of Morpheus, which he had been promised to enjoy in the sunshine, if he came to Egypt."
+     "source": "“Well,” cried the youngest damsel, “I’ll look at nobody but the Padishah himself, and if he would only take me to wife I would bear him two little children with golden hair."
     },
     {
      "id": "p007.s02",
-     "source": "Alas! for Hadji Ahmet; the only bread he had to eat was that which was given him by sympathizing humanity."
-    },
-    {
-     "id": "p007.s03",
-     "source": "Time sped on, sympathy was growing tired of expending itself on Hadji Ahmet, and his crusts of bread were few and far between."
+     "source": "One should be a boy and the other a girl, and a half-moon should shine on the forehead of the boy, and a bright star should sparkle on the temples of the girl.”"
     }
    ],
    "id": "p007"
@@ -133,11 +133,11 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Wearied of life and suffering, he decided to ask Allah to let him die, and wandering out to the Pyramids he solicited the stones to have pity and fall on him."
+     "source": "The Padishah heard the discourse of the three damsels, and no sooner did the red dawn shine in the morning sky than he sent for all three to the palace."
     },
     {
      "id": "p008.s02",
-     "source": "It happened that a Turk heard this prayer, and said to him:"
+     "source": "The eldest he gave to his head pantler, the second to his head chamberlain, but the youngest he took for himself."
     }
    ],
    "id": "p008"
@@ -147,11 +147,19 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "\"Why so miserable, father?"
+     "source": "And in truth it fared excellently well with the three damsels."
     },
     {
      "id": "p009.s02",
-     "source": "Has your soul been so strangled that you prefer its being dashed out of your body, to its remaining the prescribed time in bondage?\""
+     "source": "The eldest got so many rich dishes to eat, that when it came to sewing the promised carpet she could scarce move her needle for the sleep of surfeit."
+    },
+    {
+     "id": "p009.s03",
+     "source": "So they sent her back again to the wood-cutters hut."
+    },
+    {
+     "id": "p009.s04",
+     "source": "The second damsel, too, when they dressed her up in gold and silver raiment, would not deign to dirty her fingers by making tents, so they sent her back too, to keep her elder sister company."
     }
    ],
    "id": "p009"
@@ -161,11 +169,23 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"Yes, my son,\" said Hadji Ahmet."
+     "source": "And how about the youngest?"
     },
     {
      "id": "p010.s02",
-     "source": "\"Far away in Stamboul, with the help of God, I managed as a junkman to feed my wife and myself; but here am I, in Egypt, a stranger, alone and starving, with possibly my wife already dead of starvation, and all this through a dream.\""
+     "source": "Well, after nine months and ten days the two elder sisters came sidling up to the palace to see if the poor thing would really be as good as her word, and bring forth the two wondrous children."
+    },
+    {
+     "id": "p010.s03",
+     "source": "In the gates of the palace they met an old woman, and they persuaded her with gifts and promises to meddle in the matter."
+    },
+    {
+     "id": "p010.s04",
+     "source": "Now this old woman was the devi l’s own daughter, so that mischief and malice were her meat and drink."
+    },
+    {
+     "id": "p010.s05",
+     "source": "She now went and picked up two pups and took them with her to the sick woman’s bed."
     }
    ],
    "id": "p010"
@@ -175,39 +195,27 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "\"Alas!"
+     "source": "And oh, my soul! the wife of the Padishah brought forth two little children like shining stars."
     },
     {
      "id": "p011.s02",
-     "source": "Alas! my father! that you at your age should be tempted to wander so far from home and friends, because of a dream."
+     "source": "One was a boy, the other a girl; on the boys forehead was a half-moon and on the girl’s a star, so that darkness was turned to light when they were by."
     },
     {
      "id": "p011.s03",
-     "source": "Why, were I to obey my dreams, I would at this present moment be in Stamboul, digging for a treasure that lies buried under a tree."
+     "source": "Then the wicked old woman exchanged the children for the pups, and told it in the ears of the Padishah that his wife had brought forth two pups."
     },
     {
      "id": "p011.s04",
-     "source": "I can even now, although I have never been there, describe where it is."
+     "source": "The Padishah was like to have had a fit in the furiousness of his rage."
     },
     {
      "id": "p011.s05",
-     "source": "In my mind's eye I see a wall, a great wall, that must have been built many years ago, and supporting or seeming to support this wall are towers with many corners, towers that are round, towers that are square, and others that have smaller towers within them."
+     "source": "He took his poor wife, buried her up to the waist in the ground, and commanded throughout the city that every passer-by should strike her on the head with a stone."
     },
     {
      "id": "p011.s06",
-     "source": "In one of these towers, a square one, there live an old man and woman, and close by the tower is a large tree, and every night when I dream of the place, the old man tells me to dig and disclose the treasure."
-    },
-    {
-     "id": "p011.s07",
-     "source": "But, father, I am not such a fool as to go to Stamboul and seek to verify this."
-    },
-    {
-     "id": "p011.s08",
-     "source": "It is an oft-repeated dream and nothing more."
-    },
-    {
-     "id": "p011.s09",
-     "source": "See what you have been reduced to by coming so far.\""
+     "source": "But no sooner had the evil witch got hold of the two children, than she took them a long way outside the town, exposed them on the bank of a flowing stream, and returned to the palace right glad that she had done her work so well."
     }
    ],
    "id": "p011"
@@ -217,11 +225,15 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"Yes,\" said Hadji Ahmet, \"it is a dream and nothing more, but you have interpreted it."
+     "source": "Now close to the water where the two children lay stood a hut where lived an aged couple."
     },
     {
      "id": "p012.s02",
-     "source": "Allah be praised, you have encouraged me; I will return to my home.\""
+     "source": "The old man had a she-goat which used to go out in the morning to graze, and come back in the evening to be milked, and that was how the poor people kept body and soul together."
+    },
+    {
+     "id": "p012.s03",
+     "source": "One day, however, the old woman was"
     }
    ],
    "id": "p012"
@@ -231,11 +243,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "And Hadji Ahmet and the young stranger parted, the one grateful that it had pleased Allah to give him the power to revive and encourage a drooping spirit, and the other grateful to Allah that when he had despaired of life a stranger should come and give him the interpretation of his dream."
-    },
-    {
-     "id": "p013.s02",
-     "source": "He certainly had wandered far and long to learn that the treasure was in his own garden."
+     "source": "The Golden-Haired Children.—p. 57."
     }
    ],
    "id": "p013"
@@ -245,11 +253,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Hadji Ahmet in due course, much to the astonishment of both wife and neighbors, again appeared upon the scene not a much changed man."
+     "source": "surprised to find that the goat did not give one drop of milk."
     },
     {
      "id": "p014.s02",
-     "source": "In fact, he was the cinder and iron gatherer of old."
+     "source": "She complained about it to the old man her husband, and told him to follow the goat to see if perchance there was any one who stole the milk."
     }
    ],
    "id": "p014"
@@ -259,7 +267,35 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "To all questions as to where he was and what he had been doing, he would answer: \"A dream sent me away, and a dream brought me back.\""
+     "source": "So the next day the old man went after the goat, which went right up to the water’s edge, and then disappeared behind a tree."
+    },
+    {
+     "id": "p015.s02",
+     "source": "And what do you think he saw?"
+    },
+    {
+     "id": "p015.s03",
+     "source": "He saw a sight which would have delighted your eyes also—two golden-haired children were lying in the grass, and the goat went right up to them and gave them to suck."
+    },
+    {
+     "id": "p015.s04",
+     "source": "Then she bleated to them a little, and so left them and went off to graze."
+    },
+    {
+     "id": "p015.s05",
+     "source": "And the old man was so delighted at the sight of the little starry things, that he was like to have lost his head for joy."
+    },
+    {
+     "id": "p015.s06",
+     "source": "So he took the little ones (Allah had not blessed him with children of his own) and carried them to his hut and gave them to his wife."
+    },
+    {
+     "id": "p015.s07",
+     "source": "The woman was filled with a still greater joy at the children which Allah had given her, and took care of them, and brought them up."
+    },
+    {
+     "id": "p015.s08",
+     "source": "But now the little goat came bleating in as if in sore distress, but the moment she saw the children, she went to them and suckled them, and then went out to graze again."
     }
    ],
    "id": "p015"
@@ -269,7 +305,31 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "And the neighbors would say: \"Truly he must be blessed.\""
+     "source": "But time comes and goes."
+    },
+    {
+     "id": "p016.s02",
+     "source": "The two wondrous children grew up and scampered up hill and down dale, and the dark woods were bright with the radiance of their golden hair."
+    },
+    {
+     "id": "p016.s03",
+     "source": "They hunted the wild beasts, tended sheep, and helped the old people by word and deed."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Time came and went till the children had grown up, and the old people had become very old indeed."
+    },
+    {
+     "id": "p016.s05",
+     "source": "The golden-haired ones grew in strength while the silver-haired ones grew in feebleness, till, at last, one morning they lay dead there, and the brother and sister were left all alone."
+    },
+    {
+     "id": "p016.s06",
+     "source": "Sorely did the poor little things weep and wail, but was ever woe mended by weeping?"
+    },
+    {
+     "id": "p016.s07",
+     "source": "So they buried their old parents, and the girl stayed at home with the little she-goat, while the lad went a-hunting, for how to find food was now their great care and their little care too."
     }
    ],
    "id": "p016"
@@ -279,31 +339,11 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "One night Hadji Ahmet went to the tree, provided with spade and pick, that he had secured from an obliging neighbor."
+     "source": "One day, while he was hunting wild beasts in the forest, he met his father, the Padishah, but he did not know it was his father, neither did the father recognize his son."
     },
     {
      "id": "p017.s02",
-     "source": "After digging a short time a heavy case was brought to view, in which he found gold, silver, and precious jewels of great value."
-    },
-    {
-     "id": "p017.s03",
-     "source": "Hadji Ahmet replaced the case and earth and returned to bed, much lamenting that it had pleased God to furnish women, more especially his wife, with a long tongue, long hair, and very short wits."
-    },
-    {
-     "id": "p017.s04",
-     "source": "Alas! he thought, if I tell my wife, I may be hung as a robber, for it is against the laws of nature for a woman to keep a secret."
-    },
-    {
-     "id": "p017.s05",
-     "source": "Yet, becoming more generous when thinking of the years of toil and hardship she had shared with him, he decided to try and see if, by chance, his wife was not an exception to other women."
-    },
-    {
-     "id": "p017.s06",
-     "source": "Who knows, she might keep the secret."
-    },
-    {
-     "id": "p017.s07",
-     "source": "To test her, at no risk to himself and the treasure, he conceived a plan."
+     "source": "Yet the moment the Padishah beheld the wondrously beautiful child, he longed to clasp him to his breast, and commanded those about him to inquire of the child from whence he came."
     }
    ],
    "id": "p017"
@@ -313,11 +353,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Crawling from his bed, he sallied forth and bought, found, or stole an egg."
-    },
-    {
-     "id": "p018.s02",
-     "source": "This egg on the following morning he showed to his wife, and said to her:"
+     "source": "Then one of the courtiers went up to the youth, and said: “Thou hast shot much game there, my Bey!”—“Allah also has created much,” replied the youth, “and there is enough for thee and for me also,” and with that he left him like a blockhead."
     }
    ],
    "id": "p018"
@@ -327,15 +363,11 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "\"Alas!"
+     "source": "But the Padishah went back to his palace, and was sick at heart because of the boy; and when they asked what ailed him, he said that he had seen such a wondrously beautiful child in the forest, and that he loved him so that he could rest no more."
     },
     {
      "id": "p019.s02",
-     "source": "I fear I am not as other men, for evidently in the night I laid this egg; and, wife mine, if the neighbors hear of this, your husband, the long-suffering Hadji Ahmet, will be bastinadoed, bowstrung, and burned to death."
-    },
-    {
-     "id": "p019.s03",
-     "source": "Ah, truly, my soul is strangled.\""
+     "source": "The boy had the very golden hair and the same radiant forehead that his wife had promised him."
     }
    ],
    "id": "p019"
@@ -345,7 +377,19 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "And without another word Hadji Ahmet, with a sack on his shoulder, went forth to gather the cast-off shoes of horse, ox, or ass, wondering if his wife would prove an excep tion in this, as she had in many other ways, to other women."
+     "source": "The old woman was sore afraid at these words."
+    },
+    {
+     "id": "p020.s02",
+     "source": "She hastened to the stream, saw the house, peeped in, and there sat a lovely girl, like a moon fourteen days old."
+    },
+    {
+     "id": "p020.s03",
+     "source": "The girl entreated the old woman courteously, and asked her what she sought."
+    },
+    {
+     "id": "p020.s04",
+     "source": "The old woman did not wait to be asked twice; indeed, her foot was scarce across the threshold when she began to ask the girl with honey-sweet words whether she lived all alone."
     }
    ],
    "id": "p020"
@@ -355,7 +399,11 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "In the evening he returned, heavily laden with his finds, and as he neared home he heard rumors, ominous rumors, that a certain Hadji Ahmet, who had been considered a holy man, had done something that was unknown in the history of man, even in the history of hens—that he had laid a dozen eggs."
+     "source": "“Nay, my mother,” replied the girl; “I have a young brother."
+    },
+    {
+     "id": "p021.s02",
+     "source": "In the day-time he goes hunting, and in the evening he comes home.”"
     }
    ],
    "id": "p021"
@@ -365,15 +413,816 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "Needless to add that Hadji Ahmet did not tell his wife of the treasure, but daily went forth with his sack to gather iron and cinders, and invariably found, when separating his finds of the day, in company with his wife, at first one, and then more gold and silver pieces, and now and then a precious stone."
+     "source": "“Dost thou not grow weary of being all alone here by thyself?” inquired the witch.—“If even I did,” said the girl, “what can I do?"
+    },
+    {
+     "id": "p022.s02",
+     "source": "I must fill up my time as best I may.”"
     }
    ],
    "id": "p022"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“Tell me now, my little diamond! dost thou dearly love this brother of thine?”"
+    }
+   ],
    "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“Of course I do.”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“Well, then, my girl,” said the witch, “I’ll tell thee something, but don’t let it go any further!"
+    },
+    {
+     "id": "p025.s02",
+     "source": "When thy brother comes home this evening, fall to weeping and wailing, and keep it up with all thy might."
+    },
+    {
+     "id": "p025.s03",
+     "source": "When then he asks what ails thee, answer him not, and when he asks thee again, again give him never a word."
+    },
+    {
+     "id": "p025.s04",
+     "source": "When, however, he asks thee a third time, say that thou art tired to death with staying at home here all by thyself, and that if he loves thee, he will go to the garden of the Queen of the Peris, and bring thee from thence a branch."
+    },
+    {
+     "id": "p025.s05",
+     "source": "A lovelier branch thou hast never seen all thy life long.”—The girl promised she would do this, and the old woman went away."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Towards evening the damsel burst forth a-weeping and wailing till both her eyes were as red as blood."
+    },
+    {
+     "id": "p026.s02",
+     "source": "The brother came home in the evening, and was amazed to see his sister in such dire distress, yet could he not prevail upon her to tell him the cause of it."
+    },
+    {
+     "id": "p026.s03",
+     "source": "He promised her all the grass of the field and all the trees of the forest if she would only tell him what was the matter, and, to satisfy the desire of his sister’s heart, the golden-haired youth set off next morning for the garden of the fairy queen."
+    },
+    {
+     "id": "p026.s04",
+     "source": "He went on and on, smoking his chibook and drinking coffee, till he reached the boundaries of the fairy realm."
+    },
+    {
+     "id": "p026.s05",
+     "source": "He came to deserts where no caravan had ever gone; he came to mountains where no bird could ever fly; he came to valleys where no serpent can ever crawl."
+    },
+    {
+     "id": "p026.s06",
+     "source": "But his trust was in Allah, so he went on and on till he came to an immense desert which the eye of man had never seen nor the foot of man trodden."
+    },
+    {
+     "id": "p026.s07",
+     "source": "In the midst of it was a beautiful palace, and by the roadside sat the Mother of Devils, and the smell of her was as the pestilence in the air all round about her."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "The youth went straight up to the Mother of Devils, hugged her to his breast, kissed her all over, and said: “Good-day, little mother mine!"
+    },
+    {
+     "id": "p027.s02",
+     "source": "I am thine own true lad till death!” and he kissed her hand."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“A good-day to thee also, my little son!” replied the Mother of Devils."
+    },
+    {
+     "id": "p028.s02",
+     "source": "“If thou hadst not called me thy dear little mother, if thou hadst not embraced me, and if thy innocent mother had not been under the earth, I would have devoured thee at once."
+    },
+    {
+     "id": "p028.s03",
+     "source": "But tell me now, my little son, whither away?”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "The poor youth said that he wanted a branch from the garden of the Queen of the Peris."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Who put that word in thy mouth, my little son?” asked the woman in amazement."
+    },
+    {
+     "id": "p030.s02",
+     "source": "“Hundreds and hundreds of talismans guard that garden, and hundreds of souls have perished there by reason thereof.”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Yet the youth did not hold back."
+    },
+    {
+     "id": "p031.s02",
+     "source": "“I can but die once,” thought he.—“Thou dost but go to salute thy innocent, buried mother,” said the old woman; and then she made the youth sit down beside her and taught him the way: “Set out on thy quest at day break, and never stop till thou dost see right in front of thee a well and a forest."
+    },
+    {
+     "id": "p031.s03",
+     "source": "Draw forth thine arrows in this forest and catch five to ten birds, but catch them alive."
+    },
+    {
+     "id": "p031.s04",
+     "source": "Take these birds to the well, and when thou hast recited a prayer twice over, plunge the birds into the well and cry aloud for a key."
+    },
+    {
+     "id": "p031.s05",
+     "source": "A key will straightway be cast out of the well, take it to thee, and go on thy way."
+    },
+    {
+     "id": "p031.s06",
+     "source": "Thou wilt come presently to a large cavern; open the door thereof with thy key, and, as soon as thy foot is inside, stretch forth thy right hand into the blank darkness, grip fast hold of whatever thy hand shall touch, drag the thing quickly forth, and cast the key back into the well again."
+    },
+    {
+     "id": "p031.s07",
+     "source": "But look not behind thee all the time, or Allah have mercy on thy soul!”"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Next day, when the red dawn was in the sky, the youth went forth on his quest, caught the five to ten birds in the forest, got hold of the key, opened therewith the door of the cavern, and—oh, Allah!—stretched forth his right hand, gripped hold of something, and, without once looking behind him, dragged it all the way to his sister’s hut, and never stopped till he got there."
+    },
+    {
+     "id": "p032.s02",
+     "source": "Only then did he cast his eyes upon what he had in his hand, and it was neither more nor less than a branch from the garden of the Queen of the Peris."
+    },
+    {
+     "id": "p032.s03",
+     "source": "But what a branch it was!"
+    },
+    {
+     "id": "p032.s04",
+     "source": "It was full of little twigs, and the twigs were full of little leaves, and there was a little bird on every little leaf, and every little bird had a song of its own."
+    },
+    {
+     "id": "p032.s05",
+     "source": "Such music, such melody was there as would have brought even a dead man to life again."
+    },
+    {
+     "id": "p032.s06",
+     "source": "The whole hut was filled with joy."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Next day the youth again went forth to hunt, and, as he was pursuing the beast of the forest, the Padishah saw him again."
+    },
+    {
+     "id": "p033.s02",
+     "source": "He exchanged a word or two with the youth, and then returned to his palace, but he was now sicker than ever, by reason of his love for his son."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Then the old woman strolled off to the hut again, and there she saw the damsel sitting with the magic branch in her hand."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“Well, my girl!” said the old woman, “what did I tell thee?"
+    },
+    {
+     "id": "p035.s02",
+     "source": "But that’s nothing at all."
+    },
+    {
+     "id": "p035.s03",
+     "source": "If thy brother would only fetch thee the mirror of the Queen of the Peris, Allah knows that thou wouldst cast that branch right away."
+    },
+    {
+     "id": "p035.s04",
+     "source": "Give him no peace till he get it for thee.”"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "The witch had no sooner departed than the damsel began screaming and wailing so that her brother was at his wit’s end how to comfort her."
+    },
+    {
+     "id": "p036.s02",
+     "source": "He said he would take the whole world on his shoulders to please her, went straight off to the Mother of Devils, and besought her so earnestly that she had not the heart to say him nay."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "“Thou hast made up thy mind to go under the sod to thy innocent, buried mother, I see,” cried she, “for not by hundreds but by thousands have human souls perished in this quest of thine.”"
+    },
+    {
+     "id": "p037.s02",
+     "source": "Then she instructed the youth whither he should go and what he should do, and he set off on his way."
+    },
+    {
+     "id": "p037.s03",
+     "source": "He took an iron staff in his hand and tied iron sandals to his feet, and he went on and on till he came to two doors, as the Mother of Devils told him he would beforehand."
+    },
+    {
+     "id": "p037.s04",
+     "source": "One of these doors was open, the other was closed."
+    },
+    {
+     "id": "p037.s05",
+     "source": "He closed the open door and opened the closed door, and there, straight before him, was another door."
+    },
+    {
+     "id": "p037.s06",
+     "source": "In front of this door was a lion and a sheep, and there was grass before the lion and flesh before the sheep."
+    },
+    {
+     "id": "p037.s07",
+     "source": "He took up the flesh and laid it before the lion, then he took up the grass and laid it before the sheep, and they let him enter unharmed."
+    },
+    {
+     "id": "p037.s08",
+     "source": "But now he came to a third door, and in front of it were two furnaces, and fire burned in the one and ashes smouldered in the other."
+    },
+    {
+     "id": "p037.s09",
+     "source": "He put out the flaming furnace, stirred up the cinders in the smouldering furnace till they blazed again, and then through the door he went into the garden of the Peris, and from the garden into the Peri palace."
+    },
+    {
+     "id": "p037.s10",
+     "source": "He snatched up the enchanted mirror, and was hastening away with it when a mighty voice cried out against him so that the earth and the heavens trembled."
+    },
+    {
+     "id": "p037.s11",
+     "source": "“Burning furnace, seize him, seize him!” cried the voice, just as he came up to the furnace."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“I can’t,” answered the first furnace, “for he has put me out!”"
+    },
+    {
+     "id": "p038.s02",
+     "source": "But the other furnace was grateful to him for kindling it into a blaze again, so it let him pass by too."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“Lion, lion, tear him to pieces!” cried the mighty voice from the depths of the palace, when the youth came up to the two beasts."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "“Not I,” answered the lion, “for he helped me to a good meal of flesh!”—Nor would the sheep hurt him either, because he had given it the grass.—“Open door! let him not out!” cried the voice from within the palace.—“Nay, but I will!” replied the door; “for had he not opened me I should be closed still!”—and so the golden-haired youth was not very long in getting home, to the great joy of his sister."
+    },
+    {
+     "id": "p040.s02",
+     "source": "She snatched at the mirror and instantly looked into it, and—Allah be praised!—she saw the whole world in it."
+    },
+    {
+     "id": "p040.s03",
+     "source": "Then the damsel thought no more of the Peribranch, for her eyes were glued to the mirror."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "Again the youth went a-hunting, and again he caught the eye of the Padishah."
+    },
+    {
+     "id": "p041.s02",
+     "source": "But the sight of the youth this third time so touched the fatherly heart of the Padishah that they carried him back to his palace half fainting."
+    },
+    {
+     "id": "p041.s03",
+     "source": "Then the witch guessed only too well how matters stood."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "So she arose and went to the damsel, and so filled her foolish little head with her tales that she persuaded her not to give her brother rest day and night till he had brought her the Queen of the Peris herself."
+    },
+    {
+     "id": "p042.s02",
+     "source": "“That’ll make him break his hatchet anyhow!” thought the old woman."
+    },
+    {
+     "id": "p042.s03",
+     "source": "But the damsel rejoiced beforehand at the thought of having the Queen of the Peris also, and in her impatience could scarce wait for her brother to come home."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "When her brother came home she shed as many tears as if she were a cloud dripping rain."
+    },
+    {
+     "id": "p043.s02",
+     "source": "In vain her brother tried to prove to her how distant and how dangerous was the way she would fain have him go."
+    },
+    {
+     "id": "p043.s03",
+     "source": "“I want the Queen of the Peris, and have her I must,” cried the damsel."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "So again the youth set out on his journey, went straight to the Mother of Devils, pressed her hand, kissed her lips, pressed her lips and kissed her hand, and said: “Oh, my mother! help me in this my sore need!”"
+    },
+    {
+     "id": "p044.s02",
+     "source": "The Mother of Devils was amazed at the valour of the man, and never ceased dissuading him from his purpose, for every human soul that goes on such a quest must needs perish.—“Die I may, little mother!” cried the youth, “but I will not come back without her.”"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "So what could the Mother of Devils do but show him the way?"
+    },
+    {
+     "id": "p045.s02",
+     "source": "“Go the same road,” said she, “that led thee to the branch, and then go on to where thou didst find the mirror."
+    },
+    {
+     "id": "p045.s03",
+     "source": "Thou wilt come at last to a large desert, and beyond the desert thou wilt see two roads, but look neither to the right hand nor yet to the left, but go right on through the sooty darkness betwixt them."
+    },
+    {
+     "id": "p045.s04",
+     "source": "When now it begins to grow a little lighter, thou wilt see a large cypress wood, and in this cypress wood a large tomb."
+    },
+    {
+     "id": "p045.s05",
+     "source": "In this tomb, turned to stone, are all those who ever desired the Queen of the Peris."
+    },
+    {
+     "id": "p045.s06",
+     "source": "Stop not there, but go right on to the palace of the Queen of the Peris and call out her name with the full strength of thy lungs."
+    },
+    {
+     "id": "p045.s07",
+     "source": "What will happen to thee after that not even I can tell thee.”"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "Next day the youth set out on his journey."
+    },
+    {
+     "id": "p046.s02",
+     "source": "He prayed by the wayside well, opened all the gates he came to, and, looking neither to the right hand nor to the left, went on straight before him through the sooty darkness."
+    },
+    {
+     "id": "p046.s03",
+     "source": "All at once it began to grow a little lighter, and a large cypress wood appeared right in front of him."
+    },
+    {
+     "id": "p046.s04",
+     "source": "The leaves of the trees were of a burning green, and their drooping crowns hid snow-white tombs."
+    },
+    {
+     "id": "p046.s05",
+     "source": "Nay, but they were not tombs, but stones as big as men."
+    },
+    {
+     "id": "p046.s06",
+     "source": "Nay, but they were not stones at all, but men who had turned, who had stiffened, into stone."
+    },
+    {
+     "id": "p046.s07",
+     "source": "There was neither man, nor spirit, nor noise, nor breath of wind, and the youth froze with horror to his very marrow."
+    },
+    {
+     "id": "p046.s08",
+     "source": "Nevertheless he plucked up his courage and went on his way."
+    },
+    {
+     "id": "p046.s09",
+     "source": "He looked straight before him all the time, and his eyes were almost blinded by a dazzling light."
+    },
+    {
+     "id": "p046.s10",
+     "source": "Was it the sun he saw?"
+    },
+    {
+     "id": "p046.s11",
+     "source": "No, it was the palace of the Queen of the Peris!"
+    },
+    {
+     "id": "p046.s12",
+     "source": "Then he rallied all the strength that was left in him and shouted the name of the Queen of the Peris with all his might, and the words had not yet died away upon his lips when his whole body up to his knee-cap stiffened into stone."
+    },
+    {
+     "id": "p046.s13",
+     "source": "Again he shouted with all his might, and he turned to stone up to his navel."
+    },
+    {
+     "id": "p046.s14",
+     "source": "Then he shouted for the last time with all his might, and stiffened up to his throat first and then up to his head, till he became a tombstone like the rest."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "But now the Queen of the Peris came into her garden, and she had silver sandals on her feet and a golden saucer in her hand, and she drew water from a diamond fountain, and when she watered the stone youth, life and motion came back to him."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "“Well, thou youth thou,” said the Queen of the Peris, “ ’ tis not enough, then, that thou hast taken away my Peri branch and my magic mirror, but thou must needs, forsooth, venture hither a third time!"
+    },
+    {
+     "id": "p048.s02",
+     "source": "Thou shalt share the fate of thy innocent buried mother, stone thou shalt become and stone shalt thou remain."
+    },
+    {
+     "id": "p048.s03",
+     "source": "What brought thee hither?—speak!”"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "“I came for thee,” replied the youth very courageously."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "“Well, as thou hast loved me so exceedingly, no harm shall befall thee, and we will go away together.”"
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "Then the youth begged her to have compassion on all the men she had turned to stone and give them back their lives again."
+    },
+    {
+     "id": "p051.s02",
+     "source": "So the Peri returned to her palace, packed up her baggage, which was small in weight but priceless in value, filled the little golden saucer with water, and sprinkled therewith all the stones and the whole multitude of the stones became men."
+    },
+    {
+     "id": "p051.s03",
+     "source": "They all took horse, and as they quitted the Peri realm, the earth trembled beneath them and the sky was shaken as if the seven worlds and the seven heavens were mingled together, so that the youth would have died of fright if the Queen of the Peris had not been by his side."
+    },
+    {
+     "id": "p051.s04",
+     "source": "Never once did they look behind them, but galloped on and on till they came to the house of the youth’s sister, and such was their joy and gladness at seeing each other again that place could scarce be found for the Queen of the Peris."
+    },
+    {
+     "id": "p051.s05",
+     "source": "But now the youth was in no great hurry to go hunting as before, for he had changed hearts with the lovely Queen of the Peris, and she was his and he was hers."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "Now when the Queen of the Peris had heard the history of the children and their parents, and the fate of their innocent mother, she said one morning to the youth: “Go a-hunting in the forest, and thou wilt meet the Padishah."
+    },
+    {
+     "id": "p052.s02",
+     "source": "The first thing he will do will be to invite thee to the palace, but beware lest thou accept his invitation.”"
+    },
+    {
+     "id": "p052.s03",
+     "source": "And so indeed it turned out."
+    },
+    {
+     "id": "p052.s04",
+     "source": "Scarcely had he taken a turn in the wood than the Padishah stood before him, and, one word leading to another, he invited the youth to his palace, but the youth would not go."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "Early next morning the Peri awoke the children, clapped her hands together and called her Lala, and immediately a huge negro sprang up before them."
+    },
+    {
+     "id": "p053.s02",
+     "source": "So big was he that one of his lips touched the sky while the other swept the earth."
+    },
+    {
+     "id": "p053.s03",
+     "source": "“What dost thou command me, my Sultana?” cried the Lala."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "“Fetch me hither my father’s steed!” commanded the Peri."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "The negro vanished like a hurricane, and, a moment afterwards, the steed stood before them, and the like of it was not to be found in the wide world."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "The youth leaped upon the horse, and the splendid suite of the Padishah was already waiting for him at the roadside."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "But—O Allah, forgive me!—I have forgotten the best of the story."
+    },
+    {
+     "id": "p057.s02",
+     "source": "The Peri charged the youth as he quitted her to take heed, while he was in the palace of the Padishah, to the neighing of his horse."
+    },
+    {
+     "id": "p057.s03",
+     "source": "At the first neighing he was to hasten back."
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "So the youth went to meet the Padishah on his diamond-bridled charger, and behind him came a gay and gallant retinue."
+    },
+    {
+     "id": "p058.s02",
+     "source": "He saluted the people on the right hand and on the left all the way to the palace, and there they welcomed him with a pomp the like of which was never known before."
+    },
+    {
+     "id": "p058.s03",
+     "source": "They ate and drank and made merry till the Padishah could scarce contain himself for joy, but then the steed neighed, the youth arose, and all their entreaties to him to stay could not turn him from his set purpose."
+    },
+    {
+     "id": "p058.s04",
+     "source": "He mounted his horse, invited the Padishah to be his guest on the following day, and returned home to the Peri and his own sister."
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "Meanwhile the Peri dug up the mother of the children, and so put her to rights again by her Peri arts that she became just as she was in the days of her first youth."
+    },
+    {
+     "id": "p059.s02",
+     "source": "But she spake not a word about the mother to the children, nor a word about the children to the mother."
+    },
+    {
+     "id": "p059.s03",
+     "source": "On the morning of the reception of guests she rose up early and commanded that on the spot where the little hut stood a palace should rise, the like of which eye hath never seen nor ear heard of, and there were as many precious stones heaped up there as were to be found in the whole kingdom."
+    },
+    {
+     "id": "p059.s04",
+     "source": "And then the garden that surrounded that palace!"
+    },
+    {
+     "id": "p059.s05",
+     "source": "There were multitudes of flowers, each one lovelier than the other, and on every flower there was a singing bird, and every bird had feathers aglow with light, so that one could only look at it all open-mouthed and cry: “Oh! oh!”"
+    },
+    {
+     "id": "p059.s06",
+     "source": "And the palace itself was full of domestics, there were black harem slaves, and white captive youths, and dancers and singers, and players of stringed instruments—more than thou canst count, count thou never so much, and words cannot tell of the splendour of the retinue which went forth to greet the Padishah as a guest."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "“These children are not of mortal birth!” thought the Padishah to himself, when he beheld all these marvels, “or if they are of mortal birth a Peri must have had a hand in the matter.”"
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "They led the Padishah into the most splendid room of the palace, they brought him coffee and sherbet, and then the music spoke to him, and the singing birds—oh! a man could have listened to them for ever and ever!"
+    },
+    {
+     "id": "p061.s02",
+     "source": "Then rich meats on rare and precious dishes were set before him, and then the dancers and the jugglers diverted him till the evening."
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "At eventide the servants came and bowed before the Padishah and said: “My lord! peace be with thee!"
+    },
+    {
+     "id": "p062.s02",
+     "source": "They await thee in the harem!”"
+    },
+    {
+     "id": "p062.s03",
+     "source": "So he entered the harem, and there he saw before him the golden-haired youth, with a beautiful half-moon shining on his forehead, and his bride, the Peri-Queen, and his own consort, the Sultana, who had been buried in the earth, and by her side a golden-haired maiden with a star sparkling on her forehead."
+    },
+    {
+     "id": "p062.s04",
+     "source": "There stood the Padishah as if turned to stone, but his consort ran up to him and kissed the edge of his garment, and the Peri-Queen began to tell him the whole of her life and how everything had happened."
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "The Padishah was nigh to dying in the fulness of his joy."
+    },
+    {
+     "id": "p063.s02",
+     "source": "He could scarce believe his eyes, but he pressed his consort to his breast and embraced the two beauteous children, and the Queen of the Peris likewise."
+    },
+    {
+     "id": "p063.s03",
+     "source": "He forgave the sisters of the Sultana their offences, but the old witch was mercilessly destroyed by lingering tortures."
+    },
+    {
+     "id": "p063.s04",
+     "source": "But he and his consort and her son and the Queen of the Peris, and his daughter, and his daughter’s bridegroom sat down to a great banquet and made merry."
+    },
+    {
+     "id": "p063.s05",
+     "source": "Forty days and forty nights they feasted, and the blessing of Allah was upon them."
+    }
+   ],
+   "id": "p063"
   }
  ]
 }

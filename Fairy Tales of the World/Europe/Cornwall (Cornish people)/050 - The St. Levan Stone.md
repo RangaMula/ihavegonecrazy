@@ -4,7 +4,7 @@
 - **Source book:** *Traditions and Hearthside Stories of West Cornwall, Second Series*
 - **Author / collector / translator:** Bottrell, William (author, d. 1881)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #41761 — https://www.gutenberg.org/ebooks/41761 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #41761 — https://www.gutenberg.org/ebooks/41761
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

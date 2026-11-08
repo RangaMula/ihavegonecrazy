@@ -4,7 +4,7 @@
 - **Source book:** *The Indian Fairy Book: From the Original Legends*
 - **Author / collector / translator:** Mathews, Cornelius (author, d. 1889)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #22248 — https://www.gutenberg.org/ebooks/22248 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #22248 — https://www.gutenberg.org/ebooks/22248
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

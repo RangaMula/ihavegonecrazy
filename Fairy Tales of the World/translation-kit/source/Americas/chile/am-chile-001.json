@@ -1,0 +1,730 @@
+{
+ "id": "am-chile-001",
+ "title": {
+  "id": "title",
+  "source": "El Soldadillo"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/001 - El Soldadillo.md",
+ "stats": {
+  "paragraphs": 58,
+  "segments": 90,
+  "words": 2033
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "El Soldadillo se estaba aburriendo en su casa y se le puso en la cabeza salir a rodar tierras, por ser hombre y por saber."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Salió, pues, un día, llevando al hombro unas alforjas muy bien provistas y un buen cuchillo asegurado a la cintura."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Después de haber andado unas cuantas horas, en un camino apartado se encontró con un hermoso joven, elegantemente vestido."
+    },
+    {
+     "id": "p003.s02",
+     "source": "El Soldadillo, que era hombre bien hablado, se sacó su gorra y saludando con todo respeto, preguntó:"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "—¿A dónde va, mi señor?"
+    },
+    {
+     "id": "p004.s02",
+     "source": "Si lo puedo servir en algo, estoy a sus órdenes."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "El Príncipe, porque el joven era hijo de Rey, le contestó:"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "—Si quieres acompañarme, te daré buen sueldo; el sirviente que traía se me perdió en el camino, y necesito de una persona que me ayude; pero ésa ha de ser muy valiente, porque nos hemos de ver quizás en qué peligros."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "—Su mercé, respondió el Soldadillo, tal vez haya oído hablar de su servidor, porque yo he peleado en todas las batallas que ha dado Su Sacarreal Majestad el Rey su padre, y siempre me porté con valor y nunca volví la espalda al enemigo."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Juan me llamo, señor, y por sobrenombre me dicen el Sordaíllo."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "—¡Con que tú eres, hombre, el mentado Soldadillo!"
+    },
+    {
+     "id": "p008.s02",
+     "source": "No he podido encontrar mejor compañero; he andado con suerte; desde luego te tomo a mi servicio."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Siguieron andando los dos, más que como patrón y sirviente, conversando como amigos."
+    },
+    {
+     "id": "p009.s02",
+     "source": "El Príncipe le contó cómo se había enamorado, por un retrato que había visto, de la más linda princesa del mundo, a quien andaba buscando: estaba encantada y nadie sabía en donde se hallaba."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "El Soldadillo le prometió ayudarlo en todo y no dejarlo mientras no dieran con la princesa, y hasta dejarse matar por él, aunque—le dijo—todavía no ha nacido quien se atreva a tocarme un pelo."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Siguieron andando y andando, y hacía ya muchos días que iban por el mismo camino, cuando encontraron a un hombre que se ejercitaba en dar saltos muy grandes."
+    },
+    {
+     "id": "p011.s02",
+     "source": "El Soldadillo le preguntó:"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "—¿Cómo te llamáis, ho?"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "—Yo me llamo—contestó el hombre—Saltín, Saltón, hijo del buen Saltaor."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "—¿Y en qué te ocupáis, hó?"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "—En saltar, pus, ñor; y pueo dar saltos de más de dos cuairas, pus, ñor."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "—Este hombre nos conviene—le dijo el Príncipe al Soldadillo;—pregúntale si quiere entrar a mi servicio."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Entonces el Soldadillo le dijo al hombre:"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "—¿Por qué no te venís con nosotros?"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "—Si me dan buena paga, me voy con ustedes."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Y Saltín, Saltón, hijo del buen Saltaor, se fué con ellos."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Siguieron andando y andando, y más adelante toparon con un hombre que se llevaba tranqueando de arriba para abajo, a grandes pasos, y que no descansaba ni un momento."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "—¿Cómo te llamáis, ho?—le preguntó el Soldadillo; y el otro le contestó:"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "—Yo me llamo Andín, Andón, hijo del buen Andaor."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "—¿Y en qué trabajáis, vos?"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "—En andar, pus, ñor; ese es mi oficio; porque yo soy lo mesmito que el Judío Errante, que me canso cuando me siento; y aemás soy muy forzúo, y me los pueo echar a toos ustees al hombro y llevarlos aonde ustees me igan; porque han de saber que soy nieto de Carguín, Cargón, hijo del buen Cargaor, y que hei sacao las juerzas de mi agüelo."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "—Este hombre nos conviene—le dijo el Príncipe al Soldadillo;—contrátalo a ver si quiere servirme."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Entonces el Soldadillo le dijo al hombre:"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "—¿Por qué no te venís con nosotros?"
+    },
+    {
+     "id": "p028.s02",
+     "source": "Te daremos buena paga."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "—Métale, pus, ñor—contestó Andín, Andón, hijo del buen Andaor; y para probarles que era cierto lo que les había dicho acerca de las fuerzas que tenía, agarró a los tres compañeros en sus brazos y siguió cargado con ellos, como si tal cosa."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Bien les vino a los pobres, porque estaban muy cansados."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Así anduvieron por tres días, hasta que encontraron a un hombre sentado en la tierra, que con una mano rodeaba una de sus orejas, como para escuchar mejor."
+    },
+    {
+     "id": "p031.s02",
+     "source": "El Soldadillo le dijo:"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "—¿Qué hace ahí, mi amigo? ¿se puede saber?"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "—Como nó—le contestó el hombre:—estoy oyendo a una niña que está encerrada siete estados bajo tierra llorando sin consuelo y quejándose de que la tienen encan tada."
+    },
+    {
+     "id": "p033.s02",
+     "source": "En este momento, dice: ¿Qué será del Rey, mi padre?"
+    },
+    {
+     "id": "p033.s03",
+     "source": "¡Cómo llorará mi madre!"
+    },
+    {
+     "id": "p033.s04",
+     "source": "¡Cuándo vendrá el príncipe que ha de libertarme!"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "El Príncipe no dudó que la princesa encerrada era la que él buscaba, e inmediatamente preguntó al hombre:"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "—¿Cómo te llamas tú?"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "—Yo me llamo, señor—le contestó—Oidín, Oidón, hijo del buen Oidor."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "—Vente conmigo y te pagaré bien—le dijo el Príncipe."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "—Eso quisiera yo—le dijo Oidín—porque estoy sin empleo."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Y Oidín, Oidón, hijo del buen Oidor, pasó a ocupar su lugar al apa de Andín, Andón, hijo del buen Andaor."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Siguiendo las indicaciones de Oidín, que a cada rato hacía que Andín se parara, para escuchar mejor, se metió Andín con su carga por un bosque muy tupido, llegando una noche, al cabo de siete días de marcha, frente a un castillo."
+    },
+    {
+     "id": "p040.s02",
+     "source": "Dieron seis vueltas alrededor de él, sin encontrar puerta alguna; sólo veían una fila de ventanas, todas alumbradas, pero muy altas y defendidas por gruesos barrotes de fierro."
+    },
+    {
+     "id": "p040.s03",
+     "source": "A la séptima vuelta vieron una puerta toda de fierro, hecha de una sola pieza y con un gran llamador."
+    },
+    {
+     "id": "p040.s04",
+     "source": "Golpearon y nadie contestó; golpearon dos veces más y tampoco nadie salió."
+    },
+    {
+     "id": "p040.s05",
+     "source": "Entonces el Soldadillo dijo:"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "—Que se queden todos aquí; a mí me agarra en peso Saltín, Saltón, hijo del buen Saltaor, y de un salto nos ponemos dentro del castillo."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "Así lo hicieron; pero todavía no ponían un pie en tierra, cuando oyeron cerca de ellos una voz de trueno que decía:"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "—¡Carne humana huele aquí!"
+    },
+    {
+     "id": "p043.s02",
+     "source": "Carne humana huele aquí!"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "Saltín, Saltón, hijo del buen Saltaor, todo asustado, de un brinco volvió afuera, dejando sólo a mi buen Soldadillo frente a frente de un gigante enorme."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "—A peliar vengo con vos—le dijo el Soldadillo;—y no me grite tan fuerte, que no soy sordo y le pueo cortar la lengua con este cuchillito; ni me mire tan fiero, porque tamién le pueo sacar los ojos con estos cinco deos."
+    },
+    {
+     "id": "p045.s02",
+     "source": "Sepa el cara e capacho viejo, que está hablando con el Sordaíllo y quien se mete con él, sale fregao."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "Esto que dice el Soldadillo y el gigante que se le va encima; pero el Soldadillo le saca el cuerpo con toda ligereza, y plantándose detrás, le da con su cuchillito un tajo tan bien refuerte, que me le corta al gigante los nervios de la corva de la pierna derecha, y de otro tajo me le rebana los nervios de la corva de la pierna izquierda, y mi buen gigante cae al suelo dando unos bramidos que hacían temblar toda la tierra."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "Los de afuera oían los bramidos, todos asustados, y por más que el Príncipe le decía a Saltín, Saltón, hijo del buen Saltaor, que los transladara a todos adentro para ayudar al Soldadillo, Saltín no quiso obedecerle, porque, como el miedo es cosa viva, todavía le temblaban las carnes y no se animaba a ponerse cerca del gigante."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "De repente se dejan de oir los bufidos y las puertas del castillo se abren de par en par."
+    },
+    {
+     "id": "p048.s02",
+     "source": "Mi buen Soldadillo, con el cuchillo en la mano, chorreando sangre, les dice que ha muerto al guardián del castillo y que ya pueden entrar sin cuidado."
+    },
+    {
+     "id": "p048.s03",
+     "source": "No sabía el pobre los peligros que todavía le esperaban."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "Entraron, y al pasar por un gran comedor, todo lleno de manjares, Andín, Saltín y Oidín, quisieron sentarse a comer, pero el Príncipe y el Soldadillo dijeron que era preciso sacar primero a la Princesa; que después habría tiempo para comer y mucho más."
+    },
+    {
+     "id": "p049.s02",
+     "source": "Tuvieron que obedecer, porque donde manda capitán no manda marinero, y el que manda, manda, y mano a la cartuchera; y sirviéndoles de guía Oidín, Oidón, hijo del buen Oidor, llegaron hasta un pozo."
+    },
+    {
+     "id": "p049.s03",
+     "source": "El Soldadillo buscó una barra de fierro y la atravesó en la boca del pozo; buscó después unos cordeles y amarrando un extremo en la barra y el otro a su cintura, lo descolgaron."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "Lo que sucedió después es digno de oirse."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "Cuando llegó al primer estado bajo tierra, el Soldadillo que entra a una sala muy hermosa y que se le presenta un enorme culebrón con siete cabezas."
+    },
+    {
+     "id": "p051.s02",
+     "source": "El Soldadillo, que estaba curado de espantos, no se asustó, antes, echando pie atrás, alzó el cuchillo y de un fuerte golpe le cortó a la Culebra una de sus cabezas."
+    },
+    {
+     "id": "p051.s03",
+     "source": "El Culebrón dió un silbido que aturdió, y desapareció por un agujero; y el Soldadillo la siguió de atrás."
+    },
+    {
+     "id": "p051.s04",
+     "source": "Al llegar al segundo estado, nuevo combate; la Culebra quería enroscar con su cola al Soldadillo, pero éste, haciéndole un quite, logró ponérsele al frente y cortarle otra de las cabezas."
+    },
+    {
+     "id": "p051.s05",
+     "source": "El Culebrón arrancó como un condenado por un portillo y el Soldadillo se coló detrás de él por el mismo portillo."
+    },
+    {
+     "id": "p051.s06",
+     "source": "Llegaron al tercer estado, la Culebra con cinco cabezas no más, y el Soldadillo, firme como un peral y con su cuchillo en la mano."
+    },
+    {
+     "id": "p051.s07",
+     "source": "Tercer combate; el Culebrón quería enterrarle la lanceta de una de sus bocas, pero el Soldadillo en un dos por tres, ¡zás! le cortó otra cabeza."
+    },
+    {
+     "id": "p051.s08",
+     "source": "Ya no le quedaban al Culebrón mas que cuatro cabezas, las mismas cuatro que le cortó mi valiente Soldadillo, una en cada estado a que el Culebrón bajaba, hasta que llegaron al séptimo, en que le cortó la última y me lo dejó sin poder moverse más."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "Ya tenemos al Soldadillo en el séptimo estado bajo tierra, libre del gigante y del Culebrón y oyendo los quejidos de la Princesa, que no sabía de qué parte salían."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "Buscando y buscando, da con una puerta, que abre con mucho cuidado y se encuentra dentro de una pieza tan grande y tan linda como no había visto otra en su vida; estaba toda cubierta de oro y plata y alumbrada con muchos blandones, candelabros y arañas, y en medio, tendida en el suelo, desmayada, la más hermosa Princesa que hayan visto ojos humanos."
+    },
+    {
+     "id": "p053.s02",
+     "source": "La cargó en brazos y la llevó en ellos hasta que llegó al primer estado, y amarrándose allí nuevamente el cordel a la cintura, gritó que lo suspendieran."
+    },
+    {
+     "id": "p053.s03",
+     "source": "Cuando llegó arriba, todos se quedaron con la boca abierta de ver tan hermosa Princesa, y al Príncipe casi se le salía el corazón por la boca, tan fuertemente le saltaba."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "Cuando la Princesa volvió en sí, contó que una vieja bruja la había hechizado y encerrado en ese castillo, del cual nadie tenía noticias, y que el encantamiento debía durar hasta que un príncipe viniera a librarla."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "El Príncipe estaba muy feliz, porque había encontrado a su Princesa; y después de comer de los exquisitos manjares que habían encontrado preparados, el Príncipe, no queriendo demorar su casamiento, ordenó a Andín, Andón, hijo del buen Andaor, que cargara con todos y los llevara a la Corte del Rey, su padre."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "¡Bueno en el hombre forzudo!"
+    },
+    {
+     "id": "p056.s02",
+     "source": "A todos se los echó al hombro como si no pesaran más que una pluma, y en un par de días llegaron a la capital del reino, donde se celebró el matrimonio con grandes fiestas y banquetes, y vivieron muchos años muy felices y dichosos y rodeados de hermosos hijos que se parecían a ellos."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "Después de la boda, el Soldadillo y sus demás compañeros pidieron licencia al Príncipe para retirarse, y entonces éste y la Princesa les dieron a cada uno un gran talego de plata y al Soldadillo dos; y a los cuatro, trajes muy ricos, pues estaban muy agradecidos de ellos; porque sin Andín, Andón, hijo del buen Andaor, no habrían podido llegar al castillo; sin Oidín, Oidón, hijo del buen Oidor, no habrían sabido dónde se encontraba la Princesa; sin Saltín, Saltón, hijo del buen Saltaor, no habrían podido entrar al castillo; y sin el Soldadillo, la Princesa habría seguido encantada hasta ahora."
+    },
+    {
+     "id": "p057.s02",
+     "source": "Bien dicen que Dios, sin ser vaquero, todo lo rodea."
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "Y aquí se acabó el cuento del Periquito Sarmiento, que estaba con la guatita al aire y el potito al viento; y pase por una mata de poroto para que Fulano me cuente otro."
+    }
+   ],
+   "id": "p058"
+  }
+ ]
+}

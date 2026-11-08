@@ -4,7 +4,7 @@
 - **Source book:** *Told on the Pagoda: Tales of Burmah*
 - **Author / collector / translator:** Mimosa (author)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #36171 — https://www.gutenberg.org/ebooks/36171 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #36171 — https://www.gutenberg.org/ebooks/36171
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

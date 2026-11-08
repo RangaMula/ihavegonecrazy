@@ -1,0 +1,46 @@
+{
+ "id": "af-kabyle-people-algeria-033",
+ "title": {
+  "id": "title",
+  "source": "Idiotisme"
+ },
+ "tradition": "Kabyle people (Algeria)",
+ "continent": "Africa",
+ "source_lang": "fr",
+ "source_book": "Recueil de contes populaires de la Kabylie du Djurdjura (1882)",
+ "credits": "Rivière, Joseph (translator, d. 1883)",
+ "gutenberg": "Internet Archive item `recueildecontes00rivigoog` — https://archive.org/details/recueildecontes00rivigoog (OCR text, lightly cleaned)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Africa/Kabyle people (Algeria)/033 - Idiotisme.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 3,
+  "words": 131
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "ES Beni-Djennad, dont il est question dans les contes suivants, sont regardés par les autres Kabyles comme des idiots, ou au moins comme médiocrement doués sous le rapport de l'intelligence ; nous ignorons l'origine d'une telle réputation^ mais assurément il existe des idiots dans toutes les tribus, et les Beni'Djennad n'ont pas seuls la simplicité d'esprit comme trait spécial de caractère."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Les malheureux frappés à mort dans"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "leurs /acuités intellectuelles sont' entourés du respect public; on les considère comme les victimes d'une malédiction ou comme possédés par les esprits invisibles ; les enfants, il est vrai, s'en font parfois un joyeux et cruel passe-temps^ mais un jeune homme qui se permettrait un tel jeu serait condamné par l'opinion publique à tomber lui-même au pouvoir de l'esprit dont l'idiot est la victime."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

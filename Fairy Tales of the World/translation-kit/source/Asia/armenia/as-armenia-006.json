@@ -2,20 +2,20 @@
  "id": "as-armenia-006",
  "title": {
   "id": "title",
-  "source": "The Gregorian Church"
+  "source": "The Dreamer"
  },
  "tradition": "Armenia",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Armenian Legends and Festivals",
- "credits": "Boettiger, Louis A. (Louis Angelo) (author)",
- "gutenberg": "Project Gutenberg eBook #38129 — https://www.gutenberg.org/ebooks/38129 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Asia/Armenia/006 - The Gregorian Church.md",
+ "source_book": "The Golden Maiden, and other folk tales and fairy stories told in Armenia",
+ "credits": "Seklemian, A. G. (Apraham Garabed) (author, d. 1920)",
+ "gutenberg": "Project Gutenberg eBook #46944 — https://www.gutenberg.org/ebooks/46944",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Armenia/006 - The Dreamer.md",
  "stats": {
-  "paragraphs": 33,
-  "segments": 101,
-  "words": 2372
+  "paragraphs": 86,
+  "segments": 141,
+  "words": 2131
  },
  "paragraphs": [
   {
@@ -23,35 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "As the materials of Part One are part of a larger mass of legends, traditions, and folk-lore, the social value of which lies in their power of creating a national or group sentiment, so the festivals and ceremonies to be taken up in Part Two are part of a larger mass of festivals, ceremonies, and rites whose social value lies in the fact that they constitute a necessary vehicle of expression for this same national sentiment."
+     "source": "A father and mother once lived whose son was a dreamer."
     },
     {
      "id": "p001.s02",
-     "source": "The festivals are a necessary counterpart of the legends, as the latter are a necessary counterpart of the former."
-    },
-    {
-     "id": "p001.s03",
-     "source": "Activity is one of the most fundamental of nature’s laws."
-    },
-    {
-     "id": "p001.s04",
-     "source": "The sentiment of love for an individual dies eventually in the absence of some formal mode of active expression."
-    },
-    {
-     "id": "p001.s05",
-     "source": "But be the action ever so little a thing, such as the laying of flowers upon the grave of the dead, the visiting of a shrine, or the sight of some hallowed spot of sacred memory, the sentiment is kept alive."
-    },
-    {
-     "id": "p001.s06",
-     "source": "To be sure a sentiment may smoulder for a lifetime, even as a national sentiment may slumber for centuries without a mode of expression, and then all of a sudden burst forth into a flame, or awaken into life at a mere suggestion from outside."
-    },
-    {
-     "id": "p001.s07",
-     "source": "Bereft of statehood, the sentiment of loyalty for the state has slumbered for centuries within the breast of the Armenian people, but how often, how too sadly often, has it not suddenly awakened into hot, new life only to be pacified into slumber again."
-    },
-    {
-     "id": "p001.s08",
-     "source": "But the last glow, the little flicker at the end is all that separates the living embers from the dead ash."
+     "source": "One morning the lad arose and said to his mother:"
     }
    ],
    "id": "p001"
@@ -61,23 +37,7 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "How the Armenian church recognized the truth of this by putting into operation a thousand various modes of action in which the new national sentiment that it created has kept itself alive and fresh, may well serve as an object lesson to many another church."
-    },
-    {
-     "id": "p002.s02",
-     "source": "She did not make the mistake of imposing an entirely new body of festivals and ceremonies upon the people; she utilized the past and carried over a number of pagan festivals absolutely intact, which she clothed with a new meaning slowly recognized by the people."
-    },
-    {
-     "id": "p002.s03",
-     "source": "These form the first group to be considered."
-    },
-    {
-     "id": "p002.s04",
-     "source": "In the course of time she created certain new festivals which constitute the second group."
-    },
-    {
-     "id": "p002.s05",
-     "source": "And then she identified herself with all of the ceremonies of common life, such as betrothal, marriage, and funeral ceremonies."
+     "source": "“Mother, I dreamed a dream last night, but I will not tell it.”"
     }
    ],
    "id": "p002"
@@ -87,47 +47,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "In this way the Armenian church has become absolutely and inseparably identified with the life of the people, and the people in turn have been held together into a nation which has continued to give its artists and artisans to the world."
-    },
-    {
-     "id": "p003.s02",
-     "source": "What is Armenia?"
-    },
-    {
-     "id": "p003.s03",
-     "source": "The national Gregorian church; much as Louis XIV, when asked “What is the state?” replied, “I am the state.”"
-    },
-    {
-     "id": "p003.s04",
-     "source": "This is unquestionably an exaggerated view, but not as much so as might be supposed, since the social life of the people is so completely bound up with the church."
-    },
-    {
-     "id": "p003.s05",
-     "source": "The only betrothal and marriage recognized is that sanctioned by the church."
-    },
-    {
-     "id": "p003.s06",
-     "source": "Whenever there is a common danger, as has been the case repeatedly during the past twenty years, the people flock to the church for protection."
-    },
-    {
-     "id": "p003.s07",
-     "source": "Such secret revolutionary propaganda as has been carried on has been done largely through the church."
-    },
-    {
-     "id": "p003.s08",
-     "source": "The young Armenian who returns from his academic life in Paris, a sceptic if not an unbeliever, and certainly opposed to the dogma and ultra-conservatism of his church, does not alienate himself, for he realizes his utter impotence in any kind of work for his people should he do so."
-    },
-    {
-     "id": "p003.s09",
-     "source": "In spite of the division of Armenia into three slices, Turkish, Persian, and Russian, the church has retained its hold, and if the position of the people as subject to Turkey, Persia, and Russia has placed her (the church) at a decided disadvantage in coping with the ever constant influence and propaganda, schools, and missionaries of the Greek, Latin, and Protestant churches, she has not at all given in, for the number of Catholic Armenians amounts to only 3 per cent of the number of orthodox Armenians, while the number of Protestant Armenians is only 1 per cent."
-    },
-    {
-     "id": "p003.s10",
-     "source": "Considering, as I say, the utter helplessness of the church in combating outside influences, these figures indicate how closely the life of the people is identified with her."
-    },
-    {
-     "id": "p003.s11",
-     "source": "Perhaps her very helplessness has been a source of strength."
+     "source": "“Why will you not tell it?” asked the mother."
     }
    ],
    "id": "p003"
@@ -137,11 +57,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "These facts together with such little practices as I have mentioned (and I might also note the custom of the Armenian peasant of crossing himself daily at the altar of his community church before beginning his day of toil) are sufficient to show that the church has been the chief means of keeping alive the currents of national life, that it is a national church, and that it has identified itself with the common life of the people."
-    },
-    {
-     "id": "p004.s02",
-     "source": "The festivals and ceremonies which constitute the second part of my paper thus form the vehicle of expression of the national sentiment, and are all connected with the church."
+     "source": "“I will not,” answered the lad."
     }
    ],
    "id": "p004"
@@ -151,31 +67,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The participation of the laity in church matters, especially in the election of its officials, is a chief reason for the essential oneness of church and people."
-    },
-    {
-     "id": "p005.s02",
-     "source": "Priests, bishops, and patriarchs, who constitute the three chief grades in the religious hierarchy, are chosen by the people."
-    },
-    {
-     "id": "p005.s03",
-     "source": "The approval of higher authorities is necessary in most cases, but this only slightly detracts from the importance of the rôle of the people."
-    },
-    {
-     "id": "p005.s04",
-     "source": "A married priest is the religious head of every parish, and he is elected either by a direct process of voting or by a deed of presentation."
-    },
-    {
-     "id": "p005.s05",
-     "source": "The religious council of the diocese proceeds to examine the ability and qualifications of the candidate, who is ordained if his examination proves successful; if unsuccessful, a new candidate must be presented, for a bishop can not of his own initiative ordain a priest."
-    },
-    {
-     "id": "p005.s06",
-     "source": "The laity have no voice in the election of the celibate priesthood, which is only natural since the celibate priests are not in any way connected with the life of the community."
-    },
-    {
-     "id": "p005.s07",
-     "source": "Furthermore, they do not constitute a very important element, for when Ormanian wrote in 1911, there were only 400 celibate priests as against 4,000 married priests."
+     "source": "“The mother beat the lad, who ran to his father, saying:"
     }
    ],
    "id": "p005"
@@ -185,35 +77,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "The married priest is very closely identified with his community."
-    },
-    {
-     "id": "p006.s02",
-     "source": "He not only makes a regular practice of visiting the various households of the parish, but he is sole confessor of the people."
-    },
-    {
-     "id": "p006.s03",
-     "source": "As he officiates at masses and church ceremonies and promotes a general participation in the festivals, so also no betrothal, marriage, baptism, or funeral can be sanctioned without his presence."
-    },
-    {
-     "id": "p006.s04",
-     "source": "He is as well a kind of marriage agency, employment agency, and relief agency, acting always of course in coöperation with the council of elders of his parish."
-    },
-    {
-     "id": "p006.s05",
-     "source": "A priest called at the home of an Armenian lady I know, and remarked casually that he was aware she had a daughter, whom he was very anxious to see, for there were two young men of the community who were very desirous to marry."
-    },
-    {
-     "id": "p006.s06",
-     "source": "So the people inform the priest of their need and the priest does all in his power to help them."
-    },
-    {
-     "id": "p006.s07",
-     "source": "He does not receive a regular compensation, being absolutely dependent upon the voluntary offerings of his flock and the voluntary fees received for official services rendered."
-    },
-    {
-     "id": "p006.s08",
-     "source": "This works out sometimes to his advantage, but more often not, depending generally on whether his parish is poverty stricken or well-to-do."
+     "source": "“Father, I dreamed a dream last night; I did not tell it to mother, and I will not tell it to you.”"
     }
    ],
    "id": "p006"
@@ -223,43 +87,11 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "There are several very curious usages practiced by the married priest."
+     "source": "The father also beat the lad, who was angered and ran away from the house."
     },
     {
      "id": "p007.s02",
-     "source": "He is recruited from all classes of society, but more often there is a succession from father to son."
-    },
-    {
-     "id": "p007.s03",
-     "source": "The conditions demanded, besides parochial election, are acquaintance with ecclesiastical and liturgical matters, an exemplary life, and the consent of his wife."
-    },
-    {
-     "id": "p007.s04",
-     "source": "After his ordination he must fast for forty days."
-    },
-    {
-     "id": "p007.s05",
-     "source": "He then prepares himself for his first mass by a life of retreat in the church, restricting himself to a vegetable diet for twenty-four hours."
-    },
-    {
-     "id": "p007.s06",
-     "source": "The wife, who enjoys a certain precedence in society, observes a customary abstinence in the absence of her husband."
-    },
-    {
-     "id": "p007.s07",
-     "source": "One week or at least three days before the celebration of the mass, he keeps away from home, passing the nights within the church."
-    },
-    {
-     "id": "p007.s08",
-     "source": "He may engage in domestic or even professional work so long as this does not interfere with the duties of his calling."
-    },
-    {
-     "id": "p007.s09",
-     "source": "Should his wife die, he may not marry again unless he lays aside his priestly robe, nor may a priest ever marry a widow."
-    },
-    {
-     "id": "p007.s10",
-     "source": "These practices are not dead letters, except that the custom of sojourning within the church for three nights before mass has, in Constantinople at least, been reduced to a single night."
+     "source": "After a day’s journey he met a traveler."
     }
    ],
    "id": "p007"
@@ -269,35 +101,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "The bishops are chosen as chiefs of dioceses by the council of the diocese, six sevenths of whose members are laymen, the remainder being ecclesiastics."
-    },
-    {
-     "id": "p008.s02",
-     "source": "The patriarchs, including the Katholikos, the supreme authority of the church whose seat is at Etchmiadzin, the religious center of the nation, are chosen by an electoral assembly of the religious heads (bishops or archbishops) and lay deputies who are nominated by the dioceses as a whole."
-    },
-    {
-     "id": "p008.s03",
-     "source": "The eight members of the synod, which is an advisory body to the Katholikos, and the seven oldest members of the congregation at Etchmiadzin have equal share in voting."
-    },
-    {
-     "id": "p008.s04",
-     "source": "The electoral assembly, so constituted, chooses two candidates, one of whom is selected by the Czar."
-    },
-    {
-     "id": "p008.s05",
-     "source": "The Czar, after his selection is made, sends a deputy to meet the successful candidate, who is decorated and escorted with due ceremony to Etchmiadzin where he is officially ordained."
-    },
-    {
-     "id": "p008.s06",
-     "source": "There are only two patriarchates besides the see of Etchmiadzin, i.e., those of Constantinople and Jerusalem."
-    },
-    {
-     "id": "p008.s07",
-     "source": "The corresponding patriarchs are likewise chosen by a national assembly, six sevenths of whose members belong to the laity."
-    },
-    {
-     "id": "p008.s08",
-     "source": "The patriarchs of both Jerusalem and of Constantinople acknowledge the supremacy of the Katholikos of Etchmiadzin, who is thus head of the church, though not infallible."
+     "source": "“Good-day!” said the lad."
     }
    ],
    "id": "p008"
@@ -307,31 +111,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "The site of Etchmiadzin is the old capital city, Vagharshapat, the ruins of which are all but washed away; and it marks the spot where St. Gregory in his vision saw the descent of Jesus Christ."
-    },
-    {
-     "id": "p009.s02",
-     "source": "Etchmiadzin means, “Descent of the Only Begotten.”"
-    },
-    {
-     "id": "p009.s03",
-     "source": "The particular spot is commemorated by the central altar of the Cathedral, which is the chief church of the nation."
-    },
-    {
-     "id": "p009.s04",
-     "source": "This Cathedral is situated in the center of a huge court bounded in the form of a large rectangle by the cells of the monks, the long refectory building, the library, the theological seminary, and the residence of the Katholikos."
-    },
-    {
-     "id": "p009.s05",
-     "source": "Outside this rectangle are ranged buildings and open spaces, including the garden of the Katholikos, the court for pilgrims, the printing establishment, and dwellings for various uses, all of which is bounded by a huge wall in the form of a still larger rectangle about 1,000 feet in length and 700 feet in width."
-    },
-    {
-     "id": "p009.s06",
-     "source": "The chapels of the martyrs are some distance from the monastery, the church of St. Gaiane, commemorating the spot of her martyrdom, being about one fourth of a mile distant, while the church of St. Rhipsime, which likewise honors the spot of Rhipsime’s martyrdom, is about three fourths of a mile distant."
-    },
-    {
-     "id": "p009.s07",
-     "source": "The buildings now standing can hardly be those built by the saint."
+     "source": "“Good-day!” replied the traveler."
     }
    ],
    "id": "p009"
@@ -341,43 +121,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Etchmiadzin has been for many years a place of pilgrimage for the faithful."
-    },
-    {
-     "id": "p010.s02",
-     "source": "There is not only the sacred Cathedral where Jesus Christ is believed to have appeared; there is also the chamber of holy relics in the rear of the Cathedral which is perhaps the chief attraction and glory of the place."
-    },
-    {
-     "id": "p010.s03",
-     "source": "The most important of the relics here kept is a hand of St. Gregory, or rather right arm, “atch,” as it is called, now preserved in a silver case, and which was considered at one time to be a necessary appanage of the patriarchal dignity."
-    },
-    {
-     "id": "p010.s04",
-     "source": "The poor hand of the saint has been the cause of many peregrinations in consequence."
-    },
-    {
-     "id": "p010.s05",
-     "source": "One patriarch seized it and carried it off with him in order to justify his claims."
-    },
-    {
-     "id": "p010.s06",
-     "source": "Another restole it and brought it back to Etchmiadzin, while others have pretended possession of the holy “atch,” in order to make good their claims."
-    },
-    {
-     "id": "p010.s07",
-     "source": "It was with this relic as well as with the holy chrism that consecrations were performed, which made possession of it a necessary condition of the patriarchal authority."
-    },
-    {
-     "id": "p010.s08",
-     "source": "Another much revered relic is the fragment of the ark, which the angel who appeared to St. Jacob gave to him as a reward for his perseverance in attempting so impossible a task as the climbing of Ararat."
-    },
-    {
-     "id": "p010.s09",
-     "source": "Still another is the head of the “holy spear” which was thrust into the side of Christ by the Roman soldier at Golgotha."
-    },
-    {
-     "id": "p010.s10",
-     "source": "There are others of lesser importance, some of which are believed to possess the power of effecting cures."
+     "source": "“I dreamed a dream,” said the lad; “I did not tell it to my mother, I did not tell it to my father, and I will not tell it to you.”"
     }
    ],
    "id": "p010"
@@ -387,26 +131,27 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Such in brief are the broader and more important facts relating to the church, which has thus come to sanction the festivals and ceremonies that make up the second part of this thesis."
+     "source": "The lad went on until he came to the Prince’s palace."
     },
     {
      "id": "p011.s02",
-     "source": "These, as I have said, naturally divide themselves into three groups, first those that have been taken over bodily from the past; second, new festivals and ceremonies created by the church; and third the ceremonies of common life with which the church has identified itself."
+     "source": "The Prince was sitting at the door."
     },
     {
      "id": "p011.s03",
-     "source": "In the first group are included the midsummer festival of Vartavar, the spring festival, the festival in commemoration of the dead, Fortune-Telling Day, and the festival of Vartan’s Day."
-    },
-    {
-     "id": "p011.s04",
-     "source": "All except the last have their origin in pagan festivals; each one has been taken over by the church and made its own."
+     "source": "The lad said:"
     }
    ],
    "id": "p011"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "“Prince, I dreamed a dream; I did not tell it to my mother, I did not tell it to my father, I did not tell it to the traveler, and I will not tell it to you.”"
+    }
+   ],
    "id": "p012"
   },
   {
@@ -414,7 +159,35 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Ormanian p. 224."
+     "source": "The Prince was angry, and cast the lad into a prison in the cellar of his palace."
+    },
+    {
+     "id": "p013.s02",
+     "source": "The lad dug through the wall of his prison with his dagger and opened a hole into the adjacent room which happened to be the dining-room of the Prince’s daughter."
+    },
+    {
+     "id": "p013.s03",
+     "source": "The lad finding the maiden’s food in the cupboard, ate it all and withdrew to his prison."
+    },
+    {
+     "id": "p013.s04",
+     "source": "Soon the maiden came in, and lo! the food was eaten."
+    },
+    {
+     "id": "p013.s05",
+     "source": "This was repeated on several days."
+    },
+    {
+     "id": "p013.s06",
+     "source": "The maiden was very anxious to know who it was who ate her food, and one day hiding herself in her wardrobe she began to watch."
+    },
+    {
+     "id": "p013.s07",
+     "source": "Soon she saw the lad, who lifting a great stone opened a hole in the wall, crept into her room, took the food from the cupboard and began to help himself."
+    },
+    {
+     "id": "p013.s08",
+     "source": "She jumped out, and taking hold of the lad, said:"
     }
    ],
    "id": "p013"
@@ -424,7 +197,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Bertrand Bareilles, preface to the French edition of Ormanian p. xviii."
+     "source": "“Who are you, young man?”"
     }
    ],
    "id": "p014"
@@ -434,7 +207,11 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Ormanian p. 243."
+     "source": "“I dreamed a dream,” said the lad, “I did not tell it to my mother, I did not tell it to my father, I did not tell it to the traveler, I did not tell it to the Prince; the Prince cast me into prison, and I dug a hole with my dagger and came here."
+    },
+    {
+     "id": "p015.s02",
+     "source": "I am at your mercy.”"
     }
    ],
    "id": "p015"
@@ -444,7 +221,7 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Ibid. p. 177."
+     "source": "The maiden fell in love with the lad, and thereafter cherished him not only with her food but with her love, and they accepted one another as husband and wife."
     }
    ],
    "id": "p016"
@@ -454,7 +231,7 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Ubicini, Letters on Turkey ."
+     "source": "One day the King of the East sent messengers to the Prince bearing a stick which had both ends equal, saying:"
     }
    ],
    "id": "p017"
@@ -464,7 +241,11 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Ormanian pp. 151, 152."
+     "source": "“Now, tell me which is the bottom and which is the top of this stick."
+    },
+    {
+     "id": "p018.s02",
+     "source": "If you solve this, well and good; if not, you must give your daughter in marriage to my son.”"
     }
    ],
    "id": "p018"
@@ -474,7 +255,15 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Ibid. p. 173."
+     "source": "The Prince called all his wise men into council, but no one could solve the riddle."
+    },
+    {
+     "id": "p019.s02",
+     "source": "The princess told it to the lad."
+    },
+    {
+     "id": "p019.s03",
+     "source": "The lad said:"
     }
    ],
    "id": "p019"
@@ -484,7 +273,7 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "Ibid. p. 141."
+     "source": "“Go and tell your father to tell them to cast the stick into the pond; the bottom end will sink the deeper in the water.”"
     }
    ],
    "id": "p020"
@@ -494,7 +283,11 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "Ubicini, Letters on Turkey ."
+     "source": "They did so, and the riddle was solved."
+    },
+    {
+     "id": "p021.s02",
+     "source": "On the following day the King of the East sent three horses, all being exactly the same size and having the same appearance, saying:"
     }
    ],
    "id": "p021"
@@ -504,7 +297,11 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "Ormanian p. 170."
+     "source": "“Which is the one year old colt, which is the two year old colt, and which is the mother?"
+    },
+    {
+     "id": "p022.s02",
+     "source": "If you solve this, well and good; if not, you must give your daughter in marriage to my son.”"
     }
    ],
    "id": "p022"
@@ -514,7 +311,11 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Ibid."
+     "source": "All the learned men of the Prince could not solve this riddle."
+    },
+    {
+     "id": "p023.s02",
+     "source": "The princess, in the evening, said to the lad:"
     }
    ],
    "id": "p023"
@@ -524,7 +325,7 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "Ubicini, Letters on Turkey."
+     "source": "“No one could solve the riddle, and they will take me away to-morrow.”"
     }
    ],
    "id": "p024"
@@ -534,7 +335,15 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "Tavernier 1:498, 499."
+     "source": "“Tell your father,” said the lad, “to let them keep the horses in the stable over night."
+    },
+    {
+     "id": "p025.s02",
+     "source": "In the morning let them take a bundle of hay, wet and salt it and cast it before the horses outside the stable door."
+    },
+    {
+     "id": "p025.s03",
+     "source": "The mother will come out first, the two year old colt after her, and the one year old colt last.”"
     }
    ],
    "id": "p025"
@@ -544,7 +353,11 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "Ormanian p. 152."
+     "source": "They did as the lad advised, and the riddle was solved."
+    },
+    {
+     "id": "p026.s02",
+     "source": "On the following day the King of the East sent to the Prince a steel shield and a steel spear, saying:"
     }
    ],
    "id": "p026"
@@ -554,7 +367,7 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "Ibid."
+     "source": "“If you can pierce this shield with this spear with one stroke, I will give my daughter to your son in marriage; if you cannot pierce it, you must give your daughter to my son in marriage.”"
     }
    ],
    "id": "p027"
@@ -564,7 +377,11 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "Lynch, chapter on Etchmiadzin."
+     "source": "The Prince and all his men tried, and could not pierce the shield."
+    },
+    {
+     "id": "p028.s02",
+     "source": "The Prince then said to his daughter:"
     }
    ],
    "id": "p028"
@@ -574,7 +391,7 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "Dubois 3:362, 363."
+     "source": "“Go, send your man; let us see if he can pierce it.”"
     }
    ],
    "id": "p029"
@@ -584,7 +401,19 @@
    "segments": [
     {
      "id": "p030.s01",
-     "source": "See p. 30 of this thesis, note 32."
+     "source": "The lad came, and at one stroke pierced the steel shield with the steel spear."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Now, the Prince had no son; he therefore adopted the lad, who was already his son-in-law, and made him heir apparent to his throne."
+    },
+    {
+     "id": "p030.s03",
+     "source": "Thereupon the lad set out to go and bring the daughter of the King of the East."
+    },
+    {
+     "id": "p030.s04",
+     "source": "After a long journey he met a man who was kneeling down with his ear close to the ground."
     }
    ],
    "id": "p030"
@@ -594,7 +423,7 @@
    "segments": [
     {
      "id": "p031.s01",
-     "source": "Ormanian p. 74."
+     "source": "“What man are you?” asked the lad."
     }
    ],
    "id": "p031"
@@ -604,7 +433,7 @@
    "segments": [
     {
      "id": "p032.s01",
-     "source": "Ibid."
+     "source": "“I lay my ear to the ground,” answered the man, “and listen to whatever men say all over the world.”"
     }
    ],
    "id": "p032"
@@ -614,10 +443,660 @@
    "segments": [
     {
      "id": "p033.s01",
-     "source": "For the relation of the church to the Turkish and Russian Governments see Lynch 1:269, also Ubicini, Letters on Turkey ."
+     "source": "“Aha! what a man!” exclaimed the lad, “he can hear what is said all over the world.”"
     }
    ],
    "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“Man?” said the listener."
+    },
+    {
+     "id": "p034.s02",
+     "source": "“A man is he who pierced the steel shield with the steel spear.”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "“It was I,” said the lad."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "“Then I am your brother,” said the listener, and followed the lad."
+    },
+    {
+     "id": "p036.s02",
+     "source": "After another long journey they met a man who was standing with one of his feet upon Mount Ararat and the other upon Mount Taurus."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "“Aha! what a man!” exclaimed the lad."
+    },
+    {
+     "id": "p037.s02",
+     "source": "“He strides over the world.”"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“Man?” exclaimed the colossal strider."
+    },
+    {
+     "id": "p038.s02",
+     "source": "“A man is he who pierced the steel shield with the steel spear.”"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“It was I,” said the lad."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "“Then I am your brother,” said the colossus, and followed the lad."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "After a long journey they met a man who was eating all the loaves baked in seven ovens, and still crying, “I am hungry!"
+    },
+    {
+     "id": "p041.s02",
+     "source": "I am famishing!"
+    },
+    {
+     "id": "p041.s03",
+     "source": "For heaven’s sake, give me something to eat!”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“Aha!” said the lad."
+    },
+    {
+     "id": "p042.s02",
+     "source": "“What a man! whom seven ovens continually baking cannot satisfy.”"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“Man?” exclaimed the glutton."
+    },
+    {
+     "id": "p043.s02",
+     "source": "“A man is he who pierced the steel shield with the steel spear.”"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“I am the man,” said the lad."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“Then I am your brother,” said the glutton, and followed the lad."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "Soon they met a man who was carrying the earth upon his shoulders."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“What a man!” exclaimed the lad."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "“Man?” replied the carrier of the earth."
+    },
+    {
+     "id": "p048.s02",
+     "source": "“A man is he who has pierced the steel shield with the steel spear.”"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "“I am the man,” said the lad."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "“Then I am your brother,” said the carrier of the earth, and he also followed the lad."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "They soon met a man who was lying flat on the bank of the Euphrates, and drinking the river dry, but still crying, “I am thirsty!"
+    },
+    {
+     "id": "p051.s02",
+     "source": "I am dry; more water, for heaven’s sake!”"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "“Aha! what a man,” exclaimed the lad, “the river Euphrates does not satisfy his thirst.”"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "“Man?” exclaimed the river-drinker, “a man is he who pierced the steel shield.”"
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "“I am he,” said the lad."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "“Then I am your brother,” said the river-drinker, and followed the lad."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "They soon met a shepherd who was blowing his horn, and lo! hills and valleys, plains and forests, men and beasts were dancing."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "“Aha! what a man!” exclaimed the lad, “all the world is dancing to his music.”"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "“Man!” returned the shepherd, “a man is he who pierced the steel shield.”"
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "“I am he,” said the lad."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "“Then I am your brother,” said the shepherd, and he followed the lad."
+    },
+    {
+     "id": "p060.s02",
+     "source": "Now they were seven."
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "“Brother Steel-shield-steel-spear,” said the six adopted brothers to the lad, “where shall we go now?”"
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "“We shall go and bring the daughter of the King of the East,” answered the lad."
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "“You are worthy of her,” said his six companions."
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "Soon they arrived at the city of the King of the East, who seeing them said to his servants secretly:"
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "“These seven fellows have come to take away my daughter."
+    },
+    {
+     "id": "p065.s02",
+     "source": "Heaven forbid!"
+    },
+    {
+     "id": "p065.s03",
+     "source": "They are bashful lads and will hardly eat a bowlful of soup."
+    },
+    {
+     "id": "p065.s04",
+     "source": "Now go and bake twenty-one ovens full of bread and make twenty-one cauldrons full of soup and put it all before them."
+    },
+    {
+     "id": "p065.s05",
+     "source": "If they can eat all at one sitting, I will give them my daughter; if not, I will not.”"
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "The lad and his crew were entertained in an apartment some distance from the King’s apartment, where he was giving these instructions to his men."
+    },
+    {
+     "id": "p066.s02",
+     "source": "The ground-listener, hearing the King’s orders, said to the lad:"
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "“Brother Steel-shield-steel-spear, did you hear what the King said to his men?”"
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "“No, blockhead!” said the lad, “how can I hear him while he is in another apartment far from us?”"
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "The ground-listener said: “They are going to serve us twenty-one horse-loads of bread and twenty-one cauldrons full of soup, and in case we fail to eat all at one meal they will refuse to give us the princess.”"
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "“Be of good cheer.” said the ravenous eater; “I take the responsibility upon myself.”"
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "On the following day all the bread and soup was served to one man, and there was not enough to gratify him."
+    },
+    {
+     "id": "p071.s02",
+     "source": "He was still crying, “I am hungry!"
+    },
+    {
+     "id": "p071.s03",
+     "source": "I am famishing!"
+    },
+    {
+     "id": "p071.s04",
+     "source": "Give me something to eat!”"
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "“A plague upon these fellows!” said the King to his peers; “we could not satisfy one; what if all the seven should eat!"
+    },
+    {
+     "id": "p072.s02",
+     "source": "Now I tell you what to do; entertain them in another house; bring quantities of wood and rushes at night and pile them round about the building, and in the middle of the night when they are asleep set fire to the piles."
+    },
+    {
+     "id": "p072.s03",
+     "source": "Thus they will perish and we shall get rid of them.”"
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "The ground-listener hearing everything, told it to the lad."
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "“Never mind,” said the river-drinker, “I can keep in my stomach water enough to extinguish their fire.”"
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "He went and drank the neighboring river dry and came back, and all went to bed."
+    },
+    {
+     "id": "p075.s02",
+     "source": "At midnight they saw that the house was on fire."
+    },
+    {
+     "id": "p075.s03",
+     "source": "The river-drinker blew upon the flames, and lo! a stream of water began to flow from his mouth."
+    },
+    {
+     "id": "p075.s04",
+     "source": "It not only extinguished the flames, but drowned all those who were making the fire."
+    },
+    {
+     "id": "p075.s05",
+     "source": "That caused the King to be still more angry, and he said to his peers:"
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "“Let come what may, I will not give up my daughter.”"
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "“Now it is my turn,” said the earth-carrier, “if he does not give us his daughter I will carry away his whole kingdom.”"
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "He had hardly finished his words when he put his shoulder under the ground of the King of the East, and lo! he took on his back the whole realm."
+    },
+    {
+     "id": "p078.s02",
+     "source": "Then the shepherd began to blow his horn and the mountains and valleys, plains and forests, and all living creatures in them began to dance; the strider-of-the-world walked before them opening the way; and so the procession went on with great merriment."
+    },
+    {
+     "id": "p078.s03",
+     "source": "Thereupon the King began to weep and to beg them, saying:"
+    }
+   ],
+   "id": "p078"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p079.s01",
+     "source": "“For heaven’s sake, leave me my kingdom! take my daughter and go.”"
+    }
+   ],
+   "id": "p079"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p080.s01",
+     "source": "Then the earth-carrier set the kingdom down in its place again; the shepherd ceased blowing his horn, and the universe stopped dancing."
+    },
+    {
+     "id": "p080.s02",
+     "source": "The lad thanked his six brothers for their valuable services and sent them to their homes, and he himself took the maiden and came to the Prince’s city, where a wedding festival was celebrated for forty days, and he married this maiden also."
+    },
+    {
+     "id": "p080.s03",
+     "source": "He sat down with the baby born during his absence, in his arms, and his two wives one on each side, and calling his father and mother to him, said:"
+    }
+   ],
+   "id": "p080"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p081.s01",
+     "source": "“Now shall I tell you what my dream was?”"
+    }
+   ],
+   "id": "p081"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p082.s01",
+     "source": "“Yes, what was it?” said his parents."
+    }
+   ],
+   "id": "p082"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p083.s01",
+     "source": "“I dreamed in my dream,” said the lad, “that there was one sun upon my right side, another sun upon my left side, and a bright star was twinkling upon my heart.”"
+    }
+   ],
+   "id": "p083"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p084.s01",
+     "source": "“Was that your dream?” said they."
+    }
+   ],
+   "id": "p084"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p085.s01",
+     "source": "“Yes, that was my dream,” said he."
+    }
+   ],
+   "id": "p085"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p086.s01",
+     "source": "This tale was a dream."
+    },
+    {
+     "id": "p086.s02",
+     "source": "The Sender of dreams has sent three apples from above; one for him who told the story, one for him who asked that the story be told, and one for him who listened to the story."
+    }
+   ],
+   "id": "p086"
   }
  ]
 }

@@ -4,7 +4,7 @@
 - **Source book:** *Navaho Legends*
 - **Author / collector / translator:** Matthews, Washington (compiler, d. 1905)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #60165 — https://www.gutenberg.org/ebooks/60165 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #60165 — https://www.gutenberg.org/ebooks/60165
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

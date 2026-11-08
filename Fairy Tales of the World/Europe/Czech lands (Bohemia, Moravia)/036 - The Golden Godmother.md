@@ -4,7 +4,7 @@
 - **Source book:** *Czechoslovak Fairy Tales*
 - **Author / collector / translator:** Fillmore, Parker (author, d. 1944)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #32217 — https://www.gutenberg.org/ebooks/32217 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #32217 — https://www.gutenberg.org/ebooks/32217
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

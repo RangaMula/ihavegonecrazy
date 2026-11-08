@@ -1,0 +1,40 @@
+{
+ "id": "am-chile-039",
+ "title": {
+  "id": "title",
+  "source": "EL CABRO VIEJO. (D. Francisco 2.º Vásquez, 1911.)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/039 - EL CABRO VIEJO. (D. Francisco 2.º Vásquez, 1911.).md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 75
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "En la Cordillera vive un ser mitad hombre (un viejo barbudo) y mitad cabro."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Sale por las noches solamente, y si alguna persona pasa cerca de donde él está, la llama por su nombre; si le contestan, desaparece inmediatamente y lo encuentran muy lejos, en la misma Cordillera, sin cabeza y con el cuerpo destrozado; o va a parar a los Pirineos ( sic )."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Muchos trabajadores del ferrocarril transandino son testigos de lo primero."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

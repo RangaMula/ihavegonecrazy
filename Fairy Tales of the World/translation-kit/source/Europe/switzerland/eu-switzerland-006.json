@@ -2,20 +2,20 @@
  "id": "eu-switzerland-006",
  "title": {
   "id": "title",
-  "source": "Legends Of Soleure"
+  "source": "The Dwarf And His Confectionery"
  },
  "tradition": "Switzerland",
  "continent": "Europe",
  "source_lang": "en",
- "source_book": "Legends of Switzerland",
- "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #64163 — https://www.gutenberg.org/ebooks/64163 (copied via the GITenberg mirror)",
+ "source_book": "Swiss Fairy Tales",
+ "credits": "Griffis, William Elliot (author, d. 1928)",
+ "gutenberg": "Project Gutenberg eBook #69739 — https://www.gutenberg.org/ebooks/69739",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Europe/Switzerland/006 - Legends Of Soleure.md",
+ "markdown_file": "Europe/Switzerland/006 - The Dwarf And His Confectionery.md",
  "stats": {
-  "paragraphs": 20,
-  "segments": 41,
-  "words": 1280
+  "paragraphs": 33,
+  "segments": 100,
+  "words": 2239
  },
  "paragraphs": [
   {
@@ -23,11 +23,31 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Soleure , on the Aare, in the canton of the same name, is said to be, after Trèves, the oldest city north of the Alps."
+     "source": "Of all the families, tribes and clans of the little brown Folks, that are only a yardstick high, the Swiss dwarfs are the funniest, and at the same time the most friendly."
     },
     {
      "id": "p001.s02",
-     "source": "Most of the old landmarks and fortifications of this city have had to make way for modern improvements; so the most interesting legends of the region are connected with the pretty drives just outside the city."
+     "source": "They excel all others in being kind to every living creature and in doing good things for human folks."
+    },
+    {
+     "id": "p001.s03",
+     "source": "They look after the chamois, to keep them from being shot at, or killed, by hunters that are cruel."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Or, they whisper to the fish, to keep away from naughty boys."
+    },
+    {
+     "id": "p001.s05",
+     "source": "They even go after lost cattle and goats, tend the flocks, milk the cows, make cheese, and do lots of good favors for the people whom they like."
+    },
+    {
+     "id": "p001.s06",
+     "source": "There are the kind shepherds and housemaids, who give them occasionally a bowlful of milk, or leave out a cup of cream for them to drink."
+    },
+    {
+     "id": "p001.s07",
+     "source": "They know where treasures lie in the ground, where the best pastures are to be found for the cows, and the secrets of the grasses and flowers are at their fingers’ ends."
     }
    ],
    "id": "p001"
@@ -37,15 +57,15 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "In olden times, the picturesque Verenathal, or Verena valley, is said to have been the retreat of a woman so very good and pious that she was known as St. Verena long before her death."
+     "source": "In time of storm and wind, when it is too cold, [ ] or when avalanches are tumbling down the mountains, they keep away from the land, and are never visible."
     },
     {
      "id": "p002.s02",
-     "source": "This worthy creature, wishing to devote all her time to the worship of God, had betaken herself to this lonely spot, where she built a small hermitage and erected a cross, at the foot of which she spent many hours in fervent prayer."
+     "source": "Going down deep, into the caves, or mines, they shut themselves up, until Jack Frost has departed and the storms and greatest cold are over."
     },
     {
      "id": "p002.s03",
-     "source": "Such was her charity, that she constantly interceded for the wicked, pleading particularly for those who were most likely to succumb to temptation and thus fall into the devil’s clutches."
+     "source": "They shrink away, especially from the South wind, called the Föhn, which blows for seventeen days at a time, for it is like poison to them, and blinds their eyes."
     }
    ],
    "id": "p002"
@@ -55,11 +75,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "These prayers and intercessions were not without avail; and the Evil One, perceiving that he could not bag as many souls as usual in that vicinity, finally set out to discover what was the matter."
+     "source": "To the people who treat them badly, or make fun of their feet, or heads, or laugh and jeer at them, because they are so small, the Swiss dwarfs are very mischievous, and even revengeful, and do such folks great harm in the kitchens and stables."
     },
     {
      "id": "p003.s02",
-     "source": "Walking past the hermitage, the sound of passionate and persistent prayer fell upon his ear; so he noiselessly drew near to ascertain the exact nature of the petition."
+     "source": "They smash the milk pans and cheese kettles, upset the churns, lead the cattle astray, tie the cows’ tails together, and put stones and sticks in their food-troughs."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Usually they do so much mischief, that the rude or cruel people have to be good, and treat the dwarfs with more politeness."
     }
    ],
    "id": "p003"
@@ -69,19 +93,19 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Listening attentively, he soon distinguished the words, and gnashed his teeth with rage when he overheard her interceding with special fervour in behalf of the very souls he hoped soon to have in his power."
+     "source": "As for their looks, and the way they dress, the Swiss dwarfs beat all."
     },
     {
      "id": "p004.s02",
-     "source": "This, then, was the reason for the alarming and otherwise unaccountable decrease in the number of his victims!"
+     "source": "They are web-footed, like geese, but they cover themselves, from head to toes, with long green cloaks."
     },
     {
      "id": "p004.s03",
-     "source": "He therefore resolved that the prayers of the holy woman should immediately be stopped, and with that end in view tore a huge mass of stone from a neighbouring cliff."
+     "source": "They wear gay red caps on their heads, which look like the cowls of monks."
     },
     {
      "id": "p004.s04",
-     "source": "Then stealing near the saint, he held it for a moment suspended directly above her head, carefully measuring the distance, so that he could kill her with one blow."
+     "source": "Most curious of all, are their beards, which are thick and long, and often white as snow. [ ]"
     }
    ],
    "id": "p004"
@@ -91,11 +115,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "But just as he was about to let the mass fall upon Verena and crush her to death, she suddenly looked up, and met his baleful glance with such a look of mingled purity, compassion, and reproach, that Satan, starting back involuntarily, let the rock slip from his nerveless hand."
+     "source": "A hundred years or so ago, many stories were told by old folks about the dwarfs."
     },
     {
      "id": "p005.s02",
-     "source": "The boulder, falling on his foot, crushed it so badly that he immediately vanished with a wrathful howl of pain and disappointment."
+     "source": "One of these will show how kind, obliging, and useful, or how surly and troublesome, the dwarfs could be—according as they are treated by merry, or by grumpy folks."
     }
    ],
    "id": "p005"
@@ -105,7 +129,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "The rock thus dropped by the Evil One can now be seen on the very spot where it fell, and it still bears the distinct imprint of the Devil’s claws, which seem burnt in the stone."
+     "source": "For example, Mr. Hilty was a dairy farmer, or shepherd, who was always ready to treat a dwarf with a cocoanut dipper full of cream."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Because of this, the dwarfs were willing, whenever he called them, to look after his herds, when he wanted to leave his chalet, in the high pastures, and go down into the valley, to sell his cheeses, or to buy groceries."
     }
    ],
    "id": "p006"
@@ -115,7 +143,23 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Poems of Places—Switzerland: Longfellow."
+     "source": "But by and bye, Hilty, while he was a good fellow, became too inquisitive."
+    },
+    {
+     "id": "p007.s02",
+     "source": "He wanted to know the secrets of the dwarfs and even pestered them with questions."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Then, they warned him that they could not tell, and that he must not ask."
+    },
+    {
+     "id": "p007.s04",
+     "source": "When he got too troublesome, the chief of the dwarfs thought it was time to give him a lesson."
+    },
+    {
+     "id": "p007.s05",
+     "source": "So one day, Hilty was invited, by an old white beard, to come and pay a visit to his cave."
     }
    ],
    "id": "p007"
@@ -125,11 +169,11 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Since then, his Infernal Majesty is said to have systematically avoided passing through the narrow gorge where he met with this unpleasant accident."
+     "source": "When the shepherd, who had grown rather fat, was very tired, after much climbing up and over the rocks, with much puffing and blowing, arrived at the cave, he had to stop and get his breath."
     },
     {
      "id": "p008.s02",
-     "source": "But he is constantly reminded of St. Verena and of his luckless attempt, for his crushed foot never recovered from this accident, and he has walked lame from that day to this."
+     "source": "The chief dwarf came out, and smilingly [ ] invited him into the cave, where he sat down on the stool offered him."
     }
    ],
    "id": "p008"
@@ -139,11 +183,15 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Near the hermitage hallowed by the holy life and death of St. Verena, there is a tiny chapel; and a little farther on one can see a representation of the Holy Sepulchre, hewn out of the rock, and adorned with life-size statues."
+     "source": "Hilty was amazed, as he looked at the beautiful stalactites, hanging from the ceiling, and his eyes opened wide at the ingots of gold and silver, which he saw lying on the floor."
     },
     {
      "id": "p009.s02",
-     "source": "This place is frequently visited by pilgrims, who also stand in awe and wonder before the fountains of the Soleure Cathedral, which represent Moses striking the rock, and Gideon wringing the dew out of the fleece, which, by a miracle, was dripping wet when all the ground around it was dry."
+     "source": "Piles of silver ore, not yet smelted, and heaps of rocky crystals, topazes, onyx, and some sapphires and opals lay around."
+    },
+    {
+     "id": "p009.s03",
+     "source": "His host, the dwarf, paid no attention to these, but led him further in the cave, where was a sofa, made of thick soft moss, on which he was told to lounge at ease."
     }
    ],
    "id": "p009"
@@ -153,11 +201,11 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Noted as a railway junction, as well as a pleasantly located town on the Aare, Olten is only five miles distant from the pretty health resort of Frohburg, on the Hauenstein."
+     "source": "Before Hilty, there was spread a table, crowded with every sort of good things to eat, except, that there was no fish or meat in sight."
     },
     {
      "id": "p010.s02",
-     "source": "From this eminence one can enjoy a wonderful panorama of the Alps, extending from the Sentis at the extreme northwest, to Mont Blanc at the southeastern end of the mighty range of snow-capped mountains."
+     "source": "The dwarf explained to his guest that all the cookies, goodies, and eatables were made from things in the vegetable kingdom."
     }
    ],
    "id": "p010"
@@ -167,15 +215,27 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Within a few minutes’ walk from the hotel of Frohburg, are the ruins of a castle of the same name, once famous for its beauty as well as its great strength."
+     "source": "After Hilty had enjoyed a good dinner, the dwarf told his guest that he would reveal to him one of the secrets of his skill, but he must not ask to be told more."
     },
     {
      "id": "p011.s02",
-     "source": "The owner of this castle, the last Count of Frohburg, was known far and wide as a wealthy and powerful nobleman, who ruled his people with a heavy hand."
+     "source": "He would be shown how to make delicious sweets, and valuable confectionery, from a common weed, which the chamois fed on every day."
     },
     {
      "id": "p011.s03",
-     "source": "His lands, extending for miles around the castle, were carefully parcelled out among the peasants, who, beside the feudal service required of them by their exacting master, were further compelled to give him one tenth of all the produce of their little farms."
+     "source": "But this done, he repeated, Hilty must, on no account, ask for any other secret."
+    },
+    {
+     "id": "p011.s04",
+     "source": "Nor must he try to learn any receipt about any other delicacy, or even watch, while the cooking was going on."
+    },
+    {
+     "id": "p011.s05",
+     "source": "If he did, the [ ] dwarf would be angry, and cut off the shepherd from his friendship."
+    },
+    {
+     "id": "p011.s06",
+     "source": "He might even punish him, by causing him to lose his way, when returning home."
     }
    ],
    "id": "p011"
@@ -185,11 +245,11 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "On the day appointed for the payment of the grain tithes, the lord of Frohburg, standing on the battlements of his castle, yearly beheld the approach of a train of wheat-laden wagons, which formed an unbroken line several miles long."
+     "source": "Hilty gave his promise, making also the sign of the cross on his breast."
     },
     {
      "id": "p012.s02",
-     "source": "Indeed, it is said that when the first cart vanished under the tunnel-like gateway of the castle, the last could just be seen crossing the bridge at Olten, more than five miles away."
+     "source": "He swore an oath, that he would not see, hear, touch, taste, or try, even, to feel, any further than was permitted and clearly commanded him."
     }
    ],
    "id": "p012"
@@ -199,11 +259,11 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "All this wealth and power, however, only tended to spoil the Count of Frohburg, who daily grew more haughty and overbearing, and finally persuaded himself that his vassals had been created for his good pleasure only, and were not human beings like himself."
+     "source": "Trusting his guest fully, the dwarf first took a basketful of what we call “Iceland moss,” which grows so plentifully in the high Alpine pastures."
     },
     {
      "id": "p013.s02",
-     "source": "This belief made him extremely cruel and tyrannical, but his overweening pride was soon to be severely punished."
+     "source": "Then he showed how, with water and fire, he could make the delicacy known among us as “Iceland Moss Paste.”"
     }
    ],
    "id": "p013"
@@ -213,15 +273,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "One day, shortly after the grain tithes had been paid, while the lord of Frohburg was away from home, a terrible earthquake suddenly shook the whole range of the Jura Mountains."
+     "source": "At once, after tasting a morsel of the confection, with gusto, Hilty smacked his lips and began to dream of getting rich."
     },
     {
      "id": "p014.s02",
-     "source": "The castle of Frohburg, unable to withstand the awful shock, although its owner proudly averred it would stand forever, was soon reduced to a heap of unsightly ruins, from which rose dense clouds of choking dust."
-    },
-    {
-     "id": "p014.s03",
-     "source": "Towers and battlements, halls and dungeons, were all laid low, and a messenger set off in great haste to apprise the Count of the utter destruction of his abode."
+     "source": "He resolved to open a shop and make the new confection in his own village."
     }
    ],
    "id": "p014"
@@ -231,15 +287,19 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "This emissary met his master on the bridge, where he breathlessly and tremblingly imparted his bad tidings."
+     "source": "But this Hilty was a greedy and covetous fellow and often made a glutton of himself."
     },
     {
      "id": "p015.s02",
-     "source": "No sooner had the Count heard his report, than he flew into an awful passion, cursing and swearing so vehemently that all the people shrank away from him in horror."
+     "source": "Seeing that the dwarf had everything ready, to make more confectionery, of other kinds, he made up his mind to learn all the secrets."
     },
     {
      "id": "p015.s03",
-     "source": "In his anger at his loss, and further enraged by his retainers’ evident reluctance to remain in the company of a blasphemer, the lord of Frohburg raised his right hand to heaven and threateningly cried,—"
+     "source": "“This time,” he said to himself, “I shall set up, not a village shop, but a big confectionery store in Lucerne, the great city.”"
+    },
+    {
+     "id": "p015.s04",
+     "source": "He never thought more, of [ ] keeping the solemn promise, which he had just given to the dwarf."
     }
    ],
    "id": "p015"
@@ -249,7 +309,15 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "“As true as I am lord of the land, not one of you shall again till his fields, until my castle has been rebuilt by the work of your hands!”"
+     "source": "So, pretending to be very sleepy, he asked the dwarf to let him lie down at length on the moss sofa and take a nap."
+    },
+    {
+     "id": "p016.s02",
+     "source": "The kind host at once agreed, and made his guest comfortable."
+    },
+    {
+     "id": "p016.s03",
+     "source": "In a few minutes, pretending to be asleep, Hilty, who was a gawk and a bumpkin, in manners, let his nose and open mouth give vent to snores, long and loud."
     }
    ],
    "id": "p016"
@@ -259,11 +327,27 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "At these words the distressed people groaned aloud, for the castle was a huge edifice, and many months of arduous labour would be necessary before it again rose in all its strength and magnificence."
+     "source": "This, in itself, was bad enough, and the dwarf was disgusted at such manners and much irritated by the noise."
     },
     {
      "id": "p017.s02",
-     "source": "Forced to work without pay for their cruel lord, they would be doomed to starve to death with their wives and children, while the fields which had been so productive hitherto would lie fallow and bare."
+     "source": "But, worse than this was to come."
+    },
+    {
+     "id": "p017.s03",
+     "source": "This ill mannered dairyman, who kept peeping between his eyelids, got very much excited, as he saw the dwarf doing the most wonderful things, with common weeds and flowers."
+    },
+    {
+     "id": "p017.s04",
+     "source": "Out of these he drew juices, flavors, coloring matter, aromatic liquids, and sugars, either in crystal, or in the form of gum or candy."
+    },
+    {
+     "id": "p017.s05",
+     "source": "Out of his pots, pans and kettles, he poured what looked like the most tempting things to eat."
+    },
+    {
+     "id": "p017.s06",
+     "source": "They smelled so delightful that Hilty forgot himself and, with his eyes wide open, stared at the dwarf and what he was doing."
     }
    ],
    "id": "p017"
@@ -273,11 +357,23 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "While they still stood there in speechless dismay, a thunderbolt suddenly fell from a cloudless sky upon the cruel lord of Frohburg, who soon lay before them a blackened and lightning-scarred corpse."
+     "source": "By this time, Hilty was building great air castles."
     },
     {
      "id": "p018.s02",
-     "source": "Thus, in the midst of his vassals, Providence punished the wicked man for his cruelty and blasphemy."
+     "source": "He saw himself in a great candy store in Lucerne employing fifty pretty girls, in attractive uniform, to allure the public, wait at the [ ] counters on the crowd of customers, who came with plenty of money and all eager to get waited on."
+    },
+    {
+     "id": "p018.s03",
+     "source": "They stood in lines, four deep, in front of the show cases, eyeing what they were to choose; while those nearest the girls were eagerly buying bonbons, chocolates, caramels, all-day suckers, mint drops and Iceland moss paste, in boxes tied up in dainty, gay colored ribbons."
+    },
+    {
+     "id": "p018.s04",
+     "source": "Each box was wrapped, not in common paper, but in dotted Swiss muslin, or fine cambric."
+    },
+    {
+     "id": "p018.s05",
+     "source": "No one seemed to care how much the cost might be."
     }
    ],
    "id": "p018"
@@ -287,19 +383,238 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "As this nobleman was the last of his race, the Castle of Frohburg was never rebuilt."
+     "source": "Back of the counters, were scores of lovely Swiss maidens, in white bodices, with silver chains, ornamented girdles, and brilliant head-dresses."
     },
     {
      "id": "p019.s02",
-     "source": "It can still be seen, a mass of ruins, as it was left by the memorable earthquake of 1356, which made such a havoc among the buildings in the Jura mountains."
+     "source": "These were tied, so as to show they were not yet married."
+    },
+    {
+     "id": "p019.s03",
+     "source": "There were dozens of waiter boys and serving maids, scurrying around with trays, attending to the people at the tables, who called for ices and sweets, or drinks, to be sipped."
+    },
+    {
+     "id": "p019.s04",
+     "source": "His chief customers were among the fashionable folks of Lucerne."
+    },
+    {
+     "id": "p019.s05",
+     "source": "For, in Hilty’s vision, his was the resort of the most stylish people in the city."
     }
    ],
    "id": "p019"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Out in the kitchen, another company of cooks, confectioners, dishwashers, and porters, kept hard at work; and, during rush hours, they were nearly ready to faint."
+    },
+    {
+     "id": "p020.s02",
+     "source": "At the rear, two clerks were kept busy, every moment, checking off the receipts, of boxes and barrels of white and brown [ ] sugar, sorghum, syrup, liquors, and all sorts of flavoring extracts, besides delicacies imported from Constantinople, Calcutta, Teheran, and Nagasaki."
+    }
+   ],
    "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "On the shop front, the plate glass bore the name of “Jean Hilty,” in large gold letters, and below this, one read “The Home of Hilty’s Famous Genuine Swiss Mountain Confectionery and Iceland Moss Paste.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "The highest priced confection was a praline, or compound of nuts and chocolate, which was packed up in a most dainty box, lined with perfumed lace paper, and labeled in gold letters “Made according to the sole receipt ever revealed by the King of the Dwarfs.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "The display, in the big window, of all the delicious things known to the confectioners, and many of them from foreign countries, advertised to be of “private growth,” and “imported in our own fleet of ships” was dazzling."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Most astounding of all, was the tableau over the main entrance."
+    },
+    {
+     "id": "p024.s02",
+     "source": "It consisted of a group of carved and gilded figures, in front of a highly tinted background, showing the dwarf at the fire, with the well-spread tables and the dairyman as his guest."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Out on the street, the crowd that stood on the pavement, gazing up to see this pretty picture, in bas-relief, was so great, that the police [ ] had to make a lane and keep open a passage way, through the press of old and young folks, so that ordinary people could get through."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "So, for a half hour or more, inside that shepherd’s brain, a moving picture show went on, as if a five-reel film was being rolled off, and his imagination had spread the screen."
+    },
+    {
+     "id": "p026.s02",
+     "source": "The bright colors, in this picture, of the furore for dwarf’s candy exceeded any gallery of paintings known in Paris, or any panorama that could be made on canvas."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "In fact the dairyman was so sure of the good time coming, that, with his eyes wide open, he actually rubbed his two hands gleefully, right before the dwarf."
+    },
+    {
+     "id": "p027.s02",
+     "source": "The next thing he did, was that he so far forgot his promise, as to be heard in his glee."
+    },
+    {
+     "id": "p027.s03",
+     "source": "Instead of holding his tongue in silence, he talked out loud to himself saying, “Am I not a lucky fellow?"
+    },
+    {
+     "id": "p027.s04",
+     "source": "By Saint Matthew, I am in luck, this time, surely.”"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Hearing the strange noise, the King of the dwarfs turned around to look."
+    },
+    {
+     "id": "p028.s02",
+     "source": "In one hand was his skillet, and in the other a ladle and a cloth; and with both he was holding a very hot kettle, full of some liquid."
+    },
+    {
+     "id": "p028.s03",
+     "source": "In fact, he was just about to pour out the boiling chocolate over a dish of caramels, made after his own recipe."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "But seeing the lazy lubber, wide awake, when he was believed to be fast asleep, the dwarf’s [ ] whole appearance changed."
+    },
+    {
+     "id": "p029.s02",
+     "source": "Instead of smiles, in his usually happy manner, his eyes blazed with wrath, like fire."
+    },
+    {
+     "id": "p029.s03",
+     "source": "His face wore one long scowl."
+    },
+    {
+     "id": "p029.s04",
+     "source": "He danced with rage, and screamed out,"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“So that’s the way you keep your word, is it?"
+    },
+    {
+     "id": "p030.s02",
+     "source": "You ungrateful bumpkin!"
+    },
+    {
+     "id": "p030.s03",
+     "source": "Take that, and that!”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Then, he flung the pot of hot chocolate at the fellow’s head, and followed up his attack, with the ladle and cloth, batting him out of the cave."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "What happened just after that, the dairyman never could, or would tell."
+    },
+    {
+     "id": "p032.s02",
+     "source": "He was so stunned, that he lay insensible for several hours, as he thought."
+    },
+    {
+     "id": "p032.s03",
+     "source": "The scalding, from the hot chocolate, made his face smart fearfully."
+    },
+    {
+     "id": "p032.s04",
+     "source": "Tearing off part of his shirt, he bandaged up his head and features as best he could, and then hobbled back home."
+    },
+    {
+     "id": "p032.s05",
+     "source": "It was weeks, before his broken head was mended enough, and the ugly scars on his face had healed."
+    },
+    {
+     "id": "p032.s06",
+     "source": "At last, he showed himself on the street, where the small boys made his life a burden."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Henceforth the neighbors nicknamed him “The Dwarf’s Guest,” but he never set up a candy store. [ ]"
+    }
+   ],
+   "id": "p033"
   }
  ]
 }

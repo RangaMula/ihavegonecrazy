@@ -2,20 +2,20 @@
  "id": "as-turkey-012",
  "title": {
   "id": "title",
-  "source": "The Goose, The Eye, The Daughter, And The Arm"
+  "source": "The Forty Princes And The Seven-Headed Dragon"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/012 - The Goose, The Eye, The Daughter, And The Arm.md",
+ "markdown_file": "Asia/Turkey/012 - The Forty Princes And The Seven-Headed Dragon.md",
  "stats": {
-  "paragraphs": 22,
-  "segments": 37,
-  "words": 739
+  "paragraphs": 27,
+  "segments": 112,
+  "words": 2557
  },
  "paragraphs": [
   {
@@ -23,19 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Turk decided to have a feast, so he killed and stuffed a goose and took it to the baker to be roasted."
+     "source": "There was once upon a time a Padishah, and this Padishah had forty sons."
     },
     {
      "id": "p001.s02",
-     "source": "The Cadi of the village happened to pass by the oven as the baker was basting the goose, and was attracted by the pleasant and appetizing odor."
+     "source": "All day long they disported themselves in the forest, snaring birds and hunting beasts, but when the youngest of them was fourteen years old their father wished to marry them."
     },
     {
      "id": "p001.s03",
-     "source": "Approaching the baker, the Cadi said it was a fine goose; that the smell of it made him quite hungry, and suggested that he had better send it to his house."
+     "source": "So he sent for them all and told them his desire."
     },
     {
      "id": "p001.s04",
-     "source": "The baker expostulated, saying: \"I cannot; it does not belong to me.\""
+     "source": "“We will marry,” said the forty brothers, “but only when we find forty sisters who are the daughters of the same father and the same mother.”"
+    },
+    {
+     "id": "p001.s05",
+     "source": "Then the Padishah searched the whole realm through to find forty such sisters, but though he found families of thirty-nine sisters, families of forty sisters he could never find."
     }
    ],
    "id": "p001"
@@ -45,11 +49,39 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "The Cadi assured him that was no difficulty."
+     "source": "“Let the fortieth of you take another wife,” said the Padishah to his sons."
     },
     {
      "id": "p002.s02",
-     "source": "\"You tell Ahmet, the owner of the goose, that it flew away.\""
+     "source": "But the forty brothers would not agree thereto, and they begged their father to allow them to go and search if haply they might find what they wanted in another empire."
+    },
+    {
+     "id": "p002.s03",
+     "source": "What could the Padishah do?"
+    },
+    {
+     "id": "p002.s04",
+     "source": "He could not refuse them their request, so he gave them his permission."
+    },
+    {
+     "id": "p002.s05",
+     "source": "But before they departed he summoned them into his presence, and this is what their father the Padishah said to them: “I have three things to say to you, which bear ye well in mind."
+    },
+    {
+     "id": "p002.s06",
+     "source": "When ye come in your journey to a large spring, take heed not to pass the night near it."
+    },
+    {
+     "id": "p002.s07",
+     "source": "Beyond the spring is a caravanserai; there also ye must not abide."
+    },
+    {
+     "id": "p002.s08",
+     "source": "Beyond the caravanserai is a vast desert; and there also ye must not take a moment’s rest.”"
+    },
+    {
+     "id": "p002.s09",
+     "source": "The sons promised their father that they would keep his words, and with baggage light of weight but exceedingly precious, they took horse and set out on their journey."
     }
    ],
    "id": "p002"
@@ -59,15 +91,23 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "\"Impossible!\" said the baker."
+     "source": "They went on and on, they smoked their chibooks and drank forty cups of coffee, and when evening descended the large spring was right before them."
     },
     {
      "id": "p003.s02",
-     "source": "\"How can a roasted goose fly away?"
+     "source": "“Verily,” began the elder brethren, “we will not go another step further."
     },
     {
      "id": "p003.s03",
-     "source": "Ahmet will only laugh at me, your Worship, and I will be cast into prison.\""
+     "source": "We are weary, and the night is upon us, and what need forty men fear?”"
+    },
+    {
+     "id": "p003.s04",
+     "source": "And with that they dismounted from their horses, ate their suppers, and laid them down to rest."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Only the youngest brother, who was fourteen years of age, remained awake."
     }
    ],
    "id": "p003"
@@ -77,7 +117,19 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "\"Am I not a Judge?\" said the Cadi, \"fear nothing.\""
+     "source": "It might have been near midnight when the youth heard a strange noise."
+    },
+    {
+     "id": "p004.s02",
+     "source": "He caught up his arms, and turning in the direction of the sound saw before him a seven-headed dragon."
+    },
+    {
+     "id": "p004.s03",
+     "source": "They rushed towards each other, and thrice the dragon fell upon the prince, but could do him no harm."
+    },
+    {
+     "id": "p004.s04",
+     "source": "“Well, now it is my turn,” cried the youth; “wilt thou be converted to the true faith?” and with these words he struck the monster such a blow that six of his seven heads came flying down."
     }
    ],
    "id": "p004"
@@ -87,11 +139,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "At this the baker consented to send the goose to the Cadi's house."
-    },
-    {
-     "id": "p005.s02",
-     "source": "When Ahmet came for his goose the baker said: \"Friend, thy goose has flown.\""
+     "source": "“Strike me once more,” groaned the dragon."
     }
    ],
    "id": "p005"
@@ -101,11 +149,15 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "\"Flown?\" said Ahmet, \"what lies!"
+     "source": "“Not I,” replied the youth, “I myself only came into the world once.”"
     },
     {
      "id": "p006.s02",
-     "source": "Am I thy grandfather's grandchild that thou shouldst laugh in my beard?\""
+     "source": "Immediately the dragon fell to pieces, but his one remaining head began to roll and roll and roll till it stood on the brink of the well."
+    },
+    {
+     "id": "p006.s03",
+     "source": "“Whoever can take my soul out of this well,” it said, “shall have my treasure also,” and with these words the head bounded into the well."
     }
    ],
    "id": "p006"
@@ -115,7 +167,27 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Seizing one of the baker's large shovels, he lifted it to strike him, but, as fate would have it, the handle put out the eye of the baker's boy, and Ahmet, frightened at what he had done, ran off, closely followed by the baker and his boy, the latter crying: \"My eye!\""
+     "source": "The youth took a rope, fastened one end of it to a rock, and seizing the other end himself, lowered himself into the well."
+    },
+    {
+     "id": "p007.s02",
+     "source": "At the bottom of the well he found an iron door."
+    },
+    {
+     "id": "p007.s03",
+     "source": "He opened it, passed through, and there right before him stood a palace compared with which his father’s palace was a hovel."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Into this palace he went, and in it were forty rooms, and in each room was a damsel sitting by her embroidery frame with enormous treasures behind her."
+    },
+    {
+     "id": "p007.s05",
+     "source": "“Art thou a man or a spirit?” cried the terrified damsels.—“A man am I, and the son of a man,” replied the prince."
+    },
+    {
+     "id": "p007.s06",
+     "source": "“I have just slain a seven-headed dragon, and have followed its rolling head hither.”"
     }
    ],
    "id": "p007"
@@ -125,7 +197,19 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "In his hurry Ahmet knocked over a child, killing it, and the father of the child joined in the chase, calling out: \"My daughter!\""
+     "source": "Oh, how the forty damsels rejoiced at hearing these words."
+    },
+    {
+     "id": "p008.s02",
+     "source": "They embraced the youth, and begged and prayed him not to leave them there."
+    },
+    {
+     "id": "p008.s03",
+     "source": "They were the children of one father and one mother they said."
+    },
+    {
+     "id": "p008.s04",
+     "source": "The dragon had killed their parents and carried them off, and they had nobody to look to in the whole wide world."
     }
    ],
    "id": "p008"
@@ -135,15 +219,15 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Ahmet, well-nigh distracted, rushed into a mosque and up a minaret."
+     "source": "“We also are forty,” said the youth, “and we are seeking forty damsels.”"
     },
     {
      "id": "p009.s02",
-     "source": "To escape his pursuers he leaped from the parapet, and fell upon a vender who was passing by, breaking his arm."
+     "source": "Then he told them that he would first of all ascend to his brethren, and then he would come for them again."
     },
     {
      "id": "p009.s03",
-     "source": "The vender also began pursuing him, calling out: \"My arm!\""
+     "source": "So he ascended out of the well, went to the spring, lay down beside it and fell asleep."
     }
    ],
    "id": "p009"
@@ -153,7 +237,27 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Ahmet was finally caught and brought before the Cadi, who no doubt was feeling contented with the world, having just enjoyed the delicious goose."
+     "source": "Early in the morning the forty brothers arose and laughed at their father for trying to frighten them with the well."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Again they set out on their way, and went on and on till evening overtook them, when they perceived a caravanserai before them."
+    },
+    {
+     "id": "p010.s03",
+     "source": "“Not a step further will we go,” said the elder brothers."
+    },
+    {
+     "id": "p010.s04",
+     "source": "The youngest brother indeed insisted that it would be well to remember their father’s words, for his speech could surely not have been in vain."
+    },
+    {
+     "id": "p010.s05",
+     "source": "But they laughed at their youngest brother, ate and drank, said their prayers, and lay down to sleep."
+    },
+    {
+     "id": "p010.s06",
+     "source": "Only the youngest brother remained wide awake."
     }
    ],
    "id": "p010"
@@ -163,7 +267,23 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "The Cadi heard each of the cases brought against Ahmet, who in turn told his case truthfully as it had happened."
+     "source": "About midnight he again heard a noise."
+    },
+    {
+     "id": "p011.s02",
+     "source": "The youth snatched up his arms, and again he saw before him a seven-headed dragon, but much larger than the former one."
+    },
+    {
+     "id": "p011.s03",
+     "source": "The dragon rushed at him first of all, but could not overcome him, then the youth dealt him one blow and off went six of the dragon’s heads."
+    },
+    {
+     "id": "p011.s04",
+     "source": "Then the dragon wished him to take one more blow but he would not; the head rolled into a well, the youth went after it, and came upon a palace larger than the former one, and with ever so much more treasures and precious things in it."
+    },
+    {
+     "id": "p011.s05",
+     "source": "He marked the well so that he should know it again, returned to his brothers, and wearied out with his great combat slept so soundly that his brothers had to wake him up with blows next morning."
     }
    ],
    "id": "p011"
@@ -173,11 +293,11 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"A complicated matter,\" said the Cadi."
+     "source": "Again they arose, took horse, went up hill and down dale, and just as the sun was setting, behold! a vast desert stood before them."
     },
     {
      "id": "p012.s02",
-     "source": "\"All these misfortunes come from the flight of the goose, and I must refer to the book of the law to give just judgment.\""
+     "source": "They fell to eating straightway, drank their fill also, and were just going to lie down to sleep when all at once such a roaring, such a bellowing arose that the very mountains fell down from their places."
     }
    ],
    "id": "p012"
@@ -187,11 +307,19 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Taking down a ponderous manuscript volume, the Cadi turned to Ahmet and asked him what number egg the goose had been hatched from."
+     "source": "The princes were horribly afraid, especially when they saw coming against them a gigantic seven-headed dragon."
     },
     {
      "id": "p013.s02",
-     "source": "Ahmet said he did not know."
+     "source": "He vomited forth venomous fire in his wrath, and roared furiously: “Who killed my two brothers?"
+    },
+    {
+     "id": "p013.s03",
+     "source": "Hither with him!"
+    },
+    {
+     "id": "p013.s04",
+     "source": "I’ll try conclusions with him also! ”"
     }
    ],
    "id": "p013"
@@ -201,11 +329,23 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "\"Then,\" replied the Cadi, \"the book writes that such a phenomenon was possible."
+     "source": "The youngest brother saw that his brethren were more dead than alive from fear, so he gave them the keys of the two wells, in one of which was the vast heap of treasure, and in the other the forty damsels."
     },
     {
      "id": "p014.s02",
-     "source": "If this goose was hatched from the seventh egg, and the hatcher also from the seventh egg, the book writes that it is possible for a roasted goose, under those conditions, to fly away.\""
+     "source": "Let them take everything home, he said; as for himself he must first slay the dragon and then he would follow after them."
+    },
+    {
+     "id": "p014.s03",
+     "source": "The thirty-nine brothers lost no time in mounting their horses and galloping off."
+    },
+    {
+     "id": "p014.s04",
+     "source": "They drew the treasure out of one well and the forty damsels out of the other, and so returned home to their father."
+    },
+    {
+     "id": "p014.s05",
+     "source": "But now we will see what happened to the youngest brother."
     }
    ],
    "id": "p014"
@@ -215,7 +355,15 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "\"With reference to your eye,\" continued the Cadi, addressing the baker's lad, \"the book provides punishment for the removal of two eyes, but not of one, so if you will consent to your other eye being taken out, I will condemn Ahmet to have both of his removed.\""
+     "source": "He fought the dragon and the dragon fought him, but neither could get the better of the other."
+    },
+    {
+     "id": "p015.s02",
+     "source": "The dragon perceived that it was vain to try and vanquish the youth, so he said to him: “If thou wilt go to the Empire of Chin-i-Machin and fetch me thence the Padishah’s daughter, I will not worry the life out of thee.”"
+    },
+    {
+     "id": "p015.s03",
+     "source": "To this the prince readily agreed, for he could not have sustained the conflict much longer."
     }
    ],
    "id": "p015"
@@ -225,7 +373,39 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "The baker's lad, not appreciating the force of this argument, withdrew his claim."
+     "source": "Then Champalak, for that was the dragon’s name, gave the prince a bridle and said to him: “A good steed comes hither to feed every day, seize him, put this bridle in his mouth, and bid him take thee to the Empire of Chin-i-Machin!”"
+    },
+    {
+     "id": "p016.s02",
+     "source": "So the youth took the bridle and waited for the good charger."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Presently a golden-maned charger came flying through the air, and the moment the prince had put the bridle in its mouth, the charger said: “What dost thou command, little Sultan?” and before you could wink your eyes, the Empire of Chin-i-Machin stood before him."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Then he dismounted from his horse, took off the bridle, and went into the town."
+    },
+    {
+     "id": "p016.s05",
+     "source": "There he entered into an old woman’s hut and asked her whether she received guests."
+    },
+    {
+     "id": "p016.s06",
+     "source": "“Willingly,” answered the old woman."
+    },
+    {
+     "id": "p016.s07",
+     "source": "Then she made ready a place for him, and while he was sipping his coffee he asked her all about the talk of the town."
+    },
+    {
+     "id": "p016.s08",
+     "source": "“Well,” said the old woman, “a seven-headed dragon is very much in love with our Sultan’s daughter."
+    },
+    {
+     "id": "p016.s09",
+     "source": "A war has been raging between them on that account these many years, and the monster presses us so hardly that not even a bird can fly into our realm.”"
     }
    ],
    "id": "p016"
@@ -235,11 +415,7 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Then turning to the father of the dead child, the Cadi explained that the only provision for a case like this in the book of the law, was that he take Ahmet's child in its place, or if Ahmet had not a child, to wait till he got one."
-    },
-    {
-     "id": "p017.s02",
-     "source": "The bereaved parent not taking any interest in Ahmet's present or prospective children, also withdrew his case."
+     "source": "“Then where is the Sultan’s daughter?” asked the youth.—“In a little palace in the Padishah’s garden,” replied the old woman, “and the poor thing dare not put her foot outside it.”"
     }
    ],
    "id": "p017"
@@ -249,15 +425,11 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "These cases settled, there remained but the vender's, who was wroth at having his arm broken."
+     "source": "The next day the youth went to the Padishah’s garden, and asked the gardener to take him as a servant, and he begged and prayed till the gardener had not the heart to refuse him."
     },
     {
      "id": "p018.s02",
-     "source": "The Cadi expatiated on the justice of the law and its far-seeing provisions, that the vender at least could claim ample com pensation for having his arm broken."
-    },
-    {
-     "id": "p018.s03",
-     "source": "The book of the law provided that he should go to the very same minaret, and that Ahmet must station himself at the very same place where he had stood when his arm was broken; and that he might jump down and break Ahmet's arm."
+     "source": "“Very well, I will take thee,” said he, “and thou wilt have nought to do but water the flowers of the garden. ”"
     }
    ],
    "id": "p018"
@@ -267,7 +439,15 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "\"But be it understood,\" concluded the Cadi, \"if you break his leg instead of his arm, Ahmet will have the right to delegate some one to jump down on you to break your leg.\""
+     "source": "Now the Sultan’s daughter saw the youth, called him to her window, and asked him how he had managed to reach that realm."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Then the youth told her that his father was a Padishah, that he had fought with the dragon Champalak on his travels, and had promised to bring him the Sultan’s daughter."
+    },
+    {
+     "id": "p019.s03",
+     "source": "“Yet fear thou nothing,” added the youth, “my love is stronger than the love of the serpent, and if thou wilt only have the courage to come with me, trust me to find a way of disposing of him.”"
     }
    ],
    "id": "p019"
@@ -277,7 +457,11 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "The vender not seeing the force of the Cadi's proposal, also withdrew his claim."
+     "source": "The damsel was so much in love with the prince, and so eager to escape from her captivity, that she consented to trust herself to him, and one night they escaped from her palace and went straight towards the desert where dwelt the dragon Champalak."
+    },
+    {
+     "id": "p020.s02",
+     "source": "They agreed on the way that the girl should find out what the dragon’s talisman was, that they might destroy him that way if they could do it no other."
     }
    ],
    "id": "p020"
@@ -287,15 +471,162 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "Thus ended the cases of the goose, the eye, the daughter, and the arm."
+     "source": "Imagine the joy of Champalak when he perceived the princess!"
+    },
+    {
+     "id": "p021.s02",
+     "source": "“What joy, what rapture, that thou hast come!” cried Champalak; but fondle her and caress her as he might, the damsel did nothing but weep."
+    },
+    {
+     "id": "p021.s03",
+     "source": "Days passed by, weeks passed by, and yet the tears never left the damsel’s eyes."
+    },
+    {
+     "id": "p021.s04",
+     "source": "“Tell me at least what thy talisman is,” said the damsel to him one day, “if thou wouldst see me happy and not wretched with thee all thy days. ”"
     }
    ],
    "id": "p021"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“Alas, my soul!” said the dragon, “my talisman is guarded in a place whither it is impossible ever to come."
+    },
+    {
+     "id": "p022.s02",
+     "source": "It is in a large palace in a neighbouring realm, and though one may venture thither for it, no one has ever been able to get back again.”"
+    }
+   ],
    "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "The prince needed no more, that was quite good enough for him."
+    },
+    {
+     "id": "p023.s02",
+     "source": "He took his bridle, went with it to the sea-shore, and summoned his golden-maned steed."
+    },
+    {
+     "id": "p023.s03",
+     "source": "“What dost thou command me, little Sultan?” said the steed."
+    },
+    {
+     "id": "p023.s04",
+     "source": "“I desire thee to convey me to the neighbouring realm, to the palace of the talisman of the dragon Champalak,” cried the youth—and in no more time than it takes to wink an eye, the palace stood before him."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Then the steed said to the youth: “When we reach the palace thou wilt tie the bridle to two iron gates, and when I neigh once and strike my iron hoofs together, a door will open."
+    },
+    {
+     "id": "p024.s02",
+     "source": "In this open door thou wilt see a lion’s throat, and if thou canst not kill that lion at one stroke, escape, or thou art a dead man.”"
+    },
+    {
+     "id": "p024.s03",
+     "source": "With that they went up to the palace, he tied the horse to the two iron gates by his bridle, and when he neighed the door flew open."
+    },
+    {
+     "id": "p024.s04",
+     "source": "The youth struck with all his might at the gaping throat of the lion in the doorway and split it right in two."
+    },
+    {
+     "id": "p024.s05",
+     "source": "Then he cut open the lion’s belly, and drew out of it a little gold cage with three doves in it, so beautiful that the like of them is not to be found in the wide world."
+    },
+    {
+     "id": "p024.s06",
+     "source": "He took one of them and began softly stroking and caressing it, when all at once—pr-r-r-r!—away it flew out of his hand."
+    },
+    {
+     "id": "p024.s07",
+     "source": "The steed galloped swiftly after it, and if he had not caught it and wrung its neck it would have gone hard with the good youth."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Then he mounted his steed again, and in the twinkling of an eye he stood once more before Champalak’s palace."
+    },
+    {
+     "id": "p025.s02",
+     "source": "In the gateway of the palace he killed the second dove, so that when the youth entered the dragon’s room, there the monster lay quite helpless, and there was no more spirit in him at all."
+    },
+    {
+     "id": "p025.s03",
+     "source": "When he saw the dove in the youth’s hand he implored him to let him stroke it for the last time before he died."
+    },
+    {
+     "id": "p025.s04",
+     "source": "The youth’s heart felt for him, and he was just about to hand the bird to him when the princess rushed out, snatched the dove from his hand, and killed it, whereupon the dragon expired before their very eyes. “ ’ Twas well for thee,” said the steed, “that thou didst not give him the dove, for if he had got it, fresh life would have flowed into him.”"
+    },
+    {
+     "id": "p025.s05",
+     "source": "And with that the steed disappeared, bridle and all."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Then they got together the dragon’s treasures, and went with them to the Empire of Chin-i-Machin."
+    },
+    {
+     "id": "p026.s02",
+     "source": "The Padishah was sick for grief at the loss of the damsel, and after searching for her in all parts of the kingdom in vain, was persuaded that she had fallen into the hands of the dragon."
+    },
+    {
+     "id": "p026.s03",
+     "source": "And lo! there she stood before him now, hand in hand with the King’s son."
+    },
+    {
+     "id": "p026.s04",
+     "source": "Then there was such a marriage-feast in that city that it seemed as if there was no end to it."
+    },
+    {
+     "id": "p026.s05",
+     "source": "After the marriage they set out on their journey again, and travelled with a great escort of soldiers to the prince’s father."
+    },
+    {
+     "id": "p026.s06",
+     "source": "There they had long held the King’s son to be dead, and would not believe that it was he even now till he had told them the tale of the three seven-headed dragons and the forty damsels."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "The fortieth damsel was waiting patiently for him there, and the prince said to his wife: “Behold now my second bride!”—“Thou didst save my life from the dragon,” replied the Princess of Chin-i-Machin, “I therefore give her to thee, do as thou wilt with her!”"
+    },
+    {
+     "id": "p027.s02",
+     "source": "So they made a marriage-feast for the second bride also, and they spent half their days in the Empire of the prince’s father, and the other half in the Empire of Chin-i-Machin, and their lives flowed away in happiness."
+    }
+   ],
+   "id": "p027"
   }
  ]
 }

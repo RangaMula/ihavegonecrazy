@@ -2,20 +2,20 @@
  "id": "af-san-people-052",
  "title": {
   "id": "title",
-  "source": "Die Wolke"
+  "source": "Die Boom wat al maande sterf en weer lewendig word"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
  "source_book": "Boesman-Stories. Deel 2, Dierstories en ander verhale",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/052 - Die Wolke.md",
+ "markdown_file": "Africa/San people/052 - Die Boom wat al maande sterf en weer lewendig word.md",
  "stats": {
-  "paragraphs": 16,
-  "segments": 68,
-  "words": 1292
+  "paragraphs": 27,
+  "segments": 80,
+  "words": 1562
  },
  "paragraphs": [
   {
@@ -23,7 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "OPMERKINGS:—Hierdie storie is ’n blote beskouing oor wolke en wat enkele wolke beteken—natuurlik ’n Boesman se opvatting."
+     "source": "OPMERKINGS:—Hierdie storie is ’n karakterskets van ’n deugniet wat tog eindelik tot groot nut geword het."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Dus is kwaaddoen en rowe by hom nie so ’n groot kwaad gewees nie."
     }
    ],
    "id": "p001"
@@ -33,27 +37,27 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "W olke!"
+     "source": "T atsie was ’n wonderlike Boesman van die ou geslag."
     },
     {
      "id": "p002.s02",
-     "source": "Wat vir goed is dit?"
+     "source": "Hy het geroof, gesteel gemoor, en kon daarby toor soos min hom kon nadoen."
     },
     {
      "id": "p002.s03",
-     "source": "Algar die wolke is nie van een soort nie."
+     "source": "Hy het ’n onverskillige manier oor hom gehad—so ’n traak-my-nie-agtige manier, wat maar min bure beval het."
     },
     {
      "id": "p002.s04",
-     "source": "Daar is wolke wat reën uitgiet, en daar is van hulle wat droog is en nie water bevat nie."
+     "source": "Sien hy iets waarin hy sin het, dan duur dit nie te lank nie, of hy het dit—hoe hy dit in hande kry, is hom onverskillig."
     },
     {
      "id": "p002.s05",
-     "source": "Dan is daar donderwolke, wat water, vuur en swareweer-stene bevat; en daar is wat net hare, vere en wind bevat."
+     "source": "Al maak hy die eienaar dood, dis vir hom of hy ’n vlieg om die lewe gebring het; slaan hy die eienaar daaroor dat dié op die grond bly lê, dan is dit vir hom of hy ’n slang magteloos gemaak het."
     },
     {
      "id": "p002.s06",
-     "source": "So is algar die wolke glad nie eners nie."
+     "source": "En die ergste van alles is, niemand kon hom baasraak nie."
     }
    ],
    "id": "p002"
@@ -63,19 +67,31 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Die wind is die asem van al die goed wat lewe."
+     "source": "Gejag het hy nooit nie."
     },
     {
      "id": "p003.s02",
-     "source": "So is die stormwinde die asem van Grootvoël, wat in ’n gat in die berge woon, wat hom in wolke kan wegsteek en wat dan na die see vlie om reën te gaan haal."
+     "source": "Maar om die jagters op te pas, o ja, dit kon hy goed doen."
     },
     {
      "id": "p003.s03",
-     "source": "Dan kom hy met groot gedruis in die wolke; hy blaas met sy bek en klap met sy vlerke sonder om uit die wolk te voorskyn te kom."
+     "source": "As hul wild huis-toe bring, dan gaan hy eenvoudig aansit om saam te eet—die lekkerste en vetste stukke vleis is syne."
     },
     {
      "id": "p003.s04",
-     "source": "Daarom waai daar altyd ’n windjie as ’n wolk oor ons koppe heensweef."
+     "source": "As ’n meid boesmanrys gaargemaak het, dan gryp hy die pot voor haar weg en eet hom eers knuppel-versadig; en dan eers sal hy daaraan dink om die pot na haar en haar kinders terug te stoot—dis te sê as hul mooi praat."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Maar raas hul met hom, dan smyt hy eenvoudig die boesmanrys in die vuur en gooi die pot boonop flenters."
+    },
+    {
+     "id": "p003.s06",
+     "source": "Gaan die kinders water haal, dan vat hy die water uit hulle hande, drink dan tot hy nes ’n modderpaddatjie opblaas en gee dan die orige water terug—dis te sê as hul mooi praat."
+    },
+    {
+     "id": "p003.s07",
+     "source": "Maar skel die kinders op hom of sê dat hul dit aan hulle ouers gaan vertel, dan sny hy eenvoudig die springbokpens waarin die water is, aan stukkies of gooi die volstruiseierdoppe waarin die water is, aan spaanders, en slaan die kinders inkluis."
     }
    ],
    "id": "p003"
@@ -85,19 +101,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "As iemand sterf, dan word sy hare wolke."
+     "source": "Hy dra altyd ’n taai en lang lat by hom om almal wat nie vrindelik genoeg na sy sin is nie, uit te piets."
     },
     {
      "id": "p004.s02",
-     "source": "As ’n voël sterf, word sy vere ook wolke."
-    },
-    {
-     "id": "p004.s03",
-     "source": "Maar hierdie soort wolke gee nie rëen nie; want hulle is net hare en vere, wat nie water bevat nie; daarom kom hul en verdwyn sonder om ’n druppel te laat val."
-    },
-    {
-     "id": "p004.s04",
-     "source": "Want hulle is hare en vere wat somar maklik deur die asem van Grootvoël verjaag word."
+     "source": "Wie hom kwaad maak, kry hy onder die knopkierie."
     }
    ],
    "id": "p004"
@@ -107,27 +115,15 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "As iemand gesterwe het, dan staan sy spore nog vars in die sand asof die persoon nog leef; maar hy is dood."
+     "source": "Om hierdie rede het almal hul maar teenoor hom gedra nes vuur: buitekant mooi en blink, maar binnekant vuurwarm en boos."
     },
     {
      "id": "p005.s02",
-     "source": "Sy asem, wat sy wind is, het klaar uitgewaai, sy hart het omgekantel en kan nie meer roer nie."
+     "source": "Hy is dus altyd op valse vrindelikheid vergas geword."
     },
     {
      "id": "p005.s03",
-     "source": "Daarom kom die stormwind en waai die spore van die afgestorwe persoon gelyk met sand."
-    },
-    {
-     "id": "p005.s04",
-     "source": "Want waarom moet sy spore nog daar in die sand bly as hy reeds dood is?"
-    },
-    {
-     "id": "p005.s05",
-     "source": "Is die spore in klei sigbaar sodat die wind die klei nie kan stukkend breek nie, dan giet die wolke ’n stortbui uit en wis die spore uit."
-    },
-    {
-     "id": "p005.s06",
-     "source": "Want hy vra ook: as ’n persoon dood is, waarom moet sy spore nog lewe?"
+     "source": "As hul met ’n aanvallige laggie vra waarom hy so handel, dan antwoord hy ook met ’n vrindelike laggie dat hy eendag aan al sy weldoeners ’n groot guns gaan bewys."
     }
    ],
    "id": "p005"
@@ -137,11 +133,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "As die een se lyk op die aarde dood lê, dan kom die wind en maak ’n sterk warrelwind; en dié vat die lyk op—al is hy onder die grond begrawe—en bring dit na die hol bak wat tussen die twee opstaande horings van die nuwe maan is, en hy plaas die lyk saggies daarin neer."
+     "source": "„Ja,” sê iemand so minlik as hy kan, „Tatsie, jy sal ons glad vergeet."
     },
     {
      "id": "p006.s02",
-     "source": "Daarom is dit dat die Boesmans ’n lyk in ’n sittende posiesie begrawe: hy moet te enige tyd gereed wees om op te staan."
+     "source": "Eendag is jy dood, en dan kan jy niks meer vir ons doen nie.”"
     }
    ],
    "id": "p006"
@@ -151,19 +147,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Voor die Dood in die wêreld deur die Haas gekom het, het die mense en diere maar geslaap tot dit nuwemaan geword het; hulle het dan weer nes die maan lewendig geword."
-    },
-    {
-     "id": "p007.s02",
-     "source": "Maar nou moet hul lank in hulle grafte sit eer hul weer eendag sal lewendig word."
-    },
-    {
-     "id": "p007.s03",
-     "source": "Dan kom die persoon se wolk neer en dwaal nes ’n swaar mistige weer oor die graf om die opstandelinge te bedek, sodat die ander nie kan sien dat die dooie weer lewendig geword het nie."
-    },
-    {
-     "id": "p007.s04",
-     "source": "Die hare, of vere, van die wolk kom weer op daardie een se lyf groei; sy wind gaan weer in hom; en die een stap rond asof hy nooit dood gewees het nie."
+     "source": "„Nou ja, ek meen juis as ek dood is om julle dan te beloon,” was sy versekerende antwoord."
     }
    ],
    "id": "p007"
@@ -173,7 +157,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "As ’n ongedierte iemand verskeur en opgeëet het, dan bring die mistige weer al die dele van sy liggaam bymekaar; die dele word klam en nat en groei weer aan mekaar vas, net soos die persoon of ding tevore gewees het."
+     "source": "„Nee, Tatsie,” onderskep ’n ander die woord, „jy moet dit liewers doen solank jy nog lewe.”"
     }
    ],
    "id": "p008"
@@ -183,19 +167,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "So moet ons die wolke respekteer en eerbied vir hulle betoon."
-    },
-    {
-     "id": "p009.s02",
-     "source": "Doen ons dit nie, dan bring hul nie vir ons reën nie, dan kom hul nie om ons klam te maak en op te wek nie."
-    },
-    {
-     "id": "p009.s03",
-     "source": "Die berge en rotse het die wind en wolke nie gerespekteer nie, maar het hul verwens en uitgeskel toe die storms so baie stof en water op hul uitgegiet het."
-    },
-    {
-     "id": "p009.s04",
-     "source": "Daarom sal hulle nooit weer lewendig word nie; maar vir altyd slaap, slaap en slaap."
+     "source": "In plaas om hierop „ja” of „nee” te sê, gryp hy sy lang lat en gee die spreker ’n taai hou oor kop en skouers, en toe brul hy uit: „Ek sê julle mos, wag tot ek eendag dood is!”"
     }
    ],
    "id": "p009"
@@ -205,15 +177,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Grootvoël maak wind wat stofwolke op die aarde voortjaag; hy maak droë wolke bo in die lug en laat die mistige weer tot op die grond kom."
-    },
-    {
-     "id": "p010.s02",
-     "source": "Toe die rotse gelewe en gejag het, was die mistige weer toegetrek, en die stof het in hulle oë gewaai, sodat hul die wild nie kan raaksien of skiet nie."
-    },
-    {
-     "id": "p010.s03",
-     "source": "Daarom het hul die wolke en wind verwens; en dis daarom dat hul nooit weer sal wakker word nie, maar vir altyd dood bly."
+     "source": "Nou is die vraag: Wanneer sal hy eendag doodgaan, of hoe sal hulle hom doodkry?"
     }
    ],
    "id": "p010"
@@ -223,7 +187,27 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "En die ding het so gebeur:—"
+     "source": "Op ’n sekere aand sit die kinders skilpaaie te braai."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Hulle gee hom ’n vet wyfie om te eet."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Hulle sien hy haal die skilpad se hart en lewer uit en gooi dit in die vuur."
+    },
+    {
+     "id": "p011.s04",
+     "source": "Hulle vra hom waarom hy dit doen; en eer hy goed oor die antwoord gedink het, sê hy: „As ek die hart en lewer van ’n skilpad eet, dan word ek tydelik nes ’n skilpad self—sonder verstand.”"
+    },
+    {
+     "id": "p011.s05",
+     "source": "Hy skrik toe hy dit gesê het, en wou dit met ’n ander praatjie oorpraat, dog hy was laat."
+    },
+    {
+     "id": "p011.s06",
+     "source": "Maar niemand praat verder daaroor nie."
     }
    ],
    "id": "p011"
@@ -233,23 +217,11 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Die rotse was eers Boesmans van die ou geslag."
+     "source": "Een van die listige meide haal onopgemerk al die harte en lewers van die skilpaaie uit en bêre dit in ’n volstruiseier se dop."
     },
     {
      "id": "p012.s02",
-     "source": "Hulle was baie; en misskiet?—soiets het hul glad nie geken nie."
-    },
-    {
-     "id": "p012.s03",
-     "source": "Hulle het altyd om hierdie rede baie kos gekry, sodat hul spekvet geword het."
-    },
-    {
-     "id": "p012.s04",
-     "source": "Daarom kon hul later nie meer agter wild hardloop nie."
-    },
-    {
-     "id": "p012.s05",
-     "source": "Die enigste plan vir hulle was toe om onderkant of dwars teen die wind die wild te gaan voorlê."
+     "source": "Toe hy weer ’n ander aand daar kom om saam te eet, steek sy stilletjies een hart en een lewer van ’n skilpad in die stuk vleis wat hy vir hom uitgekies het om te braai."
     }
    ],
    "id": "p012"
@@ -259,59 +231,11 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Eendag met jag sien hul baie springbokke in ’n smal laagte aankom."
+     "source": "Ná hy dit gebraai het, sit hy dit smaaklik op te eet."
     },
     {
      "id": "p013.s02",
-     "source": "Hulle gaan posiesie neem alkante in die randjies."
-    },
-    {
-     "id": "p013.s03",
-     "source": "Die wind waai toe koud, en hulle oë begin van die koue te traan; ook het daar sand en klippies in hulle oë gewaai."
-    },
-    {
-     "id": "p013.s04",
-     "source": "Toe begin hul op die wind te skel; waarop die wind nog ’n bietjie strawwer waai."
-    },
-    {
-     "id": "p013.s05",
-     "source": "Dit maak hul boos, en hul verwens die wind hier in en daar uit."
-    },
-    {
-     "id": "p013.s06",
-     "source": "Toe word die wind woedend, en ’n storm bars los."
-    },
-    {
-     "id": "p013.s07",
-     "source": "Toe kan ’n mens hul hoor te kere gaan."
-    },
-    {
-     "id": "p013.s08",
-     "source": "Want by hierdie tyd was die springbokke so naby dat hul onder pylskot was."
-    },
-    {
-     "id": "p013.s09",
-     "source": "Dog die stof van die getrap van die bokke was so donker dat hul geen bok duidelik kan erken nie; en die storm was so sterk dat dit al die pyle in ’n ander rigting dryf."
-    },
-    {
-     "id": "p013.s10",
-     "source": "Die Boesmans het al hulle pyle op die vlugtende bokke opgeskiet, maar nie een bok geraak nie."
-    },
-    {
-     "id": "p013.s11",
-     "source": "En wat die Boesmans nog meer woedend gemaak het, is dat met die geweldige span van die boogsnare het die velle van hulle duime en voorvingers afgeskeur, sodat hul vir ’n rukkie daardie seer vingers met jag nie kon gebruik nie."
-    },
-    {
-     "id": "p013.s12",
-     "source": "Toe was hul erg boos en doen niks anders nie as op die wind en die stofwolk te skel."
-    },
-    {
-     "id": "p013.s13",
-     "source": "Hulle gaan toe hulle afgeskote pyle tussen die gras en bossies soek."
-    },
-    {
-     "id": "p013.s14",
-     "source": "Met baie moeite en soek het hul die meeste gekry; dog die springbokke het ook baie stukkend getrap, sodat daardie stukkende pyle onwettig was."
+     "source": "Oor ’n rukkie kon algar bemerk dat Tatsie kort van verstand is—sy doen en late was nes dié van ’n skilpad."
     }
    ],
    "id": "p013"
@@ -321,19 +245,23 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Die wind en wolke was baie verontwaardig oor die ou Boesmans dat hul durf so swets en skel."
+     "source": "Toe gryp een van die mans sy pyl en boog om Tatsie eenkeer van die gras af te maak."
     },
     {
      "id": "p014.s02",
-     "source": "Hulle kom ooreen om ’n groot bende Kaffers op die Boesmans af te stuur."
+     "source": "Hy gee Tatsie ’n gifpyl in sy ribbekas, en daar krul Tatsie om; en ná enige oomblikke was Tatsie nie meer lewendig nie."
     },
     {
      "id": "p014.s03",
-     "source": "Die Boesmans het nog altyd die Kaffers in vroeër dae teruggeslaan."
+     "source": "Hulle neem sy lyk en dra dit ’n ent die veld in om deur die ongediertes opgeëet te word."
     },
     {
      "id": "p014.s04",
-     "source": "Maar nou sal hul dit nie meer regkry nie."
+     "source": "Hulle hoor in die nag hoe die wolwe oor die lyk twis en te kere gaan."
+    },
+    {
+     "id": "p014.s05",
+     "source": "Ja, hul hoor selfs hoe hul die bene kraak en kou."
     }
    ],
    "id": "p014"
@@ -343,27 +271,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Die bende het gekom."
-    },
-    {
-     "id": "p015.s02",
-     "source": "Die wind begin sterker en sterker te waai tot dit in ’n storm losbars."
-    },
-    {
-     "id": "p015.s03",
-     "source": "Die wolke het uit die lug gekom en het ’n donker misbank oor die omliggende grond versprei."
-    },
-    {
-     "id": "p015.s04",
-     "source": "Die getrap van die voete van die Kafferbende wek ’n stofwolk in die droë mistige weer op."
-    },
-    {
-     "id": "p015.s05",
-     "source": "Die wind versamel dit alles en dryf dit oor die ondankbare Boesmans."
-    },
-    {
-     "id": "p015.s06",
-     "source": "Toe was dit geen lewensgevaar vir die Kaffers meer om al die Boesmans te dood nie; en daar het nie een van hulle oorgebly nie."
+     "source": "Nou voel hulle harte lekker, want Tatsie sal hul nooit meer kom pla nie, en hy sal ook nou aan sy belofte dink om aan hulle die beloofde weldade te kom bewys."
     }
    ],
    "id": "p015"
@@ -373,18 +281,224 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Daarop versteen die verstrooide lyke van die dooie Boesmans, en hulle word rotse."
+     "source": "Maar in plaas hiervan, wat sal hul die volgende oggend sien!"
     },
     {
      "id": "p016.s02",
-     "source": "Die wind wou hul nie meer opwek nie; en die wolke giet hul wel gedurig nat, maar die water gaan nie eens deur die vel van die rotse nie, sodat hul daarvan geen nut ontvang nie."
+     "source": "Hier kom Tatsie vrolik en sing-sing aangestap."
     },
     {
      "id": "p016.s03",
-     "source": "Daarom het die wind en wolke besluit om nooit weer die rotse op te wek nie; nou word hulle geslaan, getrap en geskop van algar wat by hulle verbykom."
+     "source": "Hul slaan hulle hande van verwondering voor hulle monde, maar sê verder niks nie."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Ook Tatsie is volkome onbewus van wat hom oorgekom het—hy vertel net hoe lekker hy geslaap en gedroom het."
     }
    ],
    "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "By ’n volgende geleentheid doen die meid weer dieselfde ding, om Tatsie ’n skilpad se hart en lewer met sy wildvleis saam te laat eet."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Sy het die geheim aan niemand anders vertel nie, selfs nie eens aan haar man nie."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Weer word Tatsie se verstand duislig."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Toe skiet hul hom met drie gifpyle; en ná hy dood was, bind hul ’n riem om sy nek, maak daaraan ’n swaar klip vas en gaan hom in die rivier in ’n diep gat water gooi."
+    },
+    {
+     "id": "p018.s03",
+     "source": "Die swaar klip sak met hom tot onder op die modder van die gat."
+    },
+    {
+     "id": "p018.s04",
+     "source": "So was daar vir Tatsie hierdie slag nie kans om weer lewendig te word nie."
+    },
+    {
+     "id": "p018.s05",
+     "source": "Hoe kry hy asem?"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Hulle gaan toe gerus slaap en verwag dat Tatsie nou in sy dood die weldade sal kom betaal."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Weer sien hul Tatsie die volgende oggend sing-sing aankom; en hy praat net van die lekker slaap, soete drome en die lekker swem wat hy gehad het."
+    },
+    {
+     "id": "p019.s03",
+     "source": "Ook hierdie slag hou hul hulle hande op hulle monde, dog praat verder niks nie."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "By ’n later geleentheid kom Tatsie weer daar eet, en nogmaals brou die meid hom ’n hart en lewer van ’n skilpad in; en net soos by die vorige geleenthede word Tatsie se verstand stomp."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Hy val rûensagteroor en lê vas op sy rug te slaap."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Die meid neem ’n groot leë dop van een van die skilpaaie en plaas dit oor sy gesig."
+    },
+    {
+     "id": "p020.s04",
+     "source": "Sy asem word sagter en sagter tot hy dood is."
+    },
+    {
+     "id": "p020.s05",
+     "source": "Hulle vat sy lyk en sit dit saggies in eerbied op die grond neer, maar ’n goeie ent van die hutte af."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Daardie aand het die nuwe maan net sy verskyning aan die westekant, ná sononder, gemaak."
+    },
+    {
+     "id": "p021.s02",
+     "source": "In die nag kom daar ’n warrelwind, en dié neem die lyk na die maan toe om tussen die horings in die hol bak geplaas te word."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Daar het Tatsie nugter wakker geword en kon nie verstaan hoe hy by die maan uitgekom het nie."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Ook daar begin hy met die ander gestorwe skepsels ’n bombarie op te skop en word net geniepsig."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Hulle word van hom buikvol en wou hom uit die maan smyt."
+    },
+    {
+     "id": "p022.s04",
+     "source": "Hy klou aan die een horing vas en hou so wat hy geleer het; dog die punt van die horing breek af, en daar kom Tatsie nog met die stuk maanhoring in sy hand, kop na onder, en val op die aarde dat hy hik."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Maar hy was dood, morsdood van die geweldige val."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Nooit sal hy weer lewendig word nie; want daar was net ’n nat kol waar hy geval het, en niks meer nie."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Dog namate die maan dag ná dag groei en groter word, so begin die horing van die maan ook tot ’n boom te groei, en dit word ook groter by die dag: blomme, blare en vrugte kom daaraan; en dit word ’n geweldige groot boom, wat sy takke ver na al kante uitbrei."
+    },
+    {
+     "id": "p024.s02",
+     "source": "En toe dit vol maan was, was die boom oorlaai met baie lekker vrugte, wat net soos vleis smaak en wat net so voedsaam is."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Toe kom die Boesmans van alle kante om van daardie lekker vrugte te eet."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Dog hulle kan al die vrugte nie baasraak nie, al dra hul ook knapsakke en knapsakke vol weg."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Maar ná vol maan, begin die maan af te sterwe."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Hierdie boom doen dieselfde."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Sy vrugte word droër en droër by die dag en word net soos biltong."
+    },
+    {
+     "id": "p026.s04",
+     "source": "En toe dit haas nuwe maan moet word, was die boom—stam en al—tot op die grond morsdood."
+    },
+    {
+     "id": "p026.s05",
+     "source": "Toe treur die Boesmans."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Maar toe die nuwe maan hom weer aan die westekant, ná sononder, vertoon, begin die boom weer uit te bot, gee weer blomme, dra weer vrugte; en toe die maan vol was, was die vrugte weer ryp—en die feesviering het so maand ná maand aangegaan."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Daar in die land waar die ou geslag nog lewe, staan die boom tot vandag toe."
+    }
+   ],
+   "id": "p027"
   }
  ]
 }

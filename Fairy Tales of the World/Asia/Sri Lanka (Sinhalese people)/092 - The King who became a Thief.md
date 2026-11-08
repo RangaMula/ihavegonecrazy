@@ -1,0 +1,128 @@
+# The King who became a Thief
+
+- **Tradition:** Sri Lanka (Sinhalese people) (Asia)
+- **Source book:** *Village Folk-Tales of Ceylon, Volume 2 (of 3)*
+- **Author / collector / translator:** Parker, H. (Henry) (translator)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #57399 — https://www.gutenberg.org/ebooks/57399
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+In a certain country a Prince went to ask about a marriage, it is said. As he was going, while on the road he met with a Princess. Having met with her, the two persons spoke angrily. Having spoken thus, the Prince said to the Princess, “Some day or other, having called Her [in marriage], I will punish Her much.”
+
+Then the Princess said, “Having borne a Prince to you, Sir, and having employed the Prince [for it], I will tie you to your horse’s leg, and cause [them] to strike you fifty blows.”
+
+Afterwards, the Prince, having come back, built brick walls like a prison, and placed a drain in it, and caused a house to be prepared for putting the Princess into when he brought her.
+
+Having prepared it, and having come calling the Princess [in marriage], he put her in the house; and he puts cooked rice for the Princess at the corner of the drain. The Princess having eaten it, is [there] without even going outside.
+
+There were two field rats ( waeli mīyō ) which the Princess had reared before. The two came to the place where this Princess is. Having come, they dug a tunnel below the brick wall; having dug it, the Queen got out by the corner of the tunnel, and came away.
+
+Having come thus, she was in a party of dancing women. While there, the Princess said to the dancing women, “Take me, and go and dance at such and such a city.” She said this regarding the city to which the Princess came in dīga [marriage]. “While dancing there I shall faint. Then while I am there [in that state] you come away, having said, ‘We shall come again to call our child.’ ” She taught the women thus.
+
+The Princess having taught them it, these women danced near the King, the father of the Prince who had placed her as though in prison when she came in dīga [marriage]. The Prince also is there.
+
+While dancing thus, the Princess fainted. Afterwards, these women having said, “Let her stay until the time when we come back to call our child to go. We cannot now, while she is unconscious,” the women went away. The Princess remained there. That she was that Prince’s Princess he does not know. Having said that the Princess will still be in that very [prison] house, he places cooked rice [there for her] by means of the drain.
+
+The women after three or four months came to call this Princess to go. Then that Prince having married her, she was with child. The women, notwithstanding that, called her and went away [with her].
+
+Afterwards, when she was there a little time [with them] the Princess bore a Prince.
+
+The Prince became considerably big. Afterwards he asked at the hand of the Princess, “Mother, where is my father?”
+
+Then the Princess said, “Son, your father is such and such a King of such and such a city. The King having wagered that he will take me in marriage, said that he will inflict on me unimposed punishments. I said, ‘Having borne a Prince to you, I will employ the Prince and [get him to] tie you to your horse’s leg, and cause you to be struck fifty blows.’ ”
+
+“In the way the King said, calling me [in marriage], when I came he punished me like the punishment of the prison. Having come from there by the help of two rats which I reared before, I was in the dancing women’s party. Being in it, and having gone to that city to dance with these women, the women came away while I was there. Afterwards they went back to come with me.
+
+“During the time when I was there, the King marrying me, you were born when these women were going about. While I was there they came and called me. It is that King himself who is your father.”
+
+After that, the Prince said, “Mother, if so, seek a few things for food for me, and give me them, for me to go to seek a livelihood for myself.”
+
+Afterwards the Princess found the things, and after she gave them, the Prince, taking them, went to the house of a widow woman who worked for hire, and said, “Mother, I, also, came to stay with you.”
+
+Then the widow woman said, “It is good; stay. I am alone.” Afterwards the Prince stayed there.
+
+Staying there, this Prince began to steal the things of the city. Then the King made it public that they are to catch the thief. Afterwards they try to seize him; no one is able to seize him. That widow woman also does not know [that he is the thief].
+
+The woman having come [home], tells at the hand of the Prince all the talk uttered at the royal palace: “A thief of this country is committing this robbery; they cannot catch the thief.” All these words she said to the Prince.
+
+Afterwards the Prince said, “Mother, cook a few cakes and give me them.” So the woman cooked cakes and gave them.
+
+Thereupon the Prince, taking the cakes, went to the chena jungle, and strung the cakes on the trees near a pool at the road ( mankaḍa ) where a washerman is washing clothes. Having strung them, keeping still two or three cakes in his hand, and continuing to eat them, he came to the place where that washerman is washing clothes.
+
+Then the washerman asked at the hand of the Prince, “Whence come you eating and eating certain cakes?”
+
+The Prince said, “Andō! The cake stems on these trees having fruited, there are as many as you want ( ōnāe haeṭiyē ). Go there to look.”
+
+Afterwards, the washerman having said, “If so, Chief ( nilamē ), be good enough to remain near these few clothes,” the washerman went to pluck the cakes.
+
+Then the Prince, taking those few clothes, came to the house of the widow woman. That washerman [after] plucking the cakes having come back, when he looked both the Prince was not there and the clothes were not there. Afterwards the washerman went home empty-handed.
+
+That Prince asked at the hand of the widow woman, “Mother, to-day, in the direction of that city—isn’t it so?—there is a report about the thief?”
+
+Then the widow woman said, “Andō! Why not, son? To-morrow the King is going, they say, to catch the thief.”
+
+On the following day, taking also a bundle of clothes, he went to a pool at the road, and having tied a cord to an earthen cooking-pot, and sent the earthen pot into the water, continuing to tread on the cord with his foot, [so as to keep the pot below the surface], he washes the clothes.
+
+Then the King came on horseback, together with the Ministers. This Prince who is washing clothes asked at the hand of those Ministers, “Where are you going?”
+
+The Ministers said, “We are going to seize the thief.”
+
+Then the Prince says, “Look here; he sprang into this water. Having seen him coming, the King must be ready to seize him when he comes to the surface.”
+
+Afterwards, the King descended from the back of his horse, and having taken off the royal ornaments, putting on the bathing cloth got ready to seize the thief at the time when he rises to the surface.
+
+Then this Prince deceitfully slackened a little the cord on which he was treading with his feet; then the earthen pot which was in the water rose to the surface a little. Having said, “Perhaps it is the head of the thief,” those Ministers and the King sprang into the water.
+
+Then this Prince who was washing clothes, putting on those royal ornaments, mounted on the [King’s] horse, and said, “Look there! There is the thief, seize him!” Then all having come near that King seized him.
+
+After that this Prince said, “Having tied him to the leg of this horse, [you are] to strike him fifty blows.” Then those Ministers, having taken the King and tied him to the horse’s leg, struck him fifty blows.
+
+Having struck them, when they took him to the city the King’s father says, “That thief is indeed like my son.” Having looked in the direction of that Prince who was wearing the royal ornaments, he said, “This indeed is not my son. What of that? There is a little like my son’s face.”
+
+After that, the Prince who was wearing the royal ornaments, said, “Ask at your son’s hand who I am”; he said it at the hand of the Prince’s grandfather.
+
+When he (the grandfather) asked at the hand of the King who had become the thief, he said, “I do not know who he is.”
+
+Then the Prince said, “If so, am I to tell you?” He said, “Hā.”
+
+Then at the hand of that King who had become the thief, this Prince says, “You brought for yourself the Queen of such and such a city, did you not? Before bringing her there was an anger-wager, was there not?”
+
+Then the King said, “It is true.”
+
+Then the Prince said, “You will give punishment to the Queen, you said, did you not? Then the Queen said, did she not? ‘After I have borne a Prince to you, having tied you to the leg of the horse I will cause you to be struck fifty blows.’ ”
+
+Then the King said, “It is true.”
+
+“From there having brought the Queen, while you were giving her the punishment the Queen had previously reared two field rats. The two having come, dug [under] the brick wall, and the Queen went away from there.
+
+“Having gone away, and been in a party of dancing women, while she was in it one day they came here, the Queen and those women, to dance. Having come and caused the Queen to stay, those women went away. After three or four months the women came back, and calling her, went away with her. While she was here, I was born to you.”
+
+Afterwards the grandfather said, “You yourself remain exercising the sovereignty. My son cannot; a fool.”
+
+He having said this, the Prince himself received the sovereignty.
+
+North-western Province.
+
+In The Story of Madana Kāma Rāja (Naṭēśa Sāstrī), p. 246, a Prince told an oilmonger’s daughter that he would marry her and imprison her for life. She retorted that she would bear him a son who should chastise him after first tying him up in a sack. When they were married the Prince shut her up in a room, her food being supplied through a small window. She escaped by a tunnel made by her father for her, learnt rope-dancing, and in disguise made a display of it before the court. The Prince fell in love with her, visited her daily, and she obtained from him his pearl necklace, diamond necklace, and ring. When the rope-dancers left, the girl rejoined her father, and bore a son, who learnt robbery and committed such daring thefts that the Prince, his father, determined to seize him himself at night. By a trick he got the Prince to enter a sack, dressed himself in the Prince’s clothes, and handed it to the soldiers as containing the thief. In the morning he opened the sack and struck the Prince gently with the cord. The robber then explained everything to the King and Prince, his mother when fetched produced the articles given to her, and all ended happily.
+
+In Indian Fairy Tales (M. Stokes), p. 216, a merchant on leaving home on a long journey told his wife that on his return he expected to find that she had built a grand well, and had a son for him. By a trick she got money and built the well. Disguised as a milk-girl she met with her husband’s boat, and sold milk at the river bank until he fell in love with her, married her, and took her to live on his boat. When he left after three months, giving her his cap and portrait, she returned home. On his arrival there she presented to him his son, and produced his gifts.
+
+In the Kathā Sarit Sāgara (Tawney), vol. ii, p. 620, a Brāhmaṇa told his bride, who had played a trick on him, that he would desert her; she retorted that a son whom she would bear him should bring him back. He put his ring on her finger while she slept, and went away to his own city, Ujjayinī. She followed, and established herself as a courtesan, sending away each visitor without seeing her, until her husband came and, without recognising her, stayed some days with her. After returning home she bore a son, to whom she told the whole story. The boy went in search of his father, and by a wager made him his slave, took him back to his mother, and they were reconciled.
+
+In Folk-Tales of Kashmir (Knowles), 2nd ed., p. 104, a King of Kashmīr and a girl whom he met while hunting made jokes at each other. The King married her and ignored her presence in his harem , so she returned to her parents. After three years she visited Kashmīr, and stayed at the palace, where the King, who did not recognise her, fell in love with her. They exchanged rings, and she got his handkerchief, went home, and bore a son who became an expert thief, stealing an egg out of a hawk’s nest without disturbing the bird. He committed many impudent robberies in Kashmīr, getting the high officials into ridiculous positions, and when the King offered his daughter in marriage and half the country if the thief would come forward, he confessed everything and restored the stolen money and goods. His mother came, explained everything and the impossibility of the marriage to his half-sister, produced the ring and handkerchief, and he became heir to the throne.
+
+* * *
+
+See footnote, p. 5, on this use of the third person in place of the second. In this instance its employment is sarcastic.  ↑
+
+This episode is also given in No. 254, vol. iii.  ↑
+
+Ambuḍa gasāgana.   ↑
+
+That is, his own grandfather. It will have been noticed that the words his and her are avoided by these story-tellers. When they appear in the translation they are nearly always inserted by me; the same remark applies to the pronouns he , him , and she .  ↑
+
+That is, with them, after they left. The first statement was that he was born after his mother went away.  ↑
+
+This incident occurs in the Sinhalese story numbered 82 in this volume.  ↑

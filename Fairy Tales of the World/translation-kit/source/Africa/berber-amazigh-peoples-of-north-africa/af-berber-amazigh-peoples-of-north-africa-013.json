@@ -1,0 +1,60 @@
+{
+ "id": "af-berber-amazigh-peoples-of-north-africa-013",
+ "title": {
+  "id": "title",
+  "source": "Les deux femmes {M;[ab)"
+ },
+ "tradition": "Berber (Amazigh) peoples of North Africa",
+ "continent": "Africa",
+ "source_lang": "fr",
+ "source_book": "Nouveaux contes berbères (1897)",
+ "credits": "Basset, René (author, d. 1924)",
+ "gutenberg": "Internet Archive item `nouveauxcontesb00bassgoog` — https://archive.org/details/nouveauxcontesb00bassgoog (OCR text, lightly cleaned)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Africa/Berber (Amazigh) peoples of North Africa/013 - Les deux femmes {M;[ab).md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 5,
+  "words": 94
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "(170) Le texte de cette légende recueillie à Mélika (Mzab) en i, a été publié avec la"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "transcription dans mon Etude sur la Zénatia du M:{aby pp. 1 20- 121."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "(171) Une semblable épreuve est citée par Servius^ In Aeneidem, III, 12 : il s*agit de deux vestales qui viennent dormir dans un temple pour se justifier."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Pendant la nuit, Tune est frappée de la foudre et meurt sans que sa compagne endormie se doute de rien."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Sur Sidi Âïssa, le saint le plus vénéré à Mélika, cf. Soleillet, L* Afrique occidentale, p. 166."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

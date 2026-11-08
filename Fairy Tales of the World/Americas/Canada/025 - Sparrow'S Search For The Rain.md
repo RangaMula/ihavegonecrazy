@@ -4,7 +4,7 @@
 - **Source book:** *Canadian Fairy Tales*
 - **Author / collector / translator:** MacMillan, Cyrus (author, d. 1953)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #36241 — https://www.gutenberg.org/ebooks/36241 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #36241 — https://www.gutenberg.org/ebooks/36241
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

@@ -4,7 +4,7 @@
 - **Source book:** *Stories and folk-lore of West Cornwall. Third Series*
 - **Author / collector / translator:** Bottrell, William (author, d. 1881)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #75799 — https://www.gutenberg.org/ebooks/75799 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #75799 — https://www.gutenberg.org/ebooks/75799
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

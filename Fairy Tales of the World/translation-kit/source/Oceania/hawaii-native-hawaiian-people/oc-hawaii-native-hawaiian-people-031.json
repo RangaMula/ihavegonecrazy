@@ -2,20 +2,20 @@
  "id": "oc-hawaii-native-hawaiian-people-031",
  "title": {
   "id": "title",
-  "source": "A Legend of Old Hawaii"
+  "source": "Arts, Habits And Customs"
  },
  "tradition": "Hawaii (Native Hawaiian people)",
  "continent": "Oceania",
  "source_lang": "en",
- "source_book": "Legends of Old Honolulu (Mythology)",
- "credits": "Westervelt, W. D. (William Drake) (author, d. 1939)",
- "gutenberg": "Project Gutenberg eBook #66547 — https://www.gutenberg.org/ebooks/66547 (copied via the GITenberg mirror)",
+ "source_book": "The Legends and Myths of Hawaii: The fables and folk-lore of a strange people",
+ "credits": "Kalakaua, David, King of Hawaii (author, d. 1891); Daggett, Rollin Mallory (editor, d. 1901)",
+ "gutenberg": "Project Gutenberg eBook #56597 — https://www.gutenberg.org/ebooks/56597",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/031 - A Legend of Old Hawaii.md",
+ "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/031 - Arts, Habits And Customs.md",
  "stats": {
   "paragraphs": 29,
-  "segments": 111,
-  "words": 2081
+  "segments": 98,
+  "words": 1929
  },
  "paragraphs": [
   {
@@ -23,7 +23,15 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "“When the moon dies she goes to the living water of Ka-ne, to the water which can restore all to life, even the moon to the path in the sky.”— Maori Legend of New Zealand."
+     "source": "All implements of war or industry known to the early Hawaiians were made either of wood, stone, or bone, as the islands are destitute of metals; but with these rude helps they laid up hewn-stone walls, felled trees, made canoes and barges, manufactured cloths and cordage, fashioned weapons, constructed dwellings and temples, roads and fish-ponds, and tilled the soil."
+    },
+    {
+     "id": "p001.s02",
+     "source": "They had axes, adzes and hammers of stone, spades of wood, knives of flint and ivory, needles of thorn and bone, and spears and daggers of hardened wood."
+    },
+    {
+     "id": "p001.s03",
+     "source": "They wove mats for sails and other purposes, and from the inner bark of the paper mulberry-tree beat out a fine, thin cloth called kapa , which they ornamented with colors and figures."
     }
    ],
    "id": "p001"
@@ -33,15 +41,27 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "T he Hawaiians of long ago shared in the belief that somewhere along the deep sea beyond the horizon around their islands, or somewhere in the cloud-land above the heavens which rested on their mountains, there was a land known as “The land of the water of life of the gods.”"
+     "source": "Their food was the flesh of swine, dogs and fowls; fish, and almost everything living in the sea; taro , sweet potatoes and yams, and fruits, berries and edible sea-weed of various kinds."
     },
     {
      "id": "p002.s02",
-     "source": "In this land was a lake of living water in which always rested the power of restoration to life."
+     "source": "Poi , the favorite food of all classes, was a slightly fermented paste made of cooked and pounded taro , a large bulbous root, in taste resembling an Indian turnip."
     },
     {
      "id": "p002.s03",
-     "source": "This water was called in the Hawaiian language Ka wai ola a Ka-ne, literally “The water living of Ka-ne,” or “The water of life of Ka-ne.”"
+     "source": "They made a stupefying beverage by chewing the awa root, and from the sweet root of the ti plant fermented an intoxicating drink."
+    },
+    {
+     "id": "p002.s04",
+     "source": "The soft parts of the sugar-cane were eaten, but, with the exception of the manufacture of a beer called uiuia , no other use seems to have been made of it."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Their food, wrapped in ti leaves, was usually cooked in heated and covered pits in the earth."
+    },
+    {
+     "id": "p002.s06",
+     "source": "Their household vessels were shells, gourd calabashes of various shapes and sizes, and platters and other containers made of wood."
     }
    ],
    "id": "p002"
@@ -51,15 +71,27 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Mention of this “wai ola” is found in many of the Pacific island groups, such as New Zealand, the Tongas, Samoa, Tahiti and the Hawaiian Islands."
+     "source": "The dress of the ancient Hawaiian was scant, simple and cool."
     },
     {
      "id": "p003.s02",
-     "source": "The thought of “water of life” cannot be limited to only a few references in legends."
+     "source": "The principal, and generally the only, garment of the male was the maro, a narrow cloth fastened around the loins."
     },
     {
      "id": "p003.s03",
-     "source": "Some of the most interesting legendary [ ] experiences in several island groups belong to the stories of a search after this “water of life.”"
+     "source": "To this was sometimes added, among the masses, a kihei , or cloth thrown loosely over the shoulders."
+    },
+    {
+     "id": "p003.s04",
+     "source": "The females wore a pau , or skirt of invariably five thicknesses of kapa , fastened around the waist and extending to the knees."
+    },
+    {
+     "id": "p003.s05",
+     "source": "When the weather was cool a short mantle was sometimes added."
+    },
+    {
+     "id": "p003.s06",
+     "source": "Ordinarily the heads of both sexes were without coverings, and in rare instances they wore kamaas , or sandals of ti or pandanus leaves."
     }
    ],
    "id": "p003"
@@ -69,19 +101,27 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Ka-ne was one of the four greatest gods of the Polynesians."
+     "source": "With the maro , which was common to the males of all ranks, the king on state occasions wore the royal mamo , a mantle reaching to the ankles, and made of the yellow feathers of a little sea-bird called the mamo ."
     },
     {
      "id": "p004.s02",
-     "source": "In his hands was placed the care of the water of life."
+     "source": "When it is mentioned that but a single yellow feather is found under each wing of the mamo , and that tens of thousands, perhaps, entered into the fabrication of a single mantle, some idea of the value of such a garment may be gathered."
     },
     {
      "id": "p004.s03",
-     "source": "If any person secured this water, the power of the god went with it."
+     "source": "A few of these royal cloaks are still in existence, one of which was worn by King Kalakaua during the ceremonies of his late coronation."
     },
     {
      "id": "p004.s04",
-     "source": "A sick person drinking it would recover health, and a dead person sprinkled with it would be restored to life."
+     "source": "Pure yellow was the royal color."
+    },
+    {
+     "id": "p004.s05",
+     "source": "The shorter capes or mantles of the chiefs were of yellow feathers mixed with red."
+    },
+    {
+     "id": "p004.s06",
+     "source": "The color of the priests and gods was red."
     }
    ],
    "id": "p004"
@@ -91,19 +131,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "In the misty past of the Hawaiian Islands a king was very, very ill."
-    },
-    {
-     "id": "p005.s02",
-     "source": "All his friends thought that he was going to die."
-    },
-    {
-     "id": "p005.s03",
-     "source": "The family came together in the enclosure around the house where the sick man lay."
-    },
-    {
-     "id": "p005.s04",
-     "source": "Three sons were wailing sorely because of their heavy grief."
+     "source": "Palaoa, a Talisman worn around the Neck."
     }
    ],
    "id": "p005"
@@ -113,11 +141,19 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "An old man, a stranger, passing by asked them the cause of the trouble."
+     "source": "The ornaments of the nobility consisted of head-dresses of feathers, palaoas , or charms of bone suspended from the neck, and necklaces and bracelets of shells, teeth and other materials."
     },
     {
      "id": "p006.s02",
-     "source": "One of the young men replied, “Our father lies in that house very near death.”"
+     "source": "Many of them were tattooed on the face, thighs and breast, but the practice was not universal."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Flowers were in general use as ornaments, and at feasts, festivals and other gatherings garlands of fragrant leaves and blossoms crowned the heads and encircled the necks of all."
+    },
+    {
+     "id": "p006.s04",
+     "source": "This is among the beautiful customs still retained by the Hawaiians."
     }
    ],
    "id": "p006"
@@ -127,15 +163,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "The old man looked over the wall upon the young men and said slowly: “I have heard of something which would make your father well."
+     "source": "The dwellings of the masses were constructed of upright posts planted in the ground, with cross-beams and rafters, and roofs and sides of woven twigs and branches thatched with leaves."
     },
     {
      "id": "p007.s02",
-     "source": "He must drink of the water of life of Ka-ne."
+     "source": "The houses of the nobility were larger, stronger and more pretentious, and were frequently surrounded by broad verandas."
     },
     {
      "id": "p007.s03",
-     "source": "But this is very hard to find and difficult to get.”"
+     "source": "It was a custom to locate dwellings so that the main entrance would face the east, the home of Kane ."
+    },
+    {
+     "id": "p007.s04",
+     "source": "The opposite entrance looked toward Kahiki, the land from which Wakea came."
     }
    ],
    "id": "p007"
@@ -145,11 +185,11 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "The old man disappeared, but the eldest son said, “I shall not fail to find this water of life, and I shall be my father’s favorite and shall [ ] have the kingdom.”"
+     "source": "The homes of well-conditioned Hawaiians consisted of no less than six separate dwellings or apartments: 1st, the heiau , or idol-house; 2d, the mua , or eating-house of the males, which females were not allowed to enter; 3d, the hale-noa , or house of the women, which men could not enter; 4th, the hale-aina , or eating-house of the wife; 5th, the kua , or wife’s working-house; and 6th, the hale-pea , or retiring-house or nursery of the wife."
     },
     {
      "id": "p008.s02",
-     "source": "He ran to his father for permission to go and find this water of life."
+     "source": "The poorer classes followed these regulations so far as their means would admit, but screens usually took the place of separate dwellings or definite apartments."
     }
    ],
    "id": "p008"
@@ -159,15 +199,19 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "The old king said: “No, there are many difficulties and even death in the way."
+     "source": "When war was declared or invasion threatened, messengers, called lunapais , were despatched by the king to his subject chiefs, who promptly responded in warriors, canoes, or whatever else was demanded."
     },
     {
      "id": "p009.s02",
-     "source": "It is better to die here.”"
+     "source": "A regular line-of-battle consisted of a centre and right and left wings, and marked military genius was sometimes displayed in the handling of armies."
     },
     {
      "id": "p009.s03",
-     "source": "The young prince urged his father to let him try, and at last received permission."
+     "source": "Sea-battles, where hundreds, sometimes thousands, of war-canoes met in hostile shock, were common, and usually resulted in great loss of life."
+    },
+    {
+     "id": "p009.s04",
+     "source": "Truces and terms of peace were ordinarily respected, but few prisoners were spared except for sacrifice."
     }
    ],
    "id": "p009"
@@ -177,23 +221,31 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "The prince, taking his water calabash, hastened away."
+     "source": "The weapons of the islanders were spears about twenty feet in length, javelins, war-clubs, stone axes, rude halberds, knives, daggers and slings."
     },
     {
      "id": "p010.s02",
-     "source": "As he went along a path through the forest, suddenly an ugly little man, a dwarf (an a-a), appeared in his path and called out, “Where are you going that you are in such a hurry?”"
+     "source": "The slings were made either of cocoa fibre or human hair."
     },
     {
      "id": "p010.s03",
-     "source": "The prince answered roughly: “Is this your business?"
+     "source": "The stones thrown were sometimes a pound or more in weight, and were delivered with great force and accuracy."
     },
     {
      "id": "p010.s04",
-     "source": "I have nothing to say to you.”"
+     "source": "The spears were sometimes thrown, while the javelins were reserved for closer encounter."
     },
     {
      "id": "p010.s05",
-     "source": "He pushed the little man aside and ran on."
+     "source": "Shields were unknown."
+    },
+    {
+     "id": "p010.s06",
+     "source": "Hostile missiles were either dodged, caught in the hands, or dexterously warded."
+    },
+    {
+     "id": "p010.s07",
+     "source": "The chiefs frequently wore feather helmets in battle, but the person was without protection."
     }
    ],
    "id": "p010"
@@ -203,19 +255,7 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "The dwarf was very angry and determined to punish the rough speaker, so he made the path twist and turn and grow narrow before the traveller."
-    },
-    {
-     "id": "p011.s02",
-     "source": "The further the prince ran, the more bewildered he was, and the more narrow became the way, and thicker and thicker were the trees and vines and ferns through which the path wound."
-    },
-    {
-     "id": "p011.s03",
-     "source": "At last he fell to the earth, crawling and fighting against the tangled masses of ferns and the clinging tendrils of the vines of the land of fairies and gnomes."
-    },
-    {
-     "id": "p011.s04",
-     "source": "They twined themselves around him and tied him tight with living coils, and finally he lay like one who was dead."
+     "source": "Surf Board."
     }
    ],
    "id": "p011"
@@ -225,15 +265,35 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "For a long time the family waited and at last came to the conclusion that he had been overcome [ ] by some difficulty."
+     "source": "The athletic sports and games of the people were numerous."
     },
     {
      "id": "p012.s02",
-     "source": "The second son said that he would go and find that water of life, so taking his water calabash he ran swiftly along the path which his brother had taken."
+     "source": "The muscular pastimes consisted in part of contests in running, jumping, boxing, wrestling, swimming, diving, canoe-racing and surf-riding."
     },
     {
      "id": "p012.s03",
-     "source": "His thought was also the selfish one, that he might succeed where his brother had failed and so win the kingdom."
+     "source": "Rolling round stone disks and throwing darts along a prepared channel was a favorite sport; but the most exciting was the holua contest, in which two or more might engage."
+    },
+    {
+     "id": "p012.s04",
+     "source": "On long, light and narrow sledges the contestants, lying prone, dashed down long and steep declivities, the victory being with the one who first reached the bottom."
+    },
+    {
+     "id": "p012.s05",
+     "source": "The goddess Pele enjoyed the game, and frequently engaged in it."
+    },
+    {
+     "id": "p012.s06",
+     "source": "But she was a dangerous contestant."
+    },
+    {
+     "id": "p012.s07",
+     "source": "On being beaten by Kahavari, a chief of Puna, she drove him from the district with a stream of lava."
+    },
+    {
+     "id": "p012.s08",
+     "source": "Sham battles and spear and stone throwing were also popular exercises."
     }
    ],
    "id": "p012"
@@ -243,11 +303,27 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "As he ran along he met the same little man, who was the king of the fairies although he appeared as a dwarf."
+     "source": "Among the in-door games were konane , kilu , puhenehene , punipiki , and hiua ."
     },
     {
      "id": "p013.s02",
-     "source": "The little man called out, “Where are you going in such a hurry?”"
+     "source": "Konane resembled the English game of draughts."
+    },
+    {
+     "id": "p013.s03",
+     "source": "Puhenehene consisted of the adroit hiding by one of the players of a small object under one of several mats in the midst of the party of contestants, and the designation of its place of concealment by the others."
+    },
+    {
+     "id": "p013.s04",
+     "source": "Kilu was a game somewhat similar, accompanied by singing."
+    },
+    {
+     "id": "p013.s05",
+     "source": "Punipiki was something like the game of “fox and geese,” and hiua was played on a board with four squares."
+    },
+    {
+     "id": "p013.s06",
+     "source": "These were the most ancient of Hawaiian household games."
     }
    ],
    "id": "p013"
@@ -257,11 +333,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "The prince spoke roughly, pushed him out of the way, and rushed on."
-    },
-    {
-     "id": "p014.s02",
-     "source": "Soon he also was caught in the tangled woods and held fast like one who was dead."
+     "source": "Pahu, or Drum."
     }
    ],
    "id": "p014"
@@ -271,19 +343,23 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Then the last, the youngest son, took his calabash and went away thinking that he might be able to rescue his brothers as well as get the water of life for his father."
+     "source": "The musical instruments of the islanders were few and simple."
     },
     {
      "id": "p015.s02",
-     "source": "He met the same little man, who asked him where he was going."
+     "source": "They consisted of pahus , or drums, of various sizes; the ohe, a bamboo flute; the hokio , a rude clarionet; a nasal flageolet, and a reed instrument played by the aid of the voice."
     },
     {
      "id": "p015.s03",
-     "source": "He told the dwarf about the king’s illness and the report of the “water of life of Ka-ne,” and asked the dwarf if he could aid in any way."
+     "source": "To these were added, on special occasions, castanets and dry gourds containing pebbles, which were used to mark the time of chants and other music."
     },
     {
      "id": "p015.s04",
-     "source": "“For,” said the prince, “my father is near death, and this living water will heal him and I do not know the way.”"
+     "source": "They had many varieties of dances, or hulas , all of which were more or less graceful, and a few of which were coarse and licentious."
+    },
+    {
+     "id": "p015.s05",
+     "source": "Bands of hula dancers, male and female, were among the retainers of the mois and prominent chiefs, and their services were required on every festive occasion."
     }
    ],
    "id": "p015"
@@ -293,47 +369,27 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "The little man said: “Because you have spoken gently and have asked my help and have not been rough and rude as were your brothers, I [ ] will tell you where to go and will give you aid."
+     "source": "The mourning customs of the people were peculiar."
     },
     {
      "id": "p016.s02",
-     "source": "The path will open before you at the bidding of this strong staff which I give you."
+     "source": "For days they wailed and feasted together over a dead relative or friend, frequently knocking out one or more teeth, shaving portions of their heads and beards, and tearing their flesh and clothes."
     },
     {
      "id": "p016.s03",
-     "source": "By and by you will come to the palace of a king who is a sorcerer."
+     "source": "But their wildest displays of grief were on the death of their kings and governing chiefs."
     },
     {
      "id": "p016.s04",
-     "source": "In his house is the fountain of that water of life."
+     "source": "During a royal mourning season, which sometimes continued for weeks, the people indulged in an unrestrained saturnalia of recklessness and license."
     },
     {
      "id": "p016.s05",
-     "source": "You cannot get into that house unless you take three bundles of food which I will give you."
+     "source": "Every law was openly violated, every conceivable crime committed."
     },
     {
      "id": "p016.s06",
-     "source": "Take the food in one hand and your strong staff in the other."
-    },
-    {
-     "id": "p016.s07",
-     "source": "Strike the door of that king’s house three times with your staff and an opening will be made."
-    },
-    {
-     "id": "p016.s08",
-     "source": "Then you will see two dragons with open mouths ready to devour you."
-    },
-    {
-     "id": "p016.s09",
-     "source": "Quickly throw food in their mouths and they will become quiet."
-    },
-    {
-     "id": "p016.s10",
-     "source": "Fill your calabash with the living water and hurry away."
-    },
-    {
-     "id": "p016.s11",
-     "source": "At midnight the doors will be shut, and you cannot escape.”"
+     "source": "The excuse was—and the authorities were compelled to accept it—that grief had temporarily unseated the popular reason, and they were not responsible for their misdemeanors."
     }
    ],
    "id": "p016"
@@ -343,35 +399,27 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "The prince thanked the little man, took the presents and went his way rejoicing, and after a long time he came to the strange land and the sorcerer’s house."
+     "source": "The masses buried their dead or deposited the bodies in caves, but the bones of the kings were otherwise disposed of."
     },
     {
      "id": "p017.s02",
-     "source": "Three times he struck until he broke the wall and made a door for himself."
+     "source": "There were royal burial-places—one at Honaunau, on the island of Hawaii, and another, called Iao, on Maui—and the tombs of many of the ancient mois and ruling chiefs were in one or the other of those sacred spots; but they probably contained but few royal bones."
     },
     {
      "id": "p017.s03",
-     "source": "He saw the dragons and threw the food into their mouths, making them his friends."
+     "source": "In the fear that the bones of the mois and distinguished chiefs might fall into the hands of their enemies and be used for fish-hooks, arrow-points for shooting mice, and other debasing purposes, they were usually destroyed or hidden."
     },
     {
      "id": "p017.s04",
-     "source": "He went in and saw some young chiefs, who welcomed him and gave him a war-club and a bundle of food."
+     "source": "Some were weighted and thrown into the sea, and others, after the flesh had been removed from them and burned, were secreted in mountain caves."
     },
     {
      "id": "p017.s05",
-     "source": "He went on to another room, where he met a beautiful maiden whom he loved at once with all his heart."
+     "source": "The hearts of the kings of the island of Hawaii were frequently thrown into the crater of Kilauea as an offering to Pele ."
     },
     {
      "id": "p017.s06",
-     "source": "She told him as she looked [ ] in his eyes that after a time they would meet again and live as husband and wife."
-    },
-    {
-     "id": "p017.s07",
-     "source": "Then she showed him where he could get the water of life, and warned him to be in haste."
-    },
-    {
-     "id": "p017.s08",
-     "source": "He dipped his calabash in the spring and leaped through the door just at the stroke of midnight."
+     "source": "The bones of the first Kamehameha were so well secreted in some cave in Kona that they have not yet been found, and the bones of Kualii, a celebrated Oahuan king of the seventeenth century, were reduced to powder, mingled with poi , and at the funeral feast fed to a hundred unsuspecting chiefs."
     }
    ],
    "id": "p017"
@@ -381,15 +429,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "With great joy he hastened from land to land and from sea to sea watching for the little man, the a-a, who had aided him so much."
-    },
-    {
-     "id": "p018.s02",
-     "source": "As if his wish were known soon the little man appeared and asked him how he fared on his journey."
-    },
-    {
-     "id": "p018.s03",
-     "source": "The prince told him about the long way and his success and then offered to pay as best he could for all the aid so kindly given."
+     "source": "GROUP OF NATIVE IMPLEMENTS."
     }
    ],
    "id": "p018"
@@ -399,15 +439,7 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "The dwarf refused all reward."
-    },
-    {
-     "id": "p019.s02",
-     "source": "Then the prince said he would be so bold as to ask one favor more."
-    },
-    {
-     "id": "p019.s03",
-     "source": "The little man said, “You have been so thoughtful in dealing with me as one highly honored by you, ask and perhaps I can give you what you wish.”"
+     "source": "Hand Kahili."
     }
    ],
    "id": "p019"
@@ -417,23 +449,7 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "The prince said, “I do not want to return home without my brothers; can you help me find them?”"
-    },
-    {
-     "id": "p020.s02",
-     "source": "“They are dead in the forest,” said the dwarf."
-    },
-    {
-     "id": "p020.s03",
-     "source": "“If you find them they will only do you harm."
-    },
-    {
-     "id": "p020.s04",
-     "source": "Let them rest in their beds of vines and ferns."
-    },
-    {
-     "id": "p020.s05",
-     "source": "They have evil hearts.”"
+     "source": "Kahili, or Royal Feather Standard."
     }
    ],
    "id": "p020"
@@ -443,23 +459,7 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "But the young chief pressed his kindly thought and the dwarf showed him the tangled path through the forest."
-    },
-    {
-     "id": "p021.s02",
-     "source": "With his magic staff he [ ] opened the way and found his brothers."
-    },
-    {
-     "id": "p021.s03",
-     "source": "He sprinkled a little of the water of life over them and strength returned to them."
-    },
-    {
-     "id": "p021.s04",
-     "source": "He told them how he had found the “living water of Ka-ne,” and had received gifts and also the promise of a beautiful bride."
-    },
-    {
-     "id": "p021.s05",
-     "source": "The brothers forgot their long death-like sleep and were jealous and angry at the success of their younger brother."
+     "source": "Mauele, or Native Palanquin."
     }
    ],
    "id": "p021"
@@ -469,31 +469,7 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "They journeyed far before they reached home."
-    },
-    {
-     "id": "p022.s02",
-     "source": "They passed a strange land where the high chief was resisting a large body of rebels."
-    },
-    {
-     "id": "p022.s03",
-     "source": "The land was lying desolate and the people were starving."
-    },
-    {
-     "id": "p022.s04",
-     "source": "The young prince pitied the high chief and his people and gave them a part of the bundle of food from the house of the god Ka-ne."
-    },
-    {
-     "id": "p022.s05",
-     "source": "They ate and became very strong."
-    },
-    {
-     "id": "p022.s06",
-     "source": "Then he let the chief have his war-club."
-    },
-    {
-     "id": "p022.s07",
-     "source": "Quickly the rebels were destroyed and the land had quiet and peace."
+     "source": "Paddle."
     }
    ],
    "id": "p022"
@@ -503,35 +479,7 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "He aided another chief in his wars, and still another in his difficulties, and at last came with his brothers to the seacoast of his own land."
-    },
-    {
-     "id": "p023.s02",
-     "source": "There they lay down to sleep, but the wicked brothers felt that there were no more troubles in which they would need the magic aid of their brother, so they first planned to kill him, but the magic war-club seemed to defend him."
-    },
-    {
-     "id": "p023.s03",
-     "source": "Then they took his calabash of the water of life and poured the water into their water-jars, filling his calabash again with salt, sickish sea-water."
-    },
-    {
-     "id": "p023.s04",
-     "source": "They [ ] went on home the next morning."
-    },
-    {
-     "id": "p023.s05",
-     "source": "The young prince pressed forward with his calabash, gave it to his father, telling him to drink and recover life."
-    },
-    {
-     "id": "p023.s06",
-     "source": "The king drank deeply of the salt water and was made more seriously sick, almost to death."
-    },
-    {
-     "id": "p023.s07",
-     "source": "Then the older brothers came, charging the young prince with an attempt to poison his father."
-    },
-    {
-     "id": "p023.s08",
-     "source": "They gave him the real water of life and he immediately became strong as in the days of his youth."
+     "source": "Gourds."
     }
    ],
    "id": "p023"
@@ -541,11 +489,7 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "The king was very angry with the youngest son and sent him away with an officer who was skilled in the forest."
-    },
-    {
-     "id": "p024.s02",
-     "source": "The officer was a friend of the young prince and helped him to find a safe hiding-place, where he lived a long time."
+     "source": "Spittoons."
     }
    ],
    "id": "p024"
@@ -555,19 +499,7 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "By and by the three great kings came from distant lands with many presents for the prince who had given them peace and great prosperity."
-    },
-    {
-     "id": "p025.s02",
-     "source": "They told the father what a wonderful son he had, and wanted to give him their thanks."
-    },
-    {
-     "id": "p025.s03",
-     "source": "The father called the officer whom he had sent away with the young man and acknowledged the wrong he had done."
-    },
-    {
-     "id": "p025.s04",
-     "source": "The officer told him the prince was not dead, so the king sent messengers to find him."
+     "source": "Kepie, or Sledge used in the Game of Holua."
     }
    ],
    "id": "p025"
@@ -577,11 +509,31 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "Meanwhile one of the most beautiful princesses of all the world had sent word everywhere that she would be seated in her house and any prince who could walk straight to her along a line [ ] drawn in the air by her sorcerers, without turning to either side, should be her husband."
+     "source": "The ancient Hawaiians divided the year into twelve months of thirty days each."
     },
     {
      "id": "p026.s02",
-     "source": "There was a day set for the contest."
+     "source": "The days of the month were named, not numbered."
+    },
+    {
+     "id": "p026.s03",
+     "source": "As this gave but three hundred and sixty days to their year, they added and gave to their god Lono in feasting and festivity the number of days required to complete the sidereal year, which was regulated by the rising of the Pleiades."
+    },
+    {
+     "id": "p026.s04",
+     "source": "The new year began with the winter solstice."
+    },
+    {
+     "id": "p026.s05",
+     "source": "They also reckoned by lunar months in the regulation of their monthly feasts."
+    },
+    {
+     "id": "p026.s06",
+     "source": "The year was divided into two seasons—the rainy and the dry—and the day into three general parts, morning, noon and night."
+    },
+    {
+     "id": "p026.s07",
+     "source": "The first, middle and after parts of the night were also designated."
     }
    ],
    "id": "p026"
@@ -591,23 +543,11 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "The messengers sent out by the king to find the prince knew all about this contest, so they made all things known to their young chief when they found him."
+     "source": "As elsewhere mentioned, they had names for the five principal planets, which they called “the wandering stars,” and for a number of heavenly groups and constellations."
     },
     {
      "id": "p027.s02",
-     "source": "He went with his swift steps of love to the land of the beautiful girl."
-    },
-    {
-     "id": "p027.s03",
-     "source": "His brothers had both failed in their most careful endeavors, but the young prince followed his heart’s desire and went straight to a door which opened of its own accord."
-    },
-    {
-     "id": "p027.s04",
-     "source": "Out leaped the maiden of the palace of the land of Ka-ne."
-    },
-    {
-     "id": "p027.s05",
-     "source": "Into his arms she rushed and sent her servants everywhere to proclaim that her lord had been found."
+     "source": "It was this knowledge of the heavens that enabled them to navigate the ocean in their frail canoes."
     }
    ],
    "id": "p027"
@@ -617,11 +557,15 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "The brothers ran away to distant lands and never returned."
+     "source": "In counting, the Hawaiians reckoned by fours and their multiples."
     },
     {
      "id": "p028.s02",
-     "source": "The prince and the princess became king and queen and lived in great peace and happiness, administering the affairs of their kingdom for the welfare of their subjects."
+     "source": "Their highest expressed number was four hundred thousand."
+    },
+    {
+     "id": "p028.s03",
+     "source": "More than that was indefinite."
     }
    ],
    "id": "p028"
@@ -631,7 +575,11 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "[ ]"
+     "source": "After what has been written it would seem scarcely necessary to mention that the Hawaiians were not cannibals."
+    },
+    {
+     "id": "p029.s02",
+     "source": "Their legends refer to two or three instances of cannibalism on the islands, but the man-eaters were natives of some other group and did not long survive."
     }
    ],
    "id": "p029"

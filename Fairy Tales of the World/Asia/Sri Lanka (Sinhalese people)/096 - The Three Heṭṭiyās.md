@@ -1,0 +1,58 @@
+# The Three Heṭṭiyās
+
+- **Tradition:** Sri Lanka (Sinhalese people) (Asia)
+- **Source book:** *Village Folk-Tales of Ceylon, Volume 2 (of 3)*
+- **Author / collector / translator:** Parker, H. (Henry) (translator)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #57399 — https://www.gutenberg.org/ebooks/57399
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+In a certain country there were three persons, Big Heṭṭiyā, Middle Heṭṭiyā, and Little Heṭṭiyā. During the time while they were there, the three persons having gone to dig [for] gems, dug [for] gems until the money of the parties was finished. They did not meet with even one gem.
+
+Because they did not, having come again to the village, certain acquaintances of those people were there. Taking (that is, borrowing) a little money from those parties, the whole three persons dug [for] gems again in partnership until the money was finished. They met with only one gem.
+
+It was in the mind of Big Heṭṭiyā to get it into a big box. It was in the mind of Middle Heṭṭiyā to get it into a middle [sized] box. It was in the mind of Little Heṭṭiyā to get it into a little box.
+
+Well then, the three persons having quarrelled about it, Little Heṭṭiyā made a little box, Middle Heṭṭiyā made a box larger than that, Big Heṭṭiyā made a box still larger than that.
+
+Having made them, they placed the gem in the little box of Little Heṭṭiyā, that box they placed inside Middle Heṭṭiyā’s box, and having put it in they placed that box inside Big Heṭṭiyā’s box. [Each one kept the key of his own box.]
+
+Having put it away in that manner, those three still borrowing a little money from suitable persons of the neighbourhood, went again to dig [for] gems.
+
+During the time while they were staying in that way, Little Heṭṭiyā, having made two false keys for Big Heṭṭiyā’s box and Middle Heṭṭiyā’s box, and opened both the boxes, taking out his own box and opening that box with the key he had, took the gem and hid it. This one, having thrown away both the false keys, remained like a man who had not committed theft.
+
+Not a long time after that, the men who lent the money came to ask for the money. Until the time when the money was finished they dug [for] gems; from it also they obtained nothing.
+
+After that, these three persons spoke to the creditors, “Having sold the gem which we have, let us give the money to these people.”
+
+Having said so, the whole three having come, Big Heṭṭiyā, with the key that he had, opened the big box; Middle Heṭṭiyā, with the key that he had, opened [his]; Little Heṭṭiyā, with the key that he had, opened [his]. When they looked there was no gem.
+
+After that, the three keys being in the hands of the three persons, having said, “Who opened [the boxes]?” the three persons struck each other.
+
+[After] striking, they went near the King for a law suit. Having gone, the whole three persons said, “O Lord, Your Majesty, we three had a gem. Having put the gem into a little box, and put that into a still larger box, and put that into a still larger box, we three persons kept in our hands the three keys. Thereafter, when we three persons came together and looked [for it], it was not [there]. Because of it, Sir, somehow or other you must clear up this for us.”
+
+After that, the King made much effort to sift the law suit. He being unable to explain the case, began to postpone it.
+
+The King’s Queen having seen that the three Heṭṭiyās are coming every day in this manner to the court of justice, one day asked the King, “O Lord, Your Majesty, three Heṭṭiyās come every day to the court of justice. Why?” she asked.
+
+The King said, “The three Heṭṭiyās having dug [for] gems, there was one gem. Little Heṭṭiyā having made a box and put it in, locked it and kept the key near him . Middle Heṭṭiyā having made a larger box than that, and placed that Little Heṭṭiyā’s little box inside it, locked it and kept that key. Big Heṭṭiyā having made a large box, taking both those boxes placed them inside that box, and having locked it, he kept that key. Leaving the keys in the hands of the three persons, the gem was missing. I have been unable to explain the case. Because of it I postpone it every day,” he said.
+
+After that, the Queen said, “If you will give me the sovereignty I will clear up the case.”
+
+Thereupon he said, “It is good. Until you have heard the action I will give [you] the sovereignty.”
+
+Having said, “It is good,” the Queen went away and informed the Ministers, and told them to bring three bundles of cord and a whip. These people came bringing them.
+
+After that, the Queen having placed Big Heṭṭiyā on a support, told them to tie him. Having tied him, taking the whip and having said, “Will you give the gem? Will you give the gem?” she told them to flog him well. They flogged the Heṭṭiyā until blood came. Even after that he said, “No, indeed ( nǣma ).”
+
+Having also tied Middle Heṭṭiyā in that manner, they flogged him; that Heṭṭiyā said, “No, indeed.”
+
+Having seized and tied up Little Heṭṭiyā also, they flogged him in that very way. When they had been striking four or five blows, he said, “I will give the gem.” After that, she told him to bring the gem.
+
+That Little Heṭṭiyā having gone running, when he came [after] taking it from the dung-hill where he had buried and kept it, she told Big Heṭṭiyā and Middle Heṭṭiyā to divide [the value of] it. She gave nothing to Little Heṭṭiyā.
+
+Big Heṭṭiyā and Middle Heṭṭiyā divided [the value of] it between them.
+
+North-central Province.

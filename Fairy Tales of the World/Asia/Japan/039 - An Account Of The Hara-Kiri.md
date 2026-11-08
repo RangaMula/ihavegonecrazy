@@ -4,7 +4,7 @@
 - **Source book:** *Tales of Old Japan*
 - **Author / collector / translator:** Redesdale, Algernon Bertram Freeman-Mitford, Baron (author, d. 1916)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #13015 — https://www.gutenberg.org/ebooks/13015 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #13015 — https://www.gutenberg.org/ebooks/13015
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

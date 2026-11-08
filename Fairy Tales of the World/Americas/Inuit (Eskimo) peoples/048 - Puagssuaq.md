@@ -4,7 +4,7 @@
 - **Source book:** *Eskimo Folk-Tales*
 - **Author / collector / translator:** Rasmussen, Knud (editor, d. 1933); Worster, W. J. Alexander (William John Alexander) (translator, d. 1929)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #28932 — https://www.gutenberg.org/ebooks/28932 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #28932 — https://www.gutenberg.org/ebooks/28932
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

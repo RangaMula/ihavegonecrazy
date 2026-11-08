@@ -5,7 +5,7 @@
 a Collection of the Folk-Tales and Legends of North Wales*
 - **Author / collector / translator:** Owen, Elias (author, d. 1899)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #20096 — https://www.gutenberg.org/ebooks/20096 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #20096 — https://www.gutenberg.org/ebooks/20096
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

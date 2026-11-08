@@ -2,20 +2,20 @@
  "id": "oc-hawaii-native-hawaiian-people-038",
  "title": {
   "id": "title",
-  "source": "The Cannibal Dog-Man"
+  "source": "Press Notices"
  },
  "tradition": "Hawaii (Native Hawaiian people)",
  "continent": "Oceania",
  "source_lang": "en",
- "source_book": "Legends of Old Honolulu (Mythology)",
+ "source_book": "Legends of Gods and Ghosts (Hawaiian Mythology)",
  "credits": "Westervelt, W. D. (William Drake) (author, d. 1939)",
- "gutenberg": "Project Gutenberg eBook #66547 — https://www.gutenberg.org/ebooks/66547 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #39195 — https://www.gutenberg.org/ebooks/39195",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/038 - The Cannibal Dog-Man.md",
+ "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/038 - Press Notices.md",
  "stats": {
-  "paragraphs": 50,
-  "segments": 94,
-  "words": 1351
+  "paragraphs": 135,
+  "segments": 169,
+  "words": 1389
  },
  "paragraphs": [
   {
@@ -23,19 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Note : The Menehunes were the fairies of Hawaii."
-    },
-    {
-     "id": "p001.s02",
-     "source": "The goblins and gnomes of valley or woodland were called the eepa people, while monsters having the power of appearing in different kinds of bodies were called kupuas."
-    },
-    {
-     "id": "p001.s03",
-     "source": "These usually had cruel and vindictive characters and were ready to destroy and devour any persons they could catch."
-    },
-    {
-     "id": "p001.s04",
-     "source": "There were, however, many kupuas of kindly spirit who gave watchful care to the members of their own families."
+     "source": "L"
     }
    ],
    "id": "p001"
@@ -45,15 +33,7 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "The Menehunes were temple-builders, makers of great fish-ponds and even highways."
-    },
-    {
-     "id": "p002.s02",
-     "source": "They made canoes, built houses, and did many of the pleasant things fairies are always doing."
-    },
-    {
-     "id": "p002.s03",
-     "source": "Their good works are to be found to this day on all the different islands of the Hawaiian group."
+     "source": "E"
     }
    ],
    "id": "p002"
@@ -63,15 +43,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "K a-hanai-a-ke-akua (The-adopted-child-of-the-gods) was the chief whose followers fought with the dragon-god, Kuna, for a canoe in Nuuanu Valley."
-    },
-    {
-     "id": "p003.s02",
-     "source": "He was a friend of the fairies—the Menehune people."
-    },
-    {
-     "id": "p003.s03",
-     "source": "When he had grown into young manhood and was going to have a temple of his own, with his [ ] own gods to worship, the Menehunes heard about the plan for the walls and altars and determined to build that temple for the chief."
+     "source": "G"
     }
    ],
    "id": "p003"
@@ -81,23 +53,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "As soon as the night shadows had fallen over the mountains back of Honolulu the Menehunes were called together by their luna, or leader."
-    },
-    {
-     "id": "p004.s02",
-     "source": "The stones necessary for the heiau (temple) walls were pointed out."
-    },
-    {
-     "id": "p004.s03",
-     "source": "Flat-sided stones were selected for raised places and altars, smooth stones were called for from the seashore to be laid down as the temple floor."
-    },
-    {
-     "id": "p004.s04",
-     "source": "Bamboo and ohia sticks were to be brought with which to build platforms for sacrifices, such as the bodies of human victims."
-    },
-    {
-     "id": "p004.s05",
-     "source": "All parts of the temple building even to the thatched houses for the priests and chiefs were portioned among the little people."
+     "source": "E"
     }
    ],
    "id": "p004"
@@ -107,7 +63,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "In one night the work was finished, a feast was eaten, and the Menehunes had scattered in the shadows of the forest thickets."
+     "source": "N"
     }
    ],
    "id": "p005"
@@ -117,11 +73,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Kahanai took possession of his temple and dedicated it with the tabu service and ceremonies."
-    },
-    {
-     "id": "p006.s02",
-     "source": "This meant that a tabu of silence or a tabu forbidding work of any kind would be announced, and all the people of the district or place in which the temple was located would obey that tabu until the dedication ceremonies were all over and [ ] the words “Noa, ua noa” were used, meaning that the tabu was over and everything could be freely done as before."
+     "source": "D"
     }
    ],
    "id": "p006"
@@ -131,7 +83,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "The name given to this temple was Ka-he-iki."
+     "source": "S"
     }
    ],
    "id": "p007"
@@ -141,15 +93,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "In this temple the chief placed his friend and guardian, Kahilona, who had cared for him from his babyhood, as his priest and teacher."
-    },
-    {
-     "id": "p008.s02",
-     "source": "Kahilona was the priest of this temple."
-    },
-    {
-     "id": "p008.s03",
-     "source": "Kahilona prepared this chant for the temple building."
+     "source": "O"
     }
    ],
    "id": "p008"
@@ -159,7 +103,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "“Gone is the little house,"
+     "source": "F"
     }
    ],
    "id": "p009"
@@ -169,7 +113,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "The little house,"
+     "source": "O"
     }
    ],
    "id": "p010"
@@ -179,7 +123,7 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Gone is the large house,"
+     "source": "L"
     }
    ],
    "id": "p011"
@@ -189,7 +133,7 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "The large house,"
+     "source": "D"
     }
    ],
    "id": "p012"
@@ -199,7 +143,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Gone is the short house,"
+     "source": "H"
     }
    ],
    "id": "p013"
@@ -209,7 +153,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "The short house,"
+     "source": "O"
     }
    ],
    "id": "p014"
@@ -219,7 +163,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Gone is the little house,"
+     "source": "N"
     }
    ],
    "id": "p015"
@@ -229,7 +173,7 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "From Maiuu to Maaa-e."
+     "source": "O"
     }
    ],
    "id": "p016"
@@ -239,7 +183,7 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Let this be commenced."
+     "source": "L"
     }
    ],
    "id": "p017"
@@ -249,7 +193,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Build, with the soft beat of the drum,"
+     "source": "U"
     }
    ],
    "id": "p018"
@@ -259,7 +203,7 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "With the murmur of the voice of the gods,"
+     "source": "L"
     }
    ],
    "id": "p019"
@@ -269,7 +213,7 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "With the low whine of the dog,"
+     "source": "U"
     }
    ],
    "id": "p020"
@@ -279,7 +223,7 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "With the low grunt of the pig,"
+     "source": "."
     }
    ],
    "id": "p021"
@@ -289,7 +233,7 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "And the soft whispers of men."
+     "source": "B"
     }
    ],
    "id": "p022"
@@ -299,7 +243,7 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Here am I, Kahilona,"
+     "source": "y"
     }
    ],
    "id": "p023"
@@ -309,7 +253,7 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "The teacher of prayer,"
+     "source": "W"
     }
    ],
    "id": "p024"
@@ -319,7 +263,7 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "Proclaimed by Kahilona.”"
+     "source": "i"
     }
    ],
    "id": "p025"
@@ -329,19 +273,7 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "A kupua who was a dog-man overthrew the government of Kahanai and became the ruling power between Nuuanu Valley and the sea."
-    },
-    {
-     "id": "p026.s02",
-     "source": "His own house and heiau were at Lihue,—a place [ ] toward the Waianae Mountains."
-    },
-    {
-     "id": "p026.s03",
-     "source": "This kupua never attacked or injured any members of the family of the very high chief or king of the island Oahu, but he was a cannibal, and many of the people were killed and eaten by him."
-    },
-    {
-     "id": "p026.s04",
-     "source": "He could appear at will either as a man or a dog."
+     "source": "l"
     }
    ],
    "id": "p026"
@@ -351,15 +283,7 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "His name was Kaupe."
-    },
-    {
-     "id": "p027.s02",
-     "source": "After he had eaten some of the people of Oahu he went over the water to eat the men of Maui, and then went on to Hawaii, where he captured the son of one of the high chiefs and carried him back to Oahu, putting him in the temple at Lihue to keep him there until the time came for a human sacrifice."
-    },
-    {
-     "id": "p027.s03",
-     "source": "Then the boy was to be killed and laid on a platform before the gods."
+     "source": "l"
     }
    ],
    "id": "p027"
@@ -369,19 +293,7 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "The father of that boy left Hawaii to follow him to Oahu, thinking there might be some way of saving his son."
-    },
-    {
-     "id": "p028.s02",
-     "source": "If he failed he could at least die with him."
-    },
-    {
-     "id": "p028.s03",
-     "source": "When the father came to Oahu he very quietly landed and looked for some one to give him aid."
-    },
-    {
-     "id": "p028.s04",
-     "source": "After a time he met Kahilona, the caretaker of the temple of the Menehunes, and told him all his trouble."
+     "source": "i"
     }
    ],
    "id": "p028"
@@ -391,11 +303,7 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "The priest taught the father the proper incantations by which he could get his boy away from the magic power of Kaupe, and save both himself and his boy."
-    },
-    {
-     "id": "p029.s02",
-     "source": "Then he also taught the father a prayer which he was to use if Kaupe should learn of their escape and pursue them. [ ]"
+     "source": "a"
     }
    ],
    "id": "p029"
@@ -405,23 +313,7 @@
    "segments": [
     {
      "id": "p030.s01",
-     "source": "At night he approached the temple at Lihue repeating the chant which Kahilona had taught him."
-    },
-    {
-     "id": "p030.s02",
-     "source": "He watched for the signs which the priest had told him would indicate the place where the boy was kept, and followed them carefully."
-    },
-    {
-     "id": "p030.s03",
-     "source": "He continually repeated his chant until he came inside the walls and found the dog asleep guarding the boy."
-    },
-    {
-     "id": "p030.s04",
-     "source": "The father slipped in, cautiously aroused the boy, and unfastened the cords which bound him."
-    },
-    {
-     "id": "p030.s05",
-     "source": "Then they quietly passed the dog, guarded by the incantation:"
+     "source": "m"
     }
    ],
    "id": "p030"
@@ -431,19 +323,7 @@
    "segments": [
     {
      "id": "p031.s01",
-     "source": "“O Ku!"
-    },
-    {
-     "id": "p031.s02",
-     "source": "O Lono!"
-    },
-    {
-     "id": "p031.s03",
-     "source": "O Ka-ne!"
-    },
-    {
-     "id": "p031.s04",
-     "source": "O Kanaloa!"
+     "source": "D"
     }
    ],
    "id": "p031"
@@ -453,11 +333,7 @@
    "segments": [
     {
      "id": "p032.s01",
-     "source": "Save us two."
-    },
-    {
-     "id": "p032.s02",
-     "source": "Save us two.”"
+     "source": "r"
     }
    ],
    "id": "p032"
@@ -467,7 +343,7 @@
    "segments": [
     {
      "id": "p033.s01",
-     "source": "Thus they passed out of the temple and fled toward the temple Ka-he-iki."
+     "source": "a"
     }
    ],
    "id": "p033"
@@ -477,23 +353,7 @@
    "segments": [
     {
      "id": "p034.s01",
-     "source": "While they were running a great noise was heard far behind them."
-    },
-    {
-     "id": "p034.s02",
-     "source": "The dog had been awakened, and had discovered the escape of his prisoner."
-    },
-    {
-     "id": "p034.s03",
-     "source": "Then rushing like a whirlwind around the temple he found the direction in which they had fled."
-    },
-    {
-     "id": "p034.s04",
-     "source": "This was the path naturally taken by those leaving Oahu to escape to Hawaii."
-    },
-    {
-     "id": "p034.s05",
-     "source": "The great dog only waiting to learn the course taken, pursued them on the wings of the wind."
+     "source": "k"
     }
    ],
    "id": "p034"
@@ -503,7 +363,7 @@
    "segments": [
     {
      "id": "p035.s01",
-     "source": "MOANALUA NEAR HONOLULU"
+     "source": "e"
     }
    ],
    "id": "p035"
@@ -513,19 +373,7 @@
    "segments": [
     {
      "id": "p036.s01",
-     "source": "The two chiefs fled, but saw that it was impossible to outrun the dog."
-    },
-    {
-     "id": "p036.s02",
-     "source": "Then the father uttered the prayer which the priest had said [ ] would save them if Kaupe followed."
-    },
-    {
-     "id": "p036.s03",
-     "source": "They ran with increased strength and swiftness, but the dog would soon be upon them."
-    },
-    {
-     "id": "p036.s04",
-     "source": "Again the father repeated the prayer:"
+     "source": "W"
     }
    ],
    "id": "p036"
@@ -535,19 +383,7 @@
    "segments": [
     {
      "id": "p037.s01",
-     "source": "“O Ku!"
-    },
-    {
-     "id": "p037.s02",
-     "source": "O Lono!"
-    },
-    {
-     "id": "p037.s03",
-     "source": "O Ka-ne!"
-    },
-    {
-     "id": "p037.s04",
-     "source": "O Kanaloa!"
+     "source": "e"
     }
    ],
    "id": "p037"
@@ -557,7 +393,7 @@
    "segments": [
     {
      "id": "p038.s01",
-     "source": "By the power of the gods,"
+     "source": "s"
     }
    ],
    "id": "p038"
@@ -567,7 +403,7 @@
    "segments": [
     {
      "id": "p039.s01",
-     "source": "By the strength of this prayer,"
+     "source": "t"
     }
    ],
    "id": "p039"
@@ -577,11 +413,7 @@
    "segments": [
     {
      "id": "p040.s01",
-     "source": "Save us two."
-    },
-    {
-     "id": "p040.s02",
-     "source": "Save us two.”"
+     "source": "e"
     }
    ],
    "id": "p040"
@@ -591,7 +423,7 @@
    "segments": [
     {
      "id": "p041.s01",
-     "source": "Then they found a great stone at Moanalua under which they were able to hide."
+     "source": "r"
     }
    ],
    "id": "p041"
@@ -601,7 +433,7 @@
    "segments": [
     {
      "id": "p042.s01",
-     "source": "The dog had only one thought, which was that the father and son would return to Hawaii as speedily as possible aided by their gods, so he rushed to the beach, leaped into the air and flew to Hawaii."
+     "source": "v"
     }
    ],
    "id": "p042"
@@ -611,7 +443,7 @@
    "segments": [
     {
      "id": "p043.s01",
-     "source": "The chiefs went to the temple Ka-he-iki, and were gladly welcomed by the priest, Kahilona, who taught them the prayers by which they could overcome and destroy the dog-man."
+     "source": "e"
     }
    ],
    "id": "p043"
@@ -621,11 +453,7 @@
    "segments": [
     {
      "id": "p044.s01",
-     "source": "After they were fully instructed they returned to their home on Hawaii and waged war against their enemy."
-    },
-    {
-     "id": "p044.s02",
-     "source": "They obeyed the directions of the priest and finally killed Kaupe."
+     "source": "l"
     }
    ],
    "id": "p044"
@@ -635,15 +463,7 @@
    "segments": [
     {
      "id": "p045.s01",
-     "source": "But the ghost of Kaupe was not killed."
-    },
-    {
-     "id": "p045.s02",
-     "source": "He returned as a ghost-god to the highest part of Nuuanu Valley, where in his shadow body he can sometimes be seen in the clouds which gather around the mountain-tops or come down [ ] the valley."
-    },
-    {
-     "id": "p045.s03",
-     "source": "Sometimes his cloud-form is that of a large dog, and sometimes he is very small, but there his ghost rests and watches over the lands which at one time he filled with terror."
+     "source": "t"
     }
    ],
    "id": "p045"
@@ -653,7 +473,7 @@
    "segments": [
     {
      "id": "p046.s01",
-     "source": "Kahilona, the priest of the temple Ka-he-iki, became the ancestor of one of the greatest of the priestly clans of the islands—the Mo-o-kahuna (the priests of the dragon) class of Oahu, noted for their ability to read the signs of sky and sea and land."
+     "source": "."
     }
    ],
    "id": "p046"
@@ -663,7 +483,7 @@
    "segments": [
     {
      "id": "p047.s01",
-     "source": "Grass Hut"
+     "source": "("
     }
    ],
    "id": "p047"
@@ -673,14 +493,19 @@
    "segments": [
     {
      "id": "p048.s01",
-     "source": "[ ]"
+     "source": "P"
     }
    ],
    "id": "p048"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "u"
+    }
+   ],
    "id": "p049"
   },
   {
@@ -688,10 +513,989 @@
    "segments": [
     {
      "id": "p050.s01",
-     "source": "This heiau (temple) was on the road to Pauoa Valley, now Pacific Heights. ↑"
+     "source": "b"
     }
    ],
    "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "l"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "i"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "s"
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "h"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "e"
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "d"
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "J"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "u"
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "l"
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "y"
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": ","
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "1"
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "9"
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "1"
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "5"
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "."
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": ")"
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "P"
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "r"
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "e"
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "s"
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "s"
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "o"
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "f"
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "G"
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "e"
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "o"
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "."
+    }
+   ],
+   "id": "p078"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p079.s01",
+     "source": "H"
+    }
+   ],
+   "id": "p079"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p080.s01",
+     "source": "."
+    }
+   ],
+   "id": "p080"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p081.s01",
+     "source": "E"
+    }
+   ],
+   "id": "p081"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p082.s01",
+     "source": "l"
+    }
+   ],
+   "id": "p082"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p083.s01",
+     "source": "l"
+    }
+   ],
+   "id": "p083"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p084.s01",
+     "source": "i"
+    }
+   ],
+   "id": "p084"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p085.s01",
+     "source": "s"
+    }
+   ],
+   "id": "p085"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p086.s01",
+     "source": "C"
+    }
+   ],
+   "id": "p086"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p087.s01",
+     "source": "o"
+    }
+   ],
+   "id": "p087"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p088.s01",
+     "source": "."
+    }
+   ],
+   "id": "p088"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p089.s01",
+     "source": ","
+    }
+   ],
+   "id": "p089"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p090.s01",
+     "source": "B"
+    }
+   ],
+   "id": "p090"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p091.s01",
+     "source": "o"
+    }
+   ],
+   "id": "p091"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p092.s01",
+     "source": "s"
+    }
+   ],
+   "id": "p092"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p093.s01",
+     "source": "t"
+    }
+   ],
+   "id": "p093"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p094.s01",
+     "source": "o"
+    }
+   ],
+   "id": "p094"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p095.s01",
+     "source": "n"
+    }
+   ],
+   "id": "p095"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p096.s01",
+     "source": "."
+    }
+   ],
+   "id": "p096"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p097.s01",
+     "source": "1"
+    }
+   ],
+   "id": "p097"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p098.s01",
+     "source": "2"
+    }
+   ],
+   "id": "p098"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p099.s01",
+     "source": "m"
+    }
+   ],
+   "id": "p099"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p100.s01",
+     "source": "o"
+    }
+   ],
+   "id": "p100"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p101.s01",
+     "source": "."
+    }
+   ],
+   "id": "p101"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p102.s01",
+     "source": "$"
+    }
+   ],
+   "id": "p102"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p103.s01",
+     "source": "1"
+    }
+   ],
+   "id": "p103"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p104.s01",
+     "source": "."
+    }
+   ],
+   "id": "p104"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p105.s01",
+     "source": "5"
+    }
+   ],
+   "id": "p105"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p106.s01",
+     "source": "0"
+    }
+   ],
+   "id": "p106"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p107.s01",
+     "source": "."
+    }
+   ],
+   "id": "p107"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p108.s01",
+     "source": "Lovers of legendary lore may feast upon this collection of traditional tales of the Hawaiian people and their origin as first told by the old Hawaiians and sometimes touched up and added to by the Hawaiian story-teller."
+    },
+    {
+     "id": "p108.s02",
+     "source": "The author was president of the Hawaiian Historical Society for some time, and is a resident of Honolulu."
+    },
+    {
+     "id": "p108.s03",
+     "source": "The tales found in this handsomely illustrated volume have already for the most part seen print in papers, magazines, and society reports, and they are well worthy of preservation in this permanent form."
+    },
+    {
+     "id": "p108.s04",
+     "source": "The legends tell of many things in heaven and on earth, of the creation of man, the gods who found water, the great dog Ku, the Cannibal Dog-man, the water of life of Kane.— Transcript, Boston, Mass., Aug."
+    },
+    {
+     "id": "p108.s05",
+     "source": "11, 1915."
+    }
+   ],
+   "id": "p108"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p109"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p110.s01",
+     "source": "\"Legends of Old Honolulu,\" collected and translated by W. D. Westervelt, author of several other fine literary works, is an interesting and fascinating volume in which we are told with beauty of language and colorful description the weird and mysterious folk-lore of these distant people who live in a charmed atmosphere and whose life is one long summer day."
+    }
+   ],
+   "id": "p110"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p111.s01",
+     "source": "These legends have been gathered from Hawaiian traditions by W. D. Westervelt, who resides in Honolulu, and who is particularly equipped for giving them to the reading public."
+    },
+    {
+     "id": "p111.s02",
+     "source": "They are illustrated with many sepia pictures taken from original photographs, and these add greatly to the charm of the book."
+    }
+   ],
+   "id": "p111"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p112.s01",
+     "source": "The author has not lost the simplicity of style in translation, and this makes these tales all the more delightful."
+    }
+   ],
+   "id": "p112"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p113.s01",
+     "source": "\"The Great Dog Ku\" is captivating in its unusual depiction."
+    },
+    {
+     "id": "p113.s02",
+     "source": "\"The Wonderful Shell\" is a veritable prose poem, and there is magic and wonderful imagery about \"Pikoi the Rat-Killer\" which will enthrall the youngsters and entertain their elders."
+    },
+    {
+     "id": "p113.s03",
+     "source": "All these legends have their own particular appeal, and this book may be classed among the rare offerings of the year.— Courier, Buffalo, N. Y., Aug."
+    },
+    {
+     "id": "p113.s04",
+     "source": "29, 1915."
+    }
+   ],
+   "id": "p113"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p114.s01",
+     "source": "W. D. Westervelt has produced a book of permanent and world-wide interest in collecting and translating the legends of old Honolulu which embody all that the vanishing race knows of their origin and their life before the white man came to civilize and decimate them."
+    },
+    {
+     "id": "p114.s02",
+     "source": "The legends are given their proper setting by means of descriptive interludes and explanations of native customs and a key to the language and its pronunciation."
+    },
+    {
+     "id": "p114.s03",
+     "source": "No ethnologist, student of comparative religion, or mythologist can afford to be ignorant of the material collected by Mr. Westervelt and embodied in this well printed and finely illustrated little volume."
+    }
+   ],
+   "id": "p114"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p115.s01",
+     "source": "Published by Geo."
+    },
+    {
+     "id": "p115.s02",
+     "source": "H. Ellis Co., Boston, Mass.— Express, Portland, Me., Sept."
+    },
+    {
+     "id": "p115.s03",
+     "source": "4, 1915."
+    }
+   ],
+   "id": "p115"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p116"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p117.s01",
+     "source": "Mr. Westervelt has long been an active investigator of the aboriginal conditions of Hawaiian life, and the stories he has discovered have added not a little to our knowledge of the Polynesian race as it was before the dawn of history."
+    },
+    {
+     "id": "p117.s02",
+     "source": "The ancient Hawaiians were of an imaginative turn of mind, and their traditions abound in tales of gods and goblins."
+    },
+    {
+     "id": "p117.s03",
+     "source": "Some of the stories, now centuries old, are closely related to the legends that are known to exist in New Zealand and other islands of the Pacific, and many of them bear active resemblances to the fairy-tales of our own country."
+    },
+    {
+     "id": "p117.s04",
+     "source": "They are interesting enough in themselves, and have an added attraction for the student of comparative folk-lore."
+    },
+    {
+     "id": "p117.s05",
+     "source": "The present volume contains excellent illustrations of the scenery of Honolulu, some of them taken from photographs by the author.— Scotsman, Great Britain, Sept."
+    },
+    {
+     "id": "p117.s06",
+     "source": "13, 1915."
+    }
+   ],
+   "id": "p117"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p118"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p119.s01",
+     "source": "Mr. Westervelt, who gives us these legends of Polynesia, has lived for many years in Honolulu, and has made a special study of the history and traditions of the people of the islands."
+    },
+    {
+     "id": "p119.s02",
+     "source": "He writes as one well versed in his subject, and some of the legends which he presents to us are of great beauty, showing a fine and delicate imagination in their authors."
+    }
+   ],
+   "id": "p119"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p120.s01",
+     "source": "The character of the legends varies."
+    },
+    {
+     "id": "p120.s02",
+     "source": "One or two, and these perhaps the most interesting, are Creation myths."
+    },
+    {
+     "id": "p120.s03",
+     "source": "It is evident here and there that the original web is crossed with later strands which have obviously been introduced by Christian missionary teaching, and it is not always easy to disentangle them."
+    }
+   ],
+   "id": "p120"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p121.s01",
+     "source": "One, that has as primitive and antique a savour as any, is that of the Hog-god, Kamapuaa."
+    },
+    {
+     "id": "p121.s02",
+     "source": "It is a great tale, and Kamapuaa was rather a glorious ruffian and capable of surprising transformations."
+    }
+   ],
+   "id": "p121"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p122.s01",
+     "source": "\"Many of the Hawaiians [he writes] of to-day believe in the continual presence of the aumakuas, the spirits of the dead."
+    },
+    {
+     "id": "p122.s02",
+     "source": "In time past the aumakuas were a powerful reality."
+    },
+    {
+     "id": "p122.s03",
+     "source": "An ancester, a father or a grandfather, a makua, died."
+    },
+    {
+     "id": "p122.s04",
+     "source": "Sometimes he went to Po, the under-world, or to Milu, the shadow-land, or to Lani, the Hawaiian heaven, and sometimes he remained to be a torment or a blessing to his past friends.\""
+    }
+   ],
+   "id": "p122"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p123.s01",
+     "source": "We could do well with more light thrown on these places, pleasant or unpleasant, and on the ideas of the Polynesians concerning the life after death."
+    },
+    {
+     "id": "p123.s02",
+     "source": "It seems that it would be well within Mr. Westervelt's power and knowledge to give us this further light, and we may hope that some day he will do so.— Times, London, Sept."
+    },
+    {
+     "id": "p123.s03",
+     "source": "23, 1915."
+    }
+   ],
+   "id": "p123"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p124"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p125.s01",
+     "source": "Honolulu is fast becoming a favorite tourist land, and particularly since the tremendous popularity of a recent Hawaiian volcano play, a good many people have taken to humming pensively the native farewell song and discoursing wistfully of the Eden-like qualities of the islands."
+    },
+    {
+     "id": "p125.s02",
+     "source": "In view of this increasing interest, W. D. Westervelt's book of the legends of Honolulu is especially timely, although such a work always has value."
+    },
+    {
+     "id": "p125.s03",
+     "source": "During his residence in Honolulu this writer has collected and translated from the Hawaiian all the available legends of the region, retelling them with singular success."
+    }
+   ],
+   "id": "p125"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p126.s01",
+     "source": "To mention but an instance, every one of them has a tale relating the creation of man."
+    },
+    {
+     "id": "p126.s02",
+     "source": "This haunting similarity is one of the fascinations of legend study."
+    },
+    {
+     "id": "p126.s03",
+     "source": "Mr. Westervelt has made a noteworthy contribution to that branch of literature.— Bellman, Minneapolis, Minn., Sept."
+    },
+    {
+     "id": "p126.s04",
+     "source": "25, 1915."
+    }
+   ],
+   "id": "p126"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p127"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p128.s01",
+     "source": "These legends will prove of unusual interest to the general reader and especially to the scholar, thinker, and poet."
+    },
+    {
+     "id": "p128.s02",
+     "source": "They describe vividly and strongly the triumphs and the wanderings of the people of Hawaii."
+    },
+    {
+     "id": "p128.s03",
+     "source": "The legends of old Honolulu proper have been compiled from stories told by old Hawaiians still living; others, furnished by the pioneer American missionaries, who began their work on the islands early in the last century."
+    },
+    {
+     "id": "p128.s04",
+     "source": "The writer has lived among this remnant of a great race for many years, and through his sympathy and deep appreciation of native hopes and native aspirations has been able to familiarize himself with their inner life."
+    }
+   ],
+   "id": "p128"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p129.s01",
+     "source": "Price, buckram, 12mo., $1.50; also in kapa."
+    },
+    {
+     "id": "p129.s02",
+     "source": "Press of Geo."
+    },
+    {
+     "id": "p129.s03",
+     "source": "H. Ellis Co., Boston, Mass.— Overland Monthly, San Francisco, Cal., Oct."
+    },
+    {
+     "id": "p129.s04",
+     "source": "1, 1915."
+    }
+   ],
+   "id": "p129"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p130"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p131.s01",
+     "source": "\"Legends of Old Honolulu\" is an interesting summary of what is known about the Hawaiian Islands, their people, and the origin of their race."
+    }
+   ],
+   "id": "p131"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p132.s01",
+     "source": "As soon as the Hawaiian alphabet was prepared, in 1821, native writers began delving into their past, finding there a treasure-mine of romantic stories and of valuable ethnological and historical facts in regard to the Polynesian race."
+    },
+    {
+     "id": "p132.s02",
+     "source": "These stories were written originally in Hawaiian, for native news-papers, and have been collected and translated by Mr. W. D. Westervelt, author of previous volumes on this same subject."
+    }
+   ],
+   "id": "p132"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p133.s01",
+     "source": "While the book will be of special interest to students of ethnology and to those who have visited Honolulu, the romantic charm which pervades this Pacific archipelago gives its history a universal attraction for the reading public."
+    }
+   ],
+   "id": "p133"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p134.s01",
+     "source": "The volume is well bound and well illustrated."
+    },
+    {
+     "id": "p134.s02",
+     "source": "Boston: Geo."
+    },
+    {
+     "id": "p134.s03",
+     "source": "H. Ellis Co.— Globe, Boston, Oct."
+    },
+    {
+     "id": "p134.s04",
+     "source": "25, 1915."
+    }
+   ],
+   "id": "p134"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p135"
   }
  ]
 }

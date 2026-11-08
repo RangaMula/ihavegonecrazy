@@ -1,0 +1,763 @@
+{
+ "id": "eu-estonia-013",
+ "title": {
+  "id": "title",
+  "source": "Wie eine Königstochter sieben Jahre geschlafen"
+ },
+ "tradition": "Estonia",
+ "continent": "Europe",
+ "source_lang": "de",
+ "source_book": "Ehstnische Märchen",
+ "credits": "Kreutzwald, Friedrich Reinhold (author, d. 1882); Löwe, F. (Ferdinand) (translator, d. 1889)",
+ "gutenberg": "Project Gutenberg eBook #21658 — https://www.gutenberg.org/ebooks/21658",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Estonia/013 - Wie eine Königstochter sieben Jahre geschlafen.md",
+ "stats": {
+  "paragraphs": 41,
+  "segments": 124,
+  "words": 3108
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Einmal war eines großen Königs Tochter plötzlich gestorben, und Trauer und Wehklagen erfüllte das ganze Land."
+    },
+    {
+     "id": "p001.s02",
+     "source": "An dem Tage, wo die Todte eingesargt werden sollte, kam aus fernen Landen ein weiser Mann (Zauberer) in die trauernde Königsstadt."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Er schloß aus der allgemeinen Bekümmerniß, daß hier etwas Besonderes vorgefallen sein müsse und fragte, was denn die Bewohner so sehr drücke."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Als er Auskunft erhalten hatte, begab er sich in den königlichen Palast, nannte sich einen weisen Arzt und bat um Zutritt zum Könige."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Schon auf der Schwelle rief er mit starker Stimme: »Die Jungfrau ist nicht todt, sondern nur müde, laßt sie eine Zeitlang ruhen.« Als der König diesen Ausspruch gehört hatte, befahl er dem Fremden, näher zu treten."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Der Zauberer aber sagte: »Die Jungfrau darf nicht zu Grabe gebracht werden."
+    },
+    {
+     "id": "p001.s07",
+     "source": "Ich werde einen Glaskasten machen, darin wollen wir sie betten und ruhig schlafen lassen, bis die Zeit des Erwachens heran kommt.«"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Der König war höchlich erfreut über diese Rede und versprach dem Zauberer reichen Lohn, wenn seine Ver heißung sich erfüllen würde."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Dieser machte darauf einen großen Glaskasten, legte seidene Kissen hinein, bettete die Königstochter darauf, schloß den Deckel und ließ den Kasten in ein großes Gemach tragen, jedoch Wachen vor die Thür stellen, damit Niemand die Schlafende wecke."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Nachdem dies geschehen war, sagte der Zauberer zum Könige: »Sendet jetzt überall hin und lasset allen Glasvorrath aufkaufen, dann werde ich einen Ofen bauen, der größer sein wird als eure Königsstadt, und in welchem wir unser Glas zu einem Berge zusammenschmelzen wollen."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Wenn sechs Jahre verstrichen sind, und der Lerchensang den siebenten Sommer ankündigt, dann sendet Boten nach allen Richtungen hin, und lasset bekannt machen, daß es jedem jungen Manne erlaubt sei, sich als Bewerber um eure Tochter einzufinden."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Wer von den Freiern dann, sei es zu Pferde, oder auf seinen eigenen Füßen, des Glasberges Gipfel erklimmt, der muß euer Schwiegersohn werden."
+    },
+    {
+     "id": "p003.s04",
+     "source": "Wenn nämlich der auserkorene Mann kommt, was binnen sieben Jahren und sieben Tagen geschehen wird, dann wird eure Tochter aus dem Schlafe erwachen und dem Jüngling einen goldenen Ring geben."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Wer euch diesen Ring bringt, und wäre es der geringste eurer Unterthanen, ja auch eines Tagelöhner's Sohn, dem müßt ihr eure Tochter zur Gemahlin geben, sonst wird sie in ewigen Schlaf versinken.«"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Der König versprach, sich in allen Stücken nach dieser Vorschrift zu richten, und gab sofort Befehl, in allen angränzenden Ländern den Glasvorrath anzukaufen."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Als das sechste Jahr ablief, war so viel Glas beisammen, daß es eine Fläche von einer Meile sieben Klafter hoch bedeckte."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Inzwischen hatte der Zauberer seinen Schmelzofen fertig, der so hoch war, daß er fast an die unterste Wolkenschicht reichte."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Der König stellte ihm zweitausend Arbeiter zur Verfügung, welche das Glas in den Ofen thaten."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Hier schmolz es, und die Hitze wurde so stark, daß Sümpfe, Flüsse und kleine Seen austrockneten, ja selbst in Quellen und tiefen Brunnen eine Abnahme des Wassers zu bemerken war."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Während nun der Zauberer seinen Glasberg zusammenschmilzt, wollen wir in eine Bauernhütte treten, die nicht weit von der Königsstadt liegt, und wo ein alter Vater mit seinen drei Söhnen wohnt."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Die beiden älteren Brüder waren gescheute, gewiegte Bursche, der jüngste aber etwas einfältig."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Als der Vater erkrankte und sein Ende herannahen fühlte, ließ er seine Söhne vor sein Lager treten und sprach folgendermaßen: »Ich fühle, daß mein Heimgang herannaht, deßhalb will ich euch meinen letzten Willen kund thun."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Ihr, meine lieben älteren Söhne, sollt gemeinschaftlich Haus und Acker bestellen, so lange ihr nicht beide heirathet."
+    },
+    {
+     "id": "p006.s05",
+     "source": "Die Herrschaft zweier Herdesköniginnen würde einen Riß in's Hauswesen bringen."
+    },
+    {
+     "id": "p006.s06",
+     "source": "Denn ein altes wahres Wort sagt: »Wo sieben unbeweibte Brüder friedlich bei einander leben, da wird es zweien Frauen zu eng; sie müssen sich zausen.« Tritt aber dieser Fall ein, so sollt ihr Haus und Felder unter einander theilen."
+    },
+    {
+     "id": "p006.s07",
+     "source": "Euer jüngster Bruder aber, der weder zum Wirth noch zum Knecht taugt, soll bei euch Obdach und Nahrung finden, so lange er lebt."
+    },
+    {
+     "id": "p006.s08",
+     "source": "Zu diesem Behufe vermache ich euch beiden meinen Geldkasten."
+    },
+    {
+     "id": "p006.s09",
+     "source": "Euer jüngster Bruder ist zwar etwas kurz von Verstande, aber er hat ein gutes Herz, und wird euch eben so willig gehorchen, wie er mir immer gehorcht hat.« Die älteren Brüder versprachen mit trockenem Auge und geläufiger Zunge des Vaters Willen zu erfüllen, der jüngste sprach kein Wort und weinte bitterlich. »Noch Eins will ich sagen,« fuhr der Vater fort — »wenn ich todt bin und ihr mich begraben habt, so erweiset mir als letzten kleinen Liebesdienst, daß jeder von euch eine Nacht an meinem Grabe wacht.« Beide älteren Brüder versprachen mit trockenem Auge und geläufiger Zunge, des Vaters Willen zu erfüllen, der jüngste sagte kein Wort und weinte bitterlich."
+    },
+    {
+     "id": "p006.s10",
+     "source": "Bald nach dieser Unterredung hatte der Vater seine Augen auf immer geschlossen."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Die beiden älteren Brüder richteten ein großes Gastmahl an und luden viele Gäste ein, damit der todte Vater mit allen Ehren bestattet werde."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Sie selbst waren guter Dinge und aßen und tranken wie auf einer Hochzeit, während ihr dritter Bruder still weinend am Sarge des Vaters stand; als der Sarg dann weggetragen und in's Grab gesenkt wurde, da war dem jüngsten Sohne zu Muthe, als wären nun alle Freuden abgestorben und mit dem Vater begraben."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Spät am Abend, als die letzten Gäste fortgegangen waren, fragte der jüngste Bruder, wer die erste Nacht am Grabe des Vaters wachen würde."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Die andern sagten: »Wir sind müde von der Besorgung des Begräbnisses, wir können heute Nacht nicht wachen, aber du hast nichts Besseres zu thun, also geh du und halte Wache.«"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Der jüngste Bruder ging ohne ein Wort zu sagen zum Grabe des Vaters, wo Alles still war und nur die Grille zirpte."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Um nicht einzuschlafen, ging er leisen Schrittes auf und ab."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Es mochte um Mitternacht sein, als es wie von einer klagenden Stimme aus dem Grabe tönte:"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Der Sohn verstand die Frage und antwortete:"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Die Stimme fragte weiter, warum die älteren Brüder nicht zuerst zur Wacht gekommen seien, worauf der jüngste sie entschuldigte, sie hätten, ermüdet von der Beerdigung, heute nicht kommen können."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Wieder hob des Vaters Stimme an: »Jeder Arbeiter ist seines Lohnes werth, darum will ich dir auch deinen Lohn nicht vorenthalten."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Es wird bald eine Zeit kommen, wo du dir bessere Kleider wünschen wirst, um in die Gesellschaft vornehmer Leute kommen zu können."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Dann tritt an mein Grab, stampfe mit deiner linken Ferse dreimal auf den Grabhügel und sprich: »Lieber Vater, ich bitte um meinen Lohn für die erste nächtliche Wacht.« Dann wirst du einen Anzug und ein Pferd erhalten."
+    },
+    {
+     "id": "p012.s04",
+     "source": "Aber sage deinen Brüdern nichts davon.«"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Mit Tagesanbruch ging der Grabeswächter heim, frühstückte etwas, um sich zu stärken, und legte sich dann nieder, um zu ruhen."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Als am Abend die Zeit herankam, fragte er bei den Brüdern an, wer von ihnen die Nacht am Grabe des Vaters wachen würde."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Die Brüder antworteten spöttisch: »Nun es wird wohl Niemand kommen, um den Vater aus dem Grabe zu stehlen."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Wenn du aber Lust hast, so kannst du ja auch diese Nacht dort wachen."
+    },
+    {
+     "id": "p014.s04",
+     "source": "Aber mit all deinem Wachen wirst du den Vater nicht wieder ins Leben zurückrufen.« Der jüngste Bruder wurde über diese lieblose Rede noch betrübter und verließ mit Thränen in den Augen das Gemach."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Auf dem Grabe des Vaters war Alles ruhig, wie gestern Nacht, nur die Grille zirpte im Grase."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Damit er nicht einschliefe, ging er leisen Schrittes auf und ab."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Es mochte wohl Mitternacht sein, die Hähne hatten schon zweimal gekräht, als eine klagende Stimme aus dem Grabe sich vernehmen ließ:"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Der Sohn verstand die Frage und erwiederte:"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Die Stimme fragte weiter, warum keiner der älteren Brüder gekommen sei, und der jüngste entschuldigte sie, sie seien von dem Tagewerk zu ermüdet, um zu wachen."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Wieder hob des Vaters Stimme an: »Jeder Arbeiter ist seines Lohnes werth, darum werde ich dir auch deinen Lohn nicht vorenthalten."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Bald wird eine Zeit kommen, wo du dir einen noch besseren Anzug wünschen wirst, als den, welchen du dir gestern verdient hast."
+    },
+    {
+     "id": "p018.s03",
+     "source": "Dann tritt nur dreist an mein Grab, stampfe mit deiner linken Ferse dreimal auf den Grabhügel und sprich: »Lieber Vater, ich bitte um meinen Lohn für die zweite nächtliche Wacht!« Sofort wirst du einen prächtigeren Anzug und ein schöneres Pferd erhalten, so daß die Leute ihre Augen nicht von dir wegwenden mögen."
+    },
+    {
+     "id": "p018.s04",
+     "source": "Aber sage deinen Brüdern nichts davon.«"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Mit Tagesanbruch ging er von der Grabeswacht nach Hause, fand die beiden älteren Brüder noch schlafend, frühstückte etwas, um sich zu stärken, streckte sich dann auf die Ofenbank hin und schlief, bis die Sonne schon etwas über Mittag stand."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Als am Abend die Zeit wieder herannahte, fragte er die Brüder, wer von ihnen die Nacht am Grabe des Vaters wachen würde?"
+    },
+    {
+     "id": "p020.s02",
+     "source": "Sie lachten und antworteten spöttisch: »Wer die wohlfeile Arbeit zwei Nächte gethan hat, der kann sie auch die dritte Nacht thun."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Der Vater wird aus seinem Grabe nicht davonlaufen, und noch weniger werden die Leute kommen, ihn zu stehlen."
+    },
+    {
+     "id": "p020.s04",
+     "source": "Wäre er noch bei vollem Verstande gewesen, so hätte er einen Wunsch dieser Art gar nicht geäußert.« Der jüngste Bruder war sehr betrübt über ihre lieblose Rede, und ging wieder mit thränenden Augen davon."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Auf dem Grabe des Vaters war Alles still, wie die beiden Nächte zuvor, nur die Grille zirpte im Grase, und die Schnepfe meckerte unter hohem Himmel."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Um nicht einzuschlafen, ging der Grabeswächter leisen Schrittes auf und ab."
+    },
+    {
+     "id": "p021.s03",
+     "source": "Es mochte Mitternacht sein, die Hähne hatten schon zweimal gekräht, da rief wieder die klagende Stimme aus dem Grabe:"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Der Sohn verstand die Frage und erwiederte:"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Die Stimme fragte wieder, weßwegen die älteren Brüder nicht gekommen seien, und erhielt dieselbe Antwort wie gestern."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Aber des Vaters Stimme hob wieder an: »Jeder Arbeiter ist seines Lohnes werth, ich will dir den deinigen nicht vorenthalten."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Bald wird eine Zeit kommen, wo du an dir selbst erfahren wirst, daß der Mensch, je mehr er hat, desto mehr begehrt."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Einem guten Sohne aber, der seinem Vater auch nach dem Tode noch Liebe erwies, müssen alle Wünsche erfüllt werden."
+    },
+    {
+     "id": "p024.s04",
+     "source": "Anfangs wollte ich meine verborgenen Schätze unter deine Brüder theilen, jetzt bist du mein einziger Erbe."
+    },
+    {
+     "id": "p024.s05",
+     "source": "Wenn dir deine prächtigen Kleider und Pferde, die ich dir für die erste und zweite nächtliche Wacht zum Lohne versprach, nicht mehr gefallen, so tritt dreist an mein Grab, stampfe mit deiner linken Ferse dreimal auf den Grabhügel und sprich: »Lieber Vater, ich bitte um meinen Lohn für die dritte nächtliche Wacht!« und augenblicklich wirst du die allerprächtigsten Kleider und die allerkostbarsten Pferde erhalten."
+    },
+    {
+     "id": "p024.s06",
+     "source": "Alle Welt wird mit Bewunderung auf dich blicken, deine älteren Brüder werden dich beneiden und ein großer König wird dich zum Schwiegersohne wählen."
+    },
+    {
+     "id": "p024.s07",
+     "source": "Aber sage deinen Brüdern nichts davon.«"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Mit Tagesanbruch ging der Grabeswächter nach Hause und dachte bei sich selbst: so eine Zeit wird für mich Armen wohl niemals kommen."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Als er dann ein wenig gefrühstückt hatte, um sich zu stärken, streckte er sich auf die Ofenbank, schlief ein und erwachte erst, als die Sonne schon in den Wipfeln des Waldes stand."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Während er schlief, sprachen die älteren Brüder untereinander: »Dieser Nachtwacher und Tagschläfer wird uns nie zu was nützen, wozu füttern wir ihn?"
+    },
+    {
+     "id": "p026.s02",
+     "source": "Wir thäten besser, das Futter einem Schweine zu geben, das wir zu Weihnacht schlachten können.« Der älteste Bruder setzte hinzu: »Werfen wir ihn aus dem Hause, er kann vor fremder Leute Thüren sein Brod betteln.« Da meinte aber der andere, das würde doch nicht gut angehen, und würde ihnen selber Schande bringen, wenn sie, als wohlhabende Leute, den Bruder betteln gehen ließen. »Lieber wollen wir ihm die Brosamen von unserm Tische hinwerfen, satt soll er nicht dabei werden, aber auch nicht Hungers sterben.«"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Inzwischen hatte der Zauberer seinen Glasberg fertig geschmolzen, und der König hatte überall bekannt machen lassen, daß jeder junge Mann kommen dürfe, sich um seine Tochter zu bewerben, daß aber nur demjenigen die Jungfrau ihre Hand reichen würde, der zu Pferde oder auf eigenen Füßen den Gipfel des Glasberges erklimmen würde."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Der König ließ nun ein großes Gelage anrichten für alle die Gäste, die sich einfinden würden."
+    },
+    {
+     "id": "p028.s02",
+     "source": "Das Gelage sollte drei Tage währen; für jeden Tag wurden hundert Ochsen und siebenhundert Schweine geschlachtet, und fünfhundert Fässer Bier gebraut."
+    },
+    {
+     "id": "p028.s03",
+     "source": "Die aufgestapelten Würste ragten gleich Wänden, die Hefenbröte und Kuchen bildeten Haufen, so hoch wie die größten Heuschober."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Die schlafende Königstochter wurde in ihrem Glaskasten auf den Gipfel des Glasberges getragen."
+    },
+    {
+     "id": "p029.s02",
+     "source": "Von allen Seiten strömten Fremde herbei, theils um das Wagestück zu versuchen, theils um das Wunder mit anzusehen."
+    },
+    {
+     "id": "p029.s03",
+     "source": "Der glänzende Berg strahlte wie eine zweite Sonne, so daß man ihn schon viele Meilen weit aus der Ferne erblickte."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Unsere alten Bekannten, die beiden älteren Brüder, hatten sich Festkleider machen lassen und gingen auch zum Gastmahl."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Der jüngste mußte zu Hause bleiben, damit er in seinem elenden Aufzuge den schmucken Brüdern keine Schande mache."
+    },
+    {
+     "id": "p030.s03",
+     "source": "Aber kaum hatten sich die älteren Brüder auf den Weg gemacht, so ging der jüngste an des Vaters Grab, that, wie die Stimme ihn gelehrt hatte, und sprach: »Lieber Vater, ich bitte um meinen Lohn für die erste nächtliche Wacht!« — In dem nämlichen Augenblicke, wo die Bitte über seine Lippen kam, stand ein ehernes Roß da mit ehernem Zaum, und auf dem Sattel lag die schönste glänzende Rüstung, vollständig vom Scheitel bis zur Sohle, und Alles paßte so gut, als wäre es auf seinen Leib gemacht."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Um Mittag kam der eherne Mann auf seinem ehernen Pferde an den Glasberg, wo Hunderte und Tausende standen, aber kein Einziger war im Stande, auch nur einige Schritte den glatten Berg hinauf zu kommen."
+    },
+    {
+     "id": "p031.s02",
+     "source": "Der eherne Reiter drängte sich durch die Menge, ritt ein Drittel des Berges hinauf, als wäre es geschwendetes Land, kehrte dann um, grüßte den König und verschwand wieder."
+    },
+    {
+     "id": "p031.s03",
+     "source": "Manche Zuschauer wollten bemerkt haben, daß die schlafende Königstochter ihre Hand regte, als der eherne Mann hinaufritt."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Beide Brüder konnten am Abend nicht genug von der wunderbaren That des ehernen Mannes und seines ehernen Pferdes erzählen."
+    },
+    {
+     "id": "p032.s02",
+     "source": "Der jüngste Bruder hörte ihre Reden schweigend an, ließ sich aber nicht merken, daß er selber der Mann gewesen war."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Am andern Morgen gingen die Brüder mit Sonnenaufgang wieder fort, um die Gasterei nicht zu versäumen."
+    },
+    {
+     "id": "p033.s02",
+     "source": "Die Sonne stand in Südost, als der jüngste Bruder an das Grab des Vaters kam; er that nach der Vorschrift und sagte: »Lieber Vater, ich bitte um meinen Lohn für die zweite nächtliche Wacht!« In dem nämlichen Augenblicke, wo die Bitte über seine Lippen kam, stand ein silbernes Pferd da mit silbernem Zaum und Sattel, und auf dem Sattel lag die prächtigste glänzendste silberne Rüstung, vollständig vom Scheitel bis zur Sohle, und Alles paßte so gut, als wäre es auf seinen Leib gemacht."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Am Mittag kam der silberne Mann mit seinem Silberpferde an den Glasberg, wo Hunderte und Tausende standen; aber kein Einziger war im Stande, auch nur einige Schritte auf den glatten Berg hinaufzukommen."
+    },
+    {
+     "id": "p034.s02",
+     "source": "Der silberne Reiter drängte sich durch die Menge, ritt ein gut Stück über die Hälfte den Glasberg hinauf, der für die Hufe seines Pferdes wie geschwendetes Land zu sein schien, kehrte um, grüßte den König und war gleich darauf wieder verschwunden."
+    },
+    {
+     "id": "p034.s03",
+     "source": "Heute hatten die Leute deutlich gesehen, daß die schlafende Königstochter bei der Annäherung des silbernen Mannes ihren Kopf bewegt hatte."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Die Brüder waren am Abend nach Hause gekommen, und konnten nicht genug Rühmens machen von des silbernen Mannes und seines Silberpferdes wunderbarer That, meinten aber doch zuletzt, es könne kein wirklicher Mensch sein, sondern Alles sei nur ein Zauberblendwerk."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Der jüngste Bruder hörte ihren Reden still zu, ließ sich aber nichts davon merken, daß er selbst der Mann gewesen war."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Am andern Morgen waren beide älteren Brüder mit Tagesanbruch wieder fortgegangen."
+    },
+    {
+     "id": "p036.s02",
+     "source": "An diesem Tage hatte sich noch mehr Volks versammelt, weil heute die sieben Jahre und sieben Tage um waren, nach deren Ablauf die Königstochter aus ihrem langen Schlafe erwachen sollte."
+    },
+    {
+     "id": "p036.s03",
+     "source": "Die Sonne stand schon ziemlich hoch, als der jüngste Bruder an des Vaters Grab ging."
+    },
+    {
+     "id": "p036.s04",
+     "source": "Er that nach der Vorschrift und sprach: »Lieber Vater, ich bitte um meinen Lohn für die dritte nächtliche Wacht.« In demselben Augenblicke, wo diese Bitte über seine Lippen kam, stand ein goldenes Pferd da mit goldenem Zaum und Sattel, und auf dem Sattel lag die schönste goldene Rüstung, vollständig vom Scheitel bis zur Sohle, und Alles paßte so gut, als wäre es auf seinen Leib gemacht."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Um Mittag kam der goldene Mann mit seinem Goldpferde an den Glasberg, wo Hunderte und Tausende standen, doch kein Einziger war im Stande, auch nur einige Schritte den glatten Berg hinaufzukommen."
+    },
+    {
+     "id": "p037.s02",
+     "source": "Weder der eherne Reiter noch der silberne hatten Spuren auf dem Berge zurückgelassen, der glatt geblieben war wie zuvor."
+    },
+    {
+     "id": "p037.s03",
+     "source": "Der goldene Reiter drängte sich durch die Menge, ritt den Berg hinauf bis zum Gipfel, und der Berg schien für die Hufe seines Pferdes wie geschwendetes Land zu sein."
+    },
+    {
+     "id": "p037.s04",
+     "source": "Als er oben angekommen war, sprang der Deckel des Kastens von selbst auf, die schlafende Königstochter richtete sich empor, zog einen goldenen Ring von ihrem Finger und gab ihn dem goldenen Reiter."
+    },
+    {
+     "id": "p037.s05",
+     "source": "Dieser aber hob die Jungfrau auf sein Goldpferd und ritt mit ihr langsam den Berg hinunter."
+    },
+    {
+     "id": "p037.s06",
+     "source": "Dann legte er sie in des Königs Arme, grüßte anmuthig und war im nächsten Augenblick verschwunden, als wäre er in die Erde gesunken."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Des Königs Freude könnt ihr euch leicht vorstellen."
+    },
+    {
+     "id": "p038.s02",
+     "source": "Am andern Tage hatte er, dem Rathe des weisen Mannes zufolge, überall bekannt machen lassen, daß der, welcher der Prinzessin goldenen Ring zurückbringen würde, sein Schwiegersohn werden sollte."
+    },
+    {
+     "id": "p038.s03",
+     "source": "Von den Gästen waren die meisten zur Nacht dageblieben, um zu sehen, wie die Sache ablaufen werde."
+    },
+    {
+     "id": "p038.s04",
+     "source": "Auch unsere alten Freunde, die älteren Brüder, waren darunter und ließen sich die Bewir thung trefflich munden."
+    },
+    {
+     "id": "p038.s05",
+     "source": "Aber ihr Erstaunen war nicht gering, als sie sahen, wie ein schlecht gekleideter Mann, in dem sie bald ihren verschmähten Bruder erkannten, an den König herantrat."
+    },
+    {
+     "id": "p038.s06",
+     "source": "Dieser Bettler trug in der That den Ring der Königstochter an seiner Hand."
+    },
+    {
+     "id": "p038.s07",
+     "source": "Da bereute der König seine Zusage, denn so etwas hatte er nicht ahnden können."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Aber der Zauberer sagte zum Könige: »Der Jüngling, den ihr seines schlechten Auszuges wegen für einen Bettler haltet, ist der Sohn eines mächtigen Königs, dessen Land weit entfernt liegt."
+    },
+    {
+     "id": "p039.s02",
+     "source": "Er wurde drei Tage nach seiner Geburt von einer bösen Frau des Rõugutaja mit einem Bauernsohne vertauscht; dieser starb jedoch schon im ersten Monate, während der gestohlene Königssohn in einer Bauernhütte aufwuchs und seinem vermeintlichen Vater immer gehorsam war.«"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Der König war durch diese Auskunft zufriedengestellt, und ließ einen großen Hochzeitsschmaus anrichten, der vier Wochen dauerte."
+    },
+    {
+     "id": "p040.s02",
+     "source": "Später vererbte er alle seine Reiche auf seinen Schwiegersohn."
+    },
+    {
+     "id": "p040.s03",
+     "source": "Sobald dieser nur die Bauernkleider abgelegt hatte, benahm er sich gar nicht mehr einfältig, sondern seinem Stande gemäß und als kluger Herr."
+    },
+    {
+     "id": "p040.s04",
+     "source": "Seine Einfalt war ihm ja nicht angeboren, sondern das böse Weib hatte sie ihm angethan."
+    },
+    {
+     "id": "p040.s05",
+     "source": "Sonntags zeigte er sich dem Volke in seiner Goldrüstung auf seinem goldenen Roß."
+    },
+    {
+     "id": "p040.s06",
+     "source": "Seine vermeintlichen Brüder waren vor Neid und Wuth gestorben."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p041"
+  }
+ ]
+}

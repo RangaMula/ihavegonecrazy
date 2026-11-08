@@ -4,7 +4,7 @@
 - **Source book:** *Fairy Tales of the Slav Peasants and Herdsmen*
 - **Author / collector / translator:** Chodzko, Alexander (author, d. 1891); Harding, Emily J. (translator)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #25555 — https://www.gutenberg.org/ebooks/25555 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #25555 — https://www.gutenberg.org/ebooks/25555
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

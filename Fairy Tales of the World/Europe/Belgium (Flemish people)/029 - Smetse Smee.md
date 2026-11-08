@@ -1,0 +1,1196 @@
+# Smetse Smee
+
+- **Tradition:** Belgium (Flemish people) (Europe)
+- **Source book:** *Flemish Legends*
+- **Author / collector / translator:** Coster, Charles de (author, d. 1879); Taylor, Harold (translator)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #37668 — https://www.gutenberg.org/ebooks/37668
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+### Of Smetse, his belly, and his forge
+
+Smetse Smee lived in the good town of Ghent, on the Quai aux Oignons, beside the fair River Lys.
+
+He was well skilled in his trade, rich in bodily fat, and with so jolly a countenance that the most melancholy of men were cheered and took heart for no more than the sight of him in his smithy, trotting about on his short legs, head up and belly forward, seeing to everything.
+
+When work was in full swing in his shop, Smetse, listening to the busy sounds round the fire, would say, with his hands clasped across his stomach, quietly and happily: “By Artevelde! what are drums, cymbals, fifes, viols, and bagpipes worth? For heavenly music give me my sledges beating, my anvils ringing, my bellows roaring, my good workmen singing and hammering.”
+
+Then, speaking to them all: “Courage,” he would say, “my children! Who works well from daybreak drinks the better for it at vespers. Whose is that feeble arm down there, tapping with his hammer so gently? Does he think he is cracking eggs, the faint-heart? To those bars, Dolf, and plunge them in the water. To that breastplate, Pier, beat it out for us fine and true: iron well beaten is proof against bullets. To that plough-share, Flipke, and good work to it, too: from the plough comes the world’s bread. To the door, Toon, here comes the raw-boned nag of Don Sancio d’Avila, the knight with the sour countenance, brought hither by his raw-boned groom, who is for having him shod, no doubt: let him pay double for his Spanish haughtiness and his harshness to poor folk!”
+
+So went Smetse about his smithy, singing mostly, and whistling when he was not singing. And for the rest getting much honest gain, profiting in health, and, at vespers, drinking bruinbier with a will in the inn of Pensaert.
+
+### How Slimbroek the Red put out the fire in Smetse’s forge
+
+By and by there came to the Quai aux Oignons a certain Adriaen Slimbroek, who set up, with the licence of the guild, another smithy. This Slimbroek was an ugly, wizened, lean and puny personage, white-faced, underhung in the jaw like a fox, and nicknamed the Red on account of the colour of his hair.
+
+Skilled in intrigue, expert in sharp-practice, master of arts in cant and hypocrisy, and making himself out to be the finest of smiths, he had interested in his business all the rich and gentle folk of the town, who from fear or otherwise held to the Spaniards and wished ill to those of the reformed faith. They were before, for the most part, customers of Smetse, but Slimbroek had put them against him, saying: “This Smetse is a knave to the bottom of his heart, he was a marauder in his young days, sailing the seas with the men of Zeeland in despite of Spain, on the side of this religion which they call reformed. He still has many friends and relatives in Walcheren, more particularly at Middelburg, Arnemuiden, Camp-Veere, and Flushing, all obstinate Protestants, and speaking of the Pope of Rome and my Lords the Archdukes without veneration.
+
+“And for the rest,” added he, “this fellow Smetse is altogether an atheist, reading the bible of Antwerp in despite of the decrees, and going to church only because he is afraid, and not at all because he will.”
+
+By such slanders as these Slimbroek robbed Smetse of all his customers.
+
+And soon the fire was out in the forge of the good smith, and soon, too, the savings were eaten up, and Dame Misery came to the dwelling.
+
+### Wherein Slimbroek is seen in the river prettily tricked out
+
+Brought to this pass Smetse, nevertheless, would not let himself take to despair; but he was always sad and heavy of heart when, sitting in his cold smithy and looking at all his good tools lying idle on the ground, he heard the fair sound of hammers and anvils coming from Slimbroek’s shop.
+
+But what angered him most was that whenever he passed before Slimbroek’s dwelling the traitor carrot-head would appear suddenly on the threshold, and, saluting him graciously and giving him fair compliments, would make a hundred flattering speeches, accompanied by as many hypocritical salutations, and all for the sake of poking fun at him and to laugh unkindly at his misery.
+
+These ugly encounters and grimaces went on a long while, and Smetse came to the end of his patience: “Ah,” said he, “it angers me to be in such poor case; although I must submit, for such is the holy will of God. But it irks me too bitterly to see this wicked knave, who by his trickeries has taken away all my customers, so amusing himself with my misery.”
+
+Meanwhile Slimbroek spared him not at all, and each day became sharper in speech, for the more wrong he did to the good smith the more hate he bore him.
+
+And Smetse swore to have his revenge on him, in such a way as to spoil thenceforward his taste for mockery.
+
+It so happened that one Sunday when he was standing on the Quai des Bateliers, looking at the river with a crowd of watermen, townsfolk, boys, and scholars who were idle for the holy day, suddenly there came out of a pothouse, wherein he had been swallowing many pints of ale, Slimbroek, bolder than usual on account of the drink. Seeing Smetse he came and placed himself close to him, and with much gesticulation, loud bursts of talk and laughter, said to him in an insolent tone: “Good day, Smetse, good day, my worthy friend. How is thy fine face? It seems to lose its fat, which was of good quality, Smetse. ’Tis a great pity. What is the reason for it? Art thou angry at the loss of thy customers, Smetse? Thou must drink well to bring back the joy to thy stomach, Smetse. We never see thee now at vespers in the inn of Pensaert; why, Smetse? Hast no pennies to get drink? I have plenty for thee, if thou wilt, Smetse.” And he shook his money-bag to make it ring.
+
+“Thank thee kindly,” said Smetse, “thou art too generous, Master Slimbroek, ’tis my turn to stand thee drink now.”
+
+“Ah,” cried Slimbroek, feigning pity and compassion, “why wilt thou stand drink to me? The world knows thou art not rich, Smetse.”
+
+“Rich enough,” answered the smith, “to stand thee the best draught thou ever had.”
+
+“Hark to him,” said Slimbroek to the crowd of watermen and townsfolk, “hark to him. Smetse will stand us drink! The world is coming to an end. ’Tis the year of golden rags. Smetse will stand us drink! Ah! I shall taste with great pleasure the bruinbier that Smetse will stand us. I am thirsty as an African desert, thirsty as Sunday, thirsty as a devil half-boiled in the cauldrons of Lucifer.”
+
+“Drink then, Slimbroek,” said Smetse, and threw him into the river.
+
+Seeing this the people who were on the quay applauded heartily, and all ran to the edge to have a good look at Slimbroek, who, falling into the water head first, had struck and broken through the belly of a dog a long while dead, which was floating down on the stream as such carrion will. And he was tricked out round the neck with this dog in a most marvellous manner, nor could he get rid of it, being busy with his arms at keeping himself afloat, and his face was smeared all over with offensive matter.
+
+Notwithstanding that he was half-blinded, he dared not come out on to the quay where Smetse was, but swam off towards the other bank, decked with his carrion and blowing like a hundred devils.
+
+“Well,” said Smetse, “dost find the bruinbier to thy liking; is it not the best in all the land of Flanders? But my good sir, take off thy bonnet to drink; such headgear is not worn for river parties.”
+
+When Slimbroek was in midstream, over against the bridge, Smetse went up on to this bridge with the other onlookers, and Slimbroek, in the midst of his puffing and snorting, cried out to Smetse: “I’ll have thee hanged, accursed reformer!”
+
+“Ah,” said the good smith, “you are mistaken, my friend; ’tis not I who am the reformer, but you, who devise these new bonnets. Where got you this one? I have never seen such a one, neither so beautiful, nor so richly ornamented with tufts and hangings. Is the fashion coming to Ghent by and by?”
+
+Slimbroek answered nothing, and struggled to get rid of the dead dog, but in vain, and having paused in his swimming for this purpose, went down to the bottom, and came up again more furious than ever, blowing harder, and trying all the while to tear off the body.”
+
+“Leave your hat on, my master,” said Smetse, “do not so put yourself out in order to salute me, I am not worth the trouble. Leave it on.”
+
+At last Slimbroek climbed out of the water. On the quay he shook off the dog hastily and made away as fast as he could to his dwelling. But he was followed by a crowd of young watermen and boys, who ran after him hooting, whistling, covering him with mud and other filth. And they continued to do the same to his house-front after he had gone in.
+
+### Of the two branches
+
+In this wise Smetse had his revenge on Slimbroek, who thereafter dared not look him in the face, and hid when he passed.
+
+But the good smith, nevertheless, had no more pleasure in anything than before, for with every passing day he became more and more needy, having already, with his wife, used up what help came to them from the guild, and also a small sum of silver from Middelburg in Walcheren.
+
+Ashamed to get his living by begging and knavery, and knowing how to bear with his lot no longer, he resolved to kill himself.
+
+So one night he left his house, and went out to the moats of the town, which are bordered by fine trees, forked and spreading down to the ground. There he fastened a stone to his neck, commended his soul to God, and, stepping back three paces to get a better start, ran and jumped.
+
+But while he was in the very act he was caught suddenly by two branches, which, falling upon his shoulders, gripped him like man’s hands and held him fast where he was. These branches were neither cold nor hard, as wood naturally is, but supple and warm. And he heard at the same instant a strange and scoffing voice saying: “Where goest thou, Smetse?”
+
+Smetse caught by the Two Branches
+
+But he could not answer by reason of his great astonishment.
+
+And although there was no wind the trunks and branches of the tree moved and swung about like serpents uncoiling, while all around there crackled above ten hundred thousand sparks.
+
+And Smetse grew more afraid, and a hot breath passed across his face, and the voice, speaking again, but nearer, or so it seemed, repeated: “Where goest thou, Smetse?”
+
+But he could not speak for fear, and because his throttle was dry and his teeth chattering.
+
+“Why,” said the voice, “dost not dare answer him who wishes thee naught but well? Where goest thou, Smetse?”
+
+Hearing so pleasant and friendly a speech, the good smith took heart and answered with great humility: “Lord whom I cannot see, I was going to kill myself, for life is no longer bearable.”
+
+“Smetse is mad,” said the voice.
+
+“So I am, if you will, Lord,” answered the smith; “nevertheless when my smithy is lost to me by the cunning of a wicked neighbour, and I have no way to live but by begging and knavery, ’twould be greater madness in me to live than to die.”
+
+“Smetse,” said the voice, “is mad to wish himself dead, for he shall have again, if he will, his fair smithy, his good red fire, his good workmen, and as many golden royals in his coffers as he sees sparks in this tree.”
+
+“I,” exclaimed the smith in great delight, “shall never have such fine things as that! They are not for such miserables as I.”
+
+“Smetse,” said the voice, “all things are possible to my master.”
+
+“Ah,” said the smith, “you come from the devil, Lord?”
+
+“Yes,” answered the voice, “and I come to thee on his account to propose a bargain: For seven years thou shalt be rich, thou shalt have thy smithy the finest in the town of Ghent; thou shalt win gold enough to pave the Quai aux Oignons; thou shalt have in thy cellars enough beer and wine to wet all the dry throttles in Flanders; thou shalt eat the finest meats and the most delicate game; thou shalt have hams in plenty, sausages in abundance, mince-pies in heaps; every one shall respect thee, admire thee, sing thy praises; Slimbroek at the sight of it shall be filled with rage; and for all these great benefits thou hast only to give us thy soul at the end of seven years.”
+
+“My soul?” said Smetse, “’tis the only thing I have; would you not, My Lord Devil, make me rich at a less price?”
+
+“Wilt thou or wilt thou not, smith?” said the voice.
+
+“Ah,” answered Smetse, “you offer me things that are very desirable, even, My Lord Devil (if I may say it without offence), more than I wish; for if I might have only my forge and enough customers to keep the fire alight I should be happier than My Lord Albert or Madam Isabella.”
+
+“Take or leave it, smith,” said the voice.
+
+“Lord Devil,” answered Smetse, “I beg you not to become angry with me, but to deign to consider that if you give me but my forge, and not all this gold, wine, and meats, you might perhaps be content to let my soul burn for a thousand years, which time is not at all to be compared with the great length of all eternity, but would seem long enough to whomever must pass it in the fire.”
+
+“Thy forge for thee, thy soul for us; take or leave it, smith,” said the voice.
+
+“Ah,” lamented Smetse, “’tis dear bought, and no offence to you, Lord Devil.”
+
+“Well then, smith,” said the voice, “to riches thou preferest beggary? Do as thou wilt. Ah, thou wilt have great joy when, walking with thy melancholy countenance about the streets of Ghent, thou art fled by every one and dogs snap at thy heels; when thy wife dies of hunger, and thou chantest mea culpa in vain; then when, alone in the world, thou beatest on thy shrunken belly the drum for a feast, and the little girls dancing to such music give thee a slap in the face for payment; then, at last, when thou dost hide thyself in thy house so that thy rags shall not be seen in the town, and there, scabby, chatter-tooth, vermin-fodder, thou diest alone on thy dung-hill like a leper, and art put into the earth, and Slimbroek comes to make merry at thy downfall.”
+
+“Ah,” said Smetse, “he would do it, the knave.”
+
+“Do not await this vile end,” said the voice, “it were better to die now: leap into the water, Smetse; leap, Smee.”
+
+“Alas,” lamented he, “if I give myself to you, I shall burn for all eternity.”
+
+“Thou wilt not burn,” said the voice, “but serve us for food, good smith.”
+
+“I?” cried Smetse, much frightened at these words, “do you think to eat me down there? I am not good for eating, I must tell you. There is no meat more sour, tough, common, and vulgar than mine is. It has been at one time and another diseased with plague, itch, and other vile maladies. Ah, I should make you a shabby feast, you and the others, My Lord Devil, who have in hell so many souls which are noble, succulent, tasty, and well-fed. But mine is not at all good, I declare.”
+
+“Thou art wrong, smith,” said the voice. “Souls of wicked emperors, kings, princes, popes, famous captains of arms, conquerors, slayers of men, and other brigands, are always as hard as an eagle’s beak; for so their omnipotence fashions them; we break our teeth off bit by bit in eating them. Others, having been eaten up beforehand by ambition and cruelty, which are like ravenous worms, give us hardly a crumb to pick. Souls of girls who, without want or hunger, sell for money what nature bids them give for nothing, are so rotten, putrid, and evil-smelling that the hungriest of devils will not touch them. Souls of vain men are bladders, and within there is nothing but wind; ’tis poor food. Souls of hypocrites, canters, liars, are like beautiful apples without, but beneath the skin are full of bile, gall, sour wine, and frightful poison; none of us will have any ado with them. Souls of envious men are as toads, who from spleen at being so ugly, run yellow spittle on whatever is clean and shining, from mouth, feet, and all their bodies. Souls of gluttons are naught but cow-dung. Souls of good drinkers are always tasty, and above all when they have about them the heavenly smell of good wine and good bruinbier . But there is no soul so tasty, delectable, succulent, or of such fine flavour as that of a good woman, a good workman, or a good smith such as thou. For, working without intermission, they have no time for sin to touch and stain them, unless it be once or twice only, and for this reason we catch them whenever we can; but ’tis a rare dish, kept for the royal table of My Lord Lucifer.”
+
+“Ah,” said Smetse, “you have made up your mind to eat me, I see well enough; nevertheless ’twould not cost you much to give me back my forge for nothing.”
+
+“’Tis no great discomfort,” said the voice, “to be so eaten, for My Lord and King has a mouth larger than had the fish whereby Jonah the Jew was swallowed in olden time; thou wilt go down like an oyster into his stomach, without having been wounded by his teeth in any wise; there, if it displease thee to stay, thou must dance with feet and hands as hard as thou canst, and My Lord will at once spit thee out, for he will not find it possible to stand for long such a drubbing. Falling at his feet thou wilt show him a joyous face, a steady look in his eyes, and a good countenance, and the same to Madam Astarte, who, without a doubt, will take thee for her pet, as she has done already to several; thereafter thou wilt have a joyous time, serving My Lady merrily and brushing his hair for My Lord; as for the rest of us, we shall be right glad to have you with us, for, among all these familiar vile and ugly faces of conquerors, plunderers, thieves, and assassins, ’twill do us good to see the honest countenance of a merry smith, as thou art.”
+
+“My Lord Devil,” said Smetse, “I do not merit such honour. I can well believe, from what you tell me, that ’tis pleasant enough down there with you. But I should be ill at ease, I must tell you, being naturally uncouth in the company of strangers; and so I should bring no joy with me, and should not be able to sing; and therefore you would get but poor amusement from me, I know in advance. Ah, give me back rather my good forge and my old customers, and hold me quit; this would be the act of a royal devil and would sit well upon you.”
+
+Suddenly the voice spoke with anger: “Smith, wilt thou pay us in such ape’s coin? Life is no longer of benefit to thee, death is abhorrent, and thou wouldst have from us without payment the seven full, rich and joyous years which I offer thee. Accept or refuse, thy forge for thee, thy soul for us, under the conditions I have told thee.”
+
+“Alas,” said Smetse, “then I will have it so, since it must be, Lord Devil!”
+
+“Well then,” said the voice, “set thy mark in blood to this deed.”
+
+And a black parchment, with a crow’s quill, fell from the tree at the smith’s feet. He read on the parchment, in letters of fire, the pact of seven years, opened his arm with his knife, and signed with the crow’s quill. And while he was still holding the parchment and the quill, he felt them suddenly snatched from his hands with violence, but he saw nothing, and only heard a noise as of a man running in slipper-shoes, and the voice saying as it went into the distance: “Thou hast the seven years, Smetse.” And the tree ceased its swaying, and the sparks in the branches went out.
+
+### Of the flaming ball, of the forge relit, and of the terrible great buffet which the man with the lantern gave to Smetse’s wife
+
+Smetse, greatly amazed, rubbed his eyes, thinking he was dreaming. Suddenly shaking himself: “This devil,” said he, “was he not making fun of me after all? Have I verily gotten my good forge back again? I will go and see.”
+
+Having said this he started running in haste, and from far away saw a great light reddening the sky above the houses, and it seemed to him that the fire sending up this light was on the Quai aux Oignons; and he said to himself: “Could that be my forge?” And he ran the faster.
+
+Coming to the quay he found it lit up as if by a sun, from the paving-stones up to the tops of the trees which stood alongside, and he said to himself: “It is my forge.”
+
+Then he was seized and shaken with joy, his legs failed him, and his breath grew short; but he kept running as hard as he could, and coming at last to his house he saw his smithy wide open as in the daytime, and at the back of it a great bright fire.
+
+Unable to contain himself at this sight he fell to dancing, leaping, and bursting out into laughter, crying: “I have my forge, my own forge! Ghent is mine!” Then he went in. Inspecting, examining, touching everything, he saw at the sides, laid out in good order, iron of all kinds: armour-iron, iron bars, plough-iron. “By Artevelde!” he said, “the devil was not lying!” And he took up a bar, and having made it red with the fire, which was done quickly, started beating it, making the hammer ring on the anvil like thunder, and crying: “Ha, so I have my good tools back again, and hear once more this good music which has so long been silent!” And while he was wiping away a tear of joy, which gave an unaccustomed wetness to his eye, he saw on a chest near by a good pewter pot standing, and beside it a fine mug, and he filled up the mug several times and drank it down with relish: “Ah,” he said, “the good bruinbier , the drink which makes men! I had lost the taste for it! How good it is!” Then he went back to hammering the iron bar.
+
+While he was making all this noise, he heard himself called by name, and looking to see whence the voice came he perceived his wife in the half-open door which led from the kitchen, thrusting through her head and looking at him with a startled face.
+
+“Smetse,” she said, “is it thou, my man?”
+
+“Yes, wife,” said he.
+
+“Smetse,” she said, “come close to me, I dare not set foot in this forge.”
+
+“And why not, wife?” said he.
+
+“Alas,” she said, clinging to him and gazing into the forge, “wert thou alone there, my man?”
+
+“Yes,” said he.
+
+“Ah,” she said, “Smetse, while you were away there were strange happenings!”
+
+“What happenings, wife?”
+
+“As I was lying in bed,” she said, “suddenly the house trembled, and a flaming ball passed across our room, went out through the door, without hurting anything, down the stairs, and into the forge, where, bursting, as I suppose, it made a noise like a hundred thunder-claps. Suddenly all the windows and doors were thrown open with a great clatter Getting out of bed, I saw the quay all lit up, as it is now. Then, thinking that our house was on fire, I came down in haste, went into the forge, saw the fire lit, and heard the bellows working noisily. In each corner the iron of different kinds arranged itself in place according to the work for which it was used; but I could see no hands moving it, though there must have been some for sure. I began to cry out in a fright, when suddenly I felt, as it were, a glove of hot leather pressed against my mouth and holding it shut, while a voice said: ‘Do not cry out, make no sound, if thou wilt not have thy husband burnt alive for the crime of sorcery.’ Nevertheless he who thus ordered me to keep silent made himself more noise than I should ever have dared, but by a miracle none of our neighbours heard it. As for me, my man, I had no more heart to make a sound, and I fled back hither into the kitchen, where I was praying to God when I heard thy voice, and dared to open the door a crack. Oh, my man, since thou art here, explain, if thou can, all this tumult.”
+
+“Wife,” answered Smetse, “we must leave that to those more learned than ourselves. Think only to obey the order of the voice: keep thy mouth shut, speak to no one of what thou hast seen to-night, and go back to thy bed, for it is still pitch-dark.”
+
+“I go,” she said, “but wilt thou not come also, my man?”
+
+“I cannot leave the forge,” said he.
+
+While he was speaking thus there came towards them, one after another, a baker carrying new-baked bread, a grocer carrying cheeses, and a butcher carrying hams.
+
+Smetse knew well enough that they were devils, from their white faces, hollow eyes, scorched hair, twisted fingers, and also from the fact that they walked with so little sound.
+
+His wife, amazed to see them coming into her house with all this food, would have stopped them, but they slipped between her hands like eels, and went into the kitchen, walking straight and silently.
+
+There, without a word spoken, the baker arranged his loaves in the pan, while the butcher and grocer put their cheeses and hams in the cool-of the cellar. And they finished their work, taking no notice of the smith’s wife, who kept crying: “’Tis not here you must bring these things; you have made a mistake, I tell you, my good men. Go elsewhither.”
+
+But they, notwithstanding her voice, arranged the loaves, meat, and cheeses quietly.
+
+This made the good woman more than ever put out, and she grew angry: “I tell you,” she exclaimed, “you have made a mistake; do you not hear me? You have made a mistake, ’tis not here you should be; I say here, with us, in this place, in the house of Smetse the beggar, who has not a farthing to his name, who will never pay you. Alas, they will not listen to me!”
+
+And crying out at the top of her voice: “Masters, you are at Smetse’s, do you not understand? Smetse the beggar! Do I not say it loud enough? Jesus, Lord, God! Smetse the needy! Smetse the ragged! Smetse the starved! Smetse who is rich in nothing but lice! Who will pay you nothing: do you hear me? Who will pay you nothing, nothing, nothing!”
+
+“Wife,” said the smith, “you are losing your head, my dear. ’Tis I who sent for these good men.”
+
+“Thou!” said his wife, “thou! but thou art mad, my man; yes, he is mad, my masters, altogether mad. Ah, ’tis thou who sent for them! ’Tis thou who sendest for loaves, hams, and cheeses in this profusion, like a rich man, when thou knowest well enough we cannot pay for them, and so showest thy bad faith!”
+
+“Wife,” answered Smetse quietly, “we are rich, and will pay for everything.”
+
+“We rich?” she said, “ah, poor beggar-man. Do I not know what is in our chest? Hast ever put thy nose in to see, any more than in the bread-pan? Art thou become the housewife? Alas, my man is mad, God help us!”
+
+Meanwhile the three men came back into the smithy.
+
+Seeing them again, the wife ran to them: “Master trades-men,” said she, “you heard me well enough, for you are not deaf, I believe; we have nothing, we can pay you nothing; take back your provisions.”
+
+But without looking at her, nor seeming to hear her, the three went off, walking stiff and silently.
+
+No sooner had they gone out than a brewer’s cart drew up at the door, and the brewer’s men came into the smithy carrying between them a great barrel full of bruinbier .
+
+“Smetse,” said his wife, “this is too much! Master brewers, this is not for us; we do not like beer at all, we drink water. Take this barrel to one of our neighbours, it is no concern of ours, I tell you.”
+
+None the less the brewer’s men took down the barrel of bruinbier into the cellar, came up again, and went out to fetch others, and placed them alongside the first to the number of twenty. The good wife, trying to stop them, was pushed aside, while Smetse could not speak for laughing, and could only draw her to his side, and so prevent her from hurting herself on the barrels, which the men were carrying from street to cellar with marvellous speed and dispatch.
+
+“Oh,” she wailed, “let me be! This is too much, Smetse! Alas! Now we are worse than beggars, we are debtors, Smetse: I shall go and throw myself into the river, my man. To run up debts to fill a famished stomach, that is shame enough; but to do so from simple gluttony, that is unbearable deceit. Canst thou not be content with bread and water got honestly with thy two hands? Art thou then become such a delicate feeder that thou must have cakes, fine cheeses, and full barrels? Smetse, Smetse, that is not like a good man of Ghent, but rather like a Spanish rogue. Oh, I shall go and drown myself, my man!”
+
+“Wife,” said Smetse, troubled at seeing her in such distress, “do not weep. ’Tis all ours, my dear, duly, and by right.”
+
+“Ah,” she said moaning, “’tis an ill thing to lose in this wise in your old age that honesty which was your only crown.”
+
+While the smith was endeavouring, but in vain, to console her, there entered a vintner followed by three-and-thirty porters, each carrying a basket full of bottles containing precious wines of great rarity, as was shown by the shape of those said bottles.
+
+When the good wife saw them she was overcome with despair, and her courage failed her: “Come in,” she said in a piteous voice, “come in, master vintners; the cellar is below. You have there a goodly number of bottles, six score for certain. That is none too much for us who are wealthy, wealthy of misery, vermin, and lice; come in, my masters, that is the door of the cellar. Put them all there, and more besides if you will.”
+
+And giving Smetse a push: “Thou art happy, no doubt,” said she, “for ’tis a fine sight for a drunkard, such as thou art, to see all this good wine coming into the house without payment. Ah, he laughs!”
+
+“Yes, wife,” said Smetse, “I laugh with content, for the wines are ours, ours the meats, ours the loaves and cheeses. Let us make merry over it together.” And he tried to embrace her: but she, shaking herself free: “Oh, oh,” she said, “he runs up debts, he tells lies, he laughs at his shame: he has all the vices, none is wanting.”
+
+“Wife,” said Smetse, “all this is ours, I tell thee again. To this amount am I paid in advance for certain large orders which have been graciously given me.”
+
+“Art thou not lying?” said she, growing a little calmer.
+
+“No,” said he.
+
+“All this is ours?”
+
+“Yes,” he said, “by the word of honour of a citizen of Ghent.”
+
+“Ah, my man, then we are henceforward out of our trouble.”
+
+“Yes, wife,” said he.
+
+“’Tis a miracle from God.”
+
+“Alas,” said he.
+
+“But these men come hither by night, against the usual custom, tell me the reason of that.”
+
+“He who knows the reason for everything,” said Smetse, “is an evil prier. Such a one am not I.”
+
+“But,” said she, “they speak never a word.”
+
+“They do not like to talk,” said Smetse, “that is clear. Or it may be that their master chose them dumb, so that they should not waste time chattering with housewives.”
+
+“Yes, that may be,” she said, while the thirty-first porter was going past, “but ’tis very strange, I cannot hear their footfalls, my man?”
+
+“They have for certain,” said Smetse, “soles to suit their work.”
+
+“But,” she said, “their faces are so pale, sad, and motionless, that they seem like faces of the dead.”
+
+“Night-birds have never a good complexion,” said Smetse.
+
+“But,” said his wife, “I have never seen these men among the guilds of Ghent.”
+
+“Thou dost not know them all,” said Smetse.
+
+“That may be, my man.”
+
+In this manner the smith and his wife held converse together, the one very curious and disturbed, the other confused and ashamed at his lies.
+
+Suddenly, as the three-and-thirtieth porter of the master-vintner was going out of the door, there rushed in in great haste a man of middling height, dressed in a short black smock, pale-haired, large-headed, wan-faced, stepping delicately, quick as the wind, stiff as a poker; for the rest, smiling continually, and carrying a lantern.
+
+The man came up to Smetse hurriedly, without speaking bade him follow, and seized him by the arm. When Smetse hung back he made him a quick sign to have no fear, and led him into the garden, whither they were followed by the good wife. There he took a spade, gave his lantern to Smetse to hold, dug in the earth rapidly and opened a great hole, pulled out of the hole a leathern bag, opened it quickly, and with a smile showed Smetse and his wife that it was full of gold coin. The good wife cried out at the sight of the gold, whereupon he gave her a terrible great buffet in the face, smiled again, saluted, turned on his heel and went off with his lantern.
+
+The good wife, knocked down by the force of the blow, and quite dazed, dared not cry out again, and only moaned softly: “Smetse, Smetse,” said she, “where art thou, my man? my cheek hurts me sorely.”
+
+Smetse went to her and picked her up, saying: “Wife, let this buffet be a lesson to thee henceforward to control thy tongue better; thou hast disturbed with thy crying all the good men who have come here this night for my good; this last was less patient than the rest and punished thee, not without good reason.”
+
+“Ah,” she said, “I did ill not to obey thee; what must I do now, my man?”
+
+“Help me,” said Smetse, “to carry the bag into the house.”
+
+“That I will,” she said.
+
+Having taken in the bag, not without some trouble, they emptied it into a coffer.
+
+“Ah,” she said, seeing the gold run out of the bag and spread itself this way and that, “’tis a fine sight. But who was this man who showed thee this sack with such kindness, and who gave me this terrible great blow?”
+
+“A friend of mine,” said Smetse, “a great discoverer of hidden treasure.”
+
+“What is his name?” said she.
+
+“That,” said Smetse, “I am not allowed to tell thee.”
+
+“But, my man...”
+
+“Ah, wife, wife,” said Smetse, “thou wilt know too much. Thy questioning will be thy death, my dear.”
+
+“Alas,” said she.
+
+### Wherein the wife of Smetse shows the great length of her tongue
+
+When the day was up, Smetse and his wife sat down together to the good loaves, the fat ham, the fine cheese, the double bruinbier , and the good wines, and so eased their stomachs, hurt a little by being such a long while hungry.
+
+Suddenly there came in all the old workmen, and they said:
+
+“ Baes Smetse, thou didst send for us; here we are, right glad to see thy fire lit up again, and to work for thee who wast always so good a master.”
+
+“By Artevelde!” said Smetse, “here they all are: Pier, Dolf, Flipke, Toon, Hendrik, and the rest. Good day, my lads!” and he gripped them by the hand, “we must drink.”
+
+While they were drinking, his wife said suddenly with a toss of the head: “But no one sent for you all! Is that not so, Smetse?”
+
+“Wife, wife,” said the smith, “wilt thou never learn to hold thy tongue?”
+
+“But,” said she, “I am speaking the truth, my man.”
+
+“Thou art speaking foolishly,” said he, “of things whereof thou knowest nothing. Stay in thy kitchen and do not come meddling in my forge.”
+
+“ Baesine , ” said Flipke, “without wishing to belie you, I must tell you that a message was sent to us in the name of the baes . For a man came in the middle of the night knocking on the doors of our houses, shouting out that we should all of us come hither without fail this morning for work of great urgency, and that for this we should each be given a royal as forfeit to our several masters. And we came, all of us, not wishing to leave our baes in the lurch.”
+
+“’Tis good of you,” said Smetse, “ye shall have the promised royal . But come with me, I will apportion to each of you the usual task.” This he did, and once again the good music of sledges beating, anvils ringing, bellows blowing, and workmen singing was heard in the forge of the good smith.
+
+Meanwhile Smetse went to his wife and said to her with great heat: “Dost think it a fine thing to gainsay me before these good men! Chattering magpie, wilt never learn to hold thy tongue? Hast not already to-night been admonished sharply enough? Must thou have more telling?”
+
+“But, Smetse,” said his wife, “I did not know that you had sent for them.”
+
+“That is no reason,” he said, “why thou shouldst give me the lie before all my workmen; canst thou not leave thy speaking until I have done, or else hold thy tongue altogether, which would be better still.”
+
+“Smetse,” said his wife, “I never saw you so angry before. Do not beat me, my man, I will be henceforward as dumb as this cheese.”
+
+“So you should,” said Smetse.
+
+“But, my man,” said she, “canst not explain to me somewhat of all these happenings?”
+
+“Sometime,” he said, and went back into his smithy.
+
+### Of Smetse the Rich
+
+That day there came to Smetse many persons, both notable and common, nobles, priests, burgesses, and peasants, to give him orders for much work, and so it went on again on other days, and all through the year.
+
+Soon the smithy became too small, and Smetse had to enlarge it by reason of the ever-growing numbers of his workmen. And the work which they did was so beautiful and so marvellously well done that the fame of it spread abroad to foreign and distant countries, and people came to see and admire it from Holland, Zeeland, Spain, Germany, England, and even from the land of the Turk.
+
+But Smetse, thinking of the seven years, was not happy at all.
+
+Soon his coffers were full of fine crusats , angelots , rose nobles , and golden jewels. But he found no pleasure in looking at all this wealth, for he thought them poor payment for giving his soul to the devil for all the length of eternity.
+
+Red Slimbroek lost all his customers, who came back one by one to Smetse. Ragged and miserable he used to come every day and lounge on the quay, watching from there the bright fire glowing in the forge of the good smith, and, so standing, he seemed dazed and stupid, like an owl watching a doit. Smetse, knowing that he was needy, sent him several customers to bring him some means of sustenance, and also more than once a gift of money. But although he thus repaid evil with good he was no longer happy, thinking of the seven years.
+
+Smetse’s wife, finding him so wealthy, bought for dinner each Sunday legs of fat mutton, geese, capons, turkeys, and other good meats; invited to her table his relatives, friends, and workmen; and then there would be a great feast, well washed down with double bruinbier . But Smetse, though he ate and drank like an emperor, was not at all happy, thinking of the seven years. And the steam from the roast meats spread abroad on the Quai aux Oignons, so fragrant and succulent, and so sweetening the air, that all the dogs wandering in the streets of the town would stop before the house and sniff at the smell, and there on their haunches, nose in air, would wait for crumbs: and the beggars, of whom there were great numbers, came thither likewise and tried to drive away the dogs. Thereupon ensued furious battles, in which many were badly bitten. Seeing this, Smetse’s wife and other women would come every Sunday to the door with baskets of alms, and there, before the meal began, would give the beggars good bread, slices of meat, and two farthings to get themselves drink, and all this with soft words and fair speaking; then they charged them to go away from the quay, which they did in an orderly manner. But the dogs stayed behind, and at the end of the feast there was given to them likewise food of some sort. And then they would go off also, taking each his bone or other booty.
+
+Smetse and his wife together took both dogs and men into their affection; to the beggars he gave food and shelter; and so also to all the dogs of Ghent that were lame, infirm, or sickly, until at length his house came to be called the Dogs’ Hospital and the Home of the Poor.
+
+Nevertheless he was not at all happy, thinking of the seven years.
+
+Worn and troubled with these thoughts, Smetse stopped singing and lost his fat, shrivelled visibly, became melancholy and moody, and in his smithy said never a word, except to give a necessary order.
+
+And he was no longer called Smetse the Merry , but Smetse the Rich .
+
+And he counted the days.
+
+### How there came a ragged, wayfarer to Smetse’s door, and with him, on an ass, a sweet wife and a little child
+
+On the two hundred and forty-fifth day of the seventh year, when the plum-trees were in bloom, Smetse, dumb as a stone, was taking a little noonday rest. He sat on a wooden bench opposite his door, and with melancholy mien looked at the trees planted all along the quay, and the small birds playing among the branches or squabbling and pecking one another over some morsel of food, and blinked in the bright sun which made these birds so merry, and heard at his back the goodly sounds of his forge, his wife preparing dinner, and his workmen hurrying at their work so that they might be off to their meal, for it was nearing the time; and he said to himself that in hell he would see neither the sun, nor the birds, nor the trees with their load of green leaves, nor hear any more the sounds of his forge, nor the smiths hurrying, nor his good wife preparing dinner.
+
+By and by the workmen came out, and Smetse was left sitting alone on his bench, pondering in his mind whether there were not some way whereby he might outwit the devil.
+
+Suddenly there drew up at his door a man of piteous appearance, with brown hair and beard, dressed like a ragged townsman, and carrying a great staff in his hand. He was walking beside an ass, and leading it along by a rein. On the ass rode a sweet and beautiful young woman with a noble mien, suckling a little child, who was quite naked, and of such gentle and winsome countenance that the sight of it warmed Smetse’s heart.
+
+The ass stopped at the door of the smithy and began to bray loudly.
+
+“Master smith,” said the man, “our ass has cast one of his shoes on his way hither, wilt thou be pleased to give orders that another should be given him?”
+
+“I will do it myself,” said Smetse, “for I am alone here.”
+
+“I should tell thee,” said the man, “that we are beggars, without money.”
+
+“Have no care for that,” said Smetse, “I am rich enough to be able to shoe in silver without payment all the asses in Flanders.”
+
+Hearing this the woman alighted from the ass and asked Smetse if she might sit down on the bench.
+
+“Yes,” said he.
+
+And while he was fastening up the beast, paring his hoof and fitting the shoe, he said to the man: “Whence come you, with this woman and this ass?”
+
+“We come,” said the man, “from a distant country, and have still far to go.”
+
+“And this child whom I see naked,” said Smetse, “does he not oftentimes suffer from the cold?”
+
+“Nay,” said the man, “for he is all warmth and all life.”
+
+“Well, well,” said Smetse, “you do not cry down your own children, master. But what is your meat and drink while you are travelling in this manner?”
+
+“Water from streams,” said the man, “and such bread as is given us.”
+
+“Ah,” said Smetse, “that is not much, I see, for the ass’s panniers are light. You must often go hungry.”
+
+“Yes,” said the man.
+
+“This,” said Smetse, “is displeasing to me, and it is most unwholesome for a nursing mother to suffer hunger, for so the milk turns sour, and the child grows in sickly wise.” And he called out to his wife: “Mother, bring hither as many loaves and hams as will fill the panniers of this beast. And do not forget some double bruinbier , ’tis heavenly comfort for poor travellers. And a good peck of oats for the ass.”
+
+When the panniers were filled and the beast shod, the man said to Smetse: “Smith, it is in my mind to give thee some recompense for thy great goodness, for such as thou seest me I have great power.”
+
+“Yes,” said Smetse, with a smile, “I can see that well enough.”
+
+“I am,” said the man, “Joseph, nominal husband of the very blessed Virgin Mary, who is sitting on this bench, and this child that she has in her arms is Jesus, thy Saviour.”
+
+Smetse, dumbfounded at these words, looked at the wayfarers with great astonishment, and saw about the man’s head a nimbus of fire, a crown of stars about the woman’s, and, about the child’s, beautiful rays more brilliant than the sun, springing from his head and girdling him round with light.
+
+Thereupon he fell at their feet and said: “My Lord Jesus, Madam the Virgin, and my Master St. Joseph, grant me pardon for my lack of understanding.”
+
+To this St. Joseph replied: “Thou art an honest man, Smetse, and righteous as well. For this reason I give thee leave to make three requests, the greatest thou canst think of, and my Lord Jesus will listen to them favourably.”
+
+At these words Smetse was filled with joy, for it seemed to him that in this way he might perhaps escape the devil; but at the same time he did not dare to avow that he had traded his soul away. So he remained in silence for a few moments, thinking of what things he could ask, then suddenly said, with great respect: “My Lord Jesus, Madam St. Mary, and you, Master St. Joseph, will you please to enter my dwelling? There I can tell you what boons I ask.”
+
+“We will,” said St. Joseph.
+
+“Mother,” said Smetse to his wife, “come hither and look to the ass of these noble lords.”
+
+And Smetse went in before them, sweeping the threshold so that there should be no dust to touch the soles of their feet.
+
+And he took them into his garden, where there was a fine plum-tree in full blossom. “My Lord, Madam, and Sir,” said Smetse, “will it please you to order that whosoever shall climb up into this plum-tree shall not be able to come down again unless I so desire?”
+
+“It will,” said St. Joseph.
+
+In Smetse’s Garden
+
+Thence he led the way into the kitchen, where there stood a great and precious arm-chair, well padded in the seat, and of enormous weight.
+
+“My Lord, Madam, and Sir,” said Smetse, “will it please you that whosoever shall sit in this chair shall not be able to rise unless I so desire?”
+
+“It will,” said St. Joseph.
+
+Then Smetse fetched a sack, and, showing it to them, said: “My Lord, Madam, and Sir, will it please you that, whatsoever his stature, man or devil shall be able to get into this sack, but not out again, unless I so desire?”
+
+“It will,” said St. Joseph.
+
+“My Lord, Madam, and Sir,” said Smetse, “thanks be unto you. Now that I have made my three requests I have naught else to ask of your goodness, save only your blessing.”
+
+“We will give it,” said St. Joseph.
+
+And he blessed Smetse, and thereafter the holy family went upon their way.
+
+### What Smetse did in order to keep his secret
+
+The good wife had heard nothing of what was said to her man by the celestial wayfarers, and she was amazed to see the behaviour and hear the speech of the good smith. But she was more so than ever when, on the departure of the all-powerful visitors, Smetse began to give forth bursts of laughter, to rub his hands, take hold of her, thump her on the chest, twist her this way and that, and say in a triumphant tone: “It may be, after all, that I shall not burn, that I shall not roast, that I shall not be eaten! Art not glad of it?”
+
+“Alas,” she said, “I cannot understand what you are talking about, my man; have you gone mad?”
+
+“Wife,” said Smetse, “do not show me the whites of thine eyes in this pitiful manner, ’tis no time for that. Canst not see how light my heart has grown? ’Tis because I have got rid of a burden on my shoulders heavier than the belfry itself; I say this belfry, our own, with the dragon taken from that of Bruges. And I am not to be eaten. By Artevelde! my legs bestir themselves of their own accord at the thought of it. I dance! Wilt not do likewise? Fie, moody one, brewing melancholy when her man is so happy! Kiss me, wife, kiss me, mother, for my proficiat ; and so thou shouldst, for instead of despair I have found a good and steadfast hope. They think to roast me with sauces and feast off my flesh to their fill. I will have the laugh of them. Dance, wife, dance!”
+
+“Ah, Smetse,” said she, “you should take a purge, my man; they say ’tis good for madness.”
+
+“Thou,” he said, tapping her on the shoulder with great affection and tenderness, “talkest boldly.”
+
+“Hark,” said she, “to the good doctor preaching reason to me! But wert thou mad or not, Smetse, doffing thy bonnet as thou did to those beggars who came hither sowing their lice; giving to me, thy wife, their ass to hold; filling their hampers with our best bread, bruinbier , and ham; falling on thy knees before them to have their blessing, and treating them like archdukes, with a torrent of My Lords, Sirs, and Madams.”
+
+At these words Smetse saw well enough that the lordly wayfarers had not wished to discover themselves to any but he. “Wife,” he said, “thou must not question me further, for I can tell thee nothing of this mystic happening, which it is not given thee to understand.”
+
+“Alas,” said she, “then ’tis worse than madness, ’tis mystery. Thou dost ill to hide thyself from me in this wise, Smetse, for I have always lived in thy house, faithful to thee only, cherishing thine honour, husbanding thy wealth, neither lending nor borrowing, holding my tongue in the company of other wives, considering thy secrets as mine own and never breathing a word of them to any one.”
+
+“I know it,” said Smetse, “thou hast been a good and true wife.”
+
+“Then why,” said she, “knowing this, hast thou not more faith in me? Ah, my man, it hurts me; tell me the secret, I shall know how to keep it, I promise thee.”
+
+“Wife,” said he, “knowing nothing thou wilt be able to hold thy tongue the more easily.”
+
+“Smetse,” said she, “wilt thou verily tell me nothing?”
+
+“I cannot,” said he.
+
+“Alas,” said she.
+
+By and by the workmen came back, and Smetse gave each of them a good royal to get themselves drink.
+
+Whereat they were all so merry, and felt themselves so rich, that for three days none of them put his nose into the smithy, save one old man who was too withered, stiff, short of breath, and unsteady on his legs to go swimming with the others in the Lys, and afterwards drying in the sun among the tall grasses, dancing in the meadows to the music of rebecks, bagpipes, and cymbals, and at night in the tavern emptying pots and draining glasses.
+
+### Of the Bloody Councillor
+
+At length the day came on which the good smith was due to hand over his soul to the devil, for the seventh year had run out, and plums were once again ripe.
+
+At nightfall, when certain workmen were busy on a grating for the Franciscan brothers which was to be done that night, and had stayed behind with Smetse for that purpose, there came into the forge an evil-looking fellow, with greasy white hair, a rope round his neck, his jaw dropped, his tongue hanging out, and dressed in an ill-found habit like a nobleman’s servant fallen on evil days.
+
+This fellow, without being heard by any one there as he walked across the floor, came quickly up to Smetse and put his hand on his shoulder. “Smetse,” he said, “hast packed thy bundle?”
+
+Hearing this the smith swung round. “Packed,” he said, “and how does my packing concern thee, master bald-pate?”
+
+“Smetse,” replied the fellow in a harsh voice, “hast forgotten thy restored fortunes, and the good times thou hast enjoyed, and the black paper?”
+
+“No, no,” said Smetse, doffing his bonnet with great humility, “I have not forgotten; pardon me, my lord, I could not call to mind your gracious countenance. Will you be pleased to come into my kitchen, and try a slice of fat ham, taste a pot of good bruinbier , and sip a bottle of wine? We have time enough for that, for the seven years are not yet struck, but want, if I am not mistaken, still two hours.”
+
+“That is true,” said the devil; “then let us go into thy kitchen.”
+
+So they entered in and sat down to the table.
+
+The good wife was greatly astonished to see them come in. Smetse said to her: “Bring us wine, bruinbier , ham, sausages, bread, cakes, and cheeses, and the best of each that we have in the house.”
+
+“But, Smetse,” said she, “you waste the good things which God has given you. ’Tis well to come to the help of poor folk, but not to do more for one than another. Beggar-men are beggar-men, all are equal!”
+
+“Beggar-men!” exclaimed the devil, “that I am not and never was. Death to the beggar-men! To the gallows with the beggar-men!”
+
+“My lord,” said Smetse, “I beg you not to be angry with my good wife, who knows you not at all. Wife, consider and look at our guest with great attention, but greater respect, and afterwards thou mayest tell thy gossips that thou hast seen my Lord Jacob Hessels, the greatest reaper of heretics that ever was.
+
+“Ah, wife, he mowed them down grandly, and had so many of them hanged, burnt, and tortured in divers ways, that he could drown himself a hundred times in the blood of his dead. Go, wife, go and fetch him meat and drink.”
+
+While he was munching, Smetse said: “Ah, my lord, I soon recognized you by your particular way of saying: ‘To the gallows!’ and also by this rope which finished off your life in so evil a manner. For Our Lord said: ‘Whoso liveth by the rope shall perish by the rope.’ My Lord Ryhove was harsh and treacherous toward you, for besides taking your life he took also your beard, which was a fine one.
+
+“Ah, that was an evil trick to play on so good a councillor as you were in those days when you slept so quietly and peaceably in the Bloody Council—I should say the Council of Civil Disorders, speaking respectfully—and woke up only to say: ’To the gallows!’ and then went to sleep again.”
+
+“Yes,” said the devil, “those were good times.”
+
+“So they were,” said Smetse, “times of riches and power for you, my lord. Ah, we owe you a great deal: the tithe tax, dropped by you into the ear of the Emperor Charles; the arrest of my lords of Egmont and Hoorn, whereof the warrant was written in your own fair hand, and of more than two thousand persons who perished at your command by fire, steel, and rope!”
+
+“I do not know the number,” said the devil, “but it is large. Give me, Smetse, some more of this sausage, which is excellent.”
+
+“Ah,” said the smith, “’tis not good enough for your lordship. But you are drinking nothing. Empty this tankard, ’tis double bruinbier .”
+
+“Smith,” said the devil, “it is good also, but I tasted better at Pierkyn’s tavern one day when five girls of the Reformed Faith were burnt together in the market-place. That frothed better. While we were drinking we heard these five maids singing psalms in the fire. Ah, we drank well that day! But think, Smetse, of the great perversity of those maids, all young and strong, and so fast set in their crimes that they sang their psalms without complaint, smiling at the fire and invoking God in a heretical fashion. Give me more to drink, Smetse.”
+
+“But,” said Smetse, “King Philip asked for your canonization at Rome, for having served Spain and the Pope so well; why then are you not in paradise, my lord?”
+
+“Alas,” wept the devil, “I had no recognition of my former services. Those traitors of Reformers are with God, while I burn in the bottom of the pit. And there, without rest or respite, I have to sing heretical psalms; cruel punishment, unspeakable torment! These chants stick in my throat, scrape up and down in my breast, tearing my inner flesh like a bristling porcupine with iron spines. At every note a new wound, a bleeding sore: and always, always I have to keep singing, and so it will go on through all the length of eternity.”
+
+At these words Smetse was very much frightened, thinking how heavily God had punished Jacob Hessels.
+
+“Drink, my lord,” he said to him; “this bruinbier is balm to sore throttles.”
+
+Suddenly the clock struck.
+
+“Come, Smetse,” said the devil, “’tis the hour.”
+
+But the good smith, without answering, heaved a great sigh.
+
+“What ails thee?” said the devil.
+
+“Ah,” said Smetse, “I am grieved at your incontinence. Have I welcomed you so ill that you will not let me go, before I leave here, to embrace my wife a last time and bid farewell to my good workmen, and to take one more look at my good plum-tree whose fruits are so rich and juicy? Ah, I would gladly refresh myself with one or two before I go off to that land where there is always thirst.”
+
+“Do not think to escape me,” said the devil.
+
+“That I would not, my lord,” said Smetse. “Come with me, I pray you most humbly.”
+
+“Very well,” said the devil, “but not for long.”
+
+In the garden Smetse began to sigh afresh.
+
+“Ah,” he said, “look at my plums, my lord; will you be pleased to let me go up and eat my fill?”
+
+“Go up then,” said the devil.
+
+Up in the tree Smetse began to eat in a most greedy manner, and suck in the juice of the plums with a great noise. “Ah,” cried he, “plums of paradise, Christian plums, how fat you are! Princely plums, you would solace a hundred devils burning in the lowest parts of hell. By you, sweet plums, blessed plums, is thirst driven out of my throat; by you, adorable plums, gentle plums, is purged from my stomach all evil melancholy; by you, fresh plums, sugary plums, is diffused in my blood an infinite sweetness. Ah, juicy plums, joyous plums, faery plums, would that I could go on sucking you for ever!”
+
+And while he was saying all this, Smetse went on picking them, eating them and sipping the juice, without ever stopping.
+
+“Pox!” said the devil, “it makes my mouth water; why dost not throw me down some of these marvellous plums?”
+
+“Alas, my lord,” said Smetse, “that I cannot do; they would melt into water on their fall, so delicate are they. But if you will be pleased to climb up into the tree you will find much pleasure in store for you.”
+
+“Then I will,” said the devil.
+
+When he was well settled on a stout branch and there regaling himself with plums, Smetse slipped down, picked up a stick lying on the grass and fell to belabouring him with great vigour.
+
+Feeling the stick on his back the devil would have leapt down on the smith, but could not move, for the skin of his seat held fast to the branch. And he snorted, ground his teeth, and foamed at the mouth with great rage, and also by reason of the pain which his tender skin caused him.
+
+Meanwhile Smetse gave him a good drubbing, caressed with his stick every quarter of his body in turn, bruised him to the bone, tore his habit, and gave him as strong and straight a beating as was ever given in the land of Flanders. And he kept saying: “You say not a word about my plums, my lord; they are good, none the less.”
+
+“Ah,” cried Hessels, “why am I not free!”
+
+“Alas, yes! why are you not free!” answered Smetse, “you would give me to some little butcher among your friends who would cut me up freely into slices like a ham, under your learned instruction, for you are, as I know well, a doctor of torment. But are you not being well tormented in turn by my stick? Alas, yes! why are you not free! You would hoist me up on some blessed gallows, and every one would see me hanging in the air, and freely would Master Hessels laugh. And so he would have his revenge on me for this excellent drubbing which I am giving him with such freedom. For nothing in this world is so free as a free stick falling freely on an unfree councillor. Alas, yes! why are you not free! You would free my head from my body, as you did with such satisfaction to my masters of Egmont and Hoorn. Alas, yes! why are you not free! then we should see Smetse in some good little fire, which would roast him freely, as was done to the poor maids of the reformed faith; and Smetse, like them, would be heard singing with a free soul to the God of free believers, and with a free conscience stronger than the flame, while Master Hessels drank bruinbier and said that it frothed nicely.”
+
+“Oh,” said the devil, “why beat me so cruelly, without pity for my white hairs?”
+
+“As for thy white hair,” said Smetse, “’tis the hair of an old tiger who ate up our country. For this reason it gives me sweet pleasure to beat thee with this oaken stick; and also in order that thou mayst give me permission to stay another seven years on this earth, where I find myself so well content, if it so please thee.”
+
+“Seven years!” said the devil, “do not count on that; I would rather bleed under thy stick.”
+
+“Ah,” said Smetse, “I see that your skin is fond of good blows. These are tasty ones, it is true. But the best of cheer is unwholesome if taken in excess. So when you have had enough of them, be so good as to tell me. I will put a stop to this feast, but for that I must have the seven years.”
+
+“Never,” said Hessels; and lifting his snout into the air like a baying dog, he cried out: “Devils to the rescue!” But this he did so loudly, and in such screeching wise, that at the sound of his cracked voice blaring out like a trumpet, all the workmen came to see what it was about.
+
+“You do not shout loud enough,” said Smetse, “I will help you.” And he beat him the harder, so that the devil cried the louder.
+
+“See,” said Smetse, “how well this stick makes the little nightingale sing in my plum-tree. He is saying over his lied of love to call hither his fair mate. She will come by and by, my lord; but come down, I pray you, and await her below, for they say that the night dew is deadly at a height from the ground.”
+
+“ Baes ,” said certain workmen, “is it not my lord Jacob Hessels, the Bloody Councillor, who is perched up there in thy plum-tree?”
+
+“Yes, lads,” answered Smetse, “’tis indeed that worthy man. He seeks high places now as he did all his life, and so also at the end of it, when he swung in the air, putting out his tongue at the passers-by. For that which is of the gallows returns to the gallows, and the rope will take back its own. ’Tis written.”
+
+“ Baes ,” said they, “can we not help to bring him down?”
+
+“Yes,” said he. And the workmen went off to the smithy.
+
+Meanwhile the devil said nothing, trying all the time to get his seat away from the branch. And he struggled, wriggled about, twisted himself a hundred different ways, and used as levers, to lift himself up, feet, hands, and head, but all in vain.
+
+And Smetse, belabouring him well, said to him: “My lord Councillor, you are fast stuck, it seems, to the saddle; but I will have you out of it, have you out as fast as I can, for if I do not so, beating you with all my strength, you will tear up out of the ground the tree and its roots, and the good folk will see you walking along, dragging a plum-tree from your seat like a tail, which would be a piteous and laughable spectacle for such a noble devil as yourself to make. Give me rather the seven years.”
+
+“ Baes ,” said the workmen, who had returned from the smithy with hammers and iron bars, “here we are at your orders; what shall we do?”
+
+“Well,” said Smetse, “since I have combed him down with oaken staves we will now louse him with hammers and bars.”
+
+“Mercy, Smetse, mercy!” cried the devil; hammers and bars, this is too much; thou hast the seven years, smith.”
+
+“Make haste,” said Smetse, “and write me the quittance.”
+
+“Here it is,” said he.
+
+The smith took it, saw that it was in good order, and said: “I desire that thou come down.”
+
+But the devil was so weak and enfeebled by the blows he had had that when he tried to leap he fell on his back. And he went off limping, shaking his fist at Smetse, and saying: “I await thee, in seven years, in hell, smith.”
+
+“So you may,” said Smetse.
+
+### Wherein the workmen hold fair speech with Smetse
+
+While the devil was making off, Smetse, watching his workmen, saw that they were looking at one another strangely, spoke together in low voices, and seemed awkward in their manner, like people who would speak out, but dare not.
+
+And he said to himself: “Are they going to denounce me to the priests?”
+
+Suddenly Flipke the Bear came up to him. “ Baes ,” said he, “we know well enough that this ghost of Hessels was sent to thee by him who is lord below; thou hast made a pact with the devil and art rich only by his money. We have guessed as much for some time. But so that thou should not be vexed, none of us have spoken of it in the town, and none will so speak. We would tell thee this to put thy mind at rest. And so now, baes , good night and quiet sleep to thee.”
+
+“Thank you, lads,” said Smetse, greatly softened.
+
+And they went their several ways.
+
+### How that Smetse would not give his secret into his wife’s tongue’s keeping
+
+In the kitchen Smetse found his wife on her knees beating her breast, weeping, sighing, sobbing, and saying: “Jesus Lord God, he has made a pact with the devil; but ’tis not with my consent, I swear. And you also, Madam the Virgin, you know it, and you also, all my masters the saints. Ah, I am indeed wretched, not on my own account, but for my poor man, who for the sake of some miserable gold sold his soul to the devil! Alas, yes, sell it he did! Ah, my saintly masters, who are yourselves so happy and in such glory, pray the very good God for him, and deign to consider that if, as I dare hope, I die a Christian death and go to paradise, I shall be all alone there, eating my rice pudding with silver spoons, while my poor man is burning in hell, crying out in thirst and hunger, and I not able to give him either meat or drink.... Alas, that will make me so unhappy! Ah, my good masters the saints, Madam the Virgin, My Lord Jesus, he sinned but this once, and was all the rest of his life a good man, a good Christian, kind to the poor and soft of heart. Save him from the fires which burn for ever, and do not separate above those who were so long united below. Pray for him, pray for me, alas!”
+
+“Wife,” said Smetse, “thou art very wretched, it seems.”
+
+“Ah, wicked man,” said she, “now I know all. ’Twas hell fire which came bursting into the house and lit up the forge; those master-bakers, brewers, and vintners were devils, all of them, and devil also that ugly man who showed thee the treasure and gave me so grievous a buffet. Who will dare to live peaceably in this house from now on? Alas, our food is the devil’s, our drink also; devil’s meat, loaves, and cheeses, devil’s money, house, and all. Whoever should dig under this dwelling would see the fires of hell gush out incontinent. There are all the devils, I see them above, below, on the right hand, on the left, awaiting their prey with dropped jaws, like tigers. Ah, what a fine sight ’twill be to see my poor man torn into a hundred pieces by all these devils, and that in seven years, for he said, as I heard well enough, that he would come back in seven years.”
+
+“Weep not, wife,” said Smetse, “in seven years I may again be master as I was to-day.”
+
+“But,” said she, “if he had not gone up into the plum-tree, what wouldst thou have done, poor beggar-man? And what if he will not let himself fall a second time into thy snare as he did to-day?”
+
+“Wife,” said Smetse, “he will so fall, for my snares are from heaven, and the things which are from God can always get the better of devils.”
+
+“Art not lying again?” she said. “And wilt tell me what they are?”
+
+“That I cannot,” said he, “for devils have sharp ears and would hear me telling thee, no matter how low I spoke; and then I should be taken off to hell without mercy.”
+
+“Ah,” said she, “then I will not ask, though ’tis not pleasant for me to live here in ignorance of everything, like a stranger. Nevertheless I would rather have thee silent and saved than talking and damned.”
+
+“Wife,” he said, “thou art wise when thou speakest so.”
+
+“I will pray,” she said, “every day for thy deliverance, and have a good mass said for thee at St. Bavon.”
+
+“But,” said he, “is it with devil’s money thou wilt pay for this mass?”
+
+“Have no care for that,” said she, “when this money enters the church coffers ’twill become suddenly holy.”
+
+“Do as thou wilt, wife,” said Smetse.
+
+“Ah,” said she, “My Lord Jesus shall have a stout candle each day, and Madam the Virgin likewise.”
+
+“Do not forget my master St. Joseph,” said Smetse, “for we owe him much.”
+
+### Of the Bloody Duke
+
+The end of the seventh year came again in its turn, and on the last evening there crossed the threshold of Smetse Smee’s dwelling a man with a sharp and haughty Spanish face, a nose like a hawk’s beak, hard and staring eyes, and a white beard, long and pointed. For the rest he was dressed in armour finely worked and most richly gilt; decorated with the illustrious order of the Fleece; wore a fine red sash; rested his left hand on the hilt of his sword, and held in his right the seven years’ pact and a marshal’s wand.
+
+Coming into the forge he walked straight towards Smetse, holding his head loftily and without deigning to notice any of the workmen.
+
+The smith was standing in a corner, wondering how he could make the devil who was sent for him sit down in the arm-chair, when Flipke ran quickly up to him and said in his ear: “ Baes , the Bloody Duke is coming, take care!”
+
+“Woe!” said Smetse, speaking to himself, “’tis all up with me, if d’Alva has come to fetch me.”
+
+Meanwhile the devil approached the smith, showed him the pact, and took him by the arm without a word to lead him off.
+
+“My Lord,” said Smetse in a most sorrowful manner, “whither would you take me? To hell. I follow you. ’Tis too great honour for one so mean as I to be ordered by so noble a devil as yourself. But is it yet the appointed time? I think it is not, and your highness has too upright a soul to take me off before the time written in the deed. In the meantime I beg your highness to be seated: Flipke, a chair for My Lord; the best in my poor dwelling, the large, well-padded arm-chair which stands in my kitchen, beside the press, near the chimney, beneath the picture of my master St. Joseph. Wipe it well, lad, so that no dust may be left on it; and quick, for the noble duke is standing.”
+
+Flipke ran into the kitchen and came back, saying: “ Baes , I cannot lift that arm-chair alone, ’tis so heavy.”
+
+Then Smetse feigned great anger and said to his workmen: “Do ye not hear? He cannot lift it alone. Go and help him, and if it takes ten of you let ten go. And quick now. Fie! the blockheads, can ye ’not see that the noble duke is standing?”
+
+Nine workmen ran to obey him and brought the chair into the forge, though not without difficulty. Smetse said: “Put it there, behind My Lord. Is there any dust on it? By Artevelde! they have not touched this corner. I will do it myself. Now ’tis as clean as new-washed glass. Will your highness deign to be seated?”
+
+This the devil did, and then looked round him with great haughtiness and disdain. But of a sudden the smith fell at his feet, and said with mocking laughter: “Sir duke, you see before you the most humble of your servants, a poor man living like a Christian, serving God, honouring princes, and anxious, if such is your lordly pleasure, to continue in this way of life seven years more.”
+
+“Thou shalt not have one minute,” said the devil, “come, Fleming, come with me.”
+
+And he tried to rise from the chair, but could not. And while he was struggling with might and main, making a thousand vain efforts, the good smith cried joyously: “Would your highness get up? Ah, ’tis too soon! Let your highness wait, he is not yet rested after his long journey; long, I make bold to say, for it must be a good hundred leagues from hell to my smithy, and that is a long way for such noble feet, by dusty roads. Ah, My Lord, let yourself rest a little in this good chair. Nevertheless, if you are in great haste to be off, grant me the seven years and I will give you in return your noble leave and a full flask of Spanish wine.”
+
+“I care nothing for thy wine,” answered the devil.
+
+“ Baes ,” said Flipke, “offer him blood, he will drink then.”
+
+“My lad,” said Smetse, “thou knowest well enough we have no such thing as blood in our cellars hereabouts, for that is no Flemish drink, but one that we leave to Spain. Therefore his highness must be so good as to excuse me. Nevertheless, I think he is thirsty, not for blood, but for blows, and of those I will give him his illustrious fill, since he will not grant me the seven years.”
+
+“Smith,” said the devil, looking at Smetse with great contempt, “thou wouldst not dare beat me, I think?”
+
+“Yes, My Lord,” said the good man. “You would have me dead. For my part I hold to my skin, and this not without good reason, for it has always been faithful to me and well fastened. Would it not be a criminal act to break off in this sudden fashion so close a partnership? And besides, you would take me off with you to hell, where the air is filled with the stench of the divers cookeries for damned souls which are set up there. Ah, rather than go thither I would beat your highness for seven years.”
+
+“Fleming,” said the devil, “thou speakest without respect.”
+
+“Yes, My Lord,” said Smetse, “but I will hit you with veneration.”
+
+And so saying he gave him with his clenched fist a terrible great blow on the nose, whereat the devil seemed astonished, dazed, and angry, like a powerful king struck by a low-born servant. And he tried to leap upon the smith, clenched his fists, ground his teeth, and shot out blood from his nose, his mouth, his eyes, and his ears, so angry was he.
+
+“Ah,” said Smetse, “you seem angry, My Lord. But deign to consider that since you will not listen to my words, I must speak to you by blows. By this argument am I not doing my best to soften your heart to my piteous case? Alas, deign to consider that my humble fist is making its supplication as best it can to your illustrious eyes, begs seven years from your noble nose, implores them from your ducal jaw. Do not these respectful taps tell your lordly cheeks how happy, joyous, and well-liking I should be during those seven years? Ah, let yourself be convinced. But, I see, I must speak to you in another fashion, with the words of iron bars, the prayers of tongs, and the supplications of sledge-hammers. Lads,” said the smith to his workmen, “will you be pleased to hold converse with My Lord?”
+
+“Yes, baes ,” said they.
+
+And together with Smetse they chose their tools. But it was the oldest who picked the heaviest ones, and were the hottest with rage, because it was they who in former days had lost, through the duke’s doing, many friends and relatives by steel, by stake, and by live burial, and they cried: “God is on our side, he has delivered the enemy into our hands. Out upon the Bloody Duke, the master-butcher, the lord of the axe!”
+
+And all of them, young and old, cursed the devil with a thunder of cries; and they came up to him menacingly, surrounding the chair and raising their tools to strike.
+
+But Smetse stopped them and spoke again to the devil. “If your highness,” he said, “is minded to hold to his noble bones, let him deign to grant me the seven years, for the time for laughter is past, let me tell you.”
+
+“ Baes ,” said the workmen, “whence comes to thee this kindness beyond measure? Why hold so long and fair parley with this fellow? Let us first break him up, and then he will offer thee the seven years of his own accord.”
+
+“Seven years!” said the devil, “seven years! he shall not have so much as the shadow of a minute. Strike, men of Ghent, the lion is in the net; ye who could not find a hole deep enough to hide yourselves in when he was free and showed his fangs. Flemish cowards, see what I think of you and your threats.” And he spat on them.
+
+At this spittle the bars, hammers, and other tools fell on him thick as hail, breaking his bones and the plates of his armour, and Smetse and his workmen said as they beat to their hearts’ content:
+
+“Cowards were we, who wished to worship God in the sincerity of our hearts; valiant was he who prevented us with steel, stake, and live burial.
+
+“Cowards were we for having always laughed readily and drunk joyously, like men who, having done what they had to do, make light of the rest: valiant was this dark personage when he had poor men of the people arrested in the midst of their merrymaking at Kermis -time and put death where had been laughter.
+
+“Cowards were the eighteen thousand eight hundred persons who died for the glory of God; cowards those numberless others who by the rapine, brutality and insolence of the fighting men, lost their lives in these lands and others. Valiant was he who ordained their sufferings, and more valiant still when he celebrated his own evil deeds by a banquet.
+
+“Cowards were we always, we who, after a battle, treated our prisoners like brothers; valiant was he who, after the defeat in Friesland, had his own men slaughtered.
+
+“Cowards were we, who laboured without ceasing, spreading abroad over the whole world the work of our hands; valiant was he when, under the cloak of religion, he slew the richer among us without distinction between Romans and Reformers, and robbed us by pillage and extortion of thirty-six million florins. For the world is turned upside down; cowardly is the busy bee who makes the honey, and valiant the idle drone who steals it away. Spit, noble duke, on these Flemish cowards.”
+
+But the duke could neither spit nor cough, for from the roughness of the blows they had given him he had altogether lost the shape of a man, so mingled and beaten together were bones, flesh, and steel. But there was no blood to be seen, which was a marvellous thing. Suddenly, while the workmen, wearied with beating, were taking breath, a weak voice came out from this hotch-potch of bones, flesh, and steel, saying:
+
+“Thou hast the seven years, Smetse.”
+
+“Very well then, My Lord,” said he, “sign the quittance.”
+
+This the devil did.
+
+“And now,” said Smetse, “will your highness please to get up.”
+
+At these words, by great marvel, the devil regained his shape. But while he was walking away, holding up his head with great haughtiness and not deigning to look at his feet, he tripped over a sledge lying on the ground, and fell on his nose with great indignity, thereby giving much occasion for laughter to the workmen, who did not fail to make use of it. Picking himself up he threatened them with his fist, but they burst out laughing more loudly than ever. He came at them, grinding his teeth; they hooted him. He tried to strike with his sword a short and sturdy little workman; but the man seized the sword from his hands and broke it in three pieces. He struck another in the face with his fist, but the man gave him so good and valiant a kick as to send him sprawling on the quay with his legs in the air. There, flushing with shame, he melted into red smoke, like a vapour of blood, and the workmen heard a thousand joyous and merry voices, saying: “Beaten is the Bloody Duke, shamed is the lord of the axe, inglorious the prince of butchers! Vlaenderland tot eeuwigheid! Flanders for ever!” And a thousand pairs of hands beat applause all together. And the dawn broke.
+
+### Of the great fears and pains of Smetse’s wife
+
+Smetse, going to look for his wife, found her in the kitchen on her knees before the picture of St. Joseph. “Well, mother,” said he, “what didst think of our dance? Was it not a merry one? Ah, henceforth they will call our house the House of Beaten Devils.”
+
+“Yes,” said his wife, wagging her head, “yes, and also the house of Smetse who was carried away to hell. For that is where thou wilt go; I know it, I feel it, I foretell it. This devil’s coming all accoutred for war presages evil. He will come back, no longer alone, but with a hundred thousand devils armed like himself. Ah, my poor man! They will carry lances, swords, pikes, hooked axes, and arquebuses. They will drag behind them canon which they will fire at us; and everything will be ground to pieces, thou, I, the smithy, and the workmen. Alas, everything will be levelled to the ground! And where our smithy now stands will be nothing but a sorry heap of dust. And the folk walking past along the quay will say when they see this dust: ‘There lies the house of Smetse, the fool who sold his soul to the devil.’ And I, after dying in this fashion, shall go to Paradise, as I dare to hope. But thee, my man, oh, woe unspeakable! they will take away with them and drag through fire, smoke, brimstone, pitch, boiling oil, to that terrible place where those are punished who, wishing to break a pact made with the devil, have no special help from God or his holy saints. Poor little man, my good comrade, dost know what there is in store for thee? Ho, a gulf as deep as the heavens are high, and studded all down its terrible sides with jutting points of rock, iron spikes, horrid spears, and a thousand dreadful pikes. And dost know what manner of gulf this is, my man? ’Tis a gulf wherein a man may keep falling always—dost understand me, always, always—gashed by the rocks, cut about by the spears, torn open by the pikes, always, always, down all the long length of eternity.”
+
+“But, wife,” said Smetse, “hast ever seen this gulf whereof thou speakest?”
+
+“Nay,” said she, “but I know what manner of place it is, for I have often heard tell of it in the church of St. Bavon. And the good canon predicant would not lie.”
+
+“Ah, no,” said Smetse.
+
+### Of the Bloody King
+
+When the last night of the seventh year was come Smetse was in his smithy, looking at the enchanted sack, and asking himself with much anxiety how he could make the devil get into it.
+
+While he was wondering, the smithy suddenly became filled with an evil stench of the most putrid, offensive and filthy kind. Innumerable lice swarmed over the threshold, ceiling, anvils, sledges, bars and bellows, Smetse and his men, who were all as if blinded, for these lice were as thick in the smithy as smoke, cloud, or fog.
+
+And a melancholy but imperative voice spoke, saying: “Smetse, come with me; the seven years have struck.”
+
+And Smetse and his workmen, looking as well as they could in the direction whence the voice came, saw a man coming towards them with a royal crown on his head, and on his back a cloak of cloth-of-gold. But beneath the cloak the man was naked, and on his breast were four great abscesses, which formed together a single wide sore, and from this came the stench which filled the smithy, and the clouds of lice which swarmed round about. And he had on his right leg another abscess, more filthy, rank, and offensive than the rest. The man himself was white-faced, auburn-haired, red-bearded, with lips a little drawn, and mouth open somewhat. In his grey eyes were melancholy, envy, dissimulation, hypocrisy, harshness, and evil rancour.
+
+When the older workmen saw him they cried out in a voice like thunder: “Smetse, the Bloody King is here, take care!”
+
+“Silence,” cried the smith, “peace there, silence and veneration! Let every man doff his bonnet to the greatest king that ever lived, Philip II by name, King of Castile, Leon, and Aragon, Count of Flanders, Duke of Burgundy and Brabant, Palatine of Holland and Zeeland, most illustrious of all illustrious princes, great among the great, victorious among victors. Sire,” said he to the devil, “you do me unparalleled honour to come hither in person to lead me to hell, but my humble Ghentish lowness makes bold to suggest to your Royal and Palatine Highness that the appointed hour has not yet struck. Therefore if it pleases your Majesty I will pass on earth the brief time which is still left to me to live.”
+
+“I allow it,” said the devil.
+
+Meanwhile Smetse seemed unable to take his eyes off the devil, and showed himself very sorrowful and heavy, nodding his head, and saying several times:
+
+“Alas, alas! cruel torment! evil hour!”
+
+“What ails thee?” said the devil.
+
+“Sire,” said Smetse, “nothing ails me but the great sorrow which I have at seeing how harsh God has been towards you, leaving you to bear in hell the malady whereof you died. Ah, ’tis a most pitiful sight to see so great a king as you consumed by these lice and eaten up with these abscesses.”
+
+“I care nothing for thy pity,” answered the king.
+
+“Sire,” said Smetse further, “deign to think no evil of my words. I have never been taught fine ways of speech; but notwithstanding this I make bold to sympathize with your illustrious sufferings, and this the more in that I myself have known and suffered your ill, and you can still see, Sire, the terrible marks on my skin.” And Smetse, uncovering his breast, showed the marks of the wounds which he had received from the traitor Spanish when he sailed the seas with the men of Zeeland.
+
+“But,” said the devil-king, “thou seemest well enough cured, smith! Wast thou verily as sick as I?”
+
+“Like you, Sire,” said Smetse, “I was nothing but a heap of living filth; like you I was fetid, rank, and offensive, and every one fled from me as they fled from you; like you I was eaten up with lice; but what could not be done for you by the most illustrious doctor Olias of Madrid, a humble carpenter did for me.”
+
+At these words the devil-king cocked his ear. “In what place,” said he, “does this carpenter dwell, and what is his name?”
+
+“He dwells,” said Smetse, “in the heavens, and his name is Master St. Joseph.”
+
+“And did this great saint appear to thee by especial miracle?”
+
+“Yes, Sire.”
+
+“And by virtue of what didst thou merit this rare and blessed favour?”
+
+“Sire,” answered Smetse, “I have never by my own virtue merited so much as the shadow of a single grain of particular grace, but in my sufferings I prayed humbly and with faith to my blessed patron, Master St. Joseph, and he deigned to come to my succour.”
+
+“Tell me of this happening, smith.”
+
+“Sire,” said Smetse, holding up the sack, “this was my remedy.”
+
+“This sack?” asked the devil.
+
+“Yes, Sire; but will your Majesty deign to look closely at the hemp whereof it is woven. Do you not think its quality altogether strange! Alas,” said Smetse, running on with his talk, and appearing to go into an ecstasy, “’tis not given to us poor men to see every day such hemp as this. For this is not earthly hemp, but hemp of heaven, hemp from the good Paradise, sown by my master St. Joseph round about the tree of life, harvested and woven under his especial orders to make sacks wherein the beans are stored which my masters the angels eat on fast-days.”
+
+“But,” asked the devil, “how did this sack come into thy hands?”
+
+“Ah, Sire, by great marvel. One night I was in my bed, suffering twenty deaths from my ulcers, and almost at the point of giving up my soul. I saw my good wife weeping; I heard my neighbours and workmen, of whom there were many, saying round about my bed the prayers for the dying; my body was overcome with pain and my soul with despair. Nevertheless I kept praying to my blessed patron and swore that if he brought me out of that pass, I would burn to his honour in the church of St. Bavon such a candle as the fat of twenty sheep would not suffice to make. And my prayers were not in vain, Sire, for suddenly a hole opened in the ceiling above my head, a living flame and a celestial perfume filled the room, a sack came down through the hole, a man clothed in white followed the sack, walked in the air to my bed, pulled down the sheets which covered me, and in the twinkling of an eye put me in the sack and drew the strings tight round my neck. And then, behold the miracle! No sooner was I wrapped about with this good hemp than a genial warmth passed through me, my ulcers dried up, and the lice all perished suddenly with a terrible noise. After that the man told me with a smile about the hemp of heaven and the angelic beans, and finished his discourse by saying: ’Keep safe this remedy, ’tis sent thee by my master St. Joseph. Whosoever shall use it shall be cured of all ills and saved for all eternity, if in the meantime he do not sell his soul to the devil!’ Then the man went away. And what the good messenger told me was true, for by means of this sack from heaven, I cured Toon, my workman, of the king’s evil; Pier of fever, Dolf of scurvy, Hendrik of the phlegm, and a score of others who owe it to me that they are still alive.”
+
+The Devil-King and the Sack
+
+When Smetse had finished his speech the devil-king seemed lost in deep reflection, then suddenly lifted his eyes to heaven, joined his hands, crossed himself again and again, and, falling to his knees, beat upon his breast, and with most lamentable cries prayed as here follows: “Ah, my Master St. Joseph, sweet Lord, blessed saint, immaculate husband of the Virgin without stain, you have deigned to make whole this smith, and he would have been saved by you for all eternity had he not sold his soul to the devil. But I, Master, I, a poor king, who pray to you, do you disdain to make me whole also, and to save me as you would have saved him? You know well, sweet Lord, how I devoted my life, my person, my goods and those of my subjects to the defence of our blessed religion; how I hated, as is right, the freedom to believe other things than those which are ordained for us; how I combated it by steel, stake, and live burial; how I saved in this wise from the venom of reform Brabant, Flanders, Artois, Hainault, Valenciennes, Lille, Douai, Orchies, Namur, Tournai, Tournaisie, Malines, and my other lands. Nevertheless I have been thrown into the fires of hell, and there suffer without respite the unutterable torment of my consuming ulcers and my devouring vermin. Ah, will you not make me whole, will you not save me? You are able, my Master. Yes, you will perform again for the sorrowing king the miracle which saved the smith. Then shall I be able to pass into paradise, blessing and glorifying your name through centuries and centuries. Save me, Master St. Joseph, save me. Amen.”
+
+And the devil-king, crossing himself, beating his breast, and babbling paternosters turn by turn, rose to his feet and said to Smetse: “Put me in the sack, smith.”
+
+This Smetse did gladly, rolled him into the sack, leaving only his head thrust out, drew tight round his neck the stout cords, and placed the devil on an anvil.
+
+At this spectacle the workmen burst out laughing, clapping their hands together, and saying a hundred merry things to one another.
+
+“Smith,” asked the devil, “are these Flemings laughing at me?”
+
+“Yes, Sire.”
+
+“What are they saying, smith?”
+
+“Oh, Sire, they are saying that horses are caught by means of corn; dogs by liver; asses by thistles; hogs by swill; trout by curdled blood; carp by cheese; pike by gudgeon; and a humbug of your kidney by tales of false miracles.”
+
+“Ho, the traitor smith,” howled the devil, grinding his teeth, “he has taken in vain the name of my Master St. Joseph, he has lied without shame.”
+
+“Yes, Sire.”
+
+“And thou wilt dare to beat me as thou didst Jacob Hessels and my faithful duke?”
+
+“Even more heartily, Sire. Nevertheless ’tis only if you so wish it. You shall be set free if you please. Free if you give me back the deed; beaten if you are fixed in your idea of carrying me off to hell.”
+
+“Give thee back the deed! “roared the devil, “I would rather suffer a thousand deaths in a single moment.”
+
+“Sire King,” said Smetse, “I pray you to think of your bones, which seem to me none too sound as it is. Consider also that the opportunity is a good one for us to avenge on your person our poor Flanders, so drenched in blood at your hands. But it displeases me to pass a second time where has passed already the wrath of the very just God. So give me back the deed; grace, Sire King, or ’twill begin raining presently.”
+
+“Grace!” said the devil, “grace to a Fleming! perish Flanders rather! Ah, why have I not again, one single day, as much power, armies, and riches as I will; Flanders would give up her soul quickly. Then famine should reign in the land, parching the soil, drying up the water-springs and the life of plants; the last ghostly inhabitants of the empty towns would wander like phantoms in the streets, killing one another in heaps to find a little rotten food; bands of famished dogs would snatch newborn children from their mothers’ withered breasts and devour them; famine should lie where had been plenty, dust where had been towns, crows where had been men; and on this earth stripped naked, stony, and desolate, on this burial-ground, I would set up a black cross with this inscription: Here lies Flanders the heretic, Philip of Spain passed over her breast!”
+
+So saying the devil foamed at the mouth with wrath, but scarce were his last words cold from his lips when all the hammers and bars in the smithy fell on him at once. And Smetse and his workmen, striking in turn, said: “This is for our broken charters and our privileges violated despite thine oath, for thou wast perjurer.
+
+“This is for that when we called thee thou didst not dare come into our land, where thy presence would have cooled the hottest heads, for thou wast coward.
+
+“This is for the innocent Marquess of Berg-op-Zoom, whom thou poisoned in prison, so that his inheritance might be thine; and for the Prince of Ascoly, whom thou madest to marry Dona Eufrasia, in child by thy seed, so that his wealth might enrich the bastard that was coming. The Prince died also, like so many others, for thou wert poisoner of bodies.
+
+“This is for the false witnesses paid by thee, and thy promise to ennoble whomever would kill Prince William for money, for thou wast poisoner of souls.”
+
+And the blows fell heavy, and the king’s crown was knocked off, and his body, like the duke’s, was no more than a hotch-potch of bones and flesh, without any blood. But the workmen went on with their hammering, saying:
+
+“This is for thine invention of the Tourniquet , wherewith thou didst strangle Montigny, friend of thy son, for thou wast seeker of new tortures.
+
+“This is for the Duke of Alva, for the Counts of Egmont and Hoorn, for all our poor dead, for our merchants who went off to enrich England and Germany, for thou wast death and ruin to our land.
+
+“This is for thy wife, who died by thy deed, for thou wast husband without love.
+
+“This is for thy poor son Charles, who died without any sickness, for thou wast father without bowels.
+
+“This is for the hatred, cruelty, and slaughter with which thou didst make return for the gentleness, confidence, and goodwill of our land, for thou wast king without justice.
+
+“And this is for the Emperor, thy father, who, with his execrable proclamations and edicts, first sounded for our land the stroke of the evil hour. Give him a good drubbing on our account, and tell us thou wilt give back the deed to the baes .”
+
+“Yes,” wept a melancholy voice, coming from the heap of bones and flesh, “thou hast everything, Smetse, thou art free.”
+
+“Give me back the parchment,” said Smetse.
+
+“Open the sack,” answered the voice.
+
+“Ho,” cried Smetse, “yes, yes, indeed, I will open the sack wide, and Master Philip will leap out and take me off to hell with all speed. Oh, the good little devil! But ’tis not now the time for such high pranks. Therefore I make bold to beg your Majesty to give me first the parchment, which he may without difficulty pass up through this gap which is between his neck and the edge of the sacking.”
+
+“I will not do it,” said the devil.
+
+“That,” said Smetse, “is as it pleases your subtle Majesty. In the sack he is, in the sack he may remain; I make no objection. Every man his own humour. But mine will be to leave him in his sack, and in this wise carry him off to Middelburg in Walcheren, and there ask the prefect that leave be given me to build a good little stone box in the market-place and therein to place your Majesty, leaving outside his melancholy countenance. So placed he will be able to see at a close view the happiness, joy, and prosperity of the men of the reformed faith: that will be a fine treat for him, which might be added to, on feast-days and market-days, by an unkind blow or two which people would give him in the face, or some wicked strokes with a stick, or some spittle dropped on him without respect. You will have besides, Sire, the unutterable satisfaction of seeing many good pilgrims from Flanders, Brabant, and your other blood-soaked countries come to Middelburg to pay back with good coin of their staves their old debt to your Most Merciful Majesty.”
+
+“Ah,” said the devil, “I will not have this shame put upon me. Take, smith, take the parchment.”
+
+Smetse obeyed, and saw that it was indeed his own, then went and dipped it in holy water, where it turned into dust.
+
+At this he was filled with joy and opened the sack for the devil, whose bones moved and became joined again to one another. And he took on again his withered shape, his hungry vermin, and his devouring sores.
+
+Then, covering himself with his cloak of cloth-of-gold, he went out of the smithy, while Smetse cried after him: “Good journey to you, and a following wind, Master Philip!”
+
+And on the quay the devil kicked against a stone, which opened of itself and showed a great hole, wherein he was swallowed suddenly up like an oyster.
+
+### Wherein Smetse beholds on the River Lys a most marvellous sight
+
+When the devil had gone Smetse was almost off his head with joy, and ran to his wife, who had come to the door of the kitchen, and thumped her for joy, seized her, kissed her, hugged the good woman, shook her, pressed her to him, ran back to his men, shook them all by the hand, crying: “By Artevelde! I am quits, Smetse is quits!” And he seemed to have a tongue for nothing else but that he was quits! And he blew in his wife’s ear, into his workmen’s faces, and under the nose of a bald and wheezing old cat who sat up in one corner and got quit with him by a scratch in the face.
+
+“The rascal,” said Smetse, “does not seem glad enough at my deliverance. Is he another devil, think you? They say they disguise themselves in every kind of shape. Ho,” said he to the cat, who was arching her back in annoyance, “hast heard, listened, and understood, devil cat? I am quit and free, quit and franked, quit and happy, quit and rich! And I have made fools of all the devils. And from now on I will live gaily as becomes a quit smith. Wife, I will send this very day a hundred philipdalers to Slimbroek, so that that poor sinner may also rejoice at Smetse’s quittance.”
+
+But his wife said nothing, and when Smetse went to look for her he found her on the stair with a great bowl of holy water in her hands, in which she was dipping a fair sprig of palm branch.
+
+Coming into the smithy she began to sprinkle with the palm her man and the workmen, and also the hammers, anvils, bellows, and other tools.
+
+“Wife,” said Smetse, trying to escape the wetting, “what art thou at?”
+
+“I am saving thee,” said she, “presumptuous smith. Dost verily think that, being freed of devils, thou hast for thine own the chattels that come from them? Dost think that though they have lost the soul which was to be their payment they will leave thee thy riches. Ho, the good fool! They will come back again, yes; and if I do not sprinkle thee with this holy water, and myself likewise, and all these good men, who knows with what evils they may not torment us, alas!”
+
+And the good wife was working away with her palm-branch when suddenly a great thunder rumbled under the earth, shaking the quay, and the stones cracked, the panes shivered in the windows, all the doors and casements in the smithy opened of themselves, and a hot wind blew.
+
+“Ah,” said she, “they are coming; pray, my man!”
+
+And suddenly there appeared in the sky the figure of a man, naked and of marvellous beauty. He was standing in a chariot of diamond, drawn by four flaming horses. And he held in his right hand a banner, whereon was written: “More beautiful than God.” And from the body of this man, whereof the flesh shone brightly, came golden rays which lit up the Lys, the quay and the trees like sunlight. And the trees began to sway and swing their stems and branches, and all the quay seemed to roll like a ship upon the sea, and thousands of voices called out together: “Lord, we cry hunger and thirst; Lord, feed us; Lord, give us to drink.”
+
+“Ah,” said the good wife, “here is my Lord Lucifer and all his devils!”
+
+And when the voices had ceased the man made a sign with his hand, and of a sudden the waters of the Lys rose as if God had lifted up the river-bed. And the river became like a rough sea; but the waves did not roll on the quay, but each lifted separately, bearing on its crest a foam of fire. Then each of these flames rose into the air, drawing up the water like a pillar, and there seemed to poor Smetse and his wife and the men to be hundreds of thousands of these pillars of water, swaying and foaming.
+
+Then each pillar took on the form of a fearful animal, and suddenly there appeared, mingled together, striking and wounding one another, all the devils whose work was to torment poor damned souls. There were to be seen, crawling over crooked and shivering men’s legs, monstrous crabs, devouring those who were servile in their lives. Near these crabs were ostriches bigger than horses, who ran along flapping their wings. Under their tails they had laurel-wreaths, sceptres, and crowns, and behind their tails were made to run those men who in our world spent all their time running after vain honours, without a care for doing good. And the ostriches went quicker than the wind, while the men ran without respite behind them in the effort to get the wreaths, crowns, and sceptres; but they could never reach them. In this way they were led to a treacherous pond full of loathsome mud, wherein they fell shamefully and stayed stuck for all eternity, whilst the mocking ostriches walked up and down on the bank dangling their bawbles.
+
+Among the ostriches were squadrons of many-coloured apes, diapered like butterflies, whose concern was with miserly Jewish and Lombard usurers. These men, when they entered hell, looked round them carefully, screwing up their eyes under their spectacles, collected from the ground divers rusty nails, old breeches, filthy rags, buttons showing the wood, and other old stuff, then dug a hole hastily, hid their treasures in it and went off to sit down some way away. The apes, seeing this, would leap on the hole, empty out its content, and throw it into the fire. Then the misers would weep, make lamentations, and be beaten by the apes, and at last go off to find some more secret place, hide there once again their new depredations, and see once again the hole emptied and the apes coming once again to beat them, and so on for all eternity.
+
+In the air, above the apes, soared eagles, who had, instead of a beak, four-and-twenty matchlock barrels firing together. These eagles were called Royal, because their concern was with conqueror princes, who were too fond in their lifetime of the sounds of war and cannon. And for their punishment these matchlocks were fired off in their faces again and again throughout eternity.
+
+Besides the ostriches, apes, and eagles, reared up a great serpent with a bear’s coat, who writhed and twisted this way and that. He was of great length and breadth, beyond all measure, and had a hundred thousand hairy arms, in each of which he held an iron pike as sharp as a razor. He was called the Spaniards’ Serpent, because in hell it was his task to gash about with his pikes without mercy all the bands of traitor pillagers who had despoiled our good country.
+
+Keeping clear of this serpent with great prudence, darted about mischievous little winged pigs whose tails were eels. These tails were designed for the perpetual teazing of such gluttons as came to hell. For the pig would come up to such a one, hold the eel close to his mouth, and, when he tried to bite it, suddenly fly away from him, and so on throughout eternity.
+
+There were to be seen also, marching up and down in their gorgeous feathers, monstrous peacocks. Whenever some vain dandy came their way, giving himself airs in his fine clothes, one of these peacocks would go to him and spread its tail, as if inviting him to pluck out a fine feather for his bonnet. But as soon as the dandy approached to take his feather, Master Peacock would let fly in his face with filthy and evil-smelling water, which spoilt all his fine clothes. And throughout eternity the dandy would try to get the feather, and throughout eternity be so swilled down.
+
+Among these fearful animals, wandered two by two male and female grasshoppers as big as a man, the one playing on a pipe, and the other brandishing a great knotted stick. Whenever they saw a man who, in his lifetime, leapt, by cowardice, from good to evil, from black to white, from fire to water, always on the side of the strongest, these grasshoppers would go to him, and one would play the pipe, while the other, leaning on his stick with great dignity, would say: “Leap for God,” and the man would leap; “Leap for the Devil,” and the man would leap again; “Leap for Calvin, leap for the Mass, leap for the goat, leap for the cabbage,” and the man would keep leaping. But he never leapt high enough for the liking of the grasshopper with the stick, and so he was each time belaboured in a most pitiless manner. And he leapt without ceasing and was belaboured without respite, while the pipe made continual pleasant music, and so on throughout eternity.
+
+Farther on, naked and lying on cloths of gold, silk, and velvet, covered with pearls and a thousand resplendent gems, more beautiful than the most beautiful ladies of Ghent, Brussels, or Bruges, lascivious and smiling, singing, and playing on sweet instruments, were the wives of the devils. These dealt out punishment to old rakes, corrupters of youth and beauty. To them these she-devils would call out amorously, but they could never get near them. Throughout eternity these poor rakes had to look at them without being able to touch them even with the tip of the nail of their little finger. And they wept and made lamentation, but all in vain, and so on through centuries and centuries.
+
+There were also mischievous little devils with drums, made of the skins of hypocrites, whose masks hung down over the drum case as ornament. And the hypocrites to whom they belonged, without their skins, without their masks, in all their ugliness, ashamed, hooted, hissed, spat at, eaten up by horrible flies, and followed by the little devils beating their drums, had to wander up and down hell throughout eternity.
+
+It was good to see also the devils of conceited men. These were fine great leathern bottles full of wind, finished off with a beak, at the end of which was a reed. These bottles had eagle’s feet and two good little arms, with fingers long enough to go round the widest part of the bottle. When the conceited man came into hell, saying: “I am great, I am grand, strong, beautiful, victorious, I will overcome Lucifer and marry his dam Astarte,” the leathern bottles would come up to him and say, with a deep reverence: “My lord, will you be pleased to let us speak a word to you in secret, touching your high designs?” “Yes,” he would say. Then two bottles would stuff their reeds into his ears in such a manner that he could not get them out again, and begin to press in their bellies with their long fingers, so as to force wind into his head, which thereupon swelled up, large and always larger, and Master Self-Conceit rose into the air and went off to wander throughout eternity, with his head bumping the ceiling of hell, and his legs waving in the air in the efforts to get down again; but all in vain.
+
+Marvellous devils were certain apes of quicksilver, always running, tumbling, leaping, coming, and going. These devils bore down on the lazy fellows who were thrown to them, gave them a spade to dig earth with, a sword to polish, a tree to trim, or a book to con. The lazybones would look at the task set him, saying: “To-morrow,” and would stretch his arms, scratching and yawning. But as soon as he had his mouth wide open the ape would stuff into it a sponge soaked in quintessence of rhubarb. “This,” he would say mockingly, “is for to-day; work, slug, work.” Then, while the lazybones was retching, the devil would thump him, shake him a hundred different ways, giving him no more peace than a gadfly gives a horse, and so on throughout eternity.
+
+Pleasing devils were pretty little children very wide-awake and mischievous, whose concern was to teach learned orators to think, speak, weep, and laugh according to common nature. And when they did otherwise the little devils would rap them sharply on the knuckles. But the poor pedants could no longer learn, being too heavy, old, and stupid; so they had a rap on the knuckles every day and a whipping on Sundays.
+
+And all these devils cried out together: “Master, we are hungry; Master, give us to eat, pay somewhat for the good services we render thee.”
+
+And suddenly the man in the chariot made a sign, and the good River Lys threw all these devils on the quay, as the sea splashes on the shore, and they hissed loud and terribly at landing.
+
+And Smetse, his wife, and the workmen heard the doors of the cellars open with a loud noise, and all the casks of bruinbier came hissing up the stairs, and hissing across the floor of the forge, and still hissing described a curve in the air and fell among the crowd of all the devils. And so also did the bottles of wine, so also the hams, loaves, and cheeses, and so also the good crusats , angelots , philipdalers , and other moneys, which were all changed into meat and drink. And the devils fell over one another, fought, scrambled, wounded themselves, forming only one great mass of battling monsters, howling and hissing, and each trying to get more than the others. When there was left neither drop nor crumb, the man in the chariot made another sign, and all the devils melted into black water and flowed into the river, where they disappeared. And the man vanished from the sky.
+
+And Smetse Smee was as poor as before, save for one little bag of golden royals , which his wife had by chance sprinkled with holy water, and which he kept, although it came from the devil. But this, as you shall see, did not profit him at all. And he lived with great content until he died suddenly one day in his smithy, at the great and blessed age of ninety-three years.
+
+### Of Hell, of Purgatory, of the long ladder, and finally of Paradise
+
+When he was dead his soul had to pass through Hell in the guise of a smith. Coming thither he saw, through the open windows, the devils which had so frightened him in the vision on the Lys, and who were now busy torturing and tormenting the poor damned souls as terribly as they could. And Smetse went to the doorkeeper; but the doorkeeper, on seeing him, howled out in a most awful fashion: “Smetse is here, Smetse Smee the traitor smith!” And he would not let him in. Hearing the hubbub, My Lord Lucifer, Madam Astarte, and all their court came to the windows, and all the other devils after them.
+
+And they all cried out in fear:
+
+“Shut the doors, ’tis the enchanted Smetse, Smetse the traitor smith, Smetse the beater of poor devils. If he comes in here he will overset, spoil, break up everything. Begone, Smetse!”
+
+“My masters,” said Smetse, “if I do indeed come hither to look at your snouts, which are not beautiful I promise ye, ’tis not at all for my pleasure; and besides, I am not by any means anxious to come in. So do not make such a noise, master devils.”
+
+“Yes, indeed, my fine smith,” answered Madam Astarte, “thou showest a velvet pad now, but when thou art within thou wilt show thy claws and thine evil intention, and will slay us all, me, my good husband, and all our friends. Be off, Smetse; be off, Smee.”
+
+“Madam,” said Smetse, “you are indeed the most beautiful she-devil I ever saw, but that is, nevertheless, no reason why you should think so ill of a fellow-creature’s intentions.”
+
+“Hark to the fellow!” said Madam Astarte, “how he hides his wickedness under sugared words! Drive him away, devils, but do him no great harm.”
+
+“Madam,” said Smetse, “I beg you to listen.”
+
+“Be off, smith!” cried out all the devils; and they threw burning coals at him, and whatever else they could find. And Smetse ran off as fast as his legs would take him.
+
+When he had travelled some way he came before Purgatory. On the other side was a ladder, with this inscription at its foot: “This is the road to the good Paradise.”
+
+And Smetse, filled with joy, began to climb the ladder, which was made of golden thread, with here and there a sharp point sticking out, in virtue of that saying of God which tells us: “Broad is the way which leadeth to Hell, strait and rough the way to Heaven.” And, indeed, Smetse soon had his feet sore. Nevertheless, he made his way upward without halting, and only stopped when he had counted ten hundred thousand rungs and could see no more of either earth or hell. And he became thirsty. Finding nothing to drink he became a little sullen, when suddenly he saw a little cloud coming past, and drank it up joyfully. It did not indeed seem to him as good drink as bruinbier , but he took consolation from the thought that it is not possible to have comforts everywhere alike. A little higher up the ladder he suddenly had hard work to keep his bonnet on his head, by reason of a treacherous autumn wind which was going down to earth to pull off the last leaves. And by this wind he was sorely shaken, and nearly lost his hold. After he was out of this pass he became hungry, and regretted the good earthly beef, smoked over pine-cones, which is so good a food for poor wayfarers. But he took heart, thinking that it is not given to man to understand everything.
+
+Suddenly he saw an eagle of terrible aspect coming upon him from the earth. Thinking for certain that he was some fat sheep, the eagle rose above him and would have dropped on him like a cannon-ball; but the good smith had no fear, bent to one side and caught the bird by the neck, which he wrung subtly. Then, still going up, he hastened to pluck it, ate morsels of it raw, and found them stringy. Nevertheless, he took this meat with patience, because he had no other. Then, patiently and bravely, he climbed for several days and several nights, seeing nothing but the blue of the sky and innumerable suns, moons, and stars above his head, under his feet, to right, to left, and everywhere. And he seemed to be in the midst of a fair great globe, whereof the inner walls had been painted this fair blue, strewn with all these suns, moons, and stars. And he was frightened by the great silence and by the immensity.
+
+Suddenly he felt a genial warmth, heard sweet voices singing, distant music, and the sound of a city toiling. And he saw a town of infinite size girt about with walls, over which he could see housetops, trees, and towers. And he felt that he was moving more quickly despite his own legs, and by and by, leaving the last rung behind, he set foot before the gate of the town.
+
+“By Artevelde!” said he, “here is the good Paradise.”
+
+And he knocked on the gate; St. Peter came to open to him.
+
+Smetse was somewhat frightened at the gigantic appearance of the good saint, his great head of hair, his red beard, his large face, his high forehead, and his piercing eyes, with which he looked at him fixedly.
+
+“Who art thou?” quoth he.
+
+“Master St. Peter,” said the smith, “I am Smetse Smee, who in his lifetime lived at Ghent on the Quai aux Oignons, and now prays you to let him enter your good Paradise.”
+
+“No,” said St. Peter.
+
+“Ah, my master!” said Smetse most piteously, “if ’tis because in my lifetime I sold my soul to the devil, I make bold to tell you that I repented most heartily, and was redeemed from his power and kept nothing that was his.”
+
+“Excepting a sackful of royals ,” said the saint, “and on that account thou shalt not come in.”
+
+“Master,” said the smith, “I am not so guilty as you suppose; the sack stayed in my house because it had been blessed, and for that reason I thought I might well keep it. But take pity on me, for I knew not what I was doing. I pray you also to deign to consider that I come from a far country, that I am greatly tired, and would gladly rest in this good Paradise.”
+
+“Be off, smith,” said the saint, who was holding the door a crack open.
+
+Meanwhile Smetse had slipped through the opening, and taking off his leathern apron sat down, saying:
+
+“Master, I am here rightfully, you cannot turn me out.”
+
+But St. Peter bade a troop of halberdier angels who were near at hand drive him away: and this the halberdier angels did with great dispatch.
+
+Thereafter, Smetse did not cease to beat on the door with his fists, and lamented, wept, and cried out: “Master, have pity on me, let me in, my master; I repent of all the sins I have committed, and even the others as well. Master, grant me permission to enter the blessed Paradise. Master....” But Master St. Peter, hearing this, put his head over the wall:
+
+“Smith,” said he, “if thou wilt persist in this uproar, I shall have thee sent to Purgatory.”
+
+And poor Smetse held his peace, and sat down on his seat, and so passed sad days, watching others enter.
+
+In this wise a week went by, during which he lived on a few scraps of bread which were thrown to him over the wall, and on grapes gathered from a sour vine which grew on the outer face of the wall of Paradise in this part.
+
+And Smetse was most unhappy, leading this idle existence. And he sought in his head for some work or other which would gladden him somewhat. Having found it, he shouted as loud as he could, and St. Peter put his head over the wall.
+
+“What wilt thou, Smetse?” said he.
+
+“Master,” answered the smith, “will you be pleased to let me go down to earth for one night, so that I may see my good wife and look to my affairs?”
+
+“Thou mayst, Smetse,” answered St. Peter.
+
+### Wherein it is seen why Smetse was whipped
+
+It was then All Saints’ Eve; bitter was the cold, and Smetse’s good wife was in her kitchen, brewing some good mixture of sugar, yolk of egg, and bruinbier , to cure her of an evil catarrh, which had lain upon her ever since her man died.
+
+Smetse came and knocked at the window of the kitchen, whereat his wife was greatly frightened.
+
+And she cried out sadly: “Do not come and torment me, my man, if ’tis prayers thou wilt have. I say as many as I can, but I will say more if need be. Wilt thou have masses said? Thou shalt have them, and prayers and indulgences likewise. I will buy them, my man, I promise thee; but go back quickly whence thou camest.”
+
+Nevertheless Smetse went on knocking. “’Tis not masses or prayers,” said he, “that I want, but shelter, food, and drink, for bitter is the cold, rude the wind, sharp the frost. Open, wife.”
+
+But she, on hearing him speak thus, prayed the more and cried out the louder, and beat her breast and crossed herself, but made no move to open the door, saying only: “Go back, go back, my man; thou shalt have prayers and masses.”
+
+Suddenly the smith discerned an open window in the attic. He climbed up and entered the house by that means, went down the stair, and, opening the door, appeared before his wife; but as she kept drawing back before him as he advanced, crying out and calling the neighbours at the top of her voice, Smetse stood still so as not to frighten her further, sat down on a stool, and said:
+
+“Dost not see, mother, that I am indeed Smetse, and wish thee no harm?”
+
+But his wife would listen to nothing and crept back into a corner. Thence with her teeth a-chatter, and her eyes open wide, she made a sign to him to leave her, for she could no longer find her tongue, by reason of her great fear.
+
+“Wife,” said the smith in friendly tones, “is it thus that thou givest greeting and welcome to thy poor husband, after the long time he has been away? Alas, hast forgot our old comradeship and union?”
+
+Hearing this soft and joyous voice she answered in a low tone and with great timidity:
+
+“No, dead master.”
+
+“Well then,” said he, “why art thou so afraid? Dost not know thy man’s fat face, his round paunch, and the voice which in former days sang so readily hereabout?”
+
+“Yes,” she said, “I know thee well enough.”
+
+And why,” said he, “if thou knowest me, wilt not come to me and touch me?”
+
+“Ah,” said she, “I dare not, master, for ’tis said that whatever member touches a dead man is itself dead.”
+
+“Come, wife,” said the smith, “and do not believe all these lying tales.”
+
+“Smetse,” said she, “will you in good truth do me no hurt?”
+
+“None,” said he, and took her by the hand.
+
+“Ah,” she said suddenly, “my poor man, thou art cold and hungry and thirsty indeed!”
+
+“Yes,” said he.
+
+“Well then,” said she, “eat, drink, and warm thyself.”
+
+While Smetse was eating and drinking he told his wife how he had been forbidden the door to Paradise, and how he designed to take from the cellar a full cask of bruinbier and bottles of French wine, to sell to those who went into the Holy City, so that he might be well paid, and with the money he received buy himself better food.
+
+“This, my man,” she said, “is all very well, but will Master St. Peter give thee permission to set up at the gates of Paradise such a tavern?”
+
+“Of that,” he said, “I have hope.”
+
+And Smetse, laden with his cask and bottles, went his way back, up towards the good Paradise.
+
+Having reached the foot of the wall he set up his tavern in the open air, for the weather is mild in this heavenly land, and on the first day all who went in drank at Smetse’s stall, and paid him well out of compassion.
+
+But one or two became drunk, and entering Paradise in this state, set Master Peter inquiring into the cause of it; and having found it out he enjoined Smetse to stop his selling, and had him whipped grievously.
+
+### Of the fair judgment of My Lord Jesus
+
+Not long afterwards the good wife died also, by reason of the terror that had seized hold of her at the sight of her man’s ghost.
+
+And her soul went straight towards Paradise, and there she saw, sitting with his seat against the wall, the poor Smetse in a fit of melancholy brooding. When he saw her he jumped up with great joy, and said:
+
+“Wife, I will go in with thee.”
+
+“Dost thou dare?” said she.
+
+“I will hide myself,” said he, “under thy skirt, which is wide enough for us both, and so I shall pass without being seen.”
+
+When he had done this she knocked on the door, and Master St. Peter came to open it. “Come in,” he said, “good wife.” But seeing Smetse’s feet below the hem of the skirt: “This wicked smith,” he cried, “will he always be making fun of me? Be off, devil-baggage!”
+
+“Ah, my master,” said she, “have pity on him, or else let me stay out, too, to keep him company.”
+
+“No,” said Master St. Peter, “thy place is here, his is outside. Come in then, and let him be off at once.”
+
+And the good wife went in while Smetse stayed outside. But as soon as the noonday hour came, and the angel cooks had brought the good wife her beautiful rice pudding, she went to the wall and put her head over it.
+
+“Art thou there,” she said, “my man?”
+
+“Yes,” said he.
+
+“Art thou hungry?” she said.
+
+“Yes,” said he.
+
+“Well then,” she said, “spread thy leathern apron; I will throw thee the pudding which has just been given me.”
+
+“But thou,” said he, “wilt thou eat nothing?”
+
+“No,” said she, “for I have heard it said that there is supper by and by.”
+
+Smetse ate the rice pudding, and was suddenly filled with comfort, for the pudding was more succulent and delicious than the finest meats of the earth. Meanwhile his wife went off to walk about in the good Paradise, and afterwards came back to Smetse to tell him what she had seen.
+
+“Ah,” she said, “my man, ’tis a most beautiful place. Would that I could see thee within! Round about My Lord Jesus are the pure intelligences who discuss with him whatever is goodness, love, justice, knowledge, and beauty, and also the best means of governing men and making them happy. Their speech is like music. And all the while they keep throwing down to earth the seeds of beautiful, good, just and true thoughts. But men are so wicked and stupid that they tread underfoot these fair seeds or let them wither away. Farther on, established in their several places, are potters and goldsmiths, masons, painters, tanners and fullers, carpenters and shipbuilders, and thou shouldst see what fine work they do, each in his own trade. And when they have made some progress they cast down the seed of that also towards the earth, but ’tis lost oftentimes.”
+
+“Wife,” said Smetse, “didst see no smiths?”
+
+“Yes,” said she.
+
+“Alas,” said he, “I would gladly be working alongside them, for I am ashamed to be sitting here like a leper, doing nothing and begging my bread. But listen, wife; since Master St. Peter will not let me in, go thou and ask grace for me from My Lord Jesus, who is kind and will let me in for certain.”
+
+“I go, my man,” said she.
+
+My Lord Jesus, who was in council with his doctors, saw her coming towards him. “I know thee, good wife,” said he; “thou wast in thy lifetime wedded to Smetse the smith, who entreated me so well when, in the guise of a little child, I came down to earth with Master Joseph and Madam Mary. Is he not in Paradise, thy good man?”
+
+“Alas, no, My Lord!” answered she, “my man is at the door, most sad and out of heart, because Master St. Peter will not let him in.”
+
+“Why is that?” said My Lord Jesus.
+
+“Ah, I cannot tell,” said she.
+
+But the angel who writes down the faults of men in a record of brass, speaking suddenly, said: “Smetse cannot enter Paradise, for Smetse, delivered from the devil, kept devil’s money.”
+
+“Ah,” said My Lord Jesus, “that is a great sin; but has he not repented of it?”
+
+“Yes,” said the good wife, “he has repented, and, moreover, he has been all his life good, charitable, and compassionate.”
+
+“Go and find him,” said My Lord Jesus, “I will question him myself.”
+
+Two or three halberdier angels ran to obey him, and brought Smetse before the Son of God, who spoke in this wise:
+
+“Smetse, is it true that thou didst keep devil’s money?”
+
+“Yes, My Lord,” answered the smith, whose knees were knocking together with fear.
+
+“Smetse, this is not good, for a man should rather suffer every ill, pain, and anguish, than keep the money of one who is wicked, ugly, unjust, and a liar, as is the devil. But hast thou no meritorious deed to tell me, to mitigate this great sin?”
+
+“My Lord,” answered Smetse, “I fought a long while beside the men of Zeeland for freedom of conscience, and, doing this, suffered with them hunger and thirst.”
+
+“This is good, Smetse, but didst thou persist in this fair conduct?”
+
+“Alas, no, My Lord!” said the smith, “for, to tell truth, my courage lacked constancy, and I went back to Ghent, where, like so many another, I came under the Spanish yoke.”
+
+“This is bad, Smetse,” answered My Lord Jesus.
+
+“My Lord,” wept the good wife, “none was more generous than he to the poor, kind to every one, charitable to his enemies, even to the wicked Slimbroek.”
+
+“This is good, Smetse,” said My Lord Jesus; “but hast thou no other merit in thy favour?”
+
+“My Lord,” said the smith, “I have always laboured with a good heart, hated idleness and melancholy, loved joy and merriment, sung gladly, and drunk with thankfulness the bruinbier which came to me from you.”
+
+“This is good, Smetse, but it is not enough.”
+
+“My Lord,” answered the smith, “I thrashed as soundly as I could the wicked ghosts of Jacob Hessels, the Duke of Alva, and Philip II, King of Spain.”
+
+“Smetse,” said My Lord Jesus, “this is very good. I grant thee leave to enter my Paradise.”
+
+UNIFORM WITH “FLEMISH LEGENDS”
+
+THE LEGEND OF TYL ULENSPIEGEL
+
+BY CHARLES DE COSTER
+
+Translated by Geoffrey Whitworth . With 20 Woodcuts by Albert Delstanche . 7s. 6d. net
+
+* * *
+
+SOME PRESS OPINIONS
+
+“Tyl Ulenspiegel is not yet, in most English households, an old friend. Yet we believe that the fellow will soon make his brave and humorous way into the friendship of old and young. And the twenty full-page woodcuts with which M. Albert Delstanche has illustrated this edition will help the friendship on. All the heartiness, the ruggedness, the fun, and the gloom of one tragic period in the history of a homely and much-enduring people are expressed through the eye to the mind by M. Delstanche’s knowledge and skill.”— The Times.
+
+“An excellent translation has brought a notable example of modern Belgian literature within the reach of readers in this country. Taking as his central figure the scampish Tyl Ulenspiegel, already in the sixteenth century a traditional personage, De Coster produced a remarkable reconstruction of Flemish life in the days of Spanish oppression and of the famous ‘Beggars’.”— Scotsman.
+
+“On the large scale, the obvious work of a master, a man who knew sorrow but who loved to share the mirth and good living of his fellows, mocked impostors wherever he found them, and had a hatred of cruelty and injustice that is like lightning. It is one of the rare books, full of sad laughter and warm understanding, of the order of ‘Don Quixote’.”— The Nation.
+
+“It is a happy thought which has brought out Mr. Geoffrey Whitworth’s version of ‘The Legend of Tyl Ulenspiegel’ now ... for the description of it as the ‘national epic of Flanders’ has much more meaning than such phrases usually have.... And all the adventures of Tyl and his friends have this quality of reality in fairy-land, whether they are grotesque or tragic. The book has tragedy in it to balance its boisterous comedy, but the two are combined in a style whose generosity and exuberance make their union complete and satisfactory. It is a great book indeed. Mr. Whitworth is to be congratulated on his excellently easy and vivid translation; and the woodcuts of M. Albert Delstanche are all exceedingly impressive and many exceedingly beautiful.”— Land and Water.
+
+“It is hardly too much to say that De Coster’s book is a work of pure genius.... At such a moment as the present no publication could be more timely than this English version of what will inevitably rank as a great epic of Belgian nationality.... For the rest, we have only to compliment the publishers, the translator, and the illustrator upon their joint efforts to present a fine work in a worthy and acceptable form.”— The Guardian.
+
+“The illustrator’s bold and luminous drawings certainly catch the bluff spirit of Charles de Coster’s quaint masterpiece, in which the transition-age between mediævalism and modernity lives again so grimly, so shrewdly, so humorously. Here there is a suitable gift-book for all who love to travel in the highways of world-literature.”— Morning Post.
+
+“It is, of course, for adults and not for children, with its grim horrors and its full-blooded jollity. What we have learnt to call the soul of a people is in it—the spirit of Flanders. The force of De Coster’s style loses nothing in Mr. Geoffrey Whitworth’s translation, and there are admirable illustrations cut on the wood by M. Albert Delstanche.”— Daily Telegraph.
+
+“A most remarkable volume.”— Glasgow Herald.
+
+“Reading it for the first time in Mr. Whitworth’s admirable English version, one is amazed at first that it has not been rendered previously. De Coster will never require another English version, and this one book of ‘glorious adventures’ is aureole enough to ensure his place on the great hierarchy of literature.”— The Bookman.

@@ -5,7 +5,7 @@
 Extract from the Nineteenth Annual Report of the Bureau of American Ethnology*
 - **Author / collector / translator:** Mooney, James (author, d. 1921)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #45634 — https://www.gutenberg.org/ebooks/45634 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #45634 — https://www.gutenberg.org/ebooks/45634
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

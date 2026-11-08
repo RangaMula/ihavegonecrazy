@@ -5,7 +5,7 @@
 Being a collection of stories translated from the Korean folk lore*
 - **Author / collector / translator:** Allen, Horace Newton (author, d. 1932)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #55539 — https://www.gutenberg.org/ebooks/55539 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #55539 — https://www.gutenberg.org/ebooks/55539
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

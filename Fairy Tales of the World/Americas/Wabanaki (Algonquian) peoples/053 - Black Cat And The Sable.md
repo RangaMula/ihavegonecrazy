@@ -4,7 +4,7 @@
 - **Source book:** *Contribution to Passamaquoddy Folk-Lore*
 - **Author / collector / translator:** Fewkes, Jesse Walter (author, d. 1930)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #17997 — https://www.gutenberg.org/ebooks/17997 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #17997 — https://www.gutenberg.org/ebooks/17997
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

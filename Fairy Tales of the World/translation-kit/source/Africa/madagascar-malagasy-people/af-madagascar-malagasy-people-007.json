@@ -1,0 +1,62 @@
+{
+ "id": "af-madagascar-malagasy-people-007",
+ "title": {
+  "id": "title",
+  "source": "Le martin-pêcheur et le sphinx. ... 1"
+ },
+ "tradition": "Madagascar (Malagasy people)",
+ "continent": "Africa",
+ "source_lang": "fr",
+ "source_book": "Contes populaires malgaches (1893)",
+ "credits": "Ferrand, Gabriel (translator, d. 1935)",
+ "gutenberg": "Internet Archive item `contespopulaires00ferr` — https://archive.org/details/contespopulaires00ferr (OCR text, lightly cleaned)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Africa/Madagascar (Malagasy people)/007 - Le martin-pêcheur et le sphinx. ... 1.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 7,
+  "words": 53
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "hommes qui ont été changés en bêtes après leur mort."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Un grand nombre de Malgaches les respectent et les tiennent pour leurs ancêtres."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "3."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Sphinx tête de mort ou acherontie."
+    },
+    {
+     "id": "p002.s03",
+     "source": "En malgache lolobe."
+    },
+    {
+     "id": "p002.s04",
+     "source": "On donne aussi ce nom au grand sphinx à ailes et à queue traînantes."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Cf. Dictionnaire Malgache-français , p. 372."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

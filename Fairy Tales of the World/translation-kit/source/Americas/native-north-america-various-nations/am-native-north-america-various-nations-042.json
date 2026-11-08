@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-042",
  "title": {
   "id": "title",
-  "source": "Koto And The Bird"
+  "source": "Old-Man And His Conscience"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Thirty Indian Legends",
- "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/042 - Koto And The Bird.md",
+ "source_book": "Indian Why Stories: Sparks from War Eagle's Lodge-Fire",
+ "credits": "Linderman, Frank Bird (author, d. 1938)",
+ "gutenberg": "Project Gutenberg eBook #606 — https://www.gutenberg.org/ebooks/606",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/042 - Old-Man And His Conscience.md",
  "stats": {
-  "paragraphs": 21,
-  "segments": 84,
-  "words": 1427
+  "paragraphs": 23,
+  "segments": 103,
+  "words": 1658
  },
  "paragraphs": [
   {
@@ -23,31 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Once there was a little Cree boy named Koto."
+     "source": "Not so many miles away from the village, the great mountain range so divides the streams that are born there, that their waters are offered as tribute to the Atlantic, Pacific, and Arctic Oceans."
     },
     {
      "id": "p001.s02",
-     "source": "His father was a chief and a great hunter, and Koto always longed for the time when he would be able to hunt like his father and bring back large game to the wigwam."
+     "source": "In this wonderful range the Indians believe the winds are made, and that they battle for supremacy over Gunsight Pass."
     },
     {
      "id": "p001.s03",
-     "source": "One summer day the chief and all the hunters were away on a hunting trip."
+     "source": "I have heard an old story, too, that is said to have been generally believed by the Blackfeet, in which a monster bull-elk that lives in Gunsight Pass lords it over the winds."
     },
     {
      "id": "p001.s04",
-     "source": "There was no one left in the camp but a few of the women and some children."
+     "source": "This elk creates the North wind by \"flapping\" one of his ears, and the South wind by the same use of his other."
     },
     {
      "id": "p001.s05",
-     "source": "Koto wandered around, not knowing what to do, when suddenly he thought of a very daring thing."
-    },
-    {
-     "id": "p001.s06",
-     "source": "One pony had been left because it had been lame, and now Koto made up his mind that he would get on its back and gallop over the prairie."
-    },
-    {
-     "id": "p001.s07",
-     "source": "He knew that the pony's foot was nearly better, and he thought that one gallop could not hurt it."
+     "source": "I am inclined to believe that the winds are made in that Pass, myself, for there they are seldom at rest, especially at this season of the year."
     }
    ],
    "id": "p001"
@@ -57,19 +49,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "So he jumped on the pony's back, waved his arms, and called out to it to run, and away they went."
+     "source": "To-night the wind was blowing from the north, and filmy white clouds were driven across the face of the nearly full moon, momentarily veiling her light."
     },
     {
      "id": "p002.s02",
-     "source": "Koto's long, dark hair and the pony's mane blew in the wind, and they both were enjoying the gallop when something terrible happened."
-    },
-    {
-     "id": "p002.s03",
-     "source": "The pony caught his foot in a badger hole and fell heavily to the ground."
-    },
-    {
-     "id": "p002.s04",
-     "source": "Koto was tossed in the air, and then fell with one foot pinned under him."
+     "source": "Lodge poles creaked and strained at every heavy gust, and sparks from the fires inside the lodges sped down the wind, to fade and die."
     }
    ],
    "id": "p002"
@@ -79,31 +63,19 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "For a long time the two sufferers lay there in the hot sun on the prairie."
+     "source": "In his lodge War Eagle waited for us, and when we entered he greeted us warmly, but failed to mention the gale."
     },
     {
      "id": "p003.s02",
-     "source": "At length Koto's mother, who had missed him, found them."
+     "source": "\"I have been waiting,\" he said."
     },
     {
      "id": "p003.s03",
-     "source": "She carried Koto back to the wigwam and laid him on his bed of skins."
+     "source": "\"You are late and the story I shall tell you is longer than many of the others.\""
     },
     {
      "id": "p003.s04",
-     "source": "She told him that his leg was broken and that the pony's leg was broken also, and that the hunters would have to kill it when they returned."
-    },
-    {
-     "id": "p003.s05",
-     "source": "Poor Koto wept bitterly."
-    },
-    {
-     "id": "p003.s06",
-     "source": "He did not mind his own broken leg, but to think that he had really killed the little pony nearly broke his heart."
-    },
-    {
-     "id": "p003.s07",
-     "source": "For many days he lay on his bed, and at last he was able to get up and move around with the help of a little crutch, which his father had made from the branch of a tree."
+     "source": "Without further delay the story-telling commenced."
     }
    ],
    "id": "p003"
@@ -113,15 +85,39 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "When winter came, the Indians moved their camp to the woods along the bank of the Assiniboine River."
+     "source": "\"Once OLD-man came upon a lodge in the forest."
     },
     {
      "id": "p004.s02",
-     "source": "Koto was not able to walk well, so remained in his lodge until all the camp had been moved."
+     "source": "It was a fine one, and painted with strange signs."
     },
     {
      "id": "p004.s03",
-     "source": "Then his father came to carry him to the camp that was protected from the cold north wind."
+     "source": "Smoke was curling from the top, and thus he knew that the person who lived there was at home."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Without calling or speaking, he entered the lodge and saw a man sitting by the fire smoking his pipe."
+    },
+    {
+     "id": "p004.s05",
+     "source": "The man didn't speak, nor did he offer his pipe to OLD-man, as our people do when they are glad to see visitors."
+    },
+    {
+     "id": "p004.s06",
+     "source": "He didn't even look at his guest, but OLD-man has no good manners at all."
+    },
+    {
+     "id": "p004.s07",
+     "source": "He couldn't see that he wasn't wanted, as he looked about the man's lodge and made himself at home."
+    },
+    {
+     "id": "p004.s08",
+     "source": "The linings were beautiful and were painted with fine skill."
+    },
+    {
+     "id": "p004.s09",
+     "source": "The lodge was clean and the fire was bright, but there was no woman about."
     }
    ],
    "id": "p004"
@@ -131,11 +127,23 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "\"My son,\" he said, as he walked along with Koto in his arms, \"I have a surprise for you."
+     "source": "\"Leaning against a fine back-rest, OLD-man filled his own pipe and lighted it with a coal from the man's fire."
     },
     {
      "id": "p005.s02",
-     "source": "You shall not live in a wigwam this winter.\""
+     "source": "Then he began to smoke and look around, wondering why the man acted so queerly."
+    },
+    {
+     "id": "p005.s03",
+     "source": "He saw a star that shone down through the smoke-hole, and the tops of several trees that were near the lodge."
+    },
+    {
+     "id": "p005.s04",
+     "source": "Then he saw a woman—way up in a tree top and right over the lodge."
+    },
+    {
+     "id": "p005.s05",
+     "source": "She looked young and beautiful and tall."
     }
    ],
    "id": "p005"
@@ -145,15 +153,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "\"Why not?\" asked Koto."
-    },
-    {
-     "id": "p006.s02",
-     "source": "\"I like my wigwam."
-    },
-    {
-     "id": "p006.s03",
-     "source": "It is warm and keeps the cold wind away.\""
+     "source": "\"'Whose woman is that up there in the tree top?' asked OLD-man."
     }
    ],
    "id": "p006"
@@ -163,11 +163,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"Wait, and you shall see,\" said his father."
-    },
-    {
-     "id": "p007.s02",
-     "source": "\"You will like your new lodge much better.\""
+     "source": "\"'She's your woman if you can catch her and will marry her,' growled the man; 'but you will have to live here and help me make a living.'"
     }
    ],
    "id": "p007"
@@ -177,35 +173,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "When they reached the camp, Koto saw what the chief had meant."
-    },
-    {
-     "id": "p008.s02",
-     "source": "During the summer some white men had camped there and had built a log cabin for themselves."
-    },
-    {
-     "id": "p008.s03",
-     "source": "Then they had gone away, leaving the little cabin deserted, and now the chief had taken it for his lodge."
-    },
-    {
-     "id": "p008.s04",
-     "source": "Koto was very much pleased with his new home, and the door which opened on hinges was always a great surprise to him."
-    },
-    {
-     "id": "p008.s05",
-     "source": "He was not able to go out during that long winter, but he was never lonely, for the first day they were in the cabin a strange visitor came."
-    },
-    {
-     "id": "p008.s06",
-     "source": "It was a little, brown bird which had been deserted by its mate, and it flew in to get away from the cold."
-    },
-    {
-     "id": "p008.s07",
-     "source": "All winter it remained with Koto, feeding from his food at mealtime, and hopping around him during the day as he was weaving his baskets."
-    },
-    {
-     "id": "p008.s08",
-     "source": "At night it slept on a little board that was nailed to the wall near Koto's bed of skins."
+     "source": "\"'I'll try to catch her, and if I do I will marry her and stay here, for I am a great hunter and can easily kill what meat we want,' said Old-man."
     }
    ],
    "id": "p008"
@@ -215,35 +183,19 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "When springtime came and the door was left open, Koto noticed that the bird's mate had returned."
+     "source": "\"He went out of the lodge and climbed the tree after the woman."
     },
     {
      "id": "p009.s02",
-     "source": "It flew to the bushes near the house and called to Koto's bird, but she would not go, and at last her mate came to the doorway."
+     "source": "She screamed, but he caught her and held her, although she scratched him badly."
     },
     {
      "id": "p009.s03",
-     "source": "Again he called, and this time she went out, but she came back at mealtime and remained with Koto all night."
+     "source": "He carried her into the lodge and there renewed his promise to stay there always."
     },
     {
      "id": "p009.s04",
-     "source": "Every day after that she would fly out in the morning and come back three or four times during the day, while her mate would never come past the doorway."
-    },
-    {
-     "id": "p009.s05",
-     "source": "Then one day she did not come back."
-    },
-    {
-     "id": "p009.s06",
-     "source": "Koto watched and waited for her."
-    },
-    {
-     "id": "p009.s07",
-     "source": "The long day passed and evening came, still there was no sign of the bird."
-    },
-    {
-     "id": "p009.s08",
-     "source": "The next day went by, and the next, and little Koto began to look very sad as he sat at the door watching for her."
+     "source": "The man married them, and they were happy for four days, but on the fifth morning OLD-man was gone—gone with all the dried meat in the lodge—the thief."
     }
    ],
    "id": "p009"
@@ -253,19 +205,15 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "At last he hobbled out and sat very quietly under the trees."
+     "source": "\"When they were sure that the rascal had run away the woman began to cry, but not so the man."
     },
     {
      "id": "p010.s02",
-     "source": "In a little while he came back as quickly as he could, his face shining for joy."
+     "source": "He got his bow and arrows and left the lodge in anger."
     },
     {
      "id": "p010.s03",
-     "source": "When he entered the cabin, he looked around eagerly."
-    },
-    {
-     "id": "p010.s04",
-     "source": "Then his face grew sad again."
+     "source": "There was snow on the ground and the man took the track of OLD-man, intending to catch and kill him."
     }
    ],
    "id": "p010"
@@ -275,11 +223,15 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "\"She is not here,\" he said sadly."
+     "source": "\"The track was fresh and the man started on a run, for he was a good hunter and as fast as a Deer."
     },
     {
      "id": "p011.s02",
-     "source": "\"My little bird is not here.\""
+     "source": "Of course he gained on OLD-man, who was a much slower traveller; and the Sun was not very high when the old thief stopped on a hilltop to look back."
+    },
+    {
+     "id": "p011.s03",
+     "source": "He saw the man coming fast."
     }
    ],
    "id": "p011"
@@ -289,7 +241,19 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"No, she is not here,\" said his mother, \"Did you think she was?\""
+     "source": "\"'This will never do,' he said to himself."
+    },
+    {
+     "id": "p012.s02",
+     "source": "'That queer person will catch me."
+    },
+    {
+     "id": "p012.s03",
+     "source": "I know what I shall do; I shall turn myself into a dead Bull-Elk and lie down."
+    },
+    {
+     "id": "p012.s04",
+     "source": "Then he will pass me and I can go where I please.'"
     }
    ],
    "id": "p012"
@@ -299,7 +263,19 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "\"Yes, I saw her fly in, but she is not here.\""
+     "source": "\"He took off his moccasins and said to them: 'Moccasins, go on toward the west."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Keep going and making plain tracks in the snow toward the big-water where the Sun sleeps."
+    },
+    {
+     "id": "p013.s03",
+     "source": "The queer-one will follow you, and when you pass out of the snowy country, you can lose him."
+    },
+    {
+     "id": "p013.s04",
+     "source": "Go quickly for he is close upon us.'"
     }
    ],
    "id": "p013"
@@ -309,15 +285,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Koto went out again and seated himself under the trees once more, but he saw no sign of his bird all the rest of that day."
+     "source": "\"The moccasins ran away as OLD-man wanted them to, and they made plain tracks in the snow leading away toward the big-water."
     },
     {
      "id": "p014.s02",
-     "source": "The next day he went to the same place to watch, and not long after he came hobbling in eagerly with his face shining for joy as before."
-    },
-    {
-     "id": "p014.s03",
-     "source": "He looked around the cabin, and again he grew sad, for there was no bird to be seen."
+     "source": "OLD-man turned into a dead Bull-Elk and stretched himself near the tracks the moccasins had made."
     }
    ],
    "id": "p014"
@@ -327,15 +299,39 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Each day after that the same thing happened."
+     "source": "\"Up the hill came the man, his breath short from running."
     },
     {
      "id": "p015.s02",
-     "source": "As he sat under the trees he saw the little bird fly into the cabin, but when he entered there was no bird to be seen."
+     "source": "He saw the dead Elk, and thought it might be OLD-man playing a trick."
     },
     {
      "id": "p015.s03",
-     "source": "He grew sadder and looked so thin that the chief became sad, too."
+     "source": "He was about to shoot an arrow into the dead Elk to make sure; but just as he was about to let the arrow go, he saw the tracks the moccasins had made."
+    },
+    {
+     "id": "p015.s04",
+     "source": "Of course he thought the moccasins were on OLD-man's feet, and that the carcass was really that of a dead Elk."
+    },
+    {
+     "id": "p015.s05",
+     "source": "He was badly fooled and took the tracks again."
+    },
+    {
+     "id": "p015.s06",
+     "source": "On and on he went, following the moccasins over hills and rivers."
+    },
+    {
+     "id": "p015.s07",
+     "source": "Faster than before went the man, and still faster travelled the empty moccasins, the trail growing dimmer and dimmer as the daylight faded."
+    },
+    {
+     "id": "p015.s08",
+     "source": "All day long, and all of the night the man followed the tracks without rest or food, and just at daybreak he came to the shore of the big-water."
+    },
+    {
+     "id": "p015.s09",
+     "source": "There, right by the water's edge, stood the empty moccasins, side by side."
     }
    ],
    "id": "p015"
@@ -345,23 +341,19 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "\"My son,\" he said, \"you must not think of this bird."
+     "source": "\"The man turned and looked back."
     },
     {
      "id": "p016.s02",
-     "source": "It has flown away."
+     "source": "His eyes were red and his legs were trembling."
     },
     {
      "id": "p016.s03",
-     "source": "It will not come back."
+     "source": "'Caw—caw, caw,' he heard a Crow say."
     },
     {
      "id": "p016.s04",
-     "source": "This is a spirit bird that you see enter the cabin."
-    },
-    {
-     "id": "p016.s05",
-     "source": "Try not to think of it and be happy.\""
+     "source": "Right over his head he saw the black bird and knew him, too."
     }
    ],
    "id": "p016"
@@ -371,15 +363,23 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "But the little Cree boy only shook his head and said, \"I saw her go in and she does not come out and she is not in the cabin."
+     "source": "\"'Ho!"
     },
     {
      "id": "p017.s02",
-     "source": "Where is she?"
+     "source": "OLD-man, you were in that dead Bull-Elk."
     },
     {
      "id": "p017.s03",
-     "source": "Where is my little bird?\""
+     "source": "You fooled me, and now you are a Crow."
+    },
+    {
+     "id": "p017.s04",
+     "source": "You think you will escape me, do you?"
+    },
+    {
+     "id": "p017.s05",
+     "source": "Well, you will not; for I, too, know magic, and am wise.'"
     }
    ],
    "id": "p017"
@@ -389,11 +389,23 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "So the chief made up his mind that he would watch and see if the little bird really did fly into the cabin."
+     "source": "\"With a stick the man drew a circle in the sand."
     },
     {
      "id": "p018.s02",
-     "source": "The next day he watched with Koto under the trees, and in a few minutes the little boy grasped his hand."
+     "source": "Then he stood within the ring and sang a song."
+    },
+    {
+     "id": "p018.s03",
+     "source": "OLD-man was worried and watched the strange doings from the air overhead."
+    },
+    {
+     "id": "p018.s04",
+     "source": "Inside the circle the man began to whirl about so rapidly that he faded from sight, and from the centre of the circle there came an Eagle."
+    },
+    {
+     "id": "p018.s05",
+     "source": "Straight at the Crow flew the Eagle, and away toward the mountains sped the Crow, in fright."
     }
    ],
    "id": "p018"
@@ -403,43 +415,59 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "\"Look,\" he said, \"look, there is my little bird.\""
+     "source": "\"The Crow knew that the Eagle would catch him, so that as soon as he reached the trees on the mountains he turned himself into a Wren and sought the small bushes under the tall trees."
     },
     {
      "id": "p019.s02",
-     "source": "And there in a tree near them were two brown birds, one of them Koto's pet."
+     "source": "The Eagle saw the change, and at once began turning over and over in the air."
     },
     {
      "id": "p019.s03",
-     "source": "They flew away together; then one, when it reached the side of the cabin, suddenly disappeared."
+     "source": "When he had reached the ground, instead of an Eagle a Sparrow-hawk chased the Wren."
     },
     {
      "id": "p019.s04",
-     "source": "Quickly seizing his father's hand, Koto and the chief reached the door of the little home."
+     "source": "Now the chase was fast indeed, for no place could the Wren find in which to hide from the Sparrow-hawk."
     },
     {
      "id": "p019.s05",
-     "source": "They looked eagerly around the room, but there was not a bird to be seen."
+     "source": "Through the brush, into trees, among the weeds and grass, flew the Wren with the Hawk close behind."
     },
     {
      "id": "p019.s06",
-     "source": "They searched every place, for the chief was sure that he had seen it enter."
+     "source": "Once the Sparrow-hawk picked a feather from the Wren's tail—so close was he to his victim."
     },
     {
      "id": "p019.s07",
-     "source": "There was no trace of it any place."
+     "source": "It was nearly over with the Wren, when he suddenly came to a park along a river's side."
     },
     {
      "id": "p019.s08",
-     "source": "Going out, he looked at the side of the little house, and there was a hole between the logs where the bird might easily enter."
+     "source": "In this park were a hundred lodges of our people, and before a fine lodge there sat the daughter of the chief."
     },
     {
      "id": "p019.s09",
-     "source": "Coming in, he looked for the hole on the inside, but could not find it."
+     "source": "It was growing dark and chilly, but still she sat there looking at the river."
     },
     {
      "id": "p019.s10",
-     "source": "Then he noticed that an old, gray jacket, which had been left there by the white men, was hanging where the hole ought to be."
+     "source": "The Sparrow-hawk was striking at the Wren with his beak and talons, when the Wren saw the young-woman and flew straight to her."
+    },
+    {
+     "id": "p019.s11",
+     "source": "So swift he flew that the young-woman didn't see him at all, but she felt something strike her hand, and when she looked she saw a bone ring on her finger."
+    },
+    {
+     "id": "p019.s12",
+     "source": "This frightened her, and she ran inside the lodge, where the fire kept the shadows from coming."
+    },
+    {
+     "id": "p019.s13",
+     "source": "OLD-man had changed into the ring, of course, and the Sparrow-hawk didn't dare to go into the lodge; so he stopped outside and listened."
+    },
+    {
+     "id": "p019.s14",
+     "source": "This is what he heard OLD-man say:"
     }
    ],
    "id": "p019"
@@ -449,23 +477,15 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "He took down the jacket and Koto gave a cry of delight."
+     "source": "\"'Don't be frightened, young-woman, I am neither a Wren nor a ring."
     },
     {
      "id": "p020.s02",
-     "source": "For from a pocket of the coat peaked the head of his little bird, and there was the hole between the logs, where the coat had hung."
+     "source": "I am OLD-man and that Sparrow-hawk has chased me all the day and for nothing."
     },
     {
      "id": "p020.s03",
-     "source": "The bird seemed quite pleased that they had found her, and after a while flew off her nest to peck from Koto's hand."
-    },
-    {
-     "id": "p020.s04",
-     "source": "After some days her eggs were hatched, and then the father bird consented to enter the cabin and help feed the young ones."
-    },
-    {
-     "id": "p020.s05",
-     "source": "When the little birds grew large enough, they flew away with the father bird, but for the rest of the summer Koto's little brown friend remained with him, watching him weave his baskets, and seemed very pleased when at last he was able to walk a little."
+     "source": "I have never done him harm, and he bothers me without reason.'"
     }
    ],
    "id": "p020"
@@ -475,10 +495,78 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "When fall came, she went away with the other birds, but this time Koto was not sad, for he knew she was happy, and he was happy, too, because he could now walk."
+     "source": "\"'Liar—forked-tongue,' cried the Sparrow-hawk."
+    },
+    {
+     "id": "p021.s02",
+     "source": "'Believe him not, young-woman."
+    },
+    {
+     "id": "p021.s03",
+     "source": "He has done wrong."
+    },
+    {
+     "id": "p021.s04",
+     "source": "He is wicked and I am not a Sparrow-hawk, but conscience."
+    },
+    {
+     "id": "p021.s05",
+     "source": "Like an arrow I travel, straight and fast."
+    },
+    {
+     "id": "p021.s06",
+     "source": "When he lies or steals from his friends I follow him."
+    },
+    {
+     "id": "p021.s07",
+     "source": "I talk all the time and he hears me, but lies to himself, and says he does not hear."
+    },
+    {
+     "id": "p021.s08",
+     "source": "You know who I am, young-woman, I am what talks inside a person.'"
     }
    ],
    "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"OLD-man heard what the Sparrow-hawk said, and he was ashamed for once in his life."
+    },
+    {
+     "id": "p022.s02",
+     "source": "He crawled out of the lodge."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Into the shadows he ran away—away into the night, and the darkness—away from himself!"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "\"You see,\" said War Eagle, as he reached for his pipe, \"OLD-man knew that he had done wrong, and his heart troubled him, just as yours will bother you if you do not listen to the voice that speaks within yourselves."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Whenever that voice says a thing is wicked, it is wicked—no matter who says it is not."
+    },
+    {
+     "id": "p023.s03",
+     "source": "Yes—it is very hard for a man to hide from himself."
+    },
+    {
+     "id": "p023.s04",
+     "source": "Ho!\""
+    }
+   ],
+   "id": "p023"
   }
  ]
 }

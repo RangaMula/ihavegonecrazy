@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-092",
  "title": {
   "id": "title",
-  "source": "Why The Turkey Gobbles"
+  "source": "The First Fire"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
  "source_book": "Myths and Legends of the Great Plains",
  "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/092 - Why The Turkey Gobbles.md",
+ "markdown_file": "Americas/Native North America (various nations)/092 - The First Fire.md",
  "stats": {
-  "paragraphs": 8,
-  "segments": 12,
-  "words": 138
+  "paragraphs": 13,
+  "segments": 51,
+  "words": 666
  },
  "paragraphs": [
   {
@@ -33,19 +33,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "I n the old days, Grouse had a good voice and Turkey had none."
+     "source": "I n the beginning there was no fire and the world was cold."
     },
     {
      "id": "p002.s02",
-     "source": "Therefore Turkey asked Grouse to teach him."
+     "source": "Then the Thunders, who lived up in Galun’lati, sent their lightning and put fire into the bottom of a hollow sycamore tree which grew on an island."
     },
     {
      "id": "p002.s03",
-     "source": "But Grouse wanted pay, so Turkey promised to give him some feathers for a collar."
+     "source": "The animals knew it was there because they could see the smoke coming out at the top, but they could not get to it on account of the water, so they held a council to decide what to do."
     },
     {
      "id": "p002.s04",
-     "source": "That is how the Grouse got his collar of turkey feathers."
+     "source": "This was a long, long time ago."
     }
    ],
    "id": "p002"
@@ -55,15 +55,35 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "So the Grouse began to teach Turkey."
+     "source": "Every animal was anxious to go after the fire."
     },
     {
      "id": "p003.s02",
-     "source": "At last Grouse said, “Now you must try your voice."
+     "source": "Raven offered."
     },
     {
      "id": "p003.s03",
-     "source": "You must halloo.”"
+     "source": "He was large and strong, so he was sent first."
+    },
+    {
+     "id": "p003.s04",
+     "source": "He flew high and far across the water, and lighted on the sycamore tree."
+    },
+    {
+     "id": "p003.s05",
+     "source": "There he perched, wondering what to do next."
+    },
+    {
+     "id": "p003.s06",
+     "source": "Then he looked at himself."
+    },
+    {
+     "id": "p003.s07",
+     "source": "The heat had scorched his feathers black."
+    },
+    {
+     "id": "p003.s08",
+     "source": "Raven was so frightened he flew back across the water without any fire."
     }
    ],
    "id": "p003"
@@ -73,7 +93,27 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Turkey said, “Yes.”"
+     "source": "Then little Wa-hu-hu, the Screech Owl, offered to go."
+    },
+    {
+     "id": "p004.s02",
+     "source": "He flew high and far across the water and perched upon a hollow tree."
+    },
+    {
+     "id": "p004.s03",
+     "source": "As he sat there looking into the hollow tree, wondering what to do, a blast of hot air came up and hurt his eyes."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Screech Owl was frightened."
+    },
+    {
+     "id": "p004.s05",
+     "source": "He flew back as best he could, because he could hardly see."
+    },
+    {
+     "id": "p004.s06",
+     "source": "That is why his eyes are red even to this day."
     }
    ],
    "id": "p004"
@@ -83,7 +123,19 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Grouse said, “I’ll stand on this hollow log, and when I tap on it, you must halloo as loudly as you can.”"
+     "source": "Then Hooting Owl and the Horned Owl went, but by the time they reached the hollow tree, the fire was blazing so fiercely that the smoke nearly blinded them."
+    },
+    {
+     "id": "p005.s02",
+     "source": "The ashes carried up by the breeze made white rings around their eyes."
+    },
+    {
+     "id": "p005.s03",
+     "source": "So they had to come home without fire."
+    },
+    {
+     "id": "p005.s04",
+     "source": "Therefore they have white rings around their eyes."
     }
    ],
    "id": "p005"
@@ -93,7 +145,43 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "So Grouse climbed upon a log, ready to tap on it, but when he did so, Turkey became so excited that when he opened his mouth, he only said, “ Gobble, gobble, gobble! ”"
+     "source": "None of the rest of the birds would go to the fire."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Then Uk-su-hi, the racer snake, said he would go through the water and bring back fire."
+    },
+    {
+     "id": "p006.s03",
+     "source": "He swam to the island and crawled through the grass to the tree."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Then he went into the tree by a small hole at the bottom."
+    },
+    {
+     "id": "p006.s05",
+     "source": "But the heat and smoke were dreadful."
+    },
+    {
+     "id": "p006.s06",
+     "source": "The ground at the bottom of the tree was covered with hot ashes."
+    },
+    {
+     "id": "p006.s07",
+     "source": "The racer darted back and forth trying to get off the ashes, and at last managed to escape through the same hole by which he had entered."
+    },
+    {
+     "id": "p006.s08",
+     "source": "But his body had been burned black."
+    },
+    {
+     "id": "p006.s09",
+     "source": "Therefore he is now the black racer."
+    },
+    {
+     "id": "p006.s10",
+     "source": "And that is why the black racer darts around and doubles on his track as if trying to escape."
     }
    ],
    "id": "p006"
@@ -103,15 +191,113 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "That is why the Turkey gobbles whenever he hears a noise."
+     "source": "Then great Blacksnake, “The Climber,” offered to go for fire."
+    },
+    {
+     "id": "p007.s02",
+     "source": "He was much larger than the black racer."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Blacksnake swam over to the island and climbed up the tree on the outside, as the blacksnake always does, but when he put his head down into the hole the smoke choked him so that he fell into the burning stump."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Before he could climb out, he, too, was burned black."
     }
    ],
    "id": "p007"
   },
   {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "So the birds, and the animals, and the snakes held another council."
+    },
+    {
+     "id": "p008.s02",
+     "source": "The world was still very cold."
+    },
+    {
+     "id": "p008.s03",
+     "source": "There was no fire."
+    },
+    {
+     "id": "p008.s04",
+     "source": "But all the birds, and the snakes, and all the four-footed animals refused to go for fire."
+    },
+    {
+     "id": "p008.s05",
+     "source": "They were all afraid of the burning sycamore."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Then Water Spider said she would go."
+    },
+    {
+     "id": "p009.s02",
+     "source": "This is not the water spider that looks like a mosquito, but the other one—the one with black downy hair and red stripes on her body."
+    },
+    {
+     "id": "p009.s03",
+     "source": "She could run on top of the water, or dive to the bottom."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "The animals said, “How can you bring back fire?”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "But Water Spider spun a thread from her body and wove it into a tusti bowl which she fastened on her back."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Then she swam over to the island and through the grass to the fire."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Water Spider put one little coal of fire into her bowl, and then swam back with it."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "That is how fire came to the world."
+    },
+    {
+     "id": "p012.s02",
+     "source": "And that is why Water Spider has a tusti bowl on her back."
+    }
+   ],
+   "id": "p012"
+  },
+  {
    "type": "break",
    "segments": [],
-   "id": "p008"
+   "id": "p013"
   }
  ]
 }

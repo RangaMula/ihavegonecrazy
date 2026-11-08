@@ -1,0 +1,55 @@
+# Die zwei Ai
+
+- **Tradition:** Kabyle people (Algeria) (Africa)
+- **Source book:** *Atlantis, Bd. I: Volksmärchen der Kabylen (1921)*
+- **Author / collector / translator:** Frobenius, Leo (author, d. 1938)
+- **Original language of this text:** de
+- **Source:** Internet Archive item `atlantisvolksm01frobuoft` — https://archive.org/details/atlantisvolksm01frobuoft (OCR text, lightly cleaned)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+- **Note:** Digitised by OCR; minor recognition errors may remain.
+
+---
+
+Ein Mann hieß Ali ; ein zweiter Mann hieß auch Ali. Beide waren eng miteinander befreundet und hießen überall „die zwei Ai". Wollte man sie voneinander unterscheiden, so bezeichnete man den einen als Uaii, den anderen aber schlechtweg mit Ali. Beide Ai waren überaus schlau, einer wie der andere, so daß man von ihnen sagte : „Uali urzileköl (ur = nie, leko(a)l = nehmen) rafu (über) Ali", d. h. „Uali und Ali können keiner dem anderen etwas nehmen." Eines Tages hörte das Ali wieder auf dem Markte. Er sagte sich: „Weshalb sagen das die Leute ? Ich bin schlauer als Uali. Ich werde es zeigen." Ali ging heim. Er nahm einen Sack, füllte ihn ganz mit Asche, legte oben darauf einige Feigen und kehrte mit dieser schweren Last auf den Markt zurück.
+
+Uali war allein auf dem Markt geblieben. Er hörte wieder hinter sich sagen : „Uali und Alikönnenkeiner dem anderen etwas nehmen." Uali sagte bei sich : „Weshalb sagen das die Leute ? Ich bin schlauer als Ali. Ich werde es zeigen." Uali ging heim. Er nahm einen Sack, füllte ihn mit Asche und legte oben darauf eine Schicht Mehl. Mit der schweren Last kehrte er auf den Markt zurück.
+
+Uali traf Ali und sagte : „Du hast eine schwere Last. Was hast du ? Was willst du damit ?" Ali sagte : „Ich habe von meinem Onkel einen Sack Feigen bekommen, den soll ich verkaufen. Aber sage mir, was du zum Markte getragen hast ?" Uali sagte : „Dies ist ein Sack feinen Mehles, den die Schwester meines Vaters mich zu verkaufen gebeten hat. Es ist ein sehr feines Mehl. Sieh es an." Ali betrachtete das Mehl, ließ es durch die Finger rinnen und sagte: „Das Mehl der Schwester deines Vaters ist recht gut. Aber als Mehl ist es doch nicht so gut wie die Feigen meines Onkels. Es sind die besten Feigen, die je gepflückt wurden. Hier nimm eine und versuche sie." Uali versuchte die Feigen und sagte: „Die Feigen sind recht gut. Aber der Sack Feigen ist einen Sack Mehl nicht wert, selbst wenn es nicht einmal so gut wäre wie das der Schwester meines Vaters." Ali sagte: „Du irrst dich. Dein Mehl ist ganz schön, aber es gibt besseres. Und meine Feigen sind so ausgezeichnet, daß ein Sack Mehl, und wenn es vom allerbesten wäre, meinem Sack Feigen an Wert nicht nahekäme." Uali und Ali stritten eine Zeit miteinander.
+
+Endlich sagte Ali zu Uali : „Höre, wir wollen auf dem Markt keinen besonderen Streit anfangen." Uali sagte : „Du hast recht. Wir wollen Frieden halten und sagen, dein Sack Feigen und mein Sack Mehl sind einer so viel wert, wie der andere." Ali sagte: „Du hast recht. Alle Leute sagen: ,Uali und Ali können keiner dem anderen etwas nehmen.' Bleiben wir dabei und erreichen wir es, daß die Leute sagen ,Ualis Mehl ist so viel wert wie Alis Feigen*!" Uali sagte: „ Tauschen wir also deine Feigen gegen mein Mehl aus." Ali war es einverstanden. Ali nahm Ualis Sack mit der Asche und dem Mehl, Uali Alis Sack mit der Asche und den Feigen. Ali sagte: „Lebe wohl Uali." Uali sagte: „Lebe wohl Ali." Beide gingen heim.
+
+Als Uali heimkam, sagte er: „Die Leute haben nicht recht. Ich habe heute dem Ali einen Sack voll Asche gegen einen Sack voll Mehl aufgeladen. Ich bin Ali doch überlegen." Als Ali heimkam, sagte er: „Die Leute haben nicht recht. Ich habe heute dem Uali einen Sack voll Asche gegen einen Sack voll Feigen aufgeladen. Ich bin Uali überlegen." — Uali öffnete den Sack, um von dem Mehl
+
+zu nehmen. Uali fand Alis Asche. Ali öffnete seinen Sack, um von den Feigen zu nehmen. Ali fand Ualis Asche. Uali sagte nichts. Ali sagte nichts.
+
+Am anderen Tage trafen sich Ali und Uali. Ali sagte: „Hm!“ Uali sagte: „Hm!" Ali sagte: „Wir sind doch die beiden Ai!" Uali sagte: „Natürlich sind wir die beiden Ai! Wir sind ja auch die besten Freunde!" Ali sagte: „Natürlich sind wir die besten Freunde. Denn du kannst überall die Leute sagen hören : Uali und Ali können keiner dem anderen etwas nehmen!" Uali sag^e: „So ist es." Ali sagte: „Wie sollte es auch anders werden!" Uali sagte: „Ich möchte auch wissen, wie es anders werden könnte," Ali sagte: „Gut so! Wir wollen zusammen stehlen gehen und sehen, daß wir den Leuten etwas zu reden geben." Uali sagte: „Tun wir das. Wir werden die Leute reden machen." Ali sagte: „Es ist gut, wir werden einen Ochsen finden und im Busch eine gute Mahlzeit halten."
+
+Ali und Uali machten sich auf den Weg. Ali nahm viel Salz mit. Die beiden Ai fanden nahe dem Walde einen Ochsen. Sie nahmen den Ochsen und trieben ihn weit in den Wald hinein vor sich her. Uali wollte haltmachen. Ali sagte : „Hier sind wir noch nicht sicher. Wir müssen noch weiter gehen." Ali und Uali kamen mit ihren Ochsen bis tief in den Wald hinein. Dort töteten sie den Ochsen, zogen ihm das Fell ab und zerlegten das Fleisch.
+
+Die beiden Ai wollten nun abkochen. Ali sagte: „Ich weiß eine Quelle und werde Wasser holen. Gehe du inzwischen hin und hole Holz." Ali holte Wasser. Uali holte Holz. Als Uali mit dem Holz kam, sagte Ali: „Es ist nicht genug, hole noch mehr." Uali ging noch einmal. Als er fort war, rieb Ali das Fleisch des Uali stark mit Salz ein. Uali kam zurück. Uali und Ali aßen ein jeder sein Fleisch.
+
+Nach einiger Zeit sagte Uali: „Ach Ali zeige mir doch die Quelle. Ich bin so sehr durstig." Ali sagte : »Jetzt ist es Nacht. Es ist nicht möglich, jetzt zur Quelle zu gehen. Denn es sind jetzt viele wilde Tiere dort." Uali sagte: „ Ich habe solchen Durst." Ali sagte: „ Warte, bis es Tag wird." Ali drehte sich um und schlief ein.
+
+Als Ali eingeschlafen war, nahm Uali die Haut des Ochsen und schlich sich in den Busch. Er suchte einige Zeit und fand dann endlich die Quelle. Uali trank sich satt und hing dann die Ochsenhaut über der Quelle in den Zweigen so auf, daß sie wie ein Tier aussah. Danach machte er sich auf den Rückweg, legte sich am Feuer nieder und schlief bald ein.
+
+Als es Morgen war, erwachte Ali. Ali empfand Durst von dem vielen Fleisch, das er am Abend genossen hatte. Ali erhob sich und schlich zu der Quelle, um zu trinken. Als er die Büsche auseinanderbog, sah er die Ochsenhaut. Ali erschrak und lief schnell zurück. Er weckte Uali und sagte: „ Stehe schnell auf und komm mit. An der Quelle ist ein Tier. Wir wollenes verjagen." Uali sagte: „Geh, laß mich schlafen!" Ali sagte: „Komm, hilf mir; ich habe solchen Durst." Uali sagte : „Mein Durst ist vergangen. Dein Durst wird auch vergehen." Uali drehte sich um und schlief wieder ein.
+
+Uali schlief bis zum Nachmittag. Ali kaute, um den Durst zu löschen, Blätter. Sein Durst wurde immer schlimmer. Am Nachmittage wachte Uali auf. Uali sagte : „Ali, nun komm mit zur Quelle. Wir wollen trinken." Uali ging voran. Uali nahm das Fell von den Zweigen und trank. Ali sah es. Ali sagte : „ Uali!" Uali sagte : „Wir sind eben die beiden Ai. In der Nacht durstet der eine, am Tage der andere." Ali sagte: „So ist es. Wir sind die besten Freunde." Uali sagte: „So ist es. Wir sind die besten Freunde." Uali sagte: „ Gewiß sind wir es und werden es auch bleiben, was auch immer geschieht." Ali sagte: „Wir werden wieder gemeinsam stehlen gehen." Uali sagte: „Das wollen wir tun." Ali und Uali gingen zusammen nach Hause.
+
+Die beiden Ai begaben sich einmal wieder auf eine Wanderung, um zu stehlen. Sie kamen an ein einsam gelegenes Haus. Ali schlich in den Stall. Er fand eine Stute, umwickelte ihre Füße mit Stroh und brachte sie hinaus. Inzwischen sah sich Uali um, was er wohl mitnehmen könne. Zuletzt fand er eine sehr schöne Decke (Decken der Kabylen = tatherbit). Ali eilte mit seiner Stute, Uali mit seiner Decke von dannen.
+
+Ali bestieg die Stute und ritt. Uali lief hinterher. So kamen sie sehr weit. Zuletzt war Uali müde. Seine Füße schmerzten ihm vom Laufen. Uali sagte zu Ali: „Ich bin sehr müde. Laß mich auch einmal die Stute besteigen und ein Stück weit reiten." Ali sagte: „Aber Uali, wie kannst du nur so etwas denken?! Weshalb hast du dir denn, wenn du auch reiten willst, nicht auch eine Stute genommen ?" Uali sagte: „Ich habe keine gefunden. In dem Stall war nur eine und auf der reitest du jetzt schon lange." Ali sagte: „Ich wundere mich." Ali ritt weiter.
+
+Ali ritt weiter und Uali lief mit wunden und schmerzhaften Füßen hinterher. Einen Tag lang ritt Ali und den ganzen Tag lang lief Uali hinterdrein. Abends kamen sie an einen Wald. Ali ritt in den Wald.
+
+Uali ging hinterher. Im Walde machte Ali halt und stieg ab. Uali und Ali legten sich zum Schlafen nieder. Uali wickelte sich in seine Decke. Nachts begann es zu regnen. Es regnete und wurde sehr kalt. Uali wickelte sich (behaglich) in seine Decke. Ali fror. Ali fror und bat Uali: „Laß mich mit unter deiner Decke schlafen." Uali sagte: „Aber mein Ali, weshalb hast du denn nicht auch eine Decke mitgenommen? Die Stute hätte außer dir noch sehr gut eine Decke tragen können." Ali sagte : „Ich habe mit der Stute schon solche Eile gehabt. Da habe ich keine Decke mehr gesehen." Uali sagte: „Ach Ali, ich muß mich sehr wundern." Uali drehte sich herum, wickelte sich fest in seine Decke und schlief ein.
+
+Es regnete und war sehr kalt. Ali fror. Er zitterte vor Frost. Uali schlief in seiner Decke. Ali sah, daß Uali fest schlief. Er zog sein Messer heraus, näherte sich Uali und schnitt die Hälfte seiner Decke ab. Er nahm die abgeschnittene Hälfte der Decke, wickelte sich hinein und schlief ein.
+
+Nach einiger Zeit wachte Uali auf. Er sah, daß Ali neben ihm in der abgeschnittenen Hälfte der Decke schlief. Uali sagte: „ Warte, mein Ali, das soll dich deine Stute kosten." Uali erhob sich. Er schlich zu der Stute. Er zog sein Messer heraus und schnitt der Stute die Unterlippe ab. Die Unterlippe legte er auf den Boden. Dann kam er zurück, wickelte sich in die übriggebliebene Hälfte seiner Decke und schlief ein.
+
+Am anderen Morgen erwachte Ali. Am anderen Morgen erwachte Uali. Ali lachte und sagte: „ Mein Uali, sieh deine Decke. Wie willst du die nun verkaufen?" Uali lachte und sagte: „Ich werde sie so gut verkaufen wie du deine Stute." Ali sah auf. Ali sah auf seine Stute. Er sah, daß ihr die Unterlippe abgeschnitten war. Ali sagte : „Äh!"
+
+Ali sagte: „Wie sagen die Leute?" Uali sagte: „Die Leute sagen: ,Uali und Ali können keiner dem anderen etwas nehmen.* Ich denke, mein Ali, die Leute hätten recht." Ali sagte : „So ist es, und wir wollen in Zukunft nicht mehr versuchen, die Leute eines Besseren zu belehren." Uali sagte: „ So wollen wir es lassen." Ali und Uali schworen sich wieder Freundschaft.
+
+Die beiden Ai kehrten in ihr Dorf zurück. Sie hielten ihre Freundschaft. Die beiden Ai heirateten zwei Schwestern aus dem gleichen Dorfe.

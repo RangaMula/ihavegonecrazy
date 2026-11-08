@@ -2,20 +2,20 @@
  "id": "oc-hawaii-native-hawaiian-people-090",
  "title": {
   "id": "title",
-  "source": "The Annihilation Of Keoua’S Army"
+  "source": "Na Puu o Pele"
  },
  "tradition": "Hawaii (Native Hawaiian people)",
  "continent": "Oceania",
  "source_lang": "en",
  "source_book": "Hawaiian Legends of Volcanoes (mythology)",
  "credits": "Westervelt, W. D. (William Drake) (author, d. 1939)",
- "gutenberg": "Project Gutenberg eBook #66516 — https://www.gutenberg.org/ebooks/66516 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #66516 — https://www.gutenberg.org/ebooks/66516",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/090 - The Annihilation Of Keoua’S Army.md",
+ "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/090 - Na Puu o Pele.md",
  "stats": {
-  "paragraphs": 21,
-  "segments": 61,
-  "words": 1355
+  "paragraphs": 32,
+  "segments": 85,
+  "words": 1555
  },
  "paragraphs": [
   {
@@ -23,11 +23,15 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "A lmost exactly thirty-four years before Kapiolani defied the worship of the fire-goddess Pele, Keoua, a high chief, lost a large part of his army near the volcano Kilauea."
+     "source": "T hrough the fleeting hours of Tuesday, January eighth, in the year nineteen hundred and seven, earthquakes were felt all over the island of Hawaii."
     },
     {
      "id": "p001.s02",
-     "source": "This was in November, 1790."
+     "source": "Soon after midnight as the stars of the new day Wednesday, January ninth, looked down on the melting snows of Mauna Loa, a glorious fire-light broke out on the southern slope."
+    },
+    {
+     "id": "p001.s03",
+     "source": "This light filled the sky above the mountain and was visible from all parts of the island."
     }
    ],
    "id": "p001"
@@ -37,11 +41,39 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Ka-lani-opuu had been king over the island Hawaii."
+     "source": "The Hawaiians said “Pele has come again.”"
     },
     {
      "id": "p002.s02",
-     "source": "When he died in 1782, he left the kingdom to his son Kiwalao, giving the second place to his nephew Kamehameha."
+     "source": "For some hours great floods of lava poured forth with extraordinary activity, quickly covering a vast area of land on the side of the mountain about four thousand feet below the summit crater."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Then as the brilliant light of the sun took the place of the glow of volcanic fires, clouds of eruptive gases and smoke marked the course of the lava in its flow down the mountain side."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Moreover, for nearly two days the lava found an underground channel from [ ] which it burst forth at times with explosions attended by earthquakes which shook the western coast of the island."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Puffs of smoke by day and pillars of fire by night marked the course of this underground channel."
+    },
+    {
+     "id": "p002.s06",
+     "source": "Thus for nearly three days the country throbbed with excitement because of the uncertainty attending the continued action of the lava flow."
+    },
+    {
+     "id": "p002.s07",
+     "source": "Then came Friday evening and a sky flooded with an ocean of fire."
+    },
+    {
+     "id": "p002.s08",
+     "source": "The lava burst from the side of the mountain about half-way between the summit and the sea in magnificent tossing waves, a river hundreds of feet across, dashing over old lava flows, burning the ferns and trees of the forest which had grown on lava a hundred years and more of age."
+    },
+    {
+     "id": "p002.s09",
+     "source": "Down it forced its way, sometimes cooling in great stone masses, crunching and crushing against each other, sometimes a rough mass of cinders resting upon a moving bed of fire and sometimes a swiftly moving liquid stream pushing from under a cooling surface and continually pressing downward toward the sea."
     }
    ],
    "id": "p002"
@@ -51,19 +83,19 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "War soon arose between the cousins."
+     "source": "Meanwhile, as this lava flow was making its descent, another branch broke away westward."
     },
     {
      "id": "p003.s02",
-     "source": "Kamehameha defeated and killed the young king."
+     "source": "A little hill of lava frozen ages before into a massive breastwork of black stone standing in the front of this flow of 1907 divided it so that this western branch took its own way to the ocean [ ] beach."
     },
     {
      "id": "p003.s03",
-     "source": "Kiwalao’s half-brother Keoua escaped to his district Ka-u, on the southwestern side of the island."
+     "source": "Thus this mighty force of melted rock from the underworld hurled its vast mass down the mountain, piling itself over all life in its path and leaving only towering heaps of desolation to cover the earth."
     },
     {
      "id": "p003.s04",
-     "source": "His uncle Keawe-mau-hili escaped to his district Hilo on the southeastern side."
+     "source": "Between these two branches of the lava river lay stretched a tract of ancient lava several miles wide, desolate and dreary save for small clumps of trees and patches of ferns and grass."
     }
    ],
    "id": "p003"
@@ -73,11 +105,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "For some years the three factions practically let each other alone, although there was desultory fighting."
+     "source": "At the end of this uncovered old lava two symmetrical mounds rise from the rugged splintered rocks."
     },
     {
      "id": "p004.s02",
-     "source": "Then the high chief of Hilo accepted Kamehameha as his king and sent his sons to aid Kamehameha in conquering the island Maui."
+     "source": "These are marked on the maps of the large island as “Na Puu o Pele” (The hills of Pele)."
     }
    ],
    "id": "p004"
@@ -87,11 +119,15 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Keoua was angry with his uncle Keawe-mau-hili."
+     "source": "In the summer of 1905 two friends journeyed across the desolate country which has been made more desolate by the eruption of 1907."
     },
     {
      "id": "p005.s02",
-     "source": "He attacked Hilo, killed his uncle and [ ] ravaged Kamehameha’s lands along the northeastern side of the island."
+     "source": "Wearied by the hours passed in travelling over lava sharp as broken glass these friends found a grass-covered resting-place and there waited for their fatigue to pass away."
+    },
+    {
+     "id": "p005.s03",
+     "source": "In a little while some Hawaiians drew near."
     }
    ],
    "id": "p005"
@@ -101,7 +137,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "TWO MAORI GIRLS IN ANCIENT GREETING"
+     "source": "“ Aloha oukou [Friendship to you]!” was the greeting to them."
     }
    ],
    "id": "p006"
@@ -111,11 +147,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Kamehameha quickly returned from Maui and made an immediate attack on his enemy, who had taken possession of a fertile highland plain called Waimea."
-    },
-    {
-     "id": "p007.s02",
-     "source": "From this method of forcing unexpected battle came the Hawaiian saying, “The spear seeks Waimea like the wind.”"
+     "source": "“ Aloha olua [Friendship to you also]!” was the reply."
     }
    ],
    "id": "p007"
@@ -125,19 +157,11 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Keoua was defeated and driven through forests along the eastern side of Mauna Kea (The white mountain) to Hilo."
+     "source": "“This place is deserted by almost all life."
     },
     {
      "id": "p008.s02",
-     "source": "Then Kamehameha sent warriors around the western side of the island to attack Keoua’s home district."
-    },
-    {
-     "id": "p008.s03",
-     "source": "Meanwhile, after a sea fight in which he defeated the chiefs of the islands Maui and Oahu, he set his people to building a great temple chiefly for his war-god Ka-ili."
-    },
-    {
-     "id": "p008.s04",
-     "source": "This was the last noted temple built on all the islands."
+     "source": "Surely one cannot expect it to add any story to Hawaiian mythology.” [ ]"
     }
    ],
    "id": "p008"
@@ -147,43 +171,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Keoua heard of the attack on his home, therefore he gave the fish-ponds and fertile lands of Hilo to some of his chiefs and hastened to cross the island with his army by way of a path near the volcano Kilauea."
-    },
-    {
-     "id": "p009.s02",
-     "source": "He divided his warriors into three parties, taking charge of the first in person."
-    },
-    {
-     "id": "p009.s03",
-     "source": "They passed the crater at a time of great volcanic activity."
-    },
-    {
-     "id": "p009.s04",
-     "source": "A native writer, probably Kamakau, in the native newspaper Kuokoa , 1867, describes the destruction of the central part of this army by an awful explosion from Kilauea. [ ] He said: “Thus was it done."
-    },
-    {
-     "id": "p009.s05",
-     "source": "Sand, ashes, and stones grew up from the pit into a very high column of fire, standing straight up."
-    },
-    {
-     "id": "p009.s06",
-     "source": "The mountains of Mauna Kea and Mauna Loa were below it."
-    },
-    {
-     "id": "p009.s07",
-     "source": "The people even from Ka-wai-hae [a seaport on the opposite side of the mountains] saw this wonderful column with fire glowing and blazing to its very top."
-    },
-    {
-     "id": "p009.s08",
-     "source": "When this column became great it blew all to pieces into sand and ashes and great stones, which for some days continued to fall around the sides of Kilauea."
-    },
-    {
-     "id": "p009.s09",
-     "source": "Men, women, and children were killed."
-    },
-    {
-     "id": "p009.s10",
-     "source": "Mona, one of the army, who saw all this but who escaped, said that one of the chiefesses was ill and some hundreds of the army had delayed their journey to guard her and so escaped this death.”"
+     "source": "“Ay, there is a story which belongs to the two hills of Pele down by the sea.”"
     }
    ],
    "id": "p009"
@@ -193,7 +181,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Dibble, the first among the missionaries to prepare a history of the islands, gave the following description of the event:"
+     "source": "That summer day, on the lava of long ago, so long ago that its date is not recorded, we heard the story of the chiefs of Kahuku and the fiery and voluptuous goddess of the volcanic forces of the Hawaiian Islands."
     }
    ],
    "id": "p010"
@@ -203,27 +191,15 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "“Keoua’s path led by the great volcano of Kilauea."
+     "source": "Kahuku, the land now under past and present lava flows, was at one time luxuriant and beautiful."
     },
     {
      "id": "p011.s02",
-     "source": "There they encamped."
+     "source": "The sugar-cane and taro beds were bordered by flowers and shaded by long-branching trees."
     },
     {
      "id": "p011.s03",
-     "source": "In the night a terrific eruption took place, throwing out flame, cinders, and even heavy stones to a great distance and accompanied from above with intense lightning and heavy thunder."
-    },
-    {
-     "id": "p011.s04",
-     "source": "In the morning Keoua and his companions were afraid to proceed and spent the day in trying to appease the goddess of the volcano, whom they supposed they had offended the day before by rolling stones [ ] into the crater."
-    },
-    {
-     "id": "p011.s05",
-     "source": "But on the second night and on the third night also there were similar eruptions."
-    },
-    {
-     "id": "p011.s06",
-     "source": "On the third day they ventured to proceed on their way, but had not advanced far before a more terrible and destructive eruption than any before took place; an account of which, taken from the lips of those who were part of the company and present in the scene, may not be an unwelcome digression."
+     "source": "Villages here and there marked the population which supported the chiefs of Kahuku."
     }
    ],
    "id": "p011"
@@ -233,35 +209,19 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "‘The army of Keoua set out on their way in three different companies."
+     "source": "Two of the young chiefs were splendid specimens of savage manhood."
     },
     {
      "id": "p012.s02",
-     "source": "The company in advance had not proceeded far before the ground began to shake and rock beneath their feet and it became quite impossible to stand."
+     "source": "They both excelled in the sports and athletic feats which were the chief occupation of those days."
     },
     {
      "id": "p012.s03",
-     "source": "Soon a dense cloud of darkness was seen to rise out of the crater, and almost at the same instant the electrical effect upon the air was so great that the thunder began to roar in the heavens and the lightning to flash."
+     "source": "Wherever a hillside was covered with grass and the ground properly sloping, holua races were carried on."
     },
     {
      "id": "p012.s04",
-     "source": "It continued to ascend and spread abroad until the whole region was enveloped and the light of day was entirely excluded."
-    },
-    {
-     "id": "p012.s05",
-     "source": "The darkness was the more terrific, being made visible by an awful glare from streams of red and blue light variously combined that issued from the pit below, and being lit up at intervals by the intense flashes of lightning from above."
-    },
-    {
-     "id": "p012.s06",
-     "source": "Soon followed an immense volume of sand and cinders which were thrown in high heaven and came down in a destructive shower for many [ ] miles around."
-    },
-    {
-     "id": "p012.s07",
-     "source": "Some few persons of the forward company were burned to death by the sand and cinders and others were seriously injured."
-    },
-    {
-     "id": "p012.s08",
-     "source": "All experienced a suffocating sensation upon the lungs and hastened on with all possible speed."
+     "source": "Very narrow sleds (holua) with long runners were used in these races."
     }
    ],
    "id": "p012"
@@ -271,7 +231,15 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "‘The rear body, which was nearest the volcano at the time of the eruption, seemed to suffer the least injury, and after the earthquake and shower of sand had passed over, hastened forward to escape the dangers which threatened them, and rejoicing in mutual congratulations that they had been preserved in the midst of such imminent peril."
+     "source": "Maidens and young men vied with each other in mad rushes over the holua courses."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Usually the body was thrown headlong on the sled as it was pushed over the brink of the little hill at the beginning of the slide."
+    },
+    {
+     "id": "p013.s03",
+     "source": "Sometimes the more courageous riders would rest on hands and knees while only the very skilful dared stand upright during the swift descent. [ ]"
     }
    ],
    "id": "p013"
@@ -281,27 +249,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "‘But what was their surprise and consternation when, on coming up with their comrades of the centre party, they discovered them all to have become corpses."
+     "source": "Pele, the goddess of fire, loved this sport and often appeared as a beautiful and athletic princess."
     },
     {
      "id": "p014.s02",
-     "source": "Some were lying down, and others sitting upright clasping with dying grasp their wives and children and joining noses (their form of expressing affection) as in the act of taking a final leave."
-    },
-    {
-     "id": "p014.s03",
-     "source": "So much like life they looked that they at first supposed them merely at rest, and it was not until they had come up to them and handled them that they could detect their mistake."
-    },
-    {
-     "id": "p014.s04",
-     "source": "Of the whole party, including women and children, not one of them survived to relate the catastrophe that had befallen their comrades."
-    },
-    {
-     "id": "p014.s05",
-     "source": "The only living being they found was a solitary hog, in company with [ ] one of the families which had been so suddenly bereft of life."
-    },
-    {
-     "id": "p014.s06",
-     "source": "In those perilous circumstances, the surviving party did not even stay to bewail their fate, but, leaving their deceased companions as they found them, hurried on and overtook the company in advance at the place of their encampment.’"
+     "source": "She carried her sled with her to Kahuku to the holua hillside, and easily surpassed all the women in grace and daring."
     }
    ],
    "id": "p014"
@@ -311,15 +263,11 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "“Keoua and his followers, of whom the narrator of this scene were a part, retreated in the direction they had come."
+     "source": "Soon the two handsome young chiefs saw her and challenged her to race with them."
     },
     {
      "id": "p015.s02",
-     "source": "On their return, they found their deceased friends as they had left them, entire and exhibiting no other marks of decay than a sunken hollowness in their eyes; the rest of their bodies was in a state of entire preservation."
-    },
-    {
-     "id": "p015.s03",
-     "source": "They were never buried, and their bones lay bleaching in the sun and rain for many years.”"
+     "source": "For hours they sported together, the chiefs led captive by the charms of the goddess."
     }
    ],
    "id": "p015"
@@ -329,11 +277,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "A blast of sulphurous gas, a shower of heated embers, or a volume of heated steam would sufficiently account for this sudden death."
+     "source": "Jealous of each other, they strove to win Pele each to his own home."
     },
     {
      "id": "p016.s02",
-     "source": "Some of the narrators who saw the corpses affirm that, though in no place deeply burnt, yet they were thoroughly scorched.”"
+     "source": "Thus the days passed by, filled with sports and pleasures."
     }
    ],
    "id": "p016"
@@ -343,7 +291,7 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Keoua’s prophets ascribed this blow from the gods to their high chief’s dislike of Hilo and gift to sub-chiefs of the fish-ponds, which were considered the favorite food-producers for offerings to Hiiaka, the youngest member of the Pele family. [ ]"
+     "source": "At last the young men became suspicious of their companion, her love was so fitful and capricious, sometimes burning with a raging fire toward her friends and sometimes filled with hot anger on very slight provocation."
     }
    ],
    "id": "p017"
@@ -353,7 +301,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Kamehameha’s prophets said that this eruption was the favor of the gods on his temple building."
+     "source": "At last a warning came that this beautiful stranger might be the goddess Pele from the other side of the island; that her home was in Halemaumau (The continuing house) of the volcano Kilauea; her attendants the always leaping flames; the caves filled with rolling waves of fire her dwelling-rooms; that she carried the control of the fires of the underworld with her wherever she went."
     }
    ],
    "id": "p018"
@@ -363,7 +311,7 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "The people said it was proof that Pele had taken Kamehameha under her especial protection and would always watch over his interests and make him the chief ruler."
+     "source": "The young chiefs talked together concerning their experiences and then began to draw away from their dangerous visitor. [ ]"
     }
    ],
    "id": "p019"
@@ -373,7 +321,11 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "Kamehameha."
+     "source": "But Pele made it difficult for them to escape from her presence."
+    },
+    {
+     "id": "p020.s02",
+     "source": "She continually called them to race with her."
     }
    ],
    "id": "p020"
@@ -383,10 +335,220 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "[ ]"
+     "source": "DECKED WITH LEIS OF PLUMERIA"
     }
    ],
    "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "At last the grass began to die."
+    },
+    {
+     "id": "p022.s02",
+     "source": "The soil became warm, and the heat intense."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Slight earthquakes made themselves felt."
+    },
+    {
+     "id": "p022.s04",
+     "source": "The tides were more snappy as they cast their surf waves along the beach."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "The chiefs became afraid."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Pele saw it and was overcome with anger."
+    },
+    {
+     "id": "p023.s03",
+     "source": "Her appearance changed."
+    },
+    {
+     "id": "p023.s04",
+     "source": "Her hair floated out in tangled masses, touched by the breath of hot winds."
+    },
+    {
+     "id": "p023.s05",
+     "source": "Her arms and limbs shone as if enwrapped with fire."
+    },
+    {
+     "id": "p023.s06",
+     "source": "Her eyes blazed like lightning, and her breath poured forth in volumes of smoke."
+    },
+    {
+     "id": "p023.s07",
+     "source": "In great terror the chiefs rushed toward the sea."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Pele struck the ground heavily with her feet."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Again and again she stamped in wrath."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Earthquakes swept the lands of Kahuku."
+    },
+    {
+     "id": "p024.s04",
+     "source": "Then the awful fiery flood broke from the underworld, and swept down over Kahuku."
+    },
+    {
+     "id": "p024.s05",
+     "source": "On the crest of the falling torrent of fire rode Pele, flashing the fires of her anger in great explosions above the flood."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "The chiefs tried to flee toward the north, but Pele hurled the fiercest torrents beyond them to turn them back."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Then they fled toward the south, but Pele again forced them back upon their own lands. [ ]"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Then they hurried down to the beach, hoping to catch one of their canoes and escape on the ocean."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Quickly these young men leaped on."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Swiftly came the fiery flood behind them."
+    },
+    {
+     "id": "p026.s04",
+     "source": "Pele was urging the underworld forces to their utmost speed."
+    },
+    {
+     "id": "p026.s05",
+     "source": "Shrieking like fierce, whistling winds, tearing her hair and throwing it away in bunches, Pele sped after the chiefs."
+    },
+    {
+     "id": "p026.s06",
+     "source": "The floods of lava, obeying the commands of the goddess, spread out over all the land of the chiefs so that from the mountain to the sea the luxuriant lands became desolate."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Nearer and nearer to the sea came the swift runners."
+    },
+    {
+     "id": "p027.s02",
+     "source": "It seemed as if they had found the way of escape, for the surf waves waited eagerly to welcome them, and a canoe lay near the beach."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "But Pele leaped from the flowing lava and threw her burning arms around the nearest one of her former lovers."
+    },
+    {
+     "id": "p028.s02",
+     "source": "In a moment the lifeless body was thrown to one side."
+    },
+    {
+     "id": "p028.s03",
+     "source": "The lava piled itself up around it, while at the command of Pele a new gush of lava rose up like a fresh crater and swallowed up all that was left."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "The other chief was petrified by fear and horror."
+    },
+    {
+     "id": "p029.s02",
+     "source": "In a moment Pele seized him and called for another outburst of lava, which rose up rapidly around them."
+    },
+    {
+     "id": "p029.s03",
+     "source": "In a few minutes the Hills of Pele were built."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Thus the lovers of Pele died and thus their [ ] tombs were made."
+    },
+    {
+     "id": "p030.s02",
+     "source": "For many years, even from ancient times, they have marked the destruction of the beautiful lands of Kahuku."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Later lava flows have turned aside to spare the monuments of the chiefs with whom Pele played for a time, and the two hills of Pele are still seen near the shore of the ocean."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "[ ]"
+    }
+   ],
+   "id": "p032"
   }
  ]
 }

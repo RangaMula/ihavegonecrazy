@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-051",
  "title": {
   "id": "title",
-  "source": "The Five Water-Spirits"
+  "source": "Why The Birch-Tree Wears The Slashes In Its Bark"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Thirty Indian Legends",
- "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/051 - The Five Water-Spirits.md",
+ "source_book": "Indian Why Stories: Sparks from War Eagle's Lodge-Fire",
+ "credits": "Linderman, Frank Bird (author, d. 1938)",
+ "gutenberg": "Project Gutenberg eBook #606 — https://www.gutenberg.org/ebooks/606",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/051 - Why The Birch-Tree Wears The Slashes In Its Bark.md",
  "stats": {
-  "paragraphs": 7,
-  "segments": 19,
-  "words": 336
+  "paragraphs": 17,
+  "segments": 51,
+  "words": 757
  },
  "paragraphs": [
   {
@@ -23,11 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Once upon a time a gray, old man lived on the top of a mountain, where he could see glimpses of the sea."
+     "source": "The white man has never understood the Indian, and the example set the Western tribes of the plains by our white brethren has not been such as to inspire the red man with either confidence or respect for our laws or our religion."
     },
     {
      "id": "p001.s02",
-     "source": "He had a lodge made of birch bark that shone like silver in the sun."
+     "source": "The fighting trapper, the border bandit, the horse-thief and rustler, in whose stomach legitimately acquired beef would cause colic—were the Indians' first acquaintances who wore a white skin, and he did not know that they were not of the best type."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Being outlaws in every sense, these men sought shelter from the Indian in the wilderness; and he learned of their ways about his lodge-fire, or in battle, often provoked by the white ruffian in the hope of gain."
+    },
+    {
+     "id": "p001.s04",
+     "source": "They lied to the Indian—these first white acquaintances, and in after-years, the great Government of the United States lied and lied again, until he has come to believe that there is no truth in the white man's heart."
+    },
+    {
+     "id": "p001.s05",
+     "source": "And I don't blame him."
     }
    ],
    "id": "p001"
@@ -37,7 +49,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "He had five beautiful daughters, whose names were Su, Mi, Hu, Sa, and Er."
+     "source": "The Indian is a charitable man."
+    },
+    {
+     "id": "p002.s02",
+     "source": "I don't believe he ever refused food and shelter or abused a visitor."
+    },
+    {
+     "id": "p002.s03",
+     "source": "He has never been a bigot, and concedes to every other man the right to his own beliefs."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Further than that, the Indian believes that every man's religion and belief is right and proper for that man's self."
     }
    ],
    "id": "p002"
@@ -47,23 +71,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "One day the youngest said, \"My sisters, come and we will go and play near the broad, blue sea, where the waves beat against the rocks.\""
+     "source": "It was blowing a gale and snow was being driven in fine flakes across the plains when we went to the lodge for a story."
     },
     {
      "id": "p003.s02",
-     "source": "So away they ran out of the lodge and down the mountain side."
+     "source": "Every minute the weather was growing colder, and an early fall storm of severity was upon us."
     },
     {
      "id": "p003.s03",
-     "source": "They were all dressed in robes of snow-white foam, that fluttered far behind them as they ran."
-    },
-    {
-     "id": "p003.s04",
-     "source": "Their sandals were of frozen water-drops, and their wings of painted wind."
-    },
-    {
-     "id": "p003.s05",
-     "source": "On they scampered over valley and plain, until they came to a tall, bare rock as high as a mountain."
+     "source": "The wind seemed to add to the good nature of our host as he filled and passed me the pipe."
     }
    ],
    "id": "p003"
@@ -73,19 +89,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Then the youngest cried, \"Sisters, here is a dreadful leap, but if we are afraid, and go back, our father will laugh at us.\""
-    },
-    {
-     "id": "p004.s02",
-     "source": "So, like birds, they all plunged with a merry skip down the side of the rock."
-    },
-    {
-     "id": "p004.s03",
-     "source": "Then \"Ha-ha,\" they cried, \"let us try again.\""
-    },
-    {
-     "id": "p004.s04",
-     "source": "So up to the top they climbed, laughing with joy, and down once more they went, nor ever stopped, laughing like girls on a holiday."
+     "source": "\"This is the night I was to tell you about the Birch-Tree, and the wind will help to make you understand,\" said War Eagle after we had finished smoking."
     }
    ],
    "id": "p004"
@@ -95,11 +99,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The day wore on till sunset, and still they laughed and played."
+     "source": "\"Of course,\" he continued, \"this all happened in the summer-time when the weather was warm, very warm."
     },
     {
      "id": "p005.s02",
-     "source": "The round moon came up, and by its silvery light they sprang from the tall, bare rock, and climbed joyously up its side again."
+     "source": "Sometimes, you know, there are great winds in the summer, too."
     }
    ],
    "id": "p005"
@@ -109,19 +113,23 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Next morning, when the sun arose, the rock was no longer bare."
+     "source": "\"It was a hot day, and OLD-man was trying to sleep, but the heat made him sick."
     },
     {
      "id": "p006.s02",
-     "source": "Over its stony side poured great sheets of foaming water, and in the foam still played the five sisters."
+     "source": "He wandered to a hilltop for air; but there was no air."
     },
     {
      "id": "p006.s03",
-     "source": "They never reached the sea, and there they still play, giving to us the beautiful Niagara Falls."
+     "source": "Then he went down to the river and found no relief."
     },
     {
      "id": "p006.s04",
-     "source": "Sometimes, if you look closely, their forms may be seen in the white foam, but always in the sunny spray you may see their sandals and their wings."
+     "source": "He travelled to the timberlands, and there the heat was great, although he found plenty of shade."
+    },
+    {
+     "id": "p006.s05",
+     "source": "The travelling made him warmer, of course, but he wouldn't stay still."
     }
    ],
    "id": "p006"
@@ -131,10 +139,190 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Su, Superior; Mi, Michigan; Hu, Huron; Sa, St. Clair; Er, Erie."
+     "source": "\"By and by he called to the winds to blow, and they commenced."
+    },
+    {
+     "id": "p007.s02",
+     "source": "First they didn't blow very hard, because they were afraid they might make OLD-man angry, but he kept crying:"
     }
    ],
    "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"'Blow harder—harder—harder!"
+    },
+    {
+     "id": "p008.s02",
+     "source": "Blow worse than ever you blew before, and send this heat away from the world.'"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"So, of course, the winds did blow harder—harder than they ever had blown before."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"'Bend and break, Fir-Tree!' cried OLD-man, and the Fir-Tree did bend and break."
+    },
+    {
+     "id": "p010.s02",
+     "source": "'Bend and break, Pine-Tree!' and the Pine-Tree did bend and break."
+    },
+    {
+     "id": "p010.s03",
+     "source": "'Bend and break, Spruce-Tree!' and the Spruce-Tree did bend and break."
+    },
+    {
+     "id": "p010.s04",
+     "source": "'Bend and break, O Birch-Tree!' and the Birch-Tree did bend, but it wouldn't break—no, sir!—it wouldn't break!"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"'Ho!"
+    },
+    {
+     "id": "p011.s02",
+     "source": "Birch-Tree, won't you mind me?"
+    },
+    {
+     "id": "p011.s03",
+     "source": "Bend and break!"
+    },
+    {
+     "id": "p011.s04",
+     "source": "I tell you,' but all the Birch-Tree would do was to bend."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"It bent to the ground; it bent double to please OLD-man, but it would not break."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "\"'Blow harder, wind!' cried OLD-man, 'blow harder and break the Birch-Tree.'"
+    },
+    {
+     "id": "p013.s02",
+     "source": "The wind tried to blow harder, but it couldn't, and that made the thing worse, because OLD-man was so angry he went crazy."
+    },
+    {
+     "id": "p013.s03",
+     "source": "'Break!"
+    },
+    {
+     "id": "p013.s04",
+     "source": "I tell you—break!' screamed OLD-man to the Birch-Tree."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"'I won't break,' replied the Birch; 'I shall never break for any wind."
+    },
+    {
+     "id": "p014.s02",
+     "source": "I will bend, but I shall never, never break.'"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"'You won't, hey?' cried OLD-man, and he rushed at the Birch-Tree with his hunting-knife."
+    },
+    {
+     "id": "p015.s02",
+     "source": "He grabbed the top of the Birch because it was touching the ground, and began slashing the bark of the Birch-Tree with the knife."
+    },
+    {
+     "id": "p015.s03",
+     "source": "All up and down the trunk of the tree OLD-man slashed, until the Birch was covered with the knife slashes."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"'There! that is for not minding me."
+    },
+    {
+     "id": "p016.s02",
+     "source": "That will do you good!"
+    },
+    {
+     "id": "p016.s03",
+     "source": "As long as time lasts you shall always look like that, Birch-Tree; always be marked as one who will not mind its maker."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Yes, and all the Birch-Trees in the world shall have the same marks forever.'"
+    },
+    {
+     "id": "p016.s05",
+     "source": "They do, too."
+    },
+    {
+     "id": "p016.s06",
+     "source": "You have seen them and have wondered why the Birch-Tree is so queerly marked."
+    },
+    {
+     "id": "p016.s07",
+     "source": "Now you know."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "\"That is all—Ho!\""
+    }
+   ],
+   "id": "p017"
   }
  ]
 }

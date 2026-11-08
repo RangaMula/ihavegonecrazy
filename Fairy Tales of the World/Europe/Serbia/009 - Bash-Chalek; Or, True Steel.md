@@ -4,7 +4,7 @@
 - **Source book:** *Serbian Fairy Tales*
 - **Author / collector / translator:** Mijatovich, Elodie L. (translator)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #67191 — https://www.gutenberg.org/ebooks/67191 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #67191 — https://www.gutenberg.org/ebooks/67191
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

@@ -1,0 +1,42 @@
+{
+ "id": "am-chile-081",
+ "title": {
+  "id": "title",
+  "source": "La Vaca del Rei"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos chilenos de nunca acabar",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #69164 — https://www.gutenberg.org/ebooks/69164",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/081 - La Vaca del Rei.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 2,
+  "words": 207
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Este era un rei que tenia una vaca, i la vaca tenia una cabeza, i la cabeza era de la vaca i la vaca era del rei; i la vaca tenia dos cachos, i los dos cachos eran de la vaca, i la vaca era del rei; i la vaca tenia dos ojos i los dos ojos eran de la vaca, i la vaca era del rei; i la vaca tenia una nariz, i la nariz era de la vaca i la vaca era del rei;..... i la vaca tenia una cola, i la cola era de la vaca, i la vaca era del rei; i la vaca tenia un ternero, i el ternero era de la vaca i la vaca era del rei; i el ternero tenia una cabeza, i la cabeza era del ternero i el ternero era del rei; i el ternero tenia dos cachos, i los dos cachos eran del ternero, i el ternero era del rei;.... i el rei tenia otra vaca...."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "I como esta vaca era madre de otro ternero, i el rei poseia muchas otras vacas, cada una con su correspondiente ternero, i las vacas i los terneros tenian cabeza, cachos, etc. resulta que el cuento no se acaba nunca."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

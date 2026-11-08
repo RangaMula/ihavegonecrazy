@@ -1,0 +1,20 @@
+# De Uil en zijn schoonbroeders vleermuis. (W.)
+
+- **Tradition:** Caribbean (Suriname and the Dutch Antilles) (Americas)
+- **Source book:** *Mythen en sagen uit West-Indië*
+- **Author / collector / translator:** Cappelle, Herman van, Jr. (author, d. 1932)
+- **Original language of this text:** nl
+- **Source:** Project Gutenberg eBook #72126 — https://www.gutenberg.org/ebooks/72126
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Bokoe-Bokoe, de nachtuil, was getrouwd met de zuster van de vleermuis en nam des nachts haar broêrs meermalen mede, om in de Indianen-hutten op roof uit te gaan. Eens op een nacht kwamen zij langs een hut, waarin het volk juist bezig was, op den barbakot visch te roosteren. Om de menschen schrik aan te jagen, zongen zij luidkeels: bokoe! bokoe! bokoe! waardoor zij de bewoners op de vlucht joegen, zoodat zij gelegenheid kregen, de visch te stelen. Het drietal haalde in meerdere hutten denzelfden streek uit, totdat de uil op zekeren dag aan zijn kornuiten [ ] meêdeelde, dat hij voor eenigen tijd op reis moest en dat zij zich tijdens zijne afwezigheid maar wat moesten behelpen en goed deden, ’s nachts binnenshuis (d.i. in het bosch) te blijven, daar er anders zeker iets minder prettigs met hen zou gebeuren. Maar niet zoodra had Bokoe-bokoe zijn hielen gelicht, of zwager Vleermuis nam nu in zijn plaats zijn broêr op den rooftocht meê.
+
+Eens op een nacht kwamen de beide vleermuizen weêr aan een hut, waar visch geroosterd werd, en daar zij nu den uil niet bij zich hadden en dus niet zoo duidelijk bokoe! bokoe! bokoe! konden roepen als te voren, werd het volk ook niet zoo bang en liep het niet zoo ver weg, zoodat het in staat was te zien, dat de vleermuizen het waren, die hun die poets bakten. Maar de vleermuizen, die zich niet lieten afschrikken en dachten, dat zij ongestraft hun slag zouden kunnen slaan, kwamen den volgenden avond terug, toen een deel van de menschen reeds in hun hangmatten lag, anderen nog rustig bijeenzaten. De snoodaards dachten zeker, dat er niets met hen gebeuren kon en lachten van vreugde Chi! Chi! Chi! Maar de hutmeester nam zijn boog en schoot een pijl, voorzien van een prop was , een der vleermuizen tegen het lijf, waardoor deze bedwelmd neêr viel. Zijn broêr, die onmiddellijk naar het bosch gevlucht was, ontmoette daar Bokoe-bokoe, die juist van zijn reis teruggekeerd was en aan wien hij den vroegen dood van zijn broêr vertelde. Maar het verlies schrikte hen niet af, zoodat zij er den volgenden nacht met hun tweeën op uittrokken. Het geluid hunner stemmen bracht, nu Uil er bij was, weêr zulk een opschudding onder het Indianenvolk teweeg, dat allen weêr de vlucht naar het bosch namen en Bokoe-bokoe met zijn schoonbroêr de visch kon wegnemen. Toen zij nu op den barbakot ook [ ] de doode vleermuis ontdekten, namen zij het lichaam van hun verwante meê naar huis, waar zij flink op de plek begonnen te kloppen, waar hij met den pijl geraakt was; dit bracht het dier weêr bij, daar het vuur deze plek niet had aangedaan, en als te voren begon de tot het leven weêr terug geroepen vleermuis te lachen, Chi! chi! chi!
+
+Hoewel nu Bokoe-bokoe den volgenden avond verhinderd was zijn beide schoonbroêrs te vergezellen, herhaalden deze toch hun nachtelijken strooptocht, en zooals van zelf sprak, was het volk weêr minder bevreesd, zoodat een der vleermuizen een schot in zijn achterste ontving.
+
+Den volgenden nacht keerde nu Bokoe-bokoe met zijn schoonbroêr terug en evenals de eerste keer vonden zij op den barbakot weêr de gedoode vleermuis. Weêr namen zij het lichaam meê naar huis; maar toen zij weêr op het lichaam klopten, wilde het leven niet terugkeeren; het was te veel geroosterd boven het vuur.
+
+De overlevende vleermuis echter gaat nu altijd voort met het volk en zijn gevogelte uit te zuigen , of hen op andere wijze te hinderen, terwijl de verschijning van Bokoe-bokoe voortaan altijd ongeluk beteekent. Wanneer het bokoe! bokoe! bokoe! des nachts wordt gehoord, beteekent dit steeds ziekte of dood.

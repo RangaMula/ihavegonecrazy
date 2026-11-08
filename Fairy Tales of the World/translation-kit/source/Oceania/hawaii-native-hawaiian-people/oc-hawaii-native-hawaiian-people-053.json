@@ -2,20 +2,20 @@
  "id": "oc-hawaii-native-hawaiian-people-053",
  "title": {
   "id": "title",
-  "source": "Maui'S Home"
+  "source": "The Wonderful Shell"
  },
  "tradition": "Hawaii (Native Hawaiian people)",
  "continent": "Oceania",
  "source_lang": "en",
- "source_book": "Legends of Ma-ui—a demi god of Polynesia, and of his mother Hina",
+ "source_book": "Legends of Old Honolulu (Mythology)",
  "credits": "Westervelt, W. D. (William Drake) (author, d. 1939)",
- "gutenberg": "Project Gutenberg eBook #32601 — https://www.gutenberg.org/ebooks/32601 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #66547 — https://www.gutenberg.org/ebooks/66547",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/053 - Maui'S Home.md",
+ "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/053 - The Wonderful Shell.md",
  "stats": {
-  "paragraphs": 29,
-  "segments": 117,
-  "words": 2086
+  "paragraphs": 39,
+  "segments": 87,
+  "words": 1347
  },
  "paragraphs": [
   {
@@ -23,7 +23,15 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "\"Akalana was the man; Hina-a-ke-ahi was the wife; Maui First was born; Then Maui-waena; Maui Kiikii was born; Then Maui of the malo.\" —Queen Liliuokalani's Family Chant."
+     "source": "N ear Niolapa, on the eastern side of Nuuanu Valley, is the stone where Kapuni rested when he came after the shell known as the Kiha-pu."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Kapuni was a child of Kauhola, who was said to have been a chief, who was born, was walking and had grown up, had become a father, a grandfather, and had died, all in one day."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Kapuni was born in Waipio Valley, and was placed in the temple Pakaaluna and was made a god."
     }
    ],
    "id": "p001"
@@ -33,19 +41,27 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Four brothers, each bearing the name of Maui, belong to Hawaiian legend."
+     "source": "Two gods came from Puna."
     },
     {
      "id": "p002.s02",
-     "source": "They accomplished little as a family, except on special occasions when the youngest of the household awakened his brothers by some unexpected trick which drew them into unwonted action."
+     "source": "They were Kaakau and Kaohuwalu."
     },
     {
      "id": "p002.s03",
-     "source": "The legends of Hawaii, Tonga, Tahiti, New Zealand and the Hervey group make this youngest Maui \"the discoverer of fire\" or \"the ensnarer of the sun\" or \"the fisherman who pulls up islands\" or \"the man endowed with magic,\" or \"Maui with spirit power.\""
+     "source": "They waited above Hakalaoa looking down into Waipio."
     },
     {
      "id": "p002.s04",
-     "source": "The legends vary somewhat, of course, but not as much as might be expected when the thousands of miles between various groups of islands are taken into consideration."
+     "source": "There they saw Kapuni leaping."
+    },
+    {
+     "id": "p002.s05",
+     "source": "He touched a branch of a kukui-tree and fell down."
+    },
+    {
+     "id": "p002.s06",
+     "source": "He leaped again and touched the short top branches of the kukui and fell down."
     }
    ],
    "id": "p002"
@@ -55,27 +71,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Maui was one of the Polynesian demi-gods."
-    },
-    {
-     "id": "p003.s02",
-     "source": "His parents belonged to the family of supernatural beings."
-    },
-    {
-     "id": "p003.s03",
-     "source": "He himself was possessed of supernatural powers and was supposed to make use of all manner of enchantments."
-    },
-    {
-     "id": "p003.s04",
-     "source": "In New Zealand antiquity a Maui was said to have assisted other gods in the creation of man."
-    },
-    {
-     "id": "p003.s05",
-     "source": "Nevertheless Maui was very human."
-    },
-    {
-     "id": "p003.s06",
-     "source": "He lived in thatched houses, had wives and children, and was scolded by the women for not properly supporting his household."
+     "source": "Kaakau said to Kaohuwalu, “Suppose we get Kapuni to go with us as our travelling companion, one with us, in fierce storms, or in the cold heavy dews of night.”"
     }
    ],
    "id": "p003"
@@ -85,23 +81,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The time of his sojourn among men is very indefinite."
+     "source": "Kaohuwalu assented, and they arose and went down."
     },
     {
      "id": "p004.s02",
-     "source": "In Hawaiian genealogies Maui and his brothers were placed among the descendants of Ulu and \"the sons of Kii,\" and Maui was one of the ancestors of Kamehameha, the first king of the united Hawaiian Islands."
+     "source": "They called to Kapuni, asking him to [ ] leap up."
     },
     {
      "id": "p004.s03",
-     "source": "This would place him in the seventh or eighth century of the Christian Era."
-    },
-    {
-     "id": "p004.s04",
-     "source": "But it is more probable that Maui belongs to the mist-land of time."
-    },
-    {
-     "id": "p004.s05",
-     "source": "His mischievous pranks with the various gods would make him another Mercury living in any age from the creation to the beginning of the Christian era."
+     "source": "He tried again and again and always fell back."
     }
    ],
    "id": "p004"
@@ -111,7 +99,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The Hervey Island legends state that Maui's father was \"the supporter of the heavens\" and his mother \"the guardian of the road to the invisible world.\""
+     "source": "Kaakau caught him as he fell and cut off part of his body because he was too heavy, then he could fly to the sky and return again."
     }
    ],
    "id": "p005"
@@ -121,23 +109,19 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "In the Hawaiian chant, Akalana was the name of his father."
+     "source": "Kaakau asked him how he was succeeding."
     },
     {
      "id": "p006.s02",
-     "source": "In other groups this was the name by which his mother was known."
+     "source": "He replied, “Very well indeed; I am swift in flight.”"
     },
     {
      "id": "p006.s03",
-     "source": "Kanaloa, the god, is sometimes known as the father of Maui."
+     "source": "Then Kaakau said, “Will you go with us on a journey?”"
     },
     {
      "id": "p006.s04",
-     "source": "In Hawaii Hina was his mother."
-    },
-    {
-     "id": "p006.s05",
-     "source": "Elsewhere Ina, or Hina, was the grandmother, from whom he secured fire."
+     "source": "Kapuni said, “Yes.”"
     }
    ],
    "id": "p006"
@@ -147,15 +131,11 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "The Hervey Island legends say that four mighty ones lived in the old world from which their ancestors came."
+     "source": "They went away to the lands of Kahiki and returned to Kauai."
     },
     {
      "id": "p007.s02",
-     "source": "This old world bore the name Ava-iki, which is the same as Hawa-ii, or Hawaii."
-    },
-    {
-     "id": "p007.s03",
-     "source": "The four gods were Mauike, Ra, Ru, and Bua-Taranga."
+     "source": "From there they heard the wonderful voice of a shell sounding from the temple Waolani in Nuuanu Valley."
     }
    ],
    "id": "p007"
@@ -165,35 +145,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "It is interesting to trace the connection of these four names with Polynesian mythology."
-    },
-    {
-     "id": "p008.s02",
-     "source": "Mauike is the same as the demi-god of New Zealand, Mafuike."
-    },
-    {
-     "id": "p008.s03",
-     "source": "On other islands the name is spelled Mauika, Mafuika, Mafuia, Mafuie, and Mahuika."
-    },
-    {
-     "id": "p008.s04",
-     "source": "Ra, the sun god of Egypt, is the same as Ra in New Zealand and La (sun) in Hawaii."
-    },
-    {
-     "id": "p008.s05",
-     "source": "Ru, the supporter of the heavens, is probably the Ku of Hawaii, and the Tu of New Zealand and other islands, one of the greatest of the gods worshiped by the ancient Hawaiians."
-    },
-    {
-     "id": "p008.s06",
-     "source": "The fourth mighty one from Ava-ika was a woman, Bua-taranga, who guarded the path to the underworld."
-    },
-    {
-     "id": "p008.s07",
-     "source": "Talanga in Samoa, and Akalana in Hawaii were the same as Taranga."
-    },
-    {
-     "id": "p008.s08",
-     "source": "Pua-kalana (the Kalana flower) would probably be the same in Hawaiian as Bua-taranga in the language of the Society Islands."
+     "source": "Kapuni said, “What is that thing which makes such a sound?”"
     }
    ],
    "id": "p008"
@@ -203,19 +155,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Ru, the supporter of the Heavens, married Bua-taranga, the guardian of the lower world."
-    },
-    {
-     "id": "p009.s02",
-     "source": "Their one child was Maui."
-    },
-    {
-     "id": "p009.s03",
-     "source": "The legends of Raro-Tonga state that Maui's father and mother were the children of Tangaroa (Kanaloa in Hawaiian), the great god worshiped throughout Polynesia."
-    },
-    {
-     "id": "p009.s04",
-     "source": "There were three Maui brothers and one sister, Ina-ika (Ina, the fish)."
+     "source": "Kaakau said, “That is a shell which belongs to the eepas [gnomes], the people of Waolani, Oahu.”"
     }
    ],
    "id": "p009"
@@ -225,7 +165,11 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "The New Zealand legends relate the incidents of the babyhood of Maui."
+     "source": "“I want that shell very much,” said Kapuni."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Kaakau told him that the task would be very difficult and dangerous, for the shell was guarded by watchmen from hill to hill, from the sea to the summit of the valley, and along all the pathways to the neighboring villages."
     }
    ],
    "id": "p010"
@@ -235,43 +179,35 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Maui was prematurely born, and his mother, not caring to be troubled with him, cut off a lock of her hair, tied it around him and cast him into the sea."
+     "source": "The gods, however, crossed the channel to Oahu, and rested at night above Kahakea."
     },
     {
      "id": "p011.s02",
-     "source": "In this way the name came to him, Maui-Tiki-Tiki, or \"Maui formed in the topknot.\""
+     "source": "Here was a temple above Waolani."
     },
     {
      "id": "p011.s03",
-     "source": "The waters bore him safely."
+     "source": "It was upon a hill."
     },
     {
      "id": "p011.s04",
-     "source": "The jelly fish enwrapped and mothered him."
+     "source": "In it was a noted drum."
     },
     {
      "id": "p011.s05",
-     "source": "The god of the seas cared for and protected him."
+     "source": "The name of that temple was Pakaaluna."
     },
     {
      "id": "p011.s06",
-     "source": "He was carried to the god's house and hung up in the roof that he might feel the warm air of the fire, and be cherished into life."
+     "source": "Kapuni told his friends to stay [ ] there waiting for him."
     },
     {
      "id": "p011.s07",
-     "source": "When he was old enough, he came to his relations while they were all gathered in the great House of Assembly, dancing and making merry."
+     "source": "If he did not return before the red dust of the dawn was in the sky they would know he was dead."
     },
     {
      "id": "p011.s08",
-     "source": "Little Maui crept in and sat down behind his brothers."
-    },
-    {
-     "id": "p011.s09",
-     "source": "Soon his mother called the children and found a strange child, who proved that he was her son, and was taken in as one of the family."
-    },
-    {
-     "id": "p011.s10",
-     "source": "Some of the brothers were jealous, but the eldest addressed the others as follows:"
+     "source": "If he returned he would have the shell."
     }
    ],
    "id": "p011"
@@ -281,19 +217,19 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"Never mind; let him be our dear brother."
+     "source": "Then he approached the prison enclosure outside the temple."
     },
     {
      "id": "p012.s02",
-     "source": "In the days of peace remember the proverb, 'When you are on friendly terms, settle your disputes in a friendly way; when you are at war, you must redress your injuries by violence.'"
+     "source": "Here he waited by a rock for all the watchmen on the high places around the temple to fall asleep."
     },
     {
      "id": "p012.s03",
-     "source": "It is better for us, brothers, to be kind to other people."
+     "source": "When the stars arose in the heavens above Nuuanu and all were sound asleep he entered the temple and took the shell."
     },
     {
      "id": "p012.s04",
-     "source": "These are the ways by which men gain influence—by laboring for abundance of food to feed others, by collecting property to give to others, and by similar means by which you promote the good of others.\""
+     "source": "He flew away and found his companions."
     }
    ],
    "id": "p012"
@@ -303,7 +239,11 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Thus, according to the New Zealand story related by Sir George Grey, Maui was received in his home."
+     "source": "They made a great jump and leaped to Kalaau Point."
+    },
+    {
+     "id": "p013.s02",
+     "source": "As they flew over the water to Molokai the shell touched the top of a wave and sang with a clear voice."
     }
    ],
    "id": "p013"
@@ -313,23 +253,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Maui's home was placed by some of the Hawaiian myths at Kauiki, a foothill of the great extinct crater Haleakala, on the Island of Maui."
+     "source": "The god of Waolani Temple heard the shell singing, looked, and found that it had been stolen."
     },
     {
      "id": "p014.s02",
-     "source": "It was here he lived when the sky was raised to its present position."
-    },
-    {
-     "id": "p014.s03",
-     "source": "Here was located the famous fort around which many battles were fought during the years immediately preceding the coming of Captain Cook."
-    },
-    {
-     "id": "p014.s04",
-     "source": "This fort was held by warriors of the Island of Hawaii a number of years."
-    },
-    {
-     "id": "p014.s05",
-     "source": "It was from this home that Maui was supposed to have journeyed when he climbed Mt. Haleakala to ensnare the sun."
+     "source": "He rushed from the temple, flew over the Nuuanu precipice and out into the channel from which he had heard the sound."
     }
    ],
    "id": "p014"
@@ -339,27 +267,11 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "And yet most of the Hawaiian legends place Maui's home by the rugged black lava beds of the Wailuku river near Hilo on the island Hawaii."
+     "source": "Kapuni hid among the waves, the shell ceased its song."
     },
     {
      "id": "p015.s02",
-     "source": "Here he lived when he found the way to make fire by rubbing sticks together, and when he killed Kuna, the great eel, and performed other feats of valor."
-    },
-    {
-     "id": "p015.s03",
-     "source": "He was supposed to cultivate the land on the north side of the river."
-    },
-    {
-     "id": "p015.s04",
-     "source": "His mother, usually known as Hina, had her home in a lava cave under the beautiful Rainbow Falls, one of the fine scenic attractions of Hilo."
-    },
-    {
-     "id": "p015.s05",
-     "source": "An ancient demigod, wishing to destroy this home, threw a great mass of lava across the stream below the falls."
-    },
-    {
-     "id": "p015.s06",
-     "source": "The rising water was fast filling the cave."
+     "source": "The god of Waolani went back and forth over the water, but could find nothing."
     }
    ],
    "id": "p015"
@@ -369,23 +281,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Hina called loudly to her powerful son Maui."
+     "source": "After the god gave up the search Kapuni went on to Molokai and then to Maui and Hawaii."
     },
     {
      "id": "p016.s02",
-     "source": "He came quickly and found that a large and strong ridge of lava lay across the stream."
-    },
-    {
-     "id": "p016.s03",
-     "source": "One end rested against a small hill."
-    },
-    {
-     "id": "p016.s04",
-     "source": "Maui struck the rock on the other side of the hill and thus broke a new pathway for the river."
-    },
-    {
-     "id": "p016.s05",
-     "source": "The water swiftly flowed away and the cave remained as the home of the Maui family."
+     "source": "As it flew across the channel between Maui and Hawaii the shell struck a high wave and broke off a corner. [ ]"
     }
    ],
    "id": "p016"
@@ -395,11 +295,11 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "According to the King Kalakaua family legend, translated by Queen Liliuokalani, Maui and his brothers also made this place their home."
+     "source": "When they were on the hills of Hawaii they found the temple built at Hainoa."
     },
     {
      "id": "p017.s02",
-     "source": "Here he aroused the anger of two uncles, his mother's brothers, who were called \"Tall Post\" and \"Short Post,\" because they guarded the entrance to a cave in which the Maui family probably had its home."
+     "source": "There the gods of Hawaii were gathered together."
     }
    ],
    "id": "p017"
@@ -409,15 +309,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "\"They fought hard with Maui, and were thrown, and red water flowed freely from Maui's forehead."
-    },
-    {
-     "id": "p018.s02",
-     "source": "This was the first shower by Maui.\""
-    },
-    {
-     "id": "p018.s03",
-     "source": "Perhaps some family discipline followed this knocking down of door posts, for it is said:"
+     "source": "Kiha was high chief of Hawaii at that time, and had been dwelling in Waipio Valley, cultivating his plant, planting awa, and building a temple for his gods."
     }
    ],
    "id": "p018"
@@ -427,7 +319,11 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "\"They fetched the sacred Awa bush, Then came the second shower by Maui; The third shower was when the elbow of Awa was broken; The fourth shower came with the sacred bamboo.\""
+     "source": "When that temple was finished and the tabu of silence lifted from all the surrounding country he went to Kawaihae and built another temple, establishing another altar for his gods."
+    },
+    {
+     "id": "p019.s02",
+     "source": "He placed the usual tabu upon all the land around Kawaihae."
     }
    ],
    "id": "p019"
@@ -437,27 +333,15 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "Maui's mother, so says a New Zealand legend, had her home in the under-world as well as with her children."
+     "source": "But the tabu was broken by the sound of that shell blown by the gods of the Hainoa Temple."
     },
     {
      "id": "p020.s02",
-     "source": "Maui determined to find the hidden dwelling place."
+     "source": "He was very much troubled, but the gods were too strong for him."
     },
     {
      "id": "p020.s03",
-     "source": "His mother would meet the children in the evening and lie down to sleep with them and then disappear with the first appearance of dawn."
-    },
-    {
-     "id": "p020.s04",
-     "source": "Maui remained awake one night, and when all were asleep, arose quietly and stopped up every crevice by which a ray of light could enter."
-    },
-    {
-     "id": "p020.s05",
-     "source": "The morning came and the sun mounted up—far up in the sky."
-    },
-    {
-     "id": "p020.s06",
-     "source": "At last his mother leaped up and tore away the things which shut out the light."
+     "source": "At last help came to him from Puapualenalena (The yellow flower), a dog belonging to a master who had left his home in Niihau some time before."
     }
    ],
    "id": "p020"
@@ -467,11 +351,7 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "\"Oh, dear; oh, dear!"
-    },
-    {
-     "id": "p021.s02",
-     "source": "She saw the sun high in the heavens; so she hurried away, crying at the thought of having been so badly treated by her own children.\""
+     "source": "Puapualenalena was seeking his master, and found him on the uplands of Hawaii."
     }
    ],
    "id": "p021"
@@ -481,7 +361,7 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "Maui watched her as she pulled up a tuft of grass and disappeared in the earth, pulling the grass back to its place."
+     "source": "The dog excelled in his skill as a thief, stealing pigs, chickens, tapa cloth, all kinds of property for his master."
     }
    ],
    "id": "p022"
@@ -491,27 +371,7 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Thus Maui found the path to the under-world."
-    },
-    {
-     "id": "p023.s02",
-     "source": "Soon he transformed himself into a pigeon and flew down, through the cave, until he saw a party of people under a sacred tree, like those growing in the ancient first Hawaii."
-    },
-    {
-     "id": "p023.s03",
-     "source": "He flew to the tree and threw down berries upon the people."
-    },
-    {
-     "id": "p023.s04",
-     "source": "They threw back stones."
-    },
-    {
-     "id": "p023.s05",
-     "source": "At last he permitted a stone from his father to strike him, and he fell to the ground."
-    },
-    {
-     "id": "p023.s06",
-     "source": "\"They ran to catch him, but lo! the pigeon had turned into a man.\""
+     "source": "The master told that dog to get the tabu awa roots of the king, which were growing on the hillsides of Waipio Valley."
     }
    ],
    "id": "p023"
@@ -521,19 +381,7 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "Then his father \"took him to the water to be bap tized\" (possibly a modern addition to the legend)."
-    },
-    {
-     "id": "p024.s02",
-     "source": "Prayers were offered and ceremonies passed through."
-    },
-    {
-     "id": "p024.s03",
-     "source": "But the prayers were incomplete and Maui's father knew that the gods would be angry and cause Maui's death, and all because in the hurried baptism a part of the prayers had been left unsaid."
-    },
-    {
-     "id": "p024.s04",
-     "source": "Then Maui returned to the upper world and lived again with his brothers."
+     "source": "When that place was stripped, he sent the dog [ ] to the precipices of Waimanu, and he took nearly all that was there."
     }
    ],
    "id": "p024"
@@ -543,27 +391,7 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "Maui commenced his mischievous life early, for Hervey Islanders say that one day the children were playing a game dearly loved by Polynesians—hide-and-seek."
-    },
-    {
-     "id": "p025.s02",
-     "source": "Here a sister enters into the game and hides little Maui under a pile of dry sticks."
-    },
-    {
-     "id": "p025.s03",
-     "source": "His brothers could not find him, and the sister told them where to look."
-    },
-    {
-     "id": "p025.s04",
-     "source": "The sticks were carefully handled, but the child could not be found."
-    },
-    {
-     "id": "p025.s05",
-     "source": "He had shrunk himself so small that he was like an insect under some sticks and leaves."
-    },
-    {
-     "id": "p025.s06",
-     "source": "Thus early he began to use enchantments."
+     "source": "Then the king commanded his people to watch the awa fields and catch the one who was stealing his growing awa."
     }
    ],
    "id": "p025"
@@ -573,35 +401,15 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "Maui's home, at the best, was only a sorry affair."
+     "source": "They began their watch."
     },
     {
      "id": "p026.s02",
-     "source": "Gods and demigods lived in caves and small grass houses."
+     "source": "When the night was almost over and the dawn was touching the sky they found the thief."
     },
     {
      "id": "p026.s03",
-     "source": "The thatch rapidly rotted and required continual renewal."
-    },
-    {
-     "id": "p026.s04",
-     "source": "In a very short time the heavy rains beat through the decaying roof."
-    },
-    {
-     "id": "p026.s05",
-     "source": "The home was without windows or doors, save as low openings in the ends or sides allowed entrance to those willing to crawl through."
-    },
-    {
-     "id": "p026.s06",
-     "source": "Off on one side would be the rude shelter, in the shadow of which Hina pounded the bark of certain trees into wood pulp and then into strips of thin, soft wood-paper, which bore the name of \"Tapa cloth.\""
-    },
-    {
-     "id": "p026.s07",
-     "source": "This cloth Hina prepared for the clothing of Maui and his brothers."
-    },
-    {
-     "id": "p026.s08",
-     "source": "Tapa cloth was often treated to a coat of cocoa-nut, or candle-nut oil, making it somewhat waterproof and also more durable."
+     "source": "These men followed the thief and caught his master in a cave, all wrinkled from drinking much awa."
     }
    ],
    "id": "p026"
@@ -611,27 +419,15 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "Here Maui lived on edible roots and fruits and raw fish, knowing little about cooked food, for the art of fire making was not yet known."
+     "source": "They took the master and the dog to the king Kiha as prisoners, and the king planned to have them steal that shell which troubled him."
     },
     {
      "id": "p027.s02",
-     "source": "In later years Maui was supposed to live on the eastern end of the island Maui, and also in another home on the large island Hawaii, on which he discovered how to make fire by rubbing dry sticks together."
+     "source": "If they failed they should be put to death."
     },
     {
      "id": "p027.s03",
-     "source": "Maui was the Polynesian Mercury."
-    },
-    {
-     "id": "p027.s04",
-     "source": "As a little fellow he was endowed with peculiar powers, permitting him to become invisible or to change his human form into that of an animal."
-    },
-    {
-     "id": "p027.s05",
-     "source": "He was ready to take anything from any one by craft or force."
-    },
-    {
-     "id": "p027.s06",
-     "source": "Nevertheless, like the thefts of Mercury, his pranks usually benefited mankind."
+     "source": "This was the sentence of the king upon his prisoners."
     }
    ],
    "id": "p027"
@@ -641,23 +437,168 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "It is a little curious that around the different homes of Maui, there is so little record of temples and priests and altars."
+     "source": "The master talked with his dog, and told him all the word of the king."
     },
     {
      "id": "p028.s02",
-     "source": "He lived too far back for priestly customs."
-    },
-    {
-     "id": "p028.s03",
-     "source": "His story is the rude, mythical survival of the days when of church and civil government there was none and worship of the gods was practically unknown, but every man was a law unto himself, and also to the other man, and quick retaliation followed any injury received."
+     "source": "They planned to pay for the theft of the awa, but not by the death of their bodies."
     }
    ],
    "id": "p028"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "The dog went out to win the shell from the gods under cover of the night, when the darkness was great and all kinds of shell voices were mingling with other voices of the woodland and wilderness."
+    }
+   ],
    "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Then came the softly resonant voice of that shell blown by the gods."
+    },
+    {
+     "id": "p030.s02",
+     "source": "According to an ancient chant, “The song of Kiha-pu calls Kauai,” meaning the song is listened to from far distant Kauai. [ ]"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "The dog ran swiftly while the sound of the shell was great, and hid in a corner of a stone wall of the heiau."
+    },
+    {
+     "id": "p031.s02",
+     "source": "He waited and waited a long time."
+    },
+    {
+     "id": "p031.s03",
+     "source": "The dawn was almost at hand."
+    },
+    {
+     "id": "p031.s04",
+     "source": "Then the watchers fell into deep sleep."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "The dog crept softly inside, seized the shell and slipped it away from its place, then leaped over six walls of the heiau, but touched the seventh and outside wall."
+    },
+    {
+     "id": "p032.s02",
+     "source": "Then the shell sang out loud and clear."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "The gods were aroused."
+    },
+    {
+     "id": "p033.s02",
+     "source": "They followed, but the dog leaped into a pool of water and concealed himself and the shell while the gods dashed by."
+    },
+    {
+     "id": "p033.s03",
+     "source": "They searched the road toward Waipio, then rushed toward the Kona district."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "The dog flew from the pond down the precipice of Waipio Valley and laid the shell at the feet of Kiha, the king of Hawaii."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "The dog and his master were given a high place in the affections of the king."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "The shell was renowned for its wonderful sound, and could call the warriors of the king from any distance when the king caused it to be blown."
+    },
+    {
+     "id": "p036.s02",
+     "source": "It was known as Kiha’s shell, the Kiha-pu."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "This shell was carefully preserved by the chiefs of Hawaii from that ancient time."
+    },
+    {
+     "id": "p037.s02",
+     "source": "Generation after generation it was cared for."
+    },
+    {
+     "id": "p037.s03",
+     "source": "In the time of Kamehameha III. it was kept in his [ ] palace."
+    },
+    {
+     "id": "p037.s04",
+     "source": "It was among the treasures of King Kalakaua, and now has its resting-place in the hands of ex-Queen Liliuokalani in Honolulu."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "When Kapuni died, his bones, worshipped as one of the gods, were kept at Kaawaloa until the tabu and the temples were overthrown."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "[ ]"
+    }
+   ],
+   "id": "p039"
   }
  ]
 }

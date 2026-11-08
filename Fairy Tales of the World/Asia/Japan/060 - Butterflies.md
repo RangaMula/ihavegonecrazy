@@ -4,7 +4,7 @@
 - **Source book:** *Kwaidan: Stories and Studies of Strange Things*
 - **Author / collector / translator:** Hearn, Lafcadio (author, d. 1904)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #1210 — https://www.gutenberg.org/ebooks/1210 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #1210 — https://www.gutenberg.org/ebooks/1210
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

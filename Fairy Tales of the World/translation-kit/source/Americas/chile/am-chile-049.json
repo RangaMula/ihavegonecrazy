@@ -1,0 +1,56 @@
+{
+ "id": "am-chile-049",
+ "title": {
+  "id": "title",
+  "source": "LA RANA VENGATIVA (Contado por el mismo joven Morales, en 1909.)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/049 - LA RANA VENGATIVA (Contado por el mismo joven Morales, en 1909.).md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 4,
+  "words": 85
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Una muchacha del pueblo encuentra en su camino una rana y tomando unas ortigas le pega fuertemente con ellas en el vientre."
+    },
+    {
+     "id": "p001.s02",
+     "source": "La rana quedó sin movimiento, patas arriba y muy hinchada."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "En la noche, al abrir la muchacha la cama para acostarse, una enorme rana sale de debajo de la almohada y sentándose en las patas traseras se queda mirando a la muchacha con una mirada tan fija y tan fuerte que le heló la sangre y cayó muerta."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "La rana era una bruja."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

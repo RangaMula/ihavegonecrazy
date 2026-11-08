@@ -2,20 +2,20 @@
  "id": "as-turkey-008",
  "title": {
   "id": "title",
-  "source": "The Wise Son Of Ali Pasha"
+  "source": "The Piece Of Liver"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/008 - The Wise Son Of Ali Pasha.md",
+ "markdown_file": "Asia/Turkey/008 - The Piece Of Liver.md",
  "stats": {
-  "paragraphs": 16,
-  "segments": 48,
-  "words": 1208
+  "paragraphs": 12,
+  "segments": 23,
+  "words": 1106
  },
  "paragraphs": [
   {
@@ -23,31 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "servant of his Majesty Sultan Ahmet, who had been employed for twenty-five years in the Palace, begged leave of the Sultan to allow him to retire to his native home, and at the same time solicited a pension to enable him to live."
+     "source": "Once upon a time there was an old woman who felt she would very much like to have a piece of liver, so she gave a girl two or three pence, and bade her buy the liver in the market-place, wash it clean in the pond, and then bring it home."
     },
     {
      "id": "p001.s02",
-     "source": "The Sultan asked him if he had not saved any money."
+     "source": "So the girl went to the market-place, bought the liver, and took it to the pond to wash it; and while she was washing it a stork popped down, snatched the liver out of her hand, and flew away with it."
     },
     {
      "id": "p001.s03",
-     "source": "The man replied that owing to his having to support a large family, he had been unable to do so."
+     "source": "Then the girl cried: “Stork, stork! give me back my liver, that I may take it to my mammy, lest my mammy beat me!”—“If thou wilt fetch me a barley-ear instead of it, I’ll give thee back thy liver,” said the stork."
     },
     {
      "id": "p001.s04",
-     "source": "The Sultan was very angry that any of his servants, especially in the immediate employ of his household, should, after so many years' service, say that he was penniless."
+     "source": "So the girl went to the straw-stalk, and said: “Straw-stalk, straw-stalk! give me a barley-ear, that I may give the barley-ear to the stork, that the stork may give me back my liver, that I may give the liver to my mammy.”—“If thou wilt pray Allah for rain, thou shalt have a little barley-ear,” said the straw-stalk."
     },
     {
      "id": "p001.s05",
-     "source": "Disbelieving the statement, and in order to make an example, the Sultan gave orders that Hassan should quit the Palace in the identical state he had entered it twenty- five years before."
-    },
-    {
-     "id": "p001.s06",
-     "source": "Hassan was accordingly disrobed of all his splendor, and his various effects, the accumulation of a quarter of a century, were confiscated, and distributed amongst the legion of Palace servants."
-    },
-    {
-     "id": "p001.s07",
-     "source": "Poor Hassan, without a piaster in his pocket, and dressed in the rude costume of his native province, began his weary journey homeward on foot."
+     "source": "But while she was beginning her prayer, saying: “Oh, Allah, give me rain, that I may give the rain to the straw-stalk, that the straw-stalk may give me a barley-ear, that I may give the barley-ear to the stork, that the stork may give me back my liver, that I may give the liver to my mammy,” while she was praying thus, up came a man to her and said that without a censer no prayers could ever get to heaven, so she must go to the bazaar-keeper for a censer."
     }
    ],
    "id": "p001"
@@ -57,19 +49,7 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "In time he reached the suburbs of a town in Asia Minor, and seeing some boys playing, he approached them, sat on the ground, and watched their pastime."
-    },
-    {
-     "id": "p002.s02",
-     "source": "The boys were playing at state affairs: one was a Sultan, another his Vizier, who had his cabinet of Ministers, while close by were a number of boys bound hand and foot, representing political and other prisoners, awaiting judgment for their imaginary misdeeds."
-    },
-    {
-     "id": "p002.s03",
-     "source": "The Sultan, who was sitting with worthy dignity on a throne made of branches and stones, decorated with many-colored centrepieces, beckoned to Hassan to draw near, and asked him where he had come from."
-    },
-    {
-     "id": "p002.s04",
-     "source": "Has san replied that he had come from Stamboul, from the Palace of the Sultan."
+     "source": "So she went to the bazaar-keeper, and cried: “Bazaar-keeper, bazaar-keeper! give me a censer, that I may burn incense before Allah, that Allah may give me rain, that I may give rain to the straw-stalk, that the straw-stalk may give me a barley-ear, that I may give the barley-ear to the stork, that the stork may give me back my liver, that I may give my liver to my mammy!”"
     }
    ],
    "id": "p002"
@@ -79,7 +59,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "\"That's a lie,\" said the mock Sultan, \"no one ever came from Stamboul dressed in that fashion, much less from the Palace; you are from the far interior, and if you do not confess that what I say is true, you will be tried by my Ministers, and punished accordingly.\""
+     "source": "“I’ll give it thee,” said the bazaar-keeper, “if thou wilt bring me a boot from the cobbler.”"
     }
    ],
    "id": "p003"
@@ -89,15 +69,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Hassan, partly to participate in their boyish amusement, and partly to unburden his aching heart, related his sad fate to his youthful audience."
-    },
-    {
-     "id": "p004.s02",
-     "source": "When he had finished, the boy Sultan, Ali by name, asked him if he had received his twenty-five years."
-    },
-    {
-     "id": "p004.s03",
-     "source": "Hassan, not fully grasping what the boy said, replied:"
+     "source": "So the girl went to the cobbler, and said to him: “Cobbler, cobbler! give me a boot, that I may give the boot to the bazaar-keeper, that the bazaar-keeper may give me a censer, that I may burn incense before Allah, that Allah may give me rain, that I may give rain to the straw-stalk, that the straw-stalk may give me a barley-ear, that I may give the barley-ear to the stork, that the stork may give me back the liver, that I may give the liver to my mammy.”"
     }
    ],
    "id": "p004"
@@ -107,11 +79,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "\"Nothing!"
-    },
-    {
-     "id": "p005.s02",
-     "source": "Nothing!\""
+     "source": "But the cobbler said: “If thou fetch me a hide thou shalt have a boot for it.”"
     }
    ],
    "id": "p005"
@@ -121,7 +89,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "\"That is unjust,\" continued Ali, \"and you shall go back to the Sultan and ask that your twenty-five years be returned to you so that you may plough and till your ground, and thus make provision for the period of want, old age.\""
+     "source": "So the girl went to the tanner, and said: “Tanner, tanner! give me a hide, that I may give the hide to the cobbler, that the cobbler may give me a boot, that I may give the boot to the bazaar-keeper, that the bazaar-keeper may give me a censer, that I may burn incense before Allah, that Allah may give me rain, that I may give the rain to the straw-stalk, that the straw-stalk may give me a barley-ear, that I may give the barley-ear to the stork, that the stork may give me back my liver, that I may give the liver to my mammy.”"
     }
    ],
    "id": "p006"
@@ -131,23 +99,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Hassan was struck by the sound advice the boy had given him, thanked him and said he would follow it to the letter."
-    },
-    {
-     "id": "p007.s02",
-     "source": "The boys then in thoughtless mirth separated, to return to their homes, never dreaming that the seeds of destiny of one of their number had been sown in play."
-    },
-    {
-     "id": "p007.s03",
-     "source": "Hassan, retracing his steps, reappeared in time at the gates of the Palace and begged admittance, stating that he had forgotten to communicate something of importance to his Majesty."
-    },
-    {
-     "id": "p007.s04",
-     "source": "His request being granted, he humbly solicited, that, inasmuch as his Majesty had been dissatisfied with his long service, the twenty-five years he had devoted to him should be returned, so that he might labor and put by something to provide for the inevitable day when he could no longer work."
-    },
-    {
-     "id": "p007.s05",
-     "source": "The Sultan answered:"
+     "source": "“If thou gettest a hide from the ox, thou wilt get a hide fit for making a boot,” said the tanner."
     }
    ],
    "id": "p007"
@@ -157,15 +109,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "\"That is well said and just."
-    },
-    {
-     "id": "p008.s02",
-     "source": "As it is not in my power to give you the twenty-five years, the best equivalent I can grant you is the means of sustenance for a period of that duration should you live so long."
-    },
-    {
-     "id": "p008.s03",
-     "source": "But tell me, who advised you to make this request?\""
+     "source": "So the girl went to the ox, and said to it: “Ox, ox! give me a hide, that I may give the hide to the tanner, that the tanner may give me boot-leather, that I may give the boot-leather to the cobbler, that the cobbler may give me a boot, that I may give the boot to the bazaar-keeper, that the bazaar-keeper may give me a censer, that I may burn incense before Allah, that Allah may give me rain, that I may give the rain to the straw-stalk, that the straw-stalk may give me a barley-ear, that I may give the barley-ear to the stork, that the stork may give me back my liver, that I may give the liver to my mammy.”"
     }
    ],
    "id": "p008"
@@ -175,11 +119,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Hassan then related his adventure with the boys while on his journey home, and his Majesty was so pleased with the judgment and advice of the lad that he sent for him and had him educated."
-    },
-    {
-     "id": "p009.s02",
-     "source": "The boy studied medicine, and distinguishing himself in the profession ultimately rose to be Hekim Ali Pasha."
+     "source": "The ox said: “If thou get me straw I’ll give thee a hide for it!”"
     }
    ],
    "id": "p009"
@@ -189,27 +129,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "He had one son who was known as Doctor Ali Pasha's son."
-    },
-    {
-     "id": "p010.s02",
-     "source": "He studied calligraphy, and became so proficient in this art, now almost lost, that his imitations of the Imperial Iradés (decrees) were perfect fac-similes of the originals."
-    },
-    {
-     "id": "p010.s03",
-     "source": "One day he took it into his head to write an Iradé appointing himself Grand Vizier, in place of the reigning one, a protégé of the Imperial Palace, which Iradé he took to the Sublime Porte and there and then installed himself."
-    },
-    {
-     "id": "p010.s04",
-     "source": "By chance the Sultan happened to drive through Stamboul that day, in disguise, and noticing considerable excitement and cries of \"Padishahim chok yasha\" (long live my Sultan) amongst the people, made inquiries as to the cause of this unusual occurrence."
-    },
-    {
-     "id": "p010.s05",
-     "source": "His Majesty's informers brought him the word that the people rejoiced in the fall of the old Grand Vizier, and the appointment of the new one, Doctor Ali Pasha's son."
-    },
-    {
-     "id": "p010.s06",
-     "source": "The Sultan returned to the Palace and immediately sent one of his eunuchs to the Sublime Porte to see the Grand Vizier and find out the meaning of these strange proceedings."
+     "source": "So the girl went to the farmer, and said to him: “Farmer, farmer! give me straw, that I may give the straw to the ox, that the ox may give me a hide, that I may give the hide to the tanner, that the tanner may give me shoe-leather, that I may give the shoe-leather to the cobbler, that the cobbler may give me a shoe, that I may give the shoe to the bazaar-keeper, that the bazaar-keeper may give me a censer, that I may burn incense before Allah, that Allah may give me rain, that I may give rain to the straw-stalk, that the straw-stalk may give me a barley-ear, that I may give the barley-ear to the stork, that the stork may give me back my liver, that I may give the liver to my mammy.”"
     }
    ],
    "id": "p010"
@@ -219,11 +139,7 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "The eunuch was announced, and the Grand Vizier ordered him to be brought into his presence."
-    },
-    {
-     "id": "p011.s02",
-     "source": "Directly he appeared in the doorway, he was greeted with: \"What do you want, you black dog?\""
+     "source": "The farmer said to the girl: “I’ll give thee the straw if thou give me a kiss.”"
     }
    ],
    "id": "p011"
@@ -233,77 +149,38 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Then turning to the numerous attendants about, he said: \"Take this nigger to the slave market, and see what price he will bring.\""
+     "source": "“Well,” thought the girl to herself, “a kiss is but a little matter if it free me from all this bother.”"
+    },
+    {
+     "id": "p012.s02",
+     "source": "So she went up to the farmer and kissed him, and the farmer gave her straw for the kiss."
+    },
+    {
+     "id": "p012.s03",
+     "source": "She took the straw to the ox, and the ox gave her a hide for the straw."
+    },
+    {
+     "id": "p012.s04",
+     "source": "She took the hide to the tanner, and the tanner gave her shoe-leather."
+    },
+    {
+     "id": "p012.s05",
+     "source": "She took the shoe-leather to the cobbler, and the cobbler gave her a shoe for it."
+    },
+    {
+     "id": "p012.s06",
+     "source": "She took the shoe to the bazaar-keeper, and the bazaar-keeper gave her a censer."
+    },
+    {
+     "id": "p012.s07",
+     "source": "She lit the censer and cried: “Oh, Allah! give me rain, that I may give the rain to the straw-stalk, that the straw-stalk may give me a barley-ear, that I may give the barley-ear to the stork, that the stork may give me back my liver, that I may give the liver to my mammy.”"
+    },
+    {
+     "id": "p012.s08",
+     "source": "Then Allah gave her rain, and she gave the rain to the straw-stalk, and the straw-stalk gave her a barley-ear, and she gave the barley-ear to the stork, and the stork gave her back her liver, and she gave the liver to her mammy, and her mammy cooked the liver and ate it."
     }
    ],
    "id": "p012"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p013.s01",
-     "source": "The eunuch was taken to the slave market, and the highest price bid for him was fifty piasters."
-    },
-    {
-     "id": "p013.s02",
-     "source": "On hearing this, the Grand Vizier turned to the eunuch and said: \"Go and tell your master what you are worth, and tell him that I think it too much by far.\""
-    }
-   ],
-   "id": "p013"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p014.s01",
-     "source": "The eunuch was glad to get off, and com municated to his Majesty the story of his strange treatment."
-    },
-    {
-     "id": "p014.s02",
-     "source": "The Sultan then ordered his Chief Eunuch, a not unimportant personage in the Ottoman Empire, to call on the Grand Vizier for an explanation."
-    },
-    {
-     "id": "p014.s03",
-     "source": "At the Sublime Porte, however, no respect was paid to this high dignitary."
-    },
-    {
-     "id": "p014.s04",
-     "source": "Ali Pasha received him in precisely the same manner as he had received his subordinate."
-    },
-    {
-     "id": "p014.s05",
-     "source": "The chief was taken to the slave market, and the highest sum bid for him was five hundred piasters."
-    },
-    {
-     "id": "p014.s06",
-     "source": "The self-appointed Grand Vizier ordered him to go and tell his master the amount some foolish people were willing to pay for him."
-    }
-   ],
-   "id": "p014"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p015.s01",
-     "source": "When the Sultan heard of these strange proceedings he sent an autograph letter to Ali Pasha, commanding him to come to the Palace."
-    },
-    {
-     "id": "p015.s02",
-     "source": "The Grand Vizier immediately set out for the Palace and was received in audience, when he explained to his Majesty that the affairs of State could not be managed by men not worth more than from fifty to five hundred piasters, and that if radical changes were not made, certain ruin would be the outcome."
-    },
-    {
-     "id": "p015.s03",
-     "source": "The Sultan appreciated this earnest communication, and ratified the appointment, as Grand Vizier, of Ali Pasha, the son of the boy who had played at state affairs in a village of Asia Minor."
-    }
-   ],
-   "id": "p015"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p016"
   }
  ]
 }

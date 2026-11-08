@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-034",
  "title": {
   "id": "title",
-  "source": "The Giant Bear"
+  "source": "Why The Chipmunk'S Back Is Striped"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Thirty Indian Legends",
- "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/034 - The Giant Bear.md",
+ "source_book": "Indian Why Stories: Sparks from War Eagle's Lodge-Fire",
+ "credits": "Linderman, Frank Bird (author, d. 1938)",
+ "gutenberg": "Project Gutenberg eBook #606 — https://www.gutenberg.org/ebooks/606",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/034 - Why The Chipmunk'S Back Is Striped.md",
  "stats": {
-  "paragraphs": 50,
-  "segments": 151,
-  "words": 2056
+  "paragraphs": 27,
+  "segments": 99,
+  "words": 2045
  },
  "paragraphs": [
   {
@@ -23,19 +23,35 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "In the far north there was a village where many warlike Indians lived."
+     "source": "What a splendid lodge it was, and how grand War Eagle looked leaning against his back-rest in the firelight!"
     },
     {
      "id": "p001.s02",
-     "source": "In one family there were ten brothers, all brave and fearless."
+     "source": "From the tripod that supported the back-rest were suspended his weapons and his medicine-bundle, each showing the wonderful skill of the maker."
     },
     {
      "id": "p001.s03",
-     "source": "In the spring of the year the youngest brother blackened his face and fasted for several days."
+     "source": "The quiver that held the arrows was combined with a case for the bow, and colored quills of the porcupine had been deftly used to make it a thing of beauty."
     },
     {
      "id": "p001.s04",
-     "source": "Then he sent for his nine brothers and said to them:"
+     "source": "All about the lodge hung the strangely painted linings, and the firelight added richness to both color and design."
+    },
+    {
+     "id": "p001.s05",
+     "source": "War Eagle's hair was white, for he had known many snows; but his eyes were keen and bright as a boy's, as he gazed in pride at his grandchildren across the lodge-fire."
+    },
+    {
+     "id": "p001.s06",
+     "source": "He was wise, and had been in many battles, for his was a warlike tribe."
+    },
+    {
+     "id": "p001.s07",
+     "source": "He knew all about the world and the people in it."
+    },
+    {
+     "id": "p001.s08",
+     "source": "He was deeply religious, and every Indian child loved him for his goodness and brave deeds."
     }
    ],
    "id": "p001"
@@ -45,11 +61,7 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "\"I have fasted and dreamed, and my dreams are good."
-    },
-    {
-     "id": "p002.s02",
-     "source": "Will you come on a war journey with me?\""
+     "source": "About the fire were Little Buffalo Calf, a boy of eleven years; Eyes-in-the-Water, his sister, a girl of nine; Fine Bow, a cousin of these, aged ten, and Bluebird, his sister, who was but eight years old."
     }
    ],
    "id": "p002"
@@ -59,7 +71,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "\"Yes,\" they all said readily."
+     "source": "Not a sound did the children make while the old warrior filled his great pipe, and only the snapping of the lodge-fire broke the stillness."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Solemnly War Eagle lit the tobacco that had been mixed with the dried inner bark of the red willow, and for several minutes smoked in silence, while the children's eyes grew large with expectancy."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Finally he spoke:"
     }
    ],
    "id": "p003"
@@ -69,27 +89,75 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "\"Then tell no one, not even your wives, of our plan.\""
+     "source": "\"Napa, OLD-man, is very old indeed."
     },
     {
      "id": "p004.s02",
-     "source": "They agreed to meet on a certain night so that no one should see them go."
+     "source": "He made this world, and all that is on it."
     },
     {
      "id": "p004.s03",
-     "source": "One brother was named Mudjekeewis, and he was very odd."
+     "source": "He came out of the south, and travelled toward the north, making the birds and animals as he passed."
     },
     {
      "id": "p004.s04",
-     "source": "He was the first to promise that he would not tell."
+     "source": "He made the perfumes for the winds to carry about, and he even made the war-paint for the people to use."
     },
     {
      "id": "p004.s05",
-     "source": "The next two days were spent in preparations for the journey."
+     "source": "He was a busy worker, but a great liar and thief, as I shall show you after I have told you more about him."
     },
     {
      "id": "p004.s06",
-     "source": "Mudjekeewis told his wife many times to get his moccasins for him."
+     "source": "It was OLD-man who taught the beaver all his cunning."
+    },
+    {
+     "id": "p004.s07",
+     "source": "It was OLD-man who told the bear to go to sleep when the snow grew deep in winter, and it was he who made the curlew's bill so long and crooked, although it was not that way at first."
+    },
+    {
+     "id": "p004.s08",
+     "source": "OLD-man used to live on this world with the animals and birds."
+    },
+    {
+     "id": "p004.s09",
+     "source": "There was no other man or woman then, and he was chief over all the animal-people and the bird-people."
+    },
+    {
+     "id": "p004.s10",
+     "source": "He could speak the language of the robin, knew the words of the bear, and understood the sign-talk of the beaver, too."
+    },
+    {
+     "id": "p004.s11",
+     "source": "He lived with the wolves, for they are the great hunters."
+    },
+    {
+     "id": "p004.s12",
+     "source": "Even to-day we make the same sign for a smart man as we make for the wolf; so you see he taught them much while he lived with them."
+    },
+    {
+     "id": "p004.s13",
+     "source": "OLD-man made a great many mistakes in making things, as I shall show you after a while; yet he worked until he had everything good."
+    },
+    {
+     "id": "p004.s14",
+     "source": "But he often made great mischief and taught many wicked things."
+    },
+    {
+     "id": "p004.s15",
+     "source": "These I shall tell you about some day."
+    },
+    {
+     "id": "p004.s16",
+     "source": "Everybody was afraid of OLD-man and his tricks and lies—even the animal-people, before he made men and women."
+    },
+    {
+     "id": "p004.s17",
+     "source": "He used to visit the lodges of our people and make trouble long ago, but he got so wicked that Manitou grew angry at him, and one day in the month of roses, he built a lodge for OLD-man and told him that he must stay in it forever."
+    },
+    {
+     "id": "p004.s18",
+     "source": "Of course he had to do that, and nobody knows where the lodge was built, nor in what country, but that is why we never see him as our grandfathers did, long, long ago."
     }
    ],
    "id": "p004"
@@ -99,7 +167,35 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "\"And hurry.\" he said; \"do hurry.\""
+     "source": "\"What I shall tell you now happened when the world was young."
+    },
+    {
+     "id": "p005.s02",
+     "source": "It was a fine summer day, and OLD-man was travelling in the forest."
+    },
+    {
+     "id": "p005.s03",
+     "source": "He was going north and straight as an arrow—looking at nothing, hearing nothing."
+    },
+    {
+     "id": "p005.s04",
+     "source": "No one knows what he was after, to this day."
+    },
+    {
+     "id": "p005.s05",
+     "source": "The birds and forest-people spoke politely to him as he passed but he answered none of them."
+    },
+    {
+     "id": "p005.s06",
+     "source": "The Pine-squirrel, who is always trying to find out other people's business, asked him where he was going, but OLD-man wouldn't tell him."
+    },
+    {
+     "id": "p005.s07",
+     "source": "The woodpecker hammered on a dead tree to make him look that way, but he wouldn't. The Elk-people and the Deer-people saw him pass, and all said that he must be up to some mischief or he would stop and talk a while."
+    },
+    {
+     "id": "p005.s08",
+     "source": "The pine-trees murmured, and the bushes whispered their greeting, but he kept his eyes straight ahead and went on travelling."
     }
    ],
    "id": "p005"
@@ -109,11 +205,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "\"Why do you want them?\" she asked."
+     "source": "\"The sun was low when OLD-man heard a groan\" (here War Eagle groaned to show the children how it sounded), \"and turning about he saw a warrior lying bruised and bleeding near a spring of cold water."
     },
     {
      "id": "p006.s02",
-     "source": "\"You have a good pair on.\""
+     "source": "OLD-man knelt beside the man and asked: 'Is there war in this country?'"
     }
    ],
    "id": "p006"
@@ -123,7 +219,11 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"Well, if you must know, we are going on a war journey,\" he answered."
+     "source": "\"'Yes,' answered the man."
+    },
+    {
+     "id": "p007.s02",
+     "source": "'This whole day long we have fought to kill a Person, but we have all been killed, I am afraid.'"
     }
    ],
    "id": "p007"
@@ -133,11 +233,39 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "When the night had come which the leader had named, they met at his wigwam and set out on their long journey."
+     "source": "\"'That is strange,' said OLD-man; 'how can one Person kill so many men?"
     },
     {
      "id": "p008.s02",
-     "source": "The snow lay on the ground, and the night was very dark."
+     "source": "Who is this Person, tell me his name!' but the man didn't answer—he was dead."
+    },
+    {
+     "id": "p008.s03",
+     "source": "When OLD-man saw that life had left the wounded man, he drank from the spring, and went on toward the north, but before long he heard a noise as of men fighting, and he stopped to look and listen."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Finally he saw the bushes bend and sway near a creek that flowed through the forest."
+    },
+    {
+     "id": "p008.s05",
+     "source": "He crawled toward the spot, and peering through the brush saw a great Person near a pile of dead men, with his back against a pine-tree."
+    },
+    {
+     "id": "p008.s06",
+     "source": "The Person was full of arrows, and he was pulling them from his ugly body."
+    },
+    {
+     "id": "p008.s07",
+     "source": "Calmly the Person broke the shafts of the arrows, tossed them aside, and stopped the blood flow with a brush of his hairy hand."
+    },
+    {
+     "id": "p008.s08",
+     "source": "His head was large and fierce-looking, and his eyes were small and wicked."
+    },
+    {
+     "id": "p008.s09",
+     "source": "His great body was larger than that of a buffalo-bull and covered with scars of many battles."
     }
    ],
    "id": "p008"
@@ -147,11 +275,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "After they had travelled some miles, the leader gathered some snow and made it into a ball."
-    },
-    {
-     "id": "p009.s02",
-     "source": "He threw it in the air and said, as it fell, \"It was thus I saw the snow fall in my dreams to cover our footmarks, so that no one may follow us.\""
+     "source": "\"OLD-man went to the creek, and with his buffalo-horn cup brought some water to the Person, asking as he approached:"
     }
    ],
    "id": "p009"
@@ -161,11 +285,11 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "The snow began to fall heavily and continued for two days."
+     "source": "\"'Who are you, Person?"
     },
     {
      "id": "p010.s02",
-     "source": "It was so thick that they could scarcely see each other, though they walked very closely together."
+     "source": "Tell me, so I can make you a fine present, for you are great in war.'"
     }
    ],
    "id": "p010"
@@ -175,19 +299,19 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "The leader cheered his brothers by telling them they would win in their battle."
+     "source": "\"'I am Bad Sickness,' replied the Person."
     },
     {
      "id": "p011.s02",
-     "source": "At this Mudjekeewis, who was walking behind, ran forward."
+     "source": "'Tribes I have met remember me and always will, for their bravest warriors are afraid when I make war upon them."
     },
     {
      "id": "p011.s03",
-     "source": "He swung his war-club in the air and uttered the war-cry."
+     "source": "I come in the night or I visit their camps in daylight."
     },
     {
      "id": "p011.s04",
-     "source": "Then bringing his war-club down, he struck a tree, and it fell as if hit by lightning."
+     "source": "It is always the same; they are frightened and I kill them easily.'"
     }
    ],
    "id": "p011"
@@ -197,7 +321,15 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"See, brothers,\" he said, \"this is the way I shall serve our enemy.\""
+     "source": "\"'Ho!' said OLD-man, 'tell me how to make Bad Sickness, for I often go to war myself.'"
+    },
+    {
+     "id": "p012.s02",
+     "source": "He lied; for he was never in a battle in his life."
+    },
+    {
+     "id": "p012.s03",
+     "source": "The Person shook his ugly head and then OLD-man said:"
     }
    ],
    "id": "p012"
@@ -207,11 +339,15 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "\"Hush, Mudjekeewis,\" said the leader."
+     "source": "\"'If you will tell me how to make Bad Sickness I will make you small and handsome."
     },
     {
      "id": "p013.s02",
-     "source": "\"He whom we are going to fight cannot be treated so lightly.\""
+     "source": "When you are big, as you now are, it is very hard to make a living; but when you are small, little food will make you fat."
+    },
+    {
+     "id": "p013.s03",
+     "source": "Your living will be easy because I will make your food grow everywhere.'"
     }
    ],
    "id": "p013"
@@ -221,7 +357,15 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Then they travelled on for several days, until at last they reached the borders of the White Plain, where the bones of men lay bleaching."
+     "source": "\"'Good,' said the Person, 'I will do it; you must kill the fawns of the deer and the calves of the elk when they first begin to live."
+    },
+    {
+     "id": "p014.s02",
+     "source": "When you have killed enough of them you must make a robe of their skins."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Whenever you wear that robe and sing—\"now you sicken, now you sicken,\" the sickness will come—that is all there is to it.'"
     }
    ],
    "id": "p014"
@@ -231,15 +375,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "\"These are the bones of men who have gone before us."
-    },
-    {
-     "id": "p015.s02",
-     "source": "No one has ever returned to tell of their sad fate.\""
-    },
-    {
-     "id": "p015.s03",
-     "source": "Mudjekeewis looked frightened at this and thought, \"I wonder who this terrible enemy is.\""
+     "source": "\"'Good,' said OLD-man, 'now lie down to sleep and I will do as I promised.'"
     }
    ],
    "id": "p015"
@@ -249,27 +385,15 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "\"Be not afraid, my brothers,\" said the leader."
+     "source": "\"The Person went to sleep and OLD-man breathed upon him until he grew so tiny that he laughed to see how small he had made him."
     },
     {
      "id": "p016.s02",
-     "source": "Mudjekeewis then took courage, again jumped forward, and uttering the war-cry, brought his warclub down on a small rock, and split it into pieces."
+     "source": "Then he took out his paint sack and striped the Person's back with black and yellow."
     },
     {
      "id": "p016.s03",
-     "source": "\"See, I am not afraid,\" he cried."
-    },
-    {
-     "id": "p016.s04",
-     "source": "\"Thus shall I serve my enemy.\""
-    },
-    {
-     "id": "p016.s05",
-     "source": "But the leader still pressed onward over the plain, until at last a small rise in the ground brought them in sight of the enemy."
-    },
-    {
-     "id": "p016.s06",
-     "source": "Some distance away, on the top of the mountain, a giant bear lay sleeping."
+     "source": "It looked bright and handsome and he waked the Person, who was now a tiny animal with a bushy tail to make him pretty."
     }
    ],
    "id": "p016"
@@ -279,19 +403,11 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "\"Look, brothers,\" said the leader."
+     "source": "\"'Now,' said OLD-man, 'you are the Chipmunk, and must always wear those striped clothes."
     },
     {
      "id": "p017.s02",
-     "source": "\"There is the mighty enemy, for he is a Manitou."
-    },
-    {
-     "id": "p017.s03",
-     "source": "But come now, we need not fear, as he is asleep."
-    },
-    {
-     "id": "p017.s04",
-     "source": "Around his neck he has the precious wampum, which we must take from him.\""
+     "source": "All of your children and their children, must wear them, too.'"
     }
    ],
    "id": "p017"
@@ -301,15 +417,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "They advanced slowly and quietly."
-    },
-    {
-     "id": "p018.s02",
-     "source": "The huge animal did not hear them."
-    },
-    {
-     "id": "p018.s03",
-     "source": "Around his neck was a belt which contained the wampum."
+     "source": "\"After the Chipmunk had looked at himself, and thanked OLD-man for his new clothes, he wanted to know how he could make his living, and OLD-man told him what to eat, and said he must cache the pine-nuts when the leaves turned yellow, so he would not have to work in the winter time."
     }
    ],
    "id": "p018"
@@ -319,23 +427,11 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "\"Now we must take this off,\" said the youngest brother."
+     "source": "\"'You are a cousin to the Pine-squirrel,' said OLD-man, 'and you will hunt and hide as he does."
     },
     {
      "id": "p019.s02",
-     "source": "One after the other tried, but could not do it, until the next to the youngest tried."
-    },
-    {
-     "id": "p019.s03",
-     "source": "He pulled it nearly over the bear's head."
-    },
-    {
-     "id": "p019.s04",
-     "source": "Then came the turn of the youngest, and he pulled it the rest of the way."
-    },
-    {
-     "id": "p019.s05",
-     "source": "He put the belt quickly on the back of the oldest brother."
+     "source": "You will be spry and your living will be easy to make if you do as I have told you.'"
     }
    ],
    "id": "p019"
@@ -345,7 +441,39 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "\"Now we must run,\" said the leader, \"for when he awakens, he will miss his belt.\""
+     "source": "\"He taught the Chipmunk his language and his signs, showed him where to live, and then left him, going on toward the north again."
+    },
+    {
+     "id": "p020.s02",
+     "source": "He kept looking for the cow-elk and doe-deer, and it was not long before he had killed enough of their young to make the robe as the Person told him, for they were plentiful before the white man came to live on the world."
+    },
+    {
+     "id": "p020.s03",
+     "source": "He found a shady place near a creek, and there made the robe that would make Bad Sickness whenever he sang the queer song, but the robe was plain, and brown in color."
+    },
+    {
+     "id": "p020.s04",
+     "source": "He didn't like the looks of it."
+    },
+    {
+     "id": "p020.s05",
+     "source": "Suddenly he thought how nice the back of the Chipmunk looked after he had striped it with his paints."
+    },
+    {
+     "id": "p020.s06",
+     "source": "He got out his old paint sack and with the same colors made the robe look very much like the clothes of the Chipmunk."
+    },
+    {
+     "id": "p020.s07",
+     "source": "He was proud of the work, and liked the new robe better; but being lazy, he wanted to save himself work, so he sent the South-wind to tell all the doe-deer and the cow-elk to come to him."
+    },
+    {
+     "id": "p020.s08",
+     "source": "They came as soon as they received the message, for they were afraid of OLD-man and always tried to please him."
+    },
+    {
+     "id": "p020.s09",
+     "source": "When they had all reached the place where OLD-man was he said to them:"
     }
    ],
    "id": "p020"
@@ -355,23 +483,7 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "They all hastened away."
-    },
-    {
-     "id": "p021.s02",
-     "source": "The wampum was very heavy, so they had to take turns in carrying it."
-    },
-    {
-     "id": "p021.s03",
-     "source": "They kept looking back as they ran, and had almost reached the edge of the plain before the bear awoke."
-    },
-    {
-     "id": "p021.s04",
-     "source": "He slowly rose to his feet and stood for a moment before he noticed that the belt was gone."
-    },
-    {
-     "id": "p021.s05",
-     "source": "Then he uttered a roar that reached to the skies."
+     "source": "\"'Do you see this robe?'"
     }
    ],
    "id": "p021"
@@ -381,11 +493,7 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "\"Who has dared to steal my belt?\" he roared."
-    },
-    {
-     "id": "p022.s02",
-     "source": "\"Earth is not so large but that I shall find him.\""
+     "source": "\"'Yes, we see it,' they replied."
     }
    ],
    "id": "p022"
@@ -395,11 +503,23 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Saying this, he jumped from the mountain, and the earth shook with his weight."
+     "source": "\"'Well, I have made it from the skins of your children, and then painted it to look like the Chipmunk's back, for I like the looks of that Person's clothes."
     },
     {
      "id": "p023.s02",
-     "source": "Then with powerful strides he rushed in pursuit of the brothers."
+     "source": "I shall need many more of these robes during my life; and every time I make one, I don't want to have to spend my time painting it; so from now on and forever your children shall be born in spotted clothes."
+    },
+    {
+     "id": "p023.s03",
+     "source": "I want it to be that way to save me work."
+    },
+    {
+     "id": "p023.s04",
+     "source": "On all the fawns there must be spots of white like this (here he pointed to the spots on Bad Sickness's robe) and on all of the elk-calves the spots shall not be so white and shall be in rows and look rather yellow.'"
+    },
+    {
+     "id": "p023.s05",
+     "source": "Again he showed them his robe, that they might see just what he wanted."
     }
    ],
    "id": "p023"
@@ -409,7 +529,11 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "They had passed all the bones now and were becoming very tired."
+     "source": "\"'Remember,' he said, 'after this I don't want to see any of your children running about wearing plain clothing, because that would mean more painting for me."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Now go away, and remember what I have said, lest I make you sick.'"
     }
    ],
    "id": "p024"
@@ -419,11 +543,11 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "\"Brothers,\" said the leader, \"I dreamed that when we were hard pressed and running for our lives, we saw a lodge where an old man lived, and he helped us."
+     "source": "\"The cow-elk and the doe-deer were glad to know that their children's clothes would be beautiful, and they went away to their little ones who were hidden in the tall grass, where the wolves and mountain-lions would have a hard time finding them; for you know that in the tracks of the fawn there is no scent, and the wolf cannot trail him when he is alone."
     },
     {
      "id": "p025.s02",
-     "source": "I hope my dream will come true.\""
+     "source": "That is the way Manitou takes care of the weak, and all of the forest-people know about it, too."
     }
    ],
    "id": "p025"
@@ -433,11 +557,7 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "Just then they saw, a short distance away, a lodge with smoke curling from the top."
-    },
-    {
-     "id": "p026.s02",
-     "source": "They ran to it, and an old man opened the door."
+     "source": "\"Now you know why the Chipmunk's back is striped, and why the fawn and elk-calf wear their pretty clothes."
     }
    ],
    "id": "p026"
@@ -447,480 +567,14 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "\"Grandfather,\" they gasped, \"will you save us?"
+     "source": "\"I hear the owls, and it is time for all young men who will some day be great warriors to go to bed, and for all young women to seek rest, lest beauty go away forever."
     },
     {
      "id": "p027.s02",
-     "source": "A Manitou is after us.\""
+     "source": "Ho!\""
     }
    ],
    "id": "p027"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p028.s01",
-     "source": "\"Who is a Manitou but I?\" said he."
-    },
-    {
-     "id": "p028.s02",
-     "source": "\"Come in and eat.\""
-    },
-    {
-     "id": "p028.s03",
-     "source": "They entered the lodge and he gave them food."
-    },
-    {
-     "id": "p028.s04",
-     "source": "Then, opening the door, he looked out and saw the bear coming with great strides."
-    },
-    {
-     "id": "p028.s05",
-     "source": "Shutting the door, he said, \"He is indeed a mighty Manitou and will take my life; but you asked for my help and I shall give it."
-    },
-    {
-     "id": "p028.s06",
-     "source": "When he comes, you run out of the back door.\""
-    }
-   ],
-   "id": "p028"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p029.s01",
-     "source": "Going to a bag which hung from a tree, he took out two small, black, dogs."
-    },
-    {
-     "id": "p029.s02",
-     "source": "He patted the sides of the dogs, and they began to swell until they filled the doorway."
-    },
-    {
-     "id": "p029.s03",
-     "source": "The dogs had strong, white teeth and growled fiercely."
-    },
-    {
-     "id": "p029.s04",
-     "source": "The bear had now reached the door, and with one bound the first dog leaped out, followed by the second."
-    },
-    {
-     "id": "p029.s05",
-     "source": "The brothers ran out of the back of the lodge."
-    },
-    {
-     "id": "p029.s06",
-     "source": "They could hear the howls of the animals as they fought, and looking back, they saw first one dog killed, then the other, and at last the shrieks of the old man came to them as the bear tore him in pieces."
-    },
-    {
-     "id": "p029.s07",
-     "source": "They doubled their speed now, as they saw the bear beginning to follow them again."
-    },
-    {
-     "id": "p029.s08",
-     "source": "The food they had eaten gave them new strength, so they were able to run very swiftly for a time."
-    },
-    {
-     "id": "p029.s09",
-     "source": "But at last they all felt their strength fail again, for the bear was close behind them now."
-    }
-   ],
-   "id": "p029"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p030.s01",
-     "source": "\"Brothers, I had another dream,\" said the leader."
-    },
-    {
-     "id": "p030.s02",
-     "source": "\"It was that an old Manitou saved us."
-    },
-    {
-     "id": "p030.s03",
-     "source": "Perhaps his lodge is near us now.\""
-    }
-   ],
-   "id": "p030"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p031.s01",
-     "source": "Even as he spoke, they came in sight of another lodge, and as they ran up to the door an old man opened it."
-    }
-   ],
-   "id": "p031"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p032.s01",
-     "source": "\"Save us from the Manitou,\" they cried as they rushed in."
-    }
-   ],
-   "id": "p032"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p033.s01",
-     "source": "\"Manitou?\" he said."
-    },
-    {
-     "id": "p033.s02",
-     "source": "\"Who is a Manitou but I?"
-    },
-    {
-     "id": "p033.s03",
-     "source": "Come in and eat,\" and he closed the door."
-    },
-    {
-     "id": "p033.s04",
-     "source": "He brought food for them; then he looked out of the door."
-    },
-    {
-     "id": "p033.s05",
-     "source": "The bear was only a few yards away now."
-    },
-    {
-     "id": "p033.s06",
-     "source": "Hastily closing the door, he said, \"This is indeed a mighty Manitou."
-    },
-    {
-     "id": "p033.s07",
-     "source": "You have brought trouble to me, my children; but you run out the back way and I shall fight him.\""
-    }
-   ],
-   "id": "p033"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p034.s01",
-     "source": "He then went to his medicine sack and drew out two war-clubs of black stone."
-    },
-    {
-     "id": "p034.s02",
-     "source": "As he handled them they grew to an immense size."
-    },
-    {
-     "id": "p034.s03",
-     "source": "He opened the door, and as he did so, the brothers ran out the back way."
-    },
-    {
-     "id": "p034.s04",
-     "source": "They could hear the blows like claps of thunder as he hit the bear on the head."
-    },
-    {
-     "id": "p034.s05",
-     "source": "After that came two sharp cracks, and they knew the clubs were broken with the force of the blows."
-    },
-    {
-     "id": "p034.s06",
-     "source": "Then came his shrieks, as he met the fate of the first old man."
-    },
-    {
-     "id": "p034.s07",
-     "source": "They tried to run faster than ever now, for they knew the bear must be after them again, but their strength was nearly gone."
-    }
-   ],
-   "id": "p034"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p035.s01",
-     "source": "\"Oh, brother,\" they asked, \"have you no other dream to help us?\""
-    }
-   ],
-   "id": "p035"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p036.s01",
-     "source": "\"Yes, I dreamed, when we were running like this, that we came to a lake and on the shore of it was a canoe with ten paddles in it waiting for us."
-    },
-    {
-     "id": "p036.s02",
-     "source": "We jumped in and were saved.\""
-    }
-   ],
-   "id": "p036"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p037.s01",
-     "source": "As he spoke, there appeared in front of them a lake just as he had dreamed, and a canoe waiting."
-    },
-    {
-     "id": "p037.s02",
-     "source": "Getting in, they quickly paddled to the middle of the lake, and waited to see what the bear would do."
-    }
-   ],
-   "id": "p037"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p038.s01",
-     "source": "He came on with his slow, powerful strides until he reached the water's edge."
-    },
-    {
-     "id": "p038.s02",
-     "source": "Then, rising on his hind legs, he took a look around."
-    },
-    {
-     "id": "p038.s03",
-     "source": "Dropping down, he waded into the water, but slipped and nearly fell."
-    },
-    {
-     "id": "p038.s04",
-     "source": "He waded out and began to walk around the lake."
-    },
-    {
-     "id": "p038.s05",
-     "source": "When he reached the spot he had started from, he bent down his head and began to drink the waters of the lake."
-    },
-    {
-     "id": "p038.s06",
-     "source": "He drank in such large mouthfuls that the brothers could see the water sinking, and the current began to flow so swiftly towards his mouth that they could not keep their canoe steady."
-    },
-    {
-     "id": "p038.s07",
-     "source": "It floated in the current straight to him."
-    }
-   ],
-   "id": "p038"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p039.s01",
-     "source": "\"Now, Mudjekeewis,\" said the leader, \"this is your chance to show us how you would treat your enemy.\""
-    }
-   ],
-   "id": "p039"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p040.s01",
-     "source": "\"I shall show you and him,\" said Mudjekeewis."
-    },
-    {
-     "id": "p040.s02",
-     "source": "Then, as the canoe came near the big mouth, he stood up and levelled his war-club."
-    },
-    {
-     "id": "p040.s03",
-     "source": "Just as the boat touched the bear's teeth, Mudjekeewis uttered the war-cry and dealt the animal a mighty blow on the head."
-    },
-    {
-     "id": "p040.s04",
-     "source": "This he repeated, and the bear fell stunned."
-    },
-    {
-     "id": "p040.s05",
-     "source": "As the animal fell, he disgorged the water with such force that it sent the canoe spinning to the other side of the lake, where the brothers landed and ran ahead as fast as they could."
-    },
-    {
-     "id": "p040.s06",
-     "source": "They had not gone far when they could hear the bear coming behind them."
-    }
-   ],
-   "id": "p040"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p041.s01",
-     "source": "\"Do not be afraid, brothers,\" said the leader, as he noticed how frightened they all looked."
-    },
-    {
-     "id": "p041.s02",
-     "source": "\"I have one more dream."
-    },
-    {
-     "id": "p041.s03",
-     "source": "If it fails us, we are lost, but let us hope that it will come true."
-    },
-    {
-     "id": "p041.s04",
-     "source": "I dreamed we were running, and we came to a lodge out of which came a young maiden."
-    },
-    {
-     "id": "p041.s05",
-     "source": "Her brother was a Manitou and by his magic she saved us."
-    },
-    {
-     "id": "p041.s06",
-     "source": "Run on and fear not, else your limbs will be fear-bound."
-    },
-    {
-     "id": "p041.s07",
-     "source": "Look for his lodge.\""
-    }
-   ],
-   "id": "p041"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p042.s01",
-     "source": "And sure enough, behind a little clump of trees, stood a lodge."
-    },
-    {
-     "id": "p042.s02",
-     "source": "As they ran to it a maiden came forth and invited them in."
-    }
-   ],
-   "id": "p042"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p043.s01",
-     "source": "\"Enter,\" she said, \"and rest."
-    },
-    {
-     "id": "p043.s02",
-     "source": "I shall meet the bear, and when I need you, I shall call you.\""
-    }
-   ],
-   "id": "p043"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p044.s01",
-     "source": "Saying this, she took down a medicine-sack, which was hanging on the wall near the door."
-    },
-    {
-     "id": "p044.s02",
-     "source": "They entered, and she walked out to meet the bear."
-    },
-    {
-     "id": "p044.s03",
-     "source": "The animal came up with angry growls and swinging strides."
-    },
-    {
-     "id": "p044.s04",
-     "source": "The maiden quickly opened the medicine-sack and took out some war feathers, paint, and tufts of hair."
-    }
-   ],
-   "id": "p044"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p045.s01",
-     "source": "As the bear came up, the girl tossed them up in the air, saying, \"Behold, these are the magic arrows of my dead brother."
-    },
-    {
-     "id": "p045.s02",
-     "source": "These are the magic war paints of my dead brother."
-    },
-    {
-     "id": "p045.s03",
-     "source": "This is the eagle's feather of my dead brother, and these are the tufts of hair of wild animals he has killed.\""
-    }
-   ],
-   "id": "p045"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p046.s01",
-     "source": "As she said these words and the things fell on the ground near the animal, he tottered and fell."
-    },
-    {
-     "id": "p046.s02",
-     "source": "She called the brothers, and they rushed out."
-    }
-   ],
-   "id": "p046"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p047.s01",
-     "source": "\"Cut him into pieces quickly,\" she said, \"or he will come to life again.\""
-    }
-   ],
-   "id": "p047"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p048.s01",
-     "source": "They all set to work and cut the huge animal into small pieces, which they tossed away."
-    },
-    {
-     "id": "p048.s02",
-     "source": "When they had finished, they saw, to their surprise, that these pieces had turned into small, black bears, which had jumped up and were running away in every direction."
-    },
-    {
-     "id": "p048.s03",
-     "source": "And it is from these bears that the bears called the Makwas had their beginning."
-    }
-   ],
-   "id": "p048"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p049.s01",
-     "source": "A manitou is the spirit of an Indian who has been killed."
-    },
-    {
-     "id": "p049.s02",
-     "source": "Manitous often take the forms of animals when they come back to life."
-    }
-   ],
-   "id": "p049"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p050.s01",
-     "source": "Wampum; long, narrow beads, sometimes made of shells."
-    },
-    {
-     "id": "p050.s02",
-     "source": "They were usually blue and white and were often woven into a belt."
-    },
-    {
-     "id": "p050.s03",
-     "source": "They were greatly treasured by the Indians."
-    }
-   ],
-   "id": "p050"
   }
  ]
 }

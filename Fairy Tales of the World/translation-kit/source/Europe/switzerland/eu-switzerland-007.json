@@ -2,20 +2,20 @@
  "id": "eu-switzerland-007",
  "title": {
   "id": "title",
-  "source": "Basel"
+  "source": "Two Good Natured Dragons"
  },
  "tradition": "Switzerland",
  "continent": "Europe",
  "source_lang": "en",
- "source_book": "Legends of Switzerland",
- "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #64163 — https://www.gutenberg.org/ebooks/64163 (copied via the GITenberg mirror)",
+ "source_book": "Swiss Fairy Tales",
+ "credits": "Griffis, William Elliot (author, d. 1928)",
+ "gutenberg": "Project Gutenberg eBook #69739 — https://www.gutenberg.org/ebooks/69739",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Europe/Switzerland/007 - Basel.md",
+ "markdown_file": "Europe/Switzerland/007 - Two Good Natured Dragons.md",
  "stats": {
-  "paragraphs": 37,
-  "segments": 75,
-  "words": 2257
+  "paragraphs": 33,
+  "segments": 105,
+  "words": 2476
  },
  "paragraphs": [
   {
@@ -23,11 +23,19 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Basel , the capital of the canton of the same name, was founded by the Romans before Christ."
+     "source": "The whole family of dragons, that are scattered all over the world, have a very bad reputation."
     },
     {
      "id": "p001.s02",
-     "source": "After serving as one of their military posts, it became a free town under the empire, and at the very beginning of the sixteenth century joined the Swiss Confederation."
+     "source": "It is said that they feed on fat girls, and will not taste anything but nice, tender, juicy maidens."
+    },
+    {
+     "id": "p001.s03",
+     "source": "If they try to eat old folks, and grown up people, they get a stomach ache at once."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Then, it takes many bottles of medicine, besides keeping them a long time on a baby’s diet of milk and bread, while they are getting well, before they are in full health again."
     }
    ],
    "id": "p001"
@@ -37,19 +45,15 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "The centre of a bishopric founded by Charlemagne, this city was already famous in his day for its churches, monasteries, and schools, although the present cathedral was built only two hundred years later."
+     "source": "But when they regain their appetite, they roam around through the country, devouring maidens by the dozen."
     },
     {
      "id": "p002.s02",
-     "source": "It suffered sorely from the great earthquake of 1356, when tradition asserts that the building rocked so portentously that a huge bell of pure silver was hurled from its spire straight into the Rhine."
+     "source": "Then all the fathers, that have lovely daughters, must be on their guard."
     },
     {
      "id": "p002.s03",
-     "source": "There it still lies, and on clear days can be seen shining deep down under the water."
-    },
-    {
-     "id": "p002.s04",
-     "source": "Sometimes, too, its sound can be heard there, for the Rhine spirits—who are all good Christians—ring it regularly at the appointed hours for prayer."
+     "source": "They keep their girls at home, for fear there will be none of them left."
     }
    ],
    "id": "p002"
@@ -59,15 +63,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "The old fortifications of the town have nearly all vanished, but the fourteenth-century Spalenthor still stands."
-    },
-    {
-     "id": "p003.s02",
-     "source": "Between that gate and the Spalenberg, the Spalen, a ghostly creature, is said to rush every stormy night."
-    },
-    {
-     "id": "p003.s03",
-     "source": "None of the inhabitants can describe it exactly, for they have only caught fleeting glimpses of it, although they have frequently heard it pass."
+     "source": "This habit of the dragons to relish, on their bill of fare, only lovely maidens, makes the brave young men want to fight and kill the monsters, because, with so few girls left, they fear that they may not be able to get wives, and, without these, they cannot have homes or be husbands. [ ]"
     }
    ],
    "id": "p003"
@@ -77,11 +73,19 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "This ghost is variously designated as a sea-horse, a pig, a dragon, or a griffin, but if any one attempts to ascertain its exact nature, by looking out of the window when the sound of its flying footsteps is heard, he is duly punished by waking up on the morrow with a very swollen face."
+     "source": "But the old dragons were foxy fellows, very cunning and crafty."
     },
     {
      "id": "p004.s02",
-     "source": "A bold spirit, who once recklessly thrust his head far out of the window to satisfy his curiosity, is said to have been stricken with such sudden and exaggerated inflammation that the window frame had to be removed before he could again draw in his head!"
+     "source": "So they kept out of the way of the knights and heroes, with their swords and spears, and arrows, and bow guns: and even from the fairies, who cast spells over them."
+    },
+    {
+     "id": "p004.s03",
+     "source": "It was only once in a while, that a lucky fellow, like Saint George, could stick his spear clear down the monster’s throat."
+    },
+    {
+     "id": "p004.s04",
+     "source": "It happened, only rarely, that one like Sigurd, the Norseman, or Susanoo, the Japanese, was able to slay one of the big, clumsy, crawling creatures, with their trusty swords."
     }
    ],
    "id": "p004"
@@ -91,15 +95,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The two divisions of the town, on either side of the river, were long at feud, and this division was commemorated by a statue on the old bridge, which by means of a curious mechanism continually stuck out a derisive tongue at the people on the other side."
+     "source": "Happily there came, once in a while, a good natured dragon; that is, the right sort of a fellow, jolly in disposition, and kind to boys."
     },
     {
      "id": "p005.s02",
-     "source": "This image, locally known as the “Lällenkönig” is now in the city museum."
-    },
-    {
-     "id": "p005.s03",
-     "source": "In reply to this insult the people of the opposite side are said to have set up a rival statue, which turned its back in the most contemptuous way to the famous Lällenkönig."
+     "source": "Such a dragon would even invite a well-behaved man to take dinner with him, and even point out what food on the dragon’s table tasted best."
     }
    ],
    "id": "p005"
@@ -109,7 +109,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "For this and other legends of Basel, see the author’s “Legends of the Rhine.”"
+     "source": "Of course, the man would not always like what was served up before him to eat; for a mortal cannot always enjoy what comes out of the dragon’s kitchen, nor can he be sure of what he may be swallowing."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Nobody enjoys chewing up his grandmother, or his aunts, or cousins, or sisters, even though he might, once in a great while, feel like doing so."
     }
    ],
    "id": "p006"
@@ -119,19 +123,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Not far from the Summer Casino stands the St. Jacob monument, commemorating a battle of the same name fought in 1444."
-    },
-    {
-     "id": "p007.s02",
-     "source": "Tradition declares that thirty days before this fight, the people of Basel were warned of its approach by sudden noises high up in the air above them."
-    },
-    {
-     "id": "p007.s03",
-     "source": "First came a rush, as of mailed steeds; then a clash like that of contending armies, followed by a din of cries and groans."
-    },
-    {
-     "id": "p007.s04",
-     "source": "Although nothing was visible, the people knew full well that Satan’s ghostly train was already fighting in the air above them in anticipation of the coming carnage."
+     "source": "So when one goes to see a dragon, and does not, himself, get swallowed up, he had better take [ ] a sandwich or two with him, and not taste the dragon’s delicacies."
     }
    ],
    "id": "p007"
@@ -141,15 +133,19 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "When the fight at St. Jacob really took place, Burkard of Landskron—whose ruined castle stands near Basel—sided with the French."
+     "source": "No pretty girl, or plump young lady, ought ever to pay a visit to a dragon’s cave, because, however kind and polite the monster would wish to be, to his guest, his appetite might be too strong for him."
     },
     {
      "id": "p008.s02",
-     "source": "He fought all day with such fury that when evening came and the battle was ended, he and his milk-white battle steed were all covered with blood."
+     "source": "Moreover, the very sight of the lovely maiden might make his mouth water, and then, after roaring out, “um, um,” he would be very apt to gulp her down, at one mouthful."
     },
     {
      "id": "p008.s03",
-     "source": "Gazing around him, Burkard saw the ground strewn with corpses, the grass and bushes drenched with blood, while the very brook ran red with gore."
+     "source": "This might happen so quickly, that she would not know where she was, or even think what her mother would say, when she missed her, on ironing day."
+    },
+    {
+     "id": "p008.s04",
+     "source": "So, even in the case of a well-behaved dragon, or one supposed to have a good character, any person had better be careful about visiting a dragon’s cave."
     }
    ],
    "id": "p008"
@@ -159,7 +155,19 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "The warrior, who delighted in warfare, gazed enraptured at this awful scene; then, patting his horse, he joyfully cried,—"
+     "source": "Now there was a man in Switzerland, a cooper, who made tubs and buckets, and, once in a great while, a hogshead or a bath tub."
+    },
+    {
+     "id": "p009.s02",
+     "source": "His shop sign was a well-hooped barrel, set over his doorway."
+    },
+    {
+     "id": "p009.s03",
+     "source": "He was especially expert at making and mending milk churns."
+    },
+    {
+     "id": "p009.s04",
+     "source": "Some of the girls used to declare that butter came more quickly, and with less hard work, in churns made by him, than in any others."
     }
    ],
    "id": "p009"
@@ -169,7 +177,23 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "“Ah, old fellow! you and I are bathing in roses to-day, are we not?”"
+     "source": "His name was not Rip Van Winkle, whose father, by the way, was born in Germany, but he had a wife with a bad temper."
+    },
+    {
+     "id": "p010.s02",
+     "source": "She had a great [ ] reputation for scolding."
+    },
+    {
+     "id": "p010.s03",
+     "source": "It was said that her “tongue, which was only three inches long, could kill a man six feet high.”"
+    },
+    {
+     "id": "p010.s04",
+     "source": "In fact, some folks declared that she did not need a sword, but she could fight a dragon with her fiery tongue alone."
+    },
+    {
+     "id": "p010.s05",
+     "source": "Let her but open her mouth, and such a volley of abuse would be shot out, at the monster, that, no matter how big, or how hungry he was, he would curl up his tail and run, or else flap his wings, like a frightened chicken, and be off."
     }
    ],
    "id": "p010"
@@ -179,7 +203,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "These unfeeling words, which were answered by a gentle neigh from the weary steed, fell upon the dying ears of a brave Swiss, who had gone into battle echoing his companions’ dauntless cry, “Our souls to God, our bodies to the enemy!”"
+     "source": "Now when this cooper was asked how he felt, about having such a scold for a wife, he used to make apologies, and say, “Well, it was not always so."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Once, she was so sweet and lovely, that I wanted to eat her up.”"
     }
    ],
    "id": "p011"
@@ -189,11 +217,7 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Raising himself feebly, he fixed dim, resentful eyes upon the cruel victor; then, recognising in him a bitter foe of his country, his heart swelled once more in violent anger."
-    },
-    {
-     "id": "p012.s02",
-     "source": "Too weak to rise and strike another blow with the sword which had done such good service that day, the Swiss fumbled around for a moment, then, seizing a stone dyed red with patriot blood, hurled it straight at Landskron, saying,—"
+     "source": "Then, after a minute or two, he would add, “And I have always been sorry, ever since, that I did not do it.”"
     }
    ],
    "id": "p012"
@@ -203,7 +227,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "“There, eat one of your roses, you fiend!”"
+     "source": "When his wife heard of this, she called him “the son of a dragon, and a woman-eater.”"
     }
    ],
    "id": "p013"
@@ -213,11 +237,23 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "The stone, flung with unerring aim, struck the warrior in the middle of his forehead, and he fell with a crash to the ground, bathed in his own life-blood."
+     "source": "One day, the cooper received an unusually severe punishment, not at the hands, but from the mouth of his wife."
     },
     {
      "id": "p014.s02",
-     "source": "This last effort, however, entirely exhausted the patriot, who, after seeing his enemy fall, sank back on the blood-stained sward, where he breathed his last sigh."
+     "source": "This, however, he richly deserved; for, after drinking, with his companions, all night, she had found him lying in the gutter."
+    },
+    {
+     "id": "p014.s03",
+     "source": "After she had rolled him over, like a flapjack, to see if the drunken lout was her husband, he got up, looking very sheepish."
+    },
+    {
+     "id": "p014.s04",
+     "source": "Then he promised [ ] to work hard that day."
+    },
+    {
+     "id": "p014.s05",
+     "source": "So she went back home, to get his breakfast ready."
     }
    ],
    "id": "p014"
@@ -227,7 +263,11 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "The bravery of the small Swiss force which held out here, hour after hour, against an army twenty or thirty times greater, so surprised Louis XI. that he gladly made peace with the Swiss, who still consider this battle their Thermopylæ."
+     "source": "But instead of going to his house or shop, where the wood shavings smelled so sweet, he resolved to take a walk, to get rid of a splitting headache."
+    },
+    {
+     "id": "p015.s02",
+     "source": "So he scrambled up the mountain side, expecting, on his return, to tell his wife, that he had been out in the woods, looking for timber, to make hoops and barrel staves."
     }
    ],
    "id": "p015"
@@ -237,7 +277,15 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Not far from the ruined castle of Landskron, and near the village of Ettingen on one of the spurs of the Jura mountains, are the remains of the old castle of Fürstenstein, the home of a lord of Rothberg in the fourteenth century."
+     "source": "He hardly knew where he was going, for he was stupid and half dizzy, from so much drink, from the night before, and pretty soon he slipped and fell."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Over and over, he rolled, until, coming to the edge of a precipice, he stumbled and slid far down into a bog."
+    },
+    {
+     "id": "p016.s03",
+     "source": "This cooled him off and brought him to his senses."
     }
    ],
    "id": "p016"
@@ -247,15 +295,11 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "A thoroughly virtuous knight, this nobleman married a good wife, and both were equally devoted to their only child, a charming little girl of about four years of age."
+     "source": "He tried long to find the way out, but could see no hole or cleft in the rocks."
     },
     {
      "id": "p017.s02",
-     "source": "One day the mother took the little maiden out into the forest, where she let her run about to fill her basket with wood-flowers, and with the tiny wild strawberries whose perfume and flavour are so delicious."
-    },
-    {
-     "id": "p017.s03",
-     "source": "The mother sat down in the shade of a big tree, where the little one came every few moments to exhibit some new treasure; but the Lady of Rothberg sprang to her feet in terror when a sharp cry rang suddenly through the air."
+     "source": "After a while, he saw what looked like a tunnel, or, it might be, a grotto."
     }
    ],
    "id": "p017"
@@ -265,7 +309,19 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Rushing to the place where her child had stood a moment before, she now beheld a frightfully steep precipice, but when she leaned far over the edge, frantically calling the child, nothing but a loud echo replied."
+     "source": "Entering in and peering about him, he discerned four great round lights, like moons."
+    },
+    {
+     "id": "p018.s02",
+     "source": "At this, his heart began to beat, his blood to swell in his veins, and his hair to rise, nearly knocking his hat off."
+    },
+    {
+     "id": "p018.s03",
+     "source": "He saw two streams of fire issue from beneath and between these shining orbs."
+    },
+    {
+     "id": "p018.s04",
+     "source": "After a few seconds, he saw clearly two dragons, that were breathing out streams of fire, that [ ] nearly scorched off his eyebrows, while the sulphurous smell nearly knocked him over."
     }
    ],
    "id": "p018"
@@ -275,23 +331,23 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Beside herself with grief, the unhappy mother rushed down the mountain path, wildly imploring the Virgin to protect her babe."
+     "source": "At this, the cooper made the sign of the cross, and prayed for protection."
     },
     {
      "id": "p019.s02",
-     "source": "On reaching the foot of the mountain, and the entrance to the ravine, she almost fainted with joy, for her little girl came running joyfully forward to meet her."
+     "source": "Thereupon, both the dragons, that had got their jaws ready to swallow him, shut their mouths."
     },
     {
      "id": "p019.s03",
-     "source": "The mother clasped the child rapturously to her breast, and when the first emotion was over, and she had assured herself that her darling was uninjured, she gently began to question her."
+     "source": "They crawled up gently, with their tails down, and they gave him to understand that they were friendly, by licking his hands and feet."
     },
     {
      "id": "p019.s04",
-     "source": "The little maiden artlessly related that she had gone very near the edge of the precipice to pick a beautiful flower, and had suddenly fallen."
+     "source": "This they kept on doing, until all the mud, into which he had tumbled, and which had stuck to his clothes, was entirely gone."
     },
     {
      "id": "p019.s05",
-     "source": "But before she could touch the ground, she was caught in the arms of a beautiful woman, who gently set her down upon the soft grass, pointing out the red strawberries which grew there in profusion and which she had begun to pick for her father."
+     "source": "It was almost like taking a steam bath."
     }
    ],
    "id": "p019"
@@ -301,15 +357,23 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "This miraculous rescue of their only child filled the parents’ hearts with such gratitude that they built a rock chapel on the spot where the little one fell."
+     "source": "As the winter came on, the appetite of the dragons became less ravenous and they ate little."
     },
     {
      "id": "p020.s02",
-     "source": "An image of the Virgin was placed in this building, which soon became a resort for pilgrims coming from far and from near to pray at the shrine of Maria im Stein."
+     "source": "Like bears and marmots, they went into their cave, and kept very quiet, as if asleep."
     },
     {
      "id": "p020.s03",
-     "source": "Later on, a Benedictine abbey, Mariastein, was erected near here; and a fine church now rises on the crag just above the rock-hewn commemorative chapel."
+     "source": "Moreover, even in summer, when these dragons could not get a supply of maidens, they devoured a sweetish substance, that exuded from a cleft in the rocks, which must have been filled by a colony of bees, for honey trickled plentifully down into the gully."
+    },
+    {
+     "id": "p020.s04",
+     "source": "At any rate, the cooper got to like the dragon’s winter food so well, that he wondered how he could ever have enjoyed black bread and cheese."
+    },
+    {
+     "id": "p020.s05",
+     "source": "In a month, his stomach got quite used to the new diet."
     }
    ],
    "id": "p020"
@@ -319,7 +383,11 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "The ruined castle of Waldenburg, near the village of the same name, was once the home of an exacting nobleman, who required such hard and continual labour from his numerous vassals, that they had no time to till the fields destined to supply their families with food."
+     "source": "He was not afraid of the dragons, and they seemed to enjoy his company."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Perhaps they thought that, when the spring should come, he [ ] might tell them, when his wife went abroad out of the house; and then, if starving, they might make a dinner of her."
     }
    ],
    "id": "p021"
@@ -329,11 +397,15 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "One poor man had been kept so persistently at work for his lord, that his wife and children were in sore need."
+     "source": "Meanwhile, the cooper was missed in the village; and, as people wanted their tubs mended, several parties of strong young men climbed the mountains to find him."
     },
     {
      "id": "p022.s02",
-     "source": "When a messenger came to require further service, he desperately seized a dish, and holding it out to him, declared he would work no more, unless that vessel were filled thrice a day with wholesome food for his starving family."
+     "source": "They sought in every grove and wood, over hill and down dale, in valley, and on the slopes, but his body could not be found."
+    },
+    {
+     "id": "p022.s03",
+     "source": "So, he was mourned as dead; for, in spite of his faults, he was considered a good fellow."
     }
    ],
    "id": "p022"
@@ -343,7 +415,15 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "When the messenger gave this answer to the cruel lord, the latter immediately clapped the recalcitrant vassal into a damp prison, vowing he should remain there until he died miserably among the toads and other vermin which infested it."
+     "source": "But in spring time, when the sun began to climb high in the sky, and the sap rose in the trees, the flowers bloomed, and, the cows went, with the cheesemakers, to the higher pastures, the two dragons grew restless, and their appetites came back in full force."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Hoping to catch a nice fat maiden or two, they began to stretch, and roll, and to writhe, and tumble."
+    },
+    {
+     "id": "p023.s03",
+     "source": "They flapped, and furled, and unfolded their wings, until they felt ready to soar and swoop, with all their former skill."
     }
    ],
    "id": "p023"
@@ -353,7 +433,27 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "The poor wife, driven almost frantic by the cries of her hungry children, painfully wended her way up to the castle one cold winter day, and meeting her master as he rode out of the gate on his way to the chase, fell on her knees in front of him, begging for her husband’s release."
+     "source": "By this time, also, the cooper began to get homesick."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Even though afraid to meet his wife, he was longing to see his children, after his long absence."
+    },
+    {
+     "id": "p024.s03",
+     "source": "He had got very tired of looking only on rocks and the walls of the ravine."
+    },
+    {
+     "id": "p024.s04",
+     "source": "Moreover, the dragons did not seem to be as sociable, [ ] as at first, and they amused him no longer."
+    },
+    {
+     "id": "p024.s05",
+     "source": "Besides, he wanted to see his neighbors again, to tell them of his adventures and even to pose as a hero."
+    },
+    {
+     "id": "p024.s06",
+     "source": "He feared, however, that before he tried to get away, the dragons might still eat him up; for they snorted, and bellowed, and rubbed their stomachs, with their forepaws, as if hungry enough, indeed, to swallow a horse with its harness on."
     }
    ],
    "id": "p024"
@@ -363,11 +463,31 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "The lord of Waldenburg, who did not even know the meaning of the word compassion, roughly bade her rise, threatening to trample her under foot like the rest of the dirt if she did not immediately get out of his way."
+     "source": "One warm day, the cooper heard, afar off, the echoes of the Alpine horn."
     },
     {
      "id": "p025.s02",
-     "source": "But the woman still knelt on, pleading for her husband and for the hungry children who had no bread."
+     "source": "He listened with delight to the yodel music, as the shepherds called their cows and goats."
+    },
+    {
+     "id": "p025.s03",
+     "source": "As he was wondering how he could get out of the valley, and whether the dragons would let him go, he saw the larger one of the two monsters unfurl his wings, which were as big as a windmill’s sails."
+    },
+    {
+     "id": "p025.s04",
+     "source": "He flew straight up in the air, and, when near the blue sky, circled about a few times, like the carrier pigeons, which the cooper had seen at home."
+    },
+    {
+     "id": "p025.s05",
+     "source": "Then, careering far away, he disappeared in the dim distance beyond."
+    },
+    {
+     "id": "p025.s06",
+     "source": "No doubt, that day, some poor daddy, on coming home at night, missed one of his daughters."
+    },
+    {
+     "id": "p025.s07",
+     "source": "The cooper had noticed, that both the dragons had been roaring with hunger, for several days previously, and now he had his fears."
     }
    ],
    "id": "p025"
@@ -377,7 +497,11 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "Motioning to his huntsman to give her one of the stones by the wayside, the lord now mockingly cried,—"
+     "source": "So the cooper watched his chance, determined not to let the other dragon get away, without his stealing a ride on the monster’s back."
+    },
+    {
+     "id": "p026.s02",
+     "source": "He knew [ ] that a man’s weight, for a dragon to carry in the air, would hardly be felt, so much as that of a feather."
     }
    ],
    "id": "p026"
@@ -387,11 +511,11 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "“There is bread for your children."
+     "source": "For a dragon had the power of a catapult, the strength of a rhinoceros, a roar like a lion, teeth like a tiger, fins like a fish, claws like a falcon, wings like an eagle, and scales like an alligator."
     },
     {
      "id": "p027.s02",
-     "source": "It will last all the longer because it is so hard; but when they have eaten it, you may come again, and I will give you some more of the same kind.”"
+     "source": "In short, a dragon was a whole menagerie in itself."
     }
    ],
    "id": "p027"
@@ -401,11 +525,19 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "This unfeeling remark proved too much for the outraged mother and wife."
+     "source": "So watching his chance, the cooper, at the very moment that he saw the second dragon unfold his wings, grabbed hold of his tail; and, though it was slippery, he hung on to this, for dear life."
     },
     {
      "id": "p028.s02",
-     "source": "She sprang indignantly to her feet and cursed her master with trembling lips, saying that she wished his whole body might be turned into stone as hard and cold as his heart."
+     "source": "Far up in the air, the monster flew, at first very high, and then low, as if he knew where the cooper lived."
+    },
+    {
+     "id": "p028.s03",
+     "source": "Then, coming near his village, the monster swooped down near the earth, and dropped his burden gently on the top of a wagon loaded with hay."
+    },
+    {
+     "id": "p028.s04",
+     "source": "He was off before any one could let fly an arrow from the string, or shoot a bolt out of a bow gun, or say “By Saint Matthew.”"
     }
    ],
    "id": "p028"
@@ -415,11 +547,23 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "At that instant, the lord of Waldenburg felt a strange chill run through his veins, his muscles suddenly stiffened, and before he could move or even utter a sound, he and his steed were petrified."
+     "source": "As the cooper climbed down from the hay wagon, all the ducks, geese and chickens set up a concert of welcome."
     },
     {
      "id": "p029.s02",
-     "source": "His vassals, seeing Heaven had avenged them, now rushed into the castle, freed the prisoners, took possession of all the money and food, and in passing out again taunted the stone image of the man who had wronged them so persistently."
+     "source": "Donkeys brayed, the cows lowed, and dogs barked, and cats meowed."
+    },
+    {
+     "id": "p029.s03",
+     "source": "His wife, instead of scolding him, threw her arms around him, and wept for joy."
+    },
+    {
+     "id": "p029.s04",
+     "source": "His children gathered about, and so held his arms and [ ] legs, that puss could not get near to rub her sides against his limbs."
+    },
+    {
+     "id": "p029.s05",
+     "source": "All his neighbors and friends welcomed him back with delight."
     }
    ],
    "id": "p029"
@@ -429,7 +573,15 @@
    "segments": [
     {
      "id": "p030.s01",
-     "source": "This stone knight still mounts solemn guard near the entrance of his former castle, although wind and weather have so disintegrated the once hard rock that its primitive shape is now almost unrecognisable."
+     "source": "The next day, his shop was filled with leaky tubs, and churns that had lost their hoops, and barrels that needed new staves."
+    },
+    {
+     "id": "p030.s02",
+     "source": "In addition, to this old work awaiting him, the orders for new utensils came in so fast, that he expected soon to be a rich man."
+    },
+    {
+     "id": "p030.s03",
+     "source": "He was so grateful, for his deliverance and safe return, and for his continuing prosperity, that, instead of hoarding up his money, he presented, to the church, in his village, a beautiful silver communion service, on which two dragons were engraved."
     }
    ],
    "id": "p030"
@@ -439,19 +591,11 @@
    "segments": [
     {
      "id": "p031.s01",
-     "source": "In many parts of Switzerland, the noisy June bugs are known as thunder bugs."
+     "source": "But his happiness was but for a short time, for his stomach had changed, and could no longer digest the ordinary food of mortals, not even buttermilk; and, as for cheese, it nearly killed him."
     },
     {
      "id": "p031.s02",
-     "source": "Near Basel, as well as at Ormond, the following amusing story is told of some simple peasants who dwelt in a deep valley."
-    },
-    {
-     "id": "p031.s03",
-     "source": "A long drought had made the soil so hard and dry that the people feared their harvests would be ruined unless they soon had rain."
-    },
-    {
-     "id": "p031.s04",
-     "source": "As their prayers and processions proved alike unavailing, they longed to try some more efficacious means of rain-making."
+     "source": "Feeding so long, on honey and dragon’s food, had ruined him for liking any other articles of diet."
     }
    ],
    "id": "p031"
@@ -461,11 +605,19 @@
    "segments": [
     {
      "id": "p032.s01",
-     "source": "A joker, hearing their quandary, now gravely bade them go to Basel and buy a little thunder at the drug-store there, assuring them that if they only let it loose in their valley, the rain would soon follow."
+     "source": "In vain his wife cooked everything very nicely and offered it in the most tempting form."
     },
     {
      "id": "p032.s02",
-     "source": "The peasants, hearing this, immediately sent a deputation to the city, and entering the largest and most fashionable apothecary shop, the rustic spokesman confidentially informed the clerk that he had come to buy some thunder."
+     "source": "The maidens of the village, thankful at not being digested by dragons, tried their best to tempt his appetite, with the very finest their dainty hands could make, in the form of broths, salads, meats, cakes, apple dumplings, puddings and tarts."
+    },
+    {
+     "id": "p032.s03",
+     "source": "The delicatessen shops sent the choicest tidbits [ ] they could roast before their spits, bake in their ovens, or show on their tables, or in their shop windows."
+    },
+    {
+     "id": "p032.s04",
+     "source": "Nothing would avail, and the poor man died of slow starvation; and this, before even autumn had come."
     }
    ],
    "id": "p032"
@@ -475,69 +627,14 @@
    "segments": [
     {
      "id": "p033.s01",
-     "source": "The clerk, who was not devoid of humour, gravely asked a few leading questions, then went into the rear of the store, saying he would get what they wanted."
+     "source": "After so sad an event, the popularity of even good dragons waned, so that it is hard, nowadays, to make anyone believe there were such creatures, that are named in encyclopædias."
     },
     {
      "id": "p033.s02",
-     "source": "Stepping out into the garden unseen, he caught a few June bugs, and packed them carefully in a large pill-box."
-    },
-    {
-     "id": "p033.s03",
-     "source": "This he wrapped up and solemnly delivered to the waiting peasants, making such a very small charge that they openly regretted not having known sooner that thunder could be purchased so cheap in Basel."
+     "source": "It is now, the firm opinion of most Swiss folks, old and young, that the only good dragon is a dead one, while those neither dead or alive, but only painted, or in fairy tales, are good enough to know about. [ ]"
     }
    ],
    "id": "p033"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p034.s01",
-     "source": "The men now set out on their return journey to the Frickthal, and as the apothecary had gravely charged them not to open the box until they reached their village, they passed the little parcel from hand to hand, weighed and shook it, and grinned at each other with delight when they heard a faint rumbling noise within it."
-    }
-   ],
-   "id": "p034"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p035.s01",
-     "source": "Their impatience to see what this thunder might look like so engaged their attention that they did not notice dark clouds looming up behind them, and when they reached the top of the mountain at the foot of which lay their village, they determined to wait no longer and opened the box."
-    },
-    {
-     "id": "p035.s02",
-     "source": "With a loud buzz and a bang, the June bugs, resenting their imprisonment and violent shaking, now flew, as luck would have it, directly over the village, while the deputation raced wildly down the mountain side with empty pill-box!"
-    }
-   ],
-   "id": "p035"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p036.s01",
-     "source": "The people were all on the market-place ready to receive them, and as soon as they appeared, clamoured to see the thunder they had purchased."
-    },
-    {
-     "id": "p036.s02",
-     "source": "The men sheepishly confessed what they had done, but declared all would yet be right, because the thunder bugs had flown straight over the village, and the rain would doubtless soon follow."
-    },
-    {
-     "id": "p036.s03",
-     "source": "Fortunately for them, the first black cloud just then appeared over the top of the mountain, and the people, perceiving it, gave a loud shout of joy."
-    },
-    {
-     "id": "p036.s04",
-     "source": "In an almost incredibly short space of time, all the Frickthalers were obliged to take refuge in their dwellings, for the rain came down in torrents, drenching the soil which had been so parched, and thus saving all the people from the threatened famine."
-    }
-   ],
-   "id": "p036"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p037"
   }
  ]
 }

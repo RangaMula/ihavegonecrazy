@@ -2,20 +2,20 @@
  "id": "af-san-people-024",
  "title": {
   "id": "title",
-  "source": "Die Môrester is die Hart van Dageraad"
+  "source": "Dampertjie en Spuitertjie skiet met Weerlig"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
  "source_book": "Boesman-Stories. Deel 1, Mitologie en legendes",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #62330 — https://www.gutenberg.org/ebooks/62330 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #62330 — https://www.gutenberg.org/ebooks/62330",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/024 - Die Môrester is die Hart van Dageraad.md",
+ "markdown_file": "Africa/San people/024 - Dampertjie en Spuitertjie skiet met Weerlig.md",
  "stats": {
   "paragraphs": 41,
   "segments": 83,
-  "words": 1755
+  "words": 1440
  },
  "paragraphs": [
   {
@@ -23,15 +23,27 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "OPMERKINGS:—Hierdie Storie het ons hoor vertel op Katkop, Limoenkop en op Klipfontein, langs Hantamrivier (dist."
+     "source": "OPMERKINGS:—Dampertjie is ’n swart-blouw Goggatjie met ’n langwerpige ronde lijf."
     },
     {
      "id": "p001.s02",
-     "source": "Calvinia), en daaruit is die inhoud saam gestel."
+     "source": "As hij aangeroer word dan slaan daar ’n swart-blouw damp uit sij lijf."
     },
     {
      "id": "p001.s03",
-     "source": "Wolf bij die Boesman is ’n slim man, en hier word vertel waarom hij ’n uitgeteerde agtervoet het: ook waarom die Rooikat klossies hare aan die punte van sij ore het en net vleis eet."
+     "source": "Spuitertjie is ’n vaal langwerpige plat Gogga—hulle stap gewoonlik twee bij mekaar."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Sodra hij aangeroer word, dan spuit daar gewoonlik ’n helder straal vloeistof uit sij lijf, wat vreeslik in die oë brand."
+    },
+    {
+     "id": "p001.s05",
+     "source": "In hierdie Storie word ’n ander verhaal gegee hoe wolke ontstaan het; ook kom die Boesman-bijgeloof uit dat swart weerlig doodslaan en nie die blink weerlig nie."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Die rijm-gedeelte het ons ’n bietjie verbeter, daar die verteller dit uit Boesmans aan ons vertaal het."
     }
    ],
    "id": "p001"
@@ -41,11 +53,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Die Son was eers ’n mens van die ougeslag, en het toe in die lig van sij blink gesig rondgestap, gejag en plesier gemaak."
+     "source": "Toe die Son nog ’n Mens van die ougeslag was en rondgeloop het, het sij maters hom vermoor. ’n Ander man het ’n entjie daarvandaan op ’n miershoop gesit en het die hele moord aanskouw."
     },
     {
      "id": "p002.s02",
-     "source": "Maar die ander ouvolk het boos op hom geword en het hom toe vermoor, en hulle kinders het die Son se skitterende kop in die lug gegooi, alwaar dit aldag nog skijn."
+     "source": "Hij het gesien dat Wolkop (of Wolkkop) die aanvoerder van die moordenaars was."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Ook het hij gesien hoe Wolkop se vrouw en ander meide hulle kinders gestuur het om die kop van die Son in die lug te gooi."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Na dit was hul gerus."
     }
    ],
    "id": "p002"
@@ -55,11 +75,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Die oudste seun van die ouman was baie gek na sij vader, en word toe die boodskapdraer van sij vader en het verskeie werkies vir die ouman verrig."
+     "source": "Toe eers gewaar Wolkop dat die ander man dit alles gesit en aankijk het."
     },
     {
      "id": "p003.s02",
-     "source": "Die naam van die seun was Dageraad."
+     "source": "Wolkop stap na die man toe en sê: “Hoor, as jij gaan vertel wie die Son vermoor het, dan vang ons jou en snij jou lewendig aan touwtjies vleis!"
+    },
+    {
+     "id": "p003.s03",
+     "source": "Jij maak jouw mond nie oop nie.”"
     }
    ],
    "id": "p003"
@@ -69,15 +93,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Sij eerste werk vroeg in die oggend was om die liggies van die Sterretjies dof te maak, en dan die blouw lug uit te hang, waaragter die Sterretjies verberg blij."
-    },
-    {
-     "id": "p004.s02",
-     "source": "Daarna staan die Son uit sij bed op; en die werk vir die seun vir die dag is dan afgedaan."
-    },
-    {
-     "id": "p004.s03",
-     "source": "Hij gaan dan jag, kos grawe of gesels."
+     "source": "Die man was maar van die bang soort en hij belowe hand en mond om met niemand daaroor te praat nie."
     }
    ],
    "id": "p004"
@@ -87,15 +103,15 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Sodra sij ou vader, die Son, sij dagwerk verrig het, en van moegheid saands aan die westekant op die rantjies gaan sit, dan stap die tweede seun, wat Aandskemering heet, oor, om sij vader, die Son, in sij bed te sit."
+     "source": "Maar die moordgeheim kwel hom daarna baie, en hij voel, as hij dit nie vertel nie, dat sij hart sal bars, en dat die spokerij snags nie bij hom sal ophou nie."
     },
     {
      "id": "p005.s02",
-     "source": "Dan is Aandskemering ook vrij om te doen wat hij wil."
+     "source": "Dog aan die anderkant was hij bang om in touwtjies, so lewendig-lewendig, gesnij te word."
     },
     {
      "id": "p005.s03",
-     "source": "Maar nooit het Dageraad en Aandskemering—al was hulle broers—van mekaar gehou nie; so het hulle ver van mekaar gaan woon."
+     "source": "Daarom maak hij liewers sij mond nie oop nie, en maak vir hom sulke kos wat hij tussen sij lippe kan opsuie."
     }
    ],
    "id": "p005"
@@ -105,15 +121,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Eendag, na Dageraad, na ou gewoonte, vroeg opgestaan het en kos en water na sij ou vader, die Son, se bed gebring het, stap hij rond en sien ’n mooi jongmeid van die ougeslag."
-    },
-    {
-     "id": "p006.s02",
-     "source": "Wolf se dogter was ook daar."
-    },
-    {
-     "id": "p006.s03",
-     "source": "Dageraad wou met die mooi jongmeid trouw; maar Wolf se dogter was te smoor verlief op die skone Dageraad; sij word jaloers."
+     "source": "’n Ou Towenaar kom bij hom en praat met hom; maar die man wou geen antwoord gee nie—te bang om sij mond oop te maak dat die geheim sal uitvlug en bekend word."
     }
    ],
    "id": "p006"
@@ -123,11 +131,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Dageraad trouw met die mooi jongmeid, en hulle het toe later ’n mooi meisiekind gehad."
-    },
-    {
-     "id": "p007.s02",
-     "source": "Die ouers, en algaar, was baie gek na die kind—net Wolf se dogter nie."
+     "source": "Die ou Towenaar sê daarop: “As jij nie jouw gedagte uitpraat nie, dan sal jouw hart bars, en jij sal op die plek doodval.”"
     }
    ],
    "id": "p007"
@@ -137,7 +141,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Op ’n ander dag, toe Dageraad die werk van sij ou vader, die Son, klaargemaak het, toe neem hij sij vrouw en kind veld-toe, hij lê die kind in die koelte onder ’n bossie, en gaan jag; onderwijl grawe sij vrouw en haar jong suster mierrijs."
+     "source": "Die man voel dit, dog hij was te bang om aan vleistouwtjies gesnij te word; hij gee nog geen antwoord nie en stap weg."
     }
    ],
    "id": "p008"
@@ -147,23 +151,11 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Jakhals kom daar en wil met die kindjie speel; maar die kind wou niks met hom te doen hê nie."
+     "source": "Hij voel sij hart swel, en die sweet tap hom af."
     },
     {
      "id": "p009.s02",
-     "source": "Toe kom Wolf se dogter daar en wil ook met die kindjie speel; maar die kind wil ook met haar niks te doen hê nie."
-    },
-    {
-     "id": "p009.s03",
-     "source": "Daarop kom Bobiaan daar en wou ook pret met die kindjie maak, dog eweneens wou die kind met hom ook niks te doen hê nie."
-    },
-    {
-     "id": "p009.s04",
-     "source": "Ten laaste kom Swart Kraai daar; maar sij praatjies het die kind nie aangestaan nie."
-    },
-    {
-     "id": "p009.s05",
-     "source": "Maar toe die moeder die kindjie optel en met haar speel, toe lag en spring die kind in haar moeder se arms; want sij het haar moeder geken en was blij om bij haar weer te wees."
+     "source": "Hij kom bij ’n ou erdvarkgat, hij staan te dink, hij maak die bek van die gat toe, en laat net ’n klein gaatjie oop; daarin praat hij hierdie woorde:"
     }
    ],
    "id": "p009"
@@ -173,11 +165,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Jakhals word jaloers en draf weg."
-    },
-    {
-     "id": "p010.s02",
-     "source": "Wolf se dogter word jaloers en gaan bij haar vader, wat daar nabij was, kla en huil oor die belediging wat die onskuldige kindjie aan haar gedoen het."
+     "source": "“Dis Wolkop, die vabond;"
     }
    ],
    "id": "p010"
@@ -187,7 +175,7 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Wolf erg hom somaar in sij hart en roep uit: “Dis jouw eie slegtigheid dat jij nie die vrouw van Dageraad geword het nie; hoekom het Dageraad dan die ander meid gevat en nie vir jou nie?”"
+     "source": "Dis Wolkop en maters;"
     }
    ],
    "id": "p011"
@@ -197,7 +185,7 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Maar toe sij so bitter huil, krij hij vir haar jammer en sê: “Ek sal jou vertel wat jij moet doen om die vrouw van Dageraad te word: Neem van die swartagtige sweet wat agter jouw skouerblaaie sit, en gooi dit op die mierrijs wat Dageraad se vrouw sal eet, en jij sal sien wat sal gebeur.”"
+     "source": "Ook Wolkop se kinders,"
     }
    ],
    "id": "p012"
@@ -207,15 +195,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Wolf se dogter hol gouw terug en gaan toe na die hut waar die vrouw van Dageraad die mierrijs sit en was."
-    },
-    {
-     "id": "p013.s02",
-     "source": "Ongemerk gooi sij van haar armsweet op die gewaste mierrijs."
-    },
-    {
-     "id": "p013.s03",
-     "source": "En toe die rijs gaar gemaak was, eet die vrouw daarvan; maar sê aan haar jonger suster: “Moenie van hierdie rijs eet nie, want ek voel ek word gek en raak van mij verstand af.”"
+     "source": "Wat kwaad doen en stil blij—"
     }
    ],
    "id": "p013"
@@ -225,11 +205,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Daarop val die ringe om haar nek af, en lê op die grond; toe val haar armbande af, en lê op die grond; toe weer die ringe wat om haar enkels was; daarop val haar karos en velrok af, en algaar blij op die grond lê."
-    },
-    {
-     "id": "p014.s02",
-     "source": "Die dogter van Wolf vat dit alles en trek haar daarmee aan en sit die ringe vir haar om."
+     "source": "Dis hulle! ”"
     }
    ],
    "id": "p014"
@@ -239,15 +215,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Die vrouw van Dageraad voel dat sij ’n wilde dier word, en sij hol die veld in."
-    },
-    {
-     "id": "p015.s02",
-     "source": "Haar jong suster hol, met die kind agter haar rug, agterna en wou haar vang en vashou."
-    },
-    {
-     "id": "p015.s03",
-     "source": "Dog die vrouw hol ver en vlug ’n kol riete in."
+     "source": "“Ek praat nou maar reguit:"
     }
    ],
    "id": "p015"
@@ -257,7 +225,7 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Die jonger suster roep uit: “Wag eers, en laat jouw kind drink,” daarop oorhandig sij bij die rietkol die kind aan die moeder."
+     "source": "Ek het dit gesien, ja;"
     }
    ],
    "id": "p016"
@@ -267,7 +235,7 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "“Ja, gee haar hier, dat ek mij kind kan voed, eer ek ’n wilde dier word!”"
+     "source": "Maar moet mij bek hou, of"
     }
    ],
    "id": "p017"
@@ -277,11 +245,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "En toe die kindjie versadig was, gee sij die kind weer terug, en sê aan haar jonger suster: “Kom môre vroeg weer, dat ek die kind kan voed; want ek voel dat ek in mij harsings gekrink raak."
-    },
-    {
-     "id": "p018.s02",
-     "source": "Ek voel ek word ’n verskeurende dier.”"
+     "source": "Hul snij mij aan riempies—"
     }
    ],
    "id": "p018"
@@ -291,7 +255,7 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Hierop vat die jonger suster die kind, stap huistoe, en die vrouw gaan gouw weer in die riete lê."
+     "source": "Sê hulle!"
     }
    ],
    "id": "p019"
@@ -301,11 +265,7 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "Die aand kom Dageraad thuis en dog toe dat Wolf se dogter sij vrouw was, en vra: “Waarom laat jul die kind so huil?”"
-    },
-    {
-     "id": "p020.s02",
-     "source": "Waarop sij skoonsuster geen antwoord gee nie, maar sus die kind in slaap."
+     "source": "“Maar hou ek mij bek toe,"
     }
    ],
    "id": "p020"
@@ -315,7 +275,7 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "Die oggend, toe Dageraad lig maak, hol die suster met die kind na die rietkol en roep uit: “Suster, suster! hier is ek met jouw kind!”"
+     "source": "Dan bars mij ou hartsak."
     }
    ],
    "id": "p021"
@@ -325,7 +285,7 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "Die moeder kom uit die riete, vat die kind, en na sij haar kind gevoed het, gee sij dit aan haar jonger suster terug en sê: “Jij moet vanmiddag die kind weer bring, sodat, eer ek ’n verskeurende dier is, ek mij kind weer kan voed.”"
+     "source": "Nou hoor hier: Die Sonman"
     }
    ],
    "id": "p022"
@@ -335,7 +295,7 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Die jonger suster het só op die middag, en ook teen die aand, gedoen."
+     "source": "Het hulle gemartel—"
     }
    ],
    "id": "p023"
@@ -345,15 +305,7 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "Daardie aand gee die ouvolk ’n ’Ku -dans; dan klap die meide op hulle hande, die volk kom voor die meide flikkers maak, buig en knik met hulle koppe."
-    },
-    {
-     "id": "p024.s02",
-     "source": "Die dogter van Wolf dink dat hul die ’Ku -dans vir haar gemaak het, dog sij sit in die donker, met haar rug na die dansers toe."
-    },
-    {
-     "id": "p024.s03",
-     "source": "Ook was sij bang om die ringe om haar nek, arms en bene te laat, maar lê dié naas haar, waar sij sit."
+     "source": "Dis hulle!”"
     }
    ],
    "id": "p024"
@@ -363,11 +315,11 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "Toe Dageraad sij flikkers voor sij skoonsuster kom maak en haar op die skouer klop, vlie sij kortom en roep uit: “Waarom maak jij nie liewers jouw flikkers voor jouw Wolf-vrouw nie?"
+     "source": "Voor die woorde kon uitkom, prop hij die gaatjie toe, en die woorde blij binne in die geslote erdvarkgat."
     },
     {
      "id": "p025.s02",
-     "source": "Daar sit sij!”"
+     "source": "Toe was daardie man nie meer bang om sij mond oop te maak, lekker te eet en na hartelus te gaap nie."
     }
    ],
    "id": "p025"
@@ -377,7 +329,15 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "En sij wijs haar met die vinger uit."
+     "source": "’n Ruk daarna hardloop ’n klomp gemsbokke oor die gat; een van die bokke trap met sij poot ’n gat deur tot in die groot gat, en toe kom daar ’n swart-blouw damp deur die deurtrapplek."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Die damp was die woorde wat al vermuf het. ’n Lewerkie wat daar nabij was, gaan kijk; en toe hoor hij van daardie woorde wie aanvoerder van die moordenaars van die ouman, die Son, was."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Ewe blij vlie hij op in die lug, dartel rond en herhaal wat hij gehoor het—iets wat hij nou nog soggends doen om in die lug met vrolike gesang die boodskap aan die Son te bring."
     }
    ],
    "id": "p026"
@@ -387,15 +347,19 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "Toe eers gewaar Dageraad dat dit nie sij vrouw was nie; hij grijp sij asgaai, om haar daarmee dood te steek."
+     "source": "Die ou Towenaar, wat ’n stokoud broer van die Son is, luister na die woorde wat die Lewerkie sing, en hij stap reguit na die man toe wat daardie woorde in die erdvarkgat toegeprop het, en hij vra: “Hoekom het jij vir jou doofstom aangestel toe ek die ander dag met jou gepraat het?"
     },
     {
      "id": "p027.s02",
-     "source": "Dog Wolf se dogter was te gouw, spring op, trap met haar een agterpoot in die vuur, ontvlug, en die asgaai steek vas op die plek waar sij gesit het."
+     "source": "Nou, omdat jij die kwaad verberg het, sal jij in ’n Swart Goggatjie verander."
     },
     {
      "id": "p027.s03",
-     "source": "Haar poot was erg verbrand."
+     "source": "Op die warm sand, wat die Son geskroei het, sal jij trap om jouw pote te brand."
+    },
+    {
+     "id": "p027.s04",
+     "source": "En daardie woorde, wat in die erdvarkgat vermuf het, sal ’n damp wees wat uit jouw lijf sal slaan.”"
     }
    ],
    "id": "p027"
@@ -405,7 +369,7 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "Dit was toe al laat in die nag—amper dagbreek—, en Dageraad was kwaad vir sij skoonsuster dat sij die geheim van hom verberg het, en roep uit: “Kom wijs mij waar mij vrouw is!”"
+     "source": "En die man verander op die plek in ’n Gogga, wat ons ’n Dampertjie noem."
     }
    ],
    "id": "p028"
@@ -415,7 +379,7 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "Maar die skoonsuster antwoord: “As jij lig maak, dan kan ek jou die plek gaan wijs; want jouw vrouw het in ’n verskeurende dier—’n Leeuwin—verander.”"
+     "source": "Dampertjie se suster, wat naas hom gesit het, huil en gaan tekeer en wou die Towenaar met sand of klippe gooi; dog hij verander haar ook in ’n Dampertjie, wat toe bij haar broer woon."
     }
    ],
    "id": "p029"
@@ -425,7 +389,11 @@
    "segments": [
     {
      "id": "p030.s01",
-     "source": "Dageraad maak lig."
+     "source": "Dadelik stap die ou Towenaar na Wolkop toe en vra hom waarom hij en sij maters die Son gemartel en vermoor het."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Wolkop wou nog strij; maar toe die ou Towenaar sij aandag tot die lied van die Lewerkie trek, hoor hij dat die voëltjie sing dat dit die woorde van Dampertjie is; en hij kon nie meer strij nie."
     }
    ],
    "id": "p030"
@@ -435,7 +403,15 @@
    "segments": [
     {
      "id": "p031.s01",
-     "source": "Toe roep die ander ouvolk uit: “Laat ons bokke voor ons uitdrijwe, sodat die Leeuwin van die bokke, en nie vir ons kan vang nie.”"
+     "source": "Toe sê die ou Towenaar teen Wolkop: “Jou sal ek ook in ’n Gogga verander; die pijle waarmee jij mij ou broer, die Son, geskiet het, sal nou in water verander, wat soos vuur sal brand."
+    },
+    {
+     "id": "p031.s02",
+     "source": "Voortaan sal jij die Spuitertjie-Gogga wees, wat ook op die hete sand sal rondhol, wat die Son so warm geskroei het.”"
+    },
+    {
+     "id": "p031.s03",
+     "source": "Van toe af word Wolkop die Spuitertjie-Gogga."
     }
    ],
    "id": "p031"
@@ -445,7 +421,11 @@
    "segments": [
     {
      "id": "p032.s01",
-     "source": "Hulle ja toe die bokke vooruit, en die skoonsuster gaan die plek wijs."
+     "source": "Spuitertjie was nou baie boos op Dampertjie en soek nou net een streek deur om hom, waar hij hom krij, dood te maak."
+    },
+    {
+     "id": "p032.s02",
+     "source": "In die veld krij hij Dampertjie se suster; hij steel haar en vlug ver met haar weg."
     }
    ],
    "id": "p032"
@@ -455,7 +435,23 @@
    "segments": [
     {
      "id": "p033.s01",
-     "source": "Toe hul bij die plek aankom, sê die skoonsuster aan Dageraad: “Kom kruip agter mij weg.”"
+     "source": "Dampertjie het orals na sij suster rond gesoek, dog kon haar nie vind nie."
+    },
+    {
+     "id": "p033.s02",
+     "source": "Eindelik ontmoet hij vir Hotnotsgod, en dié vertel hom dat Spuitertjie haar gesteel en met haar gevlug het."
+    },
+    {
+     "id": "p033.s03",
+     "source": "Dampertjie was boos, en hij stap na die plek waar sij suster sit en treur."
+    },
+    {
+     "id": "p033.s04",
+     "source": "Hij vind haar, vat haar hand, en broer en suster vlug weer terug."
+    },
+    {
+     "id": "p033.s05",
+     "source": "Sij grijp Spuitertjie se knapsak, waarin hij die brandwater opberg, hang dit om haar hals, en draf naas haar broer, en die twee loop wat hul geleer het."
     }
    ],
    "id": "p033"
@@ -465,19 +461,27 @@
    "segments": [
     {
      "id": "p034.s01",
-     "source": "Hij gaan agter haar staan en koes."
+     "source": "Spuitertjie ontdek die vlugterij gouw."
     },
     {
      "id": "p034.s02",
-     "source": "Die ander volk gaan weer agter hom staan en koes, sodat die vrouw net haar jonger suster kan sien."
+     "source": "Hij hol allangs die maanhaar van ’n rantjie, vanwaar hij Dampertjie en sij suster mooi in die vlakte kan herken."
     },
     {
      "id": "p034.s03",
-     "source": "Toe roep daardie jonger suster uit: “Suster, suster, kom uit!"
+     "source": "Hij maak wit donderwolke; want waar Dampertjie vlug, het hij weer swart donderwolke gemaak."
     },
     {
      "id": "p034.s04",
-     "source": "Ek het jouw kind gebring, sodat jij haar kan voed.”"
+     "source": "Spuitertjie skiet uit die wit wolke met blink weerlig, dog Dampertjie sê aan sij suster: “Moenie bang word nie; kom loop aan die ander kant van mij, dan kan hij jou nie raak nie.”"
+    },
+    {
+     "id": "p034.s05",
+     "source": "Dampie skerm die weerligstraal weg."
+    },
+    {
+     "id": "p034.s06",
+     "source": "Die sak met die brandwater skommel in die knapsak en ruk en pluk die suster in haar drafstap rond."
     }
    ],
    "id": "p034"
@@ -487,15 +491,15 @@
    "segments": [
     {
      "id": "p035.s01",
-     "source": "Die vrouw kom toe uit en sien die bokke staan."
+     "source": "Dampertjie kon vir Spuitertjie daar op die rantjie, en tussen die klippe, nie goed beken nie; daarom kon hij nie raakskote met sij swart weerlig skiet nie; dog hij peil op die plek waar die wit lig vandaan kom."
     },
     {
      "id": "p035.s02",
-     "source": "Sij gaan een vang; en toe storm die jonger suster en die volk saam met Dageraad; hul pak die vrouw, wat nou ’n Leeuwin is, en hou haar vas."
+     "source": "Hulle vlug en vlug haastiger."
     },
     {
      "id": "p035.s03",
-     "source": "Hulle vat van die inhoud van die bok se ingewande en dokter haar daarmee en begin toe haar vel af te trek."
+     "source": "Spuitertjie kom en kom, en blij hol langs die maanhaar van die rantjie, dan voor, dan agter die klippe."
     }
    ],
    "id": "p035"
@@ -505,7 +509,11 @@
    "segments": [
     {
      "id": "p036.s01",
-     "source": "Maar sij roep uit: “Laat die hare op die punte van mij ore blij, anders word ek doof en kan dan glad nie hoor nie.”"
+     "source": "Hij skiet weer blink weerlig, dog Dampertjie skerm dit met sij arm af, en gooi weer van die swart weerlig na Spuitertjie se kant toe."
+    },
+    {
+     "id": "p036.s02",
+     "source": "Hij moedig sij suster aan om gouw te loop."
     }
    ],
    "id": "p036"
@@ -515,11 +523,15 @@
    "segments": [
     {
      "id": "p037.s01",
-     "source": "Hulle trek toe die leeuwvel van haar lijf af, dog laat die lang hare op die punte van haar ore staan."
+     "source": "Eindelik sien hij vir Spuitertjie bo teen die lug op die rantjie staan, hij skiet ’n swart weerligstraal op hom af."
     },
     {
      "id": "p037.s02",
-     "source": "Sij word weer die mooi meid wat sij vroeër was; maar verander spoedig in die groot Rooikat, wat vandag nog die klossies lang hare aan die punte van sij ore het."
+     "source": "Raak!"
+    },
+    {
+     "id": "p037.s03",
+     "source": "Spuitertjie val en skop met sij voete op die grond: die gedreun daarvan is die gerommel van die donderweer."
     }
    ],
    "id": "p037"
@@ -529,11 +541,19 @@
    "segments": [
     {
      "id": "p038.s01",
-     "source": "Met dit al, blij sij die vrouw van Dageraad; want eindelik het sij die mooi meid geblij."
+     "source": "Dampertjie moedig sij suster steeds aan om flink aan te draf."
     },
     {
      "id": "p038.s02",
-     "source": "En daar sij met mierrijs getoor was, eet ’n Rooikat net vleis en nie rijsmiere nie."
+     "source": "Die wit wolke pak swaar op die rantjie, waar Spuitertjie lê en skop."
+    },
+    {
+     "id": "p038.s03",
+     "source": "Die gedreun rommel hard."
+    },
+    {
+     "id": "p038.s04",
+     "source": "Die swart wolke pak dik bokant en om Dampertjie en sij suster, wat nou eers hard vlug, solank Spuitertjie magteloos op die grond lê dreunings skop."
     }
    ],
    "id": "p038"
@@ -543,11 +563,11 @@
    "segments": [
     {
      "id": "p039.s01",
-     "source": "Sij het weer haar eie kind kon oppas; en daardie dogter het kinders gehad, en die kinders het ook kinders gehad."
+     "source": "Hulle was toe al nabij die huis."
     },
     {
      "id": "p039.s02",
-     "source": "Algaar is in Sterre verander geword; en daardie Sterre volg nou hulle ouers agterna en is nou die blinkste Sterre aan die hemel."
+     "source": "Hulle drafstap slaan oor in hardloop; want Dampertjie soek nou na doktersgoed, daar die slaan van die wit weerlig teen sij lijf en kop hom hoofpijn gegee het."
     }
    ],
    "id": "p039"
@@ -557,15 +577,11 @@
    "segments": [
     {
      "id": "p040.s01",
-     "source": "Toe Wolf se dogter thuis kom, vertel sij al die leed wat hul haar aangedoen het, ook dat Dageraad haar met die asgaai wou doodgegooi het."
+     "source": "Sij suster het toe vir hom gedokter; want sij was blij om weer thuis te wees."
     },
     {
      "id": "p040.s02",
-     "source": "Toe kook Wolf se bloed van boosaardigheid."
-    },
-    {
-     "id": "p040.s03",
-     "source": "Hij neem daar en dan ’n besluit om Dageraad dood te maak."
+     "source": "En Spuitertjie het nooit weer tot verhaal gekom om hulle gedurig te pla nie."
     }
    ],
    "id": "p040"
@@ -575,23 +591,7 @@
    "segments": [
     {
      "id": "p041.s01",
-     "source": "Hij stap in die nag na die plek waar Dageraad slaap, en pak hom."
-    },
-    {
-     "id": "p041.s02",
-     "source": "Hij vermoor hom en begin hom af te slag."
-    },
-    {
-     "id": "p041.s03",
-     "source": "Maar net toe hij die liggaam oopsnij, vlie die skitterende Hart daaruit en trek in die lug op, en het van toe af die Môrester geword."
-    },
-    {
-     "id": "p041.s04",
-     "source": "Dis toe dat hij sij vrouw, kinders en kleinkinders kom haal het, om bij hom aan die sonop kant van die lug te woon."
-    },
-    {
-     "id": "p041.s05",
-     "source": "Dog die groot blink Môrester moet ons verstaan, is die Hart van Dageraad."
+     "source": "Die Boesmans sê: Die swart weerlig maak geen geraas nie en slaan dood; dog die blink weerlig maak wel ’n geraas, maar slaan nie dood nie."
     }
    ],
    "id": "p041"

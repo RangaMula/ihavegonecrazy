@@ -1,0 +1,133 @@
+{
+ "id": "eu-estonia-027",
+ "title": {
+  "id": "title",
+  "source": "F. Löwe,"
+ },
+ "tradition": "Estonia",
+ "continent": "Europe",
+ "source_lang": "de",
+ "source_book": "Ehstnische Märchen. Zweite Hälfte",
+ "credits": "Kreutzwald, Friedrich Reinhold (compiler, d. 1882); Löwe, F. (Ferdinand) (translator, d. 1889)",
+ "gutenberg": "Project Gutenberg eBook #22516 — https://www.gutenberg.org/ebooks/22516",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Estonia/027 - F. Löwe,.md",
+ "stats": {
+  "paragraphs": 12,
+  "segments": 11,
+  "words": 41
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "ehem."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Bibliothekar a. d. Petersb."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Akademie der Wissenschaften, corresp."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Mitglied der gelehrten estnischen Gesellschaft zu Dorpat."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p002"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Zweite Hälfte"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Dorpat."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Verlag von C. Mattiesen."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "1881."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Von der Censur gestattet. — Dorpat, den 12."
+    },
+    {
+     "id": "p009.s02",
+     "source": "März 1881"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Druck von C. Mattiesen in Dorpat 1881."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p012"
+  }
+ ]
+}

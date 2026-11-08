@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-071",
  "title": {
   "id": "title",
-  "source": "The Ancestors Of People"
+  "source": "The White Feather"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Myths and Legends of the Great Plains",
- "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
- "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/071 - The Ancestors Of People.md",
+ "source_book": "Thirty Indian Legends",
+ "credits": "Bemister, Margaret (author)",
+ "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Americas/Native North America (various nations)/071 - The White Feather.md",
  "stats": {
-  "paragraphs": 9,
-  "segments": 15,
-  "words": 121
+  "paragraphs": 16,
+  "segments": 115,
+  "words": 1705
  },
  "paragraphs": [
   {
@@ -23,7 +23,31 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Osage"
+     "source": "An old man and his grandson once lived together on an island."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The little boy had no father, nor mother, nor brothers, nor sisters."
+    },
+    {
+     "id": "p001.s03",
+     "source": "They had all been killed by six giants, who lived many miles away."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The little boy had never seen any person but his grandfather."
+    },
+    {
+     "id": "p001.s05",
+     "source": "They lived very happily together."
+    },
+    {
+     "id": "p001.s06",
+     "source": "The old man loved the boy and was kind to him."
+    },
+    {
+     "id": "p001.s07",
+     "source": "As the little fellow grew tall and strong, the old man taught him how to hunt, so that by the time he was a young man he was a good hunter."
     }
    ],
    "id": "p001"
@@ -33,23 +57,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "T here are people who come from under the water."
+     "source": "One day when he was walking in the woods, he heard a voice calling to him."
     },
     {
      "id": "p002.s02",
-     "source": "They lived in the water weeds that hang down, all green, into the water."
+     "source": "He turned in surprise, for he had never heard any one but his grandfather speak."
     },
     {
      "id": "p002.s03",
-     "source": "They have leaves upon their stems."
+     "source": "He could see no one, but again he heard the voice."
     },
     {
      "id": "p002.s04",
-     "source": "Now the water people lived in shells."
-    },
-    {
-     "id": "p002.s05",
-     "source": "The shells were their houses and kept the water out."
+     "source": "It was saying, \"You will some day be the wearer of the White Feather.\""
     }
    ],
    "id": "p002"
@@ -59,34 +79,83 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "There were other animals who lived under the earth."
+     "source": "He looked all around him, and then noticed something that he had taken for a withered tree."
     },
     {
      "id": "p003.s02",
-     "source": "Cougar lived under the earth, and bear, and buffalo."
+     "source": "It was a man who was made of wood from his breast down to his feet."
     },
     {
      "id": "p003.s03",
-     "source": "These creatures came up out of the ground."
+     "source": "He seemed to be very old, and was fastened to the ground."
     },
     {
      "id": "p003.s04",
-     "source": "Then the shell people came up to the earth also; and the sky people came down."
+     "source": "When he saw the young man was looking at him, he said, \"Come here, I wish to tell you something."
     },
     {
      "id": "p003.s05",
-     "source": "So all these three peoples lived together."
+     "source": "There was an old belief in your tribe that some day a boy would grow up to be a very great warrior."
     },
     {
      "id": "p003.s06",
-     "source": "They are the fathers of the people who live on the earth today."
+     "source": "He was to wear a white feather as a sign of his bravery and great skill."
+    },
+    {
+     "id": "p003.s07",
+     "source": "You are that boy."
+    },
+    {
+     "id": "p003.s08",
+     "source": "When you go home, you will find there a white feather, a pipe, and a tobacco-pouch."
+    },
+    {
+     "id": "p003.s09",
+     "source": "Put the white feather in your hair."
+    },
+    {
+     "id": "p003.s10",
+     "source": "Then smoke the pipe, and you will find that the smoke will turn into pigeons."
+    },
+    {
+     "id": "p003.s11",
+     "source": "This is another sign that you will be wise and good.\""
     }
    ],
    "id": "p003"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The old man ceased speaking, and the young grandson returned home to his lodge."
+    },
+    {
+     "id": "p004.s02",
+     "source": "He found the feather and the pipe both lying there."
+    },
+    {
+     "id": "p004.s03",
+     "source": "He did as the old man told him, and when he smoked, blue and white pigeons flew away from his pipe."
+    },
+    {
+     "id": "p004.s04",
+     "source": "His grandfather saw the pigeons fly out of the lodge door, and he felt very sad."
+    },
+    {
+     "id": "p004.s05",
+     "source": "For he knew that his little grandson was a young man now, and would soon be leaving him."
+    },
+    {
+     "id": "p004.s06",
+     "source": "Then he went in, and they talked together for a long time."
+    },
+    {
+     "id": "p004.s07",
+     "source": "He told the young man all about the six giants who had killed his brothers and sisters, and White Feather said, \"I shall go at once in search of them and kill them, because they were so cruel to all our tribe.\""
+    }
+   ],
    "id": "p004"
   },
   {
@@ -94,7 +163,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "(Omaha)"
+     "source": "\"No, do not go yet,\" said the old grandfather."
+    },
+    {
+     "id": "p005.s02",
+     "source": "\"Wait awhile until you grow a little more and are stronger.\""
     }
    ],
    "id": "p005"
@@ -104,14 +177,23 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Courtesy of the Smithsonian Institution"
+     "source": "The young man promised to wait for a few months."
     }
    ],
    "id": "p006"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "One day he was again hunting in the woods, when he passed near the wooden man."
+    },
+    {
+     "id": "p007.s02",
+     "source": "He heard him speak and say:"
+    }
+   ],
    "id": "p007"
   },
   {
@@ -119,15 +201,378 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Courtesy of the Smithsonian Institution"
+     "source": "\"White Feather, listen to me."
+    },
+    {
+     "id": "p008.s02",
+     "source": "In a few days you must go in search of the giants."
+    },
+    {
+     "id": "p008.s03",
+     "source": "They live in a high lodge in the centre of this wood."
+    },
+    {
+     "id": "p008.s04",
+     "source": "When you reach there, you must ask them to race with you, one at a time."
+    },
+    {
+     "id": "p008.s05",
+     "source": "Take this vine,\" handing him at the same time a thin, green vine."
+    },
+    {
+     "id": "p008.s06",
+     "source": "\"It is enchanted, so they will not be able to see it."
+    },
+    {
+     "id": "p008.s07",
+     "source": "When you are running, throw it over their heads and they will trip and fall.\""
+    },
+    {
+     "id": "p008.s08",
+     "source": "White Feather thanked the old man, and took it home and showed it to his grandfather."
     }
    ],
    "id": "p008"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "A few days later he set out in search of the giants."
+    },
+    {
+     "id": "p009.s02",
+     "source": "He had not journeyed far when he saw their lodge."
+    },
+    {
+     "id": "p009.s03",
+     "source": "When they saw him coming, they called out, \"Oh, here comes White Feather."
+    },
+    {
+     "id": "p009.s04",
+     "source": "Here is the little man who is going to do such brave deeds.\""
+    },
+    {
+     "id": "p009.s05",
+     "source": "But when he came closer to them, they pretended they liked him, and told him how brave he was."
+    },
+    {
+     "id": "p009.s06",
+     "source": "They did that to make him think they were friends, but he did not believe them, as he knew they were his enemies."
+    },
+    {
+     "id": "p009.s07",
+     "source": "He asked them if they would race him, and they said, \"Yes.\""
+    }
+   ],
    "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "\"Begin with the smallest of us,\" said the biggest giant."
+    },
+    {
+     "id": "p010.s02",
+     "source": "So they began."
+    },
+    {
+     "id": "p010.s03",
+     "source": "They had to run to a peel-tree and back again to the starting-point."
+    },
+    {
+     "id": "p010.s04",
+     "source": "This point was marked by an iron club, and whoever won the race was to take up the club and kill the other one with it."
+    },
+    {
+     "id": "p010.s05",
+     "source": "When they had nearly reached the peel-tree, White Feather threw the vine over the youngest giant's head."
+    },
+    {
+     "id": "p010.s06",
+     "source": "He tripped and fell."
+    },
+    {
+     "id": "p010.s07",
+     "source": "Then White Feather ran up and seized the club and killed the giant."
+    },
+    {
+     "id": "p010.s08",
+     "source": "The next day he raced the second youngest, and killed him in the same manner."
+    },
+    {
+     "id": "p010.s09",
+     "source": "Each day he did this, until only the biggest giant was left."
+    },
+    {
+     "id": "p010.s10",
+     "source": "Now this giant was the most dangerous of them all."
+    },
+    {
+     "id": "p010.s11",
+     "source": "He knew that, if he ran, White Feather would kill him, too, so he made up his mind that he would not race."
+    },
+    {
+     "id": "p010.s12",
+     "source": "White Feather said he was going home to see his grandfather before he ran this last race."
+    },
+    {
+     "id": "p010.s13",
+     "source": "As he was passing through the woods, the wooden man called to him."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"Listen to me,\" he said."
+    },
+    {
+     "id": "p011.s02",
+     "source": "\"That tall giant is going to play a trick on you."
+    },
+    {
+     "id": "p011.s03",
+     "source": "When you are on your way back to his lodge, you will meet a most beautiful maiden."
+    },
+    {
+     "id": "p011.s04",
+     "source": "Do not listen to her, but change yourself into an elk."
+    },
+    {
+     "id": "p011.s05",
+     "source": "Remember this and obey me.\""
+    },
+    {
+     "id": "p011.s06",
+     "source": "The young man promised to remember."
+    },
+    {
+     "id": "p011.s07",
+     "source": "He spent the day with his grandfather, then made his way back to the giant's lodge."
+    },
+    {
+     "id": "p011.s08",
+     "source": "He had nearly reached it, when he saw the beautiful maiden coming towards him."
+    },
+    {
+     "id": "p011.s09",
+     "source": "She called to him, but he did not listen."
+    },
+    {
+     "id": "p011.s10",
+     "source": "He changed himself into an elk, and began eating the grass."
+    },
+    {
+     "id": "p011.s11",
+     "source": "Then she told him how mean he was to change himself into an elk, just because she was coming."
+    },
+    {
+     "id": "p011.s12",
+     "source": "He felt very sorry that she should think he was rude, and he wished he were a man again."
+    },
+    {
+     "id": "p011.s13",
+     "source": "At once he became himself, and began to talk to the maiden."
+    },
+    {
+     "id": "p011.s14",
+     "source": "Now she was really the big giant, who had changed himself into this form."
+    },
+    {
+     "id": "p011.s15",
+     "source": "After a while White Feather grew tired and lay down on the grass to sleep."
+    },
+    {
+     "id": "p011.s16",
+     "source": "When he was sound asleep, the maiden drew forth an axe and broke his back."
+    },
+    {
+     "id": "p011.s17",
+     "source": "She then changed him into a dog and herself back into the giant, who made the dog follow at his heels."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "On the way to the giant's lodge, there was an Indian village where two sisters lived."
+    },
+    {
+     "id": "p012.s02",
+     "source": "They had heard of White Feather, and both wished that he would choose her for his wife."
+    },
+    {
+     "id": "p012.s03",
+     "source": "They looked out and saw the giant coming with the white feather in his hair, for he had taken the feather and put it in his own hair."
+    },
+    {
+     "id": "p012.s04",
+     "source": "They thought he was the brave warrior of whom they had heard so much."
+    },
+    {
+     "id": "p012.s05",
+     "source": "The elder sister had made her lodge look very gaudy, and had dressed herself in all her beads and quills."
+    },
+    {
+     "id": "p012.s06",
+     "source": "The younger sister had left her tent just as it was, and was dressed neatly."
+    },
+    {
+     "id": "p012.s07",
+     "source": "When the giant came along, he chose the elder sister."
+    },
+    {
+     "id": "p012.s08",
+     "source": "She would have nothing to do with the dog, but the younger sister felt sorry for it and let it come and live in her lodge."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "The giant used to go hunting each day, but he never succeeded in killing very many animals."
+    },
+    {
+     "id": "p013.s02",
+     "source": "The dog used to go out also, and he always brought back a beaver, a bear, or some other animal for food."
+    },
+    {
+     "id": "p013.s03",
+     "source": "This made the giant and his wife jealous."
+    },
+    {
+     "id": "p013.s04",
+     "source": "So they made up their minds that they would tell the chief that his younger daughter was treating a dog with too much kindness."
+    },
+    {
+     "id": "p013.s05",
+     "source": "When they had gone, the dog made signs to the maiden for her to sweat him the way the Indians do."
+    },
+    {
+     "id": "p013.s06",
+     "source": "She made a lodge for him just big enough to hold him."
+    },
+    {
+     "id": "p013.s07",
+     "source": "Then she heated some stones until they were very hot."
+    },
+    {
+     "id": "p013.s08",
+     "source": "She put these stones in the lodge beside him, and poured water on them."
+    },
+    {
+     "id": "p013.s09",
+     "source": "In a minute the lodge was full of steam."
+    },
+    {
+     "id": "p013.s10",
+     "source": "She closed the door and left him there."
+    },
+    {
+     "id": "p013.s11",
+     "source": "After a while he came forth, a handsome, young man, but he could not speak."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "When the giant and his wife told the chief about the dog who was such a great wonder, he felt sure there was some magic in it."
+    },
+    {
+     "id": "p014.s02",
+     "source": "So he gathered a band of young men, and sent them to bring the daughter and the dog to his lodge."
+    },
+    {
+     "id": "p014.s03",
+     "source": "What was their surprise to find a handsome, young man instead of the dog."
+    },
+    {
+     "id": "p014.s04",
+     "source": "They all went together to the lodge of the chief, who had gathered together all the other men of the village, the giant among them."
+    },
+    {
+     "id": "p014.s05",
+     "source": "When the young man entered, he made a sign to put the white feather in his hair."
+    },
+    {
+     "id": "p014.s06",
+     "source": "The chief took it from the giant's head, and put it on the young man's. At once he was able to talk."
+    },
+    {
+     "id": "p014.s07",
+     "source": "He then told them to smoke from his pipe."
+    },
+    {
+     "id": "p014.s08",
+     "source": "It went around the circle until it reached him."
+    },
+    {
+     "id": "p014.s09",
+     "source": "When he began to smoke, blue and white pigeons flew from the pipe."
+    },
+    {
+     "id": "p014.s10",
+     "source": "Then everybody knew that he was the great warrior, White Feather."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "The chief asked him to tell them all about himself."
+    },
+    {
+     "id": "p015.s02",
+     "source": "He did so very truthfully, and when the chief learned how wicked and cruel the giant had been, he ordered that he should be changed into a dog and let loose in the village, where the boys were to stone him to death."
+    },
+    {
+     "id": "p015.s03",
+     "source": "This order was carried out."
+    },
+    {
+     "id": "p015.s04",
+     "source": "A few days afterwards, White Feather said good-bye to the good old chief, and he and the kind maiden returned to his grandfather."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "They found him waiting for them in the forest near the wooden man."
+    },
+    {
+     "id": "p016.s02",
+     "source": "The grandfather wept for joy when he heard that the last giant was dead."
+    },
+    {
+     "id": "p016.s03",
+     "source": "And the wooden man said, \"Now my work is ended;\" and with that he changed into a gnarled oak-tree with withered branches, which seemed to talk as the wind whistled through them."
+    }
+   ],
+   "id": "p016"
   }
  ]
 }

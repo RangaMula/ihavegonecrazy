@@ -4,7 +4,7 @@
 - **Source book:** *More English Fairy Tales*
 - **Author / collector / translator:** Jacobs, Joseph (compiler, d. 1916)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #14241 — https://www.gutenberg.org/ebooks/14241 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #14241 — https://www.gutenberg.org/ebooks/14241
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

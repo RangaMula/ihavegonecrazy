@@ -2,20 +2,20 @@
  "id": "as-turkey-004",
  "title": {
   "id": "title",
-  "source": "What Happened To Hadji, A Merchant Of The Bezestan"
+  "source": "Mad Mehmed"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/004 - What Happened To Hadji, A Merchant Of The Bezestan.md",
+ "markdown_file": "Asia/Turkey/004 - Mad Mehmed.md",
  "stats": {
-  "paragraphs": 18,
-  "segments": 37,
-  "words": 862
+  "paragraphs": 26,
+  "segments": 106,
+  "words": 2538
  },
  "paragraphs": [
   {
@@ -23,19 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "adji was a married man, but even Turkish married men are not invulnerable to the charms of other women."
-    },
-    {
-     "id": "p001.s02",
-     "source": "It happened one day, when possibly the engrossing power of his lawful wife's influence was feeble upon him, that a charming Hanoum came to his shop to purchase some spices."
-    },
-    {
-     "id": "p001.s03",
-     "source": "After the departure of his fair visitor Hadji, do what he might, could not drive from his mind's eye, either her image, or her attractive power."
-    },
-    {
-     "id": "p001.s04",
-     "source": "He was further greatly puzzled by a tiny black bag containing twelve grains of wheat, which the Hanoum had evidently forgotten."
+     "source": "Once upon a time in the old old days when the camel was only a spy, when toads rose in the air on wings, and I myself rode in the air while I walked on the ground, and went up hill and down dale at the same time, in those days, I say, there were two brothers who dwelt together."
     }
    ],
    "id": "p001"
@@ -45,15 +33,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Till a late hour that night did Hadji remain in his shop, in the hope that either the Hanoum or one of her servants would come for the bag, and thus give him the means of seeing her again or at least of learning where she lived."
+     "source": "All that they had inherited from their father were some oxen and other beasts, and a sick mother."
     },
     {
      "id": "p002.s02",
-     "source": "But Hadji was doomed to disappointment, and, much preoccupied, he returned to his home."
+     "source": "One day the spirit of division seized upon the younger brother (he was half-witted besides, Allah help him!), and he went to his brother and said: “Look now, brother! at these two stables!"
     },
     {
      "id": "p002.s03",
-     "source": "There he sat, unresponsive to his wife's conversation, thinking, and no doubt making mental comparisons between her and his visitor."
+     "source": "One of them is as new as new can be, while the other is old and rotten."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Let us drive our cattle hither, and whatever goes into the new stable shall be mine, and all the rest shall be thine.”"
     }
    ],
    "id": "p002"
@@ -63,7 +55,51 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Hadji remained downcast day after day, and at last, giving way to his wife's entreaties to share his troubles, he frankly told her what had happened, and that ever since that day his soul was in his visitor's bondage."
+     "source": "“Not so, Mehmed,” said the elder brother; “let whatever goes into the old stable be thine!”"
+    },
+    {
+     "id": "p003.s02",
+     "source": "To this also the half-crazy Mehmed agreed."
+    },
+    {
+     "id": "p003.s03",
+     "source": "That same day they went and drove up their cattle, and all the cattle went into the new stable except a helpless old ox that was so blind that it mistook its way and went into the old stable instead."
+    },
+    {
+     "id": "p003.s04",
+     "source": "Mehmed said never a word, but took the blind old ox into the fields to graze; every morning early he drove it thither, and late every evening he drove it back again."
+    },
+    {
+     "id": "p003.s05",
+     "source": "One day when he was on the road, the wind began to shake a big wayside tree so violently that its vast branches whined and whimpered again."
+    },
+    {
+     "id": "p003.s06",
+     "source": "“Hi! whimpering old dad!” said the fool to the tree, “hast thou seen my elder brother?”"
+    },
+    {
+     "id": "p003.s07",
+     "source": "But the tree, as if it didn’t hear, only went on whining."
+    },
+    {
+     "id": "p003.s08",
+     "source": "The fool flew into such a rage at this that he caught up his chopper and struck at the tree, when out of it gushed a whole stream of golden sequins."
+    },
+    {
+     "id": "p003.s09",
+     "source": "At this the fool rallied what little wits he had, hastened home, and asked his brother to lend him another ox, as he wanted to plough with a pair."
+    },
+    {
+     "id": "p003.s10",
+     "source": "He found a cart also, and some empty sacks."
+    },
+    {
+     "id": "p003.s11",
+     "source": "These he filled with earth, and set out forthwith for his tree."
+    },
+    {
+     "id": "p003.s12",
+     "source": "There he emptied his sacks of their earth, filled them with sequins instead, and when he returned home in the evening, his brother well-nigh dropped down for amazement at the sight of the monstrous treasure."
     }
    ],
    "id": "p003"
@@ -73,7 +109,19 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "\"Oh husband,\" replied his wife, \"and do you not understand what that black bag containing the twelve grains of wheat means?\""
+     "source": "They could think of nothing now but dividing it, so the younger brother went to their neighbour for a three-peck measure to measure it with."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Now the neighbour was curious to know what such clodpoles could have to measure."
+    },
+    {
+     "id": "p004.s03",
+     "source": "So he took and smeared the bottom of the measure with tar, and, sure enough, when the fool brought the measure back a short time afterwards, a sequin was sticking to the bottom of it."
+    },
+    {
+     "id": "p004.s04",
+     "source": "The neighbour immediately went and told it to another, who went and told it to a third, and so it was not long before everybody knew all about it."
     }
    ],
    "id": "p004"
@@ -83,7 +131,27 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "\"Alas! no,\" replied Hadji."
+     "source": "Now the wiser brother knew not what might happen to them now that they had all this money, and he began to feel frightened."
+    },
+    {
+     "id": "p005.s02",
+     "source": "So he snatched up his pick and shovel, dug a trench, buried the treasure, and made off as fast as his heels could carry him."
+    },
+    {
+     "id": "p005.s03",
+     "source": "On the way it occurred to the wise brother that he had done foolishly in not shutting the door of the hut behind him, so he sent off his younger brother to do it for him."
+    },
+    {
+     "id": "p005.s04",
+     "source": "So the fool went back to the house, and he thought to himself: “Well, since I am here, I ought not to forget my old mother either.”"
+    },
+    {
+     "id": "p005.s05",
+     "source": "So he filled a huge cauldron with water, boiled it, and soused his old mother in it so thoroughly that her poor old head was never likely to speak again."
+    },
+    {
+     "id": "p005.s06",
+     "source": "After that he propped the old woman against the wall with the broom, tore the door off its hinges, threw it over his shoulders, and went and rejoined his brother in the wood."
     }
    ],
    "id": "p005"
@@ -93,11 +161,31 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "\"Why, my husband, it is plain, plain as if it had been told."
+     "source": "The elder brother looked at the door, and listened to the sad case of his poor old mother, but scold and chide his younger brother as he might the latter grew more cock-a-hoop than ever—he fancied he had done such a clever thing."
     },
     {
      "id": "p006.s02",
-     "source": "She lives in the Wheat Market, at house No. 12, with a black door.\""
+     "source": "He had brought the door away with him, he said, in order that no one might get into the house."
+    },
+    {
+     "id": "p006.s03",
+     "source": "The wise brother would have given anything to have got rid of the fool, and began turning over in his mind how he might best manage it."
+    },
+    {
+     "id": "p006.s04",
+     "source": "He looked before him and behind him, he looked down the high-road, and there were three horsemen galloping along."
+    },
+    {
+     "id": "p006.s05",
+     "source": "The thought instantly occurred to the pair of them that these horsemen were on their track, so they scrambled up a tree forthwith, door and all."
+    },
+    {
+     "id": "p006.s06",
+     "source": "They were scarcely comfortably settled when the three horsemen drove up beneath the tree and encamped there."
+    },
+    {
+     "id": "p006.s07",
+     "source": "The dusk of evening had come on at the very nick of time, so that they could not see the two brothers."
     }
    ],
    "id": "p006"
@@ -107,23 +195,27 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Much excited, Hadji rushed off and found that there was a No. 12 in the Wheat Market, with a black door, so he promptly knocked."
+     "source": "Now the two brothers would have done very well indeed up in the tree had not one of them been a fool."
     },
     {
      "id": "p007.s02",
-     "source": "The door opened, and who should he behold but the lady in question?"
+     "source": "Mehmed the fool began to practise pleasantries which disturbed the repose of the horsemen beneath the tree."
     },
     {
      "id": "p007.s03",
-     "source": "She, however, instead of speaking to him, threw a basin of water out into the street and then shut the door."
+     "source": "Presently, however, came a crash—bang!—and down on the heads of the three sleepers fell the great heavy door from the top of the tree."
     },
     {
      "id": "p007.s04",
-     "source": "Hadji, with mingled feelings of gratitude to his wife for having so accurately directed him, but none the less surprised at his reception, lingered about the doorway for a time and then returned home."
+     "source": "“The end of the world has come, the end of the world has come!” cried they, and they rushed off in such a fright that no doubt they haven’t ceased running to this very day."
     },
     {
      "id": "p007.s05",
-     "source": "He greeted his wife more pleasantly than he had for many days, and told her of his strange reception."
+     "source": "This finished the business so far as the elder brother was concerned."
+    },
+    {
+     "id": "p007.s06",
+     "source": "In the morning he arose and went on his way, and left the foolish younger brother by himself."
     }
    ],
    "id": "p007"
@@ -133,7 +225,19 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "\"Why,\" said his wife, \"don't you understand what the basin of water thrown out of the door means?\""
+     "source": "Thus poor silly Mehmed had to go forth into the wide world alone."
+    },
+    {
+     "id": "p008.s02",
+     "source": "He went on and on till he came to a village, by which time he was very hungry."
+    },
+    {
+     "id": "p008.s03",
+     "source": "There he stood in the gate of a mosque, and got one or two paras from those who went in and out till he had enough to buy himself something to eat."
+    },
+    {
+     "id": "p008.s04",
+     "source": "At that moment a fat little man came out of the mosque, and casting his eyes on Mehmed, asked him if he would like to enter his service."
     }
    ],
    "id": "p008"
@@ -143,7 +247,15 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "\"Alas! no,\" said Hadji."
+     "source": "“I don’t mind if I do,” replied Mehmed, “but only on condition that neither of us is to get angry with the other for any cause whatever."
+    },
+    {
+     "id": "p009.s02",
+     "source": "If thou art wroth with me I’ll kill thee, and if I get wroth with thee thou mayest kill me also.”"
+    },
+    {
+     "id": "p009.s03",
+     "source": "The fat man agreed to these terms, for there was a great lack of servants in that village."
     }
    ],
    "id": "p009"
@@ -153,11 +265,27 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"Veyh!"
+     "source": "In order to make short work of the fat little man the fool began by at once chasing all the hens and sheep off his master’s premises."
     },
     {
      "id": "p010.s02",
-     "source": "Veyh! (an exclamation of pity) it means that at the back of the house there is a running stream, and that you must go to her that way.\""
+     "source": "“Art angry, master?” he then inquired of his lord."
+    },
+    {
+     "id": "p010.s03",
+     "source": "His master was amazed, but he only answered: “Angry?"
+    },
+    {
+     "id": "p010.s04",
+     "source": "Not I!"
+    },
+    {
+     "id": "p010.s05",
+     "source": "Why should I be?”"
+    },
+    {
+     "id": "p010.s06",
+     "source": "At the same time he entrusted nothing more to him, but let him sit in the house without anything to do."
     }
    ],
    "id": "p010"
@@ -167,19 +295,19 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Off rushed Hadji and found that his wife was right; there was a running stream at the back of the house, so he knocked at the back door."
+     "source": "His master had a wife and child, and Mehmed had to look after them."
     },
     {
      "id": "p011.s02",
-     "source": "The Hanoum, however, instead of opening it, came to the window, showed a mirror, reversed it and then disappeared."
+     "source": "He liked to dandle the child up and down, but he knocked it about and hurt it, so clumsy was he; so he soon had to leave that off."
     },
     {
      "id": "p011.s03",
-     "source": "Hadji lingered at the back of the house for a long time, but seeing no further sign of life, he returned to his home much dejected."
+     "source": "But the wife began to be afraid that her turn would come next, sooner or later, so she persuaded her husband to run away from the fool one night."
     },
     {
      "id": "p011.s04",
-     "source": "On entering the house, his wife greeted him with: \"Well, was it not as I told you?\""
+     "source": "Mehmed overheard what they said, hid himself in their storebox, and when they opened it in the next village out he popped."
     }
    ],
    "id": "p011"
@@ -189,15 +317,27 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"Yes,\" said Hadji."
+     "source": "After a while his master and his wife agreed together that they would go and sleep at night on the shores of a lake."
     },
     {
      "id": "p012.s02",
-     "source": "\"You are truly a wonderful woman, Mashallah!"
+     "source": "They took Mehmed with them, and put his bed right on the water’s edge, that he might tumble in when he went to sleep."
     },
     {
      "id": "p012.s03",
-     "source": "But I do not know why she came to the window and showed me a mirror both in front and back, instead of opening the door.\""
+     "source": "However, the fool was not such a fool but that he made his master’s wife jump into the lake instead of himself."
+    },
+    {
+     "id": "p012.s04",
+     "source": "“Art angry, master?” cried he.—“Angry indeed!"
+    },
+    {
+     "id": "p012.s05",
+     "source": "How can I help being angry when I see my property wasted, and my wife and child killed, and myself a beggar—and all through thee!”"
+    },
+    {
+     "id": "p012.s06",
+     "source": "Then the fool seized his master, put him in mind of their compact, and pitched him into the water."
     }
    ],
    "id": "p012"
@@ -207,11 +347,23 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "\"Oh,\" said his wife, \"that is very simple; she means that you must go when the face of the moon has reversed itself, about ten o'clock.\""
+     "source": "Mehmed now found himself all alone, so he went forth into the wide world once more."
     },
     {
      "id": "p013.s02",
-     "source": "The hour arrived, Hadji hurried off, and so did his wife; the one to see his love, and the other to inform the police."
+     "source": "He went on and on, did nothing but drink sweet coffee, smoke chibooks, look about over his shoulder, and walk leisurely along at his ease."
+    },
+    {
+     "id": "p013.s03",
+     "source": "As he was thus knocking about, he chanced to light upon a five-para piece, which he speedily changed for some lebleb, which he immediately fell to chewing, and, as he chewed, part of it fell into a wayside spring, whereupon the fool began roaring loud enough to split his throat: “Give me back my lebleb, give me back my lebleb!”"
+    },
+    {
+     "id": "p013.s04",
+     "source": "At this frightful bawling a Jinn popped up his head, and he was so big that his upper lip swept the sky, while his lower lip hid the earth."
+    },
+    {
+     "id": "p013.s05",
+     "source": "“What dost thou require?” asked the Jinn.—“I want my lebleb, I want my lebleb!” cried Mehmed."
     }
    ],
    "id": "p013"
@@ -221,7 +373,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Whilst Hadji and his charmer were talking in the garden the police seized them and carried them both off to prison, and Hadji's wife, having accomplished her mission, returned home."
+     "source": "The Jinn ducked down into the spring, and when he came up again, he held a little table in his hand."
+    },
+    {
+     "id": "p014.s02",
+     "source": "This little table he gave to the fool and said: “Whenever thou art hungry thou hast only to say: ‘Little table, give me to eat;’ and when thou hast eaten thy fill, say: ‘Little table, I have now had enough.’ ”"
     }
    ],
    "id": "p014"
@@ -231,19 +387,11 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "The next morning she baked a quantity of lokum cakes, and taking them to the prison, begged entrance of the guards and permission to distribute these cakes to the prisoners, for the repose of the souls of her dead."
+     "source": "So Mehmed took the table and went with it into a village, and when he felt hungry he said: “Little table, give me to eat!” and immediately there stood before him so many beautiful, nice dishes that he couldn’t make up his mind which to begin with."
     },
     {
      "id": "p015.s02",
-     "source": "This being a request which could not be denied, she was allowed to enter."
-    },
-    {
-     "id": "p015.s03",
-     "source": "Finding the cell in which the lady who had infatuated her husband was confined, she offered to save her the disgrace of the exposure, provided she would consent never again to look upon Hadji, the merchant, with envious or loving eyes."
-    },
-    {
-     "id": "p015.s04",
-     "source": "The conditions were gratefully accepted, and Hadji's wife changed places with the prisoner."
+     "source": "“Well,” thought he, “I must let the poor people of the village see this wonder also,” so he went and invited them all to a great banquet."
     }
    ],
    "id": "p015"
@@ -253,7 +401,27 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "When they were brought before the judge, Hadji was thunderstruck to see his wife, but being a wise man he held his peace, and left her to do the talking, which she did most vigorously, vehemently protesting against the insult inflicted on both her and her husband in bringing them to prison, because they chose to converse in a garden, being lawfully wedded people; in witness whereof, she called upon the Bekdji (watchman) and the Imam (priest) of the district and several of her neighbors."
+     "source": "The villagers came one after another, they looked to the right, they looked to the left, but there was no sign of a fire, or any preparations for a meal."
+    },
+    {
+     "id": "p016.s02",
+     "source": "“Nay, but he would needs make fools of us!” thought they."
+    },
+    {
+     "id": "p016.s03",
+     "source": "But the young man brought out his table, set it in the midst, and cried: “Little table, give me to eat!” and there before them stood all manner of delicious meats and drinks, and so much thereof that when the guests had stuffed themselves to the very throat, there was enough left over to fill the servants."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Then the villagers laid their heads together as to how they might manage to have a meal like this every day."
+    },
+    {
+     "id": "p016.s05",
+     "source": "“Come now!” said some of them, “let us steal a march upon Mehmed one day and lay hands upon his table, and then there will be an end to the fool’s glory.”"
+    },
+    {
+     "id": "p016.s06",
+     "source": "And they did so."
     }
    ],
    "id": "p016"
@@ -263,15 +431,172 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Poor Hadji was dumfounded, and, accompanied by his better half, left the prison, where he had expected to stay at least a year or two, saying: \"Truly thou art a wonderful woman, Mashallah.\""
+     "source": "What could the poor, empty-bellied fool do then?"
+    },
+    {
+     "id": "p017.s02",
+     "source": "Why he went to the wayside spring and asked again: “I want my lebleb, I want my lebleb!”"
+    },
+    {
+     "id": "p017.s03",
+     "source": "And he asked and asked so long that at last the Jinn popped up his head again out of the spring and inquired what was the matter."
+    },
+    {
+     "id": "p017.s04",
+     "source": "“I want my lebleb, I want my lebleb!” cried the fool.—“But where’s thy little table?”—“They stole it.”"
     }
    ],
    "id": "p017"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "The big-lipped Jinn again popped down, and when he rose out of the spring again he had a little mill in his hand."
+    },
+    {
+     "id": "p018.s02",
+     "source": "This he gave to the fool and said to him: “Grind it to the right and gold will flow out of it, grind it to the left and it will give thee silver.”"
+    },
+    {
+     "id": "p018.s03",
+     "source": "So the youth took the mill home and ground it first to the right and then to the left, and huge treasures of gold and silver lay heaped about him on the floor."
+    },
+    {
+     "id": "p018.s04",
+     "source": "So he grew such a rich man that his equal was not to be found in the village, nay, nor in the town either."
+    }
+   ],
    "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "But no sooner had the people of the village got to know all about the little mill than they laid their heads together and schemed and schemed till the mill also disappeared one fine morning from Mehmed’s cottage."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Then Mehmed ran off to the spring once more and cried: “I want my lebleb, I want my lebleb!”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“But where is thy little table?"
+    },
+    {
+     "id": "p020.s02",
+     "source": "Where is thy little mill?” asked the big-lipped Jinn."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“They have stolen them both from me,” lamented the witless one, and he wept bitterly."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Again the Jinn bobbed down, and this time he brought up two sticks with him."
+    },
+    {
+     "id": "p022.s02",
+     "source": "He gave them to the fool, and impressed upon him very strongly on no account to say: “Strike, strike, my little sticks!”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Mehmed took the sticks, and first he turned them to the right and then to the left, but could make nothing of them."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Then he thought he would just try the effect of saying: “Strike, strike, my little sticks!” and no sooner were the words out of his mouth than the sticks fell upon him unmercifully, and belaboured him on every part of the body that can feel—the head, the foot, the arm, the back—till he was nothing but one big ache."
+    },
+    {
+     "id": "p023.s03",
+     "source": "“Stop, stop, my little sticks!” cried he, and lo! the two sticks were still."
+    },
+    {
+     "id": "p023.s04",
+     "source": "Then, for all his aches and pains, Mehmed rejoiced greatly that he had found out the mystery."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "He had no sooner got home with the two sticks than he called together all the villagers, but said not a word about what he meant to do."
+    },
+    {
+     "id": "p024.s02",
+     "source": "In less than a couple of hours everybody had assembled there, and awaited the new show with great curiosity."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Then Mehmed came with his two sticks and cried: “Strike, strike, my little sticks, strike, strike!” whereupon the two sticks gave the whole lot of them such a rub-a-dub-dubbing that it was as much as they could do to howl for mercy."
+    },
+    {
+     "id": "p024.s04",
+     "source": "“Now,” said Mehmed, who was getting his wits back again, “I’ll have no mercy till you have given back to me my little table and my little mill. ”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "The people of the village, all bruised and bleeding as they were, consented to everything, and hurried off for the little table and the little mill."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Then Mehmed cried: “Stand still, my little sticks!” and there was peace and quiet as before."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Then the man took away the three gifts to his own village, and as he now had money he grew more sensible, and there also he found his brother."
+    },
+    {
+     "id": "p026.s02",
+     "source": "He gave all the buried treasure to his brother, and each of them sought out a damsel meet to be a wife, and married, and lived each in a world of his own."
+    },
+    {
+     "id": "p026.s03",
+     "source": "And there was not a wiser man in that village than Mad Mehmed now that he had grown rich."
+    }
+   ],
+   "id": "p026"
   }
  ]
 }

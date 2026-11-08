@@ -4,7 +4,7 @@
 - **Source book:** *Dutch Fairy Tales for Young Folks*
 - **Author / collector / translator:** Griffis, William Elliot (author, d. 1928)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #7871 — https://www.gutenberg.org/ebooks/7871 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #7871 — https://www.gutenberg.org/ebooks/7871
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

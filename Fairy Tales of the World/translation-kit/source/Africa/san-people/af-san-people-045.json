@@ -2,20 +2,20 @@
  "id": "af-san-people-045",
  "title": {
   "id": "title",
-  "source": "Boesman-gedigte"
+  "source": "Wolf en sy twee Vroue"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
  "source_book": "Boesman-Stories. Deel 2, Dierstories en ander verhale",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/045 - Boesman-gedigte.md",
+ "markdown_file": "Africa/San people/045 - Wolf en sy twee Vroue.md",
  "stats": {
-  "paragraphs": 89,
-  "segments": 120,
-  "words": 562
+  "paragraphs": 26,
+  "segments": 76,
+  "words": 1372
  },
  "paragraphs": [
   {
@@ -23,57 +23,33 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "OPMERKINGS:—Om die Boesman reg te laat wedervaar, neem ons ’n paar van sy gedigte op."
-    },
-    {
-     "id": "p001.s02",
-     "source": "Daar is baie daarvan; dog as ons ’n vertaling daarvan moet lewer, dan word dié bepaald waardeloos, omdat die gedigte meestal nabootsings in sy eie taal van natuurklanke is."
-    },
-    {
-     "id": "p001.s03",
-     "source": "So boots b.v. ons blank kinders die tortelduif se sang na as: „Werk stadig!"
-    },
-    {
-     "id": "p001.s04",
-     "source": "Werk stadig!”"
-    },
-    {
-     "id": "p001.s05",
-     "source": "Of dié van die lemoenduifie as: „Ek gaan na Woester toe!"
-    },
-    {
-     "id": "p001.s06",
-     "source": "Ek gaan na Woester toe!”"
-    },
-    {
-     "id": "p001.s07",
-     "source": "Vertaal dit in ’n ander taal en kyk dan watter gebrou dit afgee."
-    },
-    {
-     "id": "p001.s08",
-     "source": "Maar ons het darem ’n paar gedigte deur ’n mak Boesman gemaak, opgevang."
-    },
-    {
-     "id": "p001.s09",
-     "source": "En dié kan ons met ’n sekere mate van vrymoedigheid aanbied."
-    },
-    {
-     "id": "p001.s10",
-     "source": "Let op, die rymmaat is in ooreenstemming met hulle dansmusiek, of riele, gebring."
-    },
-    {
-     "id": "p001.s11",
-     "source": "Baie reëls en parte van die gedigte word oor en oor herhaal."
+     "source": "OPMERKINGS:—Hierdie storie is slegs ’n karakterskets om die domastrantheid en vraatsug van Wolf af te teken."
     }
    ],
    "id": "p001"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p002.s01",
-     "source": "DIE DIERE GAAN WATER DRINK"
+     "source": "I n die dae wat lankal verby is, het daar baie bossiehuise van die ou geslag rond, en nie ver van mekaar nie, gestaan."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Boesmans het daar gewoon; leeus het daar gewoon; Wolf en Jakkals het daar gewoon—algar in bossiehuise."
+    },
+    {
+     "id": "p002.s03",
+     "source": "En daar was ’n oor-en-weer-lopery van die een plek na die ander."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Hulle het baie saam gejag, baie saam geëet en baie saam gedans en feesgevier."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Toe was daar baie plesier; maar ook twis en rusie om aldag se eentonigheid aan stukke te kap."
     }
    ],
    "id": "p002"
@@ -83,7 +59,23 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "D ie diere die kom,"
+     "source": "Wolf was, en is tot vandag toe nog, ’n flukse jagter."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Maar hy ook het geweet dat aldag jagdag is, maar nie aldag doodmaakdag nie."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Die ou kan mos baie eet; dit vat ’n groot knapsak vol vleis om met sy honger mooi te praat en om dit stil te kry."
+    },
+    {
+     "id": "p003.s04",
+     "source": "Oor hierdie manier het Wolf se ander bure nie van hom te veel te eet gekry nie."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Dit is maar ’n gelukslag dat Wolf vir hulle kon trakteer."
     }
    ],
    "id": "p003"
@@ -93,7 +85,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Die diere die kom,"
+     "source": "Maar as Wolf die dag of nag niks te vang gekry het nie, dan stap hy eenvoudig na sy bure se plekke toe, loop die een plek na die ander af; en sonder genooi te wees gaan hy aansit en eet ewe gulsig met hulle mee."
     }
    ],
    "id": "p004"
@@ -103,7 +95,19 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Die diere die brom—"
+     "source": "Die bure vind toe gou Wolf se laai uit; as hul hom hoor aankom, dan raap hul die kos weg en bêre dit op so ’n plek waar hy dit nie kan sien nie."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Maar sy ruik is goed."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Hy dwing en hou aan op so ’n onbeskaamde wyse dat hul hom eindelik iets te ete gee."
+    },
+    {
+     "id": "p005.s04",
+     "source": "En dan is hy nog nie tevrede nie."
     }
    ],
    "id": "p005"
@@ -113,7 +117,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Hul draf na die water toe."
+     "source": "Hiervan het die bure ook later moeg geword, toe weier hul beslis om selfs vir hom ’n murgbeen te gee."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Wolf het hom nie laat vermaak nie; hy gryp die kos voor hulle weg, of maak die potte oop en haal die vleis daaruit, of hy trek die spitte met karmenaadjies by die vuur uit, of vat hulle karosse en stap daarmee weg en gaan alles gulsig opeet."
     }
    ],
    "id": "p006"
@@ -123,7 +131,11 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Met kop na die grond,"
+     "source": "Hy het sy vrou geleer om haar eie pad te gaan en die einste ding te doen."
+    },
+    {
+     "id": "p007.s02",
+     "source": "En sy kon dit amper beter as haar man regkry."
     }
    ],
    "id": "p007"
@@ -133,7 +145,23 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Hul sterte swaai rond—"
+     "source": "Dit het dan ook nie lank geduur nie, of algar was vir Wolf en sy vrou buikvol."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Hulle stap toe na Wolf se huis toe, toe hy en sy vrou nie daar is nie, en steek dit aan brand."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Wolf bou weer ’n ander bossiehuis, en weer gaan die vuur daarin."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Dit ontmoedig hom nog nie; hy bou weer, en andermaal gaan die vlam daarin, want die bure wil Wolf en sy vrou uit hulle geweste verdryf."
+    },
+    {
+     "id": "p008.s05",
+     "source": "Met aanhou het hul oorwen."
     }
    ],
    "id": "p008"
@@ -143,7 +171,11 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Hul draf na die water toe."
+     "source": "Wolf en sy vrou trek toe glad ’n ander oord in."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Die eerste waartoe hulle besluit, is om nie meer bossiehuise te maak nie, maar om in gate te gaan woon; want grond- en kliphuise kan nie aan brand gesteek word nie."
     }
    ],
    "id": "p009"
@@ -153,7 +185,11 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Namakwa-patrys,"
+     "source": "Wolf en sy vrou begin eers fatsoenlik te kuier; maar nog al die tyd vat ieder sy eie koers, sodat hul nooit saam op een plek aankom nie."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Hulle het nie eens geweet dat Wolf ’n vrou het nie."
     }
    ],
    "id": "p010"
@@ -163,7 +199,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Wat water kan wys—"
+     "source": "„.…"
+    },
+    {
+     "id": "p011.s02",
+     "source": "Hy loer in die skeur; en, ja waarlik, daar sit die snoer.…”"
     }
    ],
    "id": "p011"
@@ -173,7 +213,27 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Hy vlie na die water toe."
+     "source": "Een aand gaan Wolf op ’n plek kuier, en daar sien hy ’n jong meid, so reg na sy sin; en hy begin somar daar sy lyf vryer-Hottentot te hou, want hy is nou vasberade om twee vroue te neem."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Hy gedra hom baie ordentlik; hy begin oor sy jagtery te spog, hoe sterk hy is, hoe hy alles kan uitvind; en wat uithalerheid betref, loop sy kersvashouers glad nie rond nie."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Hulle glo vir Wolf en nooi hom om baie oor te kom."
+    },
+    {
+     "id": "p012.s04",
+     "source": "Hy was ook nie links nie en laat sy stof net baie daar rondwaai."
+    },
+    {
+     "id": "p012.s05",
+     "source": "Baie aande bring hy ’n agterkwart of ’n voorkwart van wild wat hy gevang het."
+    },
+    {
+     "id": "p012.s06",
+     "source": "Dit alles net om ’n twede vrou te kry."
     }
    ],
    "id": "p012"
@@ -183,7 +243,15 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Die kwagga loop voor,"
+     "source": "Een aand vra hy die jong meid of sy maar sy vrou wil wees."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Sy het Wolf altyd onderdeur geloer en beskou; sy gee geen antwoord nie, maar werk aan ’n neksnoer sonder om op te kyk."
+    },
+    {
+     "id": "p013.s03",
+     "source": "Sy maak of sy nie gehoor het nie, maar sy dink ver."
     }
    ],
    "id": "p013"
@@ -193,7 +261,15 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Die leeu vat spoor—"
+     "source": "Wolf praat weer."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Sy gee toe antwoord en sê dat Wolf oor drie aande weer moet kom."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Oor ’n rukkie stap hy weg."
     }
    ],
    "id": "p014"
@@ -203,7 +279,15 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Hul draf na die water toe."
+     "source": "Die derde aand is hy daar."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Sy sê toe: „Jy praat en spog so danig oor jou krag en dat jy alles kan uitvind."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Die neksnoer het ek êrens weggesteek; loop soek dit en bring dit hier, dan sal ek jou neem en met jou saam na jou huis toe gaan.”"
     }
    ],
    "id": "p015"
@@ -213,7 +297,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Die Boesman wag daar,"
+     "source": "Wolf vat aan sy ken, en sy gedagtes dwaal ver buitekant sy hart; en hy begin toe somar te praat van die groot present—die stuk vleis wat hy met hom meegebring het."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Hy het gou geëet en weggestap—hy gee voor hy gaan nou die neksnoer haal."
     }
    ],
    "id": "p016"
@@ -223,7 +311,11 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Met boog en sy snaar—"
+     "source": "Maar Wolf is ’n ou onderkruiper: hy gaan daar naby onderkant die wind lê, van waar hy alles kan hoor wat hul in hulle hut praat."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Hy het nie te lank geluister nie, of die vader van die jong meid vra: „Waar het jy die neksnoer weggesteek?”"
     }
    ],
    "id": "p017"
@@ -233,7 +325,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Hy kruip by die water weg."
+     "source": "Sy antwoord: „Pa, in die klipskeur by die ’norra-kareeboom.”"
     }
    ],
    "id": "p018"
@@ -243,7 +335,11 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Die diere kom drie,"
+     "source": "Wolf het nie juis geweet waar die ’norra-kareeboom is nie; dog uitvra-uitvra het hom gou die pad daarnatoe beduie."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Hy kry die regte plek; hy loer in die skeur; en, ja waarlik, daar sit die snoer in ’n oor van ’n koedoe weggesteek."
     }
    ],
    "id": "p019"
@@ -253,7 +349,11 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "Die pyle die vlie"
+     "source": "Wolf neem ’n haakstok om die koedoe se oor nader te trek; dog die muise het die onderpunt van die oor weggevreet; en toe Wolf daaraan roer, glip die snoer daaruit en val dieper in die skeur, waar Wolf dit met geen moontlikheid kan bykom nie."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Toe sit die ou, na baie te gesukkel het, hand in die hare."
     }
    ],
    "id": "p020"
@@ -263,7 +363,15 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "En skiet by die water dood."
+     "source": "Meteens kom Miskruier met ’n bol klei daar verby."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Wolf bekyk hom en sê: „Ou vriend, hoor jy is dom om die bol klei agterstevoor te rol."
+    },
+    {
+     "id": "p021.s03",
+     "source": "Staan reg en doen jou werk soos dit moet wees.”"
     }
    ],
    "id": "p021"
@@ -273,7 +381,19 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "Die Boesman kry kos"
+     "source": "„Og!” roep Miskruier uit, „ek is nie so dom en sleg as jy my voor verslyt nie."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Sien jy nie hierdie bol klei is groot nie?"
+    },
+    {
+     "id": "p022.s03",
+     "source": "As ek dit met my kop na vore aanstoot, dan kan ek mos niks sien nie; stoot ek dit agterstevoor, dan kan ek die hele wêreld rondom my sien."
+    },
+    {
+     "id": "p022.s04",
+     "source": "Jy moet weet, ek is sterk en kan baie groter stukke klei as hierdie stoot—dis meer as jy kan doen!”"
     }
    ],
    "id": "p022"
@@ -283,7 +403,15 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "En spring uit die bos—"
+     "source": "„Wat!” werp Wolf teë, „ek rus net uit om hierdie groot rotse weg te rol."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Ek wed jou jy kan nie daardie neksnoer in hierdie klipskeur tussen die rotse verroer nie."
+    },
+    {
+     "id": "p023.s03",
+     "source": "Loop haal dit uit en bring dit hier, dan sal ek jou wys hoe maklik ek weer aan my kant hierdie tamaai groot rotse rondrol.”"
     }
    ],
    "id": "p023"
@@ -293,7 +421,19 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "Hy hol na die water toe."
+     "source": "„Nou toe, laat ek sien,” sê Miskruier toe hy die skeur instap om die neksnoer daaruit te sleep."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Hy steek sy horing teen die snoer, kom daarmee aangestap en smyt dit voor Wolf neer."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Daar gryp Wolf dit en hol daarmee na die jong meid toe."
+    },
+    {
+     "id": "p024.s04",
+     "source": "Voor hulle in die hut geslaap het, en terwyl hulle nog aan Wolf se presentvleis sit en braai, is Wolf daar en oorhandig die neksnoer."
     }
    ],
    "id": "p024"
@@ -303,7 +443,23 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "Die wild lê rond skop,"
+     "source": "A nee, nou moet die jong meid glo dat Wolf alles weet en alles kan uitvind."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Sy maak haar klaar en stap met Wolf mee na sy huis."
+    },
+    {
+     "id": "p025.s03",
+     "source": "En net kom Wolf se eerste vrou daar, en dit was ’n getwis uit die staanspoor."
+    },
+    {
+     "id": "p025.s04",
+     "source": "Nooit het daar weer rus in daardie huis gekom nie."
+    },
+    {
+     "id": "p025.s05",
+     "source": "Wolf wou naderhand gek word."
     }
    ],
    "id": "p025"
@@ -313,724 +469,14 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "Hy moker die kop"
+     "source": "Toe sê die bure wat dit gehoor het, dat dit die beste straf is wat hul Wolf kan gegee het."
+    },
+    {
+     "id": "p026.s02",
+     "source": "En dit het ’n spreekwoord onder die Boesmans geword as iemand straf verdien: „Gee hom twee vroue;” want die jong vrou trek sy grys hare uit om hom jonk te maak, en die ou vrou sy swart hare om hom oud te laat lyk."
     }
    ],
    "id": "p026"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p027.s01",
-     "source": "Van wild wat by water vrek."
-    }
-   ],
-   "id": "p027"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p028.s01",
-     "source": "’N RIEL"
-    }
-   ],
-   "id": "p028"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p029.s01",
-     "source": "Mans :"
-    }
-   ],
-   "id": "p029"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p030.s01",
-     "source": "Kwagga, kwagga met sy bont poot saam."
-    }
-   ],
-   "id": "p030"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p031.s01",
-     "source": "Kwagga, kwagga met sy rond poot saam."
-    }
-   ],
-   "id": "p031"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p032.s01",
-     "source": "Kwagga met sy knoppoot saam."
-    }
-   ],
-   "id": "p032"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p033.s01",
-     "source": "Kwagga met sy kloppoot saam."
-    }
-   ],
-   "id": "p033"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p034.s01",
-     "source": "Meide :"
-    }
-   ],
-   "id": "p034"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p035.s01",
-     "source": "Ei!"
-    },
-    {
-     "id": "p035.s02",
-     "source": "Hy blaas as hy draf."
-    }
-   ],
-   "id": "p035"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p036.s01",
-     "source": "Ei!"
-    },
-    {
-     "id": "p036.s02",
-     "source": "Hy snork as hy draf."
-    }
-   ],
-   "id": "p036"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p037.s01",
-     "source": "Ei!"
-    },
-    {
-     "id": "p037.s02",
-     "source": "Hy trippel met sy voorlyf weg!"
-    }
-   ],
-   "id": "p037"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p038.s01",
-     "source": "Mans"
-    }
-   ],
-   "id": "p038"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p039.s01",
-     "source": "( met hande in die sy ) :—"
-    }
-   ],
-   "id": "p039"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p040.s01",
-     "source": "Hòggô!"
-    },
-    {
-     "id": "p040.s02",
-     "source": "Hòggô, hòggô, hòggô!"
-    }
-   ],
-   "id": "p040"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p041.s01",
-     "source": "Hòggô!"
-    },
-    {
-     "id": "p041.s02",
-     "source": "Hòggô, hòggô, hòggô!"
-    }
-   ],
-   "id": "p041"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p042.s01",
-     "source": "Meide :"
-    }
-   ],
-   "id": "p042"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p043.s01",
-     "source": "O, dis sy wegdraf dié!"
-    }
-   ],
-   "id": "p043"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p044.s01",
-     "source": "O, dis sy pronkslag dié!"
-    }
-   ],
-   "id": "p044"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p045.s01",
-     "source": "Mans :"
-    }
-   ],
-   "id": "p045"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p046.s01",
-     "source": "Hòggô!"
-    },
-    {
-     "id": "p046.s02",
-     "source": "Hòggô, hòggô, hòggô!"
-    }
-   ],
-   "id": "p046"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p047.s01",
-     "source": "Hòggô!"
-    },
-    {
-     "id": "p047.s02",
-     "source": "Hòggô, hòggô, hòggô!"
-    }
-   ],
-   "id": "p047"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p048.s01",
-     "source": "Hoeit! ( en handegeklap. )"
-    }
-   ],
-   "id": "p048"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p049.s01",
-     "source": "Mans :"
-    }
-   ],
-   "id": "p049"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p050.s01",
-     "source": "Korhaan, korhaan met sy speekbeen saam."
-    }
-   ],
-   "id": "p050"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p051.s01",
-     "source": "Korhaan, korhaan met sy blink skeen saam."
-    }
-   ],
-   "id": "p051"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p052.s01",
-     "source": "Korhaan, korhaan met sy lang nek saam."
-    }
-   ],
-   "id": "p052"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p053.s01",
-     "source": "Korhaan, korhaan met sy plat bek saam."
-    }
-   ],
-   "id": "p053"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p054.s01",
-     "source": "Meide :"
-    }
-   ],
-   "id": "p054"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p055.s01",
-     "source": "Ei!"
-    },
-    {
-     "id": "p055.s02",
-     "source": "Hy koes as hy draf."
-    }
-   ],
-   "id": "p055"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p056.s01",
-     "source": "Ei!"
-    },
-    {
-     "id": "p056.s02",
-     "source": "Hy buk as hy draf."
-    }
-   ],
-   "id": "p056"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p057.s01",
-     "source": "Ei!"
-    },
-    {
-     "id": "p057.s02",
-     "source": "Hy trippel met sy voorlyf weg!"
-    }
-   ],
-   "id": "p057"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p058.s01",
-     "source": "Mans"
-    }
-   ],
-   "id": "p058"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p059.s01",
-     "source": "( met hande in die sy ) :—"
-    }
-   ],
-   "id": "p059"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p060.s01",
-     "source": "Hòggô!"
-    },
-    {
-     "id": "p060.s02",
-     "source": "Hòggô, hòggô, hòggô!"
-    }
-   ],
-   "id": "p060"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p061.s01",
-     "source": "Hòggô!"
-    },
-    {
-     "id": "p061.s02",
-     "source": "Hòggô, hòggô, hòggô!"
-    }
-   ],
-   "id": "p061"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p062.s01",
-     "source": "Meide :"
-    }
-   ],
-   "id": "p062"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p063.s01",
-     "source": "O, dis sy wegdraf dié!"
-    }
-   ],
-   "id": "p063"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p064.s01",
-     "source": "O, dis sy koesslag dié!"
-    }
-   ],
-   "id": "p064"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p065.s01",
-     "source": "Mans :"
-    }
-   ],
-   "id": "p065"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p066.s01",
-     "source": "Hòggô!"
-    },
-    {
-     "id": "p066.s02",
-     "source": "Hòggô, hòggô, hòggô!"
-    }
-   ],
-   "id": "p066"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p067.s01",
-     "source": "Hòggô!"
-    },
-    {
-     "id": "p067.s02",
-     "source": "Hòggô, hòggô, hòggô!"
-    }
-   ],
-   "id": "p067"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p068.s01",
-     "source": "Hoeit! ( en handegeklap. )"
-    }
-   ],
-   "id": "p068"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p069.s01",
-     "source": "Mans :"
-    }
-   ],
-   "id": "p069"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p070.s01",
-     "source": "Hiekie, kriekie met sy groot toon saam ."
-    }
-   ],
-   "id": "p070"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p071.s01",
-     "source": "Hiekie, kriekie met sy swart boon saam."
-    }
-   ],
-   "id": "p071"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p072.s01",
-     "source": "Hiekie, kriekie met sy strykstok saam."
-    }
-   ],
-   "id": "p072"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p073.s01",
-     "source": "Hiekie, kriekie met twee-lok saam."
-    }
-   ],
-   "id": "p073"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p074.s01",
-     "source": "Meide :"
-    }
-   ],
-   "id": "p074"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p075.s01",
-     "source": "Ei!"
-    },
-    {
-     "id": "p075.s02",
-     "source": "Hy wip as hy spring!"
-    }
-   ],
-   "id": "p075"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p076.s01",
-     "source": "Ei!"
-    },
-    {
-     "id": "p076.s02",
-     "source": "Hy glip as hy spring!"
-    }
-   ],
-   "id": "p076"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p077.s01",
-     "source": "Ei!"
-    },
-    {
-     "id": "p077.s02",
-     "source": "Hy trippel met sy groot toon weg!"
-    }
-   ],
-   "id": "p077"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p078.s01",
-     "source": "Mans"
-    }
-   ],
-   "id": "p078"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p079.s01",
-     "source": "( met hande in die sy ) :—"
-    }
-   ],
-   "id": "p079"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p080.s01",
-     "source": "Hòggô!"
-    },
-    {
-     "id": "p080.s02",
-     "source": "Hòggô, hòggô, hòggô!"
-    }
-   ],
-   "id": "p080"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p081.s01",
-     "source": "Hòggô!"
-    },
-    {
-     "id": "p081.s02",
-     "source": "Hòggô, hòggô, hòggô!"
-    }
-   ],
-   "id": "p081"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p082.s01",
-     "source": "Meide :"
-    }
-   ],
-   "id": "p082"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p083.s01",
-     "source": "O, dis sy wegloop dié!"
-    }
-   ],
-   "id": "p083"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p084.s01",
-     "source": "O, dis sy wegspring dié!"
-    }
-   ],
-   "id": "p084"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p085.s01",
-     "source": "Mans :"
-    }
-   ],
-   "id": "p085"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p086.s01",
-     "source": "Hòggô!"
-    },
-    {
-     "id": "p086.s02",
-     "source": "Hòggô, hòggô, hòggô!"
-    }
-   ],
-   "id": "p086"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p087.s01",
-     "source": "Hòggô!"
-    },
-    {
-     "id": "p087.s02",
-     "source": "Hòggô, hòggô, hòggô!"
-    }
-   ],
-   "id": "p087"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p088.s01",
-     "source": "Hoeit! ( handegeklap en gelag. )"
-    }
-   ],
-   "id": "p088"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p089.s01",
-     "source": "( Dan volg een herhaling van hierdie riel ná die ander, tot hul weer ’n ander een opvat. )"
-    }
-   ],
-   "id": "p089"
   }
  ]
 }

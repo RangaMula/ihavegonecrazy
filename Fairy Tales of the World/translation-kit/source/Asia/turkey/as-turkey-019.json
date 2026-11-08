@@ -2,20 +2,20 @@
  "id": "as-turkey-019",
  "title": {
   "id": "title",
-  "source": "The Calif Omar"
+  "source": "The Enchanted Hog"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/019 - The Calif Omar.md",
+ "markdown_file": "Asia/Turkey/019 - The Enchanted Hog.md",
  "stats": {
-  "paragraphs": 3,
-  "segments": 12,
-  "words": 260
+  "paragraphs": 85,
+  "segments": 221,
+  "words": 5178
  },
  "paragraphs": [
   {
@@ -23,15 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "he Calif Omar, one of the first Califs after the Prophet, is deeply venerated to this day, and is continually quoted as a lover of truth and justice."
+     "source": "Once upon a time, a long long time ago, when fleas were shod with ninety and nine pieces of iron, and flew up into the blue sky to fetch us down fairy-tales, there lived an Emperor who had three daughters."
     },
     {
      "id": "p001.s02",
-     "source": "Often in the face of appalling evidence he refrained from judgment, thus liberating the innocent and punishing the guilty."
-    },
-    {
-     "id": "p001.s03",
-     "source": "The following is given as an example of his perseverance in fathoming a murder."
+     "source": "One day, when he was going to battle, he called these daughters to him and said to them:"
     }
    ],
    "id": "p001"
@@ -41,47 +37,1380 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "At the feast of the Passover, a certain Jew of Bagdad had sacrificed his sheep and was offering up his prayers, when suddenly a dog came in, and snatching up the sheep's head ran off with it."
+     "source": "“Look now, my darlings!"
     },
     {
      "id": "p002.s02",
-     "source": "The Jew pursued in hot haste, in his excitement still carrying the bloody knife and wearing his besmeared apron."
+     "source": "Needs must that I go to the wars."
     },
     {
      "id": "p002.s03",
-     "source": "The dog, carrying the sheep's head, rushed into an open doorway, followed closely by the Jew."
+     "source": "My foe is advancing against me with a huge host. ’Tis with great bitterness of heart that I part from you."
     },
     {
      "id": "p002.s04",
-     "source": "The Jew in his hurried pursuit fell over the body of what proved to be a murdered man."
+     "source": "In my absence, take care that you have your wits about you, behave well, and look after the affairs of the household."
     },
     {
      "id": "p002.s05",
-     "source": "The murder was laid against the Jew, and witnesses swore that they had seen him coming out of the house covered with blood, and in his hand a bloody dagger."
-    },
-    {
-     "id": "p002.s06",
-     "source": "The Jew was arrested and tried, but with covered head he swore by his forefathers and children that he was innocent."
-    },
-    {
-     "id": "p002.s07",
-     "source": "Omar would not condemn him as none of the witnesses had seen the Jew do the deed, and until further evidence had been given to prove his guilt the case was adjourned."
-    },
-    {
-     "id": "p002.s08",
-     "source": "Spies and detectives, unknown to anybody, were put to track the murderers."
-    },
-    {
-     "id": "p002.s09",
-     "source": "After a time they were discovered, condemned, put to death, and the Jew liberated."
+     "source": "You have my leave to walk in the garden and enter all the rooms of my house, only in the chamber at the bottom of the corridor on the right-hand side you must not enter, or it will not be well with you.”"
     }
    ],
    "id": "p002"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“Depart in peace, papa!” cried they."
+    },
+    {
+     "id": "p003.s02",
+     "source": "“Never yet have we disobeyed the words of thy commands."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Go without any fear of us, and God give thee victory over all thine enemies!”"
+    }
+   ],
    "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "So when he was quite ready to depart, the Emperor gave them the keys of all his chambers; but once more he put them in mind of his command, and then he bade them good-bye and departed."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The daughters of the Emperor kissed his hand with tears in their eyes, and wished him victory once more, and then the eldest of the three daughters received the keys from the hands of the Emperor."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "When the daughters of the Emperor found themselves all alone they knew not what to do with themselves, the time hung so heavily."
+    },
+    {
+     "id": "p006.s02",
+     "source": "At last they agreed to work a part of the day, and to read another part of the day, and spend the rest of the day walking in the garden."
+    },
+    {
+     "id": "p006.s03",
+     "source": "This they did, and things went well with them."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "But the Deceiver of mankind was vexed at the tranquillity of the maidens, so he must needs twist his tail in their affairs."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“My sisters,” said the eldest of the three damsels one day, “why do we spend the live-long day in sewing and knitting and reading?"
+    },
+    {
+     "id": "p008.s02",
+     "source": "I am sick and tired of it all."
+    },
+    {
+     "id": "p008.s03",
+     "source": "It is ever so many days now since we were left to ourselves, and there’s not a corner of the garden that we have not walked in over and over again."
+    },
+    {
+     "id": "p008.s04",
+     "source": "We have also been through all the rooms of our father’s palace, and looked at all the ornaments there till we know them by heart."
+    },
+    {
+     "id": "p008.s05",
+     "source": "Let us now enter into that chamber which our father told us not to enter.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Woe is me, dear sister!” said the youngest damsel."
+    },
+    {
+     "id": "p009.s02",
+     "source": "“I wonder that thou shouldst persuade us to tread underfoot the precepts of our father."
+    },
+    {
+     "id": "p009.s03",
+     "source": "When our father told us not to enter there, he must needs have known what he was saying, and why he told us so to do.”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“Dost thou fancy, silly, that there’s some evil serpent there that will eat us, or some other foul beast perhaps?” cried the middle sister."
+    },
+    {
+     "id": "p010.s02",
+     "source": "“Besides, how is papa to know whether we were there or not?”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Talking and arguing thus, they had reached the door of the chamber, and the eldest sister, who was the guardian of the keys, popped the key into the key-hole, and turning it round—crack-rack!—the door flew wide open."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "The damsels entered."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "What do you think they saw there?"
+    },
+    {
+     "id": "p013.s02",
+     "source": "The room was bare of furniture, but in the middle of it stood a large table covered with a beautiful cloth, and on the top of it was a wide-open book."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "The girls, all full of impatience, wanted to find out what was written in this book, and the eldest went up to it and read these words: “The eldest daughter of the Emperor will marry a son of the Emperor of the East.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Then the second daughter went up to the book, and turning over the leaf, read these words: “The second daughter of the Emperor will marry a son of the Emperor of the West.”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "The girls laughed and made merry at these words, and giggled and joked among themselves."
+    },
+    {
+     "id": "p016.s02",
+     "source": "But the youngest daughter would not go up to the book."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "But the elder ones would not leave her in peace, but dragged her up to the long table, and then, though very unwillingly, she turned over the leaf and read these words—"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“The youngest daughter of the Emperor will have a pig for her spouse.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "A thunderbolt falling from the sky could not have hurt her more than the reading of these words."
+    },
+    {
+     "id": "p019.s02",
+     "source": "She was like to have died of horror, and if her sisters had not held her she would have dashed her head to pieces against the ground."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "When she had come to herself again, her sisters began to try to comfort her."
+    },
+    {
+     "id": "p020.s02",
+     "source": "“How canst thou believe all that nonsense?” said they."
+    },
+    {
+     "id": "p020.s03",
+     "source": "“When didst thou ever hear of the daughter of an Emperor marrying a pig?”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "“What a baby thou art!” added the eldest, “as if papa hadn’t armies enough to save thee, even if so loathsome a monster as that did come and try and make thee his wife!”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "The youngest daughter of the Emperor would very much have liked to believe what her sisters said, but her heart would not allow it."
+    },
+    {
+     "id": "p022.s02",
+     "source": "She thought continually of the book which promised her sisters such handsome bridegrooms, while it foretold that that should happen to her which had never yet happened since the world began."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Then she reflected how she had transgressed the commands of her father, and her heart smote her."
+    },
+    {
+     "id": "p022.s04",
+     "source": "She began to grow thin, and ere a few days had passed she had so changed that none could recognize her."
+    },
+    {
+     "id": "p022.s05",
+     "source": "She became sad and sallow, instead of rosy and rollicking, and could take part in nothing at all."
+    },
+    {
+     "id": "p022.s06",
+     "source": "She ceased to play with her sisters in the garden; she ceased to cull posies and make garlands of them for her head, and when her sisters sang over their distaffs and embroideries her voice was dumb."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Meanwhile the Emperor, the father of these girls, succeeded beyond even the wishes of his dearest friends, and vanquished and dispersed his enemies."
+    },
+    {
+     "id": "p023.s02",
+     "source": "As his thoughts were continually with his daughters, he did what he had to do quickly and returned home."
+    },
+    {
+     "id": "p023.s03",
+     "source": "Crowds and crowds of people turned out to meet him with fifes and drums and trumpets, and great was their joy at the sight of their victorious Emperor."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "When he reached his capital, before going home, he gave thanks to God for aiding him against the enemies who had tried to do him evil."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Then he went to his own house, and his daughters came out to meet him."
+    },
+    {
+     "id": "p024.s03",
+     "source": "His joy was great when he saw how well they were, for his youngest daughter did her best to appear as gay and happy as the others."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "But it was not very long before the Emperor observed that, little by little, his youngest daughter was growing sadder and thinner."
+    },
+    {
+     "id": "p025.s02",
+     "source": "“What if she has broken my commands?” thought he, and as it were a red-hot iron pierced his soul."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Then he called his daughters to him, and bade them speak the truth."
+    },
+    {
+     "id": "p025.s04",
+     "source": "They confessed, but they did not say which of them had first persuaded them."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "When the Emperor heard this he was filled with bitterness, and from henceforth sadness took possession of him."
+    },
+    {
+     "id": "p026.s02",
+     "source": "But he held his tongue, and did but make all the more of his youngest daughter because he was about to lose her."
+    },
+    {
+     "id": "p026.s03",
+     "source": "What’s done is done, and he knew that thousands and thousands of words can’t make one farthing."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Time went on, and he had almost come to forget the circumstance, when one day there appeared at the Emperor’s court the son of the Emperor of the East, who sought the hand of his eldest daughter."
+    },
+    {
+     "id": "p027.s02",
+     "source": "The Emperor gave her to him with joy."
+    },
+    {
+     "id": "p027.s03",
+     "source": "They had a splendid wedding, and after three days he conducted them with great pomp to the frontier."
+    },
+    {
+     "id": "p027.s04",
+     "source": "A little while afterwards the same thing happened to the second daughter, for the son of the Emperor of the West came and sought her in marriage likewise."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Accordingly as she saw what had been written in the book gradually fulfilled, the youngest daughter of the Emperor grew sadder and sadder."
+    },
+    {
+     "id": "p028.s02",
+     "source": "She no longer enjoyed her food; she would not go out walking; she even lost all pleasure in raiment; she preferred to die rather than become the laughing-stock of the whole world."
+    },
+    {
+     "id": "p028.s03",
+     "source": "But the Emperor did not give her the opportunity of doing anything foolish, but took care to divert her with all manner of pleasant stories."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Time went on, and lo!—oh, wonderful!—one day a large hog entered the royal palace and said: “Hail, O Emperor!"
+    },
+    {
+     "id": "p029.s02",
+     "source": "May thy days be as rosy and as joyous as sunrise on a cloudless day!”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Good and fair is thy greeting, my son!” replied the Emperor; “but what ill wind hath blown thee hither, I should like to know?”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“I have come as a wooer,” replied the hog."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "The Emperor marvelled greatly at hearing such a pretty speech in the mouth of a hog, and immediately felt within himself that all was not right here."
+    },
+    {
+     "id": "p032.s02",
+     "source": "He would have put the hog off with some excuse if he could, to save his daughter, but when he heard the court and all the ways leading to it full of the grunts of the hogs who had accompanied the wooer, he had nothing to say for himself, and promised the hog that he would do what it asked."
+    },
+    {
+     "id": "p032.s03",
+     "source": "But the hog was not content with his bare promise, but insisted that the wedding should take place within a week."
+    },
+    {
+     "id": "p032.s04",
+     "source": "Only when it had obtained the Emperor’s word that it should be so did it go away."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "The Emperor told his daughter that she must submit to her fate, as it was clearly the will of God."
+    },
+    {
+     "id": "p033.s02",
+     "source": "Then he added: “My daughter, the speech and sensible bearing of this hog belong to no brute beast with which I am acquainted."
+    },
+    {
+     "id": "p033.s03",
+     "source": "I’ll wager my head upon it that he was never born a hog."
+    },
+    {
+     "id": "p033.s04",
+     "source": "There must be a touch of sorcery here, or some other devilry."
+    },
+    {
+     "id": "p033.s05",
+     "source": "If thou art obedient, thou wilt not depart from thy given word, for God will not allow thee to be tormented for long.”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“If thou dost think it good, dear father,” replied the girl, “I will obey thee, and put my trust in God."
+    },
+    {
+     "id": "p034.s02",
+     "source": "Let Him do what He will with me."
+    },
+    {
+     "id": "p034.s03",
+     "source": "It must be so, I have no other way to turn.”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "In the meantime the wedding-day arrived."
+    },
+    {
+     "id": "p035.s02",
+     "source": "The marriage was celebrated in secret."
+    },
+    {
+     "id": "p035.s03",
+     "source": "Then the hog got into one of the imperial carriages with his bride, and so they set off homewards."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "On the journey they had to pass by a large marsh."
+    },
+    {
+     "id": "p036.s02",
+     "source": "The hog ordered the carriage to stop, got down, and wallowed about in the mire till he was pretty nearly one with it."
+    },
+    {
+     "id": "p036.s03",
+     "source": "Then he got into the carriage again, and told his bride to kiss him."
+    },
+    {
+     "id": "p036.s04",
+     "source": "Poor girl, what could she do?"
+    },
+    {
+     "id": "p036.s05",
+     "source": "She took out her cambric pocket-handkerchief, wiped his snout a little, and then kissed him."
+    },
+    {
+     "id": "p036.s06",
+     "source": "“I am but obeying my father’s commands,” thought she."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "At last they reached the hog’s house, which was in the midst of a dense forest."
+    },
+    {
+     "id": "p037.s02",
+     "source": "It was now evening, and when they had rested a little from the fatigues of the road they supped together and lay down to rest."
+    },
+    {
+     "id": "p037.s03",
+     "source": "In the night the daughter of the Emperor perceived that her husband was a man and not a hog, and she marvelled greatly."
+    },
+    {
+     "id": "p037.s04",
+     "source": "Then she called to mind the words of her father, and hope once more arose in her breast."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Every evening the hog shook off his hog-skin, and every morning before she awoke he put it on again."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "One night passed, two nights passed, a great many nights passed, and the damsel could not make out how it was that her husband was a man at night and a hog in the daytime."
+    },
+    {
+     "id": "p039.s02",
+     "source": "For he was under a spell; an enchanter had done him this mischief."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Gradually she began to love him, especially when she felt that she was about to become a mother, but what grieved her most was that she was all alone, with none at hand to aid her in her hour of need."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "One day, however, she saw an old long-nosed witch pass by that way."
+    },
+    {
+     "id": "p041.s02",
+     "source": "Now as she had seen no human creature for a long time, she was full of joy, and called to her, and they had a long talk together."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“Tell me now, old woman,” cried she, “the meaning of this marvel."
+    },
+    {
+     "id": "p042.s02",
+     "source": "In the daytime my husband is a hog, but when he sleeps beside me at night he is a man."
+    },
+    {
+     "id": "p042.s03",
+     "source": "Explain this marvel to me!”"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“I’ll tell thee that later on, but in the meanwhile shall I give thee some medicines that will put an end to the spell that holds him?”"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“Oh, do, little mother, and I’ll pay thee for them whatever thou wilt, for I hate to see him as he is now.”"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“Very well, then."
+    },
+    {
+     "id": "p045.s02",
+     "source": "Take this bit of rope, my little chicken, but let him not know anything about it, or it will lose its effect."
+    },
+    {
+     "id": "p045.s03",
+     "source": "Now when he is asleep, rise up, and going to him very very softly, tie his left leg as hard as thou canst, and thou wilt see, dear heart, that on the morrow he’ll remain a man."
+    },
+    {
+     "id": "p045.s04",
+     "source": "Money I do not want."
+    },
+    {
+     "id": "p045.s05",
+     "source": "I shall be more than repaid if I release him from this scourge."
+    },
+    {
+     "id": "p045.s06",
+     "source": "My very heart-strings are bursting with compassion for thy lord, my rose-bud, and I grieve, oh how bitterly I grieve, that I did not come this way before, so as to help thee sooner. ”"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "When the old hag had departed, the daughter of the Emperor took care to carefully conceal the piece of rope, but in the middle of the night she softly arose so that he shouldn’t hear her, and holding her very breath, tied the string round her husband’s left leg, but when she tied the knot—r-rch!—the string broke, for it was rotten, and instantly her husband started up."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“Unhappy woman!” cried he, “what hast thou done?"
+    },
+    {
+     "id": "p047.s02",
+     "source": "But three days more and I should have been free of this vile spell, but now who knows how long I may have to carry this vile bestial skin!"
+    },
+    {
+     "id": "p047.s03",
+     "source": "And know, moreover, that thy hand can never touch me again till thou hast worn out three pairs of iron sandals, and worn down three staves of steel, seeking me all over the wide world, for now I must depart.”"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "And with these words he disappeared."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "The poor daughter of the Emperor, when she found herself all alone, began to cry and sob as if her heart would break."
+    },
+    {
+     "id": "p049.s02",
+     "source": "She cursed the vile witch with fire and sword, but all in vain, and when at last she saw that all her cursing and moaning did no good, she got up and went whithersoever the mercy of God and the desire of her husband might lead her."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "At the first city she arrived at she bade them make her three pairs of iron sandals and three staves of steel, made provision for her journey, and set off to seek her husband."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "She went on and on, past nine kingdoms and nine seas, she passed through vast forests where the treestumps were like barrels, she got black and blue from stumbling over the trunks of fallen trees, yet often as she fell, she always got up again and resumed her way; the branches of the trees struck her in the face, the briars tore her hands, yet on and on she went without so much as looking back once."
+    },
+    {
+     "id": "p051.s02",
+     "source": "At last, weary with her journey and her burden, bowed down with grief and yet with hope in her heart, she came to a little house."
+    },
+    {
+     "id": "p051.s03",
+     "source": "And who should be living there but the Holy Moon."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "The damsel knocked at the door and begged them to let her come in and rest a little, especially as she was about to become a mother."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "The mother of the Holy Moon had compassion on her and her afflictions, so she let her come inside and took good care of her."
+    },
+    {
+     "id": "p053.s02",
+     "source": "Then she asked her: “How is it that thou, a creature of another race, hast managed to come so far as this?”"
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "Then the poor daughter of the Emperor told her everything that had happened to her, and wound up by saying: “I praise and thank God first of all for directing my footsteps even to this place, and I thank Him in the second place because He allows not my child to perish at the hour of its birth."
+    },
+    {
+     "id": "p054.s02",
+     "source": "And now I beg thee to tell me whether thy daughter, the Holy Moon, hath seen my husband anywhere?”"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "“That I cannot tell thee, my dear,” replied the mother of the Holy Moon; “but if thou dost go on thy way towards the east till thou comest to the house of the Holy Sun, maybe he will be able to tell thee somewhat.”"
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "Then she gave her a roast fowl to eat, and told her to be very careful not to lose one of the bones, as they would be very useful to her."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "The daughter of the Emperor thanked the mother of the Moon for her hospitality and kind words, and after throwing away the pair of iron sandals which she had worn out, she put on another pair, placed the fowl’s bones in her bosom, took her child on her arm, and a second staff of steel in her hand, and took to the road again."
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "She went on and on through nothing but plains of sand, and the way was so bad that she glided one step backwards for every two steps she went forwards."
+    },
+    {
+     "id": "p058.s02",
+     "source": "On and on she struggled till at last she left these plains behind her; and now she got amongst high mountains, steep and rugged, and crawled from rock to rock and from crag to crag."
+    },
+    {
+     "id": "p058.s03",
+     "source": "Whenever she came to a little plot of level ground she stopped and rested a little, and reflected that now she was a little nearer her husband than she was before, and then she went on her way again."
+    },
+    {
+     "id": "p058.s04",
+     "source": "The sides of the mountains were of hard-pointed flints, which bruised and cut her feet, knees, and sides till they were covered with blood; for you must know that these mountains were so high that they reached beyond the clouds."
+    },
+    {
+     "id": "p058.s05",
+     "source": "There were precipices in the way too that she could only pass by going down on her hands and knees and guiding herself with her staff."
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "At last, quite overcome by fatigue, she came to a palace."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "Here lived the Sun."
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "She knocked at the door and begged them to take her in."
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "The mother of the Sun received her, and was amazed to see a creature of another race in those regions, and full of compassion when she heard what had befallen her."
+    },
+    {
+     "id": "p062.s02",
+     "source": "Then, when she had promised to ask her son about the damsel’s husband, she hid her in the cellar, that the Sun might not perceive her when he came home in the evening, for he always came back in a bad temper."
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "Next day the daughter of the Emperor was afraid she would be found out, as the Sun said he smelt a creature from another world."
+    },
+    {
+     "id": "p063.s02",
+     "source": "But his mother soothed him with soft words, and told him that it was pears that he smelt."
+    },
+    {
+     "id": "p063.s03",
+     "source": "The daughter of the Emperor took courage when she saw how well she was treated, and said:"
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "“Tell me now, how can the Sun be ever vexed, seeing that he is so beauteous, and doeth so much good to mortals?”"
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "“I’ll tell thee,” replied the mother of the Sun."
+    },
+    {
+     "id": "p065.s02",
+     "source": "“In the morning he stands in the gate of Heaven, and then he is merry, so merry, and smiles upon the whole world."
+    },
+    {
+     "id": "p065.s03",
+     "source": "But at mid-day he is full of disgust, inasmuch as he sees all the follies of men, and so his wrath burns and he gets hotter and hotter; while in the evening he is vexed and sorrowful because he stands in the gate of Hades, for that is the usual way by which he comes home.”"
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "She told her besides that she had asked about her husband, and her son had replied that he knew not anything about him, as he was living in the midst of a vast and dense forest, so that his beams could not pierce through the thick foliage; the only thing to do was to go and ask the Wind about it."
+    },
+    {
+     "id": "p066.s02",
+     "source": "Then she also gave her a roast fowl, and told her to take great care of the bones."
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "So the daughter of the Emperor pitched away the second pair of iron sandals that she had worn out, tied up the bones, took her child on her arm and a third staff in her hand, and went after the Wind."
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "On this journey she met with hardships greater than any before, for she came upon mountains of flintstones, one after another, through which darted flames of fire, forests untrodden by man, and fields of ice dark with snow-storms."
+    },
+    {
+     "id": "p068.s02",
+     "source": "More than once the poor creature was on the point of falling, but with perseverance and the help of God she overcame even these great hardships, and at last she reached a ravine between two mountains, large enough to hold seven cities."
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "This was the abode of the Wind."
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "There was a gate in the wall which surrounded it."
+    },
+    {
+     "id": "p070.s02",
+     "source": "She knocked and implored them to let her in."
+    },
+    {
+     "id": "p070.s03",
+     "source": "The mother of the Wind had compassion on her, and let her in and invited her to rest."
+    },
+    {
+     "id": "p070.s04",
+     "source": "“If she had hidden from the Sun,” she said, “surely the Wind would not find her out.”"
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "The next day the mother of the Wind told her that her husband was living in a huge dense wood, which the axe of man had never yet reached, and there he had made him a sort of house by piling up the trunks of trees one on the top of another, and plaiting them together with withy bands, where he lived all alone for fear of wicked men."
+    },
+    {
+     "id": "p071.s02",
+     "source": "Then, after she had given her a roast fowl and told her to take good care of the bones, the mother of the Wind counselled her to follow the road that led straight to the sky, and let the stars of heaven be her guides."
+    },
+    {
+     "id": "p071.s03",
+     "source": "She said she would, and after thanking her with tears of joy for her hospitality and for her glad tidings, she went on her way."
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "The poor woman turned night into day."
+    },
+    {
+     "id": "p072.s02",
+     "source": "She stopped neither to eat nor to rest, so fiercely did the desire to find her husband burn within her."
+    },
+    {
+     "id": "p072.s03",
+     "source": "She went on and on till she quite wore out the third pair of sandals."
+    },
+    {
+     "id": "p072.s04",
+     "source": "She threw them away, and began to walk with bare feet."
+    },
+    {
+     "id": "p072.s05",
+     "source": "She cared not for the hard clumps of earth, she took no heed of the thorns that entered into her feet, nor of the pain she suffered when she stumbled over the hard stones."
+    },
+    {
+     "id": "p072.s06",
+     "source": "At last she came to a green and beauteous meadow on the margin of a forest, and her heart rejoiced within her when she felt the soft grass and saw the sweet flowers."
+    },
+    {
+     "id": "p072.s07",
+     "source": "She stopped and rested a little."
+    },
+    {
+     "id": "p072.s08",
+     "source": "But when she saw the birds in couples and couples on the branches of the trees, a burning desire for her own husband came upon her, and she began to weep bitterly, and with her child on her arm, and her bundle of bones in her girdle, she went on her way."
+    },
+    {
+     "id": "p072.s09",
+     "source": "She entered the forest."
+    },
+    {
+     "id": "p072.s10",
+     "source": "She did not once look at the soft green turf which soothed her feet, she listened not to the birds that chirped enough to deafen her, she regarded not the flowers that peeped out from among the bushes, but groped her way step by step into the depths of the forest."
+    },
+    {
+     "id": "p072.s11",
+     "source": "For from the tokens given her by the mother of the Wind she perceived that this must be the forest in which her husband was staying."
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "Three days and three nights she roamed through the forest, and could see no one."
+    },
+    {
+     "id": "p073.s02",
+     "source": "So worn was she now with fatigue that she fell to the ground, and there she lay for a day and a night without moving, nor did she eat and drink."
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "At last she rallied all her remaining strength, rose up, and tottering along, tried to support herself on her staff; but it could help her no more, for that also was quite worn down so that it was now no good to her."
+    },
+    {
+     "id": "p074.s02",
+     "source": "Still trusting in God, she went on as best she could."
+    },
+    {
+     "id": "p074.s03",
+     "source": "She hadn’t taken ten steps forward when she saw in a cleft of the rock just such a sort of house as the mother of the Wind had told her of."
+    },
+    {
+     "id": "p074.s04",
+     "source": "She went towards it, and just managed to get up to it and no more."
+    },
+    {
+     "id": "p074.s05",
+     "source": "It was a house that had neither window nor door, but there was an opening in the roof."
+    },
+    {
+     "id": "p074.s06",
+     "source": "She looked around her, but there was no sign of a ladder."
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "What was she to do to get inside it?"
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "She thought and thought again."
+    },
+    {
+     "id": "p076.s02",
+     "source": "She tried to climb up it, but in vain."
+    },
+    {
+     "id": "p076.s03",
+     "source": "Suddenly she thought of the bones which she had been carrying all this way."
+    },
+    {
+     "id": "p076.s04",
+     "source": "“If only I could find out,” said she, “how these bones are to assist me!”"
+    },
+    {
+     "id": "p076.s05",
+     "source": "She took them out of the bundle, looked at them, reflected a little, and then put one atop the other, and—oh, wonderful!—they joined on to each other as if they had been glued."
+    },
+    {
+     "id": "p076.s06",
+     "source": "Then she joined another on to the first two and then another till she made out of them two long bars."
+    },
+    {
+     "id": "p076.s07",
+     "source": "Then she put a little bone across the two bars, and it stuck fast like the rung of a ladder."
+    },
+    {
+     "id": "p076.s08",
+     "source": "She mounted on it, and placed another little bone across a bit higher, and then she mounted on that also, and so she ascended from rung to rung, placing the small bones across as she went along, till she got quite near the top; but then she saw that there was a wide gap between the last rung of her ladder and the door in the roof of the house, and she now had no more bones to make the last rung."
+    },
+    {
+     "id": "p076.s09",
+     "source": "She must have lost it on the way."
+    },
+    {
+     "id": "p076.s10",
+     "source": "What was she to do now?"
+    },
+    {
+     "id": "p076.s11",
+     "source": "She bethought her for a while, and then she cut off a finger and placed that between the bars."
+    },
+    {
+     "id": "p076.s12",
+     "source": "Sure enough it joined on to and formed the last rung, and mounting on it she entered the door of the house with her child in her arms."
+    },
+    {
+     "id": "p076.s13",
+     "source": "There she rested for awhile, gave her child to suck, and sat down herself on the threshold."
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "When her husband came he was so amazed at what he saw that he could scarce believe his eyes, and there he stood looking at the ladder of bones, the last rung of which was a severed human finger."
+    },
+    {
+     "id": "p077.s02",
+     "source": "Fear came upon him lest there should be some evil enchantment about the thing, and he would have turned his back upon the house if God had not put it into his mind to enter."
+    },
+    {
+     "id": "p077.s03",
+     "source": "So turning himself into a dove, and flying up into the air without once touching the ladder, lest evil spells should lay hold of him, he entered the house in full flight, and there he beheld his wife nursing a child; and instantly he was full of tenderness and compassion towards her, for he bethought him of how much she must have suffered and endured before she could have found her way to him."
+    },
+    {
+     "id": "p077.s04",
+     "source": "Nay, he could scarce recognize her, so changed was she by her hardships and sufferings."
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "But the daughter of the Emperor, when she saw him, sprang from her seat, and her heart failed her for fright, for she did not know him."
+    },
+    {
+     "id": "p078.s02",
+     "source": "Then he made himself known to her, and she regretted no longer all she had gone through to find him, nay, she forgot it altogether, for he was as tall and straight as a lordly pine."
+    }
+   ],
+   "id": "p078"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p079.s01",
+     "source": "Then they began talking together."
+    },
+    {
+     "id": "p079.s02",
+     "source": "She told him all that had befallen her, and he wept for pity."
+    },
+    {
+     "id": "p079.s03",
+     "source": "Then he also spoke, and told her his story."
+    }
+   ],
+   "id": "p079"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p080.s01",
+     "source": "“I am the son of an Emperor,” said he."
+    },
+    {
+     "id": "p080.s02",
+     "source": "“In the war which my father waged with the dragons, our neighbours (and evil neighbours they were, ever ravaging his domains), I slew the smallest of the dragons."
+    },
+    {
+     "id": "p080.s03",
+     "source": "Now his mother knew that thou wert my destined bride, so she laid the curse of her spells upon me, and constrained me to wear the skin of an unclean beast, with the design of preventing me from having thee."
+    },
+    {
+     "id": "p080.s04",
+     "source": "Yet God aided me, and I won thee nevertheless."
+    },
+    {
+     "id": "p080.s05",
+     "source": "That old woman who gave thee the cord to tie my legs with was the dragon’s mother, and when I had but three days more to bear the spell, I was forced, by thy folly, to go about in pigskin three years longer."
+    },
+    {
+     "id": "p080.s06",
+     "source": "But now since thou hast suffered for me and I have suffered for thee, let us praise God and return to our parents."
+    },
+    {
+     "id": "p080.s07",
+     "source": "Without thee I should have resigned myself to living the life of a hermit, and so I chose this desert for my habitation, and built me this house so that no child of man should get at me.”"
+    }
+   ],
+   "id": "p080"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p081.s01",
+     "source": "Then they embraced each other full of joy, and promised to forget all their past sorrows."
+    }
+   ],
+   "id": "p081"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p082.s01",
+     "source": "The next day they rose early and went back first of all to the Emperor his father."
+    },
+    {
+     "id": "p082.s02",
+     "source": "When it was known that he and his consort had arrived, all the world wept with joy; but his father and mother embraced them tightly, and the public rejoicings lasted three days and three nights."
+    }
+   ],
+   "id": "p082"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p083.s01",
+     "source": "Then he went on to the Emperor the father of his wife, and he was like to have gone out of his mind for joy when he saw them."
+    },
+    {
+     "id": "p083.s02",
+     "source": "When he had heard all their adventures he said to his daughter: “Did I not tell thee not to believe that he who sought thy hand was ever born a hog?"
+    },
+    {
+     "id": "p083.s03",
+     "source": "Thou hast done well, my daughter, to listen to my words. ”"
+    }
+   ],
+   "id": "p083"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p084.s01",
+     "source": "And being an old man, and having no heirs, he descended from his throne and put them upon it in his stead."
+    },
+    {
+     "id": "p084.s02",
+     "source": "Then they reigned in peace, and if they are not dead they are living still."
+    }
+   ],
+   "id": "p084"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p085.s01",
+     "source": "And now I’ll mount my horse again and say an “Our Father” before I go."
+    }
+   ],
+   "id": "p085"
   }
  ]
 }

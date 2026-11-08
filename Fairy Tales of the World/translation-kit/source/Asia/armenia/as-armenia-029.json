@@ -1,0 +1,291 @@
+{
+ "id": "as-armenia-029",
+ "title": {
+  "id": "title",
+  "source": "An Armenian Nursery Tale"
+ },
+ "tradition": "Armenia",
+ "continent": "Asia",
+ "source_lang": "en",
+ "source_book": "The Golden Maiden, and other folk tales and fairy stories told in Armenia",
+ "credits": "Seklemian, A. G. (Apraham Garabed) (author, d. 1920)",
+ "gutenberg": "Project Gutenberg eBook #46944 — https://www.gutenberg.org/ebooks/46944",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Armenia/029 - An Armenian Nursery Tale.md",
+ "stats": {
+  "paragraphs": 21,
+  "segments": 36,
+  "words": 648
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Once upon a time there was an old woman who had a goat."
+    },
+    {
+     "id": "p001.s02",
+     "source": "She milked the goat every day and kept the milk in the cupboard; but a sly cat came and licked it up."
+    },
+    {
+     "id": "p001.s03",
+     "source": "One day, however, the old woman succeeded in getting hold of the cat, and cutting off her tail as a punishment, let her go."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "“Meow! meow!” cried the cat; “give me my tail!”"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "“Bring me my milk and I will give you your tail,” said the old woman."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The cat went to the goat and said: “Goat, kind goat, do give me some milk!"
+    },
+    {
+     "id": "p004.s02",
+     "source": "I will give it to the old woman and get back my tail.”"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "“Bring me some boughs from yonder tree, and I will give you milk,” answered the goat."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "The cat went to the tree and said, “O good tree, do give me some boughs!"
+    },
+    {
+     "id": "p006.s02",
+     "source": "I will take them to the goat, get a little milk and give it to the old woman, and get back my tail.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“Bring me some water and I will give you some boughs,” answered the tree."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "The cat went to the water-carrier and said, “Kind water-carrier, give me some water!"
+    },
+    {
+     "id": "p008.s02",
+     "source": "I will take it to the tree and get some boughs, give them to the goat and get some milk, and give it to the old woman and get my tail.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "“Bring me a pair of shoes and I will give you some water,” said the water-carrier."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "The cat went to the shoemaker and said, “Shoemaker, good shoemaker, do give me a pair of shoes!"
+    },
+    {
+     "id": "p010.s02",
+     "source": "I will give them to the water-carrier, who will give me some water; I will take it to the tree and get some boughs for the goat; she will give me some milk, which I will take to the old woman and get my tail.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "“Bring me an egg and I will give you a pair of shoes,” said the shoemaker."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "The cat went to the hen and said, “Hen, good hen, do lay me an egg!"
+    },
+    {
+     "id": "p012.s02",
+     "source": "I will take it to the shoemaker and get a pair of shoes for the water-carrier; he will give me some water, which I will take to the tree and get some boughs for the goat; she will give me some milk, which I will take to the old woman and get my tail.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Bring me some barley and I will lay an egg for you,” answered the hen."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "The cat went to the threshing-floor and said, “Threshing-floor, kind threshing-floor, do give me some barley!”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "The threshing-floor said: “There, you may gather the scattered barley which my good master has left as food for the birdies and ants.”"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "The cat gathered the barley and took it to the hen, which laid her an egg."
+    },
+    {
+     "id": "p016.s02",
+     "source": "She took the egg to the shoemaker and got a pair of shoes."
+    },
+    {
+     "id": "p016.s03",
+     "source": "She took the pair of shoes to the water-carrier and got a pailful of water for the tree."
+    },
+    {
+     "id": "p016.s04",
+     "source": "The tree gave her some boughs which she took to the goat."
+    },
+    {
+     "id": "p016.s05",
+     "source": "The goat gave her some milk which she took to the old woman."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“Here is your tail,” said the old woman, “and be careful hereafter not to steal my milk.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "The cat took her tail and tried to stick it in its place but she could not."
+    },
+    {
+     "id": "p018.s02",
+     "source": "She tried over and over again to stick it with resin, with tar and with glue, but it was of no use."
+    },
+    {
+     "id": "p018.s03",
+     "source": "So that cat has remained tailless to this day, as a sign of her being a thief."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Moral.—Wickedness is always punished."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Nothing valuable can be gotten without labor."
+    },
+    {
+     "id": "p019.s03",
+     "source": "The mark of a great sin cannot be erased."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "The Armenian mother tells this tale to her child when she puts it to bed."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Its effect upon the little one is very quieting, so that the child often goes to sleep before the tale is finished. ↑"
+    }
+   ],
+   "id": "p021"
+  }
+ ]
+}

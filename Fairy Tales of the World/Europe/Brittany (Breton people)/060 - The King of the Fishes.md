@@ -4,7 +4,7 @@
 - **Source book:** *Legends & Romances of Brittany*
 - **Author / collector / translator:** Spence, Lewis (author, d. 1955)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #30871 — https://www.gutenberg.org/ebooks/30871
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

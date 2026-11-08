@@ -1,0 +1,138 @@
+{
+ "id": "af-ghana-akan-peoples-anansi-tales-074",
+ "title": {
+  "id": "title",
+  "source": "Nyope Inonzi Anansi"
+ },
+ "tradition": "Ghana (Akan peoples, Anansi tales)",
+ "continent": "Africa",
+ "source_lang": "x-chishona",
+ "source_book": "African Storybook — traditional tales retold (CC BY 4.0)",
+ "credits": "Ghanaian folktale Ester Chimhenga, Mass Tapfuma Wiehan de Jager (story, illustration and translation credits as listed by African Storybook)",
+ "gutenberg": "African Storybook story #21678 — https://www.africanstorybook.org/ (search the title)",
+ "copyright": "Creative Commons Attribution 4.0 (CC BY 4.0). Free to copy, translate and adapt for any purpose, including commercial, as long as you credit the original author(s), illustrator(s) and African Storybook and link to the licence: https://creativecommons.org/licenses/by/4.0/",
+ "markdown_file": "Africa/Ghana (Akan peoples, Anansi tales)/074 - Nyope Inonzi Anansi.md",
+ "stats": {
+  "paragraphs": 8,
+  "segments": 17,
+  "words": 64
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Anoda chikafu asi ane hunyope hwekubika."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"Hongu."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Chindibatsira kukurunga,\" anodaro Mbira."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Asi Anansi ane hunyope."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Anansi anosungirira tambo pagumbo rake uye papoto yaMbira."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Tsoko, tingadya tese here nyemba?\""
+    },
+    {
+     "id": "p004.s02",
+     "source": "\"Hongu."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Tibatsire kudzicheka.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Njiri, tingadye tose here magwiri?\""
+    },
+    {
+     "id": "p005.s02",
+     "source": "\"Hongu."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Ndibatsire kumagadzira.\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Nenguva isipi makumbo aAnansi ose ari masere akasungirirwa papoto."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Makumbo ose ave kudhonzwa!"
+    },
+    {
+     "id": "p007.s02",
+     "source": "\"Mirai kudhonza!\""
+    },
+    {
+     "id": "p007.s03",
+     "source": "Anansi anochema."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Makumbo anotatamuka!"
+    },
+    {
+     "id": "p008.s02",
+     "source": "Ndokusaka mabuwe aine makumbo marefu matete."
+    }
+   ],
+   "id": "p008"
+  }
+ ]
+}

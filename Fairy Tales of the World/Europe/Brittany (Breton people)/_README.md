@@ -6,7 +6,7 @@ Tales in this folder: **100**
 ## Sources
 
 - *Breton Legends
-Translated from the French* — Anonymous / traditional — Gutenberg #41681 — 17 tales — PD in USA; translator death date unrecorded
+Translated from the French* — see each tale — Gutenberg #41681 — 17 tales — PD in USA; translator death date unrecorded
 - *Legends & Romances of Brittany* — Spence, Lewis (author, d. 1955) — Gutenberg #30871 — 83 tales — PD worldwide
 
 ## Tales

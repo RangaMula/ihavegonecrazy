@@ -1,0 +1,4302 @@
+{
+ "id": "af-congo-kongo-and-vili-peoples-001",
+ "title": {
+  "id": "title",
+  "source": "THE FOLKLORE OF THE FjORT"
+ },
+ "tradition": "Congo (Kongo and Vili peoples)",
+ "continent": "Africa",
+ "source_lang": "en",
+ "source_book": "Notes on the Folklore of the Fjort (French Congo) (1898)",
+ "credits": "Dennett, R. E. (author, d. 1921)",
+ "gutenberg": "Internet Archive item `notesonfolkloreo00dennuoft` — https://archive.org/details/notesonfolkloreo00dennuoft (OCR text, lightly cleaned)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Africa/Congo (Kongo and Vili peoples)/001 - THE FOLKLORE OF THE FjORT.md",
+ "stats": {
+  "paragraphs": 236,
+  "segments": 716,
+  "words": 18333
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "AUTHOR OP \"SEVEN YEARS AMONG THE FJORT.\""
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "LONDON : PUBLISHED FOR THE FOLK-LORE SOCIETY"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "PRINTED BY J. B. NICHOLS AND SONS,"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "THE following collections reached my hands in a more or less fragmentary state."
+    },
+    {
+     "id": "p004.s02",
+     "source": "The bulk of the work had been written at one time, and little was needed to put it into a state for publication."
+    },
+    {
+     "id": "p004.s03",
+     "source": "But other portions, and those not the least important, had been written at different times and with different objects, and the task of weaving them all together in the author's absence was not a light one."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Thus, though the author has read the proofs of all but Appendix II., it will be easily understood that the difficulties involved in passing a book of this kind through the press, while he was residing several thousand miles away, are such as to account for many imperfections, which would have been rectified had he been able himself to determine its final form and to superintend its publication."
+    },
+    {
+     "id": "p004.s05",
+     "source": "The sins of omission, of occasional repetition, and perhaps of occasional obscurity, that may be found, must therefore be laid at the editor's, and not at the author's door."
+    },
+    {
+     "id": "p004.s06",
+     "source": "I can only hope that the circumstances may be taken into account to extenuate these offences."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "The difficulties I have referred to would, indeed, have been insuperable had it not been for the incessant help of Miss Kingsley."
+    },
+    {
+     "id": "p005.s02",
+     "source": "The debt due to her is by no means confined to the"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "writing of her interesting and valuable introduction and the arrangement of Appendix I. She read all the manuscripts and selected in the first instance those most suitable for publication."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Innumerable questions of detail have arisen in the course of printing, making it necessary to refer constantly to her, and in every case her knowledge of the country and the people, her time and thought, have been ungrudgingly placed at the service of the Folk-Lore Society."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Lastly, she selected the photographs to be reproduced for the plates, and laid her own stock of negatives under contribution for the purpose of adding to them."
+    },
+    {
+     "id": "p006.s04",
+     "source": "It has been a matter of regret that the Society has been unable to avail itself to a greater extent of her kindness in this direction."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "I am also indebted to Mr. W. H. D. Rouse for help kindly rendered in revising the Latin translation of the songs."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "The orthography of the word Fjort has been adopted with some hesitation."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Mr. Dennett has himself not always adhered to this form."
+    },
+    {
+     "id": "p008.s03",
+     "source": "In the chapter on the Death and Burial of the Fjort (which was communicated independently to the Society and published in Folk-Lore, vol. viii., p. 133), as it originally stood, he wrote Fiote."
+    },
+    {
+     "id": "p008.s04",
+     "source": "The pronunciation of the word would, I am informed, be more closely represented in ordinary English spelling as Feeaught."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "INTRODUCTION, BY Miss KINGSLEY i."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "I. THE FOLKLORE OF THE FjORT 1"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "II."
+    },
+    {
+     "id": "p011.s02",
+     "source": "How A NATIVE STORY is TOLD 25"
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "III."
+    },
+    {
+     "id": "p012.s02",
+     "source": "HOW THE WlYES RESTORED THEIR HUSBAND TO"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "XI."
+    },
+    {
+     "id": "p013.s02",
+     "source": "How KENGI LOST HER CHILD 58"
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "XIII."
+    },
+    {
+     "id": "p014.s02",
+     "source": "THE YOUNGER BROTHER WHO KNEW MORE THAN"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "XIY."
+    },
+    {
+     "id": "p015.s02",
+     "source": "THE CHIMPANZEE AND GORILLA 69"
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "XY."
+    },
+    {
+     "id": "p016.s02",
+     "source": "THE ANTELOPE AND THE LEOPARD ... ... ..."
+    },
+    {
+     "id": "p016.s03",
+     "source": "71"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "XYI."
+    },
+    {
+     "id": "p017.s02",
+     "source": "How THE SPIDER WON AND LOST NZAMBI'S DAUGHTER 74"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "XVII."
+    },
+    {
+     "id": "p018.s02",
+     "source": "THE TURTLE AND THE MAN"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "XVIII."
+    },
+    {
+     "id": "p019.s02",
+     "source": "KILLING A LEOPARD 80"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "XIX."
+    },
+    {
+     "id": "p020.s02",
+     "source": "THE GAZELLE AND THE LEOPARD ... ... ..."
+    },
+    {
+     "id": "p020.s03",
+     "source": "82"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "XX."
+    },
+    {
+     "id": "p021.s02",
+     "source": "THE WILD CAT AND THE GAZELLE ... ..."
+    },
+    {
+     "id": "p021.s03",
+     "source": "85"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "XXI."
+    },
+    {
+     "id": "p022.s02",
+     "source": "THE CRAFTY WOMAN OVERREACHES HERSELF ..."
+    },
+    {
+     "id": "p022.s03",
+     "source": "86 XXII."
+    },
+    {
+     "id": "p022.s04",
+     "source": "How THE FETISH SUNGA PUNISHED MY GREAT- UNCLE'S TWIN BROTHER, BASA 88"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "XXIII."
+    },
+    {
+     "id": "p023.s02",
+     "source": "THE RABBIT AND THE ANTELOPE 90"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "XXIV."
+    },
+    {
+     "id": "p024.s02",
+     "source": "THE FIGHT BETWEEN THE TWO FETISHES, LIFUMA"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "XXV."
+    },
+    {
+     "id": "p025.s02",
+     "source": "THE FETISH OF CHILUNGA 96"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "XXVI."
+    },
+    {
+     "id": "p026.s02",
+     "source": "THE LEOPARD AND THE CROCODILE ... ... ..."
+    },
+    {
+     "id": "p026.s03",
+     "source": "98"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "XXVII."
+    },
+    {
+     "id": "p027.s02",
+     "source": "WHY SOME MEN ARE WHITE AND OTHERS BLACK 101"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "XXVIII."
+    },
+    {
+     "id": "p028.s02",
+     "source": "THE BIRD-MESSENGERS 103"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "XXX."
+    },
+    {
+     "id": "p029.s02",
+     "source": "WHY THE CROCODILE DOES NOT EAT THE HEN ..."
+    },
+    {
+     "id": "p029.s03",
+     "source": "106"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "XXXI."
+    },
+    {
+     "id": "p030.s02",
+     "source": "THE THREE BROTHERS 108"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "XXXII."
+    },
+    {
+     "id": "p031.s02",
+     "source": "DEATH AND BURIAL OF THE FJORT Ill"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "I. FJORT MOTHER AND CHILD.."
+    },
+    {
+     "id": "p032.s02",
+     "source": "Frontispiece"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "II."
+    },
+    {
+     "id": "p033.s02",
+     "source": "A BAKUTU WHO CAME TO LOANGO TO SEE"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "IV."
+    },
+    {
+     "id": "p034.s02",
+     "source": "PRINCE XLKAIA BY THE FUNERA.L CAR OF"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "HIS BROTHER, LINGUISTER FRANCISCO ... „ 114"
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "V. CLIMBING A PALM-TREE FOR PALM-WINE 121"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "NOTES ON THE EOLKLOEE OF THE FJOKT."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Ever since the Folk-Lore Society did me the honour to ask me to write an introduction to these stories, I have had a gradually intensifying sense of my incapacity to do it properly."
+    },
+    {
+     "id": "p038.s02",
+     "source": "It is true that I am personally acquainted with the tribe of Africans to whom these stories belong — that I have heard many of them told in the way Mr. Dennett so accurately describes — that I know Mr. Dennett personally, and am therefore acquainted with the many claims that anything he may have to say has upon students of primitive culture, because he speaks on the subject of the Fjorts from a knowledge gained during seventeen years of close association and sympathy with them, and possesses also a thorough knowledge of their language."
+    },
+    {
+     "id": "p038.s03",
+     "source": "Yet, these things notwithstanding, I still feel that someone else should write this Introduction, because I am myself only a collector of West African ideas, and these stories clearly require a preface from the pen of a comparative ethnologist who"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "could tell you how the Undine-like story of the vanishing wife"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "got into Fjort folklore."
+    },
+    {
+     "id": "p040.s02",
+     "source": "I can only say 1 have not only heard this story, but I have known in the flesh several ladies whose husbands were always most anxious that they should not hear or see some one particular thing that would cause them to disappear, for ladies who have this weakness are always very valuable."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "And again, I cannot tell you how the Fjorts came by the set of stories they and their neighbouring tribes possess regarding the descent into hell of living men, of which Mr. Dennett gives the finest example I know of in the story of \" The Twin Brothers\": nor yet again how they came by the Prometheus-like story of \" How the Spider won and lost Nzambi's Daughter.\""
+    },
+    {
+     "id": "p041.s02",
+     "source": "All these explanations I must leave to the comparative ethnologist; but in so doing it may be as well to mention a few things regarding the difficulties that present themselves, even to the mere collector, in forming opinions regarding West African folklore."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "First, there is the difficulty of getting reliable information regarding the opinion of the natives on things, as that opinion at present stands."
+    },
+    {
+     "id": "p042.s02",
+     "source": "Secondly, there is the difficulty of forming an opinion as to why it stands in that form ; whether it arises from the native's uninterrupted observations of Nature, modified by his peculiar form of intellect ; or whether it is a white idea primarily, but in a state modified by having passed through a generation or so of African minds."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "Kegarding the difficulty of getting reliable information upon native customs it is not necessary for me to speak at great length, because it is now fully recognised by scientific students of the subject."
+    },
+    {
+     "id": "p043.s02",
+     "source": "The best way of surmounting the difficulty is for the ethnologist to go and study the mind of the native"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "personally; but this method is not one easily followed in West Africa on account of the deadliness of the climate and other drawbacks."
+    },
+    {
+     "id": "p044.s02",
+     "source": "But even if this method is followed, as it was by Bastian, Buchholz, and Hubbe Schlieden, it is still greatly to the student's advantage to compare his own collected information with that of men who have been for years resident in West Africa, who are well acquainted with the native language, and who have had opportunities of observing the native conduct under all sorts of difficulties, dangers, joys, and sorrows — who have, as the old saying puts it, summered and wintered them."
+    },
+    {
+     "id": "p044.s03",
+     "source": "Unfortunately such white men are rare in West Africa ; but so great is the value of their opinions in my eyes that I have always endeavoured to get the few there are of them to publish their information for the benefit of students of ethnology at home, instead of leaving these worthy people to the mercy of travellers' tales."
+    },
+    {
+     "id": "p044.s04",
+     "source": "Do not however imagine that I regard the traveller as, next to the mining expert, the most unreliable source of information extant."
+    },
+    {
+     "id": "p044.s05",
+     "source": "Even the African traveller has given reliable information on many things, but the conditions under which African travel is carried on are not favourable to the quiet, patient sympathetic study of the native mind ; for that we must look to the white resident in Africa, the missionary, and the trader."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "To give you an instance of the ease with which native customs might be badly observed by a traveller, I will cite an experience of my own when I (in spite of not being a true traveller but a wandering student of early law), nearly fell into error."
+    },
+    {
+     "id": "p045.s02",
+     "source": "Passing down a branch of the Karkola River in the Oroungou country, in a canoe with a choice band of natives for crew, we suddenly came upon a gentleman on the bank who"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "equally suddenly gave several dismal howls and fired at us with the scatter gun prevalent in West Africa."
+    },
+    {
+     "id": "p046.s02",
+     "source": "Having a rooted antipathy to being fired at, and knowing that the best way to prevent a recurrence of the unpleasantness when dealing with a solitary native is to tackle him before he reloads, I jumped on to the bank."
+    },
+    {
+     "id": "p046.s03",
+     "source": "The man turned and fled, and I after him down a narrow bush-path followed at a discreet distance by a devoted member of the crew yelling for me to come back."
+    },
+    {
+     "id": "p046.s04",
+     "source": "I succeeded in getting hold of my flying friend by his powder-bag and asked him why he had behaved so extremely badly."
+    },
+    {
+     "id": "p046.s05",
+     "source": "Then, when the rest of the crew saw that the incident promised entertainment without danger, they joined us, and we found the poor man was merely suffering under domestic affliction."
+    },
+    {
+     "id": "p046.s06",
+     "source": "One of his wives had run away with a gentleman from a neighbouring village, and so he had been driven to fire at and attempt to kill a member of any canoe-crew from yet another village that might pass his way ; because, according to the custom of the country, the men of this village would thereby have to join him in attacking the village of the man who had stolen his wife."
+    },
+    {
+     "id": "p046.s07",
+     "source": "So you see, if I had not minded being fired at, but just put down in my note-book that the people of this region were hostile savages and passed on, I should not have come across this interesting piece of native law, nor any of the other interesting pieces of native law I gained knowledge of during the subsequent palavers."
+    },
+    {
+     "id": "p046.s08",
+     "source": "This is only one instance of many which I have come across, wherein it would be almost impossible for a person rapidly passing through a country to form a true opinion regarding a native custom, and these instances have all confirmed me in my respect for the resident white man's opinion."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "The missionary opinion has of late years been regarded by the ethnologist somewhat suspiciously, as being a biassed one, but, however this may be, we are very heavily indebted to the missionaries for the work they have done in native languages."
+    },
+    {
+     "id": "p047.s02",
+     "source": "This department is one to which the missionary has naturally devoted himself, because his aim in dealing with natives is to make them comprehend his teaching."
+    },
+    {
+     "id": "p047.s03",
+     "source": "He is, for many reasons, not so much interested in other parts of native culture."
+    },
+    {
+     "id": "p047.s04",
+     "source": "Their manners, customs, laws, and religions are, from his point of view, bad and foolish ; but experience has taught him that the natives will listen to his teaching as soon as they can understand him, and therefore he is mostly content to leave alone the study of other things than the language, as little better than waste of time."
+    },
+    {
+     "id": "p047.s05",
+     "source": "There have been, however, several notable exceptions to this general rule."
+    },
+    {
+     "id": "p047.s06",
+     "source": "The works published by the Rev. J. L. Wilson,* the Rev. H. Goldie,t and the Rev. H. M. Waddell are of immense value, both from the great opportunities of observation these gentlemen had, and from their speaking of native customs and ideas with a knowledge of the native language."
+    },
+    {
+     "id": "p047.s07",
+     "source": "Unfortunately, the missionary who could surpass all these, valuable as they are, the Rev. Dr. Nassau, shows no sign of breaking the silence which afflicts all men who really know West Africa."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "I cannot help thinking that the time has now come when it is the duty of some ethnologist to turn philologist for himself, with the assistance already provided for him by the missionaries, and work at African languages, not from the point of view of their structure, classification, and diffusion, but from that of their inner meaning, and I can safely promise him the discovery of an"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "t Calabar and its Mission."
+    },
+    {
+     "id": "p049.s02",
+     "source": "Hugh Goldie."
+    },
+    {
+     "id": "p049.s03",
+     "source": "Edinburgh, 1890,"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "extremely interesting mass of matter."
+    },
+    {
+     "id": "p050.s02",
+     "source": "I feel sure that we cannot thoroughly understand the inner working of the African mind until this department of the study of it has been efficiently worked up; for the languages contain, and are founded on, a very peculiar basis of figurative thought, and until that is thoroughly understood we really cannot judge the true meaning of native statements on what is called totemism, and sundry other subjects."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "The other resident white who lives in close contact with the native is the trader."
+    },
+    {
+     "id": "p051.s02",
+     "source": "I regret to say I can cite to you no book of reference on native customs by a trader in modern times, save Mr. J. Whitford's ; * but in former days we had several, chief among which are those of Bosnian/!\""
+    },
+    {
+     "id": "p051.s03",
+     "source": "Sieur Brue,t and Barbot; and the great exactness of these makes one all the more regret the absence of the West Coast trader from modern literature."
+    },
+    {
+     "id": "p051.s04",
+     "source": "I have done my utmost to induce many of the gentlemen whom I have had the honour to know personally to break through their silence and give us works again like Bosnian's G-uinea, they being by experience and knowledge so pre-eminently fitted to speak regarding native customs : and I think with regret of the perfectly irreplaceable library of knowledge that has been lost by the death of Captain Boler of Bonny, and Major Parminter, and of the other great collections of facts that Mr. Wallace, Mr. Bruce Walker, Mr. Hart, Mr. Pinnock, Mr. Forshaw, and several others could give us."
+    },
+    {
+     "id": "p051.s05",
+     "source": "Mr. Dennett is so far, however, the only one inclined to do anything else but shake his head in horror over the mis-statements circulated about Africans."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "* Trading Life in Western and Central Africa."
+    },
+    {
+     "id": "p052.s02",
+     "source": "J. Whitford. f Bosman's Description of Guinea."
+    },
+    {
+     "id": "p052.s03",
+     "source": "London^ 1706."
+    },
+    {
+     "id": "p052.s04",
+     "source": "J Labat's Afrique Occidei dale , 1728;"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "The position of the trader towards the native is such as to make his information and observations particularly valuable to the ethnologist."
+    },
+    {
+     "id": "p053.s02",
+     "source": "The trader is not intent on altering the native culture to a European one; but he is intent on understanding the thing as it stands, so that he may keep at peace with the natives himself and induce them to keep peace with each other, for on peace depends the prosperity of West African regions in the main."
+    },
+    {
+     "id": "p053.s03",
+     "source": "We have not any tribe on the West Coast that subsists by war; we have no slave-raiding tribes that are directly in touch with the coast-trader ; * but we have a series of middlementribes through whose hands the trade from the interior passes to the latter."
+    },
+    {
+     "id": "p053.s04",
+     "source": "The middlemen system is in its highest state of development from the Niger to the Benito."
+    },
+    {
+     "id": "p053.s05",
+     "source": "Above this part — namely, in the regions of the Bight of Benin — the power of the middleman has been broken considerably by Mohammedan influence ; while below, from the Benito to the Congo, it is now being considerably upset by the invasion of the Bafan from the interior, and the enterprise of the French explorers."
+    },
+    {
+     "id": "p053.s06",
+     "source": "To the south of the Congo it has long ago been broken by the Portuguese."
+    },
+    {
+     "id": "p053.s07",
+     "source": "Therefore the trader's greatest danger is now in the Niger districts, when a chief, on account of some quarrel, stopping trade passing through his district, may become a serious nuisance to the white man."
+    },
+    {
+     "id": "p053.s08",
+     "source": "The management of the chief, however, has in those regions now passed into the hands of the English government in the Niger Coast Protectorate, and into the hands of the Royal Niger Company in the regions of the middle Niger; so it is not so interesting to study the relationships of the native and the trader in those regions as it is to study those existing between the"
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "* This statement does not include the Royal Niger Company, who have pushed up through the middle-man zone,"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "individual white traders, such as Mr. Dennett, and the native, as you can still find them in Congo Fraii9ais, and in KaCongo and Angola."
+    },
+    {
+     "id": "p055.s02",
+     "source": "Here the trader is practically dealing single-handed with the native authorities, and is regarded by them in much the same light as they regard one of their great spirits, as an undoubtedly superior, different sort of creation from themselves, yet as one who is likewise interested in mundane affairs, and whom they try to manage and propitiate and bully for their own advantage; while the trader, on his part, gets to know them so well during this process that he usually gets fond of them, as all white men who really know Africans always do, and looks after them when they are sick or in trouble, and tries to keep them at peace with each other and with the white government, for on peace depends the prosperity that means trade."
+    },
+    {
+     "id": "p055.s03",
+     "source": "Therefore, on the whole, the trader knows his African better than all the other sorts of white men put together, and he demonstrates this in two ways."
+    },
+    {
+     "id": "p055.s04",
+     "source": "Firstly, he calls upon the gods to be informed why he is condemned to live and deal with such a set of human beings, as those blacks ; and then, if the gods remove him from them and send him home to live among white men, he spends the rest of his days contrasting the white and black human beings to the disadvantage of the former, and hankering to get back to the Coast, which demonstrates that the trader feels more than other men the fascination of West Africa, in other words that he understands West Africa, and therefore that he is the person most fitted to speak regarding it, and the most valuable collector of facts that the student of the primitive culture in the region can get to act for him."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "I will now turn from presenting you with the credentials of Mr. Dennett to the consideration of the value of these"
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "stories which he has sent up to the Folk-Lore Society, and which are laid before you quite untouched by other white hands."
+    },
+    {
+     "id": "p057.s02",
+     "source": "Mr. Dennett's own knowledge of the Fjort language has enabled him to give them in a fuller and more connected form than is usually given to the African story."
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "The position in the native culture of stories, such as those of which you have specimens here, is exceedingly interesting."
+    },
+    {
+     "id": "p058.s02",
+     "source": "African native literature (if one may so call it, while it has no native written language) consists of four branches — proverbs, stories, riddles, and songs."
+    },
+    {
+     "id": "p058.s03",
+     "source": "Burton, in his Wit and Wisdom of West Africa, collected many of the proverbs ; and Ellis, in his important works on the Tshi, Ewe, and Yoruba- speaking peoples, has also collected specimens of all of the three first-named classes."
+    },
+    {
+     "id": "p058.s04",
+     "source": "So far, I think, no one has dealt with the songs, and indeed it would be exceedingly difficult to do so, as in the songs, more than in any other native thing, as far as I can judge, do you find yourself facing the strange under-meaning in the very words themselves."
+    },
+    {
+     "id": "p058.s05",
+     "source": "But, interesting as the songs and riddles are, the proverbs and stories are infinitely the more important portions of the native literature, for in them we get the native speaking to his fellow-native, not to the white man, about his beliefs."
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "The stories can be roughly divided into three classes (only roughly, because one story will sometimes have material in it belonging to two classes) — legal, historical, and play."
+    },
+    {
+     "id": "p059.s02",
+     "source": "You have in this small collection examples of all these."
+    },
+    {
+     "id": "p059.s03",
+     "source": "The Nzambi stories are historico-legal ; the \" Crocodile and the Hen\" is legal; \"the Wonderful Child \" is play-story, and so on."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "As a general rule, historical stories are rare among West African tribes; you find more of them among the Fjort than"
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "among the Ewe or Tshi * people even, and infinitely more than amongst true forest-belt tribes, like the Ajumba, Fan, and Shekiani."
+    },
+    {
+     "id": "p061.s02",
+     "source": "I have repeatedly questioned natives regarding their lack of interest in the past history of their tribes, and have always had the same sort of answer: u Why should we trouble ourselves about that?"
+    },
+    {
+     "id": "p061.s03",
+     "source": "They (the dead) lived as we live now."
+    },
+    {
+     "id": "p061.s04",
+     "source": "A chief long ago bought, and sold, and fought ; we now buy, and sell, and fight."
+    },
+    {
+     "id": "p061.s05",
+     "source": "We are here in this world ; he has gone away.\""
+    },
+    {
+     "id": "p061.s06",
+     "source": "This spirit obtains, of course, only regarding the human experiences of the men who have lived \"in the old time.\""
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "I well remember being struck with a phrase Dr. Nassau used: \" the future which is all around them.\""
+    },
+    {
+     "id": "p062.s02",
+     "source": "Once I asked him why he used it, and he only smiled that grave, half-pitying smile of his; but as my knowledge of the native grew by experience, I came to understand that phrase, and to put alongside it the phrase : \" the past which is all around them.\""
+    },
+    {
+     "id": "p062.s03",
+     "source": "I am afraid a vague make of mind like my own is necessary in order to grasp the African's position ; for every mortal printer who comes across my quotation of the Doctor's phrase puts a long note of interrogation, instantly, in the margin of the proof."
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "Legal stories, however, do not plunge us into such mental swamps when studying them ; and they are the stories which have the greatest practical value, for in them is contained evidence of the moral code of the African, and a close study of a large number of them gives you a clearer perception of the native ideal of right conduct than any other manifestation of his"
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "* This is the spelling of the word used by Ellis, but it is pronounced by the natives \" T'chewhe.\""
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "mind that I know of."
+    },
+    {
+     "id": "p065.s02",
+     "source": "You will find them all pointing out the same set of lessons : that it is the duty of a man to honour his elders ; to shield and sustain those dependent on him, either by force of hand or by craft; that violence, or oppression, or wrong done can be combated with similar weapons ; that nothing can free a man from those liabilities which are natural to him ; and, finally, that the ideal of law is justice — a cold, hard justice which does not understand the existence of mercy as a thing apart from justice."
+    },
+    {
+     "id": "p065.s03",
+     "source": "For example, a man, woman, or child, not knowing what it does, damages the property of another human being."
+    },
+    {
+     "id": "p065.s04",
+     "source": "Native justice requires, and contains in itself, that if it can be proved the act was committed in ignorance that was not a culpable ignorance, the doer cannot be punished according to the law."
+    },
+    {
+     "id": "p065.s05",
+     "source": "I by no means wish you to think that the administration of the law is perfect, but merely that the underlying principles of the law itself are fairly good."
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "The part these stories play in the administration of justice is remarkable."
+    },
+    {
+     "id": "p066.s02",
+     "source": "They clearly are the equivalents to leading cases with us, and just as the English would cite A v. B, so would the African cite some such story as \"The Crocodile and the Hen,\" or any other stories you find ending with \" and the people said it was right.\""
+    },
+    {
+     "id": "p066.s03",
+     "source": "Naturally, the art in pleading lies in citing the proper story for the case— one that either puts your client in the light of a misunderstood, suffering innocent, or your adversary in that of a masquerading villain."
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "It may at first strike the European as strange, when, listening to the trial of a person for some offence before either a set of elders, or a chief) he observes that the discussion of the affair soon leaves the details of the case itself, and busies itself with the consideration of the conduct of a hyaena and a bush-cat, or"
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "the reason why monkeys live in trees, or some such matter ; but if the European once gets used to the method, and does not merely request to be informed why he should be expected to play at ^Esop's Fables at his time of life, the fascination of the game will seize on him, and he will soon be able to play at ^Esop's Fables with the best, and to point out that the case, say, of the Crocodile and the Hen, does not exonerate some friend of a debtor of his from having committed iniquity in not having given up property, lodged with him by the debtor, to its rightful owner."
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "Kegarding the play-stories, it is not necessary for me to speak, they are merely interesting from the scraps of information you find embedded in them regarding native customs and the native way of looking on life."
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "The form of religion which Mr. Dennett calls Nkissism requires a great deal of attention and study, and seems to me exceedingly interesting, most particularly so in its form in KaCongo and Loango, where, in my opinion, it is an imported religion."
+    },
+    {
+     "id": "p070.s02",
+     "source": "I say my opinion, merely because I do not wish to involve Mr. Dennett in a statement of which he may disapprove ; but you will find Mr. Dennett referring to the manner in which Fumu Kongo, the King of Congo, sent his two sons to take possession of the provinces of KaCongo and Loango, which to this day bear their names, and that he sent with them wise men, learned in the cult of Nzambi, and that at each place whereat the princes stayed they left a Nkiss."
+    },
+    {
+     "id": "p070.s03",
+     "source": "I am driven to conjecture that in introducing these Nkissi and their attendant Ngangas, the two princes were introducing a foreign religion into KaCongo and Loango — the religion of their father, the King of Congo."
+    },
+    {
+     "id": "p070.s04",
+     "source": "During my own sojourns on the South- West- African Coast, I got to know"
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "whereabouts you may expect to meet with the Nkiss and its Nganga, when you are coming down the Coast from the north ; and I can only say that I have never been able myself to find, or to find among those people more conversant with the Coast than I am, any trace of the existence of Nkissism until you reach the confines of the kingdom of Loango."
+    },
+    {
+     "id": "p071.s02",
+     "source": "It is true, the essential forms of fetish-worship and ideas of Loango, KaCongo and Congo, are common to the districts north of them, namely, the Ogowe, the Cameroons, the Oil Rivers, and the Bight of Benin ; yet, if I may so call it, that particular school of fetish called Nkissism you do not meet with until you strike the northern limits of the old kingdom of Kongo."
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "Where exactly this school of fetish arose I am unable to say, but I think its home, from divers observations made by Sir H. H. Johnston, who has given much attention to the ethnology ot the Bantu, must have been the region to the south-east or eastsouth-east of the region where it was first discovered by Europeans, namely, in the kingdom of Congo."
+    },
+    {
+     "id": "p072.s02",
+     "source": "There are many points in it which sharply differentiate it from the form of fetish of the true Negro, and it seems to be the highest form that the fetish of the Bantu has attained to."
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "We have an enormous amount of information of an exceedingly interesting character left us by the early Portuguese navigators and by the Italian, Portuguese, and Flemish Roman Catholic missionaries who worked so devotedly for nearly 200 years from 1490 in the kingdom of Congo."
+    },
+    {
+     "id": "p073.s02",
+     "source": "Yet, so far as I have been able to discover, they give one little, if any, information regarding the traditional history of Congo prior to its discovery by the Portuguese."
+    },
+    {
+     "id": "p073.s03",
+     "source": "They found there what they regarded as a prosperous and wealthy state in a condition of considerable"
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "culture, an immense territory ruled over by vassal lords subject to one king, who was a temporal king, clearly distinct from the fetish king of the true Negroes."
+    },
+    {
+     "id": "p074.s02",
+     "source": "From the accounts they give of the native religion, which, unfortunately for the ethnologist, they scorned and detested too much to study in detail, there is little doubt that that form of religion was Nkissism and that \" the wizards,\" whom they term Gangas, the chasing whereof gave the worthy fathers such excellent sport, were no other than the Nganga Nkissi Mr. Dennett describes."
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "Regarding, however, the territorial relationship between Congo and KaCongo and Loango these early historians are yet more unsatisfactory."
+    },
+    {
+     "id": "p075.s02",
+     "source": "The missionaries, however, have occasion now and then to speak of the natives of the north banks of the Congo, because they were occasionally cast among them when, by a turn in the wheel of fortune, the wizards got the upper hand, or a subsidiary chief to the King of Congo rebelled ; and they always speak of these north-bank people as being fearsome and savage tribes, given to the eating of men and so on."
+    },
+    {
+     "id": "p075.s03",
+     "source": "And this bad opinion of them was evidently held by the Kongoes themselves ; for it was with direct intent to get two Capuchin Fathers killed, for example, that the Count of Sogno, during his rebellion about 1636, drove the Fathers out of his domains."
+    },
+    {
+     "id": "p075.s04",
+     "source": "\"After having been much misused and unprovided of all necessaries, they were left on the confines of the Count's dominions on a little uninhabited island of the Kiver Zaire.* Here they made a shift to support themselves two or three days, Father Thomas, who was the least hurt of the two, going out to hunt for their"
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "* Regarding the islanders of the Lower Congo in 1700, Barbot says : \"They are strong, well-set, live after a beastly manner, and converse with the Devil. \" A Description of the Coasts of North and South Guinea, by John Barbot, Agent-General of the Royal Company of Africa and the Islands of America, at Paris."
+    },
+    {
+     "id": "p076.s02",
+     "source": "1732."
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "subsistence."
+    },
+    {
+     "id": "p077.s02",
+     "source": "But at length they were unexpectedly delivered from thence by some pagan fishermen, who took them on board and carried them to a city of theirs called Bombangoij, in the kingdom of Angoy.* Here, arriving at night, they were very courteously entertained by an infidel of the place, who gave them supper and, moreover, assigned to them a house and three women to wait on them after the manner of the country."
+    },
+    {
+     "id": "p077.s03",
+     "source": "But our Fathers, not caring to trust themselves among these people, soon after they had supped, sending away their women, meditated an escape."
+    },
+    {
+     "id": "p077.s04",
+     "source": "For this purpose Father Thomas, who was the best able to walk, took his lame companion on his back and marched out of the house ; but before he had gone far, he was forced through weakness to set down his burden under a great shady tree, which, as soon as day appeared, for fear of discovery they got up into."
+    },
+    {
+     "id": "p077.s05",
+     "source": "Their patron, coming that morning to visit his guests and finding them gone, much wondered, and well knowing they could not go far by reason of the condition he left them in, immediately went about to search after them."
+    },
+    {
+     "id": "p077.s06",
+     "source": "Coming at last near the place where they were, and not having yet found them, a pagan thought came into his head that they might have been carried away by some spirit, which he expressed after this manner : ' If the devil has carried them away, I suppose he did it that they might make me no recompense for my kindness.'"
+    },
+    {
+     "id": "p077.s07",
+     "source": "Our Fathers, hearing this, could not forbear laughing, even amidst their miseries and misfortunes, and putting out their"
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "* Merolla says : \" Angoij is a kingdom rather in name than in dominion, having but a small territory."
+    },
+    {
+     "id": "p078.s02",
+     "source": "Here, formerly, a certain Hani, happening to marry a mulatto, daughter to a very rich Portuguese, his father-in law would needs make him King of Angoij, and for this purpose caused him to rebel against the King of Kacongo, his lawful lord.\""
+    },
+    {
+     "id": "p078.s03",
+     "source": "Angoij was a small territory on the seaward end of the north bank of the Congo."
+    }
+   ],
+   "id": "p078"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p079.s01",
+     "source": "heads from the tree, cried out: ' We are here, friend, never doubt our gratitude ; for we only went out of the house to refresh ourselves with the rays of the morning sun.'"
+    },
+    {
+     "id": "p079.s02",
+     "source": "Hereat the old man, being exceedingly rejoiced, immediately took them down, and putting them into two nets (hammocks) sent them away to Capinda (Kabinda), a port in the kingdom of Angoij, about two days from Bombangoij.\"'"
+    }
+   ],
+   "id": "p079"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p080.s01",
+     "source": "This account, I think, shows clearly that in 1636 Loango and KaCongo were not provinces of the king of Congo, for had they been so, the Capuchins would have had no dread of the inhabitants, but have known they were safe; for, although they were driven out of Sogno, this had been done entirely because they were Capuchins."
+    },
+    {
+     "id": "p080.s02",
+     "source": "The Count of Sogno immediately attempted to supply their place with Franciscans, his objection to Capuchins arising from his regarding them as allies of the Portuguese and King of Kongo, against whom he was at war; and, although it may be urged that the early missionaries to Congo were in the habit of going up trees, some of them, indeed cautiously bringing out with them from home rope-ladders for that purpose, yet this is the only instance, I think, of their climbing up them out of the way of natives."
+    },
+    {
+     "id": "p080.s03",
+     "source": "The usual cause was an \" exceeding plentie of lions and tygers and other monsters, for not half of which,\" they cheerily observed, \" would they have made a mouthful.\""
+    }
+   ],
+   "id": "p080"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p081.s01",
+     "source": "Proyart gives us a slightly more definite statement."
+    },
+    {
+     "id": "p081.s02",
+     "source": "He says : — u The King of Congo claims the Kingdom of KaCongo as a province of his States, and the King of KaCongo, doubtless"
+    }
+   ],
+   "id": "p081"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p082.s01",
+     "source": "* A Voyage to Congo, by Father Jerome Merolla da Sorrento, 1682."
+    },
+    {
+     "id": "p082.s02",
+     "source": "Churchill Collection, vol. i. p. 521."
+    }
+   ],
+   "id": "p082"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p083.s01",
+     "source": "by way of reprisals, never calls himself any other title but Ma Congo, King of Congo, instead of King of KaCongo, a title given him by foreigners, and one that suits him."
+    },
+    {
+     "id": "p083.s02",
+     "source": "These pretensions are not always unfounded ; many small kingdoms of savage states, which at the present day share Africa among them, were originally provinces dependent on other kingdoms, the particular governors of which usurped the sovereignty."
+    },
+    {
+     "id": "p083.s03",
+     "source": "It is not long since Sogno ceased to be a province of the kingdom of Congo.\"* Unfortunately there is no means of fixing any date to the severance of the two north-bank provinces from the main kingdom."
+    },
+    {
+     "id": "p083.s04",
+     "source": "Apparently they had asserted their independence long enough for the question not to have been a burning political one in Congo at the time of Diego Cao's discovery of the Congo in 1484."
+    },
+    {
+     "id": "p083.s05",
+     "source": "It is, however, idle to conjecture how long prior to that date KaCongo and Loango ceased to be fiefs of the King of Congo."
+    },
+    {
+     "id": "p083.s06",
+     "source": "It may have been centuries, or it may have been but a few decades ; for, for some time prior to Diego Cao's arrival, Congo itself had been so terribly worried by those interesting, but, as yet, undetermined people, the Gagas or Gindes (a fearful, warlike, cannibal tribe, who, according to Battel,f who was amongst them about 1595, came from Sierra Leone, harassed the inland borders of Congo and penetrated as far south as Dondo in Angola) that, at the time of the coming of Diego Cao, undoubtedly the public mind was entirely concentrated on these Gagas — a condition of affairs which enabled the Portuguese and their missionaries to obtain the ascendancy in"
+    }
+   ],
+   "id": "p083"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p084.s01",
+     "source": "* History of Loango and Kacongo, by the Abbd Proyart."
+    },
+    {
+     "id": "p084.s02",
+     "source": "Paris, 1776."
+    }
+   ],
+   "id": "p084"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p085.s01",
+     "source": "f The Strange Adventures of Andrew Battel of Leigh in Essex."
+    },
+    {
+     "id": "p085.s02",
+     "source": "(Purchas His Pilgrims.)"
+    },
+    {
+     "id": "p085.s03",
+     "source": "See also A Curious and Exact Account of a Voyage to Congo in the years 1666 and 1667, by Michael Aiigelo of Gattina and Denis de Carli of Piacenza."
+    },
+    {
+     "id": "p085.s04",
+     "source": "1723."
+    },
+    {
+     "id": "p085.s05",
+     "source": "Churchill Collection."
+    }
+   ],
+   "id": "p085"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p086.s01",
+     "source": "the kingdom, as they did, and which would, in all human probability but for their timely arrival, have wiped the kingdom of Congo out."
+    }
+   ],
+   "id": "p086"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p087.s01",
+     "source": "This distraction was sufficiently great to have caused a people so deficient in interest in historical matters to have almost forgotten the severance from the main kingdom (which was situated on the southern bank of the Great River) of two provinces on the northern bank, even had the severance been comparatively recent — provinces, moreover, that could never have been much in touch with the throne-town at San Salvador on account of their difficulty of access, the terrific current of the river making canoe-journeys across its stream alike difficult and dangerous."
+    }
+   ],
+   "id": "p087"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p088.s01",
+     "source": "But a far stronger proof than there is in the scattered observations relating to the affair in white literature, of the tradition of the two sons of Fumu Kongo, as given by Mr. Dennett, being a historical tradition, I think is found in the existence in KaCongo and Loango of this peculiar form of fetish, Nkissism."
+    },
+    {
+     "id": "p088.s02",
+     "source": "It is surrounded in these provinces on all sides, save the sea and the Congo, by a dissimilar form of fetish, which I believe to be the form of fetish Nkissism supplanted."
+    }
+   ],
+   "id": "p088"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p089.s01",
+     "source": "During my first visit to Africa I came in contact with the Fjort tribes and learnt much from Mr. Dennett personally regarding their beliefs and customs ; and all that I myself saw fully bore out the accuracy of his statements about them."
+    },
+    {
+     "id": "p089.s02",
+     "source": "During my second visit my time was mainly spent among tribes inhabiting country to the north and north-east of the Fjorts, and among those tribes I did not find the Nkiss and Nganga as aforesaid."
+    },
+    {
+     "id": "p089.s03",
+     "source": "Nevertheless, I found something extremely like some of the Nkiss of the Fjorts : deities which, as far as I can see"
+    }
+   ],
+   "id": "p089"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p090.s01",
+     "source": "from observations on their powers and spheres of influence, are simply indistinguishable from some of the Nkiss which Mr. Dennett describes as acknowledged among the Fjort, such ones as that of the Mountain Mungo."
+    },
+    {
+     "id": "p090.s02",
+     "source": "This sort of deity is called by the Mpongwe-speaking tribes Ombuiri."
+    },
+    {
+     "id": "p090.s03",
+     "source": "They have, however, no priesthood whatsoever attached to their service."
+    },
+    {
+     "id": "p090.s04",
+     "source": "Every human being who passes one of their places of habitation has to do obeisance to the Ombuiri who inhabits it, just to give some trifling object in homage as a token of respect."
+    },
+    {
+     "id": "p090.s05",
+     "source": "As a general rule the Imbuiri (pi.) are, as West African deities go, fairly inoffensive ; but now and then one will rise up and kill someone by throwing down a tree on a passer by its forest glade, or, by swelling up the river it resides in, will cause devastating inundation."
+    },
+    {
+     "id": "p090.s06",
+     "source": "But it is really quite a different species of deity from the regular Nkiss, such as was introduced by the emissaries of Fumu Kongo into the regions of KaCongo and Loango."
+    },
+    {
+     "id": "p090.s07",
+     "source": "You would never, for example, if you were a member of a Mpongwe stem tribe, think of calling in an Ombuiri to settle the question of who killed a man or who had stolen something."
+    },
+    {
+     "id": "p090.s08",
+     "source": "You would call in a totally different class of spirit ."
+    },
+    {
+     "id": "p090.s09",
+     "source": "Yet when you are in KaCongo or Loango, or among the Ivili tribe,* you will see these great, honourable, ancient Nature-spirits, these Imbuiri themselves, in charge of a mere human priest employed in the most trivial affairs concerning thefts of garden hoes or cookingpots and such like; and I am quite sure, if you have a Mpongwe soul in you, you will be deeply shocked at this degradation."
+    },
+    {
+     "id": "p090.s10",
+     "source": "If"
+    }
+   ],
+   "id": "p090"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p091.s01",
+     "source": "* A small and dying-out set of Fjorts, living in a few villages near the confluence of the Ogowe-Okanda and the Ngunie Rivers, having a tradition that they came from Loango and were driven by bad weather into the Ogowe and by bad men to their present situation."
+    }
+   ],
+   "id": "p091"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p092.s01",
+     "source": "you were only an ethnologist, ignorant of the little bit of history regarding the King of Congo and the Nganga he sent with his Nkissi from his throne-town of San Salvador into the conquered provinces of KaCongo, Loango and Ngoio, you might be tempted to regard an Ombuiri having a priest and a ritual of a definite kind attached to it, as an instance of a development in religious thought and a demonstration of how gods at large are made."
+    },
+    {
+     "id": "p092.s02",
+     "source": "But with a knowledge of the history of the affair, dateless as that history is, I think you will be induced to believe that the Imbuiri have merely suffered that change which nature-spirits have suffered in other lands taken possession of by a conqueror with a religion of his own : namely, that some of the spirits worshipped by the conquered people were held in such respect that the conquerors held it more politic to adopt them into their own religion, after making suitable alterations in their characters, than to attempt to destroy them ; and so it is that to-day you will find Imbuiri made into Nkissi and existing in esteem and worship side by side with a very different kind of deity, the true Nkissi of Fumu Kongo."
+    }
+   ],
+   "id": "p092"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p093.s01",
+     "source": "The best authority for the present condition of the Fjort religion is Monteiro, who says : \"In times past the King of Congo was very powerful."
+    },
+    {
+     "id": "p093.s02",
+     "source": "All the country, as far as and including Loanda, the River Congo and Cabinda, was subject to him and paid him tribute."
+    },
+    {
+     "id": "p093.s03",
+     "source": "The missionaries under his protection worked far and wide, attained great riches, and were of immense benefit to the country, where they and the Portuguese established and fostered sugar-cane plantations, indigo manufactories, iron-smelting and other kindred trades."
+    },
+    {
+     "id": "p093.s04",
+     "source": "With the discovery and colonisation of the Brazils, however, and the expulsion of the Jesuits from Angola, the power of the Portuguese"
+    }
+   ],
+   "id": "p093"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p094.s01",
+     "source": "and of the King of Congo has dwindled away to its present miserable condition."
+    },
+    {
+     "id": "p094.s02",
+     "source": "The King of Congo is now only Chief of San Salvador and a few other small towns, and does not receive the least tribute from any other, nor does he possess any power in the land."
+    },
+    {
+     "id": "p094.s03",
+     "source": "Among the natives of Angola, however, he still retains a certain amount of prestige as King of Congo, and all would do homage to him in his presence, as he is considered to possess the greatest fetish of all the kings and tribes, though powerless to exact tribute from them.\" *"
+    }
+   ],
+   "id": "p094"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p095.s01",
+     "source": "Things are to-day exactly as Monteiro describes them regarding the natives."
+    },
+    {
+     "id": "p095.s02",
+     "source": "KaCongo is under Portuguese rule, Loango under French ; the regions that were part of the old main kingdom are divided between Portugal and Congo Beige."
+    },
+    {
+     "id": "p095.s03",
+     "source": "But the natives of these countries alike acknowledge the importance of the King of Congo's fetish, while just north of Loango you meet with the regions of the tribes that regard him not ; they may have heard of him, but his fetish is not their fetish, for they never fell under the rule of Nkissi."
+    }
+   ],
+   "id": "p095"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p096.s01",
+     "source": "I need now only detain you with a few remarks about the infusion of Christian doctrine into the original Fjort fetish."
+    },
+    {
+     "id": "p096.s02",
+     "source": "The admixture of doctrines both from Christian missionary teaching, and from Mohammedan, makes the study of the real form of the native's own religion difficult in several West African districts, notably so at Sierra Leone, the Gold, Slave, and Ivory coasts, and among the Fjort of the Congo and Angola."
+    },
+    {
+     "id": "p096.s03",
+     "source": "But, provided you are acquainted with the forms of fetish in districts which have not been under white influence, such as those of the great forest-belt from the Niger to the"
+    }
+   ],
+   "id": "p096"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p097.s01",
+     "source": "* Angola and the River Congo, by J. J. Monteiro."
+    },
+    {
+     "id": "p097.s02",
+     "source": "Macmillan, 1875."
+    }
+   ],
+   "id": "p097"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p098.s01",
+     "source": "Niari, a little care will enable you to detect what is, and what is not, purely native."
+    }
+   ],
+   "id": "p098"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p099.s01",
+     "source": "It is true that the whole of the Fjorts were under the sway of Roman Catholicism more thoroughly and for a greater duration of time than any other West African people have been under any European influence."
+    },
+    {
+     "id": "p099.s02",
+     "source": "The energy with which the kings of Congo took it up from the first was remarkable, but it is open to doubt whether those dusky monarchs were not in so doing as much actuated by temporal considerations as spiritual."
+    },
+    {
+     "id": "p099.s03",
+     "source": "As I have mentioned before, when the Portuguese first came into the country, the country was in imminent peril from the Gagas, a peril from which the Portugese rescued it."
+    },
+    {
+     "id": "p099.s04",
+     "source": "The whole aim of the Congoese thereupon became to be as much like the Portuguese as possible."
+    },
+    {
+     "id": "p099.s05",
+     "source": "Many natives went up to Lisbon and were received with great courtesy by the king, Joao II.; and while there they saw, in the keen but empirical African native way, how great a veneration the Portuguese held their priests in, how the very king himself did them homage, and how even ships durst hardly leave haven on a voyage without a chaplain on board."
+    },
+    {
+     "id": "p099.s06",
+     "source": "And there is little doubt that from these observations the Congoese regarded the Roman Catholic priests with great veneration, and thought that in them and their teaching lay the secret of earthly power, at any rate ; and the king of Congo and his subsidiary princes did their utmost to get as many of these priests to come and live among them and instruct them as possible, and when there the priests themselves, by their own nobility, devotion, and courage, confirmed the Congoese in their opinion of their, to them, superhuman powers."
+    },
+    {
+     "id": "p099.s07",
+     "source": "Ceaselessly active, regardless of danger, they led armies into battle, and notably into that great battle in which Alfonso L of Congo, the"
+    }
+   ],
+   "id": "p099"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p100.s01",
+     "source": "Christianised king, fought with his brother, Pasanquitama, for the crown, and had his army saved from immolation and given victory by the appearance of St. James and an angelic host fighting on his side in the crisis of the battle."
+    }
+   ],
+   "id": "p100"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p101.s01",
+     "source": "It is impossible in the space at my command to enter into the history of the Roman Catholic mission to Congo, owing to its great complexity of detail."
+    },
+    {
+     "id": "p101.s02",
+     "source": "Capuchins, Jesuits, Franciscans alike laboured there ; but the doctrine they taught being uniformly that of Rome, it affords no such difficulty in recognition among the native traditions as do the results of the other forms of Christian mission."
+    },
+    {
+     "id": "p101.s03",
+     "source": "Moreover, the hold of the missionaries was not by any means so great in KaCongo and Loango as it was in the kingdom of Congo itself."
+    },
+    {
+     "id": "p101.s04",
+     "source": "Merolla says : \" The kingdom of Loango lies in 5° and a half, south latitude."
+    },
+    {
+     "id": "p101.s05",
+     "source": "The Christian religion was first planted there in the year 1663,* by the labour and diligence of one Father Ungaro, a friar of our Order."
+    },
+    {
+     "id": "p101.s06",
+     "source": "Father Bernardino Ungaro, on entering into his work of evangelising Loango, commenced by baptising the king and queen, after having instructed them for some days, and then marrying them according to the manner of our church."
+    },
+    {
+     "id": "p101.s07",
+     "source": "Kis next business was to baptise the king's eldest son, and after him, successively, the whole court, which consisted of about 300 persons."
+    },
+    {
+     "id": "p101.s08",
+     "source": "In a word, within the space of a year that he lived there he had baptised upwards of 12, people."
+    },
+    {
+     "id": "p101.s09",
+     "source": "At last this zealous missioner, finding himself oppressed by a grievous indisposition and believing that he should not live long, sent for our lay Brother Leonard, who coming not long after to him, the pious"
+    }
+   ],
+   "id": "p101"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p102.s01",
+     "source": "* One hundred and sixty-seven years later than in Congo, and therefore at the time of the breaking up of the Portuguese power by the Dutch, who are referred to by the missionaries as \"the Heretics.\""
+    }
+   ],
+   "id": "p102"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p103.s01",
+     "source": "father died the same morning that he arrived, well provided, as we may imagine, of merits for another world."
+    }
+   ],
+   "id": "p103"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p104.s01",
+     "source": "\" The good king hearing this, and being desirous to keep up what he had so happily begun, sent Brother Leonard to the aforesaid Superior (Father Joao Maria de Pavia in Angola) to acquaint him with Ungaro's death and to desire him to speedily send another missioner ; but, however, these his good intentions were afterwards disappointed by a rebellion raised against him by a kinsman, who, being ambitious of his crown, and having been assisted by some apostate Catholics, deprived the good king of his life."
+    },
+    {
+     "id": "p104.s02",
+     "source": "The tyrant and usurper that dispossessed him lived not long after to enjoy his ill-gotten throne, but was snatched away from it by a sudden death."
+    },
+    {
+     "id": "p104.s03",
+     "source": "This wicked person being dead, another king arose, who, though he did all he could by the help of one Capuchin, to promote what had been begun by Father Ungaro, yet was not able to bring his intentions about, and that for want of more missioners, wherefore the kingdom remains at present, as formerly, buried in idolatry."
+    },
+    {
+     "id": "p104.s04",
+     "source": "In my time were several attempts made to recover our interest there, though to no purpose. ...."
+    },
+    {
+     "id": "p104.s05",
+     "source": "I never heard there was any Christian prince in the kingdom of Angoij (Cabinda) , that country having been always inhabited by a sort of people extremely given to sorcery and magic.\" *"
+    }
+   ],
+   "id": "p104"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p105.s01",
+     "source": "There is yet another passage in Merolla's very wise and very charming work that has an especial bearing on the subjects treated of in this book of Mr. Dennett's. The holy Father gives a long list of \" the abuses \" existing in his time among the"
+    }
+   ],
+   "id": "p105"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p106.s01",
+     "source": "* A Voyage to Co?igro, by Father Jerome Merolla da Sorrento, 1682."
+    },
+    {
+     "id": "p106.s02",
+     "source": "Churchill Collection, vol. i."
+    }
+   ],
+   "id": "p106"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p107.s01",
+     "source": "natives of Kongo."
+    },
+    {
+     "id": "p107.s02",
+     "source": "This list has a double interest."
+    },
+    {
+     "id": "p107.s03",
+     "source": "It shows us how acute a mind he had, how clearly he saw the things that were fundamental to the form of religion he battled against ; but it has a great interest to an ethnologist apart from this, as it gives us a clearer insight into native custom than has been given us by any subsequent traveller in that region, and moreover because there is not one custom that the holy Father classes as \"an abuse \" that does not exist to-day with the same force as in the seventeenth century."
+    },
+    {
+     "id": "p107.s04",
+     "source": "I will only detain you now with Merolla's description of \" The seventh abuse,\" that of prohibited foods, for you will often in this book come across references by Mr. Dennett to the Kazila."
+    }
+   ],
+   "id": "p107"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p108.s01",
+     "source": "\" Seventhly, it is the custom that either the parents or the wizards give certain rules to be inviolably observed by the young people, and which they call Chegilla."
+    },
+    {
+     "id": "p108.s02",
+     "source": "These were to abstain from eating either some sorts of poultry, the flesh of some kinds of wild beasts, such and such fruits ; roots either raw or boiled after this or another manner, with several other ridiculous injunctions of the like nature, too many to be enumerated here."
+    },
+    {
+     "id": "p108.s03",
+     "source": "You would wonder with what religious observance these injunctions were obeyed."
+    },
+    {
+     "id": "p108.s04",
+     "source": "These young people would sooner chuse to fast several days together than to taste the least bit of what has been forbidden them ; and if it sometime happen that the Chegilla has been neglected to have been given them by their parents, they think they shall presently die unless they go to receive it from the wizards."
+    },
+    {
+     "id": "p108.s05",
+     "source": "A certain young Negro being upon a journey lodged in a friend's house by the way; his friend, before he went out the next morning, had got a wild hen ready for his breakfast, they being much better than tame"
+    }
+   ],
+   "id": "p108"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p109.s01",
+     "source": "ones."
+    },
+    {
+     "id": "p109.s02",
+     "source": "The Negro hereupon demanded, ' If it were a wild hen ? ' His host answered, * No.'"
+    },
+    {
+     "id": "p109.s03",
+     "source": "Then he fell on heartily and afterwards proceeded on his journey."
+    },
+    {
+     "id": "p109.s04",
+     "source": "After four years these two met together again, and the aforesaid Negro being not yet married, his old friend asked him, ' If he would eat a wild hen,' to which he answered, * That he had received his Chegilla and could not.'"
+    },
+    {
+     "id": "p109.s05",
+     "source": "Hereat the host began immediately to laugh, inquiring of him, * What made him refuse it now, when he had eaten one at his table about four years ago ? ' At the hearing of this the Negro immediately fell a trembling, and suffered himself to be so far possessed with the effects of imagination, that he died in less than twenty-four hours after.\" *"
+    }
+   ],
+   "id": "p109"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p110.s01",
+     "source": "The subject of these prohibitions regarding either some particular form of food, or some particular manner of eating any form of food, is a very interesting one."
+    }
+   ],
+   "id": "p110"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p111.s01",
+     "source": "You will find in West Africa, under all the various schools of fetish thought, among both Negro and Bantu, that every individual, slave or free, so long as he is not under either European or Mahommedan influence, has a law that there is some one thing that he individually may not do."
+    },
+    {
+     "id": "p111.s02",
+     "source": "Among the Calabar people it is called Ibet, which signifies a command, a law, an abstinence."
+    },
+    {
+     "id": "p111.s03",
+     "source": "Among the Gaboon people it is called Orunda, which Dr. Nassau informs me signifies a prohibition."
+    },
+    {
+     "id": "p111.s04",
+     "source": "Among the Fjorts it is called Kecheela or Chegilla."
+    },
+    {
+     "id": "p111.s05",
+     "source": "But under whatever name you meet it, it is in itself always the same in its essential character, for it is always a prohibition regarding food."
+    }
+   ],
+   "id": "p111"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p112.s01",
+     "source": "* A Voyage to Congo, by Father Jerome Merolla da Sorrento, 1682."
+    },
+    {
+     "id": "p112.s02",
+     "source": "Churchill Collection, vol. i. p. 237."
+    }
+   ],
+   "id": "p112"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p113.s01",
+     "source": "When I was in West Africa in daily contact with this custom and the inconveniences it presents, like any prohibition custom, to every-day affairs, I endeavoured to collect information regarding it."
+    },
+    {
+     "id": "p113.s02",
+     "source": "At first I thought it might be connected with the totemism I had read of; but I abandoned this view, finding no evidence to support it, and much that went against it."
+    }
+   ],
+   "id": "p113"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p114.s01",
+     "source": "Sometimes I found that one prohibition would be common to a whole family regarding some particular form of food ; but the individual members of that family had each an individual prohibition apart from the family one."
+    },
+    {
+     "id": "p114.s02",
+     "source": "Moreover, there was always a story to account for the whole family abstaining from eating some particular animal."
+    },
+    {
+     "id": "p114.s03",
+     "source": "That animal had always afforded signal help to the family, or its representative, at some crisis in life."
+    },
+    {
+     "id": "p114.s04",
+     "source": "I never came across, as 1 expected to, a story of the family having descended from the animal in question, nor for the matter of that any animal whatsoever ; and these stories regarding the help received from animals which caused the family in gratitude to avoid killing them were always told voluntarily and openly."
+    },
+    {
+     "id": "p114.s05",
+     "source": "There was not the touch of secrecy and mystery that lurks round the reason of the Ibet or Orunda."
+    },
+    {
+     "id": "p114.s06",
+     "source": "Therefore I rather doubt whether these prohibitions common to an entire family are identical with the true Orunda, Ibet, or Kecheela."
+    }
+   ],
+   "id": "p114"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p115.s01",
+     "source": "Mr. Dennett in his chapter on The Folklore of the Fjort, evidently referring to this eating of his Kecheela, says that \" so long as he knows nothing about it, the Fjort may eat out of unclean pots, but if he knows that anything unclean has been cooked in the pot in which his food has been prepared, and he eats thereof, he will be punished by some great sickness coming over him, or by death,“"
+    }
+   ],
+   "id": "p115"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p116.s01",
+     "source": "I am unable, from my own experience, to agree with this statement that ignorance would save the man who had eaten his prohibited food."
+    },
+    {
+     "id": "p116.s02",
+     "source": "From what I know, Merolla's story as cited above is the correct thing : the man, though he eat in ignorance, dies or suffers severely."
+    }
+   ],
+   "id": "p116"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p117.s01",
+     "source": "It is true that one of the doctrines of African human law is that the person who offends in ignorance, that is not a culpable ignorance, cannot be punished ; but this merciful dictum I have never found in spirit-law."
+    },
+    {
+     "id": "p117.s02",
+     "source": "Therein if you offend, you suffer ; unless you can appease the enraged spirit, neither ignorance nor intoxication is a feasible plea in extenuation."
+    },
+    {
+     "id": "p117.s03",
+     "source": "Therefore I think that Mr. Dennett's informant in this case must have been a man of lax religious principles ; and in Merolla's story I feel nearly certain that the man who gives his friend his Chegilla to eat must have been one of the holy Father's converts, engaged in trying to break down the superstition of his fellow-countryman."
+    },
+    {
+     "id": "p117.s04",
+     "source": "Had he been a believer in Chegilla himself, he would have known that the outraged spirit of the Chegilla would have visited its wrath on him, as well as on his friend, with a fine impartiality and horrible consequences."
+    }
+   ],
+   "id": "p117"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p118.s01",
+     "source": "The inevitableness of spirit-vengeance, unless suitable sacrifices are made, seems to me also demonstrated in another way."
+    },
+    {
+     "id": "p118.s02",
+     "source": "Poisoning is a thing much dreaded in West Africa ; practically it is a dread that overshadows every man's life there."
+    },
+    {
+     "id": "p118.s03",
+     "source": "I personally doubt whether white people are poisoned so frequently as is currently supposed in West Africa."
+    },
+    {
+     "id": "p118.s04",
+     "source": "But undoubtedly it is practised among the natives ; and the thing that holds it in reasonable check is the virulence of the attack made on the poisoner, or, as the poisoner is currently called, the witch."
+    },
+    {
+     "id": "p118.s05",
+     "source": "Briefly, poisoning is the most common form of witchcraft in West Africa."
+    },
+    {
+     "id": "p118.s06",
+     "source": "The"
+    }
+   ],
+   "id": "p118"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p119.s01",
+     "source": "witch has other methods of destroying the victims — catching their souls, witching young crocodiles, &c., into them — but poisoning is the sheet-anchor, and is regarded on the same lines as soultheft, &c. Now there is one form of poisoning which is regarded among all the various tribes I know as a particularly vile one ; and that is giving a person a prohibited food."
+    },
+    {
+     "id": "p119.s02",
+     "source": "For example, to give a man, whose Orunda is boiled chicken, a mess containing boiled chicken, or to boil a chicken and take it from the pot and then cook his meal in the pot, is equivalent to giving him so much prussic acid or strychnine."
+    },
+    {
+     "id": "p119.s03",
+     "source": "But in spite of its efficacy in destroying an enemy, this giving of the prohibited food is regarded as a very rare form of the crime of poisoning, because of the great danger to himself the giver would incur from the wrath of the spirit to whom the prohibited food belonged."
+    },
+    {
+     "id": "p119.s04",
+     "source": "The great iniquity of this form of the crime of poisoning, I believe, lies in its injuring, in some way, the soul of the victim after death."
+    }
+   ],
+   "id": "p119"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p120.s01",
+     "source": "Mr. Dennett, moreover, in the passage I have quoted uses the word \" unclean.\""
+    },
+    {
+     "id": "p120.s02",
+     "source": "He does this from his habit of using scriptural phraseology ; but I entirely disapprove of the use of the word \" unclean \" in connection with these Ibet."
+    },
+    {
+     "id": "p120.s03",
+     "source": "Orunda or Kecheela matters should suggest the word consecrated, or sacrificed, to be substituted."
+    },
+    {
+     "id": "p120.s04",
+     "source": "The West African has a whole series of things he abstains from doing, or from touching, because he believes them truly to be unclean."
+    },
+    {
+     "id": "p120.s05",
+     "source": "For example, he regards the drinking of milk from animals as a filthy practice, and also the eating of eggs ; and he will ask why you use these forms of animal excreta and avoid the others."
+    },
+    {
+     "id": "p120.s06",
+     "source": "And there are several other things besides that he regards as loathsome in themselves."
+    },
+    {
+     "id": "p120.s07",
+     "source": "But there is nothing loathsome or unclean in things connected with this prohibited"
+    }
+   ],
+   "id": "p120"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p121.s01",
+     "source": "food."
+    },
+    {
+     "id": "p121.s02",
+     "source": "There are, I believe, and I think I may say Dr. Nassau would support me in this view, things that a man dedicates for the whole of his natural life to the use of his individual attendant guardian spirit."
+    }
+   ],
+   "id": "p121"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p122.s01",
+     "source": "This Roman Catholic influence over the Fjort may, I think, be taken as having been an evanescent one."
+    },
+    {
+     "id": "p122.s02",
+     "source": "I do not say, as the Rev. J. Leighton Wilson does, that this is so, because Roman Catholicism is an unfit means of converting Africans ; but it suffered the common fate that has so far overtaken all kinds of attempts to Europeanise the African."
+    },
+    {
+     "id": "p122.s03",
+     "source": "It is like cutting a path in one of their native forests."
+    },
+    {
+     "id": "p122.s04",
+     "source": "You may make it a very nice path — a clean, tidy, and good one — but if you leave it, it grows over again, and in a few seasons is almost indistinguishable from the surrounding bush."
+    },
+    {
+     "id": "p122.s05",
+     "source": "The path the Roman Catholics made was one intended to lead the African to Heaven."
+    },
+    {
+     "id": "p122.s06",
+     "source": "At first, the African thought it was to lead him to earthly power and glory and riches."
+    },
+    {
+     "id": "p122.s07",
+     "source": "During the ascendancy of the Portuguese in the region it did this ; but when their power was crippled, it did not."
+    },
+    {
+     "id": "p122.s08",
+     "source": "Therefore the African \" let it go for bush\" ; and it is his blame, not the missionary's, that the Fjort to-day is found by Europeans in a state of culture lower than many African tribes, and with a religion as dependent \" on conversing with the Devil \" as ever — in short, a very interesting person to the folklorist."
+    }
+   ],
+   "id": "p122"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p123.s01",
+     "source": "The mind of the African has a wonderful power of assimilating other forms of belief apart from fetish ; and when he has had a foreign idea put into his mind it remains there, gradually taking on to itself a fetish form ; for the fetish idea overmasters it, so long as the foreign idea is left without reinforcements, and it becomes a sort of fossil."
+    },
+    {
+     "id": "p123.s02",
+     "source": "The teachings of the Roman Catholic missionaries are now in this fossil state in the mind of"
+    }
+   ],
+   "id": "p123"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p124.s01",
+     "source": "the Fjort."
+    },
+    {
+     "id": "p124.s02",
+     "source": "Ardent ethnologists may wish that they had never been introduced ; but it is well to remember that their religion was not the only thing introduced into the region by them, for the Fjort of to-day owes almost all his food supply to them : the maize, the mango, the banana, and most likely the manioc."
+    },
+    {
+     "id": "p124.s03",
+     "source": "Nevertheless the high intelligence of the Fjort, as evidenced by their having, before coming into contact with Europeans, an organised state of society, a definitely thought-out religion > and an art superior to that of all other Bantu West Coast tribes, makes them a tribe that the student of the African cannot afford to ignore, because the study of them entails a little trouble and a knowledge of the doctrine taught by the Roman Catholic Church."
+    }
+   ],
+   "id": "p124"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p125.s01",
+     "source": "Mr. Dennett on reading the proofs of the foregoing introduction, and in response to an invitation from me for any suggestions, sent a number of notes."
+    },
+    {
+     "id": "p125.s02",
+     "source": "I select from these for insertion here such as relate to historical and ethnological questions ; the rest will be more appropriately placed in Appendix I."
+    }
+   ],
+   "id": "p125"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p126.s01",
+     "source": "p. xix. \" Miss Kingsley mentions a lost part of the Loango race (Bavili) in the Ogowe, and calls them Ivili (singular)."
+    },
+    {
+     "id": "p126.s02",
+     "source": "Vila is to lose, in Fjort."
+    },
+    {
+     "id": "p126.s03",
+     "source": "Thus, the Bavili were the lost men, lost in their journey northward.\""
+    }
+   ],
+   "id": "p126"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p127.s01",
+     "source": "p. xx. \" The only Fumu was Kongo, king of the united provinces."
+    },
+    {
+     "id": "p127.s02",
+     "source": "He sent his sons under the title of Mafumu to rule these provinces."
+    },
+    {
+     "id": "p127.s03",
+     "source": "They in their turn divided their lands among their children under the title of Tekklifumu."
+    },
+    {
+     "id": "p127.s04",
+     "source": "To-day, Fumu has come to mean chief, head of a family ; it really means Judge."
+    }
+   ],
+   "id": "p127"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p128.s01",
+     "source": "The son in Manifumu, the grandson, Tekklifumu."
+    },
+    {
+     "id": "p128.s02",
+     "source": "Ma is short for Mani (son of) ; so that MaKongo simply meant son of Kongo ; and it is a proof that MaKongo always recognised his secondary position, just as MaLoango does today."
+    },
+    {
+     "id": "p128.s03",
+     "source": "KaCongo should probably be written Kaci Kongo, which would give the sense of Middle Kongo."
+    }
+   ],
+   "id": "p128"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p129.s01",
+     "source": "\" Ngoio was the name of the great Kain-doctor sent with Ma- Kongo and MaLoango, by Fumu Kongo ; and he gave his name to the province he took possession of, like MaKongo and Ma- Loango did ; and not only to the province, but to the chieftainship of it."
+    },
+    {
+     "id": "p129.s02",
+     "source": "Strange to say, to this day Ncanlam, the chief of the Musurongo, has the right to take the cap (succeed to the chieftainship of the province Ngoio) ; but as Ngoio (the chief of this province) is always killed the day after he takes the cap, the throne remains vacant \" — i.e. no one likes to lose his life for a few hours' glory on the Ngoio throne."
+    }
+   ],
+   "id": "p129"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p130.s01",
+     "source": "NOTES ON THE FOLKLOKE OF THE FJOKT."
+    }
+   ],
+   "id": "p130"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p131.s01",
+     "source": "BY the Fjort I mean the tribes that once formed the great kingdom of Congo."
+    },
+    {
+     "id": "p131.s02",
+     "source": "From the Quillo river, north of Loango, to the River Loge, south of Kinsembo, on the south-west coast of Africa, and as far almost as Stanley Pool in the interior, this kingdom is said to have extended."
+    },
+    {
+     "id": "p131.s03",
+     "source": "My remarks refer chiefly to the KaCongo and Loango provinces: that is to say, to the two coast provinces north of the great river Congo or Zaire."
+    }
+   ],
+   "id": "p131"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p132.s01",
+     "source": "The religion or superstition of the Fjort, as well as their laws, can easily be traced to their source, namely, to San Salvador, the headquarters or capital of the great Fumu Kongo."
+    },
+    {
+     "id": "p132.s02",
+     "source": "Their legends describe how Fumu Kongo sent his sons Ka- Congo and Loango to govern these provinces ; and their route can be traced by their having left what you call fetishes at each place where they slept.* These fetishes are called Nkissi nsi, the spirit or mystery of the earth, just as the ruler or nFumu"
+    }
+   ],
+   "id": "p132"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p133.s01",
+     "source": "* See my Seven Years among the Fjort."
+    },
+    {
+     "id": "p133.s02",
+     "source": "London, 1887, p. 50, sqq."
+    }
+   ],
+   "id": "p133"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p134.s01",
+     "source": "is called Fumu nsi, the prince of the land or earth."
+    },
+    {
+     "id": "p134.s02",
+     "source": "Together with these two sons of Kongo (called Muene nFumu, or, as we should write it, Manifumu), the king sent a priest or raindoctor, called Ngoio."
+    },
+    {
+     "id": "p134.s03",
+     "source": "Even to this day, when the rains do not come in their proper season, the princes of KaCongo and Loango send ambassadors to Cabinda or Ngoio with presents to the rain-doctor, or, as they call him, Nganga."
+    }
+   ],
+   "id": "p134"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p135.s01",
+     "source": "Loango, KaCongo, and Ngoio are now all spoken of as nFumu nsi ; and their existence is admitted, although, as a matter of fact, their thrones are vacant, and each petty prince, or head of a family, governs his own little town or towns."
+    },
+    {
+     "id": "p135.s02",
+     "source": "Each little town or collection of towns, or better perhaps each family, has now its patch of ground sacred to the spirit of the earth (Nkissi nsi),* its Nganga nsi, the head of the family, and its Nganga Nkissi (charm or fetish doctor) , and its Nganga bilongo (medicine-doctor or surgeon)."
+    },
+    {
+     "id": "p135.s03",
+     "source": "Nzambi-Mpungu is what we should call the Creator."
+    },
+    {
+     "id": "p135.s04",
+     "source": "Nzambi (wrongly called God) is Mother Earth, literally Terrible Earth."
+    },
+    {
+     "id": "p135.s05",
+     "source": "In all the Fjort legends that treat of Nzambi she is spoken of as the \" mother,\" generally of a beautiful daughter, or as a great princess calling all the animals about her to some great meeting, or palaver ; or as a poor woman carrying a thirsty or hungry infant on her back, begging for food, who then reveals herself and punishes those"
+    }
+   ],
+   "id": "p135"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p136.s01",
+     "source": "* Thus the voyage of Kongo's sons KaCongo and Loango from San Salvador to Loango is marked for us ; for where they rested the ground became blessed (Nkissiansi, land sacred to the spiritual law family Fetish)."
+    },
+    {
+     "id": "p136.s02",
+     "source": "There are no altars made with hands, no images among the Nkissiansi."
+    },
+    {
+     "id": "p136.s03",
+     "source": "Sometimes one meets with a stone, a mound of earth, a tree, a mound of shells, on this holy ground, and I have met with huts containing the family fetishes"
+    }
+   ],
+   "id": "p136"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p137.s01",
+     "source": "who refused her drink or food by drowning them,* or by rewarding with great and rich presents those who have given her child drink."
+    },
+    {
+     "id": "p137.s02",
+     "source": "Animals and people refer their palavers to her as judge."
+    },
+    {
+     "id": "p137.s03",
+     "source": "Her name also is used as an ejaculation."
+    }
+   ],
+   "id": "p137"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p138.s01",
+     "source": "Nkissi nsi is the mysterious spirit that dwells in the earth."
+    },
+    {
+     "id": "p138.s02",
+     "source": "Nkissi is the mysterious power in herbs, medicines, fetishes."
+    }
+   ],
+   "id": "p138"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p139.s01",
+     "source": "The missionary is called a Nganga Nzambi."
+    },
+    {
+     "id": "p139.s02",
+     "source": "This alone proves, I think, that the natives consider Nzambi, the earth, as their deity; and when once the missionaries are convinced of this fact it should be their duty to protest against the use of the word Nzambi as the equivalent to the white man's God."
+    },
+    {
+     "id": "p139.s03",
+     "source": "The word they must use is Nzambi Mpungu, or perhaps they had better make a new word."
+    },
+    {
+     "id": "p139.s04",
+     "source": "Mpungu, or mpoungou, is the word used by the Fjort to mean gorilla."
+    },
+    {
+     "id": "p139.s05",
+     "source": "This should delight the heart of the evolutionist."
+    },
+    {
+     "id": "p139.s06",
+     "source": "But mpounga has the signification of something that covers."
+    },
+    {
+     "id": "p139.s07",
+     "source": "There are, however, no gorillas south of the Congo, and in the Ntandu dialect mpoungou has the signification of creator or father."
+    },
+    {
+     "id": "p139.s08",
+     "source": "And we must remember that this religion came from the south of the Congo."
+    }
+   ],
+   "id": "p139"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p140.s01",
+     "source": "Upon the sacred earth in each village or family a small hut or shimbec is usually built, where the family fetish is kept."
+    },
+    {
+     "id": "p140.s02",
+     "source": "A tree is also usually planted there, and holes are made in it, where medicines are placed."
+    },
+    {
+     "id": "p140.s03",
+     "source": "Each hole is then covered by a piece of looking glass, which is kept in its place by a rim of clay, which again is spluttered over with white and red earth or chalk, moistened in the mouth of the prince."
+    },
+    {
+     "id": "p140.s04",
+     "source": "Here the prince summons his family to what they call a \" washing-up.\""
+    },
+    {
+     "id": "p140.s05",
+     "source": "That is, after having made their offerings (generally of white fowls)"
+    }
+   ],
+   "id": "p140"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p141.s01",
+     "source": "the people cut the grass and clean up the sacred ground and dance and sing."
+    },
+    {
+     "id": "p141.s02",
+     "source": "The prince also on certain occasions admits the young men who have been circumcised to the rights of manhood, and teaches them the secret words which act as passwords throughout the tribe."
+    },
+    {
+     "id": "p141.s03",
+     "source": "The prince is crowned here ; and it is this fetish that he consults whenever he is in trouble."
+    }
+   ],
+   "id": "p141"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p142.s01",
+     "source": "The Nganga Nkissi has his hut apart from his holy ground ; and there he keeps his image, into which nails, spear-points, knives, etc., are driven by the suppliant who seeks the help of the mysterious spirit to kill his enemies or to protect him against any evil."
+    },
+    {
+     "id": "p142.s02",
+     "source": "The Nganga Nkissi also sells charms, such as little wooden images charged with medicines, bracelets, armlets, head-bands, waistbands, little bits of tiger's skin to keep the small-pox away, the little horns of kids, and other pendants for the necklace."
+    }
+   ],
+   "id": "p142"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p143.s01",
+     "source": "The Nganga bilongo is the doctor and surgeon."
+    },
+    {
+     "id": "p143.s02",
+     "source": "Each surgeon or doctor keeps the secret of his cure in the family, so that the sick have sometimes to travel great distances to be cured of certain diseases."
+    },
+    {
+     "id": "p143.s03",
+     "source": "After most sicknesses or misfortunes the native undergoes a kind of thanksgiving and purification according to the rites of Bingo, who has a Nganga in almost every family."
+    },
+    {
+     "id": "p143.s04",
+     "source": "This is not the same as the form of going through the u paint-house.\""
+    }
+   ],
+   "id": "p143"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p144.s01",
+     "source": "The Nkissi, the spirit, as it were, of mother earth, is met with in mountains and rocks."
+    },
+    {
+     "id": "p144.s02",
+     "source": "Thus, in the creek that flows behind Ponta da Lenha in the River Congo there is a rock falling straight down into the water, which the natives fear to pass at night ; and even in the daytime they keep close to the far side of the creek."
+    },
+    {
+     "id": "p144.s03",
+     "source": "They declare that the Nkissi will swallow them up."
+    },
+    {
+     "id": "p144.s04",
+     "source": "The story of the four young men who left their"
+    }
+   ],
+   "id": "p144"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p145.s01",
+     "source": "town early in the morning to visit their lovers across the mountains, and after a long visit at about four o'clock wished to return, proves the power of the terrible spirit of the earth."
+    },
+    {
+     "id": "p145.s02",
+     "source": "For their lovers determined to see the four young men part of the way home, and so went with them up the mountain."
+    },
+    {
+     "id": "p145.s03",
+     "source": "Then the young men saw the young women back to their town."
+    },
+    {
+     "id": "p145.s04",
+     "source": "The young women again went up the hill with their lovers, and again the young men came back with them."
+    },
+    {
+     "id": "p145.s05",
+     "source": "The earth-spirit got vexed at such levity and turned them all into pillars of clay, as can be proved, for are not the eight pillars visible to this day (white-ant pillars taking the shape of four men and four women) ?"
+    },
+    {
+     "id": "p145.s06",
+     "source": "And the lying woman who said she had no peas for sale when she had her basket full of them, did not the earth-spirit turn her into a pillar of clay, as can be seen in the woods near Cabinda behind Futilla even to this day ?"
+    }
+   ],
+   "id": "p145"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p146.s01",
+     "source": "The mountain Mongo is spoken of at times as a person, as in the story of the old lady who, after many exchanges, secured a drum in exchange for the red wood she had given the image-maker, to keep for her."
+    },
+    {
+     "id": "p146.s02",
+     "source": "For the old lady took this drum to Mongo and played upon it until Mongo broke it."
+    },
+    {
+     "id": "p146.s03",
+     "source": "But she wept and Mongo was sorry for her and gave her some mushrooms and told her to go away."
+    }
+   ],
+   "id": "p146"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p147.s01",
+     "source": "Islands in the River Congo are spoken of as the home of the men who turn themselves into crocodiles, so that they may upset canoes and drag their prisoners to them and eventually sell them."
+    },
+    {
+     "id": "p147.s02",
+     "source": "Monkey Island, just above Boma, in the River Congo, is used as the burial-place of princes of that part of the country."
+    }
+   ],
+   "id": "p147"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p148.s01",
+     "source": "The names of the rivers are also the names of the spirits of the same."
+    },
+    {
+     "id": "p148.s02",
+     "source": "These spirits, like those of the Chimpanzu and"
+    }
+   ],
+   "id": "p148"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p149.s01",
+     "source": "Mlomvu, kill those who drink their waters ; others get angry, and swell, and overflow their banks like the Lulondo, and drown many people; while some punish those who fish in their waters for greediness by causing them to become deaf and dumb, as Sunga did in one of the stories I have given on a subsequent page."
+    }
+   ],
+   "id": "p149"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p150.s01",
+     "source": "Then the great Chamma (rainbow) is described as a huge snake that enters rivers at their source and swells them up, and carries everything before it, grass, trees, at times whole villages, in its way to the sea."
+    }
+   ],
+   "id": "p150"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p151.s01",
+     "source": "Any place, either in the hills or along the banks of rivers (near fishing places), or near wells, can be reserved by any one by his placing shells, strips of cloth, or other charms there."
+    },
+    {
+     "id": "p151.s02",
+     "source": "The nearest approach that we have to these charms in England is the scarecrow, or the hat which the Member of Parliament leaves on his seat to show that the place is his."
+    }
+   ],
+   "id": "p151"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p152.s01",
+     "source": "The dead bodies of witches are either thrown down precipices or into the rivers."
+    }
+   ],
+   "id": "p152"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p153.s01",
+     "source": "The sun, Ntangu, and moon, Ngonde, are generally described as two brothers."
+    },
+    {
+     "id": "p153.s02",
+     "source": "There is a legend which tells us that two brothers, Ntangu and Ngonde, lived in a village by the sea ; and Ntangu bet Ngonde that he could not catch him up, so they set off racing."
+    },
+    {
+     "id": "p153.s03",
+     "source": "Ngonde caught up Ntangu ; and then Ntangu got vexed and said he could catch up Ngonde, but he never did, so Ngonde won the bet."
+    },
+    {
+     "id": "p153.s04",
+     "source": "The fact of the moon's being seen during the day, together with the sun, and the sun's never being seen at night in company with the moon has, no doubt, given rise to this story."
+    },
+    {
+     "id": "p153.s05",
+     "source": "I have also collected two versions of a story of two brothers setting out, one after the other, to the land whence no man returns, which also are sun-myths."
+    }
+   ],
+   "id": "p153"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p154.s01",
+     "source": "I have heard very little about the stars."
+    },
+    {
+     "id": "p154.s02",
+     "source": "The new moon is greeted with a cry of \" Lu lu lii lu,\" in a high key, the native beating his mouth with his hand as he cries."
+    }
+   ],
+   "id": "p154"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p155.s01",
+     "source": "Lightning is said to be made by a blacksmith (Funzi) who lives in the centre of KaCongo."
+    },
+    {
+     "id": "p155.s02",
+     "source": "Nzassi means thunder; Lu siemo, lightning; and they are both spoken of as persons, Nzassi being used often for both thunder and lightning."
+    },
+    {
+     "id": "p155.s03",
+     "source": "Thus, they say that if it comes on to rain when you are in the woods, and it thunders, and you try to run away, Nzassi runs after you and kills you."
+    }
+   ],
+   "id": "p155"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p156.s01",
+     "source": "A man named Antonio one day told me a story of how he had seen Nzassi's dogs."
+    },
+    {
+     "id": "p156.s02",
+     "source": "It was raining, he declared ; and he and his companions were under a shed playing at marbles when it began to thunder and lighten."
+    },
+    {
+     "id": "p156.s03",
+     "source": "It thundered frightfully ; and Nzassi sent his twenty-four dogs down upon them."
+    },
+    {
+     "id": "p156.s04",
+     "source": "They seized one of the party who had left the shed for a moment, and the fire burnt up a living palm tree."
+    }
+   ],
+   "id": "p156"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p157.s01",
+     "source": "The sky is spoken of in certain stories as something to be bored through, as in the story where Nzambi on earth promises her beautiful daughter in marriage to anyone who should go to Nzambi above, and bring down a little of Nzambi Mpungu's fire from heaven."
+    },
+    {
+     "id": "p157.s02",
+     "source": "The woodpecker bores the hole through which all those anxious to compete for Nzambi' s daughter's hand creep, after having climbed up the silken cord made by the spider from heaven to earth.*"
+    }
+   ],
+   "id": "p157"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p158.s01",
+     "source": "The clouds they call Ituti, or rather Matuti (pi.)."
+    },
+    {
+     "id": "p158.s02",
+     "source": "They rise from where the walls of heaven touch the earth, and sail across the sky to the other side, or round and round about."
+    }
+   ],
+   "id": "p158"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p159.s01",
+     "source": "* The story is given at length on p. 74."
+    }
+   ],
+   "id": "p159"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p160.s01",
+     "source": "The Fjort divide the year into two seasons : i muna ki mvula (rainy season), i muna ki sifu (dry season)."
+    },
+    {
+     "id": "p160.s02",
+     "source": "They divide the month (ngonde) into seven weeks of four days ; Tono, Silu, Nkandu, Nsona, on the last of which they do no work."
+    }
+   ],
+   "id": "p160"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p161.s01",
+     "source": "The sea is known as Mbu."
+    },
+    {
+     "id": "p161.s02",
+     "source": "The sun rises in the Mayomba bush-country, and sets in the Mbu."
+    }
+   ],
+   "id": "p161"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p162.s01",
+     "source": "Before going to sea, the fishermen knock their fetishes to bring them good luck, or to kill those who spoil their luck."
+    },
+    {
+     "id": "p162.s02",
+     "source": "If a fisherman goes to sleep, and while he sleeps the little black bird called ntieti comes and rests in the stern of his canoe, and in the morning he awakes and finds it there, he knows some misfortune has come upon his family, or is to come upon himself."
+    }
+   ],
+   "id": "p162"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p163.s01",
+     "source": "The spirit that dwells in the sea is called Chicamassi-chibuinji."
+    },
+    {
+     "id": "p163.s02",
+     "source": "At times she comes ashore to collect red-wood and other necessary articles of toilet."
+    },
+    {
+     "id": "p163.s03",
+     "source": "Now, when anyone steals some of these articles she gets vexed and causes a calemma (swell) to arise, which stops all fishing and at times causes loss of life to those passing through the surf."
+    }
+   ],
+   "id": "p163"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p164.s01",
+     "source": "Waterspouts they call Nvussuko and Ngo-lo ; and they fear them as we should a ghost."
+    }
+   ],
+   "id": "p164"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p165.s01",
+     "source": "They say that they do not make sacrifices to the sea ; but that when Chicamassi is vexed she comes ashore and takes one of twins or triplets, and drowns it in the sea."
+    },
+    {
+     "id": "p165.s02",
+     "source": "It is well to save a relation from drowning; and if you like to save a stranger's life, he becomes your slave, or gives you a slave in exchange."
+    },
+    {
+     "id": "p165.s03",
+     "source": "When the native passes certain places where Chicamassi is supposed to have passed, he throws bits of fish, mandioca, or whatnot, into the sea for her."
+    },
+    {
+     "id": "p165.s04",
+     "source": "They also splutter rum into the sea before drinking it."
+    }
+   ],
+   "id": "p165"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p166.s01",
+     "source": "The tides are caused by Nzambi Mpungu, who, when the time comes, drops a large stone into the ocean to make the water rise, and takes it out again when it is time for low tide."
+    }
+   ],
+   "id": "p166"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p167.s01",
+     "source": "Zimini has towns under the sand in the sea ; and at times he comes up and seizes a man or woman, and takes him or her down to his place."
+    },
+    {
+     "id": "p167.s02",
+     "source": "There are stories in which the white man is said to have his town under the sea, and to take thither all the slaves he captures and buys to help him to make his cloth."
+    }
+   ],
+   "id": "p167"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p168.s01",
+     "source": "Woods and forests are the homes of the Mpunia (highway robber and murderer), Ndotchi (witch), and Chimbindi (spirit of the departed)."
+    }
+   ],
+   "id": "p168"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p169.s01",
+     "source": "The Nkissi that exists in herbs, plants, and trees, poisons or cures people ; and the natives have a great knowledge of the different properties of plants, herbs, and trees."
+    },
+    {
+     "id": "p169.s02",
+     "source": "The Nkissi grows with the plant out of the earth."
+    }
+   ],
+   "id": "p169"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p170.s01",
+     "source": "Fetishes are made of a wood called Mlimbe ; and it is said that when the tree is felled the blood that, flows from the tree is mixed with the blood of a cock that the Nganga kills."
+    },
+    {
+     "id": "p170.s02",
+     "source": "This cock used to be a slave, when slaves were cheaper than they are now."
+    }
+   ],
+   "id": "p170"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p171.s01",
+     "source": "Grasses are worn as charms around the neck or body of a sick man."
+    }
+   ],
+   "id": "p171"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p172.s01",
+     "source": "The greater number of natives are called after animals."
+    },
+    {
+     "id": "p172.s02",
+     "source": "Ngo, the leopard ; Nkossa, the lobster ; Chingumba, lion ; Nzau, elephant ; Memvu, a kind of wild dog ; are the names given those of royal blood ; and the greatest of these 'names is that of Ngo."
+    },
+    {
+     "id": "p172.s03",
+     "source": "Only princes can wear a leopard's skin."
+    },
+    {
+     "id": "p172.s04",
+     "source": "The Leopard, the royal animal, the figure of royal motherhood (the earth, as opposed to Nkala, the crab, the figure of the sea),"
+    }
+   ],
+   "id": "p172"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p173.s01",
+     "source": "is the name given to women through whom the royal line may descend, Kongo being the name of the Fjort's Adam, the great and first King or Nfumu (judge), the father of KaCongo and Loango and Ngoio."
+    },
+    {
+     "id": "p173.s02",
+     "source": "And many customs touching the hunting and slaying of the Leopard still exist, and in themselves would form an interesting study."
+    },
+    {
+     "id": "p173.s03",
+     "source": "Its skin is still worn as a sign of Royalty, and its hair is used as a charm against small pox : thirty skins used to be sent from Loango to Ngoio, so that he might send Mbunzi with rain to water his plantations."
+    }
+   ],
+   "id": "p173"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p174.s01",
+     "source": "In listening to their many stories about animals, one forgets for the time that the relator is talking about animals; and when it comes to where one eats the other, one wonders whether the native forgets that his ancestors did act in this outrageous fashion."
+    },
+    {
+     "id": "p174.s02",
+     "source": "The Fjort believe that some people have the power, or misfortune, to change themselves into beasts of prey, such as leopards and crocodiles."
+    },
+    {
+     "id": "p174.s03",
+     "source": "Stories of quite recent date tell of relations who have suffered in this way, and who in their better moods have admitted that they have killed so and so, and torn him to pieces."
+    }
+   ],
+   "id": "p174"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p175.s01",
+     "source": "This brings us to another interesting subject, that of the kazilas, or things forbidden."
+    },
+    {
+     "id": "p175.s02",
+     "source": "Some families, especially those of royal descent, may not eat pig ; others may not touch goat, flat-fish, shell-fish, doves."
+    },
+    {
+     "id": "p175.s03",
+     "source": "None except witches would attempt to eat snakes, crocodiles, lizards, charnelions."
+    },
+    {
+     "id": "p175.s04",
+     "source": "Many families will not touch certain animals because their ancestors owe such animals a debt of gratitude, as many of their stories point out to us.*"
+    }
+   ],
+   "id": "p175"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p176.s01",
+     "source": "* Another kind of kazila, or taboo, is mentioned below (p. 122), namely, the prohibition to women to fish in the lake Mbosi or Mboasi, near Futilla."
+    }
+   ],
+   "id": "p176"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p177.s01",
+     "source": "The native herd in the white trader's employ talks to his sheep and goats as if they certainly understood him."
+    }
+   ],
+   "id": "p177"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p178.s01",
+     "source": "The plagues were sent by God (so the Hebrews say) to punish the oppressors of the children of Israel : so also any great scourge in this part of Africa is looked upon as a punishment."
+    },
+    {
+     "id": "p178.s02",
+     "source": "The locusts are at this moment eating up the Fjort's plantations here in Loango."
+    },
+    {
+     "id": "p178.s03",
+     "source": "The locusts are known by the name of Makonko^ and are not entire strangers ; but this year (1896-97) is the first time that the Fjort have seen them in such abundance."
+    },
+    {
+     "id": "p178.s04",
+     "source": "They do not know what to do to get rid of them ; they say that their princes in the olden days would have done something and sent them away in a day."
+    }
+   ],
+   "id": "p178"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p179.s01",
+     "source": "A French official cut the long beard of poor old Maniprato, who was acting in the place of the King of Loango."
+    },
+    {
+     "id": "p179.s02",
+     "source": "The Fetish, who is the nephew of the great Mbunzi (S.W. wind), was very much annoyed at this action of the French official, and sent word to Mbunzi, and Mbunzi sent the plague of locusts, which in one night ate up the large banana plantation of the French mission."
+    },
+    {
+     "id": "p179.s03",
+     "source": "And now they are eating up the Fjort's plantations and his palm trees, and the poor Fjort has no longer any princes to send presents to Ngoio to calm the angry Mbunzi."
+    }
+   ],
+   "id": "p179"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p180.s01",
+     "source": "Bimbindi (pi. of Chimbindi) , the spirits of the good who have departed this life, live in the woods, and are generally considered the enemies of mankind."
+    },
+    {
+     "id": "p180.s02",
+     "source": "But I knew a Chimbindi who was a very decent woman indeed."
+    },
+    {
+     "id": "p180.s03",
+     "source": "She was in love, and about to be married ; but she fell sick, died, and was buried."
+    },
+    {
+     "id": "p180.s04",
+     "source": "Her lover was accused of having bewitched her, and he took casca and died."
+    },
+    {
+     "id": "p180.s05",
+     "source": "Her parents grieved greatly for her, for she was an only child."
+    },
+    {
+     "id": "p180.s06",
+     "source": "When she rose from the dead she found herself a slave, and married to a white man in Boma."
+    },
+    {
+     "id": "p180.s07",
+     "source": "She lived there with him until he"
+    }
+   ],
+   "id": "p180"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p181.s01",
+     "source": "went to Europe, when he freed her."
+    },
+    {
+     "id": "p181.s02",
+     "source": "She then tried to get back to her native town, which lay behind Malella."
+    },
+    {
+     "id": "p181.s03",
+     "source": "So she hired a canoe, and got the owners thereof to promise to paddle her there."
+    },
+    {
+     "id": "p181.s04",
+     "source": "But they took her to the south bank of the Congo, and sold her."
+    },
+    {
+     "id": "p181.s05",
+     "source": "Here she remained nearly three years, when she happened to meet some people of her own family, and they took her back to her parents."
+    },
+    {
+     "id": "p181.s06",
+     "source": "The parents were rejoiced to see her again ; but they will not believe that she is a human being, and continue to treat her as the departed spirit of their daughter."
+    },
+    {
+     "id": "p181.s07",
+     "source": "I have tried to convince her that the Nganga Nkissi, or native doctor, must have played her some trick, and that she had been buried by him while in a trance, or while unconscious, and that he must have taken her to Boma and sold her there to his own profit ; but she would not believe it."
+    }
+   ],
+   "id": "p181"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p182.s01",
+     "source": "But Bimbindi as a rule are hostile to the human race, and consequently greatly feared."
+    }
+   ],
+   "id": "p182"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p183.s01",
+     "source": "A certain chief owned a large town, and all the inhabitants were either his children or his relations."
+    },
+    {
+     "id": "p183.s02",
+     "source": "He was sorely troubled at times how to provide them all with animal food; and so he used to go into the woods, and set traps."
+    },
+    {
+     "id": "p183.s03",
+     "source": "One night he got up, and went to see if there was anything in his traps ; and sure enough there was a large antelope in one of the traps."
+    },
+    {
+     "id": "p183.s04",
+     "source": "He made short work of its life by drawing his long knife and cutting its throat."
+    },
+    {
+     "id": "p183.s05",
+     "source": "Then he carried it home, and called upon all to get up and eat."
+    },
+    {
+     "id": "p183.s06",
+     "source": "They rejoiced greatly, and got up quickly enough to skin and cut up the antelope."
+    },
+    {
+     "id": "p183.s07",
+     "source": "It was then fairly divided, and each took away his share."
+    },
+    {
+     "id": "p183.s08",
+     "source": "And they all ate their shares, except the father, who put his away."
+    },
+    {
+     "id": "p183.s09",
+     "source": "Before the first cock crew, he got up again to look at his traps."
+    },
+    {
+     "id": "p183.s10",
+     "source": "Yes, there was another antelope."
+    },
+    {
+     "id": "p183.s11",
+     "source": "He killed and took it to his town, and again"
+    }
+   ],
+   "id": "p183"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p184.s01",
+     "source": "roused the people up."
+    },
+    {
+     "id": "p184.s02",
+     "source": "They came, and again each took his share."
+    },
+    {
+     "id": "p184.s03",
+     "source": "And they all ate their shares, except the father, who put his share in the same place where he had kept his first share."
+    },
+    {
+     "id": "p184.s04",
+     "source": "He now slept until sun-rise."
+    },
+    {
+     "id": "p184.s05",
+     "source": "About midday his son came to him and said : \" Father, I am hungry."
+    },
+    {
+     "id": "p184.s06",
+     "source": "Give me the antelope you have kept in your shimbec (hut).\""
+    },
+    {
+     "id": "p184.s07",
+     "source": "\"No,\" he answered, \" I wish to sell that meat for cloth, even if I only get a fathom or two for it.\""
+    },
+    {
+     "id": "p184.s08",
+     "source": "But the son pestered and bothered his father until he waxed wroth and shot him dead."
+    },
+    {
+     "id": "p184.s09",
+     "source": "Then the father called his people again, and said : \" See, here is more meat for you, take it and eat it.\" \" Nay,\" they all said, \" we cannot eat this ; for your son was one of us ; he is of our family."
+    },
+    {
+     "id": "p184.s10",
+     "source": "But we will cut him up, and give the meat to the princes round about.\""
+    },
+    {
+     "id": "p184.s11",
+     "source": "And the princes were thankful for the meat, and gave the bearers presents."
+    }
+   ],
+   "id": "p184"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p185.s01",
+     "source": "The next evening the father again went to visit his traps, and thought he saw a huge something in one of them."
+    },
+    {
+     "id": "p185.s02",
+     "source": "He ran up to the thing and tried to kill it ; but as he neared the trap, the monster's arms embraced him and held him fast. u Ah, ha ! \" said the Chimbindi, \" so you have dared to set your traps in my woods, and to kill my antelopes, You shall die.\""
+    },
+    {
+     "id": "p185.s03",
+     "source": "With this the Chimbindi cut the father's head off, and hung his body to a tree by its feet."
+    },
+    {
+     "id": "p185.s04",
+     "source": "Now when his wife had cooked his food, she called for him to come and eat."
+    },
+    {
+     "id": "p185.s05",
+     "source": "Receiving no answer, she set out to look for him. \" Surely he has gone to look at his traps,\" she thought."
+    },
+    {
+     "id": "p185.s06",
+     "source": "So she went into the woods; and after a little while she caught sight of the body hanging by its legs to the tree."
+    },
+    {
+     "id": "p185.s07",
+     "source": "The head was not there ; the Chimbindi had taken it away with him."
+    },
+    {
+     "id": "p185.s08",
+     "source": "She examined the body carefully, and at last convinced herself that it was that of her husband."
+    }
+   ],
+   "id": "p185"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p186.s01",
+     "source": "She sat down and wept."
+    },
+    {
+     "id": "p186.s02",
+     "source": "Then she got up, and went crying into the town."
+    },
+    {
+     "id": "p186.s03",
+     "source": "The people asked her what she was crying for, and she answered : \" My husband has been killed, and I have seen his body in the woods.\""
+    },
+    {
+     "id": "p186.s04",
+     "source": "Then they tried to comfort her, telling her that she was mistaken."
+    },
+    {
+     "id": "p186.s05",
+     "source": "But she continued weeping, and offered to lead them to the place where he was hung."
+    },
+    {
+     "id": "p186.s06",
+     "source": "Then the whole tribe went with her ; and when they saw with their own eyes that their father was dead, they were sorely troubled and lamented."
+    },
+    {
+     "id": "p186.s07",
+     "source": "Then the Chimbindi returned, and utterly annihilated the tribe, cutting off their heads, and leaving their bodies as food for the eagles, and the crows, and the beasts of the woods that eat the flesh of men."
+    },
+    {
+     "id": "p186.s08",
+     "source": "So are those punished who kill a relation and offer his meat to be eaten."
+    }
+   ],
+   "id": "p186"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p187.s01",
+     "source": "But the natives have a weapon with which they can put the Chimbindi to flight, as we learn from the following story."
+    }
+   ],
+   "id": "p187"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p188.s01",
+     "source": "All preparations for a long stay out of town were made by a married couple, the parents of a little boy some four years old."
+    },
+    {
+     "id": "p188.s02",
+     "source": "As they could not take their little one with them on this occasion, they left sufficient food for him with a neighbour, and asked her to take care of him."
+    },
+    {
+     "id": "p188.s03",
+     "source": "Soon the little boy felt hungry, and ran to the neighbour's house and asked her for food. \" What food, my child ? \" she asked. \" But mother told me to come and ask you for food whenever I felt hungry.\" \" Your mother left no food with me, so that I cannot give you any ; and you can run away and play.\""
+    },
+    {
+     "id": "p188.s04",
+     "source": "Each day the little boy went to the woman and asked her for food."
+    },
+    {
+     "id": "p188.s05",
+     "source": "But each day she refused to give him any."
+    },
+    {
+     "id": "p188.s06",
+     "source": "So on the sixth day the little boy sat down and cried, saying : \" Six days have passed and I have had no food."
+    },
+    {
+     "id": "p188.s07",
+     "source": "I know not whither my parents have gone."
+    },
+    {
+     "id": "p188.s08",
+     "source": "I shall surely die."
+    },
+    {
+     "id": "p188.s09",
+     "source": "I will find them, I will go from here at once.\""
+    },
+    {
+     "id": "p188.s10",
+     "source": "Then he got up and walked"
+    }
+   ],
+   "id": "p188"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p189.s01",
+     "source": "and walked all day, but could not find his parents."
+    },
+    {
+     "id": "p189.s02",
+     "source": "When the night came, he climbed up a big tree and sat in it and cried."
+    },
+    {
+     "id": "p189.s03",
+     "source": "And a Chimbindi came and found the boy."
+    },
+    {
+     "id": "p189.s04",
+     "source": "He called his friends together, and they asked: \" Who is this? \" The little boy was very much afraid ; but he sang in a piteous voice : \" My father and mother left me, they gave another food for me; but she did not give it to me ; and now I have come here to die.\""
+    },
+    {
+     "id": "p189.s05",
+     "source": "The Bimbindi came near to him and meant to kill him."
+    },
+    {
+     "id": "p189.s06",
+     "source": "When the little boy saw what the Bimbindi were about he cried bitterly for his mother."
+    }
+   ],
+   "id": "p189"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p190.s01",
+     "source": "Meanwhile the parents returned."
+    },
+    {
+     "id": "p190.s02",
+     "source": "The mother said : \" Father, our little one has left our town, and has wandered away."
+    },
+    {
+     "id": "p190.s03",
+     "source": "Listen!"
+    },
+    {
+     "id": "p190.s04",
+     "source": "I hear him crying.\""
+    },
+    {
+     "id": "p190.s05",
+     "source": "\"Nay,\" says the father, \"we left food enough for him, why should he have left the town?"
+    },
+    {
+     "id": "p190.s06",
+     "source": "Look again for him.\" \" No,\" says the mother; \" he is in the woods, and the Bimbindi will surely eat him, and we shall lose our little one.\""
+    },
+    {
+     "id": "p190.s07",
+     "source": "Then the father went to the market and bought some chili pepper, and loaded his gun with it."
+    },
+    {
+     "id": "p190.s08",
+     "source": "And the mother carried a calabash of pepper with her. \" Let us go,\" said the father, u and search for him ! \" And the mother soon found him, attracted by his cries."
+    },
+    {
+     "id": "p190.s09",
+     "source": "Then the father shot the Chimbindi just as he was climbing up the tree to kill his son."
+    },
+    {
+     "id": "p190.s10",
+     "source": "And the mother flew at the others that were looking on, and rubbed pepper into their eyes, so that they all ran away."
+    }
+   ],
+   "id": "p190"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p191.s01",
+     "source": "When the parents returned to the town they demanded an explanation from their neighbour ; but she could make no excuse for her conduct, so that the irate father shot the woman, saying: \" You tried to kill my child, am I not right in killing you? \""
+    }
+   ],
+   "id": "p191"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p192.s01",
+     "source": "And the people said he was acting rightly."
+    }
+   ],
+   "id": "p192"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p193.s01",
+     "source": "Women have been captured by Bimbindi and made to live"
+    }
+   ],
+   "id": "p193"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p194.s01",
+     "source": "with them, according to their tales, but have managed to escape."
+    },
+    {
+     "id": "p194.s02",
+     "source": "The Bimbindi have followed them to their towns, and to get rid of them these women have thrown pepper into their eyes, and poured boiling water over them."
+    }
+   ],
+   "id": "p194"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p195.s01",
+     "source": "I have also heard of an opposite case, where a Chimbindi has come to a town and married a girl and tried to live with her, but he would run away at daybreak, and all night he was busy eating insects and lizards ; so she left him."
+    },
+    {
+     "id": "p195.s02",
+     "source": "Native women dare not go out at night alone for fear of meeting them ; and any wailing noise they hear during the night they immediately put down to the Bimbindi."
+    }
+   ],
+   "id": "p195"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p196.s01",
+     "source": "The word witch, in our sense, I think, would correspond rather with that of Nganga Nkissi, the man learned in the art of mystery."
+    },
+    {
+     "id": "p196.s02",
+     "source": "But whereas our witch combines the office of spell-binder with that of curer, the Nganga Nkissi acts as the curer only, and the power that he exercises is not supposed to be his, but rather that of the Nkissi, or, as you would call it, his fetish."
+    },
+    {
+     "id": "p196.s03",
+     "source": "The sufferer goes to him to find out why it is that he suffers, and who it is that is making him suffer, and he divines the cause or person if he can ; and if he cannot, advises the sufferer to knock a nail into the Nkissi, or fetish, and ask it to kill the person who is causing him so much pain."
+    }
+   ],
+   "id": "p196"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p197.s01",
+     "source": "The causer of the pain or suffering is called by the Fjort a Ndotchi, which has rather the sense of poisoner, and then spellbinder, or evil-wisher, or hypnotiser."
+    },
+    {
+     "id": "p197.s02",
+     "source": "This last personage is usually called the witch, and the Nganga Nkissi, the witchdoctor, by Europeans."
+    },
+    {
+     "id": "p197.s03",
+     "source": "The Ndotchi, it is true, may have poisoned some of his people to get rid of them, but he will have done this very secretly."
+    },
+    {
+     "id": "p197.s04",
+     "source": "He is not at all likely to go about"
+    }
+   ],
+   "id": "p197"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p198.s01",
+     "source": "proclaiming the fact that he can cast spells upon people, raise storms, or hypnotise, as such a proclamation would mean certain death."
+    },
+    {
+     "id": "p198.s02",
+     "source": "I am, therefore, sceptical when I hear Europeans talking about African witches and witchcraft, unless indeed, you call a poisoner a witch."
+    },
+    {
+     "id": "p198.s03",
+     "source": "It is the knowledge of poisons in the native, his horror of death, and his disbelief in death from natural causes, that force him to believe, when a death does take place, that poison has in all probability caused it."
+    },
+    {
+     "id": "p198.s04",
+     "source": "Accordingly, a so-called Ndotchi, or poisoner, is called upon to prove his innocence by being forced to undergo the ordeal by poison ; he is made to eat two or three spoonfuls of the powdered bark of the \" casca \" tree, and drink a bottle of water."
+    },
+    {
+     "id": "p198.s05",
+     "source": "If he vomits, he is innocent ; if the casca acts as a purge he is guilty, and at once slain, A native goes to sleep and dreams some fearful"
+    }
+   ],
+   "id": "p198"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p199.s01",
+     "source": "dream, awakes and feels himself spellbound."
+    },
+    {
+     "id": "p199.s02",
+     "source": "Up he gets and fires off a gun to frighten away the evil spirits."
+    },
+    {
+     "id": "p199.s03",
+     "source": "He imagines that he has an enemy who is seeking to kill him, and accuses people right and left of attempting to poison him, and gives them casca."
+    }
+   ],
+   "id": "p199"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p200.s01",
+     "source": "There are certain of the Ngangas who profess to work miracles like the magicians of old."
+    }
+   ],
+   "id": "p200"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p201.s01",
+     "source": "Women give their husbands certain medicines to cause them to love them, and try their own love for them, by undergoing different ordeals."
+    },
+    {
+     "id": "p201.s02",
+     "source": "For instance,' a woman will bet another woman that she loves her husband more than she does."
+    },
+    {
+     "id": "p201.s03",
+     "source": "They will heat an iron and place it on their arms ; if a blister is raised, they consider their great love as proved."
+    }
+   ],
+   "id": "p201"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p202.s01",
+     "source": "As you enter a village by some road or other you will often find the grass tied into a knot (nteuo) with medicines enclosed, to"
+    }
+   ],
+   "id": "p202"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p203.s01",
+     "source": "prevent anyone bent 011 evil from passing that way ; or an arch* formed by a string of feathers and charms, stretched across the road from one pole to another, will keep away evil winds and spirits."
+    }
+   ],
+   "id": "p203"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p204.s01",
+     "source": "Then, every town has some Nkissi or other to guard it."
+    },
+    {
+     "id": "p204.s02",
+     "source": "One will often notice an earthenware pot (nduda) half-full of sand, containing two eggs, placed upon a stand."
+    },
+    {
+     "id": "p204.s03",
+     "source": "It is said that these eggs will explode with a fearful report, if anyone bent on evil enters the town."
+    }
+   ],
+   "id": "p204"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p205.s01",
+     "source": "The Fjort have no legends about the creation, except such as are easily traceable to the teachings of the missionaries of old, settled in this country some 400 years ago."
+    },
+    {
+     "id": "p205.s02",
+     "source": "Nzambi Mpungu made the earth, or gave birth to Nzambi ; and she brought forth many children."
+    },
+    {
+     "id": "p205.s03",
+     "source": "We are told nothing more about the creation."
+    },
+    {
+     "id": "p205.s04",
+     "source": "The difference in colour between the black and white man is accounted for by stories of the short-sightedness of the black man."
+    },
+    {
+     "id": "p205.s05",
+     "source": "The best, perhaps, is that given on a later page."
+    }
+   ],
+   "id": "p205"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p206.s01",
+     "source": "Then, we have tales which begin : \"A long, long time ago, before even our ancestors knew the use of fire, when they ate grass like the animals,\" etc., which then go on to tell how a river-spirit first pointed out to them the mandioca root and the banana."
+    },
+    {
+     "id": "p206.s02",
+     "source": "These I think go a long way to prove that the agricultural age was prior to the pastoral and hunting age."
+    },
+    {
+     "id": "p206.s03",
+     "source": "This river-spirit taught them the use of fire, and then came the blacksmith, Mfuzi, (Loango, Funzi) and the iron and copper age."
+    }
+   ],
+   "id": "p206"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p207.s01",
+     "source": "I do not think the people north of the Congo can yet be said to"
+    }
+   ],
+   "id": "p207"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p208.s01",
+     "source": "* An ordinary knot in the grass means that some lady has marked the place for a plantation, or that a passer-by has hidden something within a certain distance from that knot."
+    }
+   ],
+   "id": "p208"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p209.s01",
+     "source": "A BAKUTU WHO CAME TO LOANGO TO SEE NZAMBI."
+    }
+   ],
+   "id": "p209"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p210.s01",
+     "source": "be in the Pastoral Age,* or to have passed through it, for, although they do keep a few goats, and fowls, and sheep, their attention is given more to the planting of mandioca, bananas, and potatoes than to the care of animals."
+    },
+    {
+     "id": "p210.s02",
+     "source": "But they certainly are hunters."
+    },
+    {
+     "id": "p210.s03",
+     "source": "They are also manufacturers of native grass-cloth, of knives, arms, and ornaments of iron and copper, and of ornaments made from European silver coins."
+    },
+    {
+     "id": "p210.s04",
+     "source": "They gather cotton, and spin a coarse kind of thread, with which they make chinkutu, arm-bags, and netted capes for their princes."
+    },
+    {
+     "id": "p210.s05",
+     "source": "They make beautiful caps from the fibre of the pine-apple, and mats from the leaves of the fubutree."
+    },
+    {
+     "id": "p210.s06",
+     "source": "And all these goods they dye red, black and yellow."
+    },
+    {
+     "id": "p210.s07",
+     "source": "Earthenware pots, vases, carafes, moringos, and pipes they make from the black clay that abounds in the different valleys."
+    },
+    {
+     "id": "p210.s08",
+     "source": "The fishermen make their own nets from the fibre of different trees, and floats from the bark of the baobab-tree."
+    }
+   ],
+   "id": "p210"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p211.s01",
+     "source": "Others gather the palm-nuts from the palm-trees, and extract the oil from them, dry them and crack them, and then sell the kernels and the oil to the European."
+    },
+    {
+     "id": "p211.s02",
+     "source": "Some go into the woods and collect the milky juice of several vines and trees, and sell it as caoutchouc, or rubber, to the white man."
+    }
+   ],
+   "id": "p211"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p212.s01",
+     "source": "And the women, as they hoe their fields, at times dig up pieces of preserved lightning (aulo, or buangu, gum copal), which they and their husbands also sell to the trader."
+    }
+   ],
+   "id": "p212"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p213.s01",
+     "source": "People collect round the shimbec, or hut, in which a woman"
+    }
+   ],
+   "id": "p213"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p214.s01",
+     "source": "* There is no word in the KaCongo dialect to express the word shepherd."
+    },
+    {
+     "id": "p214.s02",
+     "source": "The nearest they have is i lungo mbizi, he who keeps animals ; but mbizi is used in the sense of wild animals."
+    },
+    {
+     "id": "p214.s03",
+     "source": "Thus a native missionary, or priest, in preaching in native-mouth to the children at the mission here in Loango talked of the shepherds who came to visit the child Christ and his Mother as the galigneru, from the Portuguese gallinheiro, one who looks after the fowls."
+    }
+   ],
+   "id": "p214"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p215.s01",
+     "source": "lies, about to give birth to a child, and fire off guns and shout to her to help her to bring it forth."
+    },
+    {
+     "id": "p215.s02",
+     "source": "The woman is attended by her mother, or other female relation ; and the child is washed, sometimes in palm-wine, by them."
+    },
+    {
+     "id": "p215.s03",
+     "source": "As soon as the after-birth comes away, the woman walks away to the place where she is to take her hot bath."
+    },
+    {
+     "id": "p215.s04",
+     "source": "The women then throw the very hot water upon her parts with their hands."
+    }
+   ],
+   "id": "p215"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p216.s01",
+     "source": "Charm upon charm is attached to the infant ; and the mother suckles it until it is nearly two years old, being separated from her husband until she has weaned the child."
+    }
+   ],
+   "id": "p216"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p217.s01",
+     "source": "When a boy arrives at the age of puberty he is circumcised, and if he is wealthy a dance is given in his honour."
+    },
+    {
+     "id": "p217.s02",
+     "source": "A girl arriving at the same age is closely watched."
+    },
+    {
+     "id": "p217.s03",
+     "source": "The moment of her first menstruation is marked by the firing off of a gun, and this is followed by a dance."
+    },
+    {
+     "id": "p217.s04",
+     "source": "And now, while she tittle suspects it, she is caught and forced into what the natives call the painthouse."
+    },
+    {
+     "id": "p217.s05",
+     "source": "Here she is painted red, and carefully fed and treated, until they consider her ready for marriage, when she is washed and led to her husband."
+    },
+    {
+     "id": "p217.s06",
+     "source": "But if she has not a husband waiting for her, she is covered over with a red cloth, or handkerchief, and taken round by women to the different towns, until someone is found anxious to have her."
+    }
+   ],
+   "id": "p217"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p218.s01",
+     "source": "Should a man wish to marry a girl, he has to present her parents with goods according to the value placed upon her by them."
+    },
+    {
+     "id": "p218.s02",
+     "source": "In fixing the value, her position and wealth have to be considered."
+    },
+    {
+     "id": "p218.s03",
+     "source": "He can marry her according to different rites, such as those of Lembe or Funzi."
+    },
+    {
+     "id": "p218.s04",
+     "source": "On such occasions a certain kind of native-made copper bracelet is given to her by the husband, and worn also by him."
+    },
+    {
+     "id": "p218.s05",
+     "source": "She swears to be faithful to him, and to die and be buried with him."
+    },
+    {
+     "id": "p218.s06",
+     "source": "Formerly these wives were"
+    }
+   ],
+   "id": "p218"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p219.s01",
+     "source": "buried alive with their husbands, but the custom is now dying out."
+    }
+   ],
+   "id": "p219"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p220.s01",
+     "source": "Or a man may not have money enough to marry."
+    },
+    {
+     "id": "p220.s02",
+     "source": "So he proposes to give the girl so much of his earnings if she will live with him."
+    },
+    {
+     "id": "p220.s03",
+     "source": "He presents the parents with some small donation, and they live together until he can marry her."
+    }
+   ],
+   "id": "p220"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p221.s01",
+     "source": "But virgins may be used by a man for a certain payment, and afterwards put aside."
+    },
+    {
+     "id": "p221.s02",
+     "source": "These women are then at the service of anyone who chooses to pay them."
+    },
+    {
+     "id": "p221.s03",
+     "source": "This life is not looked upon as being immoral by them, and in no way stands in the way of future marriage."
+    },
+    {
+     "id": "p221.s04",
+     "source": "And it is a strange fact that these women do not seem to lose their sense of modesty."
+    },
+    {
+     "id": "p221.s05",
+     "source": "They seem to think that it is natural that their desires should be satisfied, and that until they are married they are in their right to live in this way."
+    }
+   ],
+   "id": "p221"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p222.s01",
+     "source": "A man may marry as many wives as he has wealth enough to obtain ; and as they all make their plantations he is not likely to starve so long as he treats them properly."
+    },
+    {
+     "id": "p222.s02",
+     "source": "But the wives quarrel for his favours, and so very often a very-much-married man does not live so happily as one who has (say) two wives."
+    }
+   ],
+   "id": "p222"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p223.s01",
+     "source": "When the bridegroom takes his bride from the paint-house, he is generally supposed to give a dance, and this dance is kept up all night round about his house."
+    }
+   ],
+   "id": "p223"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p224.s01",
+     "source": "Unfaithfulness in a princess used not very long ago to be punished by burying her into the ground up to her neck, leaving only her head visible, and then leaving her to starve and die."
+    },
+    {
+     "id": "p224.s02",
+     "source": "The adulterer used to be impaled and allowed to rot."
+    }
+   ],
+   "id": "p224"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p225.s01",
+     "source": "If a KaCongo princess, one of the wives of KaCongo, was found to have crossed the River Loango Luz, a certain prince called Maloango had the right to break off her ivory bracelet"
+    }
+   ],
+   "id": "p225"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p226.s01",
+     "source": "and declare her a whore."
+    },
+    {
+     "id": "p226.s02",
+     "source": "The same law applied to any of the wives of Loango who crossed over into KaCongo."
+    }
+   ],
+   "id": "p226"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p227.s01",
+     "source": "\" I am in debt \" is the cry of nearly every native one meets ; and thus he stirs himself to action."
+    },
+    {
+     "id": "p227.s02",
+     "source": "He now owes the Nganga Nkissi for some charms, or the Nganga bilongo, for some medicine, or else he has borrowed goods to help him to bury some relation."
+    },
+    {
+     "id": "p227.s03",
+     "source": "Wealthy men lend people goods, such as a hoe to a woman to bury her child."
+    },
+    {
+     "id": "p227.s04",
+     "source": "In her grief she perhaps might bury it with the body."
+    },
+    {
+     "id": "p227.s05",
+     "source": "Then the wealthy man would ask her for his hoe and she would have to dig it up again."
+    },
+    {
+     "id": "p227.s06",
+     "source": "The man would say to her : \" This hoe smells of death ; keep it and pay me for it.\""
+    },
+    {
+     "id": "p227.s07",
+     "source": "The woman having nothing to pay him with, the wealthy man would take one of her little daughters to live with his wives."
+    },
+    {
+     "id": "p227.s08",
+     "source": "The woman might repay him at any time up to the time when the girl should come to the age of puberty ; but once he put the girl into the paint-house she became his \" daughter of the cloth,\" a household slave."
+    },
+    {
+     "id": "p227.s09",
+     "source": "Men wantijpg money used to go to these men and accept loans, thus becoming their dependants."
+    }
+   ],
+   "id": "p227"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p228.s01",
+     "source": "The burden of debt seems to have been the only great motive power in the life of the Fjort."
+    },
+    {
+     "id": "p228.s02",
+     "source": "Thus all along the coast you will find that the traders have always been forced to lend money, or rather goods, to native princes and traders, and then use all their knowledge of native law to oblige them to give them the produce promised in exchange."
+    }
+   ],
+   "id": "p228"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p229.s01",
+     "source": "When a child dies it is marked round the eyes and about the body with white and red chalk, and is buried perhaps the next day."
+    },
+    {
+     "id": "p229.s02",
+     "source": "The slave, or poor man, is also buried quickly without any particular ceremony."
+    },
+    {
+     "id": "p229.s03",
+     "source": "The rich man (or woman) when dead, is smoked dry over a smoky fire wrapped up in endless"
+    }
+   ],
+   "id": "p229"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p230.s01",
+     "source": "lengths of cloth according to his wealth, and after some months is buried in an imposing case very similar to that of a prince."
+    }
+   ],
+   "id": "p230"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p231.s01",
+     "source": "A prince dies."
+    },
+    {
+     "id": "p231.s02",
+     "source": "Immediately it is known, all other princes either go themselves with, or else send, their people dressed in feathers, with drums and bugles, to cry."
+    },
+    {
+     "id": "p231.s03",
+     "source": "These visitors receive unlimited drink, and dance and sing until they are tired, and then they return to their towns."
+    },
+    {
+     "id": "p231.s04",
+     "source": "The Nganga Nkissi is set to work to find out who it is that has caused the death of the prince ; and many people are forced to take casca."
+    },
+    {
+     "id": "p231.s05",
+     "source": "Many deaths, therefore, follow that of the prince."
+    }
+   ],
+   "id": "p231"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p232.s01",
+     "source": "His body is smoked and watched by his wives in the back room (as it were), while in the front half of the shimbec the prince's wealth, in the shape of ewers, basins, figure ornaments, pots, pipes, glassware, etc., is on view."
+    },
+    {
+     "id": "p232.s02",
+     "source": "One of his wives will generally be found walking about in front of the shimbec, throwing her arms about and crying."
+    },
+    {
+     "id": "p232.s03",
+     "source": "This may last for a year or more before the* body is buried."
+    }
+   ],
+   "id": "p232"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p233.s01",
+     "source": "The coffin is a case, perhaps 15 feet long, 4 feet broad, 6 feet high, covered over with red save-lisi."
+    },
+    {
+     "id": "p233.s02",
+     "source": "White braid is nailed by means of brass-headed chair-nails in diamond- shaped designs, all over the red cloth."
+    },
+    {
+     "id": "p233.s03",
+     "source": "The coffin (into which the dried body, wrapped in cloth is placed) is then put on the funeral car."
+    },
+    {
+     "id": "p233.s04",
+     "source": "Stuffed tigers, an umbrella, and other ornaments are placed upon the top of the coffin."
+    },
+    {
+     "id": "p233.s05",
+     "source": "The whole is then drawn to the burial ground by hundreds of assembled guests, who sing and dance by the way."
+    }
+   ],
+   "id": "p233"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p234.s01",
+     "source": "The grave is ready ; and the coffin is lowered into it."
+    },
+    {
+     "id": "p234.s02",
+     "source": "Then one or two of his wives (10 years ago) jumped in, or (as is the case to this day, a little north of Loango) two small boys are placed in the grave beside the coffin ; and all are buried."
+    },
+    {
+     "id": "p234.s03",
+     "source": "His"
+    }
+   ],
+   "id": "p234"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p235.s01",
+     "source": "relations proclaim the new prince, and place over his shoulder a wreath of grass."
+    },
+    {
+     "id": "p235.s02",
+     "source": "The people then return to the prince's town and dance."
+    }
+   ],
+   "id": "p235"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p236.s01",
+     "source": "A year or two after this, a kind of festival in honour of the departed is kept."
+    },
+    {
+     "id": "p236.s02",
+     "source": "An effigy in straw of the late prince is placed in a shimbec, seated behind a table which bears such earthenware, glassware, and ornaments as belonged to him, and were not placed over his grave when he was buried."
+    },
+    {
+     "id": "p236.s03",
+     "source": "The rest of his wives, who from the time of his death until that of his burial have never washed themselves, have now only certain marks in charcoal upon their faces, and walk about the place more reasonably."
+    },
+    {
+     "id": "p236.s04",
+     "source": "Some of his children take it in turns to beat a drum and sing near to the shimbec."
+    },
+    {
+     "id": "p236.s05",
+     "source": "Visitors, bringing their offerings, come and congratulate the new prince upon what we should call his coronation ; and he receives them sitting perhaps under the shade of some great tree."
+    },
+    {
+     "id": "p236.s06",
+     "source": "The relics of the late prince are visited ; and then dancing, and singing, and eating, and drinking commence ; and this is continued for perhaps three or four days."
+    }
+   ],
+   "id": "p236"
+  }
+ ]
+}

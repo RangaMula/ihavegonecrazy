@@ -1,0 +1,138 @@
+{
+ "id": "af-ghana-akan-peoples-anansi-tales-056",
+ "title": {
+  "id": "title",
+  "source": "Segokgo se se botswa"
+ },
+ "tradition": "Ghana (Akan peoples, Anansi tales)",
+ "continent": "Africa",
+ "source_lang": "tn",
+ "source_book": "African Storybook — traditional tales retold (CC BY 4.0)",
+ "credits": "Ghanaian folktale Lorato Trok Wiehan de Jager (story, illustration and translation credits as listed by African Storybook)",
+ "gutenberg": "African Storybook story #19926 — https://www.africanstorybook.org/ (search the title)",
+ "copyright": "Creative Commons Attribution 4.0 (CC BY 4.0). Free to copy, translate and adapt for any purpose, including commercial, as long as you credit the original author(s), illustrator(s) and African Storybook and link to the licence: https://creativecommons.org/licenses/by/4.0/",
+ "markdown_file": "Africa/Ghana (Akan peoples, Anansi tales)/056 - Segokgo se se botswa.md",
+ "stats": {
+  "paragraphs": 8,
+  "segments": 17,
+  "words": 112
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "O rata dijo, fela o botswa go apaya."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"Ee."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Nthusa ka go fudua,\" ga rialo Mmutla."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Mme fela Anansi o botswa."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Anansi o ne a bofelela bobi mo leotong la gagwe le la pitsa ya ga Mmutla."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Ditshwene, a nka ja dinawa le lona?\""
+    },
+    {
+     "id": "p004.s02",
+     "source": "\"Ee."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Re thuse ka go segelela.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Kolobe ya naga, a nka ja le wena matapole?\""
+    },
+    {
+     "id": "p005.s02",
+     "source": "\"Ee."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Nthuse go apaya.\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Ka nakwana, ke fa maoto otlhe a a robedi a ga Anansi a bofelegile mo dipitseng."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Maoto otlhe a le robedi a a gogega!"
+    },
+    {
+     "id": "p007.s02",
+     "source": "\"Tlogelang go goga!\""
+    },
+    {
+     "id": "p007.s03",
+     "source": "Anansi a lela."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Maoto a ga Anansi a gogega thata!"
+    },
+    {
+     "id": "p008.s02",
+     "source": "Ke ka jalo digokgo tsotlhe di naleng maoto a matelele a masesane."
+    }
+   ],
+   "id": "p008"
+  }
+ ]
+}

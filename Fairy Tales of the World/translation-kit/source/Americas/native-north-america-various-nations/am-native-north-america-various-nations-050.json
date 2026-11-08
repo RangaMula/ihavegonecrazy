@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-050",
  "title": {
   "id": "title",
-  "source": "The Enchanted Moccasins"
+  "source": "Old-Man And The Fox"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Thirty Indian Legends",
- "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/050 - The Enchanted Moccasins.md",
+ "source_book": "Indian Why Stories: Sparks from War Eagle's Lodge-Fire",
+ "credits": "Linderman, Frank Bird (author, d. 1938)",
+ "gutenberg": "Project Gutenberg eBook #606 — https://www.gutenberg.org/ebooks/606",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/050 - Old-Man And The Fox.md",
  "stats": {
-  "paragraphs": 23,
-  "segments": 103,
-  "words": 1417
+  "paragraphs": 22,
+  "segments": 92,
+  "words": 1764
  },
  "paragraphs": [
   {
@@ -23,23 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Once on Mackinac Island there lived a little Indian boy and his sister."
+     "source": "I am sure that the plains Indian never made nor used the stone arrow-head."
     },
     {
      "id": "p001.s02",
-     "source": "They saw only the birds and animals, for no human beings were there but themselves."
+     "source": "I have heard white men say that they had seen Indians use them; but I have never found an Indian that ever used them himself, or knew of their having been used by his people."
     },
     {
      "id": "p001.s03",
-     "source": "The little boy, instead of playing with his sister, used to go into the forest and think."
+     "source": "Thirty years ago I knew Indians, intimately, who were nearly a hundred years old, who told me that the stone arrow-head had never been in use in their day, nor had their fathers used them in their own time."
     },
     {
      "id": "p001.s04",
-     "source": "So she thought that he would grow up to be a very wise man and do some wonderful deeds."
+     "source": "Indians find these arrow-points just as they find the stone mauls and hammers, which I have seen them use thousands of times, but they do not make them any more than they make the stone mauls and hammers."
     },
     {
      "id": "p001.s05",
-     "source": "She called him Onwe Bahmondoong, which means, the boy that carries a ball on his back."
+     "source": "In the old days, both the head of the lance and the point of the arrow were of bone; even knives were of bone, but some other people surely made the arrow-points that are scattered throughout the United States and Europe, I am told."
     }
    ],
    "id": "p001"
@@ -49,23 +49,27 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "As he grew up, he was very anxious to know where the people lived."
+     "source": "One night I asked War Eagle if he had ever known the use, by Indians, of the stone arrow-head, and he said he had not."
     },
     {
      "id": "p002.s02",
-     "source": "His sister told him that many miles away there was a village, where hundreds of warriors and hunters lived."
+     "source": "He told me that just across the Canadian line there was a small lake, surrounded by trees, wherein there was an island covered with long reeds and grass."
     },
     {
      "id": "p002.s03",
-     "source": "He asked her to make him six pairs of moccasins, so that he could go and find the village."
+     "source": "All about the edge of this island were willows that grew nearly to the water, but intervening there was a narrow beach of stones."
     },
     {
      "id": "p002.s04",
-     "source": "He then put some food in a bag, took his war-club, and, when the moccasins were finished, set out on his journey."
+     "source": "Here, he said, the stone arrow-heads had been made by little ghost-people who lived there, and he assured me that he had often seen these strange little beings when he was a small boy."
     },
     {
      "id": "p002.s05",
-     "source": "As he was saying good-bye to his sister, she told him that one pair of the moccasins was enchanted."
+     "source": "Whenever his people were camped by this lake the old folks waked the children at daybreak to see the inhabitants of this strange island; and always when a noise was made, or the sun came up, the little people hid away."
+    },
+    {
+     "id": "p002.s06",
+     "source": "Often he had seen their heads above the grass and tiny willows, and his grandfather had told him that all the stone arrow-heads had been made on that island, and in war had been shot all over the world, by magic bows."
     }
    ],
    "id": "p002"
@@ -75,19 +79,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "On he went quickly, over miles of prairie, across little streams, and through the bush."
+     "source": "\"No,\" he said, \"I shall not lie to you, my friend."
     },
     {
      "id": "p003.s02",
-     "source": "When he grew tired, he would lie down and sleep."
+     "source": "I never saw those little people shoot an arrow, but there are so many arrows there, and so many pieces of broken ones, that it proves that my grandfather was right in what he told me."
     },
     {
      "id": "p003.s03",
-     "source": "When he was rested, he would get up and go on."
-    },
-    {
-     "id": "p003.s04",
-     "source": "So he travelled many days, and when one pair of moccasins wore out, he put on another pair."
+     "source": "Besides, nobody could ever sleep on that island.\""
     }
    ],
    "id": "p003"
@@ -97,11 +97,19 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "At last he came to a wigwam, in which sat an old woman."
+     "source": "I have heard a legend wherein OLD-man, in the beginning, killed an animal for the people to eat, and then instructed them to use the ribs of the dead brute to make knives and arrow-points."
     },
     {
      "id": "p004.s02",
-     "source": "When she saw him, she called, \"Come in, my grandchild.\""
+     "source": "I have seen lance-heads, made from shank bones, that were so highly polished that they resembled pearl, and I have in my possession bone arrow-points such as were used long ago."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Indians do not readily forget their tribal history, and I have photographed a war-bonnet, made of twisted buffalo hair, that was manufactured before the present owner's people had, or ever saw, the horse."
+    },
+    {
+     "id": "p004.s04",
+     "source": "The owner of this bonnet has told me that the stone arrow-head was never used by Indians, and that he knew that ghost-people made and used them when the world was young."
     }
    ],
    "id": "p004"
@@ -111,7 +119,23 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "He entered, and sat down at her feet."
+     "source": "The bow of the plains Indian was from thirty-six to forty-four inches long, and made from the wood of the choke-cherry tree."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Sometimes bows were made from the service (or sarvice) berry bush, and this bush furnished the best material for arrows."
+    },
+    {
+     "id": "p005.s03",
+     "source": "I have seen hickory bows among the plains Indians, too, and these were longer and always straight, instead of being fashioned like Cupid's weapon."
+    },
+    {
+     "id": "p005.s04",
+     "source": "These hickory bows came from the East, of course, and through trading, reached the plains country."
+    },
+    {
+     "id": "p005.s05",
+     "source": "I have also seen bows covered with the skins of the bull-snake, or wound with sinew, and bows have been made from the horns of the elk, in the early days, after a long course of preparation."
     }
    ],
    "id": "p005"
@@ -121,7 +145,15 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "\"Where are you going?\" she asked him."
+     "source": "Before Lewis and Clark crossed this vast country, the Blackfeet had traded with the Hudson Bay Company, and steel knives and lance-heads, bearing the names of English makers, still remain to testify to the relations existing, in those days, between those famous traders and men of the Piegan, Blood, and Blackfoot tribes, although it took many years for traders on our own side of the line to gain their friendship."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Indeed, trappers and traders blamed the Hudson Bay Company for the feeling of hatred held by the three tribes of Blackfeet for the \"Americans\"; and there is no doubt that they were right to some extent, although the killing of the Blackfoot warrior by Captain Lewis in 1805 may have been largely to blame for the trouble."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Certain it is that for many years after the killing, the Blackfeet kept traders and trappers on the dodge unless they were Hudson Bay men, and in 1810 drove the \"American\" trappers and traders from their fort at Three-Forks."
     }
    ],
    "id": "p006"
@@ -131,7 +163,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"I am going to find the village of the hunters,\" he answered."
+     "source": "It was early when we gathered in War Eagle's lodge, the children and I, but the story-telling began at once."
     }
    ],
    "id": "p007"
@@ -141,15 +173,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "\"Oh, beware, my child,\" she cried."
-    },
-    {
-     "id": "p008.s02",
-     "source": "\"Many a brave one of your tribe has tried to find that village, and none has ever come back."
-    },
-    {
-     "id": "p008.s03",
-     "source": "Take care they do not kill you, also.\""
+     "source": "\"Now I shall tell you a story that will show you how little OLD-man cared for the welfare of others,\" said War Eagle."
     }
    ],
    "id": "p008"
@@ -159,7 +183,27 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "\"I am not afraid,\" the boy replied, his eyes shining."
+     "source": "\"It happened in the fall, this thing I shall tell you, and the day was warm and bright."
+    },
+    {
+     "id": "p009.s02",
+     "source": "OLD-man and his brother the Red Fox were travelling together for company."
+    },
+    {
+     "id": "p009.s03",
+     "source": "They were on a hillside when OLD-Man said: 'I am hungry."
+    },
+    {
+     "id": "p009.s04",
+     "source": "Can you not kill a Rabbit or something for us to eat?"
+    },
+    {
+     "id": "p009.s05",
+     "source": "The way is long, and I am getting old, you know."
+    },
+    {
+     "id": "p009.s06",
+     "source": "You are swift of foot and cunning, and there are Rabbits among these rocks.'"
     }
    ],
    "id": "p009"
@@ -169,23 +213,23 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"Well, listen to me,\" she said in a low voice."
+     "source": "\"'Ever since morning came I have watched for food, but the moon must be wrong or something, for I see nothing that is good to eat,' replied the Fox."
     },
     {
      "id": "p010.s02",
-     "source": "\"I shall give you two bones which the medicine men use."
+     "source": "'Besides that, my medicine is bad and my heart is weak."
     },
     {
      "id": "p010.s03",
-     "source": "They will help you very much.\""
+     "source": "You are great, and I have heard you can do most anything."
     },
     {
      "id": "p010.s04",
-     "source": "Then she told him many things which he was to do when the time came."
+     "source": "Many snows have known your footprints, and the snows make us all wise."
     },
     {
      "id": "p010.s05",
-     "source": "When she had finished, he thanked her, and went his way."
+     "source": "I think you are the one to help, not I.'"
     }
    ],
    "id": "p010"
@@ -195,27 +239,47 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "He travelled for two days more, and at last came in sight of the hunters' village."
+     "source": "\"'Listen, brother,' said OLD-man, 'I have neither bow nor lance—nothing to use in hunting."
     },
     {
      "id": "p011.s02",
-     "source": "It looked as the old woman told him it would."
+     "source": "Your weapons are ever with you—your great nose and your sharp teeth."
     },
     {
      "id": "p011.s03",
-     "source": "In the centre of the village stood a lodge, where the chief, lived."
+     "source": "Just as we came up this hill I saw two great Buffalo-Bulls."
     },
     {
      "id": "p011.s04",
-     "source": "In front of this lodge, a tall tree grew."
+     "source": "You were not looking, but I saw them, and if you will do as I want you to we shall have plenty of meat."
     },
     {
      "id": "p011.s05",
-     "source": "This tree was stripped of its bark and branches, and hanging from it, about halfway up, was a small lodge, wherein lived the chief's two daughters."
+     "source": "This is my scheme; I shall pull out all of your hair, leaving your body white and smooth, like that of the fish."
     },
     {
      "id": "p011.s06",
-     "source": "It was in this small lodge that all the Indians had been killed, after they had found the village."
+     "source": "I shall leave only the white hair that grows on the tip of your tail, and that will make you funny to look at."
+    },
+    {
+     "id": "p011.s07",
+     "source": "Then you are to go before the Bulls and commence to dance and act foolish."
+    },
+    {
+     "id": "p011.s08",
+     "source": "Of course the Bulls will laugh at you, and as soon as they get to laughing you must act sillier than ever."
+    },
+    {
+     "id": "p011.s09",
+     "source": "That will make them laugh so hard that they will fall down and laugh on the ground."
+    },
+    {
+     "id": "p011.s10",
+     "source": "When they fall, I shall come upon them with my knife and kill them."
+    },
+    {
+     "id": "p011.s11",
+     "source": "Will you do as I suggest, brother, or will you starve?'"
     }
    ],
    "id": "p011"
@@ -225,31 +289,19 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "The boy remembered what the old woman had told him, so he changed himself into a squirrel."
+     "source": "\"'What!"
     },
     {
      "id": "p012.s02",
-     "source": "He ran up the smooth side of the tree."
+     "source": "Pull out my hair?"
     },
     {
      "id": "p012.s03",
-     "source": "But when he had nearly reached the lodge, the tree shot quickly up into the air, carrying the little house with it."
+     "source": "I shall freeze with no hair on my body, OLD-man."
     },
     {
      "id": "p012.s04",
-     "source": "The boy climbed up higher."
-    },
-    {
-     "id": "p012.s05",
-     "source": "Again the tree shot up in the air."
-    },
-    {
-     "id": "p012.s06",
-     "source": "And the higher he climbed, the higher the tree went, until at last it stopped."
-    },
-    {
-     "id": "p012.s07",
-     "source": "It could go no farther, for it had reached the arch of heaven."
+     "source": "No—I will not suffer you to pull my hair out when the winter is so near,' cried the Fox."
     }
    ],
    "id": "p012"
@@ -259,39 +311,27 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "When the boy saw this, he changed himself from the squirrel back into a boy, and entered the lodge."
+     "source": "\"'Ho!"
     },
     {
      "id": "p013.s02",
-     "source": "The two sisters were squatted on the floor."
+     "source": "It is vanity, my brother, not fear of freezing."
     },
     {
      "id": "p013.s03",
-     "source": "He asked them their names."
+     "source": "If you will do this we shall have meat for the winter, and a fire to keep us warm."
     },
     {
      "id": "p013.s04",
-     "source": "The one on the left said hers was Azhabee, which means, one who sits behind."
+     "source": "See, the wind is in the south and warm."
     },
     {
      "id": "p013.s05",
-     "source": "The girl on the right said hers was Negahnahbee, which means, one who sits before."
+     "source": "There is no danger of freezing."
     },
     {
      "id": "p013.s06",
-     "source": "When he spoke to the girl on the left, the tree began to sink down."
-    },
-    {
-     "id": "p013.s07",
-     "source": "Then when he spoke to the other sister, it began to shoot up into the air again."
-    },
-    {
-     "id": "p013.s08",
-     "source": "When he noticed this, he continued talking to the girl on the left, and the tree kept on sinking lower, until at last it was down as it had been at first."
-    },
-    {
-     "id": "p013.s09",
-     "source": "Then the boy drew out his war-club."
+     "source": "Come, let me do it,' replied OLD-man."
     }
    ],
    "id": "p013"
@@ -301,15 +341,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "\"I am going to kill you,\" he said to the sisters, \"for you have been so cruel to all my relatives.\""
-    },
-    {
-     "id": "p014.s02",
-     "source": "Swinging his club, he brought it down on their heads and killed them both."
-    },
-    {
-     "id": "p014.s03",
-     "source": "Then he jumped from the lodge to the ground."
+     "source": "\"'Well—if you are sure that I won't freeze, all right,' said the Fox, 'but I'll bet I'll be sorry.'"
     }
    ],
    "id": "p014"
@@ -319,23 +351,19 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "As he stood there, he remembered that these two sisters had a brother and a father, who would be sure to kill him, when they found what he had done."
+     "source": "\"So Old-man pulled out all of the Fox's hair, leaving only the white tip that grew near the end of his tail."
     },
     {
      "id": "p015.s02",
-     "source": "So he turned, and ran very quickly."
+     "source": "Poor little Red Fox shivered in the warm breeze that OLD-man told about, and kept telling OLD-man that the hair-pulling hurt badly."
     },
     {
      "id": "p015.s03",
-     "source": "He had not gone far, when the father and brother returned."
+     "source": "Finally OLD-man finished the job and laughed at the Fox, saying: 'Why, you make me laugh, too."
     },
     {
      "id": "p015.s04",
-     "source": "When they saw the dead girls, they were very angry."
-    },
-    {
-     "id": "p015.s05",
-     "source": "The father told the brother to follow the boy."
+     "source": "Now go and dance before the Bulls, and I shall watch and be ready for my part of the scheme.'"
     }
    ],
    "id": "p015"
@@ -345,15 +373,31 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "\"It must be that boy who killed them,\" he said, \"for he is the only stranger here."
+     "source": "\"Around the hill went the poor Red Fox and found the Bulls."
     },
     {
      "id": "p016.s02",
-     "source": "Follow him, and do not eat until you have killed him."
+     "source": "Then he began to dance before them as OLD-man had told him."
     },
     {
      "id": "p016.s03",
-     "source": "If you eat, your power is gone.\""
+     "source": "The Bulls took one look at the hairless Fox and began to laugh."
+    },
+    {
+     "id": "p016.s04",
+     "source": "My!"
+    },
+    {
+     "id": "p016.s05",
+     "source": "How they did laugh, and then the Red Fox stood upon his hind legs and danced some more; acted sillier, as OLD-man had told him."
+    },
+    {
+     "id": "p016.s06",
+     "source": "Louder and louder laughed the Bulls, until they fell to the ground with their breath short from the laughing."
+    },
+    {
+     "id": "p016.s07",
+     "source": "The Red Fox kept at his antics lest the Bulls get up before OLD-man reached them; but soon he saw him coming, with a knife in his hand."
     }
    ],
    "id": "p016"
@@ -363,39 +407,19 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "The brother started off, running even faster than the boy."
+     "source": "\"Running up to the Bulls, OLD-man plunged his knife into their hearts, and they died."
     },
     {
      "id": "p017.s02",
-     "source": "When the boy heard him coming, and knew that he would be caught, he climbed a tree."
+     "source": "Into the ground ran their blood, and then OLD-man laughed and said: 'Ho, I am the smart one."
     },
     {
      "id": "p017.s03",
-     "source": "Then he began to shoot magic arrows back at the brother."
+     "source": "I am the real hunter."
     },
     {
      "id": "p017.s04",
-     "source": "But this did not seem to hurt him."
-    },
-    {
-     "id": "p017.s05",
-     "source": "So the boy got down from the tree, and ran on again."
-    },
-    {
-     "id": "p017.s06",
-     "source": "Now he could tell that the brother was very close to him."
-    },
-    {
-     "id": "p017.s07",
-     "source": "So he changed himself into a dead moose, and lay down on the grass."
-    },
-    {
-     "id": "p017.s08",
-     "source": "He drew out the enchanted moccasins, and whispered to them, \"Travel on and on till you come to the end of the earth.\""
-    },
-    {
-     "id": "p017.s09",
-     "source": "Away they went, because they were enchanted, leaving their marks behind them."
+     "source": "I depend on my head for meat—ha!—ha!-ha!'"
     }
    ],
    "id": "p017"
@@ -405,39 +429,11 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "When the brother came up he saw only a dead moose, with footmarks leading away from him."
+     "source": "\"Then OLD-man began to dress and skin the Bulls, and he worked hard and long."
     },
     {
      "id": "p018.s02",
-     "source": "He followed on, until he came to the end of the earth."
-    },
-    {
-     "id": "p018.s03",
-     "source": "Then he saw that he had been fooled, that he had been following only a pair of moccasins."
-    },
-    {
-     "id": "p018.s04",
-     "source": "He was so very angry that he did not know what to do."
-    },
-    {
-     "id": "p018.s05",
-     "source": "And he felt tired and hungry."
-    },
-    {
-     "id": "p018.s06",
-     "source": "He thought surely he must eat now."
-    },
-    {
-     "id": "p018.s07",
-     "source": "Then he remembered his dead sisters, and said, \"No, I shall find that boy yet, and kill him.\""
-    },
-    {
-     "id": "p018.s08",
-     "source": "So he turned back till he came to the spot where the dead moose had been."
-    },
-    {
-     "id": "p018.s09",
-     "source": "To his surprise it was gone, and footsteps led away in the opposite direction."
+     "source": "In fact it was nearly night when he got the work all done."
     }
    ],
    "id": "p018"
@@ -447,23 +443,11 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "He followed them until he came to a beautiful, old garden, with fruit trees and flowers in it."
+     "source": "\"Poor little Red Fox had stood there all the time, and OLD-man never noticed that the wind had changed and was coming from the north."
     },
     {
      "id": "p019.s02",
-     "source": "In the garden stood an old house covered with vines, where a very old man lived."
-    },
-    {
-     "id": "p019.s03",
-     "source": "He was so very old that his two daughters did everything for him."
-    },
-    {
-     "id": "p019.s04",
-     "source": "Now this old man was really the boy, who had changed himself this way."
-    },
-    {
-     "id": "p019.s05",
-     "source": "The daughters saw the brother coming."
+     "source": "Yes, poor Red Fox stood there and spoke no word; said nothing at all, even when OLD-man had finished."
     }
    ],
    "id": "p019"
@@ -473,11 +457,15 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "\"Father,\" they said, \"there is such a tired-looking traveller coming up the road."
+     "source": "\"'Hi, there, you! what's the matter with you?"
     },
     {
      "id": "p020.s02",
-     "source": "May we ask him in?\""
+     "source": "Are you sorry that we have meat?"
+    },
+    {
+     "id": "p020.s03",
+     "source": "Say, answer me!'"
     }
    ],
    "id": "p020"
@@ -487,7 +475,23 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "\"Yes, invite him to enter,\" answered the father, \"and give him something to eat.\""
+     "source": "\"But the Red Fox was frozen stiff—was dead."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Yes, the north wind had killed him while OLD-man worked at the skinning."
+    },
+    {
+     "id": "p021.s03",
+     "source": "The Fox had been caught by the north wind naked, and was dead."
+    },
+    {
+     "id": "p021.s04",
+     "source": "OLD-man built a fire and warmed his hands; that was all he cared for the Red Fox, and that is all he cared for anybody."
+    },
+    {
+     "id": "p021.s05",
+     "source": "He might have known that no person could stand the north wind without a robe; but as long as he was warm himself—that was all he wanted."
     }
    ],
    "id": "p021"
@@ -497,76 +501,22 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "The daughters called to the brother, and invited him in."
+     "source": "\"That is all of that story."
     },
     {
      "id": "p022.s02",
-     "source": "He was glad to enter the cool, shady garden."
+     "source": "To-morrow night I shall tell you why the birch-tree wears those slashes in its bark."
     },
     {
      "id": "p022.s03",
-     "source": "They cooked him some hot food and other nice things, and when he smelt the meal, he could not refuse to eat, for he had been without food for such a long time, and had travelled so many miles."
+     "source": "That was some of OLD-man's work, too."
     },
     {
      "id": "p022.s04",
-     "source": "He ate of the food, and as he did so, he forgot all about his dead sisters, forgot even his home."
-    },
-    {
-     "id": "p022.s05",
-     "source": "A strange, sleepy feeling came over him, and he fell into a sound sleep."
+     "source": "Ho!\""
     }
    ],
    "id": "p022"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p023.s01",
-     "source": "When the old man saw this, he changed himself back into a boy, and the garden, house, and daughters disappeared."
-    },
-    {
-     "id": "p023.s02",
-     "source": "Only the sleeping brother lay there."
-    },
-    {
-     "id": "p023.s03",
-     "source": "The boy quickly drew the ball around from his back, which turned out to be a magic war-club."
-    },
-    {
-     "id": "p023.s04",
-     "source": "With this he put an end to the brother."
-    },
-    {
-     "id": "p023.s05",
-     "source": "As he journeyed homewards through the forest he heard the sound of footsteps behind him."
-    },
-    {
-     "id": "p023.s06",
-     "source": "Turning, he saw nothing; but the sound was coming nearer."
-    },
-    {
-     "id": "p023.s07",
-     "source": "In a moment a pair of moccasins appeared on the path."
-    },
-    {
-     "id": "p023.s08",
-     "source": "It was the enchanted moccasins returning from the ends of the earth."
-    },
-    {
-     "id": "p023.s09",
-     "source": "The boy quickly picked them up and put them in his bag."
-    },
-    {
-     "id": "p023.s10",
-     "source": "Then he continued gladly on his way and soon reached the lodge, where his sister came forth to meet him."
-    },
-    {
-     "id": "p023.s11",
-     "source": "She was very proud of his brave deed, and she and the boy always treasured the enchanted moccasins."
-    }
-   ],
-   "id": "p023"
   }
  ]
 }

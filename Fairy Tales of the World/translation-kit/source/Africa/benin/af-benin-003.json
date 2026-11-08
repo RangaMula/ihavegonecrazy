@@ -1,0 +1,150 @@
+{
+ "id": "af-benin-003",
+ "title": {
+  "id": "title",
+  "source": "Gacikori ŋgaɖee ga na rɩ gʊcǝma ma"
+ },
+ "tradition": "Benin",
+ "continent": "Africa",
+ "source_lang": "blo",
+ "source_book": "African Storybook — traditional tales retold (CC BY 4.0)",
+ "credits": "Folktale Alidjanatou OUMOROU José Nhambo (story, illustration and translation credits as listed by African Storybook)",
+ "gutenberg": "African Storybook story #50114 — https://www.africanstorybook.org/ (search the title)",
+ "copyright": "Creative Commons Attribution 4.0 (CC BY 4.0). Free to copy, translate and adapt for any purpose, including commercial, as long as you credit the original author(s), illustrator(s) and African Storybook and link to the licence: https://creativecommons.org/licenses/by/4.0/",
+ "markdown_file": "Africa/Benin/003 - Gacikori ŋgaɖee ga na rɩ gʊcǝma ma.md",
+ "stats": {
+  "paragraphs": 10,
+  "segments": 17,
+  "words": 213
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Amʊmpǝrǝ n ce atɩ ri gacikori n'asnaŋɔnja abʊmbɔnɔ."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Ba ɖa ba ɖa ma ni, ʊshilé É–Çn na gacikori ga ɖoo ŋŋɔ nɩ na yeeyee n'ʊciŋkǝrka."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Ama gʊyeeyee gʊɖe nɩ na ga tɩ́ li."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Ŋŋɔ nɩ ŋkÇÅ‹ na ga wa n'asnaŋɔnja abʊmbɔnɔ."
+    },
+    {
+     "id": "p002.s02",
+     "source": "N'asnaŋɔnja abʊmbɔnɔ a kim asǝla na jɩ naa alǝ jɩ wàà : « Akɔmɔ ɩ tɩ kpa amʊ páá. »"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Na gacikori ga buye nɩ wàà : « Ʊŋono asnaŋɔnja abʊmbɔnɔ, n yɔ wàà, ʊ na yɛɛ yɛɛ á kûr amʊ."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Ama n shee sɔlɔ wàà, ma cîi na ganyana. »"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "N'asnaŋɔnja abʊmbɔnɔ a taba gacikori wàà : « Á cîi na ganyana, baɩ laŋ ?"
+    },
+    {
+     "id": "p004.s02",
+     "source": "K'ɩ ye amʊ na ! »"
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "ŊkÇÅ‹ na gacikori ga buye nɩ wàà : « Baa n tǝ ma cîi, n sɔlɔ ɩ jɩ wàà, ma ɖâ gʊcǝma nɩ. »"
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "N'asǝnaŋɔnja abʊmbɔnɔ a yɛɛ gaɖu asǝ naa asǝba gʊcǝma kʊkÇÊŠ."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Gacikori ga sǝba gʊcǝma gʊrɩka, ama 'ʊcine k'ʊ ɖa atǝn na."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Ɩsna baÉ–Çn ba ɖa ŋkÇÅ‹ asǝla gaɖu."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Ba rÇÅ‹Ç gʊcǝma ma, na ba kim ace ba tɩ kiɖe bʊkÉ”ÌÉ© bʊ na sara ma."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Asnaŋɔnja abʊmbɔnɔ a Å‹Ç ɩsna baɖe ma, n'asampǝna ɩ kpa nɩ, n'a cu."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "ŊkÇÅ‹ na gacikori ga tǝwǝ kagʊcǝma, aɖʊwaa ɩsna baɖe ba fʊra nɩ."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Asnaŋɔnja abʊmbɔnɔ k'a kɔɔ kur nɩ na."
+    }
+   ],
+   "id": "p010"
+  }
+ ]
+}

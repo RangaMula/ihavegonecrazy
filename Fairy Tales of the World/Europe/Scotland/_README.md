@@ -7,7 +7,7 @@ Tales in this folder: **100**
 
 - *The Scottish Fairy Book* — Grierson, Elizabeth W. (Elizabeth Wilson) (author) — Gutenberg #37532 — 26 tales — PD in USA; translator death date unrecorded
 - *Folk-Lore and Legends
-Scotland* — Anonymous / traditional — Gutenberg #17071 — 32 tales — PD in USA; translator death date unrecorded
+Scotland* — see each tale — Gutenberg #17071 — 32 tales — PD in USA; translator death date unrecorded
 - *Celtic Fairy Tales* — Jacobs, Joseph (compiler, d. 1916) — Gutenberg #7885 — 25 tales — PD worldwide
 - *Fables* — Stevenson, Robert Louis (author, d. 1894) — Gutenberg #343 — 17 tales — PD worldwide
 

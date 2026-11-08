@@ -1,12 +1,13 @@
 # Nigeria (Efik, Ibibio and Ikom peoples)
 
 Continent: Africa  
-Tales in this folder: **72** (fewer than 100: every distinct tale found in the public-domain sources below is included)
+Tales in this folder: **73** (fewer than 100: every distinct tale found in the free sources below is included)
 
 ## Sources
 
 - *Folk Stories from Southern Nigeria, West Africa* — Dayrell, Elphinstone (author, d. 1917) — Gutenberg #34655 — 40 tales — PD worldwide
 - *Ikom folk stories from Southern Nigeria* — Dayrell, Elphinstone (author, d. 1917) — Gutenberg #70959 — 32 tales — PD worldwide
+- *African Storybook — traditional tales retold (CC BY 4.0)* — see each tale — African Storybook (Saide), https://www.africanstorybook.org/ — 1 tales — CC BY 4.0 — credit authors/illustrators when translating
 
 ## Tales
 
@@ -82,3 +83,4 @@ Tales in this folder: **72** (fewer than 100: every distinct tale found in the p
 70. How Agbor Adam broke the Hunting Law of Okuni, and How He was Punished
 71. How Essama Stole Her Father’s Goat in the Fatting-house, and Her Brother was Punished for it
 72. Quomodo evenit ut Penis primum cum Vagina coiit
+73. Why the cricket has a black mouth

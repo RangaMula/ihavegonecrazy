@@ -4,7 +4,7 @@
 - **Source book:** *Legends and tales of the Harz Mountains*
 - **Author / collector / translator:** Lauder, Toofie (author, d. 1922)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #74323 — https://www.gutenberg.org/ebooks/74323 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #74323 — https://www.gutenberg.org/ebooks/74323
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

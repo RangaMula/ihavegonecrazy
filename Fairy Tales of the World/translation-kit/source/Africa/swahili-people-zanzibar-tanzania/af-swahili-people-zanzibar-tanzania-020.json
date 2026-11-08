@@ -1,0 +1,324 @@
+{
+ "id": "af-swahili-people-zanzibar-tanzania-020",
+ "title": {
+  "id": "title",
+  "source": "Sayari Jua ya Saba"
+ },
+ "tradition": "Swahili people (Zanzibar, Tanzania)",
+ "continent": "Africa",
+ "source_lang": "sw",
+ "source_book": "African Storybook — traditional tales retold (CC BY 4.0)",
+ "credits": "Indian Folktale; Kamundi Mutugi Pratham Books (story, illustration and translation credits as listed by African Storybook)",
+ "gutenberg": "African Storybook story #2397 — https://www.africanstorybook.org/ (search the title)",
+ "copyright": "Creative Commons Attribution 4.0 (CC BY 4.0). Free to copy, translate and adapt for any purpose, including commercial, as long as you credit the original author(s), illustrator(s) and African Storybook and link to the licence: https://creativecommons.org/licenses/by/4.0/",
+ "markdown_file": "Africa/Swahili people (Zanzibar, Tanzania)/020 - Sayari Jua ya Saba.md",
+ "stats": {
+  "paragraphs": 25,
+  "segments": 38,
+  "words": 285
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Hapo zamani za kale kulikuwa na sayari jua saba angani."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Miale mikali ya sayari jua hizo iling'aa duniani hadi binadamu wakashindwa kuvumilia."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Ndugu saba wa kabila la Munda waliamua kuziua sayari jua hizo."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Walizirushia mishale lakini wakaweza kuziua sayari jua sita pekee."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Sayari Jua ya saba ilikuwa imejificha nyuma ya mlima."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Baada ya sayari jua sita kuuawa, giza lilitanda kila mahali."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Kwa sababu hiyo, paa hangeweza kumwona chui."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Tembo walijikwaa kwenye miti na sungura wakatembea kwenye hatari ya simba."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Wanyama wote walitaabika."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Wanyama wote walikutana kutatua shida hii."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Sungura alisema kwamba Sayari Jua ya saba ilikuwa imejificha nyuma ya mlima."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Wnayama walijiuliza, \"Ni nani atakayeiita Sayari Jua hiyo irudi?\""
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"Nitaiita irudi,\" alisema Simba, mfalme wa msitu huo."
+    },
+    {
+     "id": "p012.s02",
+     "source": "\"Jua, jua, tafadhali usitutoroke."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Rudi utuangazie.\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Simba alinguruma."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Lakini, Sayari Jua ilikataa kumsikiliza."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Tembo naye akajaribu kuiita Sayari jua."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Aliuinua mkonga wake na kupaaza sauti, \"Jua, jua tafadhali rudi.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Lakini, Sayari Jua ilikataa kumsikiliza pia."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Tausi Mrembo alicheza densi kidogo na kisha akajaribu kuiita Sayari Jua, \"Jua, jua, tafadhali rudi.\""
+    },
+    {
+     "id": "p016.s02",
+     "source": "Sayari jua ilikataa kujitokeza."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Wanyama wote waliita, lakini, Sayari Jua haikumsikiza yeyote."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Jogoo alipojitokeza kuiita Sayari Jua, kila mmoja alimcheka."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Simba, kama kiongozi mzuri, alisema, \"Tumpeni Jogoo nafasi ajaribu kuiita Sayari Jua.\""
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Jogoo alisimama mbele ya wanyama wote, na taratibu akawika, \"Kookoorikoo!"
+    },
+    {
+     "id": "p018.s02",
+     "source": "Kookoorikoo!\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Mara Sayari Jua ikaanza kuchomoza kutoka nyuma ya mlima."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Wanyama wote walishangaa."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Jogoo akawika tena kwa nguvu zaidi, \"Kookoorikoo!\""
+    },
+    {
+     "id": "p021.s02",
+     "source": "Sayari Jua ikachomoza hata zaidi."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Jogoo akawika kwa mara ya tatu, \"Kookoorikoo!\""
+    },
+    {
+     "id": "p022.s02",
+     "source": "Sayari Jua ikapanda juu zaidi na kung'aa."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Kukawa na mwangaza kila mahali."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Wanyama wote na binadamu wakafurahi kuuona mwangaza."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Wanyama waliwaomba binadamu wasiiue Sayari Jua."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Tangu siku hiyo, jogoo huwika kila asubuhi."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Nayo Sayari Jua isikiapo sauti ya jogoo, huchomoza na kuangaza dunia yote."
+    }
+   ],
+   "id": "p025"
+  }
+ ]
+}

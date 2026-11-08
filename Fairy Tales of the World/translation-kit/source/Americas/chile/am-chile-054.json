@@ -1,0 +1,44 @@
+{
+ "id": "am-chile-054",
+ "title": {
+  "id": "title",
+  "source": "LA APARICION DE LA CULEBRA. (Me lo contó en 1911 el niño D. Juan Pereira, de años, de Cauquenes.)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/054 - LA APARICION DE LA CULEBRA. (Me lo contó en 1911 el niño D. Juan Pereira, de años, de Cauq.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 154
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Un caballero invitó a almorzar a una comadre que pasaba por bruja, y en medio del almuerzo le preguntó si era cierto lo que de ella se decía, y le pidió que si lo era efectivamente, hiciese que le apareciera a él una culebra enroscada en el brazo derecho."
+    },
+    {
+     "id": "p001.s02",
+     "source": "La comadre se quedó callada; pero al poco rato el caballero sintió como que se le adormecía el brazo, y poco a poco fué apareciendo una culebra, que momento a momento le estrechaba más el brazo."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Entonces el caballero le pidió que la hiciera desaparecer, pero la comadre le dijo que ella misma no podía hacerlo; que tenía que ir a casa de otra bruja, que le indicó; y que llevara de unas yerbas de que le entregó un buen manojo."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Fué allá, y la otra bruja le sobó el brazo con el zumo de las yerbas y la culebra fué desapareciendo poco a poco."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

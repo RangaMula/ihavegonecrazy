@@ -4,7 +4,7 @@
 - **Source book:** *Popular Tales*
 - **Author / collector / translator:** Perrault, Charles (author, d. 1703); Lang, Andrew (editor, d. 1912)
 - **Original language of this text:** ['en', 'fr']
-- **Source:** Project Gutenberg eBook #33931 — https://www.gutenberg.org/ebooks/33931 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #33931 — https://www.gutenberg.org/ebooks/33931
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

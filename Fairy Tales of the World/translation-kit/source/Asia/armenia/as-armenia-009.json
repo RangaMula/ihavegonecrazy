@@ -2,28 +2,40 @@
  "id": "as-armenia-009",
  "title": {
   "id": "title",
-  "source": "Private Festival Occasions"
+  "source": "Zoolvisia"
  },
  "tradition": "Armenia",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Armenian Legends and Festivals",
- "credits": "Boettiger, Louis A. (Louis Angelo) (author)",
- "gutenberg": "Project Gutenberg eBook #38129 — https://www.gutenberg.org/ebooks/38129 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Asia/Armenia/009 - Private Festival Occasions.md",
+ "source_book": "The Golden Maiden, and other folk tales and fairy stories told in Armenia",
+ "credits": "Seklemian, A. G. (Apraham Garabed) (author, d. 1920)",
+ "gutenberg": "Project Gutenberg eBook #46944 — https://www.gutenberg.org/ebooks/46944",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Armenia/009 - Zoolvisia.md",
  "stats": {
-  "paragraphs": 47,
-  "segments": 233,
-  "words": 6146
+  "paragraphs": 80,
+  "segments": 266,
+  "words": 4269
  },
  "paragraphs": [
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Section 1. Baptism"
+     "source": "Once upon a time there was a King who was very fond of hunting."
+    },
+    {
+     "id": "p001.s02",
+     "source": "He had extensive forests full of all kinds of game."
+    },
+    {
+     "id": "p001.s03",
+     "source": "But at the farthest boundaries of his dominions was a strip of land, surrounded by steep hills, which the people of the country considered enchanted ground, because none who had gone thither for the purpose of hunting had ever returned."
+    },
+    {
+     "id": "p001.s04",
+     "source": "One day the King said to his noblemen:"
     }
    ],
    "id": "p001"
@@ -33,11 +45,7 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "The third group of festivals comprises those connected with the common life of the people, including the ceremonies of baptism, betrothal, marriage, and funeral."
-    },
-    {
-     "id": "p002.s02",
-     "source": "The church is vitally related to each of them, and they are of importance here because of their social value, which I shall again endeavor to point out."
+     "source": "“Let us go and see what is there.”"
     }
    ],
    "id": "p002"
@@ -47,115 +55,19 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "First after birth, the most important event in the life of every Armenian child is that of baptism, for the belief is that the unbaptized child has no soul."
+     "source": "His men asked him to be advised and not to go."
     },
     {
      "id": "p003.s02",
-     "source": "The infant is therefore generally baptized on the day after birth, and when this is impossible always within eight days of birth."
+     "source": "But the King insisted; they started upon the fatal journey and never came back."
     },
     {
      "id": "p003.s03",
-     "source": "If the child is sick there is all the more reason to hurry; in this case the essential parts of the ceremony are performed in the home, the remainder being celebrated at the church at some later time."
+     "source": "The King had two sons, the eldest of whom succeeded him."
     },
     {
      "id": "p003.s04",
-     "source": "The very first thing to be done therefore after the birth of a child is to make the necessary preparations for baptism, which are very elaborate in the case of the first-born, especially if the child is a boy."
-    },
-    {
-     "id": "p003.s05",
-     "source": "A girl is always better than no child at all, but not much better."
-    },
-    {
-     "id": "p003.s06",
-     "source": "A godfather and godmother are selected, presents are exchanged between them and the parents of the child, invitations are sent to friends and relations, and at a fixed time the assembled people form a procession to the church, led by the midwife holding the child."
-    },
-    {
-     "id": "p003.s07",
-     "source": "The godfather pays all expenses, and therefore such splendor as the ceremony may have in the way of special ornaments for the altar, numbers of priests, and a large choir, is determined by him."
-    },
-    {
-     "id": "p003.s08",
-     "source": "After the group has properly assembled at the church, the priest takes the child from the midwife and gives it to the godfather."
-    },
-    {
-     "id": "p003.s09",
-     "source": "The profession of faith follows immediately and then the priest turns to the west to abjure the devil and to the east to invoke the Trinity."
-    },
-    {
-     "id": "p003.s10",
-     "source": "Having placed the hem of his chasuble upon the babe, the priest proceeds to the sacristy reciting a psalm, and followed by the people."
-    },
-    {
-     "id": "p003.s11",
-     "source": "The central event now takes place."
-    },
-    {
-     "id": "p003.s12",
-     "source": "The baptism consists of three immersions in the name of the Holy Trinity."
-    },
-    {
-     "id": "p003.s13",
-     "source": "First water is poured over the head of the child, after which the whole body is plunged into the water."
-    },
-    {
-     "id": "p003.s14",
-     "source": "Confirmation is administered right after the ceremony of immersion, and takes place upon the altar of the church proper, before the image of the Blessed Virgin."
-    },
-    {
-     "id": "p003.s15",
-     "source": "The forehead, eyes, ears, nose, mouth, hands, back, breast and upper part of the feet of the infant are anointed with holy oil, and two wax tapers are placed in the hands of the godfather while carrying the child."
-    },
-    {
-     "id": "p003.s16",
-     "source": "The priest then takes the tapers and the babe, consecrates and confirms him by three profound inclinations before the altar, gives candles and child back to the godfather and blesses both."
-    },
-    {
-     "id": "p003.s17",
-     "source": "Now the child may be called by its Christian name, which is usually that of a saint."
-    },
-    {
-     "id": "p003.s18",
-     "source": "Led by the priest and the singing choir, the procession now starts back to the home of the little one, still carried by the godfather who continues to hold the candles."
-    },
-    {
-     "id": "p003.s19",
-     "source": "When he reaches the door of the mother, she kneels and prostrates herself before him."
-    },
-    {
-     "id": "p003.s20",
-     "source": "He in turn delivers the child to the mother’s arms who may now kiss it for the first time, the child not having been kissed by any one from the moment of birth to the delivering over to the mother by the godfather after baptism."
-    },
-    {
-     "id": "p003.s21",
-     "source": "Others may now also kiss the babe, and each endeavors to be the first, for there is a superstitious value attached to the first kiss following the mother’s after baptism."
-    },
-    {
-     "id": "p003.s22",
-     "source": "The priests and the family of the godfather spend the evening in the child’s home."
-    },
-    {
-     "id": "p003.s23",
-     "source": "They are served constantly by the father who does not himself sit down."
-    },
-    {
-     "id": "p003.s24",
-     "source": "For forty days the mother must keep her room, and walk only in such parts of the house as are exposed to the sun."
-    },
-    {
-     "id": "p003.s25",
-     "source": "Having completed the fortieth day she and her babe are taken to church by the grandmother."
-    },
-    {
-     "id": "p003.s26",
-     "source": "On this occasion the young mother must bring an offering, which in times past was a rich Persian rug, but is now merely a package of tapers."
-    },
-    {
-     "id": "p003.s27",
-     "source": "She waits at the door of the sacristy until the priest comes and leads her in before the high altar where both mother and child receive a blessing."
-    },
-    {
-     "id": "p003.s28",
-     "source": "After this ceremony she must visit the godfather and kiss his hand in token of gratitude."
+     "source": "One day the younger brother said to the new King:"
     }
    ],
    "id": "p003"
@@ -165,25 +77,121 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "If a funeral passes during the first forty days of the child’s life, the little one must be snatched up from the cradle and be carried upright."
-    },
-    {
-     "id": "p004.s02",
-     "source": "People now come to offer their felicitations."
-    },
-    {
-     "id": "p004.s03",
-     "source": "The greeting of the guest is always, “May God raise the child in the shadow of its parents,” to which answer is given, “May God bless you according to your desire,” or “May your tongue be always in good health.”"
+     "source": "“I will go and revenge my father’s death.”"
     }
    ],
    "id": "p004"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Section 2. Betrothal"
+     "source": "The King tried to dissuade him, but all in vain; the lad insisted."
+    },
+    {
+     "id": "p005.s02",
+     "source": "He had some very faithful servants who said they would accompany him, and they all set out upon the perilous journey."
+    },
+    {
+     "id": "p005.s03",
+     "source": "As soon as they entered the enchanted ground they saw a beautiful antelope running before them."
+    },
+    {
+     "id": "p005.s04",
+     "source": "They began to chase the animal, which seemed to mock them with its graceful bounds over the bushes and rocks."
+    },
+    {
+     "id": "p005.s05",
+     "source": "They continued chasing it until late in the day, when they came to a thick forest surrounded by steep rocks."
+    },
+    {
+     "id": "p005.s06",
+     "source": "The antelope leaped over the rocks and disappeared in the forest."
+    },
+    {
+     "id": "p005.s07",
+     "source": "But the hunters’ horses could go no farther, and they all dismounted."
+    },
+    {
+     "id": "p005.s08",
+     "source": "They were surprised to find an elegant tent pitched among the trees beside a fountain of pure water."
+    },
+    {
+     "id": "p005.s09",
+     "source": "Entering the tent, they saw a table spread with all kinds of delicious foods."
+    },
+    {
+     "id": "p005.s10",
+     "source": "They were very hungry and began to devour the food with ravenous appetites; after that they quenched their thirst from the crystal waters of the fountain."
+    },
+    {
+     "id": "p005.s11",
+     "source": "But the lad never tasted the food or the water; he thought to himself that there must be some deviltry at the bottom of this banquet."
+    },
+    {
+     "id": "p005.s12",
+     "source": "While his men gave themselves up to eating and drinking, the lad occupied himself in examining the neighborhood."
+    },
+    {
+     "id": "p005.s13",
+     "source": "To his great terror he saw not far from the tent a heap of human skeletons bleached and showing their grinning teeth."
+    },
+    {
+     "id": "p005.s14",
+     "source": "What could these be if not the bones of those who, from time to time, had come to hunt in that enchanted ground and been lost?"
+    },
+    {
+     "id": "p005.s15",
+     "source": "Among these, perchance, were the bones of his own father."
+    },
+    {
+     "id": "p005.s16",
+     "source": "How could he have been killed?"
+    },
+    {
+     "id": "p005.s17",
+     "source": "With these thoughts he came back to the tent, and to his great horror and grief saw that some of his men were already dead and others were breathing their last."
+    },
+    {
+     "id": "p005.s18",
+     "source": "He wished to help them, but in vain; they were soon as dead as stones."
+    },
+    {
+     "id": "p005.s19",
+     "source": "He could plainly see the cause; both the food and the water were poisoned."
+    },
+    {
+     "id": "p005.s20",
+     "source": "He now understood how all human beings who hunted in this region were done away with and heaped up on the pile of skeletons."
+    },
+    {
+     "id": "p005.s21",
+     "source": "But who was the perpetrator of this devilish crime?"
+    },
+    {
+     "id": "p005.s22",
+     "source": "His blood began to boil, and he determined to do battle with the perpetrator whether human being, fairy or demon, until he had revenged the victims of this diabolical plot."
+    },
+    {
+     "id": "p005.s23",
+     "source": "He was buried in this meditation when he heard the footsteps of approaching horsemen, and he immediately withdrew to the depths of the forest, bound his horse to a sycamore tree, and concealed himself behind the bushes, whence he could see the tent and the neighborhood without himself being perceived."
+    },
+    {
+     "id": "p005.s24",
+     "source": "Soon a number of horsemen arrived, who appeared to be greatly pleased at seeing the dead men, and at once began to strip them of their clothes."
+    },
+    {
+     "id": "p005.s25",
+     "source": "They loaded each man’s property upon his own horse, and prepared to drive the horses away."
+    },
+    {
+     "id": "p005.s26",
+     "source": "One of the riders, who no doubt was their leader, wore a complete suit of white armor, had locks of long hair and a graceful countenance, feminine in its beauty."
+    },
+    {
+     "id": "p005.s27",
+     "source": "The lad who was watching them closely, took aim with his bow and arrow and was just about to shoot the leader in the forehead, when he suddenly stopped."
     }
    ],
    "id": "p005"
@@ -193,35 +201,15 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "It is the popular belief among Armenians that the practice of early marriages dates from the proclamation of a Persian shah of the sixteenth century, to whom part of Armenia was tributary."
+     "source": "“That is a woman,” he said to himself."
     },
     {
      "id": "p006.s02",
-     "source": "This edict was intended to wipe out Christianity, and provided for the marriage of Armenian boys and girls with Persian children."
+     "source": "“I will not shoot at a woman.”"
     },
     {
      "id": "p006.s03",
-     "source": "In order to evade the edict, the Armenian parents ran secretly from house to house for several nights marrying off their children to each other."
-    },
-    {
-     "id": "p006.s04",
-     "source": "The custom on the part of the parents of arranging for the marriage of their children without the knowledge of the latter is supposed also to be rooted in this event."
-    },
-    {
-     "id": "p006.s05",
-     "source": "Whether the explanation be true or not, it certainly is not uncommon for children to marry at sixteen in the interior of Armenia, and it is still generally true that arrangements for the marriages of children are made without the knowledge of those most concerned."
-    },
-    {
-     "id": "p006.s06",
-     "source": "The girl does occasionally exercise choice, but when the unfortunate suitor is not desired by the parents the feeling of obligation on the girl’s part, simply because she has lived at her father’s table, is sufficient to induce her to submit."
-    },
-    {
-     "id": "p006.s07",
-     "source": "And the same may be said of the young man, although the greater independence of a son gives him a little more ground for acting contrary to his father’s wishes, than in the case of the daughter."
-    },
-    {
-     "id": "p006.s08",
-     "source": "But even when the choice of the children is accepted, the arrangements and ceremony of betrothal are always carried out by the parents."
+     "source": "At once he jumped out from the place of his concealment and standing before the leader exclaimed:"
     }
    ],
    "id": "p006"
@@ -231,55 +219,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "These arrangements are something as follows."
+     "source": "“Are you a human being, a fairy or a demon?"
     },
     {
      "id": "p007.s02",
-     "source": "The parents of a young man consult his grandparents, and choose a young girl who to them seems eligible."
+     "source": "Disclose yourself."
     },
     {
      "id": "p007.s03",
-     "source": "They then inform a woman match-maker of their decision, and it is her business to sound the ground, so to speak, before a proposal is made, since a refusal would ruin the boy’s reputation."
+     "source": "To lead people astray and to destroy human life by poison are not the deeds of heroes."
     },
     {
      "id": "p007.s04",
-     "source": "The matchmaker is often a professional woman, and can therefore be relied upon not to make a bungle of the job."
-    },
-    {
-     "id": "p007.s05",
-     "source": "Among other things, she finds out what gifts the bridegroom-to-be must make to his future bride, which can of course be done only after the proposal has met with a favorable response on the part of the parents of the girl."
-    },
-    {
-     "id": "p007.s06",
-     "source": "“What can he offer his bride,” is the all important question from the standpoint of the girl’s family."
-    },
-    {
-     "id": "p007.s07",
-     "source": "Among the rich, but in times past, gold bracelets bejeweled with diamonds or strings of gold pieces for adorning the head or neck were common varieties of gifts."
-    },
-    {
-     "id": "p007.s08",
-     "source": "To-day silver plate, or expensive heirlooms are given."
-    },
-    {
-     "id": "p007.s09",
-     "source": "After these matters have been decided upon, preparations are made for the ceremony of betrothal, usually held in the evening."
-    },
-    {
-     "id": "p007.s10",
-     "source": "The friends of the young man are notified to meet together in his house at an appointed hour with the priest who is given a ring which he blesses."
-    },
-    {
-     "id": "p007.s11",
-     "source": "The procession of the bridegroom’s friends headed by the priest now starts for the house of the bride."
-    },
-    {
-     "id": "p007.s12",
-     "source": "All are provided with lighted wax candles which they hold in their hands as they proceed down the streets accompanied by the sound of violin, clarinets, drum, and joyful singing."
-    },
-    {
-     "id": "p007.s13",
-     "source": "Sometimes a detour is made in order to lengthen the procession."
+     "source": "Come, let me measure swords with you.”"
     }
    ],
    "id": "p007"
@@ -289,51 +241,11 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Having arrived at their destination, the father and mother of the girl pretend to know nothing whatever of the reason for the coming of the guests, and conversation proceeds for a considerable time without the slightest allusion to the matter of chief moment."
+     "source": "These words of the lad at first called forth expressions of rage upon the countenance of the leader."
     },
     {
      "id": "p008.s02",
-     "source": "The priest finally makes the following statement amid profound silence: “According to the law of the supreme Creator, and following the usages of human society, we have the happiness of demanding the hand of Miss X, for Mr. Y.”"
-    },
-    {
-     "id": "p008.s03",
-     "source": "The father of the girl pretends not to wish to accept, stating that she is too young, or that her mother is very desirous to keep her at home."
-    },
-    {
-     "id": "p008.s04",
-     "source": "But upon further pressing on the part of the parents of the boy, the acceptance is given."
-    },
-    {
-     "id": "p008.s05",
-     "source": "It is now the turn of the girl to be consulted; she, however, is nowhere to be found."
-    },
-    {
-     "id": "p008.s06",
-     "source": "The priest searches, and when finally discovered she does not speak a word."
-    },
-    {
-     "id": "p008.s07",
-     "source": "The former, however, knows, and offering his hand he says, “If you consent, kiss the hand,” which is straightway done, for the girl has been informed beforehand that the kiss is to be forthcoming."
-    },
-    {
-     "id": "p008.s08",
-     "source": "This part of the procedure takes place apart from the crowd, and is followed by the presentation of the ring and the benediction which must take place before the public."
-    },
-    {
-     "id": "p008.s09",
-     "source": "But since custom forbids the girl to appear during the entire evening, a brother or a sister comes forward and kneels before the priest to receive the ring."
-    },
-    {
-     "id": "p008.s10",
-     "source": "The rest all kneel at the same time, and the priest gives the benediction."
-    },
-    {
-     "id": "p008.s11",
-     "source": "The ring is carried by the child to the fiancée, the health of the couple is drunk in rose-syrup, and congratulations and compliments are exchanged."
-    },
-    {
-     "id": "p008.s12",
-     "source": "Whatever else is eaten or drunk, rose-syrup must be at hand, for this is essential and peculiar to the ceremony."
+     "source": "But the next second the natural feminine grace again bloomed upon her cheeks, and she answered with a sweet musical voice, the sweetest that ever fell upon a human ear:"
     }
    ],
    "id": "p008"
@@ -343,53 +255,37 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "All this while the young man is within the walls of his own home."
+     "source": "“Youth, I spare your life provided that your heart is as brave as your words."
     },
     {
      "id": "p009.s02",
-     "source": "Custom forbids him to appear at the house of his bride-to-be until the wedding day, and if perchance the two should meet, he must turn his head away while she hides herself."
+     "source": "Zoolvisia is my name."
     },
     {
      "id": "p009.s03",
-     "source": "Towards ten o’clock the party breaks up, and each guest is given a wax candle."
-    },
-    {
-     "id": "p009.s04",
-     "source": "All try to steal something from the house before leaving, such as a bottle, a glass, or a spoon, and if the thieves are not caught before they leave the house, the articles are returned only at the price of a supper from the head of the family."
-    },
-    {
-     "id": "p009.s05",
-     "source": "The party now returns to the home of the future bridegroom, accompanied by the friends and relatives of the girl."
-    },
-    {
-     "id": "p009.s06",
-     "source": "The procession formed, there is the same lighting of wax candles received from the host, brightening the otherwise darkened streets, and the same music and singing to triumph over the silence of the night."
-    },
-    {
-     "id": "p009.s07",
-     "source": "The young man must stand upright before his future father-in-law all through the visit."
-    },
-    {
-     "id": "p009.s08",
-     "source": "For him the great moment comes when the brother of his fiancée takes him aside and offers him a glass of syrup prepared by her own hands."
-    },
-    {
-     "id": "p009.s09",
-     "source": "The whole night is passed in song and amusement."
-    },
-    {
-     "id": "p009.s10",
-     "source": "During the following fortnight both families receive visits of congratulation, and at every visit the host or hostess must offer the syrup drunk at the betrothal ceremony."
+     "source": "If you want to show your courage before me, you must come where I live.”"
     }
    ],
    "id": "p009"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Section 3. Marriage"
+     "source": "And she spurred her horse, and galloping disappeared behind the trees and rocks."
+    },
+    {
+     "id": "p010.s02",
+     "source": "The lad stood stone-still as if struck by lightning."
+    },
+    {
+     "id": "p010.s03",
+     "source": "The beauty of the horsewoman had charmed him; her face was of light, her hair of gold, her horse of lightning."
+    },
+    {
+     "id": "p010.s04",
+     "source": "Was she a maiden?"
     }
    ],
    "id": "p010"
@@ -399,43 +295,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Elaborate and gay as are the festivities of betrothal, the celebrations of marriage are so much more so that one is inclined to look upon the essential religious ceremony as a pretext for the merry-making."
+     "source": "“Zoolvisia!"
     },
     {
      "id": "p011.s02",
-     "source": "The interval of a month which ordinarily intervenes between engagement and marriage is devoted to making the necessary preparations for the wedding."
-    },
-    {
-     "id": "p011.s03",
-     "source": "The bridegroom must get ready the promised ornaments, a white wedding-dress for his bride, a fine veil to cover her face, and a pair of shoes, a rather strange combination of gifts."
-    },
-    {
-     "id": "p011.s04",
-     "source": "One wonders also why the necessary gloves and silk stockings are not included."
-    },
-    {
-     "id": "p011.s05",
-     "source": "The young lady on her part prepares her trousseau including garments of various sorts, bits of jewelry, a wooden chest filled with her clothing, a mirror, a nuptial bed with the necessary accessories, and a few cooking utensils; altogether an outfit quite as varied and singular as the gifts of the bridegroom, but certainly practical and sensible enough."
-    },
-    {
-     "id": "p011.s06",
-     "source": "Two days before the wedding, which usually occurs on a Sunday afternoon, invitations are sent out to friends and relatives, and musicians are secured."
-    },
-    {
-     "id": "p011.s07",
-     "source": "On the eve of the ceremony, the godfather invites the bridegroom with his friends to a Turkish bath, where they go to the accompaniment of music and singing."
-    },
-    {
-     "id": "p011.s08",
-     "source": "This part of the celebration is full of laughter and song, and is continued on the forenoon of the next day in the home of the bridegroom, when the barber comes to shave him in the presence of the guests and musicians, who sing and play as on the preceding evening at the bath."
-    },
-    {
-     "id": "p011.s09",
-     "source": "The occasion is one of importance for the barber, who brings all sorts of perfumes which are purchased by the guests and poured over the bridegroom; he receives not only a large fee for his service but also a double price for the scented extracts."
-    },
-    {
-     "id": "p011.s10",
-     "source": "The young man is then dressed up while the priest and choir children who have arrived sing canticles."
+     "source": "Zoolvisia!” the lad exclaimed suddenly, “I will find you.”"
     }
    ],
    "id": "p011"
@@ -445,43 +309,19 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "In the meantime very similar festivities occur in the home of the bride, participated in by her young girl friends and relatives, except that they are not characterized by the same spirit of loud laughter and rejoicing."
+     "source": "And at once he mounted his horse and started in the direction whither Zoolvisia and her followers had gone."
     },
     {
      "id": "p012.s02",
-     "source": "On the eve of the wedding the girls gather around her to sing melancholy songs, in considerable contrast with the gay, spirited music and singing taking place in the Turkish bath at the same time."
+     "source": "It was late in the evening, the sun having long before disappeared behind the horizon."
     },
     {
      "id": "p012.s03",
-     "source": "Having shared the sadness, they place a rose leaf on the palm of each hand of the bride, which is covered with henneh, a green Persian powder made into paste, after which each hand is carefully bandaged up."
+     "source": "After groping his way in the darkness for a while, he saw a light gleaming at a distance and turned his horse in that direction."
     },
     {
      "id": "p012.s04",
-     "source": "So the poor sad girl must go to bed, to sleep if she can."
-    },
-    {
-     "id": "p012.s05",
-     "source": "On the next morning her friends again arrive to take the bandages off her hands, to dress her, and to sing and dance about her."
-    },
-    {
-     "id": "p012.s06",
-     "source": "Except for the print of the rose leaf, the henneh leaves the hands orange red, which is supposed to be beautiful."
-    },
-    {
-     "id": "p012.s07",
-     "source": "The songs and dancing are again of a decidedly melancholy tone."
-    },
-    {
-     "id": "p012.s08",
-     "source": "Her white dress, together with the coat of the bridegroom, must be blessed by the priest, a ceremony which the church functionary performs alone, both articles being sent to him early in the morning."
-    },
-    {
-     "id": "p012.s09",
-     "source": "Preliminary to the day’s events, and before breakfast, both bride and bridegroom, being previously confessed, go separately to church, where they take communion."
-    },
-    {
-     "id": "p012.s10",
-     "source": "This done, the festivities described follow, bride and bridegroom are dressed, and all is in readiness for the ceremony which occurs in the late afternoon or evening."
+     "source": "When he arrived he saw a cave where a fairy woman was kneading dough."
     }
    ],
    "id": "p012"
@@ -491,51 +331,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "The bride must ride to church on horseback, and having arrived she is dismounted, and later remounted without touching her feet to the ground, which rather cumbersome performance is accomplished through the help of a brother or relative, who also rides the bride’s steed while the ceremony takes place within, for the horse is not to be left riderless."
-    },
-    {
-     "id": "p013.s02",
-     "source": "The procession to the church is accompanied by musicians."
-    },
-    {
-     "id": "p013.s03",
-     "source": "Before the rail which separates the choir from the body of the church, two wooden chairs are placed, upon which the couple sit down while the people present kneel on the mats covering the floor."
-    },
-    {
-     "id": "p013.s04",
-     "source": "When the time comes for the blessing of the priest, the couple arise, step inside the choir space, and stand facing each other between the high altar and two witnesses, their foreheads touching."
-    },
-    {
-     "id": "p013.s05",
-     "source": "In this position they receive the sacrament of matrimony, answering in the affirmative the questions of the priest regarding their duties to each other and to their children."
-    },
-    {
-     "id": "p013.s06",
-     "source": "Of the bride is demanded perfect faithfulness to conjugal duties, entire obedience to the husband of whom care, patience, wisdom, and love are required."
-    },
-    {
-     "id": "p013.s07",
-     "source": "The priest, taking the right hand of the bride and placing it in the hand of the bridegroom, says, “According to the divine order God gave to our ancestors, I give thee now this wife in subjection."
-    },
-    {
-     "id": "p013.s08",
-     "source": "Wilt thou be her master?”"
-    },
-    {
-     "id": "p013.s09",
-     "source": "“Through the help of God I will,” answers the bridegroom."
-    },
-    {
-     "id": "p013.s10",
-     "source": "The priest then asks the woman, “Wilt thou be obedient to him?” to which is answered, “I am obedient according to the order of God.”"
-    },
-    {
-     "id": "p013.s11",
-     "source": "These questions are repeated and replied to thrice, in evident implicit belief that once would not be sufficient."
-    },
-    {
-     "id": "p013.s12",
-     "source": "Finally, the priest ties to each of their heads a cord and cross, which is again removed by him late at night in the home with special ceremony, and it is only after this performance that the couple may enter the nuptial chamber."
+     "source": "“The goodness of the hour upon you, mother!” said the lad."
     }
    ],
    "id": "p013"
@@ -545,47 +341,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "After the ceremony at the church the procession starts back for the home of the bridegroom’s father, the bride riding upon her horse, musician playing, and choir boys singing."
+     "source": "“Heaven bless you, son!” said the old dame."
     },
     {
      "id": "p014.s02",
-     "source": "The water-carriers, who have supplied drinking water, break their jars noisily before the bridegroom, drenching his marriage costume and giving rather an abrupt signal to the godfather whose business it is to tip them."
-    },
-    {
-     "id": "p014.s03",
-     "source": "Noisily the procession moves along the streets until it arrives at the gate of the house."
-    },
-    {
-     "id": "p014.s04",
-     "source": "In days past it was the custom at this point in the ceremony to place a sheep ready to be sacrificed at the feet of the young couple, the poorer people contenting themselves with chickens."
-    },
-    {
-     "id": "p014.s05",
-     "source": "The butcher put his knife to the neck of the sheep saying, “May God thus put all your enemies under your feet, Amen, Amen.”"
-    },
-    {
-     "id": "p014.s06",
-     "source": "Then pieces of coin mixed with raisins, pistachios, and other bits of nuts or dried fruits are showered over the people from the windows above, while the godfather leads the bridegroom within to the crowd of men, and the godmother leads the bride to the women, everybody trying to kiss the cross on their heads."
-    },
-    {
-     "id": "p014.s07",
-     "source": "The bride is then placed in the seat of honor and in her arms is laid first a little boy, and then a little girl, so that the first child may be a boy and if perchance the will of God be otherwise at least a girl."
-    },
-    {
-     "id": "p014.s08",
-     "source": "Each guest now comes to the bride to place at her feet a fruit in season."
-    },
-    {
-     "id": "p014.s09",
-     "source": "The bridegroom is called “the prince of the feast” and must never quit his seat of honor."
-    },
-    {
-     "id": "p014.s10",
-     "source": "If he does leave his chair he must place an object belonging to him upon his seat, and if he should at any time omit to do so, the assembly makes the godfather pay the necessary forfeit, which is usually a dinner."
-    },
-    {
-     "id": "p014.s11",
-     "source": "Towards nine, the guests take their leave, having eaten and sung to their uttermost desire."
+     "source": "“Neither the snake on its belly, nor the bird with its wing could come here; why did you venture to come?”"
     }
    ],
    "id": "p014"
@@ -595,43 +355,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Living in the home of her patriarchal father-in-law, the young wife is subject to the severest restraints."
-    },
-    {
-     "id": "p015.s02",
-     "source": "She must wear a lightly fitting veil enclosing her face below the eyes, without which she can not appear even in the house."
-    },
-    {
-     "id": "p015.s03",
-     "source": "She wears a close fitting bodice fastened at the neck with silver clasps, full trousers of rose colored silk gathered in at the ankles by a filet of silver; her feet are bare, a silver girdle of curious workmanship loosely encircles her waist, and a long padded garment, open down the front, hangs from her shoulders."
-    },
-    {
-     "id": "p015.s04",
-     "source": "Not a single word must she utter to any member of the household, except when alone with her husband, and then only such as may be absolutely necessary, until she has given birth to her first child."
-    },
-    {
-     "id": "p015.s05",
-     "source": "Then she may speak to her nursling, after a while to her mother-in-law, later to her own mother, and by and by to the young girls of the household, but never in all her life may she have word with a young man not a relative."
-    },
-    {
-     "id": "p015.s06",
-     "source": "During her first year of married life, she may not go out of the house except for two visits to the church."
-    },
-    {
-     "id": "p015.s07",
-     "source": "Every morning and at the end of each meal she must pour water over the hands of her father- and mother-in-law, and for a certain time after marriage, when visitors come, she must kiss their hands, except of course, for men, before whom she may not even appear."
-    },
-    {
-     "id": "p015.s08",
-     "source": "Apart from these troublesome restraints the young wife is treated with the utmost solicitude, and in some parts, even the peasant wife is not allowed to do outdoor work."
-    },
-    {
-     "id": "p015.s09",
-     "source": "In the mountain villages of Persian Armenia, however, the women do all the tilling in the fields, wearing their veils over their mouths as they work."
-    },
-    {
-     "id": "p015.s10",
-     "source": "The author here quoted states that husbands never see the mouths of their wives, who not only must not speak during the first year of married life, or until a child is born, but also may not converse freely with their husbands until six years of married life have elapsed."
+     "source": "“Your love brought me hither, mother,” answered the lad."
     }
    ],
    "id": "p015"
@@ -641,35 +365,7 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "In such fashion the sanctity of the marriage relation is strictly guarded, and as one would suppose, illegitimate births are unknown in Armenia."
-    },
-    {
-     "id": "p016.s02",
-     "source": "Intermarriage among relations is forbidden, and until recent years, divorce has been unknown."
-    },
-    {
-     "id": "p016.s03",
-     "source": "As for the taboo on speech, it is calculated not so much as an inducement to the production of offspring as to preserve harmonious relations between the various members of the patriarchal household."
-    },
-    {
-     "id": "p016.s04",
-     "source": "Even the patriarch with all his authority would find difficulty in preserving proper decorum of speech and manners in so heterogeneous a household, if every newly acquired daughter-in-law were given a free rein in the use of her tongue."
-    },
-    {
-     "id": "p016.s05",
-     "source": "As the neophyte is made to understand his position by a brutal initiation, so the young wife is kept from assuming command over the female household by the placing of a moral valuation upon the silence which alone is compatible with the essential modesty regarded as the first and chief of virtues among wives."
-    },
-    {
-     "id": "p016.s06",
-     "source": "In the household of the patriarch there is a great deal to be done in common, and unfortunately the occasion for mutual aid is not sufficient to bring about the desired coöperation."
-    },
-    {
-     "id": "p016.s07",
-     "source": "Hence singleness of command and authority is a necessary condition, not only of efficiency, but also of peace, for it can not be supposed that so many daughters-in-law would work together in harmony."
-    },
-    {
-     "id": "p016.s08",
-     "source": "It would be a mistake, therefore, to regard the customary silence as an inducement to child-bearing."
+     "source": "The fairy woman was pleased with the lad, and said to him:"
     }
    ],
    "id": "p016"
@@ -679,29 +375,29 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Identifying itself with the common events of life, such as birth, marriage, and death, the church has not only given a religious meaning to these occasions but has also sanctioned and even encouraged the festivities that accompany them."
+     "source": "“The seven fairies, my sons, have just gone out a-hunting; they hunt all night long and come back in the morning."
     },
     {
      "id": "p017.s02",
-     "source": "These festivities have up to this point been occasions for rejoicing, with the single and significant exception of the melancholy singing of the bride’s friends on the eve and day of her wedding."
+     "source": "If they find you here they will devour you."
     },
     {
      "id": "p017.s03",
-     "source": "There is a perfect naturalness about all the merry-making and festivals so far considered, and this is no less characteristic of the funeral celebrations now to be taken up."
-    },
-    {
-     "id": "p017.s04",
-     "source": "The description of these will conclude my treatment of the last group of festivals, which are more properly festival-ceremonies, or ceremonies that have been made the occasion of festivity."
+     "source": "Let me hide you.”"
     }
    ],
    "id": "p017"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Section 4. Funeral"
+     "source": "So speaking, she hid the lad in a hole near the cave."
+    },
+    {
+     "id": "p018.s02",
+     "source": "At daybreak the seven fairies returned, and smelling a human being, exclaimed:"
     }
    ],
    "id": "p018"
@@ -711,71 +407,7 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "The funerals, as one would naturally suppose, are more ceremonious, more ritualistic, and although there is now generally a minimum of festivity connected with them, this has not always been so."
-    },
-    {
-     "id": "p019.s02",
-     "source": "When the condition of a sick person is beyond hope, the priest is notified and the person is given confession, communion, and extreme unction."
-    },
-    {
-     "id": "p019.s03",
-     "source": "After death the eyes and mouth are closed, the body washed and dressed up in the newest and cleanest clothes to be had, and the arms crossed on the breast."
-    },
-    {
-     "id": "p019.s04",
-     "source": "Two candles are kept burning until the day of the funeral, one at the foot and one at the head of the coffin."
-    },
-    {
-     "id": "p019.s05",
-     "source": "Sad, wooden bells are sounded, and guests are invited to pay their last respects."
-    },
-    {
-     "id": "p019.s06",
-     "source": "Coffee is served to them, but without sugar, as a sign of grief."
-    },
-    {
-     "id": "p019.s07",
-     "source": "Mourning women are secured, who eulogize the departed and weep and lament until the priests begin their chanting."
-    },
-    {
-     "id": "p019.s08",
-     "source": "The corpse is now taken to the church in a special coffin which is covered with a black velvet cloth adorned with small white crosses, among the wealthy, but among the poor the body is wrapped in linen and laid in a simple bier, carried by relatives and friends."
-    },
-    {
-     "id": "p019.s09",
-     "source": "At the head of the procession, which marches very slowly and chants on the way, there are carried a great cross and two lighted torches, followed by the priests and then by the coffin."
-    },
-    {
-     "id": "p019.s10",
-     "source": "The passer-by must stop and cross himself many times."
-    },
-    {
-     "id": "p019.s11",
-     "source": "At the church the coffin is laid down, and if the relatives are wealthy each person in the church is provided with a small wax candle which is kept lighted during the service."
-    },
-    {
-     "id": "p019.s12",
-     "source": "While the ceremony proceeds the body is blessed with holy water and perfumed with incense, after which the procession re-forms to accompany the body to the cemetery."
-    },
-    {
-     "id": "p019.s13",
-     "source": "The chanting is kept up all the way."
-    },
-    {
-     "id": "p019.s14",
-     "source": "At the cemetery the body is lowered into its last resting-place, and the priest, after making the sign of the cross on the four corners of the grave, throws three shovelfuls of earth into it and three more on the coffin."
-    },
-    {
-     "id": "p019.s15",
-     "source": "The people imitate by throwing three handfuls of dust, and the ceremony completed, all return to the home of the deceased where they partake of steaming broth prepared by the neighbors and friends, and recite prayers for the soul of the dead."
-    },
-    {
-     "id": "p019.s16",
-     "source": "This latter practice, as said before, is a pagan survival, as is also the chanting of mass for the departed, which occurs three days later, at which time broth is again distributed, but this time to the poor as a sacrifice to the dead."
-    },
-    {
-     "id": "p019.s17",
-     "source": "The grave is blessed on the third day, again on the ninth, at the close of the third month, and for the last time, at the close of the year."
+     "source": "“O mother! last night you ate a human being; have you not kept at least some bones for us to pick?”"
     }
    ],
    "id": "p019"
@@ -785,31 +417,7 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "The funeral of a priest is performed with much splendor."
-    },
-    {
-     "id": "p020.s02",
-     "source": "The procession makes a circuit of all the churches, and stopping at different places, portions of the gospel are read."
-    },
-    {
-     "id": "p020.s03",
-     "source": "If the priest be of high rank, as an archbishop, or a bishop, he is carried in an open coffin and in a sitting posture, dressed up in official vestments, in which position he is interred in the courtyard of the church."
-    },
-    {
-     "id": "p020.s04",
-     "source": "Farmers send sheep to be killed and given to the poor as a sacrifice."
-    },
-    {
-     "id": "p020.s05",
-     "source": "The Greeks in Constantinople also carry their dead in an open coffin, but this is because a Greek official who was a refugee prisoner in Constantinople at the time of the war of the Turks with the Greeks, endeavored to get himself carried out of the country by feigning death and boxing himself up in a coffin."
-    },
-    {
-     "id": "p020.s06",
-     "source": "But the Turks discovered the ruse and it was enacted by the sultan that thereafter all Greeks must be carried to their graves in open coffins."
-    },
-    {
-     "id": "p020.s07",
-     "source": "The custom in respect to the Armenian bishops, however, has no connection with this."
+     "source": "“I have eaten no human being,” said their mother; “but my nephew, the son of a human sister, has come to visit us.”"
     }
    ],
    "id": "p020"
@@ -819,27 +427,7 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "In some parts of Armenia, as for example in Erzerum, the snow lies so deep in winter-time that burial is well-nigh impossible."
-    },
-    {
-     "id": "p021.s02",
-     "source": "During spring-time, with the melting of the snow, coffins have been found perched up on tree tops."
-    },
-    {
-     "id": "p021.s03",
-     "source": "This was related by an Armenian boy I know of, who lived in the vicinity of Erzerum."
-    },
-    {
-     "id": "p021.s04",
-     "source": "Curious customs of the past have left their marks."
-    },
-    {
-     "id": "p021.s05",
-     "source": "In Tarsus, for example, there are Armenian graves ranged about a tree which is asserted to have been planted by St. Paul, each provided with a stone upon which has been carved a symbol of the deceased, for the merchant, a representation of weights and measures, for the blacksmith, an anvil and hammer, for the scribe, an inkstand and pen, and for the industrious housewife, a distaff and spindle."
-    },
-    {
-     "id": "p021.s06",
-     "source": "In the cemetery of Nakhitchevan is a large building in which the mourners have a great repast after the funeral, and in certain other graveyards, Dubois found innumerable pieces of broken pitchers and crockery, which were probably broken, as the custom is, to ward off the evil spirit of the dead."
+     "source": "“Where is he, mother? we want to see our human cousin,” said the fairies."
     }
    ],
    "id": "p021"
@@ -849,15 +437,11 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "These four ceremonies complete the third and last group of festivals described."
+     "source": "The old woman brought the lad out from the hole and presented him to the fairies, who were much pleased with him and asked him the reason for his journey."
     },
     {
      "id": "p022.s02",
-     "source": "I have called them ceremonies because fundamentally that is what they are, but they are to be distinguished sharply from the many church ceremonies I have not so much as mentioned, by reason of their festival or social value which alone makes them proper subject-matter for this thesis."
-    },
-    {
-     "id": "p022.s03",
-     "source": "The relation between these ceremonies as revealed in the common procession, as well as in the religious ceremony necessary to each is due largely to the fact that they have to do with the most ordinary, and yet most extraordinary of life’s events, birth, betrothal, marriage, and death."
+     "source": "The lad said that he was going after Zoolvisia."
     }
    ],
    "id": "p022"
@@ -867,39 +451,27 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Reviewing them from the standpoint of their social or festival value, it is obvious that the marriage celebration easily takes first place, the betrothal festivities second, baptism and funeral third."
+     "source": "“Zoolvisia!” exclaimed the seven brothers."
     },
     {
      "id": "p023.s02",
-     "source": "There is the rather uncouth, perhaps, but none the less spontaneous gaiety of the friends of the bridegroom, not only on the eve of the wedding-day when they go to the bath, but also on the morning of the wedding-day when the unfortunate youth is assuredly cured of any addiction he might have to the use of perfumes."
+     "source": "“Be advised, cousin, do not go."
     },
     {
      "id": "p023.s03",
-     "source": "I should imagine that the music would begin to bore the young men by the time the barber arrives, since the musicians also accompany the rejoicing of the night before, and yet it may be said that there could be nothing more convenient or ingenious devised to carry over a lull in the merry-making, for after all, the young men could not well be singing, joking, laughing, and teasing all the time."
+     "source": "This is a most dangerous journey."
     },
     {
      "id": "p023.s04",
-     "source": "In striking contrast is the melancholy rejoicing of the party of young women at the home of the bride."
+     "source": "Zoolvisia is a cruel tyrant."
     },
     {
      "id": "p023.s05",
-     "source": "But where there is dancing and singing there can not well be weeping, although no doubt it is more natural for the bride to be thoughtful on her wedding-day, than for the bridegroom, for it is the former who leaves her home to spend the rest of her days in a very new, very strange, perhaps even unkindly world."
+     "source": "No human being who has ever undertaken this journey, has returned."
     },
     {
      "id": "p023.s06",
-     "source": "There is still another reason for the melancholy, in that the girl must know she is bidding farewell forever to the delights and joys and freedom of childhood, for although to-day she may speak and sing and make merry, to-morrow morning she must be silent and prepared to pour water over the hands of her father- and mother-in-law."
-    },
-    {
-     "id": "p023.s07",
-     "source": "Henceforth it is for her to be submissive, obedient, docile, uncomplaining even at heart, for what use will it be to complain, and though her most cherished dreams may be of motherhood, does she not also have spirit, and why must it be broken?"
-    },
-    {
-     "id": "p023.s08",
-     "source": "Is she then only a chattel to be sold into everlasting bondage?"
-    },
-    {
-     "id": "p023.s09",
-     "source": "It is all too evident, even to the dullest of brides, that the happiness of childhood is forever past, and the brighter one can hardly fail to feel that she has been bartered for the bit of gold about her waist or neck."
+     "source": "Come, cousin, stay with us; be our elder brother, we your subordinates, and let us live together in happiness.”"
     }
    ],
    "id": "p023"
@@ -909,15 +481,11 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "There is then the very highest of social value to be attributed to both of these festivities, and largely because in each group of people, the young men on one side, the young women on the other, there is perfect community of feeling, mutual understanding, and freedom of thought and expression."
+     "source": "“No,” said the lad, “let come what may; I will go.”"
     },
     {
      "id": "p024.s02",
-     "source": "In comparison with these gatherings, the mixed assembly at the house of the bridegroom after the marriage ceremony is of little importance."
-    },
-    {
-     "id": "p024.s03",
-     "source": "The succession of events covering a period of nearly thirty-six hours, of which only a few, and perhaps none at all, are spent in sleep by the members of the bridal party, must certainly begin to have its effect by the time the little baby doll is placed in the lap of the bride."
+     "source": "Thereupon he gave the seven brothers a pair of scissors, saying:"
     }
    ],
    "id": "p024"
@@ -927,15 +495,7 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "The betrothal party is always out for a good time, for they realize that the merry-making is to be an all-night affair."
-    },
-    {
-     "id": "p025.s02",
-     "source": "There is the procession with its candles lighting up the darkened streets, the music and singing filling all space, the humorous little artificialities in the house of the bride,—real enough, at least ceremoniously, from the standpoint of the family,—the syrup, the attempted stealing of utensils, the return procession, the singing, music, and dancing at the home of the young bridegroom-to-be, without stop until dawn."
-    },
-    {
-     "id": "p025.s03",
-     "source": "All of this makes a rather complete occasion, even for young people."
+     "source": "“When you see blood dripping from the scissors, know that I am in danger and come to my rescue.”"
     }
    ],
    "id": "p025"
@@ -945,34 +505,27 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "Baptism and funeral rites come nearest being pure ceremonies."
+     "source": "And he took leave of his adopted cousins."
     },
     {
      "id": "p026.s02",
-     "source": "But even the baptismal rite has its procession to and from the church participated in by all the friends and relatives of the family, and though the event is an occasion neither for rejoicing nor for sorrow, it is important enough, occurring as it does but once in the lifetime of each individual."
+     "source": "On his way he came to another cave where seven fairies lived with their mother, the sister of the former fairy woman, who accepted him as their cousin and tried to dissuade him from going."
     },
     {
      "id": "p026.s03",
-     "source": "There are, to be sure, the social calls that follow the ceremony."
-    },
-    {
-     "id": "p026.s04",
-     "source": "But the event can not be said to have any attraction for the young; and if this is true of baptism, it is still more true of funerals."
-    },
-    {
-     "id": "p026.s05",
-     "source": "Nevertheless there is the distinct psychological value of each, calling up as they do various associations, as the baptism of this one, or the death of another one, and thus keeping alive the deepest experiences of life."
-    },
-    {
-     "id": "p026.s06",
-     "source": "If they are crude and offensive to more delicate tastes, it must be remembered that a belief is represented in the concrete fashion essential to the simple mind, a mode of representation necessary to the best of intellects even though on another plane."
+     "source": "He gave to them a looking-glass, saying:"
     }
    ],
    "id": "p026"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "“When you see the glass covered with sweat, know that I am in trouble, and hasten to my rescue.”"
+    }
+   ],
    "id": "p027"
   },
   {
@@ -980,11 +533,15 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "Catholic World 11:301."
+     "source": "Then he came to a third abode, where seven fairies lived with their mother, who was a sister of the former two."
     },
     {
      "id": "p028.s02",
-     "source": "Paul Terzian."
+     "source": "They also accepted him as cousin, and sought to dissuade him from going."
+    },
+    {
+     "id": "p028.s03",
+     "source": "He gave them a razor, saying:"
     }
    ],
    "id": "p028"
@@ -994,19 +551,7 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "According to Maschtotz the devil is abjured and the Trinity invoked at the gate of the church."
-    },
-    {
-     "id": "p029.s02",
-     "source": "In the course of the ceremony the priest unclothes the babe and asks the godfather, “What seeks the child?”"
-    },
-    {
-     "id": "p029.s03",
-     "source": "The godfather answers, “Faith, Hope, Love, and Baptism, to be cleansed from his sins and to be freed from the devils.”"
-    },
-    {
-     "id": "p029.s04",
-     "source": "The three immersions are symbolical of the three days of burial of Christ. ( Maschtotz . )"
+     "source": "“When you see drops of blood falling from the edge of this razor, know that my life is in danger, and run to my rescue.”"
     }
    ],
    "id": "p029"
@@ -1016,19 +561,7 @@
    "segments": [
     {
      "id": "p030.s01",
-     "source": "In the description of baptism as witnessed by Tavernier, red and white threads were laid about the neck of the child at this point in the ceremony."
-    },
-    {
-     "id": "p030.s02",
-     "source": "They represent the blood and body of Christ and are probably believed to keep away the evil eye."
-    },
-    {
-     "id": "p030.s03",
-     "source": "Beads and various other charm tokens are commonly used for this purpose."
-    },
-    {
-     "id": "p030.s04",
-     "source": "(Tavernier 1:500.)"
+     "source": "Departing on his way he met an old monk in a cottage, who also tried to dissuade him; but as the lad insisted, the monk said:"
     }
    ],
    "id": "p030"
@@ -1038,7 +571,51 @@
    "segments": [
     {
      "id": "p031.s01",
-     "source": "This is probably because evil spirits dwell in darkness, while the beneficent are light."
+     "source": "“Let me advise you; Zoolvisia is the most beautiful maiden in the world."
+    },
+    {
+     "id": "p031.s02",
+     "source": "She is a princess endowed from above with a talisman."
+    },
+    {
+     "id": "p031.s03",
+     "source": "She has forty maids under her command who play the part of Amazons."
+    },
+    {
+     "id": "p031.s04",
+     "source": "She goes up to the top of the tower of her castle every morning at daybreak, dressed in her robe of pearls."
+    },
+    {
+     "id": "p031.s05",
+     "source": "Thence she gazes all about her realm, to see whether human beings or genii have trespassed upon her boundaries."
+    },
+    {
+     "id": "p031.s06",
+     "source": "Three times she cries out with a loud voice, and all who have been on her ground, on hearing her voice immediately drop dead as if struck by lightning."
+    },
+    {
+     "id": "p031.s07",
+     "source": "It is she who, taking the shape of an antelope, leads hunters astray and destroys them by poisonous food and water."
+    },
+    {
+     "id": "p031.s08",
+     "source": "Now, do as I advise you."
+    },
+    {
+     "id": "p031.s09",
+     "source": "As soon as you reach the vicinity of her castle, set up a stick and put on it your cloak and cap, and dig a trench in the neighborhood and conceal yourself, at the same time sealing both your ears with beeswax, so that no sound can penetrate them."
+    },
+    {
+     "id": "p031.s10",
+     "source": "At the beginning of daybreak watch her on the top of the tower."
+    },
+    {
+     "id": "p031.s11",
+     "source": "Do not stir at her first nor second call, but as soon as her third call is ended, jump up from your place of concealment and stand before her."
+    },
+    {
+     "id": "p031.s12",
+     "source": "By this means you will break her talisman, and subdue her.”"
     }
    ],
    "id": "p031"
@@ -1048,7 +625,15 @@
    "segments": [
     {
      "id": "p032.s01",
-     "source": "The similarity to the old Hebrew custom may be noted."
+     "source": "The lad thanked the old monk, and continuing his journey soon saw, at a distance, Zoolvisia’s magnificent castle decorated with gold and jewels."
+    },
+    {
+     "id": "p032.s02",
+     "source": "He did just as the monk had advised him, and at Zoolvisia’s third call jumped up and stood before her gazing at her."
+    },
+    {
+     "id": "p032.s03",
+     "source": "Zoolvisia recognized him, and said:"
     }
    ],
    "id": "p032"
@@ -1058,7 +643,19 @@
    "segments": [
     {
      "id": "p033.s01",
-     "source": "Paul Terzian, Catholic World 71:305."
+     "source": "“You have overcome me; you are brave and a real hero worthy of me."
+    },
+    {
+     "id": "p033.s02",
+     "source": "No one except you has ever heard my voice and lived."
+    },
+    {
+     "id": "p033.s03",
+     "source": "Now my talisman is broken, and I have become a mere woman."
+    },
+    {
+     "id": "p033.s04",
+     "source": "Come in, hero, I and my forty maids will serve you.”"
     }
    ],
    "id": "p033"
@@ -1068,11 +665,67 @@
    "segments": [
     {
      "id": "p034.s01",
-     "source": "Tavernier says that frequently two pregnant women who are on very friendly terms, will engage their future offspring, trusting to fortune that one will be a boy and the other a girl."
+     "source": "The lad’s heart began to yearn."
     },
     {
      "id": "p034.s02",
-     "source": "(Tavernier 1:505.)"
+     "source": "All the hatred he cherished toward her who had perpetrated such terrible crimes had vanished."
+    },
+    {
+     "id": "p034.s03",
+     "source": "He had fallen in love with her, and Zoolvisia on her part loved the lad."
+    },
+    {
+     "id": "p034.s04",
+     "source": "She let the rich locks of her golden hair hang down from the window."
+    },
+    {
+     "id": "p034.s05",
+     "source": "The lad approached, took hold of them and kissed them, and lo! he was drawn up to the castle by them."
+    },
+    {
+     "id": "p034.s06",
+     "source": "They accepted one another as husband and wife, and celebrated their wedding for forty days and nights."
+    },
+    {
+     "id": "p034.s07",
+     "source": "The forty maids served them."
+    },
+    {
+     "id": "p034.s08",
+     "source": "At the end of forty days Zoolvisia presented to the lad her horse of lightning."
+    },
+    {
+     "id": "p034.s09",
+     "source": "The animal seemed to be greatly pleased with his new master."
+    },
+    {
+     "id": "p034.s10",
+     "source": "The lad mounted the steed and prepared to go hunting when Zoolvisia gave him as a keepsake one of the locks of her hair in a pearl box."
+    },
+    {
+     "id": "p034.s11",
+     "source": "So the lad continued to hunt every day."
+    },
+    {
+     "id": "p034.s12",
+     "source": "One day, as he was chasing a deer on the precipitous borders of the river, the pearl box fell into the water and disappeared."
+    },
+    {
+     "id": "p034.s13",
+     "source": "The lad was sorry, but he could not help it, and came home without it."
+    },
+    {
+     "id": "p034.s14",
+     "source": "The pearl box was carried by the current of the river to the country of the King of the East, where the King’s fishermen drew it from the water and took it to their master."
+    },
+    {
+     "id": "p034.s15",
+     "source": "The King, opening the box, was surprised to see the lock of golden hair."
+    },
+    {
+     "id": "p034.s16",
+     "source": "He called his noblemen and peers in council, and placing the box before them, said:"
     }
    ],
    "id": "p034"
@@ -1082,7 +735,11 @@
    "segments": [
     {
      "id": "p035.s01",
-     "source": "In fact when there is a variance of choice between parents and daughter it is common for the girl to regard the decision of her parents as being her fate. “ Wenn eine junge Frau mit ihrer Heirat, die sie, nach dem Willen der Eltern geschlossen hat, unzufrieden ist, so singt sie:"
+     "source": "“You must tell me whose hair this is."
+    },
+    {
+     "id": "p035.s02",
+     "source": "If you do not give me an answer in three days I will cut off your heads.”"
     }
    ],
    "id": "p035"
@@ -1092,7 +749,11 @@
    "segments": [
     {
      "id": "p036.s01",
-     "source": "‘Was soll ich meinem Vater und meiner Mutter sagen?"
+     "source": "“Long live the King!” answered the men."
+    },
+    {
+     "id": "p036.s02",
+     "source": "“In three days we will bring you word.”"
     }
    ],
    "id": "p036"
@@ -1102,11 +763,11 @@
    "segments": [
     {
      "id": "p037.s01",
-     "source": "Das war auf meine Stirn geschrieben.’”"
+     "source": "Forthwith they sat in council and asked the advice of all the learned men and magicians of the country, but in vain; they could not solve the riddle within the three days."
     },
     {
      "id": "p037.s02",
-     "source": "(Abeghian p. 54.)"
+     "source": "On the third day, a witch hearing of the case, came to the King’s noblemen, saying:"
     }
    ],
    "id": "p037"
@@ -1116,7 +777,7 @@
    "segments": [
     {
      "id": "p038.s01",
-     "source": "Paul Terzian, Catholic World 71:305."
+     "source": "“I can tell you what it is, but what will you give me?”"
     }
    ],
    "id": "p038"
@@ -1126,19 +787,7 @@
    "segments": [
     {
      "id": "p039.s01",
-     "source": "It is very evident that the expense of these festivities is a considerable item in the budget of the bridegroom’s father."
-    },
-    {
-     "id": "p039.s02",
-     "source": "But it is a matter of social pride and respectability to live up to a certain standard of established usage."
-    },
-    {
-     "id": "p039.s03",
-     "source": "Accordingly many families involve themselves in life-long incumbrances, not only in the betrothal and marriage festivities but also in the ceremony of baptism, simply to come up to a recognized norm of expenditure."
-    },
-    {
-     "id": "p039.s04",
-     "source": "(Tavernier 1:504, 505.)"
+     "source": "“If you save our heads,” said the noblemen, “every one of us will give you a handful of gold coins.”"
     }
    ],
    "id": "p039"
@@ -1148,7 +797,11 @@
    "segments": [
     {
      "id": "p040.s01",
-     "source": "Cesaresco, chapter on Armenian folk-songs."
+     "source": "The witch consented, took the gold and told them of Zoolvisia and her golden hair."
+    },
+    {
+     "id": "p040.s02",
+     "source": "The men told the King what they had heard from the witch, at the same time boasting that it was they who solved the riddle."
     }
    ],
    "id": "p040"
@@ -1158,7 +811,15 @@
    "segments": [
     {
      "id": "p041.s01",
-     "source": "Paul Terzian, Catholic World 71:508."
+     "source": "“Well, then,” said the King, “I wish you to bring me Zoolvisia."
+    },
+    {
+     "id": "p041.s02",
+     "source": "I desire to marry her."
+    },
+    {
+     "id": "p041.s03",
+     "source": "I give you forty days’ grace; if you do not bring her by that time I will cut off your heads.”"
     }
    ],
    "id": "p041"
@@ -1168,7 +829,7 @@
    "segments": [
     {
      "id": "p042.s01",
-     "source": "Bent, Contemporary Review 70:701."
+     "source": "The men at once went to the witch, saying:"
     }
    ],
    "id": "p042"
@@ -1178,15 +839,11 @@
    "segments": [
     {
      "id": "p043.s01",
-     "source": "Tavernier states that in Persian Armenia a man frequently lives with his wife ten years without ever hearing her voice or seeing her face."
+     "source": "“Witch, it is only you who can accomplish this and save our heads."
     },
     {
      "id": "p043.s02",
-     "source": "Of course she does not sleep with her veil over her face, but she is always careful to blow out the candle before she removes the veil, as she is to rise before daybreak in order to put it on again."
-    },
-    {
-     "id": "p043.s03",
-     "source": "(Tavernier 1:507.)"
+     "source": "We will give you whatever you demand if you will bring Zoolvisia.”"
     }
    ],
    "id": "p043"
@@ -1196,7 +853,31 @@
    "segments": [
     {
      "id": "p044.s01",
-     "source": "Trowbridge, New Englander 33:1 ff."
+     "source": "The witch promised."
+    },
+    {
+     "id": "p044.s02",
+     "source": "Immediately she caught a score of snakes, and putting them in a large pitcher, corked its mouth."
+    },
+    {
+     "id": "p044.s03",
+     "source": "She then made a whip of a great black snake, and mounting upon the pitcher, gave it three blows."
+    },
+    {
+     "id": "p044.s04",
+     "source": "Thereupon the pitcher began to fly through the sky as if it had wings, with the witch on its back."
+    },
+    {
+     "id": "p044.s05",
+     "source": "Soon she came to Zoolvisia’s garden, and hiding the pitcher under the weeds, she went and sat on the roadside where the lad would pass on his way from hunting."
+    },
+    {
+     "id": "p044.s06",
+     "source": "She had intentionally put on her torn dress, and her worn and dusty shoes."
+    },
+    {
+     "id": "p044.s07",
+     "source": "In the evening, the lad seeing her, asked her who she was and how she had come there."
     }
    ],
    "id": "p044"
@@ -1206,7 +887,19 @@
    "segments": [
     {
      "id": "p045.s01",
-     "source": "Paul Terzian, Catholic World 71:509."
+     "source": "“O son!” the witch exclaimed with a pitiful voice, “may Heaven bless you!"
+    },
+    {
+     "id": "p045.s02",
+     "source": "I am a pilgrim to Jerusalem."
+    },
+    {
+     "id": "p045.s03",
+     "source": "I missed the caravan and went astray; seeing your house at a distance, I came to take rest."
+    },
+    {
+     "id": "p045.s04",
+     "source": "For Heaven’s sake, give me bread and water, and let me lodge with your dog at your gate.”"
     }
    ],
    "id": "p045"
@@ -1216,7 +909,11 @@
    "segments": [
     {
      "id": "p046.s01",
-     "source": "This statement is in contradiction to a previous statement that the body of the dead is merely wrapped in white cloth after it has been washed; (see page 60) the use of the white cloth is common among Gregorian Armenians."
+     "source": "The lad had compassion on her and took her on the back of his horse."
+    },
+    {
+     "id": "p046.s02",
+     "source": "But the wise animal knew by instinct that she was a wicked woman, and standing on his hind legs, caused her to fall down."
     }
    ],
    "id": "p046"
@@ -1226,10 +923,643 @@
    "segments": [
     {
      "id": "p047.s01",
-     "source": "Paul Terzian, Catholic World 71:509 ff."
+     "source": "“I will follow slowly, son,” said the witch."
+    },
+    {
+     "id": "p047.s02",
+     "source": "“Do you go ahead with your horse.”"
     }
    ],
    "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "Zoolvisia, hearing that the lad had brought an old woman, said:"
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "“Don’t let her enter our house; she may be a witch and bring calamity upon us.”"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "The lad gave orders to the maids to keep the old woman apart and not let her appear before Zoolvisia."
+    },
+    {
+     "id": "p050.s02",
+     "source": "But the witch was clever, and soon won the favor of the maids, who praised her before their mistress and asked her for the sake of merriment to summon her to her presence, at least once."
+    },
+    {
+     "id": "p050.s03",
+     "source": "She consented, and the witch was brought before her."
+    },
+    {
+     "id": "p050.s04",
+     "source": "The witch had a thousand and one ways of winning a young woman, and she soon became a great favorite with Zoolvisia, who could not spend an hour without her."
+    },
+    {
+     "id": "p050.s05",
+     "source": "One day she said to Zoolvisia:"
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "“Blessed are you that have for a husband such a hero, who encounters and overcomes all, and himself is never destroyed."
+    },
+    {
+     "id": "p051.s02",
+     "source": "He discovered your secret, broke your talisman, and won your love."
+    },
+    {
+     "id": "p051.s03",
+     "source": "Of course you know his secret of bravery."
+    },
+    {
+     "id": "p051.s04",
+     "source": "May Heaven preserve his life!"
+    },
+    {
+     "id": "p051.s05",
+     "source": "But can you tell me what his secret is?”"
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "“No,” answered Zoolvisia, “I don’t know what his secret is.”"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "“What sort of a husband and wife are you?” said the witch, scornfully."
+    },
+    {
+     "id": "p053.s02",
+     "source": "“He knows your secret, and you do not know his; and he says he loves you."
+    },
+    {
+     "id": "p053.s03",
+     "source": "Strange, strange!”"
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "These words were enough to excite the curiosity of Zoolvisia, who in the evening again and again importuned the lad, until he was induced to tell her that the secret of his bravery was his magic dagger, which he carried in his belt in daytime and put under his pillow at night."
+    },
+    {
+     "id": "p054.s02",
+     "source": "As soon as that dagger was taken away, he would lose all his power."
+    },
+    {
+     "id": "p054.s03",
+     "source": "With that they exchanged vows that nobody should know the secret, and also they exchanged rings as a sign to be true to one another, even to death."
+    },
+    {
+     "id": "p054.s04",
+     "source": "But woman is frail."
+    },
+    {
+     "id": "p054.s05",
+     "source": "On the following day Zoolvisia told the secret to the witch, adding:"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "“I have told you this to show you how my husband loves me from his heart.”"
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "But she did not tell her anything in regard to the vows and exchange of rings."
+    },
+    {
+     "id": "p056.s02",
+     "source": "On that night the witch, using her craft, caused a heavy sleep to fall on all the inmates of the house."
+    },
+    {
+     "id": "p056.s03",
+     "source": "At midnight she entered the lad’s room, and taking the magic dagger from under his pillow, threw it from the window into the neighboring pond."
+    },
+    {
+     "id": "p056.s04",
+     "source": "Then she went to bed and pretended to sleep."
+    },
+    {
+     "id": "p056.s05",
+     "source": "In the morning Zoolvisia and the maids saw that their master did not rise."
+    },
+    {
+     "id": "p056.s06",
+     "source": "They entered the room, and lo! the lad had fallen from his bed and lay benumbed, foaming at the mouth."
+    },
+    {
+     "id": "p056.s07",
+     "source": "They called him; but there was no answer."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "“Look under the pillow and see whether the magic dagger is there,” exclaimed Zoolvisia."
+    },
+    {
+     "id": "p057.s02",
+     "source": "They looked, and lo! it had been stolen."
+    },
+    {
+     "id": "p057.s03",
+     "source": "Then they all began to wail and cry."
+    },
+    {
+     "id": "p057.s04",
+     "source": "Thereupon the witch came in to see if the lad were really dead."
+    },
+    {
+     "id": "p057.s05",
+     "source": "She beat her breast, she beat her knees, she pulled her hair, crying and yelling all the time."
+    },
+    {
+     "id": "p057.s06",
+     "source": "Then she went out, brought the pitcher to the door of the castle, and re-entered surrounded by scores of snakes, which were hissing with their forked tongues."
+    },
+    {
+     "id": "p057.s07",
+     "source": "All were stricken with terror and began to scream and yell."
+    },
+    {
+     "id": "p057.s08",
+     "source": "She bade the snakes bite the maidens, who all fell down in a swoon."
+    },
+    {
+     "id": "p057.s09",
+     "source": "Then she said to Zoolvisia:"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "“Now you must obey me and come with me, else I will set on you all these snakes, which will bite you and tear you into pieces.”"
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "Zoolvisia was terrified and mute."
+    },
+    {
+     "id": "p059.s02",
+     "source": "The witch pushed her down the stairs, and thrusting her into the pitcher, shut its mouth."
+    },
+    {
+     "id": "p059.s03",
+     "source": "She then mounted the pitcher, and gave three strokes with the snake whip, which caused it to fly."
+    },
+    {
+     "id": "p059.s04",
+     "source": "She alighted in the country of the King of the East, and taking Zoolvisia out, gave her to the King’s ministers, who paid her with a horse-load of gold."
+    },
+    {
+     "id": "p059.s05",
+     "source": "Zoolvisia was taken to the King’s palace."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "Let us return to the lad."
+    },
+    {
+     "id": "p061.s02",
+     "source": "The twenty-one fairies, the lad’s adopted cousins, seeing that blood was dripping from the scissors and the razor, and that the looking-glass was covered with sweat, understood that their human kinsman was in danger, and hastened to his rescue."
+    },
+    {
+     "id": "p061.s03",
+     "source": "Reaching the castle they saw the lad still in a torpor, and the maids covered with snakes."
+    },
+    {
+     "id": "p061.s04",
+     "source": "On killing the snakes, all the maids revived, and told the fairies what had happened."
+    },
+    {
+     "id": "p061.s05",
+     "source": "They looked everywhere for the dagger, but in vain."
+    },
+    {
+     "id": "p061.s06",
+     "source": "In the evening they were all hungry, but there was nothing at home to eat."
+    },
+    {
+     "id": "p061.s07",
+     "source": "The fairies, seeing that large fishes were swimming in the pond, dove in and threw the fishes ashore."
+    },
+    {
+     "id": "p061.s08",
+     "source": "A great fish being thrown ashore, was divided into two halves, and lo! the magic dagger fell out."
+    },
+    {
+     "id": "p061.s09",
+     "source": "The fish had swallowed it."
+    },
+    {
+     "id": "p061.s10",
+     "source": "The moment the dagger was put under the lad’s pillow he jumped up, washed himself, and was surprised to see that his fairy cousins had come."
+    },
+    {
+     "id": "p061.s11",
+     "source": "They told him everything."
+    },
+    {
+     "id": "p061.s12",
+     "source": "Immediately he ran to the stable."
+    },
+    {
+     "id": "p061.s13",
+     "source": "The horse was there, but in a pitiable condition; it had neither eaten nor drunk; it had fallen in the dust."
+    },
+    {
+     "id": "p061.s14",
+     "source": "As soon as the animal saw the lad and smelled him it jumped up, neighing."
+    },
+    {
+     "id": "p061.s15",
+     "source": "The lad gave it food to eat and water to drink, brushed it clean, and kissing it on the forehead, said:"
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "“O my wise horse! you foresaw the calamity by your unerring instinct, for you threw the hag from your back; and lo! what she has brought upon us."
+    },
+    {
+     "id": "p062.s02",
+     "source": "Now let us go after Zoolvisia.”"
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "The animal, as if understanding what the lad said, neighed and beat the ground with its hoofs, and seemed to say, “Yes, let us go; I am ready to go.”"
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "The lad came back to the castle, gave to the maidens many precious presents, and sent them away free."
+    },
+    {
+     "id": "p064.s02",
+     "source": "He gave the castle and the treasures in it to the fairies, himself taking only his saddlebags full of gold coins."
+    },
+    {
+     "id": "p064.s03",
+     "source": "He mounted the horse and went down the river until he came to the city of the King of the East."
+    },
+    {
+     "id": "p064.s04",
+     "source": "He stopped before the cottage of an old woman on the outskirts of the city and knocked at the door."
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "“Have you a night’s lodging for me, mother?” asked the lad."
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "“No, master, I have no place for you,” answered the dame."
+    },
+    {
+     "id": "p066.s02",
+     "source": "“You had better go elsewhere.”"
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "“Here is something for you,” said the lad, giving her a handful of gold."
+    },
+    {
+     "id": "p067.s02",
+     "source": "“You are the crown of my head, son!” exclaimed the old woman."
+    },
+    {
+     "id": "p067.s03",
+     "source": "“I have room both for you and your horse.”"
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "The lad entered in to lodge."
+    },
+    {
+     "id": "p068.s02",
+     "source": "After the meal he asked the old woman in regard to the news in the city, and was told that Zoolvisia was in the King’s palace, where for thirty-five days there had been a wedding festival, and after five days she would be married to the King."
+    },
+    {
+     "id": "p068.s03",
+     "source": "But she had said to the King that she did not wish to marry him, as she was the wife of some one else, and that rather than to be forced to it she would die by drinking poison, which she had ready in her hand."
+    },
+    {
+     "id": "p068.s04",
+     "source": "She therefore received nobody."
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "“Well, well, mother; that is enough,” said the lad."
+    },
+    {
+     "id": "p069.s02",
+     "source": "“You keep a secret, don’t you?”"
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "“Oh, better than you desire,” answered the old woman."
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "“Here is another handful of gold coins,” said the lad; “go to the market place and buy a suit of costly garments."
+    },
+    {
+     "id": "p071.s02",
+     "source": "Put them on, and go and see Zoolvisia."
+    },
+    {
+     "id": "p071.s03",
+     "source": "Take this ring, put it on your finger, and show it to her; then bring me word what she says.”"
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "The old woman did just as he had told her."
+    },
+    {
+     "id": "p072.s02",
+     "source": "The palace servants thought she was the wife of the prime minister, and told Zoolvisia that the greatest lady in the realm had come to visit her."
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "“I don’t want her, I don’t!” cried Zoolvisia; “ let her not come near me.”"
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "The old woman did not pay any attention to the words of the servants, who told her that Zoolvisia did not want to see her, but pushed on and opened the door of the room where Zoolvisia was confined, and held the ring before her eyes."
+    },
+    {
+     "id": "p074.s02",
+     "source": "As soon as Zoolvisia caught a glance of the ring, she became as tame as a lamb."
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "“You are welcome, kind lady!” she exclaimed, with her sweet voice; “please be seated,” and she shut the door."
+    },
+    {
+     "id": "p075.s02",
+     "source": "When they were alone she said:"
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "“Where is the owner of that ring, mother?”"
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "“He is a guest in my house,” replied the woman, “and is waiting to know your will.”"
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "“Go tell him,” said Zoolvisia, “to rest for three days."
+    },
+    {
+     "id": "p078.s02",
+     "source": "Do you immediately go to the King, and say that you have persuaded me to become his wife."
+    },
+    {
+     "id": "p078.s03",
+     "source": "Let him be of good cheer."
+    },
+    {
+     "id": "p078.s04",
+     "source": "On the third day I shall go for recreation to the public garden."
+    },
+    {
+     "id": "p078.s05",
+     "source": "It is the business of your guest to do the rest."
+    },
+    {
+     "id": "p078.s06",
+     "source": "Farewell!”"
+    }
+   ],
+   "id": "p078"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p079.s01",
+     "source": "“Farewell!” said the old woman, and went directly to the King’s apartment, saying proudly that she had persuaded Zoolvisia, who early on the third day would go to the public garden for recreation, and when she returned would become his wife."
+    },
+    {
+     "id": "p079.s02",
+     "source": "The King was delighted, and gave the old woman costly presents."
+    },
+    {
+     "id": "p079.s03",
+     "source": "She came and told her guest all that had happened."
+    },
+    {
+     "id": "p079.s04",
+     "source": "Early on the third day, as Zoolvisia had gone to the public garden with great pomp, the lad came on the back of his horse like a flash of lightning, put his arm about Zoolvisia’s waist, and in the twinkling of an eye, disappeared."
+    },
+    {
+     "id": "p079.s05",
+     "source": "The crowd thought it was a hurricane, and all were stricken with terror."
+    },
+    {
+     "id": "p079.s06",
+     "source": "As soon as the King and his men realized the fact that she had been taken away, they mounted their horses and started in pursuit of the unknown horseman."
+    },
+    {
+     "id": "p079.s07",
+     "source": "The lad, having put Zoolvisia in a safe place, came back with his horse of lightning, killed the King and his favorites with his magic dagger, and told the crowd in the public garden who he was."
+    },
+    {
+     "id": "p079.s08",
+     "source": "The people, who were tired of their tyrannical King, prayed that he would become their King and Zoolvisia their Queen."
+    },
+    {
+     "id": "p079.s09",
+     "source": "The lad went and brought Zoolvisia back."
+    },
+    {
+     "id": "p079.s10",
+     "source": "A crowd conducted them with great pomp to the throne, where they are still reigning as King and Queen."
+    }
+   ],
+   "id": "p079"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p080.s01",
+     "source": "Three apples fell from heaven; one for me, one for the story-teller, and one for him who entertained the company."
+    }
+   ],
+   "id": "p080"
   }
  ]
 }

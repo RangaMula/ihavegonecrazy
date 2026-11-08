@@ -1,0 +1,62 @@
+{
+ "id": "am-alaska-native-peoples-048",
+ "title": {
+  "id": "title",
+  "source": "The Mark Of The Marten"
+ },
+ "tradition": "Alaska Native peoples",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths and Legends of Alaska",
+ "credits": "Judson, Katharine Berry (compiler, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #47146 — https://www.gutenberg.org/ebooks/47146",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Alaska Native peoples/048 - The Mark Of The Marten.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 7,
+  "words": 69
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Athapascan ( Upper Yukon )"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "L ONG ago a hungry marten went to an Indian camp."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The Indians around the camp fire were eating salmon."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Marten sat still and watched them."
+    },
+    {
+     "id": "p002.s04",
+     "source": "He was hungry and he watched this Indian and then that."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Then an Indian threw at him a piece of red salmon."
+    },
+    {
+     "id": "p002.s06",
+     "source": "It struck Marten on the breast and the reddish mark is there, even to this day."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

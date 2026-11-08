@@ -1,0 +1,17 @@
+# Bou Âmara et sa fille 1
+
+- **Tradition:** Kabyle people (Algeria) (Africa)
+- **Source book:** *Recueil de contes populaires de la Kabylie du Djurdjura (1882)*
+- **Author / collector / translator:** Rivière, Joseph (translator, d. 1883)
+- **Original language of this text:** fr
+- **Source:** Internet Archive item `recueildecontes00rivigoog` — https://archive.org/details/recueildecontes00rivigoog (OCR text, lightly cleaned)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+- **Note:** Digitised by OCR; minor recognition errors may remain.
+
+---
+
+iou Amara avait une fille, il voulait la fiancer au premier acheteur. Un homme se présenta, Bou Amara lui dit: « Achète un mouton, nous le mangerons. » Le prétendant acheta le mouton, on le mangea. « Va-t'en, dit Bou Amara, je ne te donne pas ma fille. » Un second se présenta, acheta un mouton et reçut la même réponse. Un troisième apporta un mouton, il le tua et partagea la viande, il mit les pieds de derrière et le
+
+cœur ensemble, les poumons et les pieds de devant ensemble, le foie et les yeux ensemble : t Viens, dit-il à Bou Amara, tu emporteras la viande. » La jeune fille s'avança : « Tu as mal fait les parts, » s'écria-t-elle. — a C'est tout mon savoir-faire, re'pondit le prc'tendant, toi, fille de Bou Amara, qui as beaucoup d'intelligence, montre-moi cpmment j'ai mal fait les parts. » Comme elle était plus intelligente que son futur mari, elle lui demanda : « Pourquoi as-tu mis les pieds de derrière et le cœur d'un côte', le foie et les yeux d'un autre côté, les poumons et les pieds de devant d'un autre côté ? • Il lui re'pondit : « J'ai mis ensemble les pieds de derrière et le cœur, car là où veut aller ton cœur, tes pieds y vont aussi. J'ai mis ensemble les poumons et les pieds de devant, car, lorsque les poumons sont secs, les mains frappent fortement. J'ai mis ensemble le foie et les yeux, car lorsque le foie est faible, les yeux pleurent. »
+
+Celui qui ne comprend rien se tourmente inutilement pour comprendre. Celui qui est intelligent, obtiendra tout par son intelligence, car il fera valoir ses droits.

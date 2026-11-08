@@ -4,7 +4,7 @@
 - **Source book:** *Cinderella in the South: Twenty-Five South African Tales*
 - **Author / collector / translator:** Cripps, Arthur Shearly (author, d. 1952)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #22886 — https://www.gutenberg.org/ebooks/22886 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #22886 — https://www.gutenberg.org/ebooks/22886
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

@@ -1,0 +1,64 @@
+{
+ "id": "am-chile-080",
+ "title": {
+  "id": "title",
+  "source": "El Rei que tenia dos hijos"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos chilenos de nunca acabar",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #69164 — https://www.gutenberg.org/ebooks/69164",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/080 - El Rei que tenia dos hijos.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 6,
+  "words": 156
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Est’era un rei que tenia dos hijos, uno era mas grande i otro mas chico, uno se llamaba Pancho i otro Francisco."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Cuando el rei se levantaba, se levantaba con sus dos hijos, uno era mas grande i otro mas chico, uno se llamaba Pancho i otro Francisco."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Cuando el rei almorzaba, almorzaba con sus dos hijos, uno era mas grande i otro mas chico, uno se llamaba Pancho i otro Francisco."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Cuando el rei salia a la calle, salia con sus dos hijos,... etc."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Se comprende que con este sistema puede el contador repetir el cuentecillo miéntras viva, ya que no ha de faltarle alguna dilijencia, asunto o negocio que achacar al rei para que lo haga o despache en compañía de sus hijos, pues tiene la facilidad de marchar con ellos paso a paso i momento a momento."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Este i los demas que siguen tienen todos los caractéres del verdadero cuento de nunca acabar."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

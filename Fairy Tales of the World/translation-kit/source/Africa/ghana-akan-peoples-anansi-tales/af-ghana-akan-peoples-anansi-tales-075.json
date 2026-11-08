@@ -1,0 +1,134 @@
+{
+ "id": "af-ghana-akan-peoples-anansi-tales-075",
+ "title": {
+  "id": "title",
+  "source": "Gitagangurirwa w'umunebwe"
+ },
+ "tradition": "Ghana (Akan peoples, Anansi tales)",
+ "continent": "Africa",
+ "source_lang": "rw",
+ "source_book": "African Storybook — traditional tales retold (CC BY 4.0)",
+ "credits": "Ghanaian folktale Epimaque Niyibizi Wiehan de Jager (story, illustration and translation credits as listed by African Storybook)",
+ "gutenberg": "African Storybook story #21981 — https://www.africanstorybook.org/ (search the title)",
+ "copyright": "Creative Commons Attribution 4.0 (CC BY 4.0). Free to copy, translate and adapt for any purpose, including commercial, as long as you credit the original author(s), illustrator(s) and African Storybook and link to the licence: https://creativecommons.org/licenses/by/4.0/",
+ "markdown_file": "Africa/Ghana (Akan peoples, Anansi tales)/075 - Gitagangurirwa w'umunebwe.md",
+ "stats": {
+  "paragraphs": 8,
+  "segments": 16,
+  "words": 98
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Akunda ibiryo, ariko akagira ubunebwe bwo kubiteka."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Rukwavu ati: \"Yego."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Ngaho ba umfasha kugaragura imboga.\""
+    },
+    {
+     "id": "p002.s03",
+     "source": "Ariko Gitagangurirwa ni umunebwe."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Gitagangurirwa azirika ubudodo ku kaguru ke, abuzirika no ku nkono ya Rukwavu."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Abwira Nkende ati: \"Mbe Nkende, mwareka tugasangira ibishyimbo byanyu?\""
+    },
+    {
+     "id": "p004.s02",
+     "source": "Nkende ati: \"Yego."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Dufashe kwasa inkwi.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Abwira Satura ati: \"Wareka tugasangira ibirayi byawe?\""
+    },
+    {
+     "id": "p005.s02",
+     "source": "Na we ati: \"Yego."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Mfasha kubiteka.\""
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Bityo rero, ku maguru 8 yose ya Gitagangurirwa, hari haziritseho inkono runaka."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Amaguru yose uko ari 8 barayakurura!"
+    },
+    {
+     "id": "p007.s02",
+     "source": "Gitagangurirwa atangira kuvuza induru ati: \"Mureke kunkurura.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Nuko amaguru ya Gitagangurirwa arakururuka aba maremare."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Nguko uko ibitagangurirwa byatangiye kugira amaguru maremare."
+    }
+   ],
+   "id": "p008"
+  }
+ ]
+}

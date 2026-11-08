@@ -1,0 +1,72 @@
+{
+ "id": "am-chile-055",
+ "title": {
+  "id": "title",
+  "source": "El Comerciante Convertido En Burro"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/055 - El Comerciante Convertido En Burro.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 8,
+  "words": 380
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Nicolás Fuenzalida, de 70 años, guardián de la Biblioteca Nacional, me contó, en 1920, en presencia de varios empleados de la misma Biblioteca, que siendo joven de unos veinte años, había sido mozo de un rico comerciante que recorría todo el Sur con una recua de mulas cargadas de mercaderías, y él era uno de los diez o más hombres que lo acompañaban para el servicio y resguardarlo de los bandidos que en aquel tiempo infestaban los caminos; y que una vez que iban de viaje, se alojaron en casa de un campesino acomodado que tenía varias hijas muy hermosas."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Comieron bien y se fueron a dormir, el patrón solo, en una pieza cómoda y bien amueblada, y ellos, en el pajar, cuidando de las bestias."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Debían continuar el viaje al día siguiente, pero el comerciante no apareció, sin embargo de que nadie lo había visto salir."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Esperaron tres días y como el comerciante no pareciera, dieron aviso al Subdelegado, que, mientras tanto, se hizo cargo de las mulas y de las cargas."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Fuenzalida y los demás mozos se fueron cada uno por su lado."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Pasados algunos años, Fuenzalida se encontró en Santiago con su antiguo patrón y le preguntó qué le había sucedido en aquella ocasión."
+    },
+    {
+     "id": "p003.s02",
+     "source": "El comerciante le contó que el campesino dueño de la casa en que alojaron, lo había sorprendido a media noche con la menor de las niñas y, en venganza, lo había convertido en burro, porque era brujo; que lo había tenido así seis meses haciéndolo trabajar hasta dejarlo rendido, y todas las noches, antes de irse a acostar, le propinaba una paliza que lo dejaba todo derrengado; que pasados los seis meses, le había dicho:—“Creo que ya estás bien castigado de la falta de lealtad con que pagaste la hospitalidad que te di; pero si quieres volver a ser hombre, tendrás que firmarme una escritura por la que conste que te he comprado y pagado las mulas y mercaderías que todavía están en poder del Subdelegado, y entregues 10,000 pesos a mi hija, como dote; si no, seguirás siendo burro toda tu vida”."
+    },
+    {
+     "id": "p003.s03",
+     "source": "No tuve más remedio que aceptar, pues, de haberme negado, todavía sería burro y estaría viviendo a razón de hambre y yéndome a dormir previa una formidable paliza cada noche."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

@@ -2,20 +2,20 @@
  "id": "as-turkey-011",
  "title": {
   "id": "title",
-  "source": "The Prayer Rug And The Dishonest Steward"
+  "source": "The Crow-Peri"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/011 - The Prayer Rug And The Dishonest Steward.md",
+ "markdown_file": "Asia/Turkey/011 - The Crow-Peri.md",
  "stats": {
-  "paragraphs": 9,
-  "segments": 23,
-  "words": 518
+  "paragraphs": 29,
+  "segments": 81,
+  "words": 1949
  },
  "paragraphs": [
   {
@@ -23,15 +23,43 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "poor Hamal (porter) brought to the Pasha of Stamboul his savings, consisting of a small canvas bag of medjidies (Turkish silver dollars), to be kept for him, while he was absent on a visit to his home."
+     "source": "Once upon a time that was no time there was a man who had one son."
     },
     {
      "id": "p001.s02",
-     "source": "The Pasha, being a kind-hearted man, consented, and after sealing the bag, called his steward, instructing him to keep it till the owner called for it."
+     "source": "This man used to go out into the forest all day, and catch birds for sale to the first comer."
     },
     {
      "id": "p001.s03",
-     "source": "The steward gave the man a receipt, to the effect that he had received a sealed bag containing money."
+     "source": "At last, however, the father died and the son was left all alone."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Now he did not know what had been his fathers profession, but while he was searching all about the floor he came upon the fowling-snare."
+    },
+    {
+     "id": "p001.s05",
+     "source": "So he took it, went out into the forest, and set the snare on a tree."
+    },
+    {
+     "id": "p001.s06",
+     "source": "At that moment a crow flew down upon the tree, but as the snare was cunningly laid the poor bird was caught."
+    },
+    {
+     "id": "p001.s07",
+     "source": "The youth climbed up after it, but when he had got hold of the bird, the crow began begging him to let her go, promising to give him in exchange something more beautiful and more precious than herself."
+    },
+    {
+     "id": "p001.s08",
+     "source": "The crow begged and prayed till at last he let her go free, and again he set the snare in the tree and sat down at the foot of it to wait."
+    },
+    {
+     "id": "p001.s09",
+     "source": "Presently another bird came flying up, and flew right into the snare."
+    },
+    {
+     "id": "p001.s10",
+     "source": "The youth climbed up the tree again to bring it down, but when he saw it he was full of amazement, for such a beautiful thing he had never seen in the forest before."
     }
    ],
    "id": "p001"
@@ -41,15 +69,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "When the poor man returned, he went to the Pasha and received his bag of money."
+     "source": "While he was still gazing at it and chuckling, the crow again appeared to him and said: “Take that bird to the Padishah, and he will buy it from thee.”"
     },
     {
      "id": "p002.s02",
-     "source": "On reaching his room he opened the bag, and to his horror found that it contained, instead of the medjidies he had put in it, copper piasters, which are about the same size as medjidies."
+     "source": "So the youth took away the bird, put it in a cage, and carried it to the palace."
     },
     {
      "id": "p002.s03",
-     "source": "The poor Hamal was miserable, his hard-earned savings gone."
+     "source": "When the Padishah saw the beautiful little creature he was filled with joy, and gave the youth so much money for it that he did not know what to do with it all."
+    },
+    {
+     "id": "p002.s04",
+     "source": "But the bird they placed in a golden cage, and the Padishah had his joy of it day and night."
     }
    ],
    "id": "p002"
@@ -59,23 +91,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "He at last gathered courage to go and put his case before the Pasha."
+     "source": "Now the Padishah had a favourite who was grievously jealous of the good fortune of the youth who had brought the bird, and kept cudgelling his brains how he could get him beneath his feet."
     },
     {
      "id": "p003.s02",
-     "source": "He took the bag of piasters, and with trembling voice and faltering heart he assured the Pasha that though he had received his bag apparently intact, on opening it he found that it contained copper piasters and not the medjidies he had put in it."
-    },
-    {
-     "id": "p003.s03",
-     "source": "The Pasha took the bag, examined it closely, and after some time noticed a part that had apparently been darned by a master-hand."
-    },
-    {
-     "id": "p003.s04",
-     "source": "The Pasha told the Hamal to go away and come back in a week; in the meantime he would see what he could do for him."
-    },
-    {
-     "id": "p003.s05",
-     "source": "The grateful man departed, uttering prayers for the life and prosperity of his Excellency."
+     "source": "At last he hit upon a plan, and going in to the Padishah one day he said: “How happy that bird would be if only he had an ivory palace to dwell in!”"
     }
    ],
    "id": "p003"
@@ -85,23 +105,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The next morning after the Pasha had said his prayers kneeling on a most magnificent and expensive rug, he took a knife and cut a long rent in it."
-    },
-    {
-     "id": "p004.s02",
-     "source": "He then left his Konak without saying a word to any one."
-    },
-    {
-     "id": "p004.s03",
-     "source": "In the evening when he returned he found that the rent had been so well repaired that it was with difficulty that he discovered where it had been."
-    },
-    {
-     "id": "p004.s04",
-     "source": "Calling his steward, he demanded who had repaired his prayer rug."
-    },
-    {
-     "id": "p004.s05",
-     "source": "The steward told the Pasha that he thought the rug had been cut by accident by some of the servants, so he had sent to the Bazaar for the darner, Mustapha, and had it mended, the steward, by way of apology, adding that it was very well done."
+     "source": "“Yes,” replied the Padishah, “but whence could I get enough ivory to make him a palace?”"
     }
    ],
    "id": "p004"
@@ -111,7 +115,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "\"Send for Mustapha immediately,\" said the Pasha, \"and when he comes bring him to my room.\""
+     "source": "“He who brought the bird hither,” said the favourite, “will certainly be able to find the ivory.”"
     }
    ],
    "id": "p005"
@@ -121,11 +125,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "When Mustapha arrived, the Pasha asked him if he had repaired the rug."
+     "source": "So the Padishah sent for the little fowler, and bade him make an ivory palace for the bird there and then."
     },
     {
      "id": "p006.s02",
-     "source": "Mustapha at once replied that he had mended it that very morning."
+     "source": "“I know thou canst get the ivory,” said the Padishah."
     }
    ],
    "id": "p006"
@@ -135,7 +139,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"It is indeed well done,\" said the Pasha; \"much better than the darn you made in that canvas bag.\""
+     "source": "“Alas, my lord Padishah!” lamented the youth, “whence am I to get all this ivory from?”"
     }
    ],
    "id": "p007"
@@ -145,23 +149,372 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Mustapha agreed, saying that it was very difficult to mend the bag as it was full of copper piasters."
+     "source": "“That is thy business,” replied the Padishah."
     },
     {
      "id": "p008.s02",
-     "source": "On hearing this, the Pasha gave him a backsheesh (present) and told him to retire."
-    },
-    {
-     "id": "p008.s03",
-     "source": "The Pasha then called his steward, and not only compelled him to pay the Hamal his money, but discharged him from his service, in which he had been engaged for many years."
+     "source": "“Thou mayest search for it for forty days, but if it is not here by that time thy head shall be where now thy feet are.”"
     }
    ],
    "id": "p008"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "The youth was sore troubled, and while he was still pondering in his mind which road he should take, the crow came flying up to him, and asked him what he was grieving about so much."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Then the youth told her what a great trouble that one little bird had brought down upon his head."
+    }
+   ],
    "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“Why this is nothing at all to fret about,” said the crow; “but go to the Padishah, and ask him for forty wagon-loads of wine!”"
+    },
+    {
+     "id": "p010.s02",
+     "source": "So the youth returned to the palace, got all that quantity of wine, and as he was coming back with the cars, the crow flew up and said: “Hard by is a forest, on the border of which are forty large trenches, and as many elephants as there are in the wide world come to drink out of these trenches."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Go now and fill them with wine instead of water."
+    },
+    {
+     "id": "p010.s04",
+     "source": "The elephants will thus get drunk and tumble down, and thou wilt be able to pull out their teeth and take them to the Padishah. ”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "The youth did as the bird said, crammed his cars full of elephants’ tusks instead of wine, and returned with them to the palace."
+    },
+    {
+     "id": "p011.s02",
+     "source": "The Padishah rejoiced greatly at the sight of all the ivory, had the palace built, rewarded the little fowler with rich gifts, and sent him home."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "So there was the sparkling bird in his ivory palace, and right merrily did he hop about from perch to perch, but he could never be got to sing."
+    },
+    {
+     "id": "p012.s02",
+     "source": "“Ah!” said the evil counsellor, “if only his master were here he would sing of his own accord.”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“Who knows who his master is, or where he is to be found?” asked the Padishah sadly."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“He who fetched the elephants’ tusks could fetch the bird’s master also,” replied the evil counsellor."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "So the Padishah sent for the little fowler once more, and commanded him to bring the bird’s master before him."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "“How can I tell who his master is, when I caught him by chance in the forest?” asked the fowler."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“That is thy look-out,” said the Padishah; “but if thou find him not I will slay thee."
+    },
+    {
+     "id": "p017.s02",
+     "source": "I give thee forty days for thy quest, and let that suffice thee.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "So the youth went home, and sobbed aloud in his despair, when lo! the crow came flying up and asked him what he was crying for."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“Why should I not cry?” said the poor youth, and with that he began to tell the crow of his new trouble.—“Nay, but ’tis a shame to weep for such a trifle,” said the crow."
+    },
+    {
+     "id": "p019.s02",
+     "source": "“Go quickly now to the King and ask him for a large ship, but it must be large enough to hold forty maidservants, a beautiful garden also, and a bath-house.”"
+    },
+    {
+     "id": "p019.s03",
+     "source": "So the youth returned to the King and told him what he wanted for his journey."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "The ship was prepared as he had desired it, the youth embarked, and was just thinking whether he should go to the left or the right, when the crow came flying up, and said to him: “Steer thy ship always to the right, and go straight on until thou perceive a huge mountain."
+    },
+    {
+     "id": "p020.s02",
+     "source": "At the foot of this mountain dwell forty Peris, and when they perceive thy ship they will feel a strong desire to look at everything on board of it."
+    },
+    {
+     "id": "p020.s03",
+     "source": "But thou must allow only their Queen to come on board, for she is the owner of the bird, and while thou art showing her the ship, set sail and never stop till thou reach home.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "So the youth went on board the ship, steered steadily to the right, and never stopped once till he came to the mountain."
+    },
+    {
+     "id": "p021.s02",
+     "source": "There the forty Peris were walking on the sea-shore, and when they saw the ship they all came rushing up that they might examine the beautiful thing."
+    },
+    {
+     "id": "p021.s03",
+     "source": "The Queen of the Peris asked the little fowler whether he would not show her the ship, especially the inside of it, and he took her off in a little skiff and brought her to the vessel."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "The Peri was monstrously delighted with the beautiful ship, walked in the garden with the damsels on board the ship, and when she saw the bath-room she said to the waiting-maids: “If I have come so far, I may as well have a bath into the bargain.”"
+    },
+    {
+     "id": "p022.s02",
+     "source": "With that she stepped into the bath-room, and while she was bathing the ship went off."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "They had gone a good distance across the sea before the Peri had finished her bathing."
+    },
+    {
+     "id": "p023.s02",
+     "source": "The Peri made haste, for it was now growing late, but when she stepped upon the deck she saw nothing but the sea around her."
+    },
+    {
+     "id": "p023.s03",
+     "source": "At this she fell a-weeping bitterly."
+    },
+    {
+     "id": "p023.s04",
+     "source": "What would become of her? she said; whither was she going? into whose hands was she about to fall?"
+    },
+    {
+     "id": "p023.s05",
+     "source": "But the youth comforted her with the assurance that she was going to a King’s palace, and would be among good people."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Not very long afterwards they arrived in the city, and sent word to the King that the ship had come back."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Then he brought the Peri to the palace, and as she passed by the ivory palace of the bird, it began to sing so beautifully that all who heard it were beside themselves for joy."
+    },
+    {
+     "id": "p024.s03",
+     "source": "The Peri was a little comforted when she heard it, but the King was filled with rapture, and he loved the beautiful Peri so fondly that he could not be a single moment without her."
+    },
+    {
+     "id": "p024.s04",
+     "source": "The wedding-banquet quickly followed, and with the beauteous Peri on his right hand, and the sparkling bird on his left, there was not a happier man in the world than that Padishah."
+    },
+    {
+     "id": "p024.s05",
+     "source": "But the poison of envy devoured the soul of the evil counsellor."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "One day, however, the Sultana suddenly fell ill, and took to her bed."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Every remedy was tried in vain, but the sages said that nothing could cure her but the drug which she had left behind her in her own fairy palace."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Then, by the advice of the evil counsellor, the young fowler was again sent for to the palace, and commanded to go and seek for the drug."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "So the good youth embarked on his ship again, and was just about to sail when the crow came to him and asked him whither he was going."
+    },
+    {
+     "id": "p026.s02",
+     "source": "The youth told her that the Sultana was ill, and he had been sent to fetch the drug from the fairy palace."
+    },
+    {
+     "id": "p026.s03",
+     "source": "“Well then, go!” said the crow, “and thou wilt find the palace behind a mountain."
+    },
+    {
+     "id": "p026.s04",
+     "source": "Two lions stand in the gates, but take this feather and touch their mouths with it, and they will not lift so much as a claw against thee.”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "The youth took the feather, arrived in front of the mountain, disembarked, and quickly beheld the palace."
+    },
+    {
+     "id": "p027.s02",
+     "source": "He went straight up to the gates, and there stood the two lions."
+    },
+    {
+     "id": "p027.s03",
+     "source": "He took out his feather, and no sooner had he touched their mouths than they lay down one on each side and let him go into the palace."
+    },
+    {
+     "id": "p027.s04",
+     "source": "The Peris about the palace also saw the youth, and immediately guessed that their Queen was ill."
+    },
+    {
+     "id": "p027.s05",
+     "source": "So they gave him the drug, and immediately he took ship again, and returned to the palace of the Padishah."
+    },
+    {
+     "id": "p027.s06",
+     "source": "But the moment he entered the Peri’s chamber with the drug in his hand, the crow alighted on his shoulder, and thus they went together to the sick Sultana’s bed."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "The Sultana was already in the throes of death, but no sooner had she tasted of the healing drug than she seemed to return to life again at a single bound."
+    },
+    {
+     "id": "p028.s02",
+     "source": "She opened her eyes, gazed upon the little fowler, and perceiving the crow upon his shoulder thus addressed her: “Oh, thou sooty slave! art thou not sorry for all that this good youth hath suffered for my sake?”"
+    },
+    {
+     "id": "p028.s03",
+     "source": "Then the Sultana told her lord that this same crow was her serving-maid, whom, for negligence in her service, she had changed into a crow."
+    },
+    {
+     "id": "p028.s04",
+     "source": "“Nevertheless,” she added, “I now forgive her, for I see that her intentions towards me were good.”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "At these words the crow trembled all over, and immediately a damsel so lovely stood before the young fowler that there was really very little difference between her and the Queen of the Peris."
+    },
+    {
+     "id": "p029.s02",
+     "source": "At the petition of the Sultana, the Sultan married the youth to the Crow-Peri, the evil-minded counsellor was banished, and the fowler became Vizier in his stead."
+    },
+    {
+     "id": "p029.s03",
+     "source": "And their happiness lasted till death."
+    }
+   ],
+   "id": "p029"
   }
  ]
 }

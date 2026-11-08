@@ -2,20 +2,20 @@
  "id": "as-turkey-006",
  "title": {
   "id": "title",
-  "source": "How Chapkin Halid Became Chief Detective"
+  "source": "The Horse-Devil And The Witch"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/006 - How Chapkin Halid Became Chief Detective.md",
+ "markdown_file": "Asia/Turkey/006 - The Horse-Devil And The Witch.md",
  "stats": {
-  "paragraphs": 16,
-  "segments": 60,
-  "words": 1441
+  "paragraphs": 27,
+  "segments": 95,
+  "words": 2259
  },
  "paragraphs": [
   {
@@ -23,27 +23,15 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "n Balata there lived, some years ago, two scapegraces, called Chapkin Halid and Pitch Osman."
+     "source": "There was once upon a time a Padishah who had three daughters."
     },
     {
      "id": "p001.s02",
-     "source": "These two young rascals lived by their wits and at the expense of their neighbors."
+     "source": "One day the old father made him ready for a journey, and calling to him his three daughters straightly charged them to feed and water his favourite horse, even though they neglected everything else."
     },
     {
      "id": "p001.s03",
-     "source": "But they often had to lament the ever-increasing difficulties they encountered in procuring the few piasters they needed daily for bread and the tavern."
-    },
-    {
-     "id": "p001.s04",
-     "source": "They had tried several schemes in their own neighborhood, with exceptionally poor results, and were almost disheartened when Chapkin Halid conceived an idea that seemed to offer every chance of success."
-    },
-    {
-     "id": "p001.s05",
-     "source": "He explained to his chum Osman that Balata was \"played out,\" at least for a time, and that they must go elsewhere to satisfy their needs."
-    },
-    {
-     "id": "p001.s06",
-     "source": "Halid's plan was to go to Stamboul, and feign death in the principal street, while Osman was to collect the funeral expenses of his friend Halid."
+     "source": "He loved the horse so much that he would not suffer any stranger to come near it."
     }
    ],
    "id": "p001"
@@ -53,19 +41,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Arriving in Stamboul, Halid stretched himself on his back on the pavement and covered his face with an old sack, while Osman sat himself down beside the supposed corpse, and every now and then bewailed the hard fate of the stranger who had met with death on the first day of his arrival."
+     "source": "So the Padishah went on his way, but when the eldest daughter brought the fodder into the stable the horse would not let her come near him."
     },
     {
      "id": "p002.s02",
-     "source": "The corpse prompted Osman whenever the coast was clear, and the touching tale told by Osman soon brought contributions for the burial of the stranger."
+     "source": "Then the middling daughter brought the forage, and he treated her likewise."
     },
     {
      "id": "p002.s03",
-     "source": "Osman had collected about thirty piasters, and Halid was seriously thinking of a resurrection, but was prevented by the passing of the Grand Vizier, who, upon inquiring why the man lay on the ground in that fashion, was told that he was a stranger who had died in the street."
+     "source": "Last of all the youngest daughter brought the forage, and when the horse saw her he never budged an inch, but let her feed him and then return to her sisters."
     },
     {
      "id": "p002.s04",
-     "source": "The Grand Vizier thereupon gave instructions to an Imam, who happened to be at hand, to bury the stranger and come for the money to the Sublime Porte."
+     "source": "The two elder sisters were content that the youngest should take care of the horse, so they troubled themselves about it no more."
     }
    ],
    "id": "p002"
@@ -75,31 +63,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Halid was reverently carried off to the Mosque, and Osman thought that it was time to leave the corpse to take care of itself."
+     "source": "The Padishah came home, and the first thing he asked was whether they had provided the horse with everything."
     },
     {
      "id": "p003.s02",
-     "source": "The Imam laid Halid on the marble floor and prepared to wash him prior to interment."
-    },
-    {
-     "id": "p003.s03",
-     "source": "He had taken off his turban and long cloak and got ready the water, when he remembered that he had no soap, and immediately went out to purchase some."
-    },
-    {
-     "id": "p003.s04",
-     "source": "No sooner had the Imam disappeared than Halid jumped up, and, donning the Imam's turban and long cloak, repaired to the Sublime Porte."
-    },
-    {
-     "id": "p003.s05",
-     "source": "Here he asked admittance to the Grand Vizier, but this request was not granted until he told the nature of his business."
-    },
-    {
-     "id": "p003.s06",
-     "source": "Halid said he was the Imam who, in compliance with the verbal instructions received from his Highness, had buried a stranger and that he had come for payment."
-    },
-    {
-     "id": "p003.s07",
-     "source": "The Grand Vizier sent five gold pieces (twenty piasters each) to the supposed Imam, and Halid made off as fast as possible."
+     "source": "“He wouldn’t let us come near him,” said the two elder sisters; “it was our youngest sister here who took care of him.”"
     }
    ],
    "id": "p003"
@@ -109,11 +77,23 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "No sooner had Halid departed than the cloakless Imam arrived in breathless haste, and explained that he was the Imam who had received instructions from the Grand Vizier to bury a stranger, but that the supposed corpse had disappeared, and so had his cloak and turban."
+     "source": "No sooner had the Padishah heard this than he gave his youngest daughter to the horse to wife, but his two other daughters he gave to the sons of his Chief Mufti and his Grand Vizier, and they celebrated the three marriages at a great banquet, which lasted forty days."
     },
     {
      "id": "p004.s02",
-     "source": "Witnesses proved this man to be the bona-fide Imam of the quarter, and the Grand Vizier gave orders to his Chief Detective to capture, within three days, on pain of death, and bring to the Sublime Porte, this fearless evil-doer."
+     "source": "Then the youngest daughter turned into the stable, but the two eldest dwelt in a splendid palace."
+    },
+    {
+     "id": "p004.s03",
+     "source": "In the daytime the youngest sister had only a horse for a husband and a stable for a dwelling; but in the night-time the stable became a garden of roses, the horse-husband a handsome hero, and they lived in a world of their own."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Nobody knew of it but they two."
+    },
+    {
+     "id": "p004.s05",
+     "source": "They passed the day together as best they could, but eventide was the time of their impatient desires."
     }
    ],
    "id": "p004"
@@ -123,47 +103,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The Chief Detective was soon on the track of Halid; but the latter was on the keen lookout."
+     "source": "One day the Padishah held a tournament in the palace."
     },
     {
      "id": "p005.s02",
-     "source": "With the aid of the money he had received from the Grand Vizier to defray his burial expenses he successfully evaded the clutches of the Chief Detective, who was greatly put about at being thus frustrated."
-    },
-    {
-     "id": "p005.s03",
-     "source": "On the second day he again got scent of Halid and determined to follow him till an opportunity offered for his capture."
-    },
-    {
-     "id": "p005.s04",
-     "source": "Halid knew that he was followed and divined the intentions of his pursuer."
-    },
-    {
-     "id": "p005.s05",
-     "source": "As he was passing a pharmacy he noticed there several young men, so he entered and explained in Jewish-Spanish (one of his accomplishments) to the Jew druggist, as he handed him one of the gold pieces he had received from the Grand Vizier, that his uncle, who would come in presently, was not right in his mind; but that if the druggist could manage to douche his head and back with cold water, he would be all right for a week or two."
-    },
-    {
-     "id": "p005.s06",
-     "source": "No sooner did the Chief Detective enter the shop than, at a word from the apothecary, the young men seized him and, by means of a large squirt, they did their utmost to effectively give him the salutary and cooling douche."
-    },
-    {
-     "id": "p005.s07",
-     "source": "The more the detective protested, the more the apothecary consolingly explained that the operation would soon be over and that he would feel much better, and told of the numerous similar cases he had cured in a like manner."
-    },
-    {
-     "id": "p005.s08",
-     "source": "The detective saw that it was useless to struggle, so he abandoned himself to the treatment; and in the meantime Halid made off."
-    },
-    {
-     "id": "p005.s09",
-     "source": "The Chief Detective was so disheartened that he went to the Grand Vizier and asked him to behead him, as death was preferable to the annoyance he had received and might still receive at the hands of Chapkin Halid."
-    },
-    {
-     "id": "p005.s10",
-     "source": "The Grand Vizier was both furious and amused, so he spared the Chief Detective and gave orders that guards be placed at the twenty-four gates of the city, and that Halid be seized at the first opportunity."
-    },
-    {
-     "id": "p005.s11",
-     "source": "A reward was further promised to the person who would bring him to the Sublime Porte."
+     "source": "Many gallant warriors entered the lists, but none strove so valiantly as the husbands of the Sultan’s elder daughters."
     }
    ],
    "id": "p005"
@@ -173,19 +117,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Halid was finally caught one night as he was going out of the Top-Kapou (Cannon Gate), and the guards, rejoicing in their capture, after considerable consultation decided to bind Halid to a large tree close to the Guard house, and thus both avoid the loss of sleep and the anxiety incident to watching over so desperate a character."
+     "source": "“Only look now!” said the two elder daughters to their sister who dwelt in the stable, “only look now! how our husbands overthrow all the other warriors with their lances; our two lords are not so much lords as lions!"
     },
     {
      "id": "p006.s02",
-     "source": "This was done, and Halid now thought that his case was hopeless."
-    },
-    {
-     "id": "p006.s03",
-     "source": "Towards dawn, Halid perceived a man with a lantern walking toward the Armenian Church, and rightly concluded that it was the beadle going to make ready for the early morning service."
-    },
-    {
-     "id": "p006.s04",
-     "source": "So he called out in a loud voice:"
+     "source": "Where is this horse-husband of thine, prythee?”"
     }
    ],
    "id": "p006"
@@ -195,19 +131,11 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"Beadle!"
+     "source": "On hearing this from his wife, the horse-husband shivered all over, turned into a man, threw himself on horseback, told his wife not to betray him on any account, and in an instant appeared within the lists."
     },
     {
      "id": "p007.s02",
-     "source": "Brother!"
-    },
-    {
-     "id": "p007.s03",
-     "source": "Beadle!"
-    },
-    {
-     "id": "p007.s04",
-     "source": "Brother! come here quickly.\""
+     "source": "He overthrew every one with his lance, unhorsed his two brothers-in-law, and re-appeared in the stable again as if he had never left it."
     }
    ],
    "id": "p007"
@@ -217,7 +145,23 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Now it happened that the beadle was a poor hunchback, and no sooner did Halid perceive this than he said:"
+     "source": "The next day, when the sports began again, the two elder sisters mocked as before, but then the unknown hero appeared again, conquered and vanished."
+    },
+    {
+     "id": "p008.s02",
+     "source": "On the third day the horse-husband said to his wife: “If ever I should come to grief or thou shouldst need my help, take these three wisps of hair, burn them, and it will help thee wherever thou art.”"
+    },
+    {
+     "id": "p008.s03",
+     "source": "With that he hastened to the games again and triumphed over his brothers-in-law."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Every one was amazed at his skill, the two elder sisters likewise, and again they said to their younger sister: “Look how these heroes excel in prowess!"
+    },
+    {
+     "id": "p008.s05",
+     "source": "They are very different to thy dirty horse-husband!”"
     }
    ],
    "id": "p008"
@@ -227,15 +171,15 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "\"Quick!"
+     "source": "The girl could not endure standing there with nothing to say for herself, so she told her sisters that the handsome hero was no other than her horse-husband—and no sooner had she pointed at him than he vanished from before them as if he had never been."
     },
     {
      "id": "p009.s02",
-     "source": "Quick!"
+     "source": "Then only did she call to mind her lord’s command to her not to betray her secret, and away she hurried off to the stable."
     },
     {
      "id": "p009.s03",
-     "source": "Beadle, look at my back and see if it has gone!\""
+     "source": "But ’twas all in vain, neither horse nor man came to her, and at midnight there was neither rose nor rose-garden."
     }
    ],
    "id": "p009"
@@ -245,7 +189,23 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"See if what has gone?\" asked the beadle, carefully looking behind the tree."
+     "source": "“Alas!” wept the girl, “I have betrayed my lord, I have broken my word, what a crime is mine!”"
+    },
+    {
+     "id": "p010.s02",
+     "source": "She never closed an eye all that night, but wept till morning."
+    },
+    {
+     "id": "p010.s03",
+     "source": "When the red dawn appeared she went to her father the Padishah, complained to him that she had lost her horse-husband, and begged that she might go to the ends of the earth to seek him."
+    },
+    {
+     "id": "p010.s04",
+     "source": "In vain her father tried to keep her back, in vain he pointed out to her that her husband was now most probably among devils, and she would never be able to find him—turn her from her resolution he could not."
+    },
+    {
+     "id": "p010.s05",
+     "source": "What could he do but let her go on her way?"
     }
    ],
    "id": "p010"
@@ -255,7 +215,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "\"Why, my hump, of course,\" answered Halid."
+     "source": "With a great desire the damsel set out on her quest, she went on and on till her tender body was all aweary, and at last she sank down exhausted at the foot of a great mountain."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Then she called to mind the three hairs, and she took out one and set fire to it—and lo! her lord and master was in her arms again, and they could not speak for joy."
     }
    ],
    "id": "p011"
@@ -265,7 +229,15 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "The beadle made a close inspection and declared that he could see no hump."
+     "source": "“Did I not bid thee tell none of my secret?” cried the youth sorrowfully; “and now if my hag of a mother see thee she will instantly tear thee to pieces."
+    },
+    {
+     "id": "p012.s02",
+     "source": "This mountain is our dwelling-place."
+    },
+    {
+     "id": "p012.s03",
+     "source": "She will be here immediately, and woe to thee if she see thee!”"
     }
    ],
    "id": "p012"
@@ -275,7 +247,19 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "\"A thousand thanks!\" fervently exclaimed Halid, \"then please undo the rope.\""
+     "source": "The poor Sultan’s daughter was terribly frightened, and wept worse than ever at the thought of losing her lord again, after all her trouble in finding him."
+    },
+    {
+     "id": "p013.s02",
+     "source": "The heart of the devil’s son was touched at her sorrow: he struck her once, changed her into an apple, and put her on the shelf."
+    },
+    {
+     "id": "p013.s03",
+     "source": "The hag flew down from the mountain with a terrible racket, and screeched out that she smelt the smell of a man, and her mouth watered for the taste of human flesh."
+    },
+    {
+     "id": "p013.s04",
+     "source": "In vain her son denied that there was any human flesh there, she would not believe him one bit."
     }
    ],
    "id": "p013"
@@ -285,27 +269,23 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "The beadle set about to liberate Halid, and at the same time earnestly begged to be told how he had got rid of the hump, so that he also might free himself of his deformity."
+     "source": "“If thou wilt swear by the egg not to be offended, I’ll show thee what I’ve hidden,” said her son."
     },
     {
      "id": "p014.s02",
-     "source": "Halid agreed to tell him the cure, provided the beadle had not yet broken fast, and also that he was prepared to pay a certain small sum of money for the secret."
+     "source": "The hag swore, and her son gave the apple a tap, and there before them stood the beautiful damsel."
     },
     {
      "id": "p014.s03",
-     "source": "The beadle satisfied Halid on both of these points, and the latter immediately set about binding the hunchback to the tree, and further told him, on pain of breaking the spell, to repeat sixty-one times the words: 'Esserti!"
+     "source": "“Behold my wife!” said he to his mother."
     },
     {
      "id": "p014.s04",
-     "source": "Pesserti!"
+     "source": "The old mother said never a word, what was done could not be undone."
     },
     {
      "id": "p014.s05",
-     "source": "Sersepeti!' if he did this, the hump would of a certainty disappear."
-    },
-    {
-     "id": "p014.s06",
-     "source": "Halid left the poor beadle religiously and earnestly repeating the words."
+     "source": "“I’ll give the bride something to do all the same,” thought she."
     }
    ],
    "id": "p014"
@@ -315,43 +295,270 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "The guards were furious when they found, bound to the tree, a madman, as they thought, repeating incoherent words, instead of Halid."
+     "source": "They lived a couple of days together in peace and quiet, but the hag was only waiting for her son to leave the house."
     },
     {
      "id": "p015.s02",
-     "source": "They began to unbind the captive, but the only answer they could get to their host of questions was 'Esserti, Pesserti, Sersepeti.'"
+     "source": "At last one day the youth had work to do elsewhere, and scarcely had he put his foot out of doors when the hag said to the damsel: “Come, sweep and sweep not!” and with that she went out and said she should not be back till evening."
     },
     {
      "id": "p015.s03",
-     "source": "As the knots were loosened, the louder did the beadle in despair call out the charmed words in the hopes of arresting them."
+     "source": "The girl thought to herself again and again: “What am I to do now?"
     },
     {
      "id": "p015.s04",
-     "source": "No sooner was the beadle freed than he asked God to bring down calamity on the destroyers of the charm that was to remove his hunch."
+     "source": "What did she mean by ‘sweep and sweep not’?”"
     },
     {
      "id": "p015.s05",
-     "source": "On hearing the beadle's tale, the guards understood how their prisoner had secured his liberty, and sent word to the Chief Detective."
+     "source": "Then she thought of the hairs, and she took out and burned the second hair also."
     },
     {
      "id": "p015.s06",
-     "source": "This gentleman told the Grand Vizier of the unheard-of cunning of the escaped prisoner."
+     "source": "Immediately her lord stood before her and asked her what was the matter, and the girl told him of his mother’s command: “Sweep and sweep not!”"
     },
     {
      "id": "p015.s07",
-     "source": "The Grand Vizier was amused and also very anxious to see this Chapkin Halid, so he sent criers all over the city, giving full pardon to Halid on condition that he would come to the Sublime Porte and confess in person to the Grand Vizier."
-    },
-    {
-     "id": "p015.s08",
-     "source": "Halid obeyed the summons, and came to kiss the hem of the Grand Vizier's garment, who was so favorably impressed by him that he then and there appointed him to be his Chief Detective."
+     "source": "Then her lord explained to her that she was to sweep out the chamber, but not to sweep the ante-chamber."
     }
    ],
    "id": "p015"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "The girl did as she was told, and when the hag came home in the evening she asked the girl whether she had accomplished her task."
+    },
+    {
+     "id": "p016.s02",
+     "source": "“Yes, little mother,” replied the bride, “I have swept and I have not swept.”—“Thou daughter of a dog,” cried the old witch, “not thine own wit but my son’s mouth hath told thee this thing.”"
+    }
+   ],
    "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "The next morning when the hag got up she gave the damsel vases, and told her to fill them with tears."
+    },
+    {
+     "id": "p017.s02",
+     "source": "The moment the hag had gone the damsel placed the three vases before her, and wept and wept, but what could her few teardrops do to fill them?"
+    },
+    {
+     "id": "p017.s03",
+     "source": "Then she took out and burned the third hair."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Again her lord appeared before her, and explained to her that she must fill the three vases with water, and then put a pinch of salt in each vase."
+    },
+    {
+     "id": "p018.s02",
+     "source": "The girl did so, and when the hag came home in the evening and demanded an account of her work, the girl showed her the three vases full of tears."
+    },
+    {
+     "id": "p018.s03",
+     "source": "“Thou daughter of a dog!” chided the old woman again, “that is not thy work; but I’ll do for thee yet, and for my son too.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "The next day she devised some other task for her to do; but her son guessed that his mother would vex the wench, so he hastened home to his bride."
+    },
+    {
+     "id": "p019.s02",
+     "source": "There the poor thing was worrying herself about it all alone, for the third hair was now burnt, and she did not know how to set about doing the task laid upon her."
+    },
+    {
+     "id": "p019.s03",
+     "source": "“Well, there is now nothing for it but to run away,” said her lord, “for she won’t rest now till she hath done thee a mischief.”"
+    },
+    {
+     "id": "p019.s04",
+     "source": "And with that he took his wife, and out into the wide world they went."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "In the evening the hag came home, and saw neither her son nor his bride."
+    },
+    {
+     "id": "p020.s02",
+     "source": "“They have flown, the dogs!” cried the hag, with a threatening voice, and she called to her sister, who was also a witch, to make ready and go in pursuit of her son and his bride."
+    },
+    {
+     "id": "p020.s03",
+     "source": "So the witch jumped into a pitcher, snatched up a serpent for a whip, and went after them."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "The demon-lover saw his aunt coming, and in an instant changed the girl into a bathing-house, and himself into a bath-man sitting down at the gate."
+    },
+    {
+     "id": "p021.s02",
+     "source": "The witch leaped from the pitcher, went to the bath- keeper, and asked him if he had not seen a young boy and girl pass by that way."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“I have only just warmed up my bath,” said the youth, “there’s nobody inside it; if thou dost not believe me, thou canst go and look for thyself.”"
+    },
+    {
+     "id": "p022.s02",
+     "source": "The witch thought: “ ’ Tis impossible to get a sensible word out of a fellow of this sort,” so she jumped into her pitcher, flew back, and told her sister that she couldn’t find them."
+    },
+    {
+     "id": "p022.s03",
+     "source": "The other hag asked her whether she had exchanged words with any one on the road."
+    },
+    {
+     "id": "p022.s04",
+     "source": "“Yes,” replied the younger sister, “there was a bath-house by the roadside, and I asked the owner of it about them; but he was either a fool or deaf, so I took no notice of him.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“ ’ Tis thou who wert the fool,” snarled her elder sister."
+    },
+    {
+     "id": "p023.s02",
+     "source": "“Didst thou not recognize in him my son, and in the bath-house my daughter-in-law?”"
+    },
+    {
+     "id": "p023.s03",
+     "source": "Then she called her second sister, and sent her after the fugitives."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "The devil’s son saw his second aunt flying along in her pitcher."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Then he gave his wife a tap and turned her into a spring, but he himself sat down beside it, and began to draw water out of it with a pitcher."
+    },
+    {
+     "id": "p024.s03",
+     "source": "The witch went up to him, and asked him whether he had seen a girl and a boy pass by that way."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "“There’s drinkable water in this spring,” replied he, with a vacant stare, “I am always drawing it.”"
+    },
+    {
+     "id": "p025.s02",
+     "source": "The witch thought she had to do with a fool, turned back, and told her sister that she had not met with them."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Her sister asked her if she had not come across any one by the way."
+    },
+    {
+     "id": "p025.s04",
+     "source": "“Yes, indeed,” replied she, “a half-witted fellow was drawing water from a spring, but I couldn’t get a single sensible word out of him.”"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“That half-witted fellow was my son, the spring was his wife, and a pretty wiseacre thou art,” screeched her sister."
+    },
+    {
+     "id": "p026.s02",
+     "source": "“I shall have to go myself, I see,” and with that she jumped into her pitcher, snatched up a serpent to serve her as a whip, and off she went."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Meanwhile the youth looked back again, and saw his mother coming after them."
+    },
+    {
+     "id": "p027.s02",
+     "source": "He gave the girl a tap and changed her into a tree, but he himself turned into a serpent, and coiled himself round the tree."
+    },
+    {
+     "id": "p027.s03",
+     "source": "The witch recognized them, and drew near to the tree to break it to pieces; but when she saw the serpent coiled round it, she was afraid to kill her own son along with it, so she said to her son: “Son, son! show me, at least, the girl’s little finger, and then I’ll leave you both in peace.”"
+    },
+    {
+     "id": "p027.s04",
+     "source": "The son saw that he could not free himself from her any other way, and that she must have at least a little morsel of the damsel to nibble at."
+    },
+    {
+     "id": "p027.s05",
+     "source": "So he showed her one of the girl’s little fingers, and the old hag wrenched it off, and returned to her domains with it."
+    },
+    {
+     "id": "p027.s06",
+     "source": "Then the youth gave the girl a tap and himself another tap, put on human shape again, and away they went to the girl’s father, the Padishah."
+    },
+    {
+     "id": "p027.s07",
+     "source": "The youth, since his talisman had been destroyed, remained a mortal man, but the diabolical part of him stayed at home with his witch-mother and her kindred."
+    },
+    {
+     "id": "p027.s08",
+     "source": "The Padishah rejoiced greatly in his children, gave them a wedding-banquet with a wave of his finger, and they inherited the realm after his death."
+    }
+   ],
+   "id": "p027"
   }
  ]
 }

@@ -1,0 +1,33 @@
+# Der Sänger (Gindolegende) 3°
+
+- **Tradition:** Mali and the Sahel (Soninke, Fulani, Bambara peoples) (Africa)
+- **Source book:** *Atlantis, Bd. VI: Spielmannsgeschichten der Sahel (1921)*
+- **Author / collector / translator:** Frobenius, Leo (author, d. 1938)
+- **Original language of this text:** de
+- **Source:** Internet Archive item `atlantisvolksm06frob` — https://archive.org/details/atlantisvolksm06frob (OCR text, lightly cleaned)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+- **Note:** Digitised by OCR; minor recognition errors may remain.
+
+---
+
+Früher sangen nicht nur die Spielleute, sondern die Vornehmen sangen selbst. Sie machten ihre Gesänge selbst, und die Spielleute sangen sie dann. Es war ein Ruhm und eine Ehre, solche Lieder selbst anfertigen zu können (in den Malinkeländern war es vordem ebenso). Die Dialli übernahmen nachher die Lieder.
+
+Es wohnte unter den Habbe in dem Dorfe Sogu auf dem Berge im Senolande ein Mann namens Antonio Gindo. Er wußte seine Lieder zu dichten. Dabei war er ein vornehmer Gindo und kein Spielmann. Im Dorfe Gono im Kani-Bonsogebiet lebte ein Kaddo mit Namen Enne Djegu. Enne wußte Lieder zu fertigen und zu singen. Dabei war er ein Vornehmer vom Stamme der Djegu und kein Spielmann. Antonio und Enne hörten voneinander, aber sie kannten einander nicht. Jeder hörte vom andern, daß der andere ganz Besonderes leiste. Antonio beschloß eines Tages, Enne in seinem Dorfe zu besuchen und sich mit ihm in der Sangeskunst zu messen. Er machte sich auf den Weg. Er kam in das Kani-Bonsogebiet und begann am Abend abwechselnd mit Enne zu singen. Sie sangen bis zum anderen Morgen. Da hatte noch keiner von beiden seine Lieder vollendet. Man konnte auch noch nicht sagen, wer mehr vermöge, Antonio oder Enne.
+
+Antonio wollte in sein Dorf Sogu zurückkehren. Die Leute von Gono sprachen untereinander. Der eine sagte: „Wir wollen ihn nicht gehen lassen. Wir wollen ihn töten. Wenn wir ihn nicht töten, wird er eines Tages mehr können als Enne. Heute kann man noch nicht sagen, wer mehr vermag. Aber es ist besser, wenn wir ihn nicht zurückkehren lassen." Andere Gonoleute sagten: „Wir wollen uns deswegen keinen Krieg aufladen. Wir wollen ihn gehen lassen. Laßt ihn." Die anderen sagten: „Nein, wir wollen ihn töten."
+
+Die anderen und Enne sagten zu Antonio: „Wir wollen auf den Berg dort steigen." Antonio Gindo sagte: „Es ist gut, gehen wir."
+
+Er ging mit Enne und den anderen Djegu auf die Bergspitze, die den Namen Tembe führte. Oben töteten die Leute vom Djegustamme Antonio, den Sänger der Gindo. Dann kehrten die Bewohner Gonos, ohne den Getöteten erst zu begraben, heim.
+
+Die Leute im Dorfe Sogu warteten acht Tage auf die Rückkehr Antonios. Er kam nicht. Sie sagten: „Das ist auffallend, Antonio wollte nur einen kurzen Besuch in Gono machen und nun kommt er nicht wieder. Wir wollen ihn suchen." Die Leute machten sich auf den Weg, ihren Sänger zu suchen. Sie kamen nach Gono. Sie fragten: „War nicht Antonio hier?" Die Leute in Gono sagten: „ Gewiß war er hier. Er hat gesungen. Er hat sehr schön gesungen." Der Sänger Enne begann zu singen und sang: „Auf der Bergspitze Tembe sind Geier, die sind weise und wissen, was gut zu essen ist. Sie wissen viel und werden euch sagen können, welch ausgezeichnetes Mahl jetzt dem Sänger Antonio beschieden ist, zu geben."
+
+Die Soguleute machten sich wieder auf den Weg. Sie kamen auf den Berg Tembe. Da lag die Leiche Antonios und war schon so sehr von den Geiern zerfleischt, daß sie kaum noch wiederzuerkennen war. Die Gindo nahmen die Überreste mit sich und kehrten nach Gono zurück. Sie fragten die Djegu: „Wer hat Antonio da oben getötet? Wart ihr das?" Die Leute in Gono antworteten: , Ja, wir waren es." Die Gindo aus Sogu sagten: „Ihr müßt wissen, ob ihr recht getan habt und ob das für euere Ortschaft gut ist." Sie nahmen die Überreste Antonios auf und nahmen sie mit nach Sogu. In Sogu bestatteten sie Antonio.
+
+Die Soguleute riefen alle Männer aus Gindo und Gimmini zu einer Beratung zusammen und sagten: „Die Leute von Gono, die Familie des Enne Djegu, hat Antonio Gindo totgeschlagen, weil er schöne Lieder zu singen wußte. Denkt ihr, daß das eine Veranlassung zum Kriege ist?" Einige antworteten: „Ja, wir wollen die Djegu auf demselben Berg Tembe den Geiern zum Fräße hinwerfen. Das wird die gerechte Strafe sein." Andere sagten: „Es ist keine allgemeine Sache. Das ist eine Sache der Familie. Denn es handelt sich um den Streit, wer von zwei Leuten besser Lieder singen könne. Haltet euch an den Enne Djegu." Andere sagten: „Ja, wir wollen den Enne Djegu abfangen. Er hat hier in Sogu eine Frau, die er sehr liebt. Deshalb kommt er häufig hierher. Dann könnt ihr ihn fangen und totschlagen." Die Leute von Sogu sagten: „Wir wollen es tun, wie ihr sagt. Wer den Enne Djegu in diesem Lande sieht, der kann ihn totschlagen."
+
+Die Gonoleute hörten das. Sie sagten zu Enne Djegu: „Geh nie in das Gebiet von Sogu, denn die Leute dort werden dich totschlagen." Enne sagte: „Es ist gut." Eine Zeitlang blieb er in Gono. In Sogu war aber eine Frau, die hatte er sehr lieb. Er sagte eines Tages zu sich: „Ich muß die Frau besuchen. Ich werde des Nachts nach Sogu gehen." Enne hatte einen Freund, der hieß Gimile, war ein Gindo und wohnte in Telli. Gimile wußte auch zu singen. Er ging zu seinem Freunde Gimile und sagte: „Ich will meine Freundin in Sogu besuchen." Gimile sagte: „Weißt du denn nicht, daß die Leute in Gimile dich totschlagen werden?" Enne sagte: „Ja, ich weiß, daß sie mich töten wollen, weil wir den Antonio Gindo getötet haben. Ich will aber nachts hingehen. Komm und begleite mich." Gimile sagte: „Gut, wie du willst. Gehen wir also nach Sogu."
+
+Enne und Gimile machten sich auf den Weg. Nachts kamen sie nach Sogu. Um Mitternacht, als sie in Sogu angekommen waren, sang Gimile: „Das Wild mit den zwei Füßen, das das Wild mit den zwei Füßen getötet hat, ist hier in Sogu. Wenn ihr das Wild töten wollt, tötet es ! Wenn ihr das Wild leben lassen wollt, laßt es leben." Da gab Enne dem Gimile eine Lanze zu halten und sagte: „Halte sie; ich will in den Busch treten, um mein Wasser abzuschlagen." Gimile hielt die Lanze. Enne trat in den Busch und verwandelte sich da in einen Vogel. Der Vogel flog auf die Bergspitze. Da begann Gimile wieder zu singen und sang: „Das Wild mit den zwei Füßen ist nicht mehr ein Wild mit zwei Füßen, sondern es ist ein Wild mit zwei Flügeln geworden. Wenn ihr es sehen wollt, müßt ihr dort auf den Berg schauen."
+
+So wurde Enne zum Vogel, und er blieb ein Vogel. Die, welche überhaupt zu singen vermögen, singen das Lied noch heute.

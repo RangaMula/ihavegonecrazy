@@ -4,7 +4,7 @@
 - **Source book:** *Cornwall's Wonderland*
 - **Author / collector / translator:** Quiller-Couch, Mabel (author, d. 1924)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #26755 — https://www.gutenberg.org/ebooks/26755 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #26755 — https://www.gutenberg.org/ebooks/26755
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

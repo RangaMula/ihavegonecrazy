@@ -1,0 +1,80 @@
+{
+ "id": "am-chile-046",
+ "title": {
+  "id": "title",
+  "source": "LA LAGUNA DE LAS TRES PASCUALAS. (Contado por D. Francisco 2.º Vásquez.)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/046 - LA LAGUNA DE LAS TRES PASCUALAS. (Contado por D. Francisco 2.º Vásquez.).md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 10,
+  "words": 313
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Allá en los tiempos en que los españoles dominaban en Chile, vivía cerca de Concepción, en un hermoso palacio rodeado de huertos y jardines, una bella dama, madre de tres lindísimas hijas que respondían a los nombres de Sol, Esperanza y Alegría, pero entre la gente del pueblo, a causa del nombre de la madre, se las llamaba las tres Pascualas."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Murió la madre, y las niñas se entregaron a una vida disipada, viviendo en continua fiesta con los jóvenes de Concepción y otras ciudades, que iban a divertirse al palacio que habitaban."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Muchos caballeros se perdieron por culpa de estas niñas."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Las faltas que se cometían en aquel palacio fueron tan numerosas y tan grandes, que Dios, cansado de tanto pecado, hizo que un día de gran fiesta, se hundiera el palacio con las tres niñas y todos sus acompañantes, que serían más de cincuenta personas, llenándose de agua el espacio que antes ocupaba aquel lugar de disipación y sus dependencias."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Y la extensión de agua que se formó por esta causa, y que todavía existe, es la que se conoce con el nombre de “Laguna de las tres Pascualas”."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Una vez un joven se quedó dormido sobre una gran piedra que hay a la orilla de esta laguna, y cuando despertó vió que tres hermosas niñas ponían una mesita delante de él y le sirvieron toda clase de manjares y vinos exquisitos."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Estuvo con ellas el resto del día y toda la noche divirtiéndose alegremente."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Al día siguiente, despertó como a las 12 y se encontró desnudo sobre un banco de arena del Bío-Bío."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Siempre que el agua de la laguna baja, se ve una enorme roca que tiene la forma de una iglesia."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Las pocas personas que han conseguido entrar y salir vivas, dicen que adentro hay un altar maravillosamente lindo, delante del cual brillan más de cien mil luces."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

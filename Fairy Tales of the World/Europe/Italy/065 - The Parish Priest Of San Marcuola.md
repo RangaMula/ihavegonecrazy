@@ -4,7 +4,7 @@
 - **Source book:** *Italian Popular Tales*
 - **Author / collector / translator:** Crane, Thomas Frederick (author, d. 1927)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #23634 — https://www.gutenberg.org/ebooks/23634 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #23634 — https://www.gutenberg.org/ebooks/23634
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

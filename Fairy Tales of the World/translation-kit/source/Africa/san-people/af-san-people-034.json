@@ -2,20 +2,20 @@
  "id": "af-san-people-034",
  "title": {
   "id": "title",
-  "source": "Hasie, Tingtinkie en Uil"
+  "source": "Slang en Skilpad is Broers"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
  "source_book": "Boesman-Stories. Deel 2, Dierstories en ander verhale",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #63493 — https://www.gutenberg.org/ebooks/63493",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/034 - Hasie, Tingtinkie en Uil.md",
+ "markdown_file": "Africa/San people/034 - Slang en Skilpad is Broers.md",
  "stats": {
-  "paragraphs": 14,
-  "segments": 50,
-  "words": 1018
+  "paragraphs": 18,
+  "segments": 55,
+  "words": 1061
  },
  "paragraphs": [
   {
@@ -23,11 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "OPMERKINGS:—Hierdie storie is ’n karakterskets van Hasie, Tingtinkie en Uil."
+     "source": "OPMERKINGS:—In hierdie storie word die leefwyse van Slang en Skilpad in ’n karakterskets weergegee."
     },
     {
      "id": "p001.s02",
-     "source": "Die bygeloof dat Uil dinge vooruit weet, word hierin verhaal."
+     "source": "Hierdie verhaal is ons meegedeel deur ’n Transvaalse Boesman."
     }
    ],
    "id": "p001"
@@ -37,39 +37,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "H asie was altyd ’n mannetjie wat op opskep geloer het."
+     "source": "Daar was twee ou Boesmans van die ou geslag."
     },
     {
      "id": "p002.s02",
-     "source": "Van jag het hy nooit gehou nie; maar dans was sy voorland."
+     "source": "Elkeen het ’n seun gehad."
     },
     {
      "id": "p002.s03",
-     "source": "Hy rinkink die hele nag deur en oordags, wanneer gejag moet word, dan slaap hy sy lyf uit."
+     "source": "Maar die seun van die een was ’n onnut; en die seun van die ander was knap met jag, en hy kon mooi dans en ramkie speel."
     },
     {
      "id": "p002.s04",
-     "source": "Soos die son haas ondergaan, staan hy op, begin weer te baljaar en is tevrede net met veldkos, wat hy teen sononder pluk."
-    },
-    {
-     "id": "p002.s05",
-     "source": "Het hy daarvan genoeg, dan begin die gejakker weer tot skimmeldag toe."
-    },
-    {
-     "id": "p002.s06",
-     "source": "As hy nie sy veldvrugte kan kry nie, dan is hy met pure gras ook tevrede."
-    },
-    {
-     "id": "p002.s07",
-     "source": "Deur hy te lui is om water te gaan skep, is die dou en sapperige plante voldoende om sy dors mee te verslaan."
-    },
-    {
-     "id": "p002.s08",
-     "source": "Soos die son uitkom, kruip hy in sy huis, wat hy diep onder ’n graspol of ’n digte bossie maak."
-    },
-    {
-     "id": "p002.s09",
-     "source": "Of anders soek hy ’n ou verlate en vlak erdvarkgat op en kruip daar weg om sy lyf nie van die warm sonstrale te laat brand nie."
+     "source": "Dit het die jaloersheid tussen die ouers van die twee seuns gaande gemaak."
     }
    ],
    "id": "p002"
@@ -79,23 +59,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Dat Hasie nou so ’n afgetrokke lewe ly, is hy self die skuld van; want vroeër het hy net so min van werk gehou."
+     "source": "Eendag kry die een vader—nl. die vader van die onnuttige seun—die goeie seun in die veld alleen."
     },
     {
      "id": "p003.s02",
-     "source": "As dit opskeptyd is, is hy by; aljimmers is hy by die waterpotte, of die springbokpens, waarin die water gebêre word, en drink hom knuppelversadig."
+     "source": "Hy pak hom met verraad, sny die arms en bene van die goeie seun af, vat sy mooi gebreide karos en gee hom ’n ou stuk harde buffelvel in plaas daarvan."
     },
     {
      "id": "p003.s03",
-     "source": "Maar meegaan veld-toe of waterhaal het nie in Hasie se wit broek gesit nie."
-    },
-    {
-     "id": "p003.s04",
-     "source": "Daarom, waar hy kom, ja hul hom weg; want hy was ook mos die parmantjie wat gedurf het om met Maan te stry en te weerspreek dat algar weer sal lewendig word ná hul ’n ruk dood is."
-    },
-    {
-     "id": "p003.s05",
-     "source": "Oor hierdie ding het hul hom baie gehaat."
+     "source": "Die ou stap toe weg en vertel niks daarvan aan die ander Boesmans nie."
     }
    ],
    "id": "p003"
@@ -105,7 +77,19 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Nou het ons die ding afgepraat waarom Hasie so verstote in die wêreld lewe—selfs sy vrou en kinders woon nie by hom nie."
+     "source": "Die goeie seun het toe nie meer arms en bene waarmee hy kan jag, dans en musiek maak nie."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Hy moes maar so goed of sleg as hy kan, rondkruip en toe maar van veldkos lewe."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Hy het baie verdrietig gevoel en het baie spyt van sy mooi karos, en nou moet hy met die hardgeworde koue buffelvel klaarkom."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Hy het toe die groot Bosveldskilpad geword."
     }
    ],
    "id": "p004"
@@ -115,15 +99,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Toe hy so lekker op ’n warm dag onder die koel bossie lê, sien Tingtinkie hom daar; en hy begin somar met Hasie te korswel en spot. „Wat slaap jy nog?” vra Tingtinkie. „Dis mos tyd nou vir elke man om in sy werk te wees."
+     "source": "Die vader van die goeie seun gaan sy kind oral rond soek."
     },
     {
      "id": "p005.s02",
-     "source": "Jag jy dan nie?"
-    },
-    {
-     "id": "p005.s03",
-     "source": "Wat doen jy om die sous en soppies van jou vleis te verdien?”"
+     "source": "Hy kry wel vir Bosveldskilpad, maar hy ken hom nie; ook het hy nie geweet dat dit sy kind is nie."
     }
    ],
    "id": "p005"
@@ -133,11 +113,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "„ Aag, moenie met my kom lol nie!"
+     "source": "Dieselfde ou Boesman kry weer ’n seun; maar daardie seun was ’n kwaaikop en nie so sagsinnig as sy broer nie."
     },
     {
      "id": "p006.s02",
-     "source": "As my lyf nie so seer en moeg van die dans is nie, dan het jou vere lankal in die wind gevlie,” merk Hasie op toe hy sy kop optel en dit weer neerlê."
+     "source": "Aan sy ouers was hy wel gehoorsaam; maar van die vader van die onnuttige seun wou hy niks verdra nie, dog hy was darem versigtig vir hom en bly uit sy pad."
     }
    ],
    "id": "p006"
@@ -147,11 +127,23 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "„Wat, dans?"
+     "source": "Die vader van die stout seun was ’n ou towenaar-man en reënmaker."
     },
     {
      "id": "p007.s02",
-     "source": "Kan so ’n kiesvol as jy is, dan ook dans?” sê Tingtinkie met ’n kwint-nadruk in sy stem."
+     "source": "Ook kon hy hom in enige ding verander, net soos hy lus kry."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Hy verander hom in ’n pragtige voël, wat rooi en geel, blou en groen, wit en swart vere het."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Hy gaan daar in die veld op ’n boom naby die jongste broer van Skilpad sit en sing."
+    },
+    {
+     "id": "p007.s05",
+     "source": "En hy pronk met sy mooi vere."
     }
    ],
    "id": "p007"
@@ -161,15 +153,15 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "„Gô!” brom Hasie. „Jy noem my kiesvol, maar vergeet jouself.”"
+     "source": "Die jong broer sien die mooi voël wat so pragtig sing; hy kry somar gedagte dat dit die ou towenaar-man moet wees."
     },
     {
      "id": "p008.s02",
-     "source": "Hy sit meteens regop en roep uit met spoggerige stem: „Toe, durf bring jou ramkie hier en klink vir my hier af Die Kwagga wat trippel ; dan kan jy sien hoe ek daardie riel uitkerf.”"
+     "source": "Hy staan stil om te kyk of daar kans is om hom met pyl en boog dood te skiet."
     },
     {
      "id": "p008.s03",
-     "source": "Meteens gee Hasie ’n paar bokspringe om te wys hoe askoek-slaan lyk en hoe rats hy dit kan doen."
+     "source": "Hy bekruip die voël en kom digby."
     }
    ],
    "id": "p008"
@@ -179,7 +171,11 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "… „Toe hy so lekker op ’n warm dag onder die koel bossie lê.."
+     "source": "Dis net wat die ou towenaar-man wou gehad het."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Hy vlie van die boom af, verander hom in die ou Boesman, en pak die jong broer van Skilpad en sit hom onder."
     }
    ],
    "id": "p009"
@@ -189,7 +185,19 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "„Ek sal dit so nooit doen om vir Slaap-in-die-Kooi my ramkie op te mors nie; maar wel vir Jag-in-die-Veld sal ek ’n riel van my lyf af wegskuiwe,” sê Tingtinkie met ’n spotagtige klank in sy stem."
+     "source": "Hy sê toe: „Jy sien die son daar!"
+    },
+    {
+     "id": "p010.s02",
+     "source": "Jy moet nou mooi kyk hoe hy lyk; want dis die laaste dag dat jou parmantige oë hom sal sien en dat jou parmantige mond sy naam sal noem.”"
+    },
+    {
+     "id": "p010.s03",
+     "source": "Hy sny toe die kop van Skilpad se broer af en sny hom van onder na bo in twee stukke, sodat aan die een stuk ’n arm en ’n been bly, en net so aan die ander stuk liggaam van die broer van Skilpad."
+    },
+    {
+     "id": "p010.s04",
+     "source": "Hy laat die twee stukke so lê en stap weg sonder daarvan aan andere iets te sê."
     }
    ],
    "id": "p010"
@@ -199,7 +207,19 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Al wat Hasie hierop sê, was: „A so!” en hy kruip ewe lui weer in sy huisie onder die bossie in."
+     "source": "Die son gaan onder, dit word donker, en die maan kom uit."
+    },
+    {
+     "id": "p011.s02",
+     "source": "En Jakkals kom by die stukke liggaam om daaraan te eet."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Maar Maan, wat self al maande lewendig word, giet van sy dou op die twee stukke; en die been en arm van elke stuk rek hul uit, en elke stuk word ’n lang Bosveldslang."
+    },
+    {
+     "id": "p011.s04",
+     "source": "Albei slange staan somar met Jakkals reg; hy vlug, en die twee slange begin toe rond te seil, iedereen sy eie koers."
     }
    ],
    "id": "p011"
@@ -209,31 +229,15 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Tingtinkie kon Hasie maar nie met rus laat nie—aljimmers is hy daar om Hasie uit die slaap te wek."
+     "source": "Die vader word onrustig toe sy ander seun ook nie huis-toe kom nie; so gaan hy hierdie slag ook weer soek."
     },
     {
      "id": "p012.s02",
-     "source": "So het dit gegaan tot die son sak en hom skaars maak."
+     "source": "Hy kry die groot Bosveldslange; hy ken hul nie en weet nie dat dit sy ander seun is nie."
     },
     {
      "id": "p012.s03",
-     "source": "Toe kom Hasie se beurt om Tingtinkie, wat nie in die donker kan sien nie, uit die slaap te hou."
-    },
-    {
-     "id": "p012.s04",
-     "source": "Tingtinkie se huisie hang bo aan ’n hoërige bossie, en elke maal skud Hasie aan die tak."
-    },
-    {
-     "id": "p012.s05",
-     "source": "Tingtinkie skrik, vlie in die donker uit en stamp hom orals teen die bossies soos hy vlug."
-    },
-    {
-     "id": "p012.s06",
-     "source": "Dan neem dit weer ’n geruime tyd om die huisie terug te vind."
-    },
-    {
-     "id": "p012.s07",
-     "source": "Pas is hy daarin gekruip, of hier is Hasie weer; en dit is maar weer net so—Tingtinkie vlug en fladder daar tussen die takkies rond."
+     "source": "Van toe af het hy geen seuns meer nie."
     }
    ],
    "id": "p012"
@@ -243,23 +247,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Dag ná dag, en nag ná nag het dié geterg tussen Tingtinkie en Hasie so voortgeduur, tot Hasie moeg geword het; en Tingtinkie het glad die stuiptrekkings van al die vrees gekry."
-    },
-    {
-     "id": "p013.s02",
-     "source": "Toe weet Hasie met ’n laggie te vertel dat dit nie hy is wat snags vir Tingtinkie so bang kom maak het nie, maar dat dit wel Uil is wat dit gedoen het."
-    },
-    {
-     "id": "p013.s03",
-     "source": "So kom arme onskuldige Uil aan die pen."
-    },
-    {
-     "id": "p013.s04",
-     "source": "Tingtinkie gaan toe al die voëls vertel dat dit Uil met sy groot oë is wat vir hulle snags die dood op die lyf kom ja."
-    },
-    {
-     "id": "p013.s05",
-     "source": "Die voëls glo dit ook, en hulle los vir Hasie en kom Uil in die dag pla en terg."
+     "source": "Maar Skilpad het geweet dat hul sy broers is; so maak Slang en Skilpad tot vandag toe nie rusie nie."
     }
    ],
    "id": "p013"
@@ -269,38 +257,94 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Nou, die regte ding is nou eintlik só: Hasie was in sy jong dae die seun wat met Maan gestry het om te sê as iemand dood is, dan is hy dood en word nie meer lewendig nie."
+     "source": "Eendag loop die stout seun van die ou towenaar-man in die veld rond; hy sien vir Skilpad en tel hom op om hom te gaan braai."
     },
     {
      "id": "p014.s02",
-     "source": "Tingtinkie was in sy kindsdae baie ongehoorsaam en wou nie altyd na sy ouers geluister het nie, maar het van die veldvrugte gaan eet waarvan sy ouers hom gesê het om nie te eet nie."
-    },
-    {
-     "id": "p014.s03",
-     "source": "Die gif van daardie vrugte het toe gemaak dat hy nie meer gegroei het nie; daarom het hy altyd die grootte van ’n kind behou, al was hy naderhand al oud."
-    },
-    {
-     "id": "p014.s04",
-     "source": "Uil was ’n ou towenaar; maar hy het sy bevoegdheid te buite gegaan deur dinge te doen wat hy moes gelaat het."
-    },
-    {
-     "id": "p014.s05",
-     "source": "Toe het ’n groter en magtiger towenaar hom dom gemaak en het hom so baasgeraak om sy mag te breek en dit van hom weg te neem."
-    },
-    {
-     "id": "p014.s06",
-     "source": "Maar om dinge vooruit te vertel, kon hul van Uil nie wegneem nie."
-    },
-    {
-     "id": "p014.s07",
-     "source": "Uil weet tot vandag toe nog wat daar ver aangaan en wat binne ’n maand sal gebeur."
-    },
-    {
-     "id": "p014.s08",
-     "source": "En hy kom dit verseker aan die betrokke persone vertel deur naby hulle huise te sit en hoe-hoe."
+     "source": "Dog een Bosveldslang sien dit; hy bekruip die onnuttige seun, woel sy lang lyf om die stoutert, druk van sy ribbe stukkend, spuug hom nat met sy slym, en begin die onwettige seun van die voete af in te sluk."
     }
    ],
    "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Maar die stoutert het nog so veel krag besit om stadig sy een been opsy te trek, sodat Slang nie albei bene gelyk kan insluk nie."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Slang begin die stout seun van die voet af in te sluk; en toe hy die een been heeltemal ingesluk het, toe eers gewaar hy dat die ander been nog buite is."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Hy spuug die been weer terug, draai die onnuttige seun weer bymekaar en wou weer van die voete af begin te sluk."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Dog andermaal trek die seun sy een been opsy, sodat Slang hierdie slag weer net een been te pak kry."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Toe Slang die een been binne het en nie verder kan sluk nie, stoot hy weer die been terug uit sy bek en begin weer die twee bene naas mekaar te plaas."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Net toe kom die towenaar-man sy seun soek; hy kry hom net toe Slang met hom besig was."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Toe Slang dit gewaar, staan hy met die ou Boesman reg; dog die ou man raak Slang baas en maak hom dood."
+    },
+    {
+     "id": "p017.s03",
+     "source": "En op hierdie manier was hy net in tyd om sy stout seun van die dood te red."
+    },
+    {
+     "id": "p017.s04",
+     "source": "Dog daardie seun het sy hele lewe mankoliek gebly: hy het altyd skeef geloop."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Skilpad het dit alles stilswyend aanskou."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Hy is weerloos—dit wil sê hy kan hom nie verdedig nie, anders as net om in sy dop te kruip as hy gevaar bespeur."
+    },
+    {
+     "id": "p018.s03",
+     "source": "So het hy met hierdie gedoente gevlug en hom onder ’n bossie gaan wegsteek."
+    },
+    {
+     "id": "p018.s04",
+     "source": "Sy famielie ken hom nie, so stap hy maar treurig en eensaam deur die veld alleen."
+    },
+    {
+     "id": "p018.s05",
+     "source": "Hy leef van veldkos en drink dou en die sop van sapperige plante en het glad verleer om water te drink; want as hy op ’n baie warm dag by water kom, dan druk hy somar sy hele kop onder die water om te drink."
+    }
+   ],
+   "id": "p018"
   }
  ]
 }

@@ -2,52 +2,28 @@
  "id": "af-san-people-028",
  "title": {
   "id": "title",
-  "source": "Boesman-Gebede"
+  "source": "Kolofon"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
  "source_book": "Boesman-Stories. Deel 1, Mitologie en legendes",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #62330 — https://www.gutenberg.org/ebooks/62330 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #62330 — https://www.gutenberg.org/ebooks/62330",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/028 - Boesman-Gebede.md",
+ "markdown_file": "Africa/San people/028 - Kolofon.md",
  "stats": {
-  "paragraphs": 13,
-  "segments": 88,
-  "words": 1388
+  "paragraphs": 15,
+  "segments": 18,
+  "words": 170
  },
  "paragraphs": [
   {
-   "type": "prose",
+   "type": "heading",
    "segments": [
     {
      "id": "p001.s01",
-     "source": "OPMERKINGS:—Die Boesmans is deeglik bewus daarvan dat daar hoër Magte oor Mens en Bees geplaas is."
-    },
-    {
-     "id": "p001.s02",
-     "source": "Waar die Magte hul huisves, is nie so ’n duidelik uitgemaakte saak bij hulle nie."
-    },
-    {
-     "id": "p001.s03",
-     "source": "Maar die Son, die Maan, die Sterre en denkbeeldige Geeste of Diere besit, volgens hulle beskouwing, sulke mag."
-    },
-    {
-     "id": "p001.s04",
-     "source": "Daarom wend die Boesmans hul om hulp en leiding na daardie hemelbolle of na skeppings van hulle eie gedagtes. ’n Boesman besit ’n groter godsdienssin as bijvoorbeeld die Kaffers."
-    },
-    {
-     "id": "p001.s05",
-     "source": "Hij ken ’n Opperwese onder ’n bepaalde naam: die Kaffer het nie so ’n woord as God in sij taal nie."
-    },
-    {
-     "id": "p001.s06",
-     "source": "Albei rasse glo in die opstanding van die Dode; maar van ’n bepaalde Hemel of Paradijs of Hel het hul geen begrip nie."
-    },
-    {
-     "id": "p001.s07",
-     "source": "Hulle saligheid bestaan uit oorvloed en voorspoed, hulle straf uit honger, verdriet en verdrukking."
+     "source": "Beskikbaarheid"
     }
    ],
    "id": "p001"
@@ -57,15 +33,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Die winternagte is koud en lank."
+     "source": "Hierdie e-boek kan deur enigiemand gebruik word, oral, gratis en met weinige beperkings."
     },
     {
      "id": "p002.s02",
-     "source": "As ’n getrouwe vader moet die Boesman vir vleis vir sij vrouw en kinders sorg en moet reeds soggends, bij skaarste van Wild, vroeg uitkruip om te gaan jag; die meid met haar kinders gaan soms onbeskermd veldkos in die vorm van vrugte, wortels en uintjies soek."
-    },
-    {
-     "id": "p002.s03",
-     "source": "Daarom is hulle blij as die Son uitkom om hulle warm te maak, sodat die daaglikse laste vir hulle nie so swaar word nie."
+     "source": "U mag dit kopieer, weggee of hergebruik in terme van die Project Gutenberg Lisensie hierby ingesluit, of aanlyn by www.gutenberg.org ."
     }
    ],
    "id": "p002"
@@ -75,57 +47,17 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "As die Son uitkom na ’n bitter koue en hongerige nag, dan draai die vader of moeder hulle gesigte, met die hande voor die oë, na die oprijsende Son; en partijkeer sê hul aan hulle kinders om dit ook te doen."
-    },
-    {
-     "id": "p003.s02",
-     "source": "Dan roep hij of sij uit: “O, Son, ek is so blij om jou weer volmaak terug te sien en opstaan om jouw werk, sonder moegword, te aanvaar."
-    },
-    {
-     "id": "p003.s03",
-     "source": "Maak mij net so sterk as jij, dat, as ek agter die wild jag, ek nie moeg, honger en dors krij nie."
-    },
-    {
-     "id": "p003.s04",
-     "source": "Jouw gesig blink van warmte: mij tande kletter van die koue."
-    },
-    {
-     "id": "p003.s05",
-     "source": "Jouw gesig blink, omdat jij dit volop het: mij gesig is verrimpel van koue, honger en dors."
-    },
-    {
-     "id": "p003.s06",
-     "source": "Skink mij van jouw oorvloed."
-    },
-    {
-     "id": "p003.s07",
-     "source": "Gooi na mij daardie orige kos wat jij nie nodig het nie."
-    },
-    {
-     "id": "p003.s08",
-     "source": "Gee mij van jouw warmte dat ek nie hoef te verkluim nie."
-    },
-    {
-     "id": "p003.s09",
-     "source": "Vat mij arm, as ek na wild skiet, dat mij pijl die wildding mag tref."
-    },
-    {
-     "id": "p003.s10",
-     "source": "Dink daaraan: Jij het volop: ek en mij famielie lij baie dae knaende honger.”"
+     "source": "Hierdie e-boek is gelewer deur die aanlyn Distributed Proofreading span by www.pgdp.net ."
     }
    ],
    "id": "p003"
   },
   {
-   "type": "prose",
+   "type": "heading",
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Daarop gaan hul vleitig aan jag."
-    },
-    {
-     "id": "p004.s02",
-     "source": "As die Son te warm gedurende die dag word, smeek hul om verligting en koelte."
+     "source": "Metadata"
     }
    ],
    "id": "p004"
@@ -135,107 +67,27 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Gaan die Son die aand onder, en lê ’n nag met koue en honger voor hulle, dan draai hul weer hulle gesigte, met hande voor die oë, na die verdwijnende Son en smeek: “Weer is ’n dag verbij, en ons mae is nog honger, en die koue begin weer om aan ons uitgeteerde liggame te kouw en vreet."
-    },
-    {
-     "id": "p005.s02",
-     "source": "Die Leeuw is skaam vir jou, die Tier is bang vir jou, en die Wolf is skuw vir jou."
-    },
-    {
-     "id": "p005.s03",
-     "source": "As jij ons verlaat, dan staan hul van hulle lêplekke op, om vir ons met ons vrouwe en kinders op te vreet."
-    },
-    {
-     "id": "p005.s04",
-     "source": "Blij bij ons, om ons warmte en beskerming te gee."
-    },
-    {
-     "id": "p005.s05",
-     "source": "Maar as jij moet gaan, blij dan tog asseblief nie so danig lank weg nie."
-    },
-    {
-     "id": "p005.s06",
-     "source": "Kom gouw; want sonder jou wil ons nie alleen wees nie.”"
+     "source": "Titel: Boesman-Stories: Deel I. Mitologie en legendes Skrywer: Gideon Retief von Wielligh (1859–1932) Info Illustrator: R. F. Keet Info Taal: Afrikaans Oorspronklike publikasiedatum: 1919"
     }
    ],
    "id": "p005"
   },
   {
-   "type": "prose",
+   "type": "heading",
    "segments": [
     {
      "id": "p006.s01",
-     "source": "As dit Nuwe Maan word, dan kijk die Boesmans gedurig na die plek waar hul die jong Maan verwag."
-    },
-    {
-     "id": "p006.s02",
-     "source": "En wanneer een die vernuwde Maan sien—die Maan wat dood was en weer lewendig geword het—en wijs een die strepie Maan aan, dan kijk hul weer na die plek waar hij wijs."
-    },
-    {
-     "id": "p006.s03",
-     "source": "En sien hul die Maan, dan sluit hulle die oë met hulle hande en roep uit: “Dis Nuwe Maan!"
-    },
-    {
-     "id": "p006.s04",
-     "source": "Weer Nuwe Maan!"
-    },
-    {
-     "id": "p006.s05",
-     "source": "Neem mij ou gesig van mij weg."
-    },
-    {
-     "id": "p006.s06",
-     "source": "Gee mij jouw nuwe gesig."
-    },
-    {
-     "id": "p006.s07",
-     "source": "Neem mij gesig weg, wat nie so plesierig voel nie en altijd treur, en gee mij jouw vrolike en plesierige gesig, wat sterf en weer lewendig word, wat kwijn en weer lag."
-    },
-    {
-     "id": "p006.s08",
-     "source": "Maak mij gesig dat dit net so word—al treur ek, dan herleef mij vrolike gesig weer."
-    },
-    {
-     "id": "p006.s09",
-     "source": "Want toe ons gedink het dat jij dood was, het jij tog gelewe; want hier is jij om ons troos en lewe te gee."
-    },
-    {
-     "id": "p006.s10",
-     "source": "Skink mij van die vreugde wat jij daarbo geniet, dat ek ook, as ek sterwe, weer lewendig word, om die altijddurende vreugde daarbo te kom geniet."
-    },
-    {
-     "id": "p006.s11",
-     "source": "Jij het tog vroeër gesê ons sal nie sterwe nie; maar sal weer uit ons slaap ontwaak."
-    },
-    {
-     "id": "p006.s12",
-     "source": "Maar die Haas wou nie glo nie en strij met jou, en nou word ons terwille van die Haas gestraf om te sterwe."
-    },
-    {
-     "id": "p006.s13",
-     "source": "Ag, neem dié straf van ons weg dat ons net weer effens die doodslaap insluimer en weer ontwaak.”"
+     "source": "Hersieningsgeskiedenis"
     }
    ],
    "id": "p006"
   },
   {
-   "type": "prose",
+   "type": "heading",
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Is dit Volle Maan, dan word weer gebede van dieselfde aard opgesê—net word daarbij gevoeg: “Die Son skiet vinnig met sij pijle."
-    },
-    {
-     "id": "p007.s02",
-     "source": "Hij skiet raak met sij pijle, en daarom skiet hij stukkie vir stukkie van die Volle Maan af."
-    },
-    {
-     "id": "p007.s03",
-     "source": "Maar hou moed!"
-    },
-    {
-     "id": "p007.s04",
-     "source": "Jij is onsterflik!”"
+     "source": "Eksterne verwysings"
     }
    ],
    "id": "p007"
@@ -245,73 +97,21 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Die Sterre verdien ook baie die godsdienstige aandag van die Boesmans—vernaamlik die Planete en die groot skitterende Sterre."
+     "source": "Hierdie Project Gutenberg-e-boek bevat eksterne verwysings."
     },
     {
      "id": "p008.s02",
-     "source": "In die somer is daar ’n soort Sprinkhaan-Gogga wat saands “Tsau, Tsau!” skree; dog die Boesmans wil nie weet dat dit ’n groot Gogga is wat so “Tsau, Tsau!” maak nie, en sê dis die Sterre."
-    },
-    {
-     "id": "p008.s03",
-     "source": "Hulle beweer dat die Sterre die blink oë van Leeuws, Tiers, Wolwe, Jakhalse, Katte en Springbokke vervloek, omdat hulle ook in die donker blink."
-    },
-    {
-     "id": "p008.s04",
-     "source": "Daarom sê hul dis die Sterre wat “Tsau, Tsau!” snags in die somernagte roep—hulle vervloek net wie blink oë het."
+     "source": "Hierdie skakels werk moontlik nie vir u nie."
     }
    ],
    "id": "p008"
   },
   {
-   "type": "prose",
+   "type": "heading",
    "segments": [
     {
      "id": "p009.s01",
-     "source": "As ’n groot blink Ster saands bokant die bergrante sij verskijning maak, dan word in die grootste eerbied uitgeroep: “Vat mij hart, wat gebrek lij."
-    },
-    {
-     "id": "p009.s02",
-     "source": "Gee mij jouw hart, wat in oorvloed klop."
-    },
-    {
-     "id": "p009.s03",
-     "source": "Want ek glo nie dat jij gebrek kan lij nie."
-    },
-    {
-     "id": "p009.s04",
-     "source": "Alles daarbo bij jou rol en skitter in oorvloed."
-    },
-    {
-     "id": "p009.s05",
-     "source": "Vat mij maag, wat so beestelik honger voel, mij maag, mij maag, wat brand van gebrek."
-    },
-    {
-     "id": "p009.s06",
-     "source": "Gee mij jouw maag, wat gevul is met die lekkerste kos."
-    },
-    {
-     "id": "p009.s07",
-     "source": "Jij lij nooit honger nie; daarom is jij so groot, so vet en so blink."
-    },
-    {
-     "id": "p009.s08",
-     "source": "Vat mij arm, wat so sleg skiet, wat nie kan raak skiet nie."
-    },
-    {
-     "id": "p009.s09",
-     "source": "Al hou mij oog hoe mooi korrel, dit is mis en blij mis."
-    },
-    {
-     "id": "p009.s10",
-     "source": "Gee mij jouw arm, waarmee jij so net skiet—altijd raak en nooit mis nie."
-    },
-    {
-     "id": "p009.s11",
-     "source": "Dan sal ek, en mij vrouw, en mij kinders, en algaar ons mense genoeg kos krij, dat ons gesigte ook kan blink, dat ons harte ook kan skitter, dat ons ook so skoon en vet kan word."
-    },
-    {
-     "id": "p009.s12",
-     "source": "Toe help ons; help ons—en help ons mooi!”"
+     "source": "Regstellings"
     }
    ],
    "id": "p009"
@@ -321,11 +121,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Op hierdie manier kom al hulle vereerde Wesens aan die beurt."
-    },
-    {
-     "id": "p010.s02",
-     "source": "Iedereen word na sij aard aangespreek."
+     "source": "Die volgende regstellings is aan die teks gemaak:"
     }
    ],
    "id": "p010"
@@ -335,69 +131,17 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Om die Hotnotsgod, ’Kaggen , word hande geklap en gedans: Sij naam staan hoog."
-    },
-    {
-     "id": "p011.s02",
-     "source": "Hulle roep uit: “Jij, ’Kaggen , hou jouw kop hoog."
-    },
-    {
-     "id": "p011.s03",
-     "source": "Jij vat raak waar jij grijp."
-    },
-    {
-     "id": "p011.s04",
-     "source": "Leer ons jouw slag, en ons sal nie gebrek hê nie."
-    },
-    {
-     "id": "p011.s05",
-     "source": "Jij eet gulsig, maar jij eet lekker."
-    },
-    {
-     "id": "p011.s06",
-     "source": "Volopkos is jouw naam!”"
+     "source": "Bladsy Bron Regstelling Redigeerafstand . [ Verwyder ] 1 , reen reën 1 / 0 werge berge 1 Hamerkop-voël Hamerkopvoël 1 Tie Toe 1 [ Nie in die bron nie ] “ 1 Dit Die 1 [ Nie in die bron nie ] ” 1 vooltjie voëltjie 1"
     }
    ],
    "id": "p011"
   },
   {
-   "type": "prose",
+   "type": "heading",
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Vir die denkbeeldige Waterslang roep hul uit: “Jouw bors roggel, omdat dit vol water is."
-    },
-    {
-     "id": "p012.s02",
-     "source": "Die Sterre het jou lief—daarom blink die steen op jouw kop."
-    },
-    {
-     "id": "p012.s03",
-     "source": "Gee ons water in die woestijn, waar die vreemdeling van dors moet sterwe."
-    },
-    {
-     "id": "p012.s04",
-     "source": "Gee ons water waar geen water is nie."
-    },
-    {
-     "id": "p012.s05",
-     "source": "Kruip onder die grond, waarheen ons voetspore heenloop."
-    },
-    {
-     "id": "p012.s06",
-     "source": "Waar ons trap met ons voet, laat die water onder die grond daarnatoe stroom."
-    },
-    {
-     "id": "p012.s07",
-     "source": "Maar stop die fonteine dig toe as jij die getrap van vreemdelinge hoor."
-    },
-    {
-     "id": "p012.s08",
-     "source": "Met jou as ons vrind lij ons nooit geen dors nie."
-    },
-    {
-     "id": "p012.s09",
-     "source": "Maar die vreemdeling moet jij haat wat ons wild kom skiet en verja, wat ons en ons kinders kom verdrijwe.”"
+     "source": "Afkortings"
     }
    ],
    "id": "p012"
@@ -407,46 +151,34 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Die Waterbees word in tijd van droogte aangeroep: “Waar wei jij nou in die groen-grasvleie?"
-    },
-    {
-     "id": "p013.s02",
-     "source": "Jij het lekker; maar ons wild word maer en trek na ander volop streke weg."
-    },
-    {
-     "id": "p013.s03",
-     "source": "Ons bene is moeg om die wild te agtervolg."
-    },
-    {
-     "id": "p013.s04",
-     "source": "Kom gouw, kom gouw!"
-    },
-    {
-     "id": "p013.s05",
-     "source": "Ons kom jou haal, om hier te laat reën, dat die wild kan terugkom."
-    },
-    {
-     "id": "p013.s06",
-     "source": "Ons hoor die geblaas van jouw neus."
-    },
-    {
-     "id": "p013.s07",
-     "source": "Mistige-weerwolke stoom daar uit."
-    },
-    {
-     "id": "p013.s08",
-     "source": "Die asem van jouw neus ruik soet en verkwik die dorre veld."
-    },
-    {
-     "id": "p013.s09",
-     "source": "Jouw voetstappe trippel oor die grond soos ’n Kwagga wat gaan drink."
-    },
-    {
-     "id": "p013.s10",
-     "source": "Windmaker is jouw naam!”"
+     "source": "Oorsig van afkortings gebruik."
     }
    ],
    "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Afkorting Uitbreiding Tvl."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Transvaal"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "End of Project Gutenberg's Boesman-Stories, Vol 1 of 4, by G. R. von Wielligh"
+    }
+   ],
+   "id": "p015"
   }
  ]
 }

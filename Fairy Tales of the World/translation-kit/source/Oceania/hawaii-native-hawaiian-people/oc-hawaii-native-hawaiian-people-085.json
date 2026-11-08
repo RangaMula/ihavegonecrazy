@@ -2,20 +2,20 @@
  "id": "oc-hawaii-native-hawaiian-people-085",
  "title": {
   "id": "title",
-  "source": "Hiiaka’S Battle With Demons"
+  "source": "Hina, The Woman In The Moon"
  },
  "tradition": "Hawaii (Native Hawaiian people)",
  "continent": "Oceania",
  "source_lang": "en",
- "source_book": "Hawaiian Legends of Volcanoes (mythology)",
+ "source_book": "Legends of Ma-ui—a demi god of Polynesia, and of his mother Hina",
  "credits": "Westervelt, W. D. (William Drake) (author, d. 1939)",
- "gutenberg": "Project Gutenberg eBook #66516 — https://www.gutenberg.org/ebooks/66516 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #32601 — https://www.gutenberg.org/ebooks/32601",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/085 - Hiiaka’S Battle With Demons.md",
+ "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/085 - Hina, The Woman In The Moon.md",
  "stats": {
-  "paragraphs": 51,
-  "segments": 110,
-  "words": 1729
+  "paragraphs": 21,
+  "segments": 82,
+  "words": 1607
  },
  "paragraphs": [
   {
@@ -23,11 +23,15 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "H iiaka, the youngest sister of Pele, the goddess of fire, is the central figure of many a beautiful Hawaiian myth."
+     "source": "The Wailuku river has by its banks far up the mountain side some of the most ancient of the various interesting picture rocks of the Hawaiian Islands."
     },
     {
      "id": "p001.s02",
-     "source": "She was sent on a wearisome journey over all the islands to find Lohiau, the lover of Pele."
+     "source": "The origin of the Hawaiian picture writing is a problem still unsolved, but the picture rocks of the Wailuku river are called \"na kii o Maui,\" \"the Maui pictures.\""
+    },
+    {
+     "id": "p001.s03",
+     "source": "Their antiquity is beyond question."
     }
    ],
    "id": "p001"
@@ -37,11 +41,15 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Out of the fire-pit of the volcano, Kilauea, she climbed."
+     "source": "The most prominent figure cut in these rocks is that of the crescent moon."
     },
     {
      "id": "p002.s02",
-     "source": "Through a multitude of cracks and holes, out of which poured fumes of foul gases, she threaded her way until she stood on the highest plateau of lava the volcano had been able to build."
+     "source": "The Hawaiian legends do not attempt any direct explanation of the meaning of this picture writing."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The traditions of the Polynesians both concerning Hina and Maui look to Hina as the moon goddess of their ancestors, and in some measure the Hawaiian stories confirm the traditions of the other island groups of the Pacific."
     }
    ],
    "id": "p002"
@@ -51,19 +59,35 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Pele was impatient and angry at the slow progress of Hiiaka and at first ordered her to hasten alone on her journey, but as she saw her patiently climbing along the rough way, she relented and gave to her supernatural power to aid in overcoming great difficulties and a magic skirt which had the power of lightning in its folds."
+     "source": "Fornander, in his history of the Polynesian race, gives the Hawaiian story of Hina's ascent to the moon, but applies it to a Hina the wife of a chief called Aikanaka rather than to the Hina of Hilo, the wife of Akalana, the father of Maui."
     },
     {
      "id": "p003.s02",
-     "source": "But she saw that this was not enough, so she called on the divine guardians of plants to come with garments and bear a burden of skirts with which to drape Hiiaka on her journey."
+     "source": "However, Fornander evidently found some difficulty in determining the status of the one to whom he refers the legend, for he calls her \"the mysterious wife of Aikanaka.\""
     },
     {
      "id": "p003.s03",
-     "source": "At last [ ] the goddess of ferns, Pau-o-palae, came with a skirt of ferns which pleased Pele."
+     "source": "In some of the Hawaiian legends Hina, the mother of Maui, lived on the southeast coast of the Island Maui at the foot of a hill famous in Hawaiian story as Kauiki."
     },
     {
      "id": "p003.s04",
-     "source": "It was thrown over Hiiaka, the most beautiful drapery which could be provided."
+     "source": "Fornander says that this \"mysterious wife\" of Aikanaka bore her children Puna and Huna, the latter a noted sea-rover among the Polynesians, at the foot of this hill Kauiki."
+    },
+    {
+     "id": "p003.s05",
+     "source": "It can very easily be supposed that a legend of the Hina connected with the demi-god Maui might be given during the course of centuries to the other Hina, the mother of Huna."
+    },
+    {
+     "id": "p003.s06",
+     "source": "The application of the legend would make no difference to anyone were it not for the fact that the story of Hina and her ascent to the moon has been handed down in different forms among the traditions of Samoa, New Zealand, Tonga, Hervey Islands, Fate Islands, Nauru and other Pacific island groups."
+    },
+    {
+     "id": "p003.s07",
+     "source": "The Polynesian name of the moon, Mahina or Masina, is derived from Hina, the goddess mother of Maui."
+    },
+    {
+     "id": "p003.s08",
+     "source": "It is even possible to trace the name back to \"Sin,\" the moon god of the Assyrians."
     }
    ],
    "id": "p003"
@@ -73,11 +97,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Pau-o-palae was clothed with a network of most delicate ferns."
+     "source": "The moon goddess of Ponape was Ina-maram."
     },
     {
      "id": "p004.s02",
-     "source": "She was noted because of her magic power over all the ferns of the forest, and for her skill in using the most graceful fronds for clothing and garlands."
+     "source": "(Hawaiian Hina-malamalama), \"Hina giving light.\""
     }
    ],
    "id": "p004"
@@ -87,15 +111,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Pele ordered Pau-o-palae to go with Hiiaka as her kahu, or guardian servant."
-    },
-    {
-     "id": "p005.s02",
-     "source": "She was very beautiful in her fern skirt and garland, but Hiiaka was of higher birth and nobler form and was more royal in her beauty than her follower, the goddess of ferns."
-    },
-    {
-     "id": "p005.s03",
-     "source": "It was a queen of highest legendary honor with one of her most worthy attendants setting forth on a strange quest through lands abounding in dangers and adventures."
+     "source": "In the Paumotan Islands an eclipse of the sun is called Higa-higa-hana (Hina-hiua-hana), \"The act (hana) of Hina—the moon.\""
     }
    ],
    "id": "p005"
@@ -105,31 +121,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Everywhere in ancient Hawaii were eepas, kupuas, and mo-os."
-    },
-    {
-     "id": "p006.s02",
-     "source": "Eepas were the deformed inhabitants of the Hawaiian gnomeland."
-    },
-    {
-     "id": "p006.s03",
-     "source": "They were twisted and defective in mind and body."
-    },
-    {
-     "id": "p006.s04",
-     "source": "They were the deceitful, treacherous fairies, living in the most beautiful places of the forest or glen, often appearing as human beings but always having some defect in some part of the body."
-    },
-    {
-     "id": "p006.s05",
-     "source": "Kupuas were gnomes or elves of supernatural [ ] power, able to appear in some nature-form as well as like a human being."
-    },
-    {
-     "id": "p006.s06",
-     "source": "Mo-os were the dragons of Hawaiian legends."
-    },
-    {
-     "id": "p006.s07",
-     "source": "They came to the Hawaiian Islands only as the legendary memories of the crocodiles and great snakes of the lands from which the first Hawaiian natives emigrated."
+     "source": "In New Zealand moonless nights were called \"Dark Hina.\""
     }
    ],
    "id": "p006"
@@ -139,7 +131,23 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "MT. KATMAI, ALASKA, 1913"
+     "source": "In Tahiti it is said there was war among the gods."
+    },
+    {
+     "id": "p007.s02",
+     "source": "They cursed the stars."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Hina saved them, although they lost a little light."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Then they cursed the sea, but Hina preserved the tides."
+    },
+    {
+     "id": "p007.s05",
+     "source": "They cursed the rivers, but Hina saved the springs—the moving waters inland, like the tides in the ocean."
     }
    ],
    "id": "p007"
@@ -149,7 +157,19 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Throughout Polynesia the mo-o, or moko, remained for centuries in the minds of the natives of different island groups as their most dreadful enemy, living in deep pools and sluggish streams."
+     "source": "The Hawaiians say that Hina and her maidens pounded out the softest, finest kapa cloth on the long, thick kapa board at the foot of Kauiki."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Incessantly the restless sea dashed its spray over the picturesque groups of splintered lava rocks which form the Kauiki headland."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Here above the reach of the surf still lies the long, black stone into which the legends say Hina's kapa board was changed."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Here Hina took the leaves of the hala tree and, after the manner of the Hawaiian women of the ages past, braided mats for the household to sleep upon, and from the nuts of the kukui trees fashioned the torches which were burned around the homes of those of high chief rank."
     }
    ],
    "id": "p008"
@@ -159,7 +179,19 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Hiiaka’s first test of patient endurance came in a battle with the kupuas of a forest lying between the volcano and the ocean."
+     "source": "At last she became weary of her work among mortals."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Her family had become more and more troublesome."
+    },
+    {
+     "id": "p009.s03",
+     "source": "It was said that her sons were unruly and her husband lazy and shiftless."
+    },
+    {
+     "id": "p009.s04",
+     "source": "She looked into the heavens and determined to flee up the pathway of her rainbow through the clouds."
     }
    ],
    "id": "p009"
@@ -169,23 +201,27 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "The land of the island Hawaii slopes down from the raging fire-pit, mile after mile, through dense tropical forests and shining lava beds, until it enfolds, in black lava shores, the ceaselessly moving waters of the bay of Hilo."
+     "source": "The Sun was very bright and Hina said, \"I will go to the Sun.\""
     },
     {
      "id": "p010.s02",
-     "source": "In this forest dwelt Pana-ewa, a reptile-man."
+     "source": "So she left her home very early in the morning and climbed up, higher, higher, until the heat of the rays of the sun beat strongly upon her and weakened her so that she could scarcely crawl along her beautiful path."
     },
     {
      "id": "p010.s03",
-     "source": "He was very strong and could be animal or man as he desired, and could make the change in a moment."
+     "source": "Up a little higher and the clouds no longer gave her even the least shadow."
     },
     {
      "id": "p010.s04",
-     "source": "He watched the paths through the forest, hoping to catch strangers, robbing them and sometimes devouring them."
+     "source": "The heat from the sun was so great that she began to feel the fire shriveling and torturing her."
     },
     {
      "id": "p010.s05",
-     "source": "Some he permitted to pass, but for others he made much trouble, bringing fog and rain and wind until the road was lost to them. [ ]"
+     "source": "Quickly she slipped down into the storms around her rainbow and then back to earth."
+    },
+    {
+     "id": "p010.s06",
+     "source": "As the day passed her strength came back, and when the full moon rose through the shadows of the night she said, \"I will climb to the moon and there find rest.\""
     }
    ],
    "id": "p010"
@@ -195,27 +231,55 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "He ruled all the evil forces of the forest above Hilo."
+     "source": "But when Hina began to go upward her husband saw her and called to her: \"Do not go into the heavens.\""
     },
     {
      "id": "p011.s02",
-     "source": "Every wicked sprite who twisted vines to make men stumble over precipices or fall into deep lava caves was his servant."
+     "source": "She answered him: \"My mind is fixed; I will go to my new husband, the moon.\""
     },
     {
      "id": "p011.s03",
-     "source": "Every demon wind, every foul fiend dwelling in dangerous branches of falling trees, every wicked gnome whirling clouds of dust or fog and wrapping them around a traveller, in fact every living thing which could in any way injure a traveller was his loyal subject."
+     "source": "And she climbed up higher and higher."
     },
     {
      "id": "p011.s04",
-     "source": "He was the kupua chief of the vicious sprites and cruel elves of the forest above Hilo."
+     "source": "Her husband ran toward her."
     },
     {
      "id": "p011.s05",
-     "source": "Those who knew about Pana-ewa brought offerings of awa to drink, taro and red fish to eat, tapa for mats, and malos, or girdles."
+     "source": "She was almost out of reach, but he leaped and caught her foot."
     },
     {
      "id": "p011.s06",
-     "source": "Then the way was free from trouble."
+     "source": "This did not deter Hina from her purpose."
+    },
+    {
+     "id": "p011.s07",
+     "source": "She shook off her husband, but as he fell he broke her leg so that the lower part came off in his hands."
+    },
+    {
+     "id": "p011.s08",
+     "source": "Hina went up through the stars, crying out the strongest incantations she could use."
+    },
+    {
+     "id": "p011.s09",
+     "source": "The powers of the night aided her."
+    },
+    {
+     "id": "p011.s10",
+     "source": "The mysterious hands of darkness lifted her, until she stood at the door of the moon."
+    },
+    {
+     "id": "p011.s11",
+     "source": "She had packed her calabash with her most priceless possessions and had carried it with her even when injured by her cruel husband."
+    },
+    {
+     "id": "p011.s12",
+     "source": "With her calabash she limped into the moon and found her abiding home."
+    },
+    {
+     "id": "p011.s13",
+     "source": "When the moon is full, the Hawaiians of the long ago, aye and even today, look into the quiet, silvery light and see the goddess in her celestial home, her calabash by her side."
     }
    ],
    "id": "p011"
@@ -225,7 +289,15 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "There were two bird-brothers of Pana-ewa; very little birds, swift as a flash of lightning, giving notice of any one coming through the forest of Pana-ewa."
+     "source": "The natives call her now Lono-moku, \"the crippled Lono.\""
+    },
+    {
+     "id": "p012.s02",
+     "source": "From this watch tower in the heavens she pointed out to Kahai, one of her descendents, the way to rise up into the skies."
+    },
+    {
+     "id": "p012.s03",
+     "source": "The ancient chant thus describes his ascent:"
     }
    ],
    "id": "p012"
@@ -235,19 +307,39 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Hiiaka, entering the forest, threw aside her fern robes, revealing her beautiful form."
+     "source": "\"The rainbow is the path of Kahai."
     },
     {
      "id": "p013.s02",
-     "source": "Two birds flew around her and before her."
+     "source": "Kahai rose."
     },
     {
      "id": "p013.s03",
-     "source": "One called to the other, “This is one of the women of ka lua (the pit).”"
+     "source": "Kahai bestirred himself."
     },
     {
      "id": "p013.s04",
-     "source": "The other answered, “She is not as strong as Pana-ewa; let us tell our brother.”"
+     "source": "Kahai passed on the floating cloud of Kane."
+    },
+    {
+     "id": "p013.s05",
+     "source": "Perplexed were the eyes of Alihi."
+    },
+    {
+     "id": "p013.s06",
+     "source": "Kahai passed on on the glancing light."
+    },
+    {
+     "id": "p013.s07",
+     "source": "The glancing light on men and canoes."
+    },
+    {
+     "id": "p013.s08",
+     "source": "Above was Hanaiakamalama.\""
+    },
+    {
+     "id": "p013.s09",
+     "source": "(Hina)."
     }
    ],
    "id": "p013"
@@ -257,7 +349,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Hiiaka heard the birds and laughed; then she chanted, and her voice rang through all the forest: [ ]"
+     "source": "Thus under the care of his ancestress Hina, Kahai, the great sea-rover, made his ascent in quest of adventures among the immortals."
     }
    ],
    "id": "p014"
@@ -267,7 +359,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "“Pana-ewa is a great lehua island;"
+     "source": "In the Tongan Islands the legends say that Hina remains in the moon watching over the \"fire-walkers\" as their great protecting goddess."
     }
    ],
    "id": "p015"
@@ -277,7 +369,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "A forest of ohias inland."
+     "source": "The Hervey Island traditions say that the Moon (Marama) had often seen Hina and admired her, and at last had come down and caught her up to live with himself."
+    },
+    {
+     "id": "p016.s02",
+     "source": "The moonlight in its glory is called Ina-motea, \"the brightness of Ina.\""
     }
    ],
    "id": "p016"
@@ -287,7 +383,19 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Fallen are the red flowers of the lehua,"
+     "source": "The story as told on Atiu Island (one of the Society group) is that Hina took her human husband with her to the moon, where they dwelt happily for a time, but as he grew old she prepared a rainbow, down which he descended to the earth to die, leaving Hina forevermore as \"the woman in the moon.\""
+    },
+    {
+     "id": "p017.s02",
+     "source": "The Savage Islanders worshiped the spirits of their ancestors, saying that many of them went up to the land of Sina, the always bright land in the skies."
+    },
+    {
+     "id": "p017.s03",
+     "source": "To the natives of Niue Island, Hina has been the goddess ruling over all tapa making."
+    },
+    {
+     "id": "p017.s04",
+     "source": "They say that her home is \"Motu a Hina,\" \"the island of Hina,\" the home of the dead in the skies."
     }
    ],
    "id": "p017"
@@ -297,7 +405,11 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Spoiled are the red apples of the ohia,"
+     "source": "The Samoans said that the Moon received Hina and a child, and also her tapa board and mallet and material for the manufacture of tapa cloth."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Therefore, when the moon is shining in full splendor, they shade their eyes and look for the goddess and the tools with which she fashions the tapa clouds in the heavens."
     }
    ],
    "id": "p018"
@@ -307,7 +419,27 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Bald is the head of Pana-ewa;"
+     "source": "The New Zealand legend says that the woman went after water in the night."
+    },
+    {
+     "id": "p019.s02",
+     "source": "As she passed down the path to the spring the bright light of the full moon made the way easy for her quick footsteps, but when she had filled her calabash and started homeward, suddenly the bright light was hidden by a passing cloud and she stumbled against a stone in the path and fell to the ground, spilling the water she was carrying."
+    },
+    {
+     "id": "p019.s03",
+     "source": "Then she became very angry and cursed the moon heartily."
+    },
+    {
+     "id": "p019.s04",
+     "source": "Then the moon became angry and swiftly swept down upon her from the skies, grasping her and lifting her up."
+    },
+    {
+     "id": "p019.s05",
+     "source": "In her terrible fight she caught a small tree with one hand and her calabash with the other."
+    },
+    {
+     "id": "p019.s06",
+     "source": "But oh! the strong moon pulled her up with the tree and the calabash and there in the full moon they can all be traced when the nights are clear."
     }
    ],
    "id": "p019"
@@ -317,451 +449,27 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "Smoke is over the land;"
+     "source": "Pleasant or Nauru Island, in which a missionary from Central Union Church, Honolulu, is laboring, tells the story of Gigu, a beautiful young woman, who has many of the experiences of Hina."
+    },
+    {
+     "id": "p020.s02",
+     "source": "She opened the eyes of the Mother of the Moon as Hina, in some of the Polynesian legends, is represented to have opened the eyes of one of the great goddesses, and in reward is married to Maraman, the Moon, with whom she lives ever after, and in whose embrace she can always be seen when the moon is full."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Gigu is Hina under another and more guttural form of speech."
+    },
+    {
+     "id": "p020.s04",
+     "source": "Maraman is the same as Malama, one of the Polynesian names for the moon."
     }
    ],
    "id": "p020"
   },
   {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p021.s01",
-     "source": "The fire is burning.”"
-    }
-   ],
-   "id": "p021"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p022.s01",
-     "source": "— Translated from a Hiiaka Chant."
-    }
-   ],
-   "id": "p022"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p023.s01",
-     "source": "Hiiaka hoped to make Pana-ewa angry by reminding him of seasons of destruction by lava eruptions, which left bald lava spots in the midst of the upland forest."
-    }
-   ],
-   "id": "p023"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p024.s01",
-     "source": "Pana-ewa, roused by his bird watchmen and stirred by the taunt of Hiiaka, said: “This is Hiiaka, who shall be killed by me."
-    },
-    {
-     "id": "p024.s02",
-     "source": "I will swallow her."
-    },
-    {
-     "id": "p024.s03",
-     "source": "There is no road for her to pass.”"
-    }
-   ],
-   "id": "p024"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p025.s01",
-     "source": "The old Hawaiians said that Pana-ewa had many bodies."
-    },
-    {
-     "id": "p025.s02",
-     "source": "He attacked Hiiaka in his fog body, Kino-ohu, and threw around her his twisting fog-arms, chilling her and choking her and blinding her."
-    },
-    {
-     "id": "p025.s03",
-     "source": "He wrapped her in the severe cold mantle of heavy mists."
-    }
-   ],
-   "id": "p025"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p026.s01",
-     "source": "Hiiaka told her friend to hold fast to her girdle while she led the way, sweeping aside the fog with her magic skirt."
-    },
-    {
-     "id": "p026.s02",
-     "source": "Then Pana-ewa took his body called the bitter rain, ua-awa, the cold freezing rain which pinches and shrivels the skin. [ ] He called also for the strong winds to bend down trees and smite his enemy, and lie in tangled masses in her path."
-    },
-    {
-     "id": "p026.s03",
-     "source": "So the way was hard."
-    }
-   ],
-   "id": "p026"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p027.s01",
-     "source": "Hiiaka swiftly swept her lightning skirt up against the beating rain and drove it back."
-    },
-    {
-     "id": "p027.s02",
-     "source": "Again and again she struck against the fierce storm and against the destructive winds."
-    },
-    {
-     "id": "p027.s03",
-     "source": "Sometimes she was beaten back, sometimes her arms were so weary that she could scarcely move her skirt, but she hurled it over and over against the storm until she drove it deeper into the forest and gained a little time for rest and renewal of strength."
-    }
-   ],
-   "id": "p027"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p028.s01",
-     "source": "On she went into the tangled woods and the gods of the forest rose up against her."
-    },
-    {
-     "id": "p028.s02",
-     "source": "They tangled her feet with vines."
-    },
-    {
-     "id": "p028.s03",
-     "source": "They struck her with branches of trees."
-    },
-    {
-     "id": "p028.s04",
-     "source": "The forest birds in multitudes screamed around her, dashed against her, tried to pick out her eyes and confuse her every effort."
-    },
-    {
-     "id": "p028.s05",
-     "source": "The god and his followers brought all their power and enchantments against Hiiaka."
-    },
-    {
-     "id": "p028.s06",
-     "source": "Hiiaka made an incantation against these enemies:"
-    }
-   ],
-   "id": "p028"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p029.s01",
-     "source": "“Night is at Pana-ewa and bitter is the storm;"
-    }
-   ],
-   "id": "p029"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p030.s01",
-     "source": "The branches of the trees are bent down;"
-    }
-   ],
-   "id": "p030"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p031.s01",
-     "source": "Rattling are the flowers and leaves of the lehua;"
-    }
-   ],
-   "id": "p031"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p032.s01",
-     "source": "Angrily growls the god Pana-ewa,"
-    }
-   ],
-   "id": "p032"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p033.s01",
-     "source": "Stirred up inside by his wrath."
-    }
-   ],
-   "id": "p033"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p034.s01",
-     "source": "Oh, Pana-ewa!"
-    }
-   ],
-   "id": "p034"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p035.s01",
-     "source": "I give you hurt,"
-    }
-   ],
-   "id": "p035"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p036.s01",
-     "source": "Behold, I give the hard blows of battle.”"
-    }
-   ],
-   "id": "p036"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p037.s01",
-     "source": "[ ]"
-    }
-   ],
-   "id": "p037"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p038.s01",
-     "source": "She told her friend to stay far back in the places already conquered, while she fought with a bamboo knife in one hand and her lightning skirt in the other."
-    },
-    {
-     "id": "p038.s02",
-     "source": "Harsh noises were on every hand."
-    },
-    {
-     "id": "p038.s03",
-     "source": "From each side she was beaten and sometimes almost crushed under the weight of her opponents."
-    },
-    {
-     "id": "p038.s04",
-     "source": "Many she cut down with her bamboo knife and many she struck with her lightning skirt."
-    },
-    {
-     "id": "p038.s05",
-     "source": "The two little birds flew over the battlefield and saw Hiiaka nearly dead from wounds and weariness, and their own gods of the forest lying as if asleep."
-    },
-    {
-     "id": "p038.s06",
-     "source": "They called to Pana-ewa:"
-    }
-   ],
-   "id": "p038"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p039.s01",
-     "source": "“Our gods are tired from fighting,"
-    }
-   ],
-   "id": "p039"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p040.s01",
-     "source": "They sleep and rest.”"
-    }
-   ],
-   "id": "p040"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p041.s01",
-     "source": "Pana-ewa came and looked at them."
-    },
-    {
-     "id": "p041.s02",
-     "source": "He saw that they were dead without showing deep injury, and wondered how they had been killed."
-    },
-    {
-     "id": "p041.s03",
-     "source": "The birds said, “We saw her skirt moving against the gods, up and down, back and forth.”"
-    }
-   ],
-   "id": "p041"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p042.s01",
-     "source": "Again the hosts of that forest gathered around the young chiefess."
-    },
-    {
-     "id": "p042.s02",
-     "source": "Again she struggled bitterly against the multitude of foes, but she was very, very tired and her arms sometimes refused to lift her knife and skirt."
-    },
-    {
-     "id": "p042.s03",
-     "source": "The discouraged woman felt that the battle was going against her, so she called for Pele, the goddess of fire."
-    }
-   ],
-   "id": "p042"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p043.s01",
-     "source": "Pele heard the noise of the conflict and the voice of her sister."
-    },
-    {
-     "id": "p043.s02",
-     "source": "She called for a body of her [ ] own servants to go down and fight the powerful kupua."
-    }
-   ],
-   "id": "p043"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p044.s01",
-     "source": "The Hawaiian legends give the name Ho-ai-ku to these reinforcements."
-    },
-    {
-     "id": "p044.s02",
-     "source": "This means “standing for food” or “devourers.”"
-    },
-    {
-     "id": "p044.s03",
-     "source": "Lightning storms were hurled against Pana-ewa, flashing and cutting and eating all the gods of the forest."
-    }
-   ],
-   "id": "p044"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p045.s01",
-     "source": "Hiiaka in her weariness sank down among the foes she had slain."
-    }
-   ],
-   "id": "p045"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p046.s01",
-     "source": "The two little birds saw her fall and called to Pana-ewa to go and take the one he had said he would “swallow.”"
-    },
-    {
-     "id": "p046.s02",
-     "source": "He rushed to the place where she lay."
-    },
-    {
-     "id": "p046.s03",
-     "source": "She saw him coming and wearily arose to give battle once more."
-    }
-   ],
-   "id": "p046"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p047.s01",
-     "source": "A great thunderstorm swept down on Pana-ewa."
-    },
-    {
-     "id": "p047.s02",
-     "source": "As he had fought Hiiaka with the cold forest winds, so Pele fought him with the storms from the pit of fire."
-    },
-    {
-     "id": "p047.s03",
-     "source": "Lightning drove him down through the forest."
-    },
-    {
-     "id": "p047.s04",
-     "source": "A mighty rain filled the valleys with red water."
-    },
-    {
-     "id": "p047.s05",
-     "source": "The kupuas were swept down the river beds and out into the ocean, where Pana-ewa and the remnant of his followers were devoured by sharks."
-    }
-   ],
-   "id": "p047"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p048.s01",
-     "source": "The Ho-ai-ku, as the legends say, went down and swallowed Pana-ewa, eating him up."
-    },
-    {
-     "id": "p048.s02",
-     "source": "Thus the land above Hilo became a safe place for the common people."
-    },
-    {
-     "id": "p048.s03",
-     "source": "To this day it is known by the name Pana-ewa. [ ]"
-    }
-   ],
-   "id": "p048"
-  },
-  {
    "type": "break",
    "segments": [],
-   "id": "p049"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p050.s01",
-     "source": "Piper methysticum. ↑"
-    }
-   ],
-   "id": "p050"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p051.s01",
-     "source": "One ohia tree is supposed to bear apples, another flowers only, the flowers being called lehua."
-    },
-    {
-     "id": "p051.s02",
-     "source": "There is much confusion in regard to these two trees even among botanists. ↑"
-    }
-   ],
-   "id": "p051"
+   "id": "p021"
   }
  ]
 }

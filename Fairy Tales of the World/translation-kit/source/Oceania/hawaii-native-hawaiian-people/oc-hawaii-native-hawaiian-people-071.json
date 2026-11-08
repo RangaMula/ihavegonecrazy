@@ -2,20 +2,20 @@
  "id": "oc-hawaii-native-hawaiian-people-071",
  "title": {
   "id": "title",
-  "source": "Ghosts Of The Hilo Hills"
+  "source": "Maui The Skillful"
  },
  "tradition": "Hawaii (Native Hawaiian people)",
  "continent": "Oceania",
  "source_lang": "en",
  "source_book": "Legends of Ma-ui—a demi god of Polynesia, and of his mother Hina",
  "credits": "Westervelt, W. D. (William Drake) (author, d. 1939)",
- "gutenberg": "Project Gutenberg eBook #32601 — https://www.gutenberg.org/ebooks/32601 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #32601 — https://www.gutenberg.org/ebooks/32601",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/071 - Ghosts Of The Hilo Hills.md",
+ "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/071 - Maui The Skillful.md",
  "stats": {
-  "paragraphs": 24,
-  "segments": 125,
-  "words": 2459
+  "paragraphs": 39,
+  "segments": 154,
+  "words": 2901
  },
  "paragraphs": [
   {
@@ -23,11 +23,19 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "The legends about Hina and her famous son Maui and her less widely known daughters are common property among the natives of the beautiful little city of Hilo."
+     "source": "According to the New Zealand legends there were six Mauis—the Hawaiians counted four."
     },
     {
      "id": "p001.s02",
-     "source": "One of these legends of more than ordinary interest finds its location in the three small hills back of Hilo toward the mountains."
+     "source": "They were a band of brothers."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The older five were known as \"the forgetful Mauis.\""
+    },
+    {
+     "id": "p001.s04",
+     "source": "The tricky and quick-witted youngest member of the family was called Maui te atamai—\"Maui the skillful.\""
     }
    ],
    "id": "p001"
@@ -37,15 +45,35 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "These hills are small craters connected with some ancient lava flow of unusual violence."
+     "source": "He was curiously accounted for in the New Zealand under-world."
     },
     {
      "id": "p002.s02",
-     "source": "The eruption must have started far up on the slopes of Mauna Loa."
+     "source": "When he went down through the long cave to his ancestor's home to find fire, he was soon talked about."
     },
     {
      "id": "p002.s03",
-     "source": "As it sped down toward the sea it met some obstruction which, although overwhelmed, checked the flow and caused a great mass of cinders and ashes to be thrown out until a large hill with a hollow crater was built up, covering many acres of ground."
+     "source": "\"Perhaps this is the man about whom so much is said in the upper-world.\""
+    },
+    {
+     "id": "p002.s04",
+     "source": "His ancestress from whom he obtained fire recognized him as the man called \"the deceitful Maui.\""
+    },
+    {
+     "id": "p002.s05",
+     "source": "Even his parents told him once, \"We know you are a tricky fellow—more so than any other man.\""
+    },
+    {
+     "id": "p002.s06",
+     "source": "One of the New Zealand fire legends while recording his flight to the under-world and his appearance as a bird, says: \"The men tried to spear him, and to catch him in nets."
+    },
+    {
+     "id": "p002.s07",
+     "source": "At last they cried out, 'Maybe you are the man whose fame is great in the upper-world.'"
+    },
+    {
+     "id": "p002.s08",
+     "source": "At once he leaped to the ground and appeared in the form of a man.\""
     }
    ],
    "id": "p002"
@@ -55,43 +83,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Soon the lava found another vent and then another obstruction and a second and then a third hill were formed nearer the sea."
+     "source": "He was not famous for inventions, but he was always ready to improve upon anything which was already in existence."
     },
     {
      "id": "p003.s02",
-     "source": "These hills or extinct craters bear the names Halai, Opeapea and Puu Honu."
+     "source": "He could take the sun in hand and make it do better work."
     },
     {
      "id": "p003.s03",
-     "source": "They are not far from the Wailuku river, famous for its picturesque waterfalls and also for the legends which are told along its banks."
-    },
-    {
-     "id": "p003.s04",
-     "source": "Here Maui had his lands overlooking the steep bluffs."
-    },
-    {
-     "id": "p003.s05",
-     "source": "Here in a cave under the Rainbow Falls was the home of Hina, the mother of Maui, according to the Hawaiian stories."
-    },
-    {
-     "id": "p003.s06",
-     "source": "Other parts of the Pacific sometimes make Hina Maui's wife, and sometimes a goddess from whom he descended."
-    },
-    {
-     "id": "p003.s07",
-     "source": "In the South Sea legends Hina was thought to have married the moon."
-    },
-    {
-     "id": "p003.s08",
-     "source": "Her home was in the skies, where she wove beautiful tapa cloths (the clouds), which were bright and glistening, so that when she rolled them up flashes of light (cloud lightning) could be seen on the earth."
-    },
-    {
-     "id": "p003.s09",
-     "source": "She laid heavy stones on the corners of these tapas, but sometimes the stones rolled off and made the thunder."
-    },
-    {
-     "id": "p003.s10",
-     "source": "Hina of the Rainbow Falls was a famous tapa maker whose tapa was the cause of Maui's conflict with the sun."
+     "source": "He could tie the moon so that it had to swim back around the island to the place in the ocean from which it might rise again, and go slowly through the night."
     }
    ],
    "id": "p003"
@@ -101,11 +101,35 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Hina had several daughters, four of whose names are given: Hina Ke Ahi, Hina Ke Kai, Hina Mahuia, and Hina Kuluua."
+     "source": "His brothers invented a slender, straight and smooth spear with which to kill birds."
     },
     {
      "id": "p004.s02",
-     "source": "Each name marked the peculiar \"mana\" or divine gift which Hina, the mother, had bestowed upon her daughters."
+     "source": "He saw the fluttering, struggling birds twist themselves off the smooth point and escape."
+    },
+    {
+     "id": "p004.s03",
+     "source": "He made a good light bird spear and put notches in it and kept most of the birds stuck."
+    },
+    {
+     "id": "p004.s04",
+     "source": "His brothers finally examined his spear and learned the reason for its superiority."
+    },
+    {
+     "id": "p004.s05",
+     "source": "In the same way they learned how to spear fish."
+    },
+    {
+     "id": "p004.s06",
+     "source": "They could strike and wound and sometimes kill—but they could not with their smooth spears draw the fish from the waters of the coral caves."
+    },
+    {
+     "id": "p004.s07",
+     "source": "But Maui the youngest made barbs, so that the fish could not easily shake themselves loose."
+    },
+    {
+     "id": "p004.s08",
+     "source": "The others soon made their spears like his."
     }
    ],
    "id": "p004"
@@ -115,35 +139,23 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Hina Ke Ahi meant the Hina who had control of fire."
+     "source": "The brothers were said to have invented baskets in which to trap eels, but many eels escaped."
     },
     {
      "id": "p005.s02",
-     "source": "This name is sometimes given to Hina the mother."
+     "source": "Maui improved the basket by secretly making an inside partition as well as a cover, and the eels were securely trapped."
     },
     {
      "id": "p005.s03",
-     "source": "Hina Ke Kai was the daughter who had power over the sea."
+     "source": "It took the brothers a long time to learn the real difference between their baskets and his."
     },
     {
      "id": "p005.s04",
-     "source": "She was said to have been in a canoe with her brother Maui when he fished up Co coanut Island, his line breaking before he could pull it up to the mainland and make it fast."
+     "source": "One of the family made a basket like his and caught many eels."
     },
     {
      "id": "p005.s05",
-     "source": "Hina Kuluua was the mistress over the forces of rain."
-    },
-    {
-     "id": "p005.s06",
-     "source": "The winds and the storms were supposed to obey her will."
-    },
-    {
-     "id": "p005.s07",
-     "source": "Hina Mahuia is peculiarly a name connected with the legends of the other island groups of the Pacific."
-    },
-    {
-     "id": "p005.s08",
-     "source": "Mahuia or Mafuie was a god or goddess of fire all through Polynesia."
+     "source": "Then Maui became angry and chanted a curse over him and bewildered him, then changed him into a dog."
     }
    ],
    "id": "p005"
@@ -153,11 +165,15 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "The legend of the Hilo hills pertains especially to Hina Ke Ahi and Hina Kuluua."
+     "source": "The Manahiki Islanders have the legend that Maui made the moon, but could not get good light from it."
     },
     {
      "id": "p006.s02",
-     "source": "Hina the mother gave the hill Halai to Hina Ke Ahi and the hill Puu Honu to Hina Kuluua for their families and dependents."
+     "source": "He tried experiments and found that the sun was quite an improvement."
+    },
+    {
+     "id": "p006.s03",
+     "source": "The sun's example stimulated the moon to shine brighter."
     }
    ],
    "id": "p006"
@@ -167,35 +183,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "The hills were of rich soil and there was much rain."
+     "source": "Once Maui became interested in tattooing and tried to make a dog look better by placing dark lines around the mouth."
     },
     {
      "id": "p007.s02",
-     "source": "Therefore, for a long time, the two daughters had plenty of food for themselves and their people, but at last the days were like fire and the sky had no rain in it."
+     "source": "The legends say that one of the sacred birds saw the pattern and then marked the sky with the red lines sometimes seen at sunrise and sunset."
     },
     {
      "id": "p007.s03",
-     "source": "The taro planted on the hillsides died."
+     "source": "An Hawaiian legend says that Maui tattooed his arm with a sacred name and thus that arm was strong enough to hold the sun when he lassoed it."
     },
     {
      "id": "p007.s04",
-     "source": "The bananas and sugar cane and sweet potatoes withered and the fruit on the trees was blasted."
-    },
-    {
-     "id": "p007.s05",
-     "source": "The people were faint because of hunger, and the shadow of death was over the land."
-    },
-    {
-     "id": "p007.s06",
-     "source": "Hina Ke Ahi pitied her suffering friends and determined to provide food for them."
-    },
-    {
-     "id": "p007.s07",
-     "source": "Slowly her people labored at her command."
-    },
-    {
-     "id": "p007.s08",
-     "source": "Over they went to the banks of the river course, which was only the bed of an ancient lava stream, over which no water was flowing; the famished laborers toiled, gathering and carrying back whatever wood they could find, then up the mountain side to the great koa and ohia forests, gathering their burdens of fuel according to the wishes of their chiefess."
+     "source": "There is a New Zealand legend in which Maui is made one of three gods who first created man and then woman from one of the man's ribs."
     }
    ],
    "id": "p007"
@@ -205,15 +205,23 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Their sorcerers planted charms along the way and uttered incantations to ward off the danger of failure."
+     "source": "The Hawaiians dwelling in Hilo have many stories of Maui."
     },
     {
      "id": "p008.s02",
-     "source": "The priests offered sacrifices and prayers for the safe and successful return of the burden-bearers."
+     "source": "They say that his home was on the northern bank of the Wailuku River."
     },
     {
      "id": "p008.s03",
-     "source": "After many days the great quantity of wood desired by the goddess was piled up by the side of the Halai Hill."
+     "source": "He had a strong staff made from an ohia tree (the native apple tree)."
+    },
+    {
+     "id": "p008.s04",
+     "source": "With this he punched holes through the lava, making natural bridges and boiling pools, and new channels for its sometimes obstructed waters, so that the people could go up or down the river more easily."
+    },
+    {
+     "id": "p008.s05",
+     "source": "Near one of the natural bridges is a figure of the moon carved in the rocks, referred by some of the natives to Maui."
     }
    ],
    "id": "p008"
@@ -223,39 +231,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Then came the days of digging out the hill and making a great imu or cooking oven and preparing it with stones and wood."
-    },
-    {
-     "id": "p009.s02",
-     "source": "Large quantities of wood were thrown into the place."
-    },
-    {
-     "id": "p009.s03",
-     "source": "Stones best fitted for retaining heat were gathered and the fires kindled."
-    },
-    {
-     "id": "p009.s04",
-     "source": "When the stones were hot, Hina Ke Ahi directed the people to arrange the imu in its proper order for cooking the materials for a great feast."
-    },
-    {
-     "id": "p009.s05",
-     "source": "A place was made for sweet potatoes, another for taro, another for pigs and another for dogs."
-    },
-    {
-     "id": "p009.s06",
-     "source": "All the form of preparing the food for cooking was passed through, but no real food was laid on the stones."
-    },
-    {
-     "id": "p009.s07",
-     "source": "Then Hina told them to make a place in the imu for a human sacrifice."
-    },
-    {
-     "id": "p009.s08",
-     "source": "Probably out of every imu of the long ago a small part of the food was offered to the gods, and there may have been a special place in the imu for that part of the food to be cooked."
-    },
-    {
-     "id": "p009.s09",
-     "source": "At any rate Hina had this oven so built that the people understood that a remarkable sacrifice would be offered in it to the gods, who for some reason had sent the famine upon the people."
+     "source": "Maui is said to have taught his brothers the different kinds of fish nets and the use of the strong fibre of the olona, which was much better than cocoanut threads."
     }
    ],
    "id": "p009"
@@ -265,31 +241,27 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Human sacrifices were frequently offered by the Hawaiians even after the days of the coming of Captain Cook."
+     "source": "The New Zealand stories relate the spear-throwing contests of Maui and his brothers."
     },
     {
      "id": "p010.s02",
-     "source": "A dead body was supposed to be acceptable to the gods when a chief's house was built, when a chief's new canoe was to be made or when temple walls were to be erected or victories celebrated."
+     "source": "As children, however, they were not allowed the use of wooden spears."
     },
     {
      "id": "p010.s03",
-     "source": "The bodies of the people belonged to the will of the chief."
+     "source": "They took the stems of long, heavy reeds and threw them at each other, but Maui's reeds were charmed into stronger and harder fibre so that he broke his mother's house and made her recognize him as one of her children."
     },
     {
      "id": "p010.s04",
-     "source": "Therefore it was in quiet despair that the workmen obeyed Hina Ke Ahi and prepared the place for sacrifice."
+     "source": "He had been taken away as soon as he was born by the gods to whom he was related."
     },
     {
      "id": "p010.s05",
-     "source": "It might mean their own holocaust as an offering to the gods."
+     "source": "When he found his way back home his mother paid no attention to him."
     },
     {
      "id": "p010.s06",
-     "source": "At last Hina Ke Ahi bade the laborers cease their work and stand by the side of the oven ready to cover it with the dirt which had been thrown out and piled up by the side."
-    },
-    {
-     "id": "p010.s07",
-     "source": "The people stood by, not knowing upon whom the blow might fall."
+     "source": "Thus by a spear thrust he won a home."
     }
    ],
    "id": "p010"
@@ -299,11 +271,35 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "But Hina Ke Ahi was \"Hina the kind,\" and although she stood before them robed in royal majesty and power, still her face was full of pity and love."
+     "source": "The brothers all made fish hooks, but Maui the youngest made two kinds of hooks—one like his brothers' and one with a sharp barb."
     },
     {
      "id": "p011.s02",
-     "source": "Her voice melted the hearts of her retainers as she bade them carefully follow her directions."
+     "source": "His brothers' hooks were smooth so that it was difficult to keep the fish from floundering and shaking themselves off, but they noticed that the fish were held by Maui's hook better than by theirs."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Maui was not inclined to devote himself to hard work, and lived on his brothers as much as possible—but when driven out by his wife or his mother he would catch more fish than the other fishermen."
+    },
+    {
+     "id": "p011.s04",
+     "source": "They tried to examine his hooks, but he always changed his hooks so that they could not see any difference between his and theirs."
+    },
+    {
+     "id": "p011.s05",
+     "source": "At such times they called him the mischievous one and tried to leave him behind while they went fishing."
+    },
+    {
+     "id": "p011.s06",
+     "source": "They were, however, always ready to give him credit for his improvements."
+    },
+    {
+     "id": "p011.s07",
+     "source": "They dealt generously with him when they learned what he had really accomplished."
+    },
+    {
+     "id": "p011.s08",
+     "source": "When they caught him with his barbed hook they forgot the past and called him \"ke atamai\"—the skillful."
     }
    ],
    "id": "p011"
@@ -313,51 +309,31 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"O my people."
+     "source": "The idea that fish hooks made from the jawbones of human beings were better than others, seemed to have arisen at first from the angle formed in the lower jawbone."
     },
     {
      "id": "p012.s02",
-     "source": "Where are you?"
+     "source": "Later these human fish hooks were considered sacred and therefore possessed of magic powers."
     },
     {
      "id": "p012.s03",
-     "source": "Will you obey and do as I command?"
+     "source": "The greater sanctity and power belonged to the bones which bore more especial relation to the owner."
     },
     {
      "id": "p012.s04",
-     "source": "This imu is my imu."
+     "source": "Therefore Maui's \"magic hook,\" with which he fished up islands, was made from the jawbone of his ancestress Mahuika."
     },
     {
      "id": "p012.s05",
-     "source": "I shall lie down on its bed of burning stones."
+     "source": "It is also said that in order to have powerful hooks for every-day fishing he killed two of his children."
     },
     {
      "id": "p012.s06",
-     "source": "I shall sleep under its cover."
+     "source": "Their right eyes he threw up into the sky to become stars."
     },
     {
      "id": "p012.s07",
-     "source": "But deeply cover me or I may perish."
-    },
-    {
-     "id": "p012.s08",
-     "source": "Quickly throw the dirt over my body."
-    },
-    {
-     "id": "p012.s09",
-     "source": "Fear not the fire."
-    },
-    {
-     "id": "p012.s10",
-     "source": "Watch for three days."
-    },
-    {
-     "id": "p012.s11",
-     "source": "A woman will stand by the imu."
-    },
-    {
-     "id": "p012.s12",
-     "source": "Obey her will.\""
+     "source": "One became the morning and the other the evening star."
     }
    ],
    "id": "p012"
@@ -367,15 +343,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Hina Ke Ahi was very beautiful, and her eyes flashed light like fire as she stepped into the great pit and lay down on the burning stones."
-    },
-    {
-     "id": "p013.s02",
-     "source": "A great smoke arose and gathered over the imu."
-    },
-    {
-     "id": "p013.s03",
-     "source": "The men toiled rapidly, placing the imu mats over their chiefess and throwing the dirt back into the oven until it was all thoroughly covered and the smoke was quenched."
+     "source": "The idea that the death of any members of the family must not stand in the way of obtaining magical power, has prevailed throughout Polynesia."
     }
    ],
    "id": "p013"
@@ -385,7 +353,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Then they waited for the strange, mysterious thing which must follow the sacrifice of this divine chiefess."
+     "source": "From this angle in the jawbone Maui must have conceived the idea of making a hook with a piece of bone or shell which should be fastened to the large bone at a very sharp angle, thus making a kind of barb."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Hooks like this have been made for ages among the Polynesians."
     }
    ],
    "id": "p014"
@@ -395,63 +367,19 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Halai hill trembled and earthquakes shook the land round about."
+     "source": "Maui and his brothers went fishing for eels with bait strung on the flexible rib of a cocoanut leaf."
     },
     {
      "id": "p015.s02",
-     "source": "The great heat of the fire in the imu withered the little life which was still left from the famine."
+     "source": "The stupid brothers did not fasten the ends of the string."
     },
     {
      "id": "p015.s03",
-     "source": "Meanwhile Hina Ke Ahi was carrying out her plan for securing aid for her people."
+     "source": "Therefore the eels easily slipped the bait off and escaped."
     },
     {
      "id": "p015.s04",
-     "source": "She could not be injured by the heat for she was a goddess of fire."
-    },
-    {
-     "id": "p015.s05",
-     "source": "The waves of heat raged around her as she sank down through the stones of the imu into the underground paths which belonged to the spirit world."
-    },
-    {
-     "id": "p015.s06",
-     "source": "The legend says that Hina made her appearance in the form of a gushing stream of water which would always supply the want of her adherents."
-    },
-    {
-     "id": "p015.s07",
-     "source": "The second day passed."
-    },
-    {
-     "id": "p015.s08",
-     "source": "Hina was still journeying underground, but this time she came to the surface as a pool named Moe Waa (canoe sleep) much nearer the sea."
-    },
-    {
-     "id": "p015.s09",
-     "source": "The third day came and Hina caused a great spring of sweet water to burst forth from the sea shore in the very path of the ocean surf."
-    },
-    {
-     "id": "p015.s10",
-     "source": "This received the name Auauwai."
-    },
-    {
-     "id": "p015.s11",
-     "source": "Here Hina washed away all traces of her journey through the depths."
-    },
-    {
-     "id": "p015.s12",
-     "source": "This was the last of the series of earthquakes and the appearance of new water springs."
-    },
-    {
-     "id": "p015.s13",
-     "source": "The people waited, feeling that some more wonderful event must follow the remarkable experiences of the three days."
-    },
-    {
-     "id": "p015.s14",
-     "source": "Soon a woman stood by the imu, who commanded the laborers to dig away the dirt and remove the mats."
-    },
-    {
-     "id": "p015.s15",
-     "source": "When this was done, the hungry people found a very great abundance of food, enough to supply their want until the food plants should have time to ripen and the days of the famine should be over."
+     "source": "But Maui made the ends of his string fast, and captured many eels."
     }
    ],
    "id": "p015"
@@ -461,11 +389,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "The joy of the people was great when they knew that their chiefess had escaped death and would still dwell among them in comfort."
+     "source": "The little things which others did not think about were the foundation of Maui's fame."
     },
     {
      "id": "p016.s02",
-     "source": "Many were the songs sung and stories told about the great famine and the success of the goddess of fire."
+     "source": "Upon these little things he built his courage to snare the sun and seek fire for mankind."
     }
    ],
    "id": "p016"
@@ -475,11 +403,11 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "The second sister, Hina Kuluua, the goddess of rain, was always very jealous of her beautiful sister Hina Ke Ahi, and many times sent rain to put out fires which her sister tried to kindle."
+     "source": "In a New Zealand legend, quoted by Edward Tregear, Maui is called Maui-maka-walu, or \"Maui with eyes eight.\""
     },
     {
      "id": "p017.s02",
-     "source": "Hina Ke Ahi could not stand the rain and so fled with her people to a home by the seaside."
+     "source": "This eight-eyed Maui would be allied to the Hindoo deities who with their eight eyes face the four quarters of the world—thus possessing both insight into the affairs of men and foresight into the future."
     }
    ],
    "id": "p017"
@@ -489,23 +417,15 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Hina Kuluua (or Hina Kuliua as she was sometimes known among the Hawaiians) could control rain and storms, but for some reason failed to provide a food supply for her people, and the famine wrought havoc among them."
+     "source": "Fornander, the Hawaiian ethnologist, says: \"In Hawaiian mythology, Kamapuaa, the demigod opponent of the goddess Pele, is described as having eight eyes and eight feet; and in the legends Maka-walu, 'eight-eyed,' is a frequent epithet of gods and chiefs.\""
     },
     {
      "id": "p018.s02",
-     "source": "She thought of the stories told and songs sung about her sister and wished for the same honor for herself."
+     "source": "He notes this coincidence with the appearance of some of the principal Hindoo deities as having some bearing upon the origin of the Polynesians."
     },
     {
      "id": "p018.s03",
-     "source": "She commanded her people to make a great imu for her in the hill Puu Honu."
-    },
-    {
-     "id": "p018.s04",
-     "source": "She knew that a strange power belonged to her and yet, blinded by jealousy, forgot that rain and fire could not work together."
-    },
-    {
-     "id": "p018.s05",
-     "source": "She planned to furnish a great supply of food for her people in the same way in which her sister had worked."
+     "source": "It may be that a comparative study of the legends of other islands of the Pacific by some student will open up other new and important facts."
     }
    ],
    "id": "p018"
@@ -515,11 +435,19 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "The oven was dug."
+     "source": "In Tahiti, on the island Raiatea, a high priest or prophet lived in the long, long ago."
     },
     {
      "id": "p019.s02",
-     "source": "Stones and wood were collected and the same ghostly array of potatoes, taro, pig and dog prepared as had been done before by her sister."
+     "source": "He was known as Maui the prophet of Tahiti."
+    },
+    {
+     "id": "p019.s03",
+     "source": "He was probably not Maui the demigod."
+    },
+    {
+     "id": "p019.s04",
+     "source": "Nevertheless he was represented as possessing very strange prophetical powers."
     }
    ],
    "id": "p019"
@@ -529,11 +457,11 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "The kahunas or priests knew that Hina Kuluua was going out of her province in trying to do as her sister had done, but there was no use in attempting to change her plans."
+     "source": "According to the historian Ellis, who previous to 1830 spent eight years in the Society and Hawaiian Islands, this prophet Maui clearly prophesied the coming of an outriggerless canoe from some foreign land."
     },
     {
      "id": "p020.s02",
-     "source": "Jealousy is self-willed and obstinate and no amount of reasoning from her dependents could have any influence over her."
+     "source": "An outrigger is a log which so balances a canoe that it can ride safely through the treacherous surf."
     }
    ],
    "id": "p020"
@@ -543,31 +471,7 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "The ordinary incantations were observed, and Hina Kuluua gave the same directions as those her sister had given."
-    },
-    {
-     "id": "p021.s02",
-     "source": "The imu was to be well heated."
-    },
-    {
-     "id": "p021.s03",
-     "source": "The make-believe food was to be put in and a place left for her body."
-    },
-    {
-     "id": "p021.s04",
-     "source": "It was the goddess of rain making ready to lie down on a bed prepared for the goddess of fire."
-    },
-    {
-     "id": "p021.s05",
-     "source": "When all was ready, she lay down on the heated stones and the oven mats were thrown over her and the ghostly provisions."
-    },
-    {
-     "id": "p021.s06",
-     "source": "Then the covering of dirt was thrown back upon the mats and heated stones, filling the pit which had been dug."
-    },
-    {
-     "id": "p021.s07",
-     "source": "The goddess of rain was left to prepare a feast for her people as the goddess of fire had done for her followers."
+     "source": "The chiefs and prophets charged him with stating the impossible."
     }
    ],
    "id": "p021"
@@ -577,39 +481,7 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "Some of the legends have introduced the demi-god Maui into this story."
-    },
-    {
-     "id": "p022.s02",
-     "source": "The natives say that Maui came to \"burn\" or \"cook the rain\" and that he made the oven very hot, but that the goddess of rain escaped and hung over the hill in the form of a cloud."
-    },
-    {
-     "id": "p022.s03",
-     "source": "At least this is what the people saw—not a cloud of smoke over the imu, but a rain cloud."
-    },
-    {
-     "id": "p022.s04",
-     "source": "They waited and watched for such evidences of underground labor as attended the passage of Hina Ke Ahi through the earth from the hill to the sea, but the only strange appearance was the dark rain cloud."
-    },
-    {
-     "id": "p022.s05",
-     "source": "They waited three days and looked for their chiefess to come in the form of a woman."
-    },
-    {
-     "id": "p022.s06",
-     "source": "They waited another day and still another and no signs or wonders were manifest."
-    },
-    {
-     "id": "p022.s07",
-     "source": "Meanwhile Maui, changing himself into a white bird, flew up into the sky to catch the ghost of the goddess of rain which had escaped from the burning oven."
-    },
-    {
-     "id": "p022.s08",
-     "source": "Having caught this spirit, he rolled it in some kapa cloth which he kept for food to be placed in an oven and carried it to a place in the forest on the mountain side where again the attempt was made to \"burn the rain,\" but a great drop escaped and sped upward into the sky."
-    },
-    {
-     "id": "p022.s09",
-     "source": "Again Maui caught the ghost of the goddess and carried it to a pali or precipice below the great volcano Kilauea, where he again tried to destroy it in the heat of a great lava oven, but this time the spirit escaped and found a safe refuge among kukui trees on the mountain side, from which she sometimes rises in clouds which the natives say are the sure sign of rain."
+     "source": "He took his wooden calabash and placed it in a pool of water as an illustration of the way such a boat should float."
     }
    ],
    "id": "p022"
@@ -619,47 +491,381 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Whether this Maui legend has any real connection with the two Hinas and the famine we do not surely know."
-    },
-    {
-     "id": "p023.s02",
-     "source": "The legend ordinarily told among the Hawaiians says that after five days had passed the retainers decided on their own responsibility to open the imu."
-    },
-    {
-     "id": "p023.s03",
-     "source": "No woman had appeared to give them directions."
-    },
-    {
-     "id": "p023.s04",
-     "source": "Nothing but a mysterious rain cloud over the hill."
-    },
-    {
-     "id": "p023.s05",
-     "source": "In doubt and fear, the dirt was thrown off and the mats removed."
-    },
-    {
-     "id": "p023.s06",
-     "source": "Nothing was found but the ashes of Hina Kuluua."
-    },
-    {
-     "id": "p023.s07",
-     "source": "There was no food for her followers and the goddess had lost all power of appearing as a chiefess."
-    },
-    {
-     "id": "p023.s08",
-     "source": "Her bitter and thoughtless jealousy brought destruction upon herself and her people."
-    },
-    {
-     "id": "p023.s09",
-     "source": "The ghosts of Hina Ke Ahi and Hina Kuluua sometimes draw near to the old hills in the form of the fire of flowing lava or clouds of rain while the old men and women tell the story of the Hinas, the sisters of Maui, who were laid upon the burning stones of the imus of a famine."
+     "source": "Then with the floating bowl before him he uttered the second prophecy, that boats without line to tie the sails to the masts, or the masts to the ships, should also come to Tahiti."
     }
    ],
    "id": "p023"
   },
   {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "When English ships under Captain Wallis and Captain Cook, in the latter part of the eighteenth century, visited these islands, the natives cried out, \"O the canoes of Maui—the outriggerless canoes.\""
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Passenger steamships, and the men-of-war from the great nations, have taught the Tahitians that boats without sails and masts can cross the great ocean, and again they have recurred to the words of the prophet Maui, and have exclaimed, \"O the boats without sails and masts.\""
+    },
+    {
+     "id": "p025.s02",
+     "source": "This rather remarkable prophecy could easily have occurred to Maui as he saw a wooden calabash floating over rough waters."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Maui's improvement upon nature's plan in regard to certain birds is also given in the legends as a proof of his supernatural powers."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "White relates the story as follows: \"Maui requested some birds to go and fetch water for him."
+    },
+    {
+     "id": "p027.s02",
+     "source": "The first one would not obey, so he threw it into the water."
+    },
+    {
+     "id": "p027.s03",
+     "source": "He requested another bird to go—and it refused, so he threw it into the fire, and its feathers were burnt."
+    },
+    {
+     "id": "p027.s04",
+     "source": "But the next bird obeyed, but could not carry the water, and he rewarded it by making the feathers of the fore part of its head white."
+    },
+    {
+     "id": "p027.s05",
+     "source": "Then he asked another bird to go, and it filled its ears with water and brought it to Maui, who drank, and then pulled the bird's legs and made them long in payment for its act of kindness.\""
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Diffenbach says: \"Maui, the Adam of New Zea land, left the cat's cradle to the New Zealanders as an inheritance.\""
+    },
+    {
+     "id": "p028.s02",
+     "source": "The name \"Whai\" was given to the game."
+    },
+    {
+     "id": "p028.s03",
+     "source": "It exhibited the various steps of creation according to Maori mythology."
+    },
+    {
+     "id": "p028.s04",
+     "source": "Every change in the cradle shows some act in creation."
+    },
+    {
+     "id": "p028.s05",
+     "source": "Its various stages were called \"houses.\""
+    },
+    {
+     "id": "p028.s06",
+     "source": "Diffenbach says again: \"In this game of Maui they are great proficients."
+    },
+    {
+     "id": "p028.s07",
+     "source": "It is a game like that called cat's cradle in Europe."
+    },
+    {
+     "id": "p028.s08",
+     "source": "It is intimately connected with their ancient traditions and in the different figures which the cord is made to assume whilst held on both hands, the outline of their different varieties of houses, canoes or figures of men and women are imagined to be represented.\""
+    },
+    {
+     "id": "p028.s09",
+     "source": "One writer connects this game with witchcraft, and says it was brought from the under-world."
+    },
+    {
+     "id": "p028.s10",
+     "source": "Some parts of the puzzle show the adventures of Maui, especially his attempt to win immortality for men."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "In New Zealand it was said Maui found a large, fine-grained stone block, broke it in pieces, and from the fragments learned how to fashion stone implements."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "White also tells the New Zealand legend of Maui and the winds."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "\"Maui caught and held all the winds save the west wind."
+    },
+    {
+     "id": "p031.s02",
+     "source": "He put each wind into a cave, so that it might not blow."
+    },
+    {
+     "id": "p031.s03",
+     "source": "He sought in vain for the west wind, but could not find from whence it came."
+    },
+    {
+     "id": "p031.s04",
+     "source": "If he had found the cave in which it stayed he would have closed the entrance to that cave with rocks."
+    },
+    {
+     "id": "p031.s05",
+     "source": "When the west wind blows lightly it is because Maui has got near to it, and has nearly caught it, and it has gone into its home, the cave, to escape him."
+    },
+    {
+     "id": "p031.s06",
+     "source": "When the winds of the south, east, and north blow furiously it is because the rocks have been removed by the stupid people who could not learn the lessons taught by Maui."
+    },
+    {
+     "id": "p031.s07",
+     "source": "At other times Maui allows these winds to blow in hurricanes to punish that people, and also that he may ride on these furious winds in search of the west wind.\""
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "In the Hawaiian legends Maui is represented as greatly interested in making and flying kites."
+    },
+    {
+     "id": "p032.s02",
+     "source": "His favorite place for the sport was by the boiling pools of the Wailuku river near Hilo."
+    },
+    {
+     "id": "p032.s03",
+     "source": "He had the winds under his control and would call for them to push his kites in the direction he wished."
+    },
+    {
+     "id": "p032.s04",
+     "source": "His incantation calling up the winds is given in this Maui proverb—"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "\"Strong wind come, Soft wind come.\""
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "White in his \"Ancient History of the Maoris,\" relates some of Maui's experiences with the people whom he found on the islands brought up from the under-world."
+    },
+    {
+     "id": "p034.s02",
+     "source": "On one island he found a sand house with eight hundred gods living in it."
+    },
+    {
+     "id": "p034.s03",
+     "source": "Apparently Maui discovered islands with inhabitants, and was reported to have fished them up out of the depths of the ocean."
+    },
+    {
+     "id": "p034.s04",
+     "source": "Fishing was sailing over the ocean until distant lands were drawn near or \"fished up.\""
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Maui walked over the islands and found men living on them and fires burning near their homes."
+    },
+    {
+     "id": "p035.s02",
+     "source": "He evidently did not know much about fire, for he took it in his hands."
+    },
+    {
+     "id": "p035.s03",
+     "source": "He was badly burned and rushed into the sea."
+    },
+    {
+     "id": "p035.s04",
+     "source": "Down he dived under the cooling waters and came up with one of the New Zealand islands on his shoulders."
+    },
+    {
+     "id": "p035.s05",
+     "source": "But his hands were still burning, so wherever he held the island it was set on fire."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "These fires are still burning in the secret recesses of the volcanoes, and sometimes burst out in flowing lava."
+    },
+    {
+     "id": "p036.s02",
+     "source": "Then Maui paid attention to the people whom he had fished up."
+    },
+    {
+     "id": "p036.s03",
+     "source": "He tried to teach them, but they did not learn as he thought they should."
+    },
+    {
+     "id": "p036.s04",
+     "source": "He quickly became angry and said, \"It is a waste of light for the sun to shine on such stupid people.\""
+    },
+    {
+     "id": "p036.s05",
+     "source": "So he tried to hold his hands between them and the sun, but the rays of the sun were too many and too strong; therefore, he could not shut them out."
+    },
+    {
+     "id": "p036.s06",
+     "source": "Then he tried the moon and managed to make it dark a part of the time each month."
+    },
+    {
+     "id": "p036.s07",
+     "source": "In this way he made a little trouble for the stupid people."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "There are other hints in the legends concerning Maui's desire to be revenged upon any one who incurred his displeasure."
+    },
+    {
+     "id": "p037.s02",
+     "source": "It was said that Maui for a time lived in the heavens above the earth."
+    },
+    {
+     "id": "p037.s03",
+     "source": "Here he had a foster brother Maru."
+    },
+    {
+     "id": "p037.s04",
+     "source": "The two were cultivating the fields."
+    },
+    {
+     "id": "p037.s05",
+     "source": "Maru sent a snowstorm over Maui's field."
+    },
+    {
+     "id": "p037.s06",
+     "source": "(It would seem as if this might be a Polynesian memory of a cold land where their ancestors knew the cold winter, or a lesson learned from the snow-caps of high mountains.)"
+    },
+    {
+     "id": "p037.s07",
+     "source": "At any rate, the snow blighted Maui's crops."
+    },
+    {
+     "id": "p037.s08",
+     "source": "Maui retaliated by praying for rain to destroy Maru's fields."
+    },
+    {
+     "id": "p037.s09",
+     "source": "But Maru managed to save a part of his crops."
+    },
+    {
+     "id": "p037.s10",
+     "source": "Other legends make Maui the aggressor."
+    },
+    {
+     "id": "p037.s11",
+     "source": "At the last, however, Maui became very angry."
+    },
+    {
+     "id": "p037.s12",
+     "source": "The foster parents tried to soothe the two men by saying, \"Live in peace with each other and do not destroy each other's food.\""
+    },
+    {
+     "id": "p037.s13",
+     "source": "But Maui was implacable and lay in wait for his foster brother, who was in the habit of carrying fruit and grass as an offering to the gods of a temple situated on the summit of a hill."
+    },
+    {
+     "id": "p037.s14",
+     "source": "Here Maui killed Maru and then went away to the earth."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "This legend is told by three or four different tribes of New Zealand and is very similar to the Hebrew story of Cain and Abel."
+    },
+    {
+     "id": "p038.s02",
+     "source": "At this late day it is difficult to say definitely whether or not it owes its origin to the early touch of Christianity upon New Zealand when white men first began to live with the natives."
+    },
+    {
+     "id": "p038.s03",
+     "source": "It is somewhat similar to stories found in the Tonga Islands and also in the Hawaiian group, where a son of the first gods, or rather of the first men, kills a brother."
+    },
+    {
+     "id": "p038.s04",
+     "source": "In each case there is the shadow of the Bib lical idea."
+    },
+    {
+     "id": "p038.s05",
+     "source": "It seems safe to infer that such legends are not entirely drawn from contact with Christian civilization."
+    },
+    {
+     "id": "p038.s06",
+     "source": "The natives claim that these stories are very ancient, and that their fathers knew them before the white men sailed on the Pacific."
+    }
+   ],
+   "id": "p038"
+  },
+  {
    "type": "break",
    "segments": [],
-   "id": "p024"
+   "id": "p039"
   }
  ]
 }

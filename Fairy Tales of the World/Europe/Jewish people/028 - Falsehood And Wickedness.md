@@ -4,7 +4,7 @@
 - **Source book:** *Jewish fairy stories*
 - **Author / collector / translator:** Friedlander, Gerald (author, d. 1923)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #72880 — https://www.gutenberg.org/ebooks/72880 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #72880 — https://www.gutenberg.org/ebooks/72880
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

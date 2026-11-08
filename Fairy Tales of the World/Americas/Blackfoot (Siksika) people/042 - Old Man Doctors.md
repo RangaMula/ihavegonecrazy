@@ -4,7 +4,7 @@
 - **Source book:** *Blackfoot Lodge Tales: The Story of a Prairie People*
 - **Author / collector / translator:** Grinnell, George Bird (author, d. 1938)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #11547 — https://www.gutenberg.org/ebooks/11547 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #11547 — https://www.gutenberg.org/ebooks/11547
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

@@ -2,20 +2,20 @@
  "id": "oc-hawaii-native-hawaiian-people-029",
  "title": {
   "id": "title",
-  "source": "Legend Of The Bread-Fruit Tree"
+  "source": "Ancient Hawaiian Religion"
  },
  "tradition": "Hawaii (Native Hawaiian people)",
  "continent": "Oceania",
  "source_lang": "en",
- "source_book": "Legends of Old Honolulu (Mythology)",
- "credits": "Westervelt, W. D. (William Drake) (author, d. 1939)",
- "gutenberg": "Project Gutenberg eBook #66547 — https://www.gutenberg.org/ebooks/66547 (copied via the GITenberg mirror)",
+ "source_book": "The Legends and Myths of Hawaii: The fables and folk-lore of a strange people",
+ "credits": "Kalakaua, David, King of Hawaii (author, d. 1891); Daggett, Rollin Mallory (editor, d. 1901)",
+ "gutenberg": "Project Gutenberg eBook #56597 — https://www.gutenberg.org/ebooks/56597",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/029 - Legend Of The Bread-Fruit Tree.md",
+ "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/029 - Ancient Hawaiian Religion.md",
  "stats": {
-  "paragraphs": 44,
-  "segments": 99,
-  "words": 1686
+  "paragraphs": 86,
+  "segments": 256,
+  "words": 5599
  },
  "paragraphs": [
   {
@@ -23,15 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "T he wonderful bread-fruit tree was a great tree growing on the eastern bank of the rippling brook Puehuehu."
+     "source": "The ancient religion of the Hawaiians, of which the tabu formed an essential feature, was a theocracy of curious structure."
     },
     {
      "id": "p001.s02",
-     "source": "It was a tabu tree, set apart for the high chief from Kou and the chiefs from Honolulu to rest under while on their way to bathe in the celebrated diving-pool Wai-kaha-lulu."
-    },
-    {
-     "id": "p001.s03",
-     "source": "That tree became a god, and this is the story of its transformation:"
+     "source": "It was a system of idolatrous forms and sacrifices engrafted without consistency upon the Jewish story of the creation, the fall of man, the revolt of Lucifer, the Deluge, and the repopulation of the earth."
     }
    ],
    "id": "p001"
@@ -41,11 +37,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Papa and Wakea were the ancestors of the great scattered sea-going and sea-loving people living in all the islands now known as Polynesia."
+     "source": "The legends of the Hawaiians were preserved with marvellous integrity."
     },
     {
      "id": "p002.s02",
-     "source": "They had their home in every group of islands where their descendants could find room to multiply."
+     "source": "Their historians were the priests, who at intervals met in council and recited and compared their genealogical meles , in order that nothing might be either changed or lost."
+    },
+    {
+     "id": "p002.s03",
+     "source": "How did the Hawaiian priesthood become possessed of the story of the Hebrew genesis?"
+    },
+    {
+     "id": "p002.s04",
+     "source": "It was old to them when the Resolution and Discovery dropped their anchors in Kealakeakua Bay; old to them when one or more chance parties of Spanish sailors in the sixteenth century may have looked in upon them for a moment while on their way to the Spice Islands; and it was probably old to them when the Hawaiians found their present home in the sixth century, and when the Polynesians left the coast of Asia four hundred years earlier."
     }
    ],
    "id": "p002"
@@ -55,11 +59,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "They came to the island of Oahu, and, according to almost all the legends, were the first residents."
-    },
-    {
-     "id": "p003.s02",
-     "source": "The story of the magic bread-fruit tree, however, says that Papa sailed from Kahiki (a far-off land) with her husband Wakea, landing on Oahu and finding a home in the mountain upland near the precipice Kilohana."
+     "source": "Ancient Gods."
     }
    ],
    "id": "p003"
@@ -69,15 +69,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Papa was a kupua—a woman having many [ ] wonderful and miraculous powers."
+     "source": "One theory is that the story was acquired through Israelitish contact with the ancestors of the Polynesians while the latter were drifting eastward from the land of their nativity."
     },
     {
      "id": "p004.s02",
-     "source": "She had also several names."
+     "source": "But the more reasonable assumption seems to be that the Hawaiian theogony, so strangely perpetuated, is an independent and perhaps original version of a series of creation legends common in the remote past to the Cushite, Semite and Aryan tribes, and was handed down quite as accurately as the Jewish version before it became fixed in written characters."
     },
     {
      "id": "p004.s03",
-     "source": "Sometimes she was called Haumea, but at last she left her power and a new name, Ka-meha-i-kana, in the magic bread-fruit tree."
+     "source": "In fact, in some respects the Hawaiian seems to be more complete than the Jewish version."
     }
    ],
    "id": "p004"
@@ -87,19 +87,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Papa was a beautiful woman, whose skin shone like polished dark ivory through the flowers and vines and leaves which were the only clothes she knew."
+     "source": "From the beginning, according to Hawaiian story, a trinity of gods existed, who were the sole and all-pervading intelligences of chaos, or night—a condition represented by the Hawaiian word Po ."
     },
     {
      "id": "p005.s02",
-     "source": "Where she and her husband had settled down they found a fruitful country—with bananas and sugar-cane and taro."
-    },
-    {
-     "id": "p005.s03",
-     "source": "They built a house on the mountain ridge and feasted on the abundance of food around them."
-    },
-    {
-     "id": "p005.s04",
-     "source": "Here they rested well protected when rains were falling or the hot sun was shining."
+     "source": "These gods were:"
     }
    ],
    "id": "p005"
@@ -109,19 +101,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Papa day by day looked over the seacoast which stretches away in miles of marvellous beauty below the precipices of the northern mountain range of the island Oahu."
-    },
-    {
-     "id": "p006.s02",
-     "source": "Clear, deep pools, well filled with most delicate fish, lay restfully among moss-covered projections of the bordering coral reef."
-    },
-    {
-     "id": "p006.s03",
-     "source": "The restless murmur of surf waves beating in and out through the broken lines of the reef called to her, so, catching up some long leaves of the hala-tree, she made a light basket and hurried down to the sea."
-    },
-    {
-     "id": "p006.s04",
-     "source": "In a little while she had gathered sea-moss and caught all the crabs she wished to take home. [ ]"
+     "source": "Kane , the originator;"
     }
    ],
    "id": "p006"
@@ -131,11 +111,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "She turned toward the mountain range and carried her burden to Hoakola, where there was a spring of beautiful clear, cold, fresh water."
-    },
-    {
-     "id": "p007.s02",
-     "source": "She laid down her moss and crabs to wash them clean."
+     "source": "Ku , the architect and builder; and"
     }
    ],
    "id": "p007"
@@ -145,23 +121,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "She looked up, and on the mountain-side discerned there something strange."
-    },
-    {
-     "id": "p008.s02",
-     "source": "She saw her husband in the hands of men who had captured and bound him and were compelling him to walk down the opposite side of the range."
-    },
-    {
-     "id": "p008.s03",
-     "source": "Her heart leaped with fear and anguish."
-    },
-    {
-     "id": "p008.s04",
-     "source": "She forgot her crabs and moss and ran up the steep way to her home."
-    },
-    {
-     "id": "p008.s05",
-     "source": "The moss rooted itself by the spring, but the crabs escaped to the sea."
+     "source": "Lono , the executor and director of the elements."
     }
    ],
    "id": "p008"
@@ -171,19 +131,15 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "On the Honolulu side of the mountains were many chiefs and their people, living among whom was Lele-hoo-mao, the ruler, whose fields were often despoiled by Papa and her husband."
+     "source": "By the united will of Hikapoloa , or the trinity, light was brought into chaos."
     },
     {
      "id": "p009.s02",
-     "source": "It was his servants who while searching the country around these fields, had found and captured Wakea."
+     "source": "They next created the heavens, three in number, as their dwelling-places, and then the earth, sun, moon and stars."
     },
     {
      "id": "p009.s03",
-     "source": "They were forcing him to the temple Pakaka to be there offered in sacrifice."
-    },
-    {
-     "id": "p009.s04",
-     "source": "They were shouting, “We have found the mischief-maker and have tied him.”"
+     "source": "From their spittle they next created a host of angels to minister to their wants."
     }
    ],
    "id": "p009"
@@ -193,7 +149,27 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Papa threw around her some of the vines which she had fashioned into a skirt, and ran over the hills to the edge of Nuuanu Valley."
+     "source": "Finally, man was created."
+    },
+    {
+     "id": "p010.s02",
+     "source": "His body was formed of red earth mingled with the spittle of Kane , and his head of whitish clay brought by Lono from the four quarters of the earth."
+    },
+    {
+     "id": "p010.s03",
+     "source": "The meaning of Adam is red, and it will be remarked that the Hawaiian Adam was made of earth of that color."
+    },
+    {
+     "id": "p010.s04",
+     "source": "He was made in the image of Kane , who breathed into his nostrils, and he became alive."
+    },
+    {
+     "id": "p010.s05",
+     "source": "Afterwards, from one of his ribs, taken from his side while he slept, a woman was created."
+    },
+    {
+     "id": "p010.s06",
+     "source": "The man was called Kumu-honua , and the woman Ke-ola-ku-honua ."
     }
    ],
    "id": "p010"
@@ -203,7 +179,23 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "BREADFRUIT-TREES"
+     "source": "The newly-created pair were placed in a beautiful paradise called Paliuli ."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Three rivers of “the waters of life” ran through it, on the banks of which grew every inviting fruit, including the “ tabued bread-fruit tree” and “sacred apple-tree,” with which are connected the fall and expulsion of the man and woman from their earthly paradise."
+    },
+    {
+     "id": "p011.s03",
+     "source": "The three rivers had their source in a beautiful lake, fed by “the living waters of Kane .”"
+    },
+    {
+     "id": "p011.s04",
+     "source": "The waters were filled with fish which fire could not destroy, and on being sprinkled with them the dead were restored to life."
+    },
+    {
+     "id": "p011.s05",
+     "source": "Legends relate instances in which these waters were procured, through the favor of the gods, for the restoration to life of distinguished mortals."
     }
    ],
    "id": "p011"
@@ -213,11 +205,7 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Peering down the valley she saw her husband and his captors, and cautiously she descended. [ ] She found a man by the side of the stream Puehuehu, who said to her: “A man has been carried by who is to be baked in an oven this day."
-    },
-    {
-     "id": "p012.s02",
-     "source": "The fire is burning in the valley below.”"
+     "source": "As a specimen of the chants perpetuating these traditions and embellishing the plainer prose recitals, the following extract relating to the creation is given:"
     }
    ],
    "id": "p012"
@@ -227,7 +215,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Papa said, “Give me water to drink.”"
+     "source": "“Kane of the great Night,"
     }
    ],
    "id": "p013"
@@ -237,7 +225,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "The man said, “I have none.”"
+     "source": "Ku and Lono of the great Night,"
     }
    ],
    "id": "p014"
@@ -247,23 +235,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Then Papa took a stone and smashed it against the ground."
-    },
-    {
-     "id": "p015.s02",
-     "source": "It broke through into a pool of water."
-    },
-    {
-     "id": "p015.s03",
-     "source": "She drank and hastened on to the bread-fruit tree at Nini, where she overtook her husband and the men who guarded him."
-    },
-    {
-     "id": "p015.s04",
-     "source": "He was alive, his hands bound behind him and his leaf clothing torn from his body."
-    },
-    {
-     "id": "p015.s05",
-     "source": "Wailing and crying that she must kiss him, she rushed to him and began pushing and pulling him, whirling him around and around."
+     "source": "Hika-po-loa the king."
     }
    ],
    "id": "p015"
@@ -273,11 +245,7 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Suddenly the great bread-fruit tree opened and she leaped with him through the doorway into the heart of the tree."
-    },
-    {
-     "id": "p016.s02",
-     "source": "The opening closed in a moment."
+     "source": "The tabued Night that is set apart,"
     }
    ],
    "id": "p016"
@@ -287,11 +255,7 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Papa, by her miraculous power, opened the tree on the other side."
-    },
-    {
-     "id": "p017.s02",
-     "source": "They passed through and went rapidly up the mountain-side to their home, which was near the head of Kalihi Valley."
+     "source": "The poisonous Night,"
     }
    ],
    "id": "p017"
@@ -301,31 +265,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "As they ran Papa threw off her vine pa-u, or skirt."
-    },
-    {
-     "id": "p018.s02",
-     "source": "The vine became the beautiful morning-glory, delicate in blossom and powerful in medicinal qualities."
-    },
-    {
-     "id": "p018.s03",
-     "source": "The astonished men had lost their captive."
-    },
-    {
-     "id": "p018.s04",
-     "source": "According to the ancient Hawaiian [ ] proverb, “Their fence was around the field of nothingness.”"
-    },
-    {
-     "id": "p018.s05",
-     "source": "They pushed against the tree, but the opening was tightly closed."
-    },
-    {
-     "id": "p018.s06",
-     "source": "They ran around under the heavy-leaved branches and found nothing."
-    },
-    {
-     "id": "p018.s07",
-     "source": "They believed that the great tree held their captive in its magic power."
+     "source": "The barren, desolate Night,"
     }
    ],
    "id": "p018"
@@ -335,7 +275,7 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Quickly ran the messenger to their high chief, Lele-hoo-mao, to tell him about the trouble at the tabu bread-fruit tree at Nini and that the sacrifice for which the oven was being heated was lost."
+     "source": "The continual darkness of midnight,"
     }
    ],
    "id": "p019"
@@ -345,11 +285,7 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "The chiefs consulted together and decided to cut down that tree and take the captive out of his hiding-place."
-    },
-    {
-     "id": "p020.s02",
-     "source": "They sent tree-cutters with their stone axes."
+     "source": "The Night, the reviler."
     }
    ],
    "id": "p020"
@@ -359,11 +295,7 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "The leader of the tree-cutters struck the tree with his stone axe."
-    },
-    {
-     "id": "p021.s02",
-     "source": "A chip leaped from the tree, struck him, and he fell dead."
+     "source": "O Kane, O Ku-ka-pao,"
     }
    ],
    "id": "p021"
@@ -373,11 +305,7 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "Another caught the axe."
-    },
-    {
-     "id": "p022.s02",
-     "source": "Again chips flew and the workman fell dead."
+     "source": "And great Lono dwelling in the water,"
     }
    ],
    "id": "p022"
@@ -387,7 +315,7 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Then all the cutters struck and gashed the tree."
+     "source": "Brought forth are Heaven and Earth,"
     }
    ],
    "id": "p023"
@@ -397,11 +325,7 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "Whenever a chip hit any one he died, and the sap of the tree flowed out and was spattered under the blows of the stone axes."
-    },
-    {
-     "id": "p024.s02",
-     "source": "Whenever a drop touched a workman or a bystander he fell dead."
+     "source": "Quickened, increased, moving,"
     }
    ],
    "id": "p024"
@@ -411,7 +335,7 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "The people were filled with fear and cried to their priest for help. [ ]"
+     "source": "Raised up into Continents."
     }
    ],
    "id": "p025"
@@ -421,23 +345,7 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "Wohi, the priest, came to the tree, bowed before it, and remained in silent thought a long time."
-    },
-    {
-     "id": "p026.s02",
-     "source": "Then he raised his head and said: “It was not a woman who went into that tree."
-    },
-    {
-     "id": "p026.s03",
-     "source": "It was Papa from Kahiki."
-    },
-    {
-     "id": "p026.s04",
-     "source": "She is a goddess and has a multitude of bodies."
-    },
-    {
-     "id": "p026.s05",
-     "source": "If we treat her well we shall not be destroyed.”"
+     "source": "Kane, Lord of Night, Lord the Father,"
     }
    ],
    "id": "p026"
@@ -447,23 +355,7 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "Wohi commanded the people to offer sacrifices at the foot of the tree."
-    },
-    {
-     "id": "p027.s02",
-     "source": "This was done with prayers and incantations."
-    },
-    {
-     "id": "p027.s03",
-     "source": "A black pig, black awa and red fish were offered to Papa."
-    },
-    {
-     "id": "p027.s04",
-     "source": "Then Wohi commanded the wood-cutters to rub themselves bountifully with coconut oil and go fearlessly to their work."
-    },
-    {
-     "id": "p027.s05",
-     "source": "Chips struck them and the sap of the tree was spattered over them, but they toiled on unhurt until the great tree fell."
+     "source": "Ku-ka-pao, in the hot heavens,"
     }
    ],
    "id": "p027"
@@ -473,15 +365,7 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "Out of this magic bread-fruit tree a great goddess was made."
-    },
-    {
-     "id": "p028.s02",
-     "source": "Papa gave to it one of her names, Ka-meha-i-kana, and endowed it with power so that it was noted from Kauai to Hawaii."
-    },
-    {
-     "id": "p028.s03",
-     "source": "It became one of the great gods of Oahu, but was taken to Maui, where Kamehameha secured it as his god to aid in establishing his rule over all the islands."
+     "source": "Great Lono with the flashing eyes,"
     }
    ],
    "id": "p028"
@@ -491,7 +375,7 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "The peculiar divine gift supposed to reside in this image made from the wonderful bread-fruit tree was the ability to aid worshippers in winning land and power from other people [ ] and wisely employing the best means of firmly establishing their own government, thus protecting and preserving the kingdom."
+     "source": "Lightning-like has the Lord"
     }
    ],
    "id": "p029"
@@ -501,7 +385,7 @@
    "segments": [
     {
      "id": "p030.s01",
-     "source": "Papa dwelt above the Kalihi Valley and looked down over the plains of Honolulu and Ewa covered with well-watered growing plants which gave food or shade to the multiplying people."
+     "source": "Established in truth, O Kane, master-worker;"
     }
    ],
    "id": "p030"
@@ -511,19 +395,7 @@
    "segments": [
     {
      "id": "p031.s01",
-     "source": "It is said that after a time she had a daughter, Kapo, who also had kupua, or magic power."
-    },
-    {
-     "id": "p031.s02",
-     "source": "Kapo had many names, such as Kapo-ula-kinau and Laka."
-    },
-    {
-     "id": "p031.s03",
-     "source": "She was a high tabu goddess of the ancient Hawaiian hulas, or dances."
-    },
-    {
-     "id": "p031.s04",
-     "source": "She had also the power of assuming many bodies at will and could appear in any form from the mo-o, or lizard, to a human being."
+     "source": "The Lord creator of mankind:"
     }
    ],
    "id": "p031"
@@ -533,11 +405,7 @@
    "segments": [
     {
      "id": "p032.s01",
-     "source": "Note : Kapo is the name of a place and of a wonderful stone with a “front like the front of a house and a back like the tail of a fish.”"
-    },
-    {
-     "id": "p032.s02",
-     "source": "The legends of sixty years ago say that Kapo still [ ] stood in that place as one of the guardians of Kalihi Valley."
+     "source": "Start, work, bring forth the chief Kumu-honua,"
     }
    ],
    "id": "p032"
@@ -547,7 +415,7 @@
    "segments": [
     {
      "id": "p033.s01",
-     "source": "Kapo was born from the eyes of Haumea, or Papa."
+     "source": "And Ola-ku-honua, the woman;"
     }
    ],
    "id": "p033"
@@ -557,19 +425,7 @@
    "segments": [
     {
      "id": "p034.s01",
-     "source": "Papa looked away from Kapo and there was born from her head a sharp pali, or precipice, often mist-covered; this was Ka-moho-alii."
-    },
-    {
-     "id": "p034.s02",
-     "source": "Then Pele was born."
-    },
-    {
-     "id": "p034.s03",
-     "source": "She was the one who had mighty battles with Kamapuaa, the pig-man, who almost destroyed the volcano Kilauea."
-    },
-    {
-     "id": "p034.s04",
-     "source": "It was Ka-moho-alii who rubbed sticks and rekindled the volcanic fires for his sister Pele, thus driving Kamapuaa down the sides of Kilauea into the ocean."
+     "source": "Dwelling together are they two."
     }
    ],
    "id": "p034"
@@ -579,7 +435,7 @@
    "segments": [
     {
      "id": "p035.s01",
-     "source": "These three, according to the Honolulu legends, were the highest-born children of Papa and Wakea."
+     "source": "Dwelling in marriage (is she) with the husband, the brother.”"
     }
    ],
    "id": "p035"
@@ -589,11 +445,35 @@
    "segments": [
     {
      "id": "p036.s01",
-     "source": "Down the Kalihi stream below Papa’s home were two stones to which the Hawaiians gave eepa, or gnomelike, power."
+     "source": "Among the angels created was Kanaloa , the Hawaiian Lucifer, who incited a rebellion in heaven, with the results, strangely enough, related in immortal song by Milton."
     },
     {
      "id": "p036.s02",
-     "source": "If any traveller passes these stones on his way up to Papa’s resting-place, that wayfarer stops by these stones, gathers leaves and makes leis, or garlands, and places them on these stones, that there may be no trouble in all that day’s wanderings."
+     "source": "When man was created, Kanaloa demanded his adoration."
+    },
+    {
+     "id": "p036.s03",
+     "source": "This was refused by Kane , as angels and man were alike the creations of Deity, whereupon Kanaloa ambitiously resolved to create a man of his own who would worship him."
+    },
+    {
+     "id": "p036.s04",
+     "source": "Kane allowed him to proceed with his seditious work."
+    },
+    {
+     "id": "p036.s05",
+     "source": "He made a man in the exact image of Kumu-honua , but could not give it life."
+    },
+    {
+     "id": "p036.s06",
+     "source": "He breathed into its nostrils, but it would not rise; he called to it, but it would not speak."
+    },
+    {
+     "id": "p036.s07",
+     "source": "This exasperated him, and he determined to destroy the man made by the gods."
+    },
+    {
+     "id": "p036.s08",
+     "source": "He therefore crept into Paliuli in the form of a moo , or lizard, and, through some deception not definitely stated by tradition, Kumu-honua and his mate committed some offence for which they were driven from paradise by the “large, white bird of Kane .”"
     }
    ],
    "id": "p036"
@@ -603,11 +483,15 @@
    "segments": [
     {
      "id": "p037.s01",
-     "source": "Sometimes mischievous people dip branches from lehua-trees in water and sprinkle the eepa rocks; then woe to the traveller, for piercing [ ] rains are supposed to fall."
+     "source": "Kumu-honua had three sons, the second of whom was slain by the first."
     },
     {
      "id": "p037.s02",
-     "source": "From this comes the proverb belonging to the residents of Kalihi Valley, “Here is the sharp-headed rain of Kalihi” (“ Ka ua poo lipilipi o Kalihi ”)."
+     "source": "The name of the Hawaiian Cain is Laka ."
+    },
+    {
+     "id": "p037.s03",
+     "source": "Ka Pili was the youngest son, and thirteen generations are named between him and the Deluge, whereas the Hebrew version records but ten on the corresponding line of Seth."
     }
    ],
    "id": "p037"
@@ -617,7 +501,27 @@
    "segments": [
     {
      "id": "p038.s01",
-     "source": "BREAD FRUIT."
+     "source": "The Hawaiian Noah is called Nuu ."
+    },
+    {
+     "id": "p038.s02",
+     "source": "At the command of the gods he constructed an ark, and entered it with his wife and three sons, and a male and female of every breathing thing."
+    },
+    {
+     "id": "p038.s03",
+     "source": "The waters came and covered the earth."
+    },
+    {
+     "id": "p038.s04",
+     "source": "When they subsided the gods entered the ark, which was resting on a mountain overlooking a beautiful valley, and commanded Nuu to go forth with all of life that the ark contained."
+    },
+    {
+     "id": "p038.s05",
+     "source": "In gratitude for his deliverance Nuu offered a sacrifice to the moon, mistaking it for Kane ."
+    },
+    {
+     "id": "p038.s06",
+     "source": "Descending on a rainbow, that deity reproved his thoughtlessness, but left the bow as a perpetual token of his forgiveness."
     }
    ],
    "id": "p038"
@@ -627,14 +531,31 @@
    "segments": [
     {
      "id": "p039.s01",
-     "source": "[ ]"
+     "source": "Continuing the genealogical record, ten generations are given between Nuu and Ku Pule , who “removed to a southern country,” taking with him as a wife his slave-woman Ahu ."
+    },
+    {
+     "id": "p039.s02",
+     "source": "So was it with Abraham."
+    },
+    {
+     "id": "p039.s03",
+     "source": "Ku Pule established the practice of circumcision, and was the grandfather of Kini-lau-a-mano , whose twelve children became the founders of twelve tribes, from one of which—the Menehune —the Hawaiians are made to descend."
     }
    ],
    "id": "p039"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "A story similar to that of Joseph is also given, and mention is made of the subsequent return of the Menehune people to the land set apart for their occupation by Kane ."
+    },
+    {
+     "id": "p040.s02",
+     "source": "Two brothers led them over deserts and through waters, and after many tribulations they reached their destination."
+    }
+   ],
    "id": "p040"
   },
   {
@@ -642,7 +563,7 @@
    "segments": [
     {
      "id": "p041.s01",
-     "source": "Ulu— Artocarpus incisa . ↑"
+     "source": "This would seem to imply that the Menehune people were one of the tribes of Israel; yet it is more probable that they had their origin in some one of the other twelveships into which the early Asiatic tribes were in many instances divided, and that the stories of Joseph and the Exodus became a part of their folk-lore through contact with other races."
     }
    ],
    "id": "p041"
@@ -652,7 +573,15 @@
    "segments": [
     {
      "id": "p042.s01",
-     "source": "Near Nuuanu Street Bridge. ↑"
+     "source": "The genealogical line from the Hawaiian Adam to the grandson of Ku Pule —that is, until the time of Jacob—has been brought down through three distinct traditional channels."
+    },
+    {
+     "id": "p042.s02",
+     "source": "The agreement of the several versions is remarkable, but the one brought to the islands by the high-priest Paao in the eleventh century, and retained by his ecclesiastical successors, is regarded as the most authentic."
+    },
+    {
+     "id": "p042.s03",
+     "source": "It was an heirloom of the priesthood, and was never communicated beyond the walls of the temples."
     }
    ],
    "id": "p042"
@@ -662,7 +591,11 @@
    "segments": [
     {
      "id": "p043.s01",
-     "source": "Colocasia antiquorum. ↑"
+     "source": "With the settlement of the Menehune people in the land set apart for them by Kane , the Hawaiian legends cease to remind us of the later history of the Hebrews."
+    },
+    {
+     "id": "p043.s02",
+     "source": "There the similarity of historic incident abruptly ends, and, with an uncertain stride of twelve or thirteen generations, the chiefly line is brought down to Wakea and his wife Papa , mythical rulers of superhuman attributes, who must have existed before the Polynesians left the Asiatic coast, although in some legends they are connected not only with the first settlement of the Hawaiian archipelago, but with the creation of its islands."
     }
    ],
    "id": "p043"
@@ -672,10 +605,958 @@
    "segments": [
     {
      "id": "p044.s01",
-     "source": "The Pakaka temple through its hundreds of years of existence received from time to time human sacrifice. ↑"
+     "source": "A few of the many legends relating to the creation and first settlement of the islands will be noted."
+    },
+    {
+     "id": "p044.s02",
+     "source": "One of them in substance is that Hawaii-loa , a distinguished chief, and fourth in generation from Kini-lau-a-mano , sailed westward, and, guided by the Pleiades, discovered the Hawaiian group."
+    },
+    {
+     "id": "p044.s03",
+     "source": "He gave to the largest island his own name, and to the others the names of his children."
     }
    ],
    "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "Another tradition refers to Papa , the wife of Wakea , as a tabued descendant of Hawaii-loa , and superior in caste to her husband."
+    },
+    {
+     "id": "p045.s02",
+     "source": "Mutual jealousies embittered their lives and led to strange events."
+    },
+    {
+     "id": "p045.s03",
+     "source": "Wakea found favor with the beautiful Hina , and the island of Molokai was born of their embrace."
+    },
+    {
+     "id": "p045.s04",
+     "source": "In retaliation Papa smiled upon the warrior Lua , and the fruit of their meeting was the fair island of Oahu."
+    },
+    {
+     "id": "p045.s05",
+     "source": "Hence the old names of Molokai-Hina and Oahu-a-Lua ."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "Quite as fanciful a legend relates that an immense bird laid an egg on the waters of the ocean."
+    },
+    {
+     "id": "p046.s02",
+     "source": "It was hatched by the warm winds of the tropics, and the Hawaiian group came into being."
+    },
+    {
+     "id": "p046.s03",
+     "source": "Shortly after a man and woman, with a pair each of dogs, hogs and fowls, came in a canoe from Kahiki, landed on the eastern coast of Hawaii, and became the progenitors of the Hawaiian people."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "Fifty-six generations are mentioned from Wakea to the present ruling family."
+    },
+    {
+     "id": "p047.s02",
+     "source": "The legends of the twenty-nine generations covering the period between Wakea and Maweke—which brings the record down to the eleventh century, when the second migratory influx from the southern islands occurred—abound in wars, rebellions and popular movements, in which giants, demi-gods, and even the gods themselves took part; and it was doubtless during that period that the idolatrous forms and practices of the Hawaiian religion, as it existed a century ago, were engrafted upon an older and simpler creed confined to the worship of the godhead."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "When the high-priest Paao arrived with Pili he introduced some new gods while recognizing the old, strengthened and enlarged the scope of the tabu , and established an hereditary priesthood independent of, and second only in authority to, the supreme political head."
+    },
+    {
+     "id": "p048.s02",
+     "source": "Different grades of priests also came into existence, such as seers, prophets, astrologers and kahunas of various function, including the power of healing and destroying."
+    },
+    {
+     "id": "p048.s03",
+     "source": "In fact, the priesthood embraced ten distinct grades or colleges, each possessing and exercising powers peculiar to it, and the mastery of all of them was one of the qualifications of the high-priesthood."
+    },
+    {
+     "id": "p048.s04",
+     "source": "The tutelar deity of the entire body was Uli ."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "The form of the heiau , or temple, was changed by Paao and his successors, and the masses mingled less freely in the ceremonies of sacrifice and other forms of worship."
+    },
+    {
+     "id": "p049.s02",
+     "source": "The high-priesthood became more mysterious and exclusive, and assumed prerogatives above the reach of royalty."
+    },
+    {
+     "id": "p049.s03",
+     "source": "The old Hawaiian trinity— Kane , Ku and Lono —remained the supreme gods of the pantheon, but Kanaloa , the spirit of evil, was accorded beneficent attributes and exalted among them."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "The regions of Po , or death, were presided over by Milu , a wicked king who once ruled on earth, while the spirits of favorite chiefs were conveyed by the divine messenger Kuahairo to the presence of Kaono-hio-kala , whose beatific abode was somewhere in the heavens."
+    },
+    {
+     "id": "p050.s02",
+     "source": "Another belief was that the ruler of Po was Manua , and that Milu did not follow Akea , the first king of Hawaii, to that place, but dwelt in a region far westward and beneath the sea."
+    },
+    {
+     "id": "p050.s03",
+     "source": "Although significant of darkness, Po was not without light."
+    },
+    {
+     "id": "p050.s04",
+     "source": "Like Tartarus, it could be visited by favored mortals, and the dead were sometimes brought back from it to earth."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "Pele , the dreadful goddess of the volcanoes, with her malignant relatives, was added to the Hawaiian deities during the second influx from the south, and temples were erected to her worship all over the volcanic districts of Hawaii."
+    },
+    {
+     "id": "p051.s02",
+     "source": "At that period were also introduced Laamaomao , the god of the winds, the poison goddesses Kalaipahoa and Kapo , and many other deities."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "But the worship of the Hawaiians was not confined to Kane , Ku , Lono and Pele ."
+    },
+    {
+     "id": "p052.s02",
+     "source": "Heiaus were erected to the war-gods of the kings, and great sacrifices were frequently made to them, generally of human beings, preceding, during, and following campaigns and battles."
+    },
+    {
+     "id": "p052.s03",
+     "source": "Humbler temples were also maintained to fish, shark, lizard and other gods, where sacrifices of fish and fruits were offered."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "To the superstitious masses the land abounded in gnomes and fairies, and the waters in nymphs and monsters, whose caprices are themes of a bountiful store of folk-lore."
+    },
+    {
+     "id": "p053.s02",
+     "source": "With almost every stream, gorge and headland is connected some supernatural story, and the bards and musicians of old earned an easy support by keeping alive these legends of the people."
+    },
+    {
+     "id": "p053.s03",
+     "source": "To some supernatural powers were given, and malignant and beneficent spirits assumed human forms and flitted among the palms in the guise of birds."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "Ku-Kaili-Moku, the War-God of Kamehameha I."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "The people made their own household gods, and destroyed them when they failed to contribute to their success."
+    },
+    {
+     "id": "p055.s02",
+     "source": "For example, at Ninole, on the southeast coast of Hawaii, is a small beach called Kaloa, the stones of which, it was thought, propagated by contact with each other."
+    },
+    {
+     "id": "p055.s03",
+     "source": "From the large stones the people made gods to preside over their games."
+    },
+    {
+     "id": "p055.s04",
+     "source": "When a stone was selected for a god it was taken to the heiau , where certain ceremonies were performed over it."
+    },
+    {
+     "id": "p055.s05",
+     "source": "It was then dressed and taken to witness some game or pastime."
+    },
+    {
+     "id": "p055.s06",
+     "source": "If the owner was successful it was accepted as a god; if unsuccessful more than once or twice, it was thrown away or wrought into an axe or adze."
+    },
+    {
+     "id": "p055.s07",
+     "source": "Sometimes a stone of each sex was selected, wrapped in kapa , and laid away."
+    },
+    {
+     "id": "p055.s08",
+     "source": "In time a small pebble was found with them."
+    },
+    {
+     "id": "p055.s09",
+     "source": "It increased in size, and was finally taken to the heiau and formally made into a god."
+    },
+    {
+     "id": "p055.s10",
+     "source": "Such is the story that is still told."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "The people believed that the spirits of the departed continued to hover around their earthly homes, and the shades of their ancestors were appealed to in prayer."
+    },
+    {
+     "id": "p056.s02",
+     "source": "The owl and a bird called the alae were regarded as gods, and scores of other deities, controlling the elements or presiding over the several industries and amusements of the masses, were recognized and placated with sacrifices when in unfavorable moods."
+    },
+    {
+     "id": "p056.s03",
+     "source": "They had a god of the winds, of the husbandman, the warrior, the canoe-maker, the hula dancer, the distiller, the orator, the doctor and the sorcerer, and many gods of the sailor and the fisherman."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "The services of the high-priest did not extend to these popular deities on any of the islands of the group."
+    },
+    {
+     "id": "p057.s02",
+     "source": "The heiaus over which he presided were dedicated either to the higher gods of the pantheon or to the war-god of the king or supreme chief."
+    },
+    {
+     "id": "p057.s03",
+     "source": "He was next to the king in authority, and always of distinguished blood."
+    },
+    {
+     "id": "p057.s04",
+     "source": "Surrounded by seers, prophets and assistants, and claiming to hold direct intercourse with the gods, he was consulted on all matters of state consequence, and the auguries of the temple were always accepted with respect and confidence."
+    },
+    {
+     "id": "p057.s05",
+     "source": "The high-priest sometimes had charge of the war-god of the king, and in such cases went with it to the field of battle."
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "Hua, one of the ancient kings of Maui, defied the priesthood and slew his high-priest."
+    },
+    {
+     "id": "p058.s02",
+     "source": "As a warning to ruling chiefs, the story of the consequences of Hua’s madness has come down with great conciseness through the chroniclers of the priesthood."
+    },
+    {
+     "id": "p058.s03",
+     "source": "Hua’s kingdom became a desolation."
+    },
+    {
+     "id": "p058.s04",
+     "source": "Wherever he traveled all vegetation perished, and he finally died of famine on Hawaii, and his bones were left to whiten in the sun."
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "There were several classes of priests, or kahunas , beside those who were connected with the temples."
+    },
+    {
+     "id": "p059.s02",
+     "source": "They were seers, doctors and dealers in enchantment, and subsisted by preying upon the people through their superstitions."
+    },
+    {
+     "id": "p059.s03",
+     "source": "All physical illness was attributed either to the anger of the gods, witchcraft, or the prayers of a malignant kahuna ."
+    },
+    {
+     "id": "p059.s04",
+     "source": "The afflicted person usually sent for a kahuna , whose first business was to discover the cause of the malady through incantation."
+    },
+    {
+     "id": "p059.s05",
+     "source": "This ascertained, an effort was made to counteract the spells or prayers which were wearing away the life of the patient, and sometimes with so great success that the affliction was transferred to the party whose malice had invoked it."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "The belief that one person might be prayed to death by another was universal with the ancient Hawaiians, and not a few of the race would turn pale to-day if told that one of priestly strain was earnestly praying for his death."
+    },
+    {
+     "id": "p060.s02",
+     "source": "In praying a person to death it was essential that the kahuna should possess something closely connected with the person of the victim—a lock of his hair, a tooth, a nail-paring, or a small quantity of his spittle, for example; hence the office of spittoon-bearer to the ancient kings was entrusted only to chiefs of some rank, who might be expected to guard with care the royal expectoration."
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "The belief was general that the spirits of the dead might be seen and conversed with by the kilos , or sorcerers, and the spirits of the living, it was claimed, were sometimes invoked from their slumbering tabernacles by priests of exceptional sanctity."
+    },
+    {
+     "id": "p061.s02",
+     "source": "The spirit of the dead was called unihipili , while the disembodied and visible spirit of a living person was known as kahoaka ."
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "Of all the deities Pele was held in greatest dread on the island of Hawaii, where volcanic irruptions were frequent."
+    },
+    {
+     "id": "p062.s02",
+     "source": "With her five brothers and eight sisters—all representing different elemental forces—she dwelt in state in the fiery abysses of the volcanoes, moving from one to another at her pleasure, and visiting with inundations of lava such districts as neglected to cast into the craters proper offerings of meats and fruits, or angered her in other respects."
+    },
+    {
+     "id": "p062.s03",
+     "source": "One of her forms was that of a beautiful woman, in which she sometimes sought human society, and numerous legends of her affairs of love have been preserved."
+    },
+    {
+     "id": "p062.s04",
+     "source": "She was regarded as the special friend of Kamehameha I., and the suffocation of a portion of the army of Keoua, near the crater of Kilauea, in 1791, was credited directly to her."
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "The last public recognition of the powers of Pele occurred as late as 1882 on the island of Hawaii."
+    },
+    {
+     "id": "p063.s02",
+     "source": "The village of Hilo was threatened."
+    },
+    {
+     "id": "p063.s03",
+     "source": "A broad stream of lava from Mauna Loa, after a devastating journey of twenty-five miles or more, reached a point in its downward course within a mile or two of the bay of Hilo."
+    },
+    {
+     "id": "p063.s04",
+     "source": "Its movement was slow, like that of all lava-streams some distance from their source, but its steadily approaching line of fire rendered it almost certain that the village, and perhaps the harbor, of Hilo would be destroyed within a very few days."
+    },
+    {
+     "id": "p063.s05",
+     "source": "Trenches were digged, walls were raised, and prayers were offered, but all to no purpose."
+    },
+    {
+     "id": "p063.s06",
+     "source": "Downward moved the awful avalanche of fire."
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "Ruth, a surviving sister of the fourth and fifth Kamehamehas, was then living in Honolulu."
+    },
+    {
+     "id": "p064.s02",
+     "source": "She was a proud, stern old chiefess, who thought too little of the whites to attempt to acquire their language."
+    },
+    {
+     "id": "p064.s03",
+     "source": "The danger threatening Hilo was reported to her."
+    },
+    {
+     "id": "p064.s04",
+     "source": "“I will save the fish-ponds of Hilo,” said the old chiefess. “ Pele will not refuse to listen to the prayer of a Kamehameha.”"
+    },
+    {
+     "id": "p064.s05",
+     "source": "She chartered a steamer, left Honolulu for Hilo with a large number of attendants, and the next day stood facing the still moving flow of lava."
+    },
+    {
+     "id": "p064.s06",
+     "source": "Ascending an elevation immediately back of the village, she caused to be erected there a rude altar, before which she made her supplications to Pele , with offerings fed to the front of the advancing lava."
+    },
+    {
+     "id": "p064.s07",
+     "source": "This done, she descended the hill with confidence and returned to Honolulu."
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "The stream of fire ceased to move, and to-day its glistening front stands like a wall around Hilo."
+    },
+    {
+     "id": "p065.s02",
+     "source": "“A remarkable coincidence,” explained the whites."
+    },
+    {
+     "id": "p065.s03",
+     "source": "“The work of Pele ,” whispered the natives, although the last of the temples of that goddess had been destroyed sixty years before."
+    },
+    {
+     "id": "p065.s04",
+     "source": "Without discussing the cause—a natural one beyond a doubt—it may be remarked that the result has been something of a renewal with the natives of faith in the discarded gods of their fathers."
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "All of the minor gods of the Hawaiians seem to have been independent and self-controlling."
+    },
+    {
+     "id": "p066.s02",
+     "source": "It is not claimed that they derived their powers from, were directed by, or were responsible to the supreme godhead."
+    },
+    {
+     "id": "p066.s03",
+     "source": "Hence the mythology of the Polynesians, strong though it be in individual powers and personations of the forces and achievements of nature, presents itself to us in a fragmentary form, like an incongruous patchwork of two or more half-developed or half-forgotten religious systems."
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "Kalaipahoa, Poison War-Goddess of Molokai."
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "One of the most noted of the independent deities of the group was Kalaipahoa , the poison-goddess of Molokai."
+    },
+    {
+     "id": "p068.s02",
+     "source": "Some centuries back she came to the islands, with two or three of her sisters, from an unknown land, and left her mark in many localities."
+    },
+    {
+     "id": "p068.s03",
+     "source": "She entered a grove of trees on the island of Molokai, and left in them a poison so intense that birds fell dead in flying over their branches."
+    },
+    {
+     "id": "p068.s04",
+     "source": "The king of the island was advised by his high-priest to have a god hewn from one of the poisoned trees."
+    },
+    {
+     "id": "p068.s05",
+     "source": "Hundreds of his subjects perished in the undertaking, but the image was finally finished and presented to the king, wrapped in many folds of kapa ."
+    },
+    {
+     "id": "p068.s06",
+     "source": "It came down the generations an object of fear, and was finally seized by the first Kamehameha, and at his death divided among his principal chiefs."
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "Kuula was the principal god of the fishermen on all the islands of the group."
+    },
+    {
+     "id": "p069.s02",
+     "source": "Rude temples were erected to him on the shores of favorite fishing-grounds, and the first fish of every catch was his due."
+    },
+    {
+     "id": "p069.s03",
+     "source": "His wife was Hina , and she was appealed to when her husband withheld his favors."
+    },
+    {
+     "id": "p069.s04",
+     "source": "Laeapua and Kaneapua were gods worshipped by the fishermen of Lanai, and other fish-gods were elsewhere recognized."
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "There were a number of shark and lizard gods."
+    },
+    {
+     "id": "p070.s02",
+     "source": "They were powerful and malignant, and greatly feared by the classes who frequented the sea."
+    },
+    {
+     "id": "p070.s03",
+     "source": "Heiaus were erected to them on promontories overlooking the ocean, and the offerings to them of fish and fruits were always liberal."
+    },
+    {
+     "id": "p070.s04",
+     "source": "They assumed the forms of gigantic sharks and lizards, and not unfrequently lashed the waters into fury and destroyed canoes."
+    },
+    {
+     "id": "p070.s05",
+     "source": "Moaalii was the great shark-god of Molokai and Oahu."
+    },
+    {
+     "id": "p070.s06",
+     "source": "Apukohai and Uhumakaikai were the evil gods infesting the waters of Kauai."
+    },
+    {
+     "id": "p070.s07",
+     "source": "Lonoakihi was the eel-god of all the islands, and Ukanipo was the shark-god of Hawaii."
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "Among the celebrated war-gods of the kings of the group was that of Kamehameha I. It was called Kaili , or Ku-kaili-moku , and accompanied the great chief in all of his important battles."
+    },
+    {
+     "id": "p071.s02",
+     "source": "It had been the war-god of the Hawaiian kings for many generations, and was given in charge of Kamehameha by his royal uncle, Kalauiopuu."
+    },
+    {
+     "id": "p071.s03",
+     "source": "It was a small wooden image, roughly carved, and adorned with a head-dress of yellow feathers."
+    },
+    {
+     "id": "p071.s04",
+     "source": "It is said that at times, in the heat of battle, it uttered cries which were heard above the clash of arms."
+    },
+    {
+     "id": "p071.s05",
+     "source": "It is not known what became of the image after the death of Kamehameha."
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "The public heiaus , or temples, of the Hawaiians were usually walled enclosures of from one to five acres, and generally irregular in form."
+    },
+    {
+     "id": "p072.s02",
+     "source": "The walls were frequently ten feet in thickness and twenty feet in height, and the material used, was unhewn stone, without mortar or cement."
+    },
+    {
+     "id": "p072.s03",
+     "source": "They narrowed slightly from the base upward, and were sometimes capped with hewn slabs of coral or other rock not too firm in texture to be worked with tools of stone."
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "Within this enclosure was an inner stone or wooden temple of small dimensions, called the luakina , or house of sacrifice, and in front of the entrance to it stood the lele , or altar, consisting of a raised platform of stone."
+    },
+    {
+     "id": "p073.s02",
+     "source": "The inner temple was sacred to the priests."
+    },
+    {
+     "id": "p073.s03",
+     "source": "Within it stood the anu , a small wicker enclosure, from which issued the oracles of the kaulas , or prophets, and around the walls were ranged charms and gods of especial sanctity."
+    },
+    {
+     "id": "p073.s04",
+     "source": "Beside the entrance to this sacred apartment were images of the principal gods, and the outer and inner walls were surmounted by lines of stone and wooden idols."
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "The enclosure contained other buildings for the accommodation of the high-priest and his assistants; also a house for the governing chief or king, some distance removed from the domiciles of the priest."
+    },
+    {
+     "id": "p074.s02",
+     "source": "It was used temporarily by him when on a visit of consultation to the temple, or as a place of refuge in a time of danger."
+    },
+    {
+     "id": "p074.s03",
+     "source": "On each side of the entrance to the outer enclosure was a tabu staff, or elevated cross, and near it was a small walled structure in which were slain the victims for the altar."
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "When an augury was required by the king he frequently visited the heiau in person and propounded his questions to the kaulas ."
+    },
+    {
+     "id": "p075.s02",
+     "source": "If the answers from the anu were vague and unsatisfactory, other methods of divination were resorted to, such as the opening of pigs and fowls, the shapes of the clouds, the flights of birds, etc. After prayers by the priest the animals were killed, and auguries were gathered from the manner in which they expired, the appearance of the intestines—which were supposed to be the seat of thought—and other signs."
+    },
+    {
+     "id": "p075.s03",
+     "source": "Sometimes the spleens of swine were removed, if auguries of war were required, and held above the heads of the priests while prayers were offered."
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "Before engaging in war or any other important enterprise attended by doubt or danger, human and other sacrifices were made, of which there were fifteen different kinds, and the first prisoners taken in battle were reserved for the altar."
+    },
+    {
+     "id": "p076.s02",
+     "source": "The priests named the number of men required for sacrifice, and the king provided them, sometimes from prisoners and malefactors, and sometimes from promiscuous drafts along the highways."
+    },
+    {
+     "id": "p076.s03",
+     "source": "The victims were slain with clubs without the temple walls, and their bodies, with other offerings, were laid upon the altar to decay."
+    },
+    {
+     "id": "p076.s04",
+     "source": "When the king or other high chief made a special offering of an enemy, the left eye of the victim, after the body had been brought to the altar, was removed and handed to him by the officiating priest."
+    },
+    {
+     "id": "p076.s05",
+     "source": "After making a semblance of eating it the chief tossed it upon the altar."
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "During the construction of heiaus human sacrifices were usually offered as the work progressed, and when completed they were dedicated with great pomp and solemnity, and the altars were sometimes heaped with human bodies."
+    },
+    {
+     "id": "p077.s02",
+     "source": "In dedicating ordinary temples the kaiopokeo prayer was employed; but in consecrating heiaus of the first class the kuawili invocation was recited, a prayer continuing from sunrise to sunset."
+    },
+    {
+     "id": "p077.s03",
+     "source": "Oil and holy water were sprinkled upon the altars and sacred vessels, and the services were under the direction of the high-priest, and generally in the presence of the governing chief."
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "The ordinary services in the temples consisted of offerings of fruits and meats, and of chants, prayers and responses, in which the people sometimes joined."
+    },
+    {
+     "id": "p078.s02",
+     "source": "Women did not participate in the ceremonies of the temples, but the exclusion found ample compensation in their exemption from sacrifice when human bodies were required."
+    }
+   ],
+   "id": "p078"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p079.s01",
+     "source": "Temples of refuge, called puhonuas , were maintained on Hawaii, and possibly on Lanai and Oahu in the remote past; but concerning the latter there is some doubt."
+    },
+    {
+     "id": "p079.s02",
+     "source": "One of the puhonuas on Hawaii was at Honaunau, near the sacred burial-place of Hale-o-Keawe , and the other at Waipio, connected with the great heiau of Paa-kalani ."
+    },
+    {
+     "id": "p079.s03",
+     "source": "Their gates were always open, and priests guarded their entrances."
+    },
+    {
+     "id": "p079.s04",
+     "source": "Any one who entered their enclosures for protection, whether chief or slave, whether escaping criminal or warrior in retreat, was safe from molestation, even though the king pursued."
+    },
+    {
+     "id": "p079.s05",
+     "source": "These places of refuge, with the right of circumcision, which existed until after the death of the first Kamehameha, suggest a Polynesian contact with the descendants of Abraham far back in the past, if not a kinship with one of the scattered tribes of Israel."
+    }
+   ],
+   "id": "p079"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p080.s01",
+     "source": "In further evidence of the wanderings of the early Polynesians in western and southern Asia, and of their intercourse with the continental races, it may be mentioned that a disposition toward phallic worship, attested by tradition and existing symbols, followed them far out into the Pacific; and that connected with their story of the creation, so closely resembling the Hebrew version, is the Buddhist claim of previous creations which either ran their course or were destroyed by an offended godhead."
+    },
+    {
+     "id": "p080.s02",
+     "source": "Nor is Hawaiian tradition content with the mere advancement of the theory of successive creations."
+    },
+    {
+     "id": "p080.s03",
+     "source": "It makes specific reference to a creation next preceding that of their Ku-mu-honua , or Adam, and gives the names of the man and woman created and destroyed."
+    },
+    {
+     "id": "p080.s04",
+     "source": "They were Wela-ahi-lani and Owe ."
+    }
+   ],
+   "id": "p080"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p081.s01",
+     "source": "It has been mentioned that the birds pueo and alae were sacred and sometimes worshipped."
+    },
+    {
+     "id": "p081.s02",
+     "source": "Among the sacred fish were the aku and opelu ."
+    },
+    {
+     "id": "p081.s03",
+     "source": "How they became so is told in a legend relating to the high-priest Paao, who migrated to the islands in the eleventh century and induced Pili to follow him."
+    },
+    {
+     "id": "p081.s04",
+     "source": "Before visiting Hawaii, Paao lived near his brother, probably on the island of Samoa."
+    },
+    {
+     "id": "p081.s05",
+     "source": "Both were priests and well skilled in sorcery and divination."
+    },
+    {
+     "id": "p081.s06",
+     "source": "The name of the brother was Lonopele."
+    },
+    {
+     "id": "p081.s07",
+     "source": "Both were affluent and greatly respected."
+    },
+    {
+     "id": "p081.s08",
+     "source": "Lonopele’s lands were near the sea and produced the choicest varieties of fruits."
+    },
+    {
+     "id": "p081.s09",
+     "source": "One season, when the fruits were ripening, Lonopele discovered that some one was surreptitiously gathering them in the night-time, and accused one of the sons of Paao of stealing them."
+    },
+    {
+     "id": "p081.s10",
+     "source": "Indignant at the charge, and discerning no better way of disproving it, Paao killed and opened his son, and showed his brother that there was no fruit in the stomach of the boy."
+    }
+   ],
+   "id": "p081"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p082.s01",
+     "source": "Grieved at the death of his son, and holding his brother accountable for it, Paao concluded to emigrate to some other land, and built strong canoes for that purpose."
+    },
+    {
+     "id": "p082.s02",
+     "source": "About the time they were completed a son of Lonopele chanced to be in the neighborhood, and Paao, remembering the death of his own son, ordered the boy to be killed."
+    },
+    {
+     "id": "p082.s03",
+     "source": "He was missed, and search was made for him, and his body was finally found near Paao’s canoes."
+    },
+    {
+     "id": "p082.s04",
+     "source": "Lonopele charged his brother with the murder."
+    },
+    {
+     "id": "p082.s05",
+     "source": "Paao did not deny it, and Lonopele ordered him to leave the island."
+    },
+    {
+     "id": "p082.s06",
+     "source": "To avoid further trouble Paao set sail at once with a party consisting of thirty-eight persons."
+    },
+    {
+     "id": "p082.s07",
+     "source": "One tradition says Pili was of the party; but he must have left Samoa some years later, as Paao sent or went for him after reaching Hawaii."
+    }
+   ],
+   "id": "p082"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p083.s01",
+     "source": "General Dominis, Consort of the Heir-Apparent."
+    }
+   ],
+   "id": "p083"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p084.s01",
+     "source": "As the canoes were moving from the shore several prophets, standing on the cliffs above, expressed a desire to join the party."
+    },
+    {
+     "id": "p084.s02",
+     "source": "“Very well,” was the answer of Paao; “if you are prophets, as you say, leap from the cliffs and I will take you aboard.”"
+    },
+    {
+     "id": "p084.s03",
+     "source": "Several leaped into the sea and were dashed against the rocks and drowned."
+    },
+    {
+     "id": "p084.s04",
+     "source": "Finally Makuakaumana, a prophet of genuine inspiration, who was to have accompanied the expedition, reached the shore and discovered the canoes of Paao far out on the ocean."
+    },
+    {
+     "id": "p084.s05",
+     "source": "Raising his voice, he hailed Paao and asked that a canoe might be sent back for him."
+    },
+    {
+     "id": "p084.s06",
+     "source": "“Not so,” returned the priest in a loud voice, which the favoring winds bore to the belated prophet."
+    },
+    {
+     "id": "p084.s07",
+     "source": "“To return would be an omen of evil."
+    },
+    {
+     "id": "p084.s08",
+     "source": "There is room for you, but if you would go with us you must fly to our canoes.”"
+    },
+    {
+     "id": "p084.s09",
+     "source": "And, flying, the prophet reached the canoes in safety."
+    }
+   ],
+   "id": "p084"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p085.s01",
+     "source": "Observing the canoes of Paao as they were disappearing in the distance, Lonopele sent a violent storm to destroy them; but the strong fish Aku assisted in propelling the canoes against the storm, and the mighty fish Opelu swam around them and broke the waves with his body."
+    },
+    {
+     "id": "p085.s02",
+     "source": "The malignant brother then sent the great bird Kihahakaiwainapali to vomit over the canoes and sink them; but they were hastily covered with mats, and thus escaped destruction."
+    },
+    {
+     "id": "p085.s03",
+     "source": "After a long voyage Paao landed in Puna, on the coast of Hawaii."
+    },
+    {
+     "id": "p085.s04",
+     "source": "Thenceforth the aku and opelu were held sacred by Paao and his descendants."
+    }
+   ],
+   "id": "p085"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p086.s01",
+     "source": "Following is a list of the supreme and principal elemental, industrial and tutelar deities of the Hawaiian group:"
+    }
+   ],
+   "id": "p086"
   }
  ]
 }

@@ -4,7 +4,7 @@
 - **Source book:** *Old French Fairy Tales*
 - **Author / collector / translator:** Ségur, Sophie, comtesse de (author, d. 1874)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #30129 — https://www.gutenberg.org/ebooks/30129 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #30129 — https://www.gutenberg.org/ebooks/30129
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

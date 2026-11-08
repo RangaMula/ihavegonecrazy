@@ -4,7 +4,7 @@
 - **Source book:** *Wigwam Evenings: Sioux Folk Tales Retold*
 - **Author / collector / translator:** Eastman, Charles Alexander (author, d. 1939); Eastman, Elaine Goodale (author, d. 1953)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #28099 — https://www.gutenberg.org/ebooks/28099 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #28099 — https://www.gutenberg.org/ebooks/28099
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

@@ -2,20 +2,20 @@
  "id": "as-turkey-021",
  "title": {
   "id": "title",
-  "source": "How Mehmet Ali Pasha Of Egypt Administered Justice"
+  "source": "Youth Without Age, And Life Without Death"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/021 - How Mehmet Ali Pasha Of Egypt Administered Justice.md",
+ "markdown_file": "Asia/Turkey/021 - Youth Without Age, And Life Without Death.md",
  "stats": {
-  "paragraphs": 5,
-  "segments": 26,
-  "words": 524
+  "paragraphs": 82,
+  "segments": 169,
+  "words": 4006
  },
  "paragraphs": [
   {
@@ -23,11 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Jewish merchant was in the habit of borrowing, and sometimes of lending money to an Armenian merchant of Cairo."
+     "source": "Once upon a time there was a great Emperor and an Empress; both were young and beautiful, and as they would fain have been blessed with offspring they went to all the wise men and all the wise women and bade them read the stars to see if they would have children or not; but all in vain."
     },
     {
      "id": "p001.s02",
-     "source": "Receipts were never exchanged, but at the closing of an old account or the opening of a new one they would simply say to each other, I have debited or credited you in my books, as the case might be, with so much."
+     "source": "At last the Emperor heard that in a certain village, hard by, dwelt a wiser old man than all the rest; so he sent and commanded him to appear at court."
+    },
+    {
+     "id": "p001.s03",
+     "source": "But the wise old man sent the messengers back with the answer that those who needed him must come to him."
+    },
+    {
+     "id": "p001.s04",
+     "source": "So the Emperor and the Empress set out, with their lords and their ladies, and their servants and their soldiers, and came to the house of the wise old man."
+    },
+    {
+     "id": "p001.s05",
+     "source": "And when the old man saw them coming from afar he went out to meet them."
     }
    ],
    "id": "p001"
@@ -37,43 +49,7 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "On one occasion the Armenian lent the Jew the sum of twenty-five thousand piasters, and after the usual verbal acknowledgment the Armenian made his entry."
-    },
-    {
-     "id": "p002.s02",
-     "source": "A reasonable time having elapsed, the Armenian sent his greetings to the Jew."
-    },
-    {
-     "id": "p002.s03",
-     "source": "This, in Eastern etiquette, meant, 'Kindly pay me what you owe.'"
-    },
-    {
-     "id": "p002.s04",
-     "source": "The Jew, however, did not take the hint but re turned complimentary greetings to the Armenian."
-    },
-    {
-     "id": "p002.s05",
-     "source": "This was repeated several times."
-    },
-    {
-     "id": "p002.s06",
-     "source": "Finally, the Armenian sent a message requesting the Jew to call upon him."
-    },
-    {
-     "id": "p002.s07",
-     "source": "The Jew, however, told the messenger to inform the Armenian merchant, that if he wished to see him, he must come to his house."
-    },
-    {
-     "id": "p002.s08",
-     "source": "The Armenian called upon the Jew, and requested payment of the loan."
-    },
-    {
-     "id": "p002.s09",
-     "source": "The Jew brought out his books and showed the Armenian that he was both credited and debited with the sum of twenty-five thousand piasters."
-    },
-    {
-     "id": "p002.s10",
-     "source": "The Armenian protested, but in vain; the Jew maintained that the debt had been paid."
+     "source": "“Welcome,” cried he; “but I tell thee, oh Emperor! that the wish of thy heart will only work thee woe. ”"
     }
    ],
    "id": "p002"
@@ -83,31 +59,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "In the hope of recovering his money, the Armenian had the case brought before Mehmet Ali Pasha of Egypt, a clever and learned judge."
-    },
-    {
-     "id": "p003.s02",
-     "source": "No witnesses, however, could be cited to prove that the money had either been borrowed or repaid."
-    },
-    {
-     "id": "p003.s03",
-     "source": "The entries were verified, and it was thought that perhaps the Armenian had forgotten."
-    },
-    {
-     "id": "p003.s04",
-     "source": "Before dismissing the case, however, Mehmet Ali Pasha called in the Public Weigher and ordered that both the Armenian and Jewish merchants be weighed."
-    },
-    {
-     "id": "p003.s05",
-     "source": "This done, Mehmet Ali Pasha took note of their respective weights."
-    },
-    {
-     "id": "p003.s06",
-     "source": "The Jew weighed fifty okes and the Armenian sixty okes."
-    },
-    {
-     "id": "p003.s07",
-     "source": "He then discharged them, saying that he would send for them later on."
+     "source": "“I came not hither to take counsel of thee,” replied the Emperor; “but to know if thou hast herbs by eating whereof we may get us children.”"
     }
    ],
    "id": "p003"
@@ -117,39 +69,1120 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The Armenian waited patiently for a month or two, but no summons came from the Pasha."
-    },
-    {
-     "id": "p004.s02",
-     "source": "Every Friday he endeavored to meet the Pasha so as to bring the case to his mind, but without avail; for the Pasha, perceiving him from a distance, would turn away his head or otherwise purposely avoid catching his eye."
-    },
-    {
-     "id": "p004.s03",
-     "source": "At last, after about eight months of anxious waiting, the Armenian and the Jew were summoned to appear before the court."
-    },
-    {
-     "id": "p004.s04",
-     "source": "Mehmet Ali Pasha, in opening the case, called in the Public Weigher and had them weighed again."
-    },
-    {
-     "id": "p004.s05",
-     "source": "On this occasion it was found that the Armenian had decreased, now only weighing fifty okes, for worry makes a man grow thin; but the Jew, on the contrary, had put on several okes."
-    },
-    {
-     "id": "p004.s06",
-     "source": "These facts were gravely considered, and the Pasha accused the Jew of having received the money and at once ordered the brass pot to be heated and placed on his head to force confession."
-    },
-    {
-     "id": "p004.s07",
-     "source": "The Jew did not care to submit to this fearful ordeal, so he confessed that he had not repaid the debt, and had to do so then and there."
+     "source": "“Such herbs have I,” replied the old man; “but ye will have but one child, and him ye will not be able to keep, though he be never so nice and charming.”"
     }
    ],
    "id": "p004"
   },
   {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "So when the Emperor and the Empress had gotten the wondrous herbs, they returned joyfully back to their palace, and a few days afterwards the Empress felt that she was a mother."
+    },
+    {
+     "id": "p005.s02",
+     "source": "But ere the hour of her child’s birth came the child began to scream so loudly that all the enchantments of the magicians could not make him silent."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Then the Emperor began to promise him everything in the wide world, but even this would not quiet him."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "“Be silent, my heart’s darling,” said he, “and I will give thee all the kingdoms east of the sun and west of the moon!"
+    },
+    {
+     "id": "p006.s02",
+     "source": "Be silent, my son, and I will give thee a consort more lovely than the Fairy Queen herself.”"
+    },
+    {
+     "id": "p006.s03",
+     "source": "Then at last, when he perceived that the child still kept on screaming, he said: “Silence, my son, and I will give thee Youth without Age, and Life without Death.”"
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Then the child ceased to cry and came into the world, and all the courtiers beat the drums and blew the trumpets, and there was great joy in the whole realm for many days."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "The older the child grew the more pensive and melancholy he became."
+    },
+    {
+     "id": "p008.s02",
+     "source": "He went to school and to the wise men, and there was no learning and wisdom that he did not make his own, so that the Emperor, his father, died and came to life again for sheer joy."
+    },
+    {
+     "id": "p008.s03",
+     "source": "And the whole realm was proud that it was going to have so wise and goodly an Emperor, and all men looked up to him as to a second Solomon."
+    },
+    {
+     "id": "p008.s04",
+     "source": "But one day, when the child had already completed his fifteenth year, and the Emperor and all his lords and great men were at table diverting themselves, the fair young prince arose and said: “Father, the time has now come when thou must give me what thou didst promise me at my birth!”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "At these words the Emperor was sorely troubled."
+    },
+    {
+     "id": "p009.s02",
+     "source": "“Nay but, my son,” said he, “how can I give thee a thing which the world has never heard of?"
+    },
+    {
+     "id": "p009.s03",
+     "source": "If I did promise it to thee, it was but to make thee quiet.”"
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "“Then, oh my father, if thou canst not give it me, I must needs go forth into the world, and seek until I find that fair thing for which I was born.”"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Then the Emperor and his nobles all fell down on their knees, and besought him not to leave the empire."
+    },
+    {
+     "id": "p011.s02",
+     "source": "“For,” said the nobles, “thy father is now growing old, and we would place thee on the throne, and give thee to wife the most beautiful Empress under the sun.”"
+    },
+    {
+     "id": "p011.s03",
+     "source": "But they were unable to turn him from his purpose, for he was as steadfast as a rock, so at last his father gave him leave to go forth into the wide world to find what he sought."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Then Boy Beautiful went into his father’s stables, where were the most beautiful chargers in the whole empire, that he might choose one from among them; but no sooner had he laid his hand on one of them than it fell to the ground trembling, and so it was with all the other stately chargers."
+    },
+    {
+     "id": "p012.s02",
+     "source": "At last, just as he was about to leave the stable in despair, he cast his eye over it once more, and there in one corner he beheld a poor knacker, all weak, spavined, and covered with boils and sores."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Up to it he went, and laid his hand upon its tail, and then the horse turned its head and said to him: “What are thy commands, my master?"
+    },
+    {
+     "id": "p012.s04",
+     "source": "God be praised who hath had mercy upon me and sent a warrior to lay his hand over me!”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Then the horse shook itself and became straight in the legs again, and Boy Beautiful asked him what he should do next."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“In order that thou mayest attain thy heart’s desire,” said the horse, “ask thy father for the sword and lance, the bow, quiver, and armour which he himself wore when he was a youth; but thou must comb and curry me with thine own hand six weeks, and give me barley to eat cooked in milk.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "So the Emperor called the steward of his household, and ordered him to open all the coffers and wardrobes that his son might choose what he would, and Boy Beautiful, after searching for three days and three nights, found at last at the bottom of an old armoury, the arms and armour which his father had worn as a youth, but very rusty were these ancient weapons."
+    },
+    {
+     "id": "p015.s02",
+     "source": "But he set to work with his own hands to polish them up and rub off the rust, and at the end of six weeks they shone like mirrors."
+    },
+    {
+     "id": "p015.s03",
+     "source": "He also cherished the steed as he had been told."
+    },
+    {
+     "id": "p015.s04",
+     "source": "Grievous was the labour, but it came to an end at last."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "When the good steed heard that Boy Beautiful had cleansed and polished his armour, he shook himself once more, and all his boils and sores fell from off him."
+    },
+    {
+     "id": "p016.s02",
+     "source": "There he now stood a stout horse, and strong, and with four large wings growing out of his body."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Then said Boy Beautiful: “We go hence in three days!”—“Long life to thee, my master!” replied the steed; “I will go wherever thou dost command.”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "When the third day came the Emperor and all his court were full of grief."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Boy Beautiful, attired as became a hero, with his sword in his hand, bounded on to his horse, took leave of the Emperor and the Empress, of all the great nobles and all the little nobles, of all the warriors and all the courtiers."
+    },
+    {
+     "id": "p017.s03",
+     "source": "With tears in their eyes they besought him not to depart on this quest; but he, giving spurs to his horse, departed like a whirlwind, and after him went sumpter horses with money and provisions, and some hundreds of chosen warriors whom the Emperor had ordered to accompany him on his journey."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "But when he had searched a wilderness on the confines of his father’s realm, Boy Beautiful took leave of the warriors, and sent them back to his father, taking of the provisions only so much as his good steed could carry."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Then he pursued his way towards sunrise, and went on and on for three days and three nights till he came to an immense plain covered with the bones of many dead men."
+    },
+    {
+     "id": "p018.s03",
+     "source": "Here they stopped to rest, and the horse said to him: “Know, my master, that we are now in the domains of the witch Gheonoea, who is so evil a being that none can set a foot on her domains and live."
+    },
+    {
+     "id": "p018.s04",
+     "source": "Once she was a woman like other women, but the curse of her parents, whom she would never obey, fell like a withering blast upon her, and she became what she now is."
+    },
+    {
+     "id": "p018.s05",
+     "source": "At this moment she is with her children in the forest, but she will come speedily to seek and destroy thee."
+    },
+    {
+     "id": "p018.s06",
+     "source": "Great and terrible is she, yet fear not, but make ready thy bow and arrows, thy sword and lance, that thou mayest make use of them when the time comes.”—Then they rested, and while one slept the other watched."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "When the day dawned they prepared to traverse the forest; Boy Beautiful bridled and saddled his horse, drew the reins tighter than at other times, and set out."
+    },
+    {
+     "id": "p019.s02",
+     "source": "At that moment they heard a terrible racket."
+    },
+    {
+     "id": "p019.s03",
+     "source": "Then the horse said: “Beware, my master, Gheonoea is approaching.”"
+    },
+    {
+     "id": "p019.s04",
+     "source": "The trees of the forest fell to this side and to that as the witch drew nigh like the tempest, but Boy Beautiful struck off one of her feet with an arrow from his bow, and he was about to shoot a second time when she cried: “Stay thy hand, Boy Beautiful, for I’ll do thee no harm!”"
+    },
+    {
+     "id": "p019.s05",
+     "source": "And seeing he did not believe her, she gave him a promise written in her blood."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“Look well to thy horse, Boy Beautiful,” said she, “for he is a greater magician than I. But for him I should have roasted thee, but now thou must dine at my table."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Know too that no mortal hath yet succeeded in reaching this spot, though some have got so far as the plain where thou didst see all the bones.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Then Gheonoea hospitably entertained Boy Beautiful as men entertain travellers, but now and then, as they conversed together, Gheonoea groaned with pain, but as soon as Boy Beautiful threw her her foot which he had shot off, she put it in its place and immediately it grew fast on to her leg again."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Then, in her joy, Gheonoea feasted him for three days and begged him to take for his consort one of her three daughters, who were divinely beautiful, but he would not."
+    },
+    {
+     "id": "p021.s03",
+     "source": "Then he asked her concerning his quest."
+    },
+    {
+     "id": "p021.s04",
+     "source": "“With such valour and such a good steed as thine,” she answered, “thou must needs succeed.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "So after the three days were over they went on their way again."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Boy Beautiful went on and on, and the way was very long, but when they had passed the boundaries of Gheonoea they came to a beauteous meadow-land, but on one side the grass was fresh and bright and full of flowers, and on the other side it was burnt to cinders."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Then Boy Beautiful asked the horse the meaning of the singed grass, and this is what the horse replied: “We are now in the territories of Scorpia, the sister of Gheonoea."
+    },
+    {
+     "id": "p022.s04",
+     "source": "Yet so evil-minded are these two sisters that they cannot live together in one place."
+    },
+    {
+     "id": "p022.s05",
+     "source": "The curse of their parents has blasted them, and they have become witches as thou dost see; their hatred of each other is great, and each of them is ever striving to wrest a bit of land from the dominions of the other."
+    },
+    {
+     "id": "p022.s06",
+     "source": "And when Scorpia is angry she vomits forth fire and flame, and so when she comes to her sister’s boundaries the grass of the border withers up before her."
+    },
+    {
+     "id": "p022.s07",
+     "source": "She is even more dreadful than her sister, and has, besides, three heads; but be of good cheer, my master, and to-morrow morning be ready to meet her.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "At dawn, next day, they were preparing to depart when they heard a roaring and a crashing noise, the like of which man has never heard since the world began."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“Be ready, my master, for now Scorpia is approaching,” cried the faithful steed."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "And indeed, Scorpia it was."
+    },
+    {
+     "id": "p025.s02",
+     "source": "With jaws reaching from earth to heaven, and spitting forth fire as she approached, Scorpia drew near, and the noise of her coming was like the roar of a whirlwind."
+    },
+    {
+     "id": "p025.s03",
+     "source": "But the good steed rose into the air like a dart, and Boy Beautiful shot an arrow which struck off one of the witch’s three heads."
+    },
+    {
+     "id": "p025.s04",
+     "source": "He was about to lay another arrow on his bow, when Scorpia begged him to forgive her and she would do him no harm, and by way of assurance she gave him a promise written in her blood."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Then she feasted him as her sister had done before, and he gave her back her severed head, which she stuck in its place again, and then, after three days, Boy Beautiful and his faithful steed took to the road again."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "When they had crossed Scorpia’s borders they went on and on without stopping till they came to a vast meadow covered with nothing but flowers, where Spring reigned eternally."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Every flower was wondrously beautiful and full of a fragrance that comforted the soul, and a light zephyr ran continually over the flowery billows."
+    },
+    {
+     "id": "p027.s03",
+     "source": "Here then they sat them down to rest, and the good steed said:"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“Hitherto, oh my master! we have prospered, but now a great danger awaits us, which if by the help of the Lord God we overcome, then shall we be heroes indeed."
+    },
+    {
+     "id": "p028.s02",
+     "source": "Not far from here stands the palace of Youth without Age, and Life without Death, but it is surrounded by a high and deep forest, and in this forest are all the savage monsters of the wide world."
+    },
+    {
+     "id": "p028.s03",
+     "source": "Day and night they guard it, and if a man can count the grains of sand on the sea-shore, then also can he count the number of these monsters."
+    },
+    {
+     "id": "p028.s04",
+     "source": "We cannot fight them, they would tear us to pieces before we were half-way through the forest, so we must try if we can leap clean over it without touching it.”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "So they rested them two days to gather strength, and then the steed drew a long breath and said to Boy Beautiful: “Draw my saddle-girths as tightly as thou art able, and when thou hast mounted me, hold on fast with all thy might to my mane, and press thy feet on my neck instead of on my flanks, that thou mayest not hinder me.”"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Boy Beautiful arose and did as his steed told him, and the next moment they were close up to the forest."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“Now is the time, my master,” cried the good steed."
+    },
+    {
+     "id": "p031.s02",
+     "source": "“The wild monsters are now being fed, and are gathered together in one place."
+    },
+    {
+     "id": "p031.s03",
+     "source": "Now let us spring over!”"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“I am with thee, and the Lord have mercy upon us both,” replied Boy Beautiful."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Then up in the air they flew, and before them lay the palace, and so gloriously bright was it that a man could sooner look into the face of the midday sun than upon the glory of the Palace of Youth without Age, and Life without Death."
+    },
+    {
+     "id": "p033.s02",
+     "source": "Right over the forest they flew, and just as they were about to descend at the foot of the palace-staircase, the steed with the tip of his hind leg touched lightly, oh, ever so lightly! a twig on the topmost summit of the tallest tree of the forest."
+    },
+    {
+     "id": "p033.s03",
+     "source": "Instantly the whole forest was alive and alert, and the monsters began to howl so awfully that, brave as he was, the hair of Boy Beautiful stood up on his head."
+    },
+    {
+     "id": "p033.s04",
+     "source": "Hastily they descended, but had not the mistress of the palace been outside there in order to feed her kittens (for so she called the monsters), Boy Beautiful and his faithful steed would have been torn to pieces."
+    },
+    {
+     "id": "p033.s05",
+     "source": "But the mistress of the monsters, for pure joy at the sight of a human being, held the monsters back and sent them back to their places."
+    },
+    {
+     "id": "p033.s06",
+     "source": "Fair, tall, and of goodly stature was the Fairy of the Palace, and Boy Beautiful felt his heart die away within him as he beheld her."
+    },
+    {
+     "id": "p033.s07",
+     "source": "But she was full of compassion at the sight of him, and said: “Welcome, Boy Beautiful!"
+    },
+    {
+     "id": "p033.s08",
+     "source": "What dost thou seek?”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“We seek Youth without Age, and Life without Death,” he replied."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Then he dismounted from his steed and entered the palace, and there he met two other fair dames of equal beauty; these were the elder sisters of the Fairy of the Palace."
+    },
+    {
+     "id": "p035.s02",
+     "source": "They regaled Boy Beautiful with a banquet served on gold plate, and the good steed had leave to graze where he would, and the Fairy made him known to all her monsters, that so he might wander through the woods in peace."
+    },
+    {
+     "id": "p035.s03",
+     "source": "Then the fair dames begged Boy Beautiful to abide with them always, and Boy Beautiful did not wait to be asked twice, for to stay with the Fairy of the Palace was his darling desire."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Then he told them his story, and of all the dangers he had passed through to get there, and so the Fairy of the Palace became his bride, and she gave him leave to roam at will throughout her domains."
+    },
+    {
+     "id": "p036.s02",
+     "source": "“Nevertheless,” said she, “there is one valley thou must not enter or it will work thee woe, and the name of that valley is the Vale of Complaint.”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "There then Boy Beautiful abode, and he took no count of time, for though many days passed away, he was yet as young and strong as when he first came there."
+    },
+    {
+     "id": "p037.s02",
+     "source": "He went through leagues of forest without once feeling weary."
+    },
+    {
+     "id": "p037.s03",
+     "source": "He rejoiced in the golden palace, and lived in peace and tranquillity with his bride and her sisters."
+    },
+    {
+     "id": "p037.s04",
+     "source": "Oftentimes too he went a-hunting."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "One day he was pursuing a hare, and shot an arrow after it and then another, but neither of them hit the hare."
+    },
+    {
+     "id": "p038.s02",
+     "source": "Never before had Boy Beautiful missed his prey, and his heart was vexed within him."
+    },
+    {
+     "id": "p038.s03",
+     "source": "He pursued the hare still more hotly, and sent another arrow after her."
+    },
+    {
+     "id": "p038.s04",
+     "source": "This time he did bring her down, but in his haste the unhappy man had not perceived that in following the hare he had passed through the Vale of Complaint!"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "He took up the hare and returned homewards, but while he was still on the way a strange yearning after his father and his mother came over him."
+    },
+    {
+     "id": "p039.s02",
+     "source": "He durst not tell his bride of it, but she and her sisters immediately guessed the cause of his heaviness."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "“Wretched man!” they cried, “thou hast passed through the Vale of Complaint!”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "“I have done so, darling, without meaning it,” he replied; “but now I am perishing with longing for my father and mother."
+    },
+    {
+     "id": "p041.s02",
+     "source": "Yet need I desert thee for that?"
+    },
+    {
+     "id": "p041.s03",
+     "source": "I have now been many days with thee, and am as hale and well as ever."
+    },
+    {
+     "id": "p041.s04",
+     "source": "Suffer me then to go and see my parents but once, and then will I return to thee to part no more.”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“Forsake us not, oh beloved!” cried his bride and her sisters."
+    },
+    {
+     "id": "p042.s02",
+     "source": "“Hundreds of years have passed away since thy parents were alive; and thou also, if thou dost leave us, wilt never return more."
+    },
+    {
+     "id": "p042.s03",
+     "source": "Abide with us, or, an evil omen tells us, thou wilt perish!”"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "But the supplications of the three ladies and his faithful steed likewise could not prevail against the gnawing longing to see his parents which consumed him."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "At last the horse said to him: “If thou wilt not listen to me, my master, then ’tis thine own fault alone if evil befall thee."
+    },
+    {
+     "id": "p044.s02",
+     "source": "Yet I will promise to bring thee back on one condition.”"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“I consent whatever it may be,” said Boy Beautiful; “speak, and I will listen gratefully.”"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "“I will bring thee back to thy father’s palace, but if thou dismount but for a moment, I shall return without thee.”"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“Be it so,” replied Boy Beautiful."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "So they made them ready for their journey, and Boy Beautiful embraced his bride and departed, but the ladies stood there looking after him, and their eyes were filled with tears."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "And now Boy Beautiful and his faithful steed came to the place where the domains of Scorpia had been, but the forests had become fields of corn, and cities stood thickly on what had once been desolate places."
+    },
+    {
+     "id": "p049.s02",
+     "source": "Boy Beautiful asked all whom he met concerning Scorpia and her habitations, but they only answered that these were but idle fables which their grandfathers had heard from their great-grandfathers."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "“But how is that possible?” replied Boy Beautiful; “ ’ twas but the other day that I passed by——” and he told them all he knew."
+    },
+    {
+     "id": "p050.s02",
+     "source": "Then they laughed at him as at one who raves or talks in his sleep; but he rode away wrathfully without noticing that his beard and the hair of his head had grown white."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "When he came to the domain of Gheonoea he put the same questions and received the same answers."
+    },
+    {
+     "id": "p051.s02",
+     "source": "He could not understand how the whole region could have utterly changed in a few days, and again he rode away, full of anger, with a white beard that now reached down to his girdle and with legs that began to tremble beneath him."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "At length he came to the empire of his father."
+    },
+    {
+     "id": "p052.s02",
+     "source": "Here there were new men and new dwellings, and the old ones had so altered that he scarce knew them."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "So he came to the palace where he had first seen the light of day."
+    },
+    {
+     "id": "p053.s02",
+     "source": "As he dismounted the horse kissed his hand and said: “Fare thee well, my master!"
+    },
+    {
+     "id": "p053.s03",
+     "source": "I return from whence I came."
+    },
+    {
+     "id": "p053.s04",
+     "source": "But if thou also wouldst return, mount again and we’ll be off instantly.”"
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "“Nay,” he replied, “fare thee well, I also will return soon.”"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "Then the horse flew away like a dart."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "But when Boy Beautiful beheld the palace all in ruins and overgrown with evil weeds, he sighed deeply, and with tears in his eyes he sought to recall the glories of that fallen palace."
+    },
+    {
+     "id": "p056.s02",
+     "source": "Round about the place he went, not once nor twice: he searched in every room, in every corner for some vestige of the past; he searched the stable in which he had found his steed, and then he went down into the cellar, the entrance to which was choked up by fallen rubbish."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "Here and there and everywhere he searched about, and now his long white beard reached below his knee, and his eyelids were so heavy that he had to raise them on high with his hands, and he found he could scarce totter along."
+    },
+    {
+     "id": "p057.s02",
+     "source": "All he found there was a huge old coffer which he opened, but inside it there was nothing."
+    },
+    {
+     "id": "p057.s03",
+     "source": "Yet he lifted up the cover, and then a voice spoke to him out of the depths of the coffer and said: “Welcome, for hadst thou kept me waiting much longer, I also would have perished.”"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "Then his Death, who was already shrivelled up like a withered leaf at the bottom of the coffer, rose up and laid his hand upon him, and Boy Beautiful instantly fell dead to the ground and crumbled into dust."
+    },
+    {
+     "id": "p058.s02",
+     "source": "But had he remained away but a little time longer his Death would have died, and he himself would have been living now."
+    },
+    {
+     "id": "p058.s03",
+     "source": "And so I mount my nag and utter an “Our Father” ere I go."
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "THE END Richard Clay & Sons, Limited, London & Bungay."
+    }
+   ],
+   "id": "p059"
+  },
+  {
    "type": "break",
    "segments": [],
-   "id": "p005"
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "FOOTNOTES:"
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "He has described his experience in the picturesque and popular Anatóliai Képek (“Anatolian Pictures”) published at Pest in 1891."
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "Emperor."
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "Fairy."
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "“Peace be unto you.”"
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "“Unto you be peace.”"
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "Farthings."
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "Roasted pepper."
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "Lit. the place of the mill was cold one morning."
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "Counsellor."
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "The same incident occurs in the Cossack fairy-tale of the Bird Zhar and the Russian fairy-tale of the Bird Mogol."
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "Boiled rice, with flesh added and scalded butter."
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "Turkish for the Chinese Empire."
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "Fate."
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "Emperor of China."
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "Farthing."
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "An Imperial rescript."
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "An unbeliever."
+    }
+   ],
+   "id": "p078"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p079.s01",
+     "source": "Fet frumosŭ , the favourite name for all young heroes in Roumanian fairy-tales."
+    }
+   ],
+   "id": "p079"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p080.s01",
+     "source": "Compare the incident of the Bird Zhar in my Russian Fairy Tales ."
+    }
+   ],
+   "id": "p080"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p081.s01",
+     "source": "Queen."
+    }
+   ],
+   "id": "p081"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p082"
   }
  ]
 }

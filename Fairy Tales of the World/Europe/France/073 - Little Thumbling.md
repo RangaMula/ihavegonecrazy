@@ -4,7 +4,7 @@
 - **Source book:** *Tales of Passed Times*
 - **Author / collector / translator:** Perrault, Charles (author, d. 1703); Leprince de Beaumont, Madame (Jeanne-Marie) (contributor, d. 1780); Aulnoy, Madame d' (Marie-Catherine) (contributor, d. 1705)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #33511 — https://www.gutenberg.org/ebooks/33511 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #33511 — https://www.gutenberg.org/ebooks/33511
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

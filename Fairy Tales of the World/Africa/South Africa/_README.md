@@ -1,13 +1,14 @@
 # South Africa
 
 Continent: Africa  
-Tales in this folder: **77** (fewer than 100: every distinct tale found in the public-domain sources below is included)
+Tales in this folder: **100**
 
 ## Sources
 
 - *South-African Folk-Tales* — Honey, James A. (author) — Gutenberg #38339 — 38 tales — PD in USA; translator death date unrecorded
 - *Fairy tales from South Africa* — Bourhill, Sarah F. (author); Drake, Beatrice L. (author) — Gutenberg #75833 — 10 tales — PD in USA; translator death date unrecorded
 - *Cinderella in the South: Twenty-Five South African Tales* — Cripps, Arthur Shearly (author, d. 1952) — Gutenberg #22886 — 29 tales — PD worldwide
+- *African Storybook — traditional tales retold (CC BY 4.0)* — see each tale — African Storybook (Saide), https://www.africanstorybook.org/ — 23 tales — CC BY 4.0 — credit authors/illustrators when translating
 
 ## Tales
 
@@ -88,3 +89,26 @@ Tales in this folder: **77** (fewer than 100: every distinct tale found in the p
 75. Three And Africa
 76. Our Lady Of The Lake
 77. Africa And Her Godmother
+78. Un bébé enlevé par des grues
+79. Ingulube nengonyama
+80. Lion and Warthog
+81. Die Sewende Son: ŉ Indiese Volksverhaal Uit Odisha
+82. Die dansende boerbok
+83. Anansi kry die stories terug
+84. Omwana Eya Nyakulibwa Ngaali
+85. Inkosi yezinyoni
+86. Le Lion et Warthog
+87. Le roi des oiseaux
+88. Eng'atuny Ka Eputir
+89. Simba na Ngiri
+90. Italanyi Nende Injiri
+91. Libhubesi nengulube yesiganga
+92. Entale N’Engiri
+93. Tau le Kolobe ya naga
+94. Kgosi ya dinonyane
+95. Kabaka We Nyonyi
+96. Leão E Facoquero
+97. Rei Das Aves
+98. UNcede inkosi yeentaka
+99. Kgoši ya dinonyana
+100. Khosi ya zwiá¹‹oni

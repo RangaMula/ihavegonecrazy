@@ -6,7 +6,7 @@ Tales in this folder: **100**
 ## Sources
 
 - *Grimms' Fairy Tales* — Grimm, Jacob (author, d. 1863); Grimm, Wilhelm (author, d. 1859) — Gutenberg #2591 — 61 tales — PD worldwide
-- *Folk-lore and Legends: German* — Anonymous / traditional — Gutenberg #27499 — 27 tales — PD in USA; translator death date unrecorded
+- *Folk-lore and Legends: German* — see each tale — Gutenberg #27499 — 27 tales — PD in USA; translator death date unrecorded
 - *Legends and tales of the Harz Mountains* — Lauder, Toofie (author, d. 1922) — Gutenberg #74323 — 12 tales — PD worldwide
 
 ## Tales

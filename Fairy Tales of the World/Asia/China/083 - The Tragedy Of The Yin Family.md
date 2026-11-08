@@ -4,7 +4,7 @@
 - **Source book:** *Chinese Folk-Lore Tales*
 - **Author / collector / translator:** Macgowan, J. (John) (author, d. 1922)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #26070 — https://www.gutenberg.org/ebooks/26070 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #26070 — https://www.gutenberg.org/ebooks/26070
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

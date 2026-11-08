@@ -1,0 +1,456 @@
+{
+ "id": "af-ghana-akan-peoples-anansi-tales-088",
+ "title": {
+  "id": "title",
+  "source": "Anansi, Kunguru na Mamba"
+ },
+ "tradition": "Ghana (Akan peoples, Anansi tales)",
+ "continent": "Africa",
+ "source_lang": "sw",
+ "source_book": "African Storybook — traditional tales retold (CC BY 4.0)",
+ "credits": "Ghanaian folktale Mutugi Kamundi Wiehan de Jager (story, illustration and translation credits as listed by African Storybook)",
+ "gutenberg": "African Storybook story #2305 — https://www.africanstorybook.org/ (search the title)",
+ "copyright": "Creative Commons Attribution 4.0 (CC BY 4.0). Free to copy, translate and adapt for any purpose, including commercial, as long as you credit the original author(s), illustrator(s) and African Storybook and link to the licence: https://creativecommons.org/licenses/by/4.0/",
+ "markdown_file": "Africa/Ghana (Akan peoples, Anansi tales)/088 - Anansi, Kunguru na Mamba.md",
+ "stats": {
+  "paragraphs": 27,
+  "segments": 68,
+  "words": 515
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Wakati mmoja kulikuwa na kiangazi na njaa kubwa."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Hakuna aliyekuwa na chakula isipokuwa Kunguru."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Kila asubuhi walikwenda mbali katikati ya mto kwenye mkuyu uliokuwa na matunda matamu."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Kisha walirudi wakiwa wamebeba makuyu hayo kuwaletea ndugu zao."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Alipoyaona matunda hayo, Buibui Anansi, alidondokwa na mate."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Je, angewezaje kuyapata matunda hayo?"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Baada ya kufikiri kwa muda mrefu, alipata wazo zuri."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Alijipaka nta inayonata kwenye sehemu yake ya nyuma."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Kisha akachukua kigae cha nyungu akaenda nyumbani kwa Kunguru akasema, \"Tafadhali, naomba usadizi!"
+    },
+    {
+     "id": "p004.s04",
+     "source": "Naomba kaa la moto."
+    },
+    {
+     "id": "p004.s05",
+     "source": "Jiko langu limezimika.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Walipokuwa wakimchukulia kaa la moto kutoka jikoni, Buibui Anansi alikalia kuyu moja kubwa."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Tunda hilo lilijinata kwenye makalio yake."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Aliwashukuru kunguru akaenda haraka nyumbani kulifurahia tunda hilo."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Lakini, tunda moja halikumtosha."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Alirudi huko akafanya alivyofanya mara ya kwanza."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Aliporudi mara ya tatu, kunguru walimwuliza."
+    },
+    {
+     "id": "p006.s04",
+     "source": "\"Kwa nini unarudi hapa kila mara kuomba kaa la moto?\""
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Buibui Anansi akajibu, \"Kila ninapofika nyumbani, kaa huwa limezimika.\""
+    },
+    {
+     "id": "p007.s02",
+     "source": "Kunguru walimwambia, \"Unatudanganya!"
+    },
+    {
+     "id": "p007.s03",
+     "source": "Unatamani chakula chetu.\""
+    },
+    {
+     "id": "p007.s04",
+     "source": "Buibui Anansi alijitetea, \"Si kweli.\""
+    },
+    {
+     "id": "p007.s05",
+     "source": "Akaanza kulia."
+    },
+    {
+     "id": "p007.s06",
+     "source": "Wakamhurumia wakasema, \"Beba kaa jingine."
+    },
+    {
+     "id": "p007.s07",
+     "source": "Asubuhi, tutakuonyesha mkuyu wenye matunda.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Asubuhi iliyofuata kila kunguru alimchangia Anansi manyoya akapata mabawa."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Akaruka hadi kwenye mkuyu uliokuwa katikati ya mto."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Alipoona matunda yale matamu aliyataka yote peke yake."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Kila wakati kunguru alipojaribu kuchuma tunda, Buibui Anansi alisema, \"Wacha, hilo ni langu!"
+    },
+    {
+     "id": "p009.s03",
+     "source": "Mimi nililiona kwanza!\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Halafu alichukua kila tunda na kuliweka mfukoni kwake."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Hatimaye, alichukua matunda yote akawaacha kunguru bila chochote."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Kunguru waliyachukua manyoya yao."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Buibui Anansi aliachwa peke yake."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "\"Siwezi kuishi kwenye mti huu maisha yangu yote,\" alijiambia."
+    },
+    {
+     "id": "p012.s02",
+     "source": "\"Ni lazima niruke hewani kama kunguru.\""
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Akashusha pumzi, kisha akaruka, na mara, chubwi!"
+    },
+    {
+     "id": "p013.s02",
+     "source": "Akaanguka mtoni baina ya mamba hatari."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "\"Hapa tuna nyama tamu na nyororo.\""
+    },
+    {
+     "id": "p014.s02",
+     "source": "Mamba mmoja alisema."
+    },
+    {
+     "id": "p014.s03",
+     "source": "\"Hebu tuanze kula mlo.\""
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "\"Tafadhali, msiniue,\" Buibui Anansi akasema."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Kisha akaanza kulia."
+    },
+    {
+     "id": "p015.s03",
+     "source": "\"Kwani hamjui mimi ni mmoja wenu?"
+    },
+    {
+     "id": "p015.s04",
+     "source": "Nilipotea wakati wa mababu zenu na hakuna aliyeweza kunipata."
+    },
+    {
+     "id": "p015.s05",
+     "source": "Sasa nyinyi ni ndugu zangu!\""
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Alilia machozi hadi mamba wakamwonea huruma."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Mamba mmoja mzee hakuamini, \"Tutajua kwamba wewe ni mmoja wetu ukinywa supu ya matope kama sisi.\""
+    },
+    {
+     "id": "p017.s02",
+     "source": "Walimpatia kibuyu cha maji machafu."
+    },
+    {
+     "id": "p017.s03",
+     "source": "\"Bibi yangu alikuwa akitengeza supu kama hii,\" Buibui Anansi alisema."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Lakini, alichimba shimo ardhini akitumia mguu wake wa nyuma, kisha akatoboa shimo kwenye kibuyu kwa mguu wake wa mbele."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Alijifanya kwamba alikuwa akinywa yale maji na kumbe yalikuwa yakimwagika."
+    },
+    {
+     "id": "p018.s03",
+     "source": "\"Tamu sana!\" alisema huku akirudisha kibuyu kitupu."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "\"Sasa tumejua bila shaka kwamba wewe ni mmoja wetu,\" mamba wakamwambia."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Walimruhusu Buibui Anansi kulala pamoja nao usiku huo."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"Kesho asubuhi nitawaambia hadithi kuhusu maisha yangu,\" Buibui Anansi aliwaambia walipokuwa wakianza kulala."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Siku iliyofuata, Buibui Anansi aliamka asubuhi na mapema akamwamsha mamba mmoja."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "\"Ningependa kwenda ili nimlete mke na watoto wangu ili wanisaidie kuhadithia."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Je, utanisaidia niende kuwaleta kabla ya wengine kuamka?\""
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Mamba huyo hakufurahi kwa kuamshwa mapema sana."
+    },
+    {
+     "id": "p023.s02",
+     "source": "\"Tafadhali nisaidie!"
+    },
+    {
+     "id": "p023.s03",
+     "source": "Wewe unajua kuogelea haraka kuliko mimi,\" Buibbui Anansi akamwambia."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Mamba akakubali kumbeba Buibui Anansi kwenye pua lake hadi ukingo wa mto."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Buibui Anansi aliposhuka kutoka kwenye pua la mamba alisema, \"Nitarudi hivi punde."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Tafadhali ningoje papo hapo!\""
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Kisha akatorokea kwenye nyasi kwa kasi."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Tangu siku hiyo, mamba angali anamngoja Buibui Anansi kwenye ukingo wa mto."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Pua na macho yake makubwa yanajitokeza juu ya maji."
+    }
+   ],
+   "id": "p027"
+  }
+ ]
+}

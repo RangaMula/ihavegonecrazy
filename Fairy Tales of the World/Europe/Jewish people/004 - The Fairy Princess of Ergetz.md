@@ -4,7 +4,7 @@
 - **Source book:** *Jewish Fairy Tales and Legends*
 - **Author / collector / translator:** Landa, Gertrude (author)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #26711 — https://www.gutenberg.org/ebooks/26711 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #26711 — https://www.gutenberg.org/ebooks/26711
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

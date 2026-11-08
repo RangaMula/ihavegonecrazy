@@ -2,20 +2,20 @@
  "id": "eu-switzerland-011",
  "title": {
   "id": "title",
-  "source": "Schaffhausen"
+  "source": "The Yodel Carillon Of The Cows"
  },
  "tradition": "Switzerland",
  "continent": "Europe",
  "source_lang": "en",
- "source_book": "Legends of Switzerland",
- "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #64163 — https://www.gutenberg.org/ebooks/64163 (copied via the GITenberg mirror)",
+ "source_book": "Swiss Fairy Tales",
+ "credits": "Griffis, William Elliot (author, d. 1928)",
+ "gutenberg": "Project Gutenberg eBook #69739 — https://www.gutenberg.org/ebooks/69739",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Europe/Switzerland/011 - Schaffhausen.md",
+ "markdown_file": "Europe/Switzerland/011 - The Yodel Carillon Of The Cows.md",
  "stats": {
-  "paragraphs": 19,
-  "segments": 33,
-  "words": 1067
+  "paragraphs": 21,
+  "segments": 87,
+  "words": 1883
  },
  "paragraphs": [
   {
@@ -23,11 +23,31 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "In olden times, when the Alemans first invaded Switzerland, they practised the bloody rites of their religion at the Falls of the Rhine, near Schaffhausen, and sacrificed many white horses to the god of the Rhine."
+     "source": "They say that the soul of Belgium is the carillon."
     },
     {
      "id": "p001.s02",
-     "source": "These steeds were driven into the water some distance above the cataract, and in spite of their frantic efforts were swept over the brink by the rapid current."
+     "source": "In many a tower, far up in the air hang a hundred bells or more, of all sizes."
+    },
+    {
+     "id": "p001.s03",
+     "source": "These are struck by hammers, which are worked by the carillonier, who presses the keyboard, as if playing the piano."
+    },
+    {
+     "id": "p001.s04",
+     "source": "Very famous are these chime-masters, and sweet is the music, which sounds in the air."
+    },
+    {
+     "id": "p001.s05",
+     "source": "When away from home, in a foreign land, the Belgian gets homesick, amid strangers, and is often down-hearted, because of the silences of the strange country."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Should he hear the sweet chimes of a city church, a vision of the home land, with its quaint houses and high towers, its carrier pigeons, and river-dykes, and flower markets, and happy children, playing in the streets, rises before him."
+    },
+    {
+     "id": "p001.s07",
+     "source": "Then he thinks of the years of his childhood, in his old home."
     }
    ],
    "id": "p001"
@@ -37,11 +57,7 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Not long ago, horse-shoes could still be seen in the cracks of the rocks near the waterfall, and even now, on moonlight nights or on misty days, the ghosts of these sacrificed steeds can still be seen, rearing and plunging in the waters, and wildly tossing their snow-white manes."
-    },
-    {
-     "id": "p002.s02",
-     "source": "These wraiths are most clearly discerned during the night from Friday to Saturday, because it was then that they were offered up in sacrifice to the old heathen gods."
+     "source": "In Switzerland, it is not the tower bells, or even the church-spires, sounding out the tollings for a funeral, or the merry peals of wedding bells, [ ] or the strokes calling to worship, that so deeply stir the mountain man’s heart, as do the yodel music and the carillon of the cows."
     }
    ],
    "id": "p002"
@@ -51,11 +67,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "A ghostly chariot, drawn by white oxen, was also seen formerly driving down the stream to Schaffhausen, where it went thrice around the town."
+     "source": "On summer days, let one stand in the high pastures above the valleys, or on a mountain slope, and he will hear the tinkle, tinkle, tinkle, of bells, bells, bells."
     },
     {
      "id": "p003.s02",
-     "source": "When this circuit took place from right to left, it was considered an infallible sign of good fortune; but when it made the journey in an opposite direction, bad luck was sure to ensue."
+     "source": "They sound and echo from near and far."
+    },
+    {
+     "id": "p003.s03",
+     "source": "They float on the air, from unseen nooks in the distance."
     }
    ],
    "id": "p003"
@@ -65,11 +85,27 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "In olden times, when nothing but a convent and boat-landing stood on the present site of the city of Schaffhausen, a nobleman once came down to the river to fish."
+     "source": "Even the cattle enjoy the music of the bells."
     },
     {
      "id": "p004.s02",
-     "source": "Weary of his exertions, he finally fastened his skiff, and lying down in the bottom of it, fell asleep."
+     "source": "Just as soon as the shepherds sound the Alpine horn, or start the call, for the herds to come home, every goat moves forward and cows leave their grazing on the grass, or they rise from chewing the cud."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Then one may see the long lines of the milk-givers marching towards the chalets."
+    },
+    {
+     "id": "p004.s04",
+     "source": "There the men, at night, and in the morning, milk the cows."
+    },
+    {
+     "id": "p004.s05",
+     "source": "When the animals are housed for the night, they start the fires."
+    },
+    {
+     "id": "p004.s06",
+     "source": "They put in the rennet, that curdles the cream and turns the white and golden liquid into cheeses, so solid that one can roll them down the hills."
     }
    ],
    "id": "p004"
@@ -79,11 +115,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "But while thus oblivious of all that was taking place, his vessel slipped its moorings, and drifting out into mid-current, was swept over the falls."
+     "source": "Everyone in America knows about the delicious white Schweitzer cheese."
     },
     {
      "id": "p005.s02",
-     "source": "The passenger was so sound asleep, however, that he did not even rouse when hurled down into the thundering abyss, and was greatly amazed on awakening to find his boat had drifted ashore far below the dreaded cataract."
+     "source": "When cut open, it is seen to be full of holes, as if well ventilated, or, in many places, bored with an augur."
     }
    ],
    "id": "p005"
@@ -93,7 +129,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "In token of gratitude for this narrow escape, this nobleman is said to have founded the Benedictine abbey at Rheinau, on the very spot where his skiff drifted ashore after its perilous journey down the Rhine."
+     "source": "So well do the cows like to wear the leather collar, or neck strap, and hear the tinkle of the bells, that sometimes they die of homesickness, [ ] when these are taken away, or they lose their sounding collar; or, when among their sisters, thus decorated, they have none."
     }
    ],
    "id": "p006"
@@ -103,7 +139,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "For other legends of Schaffhausen, etc., see the author’s “Legends of the Rhine.”"
+     "source": "In old days, when it was the fashion for young men to be soldiers of fortune and enlist in the armies of France, or Germany, or Italy, or Holland, a Swiss man could forget, even his country, unless he had a sweetheart at home."
     }
    ],
    "id": "p007"
@@ -113,11 +149,15 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "A young fisherman, who had a similar experience, fatuously imagined that if his vessel went safely over the falls without being steered, it could not fail to do the same when guided by an experienced hand."
+     "source": "But when any one would start the yodel song, it made him and his comrades so homesick, that they wanted to leave at once, for their native land."
     },
     {
      "id": "p008.s02",
-     "source": "He therefore loudly boasted that he was about to go over the cataract again, and in spite of all remonstrances on the part of friends and relatives, actually made the attempt."
+     "source": "So many soldiers were found to desert, on this account, that the generals forbade any one ever to sing the yodel songs, or play the yodel music, such as Queen Anne introduced into England."
+    },
+    {
+     "id": "p008.s03",
+     "source": "The “Ranz des Vaches,” or Song of the Cows, is more truly Switzerland’s national music, than is even the carillon of Belgium for the Belgians, or even that of the Swiss song, “Stand Fast, O Fatherland.”"
     }
    ],
    "id": "p008"
@@ -127,15 +167,19 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "The skiff, however, was soon caught in the whirling waters, and in spite of all the fisherman’s efforts, dashed against the rocks."
+     "source": "In this country, where the music box was invented, the yodel is centuries old."
     },
     {
      "id": "p009.s02",
-     "source": "For one minute the horrified spectators saw the broken boat and clinging youth pause on the brink of the abyss, then they were swept over into the whirlpool, whence they never emerged!"
+     "source": "It is almost like telling a fairy tale, to narrate the story of the cow parade in June, as it assembles and moves up to the high pastures, called “the Alps,” which are spangled with flowers of gorgeous colors."
     },
     {
      "id": "p009.s03",
-     "source": "Since then, on the anniversary of this foolhardy attempt, the ghost of the reckless youth can be seen drifting down the stream, and with a blood-curdling cry of despair it invariably plunges over into the vortex at the foot of the Rhine Falls."
+     "source": "From June to October, these highland meadows are rich in the sweet aromatic herbs, which the cows so enjoy, especially the plant called the [ ] Alpine Poa."
+    },
+    {
+     "id": "p009.s04",
+     "source": "Almost as wonderful, is the cow parade, on its return downwards, in October."
     }
    ],
    "id": "p009"
@@ -145,7 +189,19 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "When noble knights still dwelt on the Randenberg, a pious maiden set out from there before dawn every morning to walk to the convent of All Saints at Schaffhausen, where it was her custom to attend early mass."
+     "source": "During the long winter, every boy in the villages looks forward to the time, counting the last few days on his fingers, when he can go, with his father and hired men, and along with the dogs and donkeys, to spend the summer in outdoor life in the highlands."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Then, he can be like a virtuous Indian, or a moral pirate, or an antique shepherd; and, indeed, the frisky goats, though all named and numbered, will give him plenty to do."
+    },
+    {
+     "id": "p010.s03",
+     "source": "He waits patiently, during the long house life of the cold time, when, walled in by the winter snow, he thinks of the long, bright summer days that are coming."
+    },
+    {
+     "id": "p010.s04",
+     "source": "Then, he can live nearer the sky, and until the sun begins again to set earlier and the snows drive men and cattle home."
     }
    ],
    "id": "p010"
@@ -155,11 +211,27 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Her sole escort on this daily walk was a faithful stag, which patiently awaited her coming at the castle gates every morning."
+     "source": "The wonderful fact, in the cow parade, that reminds one of a fairy tale, is the way these horned creatures organize, of their own accord, and drill."
     },
     {
      "id": "p011.s02",
-     "source": "When it was very dark, this faithful animal walked lightly ahead of her, proudly carrying a flaming torch between its branching antlers, and it always waited at the city gates to accompany her home."
+     "source": "They fall into line and march, as if they were playing soldiers, or were a company of real warriors, or cavalry horses, going to war."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Each milker knows her place, and, if any young heifers try to be fresh, and show off too much, they get a hint from the horns of the old ladies of the herd, that they had better know and keep their place."
+    },
+    {
+     "id": "p011.s04",
+     "source": "Such snubs and punishments are [ ] not forgotten."
+    },
+    {
+     "id": "p011.s05",
+     "source": "After such discipline, a young snip of a cow behaves better, until grown up."
+    },
+    {
+     "id": "p011.s06",
+     "source": "Then, with more sense, she takes and holds her place, in good bovine society."
     }
    ],
    "id": "p011"
@@ -169,15 +241,27 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "One day when the pious maiden and her attendant stag were nearing the city, they were suddenly attacked by wayside thieves."
+     "source": "The herds, when bound for the Alps, number from twenty to two hundred."
     },
     {
      "id": "p012.s02",
-     "source": "With a cry of terror, the maiden sped on as fast as her trembling limbs would carry her; but when she came to the city gates she saw with terror that they were still shut."
+     "source": "Three magnificent cows, brindle, dun, or white, lead the procession and they feel their honors, as fully as a lieutenant, just fresh from West Point, feels his."
     },
     {
      "id": "p012.s03",
-     "source": "Knowing no human help could reach her in time to save her from the hands of the miscreants, she now had recourse to a short but fervent prayer, and the last words were scarcely uttered when an angel darted down from heaven, keys in hand, and led the maiden into the city, closing and locking the gates in the very face of the cruel highwaymen."
+     "source": "On the neck of each, is a wide leather strap, often decorated with metal bosses, or knobs, to which is hung a bell, often as big as a bucket."
+    },
+    {
+     "id": "p012.s04",
+     "source": "Most proudly, with heads up in the air, the leaders step forward."
+    },
+    {
+     "id": "p012.s05",
+     "source": "The other cows, all having names, follow, each with a smaller strap and bell on her neck."
+    },
+    {
+     "id": "p012.s06",
+     "source": "Here are a few of the names, expressed in English: Star, Crow, White Stocking, Youngster, Mirror, White Horn, and Lady."
     }
    ],
    "id": "p012"
@@ -187,7 +271,23 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Ever since the pious maiden was thus miraculously saved by angelic intervention, that gate of Schaffhausen has been known as the Engelbrechtsthor, or the gate broken open by an angel."
+     "source": "The boy who is on his first venture up with the herd, dressed in his best clothes, leads the flock of goats, which are put under his special charge."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Each one has a name and he knows them all."
+    },
+    {
+     "id": "p013.s03",
+     "source": "They will give him plenty to do, for they are great tramps and vagrants."
+    },
+    {
+     "id": "p013.s04",
+     "source": "Nobody knows how a goat will behave."
+    },
+    {
+     "id": "p013.s05",
+     "source": "We get our word “caprice,” and “capricious,” from his Latin name."
     }
    ],
    "id": "p013"
@@ -197,7 +297,19 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Where the recently restored castle of Munot now stands, there was once an older building occupied by a noble lord, who set out for a pilgrimage to the Holy Land, leaving wife and children safe at home."
+     "source": "Back of the columns, is the big sow, with her litter of little pigs, all of them."
+    },
+    {
+     "id": "p014.s02",
+     "source": "They are glad enough to go, and they look on the whole thing [ ] as a picnic."
+    },
+    {
+     "id": "p014.s03",
+     "source": "For now, instead of living on dry winter feed, they will get the juicy grass and herbage of the summer pasture."
+    },
+    {
+     "id": "p014.s04",
+     "source": "Mrs. Hog is certainly proud of her young porkers, but her music is hardly up to the carillon standard, for it consists chiefly of grunts, and this is the only language, in which the education of the piggies is carried on."
     }
    ],
    "id": "p014"
@@ -207,15 +319,11 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Those were the days of slow travel and no mail; so months became years without the Lady of Munot’s receiving any tidings of her absent spouse."
+     "source": "Feeling quite as important as any, and always wanting to hurry along, and go ahead faster, is the dog Tiger."
     },
     {
      "id": "p015.s02",
-     "source": "She therefore began to fear that he was dead, or that he had entirely forgotten wife and children at home."
-    },
-    {
-     "id": "p015.s03",
-     "source": "But such was not the case, for the knight, having surmounted many perils, was now very near home, and spurring on with all haste, in spite of the darkness, to see his family sooner."
+     "source": "This pet of the family and the terror of the goats, that give him a butt, when he gets too lively, looks more like a mastiff, than a collie, or one of his cousins, the stately St. Bernard dogs."
     }
    ],
    "id": "p015"
@@ -225,15 +333,19 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Only a short stretch of wood, and the torrent of the Mühlenthal lay between him and his castle; but although the knight fancied he knew every inch of the ground, he soon lost his way."
+     "source": "Finally, as the rear guard, is the daddy of the family."
     },
     {
      "id": "p016.s02",
-     "source": "Instead of crossing the swollen stream at the usual place, he plunged into its waters at the most dangerous point, only to find a watery grave within sight and sound of home."
+     "source": "He leads the horse, on which are packed and strapped the cheese caldron, for boiling the milk and cream."
     },
     {
      "id": "p016.s03",
-     "source": "One of his faithful retainers, however, managed to escape from the torrent, and sadly bore the sorrowful tidings to the poor widow."
+     "source": "From his position, Daddy can round up the unruly members of the herd, cows, goats, or pigs, that have too much genius, or temperament, or are too original, or independent, to obey rules."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Just as often, in a marching army, the rear guard is the place of honor, so the last cow, usually a superb animal, carries the milking stool between her horns."
     }
    ],
    "id": "p016"
@@ -243,7 +355,19 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "When the Lady of Munot learned how her spouse had perished, she put on mourning which she never laid aside, and to prevent other belated travellers from meeting a similar fate, hung a silver bell in the castle tower and had it rung for an hour every night."
+     "source": "The cows’ parade marks a heyday for the whole village."
+    },
+    {
+     "id": "p017.s02",
+     "source": "The girls are all out, and in their best dresses."
+    },
+    {
+     "id": "p017.s03",
+     "source": "Most of them will not see their [ ] brothers, their beaux, or their lovers, until autumn."
+    },
+    {
+     "id": "p017.s04",
+     "source": "So they make the most of the fun for a day."
     }
    ],
    "id": "p017"
@@ -253,15 +377,120 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "The mournful toll of this little bell at nightfall not only served to guide travellers safely through the forest, and keep the knight’s memory green, but also reminded his former vassals to say a prayer for the rest of their dead master’s soul."
+     "source": "During the summer, and until October, there are few of the male sex, except old men and small boys, left in the mountain or dairy villages."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Many are the farewells and handwavings, until the procession disappears around the curve of the mountains."
+    },
+    {
+     "id": "p018.s03",
+     "source": "Then the yodel music, the Ranz des Vaches, the Song of the Swiss, for centuries, is raised and echoed among the hills."
+    },
+    {
+     "id": "p018.s04",
+     "source": "The words are, in most cases, very old, and in a sort of French, that is never heard in Paris, or at the universities."
+    },
+    {
+     "id": "p018.s05",
+     "source": "The notes are very much as their Swiss ancestors sung them, before America was discovered."
+    },
+    {
+     "id": "p018.s06",
+     "source": "The words are, in many of the songs, quite witty."
+    },
+    {
+     "id": "p018.s07",
+     "source": "In one form or another, they are in praise of the work and craft of the cattle, or dairy men."
     }
    ],
    "id": "p018"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "The yodel music will never die."
+    },
+    {
+     "id": "p019.s02",
+     "source": "The herds may change in breed, form, or numbers, but never the song."
+    },
+    {
+     "id": "p019.s03",
+     "source": "When heard near at hand, there is too much jingle, with many discords; but distance lends enchantment to the sound."
+    },
+    {
+     "id": "p019.s04",
+     "source": "When far away, all notes melt into sweetness and accord."
+    }
+   ],
    "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Once up in the regions near the sky, while the echoes, coming back from the peaks, make angelic sweetness, and heavenly harmony, the Swiss boy has a fine time in both work and play. [ ] At no other season are the meadows more beautiful."
+    },
+    {
+     "id": "p020.s02",
+     "source": "He soon finds out, however, the difference between cows and goats."
+    },
+    {
+     "id": "p020.s03",
+     "source": "The larger animals stay on the levels, obey the rules, and are faithful, punctual, and well drilled."
+    },
+    {
+     "id": "p020.s04",
+     "source": "They always move homewards when the horn calls, or the yodel music sounds."
+    },
+    {
+     "id": "p020.s05",
+     "source": "On the contrary, the goats are often obstinate, and act as if imps and elves were in them."
+    },
+    {
+     "id": "p020.s06",
+     "source": "Then, too, they love to climb and wander."
+    },
+    {
+     "id": "p020.s07",
+     "source": "It is, with them, a game of Johnnie Jump Up, pretty much all the time."
+    },
+    {
+     "id": "p020.s08",
+     "source": "They leap and scramble out of the meadows, and up over the rocks, climbing thousands of feet towards the mountain tops, and into the most difficult places, as if they loved to play hide and seek and plague the shepherds."
+    },
+    {
+     "id": "p020.s09",
+     "source": "This gives the boy plenty to do in hunting them, for it is hard to hear their bells tinkling, when the wind blows roughly, or in the wrong direction."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "In autumn, when Jack Frost returns, and storms are many and frequent, and the snows heavy, the march back and down is made in good order."
+    },
+    {
+     "id": "p021.s02",
+     "source": "Then, all the village folk turn out again, to welcome the shepherds."
+    },
+    {
+     "id": "p021.s03",
+     "source": "As the men, cows, goats, pigs and horses return, the latter are well loaded with cheeses."
+    },
+    {
+     "id": "p021.s04",
+     "source": "These will be sold and sent to the cities in foreign countries, and especially across the sea to America. [ ]"
+    }
+   ],
+   "id": "p021"
   }
  ]
 }

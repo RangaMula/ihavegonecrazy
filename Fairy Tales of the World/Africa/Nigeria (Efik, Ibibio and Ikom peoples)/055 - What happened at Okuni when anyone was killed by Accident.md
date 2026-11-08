@@ -4,7 +4,7 @@
 - **Source book:** *Ikom folk stories from Southern Nigeria*
 - **Author / collector / translator:** Dayrell, Elphinstone (author, d. 1917)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #70959 — https://www.gutenberg.org/ebooks/70959 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #70959 — https://www.gutenberg.org/ebooks/70959
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

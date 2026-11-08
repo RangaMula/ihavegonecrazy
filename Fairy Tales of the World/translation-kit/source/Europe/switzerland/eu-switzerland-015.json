@@ -2,20 +2,20 @@
  "id": "eu-switzerland-015",
  "title": {
   "id": "title",
-  "source": "St. Gall And Appenzell"
+  "source": "The Avalanche That Was Peacemaker"
  },
  "tradition": "Switzerland",
  "continent": "Europe",
  "source_lang": "en",
- "source_book": "Legends of Switzerland",
- "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #64163 — https://www.gutenberg.org/ebooks/64163 (copied via the GITenberg mirror)",
+ "source_book": "Swiss Fairy Tales",
+ "credits": "Griffis, William Elliot (author, d. 1928)",
+ "gutenberg": "Project Gutenberg eBook #69739 — https://www.gutenberg.org/ebooks/69739",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Europe/Switzerland/015 - St. Gall And Appenzell.md",
+ "markdown_file": "Europe/Switzerland/015 - The Avalanche That Was Peacemaker.md",
  "stats": {
-  "paragraphs": 16,
-  "segments": 44,
-  "words": 1324
+  "paragraphs": 32,
+  "segments": 97,
+  "words": 2377
  },
  "paragraphs": [
   {
@@ -23,11 +23,19 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "St. Gall , capital of the canton of the same name, which entirely surrounds that of Appenzell, is noted for the famous abbey founded in 614 by St. Gallus, an Irish monk."
+     "source": "Sometimes judges and lawyers advise people, that have a quarrel, to settle their case outside of court."
     },
     {
      "id": "p001.s02",
-     "source": "He had come into this unsettled region to preach the gospel, and when his disciple Hiltiboldus urged that they would be exposed to the attacks of the bears, wolves, and boars, quietly answered, “If God is with us, who can be against us?”"
+     "source": "When a person thus decides between two, who are not agreed, we say that they are judicially minded."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Now there was once, in Switzerland, an avalanche, that did what peacemakers and honest judges could not accomplish."
+    },
+    {
+     "id": "p001.s04",
+     "source": "So it was called the Judicial Avalanche."
     }
    ],
    "id": "p001"
@@ -37,19 +45,27 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "The snakes which had infested that region departed for good and all at the saint’s command, and his disciple soon discovered that even the wild beasts of the forest stood in awe of so holy a man."
+     "source": "Now, in the path of this avalanche, as it began to roll, was a rounded rock, called the Pagoda Curve."
     },
     {
      "id": "p002.s02",
-     "source": "One evening, while Gallus was praying at the foot of a rustic cross, a bear came down the mountain to devour his provisions."
+     "source": "This was because it had a turn up and backward, like a sleigh runner."
     },
     {
      "id": "p002.s03",
-     "source": "St. Gallus, perceiving the theft, quietly bade the bear earn the food he had eaten, by bringing wood to keep up his fire."
+     "source": "At a distance, it looked like one of the roofs, which they build in Peking, Soochow, and other Chinese cities."
     },
     {
      "id": "p002.s04",
-     "source": "The crestfallen Bruin humbly fulfilled this penance, and when the saint told him henceforth to remain on the heights, never ventured down into the valley again."
+     "source": "Once in a while, the ladies of the village on the slope below held tea parties on it, drinking out of egg shell china cups."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Then the maidens pretended they had little feet, and ate candied ginger, and stuck pear blossoms in their hair."
+    },
+    {
+     "id": "p002.s06",
+     "source": "On their part, the boys wore pigtails [ ] of horsehair, behind their caps and shot off fire crackers, to make believe they were Chinese mandarins of the old style."
     }
    ],
    "id": "p002"
@@ -59,23 +75,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "One day Gallus’s disciple discovered an apple-tree far up the mountain, and climbing up shook down some fruit to carry home to his master."
+     "source": "One summer’s day, this tremendous avalanche came rolling and thundering down the mountain side, and Pagoda Curve was directly in its path."
     },
     {
      "id": "p003.s02",
-     "source": "But when he slid to the ground again, he was dismayed to find a huge bear on the other side of the tree greedily munching the fallen apples."
+     "source": "When it struck this rounded rock, there was not enough of the bulge or re-curve, to stop the avalanche, but only to give an upward joust, or bounce, toward the sky."
     },
     {
      "id": "p003.s03",
-     "source": "The disciple’s first impulse was to flee, but remembering that his master was fond of fruit, he determined to secure some for him."
-    },
-    {
-     "id": "p003.s04",
-     "source": "Taking his staff, therefore, he scratched deep marks at right angles with the tree, and then gravely informed the bear that while he was welcome to the apples on his side of the line, those which fell on the other were reserved for St. Gallus."
-    },
-    {
-     "id": "p003.s05",
-     "source": "Strange to relate, the bear understood this speech, and as long as the apples lasted never ventured to touch one on the saint’s side of the line, although he devoured all those on his own!"
+     "source": "Then the big ball which, for a moment, was poised high in air, hung directly over the houses, five hundred feet below."
     }
    ],
    "id": "p003"
@@ -85,11 +93,19 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The cell and cross of St. Gallus were the nucleus of a monastery and school, which for several centuries had no rival in Europe."
+     "source": "This dorf, or village, had a name, which, in English, means Tell’s Apple."
     },
     {
      "id": "p004.s02",
-     "source": "Kings and emperors were wont to visit it, and the abbey, enriched by their gifts and concessions, daily increased in importance and wealth."
+     "source": "Most of the houses stood on a flat place, among the mountains which rose round about it, like sentinels in ice-armor."
+    },
+    {
+     "id": "p004.s03",
+     "source": "The people who built it, long ago, were great admirers of the famous archer, who shot the apple off his little son’s head."
+    },
+    {
+     "id": "p004.s04",
+     "source": "The place where they kept the pig pens was named Gessler, after the cruel governor."
     }
    ],
    "id": "p004"
@@ -99,15 +115,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Within the walls of this edifice dwelt men noted for their learning, and countless scribes spent their lives there, patiently copying and illuminating manuscripts which, but for their efforts, might have been lost to mankind."
-    },
-    {
-     "id": "p005.s02",
-     "source": "Some of these manuscripts still remain in the abbey library; among others, a thirteenth century copy of the Niebelungenlied, Germany’s famous epic."
-    },
-    {
-     "id": "p005.s03",
-     "source": "Innumerable scholars visited the school and abbey at St. Gall, which is said to have been the scene of a comical encounter between the abbot and Charlemagne, almost an exact counterpart of the story of King John and the Archbishop of Canterbury."
+     "source": "Now in this place, and just at this time, there was a very ugly and dilapidated old house of worship, which had been erected several hundred years before, and was now almost ready to tumble to pieces."
     }
    ],
    "id": "p005"
@@ -117,7 +125,19 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "See the author’s “Legends of the Rhine.”"
+     "source": "For a long time, the question, of tearing down the old church and erecting in its place a new one, in modern style, had so vexed the community, [ ] that a disgraceful squabble had broken out."
+    },
+    {
+     "id": "p006.s02",
+     "source": "The people of one party would not speak to, or have anything to do with, those of the other way of thinking; and all on account of this old building."
+    },
+    {
+     "id": "p006.s03",
+     "source": "The young people were hot for a new edifice."
+    },
+    {
+     "id": "p006.s04",
+     "source": "They hoped to get an architect from Zurich, who had gone from their village, and had his plans all ready, which the young ladies all said were “just lovely.”"
     }
    ],
    "id": "p006"
@@ -127,7 +147,11 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "The old monastery life so ably depicted in “Ekkehard,” by Von Scheffel, with its descriptions of the herdsmen and hermit on the Sentis, have surrounded that region with a halo of romance for all who have enjoyed the perusal of the book."
+     "source": "Against these, the old folks held to the idea of keeping the holy house yet a while longer."
+    },
+    {
+     "id": "p007.s02",
+     "source": "The aged people were especially anxious that the venerable tower should not be touched, but be kept; and they even wanted to give it a new coat of paint, for which, of course, the younger party would not vote."
     }
    ],
    "id": "p007"
@@ -137,19 +161,11 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "The Sentis, with its cap of snow, is the highest mountain in Appenzell, and the goal for travellers who wish to make a whey cure or to enjoy an excursion to its summit."
+     "source": "On this very afternoon, the choir had gathered to practice to sing the hymns for Sunday."
     },
     {
      "id": "p008.s02",
-     "source": "From the top of this mountain the view embraces the Lake of Constance, southern Germany, the Tyrolean Mountains, and the Alps in Glarus and Bern."
-    },
-    {
-     "id": "p008.s03",
-     "source": "All the way up are various pastures with their low châlets, where butter and cheese are constantly made and carried down the steep paths for consumption in the valleys."
-    },
-    {
-     "id": "p008.s04",
-     "source": "The Sentis, like all other mountains where cattle go to pasture, is supposed to be haunted by mountain-folk, who, when well treated, always helpful to mortals."
+     "source": "The organist had put his foot on the pedals and struck the keys, and the soprano had just opened her mouth, when down thundered the avalanche!"
     }
    ],
    "id": "p008"
@@ -159,19 +175,11 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "The Devil, too, plays his part in the Sentis legends, for one of them claims that a lazy herdsman once called upon him to take his cattle, so that he need no longer run after them when they strayed into dangerous places."
+     "source": "This was far worse, than when a June bug had once flown into her mouth—as had happened on a Sunday night, a few weeks before."
     },
     {
      "id": "p009.s02",
-     "source": "The words were no sooner uttered than a hurricane swept down the mountain, and the terrified peasant saw Satan, riding on the wind, drive his cows over the edge of the abyss."
-    },
-    {
-     "id": "p009.s03",
-     "source": "In sudden repentance he made a sign of the cross, fell on his knees, and cried that he had sinned grievously."
-    },
-    {
-     "id": "p009.s04",
-     "source": "At those words the wind ceased, the Devil vanished; but ever since then the pasture, which had been known as the Glücksalp, or Lucky Alp, has been called Im Fehlen, or In Sin."
+     "source": "She stopped and the tenor’s face turned white, as if the crack of doom had been heard."
     }
    ],
    "id": "p009"
@@ -181,15 +189,11 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Another legend claims that the Devil once came striding across northern Switzerland with a huge bag slung over his shoulder."
+     "source": "The sexton was outside, sitting on the steps smoking his pipe, when a lump of ice knocked [ ] the pipe out of his mouth, scattering fire and tobacco, down into his vest bosom and over his best trousers."
     },
     {
      "id": "p010.s02",
-     "source": "In this sack he had packed away a large number of houses, together with their inhabitants, and was carrying them away with the intention of removing them for ever from Swiss soil."
-    },
-    {
-     "id": "p010.s03",
-     "source": "While taking a leap over the Sentis, however, he burst a hole in his bag, and the houses all tumbled down in Appenzell, where they still stand in irregular groups, just as they fell."
+     "source": "Then followed a crash, as stone and brick, and the lightning rod, fell on the paving stones of the street."
     }
    ],
    "id": "p010"
@@ -199,11 +203,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "The same story which is told of the Alphorn at Meiringen is also told of the heights near the much frequented baths of Ragatz, in the southern part of the canton of St. Gall."
+     "source": "All thought the world had come to an end, but when they lifted up their eyes to note the damage, they all declared that this was the most obliging and considerate avalanche, that had ever visited that region."
     },
     {
      "id": "p011.s02",
-     "source": "Not very far from this resort, and on the same wild stream, the Tamina, are the no less noted baths of Pfäfers, and farther up the gorge an ancient abbey of the same name, to which legend ascribes the following origin:—"
+     "source": "It simply knocked over the old tower, and enough of the church walls to compel rebuilding."
     }
    ],
    "id": "p011"
@@ -213,15 +217,7 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "In the beginning of the eighth century St. Pirminius and his disciple Adalbert preached the gospel in the eastern part of Switzerland."
-    },
-    {
-     "id": "p012.s02",
-     "source": "Their efforts were rewarded with such success that they determined to build a chapel and monastery in this part of the country."
-    },
-    {
-     "id": "p012.s03",
-     "source": "Wishing to secure the Pope’s consent and blessing for this undertaking, Pirminius set out for Rome, bidding Adalbert in the meantime select a suitable site and begin clearing ground."
+     "source": "The mighty mass rolled past one corner of the village, upsetting a farmer’s barn, but doing no further hurt or damage, except to a bob-tailed cat of vicious character."
     }
    ],
    "id": "p012"
@@ -231,19 +227,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "After much search Adalbert decided upon a lovely sheltered valley, where the sun shone brightly, where grass and fruit-trees were abundant, and where limpid waters flowed gently through meadows and forests."
-    },
-    {
-     "id": "p013.s02",
-     "source": "He and his converts now began felling trees, but while doing so Adalbert’s axe suddenly slipped, inflicting a deep wound in his sandalled foot."
-    },
-    {
-     "id": "p013.s03",
-     "source": "The blood gushed forth, staining the chips around, and while all were trying to check its flow, a white dove suddenly alighted near them, and catching up a gory chip, flew off to a neighbouring tree."
-    },
-    {
-     "id": "p013.s04",
-     "source": "At the same moment Adalbert’s blood stopped running, the wound closed, and in a moment he felt no more pain."
+     "source": "This animal had fought with many dogs, and one, that it had scratched pretty badly, had bitten off its tail, so short, that even a rabbit would be ashamed of the measly tuft, left on the end, for, only what looked like a furry plug was visible."
     }
    ],
    "id": "p013"
@@ -253,15 +237,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "This miraculous cure seemed to all connected in some way with the dove; so when the bird flew slowly away with the chip, Adalbert determined to follow it."
+     "source": "Now this old puss, known as “Stumpy,” was just that minute about to sneak up to a bird box, in which were four very hungry little birdies."
     },
     {
      "id": "p014.s02",
-     "source": "Flitting from tree to tree and from rock to rock, the dove entered the cold and dark Tamina gorge, and penetrating ever farther, finally perched on a sombre pine, and dropped the bloody chip at its foot."
-    },
-    {
-     "id": "p014.s03",
-     "source": "Returning to his companions, Adalbert now told them he must await Pirminius’ return, and relate these marvels to him so that he might interpret them if he could."
+     "source": "The mother bird was out, seeking worms for her little folks’ dinner."
     }
    ],
    "id": "p014"
@@ -271,23 +251,352 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "When the saint came back from Rome and learned what had happened, he immediately cried that Providence had sent them a sign, wishing them to build a church and abbey on the spot where the dove had dropped the bloody chip."
+     "source": "Stumpy was just about to thrust in one of its front paws, through the little round hole, in the [ ] bird box, hoping to claw and drag out the four squabs, one by one, and eat them all up; when down came the edge of the avalanche, like ten billion of bricks."
     },
     {
      "id": "p015.s02",
-     "source": "He added that such a wild, desolate region was more fitted to encourage a life of constant penance, labour, and prayer than the valley flowing with milk and honey first chosen by Adalbert."
+     "source": "It just grazed the bird box, without doing any harm, or hurting the young ones inside, but it flattened out that puss, so that it crawled away alive, but limping, and meowing most piteously, and with one ear ground off by a bit of sharp ice."
     },
     {
      "id": "p015.s03",
-     "source": "By his orders the Abbey of Pfäfers was begun, and to this day its seal bears a white dove carrying a bloody chip in its beak, in memory of the miracle to which it owes its location."
+     "source": "The mother bird, returning at this moment, seeing the cat, danced around and chirped out what sounded like the Japanese “aru beki” (served you right)."
     }
    ],
    "id": "p015"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "The avalanche was last seen, when rolling down the valley in the direction of the vineyards, apparently with the fell purpose of overwhelming them all in one common ruin."
+    },
+    {
+     "id": "p016.s02",
+     "source": "But, on its way, it struck again, right in the face, of an outjutting rock, on the side of a mountain, which made it roll around in another direction."
+    }
+   ],
    "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "As for the church question, that was settled."
+    },
+    {
+     "id": "p017.s02",
+     "source": "There must be a new building and there was one soon, which, when finished, toned up the whole dorf."
+    },
+    {
+     "id": "p017.s03",
+     "source": "At a later meeting, one frivolous youth proposed a resolution of thanks to the avalanche, but this was voted down."
+    },
+    {
+     "id": "p017.s04",
+     "source": "Then the pertinacious fellow brought in a proposition to give thanks for the special Providence, that had opened the way to peace in the church."
+    },
+    {
+     "id": "p017.s05",
+     "source": "This was carried by a [ ] majority vote, all the young people being on the affirmative side."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "The way that judicial avalanche behaved, was a scandal among the Frost Giants."
+    },
+    {
+     "id": "p018.s02",
+     "source": "The old style had been to toss donkeys, and their drivers, down within glacier crevices, into cold storage, a thousand feet deep; to crush houses, kill cattle, and bury more people in one day than the undertakers could put into coffins in a month."
+    },
+    {
+     "id": "p018.s03",
+     "source": "Besides this, old fashioned avalanches used to lay waste orchards, and fruitful fields, and spoil vineyards."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "The conduct of this avalanche, which seemed bent on settling quarrels, was more like that of a nun, a monk, a parson, or an old grandmother."
+    },
+    {
+     "id": "p019.s02",
+     "source": "It happened to be about the time that the great Napoleon was upsetting the world like a political avalanche, and the Empress Josephine was covering up the red arms of peasant girls, now wives of generals, with long white kid gloves reaching up to the arm pits."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Now, in a certain house in the dorf, an old fashioned mother was scolding her frivolous young daughter, named Angelette, for aping Paris and Napoleonic fashions."
+    },
+    {
+     "id": "p020.s02",
+     "source": "She remarked that things had come to a pretty pass, when a young snip of a girl needed the leather of a whole goat to clothe her arms."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Daddy had also joined in the conversation, but only to lose his temper."
+    },
+    {
+     "id": "p020.s04",
+     "source": "In his gestures, the cover of his pipe dropped [ ] off, spilling the hot ashes all over his daughter’s low-necked frock."
+    },
+    {
+     "id": "p020.s05",
+     "source": "The sparks made her jump, besides reddening the skin of her neck, even more than her arms."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "The girl Angelette was dressing for the evening dance, on the green, and was quite put out by the accident."
+    },
+    {
+     "id": "p021.s02",
+     "source": "In fact, the old man had seized the tip of Angelette’s middle finger of her glove and had pulled off the half yard or more of white kid, when the avalanche flew past."
+    },
+    {
+     "id": "p021.s03",
+     "source": "It flung a bit of rock, like the bolt of a catapult, right through the window, sending the glove, all muddy and torn, out of the other."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Thinking his last day had come, the old daddy fell on his knees to pray, but he was quickly awakened to his senses, by hearing a regular concert in the barn yard."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Outside, the donkeys were braying, the horses neighing, the roosters crowing, the geese cackling, the hens clucking, and the dogs barking—and all in joy."
+    },
+    {
+     "id": "p022.s03",
+     "source": "As for the old billy goat, he stood up on his hind legs and cut up such capers, that the whole family of kids began to imitate him by frisking in a circle."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Where, a minute or two before, had been ominous stillness, there had come, in the twinkling of an eye, a salvo of rejoicing in the animal world."
+    },
+    {
+     "id": "p023.s02",
+     "source": "It was as if the boarders in Noah’s ark had been let loose and were having a concert."
+    },
+    {
+     "id": "p023.s03",
+     "source": "It’s a way the animals have, of showing their [ ] joy, with a kind of music, all their own, which they can make, when the danger they feared is over and deliverance has come."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "There was also a bride, the daughter of the richest man in the dorf, who was dressing for her wedding."
+    },
+    {
+     "id": "p024.s02",
+     "source": "All the other girls of her set were collecting their old shoes and handfuls of rice, ready to fling after the young couple’s carriage for good luck."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "The bride’s kid boots, ordered from Paris, had cost fourteen dollars."
+    },
+    {
+     "id": "p025.s02",
+     "source": "The mail wagon having arrived, with the letters and the salt, at the Post Office, had just stopped in front of the bride’s house and handed out the long waited package."
+    },
+    {
+     "id": "p025.s03",
+     "source": "The servant maid was bringing the lovely white buttoned shoes upstairs, when, along and downward, thundered the avalanche."
+    },
+    {
+     "id": "p025.s04",
+     "source": "According to a way that avalanches have, this one flung off, at the sides, stones, rocks, gravel, ice and mud."
+    },
+    {
+     "id": "p025.s05",
+     "source": "Now, like cannon balls in a bombardment, one mass of wet snow, not quite so big as a fat elephant, struck the maid."
+    },
+    {
+     "id": "p025.s06",
+     "source": "It knocked her heels over head, sent her slippers flying, and her feet in the air, until one could see the color of her stockings, from toe to knees."
+    },
+    {
+     "id": "p025.s07",
+     "source": "As for the box from Paris, it was shot, as out of a gun, into the pig pen."
+    },
+    {
+     "id": "p025.s08",
+     "source": "The bride screamed, but nobody was hurt, and the maid quickly smoothed out her [ ] hair and dress, put on her slippers, and she was soon presentable."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "It was weeks after the honeymoon, and return of the couple, that, after searching up hill and down dale, the remains of what were once a pair of white kid boots from Paris, were found in the black mire, among the pigs."
+    },
+    {
+     "id": "p026.s02",
+     "source": "Not knowing what it was, the porkers had crushed it under their hoofs."
+    },
+    {
+     "id": "p026.s03",
+     "source": "After trial with their teeth, unable to eat it, or its not tasting nice, the pigs thought it was not worth a turnip."
+    },
+    {
+     "id": "p026.s04",
+     "source": "One piggy, without chewing, had actually attempted to swallow it."
+    },
+    {
+     "id": "p026.s05",
+     "source": "Not finding it suited to a hog’s diet, the animal had dropped it with a grunt, and trampled on it."
+    },
+    {
+     "id": "p026.s06",
+     "source": "When fished out with the long handled pitchfork, it was recognized as a Paris shoe, by the two white buttons, which had escaped the blackening of the mire."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "By this time the proceedings of this avalanche, which had started out to settle quarrels, had become positively frivolous."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Wabbling about, here and there, reeling like a man with a quart of brandy in his stomach, the mighty ball rolled down the long road, leading into a larger village."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“Now,” fancied the Frost Giants, that were watching from aloft, “it surely will uphold the reputation of the family and act like other avalanches, in turning villages into cemeteries, and [ ] farms and vineyards into deserts.”"
+    },
+    {
+     "id": "p028.s02",
+     "source": "Vain thought!"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "This lively chit of an avalanche followed the road, far enough to tumble, flat into the ditch, some drunken fellows, who had just come out of the gin house, and were staggering homewards."
+    },
+    {
+     "id": "p029.s02",
+     "source": "It was like ironing out clothes, to see the way that avalanche flattened out those topers."
+    },
+    {
+     "id": "p029.s03",
+     "source": "It left them for hours on the roadside, faces downwards, and sleeping off their debauch."
+    },
+    {
+     "id": "p029.s04",
+     "source": "When they woke up, as out of a cold bath, they shook off the snow and trudged homeward, only to get, from their sharp-tongued wives, the scoldings they richly deserved."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Many another adventure did that judicial avalanche have, before it had scudded past other villages, but hurting next to nothing, avoiding forests, farmhouses and vineyards, until it reached a glacier, over which it rolled."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "Scratching, cracking, dropping out dirty stuff, rock and gravel, it acted like a dredge box."
+    },
+    {
+     "id": "p031.s02",
+     "source": "It sprinkled out its contents, to fill up the great deep green crevasses in the ice, until it finally reached a big open space of waste land, that had nothing on it, but rocks and bushes."
+    },
+    {
+     "id": "p031.s03",
+     "source": "Then, with a roar, as if laughing at itself, it broke up, spread open, and left the place strewn with more rocks and stones and lumps of ice."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Then a troop of fairies came riding on the hot, [ ] dry, south wind."
+    },
+    {
+     "id": "p032.s02",
+     "source": "They blew, with their breath, on the snow mass, and quickly melted it into the river, so fast, indeed, that men wondered at the high water in the distant lakes and the rivers in France."
+    },
+    {
+     "id": "p032.s03",
+     "source": "In lovely Switzerland, new soil was made, where today are farms and vineyards."
+    },
+    {
+     "id": "p032.s04",
+     "source": "In time, billions of purple clusters are plucked, and willing tourists are happy, in taking the grape cure; while they walk over the place where once, a judicially minded avalanche had laughed so hard, that it burst. [ ]"
+    }
+   ],
+   "id": "p032"
   }
  ]
 }

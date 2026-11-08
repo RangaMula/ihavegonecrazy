@@ -2,28 +2,36 @@
  "id": "as-armenia-004",
  "title": {
   "id": "title",
-  "source": "Locality Legends"
+  "source": "The Youngest Of The Three"
  },
  "tradition": "Armenia",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Armenian Legends and Festivals",
- "credits": "Boettiger, Louis A. (Louis Angelo) (author)",
- "gutenberg": "Project Gutenberg eBook #38129 — https://www.gutenberg.org/ebooks/38129 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Asia/Armenia/004 - Locality Legends.md",
+ "source_book": "The Golden Maiden, and other folk tales and fairy stories told in Armenia",
+ "credits": "Seklemian, A. G. (Apraham Garabed) (author, d. 1920)",
+ "gutenberg": "Project Gutenberg eBook #46944 — https://www.gutenberg.org/ebooks/46944",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Armenia/004 - The Youngest Of The Three.md",
  "stats": {
-  "paragraphs": 29,
-  "segments": 113,
-  "words": 2650
+  "paragraphs": 140,
+  "segments": 302,
+  "words": 5018
  },
  "paragraphs": [
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Section 1. Ararat"
+     "source": "My grandmother once told me a story of a King who fell sick in his royal palace."
+    },
+    {
+     "id": "p001.s02",
+     "source": "All the doctors and magicians of the country gathered to consult, but they found no remedy."
+    },
+    {
+     "id": "p001.s03",
+     "source": "An old doctor, however, who was well versed in magic, said:"
     }
    ],
    "id": "p001"
@@ -33,47 +41,15 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "There is a third and last body of Armenian legends more closely related to the second group discussed than to the first, and yet marked off in some respects from the second as well."
+     "source": "“There is only one remedy for our King."
     },
     {
      "id": "p002.s02",
-     "source": "They have a distinct religious stamp like those we have just finished describing, and they are all related in some way to the stories of the Old Testament."
+     "source": "There is a certain garden in India and in it a tree upon which grows the Apple of Life."
     },
     {
      "id": "p002.s03",
-     "source": "The legend of Haic is related to the Old Testament, for Haic was the great-grandson of Noah, but it clearly belongs to the first group taken up, for the reason that it has to do with the origin of the Armenian nation."
-    },
-    {
-     "id": "p002.s04",
-     "source": "The first body, including Haic, and the legends of Semiramis and Ara, Vahakn, Artasches and Satenik, and Artavazd, are all concerned with ancient Armenian kings, real or mythical, and all go back to a time before the introduction of Christianity."
-    },
-    {
-     "id": "p002.s05",
-     "source": "Vahakn was deified, but that does not exclude him since he was first a king."
-    },
-    {
-     "id": "p002.s06",
-     "source": "The second group, including the legends of Abgar, Rhipsime and Gaiane, Gregory, Thaddeus, and Tiridates, are all concerned with historical figures, real or supposed, and there is no doubt about their historic reality, with the exception of Rhipsime and Gaiane."
-    },
-    {
-     "id": "p002.s07",
-     "source": "But what marks them off from the other groups is that they are all concerned with the introduction of Christianity into the country."
-    },
-    {
-     "id": "p002.s08",
-     "source": "Those of the third group have no historic value whatever."
-    },
-    {
-     "id": "p002.s09",
-     "source": "They are legends based upon legends that date back to a period even more remote than the legend of Haic, and their social value does not approach that of the first two groups."
-    },
-    {
-     "id": "p002.s10",
-     "source": "They are all connected in some way, either with the Old Testament legend of Noah, or with the legend of the origin of man."
-    },
-    {
-     "id": "p002.s11",
-     "source": "No traveler ever passed through Armenia without hearing of one or more of them."
+     "source": "As soon as the King eats an apple of that tree he will be healed and become as sound as a new-born babe.”"
     }
    ],
    "id": "p002"
@@ -83,31 +59,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "“In the seventh month, on the seventeenth day of the month, the ark rested upon the mountains of Ararat.”"
-    },
-    {
-     "id": "p003.s02",
-     "source": "Every Armenian, and others, too, believe that this is the Ararat of Armenia, or Masis as it is called, and it is true that there is absolutely nothing to disprove such a belief."
-    },
-    {
-     "id": "p003.s03",
-     "source": "James Bryce has given a careful consideration to the question, and states in conclusion that full liberty is left to the traveler to consider the “snowy sovereign of the Araxes plain” to be the true Ararat."
-    },
-    {
-     "id": "p003.s04",
-     "source": "There are several points that may be noted."
-    },
-    {
-     "id": "p003.s05",
-     "source": "First, there is nothing in the statement of Genesis to show that the Ararat mentioned was a mountain called by that name; it seems rather that Ararat was a section of country, for the passage states that the ark rested “upon the mountains of Ararat.”"
-    },
-    {
-     "id": "p003.s06",
-     "source": "In the second place, the mountain is not called Ararat by Armenians, but Masis."
-    },
-    {
-     "id": "p003.s07",
-     "source": "And thirdly, there is no independent Armenian tradition of the flood so far as is known, for it can not be shown that the modern tradition is older than the Christian era."
+     "source": "“But I have heard,” answered the King, “that certain giants guard that tree, and pick off the fruit as soon as it is ripe, no mortal can get at it.”"
     }
    ],
    "id": "p003"
@@ -117,15 +69,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "These facts would be conclusive evidence that Armenian Ararat is not the traditional Ararat of the Old Testament, were it not, first, for the fact that there was in the region of the mountain a province of Airarat which in all probability corresponds to the biblical Ararat."
+     "source": "Now the King had three sons standing near by."
     },
     {
      "id": "p004.s02",
-     "source": "Secondly, the biblical Ararat unquestionably corresponds to the Assyrian Urarthu which is the section of country about Lake Van and Mount Ararat."
-    },
-    {
-     "id": "p004.s03",
-     "source": "So that, although not absolutely conclusive, the Armenian tradition enjoys a very high degree of probability."
+     "source": "The eldest said:"
     }
    ],
    "id": "p004"
@@ -135,27 +83,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "In this connection the legend of the village of Nakhitchevan is worth noting."
+     "source": "“Long live the King!"
     },
     {
      "id": "p005.s02",
-     "source": "It is situated just to the north of the mountain on the left bank of the Araxes."
-    },
-    {
-     "id": "p005.s03",
-     "source": "Armenians believe it to be the place where Noah first landed, and as proof, the name of the village, which means, “the first place of landing,” is cited."
-    },
-    {
-     "id": "p005.s04",
-     "source": "One might suppose the name to have been given by the Christians after the conversion to Christianity, were it not that Ptolemy places in the same spot a city named Naxuana which is the exact Greek for the Armenian name."
-    },
-    {
-     "id": "p005.s05",
-     "source": "Also Josephus, fifty years before Ptolemy speaks of the place, as quoted by St. Martin : “ Les Arméniens appellent ce lieu l’endroit de la descente parce que c’est là que l’arche trouva un endroit de salut, et qu’encore actuellement les indigènes montrent ses débris. ” Tavernier who traveled through the country along about 1700 speaks of Nakhitchevan as the “oldest city of the world” and gives the tradition."
-    },
-    {
-     "id": "p005.s06",
-     "source": "But many Jews, who undoubtedly gave the village its name, lived in Armenia, long before the Christian era."
+     "source": "I will go and bring the Apple of Life for you;” and he took leave of his father."
     }
    ],
    "id": "p005"
@@ -165,23 +97,15 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Situated on a broad plain four or five thousand feet above sea level, Ararat rises majestic and solitary to a height of 17,000 feet."
+     "source": "After a long and perilous journey he came to the tree which bore the Apple of Life."
     },
     {
      "id": "p006.s02",
-     "source": "There are no lesser peaks or ranges to destroy the grandeur of the effect."
+     "source": "But the night on which the fruit ripened a sound sleep overpowered his senses, and the giant came, and picking off the fruit went away."
     },
     {
      "id": "p006.s03",
-     "source": "Except for its companion , Little Ararat, which rises beside it on a common base to a height of 12,840 feet, it stands alone as monarch of the broad plain it surveys."
-    },
-    {
-     "id": "p006.s04",
-     "source": "Little Ararat is in the form of a perfect cone, whereas Ararat is broad-shouldered and dome-shaped, supported by huge buttresses and capped with snow a considerable distance down the slope through the entire year."
-    },
-    {
-     "id": "p006.s05",
-     "source": "It is truly symbolic of strength and majesty."
+     "source": "In the morning, the lad seeing the Apple had been picked off, returned home to tell of his ill-luck."
     }
    ],
    "id": "p006"
@@ -191,67 +115,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Such is the mountain about which a thousand legends cluster."
-    },
-    {
-     "id": "p007.s02",
-     "source": "Marco Polo says of the mountain: “There is an exceeding great mountain on which it is said the ark of Noah rested, and for this cause it is called the mountain of the Ark of Noah.”"
-    },
-    {
-     "id": "p007.s03",
-     "source": "In 1254, a little before Marco Polo’s time, a Franciscan friar, William of Rubruck passed by the mountain upon which the ark is said to have rested, which mountain, he said, could not be ascended, though the earnest prayers of a pious monk prevailed so far that a piece of the wood of the ark was brought to him by an angel, which piece, he said, is still preserved in a church near by as a holy relic."
-    },
-    {
-     "id": "p007.s04",
-     "source": "He gives Masis as the name of the mountain and adds that it is the Mother of the World."
-    },
-    {
-     "id": "p007.s05",
-     "source": "According to a Persian tradition it is called “Cradle of the Human Race.”"
-    },
-    {
-     "id": "p007.s06",
-     "source": "Still more interesting is the account by Sir John Maundeville, part of which runs as follows: “ Fro Artyroun go men to an Hille, that is clept Sabisocolle."
-    },
-    {
-     "id": "p007.s07",
-     "source": "And there besyde is another Hille, that men clepen Ararathe: but the Jews clepen it Taneez, where Noas Schipp rested: and zit is upon that Montayne and men may see it a ferr in clear wedre: and that Montayne is well a myle high."
-    },
-    {
-     "id": "p007.s08",
-     "source": "And sum men seyn that they have seen and touched the Schipp; and put here Fyngres in the parties where the Feend went out when that Noe seyd ‘Benedicta.’"
-    },
-    {
-     "id": "p007.s09",
-     "source": "But they that seyn such Wordes seyn here Willie, for a man may not gon up the Montayne for gret plenties of Snow that is alle weys on that Montayne nouther Somer ne Winter: so that no man may gon up there: ne never man did, sithe the time of Noe: Saf a Monk that be the grace of God brought one of the Plankes down, that zit is in the Mynstre at the foot of the Montayne."
-    },
-    {
-     "id": "p007.s10",
-     "source": "And beside is the Cytes of Dayne that Noe founded."
-    },
-    {
-     "id": "p007.s11",
-     "source": "And faste by it is the Cytee of Any, in which were 1000 churches."
-    },
-    {
-     "id": "p007.s12",
-     "source": "But upon that Montayne to gon up this monk had gret desir; and so upon a day he went up and when he was the third part of the Montayne he was so wery that he mighte not furthere, and so he rested him and felle to slep, and when he awoke he fonde himself liggyie at the foot of the Montayne."
-    },
-    {
-     "id": "p007.s13",
-     "source": "And then he preyde devoutly to God that he wold vouch saf to suffre him gon up."
-    },
-    {
-     "id": "p007.s14",
-     "source": "And an angelle cam to him and seyde that he scholde gon up; and so he did."
-    },
-    {
-     "id": "p007.s15",
-     "source": "And sithe that Time never non."
-    },
-    {
-     "id": "p007.s16",
-     "source": "Wherefore men scholde not beleeve such Woordes. ”"
+     "source": "The following year the second brother undertook the expedition, but had the same unfortunate sleep during the critical night."
     }
    ],
    "id": "p007"
@@ -261,23 +125,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "The legend of the monk is usually given in a form which confirms still more the sacredness of the mountain."
-    },
-    {
-     "id": "p008.s02",
-     "source": "St. Jacob, as the monk was named, tried three successive times to climb the mountain."
-    },
-    {
-     "id": "p008.s03",
-     "source": "Each time he fell asleep intending to resume his journey the next morning, only to wake up finding himself at the same point he had started from the preceding day."
-    },
-    {
-     "id": "p008.s04",
-     "source": "An angel came to him after the third time, and told him that God had forbidden mortal foot ever to tread on the sacred summit, but that he should be given a fragment of the ark in which mankind had been preserved as a reward for his devout perseverance."
-    },
-    {
-     "id": "p008.s05",
-     "source": "This treasure is still preserved at Etchmiadzin and the saint is commemorated by the little monastery of St. Jacob, which till 1840, when a tremendous shaking of the mountain showered the little monastery with rocks of destruction, stood above the valley of Arghuri on the slopes of Ararat."
+     "source": "The third year the youngest of the three brothers said to his father:"
     }
    ],
    "id": "p008"
@@ -287,39 +135,11 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "The little village of Arghuri, the single village on the mountainside, was the city of Noah’s vineyard, and contained a little church which is said to hallow the spot where Noah first set up an altar."
+     "source": "“Long live the King!"
     },
     {
      "id": "p009.s02",
-     "source": "But this village , too, was completely destroyed by the avalanche of 1840."
-    },
-    {
-     "id": "p009.s03",
-     "source": "Not the slightest trace of it remains, though only three years before its destruction, Dubois de Montpèreux visited the little city and described it together with the church of Noah, Noah’s vineyard, and the monastery of St. Jacob."
-    },
-    {
-     "id": "p009.s04",
-     "source": "In the garden of the city were planted pear trees, apple, plum, cherry, apricot, peach, and nut trees."
-    },
-    {
-     "id": "p009.s05",
-     "source": "This very garden was the site of the first vine on which the old patriarch became drunk, and the inhabitants showed Dubois some bits of creepers to prove it. “ Dieu, ” they said, “ pour punir les ceps qui avaient ainsi entrainé le pauvre patriarche dans le péché, les condamna a ne plus porter de raisins. ” Naïve, yes, but very sweetly so."
-    },
-    {
-     "id": "p009.s06",
-     "source": "And the church, the people said, marked the place where Noah offered his first sacrifice after the deluge."
-    },
-    {
-     "id": "p009.s07",
-     "source": "Except for the garden of Arghuri, wrote Dubois, this great mountain was absolutely destitute of verdure; an old stunted willow, wound about with snow and ice was the only other exception to this."
-    },
-    {
-     "id": "p009.s08",
-     "source": "According to the legend, it marked the spot where a board of Noah’s ark had taken root and sprung up into a living tree which the people venerated."
-    },
-    {
-     "id": "p009.s09",
-     "source": "One was not permitted to take away even the smallest of its feeble branches."
+     "source": "I will go and bring the fruit.”"
     }
    ],
    "id": "p009"
@@ -329,15 +149,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "All of this was blotted out so completely by the shower of falling rocks and boulders that it is hard to imagine the places as ever having existed."
-    },
-    {
-     "id": "p010.s02",
-     "source": "The primeval willow, the vineyard, the sacred church, and the little monastery of St. Jacob have left not the slightest trace."
-    },
-    {
-     "id": "p010.s03",
-     "source": "The bell of the old church is no more heard; the Christian service is not chanted any longer on the sacred mountain of the Ark."
+     "source": "“Why,” said the King, “your older brothers failed, and do you think you will succeed?”"
     }
    ],
    "id": "p010"
@@ -347,41 +159,45 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Of the numerous other legends associated with the mountain I shall mention only two."
+     "source": "But the lad importuned the King again and again until he gave him permission to go."
     },
     {
      "id": "p011.s02",
-     "source": "One of them regards the summit of the mountain as the site of Chaldean star-worship, and asserts that a pillar with a figure of a star stood upon it."
+     "source": "The lad, taking his bow and arrow, came to the tree."
     },
     {
      "id": "p011.s03",
-     "source": "According to the same legend, twelve wise men stood beside the pillar to watch for the star of the East, which three of them followed to Bethlehem."
+     "source": "During the critical night when the Apple would ripen he felt that a heavy sleep was taking possession of his senses."
     },
     {
      "id": "p011.s04",
-     "source": "The other is in respect to the spring situated above the spot where stood the monastery."
+     "source": "To prevent it, however, he wounded one of his little fingers and put salt on the wound, and the sharp pain did not let him sleep."
     },
     {
      "id": "p011.s05",
-     "source": "A bird, called by the Armenians tetagush, feeds on the locusts which are such a plague to the country, and curiously enough, the bird is attracted by the waters of the spring."
+     "source": "In the middle of the night, as it was lightning and thundering, lo! a terrible giant appeared and began to climb the tree."
     },
     {
      "id": "p011.s06",
-     "source": "When the locusts appear, the people carry their bottles to the spring and filling them with the peculiarly charmed water, take them back to their fields where they are placed on the ground to attract the tetagush."
+     "source": "The lad took aim with his bow and arrow and shot the giant in the leg."
     },
     {
      "id": "p011.s07",
-     "source": "The people of Syria and Palestine were much in need of tetagush and Ararat spring water during the spring and summer of 1915, for the swarms of locusts not only devoured the crops but also the leaves and barks of the trees."
+     "source": "The giant roared and ran away."
+    },
+    {
+     "id": "p011.s08",
+     "source": "The lad climbed the tree, and picking off the Apple of Life brought it to his father, who ate it and was soon after healed."
     }
    ],
    "id": "p011"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Section 2. Khor-Virap and Erzerum"
+     "source": "Then the youngest of the three brothers said to the King:"
     }
    ],
    "id": "p012"
@@ -391,35 +207,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "On the bank of the Araxes, in the plain of Armenia, and in full view of Ararat are located the monastery of Khor-Virap and the chapel of St. Gregory close beside it."
-    },
-    {
-     "id": "p013.s02",
-     "source": "An Armenian inscription is cut in the walls of the portico of the monastery which marks the spot where a monk, Johannes by name, appeared twice after his death saying that he had seen Gregory the Illuminator."
-    },
-    {
-     "id": "p013.s03",
-     "source": "The chapel of St. Gregory covers the traditional well into which he was thrown and imprisoned for thirteen years by King Tiridates."
-    },
-    {
-     "id": "p013.s04",
-     "source": "Dubois descended into a sort of tunnel, fifteen or sixteen feet below the pavement of the chapel, which is part of an old fortress, and was shown the worn stones of a niche where the saint prayed, as evidence of the thirteen years, quite as though other pilgrims who knelt in the same place could not have assisted somewhat the pious work of the saint."
-    },
-    {
-     "id": "p013.s05",
-     "source": "The spot is only a few steps from the famous temple dedicated to the principal god of the Armenians, Aramazd, and it seems clear that the pagan king intended to make a sacrifice to his gods in casting the young fanatic into the well."
-    },
-    {
-     "id": "p013.s06",
-     "source": "The temple was called Achelichad, meaning “many sacrifices” because of the many offerings here given up to Aramazd."
-    },
-    {
-     "id": "p013.s07",
-     "source": "With the era of Christianity, the name Achelichad gave way to the name Khor Virap, meaning dry well."
-    },
-    {
-     "id": "p013.s08",
-     "source": "Gregorius Magistros, already mentioned, brought the body of the saint from Constantinople and placed it in the bottom of the well, where it served to cure sick pilgrims."
+     "source": "“Please give me permission to go and avenge myself upon my enemy.”"
     }
    ],
    "id": "p013"
@@ -429,23 +217,19 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "There is a tradition that the Armenian city of Erzerum, not far from the source of the Euphrates, marks the vicinity of the Garden of Eden."
+     "source": "The King consented, and his two older brothers also went with him."
     },
     {
      "id": "p014.s02",
-     "source": "The Persian king Khosref Purveez is said to have encamped in the neighborhood and to have received a message from the prophet Mohammed during his sojourn, in which he was offered the protection of Islam if he would embrace the faith."
+     "source": "They found that the giant had fled from the tree of the Apple of Life, leaving a track of blood that came from his wound."
     },
     {
      "id": "p014.s03",
-     "source": "But the king spurned the proposal and tossed the letter into the Euphrates."
+     "source": "The three brothers followed the bloody track till they came to the mouth of an immeasurably deep abyss, into which the giant had entered."
     },
     {
      "id": "p014.s04",
-     "source": "Nature, horrified at the sacrilege, dried up the flowers and fruits of the ancient garden and even parched up the sources of the river itself."
-    },
-    {
-     "id": "p014.s05",
-     "source": "And so the last relic of Eden became waste."
+     "source": "The oldest brother said:"
     }
    ],
    "id": "p014"
@@ -455,46 +239,19 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "In the same connection, there is a plaintive Armenian elegy, composed in the person of Adam, who, sitting at the gate of paradise and beholding cherubim and seraphim enter the garden, makes the following defence: he did not eat the forbidden fruit until after he had witnessed its fatal effects upon Eve, when, seeing her despoiled of all her glory, he was touched with pity and tasted the immortal fruit in the hope that the Creator, contemplating both in the same plight might with paternal love take compassion on them."
-    },
-    {
-     "id": "p015.s02",
-     "source": "But in vain."
-    },
-    {
-     "id": "p015.s03",
-     "source": "“The Lord cursed the serpent and Eve,” pathetically cries Adam, “and I was enslaved between them.”"
-    },
-    {
-     "id": "p015.s04",
-     "source": "The elegy closes most touchingly,—“When ye enter Eden, shut not the gate of paradise, but place me standing at the gate."
-    },
-    {
-     "id": "p015.s05",
-     "source": "I will look in a moment and then bring me back."
-    },
-    {
-     "id": "p015.s06",
-     "source": "Ah!"
-    },
-    {
-     "id": "p015.s07",
-     "source": "I remember ye, O flowers and sweet smelling fountains."
-    },
-    {
-     "id": "p015.s08",
-     "source": "Ah!"
-    },
-    {
-     "id": "p015.s09",
-     "source": "I remember ye, O birds, sweet singing, And ye, O beasts.”"
+     "source": "“Bind me by the waist and let me down; I want to fight him.”"
     }
    ],
    "id": "p015"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "The other two did as he said, but before he was half-way down he began to cry out:"
+    }
+   ],
    "id": "p016"
   },
   {
@@ -502,7 +259,19 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Genesis 8:4."
+     "source": "“I am burning!"
+    },
+    {
+     "id": "p017.s02",
+     "source": "I am roasting!"
+    },
+    {
+     "id": "p017.s03",
+     "source": "Draw me up!”"
+    },
+    {
+     "id": "p017.s04",
+     "source": "And they drew him up."
     }
    ],
    "id": "p017"
@@ -512,7 +281,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "James Bryce, Transcaucasia and Ararat p. 210."
+     "source": "Then the second was lowered in his turn; but he also begin to cry as had the former, and was drawn out."
     }
    ],
    "id": "p018"
@@ -522,7 +291,11 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "St. Martin 1:264."
+     "source": "Now it was the turn of the youngest brother, who said: “Let me down, and the more I cry, ‘I am burning!"
+    },
+    {
+     "id": "p019.s02",
+     "source": "I am roasting!’ the further let me descend.”"
     }
    ],
    "id": "p019"
@@ -532,7 +305,15 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "St. Martin 1:267–68."
+     "source": "So they did, and the more he cried, the more they let him descend."
+    },
+    {
+     "id": "p020.s02",
+     "source": "At last he reached the bottom, and began to ramble about."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Soon he saw a terrible giant lying down, with his head in the lap of a beautiful maiden; so beautiful that she seemed to say to the moon, “Moon, you need not shine, since I am shining.”"
     }
    ],
    "id": "p020"
@@ -542,7 +323,11 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "Tavernier, Voyages 1:43."
+     "source": "She was working with her needle, and before her a golden rat and a golden cat were playing in a golden basin."
+    },
+    {
+     "id": "p021.s02",
+     "source": "The maiden, seeing the lad, said:"
     }
    ],
    "id": "p021"
@@ -552,7 +337,11 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "Bryce, Transcaucasia and Ararat , chapter on Ararat."
+     "source": "“Human being! neither the snake on its belly, nor the bird with its wing would dare to come here."
+    },
+    {
+     "id": "p022.s02",
+     "source": "How could you venture to come?”"
     }
    ],
    "id": "p022"
@@ -562,7 +351,7 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Dubois 3:465."
+     "source": "“Your love brought me hither,” answered the lad."
     }
    ],
    "id": "p023"
@@ -572,11 +361,7 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "Arghuri means “ Il sema la vigne .”"
-    },
-    {
-     "id": "p024.s02",
-     "source": "St. Martin pp. 266, 267."
+     "source": "“Young man!” said the maiden, “if you love your life, go away; because if this giant, who is sleeping now, wakes he will cut you into pieces no larger than your ear.”"
     }
    ],
    "id": "p024"
@@ -586,7 +371,7 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "Dubois 3:465–68."
+     "source": "“Wake him up,” answered the lad; “I have come on purpose to fight him.”"
     }
    ],
    "id": "p025"
@@ -596,7 +381,11 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "Bryce, chapter on Ararat."
+     "source": "“He sleeps forty days,” said the maiden, “and it is only eight days since he began to sleep; you have thirty-two days more to wait before he will awake."
+    },
+    {
+     "id": "p026.s02",
+     "source": "But if you will not wait so long, put yonder ploughshare into the fire, and heating it red-hot, press it on his legs and he will awake.”"
     }
    ],
    "id": "p026"
@@ -606,7 +395,7 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "Dubois 3:468."
+     "source": "The lad, heating the ploughshare, pressed it on the legs of the giant, who began to awake, saying, “Oh! what insects are biting my legs?”"
     }
    ],
    "id": "p027"
@@ -616,15 +405,11 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "Countess Evelyn Martinengo Cesaresco, chapter on Armenian folk-songs."
+     "source": "“Aha! insects!” said the maiden."
     },
     {
      "id": "p028.s02",
-     "source": "Fraser’s Magazine (n.s.)"
-    },
-    {
-     "id": "p028.s03",
-     "source": "13:283–97."
+     "source": "“Get up! a human being has come to fight you.”"
     }
    ],
    "id": "p028"
@@ -634,14 +419,1650 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "Fraser’s Magazine (n.s.)"
-    },
-    {
-     "id": "p029.s02",
-     "source": "13:283–97."
+     "source": "The giant opened his eyes, and seeing the lad, exclaimed:"
     }
    ],
    "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“What a delicious breakfast this morning!”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“Get up, monster!” said the lad."
+    },
+    {
+     "id": "p031.s02",
+     "source": "“Let us see whom fortune will favor—you or me.”"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "They prepared their bows and arrows."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“You shoot first,” said the giant to the lad."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“Not I,” said the lad; “you shoot first.”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "The giant shot, but the lad avoided the arrow very cleverly, and it passed by without hurting him."
+    },
+    {
+     "id": "p035.s02",
+     "source": "It was now his turn."
+    },
+    {
+     "id": "p035.s03",
+     "source": "He took aim and shot the giant through the heart, nailing him to the ground; and then he cut off his head."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Leaving the body of the giant there, the lad went a little farther, and to his great surprise saw another giant asleep with his head in the lap of another beautiful maiden, whose beauty surpassed even that of the moon."
+    },
+    {
+     "id": "p036.s02",
+     "source": "She was working with her needle, and before her a golden hen and a golden weasel were playing in a golden basin."
+    },
+    {
+     "id": "p036.s03",
+     "source": "The maiden, seeing the lad, said to him:"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "“Human being! the snake on its belly, and the bird with its wing could not come here."
+    },
+    {
+     "id": "p037.s02",
+     "source": "How could you venture to come?”"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“Your love brought me hither,” answered the lad."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“If you love your life,” said the maiden, “avoid this giant while he is asleep."
+    },
+    {
+     "id": "p039.s02",
+     "source": "If he wakes he will tear you into pieces.”"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "“Wake him up!” said the lad; “I have come to fight him.”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "“Do you see that iron?” said the maiden; “heat it red-hot and press it on his feet; he will then awake.”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "The hot iron being applied on the feet of the giant, he awoke, saying:"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "“Oh! what gnats are biting me?”"
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“Gnats!” exclaimed the maiden."
+    },
+    {
+     "id": "p044.s02",
+     "source": "“Get up! a human being has come to fight you.”"
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "The giant, seeing the lad, exclaimed:"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "“Oh! what a good morsel has come for me on his own legs.”"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "“Come!” said the lad; “let us see whether fortune will favor you or me.”"
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "They fought, and this giant also was killed as the former had been."
+    },
+    {
+     "id": "p048.s02",
+     "source": "The lad cut off his head, and leaving the dead body, went away."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "Soon he saw a third giant asleep with his head in the lap of another beautiful maiden."
+    },
+    {
+     "id": "p049.s02",
+     "source": "So beautiful was she that she could say to the sun, “Sun, you need not shine, since I am shining.”"
+    },
+    {
+     "id": "p049.s03",
+     "source": "She was working with her needle, and before her a golden greyhound and a golden fox were running a race in a golden basin."
+    },
+    {
+     "id": "p049.s04",
+     "source": "As soon as the lad saw this maiden he fell in love with her."
+    },
+    {
+     "id": "p049.s05",
+     "source": "The maiden also fell in love with the lad, and said:"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "“Oh, you noble human being! the snake upon its belly, and the bird with its wing cannot enter here."
+    },
+    {
+     "id": "p050.s02",
+     "source": "How could you come hither?”"
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "“Your love brought me hither, fair creature,” answered the lad."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "“Be on your guard, precious youth!” said the maiden."
+    },
+    {
+     "id": "p052.s02",
+     "source": "“If this giant awakes he will tear you into pieces.”"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "“Wake him!” said the lad; “I have come to fight him.”"
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "A hot iron was applied to the feet of the giant, who awoke, saying: “Oh! what is biting me?”"
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "“What!” said the maiden."
+    },
+    {
+     "id": "p055.s02",
+     "source": "“Get up! this human being has come to fight you.”"
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "The giant, seeing the lad, said: “Oh! what a good featherless partridge for a breakfast.”"
+    },
+    {
+     "id": "p056.s02",
+     "source": "The lad noticed that the giant was wounded in his leg, and at once recognized him as the one who had tried to steal the Apple of Life."
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "“Come!” said the lad, “let us see whom fortune will favor.”"
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "And they begin to fight."
+    },
+    {
+     "id": "p058.s02",
+     "source": "After a long combat, this giant also shared the fate of the former two, and the lad cut his throat."
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "Then he brought together the three maidens, who told him that they were daughters of three Princes and had been stolen by these giants, who nourished them with the Apples of Life."
+    },
+    {
+     "id": "p059.s02",
+     "source": "Then they showed him their houses, their treasure, and everything belonging to the giants."
+    },
+    {
+     "id": "p059.s03",
+     "source": "The lad took what he chose from the treasures and prepared three chests for the maidens."
+    },
+    {
+     "id": "p059.s04",
+     "source": "He kept only a sword of lightning for himself."
+    },
+    {
+     "id": "p059.s05",
+     "source": "Then entering the stable, he found three horses of lightning, one black, a second one red, and the third white."
+    },
+    {
+     "id": "p059.s06",
+     "source": "The youngest maiden advised the lad to pick three hairs from the tails of the horses and keep them."
+    },
+    {
+     "id": "p059.s07",
+     "source": "The lad did so."
+    },
+    {
+     "id": "p059.s08",
+     "source": "Then they came to the bottom of the abyss where the lad had descended, and found the rope still hanging."
+    },
+    {
+     "id": "p059.s09",
+     "source": "He, binding the oldest maiden and her chest to the rope, called to his brothers to draw her up."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "“This is,” he said, “the betrothed of my oldest brother, and the chest is her dowry.”"
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "Then he bound the second maiden and her chest, saying: “This is the betrothed of my second brother, and the chest is her dowry.”"
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "Now it was the turn of the youngest maiden."
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "“You go up first,” she said to the lad."
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "“Not I,” said the lad; “you must go up first.”"
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "“But when your brothers see me,” said the maiden, “they will not draw you up, and you will remain here."
+    },
+    {
+     "id": "p065.s02",
+     "source": "I love you!"
+    },
+    {
+     "id": "p065.s03",
+     "source": "I pity you!”"
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "“Why,” said the lad, “are they not my brothers?"
+    },
+    {
+     "id": "p066.s02",
+     "source": "Do you believe my brothers will do me evil?"
+    },
+    {
+     "id": "p066.s03",
+     "source": "Go up, I say!”"
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "“Alas!” said the maiden; “I will obey."
+    },
+    {
+     "id": "p067.s02",
+     "source": "But if you do remain here below, as I am afraid you will, do as I tell you."
+    },
+    {
+     "id": "p067.s03",
+     "source": "Next Friday evening three rams will come here, one of them black, the second red, and the third white."
+    },
+    {
+     "id": "p067.s04",
+     "source": "As soon as you see them, throw yourself upon the black ram."
+    },
+    {
+     "id": "p067.s05",
+     "source": "He will throw you upon the red, the red will throw you upon the white, and the white will throw you to the surface of the upper world."
+    },
+    {
+     "id": "p067.s06",
+     "source": "But if you make a mistake you are lost, or there is little hope for your release."
+    },
+    {
+     "id": "p067.s07",
+     "source": "Take this magic ring as a token of my love for you."
+    },
+    {
+     "id": "p067.s08",
+     "source": "Whatever you desire, kiss this ring and you will certainly have it."
+    },
+    {
+     "id": "p067.s09",
+     "source": "And when you are in need, cast the three hairs which you picked from the tails of the three horses in the fire, and they will immediately come to you."
+    },
+    {
+     "id": "p067.s10",
+     "source": "So farewell, my love!”"
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "“Farewell!” said the lad; and the maiden was drawn up."
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "The two brothers were amazed at the beauty of the youngest maiden."
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "“Lo! lo! lo!” they exclaimed, “he has preserved the most beautiful one for himself, and has given us the uglier ones.”"
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "Thus envying their youngest brother, they took the three maidens and went away, leaving the poor lad at the bottom of the abyss."
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "On Friday evening the three rams came, as foretold by the fair maiden."
+    },
+    {
+     "id": "p072.s02",
+     "source": "The lad was so afflicted that he had forgotten the directions of the maiden, and his desire to go up to the surface of the world being very great, he threw himself upon the back of the white ram."
+    },
+    {
+     "id": "p072.s03",
+     "source": "It, in turn, threw him upon the back of the red; the red one threw him upon the back of the black; and it, in turn, threw him into the world of Darkness."
+    },
+    {
+     "id": "p072.s04",
+     "source": "Oh! it was awfully dark."
+    },
+    {
+     "id": "p072.s05",
+     "source": "The lad began to grope his way until he found a door, at which he knocked."
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "“Who is there?” asked an old woman from behind the door."
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "“I am a poor orphan without father, without mother,” answered the lad in a pitiful voice."
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "“Come in, then,” said the old dame, opening the door."
+    },
+    {
+     "id": "p075.s02",
+     "source": "“I have no children; you take me as a mother, and I will take you as a son; so let us live together."
+    },
+    {
+     "id": "p075.s03",
+     "source": "God will give us our bread.”"
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "They accepted one another as mother and son."
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "“Mother, please give me some water, I am thirsty,” said the lad."
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "“Oh!” sighed the old dame, “you are asking the hardest thing in the world."
+    },
+    {
+     "id": "p078.s02",
+     "source": "We have no water, son; be patient till we get some.”"
+    }
+   ],
+   "id": "p078"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p079.s01",
+     "source": "“Why, have you no water now?” asked the lad, surprised."
+    }
+   ],
+   "id": "p079"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p080.s01",
+     "source": "“Alas!” said the woman, “there is only one fountain in our country, and it is guarded by a terrible dragon."
+    },
+    {
+     "id": "p080.s02",
+     "source": "Every day a virgin is cast to him to be devoured; else, he will not let the people take a drop of water."
+    },
+    {
+     "id": "p080.s03",
+     "source": "And soon after he finishes his repast upon the virgin, he again stops the fountain from flowing."
+    },
+    {
+     "id": "p080.s04",
+     "source": "To-day the last virgin of the country, the only daughter of the Prince, is to be given to the dragon."
+    },
+    {
+     "id": "p080.s05",
+     "source": "Hark!"
+    },
+    {
+     "id": "p080.s06",
+     "source": "I hear an uproar in the streets; I suppose they are taking the maiden to the dragon.”"
+    }
+   ],
+   "id": "p080"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p081.s01",
+     "source": "The lad looked out, and saw that indeed a great crowd of people were leading along a maiden as beautiful as the moon."
+    },
+    {
+     "id": "p081.s02",
+     "source": "He followed the crowd, which coming to the fountain, left the maiden there alone and went away."
+    },
+    {
+     "id": "p081.s03",
+     "source": "The lad approached the maiden, saying:"
+    }
+   ],
+   "id": "p081"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p082.s01",
+     "source": "“Fair virgin, be not afraid."
+    },
+    {
+     "id": "p082.s02",
+     "source": "Let me sleep in your lap, and when the dragon comes, awake me; I will save you.”"
+    }
+   ],
+   "id": "p082"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p083.s01",
+     "source": "She consented, and he slept in her lap."
+    },
+    {
+     "id": "p083.s02",
+     "source": "But soon the dragon began to creep toward the maiden with its mouth wide open, rolling up its terrible tail and hissing like the thunder from joy at finding two victims instead of one."
+    },
+    {
+     "id": "p083.s03",
+     "source": "The poor maiden was horror-stricken and mute."
+    },
+    {
+     "id": "p083.s04",
+     "source": "She could neither speak nor move to awake the brave hero asleep in her lap."
+    },
+    {
+     "id": "p083.s05",
+     "source": "She could only weep."
+    },
+    {
+     "id": "p083.s06",
+     "source": "Her warm tears rolling down her cheeks dropped upon the face of the lad, who at once jumped up and saw, to his great terror, that the dragon had partly swallowed the maiden."
+    },
+    {
+     "id": "p083.s07",
+     "source": "One minute more, and the maiden would be lost."
+    },
+    {
+     "id": "p083.s08",
+     "source": "But what could he do now?"
+    },
+    {
+     "id": "p083.s09",
+     "source": "He could not cut the throat of the dragon without hurting the feet of the maiden."
+    },
+    {
+     "id": "p083.s10",
+     "source": "At once he drew his sword of lightning and placed it in the lap of the maiden."
+    },
+    {
+     "id": "p083.s11",
+     "source": "So when the dragon swallowed the maiden the sword cut its mouth and down through its side, and just when the maiden was swallowed entirely the dragon also was cut in two pieces, and the maiden came out uninjured."
+    },
+    {
+     "id": "p083.s12",
+     "source": "The lad cutting off the head of the dragon said to the maiden: “Now, fair one, get up and go to your parents.”"
+    }
+   ],
+   "id": "p083"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p084.s01",
+     "source": "The maiden, soaking her hand in the blood of the dragon, made a red mark upon the back of the lad; and they departed, she to her father, and he to his adopted mother."
+    }
+   ],
+   "id": "p084"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p085.s01",
+     "source": "The dragon being killed, the fountain was opened and the people took the water freely."
+    }
+   ],
+   "id": "p085"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p086.s01",
+     "source": "“Mother, why is your country so dark?” asked the lad of the old woman."
+    }
+   ],
+   "id": "p086"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p087.s01",
+     "source": "“My son,” answered the old dame, sighing, “there is a very large eagle living upon the top of yonder mountain."
+    },
+    {
+     "id": "p087.s02",
+     "source": "Every year she hatches young ones, but a dragon eats them up; and the eagle thinking that men are the cause, deprives us of the sunlight.”"
+    }
+   ],
+   "id": "p087"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p088.s01",
+     "source": "The lad, taking leave of the old woman, climbed up the mountain till he came to the nest of the eagle."
+    },
+    {
+     "id": "p088.s02",
+     "source": "Taking refuge under a rock, he set himself to watch."
+    },
+    {
+     "id": "p088.s03",
+     "source": "Soon a gigantic dragon came creeping up toward the young birds, and was just devouring them, when the lad drew his sword of lightning, and cutting the dragon into pieces, gave its flesh to the young eaglets, which began to eat it and to chirp merrily."
+    },
+    {
+     "id": "p088.s04",
+     "source": "The mother-eagle hearing the voice of her young ones, hastened to the spot as swiftly as a flash, and thinking that it was the lad that devoured her young ones every year, and that he had come now to destroy them, was about to tear him into pieces when her young ones cried out:"
+    }
+   ],
+   "id": "p088"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p089.s01",
+     "source": "“Take care, mother! it was that noble lad that saved us from the dragon, and killing it gave its flesh to us to eat.”"
+    }
+   ],
+   "id": "p089"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p090.s01",
+     "source": "“Now, noble youth!” said the eagle to the lad, “what do you want me to do as a reward for your heroic deed?”"
+    }
+   ],
+   "id": "p090"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p091.s01",
+     "source": "“Nothing,” answered the lad, “but to take me to the upper world upon your wings.”"
+    }
+   ],
+   "id": "p091"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p092.s01",
+     "source": "“You are requesting the hardest thing in the world,” answered the eagle; “but for such a brave hero as you I will do anything, even sacrifice my life if necessary."
+    },
+    {
+     "id": "p092.s02",
+     "source": "Go bring me forty bottles of wine and forty sheep’s tails, and I will do as you request.”"
+    }
+   ],
+   "id": "p092"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p093"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p094.s01",
+     "source": "Now let us return for a moment to the maiden who was saved from being devoured by the dragon."
+    },
+    {
+     "id": "p094.s02",
+     "source": "She came to her father, who was very angry at seeing her."
+    }
+   ],
+   "id": "p094"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p095.s01",
+     "source": "“You little rogue!” he said, “you want to save your life, and never care that so many thousands of people are dying of thirst."
+    },
+    {
+     "id": "p095.s02",
+     "source": "Go quickly! let the dragon devour you, that we may have water.”"
+    },
+    {
+     "id": "p095.s03",
+     "source": "The maiden told him how a brave hero saved her by killing the monster, and how the fountain was flowing in torrents to quench the thirst of all the people."
+    },
+    {
+     "id": "p095.s04",
+     "source": "Upon this the Prince sent heralds to proclaim that the man who had saved his daughter’s life must come to him; he should not only be the son-in-law of the Prince by marrying the maiden whom he had saved, but the Prince was ready to bestow upon him any gift which he might ask."
+    },
+    {
+     "id": "p095.s05",
+     "source": "Thousands of young men appeared before the Prince’s palace, every one of them claiming the credit of killing the dragon and saving the princess, but the maiden said, “No, none of these is the hero.”"
+    }
+   ],
+   "id": "p095"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p096.s01",
+     "source": "The people of the town came before the Princess, but the hero was not to be found."
+    }
+   ],
+   "id": "p096"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p097.s01",
+     "source": "“Is there no other man left in the town?” asked the Prince."
+    }
+   ],
+   "id": "p097"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p098.s01",
+     "source": "“None,” answered the officials, “except a young stranger who is the guest of a poor widow.”"
+    }
+   ],
+   "id": "p098"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p099.s01",
+     "source": "“Bring him here!” ordered the Prince."
+    },
+    {
+     "id": "p099.s02",
+     "source": "The lad was brought."
+    }
+   ],
+   "id": "p099"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p100.s01",
+     "source": "“Why,” exclaimed the maiden, pointing at the blood mark which she had made with her own hand, “this is the hero!”"
+    }
+   ],
+   "id": "p100"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p101.s01",
+     "source": "“Now, hero,” said the Prince, “the maiden whom you saved is yours; ask of me whatever else you please.”"
+    }
+   ],
+   "id": "p101"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p102.s01",
+     "source": "“Long live the Prince!” answered the lad."
+    },
+    {
+     "id": "p102.s02",
+     "source": "“May Heaven bless the union of your daughter with a suitable husband, and may you enjoy your estates for many, many years!"
+    },
+    {
+     "id": "p102.s03",
+     "source": "I ask of you only forty bottles of wine and forty sheep’s tails, that the eagle may take me to the upper world.”"
+    }
+   ],
+   "id": "p102"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p103.s01",
+     "source": "The Prince so commanded, and they were immediately given to the lad, who at once took them to the eagle."
+    }
+   ],
+   "id": "p103"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p104.s01",
+     "source": "“Now,” said the eagle, “place the sheep’s tails on my right wing, and the bottles of wine on my left, and seat yourself between."
+    },
+    {
+     "id": "p104.s02",
+     "source": "When I say, “Boo,” pour in my mouth a bottle of wine, and when I say “Coo,” give me a sheep’s tail.”"
+    }
+   ],
+   "id": "p104"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p105.s01",
+     "source": "The lad went first to take leave of the old woman, who gave him her blessing."
+    },
+    {
+     "id": "p105.s02",
+     "source": "As soon as the load was placed on the back of the eagle she took her flight."
+    },
+    {
+     "id": "p105.s03",
+     "source": "Every time she said “Boo” a bottle of wine was poured into her mouth, and every time she said “Coo” a sheep’s tail was given to her."
+    },
+    {
+     "id": "p105.s04",
+     "source": "They ascended and ascended until they came to the world of light."
+    },
+    {
+     "id": "p105.s05",
+     "source": "“Coo!” said the eagle, the last time."
+    },
+    {
+     "id": "p105.s06",
+     "source": "The lad was so glad and in so great a hurry that the last sheep’s tail which he was going to give to the eagle fell from his hand."
+    },
+    {
+     "id": "p105.s07",
+     "source": "But he did not wish to disappoint his friend, so he drew his sword, and cutting one of the calves of his own leg, gave it to the eagle."
+    },
+    {
+     "id": "p105.s08",
+     "source": "The wise bird knew from the flavor that it was human flesh, and kept it under her tongue."
+    },
+    {
+     "id": "p105.s09",
+     "source": "They arrived at their destination."
+    }
+   ],
+   "id": "p105"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p106.s01",
+     "source": "“Well, now,” said the eagle putting the lad on the ground, “go along your way.”"
+    }
+   ],
+   "id": "p106"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p107.s01",
+     "source": "“No,” said the lad, “you go first; my legs are benumbed, I want to take a little rest.”"
+    }
+   ],
+   "id": "p107"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p108.s01",
+     "source": "The eagle insisted till the lad tried to walk, but he could not walk because of his wound."
+    },
+    {
+     "id": "p108.s02",
+     "source": "Then the eagle drew the flesh out from under her tongue, and placing it in its proper place, licked it up, and the wound was at once healed."
+    },
+    {
+     "id": "p108.s03",
+     "source": "She took her leave of the hero and flew down to her young ones, who were chirping and waiting for her."
+    },
+    {
+     "id": "p108.s04",
+     "source": "After that day she never deprived that country of the sun’s rays, as she had no longer reason for so doing."
+    }
+   ],
+   "id": "p108"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p109.s01",
+     "source": "The lad, before entering his father’s city, thought he had better disguise himself."
+    },
+    {
+     "id": "p109.s02",
+     "source": "So he went to a slaughter house, and getting a sheep’s stomach, wrapped it around his head, thus changing himself to a bald-headed youth."
+    },
+    {
+     "id": "p109.s03",
+     "source": "Entering the city as a stranger, he soon found out that a wedding ceremony was to be held in his father’s palace."
+    },
+    {
+     "id": "p109.s04",
+     "source": "His two brothers were to marry the two maidens whom he saved for them, and his own betrothed was to be married to the King."
+    },
+    {
+     "id": "p109.s05",
+     "source": "The lad felt his heart bleeding."
+    },
+    {
+     "id": "p109.s06",
+     "source": "He went to the market place, and presenting himself to a goldsmith, asked him to accept him as an apprentice."
+    },
+    {
+     "id": "p109.s07",
+     "source": "The goldsmith hesitated for a while, but afterwards said:"
+    }
+   ],
+   "id": "p109"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p110.s01",
+     "source": "“Come, bald-headed fellow, be my apprentice.”"
+    }
+   ],
+   "id": "p110"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p111.s01",
+     "source": "That very day the officials of the King brought to the goldsmith a large bag of gold, saying:"
+    }
+   ],
+   "id": "p111"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p112.s01",
+     "source": "“You must make of this gold a golden rat and a golden cat that shall play in a golden basin.”"
+    }
+   ],
+   "id": "p112"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p113.s01",
+     "source": "“I can make the rat and the cat out of this gold,” said the goldsmith, “but I cannot give them life to make them run about.”"
+    }
+   ],
+   "id": "p113"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p114.s01",
+     "source": "“That is not our business,” said the officials, “it is the command of the King; you must either make them, or lose your head."
+    },
+    {
+     "id": "p114.s02",
+     "source": "The lady to whom the King is betrothed refuses to marry him until these are made for her."
+    },
+    {
+     "id": "p114.s03",
+     "source": "You must make them by the morrow.”"
+    }
+   ],
+   "id": "p114"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p115.s01",
+     "source": "So saying, the officials went away, leaving the gold."
+    },
+    {
+     "id": "p115.s02",
+     "source": "The goldsmith was at a loss."
+    },
+    {
+     "id": "p115.s03",
+     "source": "Poor man! what could he do?"
+    },
+    {
+     "id": "p115.s04",
+     "source": "He could not make them, and in case he failed to make them by the appointed time his head was in danger."
+    }
+   ],
+   "id": "p115"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p116.s01",
+     "source": "“What is the matter, master?” said the lad; “why are you puzzled and sad?”"
+    }
+   ],
+   "id": "p116"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p117.s01",
+     "source": "“Keep silent!” exclaimed the goldsmith."
+    },
+    {
+     "id": "p117.s02",
+     "source": "“I have no time to hear your chatter.”"
+    }
+   ],
+   "id": "p117"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p118.s01",
+     "source": "“Be of good cheer, master,” returned the lad; “if you bring me two or three handfuls of nuts, I will make the golden rat and the golden cat to-night.”"
+    }
+   ],
+   "id": "p118"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p119.s01",
+     "source": "“Why, you rascal! you bald-headed dog!” exclaimed the goldsmith; “as if my affliction is not enough for me, do you make fun of me?”"
+    }
+   ],
+   "id": "p119"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p120.s01",
+     "source": "“No, master,” said the lad, “do not think I am making fun of you."
+    },
+    {
+     "id": "p120.s02",
+     "source": "I really say bring me some nuts, and to-morrow morning come and take what you want.”"
+    }
+   ],
+   "id": "p120"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p121.s01",
+     "source": "The goldsmith thought there was no harm if he did what the lad requested of him, and brought the nuts."
+    },
+    {
+     "id": "p121.s02",
+     "source": "That night he could not sleep at all, and very often he came to the door of the shop to listen to what the lad was doing, and heard nothing but the crack of the nuts, which the bald-headed apprentice was eating all the time."
+    },
+    {
+     "id": "p121.s03",
+     "source": "At daybreak the lad took out of his pocket the magic ring which was given him by his betrothed as a token."
+    },
+    {
+     "id": "p121.s04",
+     "source": "He kissed it, and immediately two negroes presented themselves with their hands folded on their breasts, saying:"
+    }
+   ],
+   "id": "p121"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p122.s01",
+     "source": "“Say what is your will, and we will do it at once.”"
+    }
+   ],
+   "id": "p122"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p123.s01",
+     "source": "“Bring me here,” said the lad, “the golden rat and the golden cat which I saw playing in the golden basin.”"
+    }
+   ],
+   "id": "p123"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p124.s01",
+     "source": "He had scarcely finished the sentence, when lo! the golden basin was placed before him."
+    },
+    {
+     "id": "p124.s02",
+     "source": "Just at that moment the goldsmith entered with beating heart."
+    }
+   ],
+   "id": "p124"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p125.s01",
+     "source": "“Here, master,” exclaimed the lad; “I have just finished it.”"
+    }
+   ],
+   "id": "p125"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p126.s01",
+     "source": "The goldsmith began to dance with excess of joy, and at once took the basin to the King, who was so much pleased with it that he gave him costly presents and invited him to come to the royal wedding."
+    },
+    {
+     "id": "p126.s02",
+     "source": "The goldsmith came back."
+    },
+    {
+     "id": "p126.s03",
+     "source": "He was so happy that he was dancing all the time."
+    }
+   ],
+   "id": "p126"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p127.s01",
+     "source": "“Master,” said the lad, “please take me with you to the wedding.”"
+    }
+   ],
+   "id": "p127"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p128.s01",
+     "source": "“But, my lad,” said the goldsmith, “there will be a tournament to-morrow; if you go there, I am afraid you will be trampled down by cavalry and get your bald head broken."
+    },
+    {
+     "id": "p128.s02",
+     "source": "You had better stay at home.”"
+    }
+   ],
+   "id": "p128"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p129.s01",
+     "source": "On the following day the goldsmith went to the tournament."
+    },
+    {
+     "id": "p129.s02",
+     "source": "The lad cast the black horse’s hair into the fire, and lo! the black horse of the first giant whom he killed came neighing with a suit of black armor on his back."
+    },
+    {
+     "id": "p129.s03",
+     "source": "Immediately the lad put on the suit of armor and mounted the horse; thus being changed to a black knight, he rushed to the place of the tournament."
+    },
+    {
+     "id": "p129.s04",
+     "source": "He vanquished all the princes and his brothers, and unhorsing his own master, disappeared, leaving the spectators in utmost surprise."
+    },
+    {
+     "id": "p129.s05",
+     "source": "He came to his home, and changing his clothes, was the same bald-headed apprentice."
+    },
+    {
+     "id": "p129.s06",
+     "source": "In the evening when the goldsmith came, the lad implored him to tell him what he had seen; and he began to describe the tournament."
+    }
+   ],
+   "id": "p129"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p130.s01",
+     "source": "“But the unexpected thing,” said he, “was the appearance of a black knight, clad in armor at all points."
+    },
+    {
+     "id": "p130.s02",
+     "source": "Whether he was a fairy or a human being, I cannot tell."
+    },
+    {
+     "id": "p130.s03",
+     "source": "He vanquished all the princes and knights, and disappeared in a hurricane after unhorsing me, too.”"
+    }
+   ],
+   "id": "p130"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p131.s01",
+     "source": "“Alas!” exclaimed the lad, shaking his head very sadly, as if understanding nothing."
+    }
+   ],
+   "id": "p131"
+  },
+  {
+   "type": "break",
+   "segments": [],
+   "id": "p132"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p133.s01",
+     "source": "Now let us return to the maiden."
+    },
+    {
+     "id": "p133.s02",
+     "source": "She, seeing the golden rat and the golden cat in a golden basin brought to her, was assured that her betrothed had come from the infernal regions up to the world of light."
+    }
+   ],
+   "id": "p133"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p134.s01",
+     "source": "“I will not marry you,” she said to the King, “until you get me a golden hen and a golden weasel playing in a golden basin.”"
+    }
+   ],
+   "id": "p134"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p135.s01",
+     "source": "The King sent his order to the goldsmith, who promised to make them, first getting the consent of the bald-headed apprentice."
+    },
+    {
+     "id": "p135.s02",
+     "source": "He brought him nuts; and the lad, kissing the magic ring, the two negroes again appeared, who immediately brought the golden hen and the golden weasel playing in a golden basin."
+    },
+    {
+     "id": "p135.s03",
+     "source": "The goldsmith took them to the King, who invited him to the second day’s tournament."
+    },
+    {
+     "id": "p135.s04",
+     "source": "The lad again asked leave to go with his master, and the goldsmith again refused him."
+    },
+    {
+     "id": "p135.s05",
+     "source": "Soon after the goldsmith went, however, the lad cast into the fire the hair of the red horse, which immediately made its appearance with a suit of red armor on its back."
+    },
+    {
+     "id": "p135.s06",
+     "source": "The lad, changing his clothes, mounted the horse, which immediately ran to the place of the tournament."
+    },
+    {
+     "id": "p135.s07",
+     "source": "At once vanquishing all who were there and unhorsing his own master, the lad disappeared, and coming home changed his clothes and was again the bald-headed apprentice."
+    },
+    {
+     "id": "p135.s08",
+     "source": "In the evening the goldsmith began to describe the tournament, and the apprentice listened to his story with great surprise and seriousness."
+    }
+   ],
+   "id": "p135"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p136.s01",
+     "source": "The maiden was now sure that her betrothed had come, for no one else could do these things."
+    },
+    {
+     "id": "p136.s02",
+     "source": "On the following day she said to the King:"
+    }
+   ],
+   "id": "p136"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p137.s01",
+     "source": "“I want you to get for me a golden greyhound and a golden fox running a race in a golden basin, else I will not marry you.”"
+    }
+   ],
+   "id": "p137"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p138.s01",
+     "source": "The goldsmith was again called, and promised to make them, first consulting with the bald-headed apprentice, to whom he brought the usual quantity of nuts."
+    },
+    {
+     "id": "p138.s02",
+     "source": "The lad cracked and ate the nuts till morning."
+    },
+    {
+     "id": "p138.s03",
+     "source": "At daybreak he kissed the magic ring, and for the third time the two negroes appeared, bringing in the golden greyhound and the golden fox running a race in a golden basin."
+    },
+    {
+     "id": "p138.s04",
+     "source": "The goldsmith at once took them to the King, who invited him to the third day’s tournament."
+    },
+    {
+     "id": "p138.s05",
+     "source": "The lad cast into the fire, this time, the white horse’s hair, which was the third giant’s horse; and immediately it stood before him with a suit of white armor on its back."
+    },
+    {
+     "id": "p138.s06",
+     "source": "The lad, putting the armor on, was changed to a white knight; and taking the sword of lightning in hand, rushed to the place of the tournament."
+    },
+    {
+     "id": "p138.s07",
+     "source": "After vanquishing all, and killing the King and his own unworthy brothers, he stood in the midst of the crowd and told them who he was, what heroic deeds he had done, and what wrongs he had endured."
+    },
+    {
+     "id": "p138.s08",
+     "source": "The people being tired of the tyrannical King, immediately hailed the youth as their monarch."
+    }
+   ],
+   "id": "p138"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p139.s01",
+     "source": "He married his betrothed, and gave the other two maidens in marriage to two of his best friends."
+    },
+    {
+     "id": "p139.s02",
+     "source": "Thus he attained his wishes."
+    },
+    {
+     "id": "p139.s03",
+     "source": "May Heaven grant that you may attain your wishes!"
+    }
+   ],
+   "id": "p139"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p140.s01",
+     "source": "Three apples fell from Heaven;—one for me, one for the story-teller, and one for him who entertained the company."
+    }
+   ],
+   "id": "p140"
   }
  ]
 }

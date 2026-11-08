@@ -1,0 +1,126 @@
+{
+ "id": "af-ghana-akan-peoples-anansi-tales-063",
+ "title": {
+  "id": "title",
+  "source": "Sharariitii Dadhabaa"
+ },
+ "tradition": "Ghana (Akan peoples, Anansi tales)",
+ "continent": "Africa",
+ "source_lang": "om",
+ "source_book": "African Storybook — traditional tales retold (CC BY 4.0)",
+ "credits": "Ghanaian folktale Mulualem; Daba; Wiehan de Jager (story, illustration and translation credits as listed by African Storybook)",
+ "gutenberg": "African Storybook story #20428 — https://www.africanstorybook.org/ (search the title)",
+ "copyright": "Creative Commons Attribution 4.0 (CC BY 4.0). Free to copy, translate and adapt for any purpose, including commercial, as long as you credit the original author(s), illustrator(s) and African Storybook and link to the licence: https://creativecommons.org/licenses/by/4.0/",
+ "markdown_file": "Africa/Ghana (Akan peoples, Anansi tales)/063 - Sharariitii Dadhabaa.md",
+ "stats": {
+  "paragraphs": 8,
+  "segments": 14,
+  "words": 88
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Nyaata nijaallata garu bilcheessuudhaan dadhabaa dha."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Illeetinis, \"Tole, nyaata sochoosuu nagargaari,\" jette."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Ananis garuu dadhaba dha."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Anansinis dirii isaa miila tokkotti fiixa isaa distii Illeettiti maree."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Anansin, \"Baaqela kee naaf laatta Jaldeesso?\""
+    },
+    {
+     "id": "p004.s02",
+     "source": "Jedhe."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Jaldeesis, \"Eyyee."
+    },
+    {
+     "id": "p004.s04",
+     "source": "Muraa isaa nagargaari,\" jedheen."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Dinnicha kee naflaataa karkaroo?\" jedhee gaafate."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Karkaroonis, \"Eyyee qopheessu isaa nagargarii,\" jedheen."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Haala kanaan Anansin miila isaa saddeet distii adda addaa irraatti mare."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Diriin miila isaa saddeet distitti qabsiise harkifamaa dhufe."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Anansinis, \"Na hinharkisinaa!\" jedhee booye."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Miilli Anansi baay'ee harkifame waan tureef isaa booda shararitin miila qal'aa dheeraa godhatan."
+    }
+   ],
+   "id": "p008"
+  }
+ ]
+}

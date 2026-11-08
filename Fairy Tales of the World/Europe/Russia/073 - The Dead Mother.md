@@ -4,7 +4,7 @@
 - **Source book:** *Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore*
 - **Author / collector / translator:** Ralston, William Ralston Shedden (translator, d. 1889)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #22373 — https://www.gutenberg.org/ebooks/22373 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #22373 — https://www.gutenberg.org/ebooks/22373
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

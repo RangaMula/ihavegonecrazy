@@ -4,7 +4,7 @@
 - **Source book:** *The Shoemaker's Apron: A Second Book of Czechoslovak Fairy Tales and Folk Tales*
 - **Author / collector / translator:** Fillmore, Parker (author, d. 1944)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #33002 — https://www.gutenberg.org/ebooks/33002 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #33002 — https://www.gutenberg.org/ebooks/33002
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

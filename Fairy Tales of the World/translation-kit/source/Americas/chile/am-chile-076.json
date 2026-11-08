@@ -1,0 +1,46 @@
+{
+ "id": "am-chile-076",
+ "title": {
+  "id": "title",
+  "source": "El Gato sarapo"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos chilenos de nunca acabar",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #69164 — https://www.gutenberg.org/ebooks/69164",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/076 - El Gato sarapo.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 3,
+  "words": 51
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Gato sarapo, calzones de trapo, cabeza al revés ¿queris que te lo cuente otra vez?"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Los cuales, como se ve, son simples variantes del que contaba la mama Antuca, i casi el mismo que trae Rodríguez Marin en el tomo I, pájina 47, núm."
+    },
+    {
+     "id": "p002.s02",
+     "source": "63 de sus Cantos Populares Españoles :"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

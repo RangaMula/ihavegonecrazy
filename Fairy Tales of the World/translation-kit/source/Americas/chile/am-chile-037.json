@@ -1,0 +1,68 @@
+{
+ "id": "am-chile-037",
+ "title": {
+  "id": "title",
+  "source": "EL PIGUCHEN. (D. Francisco 2.º Vásquez, 1911.)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/037 - EL PIGUCHEN. (D. Francisco 2.º Vásquez, 1911.).md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 7,
+  "words": 170
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "El Piguchén es un culebrón muy viejo, más o menos de medio metro de largo, cubierto de cerdas; es de color negro y tiene alas."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Vive en la cordillera, pero, volando, llega de noche hasta San Bernardo y Santiago y le chupa la sangre al ganado."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Se esconde en el día, en el hueco de los árboles viejos y se conoce su presencia porque los troncos están chorreados de la sangre que vomita."
+    },
+    {
+     "id": "p001.s04",
+     "source": "No se le puede coger porque es muy venenoso, tanto que basta que sus cerdas toquen la piel de un hombre, para que éste caiga muerto."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Para matarlo, cubren el árbol en que está escondido con una tela fuerte, para que no pueda huir, y en seguida le prenden fuego al árbol."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Para ahuyentarlo e impedir que haga daño al ganado, basta hacer sonar un cuerno de buey; el sonido ronco que produce este instrumento le causa pavor y se va a otra parte."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "No embiste contra el hombre sino en caso de verse atacado por él."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

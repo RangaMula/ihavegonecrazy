@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-060",
  "title": {
   "id": "title",
-  "source": "The Wonderful Ball"
+  "source": "The Queer Little Animal"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
  "source_book": "Thirty Indian Legends",
  "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978",
  "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/060 - The Wonderful Ball.md",
+ "markdown_file": "Americas/Native North America (various nations)/060 - The Queer Little Animal.md",
  "stats": {
-  "paragraphs": 20,
-  "segments": 102,
-  "words": 1537
+  "paragraphs": 8,
+  "segments": 66,
+  "words": 911
  },
  "paragraphs": [
   {
@@ -23,27 +23,27 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Wesakchak was once the only person living."
+     "source": "An Indian was once wandering across the prairie."
     },
     {
      "id": "p001.s02",
-     "source": "He found himself floating all alone on the water."
+     "source": "He was tired and hungry and very lonely, too, for he had not seen a human being for many weeks."
     },
     {
      "id": "p001.s03",
-     "source": "Above him was the sky, and all around and about stretched water."
+     "source": "He lay down on the ground and fell asleep."
     },
     {
      "id": "p001.s04",
-     "source": "He called aloud, but no one answered."
+     "source": "While he was lying there, he dreamed that a small voice said, \"My grandson,\" to him."
     },
     {
      "id": "p001.s05",
-     "source": "Then he noticed a little, dark object floating near him."
+     "source": "He wakened with a start and again heard the voice."
     },
     {
      "id": "p001.s06",
-     "source": "It was a rat."
+     "source": "It came from the grass near him, but he could see nothing."
     }
    ],
    "id": "p001"
@@ -53,7 +53,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "\"My little brother,\" said Wesakchak, \"we are all alone in this world of sky and water.\""
+     "source": "\"Pick me up,\" said the voice, \"and I shall be your friend forever."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Put me in your belt and never lay me aside, and you will always have success.\""
     }
    ],
    "id": "p002"
@@ -63,15 +67,35 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "\"Yes,\" said the rat."
+     "source": "The Indian looked closely in the grass and saw a tiny creature."
     },
     {
      "id": "p003.s02",
-     "source": "\"But I am not afraid, for you are with me."
+     "source": "It was about the size of a baby mouse, and had no hair on its skin excepting a little bunch on the tip of its tail."
     },
     {
      "id": "p003.s03",
-     "source": "Are you afraid?\""
+     "source": "He picked it up and sewed it in his belt."
+    },
+    {
+     "id": "p003.s04",
+     "source": "Then he travelled on until he came to a village where a tribe of Indians lived."
+    },
+    {
+     "id": "p003.s05",
+     "source": "A broad road ran through the centre of the village, but the strange thing was, that the lodges on one side of the road were empty, while those on the other side were filled with Indians."
+    },
+    {
+     "id": "p003.s06",
+     "source": "He walked boldly into the village."
+    },
+    {
+     "id": "p003.s07",
+     "source": "The people ran out to meet him, crying, \"Here is the being of whom we have heard so much."
+    },
+    {
+     "id": "p003.s08",
+     "source": "Welcome, Anishinaba.\""
     }
    ],
    "id": "p003"
@@ -81,11 +105,39 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "\"No,\" said Wesakchak, \"for the Mighty One will take care of us both."
+     "source": "The chief's son was very kind to him and took him to his father's lodge."
     },
     {
      "id": "p004.s02",
-     "source": "Do you go below and see if you can find any land.\""
+     "source": "The people of this tribe spent most of their time in games and trials of strength."
+    },
+    {
+     "id": "p004.s03",
+     "source": "The trial they liked best was called The Freezing Water Trial; that was, they had to lie down in icy, cold water and let it freeze around them."
+    },
+    {
+     "id": "p004.s04",
+     "source": "The man who could stay the longest was considered the bravest."
+    },
+    {
+     "id": "p004.s05",
+     "source": "The next night they asked Anishinaba to try the test with them."
+    },
+    {
+     "id": "p004.s06",
+     "source": "He was quite willing and went with them to the place where the test was to be made."
+    },
+    {
+     "id": "p004.s07",
+     "source": "He kept on his belt, and so felt very comfortable, for the little animal made everything easy for him."
+    },
+    {
+     "id": "p004.s08",
+     "source": "The water began to freeze and the Indians called out, \"How are you feeling?\""
+    },
+    {
+     "id": "p004.s09",
+     "source": "He did not answer them."
     }
    ],
    "id": "p004"
@@ -95,51 +147,47 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The rat quickly obeyed Wesakchak and sank down through the water in search of dry land."
+     "source": "About midnight, he noticed they had stopped talking."
     },
     {
      "id": "p005.s02",
-     "source": "He was gone a long time, and Wesakchak began to wonder if he were ever coming back."
+     "source": "He called out, \"How are you feeling now?"
     },
     {
      "id": "p005.s03",
-     "source": "At last he floated up, but he was dead, and in his paws there was a little bit of clay."
+     "source": "I am very warm.\""
     },
     {
      "id": "p005.s04",
-     "source": "Wesakchak was very sorry when he saw that his little comrade was dead."
+     "source": "They did not answer him, so he arose and walked to where they were lying."
     },
     {
      "id": "p005.s05",
-     "source": "He took the clay from the rat's paws and breathed upon it."
+     "source": "They were frozen stiff."
     },
     {
      "id": "p005.s06",
-     "source": "Now Wesakchak was greater than a human being; he was really a spirit."
+     "source": "He went back to the camp and told the other Indians."
     },
     {
      "id": "p005.s07",
-     "source": "So when he breathed upon the clay, it formed itself into a ball and began to grow."
+     "source": "Everybody declared that he was the bravest warrior, since he had not been frozen."
     },
     {
      "id": "p005.s08",
-     "source": "He rolled the ball in his hands, and when it grew a little larger, he said a few words over it."
+     "source": "The chief was so pleased with him that he gave him his daughter."
     },
     {
      "id": "p005.s09",
-     "source": "At once there came forth a little mouse, who began running around the ball."
+     "source": "The Indians went to fetch the bodies of the frozen men, but were surprised to find them changed into buffaloes."
     },
     {
      "id": "p005.s10",
-     "source": "The mouse was just the color of the earth."
+     "source": "These animals went to live in the other side of the village; and after that, every one Anishinaba killed was changed into some kind of an animal and went into that part of the village to live."
     },
     {
      "id": "p005.s11",
-     "source": "Wesakchak said to it, \"Your name shall be The Mouse and you shall always live amid the people, and your color shall be the color of the earth.\""
-    },
-    {
-     "id": "p005.s12",
-     "source": "So to this day we find the mouse in the homes of people, and it always is the same dark gray color."
+     "source": "Very shortly the empty lodges were filled."
     }
    ],
    "id": "p005"
@@ -149,27 +197,59 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "As the mouse continued running, the ball kept growing."
+     "source": "One day Anishinaba lay down on the grass to have a sleep."
     },
     {
      "id": "p006.s02",
-     "source": "In a few minutes Wesakchak said some more words and out ran a little chipmunk."
+     "source": "He had taken off his belt, and it lay in the long grass beside him."
     },
     {
      "id": "p006.s03",
-     "source": "He began chasing around the ball too, but he could not stay on as well as the mouse."
+     "source": "When he wakened, he forgot about it."
     },
     {
      "id": "p006.s04",
-     "source": "He slipped and nearly fell off several times."
+     "source": "This was the first time he had ever gone without the little animal since he came to the village."
     },
     {
      "id": "p006.s05",
-     "source": "Wesakchak caught him and put him safely on again, but in doing so left the marks of his fingers on the chipmunk's back."
+     "source": "That night some Indians who were unfriendly to him, asked him to try the freezing trial again."
     },
     {
      "id": "p006.s06",
-     "source": "And there they have remained ever since, and look like dark brown stripes."
+     "source": "He consented, for he was not at all afraid."
+    },
+    {
+     "id": "p006.s07",
+     "source": "But still he did not think of his belt, and so the freezing water benumbed his body and in a short time he was frozen stiff."
+    },
+    {
+     "id": "p006.s08",
+     "source": "His enemies then cut his body into many pieces and scattered them over the village."
+    },
+    {
+     "id": "p006.s09",
+     "source": "His wife wept bitterly for many days."
+    },
+    {
+     "id": "p006.s10",
+     "source": "Then suddenly she remembered his belt, and went in search of it."
+    },
+    {
+     "id": "p006.s11",
+     "source": "She found it in the grass where he had slept."
+    },
+    {
+     "id": "p006.s12",
+     "source": "As she picked it up, the tiny voice said, \"Unpin me.\""
+    },
+    {
+     "id": "p006.s13",
+     "source": "She opened the little seam where the animal lay and out he came."
+    },
+    {
+     "id": "p006.s14",
+     "source": "He began to shake himself, and at each shake grew larger, until at last he was the size of a small dog."
     }
    ],
    "id": "p006"
@@ -179,19 +259,55 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "The two little animals kept on running and Wesakchak now brought forth a red squirrel."
+     "source": "The queer-looking animal ran away then as fast as he could go."
     },
     {
      "id": "p007.s02",
-     "source": "There was a strong wind blowing, and the squirrel seemed timid."
+     "source": "All around the village he went, gathering up the pieces of his master's body."
     },
     {
      "id": "p007.s03",
-     "source": "He would run for a little distance and then sit down."
+     "source": "When he had them gathered, he laid them together in their right places."
     },
     {
      "id": "p007.s04",
-     "source": "The wind would catch his bushy tail and blow it up over his head as he sat there, and so ever afterwards the squirrel curled his tail up when he sat down."
+     "source": "Then he uttered a loud howl, and the pieces joined together."
+    },
+    {
+     "id": "p007.s05",
+     "source": "He uttered another, and the body began to breathe."
+    },
+    {
+     "id": "p007.s06",
+     "source": "Then he uttered one that reached to the skies, and his master arose and stood before him."
+    },
+    {
+     "id": "p007.s07",
+     "source": "The animal then spoke."
+    },
+    {
+     "id": "p007.s08",
+     "source": "\"You should not have parted with me,\" he said."
+    },
+    {
+     "id": "p007.s09",
+     "source": "\"That was why you lost your life."
+    },
+    {
+     "id": "p007.s10",
+     "source": "Now, I shall reveal myself to you.\""
+    },
+    {
+     "id": "p007.s11",
+     "source": "He began shaking himself like a dog, and at each shake he grew larger, until at last he was immense."
+    },
+    {
+     "id": "p007.s12",
+     "source": "Then a long snout grew from his head, and two big, shining teeth from his mouth."
+    },
+    {
+     "id": "p007.s13",
+     "source": "His skin was still smooth, without one hair excepting the bunch on the end of his tail."
     }
    ],
    "id": "p007"
@@ -201,350 +317,18 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "The ball kept growing larger and larger, and Wesakchak brought forth one animal after another."
+     "source": "\"I am going to give my gift to you,\" said the wild boar."
     },
     {
      "id": "p008.s02",
-     "source": "The rabbit, the fox, the wolf, the bear, and all the rest of them came out as they were called, until at last the ball was as big as the earth."
+     "source": "\"After this you shall live on the meat of animals, instead of the animals eating you."
     },
     {
      "id": "p008.s03",
-     "source": "Then he called forth the moose, and when it came and saw miles and miles of prairie, it ran for five miles without stopping."
-    },
-    {
-     "id": "p008.s04",
-     "source": "To this day the moose, when chased, always runs five miles before it stops."
+     "source": "But you and all mankind must respect me and must not eat my flesh nor that of any of my kind.\""
     }
    ],
    "id": "p008"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p009.s01",
-     "source": "When Wesakchak had all the animals on the earth, he gave them all their homes."
-    },
-    {
-     "id": "p009.s02",
-     "source": "Some were to live in the forests, some among the mountains, and others were to live on the prairies."
-    },
-    {
-     "id": "p009.s03",
-     "source": "He made little creeks to flow to divide their feeding-grounds, and they were told not to cross these water lines."
-    },
-    {
-     "id": "p009.s04",
-     "source": "The water in the creeks was not clean."
-    },
-    {
-     "id": "p009.s05",
-     "source": "It had green slime floating on the top, and reeds and rushes grew thickly amongst it."
-    },
-    {
-     "id": "p009.s06",
-     "source": "He made the water this way because he did not wish the animals to drink it."
-    },
-    {
-     "id": "p009.s07",
-     "source": "Then he made beautiful, clear rivers flow through the land to be their drinking water."
-    },
-    {
-     "id": "p009.s08",
-     "source": "In the rivers he made fish swim, and called all the animals who lived on fish to come and live near the banks of the rivers."
-    },
-    {
-     "id": "p009.s09",
-     "source": "In the trees he told the birds to build their nests, and soon all the animals and birds were happy and contented in their homes."
-    }
-   ],
-   "id": "p009"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p010.s01",
-     "source": "They all loved Wesakchak, for he was so wise and good."
-    },
-    {
-     "id": "p010.s02",
-     "source": "He was kind to them all and called them his brothers."
-    },
-    {
-     "id": "p010.s03",
-     "source": "He knew the secrets of the animals: why the moose is ungainly and has no flesh on his bones, why the rabbit's ears are long and have each a little roll of flesh behind it, and why the rat has no hair upon its tail."
-    },
-    {
-     "id": "p010.s04",
-     "source": "He understood all the languages of the animals, and each came to him when it was in trouble."
-    }
-   ],
-   "id": "p010"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p011.s01",
-     "source": "There was one animal who was very smart and clever."
-    },
-    {
-     "id": "p011.s02",
-     "source": "He was about the size of the wolf and was called the wolverine."
-    },
-    {
-     "id": "p011.s03",
-     "source": "He had beautiful, soft fur, long, straight legs, and firm feet."
-    },
-    {
-     "id": "p011.s04",
-     "source": "But he was not liked by the other animals, for he was very conceited."
-    },
-    {
-     "id": "p011.s05",
-     "source": "He was always talking about his beautiful fur and his long legs."
-    },
-    {
-     "id": "p011.s06",
-     "source": "He would ask the other animals to race with him, because he knew he could always win."
-    },
-    {
-     "id": "p011.s07",
-     "source": "Then he would laugh at them for not being able to run as fast as he could."
-    },
-    {
-     "id": "p011.s08",
-     "source": "He was always getting into mischief, too, and never seemed happy unless he was playing a trick on some other animal."
-    },
-    {
-     "id": "p011.s09",
-     "source": "The other animals often came and told Wesakchak how mean the wolverine was to them."
-    },
-    {
-     "id": "p011.s10",
-     "source": "He would tell them to try to be patient, and then he would scold the wolverine for being so unkind."
-    },
-    {
-     "id": "p011.s11",
-     "source": "The wolverine would pretend he was very sorry, but the very next day he would do some more mean tricks."
-    }
-   ],
-   "id": "p011"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p012.s01",
-     "source": "One day he came past the wigwam of Wesakchak."
-    },
-    {
-     "id": "p012.s02",
-     "source": "Looking in, he saw that it was empty, and that the Fire Bag, where Wesakchak always kept his steel and flint and his pipe and tobacco-pouch, was hanging on the wall."
-    },
-    {
-     "id": "p012.s03",
-     "source": "The wolverine looked around and saw that no one was near, so he sneaked in and grabbed the bag."
-    },
-    {
-     "id": "p012.s04",
-     "source": "He ran away through the bush with it until he came to a tall tamarac tree."
-    },
-    {
-     "id": "p012.s05",
-     "source": "He climbed the tree and hung the bag on one of the branches."
-    },
-    {
-     "id": "p012.s06",
-     "source": "Then he jumped down and ran away, laughing to himself at the trick he had played on Wesakchak."
-    }
-   ],
-   "id": "p012"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p013.s01",
-     "source": "When Wesakchak returned home, it was nearly evening, and he was tired and hungry."
-    },
-    {
-     "id": "p013.s02",
-     "source": "He looked around for his Fire Bag, for he wished to make a fire."
-    },
-    {
-     "id": "p013.s03",
-     "source": "The way they got a spark in those days was to strike the steel and flint together; a spark would fly forth and set the dry bark on fire."
-    },
-    {
-     "id": "p013.s04",
-     "source": "But Wesakchak could not find his bag."
-    },
-    {
-     "id": "p013.s05",
-     "source": "He looked all over the wigwam, still he could not find it."
-    },
-    {
-     "id": "p013.s06",
-     "source": "Then he noticed footmarks on the ground near the door."
-    },
-    {
-     "id": "p013.s07",
-     "source": "Looking closely, he saw whose they were."
-    },
-    {
-     "id": "p013.s08",
-     "source": "\"It is that mischief-maker, the wolverine, who has taken my bag,\" he said."
-    },
-    {
-     "id": "p013.s09",
-     "source": "\"I shall go in search of it."
-    },
-    {
-     "id": "p013.s10",
-     "source": "And if I meet him, I shall punish him well for all his mischief-making.\""
-    },
-    {
-     "id": "p013.s11",
-     "source": "He set forth in search of the precious bag."
-    },
-    {
-     "id": "p013.s12",
-     "source": "All night he wandered through the forest, but could not find it."
-    },
-    {
-     "id": "p013.s13",
-     "source": "When the morning came, he went back to his wigwam and sat down to think what he was to do."
-    },
-    {
-     "id": "p013.s14",
-     "source": "\"If I had my pipe,\" he said to himself, \"I would not feel so sad.\""
-    }
-   ],
-   "id": "p013"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p014.s01",
-     "source": "As he sat there, he thought he heard a noise like the wolverine behind his lodge."
-    },
-    {
-     "id": "p014.s02",
-     "source": "Going out quickly, he saw the scamp among the trees."
-    },
-    {
-     "id": "p014.s03",
-     "source": "Wesakchak followed, but could see nothing more of the animal."
-    },
-    {
-     "id": "p014.s04",
-     "source": "He tramped on until he was tired, then turned homewards again."
-    }
-   ],
-   "id": "p014"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p015.s01",
-     "source": "As he was passing near a tall tree, he looked up, and there was his Fire Bag hanging from one of the highest branches."
-    },
-    {
-     "id": "p015.s02",
-     "source": "The tree was smooth and tall, and as Wesakchak began to climb he found himself slipping down very often."
-    },
-    {
-     "id": "p015.s03",
-     "source": "Then he would catch hold quickly with his feet and hands."
-    },
-    {
-     "id": "p015.s04",
-     "source": "After very hard work he succeeded at last in reaching the bag."
-    },
-    {
-     "id": "p015.s05",
-     "source": "Then he slid quickly down the tree."
-    },
-    {
-     "id": "p015.s06",
-     "source": "But when he looked up at it, he saw that its bark was hanging in torn pieces where he had caught it with his feet and hands."
-    },
-    {
-     "id": "p015.s07",
-     "source": "So, to this day, the tamarac bark hangs in tattered shreds to show that Wesakchak once climbed it."
-    }
-   ],
-   "id": "p015"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p016.s01",
-     "source": "On the way home he heard the wolverine, who was just trying to sneak away among the bushes."
-    }
-   ],
-   "id": "p016"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p017.s01",
-     "source": "\"Come forth here, brother wolverine,\" called Wesakchak."
-    },
-    {
-     "id": "p017.s02",
-     "source": "\"I want to talk to you.\""
-    }
-   ],
-   "id": "p017"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p018.s01",
-     "source": "The wolverine came out and stood in front of him."
-    },
-    {
-     "id": "p018.s02",
-     "source": "He did not look a bit sorry for what he had done."
-    }
-   ],
-   "id": "p018"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p019.s01",
-     "source": "\"You are always getting into mischief,\" said Wesakchak."
-    },
-    {
-     "id": "p019.s02",
-     "source": "\"Now, I am going to punish you for playing so many mean tricks."
-    },
-    {
-     "id": "p019.s03",
-     "source": "After this your legs will be very short and crooked, and you will not be able to run as fast as you did before.\""
-    }
-   ],
-   "id": "p019"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p020.s01",
-     "source": "As he said this, the wolverine's legs grew short and bent, and with an angry growl the animal disappeared among the trees."
-    }
-   ],
-   "id": "p020"
   }
  ]
 }

@@ -1,0 +1,54 @@
+# Los dos geperuts
+
+- **Tradition:** Catalonia (Catalan people) (Europe)
+- **Source book:** *Lo rondallayre, Tercera série*
+- **Author / collector / translator:** Maspons i Labrós, Francesc (author, d. 1901)
+- **Original language of this text:** ca
+- **Source:** Project Gutenberg eBook #76026 — https://www.gutenberg.org/ebooks/76026
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+Hi havia un home á qui Deu havia dat la desgracia d’esser geperut, pero era tan bo, tan treballador, tan bon pare de familia, caritatiu y amant de son prohisme, que tothom lo volia y estimava, per tal que ben be s’ho mereixia.
+
+Heuse aquí qu’era un bon xich pobre y moltas vegadas passava grossos afanys pera mantenir á sa familia, aixi es que tot sovint, quan li mancava feyna en lo seu poble, se n’anava pe’ls altres á cercarne, y encara que no molt sovint, alguna qu’altra vegada se li esdevingué lo tenir de dormir fora de casa seva.
+
+Un dia que s’havia allunyat massa, li sobrevingué la nit sens ell pensarsho, y no tingué altre recurs que quedarse en un bosch que per sa molta espessura li enfosquí del tot la eixida; precisament era aquella la nit del dissapte en la qual follets y bruixas tenen sas reunions y juntas. Per tot arreu comensaren de sentirse remors feréstegas y una fressa tan estranya y pahurosa que’l pobre geperut agafá pór y mes pór, que no savia lo que li passava: be volia fugir d’allí ahont sentia’l soroll, que desseguida n’hi eixia un altre al encontre; be’s girava cap allí ahont veya moures alguna mata ó sentia la fressa, res hi veya; llavoras comensá á pensar mal y no volentsen fiar, com únich y mes salvador recurs, s’enfilá dalt del arbre que mes prop tenia.
+
+Una volta hi fou, la bellugadissa de baix fou espantosa, las remors mes fortas y estranyas y esclatant com á bolets de dins de terra y de tot arreu, comensaren á eixirne homes menuts y deformes, d’ull viu y barba que’ls arrossegava, follets de aquells tan petits, quasi invisibles, que’s diu que’s fican pe’l pany de la clau y quan las minyonas se n’han anat al llit sense rentar be’ls plats ó deixant la ayguera bruta las descotxan y donan mala jeya fins que ho rentan, y á las noyas mal endressadas las hi embullan be la feyna pera que al endemá las renyin, nanos de cap gros y unglas afiladas, altres de barbuts y camas tortas, bruixots tots mal girbats y tota lley de follets y bruixas que sols de veure davan basarda.
+
+Lo geperut dalt del arbre, tot aturdit, pensava en que vindria tot alló á parar, quan vejé que arrimavan prop del seu arbre, en un puesto que feya un clar, grans feixos de branquillons y llenya seca y encengueren una grossa foguerada. Llavoras comensá la alegría. ¡Quins crits y xisclets y paraulas que ningú era prou pera entendre! tots saltavan y ballavan y anavan per la vora del foch atiantlo y juganthi que semblava que l’anavan á saltar; era alló una bellugadissa inmensa. Per fi semblá com si tots s’ajuntessin, se donaren las mans fent rodona al voltant del foch y’s posaren á fer la sardana al compas de la que pausadament cantavan:
+
+– Lunes, martes, miércoles, tres. … Lunes, martes, miércoles, tres .
+
+Mes may acavavan ni s’eixian d’aixó, sempre lo mateix y ab la mateixa cantarella. Lo geperut, tant y tant, arrivá que vá cansarsen y tot d’un plegat quan acabavan y eran al miércoles, tres , ell que de cop diu:
+
+– Jueves, viernes, sábado, seis .
+
+Sentir aixó’ls bruixots y follets y quedar tots parats, fou una cosa; mes se coneix que’ls feu tanta gracia que’ls acabessin la cantarella, que’s posaren á donar salts y crits d’alegría y á repetirho cinquanta mil vegadas, fins que volgueren saber qui los hi havia ensenyat. Vejeren lo geperut, lo ajudaren á baixar del arbre, lo voltaren tots ab grans festas y convingueren en ferli un bon present pera que’s recordés de ells per tota la vida: discutiren llargament y per fi trobantlo geperut, qu’era lo que tant lo enlletgia, deslliberaren ferlo dret é igual com qualsevol de nosaltres, y per art d’encantament posantlo al mitg d’ells, li tragueren lo gep ab tal llestesa que ni temps tingué d’adonarsen.
+
+Podeu contar quina alegria tingué’l pobre home: no s’ho podia creure, se palpava y ni gayre be hi savia passar las mans. Quan torná en si del goig que tenia, se girá per tots costats á donar las gracias als seus benefactors y’s trobá sol, pus que tots desaparescut havian.
+
+La suau claror del auba ab sa gentil puresa per tot arreu comensava á estendres y ell, ab la joya al cor, se n’aná cap á casa seva, en la qual, al veurel tornar ab tan bella forma, sense gep que l’enlletgís, hi hagué tal alegría, que muller y fills no savian lo que’ls passava y corregueren á dirho á tothom, per tal que la cosa ben be s’ho mereixia.
+
+Mes heuse aquí que en lo mateix poble hi vivia un altre home, geperut tambe, dolent y ple de rancunia, qui, aixi que va saberho, tot envejós se n’aná á la casa d’aquell pera convencers per sos propis ulls y, cas que fos cert, preguntarli com havia pogut lograrho.
+
+Y lo primer ab tota senzillesa li esplicá, y ell, dihent y murmurant que no era pas una cosa tan sorprenent y maravellosa y que li semblava com si no fos ben tret lo gep sino qu’encara s’hi coneixia una mica, cosa que no era certa, se n’aná á esperar lo dissapte següent que á mitja tarde ja emprengué cami cap á la boscuria senyalada.
+
+Aixis que va entrarhi, en tots aquells corpulents arbres y grossas matas hi creya veure un bruixot ó follet, de tanta pór que tenia; los barranchs y torrents ni gayre be gosava á baixarlos pera passar á l’altre banda, lo fullam sech li semblava com si llensés veus estranyas al trepitjarlo y, era tant lo seu esferehiment que, al veure l’arbre ahont devia pujar, ho feu tan depressa que de poch no cau y s’esguerra.
+
+Allí tingué d’esperarse una forta estona, mes tan bon punt fou bella nit, s’ohiren sons estranys y feréstechs: per tot arreu comensaren de sorollarse las brossas y matas, los xisclets y riallotas ompliren tot lo bosch, y era tan estrany lo que passava que’l geperut, de pór, anava tremolant com fulla á l’arbre. Eixiren tot seguit, com si brotessin de terra, ab una bellugadissa inmensa, tota lley de follets y nanos, uns de cap gros y unglas afiladas, altres barbuts y camas tortas, bruixots tot mal girbats y ab banyas y ompliren tot lo pla del bosch de tal manera, que no’s veya pas res mes tot al voltant del arbre.
+
+Encengueren un gran foch com l’altre volta, se agafaren de mans fent rodona al costat del foch y’s posaren á fer la sardana tot acompassadament, cantant:
+
+– Lunes, martes, miércoles, tres; jueves, viernes, sábado, seis. … Lunes, martes, miércoles, tres; jueves, viernes, sábado, seis .
+
+Y’l de dalt de l’arbre, ab la impaciencia que tenia per pór de que no se li escapés lo remey que’l devia fer dret é igual com un altre home, aixis que sent, sábado, seis , ell que de cop diu, tot acabant la cantarella.
+
+Domingo siete .
+
+Quan los bruixots sentiren aixó, com son tan enemichs del diumenge, podeu pensar com se posaren de rabia; se llensaren al arbre d’ahont havia eixit la veu, hi pujaren, tiraren daltabaix al pobre geperut y una volta á terra, per mofa, resolgueren lo posarli’l gep que havian tret del altre. Quan ell ho va sentir, se li trasmudá la color de angoixa y demaná per favor que’l lliuressen d’aquella pena, mes los bruixots y nanos, ab grans riallotas y befas, lo agafaren, lo subjectaren be y, posant lo gep del altre al foch, quan fou ben ruent, l’encastaren al devant del pobre home, que ’us dich que li feren fer una figura estranya.
+
+Una volta fet, com la claror del auba comensava á puntejar, tots desaparegueren y’l geperut, ab perill á cada pas d’esbarrarse, apretá á fugir cap al poble en lo que, com quasi ningú l’estimava per sa grossa ruindat y enveja, ni gayre be’n tingueren llástima.
+
+Lo cas es que desde llavoras tingué d’anar ab los dos geps, sempre menos estimat de tothom per sa rancunia y mal geni, mentres que l’altre, dret y ben fet, acabá’ls seus dias que tothom l’apreciava.

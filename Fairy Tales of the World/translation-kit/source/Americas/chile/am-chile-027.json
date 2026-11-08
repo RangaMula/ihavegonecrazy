@@ -1,0 +1,36 @@
+{
+ "id": "am-chile-027",
+ "title": {
+  "id": "title",
+  "source": "El Cuento De Los Tres Difuntos"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/027 - El Cuento De Los Tres Difuntos.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 2,
+  "words": 74
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Encontraron una vez a tres hombres asesinados, que parecían extranjeros."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Para identificar sus personas, no encontraron sobre ellos señal alguna; pero al hacerles la autopsia, descubrieron en los intestinos de uno un tallarín, de lo cual dedujeron que era italiano; en los del otro descubrieron un poroto, y se tuvo por signo evidente de que era chileno; en los del tercero no encontraron nada, pero por el habla vinieron a comprender que era alemán."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

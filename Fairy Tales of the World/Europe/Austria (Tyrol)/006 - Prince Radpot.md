@@ -4,7 +4,7 @@
 - **Source book:** *Household stories from the Land of Hofer; or, Popular Myths of Tirol*
 - **Author / collector / translator:** Busk, Rachel Harriette (author, d. 1907)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #44746 — https://www.gutenberg.org/ebooks/44746 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #44746 — https://www.gutenberg.org/ebooks/44746
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

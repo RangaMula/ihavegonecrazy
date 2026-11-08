@@ -1,0 +1,122 @@
+{
+ "id": "af-ghana-akan-peoples-anansi-tales-084",
+ "title": {
+  "id": "title",
+  "source": "Anansi omutofu"
+ },
+ "tradition": "Ghana (Akan peoples, Anansi tales)",
+ "continent": "Africa",
+ "source_lang": "lwg",
+ "source_book": "African Storybook — traditional tales retold (CC BY 4.0)",
+ "credits": "Ghanaian folktale Peter Mandu Wiehan de Jager (story, illustration and translation credits as listed by African Storybook)",
+ "gutenberg": "African Storybook story #22816 — https://www.africanstorybook.org/ (search the title)",
+ "copyright": "Creative Commons Attribution 4.0 (CC BY 4.0). Free to copy, translate and adapt for any purpose, including commercial, as long as you credit the original author(s), illustrator(s) and African Storybook and link to the licence: https://creativecommons.org/licenses/by/4.0/",
+ "markdown_file": "Africa/Ghana (Akan peoples, Anansi tales)/084 - Anansi omutofu.md",
+ "stats": {
+  "paragraphs": 8,
+  "segments": 13,
+  "words": 54
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Yachama efiokhulia, halali shatekhangata."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "\"Khonye okhufuluka,\" Eshimuna shaboola."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Anansi shiyenyata khulwa obutofu."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Abohanga obuusi khushilenje nende khunyungu eyeshimuna."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "\"Lishene, khulie fwesi amahenjera?\""
+    },
+    {
+     "id": "p004.s02",
+     "source": "\"Khukhonye okhukhola emilimo.\""
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Injiri, khulie amapwoni fwesi?\""
+    },
+    {
+     "id": "p005.s02",
+     "source": "\"Khonya okhukakasia,\" Injiri yaboola."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Mukhumalirikha, buli eshirenje sha Anansi shabohwa khunyungu."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Efilenje fiosi 8 fiakhweswa."
+    },
+    {
+     "id": "p007.s02",
+     "source": "\"Leshe okhukhwesa!\""
+    },
+    {
+     "id": "p007.s03",
+     "source": "Anansi yalira."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Neshichiranga tsimbubi tsiosi tsili nefilenje efinyere."
+    }
+   ],
+   "id": "p008"
+  }
+ ]
+}

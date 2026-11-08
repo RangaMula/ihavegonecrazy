@@ -4,7 +4,7 @@
 - **Source book:** *Rumanian Bird and Beast Stories Rendered into English*
 - **Author / collector / translator:** Gaster, Moses (translator, d. 1939)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #43059 — https://www.gutenberg.org/ebooks/43059 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #43059 — https://www.gutenberg.org/ebooks/43059
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

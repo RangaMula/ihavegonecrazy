@@ -2,20 +2,20 @@
  "id": "eu-switzerland-010",
  "title": {
   "id": "title",
-  "source": "Tessin"
+  "source": "The Castle Of The Hawk"
  },
  "tradition": "Switzerland",
  "continent": "Europe",
  "source_lang": "en",
- "source_book": "Legends of Switzerland",
- "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #64163 — https://www.gutenberg.org/ebooks/64163 (copied via the GITenberg mirror)",
+ "source_book": "Swiss Fairy Tales",
+ "credits": "Griffis, William Elliot (author, d. 1928)",
+ "gutenberg": "Project Gutenberg eBook #69739 — https://www.gutenberg.org/ebooks/69739",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Europe/Switzerland/010 - Tessin.md",
+ "markdown_file": "Europe/Switzerland/010 - The Castle Of The Hawk.md",
  "stats": {
-  "paragraphs": 10,
-  "segments": 18,
-  "words": 629
+  "paragraphs": 26,
+  "segments": 85,
+  "words": 2053
  },
  "paragraphs": [
   {
@@ -23,7 +23,39 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "A judge of Bellinzona, known far and wide for his unswerving honesty, was wont to ride daily to Magadino to attend court there and mete out strict justice to all who appeared before him."
+     "source": "The hawk is one of the children of Asia, the Mother Continent, in which almost all the fairy tales were first told."
+    },
+    {
+     "id": "p001.s02",
+     "source": "From the beginning, this sharp-eyed bird of prey has had the reputation of being very cruel, and of eating up the little birds."
+    },
+    {
+     "id": "p001.s03",
+     "source": "It has a curved beak, terribly sharp talons, and very large and strong wings."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The young fowls in the barnyard are afraid, even of the hawk’s shadow, and they quickly run to cover."
+    },
+    {
+     "id": "p001.s05",
+     "source": "For the hawk, sometimes called a falcon, can fly up very high and then swoop down on the small, or tame birds, kill them at once and carry them off."
+    },
+    {
+     "id": "p001.s06",
+     "source": "Little chickens, to be safe, had better run at once under the wings of their mother."
+    },
+    {
+     "id": "p001.s07",
+     "source": "Sometimes, the old hen faces the falcon so bravely, that she can save her brood and fight hard, until a man comes with a gun and drives off this pirate of the air."
+    },
+    {
+     "id": "p001.s08",
+     "source": "In Switzerland, they call the big hawk the Mountain Condor, or the Robber Bird."
+    },
+    {
+     "id": "p001.s09",
+     "source": "It seizes many a lamb, kid, or puppy, and its nest is, most of the time, built in the midst of bones. [ ]"
     }
    ],
    "id": "p001"
@@ -33,7 +65,15 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Although this was long years ago, when most judges openly accepted bribes, this particular magistrate could never be bought, and while the innocent loudly praised him, all wrong-doers hated him cordially."
+     "source": "In the Far East, before rifles were invented, falcons were kept, fed, trained, and taught to hunt such birds as the crane, pigeons, ducks, geese and barnyard fowls, and the many little feathered fellows, that live in the woods and swamps."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Men would go in among the rushes and the bushes, and drive out, from the covert, both the smaller and larger birds."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Out in the fields, or on the hills, the falconer would be in waiting to let his trained birds fly at them, with beak and talons."
     }
    ],
    "id": "p002"
@@ -43,7 +83,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Confirmed thieves and habitual criminals were particularly angry at his mode of procedure; so they finally decided it would be well to waylay the upright judge one dark night on his homeward journey, and end his blameless career by a foul murder."
+     "source": "One man carried around his waist a wide hoop, kept a foot or so out from his body, and held by a strap from his shoulders."
+    },
+    {
+     "id": "p003.s02",
+     "source": "On this hoop, were a half dozen or so trained falcons, with their eyes covered by little caps or hoods held down over their heads."
+    },
+    {
+     "id": "p003.s03",
+     "source": "As soon as a bird was seen, the hunter would take off the hood and let one of the trained falcons free."
     }
    ],
    "id": "p003"
@@ -53,19 +101,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Three young men therefore registered a solemn oath to kill the magistrate, and posting themselves in ambush behind the rocks by the roadside, they impatiently awaited the appearance of their victim."
+     "source": "Flying straight up, high in the air, and swiftly descending, swooping down and striking the bird in the neck, with its sharp beak, the falcons brought down the game to their masters, until the hunting bags were full."
     },
     {
      "id": "p004.s02",
-     "source": "Toward midnight a clatter of hoofs was heard on the stony pathway, and the lurking assassins, peering cautiously forth, beheld the judge galloping toward them, preceded and followed by three armed horsemen."
+     "source": "Women, as well as men, loved this sport, and it was a gay sight, when a cavalcade of ladies and gentlemen, as they issued from the castle, and all on horseback, went out for a hunt, while the gamekeepers with the falcons and bush-beaters, with the dogs, followed. [ ] The men on foot carried a spear, in case they should meet a bear, or wild boar."
     },
     {
      "id": "p004.s03",
-     "source": "The three highwaymen, who had expected to see the judge alone or in company of one servant only, feeling loath to attack a force so superior to their own, allowed the judge to pass by unmolested, and postponed their attempt until the morrow."
-    },
-    {
-     "id": "p004.s04",
-     "source": "Then, reinforced by six of their evil companions, they again lay in wait for the incorruptible magistrate."
+     "source": "On their return, the hunting party would have a feast in the castle."
     }
    ],
    "id": "p004"
@@ -75,11 +119,19 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "But instead of rushing out to attack him as soon as he drew near, they cowered low in fear, for their expected victim was escorted by a troop of twelve armed men, riding six before and six behind him."
+     "source": "Now it was the belief, in Asia, that a good person, after his death, was born again in another world, and became a still holier being or even an angel."
     },
     {
      "id": "p005.s02",
-     "source": "The crime was deferred by unanimous if tacit consent until the next day, when six more ruffians joined the murderers, to accomplish their wicked purpose without further delay."
+     "source": "But a bad person, after his death, if he had been a tale-bearer or deceitful, or told lies, would be changed into a snake."
+    },
+    {
+     "id": "p005.s03",
+     "source": "If he had been stupid, he might become a sheep or donkey, or a mule."
+    },
+    {
+     "id": "p005.s04",
+     "source": "Or, if he or she had been too proud, each was reborn as a peacock; if cruel, into a tiger or a hawk."
     }
    ],
    "id": "p005"
@@ -89,7 +141,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Again they waited and listened, and again their hearts beat fast at the sound of approaching horsemen; but their hands dropped powerless to their sides on perceiving the judge ride rapidly past them with an escort of twenty-four men!"
+     "source": "There were many girls in Japan, named Taka, which means a hawk, because of their bad temper, or their cruelty to puppies or kittens."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Sometimes, however, the name was a compliment, because they were quick and smart, like falcons."
     }
    ],
    "id": "p006"
@@ -99,15 +155,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Convinced that their plans had been revealed to the man they hated, the murderers now resolved to follow him home, to discover which men formed his body-guard, and if possible to find the informer or at least secure the connivance of the horsemen by means of large bribes."
+     "source": "Now, according to these ideas, there was a very hard-hearted man, named Chicksha, who beat his children."
     },
     {
      "id": "p007.s02",
-     "source": "They therefore noiselessly pursued the little cavalcade, and saw it come to a sudden halt in front of the judge’s house."
+     "source": "When angry, he threw dishes at his wife and cursed his servants."
     },
     {
      "id": "p007.s03",
-     "source": "There the magistrate slowly dismounted, gave the bridle of his weary steed to a waiting servant, and entered his house without saying a word or making a sign to the horsemen standing all around him."
+     "source": "One day, when in a fit of bad temper, he fell dead."
+    },
+    {
+     "id": "p007.s04",
+     "source": "No one was sorry, and some were even glad."
     }
    ],
    "id": "p007"
@@ -117,15 +177,11 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "As the door slammed shut, the servant led the horse away to the stable, and the mounted escort suddenly vanished into thin air."
+     "source": "After this event, whenever people saw a falcon, with terrible shining eyes, and beak as sharp as two razors, and with claws and talons, like a steel meat hook, they said, “It must be Chicksha, [ ] come to life again.”"
     },
     {
      "id": "p008.s02",
-     "source": "Then only, the amazed highwaymen became aware that the judge had been guarded by angelic spirits, detailed to watch over his safety, but of whose presence he was evidently not aware."
-    },
-    {
-     "id": "p008.s03",
-     "source": "This discovery filled their hearts with such awe that they never again attempted to lay violent hands upon him; but one of their number, overcome by remorse, finally went to seek him, and confessing their evil intentions, humbly begged his pardon for the projected crime."
+     "source": "Then they all ran out of their houses to see a thing so wonderful."
     }
    ],
    "id": "p008"
@@ -135,19 +191,328 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "The judge, who was as merciful as he was just, freely forgave this man; but, relying upon divine protection in case of need, he continued to mete out justice as before, and rode home alone when his day’s work was over."
+     "source": "After they had become used to the sight, they noticed, one day, that the terrible creature had unfolded its wings, spread them out wide, and flown westward."
     },
     {
      "id": "p009.s02",
-     "source": "No harm ever befell him, and it is said that when his upright career on earth was ended, the invisible body-guard escorted him to the great tribunal, where the verdict awarded to him was: “Well done, thou good and faithful servant, enter thou into the joy of thy Lord.”"
+     "source": "After awhile, this falcon had soared so high and so far, that, in the distance, it became nothing more than a speck on the blue horizon."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Then it disappeared behind the mountains."
+    },
+    {
+     "id": "p009.s04",
+     "source": "At this, everybody clapped their hands with delight."
+    },
+    {
+     "id": "p009.s05",
+     "source": "In fact, some of the more pious went to the village shrine and gave thanks to Great Buddha, for ridding the neighborhood of such a pest."
     }
    ],
    "id": "p009"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "On wings, which seemed to be tireless, this bird of evil flew on and on, farther and farther away, until in a strange land, it perched, tired and hungry, on a very high rock, beneath which was a lordly castle."
+    }
+   ],
    "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "In this stronghold lived a count and countess, in whose castle-yard was a skillful gamekeeper, whose ring of falcons was the most noted in all the land."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Flying down among the falcons, the soul of Chicksha, now a hunting bird, at once felt at home among these winged creatures, that fed on the blood of their fellows."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "THEN THE FAIRY QUEEN HELD OUT A LOVELY CUCKOO CLOCK"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "When taken out on hawking expeditions, few, even of the strongest falcons, equaled, and none excelled, Chicksha, in striking down, what the [ ] good Saint Francis called, “our little brothers of the air.”"
+    },
+    {
+     "id": "p013.s02",
+     "source": "So Chicksha became the favorite of his owner, the Count."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "But one day, tired of being hooded and kept inactive in the cages, in the castle yard, or, when taken out on the hoop and often, when hooded, kept from having the chance to kill and cause suffering, Chicksha, the falcon, leaped up from its keeper, when its cap dropped off, and flew away."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Proud of its freedom, the bird never stopped, until it perched upon a mountain named the Wülpelsberg, in Switzerland."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "On this lofty pinnacle, far above the river torrent, in the Aare valley, there stands today a lonely ruin, which is all that is left of what was once a spacious and magnificent castle."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Meanwhile, the Count, who was loath to lose his best bird, went off to hunt for his lost favorite."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Hoping, at every climb, to find his prize, he went up higher and higher into the forest."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Emerging from the woods, he caught sight of the hawk resting on the jagged rock."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Approaching stealthily, he put out his hand, captured the bird and quickly slipped the hood on its head."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "On turning his eyes, to survey the scene, the count had before him a splendid view of the grandest scenery upon which he had ever looked."
+    },
+    {
+     "id": "p017.s02",
+     "source": "It was the valley of the Aare, with its wonderful glacier and ice-cold river, and its romantic wild [ ] and rocky gorge, where now are villages and hotels, while its healing sulphur baths are among the most famous in Switzerland."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "The nobleman at once felt that here was the spot on which to build his castle."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Returning home, he summoned an architect, made his plans, and set about the enterprise."
+    },
+    {
+     "id": "p018.s03",
+     "source": "When he had finished it, he named the lordly structure, Hapsburg; which means the Castle of the Hawk."
+    },
+    {
+     "id": "p018.s04",
+     "source": "Here, one of the most renowned princely families of rulers, including kings and emperors, that wore crowns on their heads, was founded."
+    },
+    {
+     "id": "p018.s05",
+     "source": "They took for their emblem a double-headed bird of prey, as if they would seize double the amount of land, and oppress twice the number of people, commonly ruled over by monarchs."
+    },
+    {
+     "id": "p018.s06",
+     "source": "It is astonishing how rulers, in the past, have chosen birds and beasts of prey as symbols of their government—all so different from the Good Shepherd."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "In course of the centuries, this house of Hawk Castle gained a greater amount of power and spread their sceptre over more countries than any other."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Yet this was done, more by marrying their daughters, princesses, to kings and princes, than by victories in war."
+    },
+    {
+     "id": "p019.s03",
+     "source": "So this dynasty of rulers became famous for its matchmaking, in which the mothers and aunts had much to say."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Now, when the time came, that the young prince of the Hawk Castle House must seek a [ ] bride, he went into the country now called Belgium, and sought in marriage the hand of a lovely princess, named Eleanor."
+    },
+    {
+     "id": "p020.s02",
+     "source": "Then, the usual medieval custom was followed, in regard to royal ladies who left their own land to marry the prince of another country, and to live among strangers."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "In this case, also, the Prince having been summoned to Rome, on business that could not be put off, had first to be married by proxy; that is, one of his officers must make the journey to Belgium and take his place at the ceremony."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "For, while she, the promised bride, was perhaps the most beautiful of the princely daughters in all Europe, as she certainly was the richest heiress, he, the betrothed groom, was one of the poorest of titled rulers."
+    },
+    {
+     "id": "p022.s02",
+     "source": "There were beggar princes, then, as well as wealthy ones, and the needy bridegroom wanted to use some of the money of her dowry at once, for he was hard pressed to pay his debts."
+    },
+    {
+     "id": "p022.s03",
+     "source": "So he sent one of his high officers into Belgium."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "The ceremony was one of great magnificence, like a pageant."
+    },
+    {
+     "id": "p023.s02",
+     "source": "It was held in the largest hall of the palace, which was brightly lighted by hundreds of candles and the walls were hung with tapestry in brilliant colors."
+    },
+    {
+     "id": "p023.s03",
+     "source": "A train of bridesmaids brought in the princess, arrayed in her fairest robes, and decked with jewels."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Then the prince’s officer, who, in his splendid [ ] garments, was in uniform, with decorations for the occasion, like his master, and looked like him, came in the hall."
+    },
+    {
+     "id": "p024.s02",
+     "source": "He had on his head a crown, and at his side a sword, spurs on his boots, and jewels on his breast."
+    },
+    {
+     "id": "p024.s03",
+     "source": "He took his place on the right, for the bride must always be near the husband’s heart."
+    },
+    {
+     "id": "p024.s04",
+     "source": "In each corner of the room, was a sentinel in armor, and with his sword drawn."
+    },
+    {
+     "id": "p024.s05",
+     "source": "Then a notary appeared."
+    },
+    {
+     "id": "p024.s06",
+     "source": "He was in his scarlet robes of office, with the legal documents in his hand to secure the signatures."
+    },
+    {
+     "id": "p024.s07",
+     "source": "The witnesses were ranged around the hall and the nuptial service was read."
+    },
+    {
+     "id": "p024.s08",
+     "source": "The wedding was made legal by the loyal officer making answer for his august master, and the notary writing a record, attested by witnesses."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "The next day, attended by her ladies in waiting, her maids, cooks and serving women, the princess travelled in state to the frontier at the Rhine."
+    },
+    {
+     "id": "p025.s02",
+     "source": "In a great house, standing on the boundary line, half in Belgium and half in France, the preparations were made, by which the princely daughter ceased forever to be a Belgian maiden."
+    },
+    {
+     "id": "p025.s03",
+     "source": "After this ceremony of disrobing, she was ever afterwards to be an Austrian wife, for this was the time, when the Hapsburgs ruled over Switzerland in which epoch also the story is told of Gessler and William Tell."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "In one room, she left behind her all the wardrobe [ ] and whatever was Belgian."
+    },
+    {
+     "id": "p026.s02",
+     "source": "She then stepped into the next room, which was all Austrian in its furniture and treasures."
+    },
+    {
+     "id": "p026.s03",
+     "source": "It was full of dainty clothes, fluffy and gauzy for summer wear, the time of flowers; but there was also more, in plenty, of garments that were fur-lined, for winter warmth."
+    },
+    {
+     "id": "p026.s04",
+     "source": "With garments for wear next to the skin, that were white as an edelweiss, and thicker wraps for her body, that were crimson and purple, like the Alpine rose, she was met by the Swiss chaperone and the maidens awaiting her, who completed her costume."
+    },
+    {
+     "id": "p026.s05",
+     "source": "Then she stood forth as a bride, ready for the other ceremony of wedding, which took place in the cathedral, where, with bell and book, in the holy bonds of matrimony, they were to be joined by the bishop."
+    },
+    {
+     "id": "p026.s06",
+     "source": "There, the prince met his lovely princess and the two were married, and they and their children lived happily ever afterwards. [ ]"
+    }
+   ],
+   "id": "p026"
   }
  ]
 }

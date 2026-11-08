@@ -4,7 +4,7 @@
 - **Source book:** *Tales of the Punjab: Folklore of India*
 - **Author / collector / translator:** Steel, Flora Annie Webster (author, d. 1929)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #6145 — https://www.gutenberg.org/ebooks/6145 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #6145 — https://www.gutenberg.org/ebooks/6145
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

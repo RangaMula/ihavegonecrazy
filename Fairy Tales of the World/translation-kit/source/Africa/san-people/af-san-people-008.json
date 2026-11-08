@@ -2,20 +2,20 @@
  "id": "af-san-people-008",
  "title": {
   "id": "title",
-  "source": "Die Weerklank, of Echo"
+  "source": "Die Vuur en die ’NU-Fees"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
  "source_book": "Boesman-Stories. Deel 1, Mitologie en legendes",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #62330 — https://www.gutenberg.org/ebooks/62330 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #62330 — https://www.gutenberg.org/ebooks/62330",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/008 - Die Weerklank, of Echo.md",
+ "markdown_file": "Africa/San people/008 - Die Vuur en die ’NU-Fees.md",
  "stats": {
-  "paragraphs": 31,
-  "segments": 79,
-  "words": 1163
+  "paragraphs": 16,
+  "segments": 49,
+  "words": 921
  },
  "paragraphs": [
   {
@@ -23,7 +23,15 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "OPMERKINGS:—In hierdie Storie word die Weerklank voorgestel as ’n Gees wat mense bedrieg, bespot en weglok."
+     "source": "OPMERKINGS:—In hierdie Storie word die doen en late van Vuur beskrijwe."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Ons ou verteller het die Vuur altijd Danser genoem, omdat ’n vlam sonder ophou aan dans blij."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Die instelling van die ’Nu-Fees word verklaar."
     }
    ],
    "id": "p001"
@@ -33,23 +41,15 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Die Weerklank, of Echo, is die dogter van die Berge—haar pa is die Wind, wat deur sij dogter spreek."
+     "source": "Die Vuur se naam is Danser; maar sij vrouw, ’Kaun , is in die Vlaktes verander geword."
     },
     {
      "id": "p002.s02",
-     "source": "Sij is ’n spotter, wat van korswil nooit moeg word nie."
+     "source": "Hij is die seun van die Hotnotsgod en het eers nes ’n mens rondgeloop, gejag en gespeel."
     },
     {
      "id": "p002.s03",
-     "source": "Die een wat sij uitkoggel, sal moeg en kwaad word, maar die Weerklank nooit nie!"
-    },
-    {
-     "id": "p002.s04",
-     "source": "Hoe meer iemand lag of huil, sing of skel, hoe mooier dit vir haar is."
-    },
-    {
-     "id": "p002.s05",
-     "source": "Sonder een woord uit te laat, sê sij as sij alleen is, alles na wat ’n ander uiter."
+     "source": "Nou is hij Vuur, wat niemand sal kwaad doen nie, mits ’n mens van sij lijf af blij en hom nie kwaad maak nie—dan verteer die Vuur alles."
     }
    ],
    "id": "p002"
@@ -59,11 +59,31 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Sij woon daar bij haar ma in die berge: in die diep klowe waar klipkranse en afgronde is, daar is sij altijd te vinde."
+     "source": "Nou nog stap Danser nes ’n mens rond; maar meestal kan ’n mens hom nie sien nie."
     },
     {
      "id": "p003.s02",
-     "source": "Ofskoon sij lank kan stilblij en nooit uit haar eie gesels nie, slaap sij nooit nie; want roep iemand, dan gee sij dadelik antwoord; sij is altijd wakker."
+     "source": "Want hij maak ook net soos sij broer, die Wind: hij kruip orals in."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Slaan ’n mens klippe teen mekaar, dan spat daar Vuur uit."
+    },
+    {
+     "id": "p003.s04",
+     "source": "Vrijwe ’n mens houtjies teen mekaar, dan ontvlam die hout."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Ook uit die lug kom die Weerlig-Vuur!"
+    },
+    {
+     "id": "p003.s06",
+     "source": "Ja, die Vuur het ook in mense en diere ingekruip—al sien ons die Vuur nie in ons of in die diere nie, tog hij is daar."
+    },
+    {
+     "id": "p003.s07",
+     "source": "Want gaan hij uit die mense of diere, dan word hulle vleis koud, hulle sterf en is dood."
     }
    ],
    "id": "p003"
@@ -73,31 +93,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Die man wat eerste Musiek uitgevind het, se naam is Speelman."
-    },
-    {
-     "id": "p004.s02",
-     "source": "Hij het vir hom verskillende trompetters van Wildhorings gemaak."
-    },
-    {
-     "id": "p004.s03",
-     "source": "Van fluitjiesriet het hij fluite gemaak."
-    },
-    {
-     "id": "p004.s04",
-     "source": "Snaarinstrumente het hij van snare van Wildderms gemaak."
-    },
-    {
-     "id": "p004.s05",
-     "source": "Selfs ’n tamboer het nie makeer nie: hij het ’n pot geneem en het daaroor ’n Springbokvel getrek waarvan die hare afgemaak was."
-    },
-    {
-     "id": "p004.s06",
-     "source": "Speelman kon o, so mooi sing en speel."
-    },
-    {
-     "id": "p004.s07",
-     "source": "Daarom het hij iemand gesoek wat ook net so pragtig kan sing en speel as hij; maar hij kon die persoon nie vind nie."
+     "source": "Ook in die plante sit vuur; want as ons vuur maak, dan kom die Vuur wat in die plante sit, te voorskijn."
     }
    ],
    "id": "p004"
@@ -107,11 +103,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Die mense vertel hom toe dat daar in die klowe so ’n mooi jongmeid woon, wat net so mooi kan sing en speel."
+     "source": "Maar Danser is nog altijd kwaad vir die Bome omdat hul met sij vrouw, die Vlaktes, baklei het en omdat hul nou nog met hulle wortels in die lijf van sij vrouw vasgroei."
     },
     {
      "id": "p005.s02",
-     "source": "Haar naam is Weerklank—ander noem haar Echo."
+     "source": "Daarom brand Danser nog altijd die hout van Bome; ook die gras en bossies ontsien hij nie."
     }
    ],
    "id": "p005"
@@ -121,19 +117,23 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Speelman stap toe na daardie klowe in die berge toe."
+     "source": "Wanneer Danser as ’n mens rondstap, dan is daar groot lig en warmte op die plek waar hij loop."
     },
     {
      "id": "p006.s02",
-     "source": "Hij begin op sij wildhoring te blaas, en toe hij antwoord krij, begin hij te sing."
+     "source": "Die ander mense is dan blij om nabij hom te wees."
     },
     {
      "id": "p006.s03",
-     "source": "Was hij nie verwonderd nie toe hij hoor dat Echo nog mooier as hij kan sing?"
+     "source": "Want in daardie dae het die Son, Maan en Sterre nog nie geskijn nie, en dit was toe taamlik skemer—net soos in swaarbewolkte dae wanneer iemand nie goed kan sien nie."
     },
     {
      "id": "p006.s04",
-     "source": "Want ’n weerklank klink altijd mooier as die stem wat dit weerkaats."
+     "source": "Maar Danser se kop het geblink en het vir hom genoeg lig gegee om orals goed rond te sien."
+    },
+    {
+     "id": "p006.s05",
+     "source": "Hij het nooit oor koue gekla nie."
     }
    ],
    "id": "p006"
@@ -143,7 +143,15 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Hij roep: “Waar is jij!”"
+     "source": "Maar hij het ’n slegte humeur gehad en wil glad nie geterg wees nie."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Vat iemand aan hom, dan bijt Danser daardie vrijpostige een."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Maar hou ons vrinde met hom, dan blij hij binne ons om ons warm te maak; ook maak hij ons langs die Vuur warm en gee ons lig as hij voor ons kom dans en is selfs gewillig om ons kos gaar te maak—dan is hij ewe plesierig as ons hom genoeg hout gee om mee te baklei—hoe meer hout, hoe plesieriger is hij."
     }
    ],
    "id": "p007"
@@ -153,7 +161,15 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Die antwoord kom: “Waar is jij?”"
+     "source": "Bij ’n seker geleentheid was daar baie Wild en veldkos."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Die mense van daardie tijd het toe ’n groot fees gevier."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Daar het baie mense na daardie fees en dans gekom—aan pret en kos het dit nie ontbreek nie."
     }
    ],
    "id": "p008"
@@ -163,7 +179,39 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Hij antwoord: “Hier is ek; kom jij hiernatoe!”"
+     "source": "Danser was ook daar; maar aangesien hij nie lig aan sij lijf vertoon het nie, het niemand hom as die Vuurman herken nie."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Maar na hulle ’n rukkie geëet en gedans het, sê hij dat hij die mense sal leer om vuur te maak."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Hij neem toe ’n sagte houtjie en maak aan die sij ’n holte, lê die houtjie op die grond en gooi die skaafseltjies in die holte."
+    },
+    {
+     "id": "p009.s04",
+     "source": "Toe vat hij fijn gevrijfde grassies en lê dit naas aan."
+    },
+    {
+     "id": "p009.s05",
+     "source": "Hij vat toe ’n dunner en harder stokkie en draai dit tussen sij twee plat hande vinnig regop rond."
+    },
+    {
+     "id": "p009.s06",
+     "source": "Die skaafseltjies vat vuur; daarop begin die fijn grassies."
+    },
+    {
+     "id": "p009.s07",
+     "source": "Hij blaas dit aan en toe ontstaan daar ’n vlam."
+    },
+    {
+     "id": "p009.s08",
+     "source": "Hij lê fijn houtjies op die brandende gras, toe weer dikker hout en daar bo-op dik stompe."
+    },
+    {
+     "id": "p009.s09",
+     "source": "En spoedig brand daar net ’n tamaai groot vuur."
     }
    ],
    "id": "p009"
@@ -173,7 +221,15 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Die Echo roep: “Hier is ek; kom jij hiernatoe!”"
+     "source": "Die mense het hulle stom verwonder; hulle sing en dans om daardie vuur, wat so baie lig en warmte gee."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Daarop trek Danser ’n wije kring om die vuur en sê dat hulle die kos binne daardie kring moet bring om te braai."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Want voor daardie tijd het algaar die kos rouw geëet, nes die Leeuw, Tier, Wolf, Jakhals en Hond vandag nog doen; want hierdie diere is ook mos mense van die ougeslag wat hulle in diere verander het."
     }
    ],
    "id": "p010"
@@ -183,19 +239,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Speelman staan op en loop daarnatoe."
+     "source": "Die mense proe toe dat gebraaide vleis lekkerder as rouw vleis smaak."
     },
     {
      "id": "p011.s02",
-     "source": "Onderwijl speel hij op sij ramkie."
-    },
-    {
-     "id": "p011.s03",
-     "source": "Maar toe hij nader bij die plek kom, toe verplaas die klank haar en gee antwoord van glad ’n ander krans af."
-    },
-    {
-     "id": "p011.s04",
-     "source": "Die musiek van die Weerklank was vir hom te mooi."
+     "source": "Van daardie dag af word kos gebraai en gekook."
     }
    ],
    "id": "p011"
@@ -205,11 +253,11 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Hij roep: “Waarheen loop jij nou?"
+     "source": "Buite om die ring waarin die vleis gebraai word, trek Danser weer ’n tweede ring, sodat die mense tussen die braai-ring en die tweede ring moet dans, sing en musiek maak."
     },
     {
      "id": "p012.s02",
-     "source": "Wag, ek kom na jou toe!”"
+     "source": "Buite om daardie twee ringe is die buitewêreld waarin ’n mens net alles kan doen wat hij wil."
     }
    ],
    "id": "p012"
@@ -219,11 +267,11 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Sij roep: “Waarheen loop jij nou?"
+     "source": "Toe was die vrolikheid net groot en uitbundig: die meide klap op hulle hande, sing en slaan op tamboere; enkele van die mans speel musiek, terwijl die ander mans dans dat die stof so trek."
     },
     {
      "id": "p013.s02",
-     "source": "Wag, ek kom na jou toe!”"
+     "source": "In die dans buig en knik hul grappig met hulle koppe vir die meide, wat dit alles met vrolike gelag begroet."
     }
    ],
    "id": "p013"
@@ -233,19 +281,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Hij gaan sit en wag en hou aan sing en speel."
+     "source": "Algaar is onder ’n stofdamp; want as daar nie stof is nie, dan lijk dit ook nie of daar gedans en pret gemaak word nie."
     },
     {
      "id": "p014.s02",
-     "source": "Maar nou hoor Speelman dat die stem van meer as een plek kom."
-    },
-    {
-     "id": "p014.s03",
-     "source": "Dit maak hom nog meer nuwsgierig en ongeduldig."
-    },
-    {
-     "id": "p014.s04",
-     "source": "En wat nog meer sij nuwsgierigheid en geduld op die proef stel, is dat die stemme glad nie nader kom nie, maar blij waar dit is."
+     "source": "Die plesier en vrolikheid het tot die volgende oggend aangehou, en toe gaan hulle slaap."
     }
    ],
    "id": "p014"
@@ -255,7 +295,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Nou weet hij glad nie hoe hij dit het nie."
+     "source": "Die kinders, wat nie meegedans het nie, moes vroeg gaan water haal; want die dansers het toe al reeds baie dors, daar al die water gedurende die danserij uitgedrink geword het."
     }
    ],
    "id": "p015"
@@ -265,259 +305,10 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Hij begin toe agter die lokstemme aan te stap."
-    },
-    {
-     "id": "p016.s02",
-     "source": "Hoe nader hij kom, hoe verder uitmekaar die stemme gaan—dan hoor hij een stem, dan twee, dan drie en dan meer."
-    },
-    {
-     "id": "p016.s03",
-     "source": "Hij gee nie moed op nie en hou aan stap."
-    },
-    {
-     "id": "p016.s04",
-     "source": "Hij dwaal toe so ver weg tussen die klowe en gebergtes dat hij eindelik in die gramadoelas te lande kom om daar te verdwaal."
+     "source": "Van toe af word daar feeste gehou, en is die ’Ku -dans ingevoer."
     }
    ],
    "id": "p016"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p017.s01",
-     "source": "Wel, in sulke gramadoelas het Speelman te lande gekom."
-    },
-    {
-     "id": "p017.s02",
-     "source": "Stemme ontbreek nou nie."
-    },
-    {
-     "id": "p017.s03",
-     "source": "Die Echo laat haar steeds hoor; maar aan die gebrul van Leeuws, gehuil van Wolwe, getjank van Jakhalse en geblaf van Bobiane ontbreek dit nie—om nie eens van die gehoehoe van Uile te praat nie."
-    }
-   ],
-   "id": "p017"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p018.s01",
-     "source": "Toe, vir die eerste maal, gevoel Speelman hom in ’n benarde toestand."
-    },
-    {
-     "id": "p018.s02",
-     "source": "Hij maak toe plan om terug te keer."
-    }
-   ],
-   "id": "p018"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p019.s01",
-     "source": "Maar watter kant toe nou?"
-    }
-   ],
-   "id": "p019"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p020.s01",
-     "source": "Hij het toe begin te dwaal en verdwaal."
-    },
-    {
-     "id": "p020.s02",
-     "source": "Die eerste wat hom teëkom, was ’n trop Bobiane."
-    },
-    {
-     "id": "p020.s03",
-     "source": "Die ou voorman van hulle vra aan Speelman wat hij daar op hulle veld kom soek."
-    },
-    {
-     "id": "p020.s04",
-     "source": "Die Bobiaanwijfies roep uit: “Snij sij bene af en gee dié aan ons, dat ons ook kan regop loop.”"
-    },
-    {
-     "id": "p020.s05",
-     "source": "Die Bobiaankinders roep uit: “Snij sij kop af, dat ons daarmee bal-bal kan speel; want dit lijk of dit nie kan breek nie.”"
-    }
-   ],
-   "id": "p020"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p021.s01",
-     "source": "Versigtig stap Speelman agteruit tot hij bij ’n boom kom en so gouw as ’n kat klim hij daarin."
-    },
-    {
-     "id": "p021.s02",
-     "source": "Die voormanne van die Bobiane storm die boom; dog Speelman vat sij groot wildhoring en blaas so hard daarop dat die klowe daarvan weergalm."
-    },
-    {
-     "id": "p021.s03",
-     "source": "Die Bobiaankinders sit ’n keel op, hol weg en skree dat die berge wou vergaan."
-    },
-    {
-     "id": "p021.s04",
-     "source": "Die Bobiaanwijfies vlug agter hulle kinders aan, en al die ander volg en spaander die rant oor."
-    }
-   ],
-   "id": "p021"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p022.s01",
-     "source": "Toe klim Speelman uit die boom en vlug."
-    },
-    {
-     "id": "p022.s02",
-     "source": "Hij moes toe sij weg baan deur Tiere, Wolwe en Jakhalse, wat algaar dreig om hom te verskeur."
-    },
-    {
-     "id": "p022.s03",
-     "source": "Maar geeneen durf aan hom vat as hij op sij musiekinstrumente blaas of speel nie."
-    }
-   ],
-   "id": "p022"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p023.s01",
-     "source": "Hij was moeg, honger, dors en uitgeput en gaan toe sit en rus; dog ongelukkig val hij in slaap."
-    },
-    {
-     "id": "p023.s02",
-     "source": "Toe hij wakker skrik, het ’n Leeuw hom aan sij toegedraaide karos."
-    },
-    {
-     "id": "p023.s03",
-     "source": "Speelman hou asem op en maak of hij dood is."
-    }
-   ],
-   "id": "p023"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p024.s01",
-     "source": "Die Leeuw dra hom toe weg om hom aan sij kinders te gee."
-    },
-    {
-     "id": "p024.s02",
-     "source": "Maar die Leeuw word moeg van dra en gaan toe rus."
-    },
-    {
-     "id": "p024.s03",
-     "source": "Hij lê Speelman op die grond neer, maar kijk eers goed of hij wel regtig dood is."
-    },
-    {
-     "id": "p024.s04",
-     "source": "Daarop gaan die Leeuw op ’n kort afstand agter ’n klip staan en loer om die hoekie of Speelman nie roer nie."
-    },
-    {
-     "id": "p024.s05",
-     "source": "Maar Speelman het wel effe sij kop gedraai om te kijk wat die Leeuw nou wil maak."
-    },
-    {
-     "id": "p024.s06",
-     "source": "Die Leeuw kom terug en draai Speelman se kop weer soos dit gelê het en hij gaan toe weer agter daardie groot rots staan en loer—want dis die ou gewoonte van Leeuws om soiets te doen om uit te vind of die een regtig dood is."
-    }
-   ],
-   "id": "p024"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p025.s01",
-     "source": "Speelman draai toe sij kop effe, net dat hij met een oog kan sien wat die plan van die Leeuw is."
-    }
-   ],
-   "id": "p025"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p026.s01",
-     "source": "Die Leeuw stap verder en staan weer bo oor ’n rantjie te loer."
-    },
-    {
-     "id": "p026.s02",
-     "source": "Hij stap weg, maar kom dadelik gouw weer terug om te loer."
-    },
-    {
-     "id": "p026.s03",
-     "source": "Speelman lê nog stil."
-    },
-    {
-     "id": "p026.s04",
-     "source": "Maar toe die Leeuw verdwijn en so lank nie kom kijk nie, spring Speelman op, klouter ’n steil krans uit en verdwijn aan die anderkant van die rantjie."
-    },
-    {
-     "id": "p026.s05",
-     "source": "Toe die Leeuw met sij kinders terugkom, was Speelman baie weg."
-    }
-   ],
-   "id": "p026"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p027.s01",
-     "source": "Die Leeuw kon die spore van Speelman oor die steil kranse nie volg nie, en so het Speelman vrijgekom."
-    }
-   ],
-   "id": "p027"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p028.s01",
-     "source": "En na lank rondgedwaal te hê, het Speelman sij huis bereik."
-    }
-   ],
-   "id": "p028"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p029.s01",
-     "source": "Op hierdie manier het die Weerklank baie mense wat die Echo nie ken nie, verlei en het hul nes blinde laat ronddwaal en verdwaal tot iemand die verdwaaldes weer tereg help."
-    }
-   ],
-   "id": "p029"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p030"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p031.s01",
-     "source": "Die woord gramadoelas is ’n Afrikaanse woord, wat beteken ’n aaneengeskakelde, woeste en onbewoonde gebergte, waar ’n mens net sien koppe, rante, klowe, kranse, afgronde en houtbosse, wat algaar met ’n blouwkristalhemelgewelf oordek is. ↑"
-    }
-   ],
-   "id": "p031"
   }
  ]
 }

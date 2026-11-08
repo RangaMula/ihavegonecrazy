@@ -5,7 +5,7 @@
 A Collection of Native Legends*
 - **Author / collector / translator:** Thrum, Thomas G. (Thomas George) (editor, d. 1932)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #18450 — https://www.gutenberg.org/ebooks/18450 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #18450 — https://www.gutenberg.org/ebooks/18450
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

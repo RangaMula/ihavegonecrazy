@@ -2,20 +2,20 @@
  "id": "as-turkey-010",
  "title": {
   "id": "title",
-  "source": "King Kara-Kush Of Bithynia"
+  "source": "The Wind-Demon"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/010 - King Kara-Kush Of Bithynia.md",
+ "markdown_file": "Asia/Turkey/010 - The Wind-Demon.md",
  "stats": {
-  "paragraphs": 7,
-  "segments": 22,
-  "words": 465
+  "paragraphs": 78,
+  "segments": 226,
+  "words": 5385
  },
  "paragraphs": [
   {
@@ -23,11 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "King of Bithynia, named Kara-kush, who was blind of an eye, was considered in his day a reasonable, just, and feeling man."
+     "source": "There was once upon a time an old Padishah who had three sons and three daughters."
     },
     {
      "id": "p001.s02",
-     "source": "He administered justice upon the basis of the law, 'An eye for an eye, a tooth for a tooth,' and enlarged or modified it as circumstances demanded."
+     "source": "One day the old man fell ill, and though they called all the leeches together to help him, his disease would not take a turn for the better."
+    },
+    {
+     "id": "p001.s03",
+     "source": "“I already belong to Death,” he thought, and calling to him his sons and daughters, he thus addressed them: “If I die, he among you shall be Padishah who watches three nights at my tomb."
+    },
+    {
+     "id": "p001.s04",
+     "source": "As for my daughters, I give them to him who first comes to woo them.”"
+    },
+    {
+     "id": "p001.s05",
+     "source": "And with that he died, and was buried as became a Padishah."
     }
    ],
    "id": "p001"
@@ -37,15 +49,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "It happened that a weaver by accident put out the eye of a man."
+     "source": "Now as the realm could have a Padishah in no other way, the eldest son went to his father’s tomb and sat there for half the night, said his prayers upon his carpet, and awaited the dawn."
     },
     {
      "id": "p002.s02",
-     "source": "He was brought before the King or Cadi, for in those days the Kings acted as Cadis, who promptly condemned him, in accordance with the law, to the loss of an eye."
+     "source": "But all at once a horrible din arose in the midst of the darkness, and so frightened was he that he snatched up his slippers and never stopped till he got home."
     },
     {
      "id": "p002.s03",
-     "source": "The weaver pleaded touchingly, saying:"
+     "source": "The next night the middling son also went out to the tomb, and he also sat there for half the night, but no sooner did he hear the great din than he too caught up his slippers and hurried off homewards."
+    },
+    {
+     "id": "p002.s04",
+     "source": "So it now came to the turn of the third and youngest son."
     }
    ],
    "id": "p002"
@@ -55,19 +71,19 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "\"Oh Cadi!"
+     "source": "The third son took his sword, stuck it in his girdle, and went off to the tomb."
     },
     {
      "id": "p003.s02",
-     "source": "I have a wife and a large family, and I support them by throwing the shuttle from the right to the left, and again from the left to the right; first using the one eye and then the other."
+     "source": "Sure enough, when he had sat there till midnight, he heard the horrible din, and so horrible was it that the very earth trembled."
     },
     {
      "id": "p003.s03",
-     "source": "If you remove one of my eyes, I will not be able to weave, and my wife and children will suffer the pangs of hunger."
+     "source": "The youth pulled himself together, went straight towards the spot from whence the noise came loudest, and behold! right in front of him stood a huge dragon."
     },
     {
      "id": "p003.s04",
-     "source": "Why not, in the place of my eye, remove that of the hunter who uses but one eye in exercising his profession, and to whom two eyes are superfluous?\""
+     "source": "Drawing his sword, the youth fell upon the dragon so furiously that at last the monster had scarcely strength enough left to say: “If thou art a man, put thy heel upon me and strike me with thy sword but once more!”"
     }
    ],
    "id": "p003"
@@ -77,47 +93,19 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The Cadi was impressed, acknowledged the justice of the weaver's remarks, and the hunter was immediately sent for."
+     "source": "“Not I,” cried the King’s son, “my mother only bore me into the world once,” whereupon the dragon yielded up its filthy soul."
     },
     {
      "id": "p004.s02",
-     "source": "The hunter being brought, the Cadi was greatly rejoiced to notice that the hunter's eyes were exactly the same color as his own."
+     "source": "The King’s son would have cut off the beast’s ears and nose, but he could not see very well in the dark, and began groping about for them, when all at once he saw afar off a little shining light."
     },
     {
      "id": "p004.s03",
-     "source": "He asked the hunter how he earned his living, and receiving his answer that he was a hunter, the Cadi asked him how he shot."
+     "source": "He went straight towards it, and there in the midst of the brightness he saw an old man."
     },
     {
      "id": "p004.s04",
-     "source": "The hunter in reply demonstrated the manner by putting up his arms, his head to a side, and closing one eye."
-    },
-    {
-     "id": "p004.s05",
-     "source": "The Cadi said the weaver was right, and immediately sent for the surgeon to have the eye removed."
-    },
-    {
-     "id": "p004.s06",
-     "source": "Further, the Cadi bethought him that he might profit by this and have the hunter's eye placed in his own socket."
-    },
-    {
-     "id": "p004.s07",
-     "source": "The sur geon set to work and prepared the cavity to receive the hunter's eye."
-    },
-    {
-     "id": "p004.s08",
-     "source": "This done with a practised hand, the surgeon removed the hunter's eye and was about to place it in the prepared socket, when it accidentally slipped from his fingers to the ground, and was snatched up by a cat."
-    },
-    {
-     "id": "p004.s09",
-     "source": "The surgeon was terrified and madly ran after the cat; but alas! the cat had eaten the eye."
-    },
-    {
-     "id": "p004.s10",
-     "source": "What was he to do?"
-    },
-    {
-     "id": "p004.s11",
-     "source": "On the inspiration of the moment he snatched out the eye of the cat, and placing it in the Cadi's head, bound it up."
+     "source": "Two globes were in his hand, one black and the other white; the black globe he was turning round and round, and from the white globe proceeded the light."
     }
    ],
    "id": "p004"
@@ -127,7 +115,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Some time after the surgeon asked the Cadi how he saw."
+     "source": "“What art thou doing, old father?” asked the King’s son."
     }
    ],
    "id": "p005"
@@ -137,15 +125,1270 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "\"Oh,\" replied the Cadi, \"with my old eye I see as usual, but strange to say, the new eye you placed in my head is continually searching and watching for rat holes.\""
+     "source": "“Alas! my son,” replied the old man, “my business is my bane, I hold fast the nights and let go the days.”—“Alas! my father,” replied the King’s son, “my task is even greater than thine.”"
+    },
+    {
+     "id": "p006.s02",
+     "source": "With that he tied together the old man’s arms, so that he might not let go the days, and went on still further to seek the light."
+    },
+    {
+     "id": "p006.s03",
+     "source": "He went on and on till he came to the foot of a castle wall, and forty men were taking counsel together beneath it."
     }
    ],
    "id": "p006"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "“What’s the matter?” inquired the King’s son.—“We should like to go into the castle to steal the treasure,” said the forty men, “but we don’t know how.”"
+    }
+   ],
    "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "“I would very soon help you if you only gave me a little light,” said the King’s son."
+    },
+    {
+     "id": "p008.s02",
+     "source": "This the robbers readily promised to do, and after that he took a packet of nails, knocked them into the castle wall, row after row, right up to the top, clambered up himself, and then shouted down to them: “Now you come up one by one, just as I have done.”"
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "So the robbers caught hold of the nails and began to clamber up, one after another, the whole forty of them."
+    },
+    {
+     "id": "p009.s02",
+     "source": "But the youth was not idle."
+    },
+    {
+     "id": "p009.s03",
+     "source": "He drew his sword, and the moment each one of them reached the top, he chopped off his head and pitched his body into the courtyard, and so he did to the whole forty."
+    },
+    {
+     "id": "p009.s04",
+     "source": "Then he leaped down into the courtyard himself, and there right before him was a beautiful palace; and no sooner had he opened the door than a serpent glided past him, and crawled up a column close by the staircase."
+    },
+    {
+     "id": "p009.s05",
+     "source": "The youth drew his sword to strike the serpent; he struck and cut the serpent in two, but his sword remained in the stone wall, and he forgot to draw it out again."
+    },
+    {
+     "id": "p009.s06",
+     "source": "Then he mounted the staircase and went into a room, and there lay a lovely damsel asleep."
+    },
+    {
+     "id": "p009.s07",
+     "source": "So he went out again, closed the door very softly behind him, and ascended to the second flight, and went into a room there, and before him lay a still lovelier damsel on a bed."
+    },
+    {
+     "id": "p009.s08",
+     "source": "This door he also closed, and went up to the third and topmost flight, and opened a door there also, and lo! the whole room was piled up with nothing but steel, and such a splendid damsel lay asleep there that if the King’s son had had a thousand hearts, he would have loved her with them all."
+    },
+    {
+     "id": "p009.s09",
+     "source": "This door he also closed, remounted the castle wall, re-descended on the other side by means of the nails, which he took out as he descended, and so reached the ground again."
+    },
+    {
+     "id": "p009.s10",
+     "source": "Then he went straight up to the old man whose arms he had tied together."
+    },
+    {
+     "id": "p009.s11",
+     "source": "“Oh, my son!” cried he from afar, “thou hast remained a long time away."
+    },
+    {
+     "id": "p009.s12",
+     "source": "Every body’s side will be aching from so much lying down.”"
+    },
+    {
+     "id": "p009.s13",
+     "source": "Then the youth untied his arms, the old man let the white globes of day move round again, and the youth went up to the dragon, cut off its ears and nose, and put them in his knapsack."
+    },
+    {
+     "id": "p009.s14",
+     "source": "Then he went back to the palace, and when he drew nigh to it he found that they had made his eldest brother Padishah."
+    },
+    {
+     "id": "p009.s15",
+     "source": "However, he let it be and said nothing."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Not very long afterwards a lion came to the palace, and went straight up to the Padishah."
+    },
+    {
+     "id": "p010.s02",
+     "source": "“What dost thou want?” asked the Padishah."
+    },
+    {
+     "id": "p010.s03",
+     "source": "“I want thy eldest sister to wife,” replied the lion."
+    },
+    {
+     "id": "p010.s04",
+     "source": "“I give not my sister to a brute beast,” said the Padishah, and forthwith they began chasing the lion away; but now the King’s son appeared and said: “Such was not our father’s will, but he said we were to give her to whomsoever asked for her.”"
+    },
+    {
+     "id": "p010.s05",
+     "source": "With that they brought the damsel and gave her to the lion, and he took her and was gone."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "The next day came a tiger, and demanded the middling daughter from the Padishah."
+    },
+    {
+     "id": "p011.s02",
+     "source": "The two elder brethren would by no means give her up, but again the youngest brother insisted that they should do so, as it was their father’s wish."
+    },
+    {
+     "id": "p011.s03",
+     "source": "So they sent for the damsel and gave her to the tiger."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "On the third day a bird alighted in the palace, and said that he must have the youngest of the Sulta n’s daughters."
+    },
+    {
+     "id": "p012.s02",
+     "source": "The Padishah and the second brother were again unwilling to agree to it, but the youngest brother stood them out that the bird ought to be allowed to fly back with his sister."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Now this bird was the Padishah of the Peris, the emerald Anka."
+    },
+    {
+     "id": "p012.s04",
+     "source": "But now let us see what happened in that castle of which we have before spoken."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "In this castle there dwelt just about this time a Padishah and his three daughters."
+    },
+    {
+     "id": "p013.s02",
+     "source": "Rising one morning and going out, he saw a man walking in the palace."
+    },
+    {
+     "id": "p013.s03",
+     "source": "He went out into the courtyard, and saw a serpent cut in two on the staircase, and a sword sticking in the stone column, and going on still further, and searching in all directions, he perceived the bodies of the forty robbers in his castle moat."
+    },
+    {
+     "id": "p013.s04",
+     "source": "“Not an enemy, but only the hand of a friend could have done this,” thought he; “and he has saved me from the robbers and the serpent."
+    },
+    {
+     "id": "p013.s05",
+     "source": "The sword is my good friend’s, but where is the sword’s master?”"
+    },
+    {
+     "id": "p013.s06",
+     "source": "And he took counsel with his Vizier."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "“Oh, we’ll soon get to the bottom of that,” said the Vizier."
+    },
+    {
+     "id": "p014.s02",
+     "source": "“Let us make a great bath, and invite every one to come and bathe in it for nothing."
+    },
+    {
+     "id": "p014.s03",
+     "source": "We will watch carefully each single man, and whosoever has a sheath without a sword will be the man who has saved us.”"
+    },
+    {
+     "id": "p014.s04",
+     "source": "And the Padishah did so."
+    },
+    {
+     "id": "p014.s05",
+     "source": "He made ready a big bath, and the whole realm came and bathed in it."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Next day the Vizier said to him: “Every one has been here to bathe save only the King’s three sons, they still remain behind.”"
+    },
+    {
+     "id": "p015.s02",
+     "source": "Then the Padishah sent word to the King’s three sons to come and bathe, and looking closely at their garments, he perceived that the youngest of the three wore a sheath without a sword."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Then the Padishah called the King’s son to him and said: “Great is the good thou hast done to me, ask me what thou wilt for it!”—“I ask nought from thee,” replied the King’s son, “but thy youngest daughter.”"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“Alas! my son, ask me anything but that,” sighed the Padishah."
+    },
+    {
+     "id": "p017.s02",
+     "source": "“Ask my crown, my kingdom, and I’ll give them to thee, but my daughter I cannot give thee.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“If thou givest me thy daughter I will take her,” replied the King’s son, “but nought else will I take from thy hand.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“My son,” groaned the Padishah, “I will give thee my eldest daughter, I’ll give thee my second daughter, nay, I’ll give thee the pair of them if thou wilt."
+    },
+    {
+     "id": "p019.s02",
+     "source": "But my youngest daughter has a deadly enemy, the Wind-Demon."
+    },
+    {
+     "id": "p019.s03",
+     "source": "Because I would not give her to him, I must needs fence her room about with walls of steel, lest any of the devil race draw near to her."
+    },
+    {
+     "id": "p019.s04",
+     "source": "For the Wind-Demon is such a terrible monster that eye cannot see nor dart overtake him; like the tempest he flies, and his coming is like the coming of a whirlwind.”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "But whatever the Padishah might say to turn him from seeking after the damsel fell on deaf ears."
+    },
+    {
+     "id": "p020.s02",
+     "source": "He begged and pleaded so hard for the damsel that the Padishah was wearied by his much speaking, and promised him the damsel, nay they held the bridal banquet."
+    },
+    {
+     "id": "p020.s03",
+     "source": "The two elder brothers received the two elder damsels, and returned to their kingdom, but the youngest brother remained behind to guard his wife against the Wind-Demon."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Time came and went, and the King’s son avoided the light of day for the sake of his lovely Sultana."
+    },
+    {
+     "id": "p021.s02",
+     "source": "One day, however, the King’s son said to his wife: “Behold now, my Sultana, all this time I have never moved from thy side, methinks I will go a-hunting, though it only be for a little hour or so.”"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“Alas! my King,” replied his wife, “if thou dost depart from me, I know that thou wilt never see me more.”"
+    },
+    {
+     "id": "p022.s02",
+     "source": "But as he begged her for leave again and again, and promised to be back again immediately, his wife consented."
+    },
+    {
+     "id": "p022.s03",
+     "source": "Then he took his weapons and went forth into the forest."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Now the Wind-Demon had been awaiting this chance all along."
+    },
+    {
+     "id": "p023.s02",
+     "source": "He feared the famous prince, and durst not snatch his wife from his arms; but as soon as ever the King’s son had put his foot out of doors, the Wind-Demon came in and vanished with the wife of the King’s son."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Not very long afterwards the King’s son came back, and could find his wife nowhere."
+    },
+    {
+     "id": "p024.s02",
+     "source": "He went to the Padishah to seek her, and came back again, for it was certain that the Demon must have taken her, no other living soul could have got near her."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Bitterly did he weep, fiercely did he dash himself against the floor, but then he quickly rose up again, took horse, and galloped away into the wide world, determined to find either death or his consort."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "He went on for days, he went on for weeks, in his trouble and anguish he gave himself no rest."
+    },
+    {
+     "id": "p025.s02",
+     "source": "All at once a palace sprang up before him, but it seemed to him like a mirage, which baffles the eye that looks upon it."
+    },
+    {
+     "id": "p025.s03",
+     "source": "It was the palace of his eldest sister."
+    },
+    {
+     "id": "p025.s04",
+     "source": "The damsel was just then looking out of the window, and lo! she caught sight of a man wandering there where never a bird had flown and never a caravan had travelled."
+    },
+    {
+     "id": "p025.s05",
+     "source": "Then she recognized him as her brother, and so great was their mutual joy that they could not come to words for hugging and kissing."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Towards evening the damsel said to the King’s son: “The lion will be here shortly, and although he is very good to me, he is only a brute beast for all that, and may do thee a mischief.”"
+    },
+    {
+     "id": "p026.s02",
+     "source": "And she took her brother and hid him."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "The King’s Son and the Lion.—p. 121."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "In the evening the lion came home sure enough, and when they had sat down together and begun to talk, the girl asked him what he would do if any of her brothers should chance to come there."
+    },
+    {
+     "id": "p028.s02",
+     "source": "“If the eldest were to come,” said the lion, “I would strike him dead with one blow, if the second came I would slay him also, but if the youngest came, I would let him go to sleep on my paws if he liked.”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "“Then he has come,” said his wife."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Where is he—where is he?"
+    },
+    {
+     "id": "p030.s02",
+     "source": "Bring him out, let me see him!” cried the lion; and when the King’s son appeared, the lion did not know what to do with himself for joy."
+    },
+    {
+     "id": "p030.s03",
+     "source": "Then they began to talk, and the lion asked him why he had come there, and whither he was going."
+    },
+    {
+     "id": "p030.s04",
+     "source": "The youth told him what had happened, and said he was going to seek the Wind-Demon."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“I know but the rumour of him,” said the lion; “but take my word for it, thou hadst better have nothing to do with him, for there is none that can cope with the Wind-Demon.”"
+    },
+    {
+     "id": "p031.s02",
+     "source": "But the King’s son would not listen to reason, remained there that night, and next morning mounted his horse again."
+    },
+    {
+     "id": "p031.s03",
+     "source": "The lion accompanied him to show him the right way, and then they parted, one going to the right and the other to the left."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Again he went on and on, till he saw another palace, and this was the palace of his middling sister."
+    },
+    {
+     "id": "p032.s02",
+     "source": "The damsel saw from the window that a man was on the road, and no sooner did she recognize him than she rushed out to meet him, and led him into the palace."
+    },
+    {
+     "id": "p032.s03",
+     "source": "Full of joy, they conversed together till the evening, and then the damsel said to the youth: “In a short time my tiger-husband will be here, I’ll hide thee from him, lest a mischief befall thee,” and she took her brother and hid him."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "In the evening the tiger came home, and while they talked together his wife asked him what he would do if any of her brothers should chance to look in upon them."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“If the elder were to come,” said the tiger, “I would strike them dead, but if the youngest came, I would go down on my knees before him.”"
+    },
+    {
+     "id": "p034.s02",
+     "source": "Whereupon the damsel called to her youngest brother, the King’s son, to come forth."
+    },
+    {
+     "id": "p034.s03",
+     "source": "The tiger was overjoyed to see him, welcomed him as a brother, and asked him whence he came and whither he was going."
+    },
+    {
+     "id": "p034.s04",
+     "source": "Then the King’s son told the tiger of all his trouble, and asked him whether he knew the Wind-Demon."
+    },
+    {
+     "id": "p034.s05",
+     "source": "“Only by hearsay,” replied the tiger; and then he tried to persuade the King’s son not to go, for the danger was great."
+    },
+    {
+     "id": "p034.s06",
+     "source": "But the red dawn had no sooner appeared than the King’s son was ready to set out again."
+    },
+    {
+     "id": "p034.s07",
+     "source": "The tiger showed him the way, and the one went back and the other went forward."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "He pursued his way, and it was endlessly long, but time passes quickly in a fairy tale, and at last a dark object stood out against him."
+    },
+    {
+     "id": "p035.s02",
+     "source": "“What can it be?” thought he, but when he drew nearer he saw that it was a palace."
+    },
+    {
+     "id": "p035.s03",
+     "source": "It was the abode of his youngest sister."
+    },
+    {
+     "id": "p035.s04",
+     "source": "The damsel was just then looking out of the window."
+    },
+    {
+     "id": "p035.s05",
+     "source": "“Alas! my brother!” cried she, and very nearly fell out of the window for pure joy."
+    },
+    {
+     "id": "p035.s06",
+     "source": "Then she led him into the house."
+    },
+    {
+     "id": "p035.s07",
+     "source": "The youth rejoiced that he had found all his sisters so well, but the lack of his wife was still a weight upon his heart."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Now when evening was drawing nigh the girl said to her brother: “My bird-husband will be here anon; conceal thyself from him, for if he see thee he will tear thy heart out,” and with that she took her brother and hid him."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "And now there was a great clapping of wings, and the Anka had scarce rested a while when his wife asked him what he would do if any of her brothers came to see them."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“As to the two elder,” said the bird, “I would take them in my mouth, fly up to the sky with them, and cast them down from thence; but if the youngest were to come, I would let him sit down on my wings and go to sleep there if he liked.”"
+    },
+    {
+     "id": "p038.s02",
+     "source": "Then the girl called forth her youngest brother."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "“Alas! my dear little child,” cried the bird, “how didst thou find thy way hither?"
+    },
+    {
+     "id": "p039.s02",
+     "source": "Wert thou not afraid of the long journey?”"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "The youth told what had happened to him, and asked the Anka whether he could help him to get to the Wind-Demon."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "“It is no easy matter,” said the bird; “but even if thou couldst get to him, I would counsel thee to let it alone and stay rather among us.”"
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "“Not I,” replied the resolute youth; “I will either release my wife or perish there!”"
+    },
+    {
+     "id": "p042.s02",
+     "source": "Then the Anka saw that he could not turn him from his purpose, and began to explain to him all about the palace of the Wind-Demon."
+    },
+    {
+     "id": "p042.s03",
+     "source": "“He is now asleep,” said the Anka, “and thou mayest be able to carry off thy wife; but if he should awake and see thee, he will without doubt grind thee to atoms."
+    },
+    {
+     "id": "p042.s04",
+     "source": "Guard against him thou cannot, for eye cannot see and fire cannot harm him, so look well to thyself!”"
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "So next day the youth set out on his journey, and when he had gone on and on for a long, long time, he saw before him a vast palace that had neither door nor chimney, nor length nor breadth."
+    },
+    {
+     "id": "p043.s02",
+     "source": "It was the palace of the Wind-Demon."
+    },
+    {
+     "id": "p043.s03",
+     "source": "His wife chanced just then to be sitting at the window, and when she saw her husband she leaped clean out of the window to him."
+    },
+    {
+     "id": "p043.s04",
+     "source": "The King’s son caught his wife in his arms, and there were no bounds to their joy and their tears, till at last the girl bethought her of the terrible demon."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "“This is now the third day that he has slept,” cried she; “let us hasten away before the fourth day is spent also.”"
+    },
+    {
+     "id": "p044.s02",
+     "source": "So they mounted, whipped up their horses, and were already well on their way when the Wind-Demon awoke on the fourth day."
+    },
+    {
+     "id": "p044.s03",
+     "source": "Then he went to the girl’s door and bade her open, that he might at least see her face for a brief moment."
+    },
+    {
+     "id": "p044.s04",
+     "source": "He waited, but he got no answer."
+    },
+    {
+     "id": "p044.s05",
+     "source": "Then, auguring some evil, he beat in the door, and lo! the place where the damsel should have lain was cold."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "“So-ho, Prince Mehmed!” cried he, “thou hast come here, eh, and stolen away my Sultana?"
+    },
+    {
+     "id": "p045.s02",
+     "source": "Well, wait a while! go thy way, whip up thy fleet steed! for I’ll catch thee up in the long run.”"
+    },
+    {
+     "id": "p045.s03",
+     "source": "And with that he sat down at his ease, drank his coffee, smoked his chibook, and then rose up and went after them."
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "Meanwhile the King’s son was galloping off with the girl with all his might, when all at once the girl felt the demon’s breath, and cried out in her terror: “Alas, my King, the Wind-Demon is here!”"
+    },
+    {
+     "id": "p046.s02",
+     "source": "Like a whirlwind the invisible monster was upon them, caught up the youth, tore off his arms and legs, and smashed his skull and all his bones till there was not a bit of him left."
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "The damsel began to weep bitterly."
+    },
+    {
+     "id": "p047.s02",
+     "source": "“Even if thou hast killed him,” sobbed she, “let me at least gather together his bones and pile them up somewhere, for if thou suffer it, I would fain bury him.”—“I care not what thou dost with his bones!” cried the Demon."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "So the damsel took the bones of the King’s son, piled them up together, kissed the horse between the eyes, placed the bones on his saddle, and whispered in his ear: “Take these bones, my good steed, take them to the proper place.”"
+    },
+    {
+     "id": "p048.s02",
+     "source": "Then the Demon took the girl and led her back to the palace, for the power of her beauty was so great that it always kept the Demon close to her."
+    },
+    {
+     "id": "p048.s03",
+     "source": "Into her presence, indeed, she never suffered the monster to come."
+    },
+    {
+     "id": "p048.s04",
+     "source": "At the door of her chamber he had to stop, but he was allowed to show himself to her now and then."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "Meanwhile the good steed galloped away with the youth’s bones till he stopped at the door of the palace of the youngest sister, and then he neighed and neighed till the damsel heard him."
+    },
+    {
+     "id": "p049.s02",
+     "source": "She rushed out to the horse, and when she perceived the knapsack, and in the knapsack the bones of her brother, she began to weep bitterly, and dashed herself against the ground as if she would have dashed herself to pieces."
+    },
+    {
+     "id": "p049.s03",
+     "source": "She could hardly wait for her lord the Anka to come home."
+    },
+    {
+     "id": "p049.s04",
+     "source": "At last there was a sound of mighty wings, and the Padishah of the Birds, the emerald Anka, came home, and when he saw the scattered bones of the King’s son in the basket, he called together all the birds of the air and asked them, saying: “Which of you goes to the Garden of Paradise?”"
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "“An old owl is the only one that goes there,” said the birds, “and he has now grown so old that he has no more strength left for such a journey.”"
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "Then the Anka sent a bird to bring the owl on his back."
+    },
+    {
+     "id": "p051.s02",
+     "source": "The bird flew away, and in a very short time was back again, with the aged owl on his back."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "“Well, my father,” said the Bird-Padishah, “hast thou ever been in the Garden of Paradise?”"
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "“Yes, my little son,” croaked the aged owl, “a long, long time ago, twelve years or more, and I haven’t been there since.”"
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "“Well, if thou hast been there,” said the Anka, “go again now, and bring me from thence a little glass of water.”"
+    },
+    {
+     "id": "p054.s02",
+     "source": "The old owl kept on saying that it was a long, long way for him to go, and that he would never be able to hold out the whole way."
+    },
+    {
+     "id": "p054.s03",
+     "source": "The Anka would not listen to him, but perched him upon a bird’s back, and the twain flew into the Garden of Paradise, drew a glass of water, and returned to the Anka’s palace."
+    }
+   ],
+   "id": "p054"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p055.s01",
+     "source": "Then the Anka took the youth’s bones and began to put them together."
+    },
+    {
+     "id": "p055.s02",
+     "source": "The arms, the legs, the head, the thighs, everything he put in its proper place; and when he had sprinkled it all with the water, the youth fell a-gaping, as if he had been asleep and was just coming to himself again."
+    },
+    {
+     "id": "p055.s03",
+     "source": "The youth looked all about him, and asked the Anka where he was, and how he came there."
+    }
+   ],
+   "id": "p055"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p056.s01",
+     "source": "“Didn’t I say that the Wind-Demon would twist thee round his little finger?” replied the Anka."
+    },
+    {
+     "id": "p056.s02",
+     "source": "“He ground all thy bones and sinews to dust, and we have only just now picked them all out of the basket."
+    },
+    {
+     "id": "p056.s03",
+     "source": "But now thou hadst better leave the matter alone, for if thou gettest once more into the clutches of this demon, I know that we shall never be able to put thee together again.”"
+    }
+   ],
+   "id": "p056"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p057.s01",
+     "source": "But the youth was not content to do this, but said he would go seek his consort a second time."
+    }
+   ],
+   "id": "p057"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p058.s01",
+     "source": "“Well, if thou art bent on going at any price,” counselled the Anka, “go first to thy wife and ask her if she knows the Demon’s talisman."
+    },
+    {
+     "id": "p058.s02",
+     "source": "If only thou canst get hold of that, even the Wind-Demon will be in thy power.”"
+    }
+   ],
+   "id": "p058"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p059.s01",
+     "source": "So again the King’s son took horse, again he went right up to the Demon’s palace, and as the Demon was dreaming dreams just then, the youth was able to find and converse with his wife."
+    },
+    {
+     "id": "p059.s02",
+     "source": "After they had rejoiced with a great joy at the sight of each other, the youth told the lady to discover the secret of the Demon’s talisman, and win it by wheedling words and soft caresses if she could get at it no other way."
+    },
+    {
+     "id": "p059.s03",
+     "source": "Meanwhile the youth hid himself in the neighbouring mountain, and there awaited the good news."
+    }
+   ],
+   "id": "p059"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p060.s01",
+     "source": "When the Wind-Demon awoke from his forty days’ sleep he again presented himself at the damsel’s door."
+    },
+    {
+     "id": "p060.s02",
+     "source": "“Depart from before my eyes,” cried the girl."
+    },
+    {
+     "id": "p060.s03",
+     "source": "“Here hast thou been doing nothing but sleep these forty days, so that life has been a loathsome thing to me all the while.”"
+    }
+   ],
+   "id": "p060"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p061.s01",
+     "source": "The Demon rejoiced that he was allowed to be in the room along with the damsel, and in his happiness asked her what he should give her to help her to while away the time."
+    }
+   ],
+   "id": "p061"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p062.s01",
+     "source": "“What canst thou give me,” said the girl, “seeing that thou thyself art but wind?"
+    },
+    {
+     "id": "p062.s02",
+     "source": "Now if at least thou hadst a talisman, that, at any rate, would be something to while away the time with.”"
+    }
+   ],
+   "id": "p062"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p063.s01",
+     "source": "“Alas! my Sultana,” replied the Demon, “my talisman is far away, in the uttermost ends of the earth, and one cannot fetch it hither in a little instant."
+    },
+    {
+     "id": "p063.s02",
+     "source": "If only we had some such brave man as thy Mehmed was, he perhaps might be able to go for it.”"
+    }
+   ],
+   "id": "p063"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "The damsel was now more curious than ever about the talisman, and she coaxed and coaxed till at last she persuaded the Demon to tell her about the talisman, but not till she had granted his request that he might sit down quite close to her."
+    },
+    {
+     "id": "p064.s02",
+     "source": "The damsel could not refuse him that happiness, so he sat down beside her, and breathed into her ear the secret of the talisman."
+    }
+   ],
+   "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "“On the surface of the seventh layer of sea,” began the Demon, “there is an island, on that island an ox is grazing, in the belly of that ox there is a golden cage, and in that cage there is a white dove."
+    },
+    {
+     "id": "p065.s02",
+     "source": "That little dove is my talisman.”"
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "“But how can one get to that island?” inquired the Sultana."
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "“I’ll tell thee,” said the Demon."
+    },
+    {
+     "id": "p067.s02",
+     "source": "“Opposite to the palace of the emerald Anka is a huge mountain, and on the top of that mountain is a spring."
+    },
+    {
+     "id": "p067.s03",
+     "source": "Every morning forty sea-horses come to drink at that spring."
+    },
+    {
+     "id": "p067.s04",
+     "source": "If any one can be found to catch one of these horses by the leg (but only while he is drinking the water), bridle him, saddle him, and then leap on his back, he will be able to go wherever he likes."
+    },
+    {
+     "id": "p067.s05",
+     "source": "The sea-horse will say to him: ‘What dost thou command, my sweet master?’ and will carry him whithersoever he bids him.”"
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "“What good will the talisman be to me if I cannot get near it?” said the girl."
+    },
+    {
+     "id": "p068.s02",
+     "source": "With that she drove the Demon from the room, and when the time of his slumber arrived, she hastened with the news to her lord."
+    },
+    {
+     "id": "p068.s03",
+     "source": "Then the King’s son made great haste, leaped on his horse, hastened to the palace of his youngest sister, and told the matter to the Anka."
+    }
+   ],
+   "id": "p068"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p069.s01",
+     "source": "Early next morning the Anka arose, called five birds, and said to them: “Lead the King’s son to the spring on the mountain beyond, and wait there till the sea-horses come up."
+    },
+    {
+     "id": "p069.s02",
+     "source": "Forty steeds will appear by the running water, and when they begin to drink, seize one of them, bridle and saddle it, and put the King’s son on its back.”"
+    }
+   ],
+   "id": "p069"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p070.s01",
+     "source": "So the birds took the King’s son, carried him up to the mountain close by the spring, and as soon as the horses came up, they did to one of them what the Anka had said."
+    },
+    {
+     "id": "p070.s02",
+     "source": "The King’s son sat on the horse’s back forthwith, and the first thing the good steed said was: “What dost thou command, my sweet master?”"
+    }
+   ],
+   "id": "p070"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p071.s01",
+     "source": "“There is an island on the surface of the seventh ocean,” cried the King’s son, “there should I like to be!”"
+    },
+    {
+     "id": "p071.s02",
+     "source": "And the King’s son had flown away before you could shut your eyes; and before you could open them again, there he was on the shore of that island."
+    }
+   ],
+   "id": "p071"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p072.s01",
+     "source": "He dismounted from his horse, took off the bridle, stuck it in his pocket, and went off to seek the ox."
+    },
+    {
+     "id": "p072.s02",
+     "source": "As he was walking up and down the shore a Jew met him, and asked him what had brought him there."
+    }
+   ],
+   "id": "p072"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p073.s01",
+     "source": "“I have suffered shipwreck,” replied the youth."
+    },
+    {
+     "id": "p073.s02",
+     "source": "“My ship and everything I possess have perished, and only with difficulty did I swim ashore.”"
+    }
+   ],
+   "id": "p073"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p074.s01",
+     "source": "“As for me,” said the Jew, “I am in the service of the Wind-Demon."
+    },
+    {
+     "id": "p074.s02",
+     "source": "Thou must know that there is an ox on this island, and I must watch it night and day."
+    },
+    {
+     "id": "p074.s03",
+     "source": "Wouldst thou like to enter the service?"
+    },
+    {
+     "id": "p074.s04",
+     "source": "Thou wilt have nothing else to do all day but watch this beast.”"
+    }
+   ],
+   "id": "p074"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p075.s01",
+     "source": "The King’s son took advantage of the opportunity, and could scarce await the moment when he was to see the ox."
+    },
+    {
+     "id": "p075.s02",
+     "source": "At watering-time the Jew brought it along, and no sooner did he find himself alone with the beast than he cut open its belly, took out the golden cage, and hastened with it to the sea-shore."
+    },
+    {
+     "id": "p075.s03",
+     "source": "Then he drew the bridle from his pocket, and when he had struck the sea with it, the steed immediately appeared and cried: “What dost thou command, sweet master?”—“I desire to be taken to the palace of the Wind-Demon,” cried the youth."
+    }
+   ],
+   "id": "p075"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p076.s01",
+     "source": "Shut your eyes, open your eyes—and there they were before the palace."
+    },
+    {
+     "id": "p076.s02",
+     "source": "Then he took his wife, made her sit down beside him, and when the steed said: “What dost thou command, sweet master?” he bade it fly straight to the emerald Anka."
+    }
+   ],
+   "id": "p076"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p077.s01",
+     "source": "Away with them flew the steed."
+    },
+    {
+     "id": "p077.s02",
+     "source": "It flew right up to the very clouds, and as they were approaching the Anka’s palace the Demon awoke from his sleep."
+    },
+    {
+     "id": "p077.s03",
+     "source": "He saw that his wife had again disappeared, and immediately set off in pursuit."
+    },
+    {
+     "id": "p077.s04",
+     "source": "Already the Sultana felt the breath of the Demon, and he had all but overtaken them when the steed hastily bade them twist the neck of the white dove in the cage."
+    },
+    {
+     "id": "p077.s05",
+     "source": "They had barely time to do so, when the Wind died away and the Demon was destroyed."
+    }
+   ],
+   "id": "p077"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p078.s01",
+     "source": "With great joy they arrived at the Anka’s palace, let the horse go his way, and rested themselves awhile."
+    },
+    {
+     "id": "p078.s02",
+     "source": "On the next day they went to their second brother, and on the third day to their third brother, and it was only then that the King’s son discovered that his lion brother-in-law was the King of the Lions, and his tiger brother-in-law the King of the Tigers."
+    },
+    {
+     "id": "p078.s03",
+     "source": "At last they reached their home which was the domain of the damsel’s. Here they made a great banquet, and rejoiced their hearts for forty days and forty nights, after which they arose and went to the prince’s own empire."
+    },
+    {
+     "id": "p078.s04",
+     "source": "There he showed them the tongue of the dragon and its nose, and as he had thus fulfilled the wishes of his father, they chose him to be their Padishah; and their lives were full of joy till the day of their death, and their end was a happy one."
+    }
+   ],
+   "id": "p078"
   }
  ]
 }

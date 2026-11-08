@@ -4,7 +4,7 @@
 - **Source book:** *Legends of Vancouver*
 - **Author / collector / translator:** Johnson, E. Pauline (author, d. 1913)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #3478 — https://www.gutenberg.org/ebooks/3478 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #3478 — https://www.gutenberg.org/ebooks/3478
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

@@ -2,20 +2,20 @@
  "id": "af-san-people-003",
  "title": {
   "id": "title",
-  "source": "Die Koningin van Skeba"
+  "source": "Nag en Duisternis en hulle drie Dogters"
  },
  "tradition": "San people",
  "continent": "Africa",
  "source_lang": "af",
  "source_book": "Boesman-Stories. Deel 1, Mitologie en legendes",
  "credits": "Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)",
- "gutenberg": "Project Gutenberg eBook #62330 — https://www.gutenberg.org/ebooks/62330 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #62330 — https://www.gutenberg.org/ebooks/62330",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Africa/San people/003 - Die Koningin van Skeba.md",
+ "markdown_file": "Africa/San people/003 - Nag en Duisternis en hulle drie Dogters.md",
  "stats": {
-  "paragraphs": 2,
-  "segments": 9,
-  "words": 183
+  "paragraphs": 22,
+  "segments": 49,
+  "words": 1178
  },
  "paragraphs": [
   {
@@ -23,35 +23,15 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Die Egiptiese Koningin Hatshepsu het meer as 1,500 jaar voor die geboorte van Christus regeer."
+     "source": "OPMERKINGS:—Uit hierdie Storie blijk dit dat die Boesmans wel deeglik oortuig is dat alles uit Duisternis gebore is: dit was eers aand gewees en toe môre gewees."
     },
     {
      "id": "p001.s02",
-     "source": "Sij het ’n gesantskap met skepe na die Landpunt (Skeba) gestuur om daar skatte te gaan haal om ’n tempel vir haar god Amon-Ra te bouw."
+     "source": "Die outa wat ons die Stories vertel het, het altijd die Boesmanwoorde ’Ga en ’Gagen in plaas van nag en duisternis gebruik."
     },
     {
      "id": "p001.s03",
-     "source": "Die skepe het drie jaar weggeblij en het goud, edelgesteente en speserije gebring."
-    },
-    {
-     "id": "p001.s04",
-     "source": "Die Koningin van daardie land het self oor land gekom en nog meer skatte saamgebring."
-    },
-    {
-     "id": "p001.s05",
-     "source": "Hatshepsu het die tempel toe te Deir-el-Bahri nabij Tebe in Egipte gebouw."
-    },
-    {
-     "id": "p001.s06",
-     "source": "Ter ere van die optog van die Koningin van Skeba het Hatshepsu ’n tekening in die tempel laat afskilder en dit is vandag nog te sien."
-    },
-    {
-     "id": "p001.s07",
-     "source": "As jij eendag die geluk het om dié tempel te besoek, let op na die postuur en kleredrag, na die klein handjies en voetjies, die plat neus en kroeshare van die Koningin van Skeba."
-    },
-    {
-     "id": "p001.s08",
-     "source": "En wie sal nie sê nie: “Dis ’n uitgeknipte Boesmanmeid”?"
+     "source": "En die Hotnotsgod het hij op sij Boesmans ’Kaggen genoem ."
     }
    ],
    "id": "p001"
@@ -61,10 +41,310 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Hatshepsu het begin te regeer in 1552 voor die geboorte van Christus en Salomo in 977 voor die geboorte van Christus, dus was die Koningin wat Salomo besoek het, ’n ander persoon."
+     "source": "In die ou dae was daar net ’n skemering—net soos op ’n donker onweersdag."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Dit was koud, en die Son, Maan en Sterre het toe nog nie geskijn nie."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Ou ’Ga (nag) en sij ou vrouw ’Gagen (duisternis) het in ’n klipspelonk gewoon."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Hulle het nie seuns gehad nie, maar net drie dogters."
     }
    ],
    "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Toe die drie meide groot geword het, neem die moeder klein Skilpadjies, haal die vleis daar uit, boor gaatjies aan die voorpunte van die doppies, gooi daarin klein klippies, om daarin ’n geraas te maak as die doppies geskud word; sij snoer die doppies in met ’n riempie van Bobiaanvel gemaak en hang die snoer om die nek van haar oudste dogter."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Sij verbied die dogter om die snoer van haar hals af te haal, anders sal die kos in haar buurte opraak."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Toe neem die moeder weer klein kalbasdoppies, maak die doppies skoon, gooi daarin saadjies van bessies, snoer dit in ’n touwtjie van die binnebas van ’n boom gemaak en hang toe die snoer met klein kalbassies om die nek van haar tweede dogter."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Sij verbied hierdie dogter ook om die snoer van haar hals af te haal, anders sal die veldkos in haar buurte ook tot niet raak."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Daarop neem die moeder die ore van Springbokke, slag die buitenste harige vel daarvan af, neem die binnenste wit pit van die ore en maak daarvan klein blasies, gooi toe eers daarin droë sand om die sakkies mooi te laat droog."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Toe die sakkies droog was, gooi sij daarin die harde korrels wat in Springbok-oë is, om ’n geraas te maak, rij die blasies in met ’n touwtjie van Springboksenings gemaak en hang die snoer om die nek van die jongste dogter, met die gebod om dit nie van haar hals af te haal nie."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Toe roep die vader en moeder die drie dogters om voor die mense te kom dans om te sien hoe mooi hulle kan dans en om te luister hoe pragtig die snoere om hulle nekke raas as die drie meide dans."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Baie mense het van ver gekom om na die pragtige danse van die drie jongmeide te kijk en het hulle baie verwonder."
+    },
+    {
+     "id": "p007.s02",
+     "source": "Maar die jonkmans was maar versigtig vir die drie meide, omdat hul die drie dansers as toorhekse beskouw het."
+    },
+    {
+     "id": "p007.s03",
+     "source": "Dáároor het die drie hulle nie erg bekommer nie, want hulle was gelukkig waar hulle was."
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Die Gogga, wat ons die Hotnotsgod, en wat die Boesmans ’Kaggen noem, en wat nes ’n lang, plat Sprinkhaan lijk, wat sij dik voorpote saam hou asof hij bid—wel, daardie Hotnotsgod het op ’n bossie gesit en het aldag sit en kijk en luister hoe die drie jongmeide dans."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Om beter te kan sien en te luister, verander hij hom in ’n groot wilde bok en kom toe nader en kijk met nuwsgierige oë na die dansers."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Die ou vader grijp toe sij pijlkoker en boog en bekruip die groot bok; hij skiet en skiet, maar elke slag was dit mis."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Hij kruip toe weer nader, vat goed korrel en toe raak hij die bok."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Die bok hol ’n entjie weg en val dood—of liewers gesê: hij hou hom dood."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Daarop stap die vader en moeder met die dogters nader om die bok af te slag."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Na hul hom afgeslag het, snij die ou die bok in vier kwarte."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Hij vat ’n agterkwart en die vel en dra dié; sij vrouw dra die ander agterkwart en binnegoed; die oudste dogter vat ’n voorkwart en dra dit; die tweede dogter dra die ander voorkwart, terwijl die jongste dogter die kop met die rugstring daaraan pak en dra."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Die kop begin toe met die jongste dogter te praat en vra waarom hulle hom so seer moet maak."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Die kop knip sij oë en steun erg pijnlik."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Die jongste dogter roep uit: “Pa, die bok se kop leef nog—hoor hoe praat hij met mij en hoor hoe steun hij!”"
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Die ander draers neem dit vir korswil op en steur hul nie aan die praatjies van die jongste suster nie."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Weer roep die jongste dogter: “Pa, dis regtig waar, die bok se kop leef nog, hoor hoe hij praat en steun—kijk hij knip oë.”"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "Ook van hierdie gesegdes van die jongste dogter word geen notiesie geneem nie."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Die draers stap voort."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Maar toe die jongste dogter vir die derde keer roep en sê: “Pa, ek smijt net nou die bok se kop met rugstring en al weg: hoor hoe praat en kreun hij, en kijk hoe knip hij sij oë,” toe blij die draers staan om te kijk."
+    },
+    {
+     "id": "p016.s02",
+     "source": "En terwijl hulle blij staan, draai die vier kwarte hulle bo op die koppe van die draers om."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Hulle sit van skrik die vier kwarte op bossies neer om dié nie vol sand te laat word nie."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Elke kwart draai hom weer reg, want die dorings en skerp punte van die takkies steek hulle."
+    },
+    {
+     "id": "p016.s05",
+     "source": "Toe skrik algaar nog meer en staan eenkanttoe."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Die een agterkant spring toe op en gaan na sij plek aan die rugstring en heg hom daar vas, toe spring die ander agterkwart ook op en heg hom op sij plek vas; daarop spring die een voorkwart op en gaan na sij plek aan die rugstring toe; daarop volg die ander voorkwart en heg hom op sij plek vas; toe kruip die ingewande in die afgeslagte bok; die bok spring na die vel toe, en die vel vouw hom daarop om die bok, net soos hij tevore was, en die bok staan weer ewe bedaard die draers te aanskouw."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Daarop hol hij op ’n kort galoppie weg en word daarna weer die Hotnotsgod, wat soos ’n lang, skraal Sprinkhaan lijk."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "So vind die ou vader en sij gesin uit dat ’Kaggen hulle lelik geflous het."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Maar hiermee was dit nie gedaan nie."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Die Hotnotsgod, na verloop van enige dae, verander drie van sij seuns in drie jonkmans en hij stuur hul na die drie jongmeide toe."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Die drie meide krij net sin in die drie mooi jongkêrels."
+    },
+    {
+     "id": "p019.s03",
+     "source": "En ieder jonkman vat een van die dogters en trouw met haar."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Hulle maak toe hutte van bossies en gaan daarin woon; want daar was volop Wild en veldkos—net soos hulle ma hulle voorspel het—, solank die drie dogters die snoere om hulle nekke dra."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Daar het toe ook baie ander Boesmans kom woon, wat op die Wild en veldkos kom jag maak het."
+    },
+    {
+     "id": "p021.s02",
+     "source": "So het daardie plek net ’n plek van plesier geword."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Sonder om te twis, het hul daar in vrede saam gewoon; want kos en al die nodige was daar volop; plesier en pret het daar nie ontbreek nie, en wat wil hulle meer hê?"
+    },
+    {
+     "id": "p022.s02",
+     "source": "In een woord, dit was daar ’n lui-lekker land."
+    }
+   ],
+   "id": "p022"
   }
  ]
 }

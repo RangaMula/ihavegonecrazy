@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-046",
  "title": {
   "id": "title",
-  "source": "The Magician Of Lake Huron"
+  "source": "The Fire-Leggings"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Thirty Indian Legends",
- "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/046 - The Magician Of Lake Huron.md",
+ "source_book": "Indian Why Stories: Sparks from War Eagle's Lodge-Fire",
+ "credits": "Linderman, Frank Bird (author, d. 1938)",
+ "gutenberg": "Project Gutenberg eBook #606 — https://www.gutenberg.org/ebooks/606",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/046 - The Fire-Leggings.md",
  "stats": {
-  "paragraphs": 16,
-  "segments": 58,
-  "words": 838
+  "paragraphs": 15,
+  "segments": 50,
+  "words": 860
  },
  "paragraphs": [
   {
@@ -23,19 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "The Manatoline, or Spirit, Islands were supposed to be a favorite abode of the Manitous, or spirits."
+     "source": "There had been a sudden change in the weather."
     },
     {
      "id": "p001.s02",
-     "source": "Perhaps that is why many strange things happened there."
+     "source": "A cold rain was falling, and the night comes early when the clouds hang low."
     },
     {
      "id": "p001.s03",
-     "source": "One night, as Masswaweinini, the magician, was lying asleep, a sound of voices wakened him."
+     "source": "The children loved a bright fire, and to-night War Eagle's lodge was light as day."
     },
     {
      "id": "p001.s04",
-     "source": "\"This is Masswaweinini,\" said the first voice; \"we must have his heart.\""
+     "source": "Away off on the plains a wolf was howling, and the rain pattered upon the lodge as though it never intended to quit."
+    },
+    {
+     "id": "p001.s05",
+     "source": "It was a splendid night for story-telling, and War Eagle filled and lighted the great stone pipe, while the children made themselves comfortable about the fire."
     }
    ],
    "id": "p001"
@@ -45,7 +49,15 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "\"How shall we get it?\" said the second voice."
+     "source": "A spark sprang from the burning sticks, and fell upon Fine Bow's bare leg."
+    },
+    {
+     "id": "p002.s02",
+     "source": "They all laughed heartily at the boy's antics to rid himself of the burning coal; and as soon as the laughing ceased War Eagle laid aside the pipe."
+    },
+    {
+     "id": "p002.s03",
+     "source": "An Indian's pipe is large to look at, but holds little tobacco."
     }
    ],
    "id": "p002"
@@ -55,7 +67,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "\"I shall put my hand into his mouth,\" said the first, \"and pull it out that way.\""
+     "source": "\"See your shadows on the lodge wall?\" asked the old warrior."
+    },
+    {
+     "id": "p003.s02",
+     "source": "The children said they saw them, and he continued:"
     }
    ],
    "id": "p003"
@@ -65,47 +81,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The magician felt a hand being slipped between his teeth."
-    },
-    {
-     "id": "p004.s02",
-     "source": "He waited until the fingers were all in his mouth, then he bit them hard and they came off."
-    },
-    {
-     "id": "p004.s03",
-     "source": "He heard a cry, then the strangers disappeared."
-    },
-    {
-     "id": "p004.s04",
-     "source": "In the morning he arose, but could find no trace of any one."
-    },
-    {
-     "id": "p004.s05",
-     "source": "But when he came down to the water's edge, he saw a canoe with two people in it."
-    },
-    {
-     "id": "p004.s06",
-     "source": "They were sitting at each end of the canoe, with their arms stretched out."
-    },
-    {
-     "id": "p004.s07",
-     "source": "When he came close to them, he saw they were fairies, and that they had been turned to stone."
-    },
-    {
-     "id": "p004.s08",
-     "source": "One of them had lost the fingers of one hand, so he knew they were his enemies of the night before."
-    },
-    {
-     "id": "p004.s09",
-     "source": "The canoe was laden with bags of all kinds of treasures, and it was the most beautiful boat he had ever seen."
-    },
-    {
-     "id": "p004.s10",
-     "source": "He lifted out the stone figures and put them in the woods."
-    },
-    {
-     "id": "p004.s11",
-     "source": "As he turned away, one of the figures spoke to him."
+     "source": "\"Some day I will tell you a story about them, and how they drew the arrows of our enemies, but to-night I am going to tell you of the great fire-leggings."
     }
    ],
    "id": "p004"
@@ -115,15 +91,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "\"Masswaweinini,\" it said, \"the canoes of the Ottawa Indians will, after this, always be well laden like our canoe."
-    },
-    {
-     "id": "p005.s02",
-     "source": "Your tribe was driven from their land by their cruel enemies, but they shall be rewarded for their bravery."
-    },
-    {
-     "id": "p005.s03",
-     "source": "The Mighty Spirit will help them, and they shall be given many treasures in their new home.\""
+     "source": "\"It was long before there were men and women on the world, but my grandfather told me what I shall now tell you."
     }
    ],
    "id": "p005"
@@ -133,15 +101,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "The magician then went back to the boat and lifted out the bags."
+     "source": "\"The gray light that hides the night-stars was creeping through the forests, and the wind the Sun sends to warn the people of his coming was among the fir tops."
     },
     {
      "id": "p006.s02",
-     "source": "He carried the boat and hid it among the trees."
-    },
-    {
-     "id": "p006.s03",
-     "source": "When he opened the bags, he found meat and fish and many other things, and took them to his camp."
+     "source": "Flowers, on slender stems, bent their heads out of respect for the herald-wind's Master, and from the dead top of a pine-tree the Yellowhammer beat upon his drum and called 'the Sun is awake—all hail the Sun!'"
     }
    ],
    "id": "p006"
@@ -151,43 +115,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "As he rested in his lodge that night, he would have been very happy, if he had not been so sorry for his old father and mother."
+     "source": "\"Then the bush-birds began to sing the song of the morning, and from alders the Robins joined, until all live things were awakened by the great music."
     },
     {
      "id": "p007.s02",
-     "source": "He thought of them many miles away with none of the comforts he had."
+     "source": "Where the tall ferns grew, the Doe waked her Fawns, and taught them to do homage to the Great Light."
     },
     {
      "id": "p007.s03",
-     "source": "\"I shall go and bring them,\" he said."
+     "source": "In the creeks, where the water was still and clear, and where throughout the day, like a delicate damaskeen, the shadows of leaves that overhang would lie, the Speckled Trout broke the surface of the pool in his gladness of the coming day."
     },
     {
      "id": "p007.s04",
-     "source": "He had only to think of going when at once he could move like the wind."
-    },
-    {
-     "id": "p007.s05",
-     "source": "So before morning he found himself at the poor, little camp of his parents."
-    },
-    {
-     "id": "p007.s06",
-     "source": "They were still asleep, so without making any noise, he took them in his arms and carried them back to his lodge."
-    },
-    {
-     "id": "p007.s07",
-     "source": "When they awakened in the morning, they were delighted to find themselves with their son."
-    },
-    {
-     "id": "p007.s08",
-     "source": "All day long they wandered through the fields and by the shore, and were as happy as children."
-    },
-    {
-     "id": "p007.s09",
-     "source": "As the days and weeks went by, they seemed to grow happier still."
-    },
-    {
-     "id": "p007.s10",
-     "source": "But one night the magician saw his old father look in his tobacco-pouch and then sigh."
+     "source": "Pine-squirrels chattered gayly, and loudly proclaimed what the wind had told; and all the shadows were preparing for a great journey to the Sand Hills, where the ghost-people dwell."
     }
    ],
    "id": "p007"
@@ -197,11 +137,23 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "\"I know what it is you want, my father, it is tobacco; you have not had any for many moons."
+     "source": "\"Under a great spruce-tree—where the ground was soft and dry, OLD-man slept."
     },
     {
      "id": "p008.s02",
-     "source": "Now I shall get some.\""
+     "source": "The joy that thrilled creation disturbed him not, although the Sun was near."
+    },
+    {
+     "id": "p008.s03",
+     "source": "The bird-people looked at the sleeper in wonder, but the Pine squirrel climbed the great spruce-tree with a pine-cone in his mouth."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Quickly he ran out on the limb that spread over OLD-man, and dropped the cone on the sleeper's face."
+    },
+    {
+     "id": "p008.s05",
+     "source": "Then he scolded OLD-man, saying: 'Get up—get up—lazy one—lazy one—get up—get up.'"
     }
    ],
    "id": "p008"
@@ -211,11 +163,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "\"How can you do that?\" asked the father, in surprise."
-    },
-    {
-     "id": "p009.s02",
-     "source": "\"You are surrounded by enemies and cut off from all supplies.\""
+     "source": "\"Rubbing his eyes in anger, OLD-man sat up and saw the Sun coming—his hunting leggings slipping through the thickets—setting them afire, till all the Deer and Elk ran out and sought new places to hide."
     }
    ],
    "id": "p009"
@@ -225,7 +173,23 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"I shall make my enemies give me some,\" said the magician."
+     "source": "\"'Ho, Sun!' called OLD-man, 'those are mighty leggings you wear."
+    },
+    {
+     "id": "p010.s02",
+     "source": "No wonder you are a great hunter."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Your leggings set fire to all the thickets, and by the light you can easily see the Deer and Elk; they cannot hide."
+    },
+    {
+     "id": "p010.s04",
+     "source": "Ho!"
+    },
+    {
+     "id": "p010.s05",
+     "source": "Give them to me and I shall then be the great hunter and never be hungry.'"
     }
    ],
    "id": "p010"
@@ -235,23 +199,7 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "That night he set out on a long journey across the frozen lake."
-    },
-    {
-     "id": "p011.s02",
-     "source": "So swiftly did he travel, that by morning he had reached the village of his enemies."
-    },
-    {
-     "id": "p011.s03",
-     "source": "They were surprised to see him, but invited him into their lodges."
-    },
-    {
-     "id": "p011.s04",
-     "source": "\"I thank you,\" he said, \"but I shall not go into any lodge."
-    },
-    {
-     "id": "p011.s05",
-     "source": "I shall build a fire on the shore of the lake.\""
+     "source": "\"'Good,' said the Sun, 'take them, and let me see you wear my leggings.'"
     }
    ],
    "id": "p011"
@@ -261,7 +209,43 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "He made himself a tent with the branches of trees, built a fire, and sat beside it."
+     "source": "\"OLD-man was glad in his heart, for he was lazy, and now he thought he could kill the game without much work, and that he could be a great hunter—as great as the Sun."
+    },
+    {
+     "id": "p012.s02",
+     "source": "He put on the leggings and at once began to hunt the thickets, for he was hungry."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Very soon the leggings began to burn his legs."
+    },
+    {
+     "id": "p012.s04",
+     "source": "The faster he travelled the hotter they grew, until in pain he cried out to the Sun to come and take back his leggings; but the Sun would not hear him."
+    },
+    {
+     "id": "p012.s05",
+     "source": "On and on OLD-man ran."
+    },
+    {
+     "id": "p012.s06",
+     "source": "Faster and faster he flew through the country, setting fire to the brush and grass as he passed."
+    },
+    {
+     "id": "p012.s07",
+     "source": "Finally he came to a great river, and jumped in."
+    },
+    {
+     "id": "p012.s08",
+     "source": "Sizzzzzzz—the water said, when OLD-man's legs touched it."
+    },
+    {
+     "id": "p012.s09",
+     "source": "It cried out, as it does when it is sprinkled upon hot stones in the sweat-lodge, for the leggings were very hot."
+    },
+    {
+     "id": "p012.s10",
+     "source": "But standing in the cool water OLD-man took off the leggings and threw them out upon the shore, where the Sun found them later in the day."
     }
    ],
    "id": "p012"
@@ -271,7 +255,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "\"Why have you come to visit us?\" asked the chief."
+     "source": "\"The Sun's clothes were too big for OLD-man, and his work too great."
     }
    ],
    "id": "p013"
@@ -281,7 +265,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "\"I want some tobacco for my father,\" replied the magician."
+     "source": "\"We should never ask to do the things which Manitou did not intend us to do."
+    },
+    {
+     "id": "p014.s02",
+     "source": "If we keep this always in mind we shall never get into trouble."
     }
    ],
    "id": "p014"
@@ -291,60 +279,34 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "\"Is that all?\" said the Indian."
+     "source": "\"Be yourselves always."
     },
     {
      "id": "p015.s02",
-     "source": "\"You shall have it;\" and he opened his tobacco-pouch and gave some tobacco to Masswaweinini."
+     "source": "That is what Manitou intended."
     },
     {
      "id": "p015.s03",
-     "source": "The other Indians did the same, so now the magician had a large supply to take home."
+     "source": "Never blame the Wolf for what he does."
     },
     {
      "id": "p015.s04",
-     "source": "When it became dark, he lay down to sleep beside his fire."
+     "source": "He was made to do such things."
     },
     {
      "id": "p015.s05",
-     "source": "In the middle of the night, the chief and some Indians rushed in, shouting, \"You are a dead man.\""
+     "source": "Now I want you to go to your fathers' lodges and sleep."
+    },
+    {
+     "id": "p015.s06",
+     "source": "To-morrow night I will tell you why there are so many snakes in the world."
+    },
+    {
+     "id": "p015.s07",
+     "source": "Ho!\""
     }
    ],
    "id": "p015"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p016.s01",
-     "source": "\"No, I am not,\" said the magician, \"but you are.\""
-    },
-    {
-     "id": "p016.s02",
-     "source": "With his tomahawk he hit left and right."
-    },
-    {
-     "id": "p016.s03",
-     "source": "In a few minutes six lay dead beside him."
-    },
-    {
-     "id": "p016.s04",
-     "source": "Then he wrapped his blanket around him, gathered up his tobacco, and set off."
-    },
-    {
-     "id": "p016.s05",
-     "source": "By evening he had reached his father's lodge, and spread out his gift before him."
-    },
-    {
-     "id": "p016.s06",
-     "source": "The old man was delighted with the present, and thanked him many times for his kindness."
-    },
-    {
-     "id": "p016.s07",
-     "source": "When spring came, the magician built a beautiful lodge for his parents on the edge of the wrestling ground, and all through the summer they watched the corn and pumpkins grow."
-    }
-   ],
-   "id": "p016"
   }
  ]
 }

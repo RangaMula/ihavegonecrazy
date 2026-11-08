@@ -2,20 +2,20 @@
  "id": "as-turkey-003",
  "title": {
   "id": "title",
-  "source": "The Hanoum And The Unjust Cadi"
+  "source": "The Rose-Beauty"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/003 - The Hanoum And The Unjust Cadi.md",
+ "markdown_file": "Asia/Turkey/003 - The Rose-Beauty.md",
  "stats": {
-  "paragraphs": 18,
-  "segments": 36,
-  "words": 838
+  "paragraphs": 27,
+  "segments": 111,
+  "words": 2893
  },
  "paragraphs": [
   {
@@ -23,7 +23,15 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "t was, and still is, in some parts of Constantinople, the custom of the refuse-gatherer to go about the streets with a basket on his back, and a wooden shovel in his hand, calling out 'refuse removed.'"
+     "source": "Once upon a time in the old old days when straws were sieves, and the camel a chapman, and the mouse a barber, and the cuckoo a tailor, and the donkey ran errands, and the tortoise baked bread, and I was only fifteen years old, but my father rocked my cradle, and there was a miller in the land who had a black cat—in those olden times, I say, there was a King who had three daughters, and the first daughter was forty, and the second was thirty, and the third was twenty."
+    },
+    {
+     "id": "p001.s02",
+     "source": "One day the youngest daughter wrote this letter to her father: “My lord father! my eldest sister is forty and my second sister is thirty, and still thou hast given neither of them a husband."
+    },
+    {
+     "id": "p001.s03",
+     "source": "I have no desire to grow grey in waiting for a husband.”"
     }
    ],
    "id": "p001"
@@ -33,11 +41,55 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "A certain Chepdji, plying his trade, had, in the course of five years of assiduous labor, amassed, to him, the no unimportant sum of five hundred piasters."
+     "source": "The King read the letter, sent for his three daughters, and addressed them in these words: “Look now! let each one of you shoot an arrow from a bow and seek her sweetheart wherever her arrow falls!”"
     },
     {
      "id": "p002.s02",
-     "source": "He was afraid to keep this money by him; so hearing the Cadi of Stamboul highly and reverently spoken of, he decided to entrust his hard-earned savings to the Cadi's keeping."
+     "source": "So the three damsels took their bows."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The eldest damsel’s arrow fell into the palace of the Vizier’s son, so the Vizier’s son took her to wife."
+    },
+    {
+     "id": "p002.s04",
+     "source": "The second girl’s arrow flew into the palace of the Chief Mufti’s son, so they gave her to him."
+    },
+    {
+     "id": "p002.s05",
+     "source": "The third damsel also fired her arrow, and lo! it stuck in the hut of a poor young labourer."
+    },
+    {
+     "id": "p002.s06",
+     "source": "“That won’t do, that won’t do!” cried they all."
+    },
+    {
+     "id": "p002.s07",
+     "source": "So she fired again, and again the arrow stuck in the hut."
+    },
+    {
+     "id": "p002.s08",
+     "source": "She aimed a third time, and a third time the arrow stuck in the hut of the poor young labourer."
+    },
+    {
+     "id": "p002.s09",
+     "source": "Then the King was wroth and cried to the damsel: “Look now, thou slut! thou hast got thy deserts."
+    },
+    {
+     "id": "p002.s10",
+     "source": "Thy sisters waited patiently, and therefore they have got their hearts’ desires."
+    },
+    {
+     "id": "p002.s11",
+     "source": "Thou wast the youngest of all, yet didst thou write me that saucy letter, hence thy punishment."
+    },
+    {
+     "id": "p002.s12",
+     "source": "Out of my sight, thou slave-girl, to this husband of thine, and thou shalt have nought but what he can give thee!”"
+    },
+    {
+     "id": "p002.s13",
+     "source": "So the poor damsel departed to the hut of the labourer, and they gave her to him to wife."
     }
    ],
    "id": "p002"
@@ -47,15 +99,27 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Going to the Cadi, he said: \"Oh learned and righteous man, for five long years have I labored, carrying the dregs and dross of rich and poor alike, and I have saved a sum of five hundred piasters."
+     "source": "They lived together for a time, and on the tenth day of the ninth month the time came that she should bear a child, and her husband, the labourer, hastened away for the midwife."
     },
     {
      "id": "p003.s02",
-     "source": "With the help of Allah, in another two years I shall have saved a further sum of at least one hundred piasters, when, Inshallah, I shall return to my country and clasp my wife and children again."
+     "source": "While the husband was thus away his wife had neither a bed to lie down upon nor a fire to warm herself by, though grinding winter was upon them."
     },
     {
      "id": "p003.s03",
-     "source": "In the meantime you will be granting a boon to your slave, if you will consent to keep this money for me until the time for departure has come.\""
+     "source": "All at once the walls of the poor hut opened hither and thither, and three beautiful damsels of the Peri race stepped into it."
+    },
+    {
+     "id": "p003.s04",
+     "source": "One stood at the damsel’s head, another at her feet, the third by her side, and they all seemed to know their business well."
+    },
+    {
+     "id": "p003.s05",
+     "source": "In a moment everything in the poor hut was in order, the princess lay on a beautiful soft couch, and before she could blink her eyes a pretty little new-born baby girl was lying by her side."
+    },
+    {
+     "id": "p003.s06",
+     "source": "When everything was finished the three Peris set about going, but first of all they approached the bed one by one, and the first said:"
     }
    ],
    "id": "p003"
@@ -65,7 +129,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The Cadi replied: \"Thou hast done well, my son; the money will be kept and given to thee when required.\""
+     "source": "The second Peri approached the bed and said:"
     }
    ],
    "id": "p004"
@@ -75,15 +139,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The poor Chepdji, well satisfied, departed."
-    },
-    {
-     "id": "p005.s02",
-     "source": "But after a very short time he learned that several of his friends were about to return to their Memleket (province), and he decided to join them, thinking that his five hundred piasters were ample for the time being, 'Besides,' said he, 'who knows what may or may not happen in the next two years?'"
-    },
-    {
-     "id": "p005.s03",
-     "source": "So he decided to depart with his friends at once."
+     "source": "And the third Peri wound up with these words:"
     }
    ],
    "id": "p005"
@@ -93,19 +149,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "He went to the Cadi, explained that he had changed his mind, that he was going to leave for his country immediately, and asked for his money."
-    },
-    {
-     "id": "p006.s02",
-     "source": "The Cadi called him a dog and ordered him to be whipped out of the place by his servants."
-    },
-    {
-     "id": "p006.s03",
-     "source": "Alas! what could the poor Chepdji do!"
-    },
-    {
-     "id": "p006.s04",
-     "source": "He wept in impotent despair, as he counted the number of years he must yet work before beholding his loved ones."
+     "source": "whereupon they all three disappeared."
     }
    ],
    "id": "p006"
@@ -115,19 +159,31 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "One day, while moving the dirt from the Konak of a wealthy Pasha, his soul uttered a sigh which reached the ears of the Hanoum, and from the window she asked him why he sighed so deeply."
+     "source": "Now all this time the husband was seeking a midwife, but could find one nowhere."
     },
     {
      "id": "p007.s02",
-     "source": "He replied that he sighed for something that could in no way interest her."
+     "source": "What could he do but go home?"
     },
     {
      "id": "p007.s03",
-     "source": "The Hanoum's sympathy was excited, and after much persuasion, he finally, with tears in his eyes, related to her his great misfortune."
+     "source": "But when he got back he was amazed to find everything in the poor hut in beautiful order, and his wife lying on a splendid bed."
     },
     {
      "id": "p007.s04",
-     "source": "The Hanoum thought for a few minutes and then told him to go the following day to the Cadi at a certain hour and again ask for the money as if nothing had happened."
+     "source": "Then she told him the story of the three Peris, and there was no more spirit left in him, so astounded was he."
+    },
+    {
+     "id": "p007.s05",
+     "source": "But the little girl grew more and more lovely from hour to day, and from day to week, so that there was not another like her in the whole world."
+    },
+    {
+     "id": "p007.s06",
+     "source": "Whosoever looked upon her lost his heart at once, and pearls fell from her eyes when she wept, roses burst into bloom when she smiled, and a bright riband of fresh green verdure followed her footsteps."
+    },
+    {
+     "id": "p007.s07",
+     "source": "Whosoever saw her had no more spirit left in him, and the fame of lovely Rosa went from mouth to mouth."
     }
    ],
    "id": "p007"
@@ -137,7 +193,11 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "The Hanoum in the meantime gathered together a quantity of jewelry, to the value of several hundred pounds, and instructed her favorite and confidential slave to come with her to the Cadi and remain outside whilst she went in, directing her that when she saw the Chepdji come out and learned that he had gotten his money, to come in the Cadi's room hurriedly and say to her, \"your husband has arrived from Egypt, and is waiting for you at the Konak.\""
+     "source": "At last the King of that land also heard of the damsel, and instantly made up his mind that she and nobody else should be his son’s consort."
+    },
+    {
+     "id": "p008.s02",
+     "source": "So he sent for his son, and told him that there was a damsel in the town of so rare a beauty that pearls fell from her eyes when she wept, roses burst into bloom when she smiled, and the earth grew fresh and green beneath her footsteps, and with that he bade him up and woo her."
     }
    ],
    "id": "p008"
@@ -147,11 +207,11 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "The Hanoum then went to the Cadi, carrying in her hand a bag containing the jewelry."
+     "source": "Now the Peris had for a long time shown the King’s son the beautiful Rose-damsel in his dreams, and the sweet fire of love already burned within him; but he was ashamed to let his father see this, so he hung back a little."
     },
     {
      "id": "p009.s02",
-     "source": "With a profound salaam she said:"
+     "source": "At this his father became more and more pressing, bade him go and woo her at once, and commanded the chief dame of the palace to accompany him to the hut of the labourer."
     }
    ],
    "id": "p009"
@@ -161,11 +221,11 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"Oh Cadi, my husband, who is in Egypt and who has been there for several years, has at last asked me to come and join him there; these jewels are of great value, and I hesitate to take them with me on so long and dangerous a journey."
+     "source": "They entered the hut, said on what errand they came, and claimed the damsel for the King’s son in the name of Allah."
     },
     {
      "id": "p010.s02",
-     "source": "If you would kindly consent to keep them for me until my return, or if I never return to keep them as a token of my esteem, I will think of you with lifelong gratitude.\""
+     "source": "The poor folks rejoiced at their good luck, promised the girl, and began to make ready."
     }
    ],
    "id": "p010"
@@ -175,11 +235,31 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "The Hanoum then began displaying the rich jewelry."
+     "source": "Now this palace dame’s daughter was also a beauty, and not unlike Rosa."
     },
     {
      "id": "p011.s02",
-     "source": "Just then the Chepdji entered, and bending low, said:"
+     "source": "Terribly distressed was the dame that the King’s son should take to wife a poor labourer’s daughter, instead of her own child; so she made up her mind to deceive them and put her own daughter in Rosa’s place."
+    },
+    {
+     "id": "p011.s03",
+     "source": "So on the day of the banquet she made the poor girl eat many salted meats, and then brought a pitcher of water and a large basket, got into the bridal coach with Rosa and her own daughter, and set out for the palace."
+    },
+    {
+     "id": "p011.s04",
+     "source": "As they were on the road (and a very long time they were about it) the damsel grew thirsty and asked the palace dame for some water."
+    },
+    {
+     "id": "p011.s05",
+     "source": "“Not till thou hast given me one of thine eyes,” said the palace dame."
+    },
+    {
+     "id": "p011.s06",
+     "source": "What could the poor damsel do?—she was dying with thirst."
+    },
+    {
+     "id": "p011.s07",
+     "source": "So she cut out one of her eyes and gave it for a drink of water."
     }
    ],
    "id": "p011"
@@ -189,7 +269,15 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"Oh master, your slave has come for his savings in order to proceed to his country.\""
+     "source": "They went on and on, further and further, and the damsel again became thirsty and asked for another drink of water."
+    },
+    {
+     "id": "p012.s02",
+     "source": "“Thou shalt have it if thou give me thy other eye,” said the palace dame."
+    },
+    {
+     "id": "p012.s03",
+     "source": "And the poor damsel was so tormented with thirst that she gave the other eye for a drink of water."
     }
    ],
    "id": "p012"
@@ -199,7 +287,35 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "\"Ah, welcome,\" said the Cadi, \"so you are going already!\" and immediately ordered the treasurer to pay the five hundred piasters to the Chepdji."
+     "source": "The old dame took the two eyes, pitched the sightless damsel into the big basket, and left her all alone on the top of a mountain."
+    },
+    {
+     "id": "p013.s02",
+     "source": "But the beautiful bridal robe she put upon her own daughter, brought her to the King’s son, and gave her to him with the words: “Behold thy wife!”"
+    },
+    {
+     "id": "p013.s03",
+     "source": "So they made a great banquet, and when they had brought the damsel to her bridegroom and taken off her veil, he perceived that the damsel who now stood before him was not the damsel of his dreams."
+    },
+    {
+     "id": "p013.s04",
+     "source": "As, however, she resembled her a little he said nothing about it to anybody."
+    },
+    {
+     "id": "p013.s05",
+     "source": "So they lay down to rest, and when they rose up again early next morning the King’s son was quite undeceived, for the damsel of his dreams had wept pearls, smiled roses, and sweet green herbs had grown up in her footsteps, but this girl had neither roses nor pearls nor green herbs to show for herself."
+    },
+    {
+     "id": "p013.s06",
+     "source": "The youth felt there was some trickery at work here."
+    },
+    {
+     "id": "p013.s07",
+     "source": "This was not the girl he had meant to have."
+    },
+    {
+     "id": "p013.s08",
+     "source": "“How am I to find it all out?” thought he to himself; but not a word did he say to any one."
     }
    ],
    "id": "p013"
@@ -209,11 +325,23 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "\"You see,\" said the Cadi to the Hanoum, \"what confidence the people have in me."
+     "source": "While all these things were going on in the palace, poor Rosa was weeping on the mountain top, and such showers of pearls fell from her by dint of her sore weeping that there was scarce room to hold them all in the big basket."
     },
     {
      "id": "p014.s02",
-     "source": "This money I have held for some time without receipt or acknowledgment; but directly it is asked for it is paid.\""
+     "source": "Now a mud-carrier happened to be passing by who was carting mud away, and hearing the weeping of the damsel was terribly afraid, and cried: “Who art thou?—A Jinn or a Peri?”—“I am neither a Jinn nor yet a Peri,” replied the damsel, “but the remains of a living child of man.”"
+    },
+    {
+     "id": "p014.s03",
+     "source": "Whereupon the mud-raker took courage, opened the basket, and there a poor sightless damsel was sobbing, and her tears fell from her in showers of pearls."
+    },
+    {
+     "id": "p014.s04",
+     "source": "So he took the damsel by the hand and led her to his hut, and as the old man had nobody about him he adopted the damsel as if she were his own child and took care of her."
+    },
+    {
+     "id": "p014.s05",
+     "source": "But the poor girl did nothing but weep for her two eyes, and the old man had all he could do to pick up the pearls, and whenever they were in want of money he would take a pearl and sell it, and they lived on whatever he got for it."
     }
    ],
    "id": "p014"
@@ -223,15 +351,19 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "No sooner had the Chepdji gone out of the door, than the Hanoum's slave came rushing in, crying: \"Hanoum Effendi!"
+     "source": "Thus time passed, and there was mirth in the palace, and misery in the hut of the mud-raker."
     },
     {
      "id": "p015.s02",
-     "source": "Hanoum Effendi!"
+     "source": "Now it chanced one day as fair Rosa was sitting in the hut, that something made her smile, and immediately a rose bloomed."
     },
     {
      "id": "p015.s03",
-     "source": "Your husband has arrived from Egypt, and is anxiously awaiting you at the Konak.\""
+     "source": "Then the damsel said to her foster-father, the mud-raker: “Take this rose, papa, and go with it in front of the palace of the King’s son, and cry aloud that thou hast roses for sale that are not to be matched in the wide world."
+    },
+    {
+     "id": "p015.s04",
+     "source": "But if the dame of the palace comes out, see that thou dost not give her the rose for money, but say that thou wilt sell it for a human eye.”"
     }
    ],
    "id": "p015"
@@ -241,7 +373,31 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "The Hanoum, in well-feigned excitement, gathered up her jewelry and, wishing the Cadi a thousand years of happiness, departed."
+     "source": "So the man took the rose and stood in front of the palace, and began to cry aloud: “A rose for sale, a rose for sale, the like of which is nowhere to be found.”"
+    },
+    {
+     "id": "p016.s02",
+     "source": "Now it was not the season for roses, so when the dame of the palace heard the man crying a rose for sale, she thought to herself: “I’ll put it in my daughter’s hair, and thus the King’s son will think that she is his true bride.”"
+    },
+    {
+     "id": "p016.s03",
+     "source": "So she called the poor man to her, and asked him what he would sell the rose for?"
+    },
+    {
+     "id": "p016.s04",
+     "source": "“For nothing,” replied the man, “for no money told down, but I’ll give it thee for a human eye.”"
+    },
+    {
+     "id": "p016.s05",
+     "source": "Then the dame of the palace brought forth one of fair Rosa’s eyes and gave it for the rose."
+    },
+    {
+     "id": "p016.s06",
+     "source": "Then she took it to her daughter, plaited it in her hair, and when the King’s son saw the rose, he thought of the Peri of his dreams, but could not understand whither she had gone."
+    },
+    {
+     "id": "p016.s07",
+     "source": "Nevertheless he now fancied he was about to find out, so he said not a word to any one."
     }
    ],
    "id": "p016"
@@ -251,23 +407,222 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "The Cadi was thunderstruck, and caressing his beard with grave affection thoughtfully said: \"Allah!"
+     "source": "Meanwhile, the old man went home with the eye and gave it to the damsel, fair Rosa."
     },
     {
      "id": "p017.s02",
-     "source": "Allah!"
+     "source": "Then she fitted it in its right place, sighed from her heart in prayer to Allah, who can do all things; and behold! she could see right well again with her one eye."
     },
     {
      "id": "p017.s03",
-     "source": "For forty years have I been judge, but never was a cause pleaded in this fashion before.\""
+     "source": "The poor girl was so pleased that she could not help smiling, and immediately another rose sprang forth."
+    },
+    {
+     "id": "p017.s04",
+     "source": "This also she gave to her father that he might walk in front of the palace and give it for another human eye."
+    },
+    {
+     "id": "p017.s05",
+     "source": "The old man took the rose, and scarcely had he begun crying it before the palace when the old dame again heard him."
+    },
+    {
+     "id": "p017.s06",
+     "source": "“He has just come at the nick of time,” thought she; “the King’s son has begun to love my rose-bedizened daughter; if I can only get this rose also, he will love her still better, and this serving-wench will go out of his mind altogether.”"
+    },
+    {
+     "id": "p017.s07",
+     "source": "So she called the mud-raker to her and asked for the rose, but again he would not take money for it, though he was willing to let her have it in exchange for a human eye."
+    },
+    {
+     "id": "p017.s08",
+     "source": "Then the old woman gave him the second eye, and the old man hastened home with it and gave it to the damsel."
+    },
+    {
+     "id": "p017.s09",
+     "source": "Rosa immediately put it in its proper place, prayed to Allah, and was so rejoiced when her two bright eyes sparkled with living light that she smiled all the day, and roses bloomed on every side of her."
+    },
+    {
+     "id": "p017.s10",
+     "source": "Henceforth she was lovelier than ever."
+    },
+    {
+     "id": "p017.s11",
+     "source": "Now one day beautiful Rosa went for a walk, and as she smiled continually as she walked along, roses bloomed around her and the ground grew fresh and green beneath her feet."
+    },
+    {
+     "id": "p017.s12",
+     "source": "The palace dame saw her and was terrified."
+    },
+    {
+     "id": "p017.s13",
+     "source": "What will become of me, she thought, if the affair of this damsel comes to be known?"
+    },
+    {
+     "id": "p017.s14",
+     "source": "She knew where the poor mud-scraper lived, so she went all alone to his dwelling, and terrified him by telling him that he had an evil witch in his house."
+    },
+    {
+     "id": "p017.s15",
+     "source": "The poor man had never seen a witch, so he was terrified to death, and asked the palace dame what he had better do."
+    },
+    {
+     "id": "p017.s16",
+     "source": "“Find out, first of all, what her talisman is,” advised the palace dame, “and then I’ll come and do the rest.”"
     }
    ],
    "id": "p017"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "So the first thing the old man did when the damsel came home was to ask her how she, a mere child of man, had come to have such magic power."
+    },
+    {
+     "id": "p018.s02",
+     "source": "The damsel, suspecting no ill, said that she had got her talisman from the three Peris, and that pearls, roses, and fresh sweet verdure would accompany her so long as her talisman was alive."
+    }
+   ],
    "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "“What then is thy talisman?” asked the old man."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "answered she."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "The next day the palace dame came thither in the utmost misery, heard all about it from the mud-scraper, and hastened home with great joy."
+    },
+    {
+     "id": "p021.s02",
+     "source": "She told her daughter that on the top of the neighbouring hill was a little deer which she should ask her husband to get for her."
+    },
+    {
+     "id": "p021.s03",
+     "source": "That very same day the Sultana told her husband of the little deer on the top of the hill, and begged and implored him to get her its heart to eat."
+    },
+    {
+     "id": "p021.s04",
+     "source": "And after not many days the Prince’s men caught the little deer and killed it, and took out its heart and gave it to the Sultana."
+    },
+    {
+     "id": "p021.s05",
+     "source": "At the same instant when they killed the little fawn fair Rosa died."
+    },
+    {
+     "id": "p021.s06",
+     "source": "The mud-raker sorrowed over her till he could sorrow no more, and then took and buried her."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Now in the heart of the little fawn there was a little red coral eye which nobody took any notice of."
+    },
+    {
+     "id": "p022.s02",
+     "source": "When the Sultana ate the heart, the little red coral eye fell out and rolled down the steps as if it wanted to hide itself."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Time went on, and in not more than nine months and ten days the Prince’s consort was brought to bed of a little daughter, who wept pearls when she cried, dropt roses when she smiled, and sweet green herbs sprang up in her footsteps."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "When the Prince saw it he mused and mused over it, the little girl was the very image of fair Rosa, and not a bit like the mother who had borne her."
+    },
+    {
+     "id": "p024.s02",
+     "source": "So his sleep was no repose to him, till one night fair Rosa appeared to him in his dreams and spoke these words to him: “Oh, my prince! oh, my betrothed! my soul is beneath thy palace steps, my body is in the tomb, thy little girl is my little girl, my talisman is the little coral eye.”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "The Prince had no sooner awakened than he went to the staircase and searched about, and lo! there was the little coral eye."
+    },
+    {
+     "id": "p025.s02",
+     "source": "He picked it up, took it into his chamber, and laid it on the table."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Meanwhile, the little girl entered the room, saw the red coral, and scarcely had she laid hold of it than she vanished as if she had never been."
+    },
+    {
+     "id": "p025.s04",
+     "source": "The three Peris had carried off the child and taken her to her mother’s tomb, and scarcely had she placed the coral eye in the dead woman’s mouth than she awoke up to a new life."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "But the King’s son was not easy in his mind."
+    },
+    {
+     "id": "p026.s02",
+     "source": "He went to the cemetery, had the tomb opened, and there in her coffin lay the Rose-beauty of his dreams, with her little girl in her arms and the coral talisman in her mouth."
+    },
+    {
+     "id": "p026.s03",
+     "source": "They arose from the tomb and embraced him, and pearls fell from the eyes of both of them as they wept, and roses from their mouths as they smiled, and sweet green herbs grew up in their footsteps."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "The palace dame and her daughter paid for their crimes, but beautiful Rosa and her father and her mother, the Sultan’s daughter, were all re-united, and for forty days and forty nights they held high revel amidst the beating of drums and the tinkling of cymbals."
+    }
+   ],
+   "id": "p027"
   }
  ]
 }

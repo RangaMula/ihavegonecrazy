@@ -4,7 +4,7 @@
 - **Source book:** *Myths and Legends of Our Own Land — Complete*
 - **Author / collector / translator:** Skinner, Charles M. (Charles Montgomery) (author, d. 1907)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #6615 — https://www.gutenberg.org/ebooks/6615 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #6615 — https://www.gutenberg.org/ebooks/6615
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

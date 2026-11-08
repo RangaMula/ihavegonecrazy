@@ -2,20 +2,20 @@
  "id": "as-turkey-017",
  "title": {
   "id": "title",
-  "source": "Jew Turned Turk"
+  "source": "The Ghost Of The Spring And The Shrew"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/017 - Jew Turned Turk.md",
+ "markdown_file": "Asia/Turkey/017 - The Ghost Of The Spring And The Shrew.md",
  "stats": {
-  "paragraphs": 18,
-  "segments": 35,
-  "words": 626
+  "paragraphs": 36,
+  "segments": 108,
+  "words": 2363
  },
  "paragraphs": [
   {
@@ -23,11 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "irkedji, the landing-place on the Stamboul side of the Golden Horn, is always a scene of bustle and noise."
+     "source": "Once upon a time which was no time if it was a time, in the days when my mother was my mother and I was my mother’s daughter, when my mother was my daughter and I was my mother’s mother, in those days, I say, it happened that we once went along the road, and we went on and on and on."
     },
     {
      "id": "p001.s02",
-     "source": "The Caiquedjis, striving for custom, cry at the top of their voices: \"I am bound for Haskeuy; I can take another man; my fare is a piaster!\""
+     "source": "We went for a little way and we went for a long way, we went over mountains and over valleys, we went for a month continually, and when we looked behind us we hadn’t gone a step."
+    },
+    {
+     "id": "p001.s03",
+     "source": "So we set out again, and we went on and on and on till we came to the garden of the Chin-i-Machin Pasha."
+    },
+    {
+     "id": "p001.s04",
+     "source": "We went in, and there was a miller grinding grain, and a cat was by his side."
+    },
+    {
+     "id": "p001.s05",
+     "source": "And the cat had woe in its eye, and the cat had woe on its nose, and the cat had woe in its mouth, and the cat had woe in its fore paw, and the cat had woe in its hind paw, and the cat had woe in its throat, and the cat had woe in its ear, and the cat had woe in its face, and the cat had woe in its fur, and the cat had woe in its tail."
     }
    ],
    "id": "p001"
@@ -37,15 +49,19 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Others call in lusty tones, that they are bound for Karakeuy."
+     "source": "Hard by this realm lived a poor wood-cutter, who had nothing in the world but his poverty and a horrid shrew of a wife."
     },
     {
      "id": "p002.s02",
-     "source": "Further out in the stream are other caiques, bound for more distant places, some with a passenger or two, others without."
+     "source": "What little money the poor man made his wife always took away, so that he had not a single para left."
     },
     {
      "id": "p002.s03",
-     "source": "In one of these sat a Jew patiently waiting, while the Caiquedji, standing erect, backed in and out, every now and then calling at the top of his voice: 'Iuskidar,' meaning that he was bound for Scutari, on the Asiatic shore."
+     "source": "If his supper was oversalted—and so it was many a time—and her lord chanced to say to her: “Mother, thou hast put too much salt in the food,” so venomous was she that next day she would cook the supper without one single grain of salt, so that there was no savour in it."
+    },
+    {
+     "id": "p002.s04",
+     "source": "But if he dared to say: “There is no savour in the food, mother!” she would put so much salt in it next day that her husband could not eat thereof at all."
     }
    ],
    "id": "p002"
@@ -55,15 +71,27 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "At last a Mussulman signed to him to ap proach, and inquired his fare."
+     "source": "Now what was it that befell this poor man one day?"
     },
     {
      "id": "p003.s02",
-     "source": "After some bargaining, the Turk entered the caique, and the boatman still held on to the pier in the hope of securing a third passenger, which, after a very short time, he did."
+     "source": "This is what befell."
     },
     {
      "id": "p003.s03",
-     "source": "The third passenger happened to be a Jew, who had forsaken his faith for that of Islam."
+     "source": "He put by a couple of pence from his earnings to buy a rope to hang himself withal."
+    },
+    {
+     "id": "p003.s04",
+     "source": "But his wife found them in her husband’s pocket: “Ho, ho!” she cried, “so thou dost hide thy money in corners to give it to thy comrades, eh?”"
+    },
+    {
+     "id": "p003.s05",
+     "source": "In vain the poor man swore by his head that it was not so, his wife would not believe him."
+    },
+    {
+     "id": "p003.s06",
+     "source": "“My dear,” said her husband, “I wanted to buy me a rope with the money. ”"
     }
    ],
    "id": "p003"
@@ -73,15 +101,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "This converted individual saw at a glance that one of his fellow-passengers was a Moslem and the other a Jew, and wishing to gain favor in the eyes of the former, he called the other a 'Yahoudi' (meaning Jew, but usually employed as a term of disdain) and told him to make room for him."
-    },
-    {
-     "id": "p004.s02",
-     "source": "This the Jew meekly did, without a murmur, and the Caiquedji bent his oars for the Asiatic shore."
-    },
-    {
-     "id": "p004.s03",
-     "source": "The converted Jew and the Turk started a conversation, which they kept up till within a short distance of Scutari, when the Turk turned and said to the Jew, who had humbly been sitting on the low seat with bowed head and closed eyes:"
+     "source": "“To hang thyself with, eh?” inquired his affectionate spouse."
     }
    ],
    "id": "p004"
@@ -91,7 +111,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "\"And what have you to say on the subject, Moses?\""
+     "source": "“Well, thou knowest what a hideous racket thou dost make sometimes,” replied her husband, meaning to pacify her."
     }
    ],
    "id": "p005"
@@ -101,11 +121,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "\"Alas!"
-    },
-    {
-     "id": "p006.s02",
-     "source": "Pasha Effendi,\" answered the Jew, \"I have been asleep, and have not followed your conversation; and if I had, what worth could my opinion be, I, a poor Jew?\""
+     "source": "“What I have done hitherto is little enough for a blockhead like thee,” she replied, and with that she gave her husband such a blow that it seemed to him as if the red dawn was flashing before him."
     }
    ],
    "id": "p006"
@@ -115,7 +131,23 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "The converted Jew then said: \"At least, you can tell us, to pass the time, where you have been in your sleep?\" and he burst out laughing, thinking it a capital joke."
+     "source": "The next morning the wood-cutter rose early, saddled his ass, and went towards the mountains."
+    },
+    {
+     "id": "p007.s02",
+     "source": "All that he said to his wife before starting was to beg her not to follow him into the forest."
+    },
+    {
+     "id": "p007.s03",
+     "source": "This was quite enough for the wife."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Immediately he was gone she saddled her ass, and after her husband she went without more ado."
+    },
+    {
+     "id": "p007.s05",
+     "source": "“Who knows,” murmured she to herself, “what he may not be up to in the mountains, if I am not there to look after him!”"
     }
    ],
    "id": "p007"
@@ -125,23 +157,11 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "\"I dreamt I was in Paradise,\" replied the poor Jew."
+     "source": "The man saw that his wife was coming after him, but he made as if he did not see, never spoke a word, and as soon as he got to the foot of the mountain he set about wood-cutting."
     },
     {
      "id": "p008.s02",
-     "source": "\"Oh! it was wonderful!"
-    },
-    {
-     "id": "p008.s03",
-     "source": "There were three great golden gates, and on the inside, at the side of the keeper of each gate, stood Mohammed at one, Moses at the other, and Jesus at the third."
-    },
-    {
-     "id": "p008.s04",
-     "source": "No one was allowed to pass into Paradise, unless Mohammed, Moses, or Jesus gave the order that they should pass."
-    },
-    {
-     "id": "p008.s05",
-     "source": "At Mohammed's gate a man knocked, and on being opened, the keeper asked:"
+     "source": "His wife, however, for she was a restless soul, went up and down and all about the mountain, poked her nose into everything, till at last her attention was fixed by a deserted well, and she made straight for it."
     }
    ],
    "id": "p008"
@@ -151,7 +171,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "\"'What is your name?' to which he replied, 'Ahmet.'"
+     "source": "Then her husband cried to her: “Take care, there’s a well right before thee!”"
     }
    ],
    "id": "p009"
@@ -161,11 +181,15 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"'And your father's name?' again asked the keeper."
+     "source": "The only effect this warning had upon the wife was to make her draw still nearer."
     },
     {
      "id": "p010.s02",
-     "source": "'Abdullah.'"
+     "source": "Again he cried to her: “Dost thou not hear me speak to thee?"
+    },
+    {
+     "id": "p010.s03",
+     "source": "Go not further on, for there’s a well in front of thee.”"
     }
    ],
    "id": "p010"
@@ -175,7 +199,15 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "\"And the prophet signed with his hand that he might enter."
+     "source": "“What do I care what he says?” thought she."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Then she took another step forward, but before she could take another the earth gave way beneath her, and into the well she plumped."
+    },
+    {
+     "id": "p011.s03",
+     "source": "As for the husband, he was thinking of something else, for he always minded his own business, so, his work over, he took his ass and never stopped till he got home."
     }
    ],
    "id": "p011"
@@ -185,11 +217,23 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"I then went to the gate where Jesus stood, and heard the same questions put to an applicant."
+     "source": "The next day, at dawn, he again arose, saddled the ass, and went to the mountains, when the thought of his wife suddenly came into his mind."
     },
     {
      "id": "p012.s02",
-     "source": "He told the keeper that his name was Aristide, and that his father's name was Vassili, and Jesus permitted him to enter."
+     "source": "“I’ll see what has become of the poor woman!” said he."
+    },
+    {
+     "id": "p012.s03",
+     "source": "So he went to the opening of the well and looked into it, but nothing was to be seen or heard of his wife."
+    },
+    {
+     "id": "p012.s04",
+     "source": "His heart was sore, for anyhow was she not his wife? and he began to think whether he could get her out of the well."
+    },
+    {
+     "id": "p012.s05",
+     "source": "So he took a rope, let it down into the well, and cried into the great depth thereof: “Catch hold of the rope, mother, and I’ll draw thee up!”"
     }
    ],
    "id": "p012"
@@ -199,11 +243,19 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "\"Hearing a loud knocking at Mohammed's gate again, I hurried to see who the important comer was."
+     "source": "Presently the man felt that the rope had become very heavy."
     },
     {
      "id": "p013.s02",
-     "source": "There stood a man of confident mien, who proudly answered that his name was Hussein Effendi."
+     "source": "He pulled away at it with all his might, he tugged and tugged—what creature of Allah’s could it be that he was pulling out of the well?"
+    },
+    {
+     "id": "p013.s03",
+     "source": "And lo! it was none other than a hideous ghost!"
+    },
+    {
+     "id": "p013.s04",
+     "source": "The poor wood-cutter was sore afraid."
     }
    ],
    "id": "p013"
@@ -213,15 +265,15 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "\"'And your father's name?' asked the keeper."
+     "source": "“Rise up, poor man, and fear not,” said the ghost."
     },
     {
      "id": "p014.s02",
-     "source": "'Abraham,' replied Hussein."
+     "source": "“The mighty Allah rather bless thee for thy deed."
     },
     {
      "id": "p014.s03",
-     "source": "At this Mohammed said: 'Shut the door; you can't enter here; mixtures will not do.'\""
+     "source": "Thou hast saved me from so great a danger, that to the very day of judgment I will not forget thy good deed.”"
     }
    ],
    "id": "p014"
@@ -231,11 +283,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "\"Eh!"
-    },
-    {
-     "id": "p015.s02",
-     "source": "What happened next?\" asked the Turk."
+     "source": "Then the poor man began to wonder what this great danger might be."
     }
    ],
    "id": "p015"
@@ -245,7 +293,23 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "\"Just then, as the gate was shutting, I heard your voice and I awoke, Pasha Effendi,\" answered the Jew; \"and so I can't tell you.\""
+     "source": "“How many many years I lived peaceably in this well I know not,” continued the ghost, “but up to this very day I knew no trouble."
+    },
+    {
+     "id": "p016.s02",
+     "source": "But yesterday—whence she came I know not—an old woman suddenly plumped down on my shoulders, and caught me so tightly by both my ears, that I could not get loose from her for a moment."
+    },
+    {
+     "id": "p016.s03",
+     "source": "By a thousand good fortunes thou didst come to the spot, let down thy rope, and call to her to seize hold of it."
+    },
+    {
+     "id": "p016.s04",
+     "source": "For in trying to get hold of it she let me go, and I at once seized the rope myself, and, the merciful Allah be praised for it, here I am on dry land again."
+    },
+    {
+     "id": "p016.s05",
+     "source": "Good awaits thee for thy good deed; list now to what I say to thee!”"
     }
    ],
    "id": "p016"
@@ -255,15 +319,352 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "And as they approached the Scala (landing), they disembarked at Scutari and separated without a word."
+     "source": "With that the ghost drew forth three wooden tablets, gave them to the wood-cutter, and said to him: “I now go to take possession of the daughter of the Sultan."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Up to this day the princess has been hale and well, but now she will have leeches and wise men without number, but all in vain, not one of them will be able to cure her."
+    },
+    {
+     "id": "p017.s03",
+     "source": "Thou also wilt hear of the matter, thou wilt hasten to the Padishah, moisten these three wooden tablets with water, lay them on the face of the damsel, and I will come out of her, and a rich reward will be thine.”"
     }
    ],
    "id": "p017"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "With that the wood-cutter took the three tablets, put them in his pocket, and the ghost went to the right and he went to the left, and neither of them thought any more of the old woman in the well."
+    },
+    {
+     "id": "p018.s02",
+     "source": "But let us first follow the ghost."
+    }
+   ],
    "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Scarcely had this son of a devil quitted the wood-cutter than he stood in the Serai of the Padishah, and entered into the poor daughter of the Sultan."
+    },
+    {
+     "id": "p019.s02",
+     "source": "The poor girl immediately fell to the ground in great pain."
+    },
+    {
+     "id": "p019.s03",
+     "source": "“O my head!"
+    },
+    {
+     "id": "p019.s04",
+     "source": "O my head!” she cried continually."
+    },
+    {
+     "id": "p019.s05",
+     "source": "They sent word to the Padishah, and he, hastening thither, found his daughter lying on the ground and groaning."
+    },
+    {
+     "id": "p019.s06",
+     "source": "Straightway he sent for leeches, wise men, drugs, and incense, but none of them assuaged her pain."
+    },
+    {
+     "id": "p019.s07",
+     "source": "They sent for them a second time, they sent for them a third time, but all their labour was in vain."
+    },
+    {
+     "id": "p019.s08",
+     "source": "At last they had ten doctors and ten wise men trying what they could do, and all the time the poor girl kept moaning: “My head, my head! ”"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“O my sweet child,” groaned the Padishah, “if thy head aches, believe me my head, and my heart also, ache a thousand times as much to hear thee."
+    },
+    {
+     "id": "p020.s02",
+     "source": "What shall I do for thee?"
+    },
+    {
+     "id": "p020.s03",
+     "source": "I know what I will do."
+    },
+    {
+     "id": "p020.s04",
+     "source": "I will go call the astrologers, perchance they will know more than I do.”"
+    },
+    {
+     "id": "p020.s05",
+     "source": "And with that he called together all the most famous astrologers in his kingdom."
+    },
+    {
+     "id": "p020.s06",
+     "source": "One of them had one plan, another had another, but not one of them could cure the complaint of the poor damsel."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "But now let us see what became of the poor wood-cutter."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "He lived on in the world without his wife, and gradually he forgot all about her, and about the ghost and the three wooden tablets, and the ghost’s advice and promise."
+    },
+    {
+     "id": "p022.s02",
+     "source": "But one day, when he had no thought at all of these things, a herald from the city of the Padishah came to where he was with a firman in his hand, and read this out of it in a loud voice: “The damsel, the Sultan’s daughter, is very sick."
+    },
+    {
+     "id": "p022.s03",
+     "source": "The leeches, the wise men, the astrologers, all have seen her, and not one of them can cure her complaint."
+    },
+    {
+     "id": "p022.s04",
+     "source": "Whoever is a master of mysteries, let him come forward and doctor her."
+    },
+    {
+     "id": "p022.s05",
+     "source": "If he be a Mussulman, and cure her, the Sultan’s daughter now and my realm after my death shall be his reward; and if he be a Giaour and cure her, all the treasures in my realm shall be his.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "The wood-cutter needed no more to remind him of the ghost, the three tablets, and his wife."
+    },
+    {
+     "id": "p023.s02",
+     "source": "He arose and went up to the herald."
+    },
+    {
+     "id": "p023.s03",
+     "source": "“By the mercy of Allah I will cure the Sultan’s daughter, if she be still alive,” said he."
+    },
+    {
+     "id": "p023.s04",
+     "source": "At these words the servant of the Padishah caught hold of the wood-cutter, and led him into the Serai."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Word was sent at once of his arrival to the Padishah, and in an instant everything was made ready for him to enter the sick chamber."
+    },
+    {
+     "id": "p024.s02",
+     "source": "There before him lay the poor damsel, and all she did was to cry continually: “My head, my head!”"
+    },
+    {
+     "id": "p024.s03",
+     "source": "The wood-cutter brought forth the wooden tablets, moistened them, and scarcely had he spread them on the Sultan’s daughter than immediately she became as well again as if she had never been ill."
+    },
+    {
+     "id": "p024.s04",
+     "source": "At this there was great joy and gladness in the Serai, and they gave the daughter of the Sultan to the wood-cutter; so the poor man became the son-in-law of the Padishah."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "Now this Padishah had a brother who was also a Padishah, and his kingdom was the neighbouring kingdom."
+    },
+    {
+     "id": "p025.s02",
+     "source": "He also had a daughter, and it occurred to the ghost of the well to possess her likewise."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "So she also began to be tormented in the same way, and nobody could find a cure for her complaint."
+    },
+    {
+     "id": "p026.s02",
+     "source": "They searched and searched for assistance high and low, till at last they heard how the daughter of the neighbouring Padishah had been cured of a like sickness."
+    },
+    {
+     "id": "p026.s03",
+     "source": "So that other Padishah sent many men into the neighbouring kingdom, and begged the first Padishah, for the love of Allah, to send thither his son-in-law to cure the other damsel also."
+    },
+    {
+     "id": "p026.s04",
+     "source": "If he cured her he was to have the damsel for his second wife."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "So the Padishah sent his son-in-law that he might cure the damsel—’twould be nothing to such a master of mysteries as he, they said."
+    },
+    {
+     "id": "p027.s02",
+     "source": "All that he could say was in vain, the poor fellow had to set out, and as soon as he arrived they led him at once into the sick-chamber."
+    },
+    {
+     "id": "p027.s03",
+     "source": "But now the ghost of the well had a word to say in the matter."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "For that evil spirit was furious with his poor comrade."
+    },
+    {
+     "id": "p028.s02",
+     "source": "“Thou didst a good deed to me, it is true,” began the ghost, “but thou canst not say that I remained thy debtor."
+    },
+    {
+     "id": "p028.s03",
+     "source": "I left for thy sake the beautiful daughter of the Sultan, and I chose out another for myself, and thou wouldst now take her from me also?"
+    },
+    {
+     "id": "p028.s04",
+     "source": "Well, wait a while, and thou shalt see that for this deed of thine I will take them both away from thee. ”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "At this the poor man was sore troubled."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“I did not come hither for the damsel,” said he, “she is thy property, and, if such be thy desire, thou mayest take mine away also.”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“Then what’s thy errand here?” roared the ghost."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“Alas! ’tis my wife, the old woman of the well,” sighed the former wood-cutter, “and I only left her in the well that I might be rid of her.”"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "On hearing this the ghost was terribly frightened, and it was with a small voice that he now inquired whether by chance she had come to light again."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "“Yes, indeed, she’s outside,” sighed the man, “wherever I may go I am saddled with her."
+    },
+    {
+     "id": "p034.s02",
+     "source": "I haven’t the heart to free myself from her."
+    },
+    {
+     "id": "p034.s03",
+     "source": "Hark! she’s at the door now, she’ll be in the room in a moment.”"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "The ghost needed no more."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Forthwith he left the daughter of the Sultan, and the Serai, and the whole city, and the whole kingdom, so that not even the rumour of him remained."
+    },
+    {
+     "id": "p035.s03",
+     "source": "And not a child of man has ever seen him since."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "But the daughter of the Sultan recovered instantly, and they gave her to the former wood-cutter, and he took her home as his second wife."
+    }
+   ],
+   "id": "p036"
   }
  ]
 }

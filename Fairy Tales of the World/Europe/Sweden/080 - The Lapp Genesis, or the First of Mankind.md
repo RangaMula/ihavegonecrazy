@@ -4,7 +4,7 @@
 - **Source book:** *Swedish Fairy Tales*
 - **Author / collector / translator:** Hofberg, Herman (author, d. 1883); Myers, W. H. (translator)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #73093 — https://www.gutenberg.org/ebooks/73093
 - **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
 
 ---

@@ -2,20 +2,20 @@
  "id": "as-turkey-016",
  "title": {
   "id": "title",
-  "source": "Paradise Sold By The Yard"
+  "source": "Stone-Patience And Knife-Patience"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/016 - Paradise Sold By The Yard.md",
+ "markdown_file": "Asia/Turkey/016 - Stone-Patience And Knife-Patience.md",
  "stats": {
-  "paragraphs": 15,
-  "segments": 37,
-  "words": 938
+  "paragraphs": 24,
+  "segments": 85,
+  "words": 1937
  },
  "paragraphs": [
   {
@@ -23,31 +23,19 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "he chief Imam of the Vilayet of Broussa owed to a Jew money-lender the sum of two hundred piasters."
+     "source": "There was once a poor woman who had one daughter, and this poor woman used to go out and wash linen, while her daughter remained at home at her working-table."
     },
     {
      "id": "p001.s02",
-     "source": "The Jew wanted his money and would give no rest to the Imam."
+     "source": "One day she was sitting by the window as was her wont, when a little bird flew on to the sewing-table and said to the damsel: “Oh, little damsel, poor little damsel! death is thy Kismet!” whereupon it flew away again."
     },
     {
      "id": "p001.s03",
-     "source": "Daily he came to ask for it, but without success."
+     "source": "From that hour the damsel’s peace of mind was gone, and in the evening she told her mother what the bird had said to her."
     },
     {
      "id": "p001.s04",
-     "source": "The Jew was becoming very anxious and determined to make a great effort."
-    },
-    {
-     "id": "p001.s05",
-     "source": "Not being able to take the Imam to court, he decided to try and shame him into paying the sum due; and to effect this, he came, sat on his debtor's doorstep and bewailed his sad fate in having fallen into the hands of a tyrant."
-    },
-    {
-     "id": "p001.s06",
-     "source": "The Imam saw that if this continued, his reputation as a man of justice would be considerably impaired, so he thought of a plan by which to pay off his creditor."
-    },
-    {
-     "id": "p001.s07",
-     "source": "Calling the Jew into his house, he said:"
+     "source": "“Close the door and the window,” said her mother, “and sit at thy work as usual.”"
     }
    ],
    "id": "p001"
@@ -57,7 +45,23 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "\"Friend, what wilt thou do with the money if I pay thee?\""
+     "source": "So the next morning she closed the door and the window and sat her down at her work."
+    },
+    {
+     "id": "p002.s02",
+     "source": "But all at once there came a “Whirr-r-r-r!” and there was the little bird again on the work-table."
+    },
+    {
+     "id": "p002.s03",
+     "source": "“Oh, little damsel, poor little damsel! death is thy Kismet,” and with that it flew away again."
+    },
+    {
+     "id": "p002.s04",
+     "source": "The damsel was more and more terrified than ever at these words, but her mother comforted her again: “To-morrow,” said she, “close fast the door and the window, and get into the cupboard."
+    },
+    {
+     "id": "p002.s05",
+     "source": "There light a candle, and go on with thy work!”"
     }
    ],
    "id": "p002"
@@ -67,7 +71,23 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "\"Get food, clothe my children, and advance in my business,\" answered the Jew."
+     "source": "Scarcely had her mother departed with the dawn than the girl closed up everything, lit a candle, and locked herself in the cupboard with her work-table."
+    },
+    {
+     "id": "p003.s02",
+     "source": "But scarcely had she stitched two stitches when the bird stood before her again, and said: “Oh, little damsel, poor little damsel! death is thy Kismet!” and whirr-r-r-r! it flew away again."
+    },
+    {
+     "id": "p003.s03",
+     "source": "The damsel was in such distress that she scarce knew where she was."
+    },
+    {
+     "id": "p003.s04",
+     "source": "She threw her work aside, and began tormenting herself as to what this saying might mean."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Her mother, too, could not get to the bottom of the matter, so she remained at home the next day, that she also might see the bird, but the bird did not come again."
     }
    ],
    "id": "p003"
@@ -77,23 +97,23 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "\"My friend,\" said the Imam, \"thy pitiful position awakens my compassion."
+     "source": "So their sorrow was perpetual, and all the joy of their life was gone."
     },
     {
      "id": "p004.s02",
-     "source": "Thou art gathering wealth in this world at the cost of thy soul and peace in the world to come; and I wish I could help thee."
+     "source": "They never stirred from the house but watched and waited continually, if perchance the bird might come again."
     },
     {
      "id": "p004.s03",
-     "source": "I will tell thee what I will do for thee."
+     "source": "One day the damsels of their neighbour came to them and asked the woman to let her daughter go with them."
     },
     {
      "id": "p004.s04",
-     "source": "I would not do the same thing for any other Jew in the world, but thou hast awakened my commiseration."
+     "source": "“If she went for a little outing,” said they, “she might forget her trouble.”"
     },
     {
      "id": "p004.s05",
-     "source": "For the debt I owe thee, I will sell thee two hundred yards of Paradise, and being owner of this incomparable possession in the world to come, thou canst fearlessly go forth and earn as much as possible in this world, having already made ample provision for the next.\""
+     "source": "The woman did not like to let her go, but they promised to take great care of her and not to lose sight of her, so at last she let her go."
     }
    ],
    "id": "p004"
@@ -103,27 +123,27 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "What could the Jew do but take what the Imam was willing to give him?"
+     "source": "So the damsels went into the fields and danced and diverted themselves till the day was on the decline."
     },
     {
      "id": "p005.s02",
-     "source": "So he accepted the deed for the two hundred yards of Paradise."
+     "source": "On the way home they sat down by a well and began to drink out of it."
     },
     {
      "id": "p005.s03",
-     "source": "A happy thought now struck the Jew."
+     "source": "The poor woman’s daughter also went to drink of the water, when lo! a wall rose up between her and the other damsels, but such a wall as never the eye of man yet beheld."
     },
     {
      "id": "p005.s04",
-     "source": "He set off and found the tithe-collector of the revenues of the mosque, and made friends with him."
+     "source": "A voice could not get beyond it, it was so high, and a man could not get through it, it was so hard."
     },
     {
      "id": "p005.s05",
-     "source": "He then explained to him, when the intimacy had developed, how he was the possessor of a deed entitling him to two hundred yards of Paradise, and offered the collector a handsome commission if he would help him in disposing of it."
+     "source": "Oh, how terrified was the poor woman’s daughter, and what weeping and wailing and despair there was among her comrades."
     },
     {
      "id": "p005.s06",
-     "source": "When the money had been gathered for the quarter, the collector came and discounted the Imam's document, returning it to him as two hundred piasters of the tithes collected, with the statement that this document had been given to him by a peasant, and that bearing his holy seal, he dared not refuse it."
+     "source": "What would become of the poor girl, and what would become of her poor mother!"
     }
    ],
    "id": "p005"
@@ -133,15 +153,19 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "The Imam was completely deceived, and thought that the Jew had sold the deed at a discount to some of his subjects who were in arrears, and of course had to receive it as being as good as gold."
+     "source": "“I will not tell,” said one of them, “for she will not believe us!”—“But what shall we say to her mother,” cried another, “now that she has disappeared from before our eyes?”—“It is thy fault, it is thy fault!”"
     },
     {
      "id": "p006.s02",
-     "source": "Nevertheless the Jew was not forgotten, and the Imam determined to have him taken into court and sentenced if possible."
+     "source": "“Twas thou that asked her!”"
     },
     {
      "id": "p006.s03",
-     "source": "His charge against the Jew was that he, the chief priest of the province, had taken pity on this Jew, thinking what a terrible thing it was to know no future, and as the man hitherto had an irreproachable character, in consideration of a small debt he had against the church, which it was desirable to balance, he thought he would give this Jew two hundred yards of Paradise, which he did."
+     "source": "“No, ’twas thou.”"
+    },
+    {
+     "id": "p006.s04",
+     "source": "So they fell to blaming each other, looking all the time at the great wall."
     }
    ],
    "id": "p006"
@@ -151,11 +175,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"Now, gentlemen, this ungrateful dog sold this valuable document, and it was brought back to me as payment of taxes in arrears due to the church."
+     "source": "Meanwhile the mother was awaiting her daughter."
     },
     {
      "id": "p007.s02",
-     "source": "Therefore, I say that this Jew has committed a great sin and ought to be punished accordingly.\""
+     "source": "She stood at the door of the house and watched the damsels coming."
+    },
+    {
+     "id": "p007.s03",
+     "source": "The damsels came weeping sore, and scarce dared to tell the poor woman what had befallen her daughter."
+    },
+    {
+     "id": "p007.s04",
+     "source": "The woman rushed to the"
     }
    ],
    "id": "p007"
@@ -165,11 +197,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "The Cadis now turned to hear the Jew, who, the personification of meekness, stood as if awaiting his death sentence."
-    },
-    {
-     "id": "p008.s02",
-     "source": "With the most innocent look possible, the Jew replied, when the Cadis asked him what he had to say for himself:"
+     "source": "The Poor Woman and the Three Damsels.—p. 190."
     }
    ],
    "id": "p008"
@@ -179,19 +207,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "\"Effendim, it is needless to say how I appreciate the kindness of our Imam, but the reason that I disposed of that valuable document was this: When I went to Paradise I found a seat, and measured out my two hundred yards, and took possession of the further inside end of the bench."
-    },
-    {
-     "id": "p009.s02",
-     "source": "I had not been there long when a Turk came and sat beside me."
-    },
-    {
-     "id": "p009.s03",
-     "source": "I showed him my document and protested against his taking part of my seat; but, gentlemen, I assure you it was altogether useless; the Turks came and came, one after the other, till, to make a long story short, I fell off at the other end of the seat, and here I am."
-    },
-    {
-     "id": "p009.s04",
-     "source": "The Turks in Paradise will take no heed of your document, and either will not recognize the authority of the Imam, or will not let the Jews enter therein."
+     "source": "great wall, her daughter was inside it and she herself was outside, and so they wept and wailed so long as either of them had a tear to flow."
     }
    ],
    "id": "p009"
@@ -201,7 +217,23 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"Effendim, what could I do but come back and sell the document to men who could enter Paradise, and this I did.\""
+     "source": "In the midst of this great weeping the damsel fell asleep, and when she woke up next morning she saw a great door beside the wall."
+    },
+    {
+     "id": "p010.s02",
+     "source": "“Happen to me what may, if I am to perish, let me perish, but open this door I will!”—so she opened it."
+    },
+    {
+     "id": "p010.s03",
+     "source": "Beyond the door was a beautiful palace, the like of which is not to be seen even in dreams."
+    },
+    {
+     "id": "p010.s04",
+     "source": "This palace had a vast hall, and on the wall of this hall hung forty keys."
+    },
+    {
+     "id": "p010.s05",
+     "source": "The damsel took the keys and began opening the doors of all the rooms around her, and the first set of rooms was full of silver, and the second set full of gold, and the third set full of diamonds, and the fourth set full of emeralds—in a word, each set of rooms was full of stones more precious than the precious things of the rooms before it, so that the eyes of the damsel were almost blinded by their splendour."
     }
    ],
    "id": "p010"
@@ -211,7 +243,39 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "The Cadis, after consulting, gave judgment as follows:"
+     "source": "She entered the fortieth room, and there, extended on the floor, was a beautiful Bey, with a fan of pearls beside him, and on his breast a piece of paper with these words written on it: “Whoever fans me for forty days and prays all that time by my side will find her Kismet!”"
+    },
+    {
+     "id": "p011.s02",
+     "source": "Then the damsel thought of the little bird."
+    },
+    {
+     "id": "p011.s03",
+     "source": "So it was by the side of this sleeper that she was to meet her fate!"
+    },
+    {
+     "id": "p011.s04",
+     "source": "So she made her ablutions, and, taking the fan in her hand, she sat down beside the Bey."
+    },
+    {
+     "id": "p011.s05",
+     "source": "Day and night she kept on fanning him, praying continually till the fortieth day was at hand."
+    },
+    {
+     "id": "p011.s06",
+     "source": "And on the morning of the last day she peeped out of the window and beheld a negro girl in front of the palace."
+    },
+    {
+     "id": "p011.s07",
+     "source": "Then she thought she would call this girl for a moment and ask her to pray beside the Bey, while she herself made her ablutions and took a little repose."
+    },
+    {
+     "id": "p011.s08",
+     "source": "So she called the negro girl and set her beside the Bey, that she might pray beside him and fan his face."
+    },
+    {
+     "id": "p011.s09",
+     "source": "But the damsel hastened away and made her ablutions and adorned herself, so that the Bey, when he awoke, might see his life’s Kismet at her best and rejoice at the sight."
     }
    ],
    "id": "p011"
@@ -221,11 +285,23 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"We note that you could not have done anything else but sell the two hundred yards of Paradise, and the fact that you cannot enter there is ample punishment for the wrong committed; but there is still a grievous charge against you, which, if you can clear to our satisfaction, you will at once be dismissed."
+     "source": "Meanwhile the black girl read the piece of paper, and while the white damsel tarried the youth awoke."
     },
     {
      "id": "p012.s02",
-     "source": "How much did the document cost you and what did you sell it for?\""
+     "source": "He looked about him, and scarcely did he see the black girl than he embraced her and called her his wife."
+    },
+    {
+     "id": "p012.s03",
+     "source": "The poor white damsel could scarce believe her own eyes when she entered the room; but the black girl, who was jealous of her, said to the Bey: “I, a Sultan’s daughter, am not ashamed to go about just as I am, and this chit of a serving-maid dares to appear before me arrayed so finely!”"
+    },
+    {
+     "id": "p012.s04",
+     "source": "Then she chased her out of the room, and sent her to the kitchen to finish her work and boil and fry."
+    },
+    {
+     "id": "p012.s05",
+     "source": "The Bey was surprised, but he would not say a word, for the negro girl was his bride, while the other damsel was only a kitchen-wench."
     }
    ],
    "id": "p012"
@@ -235,7 +311,35 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "\"Effendim, it cost me two hundred piasters, and I sold it for two hundred piasters.\""
+     "source": "Now the Feast of Bairam fell about this time, and as is the custom at such times, the Bey would fain have given gifts to them of his household."
+    },
+    {
+     "id": "p013.s02",
+     "source": "So he went to the negress and asked her what she would like on the Feast of Bairam."
+    },
+    {
+     "id": "p013.s03",
+     "source": "And the negress asked for a garment that never a needle had sewn and never scissors had cut."
+    },
+    {
+     "id": "p013.s04",
+     "source": "Then he went down into the kitchen and asked the damsel what she would like."
+    },
+    {
+     "id": "p013.s05",
+     "source": "“The stone-of-patience has a yellow colour, and the knife-of-patience has a brown handle, bring them both to me,” said the damsel."
+    },
+    {
+     "id": "p013.s06",
+     "source": "So the Bey went on his way, and got the negress her garment, but the stone-of-patience and the knife-of-patience he could find nowhere."
+    },
+    {
+     "id": "p013.s07",
+     "source": "What was he to do?—he could not return home without the gifts."
+    },
+    {
+     "id": "p013.s08",
+     "source": "So he got on board his ship."
     }
    ],
    "id": "p013"
@@ -245,15 +349,158 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "This statement having been proved by producing the deed in question, and the tithe-collector who had given it to the Imam for two hundred piasters, the Jew was acquitted."
+     "source": "The ship had only got half-way when suddenly it stopped short, and could neither go backwards nor forwards."
+    },
+    {
+     "id": "p014.s02",
+     "source": "The captain was terrified, and told his passengers that there was some one on board who had not kept his word, and that was why they could not get on."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Then the Bey came forward, and said that he it was who had not kept his word."
+    },
+    {
+     "id": "p014.s04",
+     "source": "So they put the Bey ashore, that he might keep his promise and then return back to the ship."
+    },
+    {
+     "id": "p014.s05",
+     "source": "Then the Bey walked along the sea-shore, and from the sea-shore he came to a great valley, and he went wandering on and on till he stood beside a large spring."
+    },
+    {
+     "id": "p014.s06",
+     "source": "And he had scarce trodden on the stones around it when suddenly a huge negro stood before him and asked him what he wanted."
     }
    ],
    "id": "p014"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "“The stone-of-patience is of a yellow colour and the knife-of-patience has a brown sheath, bring them both to me!” said the Bey to the negro."
+    },
+    {
+     "id": "p015.s02",
+     "source": "And the next moment both the stone and the knife were in his hand, and he came back to the ship, went on board, and returned home."
+    },
+    {
+     "id": "p015.s03",
+     "source": "He gave the garment to his wife, but the stone and the knife he put in the kitchen."
+    },
+    {
+     "id": "p015.s04",
+     "source": "But the Bey was curious to know what the damsel would do with them, so one evening he crept down into the kitchen and watched her."
+    }
+   ],
    "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "When night approached she took the knife in her hand and placed the stone in front of her and began telling them her story."
+    },
+    {
+     "id": "p016.s02",
+     "source": "She told them what the little bird had thrice told her, and in what great terror both her mother and herself had fallen."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "And while she was looking at the stone it suddenly began to swell, and its yellow hue hissed and bubbled as if there were life in it."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "Then the damsel went on to say how she had wandered into the palace of the Bey, how she had prayed forty days beside him, and how she had entrusted the negress with the praying while she went to wash and dress herself."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "And the yellow stone swelled again, and hissed and foamed as if it were about to burst."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "Then the damsel told how the negress had deceived her, how instead of her the Bey had taken the negress to wife."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "And all this time the yellow stone went on swelling and hissing and foaming as if there were a real living heart inside it, till suddenly it burst and turned to ashes."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Then the damsel took the little knife by the handle and said: “Oh, thou yellow patience-stone, thou wert but a stone, and yet thou couldst not endure that I, a tender little damsel, a poor little damsel, should thus be thrust out.”"
+    },
+    {
+     "id": "p022.s02",
+     "source": "And with that she would have buried the knife in her breast, but the Bey rushed forward and snatched away the knife."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "“Thou art my real true Kismet,” cried the youth, as he took her into the upper chamber in the place of the negress."
+    },
+    {
+     "id": "p023.s02",
+     "source": "But the treacherous negress they slew, and they sent for the damsel’s mother and all lived together with great joy."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "And the little bird came sometimes and perched in the window of the palace, and sang his joyful lay."
+    },
+    {
+     "id": "p024.s02",
+     "source": "And this is what he sang: “Oh, little damsel, happy little damsel, that hast found thy Kismet! ”"
+    }
+   ],
+   "id": "p024"
   }
  ]
 }

@@ -4,7 +4,7 @@
 - **Source book:** *Andersen's Fairy Tales*
 - **Author / collector / translator:** Andersen, H. C. (Hans Christian) (author, d. 1875)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #1597 — https://www.gutenberg.org/ebooks/1597 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #1597 — https://www.gutenberg.org/ebooks/1597
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

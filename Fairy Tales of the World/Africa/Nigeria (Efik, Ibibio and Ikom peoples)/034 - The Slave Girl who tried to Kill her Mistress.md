@@ -4,7 +4,7 @@
 - **Source book:** *Folk Stories from Southern Nigeria, West Africa*
 - **Author / collector / translator:** Dayrell, Elphinstone (author, d. 1917)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #34655 — https://www.gutenberg.org/ebooks/34655 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #34655 — https://www.gutenberg.org/ebooks/34655
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

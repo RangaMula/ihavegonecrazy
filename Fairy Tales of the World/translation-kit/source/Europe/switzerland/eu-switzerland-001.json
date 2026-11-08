@@ -2,20 +2,20 @@
  "id": "eu-switzerland-001",
  "title": {
   "id": "title",
-  "source": "Legends Of Geneva"
+  "source": "How Swiss Fairy Tales Came To America"
  },
  "tradition": "Switzerland",
  "continent": "Europe",
  "source_lang": "en",
- "source_book": "Legends of Switzerland",
- "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #64163 — https://www.gutenberg.org/ebooks/64163 (copied via the GITenberg mirror)",
+ "source_book": "Swiss Fairy Tales",
+ "credits": "Griffis, William Elliot (author, d. 1928)",
+ "gutenberg": "Project Gutenberg eBook #69739 — https://www.gutenberg.org/ebooks/69739",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Europe/Switzerland/001 - Legends Of Geneva.md",
+ "markdown_file": "Europe/Switzerland/001 - How Swiss Fairy Tales Came To America.md",
  "stats": {
-  "paragraphs": 15,
-  "segments": 29,
-  "words": 991
+  "paragraphs": 39,
+  "segments": 136,
+  "words": 3183
  },
  "paragraphs": [
   {
@@ -23,7 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "The crescent-shaped Leman, or Lake of Geneva, the largest and bluest of all the Swiss lakes, has been sung by all the poets and praised by every writer who has had the good fortune to behold it in its native splendour."
+     "source": "Let us pretend that we are sitting on a stool, a hassock, a rug, or the floor, around the chair of grandmother Hess, to which place all young folks are hereby invited."
+    },
+    {
+     "id": "p001.s02",
+     "source": "We shall go with her, in fancy, to the home of the Swiss family Harby, for that was her maiden name, at Barren Hill, in what the Swiss folks called “the Pennsylvanias.”"
+    },
+    {
+     "id": "p001.s03",
+     "source": "For they loved the forests and they knew that the name meant the groves or woods of Penn."
+    },
+    {
+     "id": "p001.s04",
+     "source": "They kept always, in their minds, the idea of trees."
+    },
+    {
+     "id": "p001.s05",
+     "source": "It was there that some of these fairy and other tales were first told."
     }
    ],
    "id": "p001"
@@ -33,15 +49,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "The fertile slopes on the northern bank, the charming resorts and drives to the east and south, and the glorious view of Mont Blanc, in Savoy, as seen from Geneva itself, bewitch all those who are privileged to enjoy them."
+     "source": "It was long ago, during the Revolutionary war, when Washington, and Lafayette, and Steuben, were comrades at Valley Forge."
     },
     {
      "id": "p002.s02",
-     "source": "Countless steamboats and sailboats are constantly plying to and fro over the lake, and stopping at picturesque points along the shore, whence delightful excursions can be made either among rich pastures, orchards, and vineyards, or up into the mountains from which, rippling and roaring, torrents and streams pour down to fill the basin of this beautiful lake."
-    },
-    {
-     "id": "p002.s03",
-     "source": "The most picturesque craft on the Lake of Geneva are the lateen-sailed market-boats, hovering like birds over waters whose colour reminds one of the Mediterranean, the only other body of water in Europe where such vessels are frequently seen."
+     "source": "This [ ] place was only a few miles away, and the great men rode often past the house and farm of John Harby, who was grandma’s father."
     }
    ],
    "id": "p002"
@@ -51,15 +63,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "A legend claims that in olden times a fairy boat of this peculiar shape was often seen flitting from point to point along the shores of Lake Leman."
-    },
-    {
-     "id": "p003.s02",
-     "source": "Its sails catching every gleam of golden light, it shone like the face of the new moon in a summer sky."
-    },
-    {
-     "id": "p003.s03",
-     "source": "Drawn by eight large snow-white swans, it glided gently over the waters, to the song both weird and sweet of these graceful birds, accompanied by the thrilling chords of a harp touched by the invisible fingers of the Spirit of the Winds."
+     "source": "When, in 1778, the Hessians and red coats could not capture Lafayette, with his Continental soldiers, they stole the bread out of the oven and drank up the milk from the spring house."
     }
    ],
    "id": "p003"
@@ -69,11 +73,19 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Standing by the mast of this ship, was a tall woman of dazzling beauty, whose golden locks streamed out in the breeze, while the sunset flush on the snow-mountains seemed no more delicate than the bloom on her dainty cheeks."
+     "source": "The little girls, Sarah, Hannah and Margaret, often heard from their grandfather and grandmother about Switzerland, whence, following William Penn, they had come."
     },
     {
      "id": "p004.s02",
-     "source": "Clad in flowing robes of purest white, she stood there, smiling gently at countless winged and chubby sprites, hovering around her like butterflies about a rose, and scattering handfuls of flowers and fruit at her feet."
+     "source": "Their kinsfolk still lived in the old land across the sea."
+    },
+    {
+     "id": "p004.s03",
+     "source": "When the Revolutionary war was over, their father, John Harby, came to the Quaker City, and kept a hotel."
+    },
+    {
+     "id": "p004.s04",
+     "source": "There, when Philadelphia was the national capital, he entertained members of Congress and the refugee French noblemen."
     }
    ],
    "id": "p004"
@@ -83,11 +95,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "It is said that wherever the fairy ship touched the shore, the soil bore flowers and fruit in abundance, and any one who was so fortunate as to catch a glimpse of the lucky vessel was sure of the fulfilment of any desire, expressed or unexpressed."
+     "source": "When the story teller heard the once little maids talk about things Swiss, and Hessian, and British, and Pennsylvanian, these three, two of whom the Hessians had once scared into the garret, were dear old ladies."
     },
     {
      "id": "p005.s02",
-     "source": "Even when buried so deep in the hidden recesses of the heart that the owner was scarcely conscious of its existence, the fairy’s melting blue eyes were sure to discover this wish, and her heart was so tender that, once discovered, she could not but grant it."
+     "source": "Sitting up in bed, or in her chair, as straight as her rheumatism and her bent fingers would allow, grandmother told us many a tale of Swiss ancestral and Revolutionary times."
     }
    ],
    "id": "p005"
@@ -97,11 +109,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "The fairy skiff of Lake Geneva haunted its shores for many years, and might still be seen there, had not the giant swans been frightened away by the puffing and snorting steamboats which furrow the blue waves."
-    },
-    {
-     "id": "p006.s02",
-     "source": "None but the oldest inhabitants ever mention this ship, of which they caught fleeting glimpses in their early youth, when they sat by the lakeside during the long moonlight nights, in hopes of securing the realization of their dearest hopes."
+     "source": "To the end of the years of her life, which lasted from 1770 to 1866, her sister Hannah, our maiden aunt, sang the songs, played on the piano [ ] the ditties, and danced the minuets and waltzes, which the French officers and noblemen had taught her when the Quaker city, from 1790 to 1800, was the national capital."
     }
    ],
    "id": "p006"
@@ -111,11 +119,11 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "But the luck-ship figures not only in the tales told by the peasants around the fireside during the long winter evenings; it is also often seen in effigy upon Genevan holiday and birthday cards."
+     "source": "We children, even when big girls and boys, and ready for college, enjoyed the fun, the music, and the stories."
     },
     {
      "id": "p007.s02",
-     "source": "Then “Good Luck,” or “Happy New Year,” is inscribed across the wing-like lateen sails, and such a card is supposed to bring the happy recipient as much good fortune as an actual glimpse of the swan-drawn vessel of mythic fame."
+     "source": "It was from these dear old ladies that the story teller learned to love the mountains, and to climb them, in America and Japan, and, for weeks at a time, to tramp among them in glorious Switzerland."
     }
    ],
    "id": "p007"
@@ -125,11 +133,19 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "An interesting old legend is connected with the church of Ste."
+     "source": "The ancestral Swiss home was in a valley of the Bernese Oberland, under the shadow of a high mountain."
     },
     {
      "id": "p008.s02",
-     "source": "Marie Madeleine in Geneva, and with a local yearly festival celebrated there on the twenty-second of July."
+     "source": "In winter, which usually lasted seven months or more, the people, the boys, and the girls, the cows, goats, donkeys, horses, chickens, and all living things were shut in by heavy snows."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Quite often in winter, daddy and the boys had to climb out the windows onto the snows that were piled, or drifted, many feet high against the door."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Even on May day, spoiling fun outdoors, there might come a storm which left six or eight feet of snow."
     }
    ],
    "id": "p008"
@@ -139,11 +155,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "In the days when the Madeleine church was founded, Geneva, after having been the main stronghold of the Allobroges before Christ, and a Roman camp from the days of Cæsar until the fifth century, was the capital of a Burgundian kingdom."
-    },
-    {
-     "id": "p009.s02",
-     "source": "The Christians in that part of the country, desirous of building a church where they could worship God, selected a site just outside of the city fortifications, and then began to solicit contributions on all sides."
+     "source": "Yet when the sun got up early in the morning, and the south wind blew with a quiet force that did more in a day’s work than a million steam shovels, the snow melted, and soon the green meadows were spangled with red and blue, yellow and white flowers. [ ]"
     }
    ],
    "id": "p009"
@@ -153,11 +165,23 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "In those days there dwelt in Geneva a very good and pious girl, noted far and wide for her deftness in spinning, and for the unusual beauty and fineness of her thread."
+     "source": "When June came, the big boys got ready, with their fathers and hired men, to leave their village home, and go up to spend the whole summer on the spicy pastures, that is, the Alps, high up on the mountains, to stay until near October."
     },
     {
      "id": "p010.s02",
-     "source": "As soon as this virtuous maiden heard that funds were needed for a church to be dedicated to her patron saint, she made a solemn vow to consecrate to that good purpose all the thread she could spin, and immediately set to work."
+     "source": "There the bees would gather honey from the nectar in the blossoms, and cows would feed on the sweet juices of the grass."
+    },
+    {
+     "id": "p010.s03",
+     "source": "It was at this season that the milk, cream, butter and cheese, were the very best of the year."
+    },
+    {
+     "id": "p010.s04",
+     "source": "Many a growing boy, counting on his fingers the days, looked forward for months to life outdoors, on the highlands, among the birds, the butterflies and the wild animals."
+    },
+    {
+     "id": "p010.s05",
+     "source": "As for the cattle, they could sniff the sweet aroma of the flowery fields and grasses at a distance and long before men could."
     }
    ],
    "id": "p010"
@@ -167,11 +191,19 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "From early morn until far into the night, Madeleine now spun on unweariedly, selling skein after skein of thread to purchase stones and mortar for the new building."
+     "source": "The day of the great cow parade, when the other four-footed animals, dogs, goats, pigs, horses and donkeys, joining in, was the greatest of the year."
     },
     {
      "id": "p011.s02",
-     "source": "As is always the case, the zeal and gifts of many of the Christians soon ebbed, but Madeleine twirled her distaff faster and faster, working without respite day after day, to make up for all deficiencies."
+     "source": "Then the leading cow, named Lady, or Queenie, or Cleopatra, often carrying the milking stool on her head, between her horns, led the procession."
+    },
+    {
+     "id": "p011.s03",
+     "source": "The girls were all out in their best clothes to deck the hats of the daddies with wreaths and blossoms, and to say and wave good-byes."
+    },
+    {
+     "id": "p011.s04",
+     "source": "Pretty nearly every one was decorated with flowers."
     }
    ],
    "id": "p011"
@@ -181,11 +213,19 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "The workmen, who contributed their labour, soon depended upon her alone for materials, and fearing lest her strength or courage should fail before the church was finished, they called out to her every time they passed her house to keep up a good heart and work on."
+     "source": "Then the music and the yodel songs, and the blowing of the pine wood horns began."
     },
     {
      "id": "p012.s02",
-     "source": "This cry,—"
+     "source": "These [ ] awoke the echoes of the distant mountains."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Then the sounds, returning, seemed as sweet as the singing by a choir of the heavenly host."
+    },
+    {
+     "id": "p012.s04",
+     "source": "No Swiss boy or girl, even when grown up, living in the cities, or in a foreign land, ever forgot the yodel songs, or the hymns his mother used to sing."
     }
    ],
    "id": "p012"
@@ -195,7 +235,15 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "was taken up by all the Christians in town, and now forms the refrain of a song sung at Geneva’s yearly festival."
+     "source": "The Swiss chateau, home of the Harbys, before the year 1710, except the first story, which was of stone, was entirely of wood."
+    },
+    {
+     "id": "p013.s02",
+     "source": "In winter, the fireplace of brick roared with logs of fir, birch or oak."
+    },
+    {
+     "id": "p013.s03",
+     "source": "The great white porcelain stove, eight feet high, banded with shining brass, in which peat, or coal, was the fuel, stood at one end of the main room."
     }
    ],
    "id": "p013"
@@ -205,23 +253,548 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Thus encouraged, Marie Madeleine went on spinning until the building was completed, and as most of the stones were purchased with the proceeds of her industry, the workmen carved spindles and spinning-wheels all over the church."
+     "source": "To get into the house, the door, in the front centre, opened into the basement, but there were two stairways on the outside, which took one up into the bedrooms."
     },
     {
      "id": "p014.s02",
-     "source": "On the festival of Ste."
+     "source": "To let the heavy snow slide off easily, to the ground, the eaves projected from the roof six feet beyond and over the walls."
     },
     {
      "id": "p014.s03",
-     "source": "Marie Madeleine, illuminations and processions are the order of the day in Geneva, and the statue of a spinner is carried along all the principal streets of the town, to the rhythmic chant of the old distich, which commemorates alike the maiden’s piety and her extreme diligence."
+     "source": "Within the projecting front gable, between the sloping roof and the second story, there was a balcony."
     }
    ],
    "id": "p014"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "The whole front of the house was nearly hidden by vines and flowers that invited the bees and birds, though there were hives and dovecotes in the yard space, fronting the house."
+    },
+    {
+     "id": "p015.s02",
+     "source": "Cut into the corner columns, or through the gable [ ] boards, was this Scripture sentence: “As for me and my house, we will serve the Lord.”"
+    }
+   ],
    "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Not far away was the barn and yard for the cows and chickens, ducks and geese."
+    },
+    {
+     "id": "p016.s02",
+     "source": "Near by, the purling of a running brook, fed from the mountain with water, cold, and clear as crystal, was like the singing of a sweet song."
+    },
+    {
+     "id": "p016.s03",
+     "source": "As neat as a new pin was this Spring House."
+    },
+    {
+     "id": "p016.s04",
+     "source": "Here upon shelves, only a little higher than the stream, and on the stone surbase that ran across one side of the low room, or floating in the cold water, were shallow pans for the milk."
+    },
+    {
+     "id": "p016.s05",
+     "source": "In a corner stood the big jar, to hold the cream, which was daily skimmed from the milk in the pans."
+    },
+    {
+     "id": "p016.s06",
+     "source": "The caldron and utensils for cheesemaking were kept in another corner."
+    },
+    {
+     "id": "p016.s07",
+     "source": "It was from cheese chiefly that the family lived, especially in winter."
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "On the walls of the sleeping chambers, parlor, and living room, besides the well-mounted antlers of the wild mountain goat, and the chamois, there were framed pictures of the great men of the Fatherland."
+    },
+    {
+     "id": "p017.s02",
+     "source": "Here looked down the face of the holy saint Fridolin, or the reformer Zwinglius, or the heroes, William Tell and Arnold von Winkelried ."
+    },
+    {
+     "id": "p017.s03",
+     "source": "In some houses, one could see a picture of Calvin, or a view of Geneva, or the seal of the canton in which they lived."
+    },
+    {
+     "id": "p017.s04",
+     "source": "In a glass-covered case were dried Alpine flowers, rock roses, violets and anemones, with their colors [ ] kept wonderfully fresh, even in winter."
+    },
+    {
+     "id": "p017.s05",
+     "source": "When first plucked, they were put in hot sand—not too hot—and covered for a time."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "For breakfast, the Harbys had honey, bread, milk and eggs."
+    },
+    {
+     "id": "p018.s02",
+     "source": "On the wall, resting on pegs, was the father’s gun, for hunting."
+    },
+    {
+     "id": "p018.s03",
+     "source": "It was a real rifle, and few men in the world, except the Swiss and the Jäger , or hunters, then knew of this wonderful weapon."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "For dinner, they often had chamois or ibex, and, occasionally, bear meat, for John Harby was a dead shot with the rifle."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Beef, with greens, was common, though the chief staple of food was cheese, or cream cooked in many wonderful ways, with cheese-cake, or pie, though buttermilk was in daily demand."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "What the young folks liked, best of all, was the weekly treat of “schnitzel.”"
+    },
+    {
+     "id": "p020.s02",
+     "source": "This was made of boiled ham, dumplings of wheat flour, dried apples and spices, and was served on the table with molasses."
+    },
+    {
+     "id": "p020.s03",
+     "source": "When nicely cooked, and, as mother knew how to make it, nothing tasted better."
+    },
+    {
+     "id": "p020.s04",
+     "source": "It was enjoyed until the waist belts of youngsters began to tighten."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Every morning, the doors of the clock, set in a box or house on the wall, flew open, and the cuckoo chirped its song and then retired inside from view."
+    },
+    {
+     "id": "p021.s02",
+     "source": "The wooden bird thus gave notice [ ] that it was time to get up and make ready for school."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "At night, before the children went to sleep, Mother, and sometimes Daddy, told them fairy or wonder tales, or of the heroes that had made Switzerland free, or the Bible stories, till they knew these by heart, and, when they grew up, told them to their children."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "With the young men of the village, it was not always work—in winter with the cows and goats, in the dairy at home; or, in summer the driving of the flock up to the mountain pastures, with the cheesemaking there."
+    },
+    {
+     "id": "p023.s02",
+     "source": "Tired of the monotony of country life, the sturdy lads welcomed the advent of the soldiers, in bright, gay uniforms, with a band of music, and the recruiting officer at their head."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "With their flags and banners, these strangers came from the great world outside, to enlist young men for military service, in France or Germany, or for the Scotch Brigade in the Netherlands, or, to serve the King of England, in America."
+    },
+    {
+     "id": "p024.s02",
+     "source": "All the village folk turned out and the mothers and maidens were as eager as the fathers, to see how it was done, before their sons, brothers and sweethearts marched away."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Not least among these Swiss, who gained fame, was General Henry Bouquet, who, in the British [ ] service, and as comrade of Washington, won Pittsburg for the King."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "For these were the gala days of monarchs and of the soldier of fortune, that is, of the brave young man, who left his home and country to fight for any one who paid him well."
+    },
+    {
+     "id": "p025.s02",
+     "source": "He enlisted, more for love of adventure, than for love of the ruler whose splendid uniform he wore."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Yet his loyalty and honor were steadfast."
+    },
+    {
+     "id": "p025.s04",
+     "source": "Faithful and brave, he lived in camps and barracks, fought battles, and died in the hospital, or on the field."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "When the king’s officer raised his banner aloft, in the public square of the Swiss village, the fifer and drummer, or trumpeter, sounded the call."
+    },
+    {
+     "id": "p026.s02",
+     "source": "On one side of the broad table, well furnished, and with a foaming pitcher and cups to drink the king’s health, sat the notary."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Then up came the stalwart young fellows, in their working clothes, to have their names enrolled, to take the oath of allegiance, and to exchange their pitchforks for muskets, bayonets and cartridge boxes."
+    },
+    {
+     "id": "p026.s04",
+     "source": "Then they took their places with the others, and soon wore gay soldier clothes, with shining buttons, and frontlets of brass on their helmets."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "Often it was hard, not only for parents and sisters, but for the pet dogs, to leave the dear masters."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Many were the tears shed, and lively the gossip among the women at and around the [ ] well curb, when the village had again resumed its quiet life."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "Greater yet was the glory, when the lad, who had left in peasant homespun, returned, in the royal uniform, to tell of camps, and battles, and sieges; yes, even of palaces and the splendor of the great cities, far away."
+    },
+    {
+     "id": "p028.s02",
+     "source": "Buttons were a new fashion, then, and the Swiss soldier came back home, in cocked hat, a coat very much dotted with shining brass, and opened to show the vest and facings, and with leggings reaching from ankle to knee."
+    },
+    {
+     "id": "p028.s03",
+     "source": "A high private, in those days, looked as gay as a tropical bird, and as handsome as a prince."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "The boys left their hoops, and the girls their dolls, to run and welcome the returning hero."
+    },
+    {
+     "id": "p029.s02",
+     "source": "Old and young listened to his war stories, and even the dogs and pigeons seemed to share in the joy."
+    },
+    {
+     "id": "p029.s03",
+     "source": "The imagination of the youngsters was fired, and often maidens followed their lovers to distant countries."
+    },
+    {
+     "id": "p029.s04",
+     "source": "Who has not read, in the pages of Froissart, or Macaulay, of “Appenzell’s stout infantry,” or of the valor and devotion of the Swiss Guard, in the Tuilleries at Paris, who “died to defend their master.”"
+    },
+    {
+     "id": "p029.s05",
+     "source": "In their everlasting honor, one sees at Luzerne, sculptured out of the solid rock, the dying lion."
+    },
+    {
+     "id": "p029.s06",
+     "source": "This splendid work of art symbolizes the loyalty [ ] and valor of the seven hundred and eighty-six victims, of the French mob, in 1793."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "While the young men had opportunity to see the great world, beyond the mountains, most of the girls stayed at home in the valleys."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Yet all the time, they thought of their brothers, lovers and kinsmen."
+    },
+    {
+     "id": "p030.s03",
+     "source": "They, too, longed to see a real prince, and to look on a military pageant, and gaze on the splendor of courts and palaces."
+    },
+    {
+     "id": "p030.s04",
+     "source": "At times, it was hard to restrain the maidens from roaming off, down the Rhine, to the rich and gay city of Amsterdam, or to the brilliancy of Paris."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "It was not alone in Europe that the absentees from the Swiss villages started."
+    },
+    {
+     "id": "p031.s02",
+     "source": "Already, late in the eighteenth century, men of the Grisons and Oberland were hearing of the “Pennsylvanias.”"
+    },
+    {
+     "id": "p031.s03",
+     "source": "The William Penn country was luring the stalwarts away, for reports came across seas, as sweet in sound as yodel songs, or as Alpine echoes, of fertile soil, which was dirt cheap."
+    },
+    {
+     "id": "p031.s04",
+     "source": "The kind ruler, of the Forests of Penn, hated war and treated even the wild men, or Indians, kindly."
+    },
+    {
+     "id": "p031.s05",
+     "source": "He bought their land and paid them for it, even though his King, Charles, called it his own—which his friend Roger Williams denied."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Sometimes a Swiss mother, left a widow, because her husband had been killed in some prince’s battle, resolved not to let her boy die [ ] for a king."
+    },
+    {
+     "id": "p032.s02",
+     "source": "So she strapped her baby on her back, and skated down the Rhine to Rotterdam, and reached America."
+    },
+    {
+     "id": "p032.s03",
+     "source": "One of these, well known, married again, and in Philadelphia reared a fine family of splendid boys and girls."
+    },
+    {
+     "id": "p032.s04",
+     "source": "Such a romantic incident happened more than once."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Hardly had the Harbys begun even to talk about Penn’s land, when a terrible calamity befell them, which drove them out of their nest-like home, even as the mother-eagle pushes out her fledgelings, while the wonderful opportunity offered them, in Penn’s Groves, lured them to even greater ease and comforts."
+    },
+    {
+     "id": "p033.s02",
+     "source": "Across the Atlantic, there would be less of toil, than in their mountain home, with its long months of winter and its short weeks of summer."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "The story would take too much time to tell, if we tried to note every detail."
+    },
+    {
+     "id": "p034.s02",
+     "source": "For a week previous, the snow had fallen continuously."
+    },
+    {
+     "id": "p034.s03",
+     "source": "It darkened the air, and covered the earth with many feet of solid whiteness."
+    },
+    {
+     "id": "p034.s04",
+     "source": "One old man was full of forebodings of calamity."
+    },
+    {
+     "id": "p034.s05",
+     "source": "On the edge of a cliff, far up on the mountain side, mighty masses of snow piled up, stood like a lofty tower, in terrible menace, likely soon to fall."
+    },
+    {
+     "id": "p034.s06",
+     "source": "All were hoping for the Föhn, or south wind, to blow and “eat up” the snow."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Unsuspecting a storm, a hunter had, some days before, gone among the heights, taking his [ ] provisions and blanket, hoping to stalk an ibex, or at least a chamois."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Caught in the sudden, blinding, whirling snow, and unable to find the path homeward, he built a rude shelter at the edge of the forest."
+    },
+    {
+     "id": "p035.s03",
+     "source": "This was opposite an overhanging rock, under this snow tower, which was steadily rising in height."
+    },
+    {
+     "id": "p035.s04",
+     "source": "Having enough rations in his wallet to last him four days, he waited till sunshine should come, hoping to see a troop of chamois, making their way down over the narrow ledge of rock, in search of moss for food."
+    },
+    {
+     "id": "p035.s05",
+     "source": "Fortunately for him, but calamitously for the village, his rifle shot brought down a fat buck."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "Yet immediately upon that shock of the air, following the gunfire and report, fell tons upon tons of snow and ice."
+    },
+    {
+     "id": "p036.s02",
+     "source": "The mass, rolling down with lightning speed, increased in size at every yard."
+    },
+    {
+     "id": "p036.s03",
+     "source": "It fell on the village, overwhelming houses, barns, stables and gardens."
+    },
+    {
+     "id": "p036.s04",
+     "source": "Where yesterday were happy homes were now many human victims."
+    },
+    {
+     "id": "p036.s05",
+     "source": "Today, the mouldering stones in the church yard witness to the awful catastrophe."
+    },
+    {
+     "id": "p036.s06",
+     "source": "Pathetic is a similar record, made ten years later, in another village."
+    },
+    {
+     "id": "p036.s07",
+     "source": "“Dear God!"
+    },
+    {
+     "id": "p036.s08",
+     "source": "What sorrow!"
+    },
+    {
+     "id": "p036.s09",
+     "source": "Eighty-eight in a single tomb.”"
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "Happily the Harby home, being on the edge of the avalanche’s track, though flattened out, like a sheet of mussed-up paper, had no human dead within its walls; though in the barn every [ ] living animal was smothered by the weight of white."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Digging out a few necessary things, including the trusty rifle, unharmed, they packed them up, because they would be very necessary in the new home, or because they were linked with affectionate memories."
+    },
+    {
+     "id": "p038.s02",
+     "source": "They were happy in finding the stocking full of coin, which had been hidden behind a loose stone in the fireplace."
+    },
+    {
+     "id": "p038.s03",
+     "source": "Then the family made its way to Basle, on the Rhine."
+    },
+    {
+     "id": "p038.s04",
+     "source": "There they took boat, down the river to Rotterdam; where, with hundreds of other Swiss folks, they were sheltered, helped and kindly treated by the Dutch ministers and people."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Getting on board the ship “Arms of Rotterdam,” under the tricolor flag, red, white and blue of the Republic, they crossed the Atlantic and in Penn’s “Holy Experiment,” where thousands of Swiss folk had arrived before them, they reached safely the city of Brotherly Love."
+    },
+    {
+     "id": "p039.s02",
+     "source": "It was then little larger than a village."
+    },
+    {
+     "id": "p039.s03",
+     "source": "When the people from Wales, England, Holland and Germany first came and were building their houses, they had lived in caves, on the banks of the Delaware river, where now is Front Street; but when Harbys arrived there were hundreds of completed houses, some in brick, or stone, but mostly in wood."
+    },
+    {
+     "id": "p039.s04",
+     "source": "Yet even from the beginning, the land was properly surveyed, and laid out in squares, [ ] and, with four large parks, and planted with trees, while some of the streets were paved."
+    },
+    {
+     "id": "p039.s05",
+     "source": "In truth, for order, and beauty, and liberal ideas, this was the queen city of America. [ ]"
+    }
+   ],
+   "id": "p039"
   }
  ]
 }

@@ -4,7 +4,7 @@
 - **Source book:** *Russian Folk-Tales*
 - **Author / collector / translator:** Afanas'ev, A. N. (Aleksandr Nikolaevich) (author, d. 1871); Magnus, Leonard A. (Leonard Arthur) (translator, d. 1924)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #62509 — https://www.gutenberg.org/ebooks/62509 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #62509 — https://www.gutenberg.org/ebooks/62509
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

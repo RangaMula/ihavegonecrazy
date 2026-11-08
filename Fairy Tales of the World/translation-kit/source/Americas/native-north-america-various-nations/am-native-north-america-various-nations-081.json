@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-081",
  "title": {
   "id": "title",
-  "source": "The Buffalo Being"
+  "source": "The Legend Of Mackinac Island"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Myths and Legends of the Great Plains",
- "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
- "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/081 - The Buffalo Being.md",
+ "source_book": "Thirty Indian Legends",
+ "credits": "Bemister, Margaret (author)",
+ "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Americas/Native North America (various nations)/081 - The Legend Of Mackinac Island.md",
  "stats": {
-  "paragraphs": 13,
-  "segments": 30,
-  "words": 335
+  "paragraphs": 4,
+  "segments": 19,
+  "words": 314
  },
  "paragraphs": [
   {
@@ -23,7 +23,31 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Teton"
+     "source": "Many years ago, a party of wild Ojibwa Indians were resting on the shore of Lake Huron."
+    },
+    {
+     "id": "p001.s02",
+     "source": "The story-tellers of the tribe were telling many of their magic tales."
+    },
+    {
+     "id": "p001.s03",
+     "source": "One of them spoke, and said, \"A wigwam stands in the deep."
+    },
+    {
+     "id": "p001.s04",
+     "source": "At the bottom of the lake a big turtle lies asleep in this wigwam."
+    },
+    {
+     "id": "p001.s05",
+     "source": "Around him swim white fish and trout, and the slow-worm goes creeping by."
+    },
+    {
+     "id": "p001.s06",
+     "source": "The scream of the sea gull and the shouts of the rovers do not waken him."
+    },
+    {
+     "id": "p001.s07",
+     "source": "Nothing can disturb his slumber but the magic song.\""
     }
    ],
    "id": "p001"
@@ -33,19 +57,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "O nce upon a time, a Buffalo Being attacked a party of Indians."
+     "source": "Then one of the Indians spoke, \"Let us sing the magic song."
     },
     {
      "id": "p002.s02",
-     "source": "He killed one of them, but the others ran away and climbed a tree."
-    },
-    {
-     "id": "p002.s03",
-     "source": "The Buffalo Being followed them and rushed at the tree."
-    },
-    {
-     "id": "p002.s04",
-     "source": "He rushed many times, knocking off piece after piece of the tree, until very little was left."
+     "source": "Let us waken this big turtle from his long sleep.\""
     }
    ],
    "id": "p002"
@@ -55,15 +71,27 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Then the frightened Indians lighted some tinder, and threw it far off into the tall grass."
+     "source": "So they all began to sing a strange, wild song."
     },
     {
      "id": "p003.s02",
-     "source": "The fire scorched the Buffalo Being’s eyes, and injured his horns."
+     "source": "The sound floated out over the quiet waters of the lake."
     },
     {
      "id": "p003.s03",
-     "source": "The hard part of the horn slipped off, leaving only the softer part, so that he could no longer injure any one."
+     "source": "Suddenly the waves began to rise and roll to the shore, although there was no wind blowing."
+    },
+    {
+     "id": "p003.s04",
+     "source": "The centre of the lake seemed to rise higher; then slowly there appeared above the waters the curved back of the big turtle called Mishini-Makinak, toiling up to answer their call."
+    },
+    {
+     "id": "p003.s05",
+     "source": "Then the dragging tail appeared like a fleshy cape, and the jowl like a headland of dark rock."
+    },
+    {
+     "id": "p003.s06",
+     "source": "The Indians stood along the shore, staring in frightened surprise, as the monster arose like an island in the midst of the waves."
     }
    ],
    "id": "p003"
@@ -73,146 +101,22 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "But the Buffalo Being was still dangerous."
+     "source": "As the days went by, the turtle called his children from their silent homes to come and play around him."
     },
     {
      "id": "p004.s02",
-     "source": "At last one of the Indians slipped down the tree, with his bow and arrow."
+     "source": "Up the lake and down over the falls came the dappled trout and the white fish, to play in the silvery tide, and by night the fairies danced on the rocky cliffs."
     },
     {
      "id": "p004.s03",
-     "source": "He killed the Buffalo Being."
+     "source": "For many days the red men watched eagerly, afraid to go to the magic island, but at last they paddled their birch-bark canoes across the waves to the pebbly beach."
     },
     {
      "id": "p004.s04",
-     "source": "Then all the men came down the tree and skinned the animal and cut up the flesh."
-    },
-    {
-     "id": "p004.s05",
-     "source": "Into the buffalo-skin robe they placed the body of the dead Indian."
-    },
-    {
-     "id": "p004.s06",
-     "source": "But suddenly another Buffalo Being appeared."
-    },
-    {
-     "id": "p004.s07",
-     "source": "The Indians again climbed the tree."
-    },
-    {
-     "id": "p004.s08",
-     "source": "But this Being only walked four times around the dead Indian."
-    },
-    {
-     "id": "p004.s09",
-     "source": "Then he said, “Arise to your feet.”"
+     "source": "From that time Mishini-Makinak was their home."
     }
    ],
    "id": "p004"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p005.s01",
-     "source": "At once the dead man came to life."
-    },
-    {
-     "id": "p005.s02",
-     "source": "The Buffalo Being said to him, “Hereafter you shall be mysterious."
-    },
-    {
-     "id": "p005.s03",
-     "source": "The sun, the moons, the four winds, day and night shall be your slaves.”"
-    }
-   ],
-   "id": "p005"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p006.s01",
-     "source": "Then it was so."
-    },
-    {
-     "id": "p006.s02",
-     "source": "The Indian could take the form of a fine plume, which was blown against a tree."
-    },
-    {
-     "id": "p006.s03",
-     "source": "It would stick to the tree and wave many times in the breeze."
-    }
-   ],
-   "id": "p006"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p007"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p008.s01",
-     "source": "GERMAN KNIGHTS AND INDIAN WARRIORS"
-    }
-   ],
-   "id": "p008"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p009.s01",
-     "source": "The German knights are from a sketch in a Ms., dated 1220, in the University of Leipzig."
-    },
-    {
-     "id": "p009.s02",
-     "source": "The sketch was copied from Rudolph Cronau’s “Geschichte der Solinger Klingenindustrie.”"
-    },
-    {
-     "id": "p009.s03",
-     "source": "They are Knights of the 13th century."
-    }
-   ],
-   "id": "p009"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p010.s01",
-     "source": "The Indian warriors were drawn by an Apache Indian at Anadarko, in 1884, though the insignia is really that of the Cheyenne Indians."
-    }
-   ],
-   "id": "p010"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p011.s01",
-     "source": "The comparison and contrast are made by the Bureau of Ethnology."
-    }
-   ],
-   "id": "p011"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p012.s01",
-     "source": "Courtesy of the Smithsonian Institution"
-    }
-   ],
-   "id": "p012"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p013"
   }
  ]
 }

@@ -1,0 +1,42 @@
+# ’n Kommando teen Boesmans
+
+- **Tradition:** San people (Africa)
+- **Source book:** *Boesman-Stories, Deel 4. Gemengde Vertellings, mees van 'n Awontuurlike Aard*
+- **Author / collector / translator:** Von Wielligh, G. R. (Gideon Retief) (author, d. 1932)
+- **Original language of this text:** af
+- **Source:** Project Gutenberg eBook #64676 — https://www.gutenberg.org/ebooks/64676
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+
+---
+
+OPMEKINGS:—Hierdie verhaal is deur ds. W. S. Rörich aan ons gestuur en beskryf die aanleiding tot die veldtog en die voortsetting van die beleg van die vesting van die Boesmans.
+
+Ou oom Andries B——— vertel hierdie verhaal:—
+
+Ek was skaars sestien jaar oud, toe kom daar berig van die dorp Piketberg dat ons maar self ’n kommando moet vorm om die Boesmans te gaan vang of skiet; want die Goewerment kon ons daarmee nie help nie. My oorlede vader was toe net veldkornet van ons wyk, distrik Namakwaland. Ek moes toe orals rondry om die burgers op te kommandeer om deel aan hierdie veldtog te neem. Die volgende week vertrek die kommando na Boesmanland toe. Die trek het uit verskeie waens met kos, kooigoed, gereedskap, en nog ander benodigdhede, soos ammuniesie en roers, bestaan.
+
+Die Boesmans het in die laaste tyd in daardie dae baie astrant geword. Hulle kom met klein klompies en ja voor die neus van die wagters klompies vee weg. Vandeesweek is dit hier, en ander week is dit weer daar; so is een plaas ná die ander stilletjies en onverwags verras en beroof, en wel op so ’n skelm manier dat ’n witmens hul nooit sien nie. Dit het van kwaad tot erger gegaan, sodat die rowery nie [ ] meer kon toegelaat word nie; en ons moes maar met toestemming van die Goewerment trag om ’n einde aan die strooptogte te maak. En ons het dit vir ’n tyd reggekry.
+
+Ons het by ons ’n paar mak Boesmans gehad wat by ons groot geword het; hulle was in my tyd al groot volk en het die name van Geswind en Volmink gehad. Hulle was baie getrou in hulle diens en fluks daarby. Pa stuur hul nakend en gewapen met pyle en boog vooruit om uit te snuffel waar die trop wilde Boesmans hou. Om hierdie rede moes hul vir hulle ook as wilde Boesmans voordoen, alles uitpluis, en weer kom vertel; dan kry elkeen daarvoor ’n jong vers as beloning.
+
+Toe ons by Namies al verby was—ek meen dit was die sesde dag ná ons vertrek—, toe kom ons twee spioene die aand terug. Hulle was waarlik vaal van die honger; want hulle kon nie met al die soorte kos van die Boesmans klaarkom nie, en hul moes ook baie hardloop om weer veilig te wees. Hulle bring die berig terug dat die wilde Boesmans skuil in ’n spelonk onder ’n krans in ’n klipkoppie. Ons ruk toe met alle mag op daarheen. Die plek was nie alte ver van Grootrivier af nie; dus kon ons genoeg water kry as die affêre lank mag duur.
+
+My pa verdeel die 200 man in twee afdelings: Die een afdeling moet ver omry en die kop van Grootrivier se kant af nader; die ander moes van die suidekant opruk, waardeur die kop omsingel word. Onderwyl kom sommige van ons jongkêreltjies en volk met die waens aan. Ons trek toe omtrent ’n 500 tree van die kop af in laer. Daarop word [ ] ’n soort van krygsraad gehou om ’n werkplan vas te stel, sodat elkeen kon weet wat te doen en wat nie te doen nie.
+
+Aan die westekant van die koppie was ’n krans met die klipgate daarin; aan die oostekant om en suid was die koppie ru en met groot ysterkliprotse bestrooi; laer op die voet was dit met doringbossies begroei. In daardie hol krans was na skatting ’n sestig Boesmans woonagtig.
+
+Die krygsraad kom tot die besluit dat die enigste manier om die Boesmans in hande te kry, is om die koppie nag en dag met wagte te omsingel en sodoende hul met honger en dors tot oorgawe te dwing.
+
+Dit is ’n bekende feit dat ’n Boesman in ’n geveg nooit te voorskyn sal kom nie: sy wapens van verdediging is nie daarna nie; want hoe ver kan sy boog en pyl skiet? Daarom moet hy sy vyand naby laat kom om hom met ’n betreklik stomp harpoen die doodskot te gee. En dan besit hy hiervoor so baie fyn planne. Ook as ’n Boesman nog maar net een gifpyl in hande het, dan is hy nog gevaarliker as die giftigste slang. En misskiet—! Dit doen en kan hy nie.
+
+My oorlede vader sorg toe dat omtrent twintig wagte die kop gedurig omsingel en bewaak. Hulle word natuurlik op gereëlde tye deur andere afgelos; dus was dit haas onmoontlik vir die Boesmans om in die dag of nag te ontvlug. Maar wat hul gedoen het, sal ons later hoor.
+
+Daar was gelukkig baie vyeboshout om gedurende die nag die groot vure aan gang te hou; en dit was die werk van ons jongspan om hout aan te dra en water uit die Grootrivier aan te ry. Verder gaan ons jag; want daar was ’n menigte duikers, steenbokke en patryse. Ek alleen het in [ ] daardie tyd ag duikers geskiet, en praat nie van die menigte wat my maats omgekap het nie. Dit het toe eintlik my werk geword om duikerboudjies in te sout en droog te maak. Ek het later goed ’n vyftig drooggemaakte wildsboudjies om huis-toe te neem.
+
+Dit was vir my ’n baie lekker tyd daar—ek kan amper sê die lekkerste tyd wat ek op ’n vreemde plek deurgebring het.
+
+Die omsingeling duur langer as ons verwag het; dus het die grootmense ook met hulself opgeskeep geraak; want hulle kry niks anders te doen as pyp-rook, pruim en koffie-drink nie. Later het dit op hoog- en vèrspring uitgeloop; verder was dit resiesloop, jukskei-gooi, tou-trek, en nog meer ander speletjies. Die tyd is ook nog kort gemaak deur stories te vertel, en wel soms daar waar gerook en koffie gedrink word, of saans om die veldvuurtjies. Toe kon ’n mens stories van die ou dae hoor—stories wat al amper vergeet was. Ja, sulke tye maak ’n wonderlike indruk op ’n mens: jy hoor stories wat jou bybly tot die laaste dag van jou volle verstand. ’n Baasspelerige man word jou vyand, en daar maak jy by sulke geleenthede vrinde wat jy nooit weer vergeet nie, en wat jy miskien nooit weer sien nie.
+
+Maar wat die wonderlikste van die hele gedoente is, is die stilte wat daar onder die hol krans heers. ’n Mens hoor geen kind huil of skree nie. En as die twee spioene nie die versekering gebring het dat hulle (die Boesmans) daar is nie, dan sou niemand geweet het dat hul wel deeglik daar is nie, en wel ten getalle van ongeveer ’n sestig. En dis lig te begryp dat die vraag oor en oor gestel is: “Maar waar is hulle? Hoekom sien ons niks nie?”
+
+( Word vervolg onder No. 82. ) [ ]

@@ -2,20 +2,20 @@
  "id": "as-turkey-002",
  "title": {
   "id": "title",
-  "source": "Better Is The Folly Of Woman Than The Wisdom Of Man"
+  "source": "The Three Orange-Peris"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/002 - Better Is The Folly Of Woman Than The Wisdom Of Man.md",
+ "markdown_file": "Asia/Turkey/002 - The Three Orange-Peris.md",
  "stats": {
-  "paragraphs": 64,
-  "segments": 118,
-  "words": 1557
+  "paragraphs": 68,
+  "segments": 185,
+  "words": 4341
  },
  "paragraphs": [
   {
@@ -23,15 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "here lived in Constantinople an old Hodja, a learned man, who had a son."
-    },
-    {
-     "id": "p001.s02",
-     "source": "The boy followed in his father's footsteps, went every day to the Mosque Aya Sofia, seated himself in a secluded spot, to the left of the pillar bearing the impress of the Conqueror's hand, and engaged in the study of the Koran."
-    },
-    {
-     "id": "p001.s03",
-     "source": "Daily he might be seen seated, swaying his body to and fro, and reciting to himself the verses of the Holy Book."
+     "source": "In the olden times, when there were sieves in straws and lies in everything, in the olden times when there was abundance, and men ate and drank the whole day and yet lay down hungry, in those olden, olden times there was once a Padishah whose days were joyless, for he had never a son to bless himself with."
     }
    ],
    "id": "p001"
@@ -41,11 +33,15 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "The dearest wish of a Mohammedan theological student is to be able to recite the entire Koran by heart."
+     "source": "One day he was in the path of pleasure with his Vizier, and when they had drunk their coffee and smoked their chibooks, they went out for a walk, and went on and on till they came to a great valley."
     },
     {
      "id": "p002.s02",
-     "source": "Many years are spent in memorizing the Holy Book, which must be recited with a prescribed cantillation, and in acquiring a rhythmical movement of the body which accompanies the chant."
+     "source": "Here they sat down to rest a while, and as they were looking about them to the right hand and to the left, the valley was suddenly shaken as if by an earthquake, a whip cracked, and a dervish, a green-robed, yellow-slippered, white-bearded dervish, suddenly stood before them."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The Padishah and the Vizier were so frightened that they dared not budge; but when the dervish approached them and addressed them with the words, “Selamun aleykyum,” they took heart a bit, and replied courteously, “Ve aleykyum selam.”"
     }
    ],
    "id": "p002"
@@ -55,11 +51,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "When Abdul, for that was the young man's name, had reached his nineteenth year, he had, by the most assiduous study, finally succeeded in mastering three-fourths of the Koran."
-    },
-    {
-     "id": "p003.s02",
-     "source": "At this achievement his pride rose, his ambition was fired, and he determined to become a great man."
+     "source": "“What is thy errand here, my lord Padishah?” asked the dervish."
     }
    ],
    "id": "p003"
@@ -69,11 +61,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The day that he reached this decision he did not go to the Mosque, but stopped at home, in his father's house, and sat staring at the fire burning in the grate."
-    },
-    {
-     "id": "p004.s02",
-     "source": "Several times the father asked:"
+     "source": "“If thou dost know that I am a Padishah, thou dost also know my errand,” replied the Padishah."
     }
    ],
    "id": "p004"
@@ -83,7 +71,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "\"My son, what do you see in the fire?\""
+     "source": "Then the dervish took from his bosom an apple, gave it to the Padishah, and said these words: “Give half of this to thy Sultana, and eat the other half thyself,” and with these words he disappeared."
     }
    ],
    "id": "p005"
@@ -93,7 +81,15 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "And each time the son answered:"
+     "source": "Then the Padishah went home, gave half the apple to his consort, and ate the other half himself, and in exactly nine months and ten days there was a little prince in the harem."
+    },
+    {
+     "id": "p006.s02",
+     "source": "The Padishah was beside himself for joy."
+    },
+    {
+     "id": "p006.s03",
+     "source": "He scattered sequins among the poor, restored to freedom his slaves, and the banquet he gave to his friends had neither beginning nor end."
     }
    ],
    "id": "p006"
@@ -103,7 +99,27 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"Nothing, father.\""
+     "source": "Swiftly flies the time in fairy tales, and the child had reached his fourteenth summer while yet they fondled him."
+    },
+    {
+     "id": "p007.s02",
+     "source": "One day he said to his father: “My lord father Padishah, make me now a little marble palace, and let there be two springs under it, and let one of them run with honey, and the other with butter!”"
+    },
+    {
+     "id": "p007.s03",
+     "source": "Dearly did the Padishah love his little son, because he was his only child, so he made him the marble palace with the springs inside it as his son desired."
+    },
+    {
+     "id": "p007.s04",
+     "source": "There then sat the King’s son in the marble palace, and while he was looking at the springs that bubbled forth both butter and honey, he saw an old woman with a pitcher in her hand, and she would fain have filled it from the spring."
+    },
+    {
+     "id": "p007.s05",
+     "source": "Then the King’s son caught up a stone and flung it at the old woman’s pitcher, and broke it into pieces."
+    },
+    {
+     "id": "p007.s06",
+     "source": "The old woman said not a word, but she went away."
     }
    ],
    "id": "p007"
@@ -113,7 +129,23 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "He was very young; he could not see."
+     "source": "But the next day she was there again with her pitcher, and again she made as if she would fill it, and a second time the King’s son cast a stone at her and broke her pitcher."
+    },
+    {
+     "id": "p008.s02",
+     "source": "The old woman went away without speaking a word."
+    },
+    {
+     "id": "p008.s03",
+     "source": "She came on the third day also, and it fared with her pitcher then as on the first two days."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Then the old woman spoke."
+    },
+    {
+     "id": "p008.s05",
+     "source": "“Oh, youth!” cried she, “ ’ tis the will of Allah that thou shouldst fall in love with the three Orange-peris,” and with that she quitted him."
     }
    ],
    "id": "p008"
@@ -123,7 +155,23 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Finally, the young man picked up courage and gave expression to his thoughts."
+     "source": "From thenceforth the heart of the King’s son was consumed by a hidden fire."
+    },
+    {
+     "id": "p009.s02",
+     "source": "He began to grow pale and wither away."
+    },
+    {
+     "id": "p009.s03",
+     "source": "When the Padishah saw that his son was ill, he sent for the wise men and the leeches, but they could find no remedy for the disease."
+    },
+    {
+     "id": "p009.s04",
+     "source": "One day the King’s son said to his father: “Oh, my dear little daddy Shah! these wise men of thine cannot cure me of my disease, and all their labours are in vain."
+    },
+    {
+     "id": "p009.s05",
+     "source": "I have fallen in love with the three Oranges, and never shall I be better till I find them.”"
     }
    ],
    "id": "p009"
@@ -133,7 +181,15 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"Father,\" he said, \"I wish to become a great man.\""
+     "source": "“Oh, my dear little son!” groaned the Padishah, “thou art all that I have in the wide world: if thou dost leave me, in whom can I rejoice?”"
+    },
+    {
+     "id": "p010.s02",
+     "source": "Then the King’s son slowly withered away, and his days were as a heavy sleep; so his father saw that it would be better to let him go forth on his way and find, if so be he might, the three Oranges that were as the balsam of his soul."
+    },
+    {
+     "id": "p010.s03",
+     "source": "“Perchance too he may return again,” thought the Padishah."
     }
    ],
    "id": "p010"
@@ -143,7 +199,15 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "\"That is very easy,\" said the father."
+     "source": "So the King’s son arose one day and took with him things that were light to carry, but heavy in the scales of value, and pursued his way over mountains and valleys, rising up and lying down again for many days."
+    },
+    {
+     "id": "p011.s02",
+     "source": "At last in the midst of a vast plain, in front of the high-road, he came upon her Satanic Majesty the Mother of Devils, as huge as a minaret."
+    },
+    {
+     "id": "p011.s03",
+     "source": "One of her legs was on one mountain, and the other leg on another mountain; she was chewing gum (her mouth was full of it) so that you could hear her half-an-hour’s journey off; her breath was a hurricane, and her arms were yards and yards long."
     }
    ],
    "id": "p011"
@@ -153,11 +217,19 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"And to be a great man,\" continued the son, \"I must first go to Mecca.\""
+     "source": "“Good-day, little mother!” cried the youth, and he embraced the broad waist of the Mother of Devils."
     },
     {
      "id": "p012.s02",
-     "source": "For no Mohammedan priest or theologian, or even layman, has fulfilled all of the cardinal precepts of his faith unless he has made the pilgrimage to the Holy City."
+     "source": "“Good-day, little sonny!” she replied."
+    },
+    {
+     "id": "p012.s03",
+     "source": "“If thou hadst not spoken to me so politely, I should have gobbled thee up.”"
+    },
+    {
+     "id": "p012.s04",
+     "source": "Then she asked him whence he came and whither he was going."
     }
    ],
    "id": "p012"
@@ -167,7 +239,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "To his son's last observation the father blandly replied: \"It is very easy to go to Mecca.\""
+     "source": "“Alas! dear little mother,” sighed the youth, “such a terrible misfortune has befallen me that I can neither tell thee nor answer thy question.”"
     }
    ],
    "id": "p013"
@@ -177,11 +249,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "\"How, easy?\" asked the son."
-    },
-    {
-     "id": "p014.s02",
-     "source": "\"On the contrary, it is very difficult; for the journey is costly, and I have no money.\""
+     "source": "“Nay, come, out with it, my son,” urged the Mother of Devils."
     }
    ],
    "id": "p014"
@@ -191,11 +259,11 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "\"Listen, my son,\" said the father."
+     "source": "“Well then, my sweet little mother,” cried the youth, and he sighed worse than before, “I have fallen violently in love with the three Oranges."
     },
     {
      "id": "p015.s02",
-     "source": "\"You must become a scribe, the writer of the thoughts of your brethren, and your fortune is made.\""
+     "source": "If only I might find my way thither!”"
     }
    ],
    "id": "p015"
@@ -205,7 +273,23 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "\"But I have not even the implements necessary for a scribe,\" said the son."
+     "source": "“Hush!” cried the Mother of Devils, “it is not lawful to even think of that name, much less pronounce it."
+    },
+    {
+     "id": "p016.s02",
+     "source": "I and my sons are its guardians, yet even we don’t know the way to it."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Forty sons have I, and they go up and down the earth more than I do, perchance they may tell thee something of the matter.”"
+    },
+    {
+     "id": "p016.s04",
+     "source": "So when it began to grow dusk towards evening, ere yet the devil-sons had come home, the old woman gave the King’s son a tap, and turned him into a pitcher of water."
+    },
+    {
+     "id": "p016.s05",
+     "source": "And she did it not a moment too soon, for immediately afterwards the forty sons of the Mother of Devils knocked at the door and cried: “Mother, we smell man’s flesh!”"
     }
    ],
    "id": "p016"
@@ -215,7 +299,23 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "\"All that can be easily arranged,\" said the father; \"your grandfather had an ink-horn; I will give it you; I will buy you some writing-paper, and we will get you a box to sit in; all that you need to do is to sit still, look wise and your fortune is made.\""
+     "source": "“Nonsense!” cried the Mother of Devils."
+    },
+    {
+     "id": "p017.s02",
+     "source": "“What, I should like to know, have the sons of men to do here?"
+    },
+    {
+     "id": "p017.s03",
+     "source": "It seems to me you had better all clean your teeth.”"
+    },
+    {
+     "id": "p017.s04",
+     "source": "So she gave the forty sons forty wooden stakes to clean their teeth with, and out of one’s tooth fell an arm, and out of another’s a thigh, and out of another’s an arm, till they had all cleaned their teeth."
+    },
+    {
+     "id": "p017.s05",
+     "source": "Then they sat them down to eat and drink, and in the middle of the meal their mother said to them: “If now ye had a man for your brother, what would ye do with him?”"
     }
    ],
    "id": "p017"
@@ -225,19 +325,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "And indeed the advice was good."
-    },
-    {
-     "id": "p018.s02",
-     "source": "For letter-writing is an art which only the few possess."
-    },
-    {
-     "id": "p018.s03",
-     "source": "The ability to write by no means carries with it the ability to compose."
-    },
-    {
-     "id": "p018.s04",
-     "source": "Epistolary genius is rare."
+     "source": "“Do,” they replied, “why love him like a brother, of course!”"
     }
    ],
    "id": "p018"
@@ -247,11 +335,11 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Abdul was much rejoiced at the counsel that had been given him, and lost no time in carrying out the plan."
+     "source": "Then the Mother of Devils tapped the water-jar, and the King’s son stood there again."
     },
     {
      "id": "p019.s02",
-     "source": "He took his grandfather's ink-horn, the paper his father bought, got himself a box and began his career as a scribe."
+     "source": "“Here is your brother!” cried she to her forty sons."
     }
    ],
    "id": "p019"
@@ -261,7 +349,7 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "Abdul was a child, he knew nothing, but deeming himself wise he sought to surpass the counsel of his father."
+     "source": "The devils thanked the King’s son for his company with great joy, invited their new brother to sit down, and asked their mother why she had not told them about him before, as then they might all have eaten their meal together."
     }
    ],
    "id": "p020"
@@ -271,7 +359,7 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "\"To look wise,\" he said, \"is not sufficient; I must have some other attraction.\""
+     "source": "“Nay but, my sons,” cried she, “he does not live on the same sort of meat as ye; fowls, mutton, and such-like is what he feeds on.”"
     }
    ],
    "id": "p021"
@@ -281,15 +369,7 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "And after much thought he hit upon the following idea."
-    },
-    {
-     "id": "p022.s02",
-     "source": "Over his box he painted a legend: \"The wisdom of man is greater than the wisdom of woman.\""
-    },
-    {
-     "id": "p022.s03",
-     "source": "People thought the sign very clever, customers came, the young Hodja took in many piasters and he was correspondingly happy."
+     "source": "At this one of them jumped up, went out, fetched a sheep, slew it, and laid it before the new brother."
     }
    ],
    "id": "p022"
@@ -299,11 +379,11 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "This sign one day attracted the eyes and mind of a Hanoum (Turkish lady)."
+     "source": "“Oh, what a child thou art!” cried the Mother of Devils."
     },
     {
      "id": "p023.s02",
-     "source": "Seeing that Abdul was a manly youth, she went to him and said:"
+     "source": "“Dost thou not know that thou must first cook it for him?”"
     }
    ],
    "id": "p023"
@@ -313,23 +393,19 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "\"Hodja, I have a difficult letter to write."
+     "source": "Then they skinned the sheep, made a fire, roasted it, and placed it before him."
     },
     {
      "id": "p024.s02",
-     "source": "I have heard that thou art very wise, so I have come to thee."
+     "source": "The King’s son ate a piece, and after satisfying his hunger, left the rest of it."
     },
     {
      "id": "p024.s03",
-     "source": "To write the letter thou wilt need all thy wit."
+     "source": "“Why, that’s nothing!” cried the devils, and they urged him again and again to eat more."
     },
     {
      "id": "p024.s04",
-     "source": "Moreover, the letter is a long one, and I cannot stand here while it is being written."
-    },
-    {
-     "id": "p024.s05",
-     "source": "Come to my Konak (house) at three this afternoon, and we will write the letter.\""
+     "source": "“Nay, my sons,” cried their mother, “men never eat more than that.”"
     }
    ],
    "id": "p024"
@@ -339,11 +415,11 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "The Hodja was overcome with admiration for his fair client, and surprised at the invitation."
+     "source": "“Let us see then what this sheep-meat is like,” said one of the forty brothers."
     },
     {
      "id": "p025.s02",
-     "source": "He was enchanted, his heart beat wildly, and so great was his agitation that his reply of acquiescence was scarcely audible."
+     "source": "So they fell upon it and devoured the whole lot in a couple of mouthfuls."
     }
    ],
    "id": "p025"
@@ -353,15 +429,7 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "The invitation had more than the charm of novelty to make it attractive."
-    },
-    {
-     "id": "p026.s02",
-     "source": "He had never talked with a woman outside of his own family circle."
-    },
-    {
-     "id": "p026.s03",
-     "source": "To be admitted to a lady's house was in itself an adventure."
+     "source": "Now when they all rose up early in the morning, the Mother of Devils said to her sons: “Our new brother hath a great trouble.”—“What is it?” cried they, “for we would help him.”"
     }
    ],
    "id": "p026"
@@ -371,19 +439,7 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "Long before the appointed time, the young Hodja—impetuous youth—gathered together his reeds, ink, and sand."
-    },
-    {
-     "id": "p027.s02",
-     "source": "With feverish step he wended his way to the house."
-    },
-    {
-     "id": "p027.s03",
-     "source": "Lattices covered the windows, a high wall surrounded the garden, and a ponderous gate barred the entrance."
-    },
-    {
-     "id": "p027.s04",
-     "source": "Thrice he raised the massive knocker."
+     "source": "“He has fallen in love with the three Oranges!”—“Well,” replied the devils, “we know not the place of the three Oranges ourselves, but perchance our aunt may know.”"
     }
    ],
    "id": "p027"
@@ -393,7 +449,11 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "\"Who is there?\" called a voice from within."
+     "source": "“Then lead this youth to her,” said their mother; “tell her that he is my son and worthy of all honour, let her also receive him as a son and ease him of his trouble.”"
+    },
+    {
+     "id": "p028.s02",
+     "source": "Then the devils took the youth to their aunt, and told her on what errand he had come."
     }
    ],
    "id": "p028"
@@ -403,7 +463,11 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "\"The scribe,\" was the reply."
+     "source": "Now this Aunt of the Devils had sixty sons, and as she did not know the place of the three Oranges, she had to wait till they came home."
+    },
+    {
+     "id": "p029.s02",
+     "source": "But lest any harm should happen to this her new son, she gave him a tap and turned him into a piece of crockery."
     }
    ],
    "id": "p029"
@@ -413,11 +477,7 @@
    "segments": [
     {
      "id": "p030.s01",
-     "source": "\"It is well,\" said the porter; the gate was unbarred, and the Hodja permitted to enter."
-    },
-    {
-     "id": "p030.s02",
-     "source": "Directly he was ushered into the apartment of his fair client."
+     "source": "“We smell man’s flesh, mother,” cried the devils, as they crossed the threshold."
     }
    ],
    "id": "p030"
@@ -427,7 +487,19 @@
    "segments": [
     {
      "id": "p031.s01",
-     "source": "The lady welcomed him cordially."
+     "source": "“Perchance ye have eaten man’s flesh, and the remains thereof are still within your teeth,” said their mother."
+    },
+    {
+     "id": "p031.s02",
+     "source": "Then she gave them great logs of wood that they might pick their teeth clean, and so be able to swallow down something else."
+    },
+    {
+     "id": "p031.s03",
+     "source": "But in the midst of the meal the woman gave the piece of crockery a tap, and when the sixty devils saw their little human brother, they rejoiced at the sight, made him sit down at table, and bade him fall to if there was anything there he took a fancy to."
+    },
+    {
+     "id": "p031.s04",
+     "source": "“My sons,” said the Mother of the Devils to her sixty sons when they all rose up early on the morrow, “this lad here has fallen in love with the three Oranges, cannot you show him the way thither?”"
     }
    ],
    "id": "p031"
@@ -437,11 +509,7 @@
    "segments": [
     {
      "id": "p032.s01",
-     "source": "\"Ah!"
-    },
-    {
-     "id": "p032.s02",
-     "source": "Hodja Effendi, I am glad to see you; pray sit down.\""
+     "source": "“We know not the way,” replied the devils; “but perchance our old great-aunt may know something about it.”"
     }
    ],
    "id": "p032"
@@ -451,7 +519,23 @@
    "segments": [
     {
      "id": "p033.s01",
-     "source": "The Hodja nervously pulled out his writing-implements."
+     "source": "“Then take the youth thither,” said their mother, “and bid her hold him in high honour."
+    },
+    {
+     "id": "p033.s02",
+     "source": "He is my son, let him be hers also and help him out of his distress.”"
+    },
+    {
+     "id": "p033.s03",
+     "source": "Then they took him off to their great-aunt, and told her the whole business."
+    },
+    {
+     "id": "p033.s04",
+     "source": "“Alas!"
+    },
+    {
+     "id": "p033.s05",
+     "source": "I do not know, my sons!” said the old, old great-aunt; “but if you wait till the evening, when my ninety sons come home, I will ask them. ”"
     }
    ],
    "id": "p033"
@@ -461,11 +545,19 @@
    "segments": [
     {
      "id": "p034.s01",
-     "source": "\"Do not be in such a hurry,\" said the lady."
+     "source": "Then the sixty devils departed and left the King’s son there, and when it grew dusk the Mother of the Devils gave the youth a tap, turned him into a broom, and placed him in the doorway."
     },
     {
      "id": "p034.s02",
-     "source": "\"Refresh yourself; take a cup of coffee, smoke a cigarette, and we will write the letter afterwards.\""
+     "source": "Shortly afterwards the ninety devils came home, and they also smelt the smell of man, and took the pieces of man’s flesh out of their teeth."
+    },
+    {
+     "id": "p034.s03",
+     "source": "In the middle of their meal their mother asked them how they would treat a human brother if they had one."
+    },
+    {
+     "id": "p034.s04",
+     "source": "When they had sworn upon eggs that they would not hurt so much as his little finger, their mother gave the broom a tap, and the King’s son stood before them."
     }
    ],
    "id": "p034"
@@ -475,15 +567,15 @@
    "segments": [
     {
      "id": "p035.s01",
-     "source": "So he lit a cigarette, drank a cup of coffee, and they fell to talking."
+     "source": "The devil brothers entreated him courteously, inquired after his health, and served him so heartily with eatables that they scarcely gave him time to breathe."
     },
     {
      "id": "p035.s02",
-     "source": "Time flew; the minutes seemed like seconds, and the hours were as minutes."
+     "source": "In the midst of the meal their mother asked them whether they knew where the three Oranges were, for their new brother had fallen in love with them."
     },
     {
      "id": "p035.s03",
-     "source": "While they were thus enjoying themselves there suddenly came a heavy knock at the gate."
+     "source": "Then the least of the ninety devils leaped up with a shout of joy, and said that he knew."
     }
    ],
    "id": "p035"
@@ -493,19 +585,7 @@
    "segments": [
     {
      "id": "p036.s01",
-     "source": "\"It is my husband, the Pasha,\" cried the lady."
-    },
-    {
-     "id": "p036.s02",
-     "source": "\"What shall I do?"
-    },
-    {
-     "id": "p036.s03",
-     "source": "If he finds you here, he will kill you!"
-    },
-    {
-     "id": "p036.s04",
-     "source": "I am so frightened.\""
+     "source": "“Then if thou knowest,” said his mother, “see that thou take this son of ours thither, that he may satisfy his heart’s desire.”"
     }
    ],
    "id": "p036"
@@ -515,11 +595,15 @@
    "segments": [
     {
      "id": "p037.s01",
-     "source": "The Hodja was frightened too."
+     "source": "On arising next morning, the devil-son took the King’s son with him, and the pair of them went merrily along the road together."
     },
     {
      "id": "p037.s02",
-     "source": "Again there came a knock at the gate."
+     "source": "They went on, and on, and on, and at last the little devil said these words: “My brother, we shall come presently to a large garden, and in the fountain thereof are the three."
+    },
+    {
+     "id": "p037.s03",
+     "source": "When I say to thee: ‘Shut thine eye, open thine eye!’ lay hold of what thou shalt see.”"
     }
    ],
    "id": "p037"
@@ -529,11 +613,27 @@
    "segments": [
     {
      "id": "p038.s01",
-     "source": "\"I have it,\" and taking Abdul by the arm, she said, \"you must get into the box,\" indicating a large chest in the room."
+     "source": "They went on a little way further till they came to the garden, and the moment the devil saw the fountain he said to the King’s son: “Shut thine eye and open thine eye!”"
     },
     {
      "id": "p038.s02",
-     "source": "\"Quick, quick, if you prize your life utter not a word, and Inshallah I will save you.\""
+     "source": "He did so, and saw the three Oranges bobbing up and down on the surface of the water where it came bubbling out of the spring, and he snatched up one of them and popped it in his pocket."
+    },
+    {
+     "id": "p038.s03",
+     "source": "Again the devil called to him: “Open thine eye and shut thine eye!”"
+    },
+    {
+     "id": "p038.s04",
+     "source": "He did so, and snatched up the second orange, and so with the third also in the same way."
+    },
+    {
+     "id": "p038.s05",
+     "source": "“Now take care,” said the devil, “that thou dost not cut open these oranges in any place where there is no water, or it will go ill with thee.”"
+    },
+    {
+     "id": "p038.s06",
+     "source": "The King’s son promised, and so they parted, one went to the right, and the other to the left."
     }
    ],
    "id": "p038"
@@ -543,11 +643,27 @@
    "segments": [
     {
      "id": "p039.s01",
-     "source": "Abdul now, too late, saw his folly."
+     "source": "The King’s son went on, and on, and on."
     },
     {
      "id": "p039.s02",
-     "source": "It was his want of experience; but driven by the sense of danger, he entered the chest; the lady locked it and took the key."
+     "source": "He went a long way, and he went a short way, he went across mountains and through valleys."
+    },
+    {
+     "id": "p039.s03",
+     "source": "At last he came to a sandy desert, and there he bethought him of the oranges, and drawing one out, he cut it open."
+    },
+    {
+     "id": "p039.s04",
+     "source": "Scarcely had he cut into it when a damsel, lovely as a Peri, popped out of it before him; the moon when it is fourteen days old is not more dazzling."
+    },
+    {
+     "id": "p039.s05",
+     "source": "“For Allah’s sake, give me a drop of water!” cried the damsel, and inasmuch as there was no trace of water anywhere, she vanished from the face of the earth."
+    },
+    {
+     "id": "p039.s06",
+     "source": "The King’s son grieved right sorely, but there was no help for it, the thing was done."
     }
    ],
    "id": "p039"
@@ -557,7 +673,11 @@
    "segments": [
     {
      "id": "p040.s01",
-     "source": "A moment afterwards the Pasha came in."
+     "source": "Again he went on his way, and when he had gone a little further he thought to himself, “I may as well cut open one more orange.”"
+    },
+    {
+     "id": "p040.s02",
+     "source": "So he drew out the second orange, and scarcely had he cut into it than there popped down before him a still more lovely damsel, who begged piteously for water, but as the King’s son had none to give her, she also vanished."
     }
    ],
    "id": "p040"
@@ -567,7 +687,19 @@
    "segments": [
     {
      "id": "p041.s01",
-     "source": "\"I am very tired,\" he said; \"bring me coffee and a chibook.\""
+     "source": "“Well, I’ll take better care of the third,” cried he, and continued his journey."
+    },
+    {
+     "id": "p041.s02",
+     "source": "He went on and on till he came to a large spring, drank out of it, and then thought to himself: “Well, now I’ll cut open the third orange also.”"
+    },
+    {
+     "id": "p041.s03",
+     "source": "He drew it out and cut it, and immediately a damsel even lovelier than the other two stood before him."
+    },
+    {
+     "id": "p041.s04",
+     "source": "As soon as she called for water, he led her to the spring and gave her to drink, and the damsel did not disappear, but remained there as large as life."
     }
    ],
    "id": "p041"
@@ -577,15 +709,7 @@
    "segments": [
     {
      "id": "p042.s01",
-     "source": "\"Good evening, Pasha Effendi,\" said the lady."
-    },
-    {
-     "id": "p042.s02",
-     "source": "\"Sit down."
-    },
-    {
-     "id": "p042.s03",
-     "source": "I have something to tell you.\""
+     "source": "Mother-naked was the damsel, and as he could not take her to town like that, he bade her climb up a large tree that stood beside the spring, while he went into the town to buy her raiment and a carriage."
     }
    ],
    "id": "p042"
@@ -595,11 +719,27 @@
    "segments": [
     {
      "id": "p043.s01",
-     "source": "\"Bah!\" said the Pasha; \"I want none of your woman's talk; 'the hair of woman is long, and her wits are short,' says the proverb."
+     "source": "While the King’s son had gone away, a negro servant came to the spring to draw water, and saw the reflection of the damsel in the watery mirror."
     },
     {
      "id": "p043.s02",
-     "source": "Bring me my pipe.\""
+     "source": "“Why, thou art something like a damsel,” said she to herself, “and ever so much lovelier than thy mistress; so she ought to fetch water for me, not I for her.”"
+    },
+    {
+     "id": "p043.s03",
+     "source": "With that she broke the pitcher in two, went home, and when her mistress asked where the pitcher of water was, she replied: “I am much more beautiful than thou, so thou must fetch water for me, not I for thee.”"
+    },
+    {
+     "id": "p043.s04",
+     "source": "Her mistress took up a mirror, held it before her, and said: “Methinks thou must have taken leave of thy senses; look at this mirror!”"
+    },
+    {
+     "id": "p043.s05",
+     "source": "The Moor looked into the mirror, and saw that she was as coal-black as ever."
+    },
+    {
+     "id": "p043.s06",
+     "source": "Without another word she took up the pitcher, went again to the spring, and seeing the damsel’s face in the mirror, again fancied that it was hers."
     }
    ],
    "id": "p043"
@@ -609,7 +749,19 @@
    "segments": [
     {
      "id": "p044.s01",
-     "source": "\"But, Pasha Effendi,\" said the lady, \"I have had an adventure to-day.\""
+     "source": "“I’m right, after all,” she cried; “I’m ever so much more beautiful than my mistress.”"
+    },
+    {
+     "id": "p044.s02",
+     "source": "So she broke the pitcher to pieces again, and went home."
+    },
+    {
+     "id": "p044.s03",
+     "source": "Again her mistress asked her why she had not drawn water."
+    },
+    {
+     "id": "p044.s04",
+     "source": "“Because I am ever so much more beautiful than thou, so thou must draw water for me,” replied she."
     }
    ],
    "id": "p044"
@@ -619,7 +771,11 @@
    "segments": [
     {
      "id": "p045.s01",
-     "source": "\"Bah!\" said the Pasha; \"what adventure can a woman have—forgot to paint your eyebrows or color your nails, I suppose.\""
+     "source": "“Thou art downright crazy,” replied her mistress, drew out a mirror, and showed it to her; and when the Moor-girl saw her face in it, she took up another pitcher and went to the fountain for the third time."
+    },
+    {
+     "id": "p045.s02",
+     "source": "The damsel’s face again appeared in the water, but just as she was about to break the pitcher again, the damsel called to her from the tree: “Break not thy pitchers, ’tis my face thou dost see in the water, and thou wilt see thine own there also.”"
     }
    ],
    "id": "p045"
@@ -629,15 +785,11 @@
    "segments": [
     {
      "id": "p046.s01",
-     "source": "\"No, Pasha Effendi."
+     "source": "The Moor-girl looked up, and when she saw the wondrously beautiful shape of the damsel in the tree, she climbed up beside her and spake coaxing words to her: “Oh, my little golden damsel, thou wilt get the cramp from crouching there so long; come, rest thy head!”"
     },
     {
      "id": "p046.s02",
-     "source": "Be patient, and I will tell you."
-    },
-    {
-     "id": "p046.s03",
-     "source": "I went out to-day to write a letter.\""
+     "source": "And with that she laid the damsel’s head on her breast, felt in her bosom, drew out a needle, pricked the damsel with it in the skull, and in an instant the Orange-Damsel was changed into a bird, and pr-r-r-r-r! she was gone, leaving the Moor all alone in the tree."
     }
    ],
    "id": "p046"
@@ -647,7 +799,23 @@
    "segments": [
     {
      "id": "p047.s01",
-     "source": "\"A letter?\" said the Pasha; \"to whom would you write a letter?\""
+     "source": "Now when the King’s son came back with his fine coach and beautiful raiment, looked up into the tree, and saw the black face, he asked the girl what had happened to her."
+    },
+    {
+     "id": "p047.s02",
+     "source": "“A nice question!” replied the Moor-girl."
+    },
+    {
+     "id": "p047.s03",
+     "source": "“Why, thou didst leave me here all day, and wentest away, so of course the sun has tanned me black.”"
+    },
+    {
+     "id": "p047.s04",
+     "source": "What could the poor King’s son do?"
+    },
+    {
+     "id": "p047.s05",
+     "source": "He made the black damsel sit in the coach, and took her straight home to his father’s house."
     }
    ],
    "id": "p047"
@@ -657,11 +825,7 @@
    "segments": [
     {
      "id": "p048.s01",
-     "source": "\"Be patient,\" she said, \"and I will tell you my story."
-    },
-    {
-     "id": "p048.s02",
-     "source": "So I came to the box of a young scribe with beautiful eyes.\""
+     "source": "In the palace of the Padishah they were all waiting, full of eagerness, to behold the Peri-Bride, and when they saw the Moorish damsel they said to the King’s son: “However couldst thou lose thy heart to a black maid?”"
     }
    ],
    "id": "p048"
@@ -671,15 +835,19 @@
    "segments": [
     {
      "id": "p049.s01",
-     "source": "\"A young man with beautiful eyes,\" shouted the Pasha."
+     "source": "“She is not a black maid,” said the King’s son."
     },
     {
      "id": "p049.s02",
-     "source": "\"Where is he?"
+     "source": "“I left her at the top of a tree, and she was blackened there by the rays of the sun."
     },
     {
      "id": "p049.s03",
-     "source": "I'll kill him!\" and he drew his sword."
+     "source": "If only you let her rest a bit she’ll soon grow white again.”"
+    },
+    {
+     "id": "p049.s04",
+     "source": "And with that he led her into her chamber, and waited for her to grow white again."
     }
    ],
    "id": "p049"
@@ -689,7 +857,7 @@
    "segments": [
     {
      "id": "p050.s01",
-     "source": "The Hodja in the chest heard every word and trembled in every limb."
+     "source": "Now there was a beautiful garden in the palace of the King’s son, and one day the Orange-Bird came flying on to a tree there, and called down to the gardener."
     }
    ],
    "id": "p050"
@@ -699,15 +867,7 @@
    "segments": [
     {
      "id": "p051.s01",
-     "source": "\"Be patient, Pasha Effendi; I said I had an adventure, and you did not believe me."
-    },
-    {
-     "id": "p051.s02",
-     "source": "I told the young man that the letter was long, and I could not stand in the street to write it."
-    },
-    {
-     "id": "p051.s03",
-     "source": "So I asked him to come and see me this afternoon.\""
+     "source": "“What dost thou want with me?” asked the gardener."
     }
    ],
    "id": "p051"
@@ -717,7 +877,7 @@
    "segments": [
     {
      "id": "p052.s01",
-     "source": "\"Here? to this house?\" thundered the Pasha."
+     "source": "“What is the King’s son doing?” inquired the bird."
     }
    ],
    "id": "p052"
@@ -727,15 +887,7 @@
    "segments": [
     {
      "id": "p053.s01",
-     "source": "\"Yes, Pasha Effendi,\" said the lady."
-    },
-    {
-     "id": "p053.s02",
-     "source": "\"So the Hodja came here, and I gave him coffee and a cigarette, and we talked, and the minutes seemed like seconds, and the hours were as minutes."
-    },
-    {
-     "id": "p053.s03",
-     "source": "All at once came your knock at the gate, and I said to the Hodja, 'That is the Pasha; and if he finds you here, he will kill you.'\""
+     "source": "“He is doing no harm that I know of,” replied the gardener."
     }
    ],
    "id": "p053"
@@ -745,7 +897,7 @@
    "segments": [
     {
      "id": "p054.s01",
-     "source": "\"And I will kill him,\" screamed the Pasha, \"where is he?\""
+     "source": "“And what about his black bride?”"
     }
    ],
    "id": "p054"
@@ -755,11 +907,7 @@
    "segments": [
     {
      "id": "p055.s01",
-     "source": "\"Be patient, Pasha Effendi,\" said the lady, \"and I will tell you."
-    },
-    {
-     "id": "p055.s02",
-     "source": "When you knocked a second time, I suddenly thought of the chest, and I put the Hodja in.\""
+     "source": "“Oh, she’s there too, sitting with him as usual.”"
     }
    ],
    "id": "p055"
@@ -769,11 +917,7 @@
    "segments": [
     {
      "id": "p056.s01",
-     "source": "\"Let me at him!\" screamed the Pasha."
-    },
-    {
-     "id": "p056.s02",
-     "source": "\"I'll cut off his head!\""
+     "source": "Then the little bird sang these words:"
     }
    ],
    "id": "p056"
@@ -783,19 +927,7 @@
    "segments": [
     {
      "id": "p057.s01",
-     "source": "\"O Pasha,\" she said, \"what a hurry you are in to slay this comely youth."
-    },
-    {
-     "id": "p057.s02",
-     "source": "He is your prey; he cannot escape you."
-    },
-    {
-     "id": "p057.s03",
-     "source": "The youth is not only in the box, but it is locked, and the key is in my pocket."
-    },
-    {
-     "id": "p057.s04",
-     "source": "Here it is.\""
+     "source": "And with that it flew away."
     }
    ],
    "id": "p057"
@@ -805,7 +937,11 @@
    "segments": [
     {
      "id": "p058.s01",
-     "source": "The lady walked over to the Pasha, stretched out her hand and gave him the key."
+     "source": "The next day it came again, and inquired once more about the King’s son and his black consort, and repeated what it said before."
+    },
+    {
+     "id": "p058.s02",
+     "source": "The third day it did in like manner, and as many trees as it hopped upon withered right away beneath it."
     }
    ],
    "id": "p058"
@@ -815,7 +951,23 @@
    "segments": [
     {
      "id": "p059.s01",
-     "source": "As he took it, she said:"
+     "source": "One day the King’s son felt weary of his black bride, so he went out into the garden for a walk."
+    },
+    {
+     "id": "p059.s02",
+     "source": "Then his eye fell on the withered trees, and he called the gardener and said to him: “What is this, gardener?"
+    },
+    {
+     "id": "p059.s03",
+     "source": "Why dost thou not take better care of thy trees?"
+    },
+    {
+     "id": "p059.s04",
+     "source": "Dost thou not see that they are all withering away?”"
+    },
+    {
+     "id": "p059.s05",
+     "source": "Then the gardener replied that it was of but little use for him to take care of the trees, for a few days ago a little bird had been there, and asked what the King’s son and his black consort were doing, and had said that though she might be sitting there, she should not sit for ever, but that thorns would grow, and every tree it lit upon should wither."
     }
    ],
    "id": "p059"
@@ -825,7 +977,19 @@
    "segments": [
     {
      "id": "p060.s01",
-     "source": "\"Philopena!\""
+     "source": "The Bang’s son commanded the gardener to smear the trees with bird-lime, and if the bird then lit upon it, to bring it to him."
+    },
+    {
+     "id": "p060.s02",
+     "source": "So the gardener smeared the trees with bird-lime, and when the bird came there next day he caught it, and brought it to the King’s son, who put it in a cage."
+    },
+    {
+     "id": "p060.s03",
+     "source": "Now no sooner did the black woman look upon the bird than she knew at once that it was the damsel."
+    },
+    {
+     "id": "p060.s04",
+     "source": "So she pretended to be very ill, sent for the chief medicine-man, and by dint of rich gifts persuaded him to say to the King’s son that his consort would never get well unless he fed her with such and such birds."
     }
    ],
    "id": "p060"
@@ -835,11 +999,23 @@
    "segments": [
     {
      "id": "p061.s01",
-     "source": "\"Bah!\" said the Pasha, in disgust."
+     "source": "The King’s son saw that his consort was very sick, he sent for the doctor, went with him to see the sick woman, and asked him how she was to be cured."
     },
     {
      "id": "p061.s02",
-     "source": "He threw the key on the floor and left the harem, slamming the door behind him."
+     "source": "The doctor said she could only be cured if they gave her such and such birds to eat."
+    },
+    {
+     "id": "p061.s03",
+     "source": "“Why, only this very day have I caught one of such birds,” said the King’s son; and they brought the bird, killed it, and fed the sick lady with the flesh thereof."
+    },
+    {
+     "id": "p061.s04",
+     "source": "In an instant the black damsel arose from her bed."
+    },
+    {
+     "id": "p061.s05",
+     "source": "But one of the bird’s dazzling feathers fell accidentally to the ground and slipped between the planks, so that nobody noticed it."
     }
    ],
    "id": "p061"
@@ -849,7 +1025,35 @@
    "segments": [
     {
      "id": "p062.s01",
-     "source": "After he had gone, the lady took up the key, unlocked the door, and let out the trembling Hodja."
+     "source": "Time went on, and the King’s son was still waiting and waiting for his consort to turn white."
+    },
+    {
+     "id": "p062.s02",
+     "source": "Now there was an old woman in the palace who used to teach the dwellers in the harem to read and write."
+    },
+    {
+     "id": "p062.s03",
+     "source": "One day as she was going down-stairs she saw something gleaming between the planks of the floor, and going towards it, perceived that it was a bird’s feather that sparkled like a diamond."
+    },
+    {
+     "id": "p062.s04",
+     "source": "She took it home and thrust it behind a rafter."
+    },
+    {
+     "id": "p062.s05",
+     "source": "The next day she went to the palace, and while she was away the bird’s feather leaped down from the rafter, shivered a little, and the next moment turned into a most lovely damsel."
+    },
+    {
+     "id": "p062.s06",
+     "source": "She put the room tidy, cooked the meal, set everything in order, and then leaped back upon the rafter and became a feather again."
+    },
+    {
+     "id": "p062.s07",
+     "source": "When the old woman came home she was amazed at what she saw."
+    },
+    {
+     "id": "p062.s08",
+     "source": "She thought: “Somebody must have done all this,” so she went up and down, backwards and forwards through the house, but nobody could she see."
     }
    ],
    "id": "p062"
@@ -859,19 +1063,108 @@
    "segments": [
     {
      "id": "p063.s01",
-     "source": "\"Go now, Hodja, to your box,\" she said."
+     "source": "Early next morning she again went to the palace, and the feather leaped down again in like manner, and did all the household work."
     },
     {
      "id": "p063.s02",
-     "source": "\"Take down your sign and write instead: 'The wit of woman is twofold the wit of man,' for I am a woman, and in one day I have fooled two men.\""
+     "source": "When the old woman came home, she perceived the house all nice and clean, and everything in order."
+    },
+    {
+     "id": "p063.s03",
+     "source": "“I really must find out the secret of this,” thought she, so next morning she made as if she were going away as usual, and left the door ajar, but went and hid herself in a corner."
+    },
+    {
+     "id": "p063.s04",
+     "source": "All at once she perceived that there was a damsel in the room, who tidied the room and cooked the meal, whereupon the old woman dashed out, seized hold of her, and asked her who she was and whence she came."
+    },
+    {
+     "id": "p063.s05",
+     "source": "Then the damsel told her her sad fate, and how she had been twice killed by the black woman, and had come thither in the shape of a feather."
     }
    ],
    "id": "p063"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p064.s01",
+     "source": "“Distress thyself no more, my lass,” said the old woman."
+    },
+    {
+     "id": "p064.s02",
+     "source": "“I’ll put thy business to rights, and this very day, too.”"
+    },
+    {
+     "id": "p064.s03",
+     "source": "And with that she went straight to the King’s son and invited him to come and see her that evening."
+    },
+    {
+     "id": "p064.s04",
+     "source": "The King’s son was now so sick unto death of his black bride that he was glad of any excuse to escape from his own house, so the evening found him punctually at the old woman’s. They sat down to supper, and when the coffee followed the meats, the damsel entered with the cups, and when the King’s son saw her he was like to have fainted."
+    },
+    {
+     "id": "p064.s05",
+     "source": "“Nay, but, mother,” said the King’s son, when he had come to himself a little, “who is that damsel?”"
+    }
+   ],
    "id": "p064"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p065.s01",
+     "source": "“Thy wife,” replied the old woman."
+    }
+   ],
+   "id": "p065"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p066.s01",
+     "source": "“How didst thou get that fair creature?” inquired the King’s son."
+    },
+    {
+     "id": "p066.s02",
+     "source": "“Wilt thou not give her to me?”"
+    }
+   ],
+   "id": "p066"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p067.s01",
+     "source": "“How can I give her to thee, seeing that she was thine own once upon a time,” said the old woman; and with that the old woman took the damsel by the hand, led her to the King’s son, and laid her on his breast."
+    },
+    {
+     "id": "p067.s02",
+     "source": "“Take better care of the Orange-Peri another time,” said she."
+    }
+   ],
+   "id": "p067"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p068.s01",
+     "source": "The King’s son now nearly fainted in real earnest, but it was from sheer joy."
+    },
+    {
+     "id": "p068.s02",
+     "source": "He took the damsel to his palace, put to death the black slave-girl, but held high festival with the Peri for forty days and forty nights."
+    },
+    {
+     "id": "p068.s03",
+     "source": "So they had the desire of their hearts, and may Allah satisfy your desires likewise."
+    }
+   ],
+   "id": "p068"
   }
  ]
 }

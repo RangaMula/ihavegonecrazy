@@ -2,20 +2,20 @@
  "id": "as-turkey-013",
  "title": {
   "id": "title",
-  "source": "The Forty Wise Men"
+  "source": "The World’S Most Beauteous Damsel"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/013 - The Forty Wise Men.md",
+ "markdown_file": "Asia/Turkey/013 - The World’S Most Beauteous Damsel.md",
  "stats": {
-  "paragraphs": 33,
-  "segments": 109,
-  "words": 2204
+  "paragraphs": 27,
+  "segments": 113,
+  "words": 2760
  },
  "paragraphs": [
   {
@@ -23,35 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "n a day amongst the many days, when the Turk was more earnest than now, before the Europeans came and gave new ideas to our children, there lived and labored for the welfare of our people an organized body of men."
+     "source": "There was once upon a time a Padishah who had an only son."
     },
     {
      "id": "p001.s02",
-     "source": "At whose suggestion this society was formed I know not."
-    },
-    {
-     "id": "p001.s03",
-     "source": "All that we know of them to-day, through our fathers, is that their forefathers chose from among them the most wise, sincere, and experienced forty brethren."
-    },
-    {
-     "id": "p001.s04",
-     "source": "These forty were named the Forty Wise Men."
-    },
-    {
-     "id": "p001.s05",
-     "source": "When one of the forty was called away from his labors here, perhaps to continue them in higher spheres, or to receive his reward, who knows? the remaining thirty-nine consulted and chose from the community him whom they thought capable, and worthy of guiding and of being guided, to add to their number."
-    },
-    {
-     "id": "p001.s06",
-     "source": "They lived and held their meetings in a mosque of which little remains now, the destructive hand of time having left it but a battered dome, with cheerless walls and great square holes, where once were iron bars and stained glass."
-    },
-    {
-     "id": "p001.s07",
-     "source": "It has gone—so have the wise men."
-    },
-    {
-     "id": "p001.s08",
-     "source": "But its foundations are solid, and they may in time come to support an edifice dedicated to noble work, and, Inshallah, the seed of the Forty Wise Men will also bear fruit in the days that are not yet."
+     "source": "His father guarded him as the apple of his eye, and there was not a desire of his heart that was not instantly gratified."
     }
    ],
    "id": "p001"
@@ -61,11 +37,23 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "You will say, what good did this body of men do?"
+     "source": "One night a dervish appeared to the King’s son in a dream, and showed him the World’s most beauteous Damsel, and there he drained with her the cup of love."
     },
     {
      "id": "p002.s02",
-     "source": "These men who always numbered forty were, as I have told you, originally chosen by the people, and when one of the forty departed from his labors here, the remaining thirty-nine consulted together and from the most worthy of the community they chose another member."
+     "source": "After that the prince became another man."
+    },
+    {
+     "id": "p002.s03",
+     "source": "He could neither eat nor drink."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Sleep brought him neither pleasure nor refreshment, and he all at once grew sallow and withered."
+    },
+    {
+     "id": "p002.s05",
+     "source": "They sent for doctor after doctor, they sent for wizard after wizard, but they could not tell the nature of the malady or find a cure for it."
     }
    ],
    "id": "p002"
@@ -75,46 +63,39 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "What was the good of this body of men?"
+     "source": "Then the sick prince said to his father: “My lord Padishah and father, no leech, no wise man can help me, wherefore weary them in vain?"
     },
     {
      "id": "p003.s02",
-     "source": "Great, great, my friends."
-    },
-    {
-     "id": "p003.s03",
-     "source": "Not only did they administer justice to the oppressed, and give to the needy substantial aid; but their very existence had the most beneficial effect on the community."
-    },
-    {
-     "id": "p003.s04",
-     "source": "Why? you ask."
-    },
-    {
-     "id": "p003.s05",
-     "source": "Because each vied with the other to be worthy of being nominated for the vacancy when it occurred."
-    },
-    {
-     "id": "p003.s06",
-     "source": "No station in life was too low to be admitted, no station was too high for one of the faithful to become one of the 'Forty.'"
-    },
-    {
-     "id": "p003.s07",
-     "source": "Here all were equal."
-    },
-    {
-     "id": "p003.s08",
-     "source": "As Allah himself doth consider mankind by deeds, so also mankind was considered by the Forty Wise Men, who presided over the welfare and smoothed the destiny of the children of Allah."
-    },
-    {
-     "id": "p003.s09",
-     "source": "With their years, their wisdom grew, and they were blessed by Allah."
+     "source": "The World’s most beauteous Damsel is the cause of my complaint, and she will be either the life or the death of me. ”"
     }
    ],
    "id": "p003"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "The Padishah was frightened at the words of his son, and his chief care was to drive the damsel out of the lad’s head. “ ’ Tis dangerous to even think of such a thing,” said he, “for her love will be thy death.”"
+    },
+    {
+     "id": "p004.s02",
+     "source": "But his son continued to pine away daily, and life had no joy for him."
+    },
+    {
+     "id": "p004.s03",
+     "source": "Again and again the father begged his son to tell him his heart’s desire and it should be instantly fulfilled, and the eternal reply of the son was: “Let me seek the World’s most beauteous Damsel.”"
+    },
+    {
+     "id": "p004.s04",
+     "source": "Then the Padishah thought to himself: “If I do not let him go he will only perish, and he cannot therefore be worse off if he goes.”"
+    },
+    {
+     "id": "p004.s05",
+     "source": "Then said he: “Go, my son, after thy love, and may the righteous Allah be merciful to thee.”"
+    }
+   ],
    "id": "p004"
   },
   {
@@ -122,11 +103,23 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "In the town of Scutari, over the way, there lived and labored a Dervish."
+     "source": "So the next day the prince set out on his journey."
     },
     {
      "id": "p005.s02",
-     "source": "His counsel to the rash was ever ready, his sole object, apparently, in life was to become one of the Forty Wise Men, who presided over the people and protected them from all ills."
+     "source": "He went up hill and down dale, he crossed vast deserts, he traversed rugged wildernesses in search of his beloved, the World’s most beauteous Damsel."
+    },
+    {
+     "id": "p005.s03",
+     "source": "On and on he went, till he came at last to the sea-shore, and there he saw a poor little fish writhing in the sand, and the fish besought him to throw it back into the sea again."
+    },
+    {
+     "id": "p005.s04",
+     "source": "The youth had compassion upon the fish, and threw it back into the sea again."
+    },
+    {
+     "id": "p005.s05",
+     "source": "Then the little fish gave him three scales, and said to him: “If ever thou dost get into any trouble, burn these scales.”"
     }
    ],
    "id": "p005"
@@ -136,43 +129,19 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "The years went on, and still without a reward he patiently labored, no doubt contenting himself with the idea that the day would come when the merit of his actions would be recognized by Allah."
+     "source": "Again the youth went on his way till he came to a vast desert, and there on the ground in front of him he saw a lame ant."
     },
     {
      "id": "p006.s02",
-     "source": "That was a mistake, my friends; true faith expecteth nothing."
+     "source": "The little creature told him that he was going to a wedding, but could not overtake his comrades because they hastened so quickly."
     },
     {
      "id": "p006.s03",
-     "source": "However, the day did come, and the Dervish's great desire had every appearance of being realized."
+     "source": "Then the youth took up the ant and carried him to his comrades."
     },
     {
      "id": "p006.s04",
-     "source": "One of the Forty Wise Men having accomplished his mission on earth, departed this life."
-    },
-    {
-     "id": "p006.s05",
-     "source": "The remaining thirty-nine, who still had duties to fulfil, consulted as to whom they should call to aid them in their work."
-    },
-    {
-     "id": "p006.s06",
-     "source": "A eulogy was pronounced in favor of the Dervish."
-    },
-    {
-     "id": "p006.s07",
-     "source": "They not unjustly considered how he had labored among the poor in Scutari; ever ready to help the needy, ever ready to counsel the rash, ever ready to comfort and encourage the despairing."
-    },
-    {
-     "id": "p006.s08",
-     "source": "It was decided that he should be nominated."
-    },
-    {
-     "id": "p006.s09",
-     "source": "A deputation consisting of three, two to listen, one to speak, was named, and with the blessing of their brethren, for success, they entered a caique and were rowed to Scutari."
-    },
-    {
-     "id": "p006.s10",
-     "source": "Arriving at the Dervish's gate, the spokesman thus addressed the would-be member of the Forty Wise Men:"
+     "source": "As they parted the ant gave him a little piece of its wing and said: “If ever thou shouldst get into any trouble, burn this bit of wing.”"
     }
    ],
    "id": "p006"
@@ -182,31 +151,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"Brother in the flesh, thy actions have been noted, and we come to put a proposition to thee, which, after consideration, thou wilt either accept or reject as thou thinkest best for all interested therein."
+     "source": "Again the youth followed his road, full of weary woefulness, and reaching the borders of a large forest he there saw a little bird struggling with a large serpent."
     },
     {
      "id": "p007.s02",
-     "source": "We would ask thee to become one of us."
+     "source": "The little bird asked help of the youth, and with one blow he cut the serpent in two."
     },
     {
      "id": "p007.s03",
-     "source": "We are sent hither by, and are the representatives of, the sages who preside over the people."
+     "source": "The bird then gave him three feathers."
     },
     {
      "id": "p007.s04",
-     "source": "Brother, we number in all one hundred and thirty-eight in spirit;—ninety-nine, having accomplished their task in the flesh, have departed; thirty-nine, still in the flesh, endeavor their duty to fulfil."
-    },
-    {
-     "id": "p007.s05",
-     "source": "And it is the desire of the one hundred and thirty-eight souls to add to us thyself, in order to complete our number of laborers in the flesh."
-    },
-    {
-     "id": "p007.s06",
-     "source": "Brother, thy duties, which will be everlasting, thou wilt learn when with us."
-    },
-    {
-     "id": "p007.s07",
-     "source": "Do thou consider, and we will return at the setting of the sun of the third day, to receive thy answer.\""
+     "source": "“If ever thou shouldst get into trouble,” it said, “burn these little feathers.”"
     }
    ],
    "id": "p007"
@@ -216,15 +173,23 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "And they turned to depart."
+     "source": "Again he took up his pilgrim’s staff and went beyond the mountains, beyond the sea, till he came to a large city."
     },
     {
      "id": "p008.s02",
-     "source": "But the Dervish stopped them, saying: \"Brothers, I have no need to consider the subject for three days, seeing that my inmost desire for thirty years, and my sole object in life has been to become worthy of being one of you."
+     "source": "It was the realm of the father of the World’s most beauteous Damsel."
     },
     {
      "id": "p008.s03",
-     "source": "In spirit I have long been your brother, in the flesh it is easy to comply, seeing that it has been the spirit's desire.\""
+     "source": "He went straight into the palace to the Padishah, and begged the hand of his daughter in the name of Allah."
+    },
+    {
+     "id": "p008.s04",
+     "source": "“Nay,” said the Padishah, “thou must first of all accomplish three tasks for me."
+    },
+    {
+     "id": "p008.s05",
+     "source": "Only after that canst thou make known thy wishes to my daughter.”"
     }
    ],
    "id": "p008"
@@ -234,19 +199,19 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Then answered the spokesman: \"Brother, thou hast spoken well."
+     "source": "With that he took a ring, cast it into the sea, and said to the King’s son: “If thou canst not find it for me in three days, thou art a dead man.”"
     },
     {
      "id": "p009.s02",
-     "source": "Allah, thou art with us in our choice; we praise Thee."
+     "source": "Then the King’s son fell a-thinking till he bethought him of the three scales, and he had no sooner burnt them than the little fish stood before him and said: “What dost thou command, O my Sultan?”—“The ring of the World’s most beauteous Damsel hath been cast into the sea, and I want it back again,” said the prince."
     },
     {
      "id": "p009.s03",
-     "source": "Brother, one word!"
+     "source": "Then the fish sought for the ring but couldn’t find it; it dived down a second time and still it couldn’t find it; a third time it descended right down into the seventh ocean, drew up a fish, cut it open, and there was the ring."
     },
     {
      "id": "p009.s04",
-     "source": "Our ways are different to all men's ways; thou hast but to have faith, and all is well.\""
+     "source": "So the youth gave the ring to the Padishah, and the Padishah gave it to his daughter."
     }
    ],
    "id": "p009"
@@ -256,15 +221,19 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"Brethren, faith!"
+     "source": "Now there was a cave near the palace full of gravel and grain."
     },
     {
      "id": "p010.s02",
-     "source": "I have had faith; my faith is now even strengthened."
+     "source": "“My second task,” said the Padishah, “is that thou dost separate the grain from the gravel.”"
     },
     {
      "id": "p010.s03",
-     "source": "I do your bidding.\""
+     "source": "Then the youth entered the cave, took out the ant’s wing and burned it, whereupon the whole cave was swarming with ants, and they set to work upon the grain in hot haste."
+    },
+    {
+     "id": "p010.s04",
+     "source": "The day was now nearly over, and the same evening the youth sent word to the Padishah that the second task also was accomplished."
     }
    ],
    "id": "p010"
@@ -274,15 +243,23 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "\"Brother, first of all thy worldly goods must be disposed of and rendered into gold."
+     "source": "“The third task still remains,” said the Padishah, “and then thou mayest have my daughter.”"
     },
     {
      "id": "p011.s02",
-     "source": "Every earthly possession thou hast must be represented by a piece of gold."
+     "source": "With that he sent for a maid-servant, had her head cut off straightway, and then said to the youth: “Thus shall be done to thy head also if thou restore not this damsel to life again.”"
     },
     {
      "id": "p011.s03",
-     "source": "Therefore see to that; we have other duties to fulfil, but will return ere the sun sets in the west.\""
+     "source": "The youth quitted the palace in deep thought, and at last he bethought him that the bird’s feathers might help him."
+    },
+    {
+     "id": "p011.s04",
+     "source": "So he took them out and burned them, and lo! the bird stood before him ere yet his lips had commanded it to appear."
+    },
+    {
+     "id": "p011.s05",
+     "source": "And the youth complained bitterly to the bird of the task that was set him."
     }
    ],
    "id": "p011"
@@ -292,7 +269,15 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "The Dervish set about selling all his goods; and when the coloring of the sky in the west harbingered the closing of the day, he had disposed of everything and stood waiting with naught but a sack of gold."
+     "source": "Now the bird had friends among the Peris, and, flying up into the air, in no very long time was back again with a cruse of water in its beak."
+    },
+    {
+     "id": "p012.s02",
+     "source": "“I have brought thee heavenly water which can give life even to the dead,” said the bird."
+    },
+    {
+     "id": "p012.s03",
+     "source": "So the prince entered the palace, and no sooner had he sprinkled the damsel with the water than she sprang up as if she had never been dead at all."
     }
    ],
    "id": "p012"
@@ -302,7 +287,15 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "The three wise men returned, and, on seeing the Dervish, said: \"Brother, thou hast done well; we will hence.\""
+     "source": "Now the rumour of all these things reached the ears of the World’s most beauteous Damsel, and she ordered the prince to be brought before her."
+    },
+    {
+     "id": "p013.s02",
+     "source": "The damsel dwelt in a little marble palace, and before the palace was a golden basin which was fed by the water of four streams."
+    },
+    {
+     "id": "p013.s03",
+     "source": "The courtyard of this palace also was a vast garden wherein were many great trees and fragrant flowers and singing-birds, and to the youth it seemed like the gate of Paradise."
     }
    ],
    "id": "p013"
@@ -312,15 +305,7 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "A caique was in waiting, and the four entered."
-    },
-    {
-     "id": "p014.s02",
-     "source": "Silently the caique glided over the smooth surface of the Bosphorus; and silently the occupants sat."
-    },
-    {
-     "id": "p014.s03",
-     "source": "When beyond Maidens' Tower, the spokesman, turning to the Dervish, said: \"Brother, with thy inmost blessing give me that sack, representing everything thou dost possess in this world.\""
+     "source": "Suddenly the door of the palace was opened, and the garden was so flooded with light that the eyes of"
     }
    ],
    "id": "p014"
@@ -330,19 +315,7 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "The Dervish handed the sack as he was bidden, and the wise man solemnly rose, and holding it on high, said: \"With the blessing of our brother Mustapha,\" and dropped it where the current is strongest."
-    },
-    {
-     "id": "p015.s02",
-     "source": "Then, sitting down, resumed his silence."
-    },
-    {
-     "id": "p015.s03",
-     "source": "The deed was done, and nothing outward told the story; the Caiquedji dipped his oars, and the waves rippled as soft as before."
-    },
-    {
-     "id": "p015.s04",
-     "source": "Nothing but the distant, soothing cry of the Muezzin, calling the faithful to prayer, now waxing, now waning, now completely dying away as they moved around the minarets, broke the stillness."
+     "source": "The World’s most Beauteous Damsel.—p. 159."
     }
    ],
    "id": "p015"
@@ -352,31 +325,19 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Ere long the boat was brought to the shore, the four men wended their way up the steep hill, and the horizon, wrapped in the mantle of night, hid them from the boatman's sight."
+     "source": "the youth were dazzled even to blindness."
     },
     {
      "id": "p016.s02",
-     "source": "A few minutes' walk brought them to the mosque of the Forty Wise Men; the spokesman turned to the Dervish, and said: \"Brother, faithfully follow,\" and then passed through the doorway."
+     "source": "It was the World’s most beauteous Damsel who had appeared in the door of the palace, and the great light was the rosiness of her two radiant cheeks."
     },
     {
      "id": "p016.s03",
-     "source": "They entered a large, vaulted chamber, the ceiling of which was artistically inlaid with mosaïques, and the floor covered with tiles of the ceramic art of bygone ages."
+     "source": "She approached the prince and spoke to him, but scarcely did the youth perceive her than he fainted away before her eyes."
     },
     {
      "id": "p016.s04",
-     "source": "From the centre hung a large chandelier holding a number of little oil cups, each shedding its tiny light, as if to show that union was strength."
-    },
-    {
-     "id": "p016.s05",
-     "source": "Round this chandelier were seven brass filagreed, hemispherical- shaped lanterns, holding several oil burners."
-    },
-    {
-     "id": "p016.s06",
-     "source": "These many tiny burners gave a soothing, contented, though undefined light, which, together with the silence, added to the impressiveness of the place."
-    },
-    {
-     "id": "p016.s07",
-     "source": "Round this hall were forty boxes of the same shape and size."
+     "source": "When he came to himself again they brought him into the damsel’s palace, and there he rejoiced exceedingly in the World’s most beauteous Damsel, for her face was as the face of a Houri, and her presence was as a vision of Peris."
     }
    ],
    "id": "p016"
@@ -386,7 +347,11 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Our friend stood in the centre of the hall and under the influence of the scene, he was afraid to breathe; he did not know whether to be happy or sad, for having come so far."
+     "source": "“Oh, prince!” began the damsel, “thou that art the son of Shah Suleiman, canst aid me in my deep distress."
+    },
+    {
+     "id": "p017.s02",
+     "source": "In the vast garden of the Demon of Autumn there is a bunch of singing-pomegranates: if thou canst get them for me I will be thine for ever and ever.”"
     }
    ],
    "id": "p017"
@@ -396,7 +361,31 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "As he stood thus thinking, dreaming, one of the curtains was raised, and there came forth a very old man, his venerable white beard all but touching his girdle."
+     "source": "Then the youth gave her his hand upon it, the hand of loyal friendship, and departed far far away."
+    },
+    {
+     "id": "p018.s02",
+     "source": "He went on and on without stopping, he went on, and for months and months he crossed deserts where man had never trod, and mountains over which there was no path."
+    },
+    {
+     "id": "p018.s03",
+     "source": "“Oh, my Creator,” he sighed, “wilt thou not show me the right way?” and he rose up again each morning from the place where he had sunk down exhausted the night before, and so he went on and on from day to day till the path led him right down to the roots of the mountains."
+    },
+    {
+     "id": "p018.s04",
+     "source": "There it seemed to him as if it were the Day of Judgment."
+    },
+    {
+     "id": "p018.s05",
+     "source": "Such a noise, such a hubbub, such a hurly-burly of sounds arose that all the hills and rocks around him trembled."
+    },
+    {
+     "id": "p018.s06",
+     "source": "The youth knew not whether it was friend or foe, man or spirit, and as he went on further, trembling with fear, the noise grew louder and the dust rose up round about him like smoke."
+    },
+    {
+     "id": "p018.s07",
+     "source": "He knew not where he was going, but he might have known from what he heard that the smaller garden of the Demon of Autumn was now but a six-months’ journey off, and all this great hubbub and clamour was the talisman of the gate of the garden."
     }
    ],
    "id": "p018"
@@ -406,7 +395,19 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Solemnly and slowly he walked over to the opposite side, and following in his train came thirty-eight more, the last apparently being the youngest."
+     "source": "And now he drew still nearer and could see the gate of the smaller garden, and could hear the roaring of the talismans in the gate, and could perceive the guardian of the gate also."
+    },
+    {
+     "id": "p019.s02",
+     "source": "Then he went up to him and told him of his trouble."
+    },
+    {
+     "id": "p019.s03",
+     "source": "“But art thou not afraid of this great commotion?” asked the guardian of the gate."
+    },
+    {
+     "id": "p019.s04",
+     "source": "“Is it not because of thee that all the talismans are so impatient? even I am afraid thereat!”"
     }
    ],
    "id": "p019"
@@ -416,7 +417,7 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "Chill after chill went coursing down the spinal cord of the astonished would-be brother, whilst these men moved about in the unbroken silence, as if talking to invisible beings; now embracing, now clasping hands, now bidding farewell."
+     "source": "But the youth did nothing but inquire continually about the cluster of singing-pomegranates."
     }
    ],
    "id": "p020"
@@ -426,15 +427,19 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "The Dervish closed his eyes, opened them, Were these things so?"
+     "source": "“ ’ Tis a hard task to reach that,” said the guardian, “yet if thou art not afraid, perhaps thou mayest get it after all."
     },
     {
      "id": "p021.s02",
-     "source": "Yes, it was no dream, no hallucination."
+     "source": "Three-months’ journey from hence thou wilt come to such another place of talismans, there also there is a garden, and the guardian of that garden is my own mother."
     },
     {
      "id": "p021.s03",
-     "source": "Yet why heard he no sound?"
+     "source": "But whatever thou dost, take care not to draw nigh to her, nor let her draw nigh to thee."
+    },
+    {
+     "id": "p021.s04",
+     "source": "Give her my salaams, but tell her nothing of thy trouble unless she ask thee.”"
     }
    ],
    "id": "p021"
@@ -444,19 +449,27 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "Each of the brethren now took his place beside a box, but there was one vacancy; no one stood at the side of the box to the left of the youngest brother."
+     "source": "So the youth went on towards the second garden, and after a three-months’ journey such a monstrous din and racket arose around him as to make the former noise seem nothing."
     },
     {
      "id": "p022.s02",
-     "source": "Making a profound salaam, which all answered, the old man silently turned, raised the curtain, and passed into the darkness, each in his order following."
+     "source": "This was the greater garden of the Demon of Autumn, and the great din proceeded from the talismans of the garden."
     },
     {
      "id": "p022.s03",
-     "source": "As one in a trance, the Dervish watched one after another disappear."
+     "source": "The youth lay down beside a rock, and when he had waited a little he saw something like a man approaching him, but as it came nearer he perceived that it was an old woman, a little beldame of thrice thirty winters."
     },
     {
      "id": "p022.s04",
-     "source": "The last now raised the curtain, but before vanishing, turned (it was the spokesman), and whispered: \"Brother, faith, follow!\" and stepped into the darkness."
+     "source": "The hairs of her head were as white as snow, red circles were round her eyes, her eyebrows were like pointed darts, the fire of hell was in her eyes, her nails were two ells long, her teeth were like faggots, her two lips had only one jaw, she shuffled along leaning on a stick, drew in her breath through her nose, and coughed and sneezed at every step she took."
+    },
+    {
+     "id": "p022.s05",
+     "source": "“Oh-oh! oh-oh!” she groaned, shuffling painfully along in her large slippers, till it seemed as if she would never be able to reach the new-comer."
+    },
+    {
+     "id": "p022.s06",
+     "source": "This was the mother of the guardian of the lesser garden, and she herself was the guardian of the larger one."
     }
    ],
    "id": "p022"
@@ -466,7 +479,43 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "These words acted upon the Dervish like a spell; he followed."
+     "source": "At last she got up to the youth, and asked him what he was doing in those parts?"
+    },
+    {
+     "id": "p023.s02",
+     "source": "The prince gave her the compliments of her son."
+    },
+    {
+     "id": "p023.s03",
+     "source": "“Ah, the vagabond!” said the old woman, “where didst thou meet with him?"
+    },
+    {
+     "id": "p023.s04",
+     "source": "That wicked lad of mine knew that I would have compassion on thee, so he sent thee hither."
+    },
+    {
+     "id": "p023.s05",
+     "source": "Very well, let us make an end of thee.”"
+    },
+    {
+     "id": "p023.s06",
+     "source": "And with that she seized hold of him, and cried: “Hi, Earless!” and something came running up to him, and before he knew where he was, the youth found himself seated on its back."
+    },
+    {
+     "id": "p023.s07",
+     "source": "He looked down upon it and saw beneath him a creature like a shrunken huddled toad, that had neither eyes nor ears."
+    },
+    {
+     "id": "p023.s08",
+     "source": "This was Earless, and away it went with him."
+    },
+    {
+     "id": "p023.s09",
+     "source": "When he first saw it, it was as small as a worm, but the moment he was on its back it took such leaps that every three of them covered as much space as a vast ocean."
+    },
+    {
+     "id": "p023.s10",
+     "source": "Suddenly Earless stopped short and said to him: “Whatever thou mayest see, whatever thou mayest hear, take care not to speak, or it will be all up with thee,” and with that it vanished."
     }
    ],
    "id": "p023"
@@ -476,15 +525,31 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "Up, up, the winding stairway of a minaret they go."
+     "source": "There in the rippling water in front of the prince, like a dream-shape, lay a large garden."
     },
     {
      "id": "p024.s02",
-     "source": "At last they arrive, and to the horror of the Dervish, what does he see?"
+     "source": "This garden had neither beginning nor end, and within it were such trees and flowers and sweet fruit as the eye of man hath never seen."
     },
     {
      "id": "p024.s03",
-     "source": "One, two, three, disappear over the parapet, and his friend the spokesman, with: \"Brother, faith, follow!\" also vanished into the inky darkness."
+     "source": "Whithersoever one turned nothing was to be heard but the rustling of soft wings and the songs of nightingales, so that the whole atmosphere of that garden seemed to be an eternal song."
+    },
+    {
+     "id": "p024.s04",
+     "source": "The youth looked all about him, his reason died away within him, he entered the garden."
+    },
+    {
+     "id": "p024.s05",
+     "source": "But then he heard quite near to him such a woeful wailing that his heart was like to break, and the thought of the cluster of pomegranates occurred to his mind."
+    },
+    {
+     "id": "p024.s06",
+     "source": "His eyes sought for them in every direction but in vain, till he came to the centre of the garden, where was a fountain and a little palace made of flowers, and the pomegranates hung down from the flowery palace like so many shining lamps."
+    },
+    {
+     "id": "p024.s07",
+     "source": "The youth plucked a branch, but no sooner had he done so than there was a horrible cry, and a warning voice exclaimed—"
     }
    ],
    "id": "p024"
@@ -494,31 +559,27 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "Again at the eleventh hour did the cheering words of the brother spokesman act upon the Dervish like magic, he raised his foot to the parapet, and, in faltering decision, jumped up two or three times."
+     "source": "The youth scarce had time to escape from the garden."
     },
     {
      "id": "p025.s02",
-     "source": "But man's guardian does not lead him over the rugged paths of life; he gives the impulse and you must go."
+     "source": "“Hasten! fly!” cried Earless, who was waiting again at the gate."
     },
     {
      "id": "p025.s03",
-     "source": "So it was with the Dervish."
+     "source": "The youth jumped on its back, and in a couple of leaps they were beyond the ocean."
     },
     {
      "id": "p025.s04",
-     "source": "He jumped once, twice, thrice, but each time fell backward instead of forward."
+     "source": "Then only did the youth think of looking at the cluster of pomegranates."
     },
     {
      "id": "p025.s05",
-     "source": "My friends, he hesitated again; at the eleventh hour he was encouraged, but undecided—he was not equal to the test."
+     "source": "There were fifty pomegranates on it, and each one had a different voice, and each voice had a different song—it was just as if all the music in the wide world was gathered together in one place."
     },
     {
      "id": "p025.s06",
-     "source": "So, with a great weight on his heart, he descended the winding stairs of the minaret."
-    },
-    {
-     "id": "p025.s07",
-     "source": "He had reached his zenith only in desire, and was now on his decline."
+     "source": "By this time they had reached the old grandmother, the old old beldame of thrice thirty winters."
     }
    ],
    "id": "p025"
@@ -528,7 +589,15 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "Lamenting, like a weak mortal that he was, for not having followed, he again entered the hall he had just left, with the intention, no doubt, of departing."
+     "source": "“Guard well thy pomegranate cluster,” said the old woman, “never leave it out of thy sight."
+    },
+    {
+     "id": "p026.s02",
+     "source": "If on the first night of thy wedding thou and thy bride are able to listen to their music all night without going to sleep once, these pomegranates will love thee, and after that thou wilt have nothing more to fear, for they will deliver thee from every ill.”"
+    },
+    {
+     "id": "p026.s03",
+     "source": "Then they went from the old mother to the son; he also bade them take to heart his mother’s words, and then the youth went on his way to his sole-beloved, the World’s most beauteous Damsel."
     }
    ],
    "id": "p026"
@@ -538,117 +607,30 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "But the charm of the place was on him again, and as he stood the curtain moved, and the old man advanced; and as before, the silence was unbroken."
+     "source": "The girl was awaiting him with the greatest impatience, for she also dearly loved the prince, and her days were passed in anxiety lest some mischief should befall the youth."
     },
     {
      "id": "p027.s02",
-     "source": "Again did each take his place beside a box, again did the old man salaam, with the simultaneous response of the others."
+     "source": "All at once she heard the sound of music, the fifty pomegranates were singing fifty different songs with fifty different voices, and she opened her heart to the beautiful music."
     },
     {
      "id": "p027.s03",
-     "source": "Again did they gesture as if talking to invisible beings of some calamity which had befallen them which they all regretted."
+     "source": "The damsel rushed forth to meet the youth, and at their joyous embrace the pomegranates rang out with a melody so sweet that the like of it is not to be found in this world, but only in Allah’s world beyond the grave."
+    },
+    {
+     "id": "p027.s04",
+     "source": "Forty days and forty nights did the wedding-feast last, and on the fortieth day the King’s son went in unto his bride, and they lay down and listened to the pomegranates."
+    },
+    {
+     "id": "p027.s05",
+     "source": "Then when the day was born again they arose, and the pomegranate cluster rejoiced again in their love, and so they went on their way to the prince’s own kingdom."
+    },
+    {
+     "id": "p027.s06",
+     "source": "There all the feasting began again, and in his joy the old Padishah resigned his kingdom to his son, the Padishah of the cluster of Pomegranates."
     }
    ],
    "id": "p027"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p028.s01",
-     "source": "The old man went and opened the box that stood alone."
-    },
-    {
-     "id": "p028.s02",
-     "source": "From this he took, what? the identical bag of gold that had been dropped into the Bosphorus some hours ago."
-    },
-    {
-     "id": "p028.s03",
-     "source": "The spokesman came forward and took it from the hand of the old man."
-    },
-    {
-     "id": "p028.s04",
-     "source": "The Dervish now no longer believed that he was he himself, and that these things were taking place."
-    },
-    {
-     "id": "p028.s05",
-     "source": "He understood not, he knew not."
-    }
-   ],
-   "id": "p028"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p029.s01",
-     "source": "Coming forward, the spokesman thus addressed the spell-bound Dervish, his voice giving a strange echo, as if his words were emphasized by a hundred invisible mouths:"
-    }
-   ],
-   "id": "p029"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p030.s01",
-     "source": "\"Friend and brother in the flesh, but weak of the spirit, thou hast proved thyself unworthy to impart that which thou hast not thyself,—Faith!"
-    },
-    {
-     "id": "p030.s02",
-     "source": "Thine actions hitherto, of seeming conviction, have not been for the eye of the Almighty, the All-seeing, the All-powerful alone, but for the approbation of mankind."
-    },
-    {
-     "id": "p030.s03",
-     "source": "To get this approbation thou hast soared out of thine element; the atmosphere is too rarified, thou canst not live, thou must return!"
-    }
-   ],
-   "id": "p030"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p031.s01",
-     "source": "\"Get thee back into the world, back to thy brothers; thou canst not be one of us."
-    },
-    {
-     "id": "p031.s02",
-     "source": "One hundred and thirty-nine in the spirit have regretfully judged thee as lacking in faith, and not having a sheltered apartment within thyself, thou canst not shelter others."
-    },
-    {
-     "id": "p031.s03",
-     "source": "No man can bequeath that which he hath not."
-    },
-    {
-     "id": "p031.s04",
-     "source": "Go thy way, and in secret build thee a wall, brick by brick, action by action; let none see thy place but the eye that seeth all, lest a side, when all but completed, fall, and thou art again exposed to the four winds."
-    },
-    {
-     "id": "p031.s05",
-     "source": "Take thy money, thine all, and when hesita tion interrupts, offer a prayer in thy heart, and then faithfully follow!"
-    },
-    {
-     "id": "p031.s06",
-     "source": "Farewell!\""
-    }
-   ],
-   "id": "p031"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p032.s01",
-     "source": "And the Dervish was led out into the street, a lone and solitary man; he had his all in his hand—a bag of gold."
-    }
-   ],
-   "id": "p032"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p033"
   }
  ]
 }

@@ -1,0 +1,86 @@
+{
+ "id": "am-chile-048",
+ "title": {
+  "id": "title",
+  "source": "LA RANA CASTIGADA (Me lo refirió el estudiante D. Antonio Morales, de años, en Santiago, en 1909.)"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/048 - LA RANA CASTIGADA (Me lo refirió el estudiante D. Antonio Morales, de años, en Santiago, e.md",
+ "stats": {
+  "paragraphs": 6,
+  "segments": 7,
+  "words": 159
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "En una casa vivían tres hermanas."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "Un día se propusieron visitar a unas amigas, pero una de ellas, pretextando hallarse indispuesta, no acompañó a las otras dos."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "Cuando estaban de visita, vieron entrar a la sala una enorme rana, que a todas causó gran susto."
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "Las hermanas, que maliciaban que la que se había quedado sin acompañarlas era bruja, se imaginaron que podía ser ella, que venía a molestar a sus amigas, a quienes odiaba; y aunque hicieron lo posible por que las dueñas de casa no le causaran daño, fué cruelmente maltratada, dándosele de palos con el mango de un plumero."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "Al llegar las dos niñas a su casa, encontraron a su hermana en cama, cubierta de contusiones y heridas, que ella explicó diciendo que se había resbalado y que la caída se las había producido."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "La explicación no era aceptable, y de ello dedujeron las hermanas que era cierto lo que pensaban."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Y lo era, en efecto."
+    }
+   ],
+   "id": "p006"
+  }
+ ]
+}

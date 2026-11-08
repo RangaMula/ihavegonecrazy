@@ -1,0 +1,74 @@
+{
+ "id": "am-alaska-native-peoples-044",
+ "title": {
+  "id": "title",
+  "source": "Sleep House"
+ },
+ "tradition": "Alaska Native peoples",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths and Legends of Alaska",
+ "credits": "Judson, Katharine Berry (compiler, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #47146 — https://www.gutenberg.org/ebooks/47146",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Alaska Native peoples/044 - Sleep House.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 10,
+  "words": 131
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Tlingit"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "O NCE a Huna man and his wife were paddling along in a canoe, about midnight, in search of seals."
+    },
+    {
+     "id": "p002.s02",
+     "source": "The man kept hearing a noise around his head like that made by a bird."
+    },
+    {
+     "id": "p002.s03",
+     "source": "At last he hit the thing with his hand and knocked it into the canoe."
+    },
+    {
+     "id": "p002.s04",
+     "source": "It was shaped like a bird, only with eyelids hanging far over, and its name was Ta, Sleep."
+    },
+    {
+     "id": "p002.s05",
+     "source": "He gave the bird to his wife, saying, “Here, you can keep this for your own.”"
+    },
+    {
+     "id": "p002.s06",
+     "source": "So she gave it to her relatives who built a house called Sleep House."
+    },
+    {
+     "id": "p002.s07",
+     "source": "All the poles in it were carved to look like this bird."
+    },
+    {
+     "id": "p002.s08",
+     "source": "After that the man got very tired without being able to sleep."
+    },
+    {
+     "id": "p002.s09",
+     "source": "At last he ran away into the forest."
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

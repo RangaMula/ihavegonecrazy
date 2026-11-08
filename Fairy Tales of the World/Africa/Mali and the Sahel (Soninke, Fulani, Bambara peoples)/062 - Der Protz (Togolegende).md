@@ -1,0 +1,39 @@
+# Der Protz (Togolegende)
+
+- **Tradition:** Mali and the Sahel (Soninke, Fulani, Bambara peoples) (Africa)
+- **Source book:** *Atlantis, Bd. VI: Spielmannsgeschichten der Sahel (1921)*
+- **Author / collector / translator:** Frobenius, Leo (author, d. 1938)
+- **Original language of this text:** de
+- **Source:** Internet Archive item `atlantisvolksm06frob` — https://archive.org/details/atlantisvolksm06frob (OCR text, lightly cleaned)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+- **Note:** Digitised by OCR; minor recognition errors may remain.
+
+---
+
+Im Orte Tendella, im Lande Seno, lebte der Kaddo Serre, der vom Stamme (Tiga) der Togo war. Dieser Mann war über alle Maßen reich, viel reicher als irgendein anderer im Lande Seno. Eines Tages rief er alle seine Angehörigen und Stammesgenossen zusammen und sagte zu ihnen: „Ich habe jetzt so ungeheuere Massen von Korn, daß ich nicht weiß, was ich damit machen soll." Einer der Angehörigen sagte: „Nun, so verschenke doch an arme Leute, an solche, die nichts haben." Serre sagte: „Nein, das paßt mir nicht." Ein
+
+anderer sagte: „Nun, so leih doch Saatkorn aus an die, die eine Mißernte hatten und die nun in Sorge sind." Serre sagte: „Nein, das paßt mir nicht." Ein anderer sagte: „Nun, so verkaufe doch dein Korn und schaff dir dafür Vieh an." Serre sagte: „Nein, das paßt mir nicht."
+
+Keiner konnte ihm einen Rat geben. Serre sagte: „Sendet mir für Verarbeitung des Kornes alle jungen Mädchen." Die Leute gingen auseinander und sandten ihre jungen Mädchen. Es kamen hundert junge Mädchen zusammen. Er gab ihnen das Korn. Die Mädchen nahmen die Mahlsteine. Die hundert Mädchen rieben sieben Tage und sieben Nächte lang ununterbrochen Korn. So ward eine ungeheuere Menge Mehl hergestellt. Als alles Korn vermählen war, sagte Serre: „So, nun bringt auch Wasser herbei. Wir wollen das Mehl mit Wasser anreiben und daraus eine kleine Mauer herstellen, die mir als Sitz dienen soll, wenn wir Beratungen pflegen." Als die anderen Habbe seiner Familie das hörten, kamen sie herbei und sagten: „Laß das, Serre! Laß das! Das ist gegen alles Recht." Serre sagte: „Laß mich doch mit meinem Überfluß machen, was ich will. Ich bin reich. Ich kann so etwas tun. Mein Recht ist ein anderes — so reich bin ich!" Die anderen Habbe gingen von dannen. Serre ließ das Mehl mit Wasser anrühren. Er ließ daraus Stücke formen, die wie Luftziegel waren. Er ließ aus den Mehlziegeln die kleine Mauer errichten. Er ließ in die Mauer Kaurimuscheln in Mustern einlegen.
+
+Wenn Beratungen gepflogen wurden, setzte Serre sich auf diese Mauer. Die anderen nahmen neben ihm Platz.
+
+Eines Tages hatte Serre eine Mißernte. Er hatte auf einem seiner Felder nicht einen einzigen Kolben Korn. Er mußte Vieh verkaufen, um Korn für Nahrung und Saat anzuschaffen. Im nächsten Jahre war es wieder so. So ging es Jahr für Jahr. Serre mußte sein Rindvieh, seine Pferde verkaufen. Ein Teil seiner Leute starb vor Hunger. Ein Teil seiner Leute lief von dannen, um nicht dieses Leben mitführen zu müssen. Er hatte zuletzt nur noch einen einzigen Esel und ein einziges Mädchen. Das war alles, was von seinem Reichtum übriggeblieben war. Um nicht Hungers sterben zu müssen, kratzte er täglich etwas von seiner kleinen Mauer ab, bis auch die aufgezehrt war.
+
+Als auch die kleine Mauer verbraucht war, sagte er eines Tages: „Ich will zu dem König der Ganna, zu Alle Sogole, reiten und will ihn um Saatkorn bitten. Der Gannakönig ist reich und freigibig,
+
+und meine Familie will mir nichts mehr geben." Serre setzte sich mit seiner kleinen Tochter auf den Esel und ritt in das Land Ganna.
+
+Der König Alle Sogole hielt gerade Audienz ab. Rund um ihn saßen die vornehmen Mitglieder und Fremden, alle in schönen Gewändern. Da kam Serre auf seinem Esel in seinen schmutzigen alten Kleidern angeritten. Der König Alle Sogole wechselte mit ihm alle Grüße und fragte ihn, woher er komme. Er sagte: „Ich komme aus Tendella." Der König Alle Sogole sagte: „Mann aus Tendella, mach es dir bequem. Du sollst sofort ein Quartier haben." Und er ließ ihn sogleich in ein gutes Haus bringen. Der König Alle Sogole wußte aber nicht, daß der andere der früher so wohlhabende Serre war.
+
+Als der König mit seinen Geschäften fertig war und alle anderen entlassen hatte, sagte er zu seinen Leuten: „Bringt mir in meine Halle eine Schale mit Hirsebier, legt mir zur Seite ein Fell, daß sich der eben angekommene Fremde aus Tendella darauf niederlassen kann, laßt einen Knaben zum Bedienen kommen und ruft mir den Fremden." Die Leute gingen und riefen Serre. Der König sagte: „Nun, fremder Mann, trinke einen langen Zug, denn du hast eine Reise hinter dir und mußt durstig sein." Serre sagte: „Ich kann nur sehr wenig trinken." Der König sagte: „Weshalb das?" Serre sagte: „Ich habe solange gehungert, und es ist mir so schlecht ergangen." Der König sagte: „Wenn es sonst nichts ist, so trinke nur in aller Seelenruhe, denn jetzt bist du bei mir und somit vor Hunger geschützt. Du wirst alles bekommen, was du brauchst. Trinke nur."
+
+Sie tranken zusammen. Nach einiger Zeit fragte der König: „Du kommst aus Tendella. Lebt denn der reiche Serre noch, der sich seinerzeit aus überflüssigem Mehle eine Sitzmauer machen ließ?" Serre sagte: „Ja, er lebt noch." Der König fragte: „Hat er denn noch so viele Kühe und Rinder?" Serre sagte: „Nein, er hat alle seine Herden verkaufen müssen, weil er keine Ernte hatte." Der König fragte: „Hat er denn noch seine vielen Pferde?" Serre sagte: „Nein, er hat alle seine Pferde verkaufen müssen, weil er gar nichts mehr zu essen hatte." Der König fragte: „Hat er denn noch so viele Menschen, Kinder, Haussklaven und Arbeiter?" Serre sagte: „Nein, die hat er nicht mehr. Ein Teil ist vor Hunger gestorben, ein anderer Teil ist davongelaufen, um nicht das gleiche Ende zu nehmen. Er selbst hat sein Mäuerchen aus überschüssigem Mehl aufgegessen und hat nun nichts mehr als seinen Esel und ein kleines
+
+Mädchen." Der König sagte: „Sieh, so geht es den Menschen." Serre sagte: „Ja, so geht es den Menschen. Serre war einst reich und stolz und übermütig, und nun sitzt Serre in schmutzigen, alten Kleiderfetzen vor dir." Der König sagte: „Du bist Serre?" Serre sagte: „Ja, ich bin der gleiche." Der König sagte: „Was willst du ?" Serre sagte: „Ich habe nichts mehr, gib mir etwas Korn zum Säen." Der König sagte: „Nimm du soviel du nötig hast, mit dir."
+
+Der König Alle Sogole gab Serre reichlich Saatkorn. Serre stieg mit seinem kleinen Mädchen und dem Korn auf den Esel und ritt von dannen, nach Hause.
+
+Am anderen Tage hielt der König wieder Audienz ab. Er sagte zu seinen Vornehmen: „Wißt ihr, wer der Mann ist, der in schmutzige Lumpen gehüllt mit dem kleinen Mädchen gestern auf dem Esel hier ankam?" Die Leute sagten: „Nein, wir wissen es nicht." Der König sagte: „Ihr habt doch alle von dem reichen Serre gehört, der so übermütig war, daß er sich ein Mäuerchen aus überflüssigem Mehle bauen ließ?" Die Leute sagten: „Von dem haben alle gehört." Der König sagte: „Nun, der Bettler auf dem Esel, der gestern hier war, um mich um ein wenig Saatkorn zu bitten, das war der gleiche Serre, der seinerzeit nicht auf seine Familie hören und anderen keine Wohltaten erweisen wollte." Einige Leute sagten: „Das ist kaum möglich." Der König sagte: „Wenn ihr den Beweis haben wollt, so laßt aus jedem Haushalte je eine Mulle Korn kommen, tut alles in Lasten und sendet ihm das. Sorgt aber dafür, daß euer Korn nicht mit meinem Saatkorn zusammenkommt." Die Leute taten so. Es kamen 1200 Müllen Korn zusammen.
+
+Ehe aber dieses Korn noch ankam, war Serre gestorben. Nachdem er solange nicht gegessen hatte, hatte er im Heißhunger die Hälfte des vom Könige erhaltenen Saatkornes auf einmal gegessen, und da er an Nahrung nicht mehr gewöhnt war, starb er sogleich. — Bis heute ist die Nachkommenschaft Serres arm geblieben.

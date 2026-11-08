@@ -1,0 +1,39 @@
+# Sira Maga
+
+- **Tradition:** Mali and the Sahel (Soninke, Fulani, Bambara peoples) (Africa)
+- **Source book:** *Atlantis, Bd. VI: Spielmannsgeschichten der Sahel (1921)*
+- **Author / collector / translator:** Frobenius, Leo (author, d. 1938)
+- **Original language of this text:** de
+- **Source:** Internet Archive item `atlantisvolksm06frob` — https://archive.org/details/atlantisvolksm06frob (OCR text, lightly cleaned)
+- **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
+- **Note:** Digitised by OCR; minor recognition errors may remain.
+
+---
+
+Sira Maga war ein Diko. Er war mit allen seinen Leuten heidnisch gesonnen, trank und wollte von den Lehren Mohammeds nichts wissen. Seine Nachkommen sind bis heute Heiden geblieben. Es sind die heidnischen Fulbe in Massina. Sira Maga war König von Massina. Aber die Bammana von Segu waren viel mächtiger und zogen bei ihm alljährlich eine Abgabe ein.
+
+Eines Tages kam auch ein Königssohn von Segu, um die Abgaben einzutreiben. Der sah Sira Maga auf seinem Pferde. Es war ein sehr schönes Pferd. Als der Steuereintreiber das Pferd sah, war er auch vernarrt in das Pferd und wollte nun gar keine Abgabe, nichts, gar nichts als das Pferd. Sira Maga sagte: „Das Pferd gebe ich nicht." Der Prinz von Segu sagte: „Dann wird Segu Massina mit Krieg überziehen." Sira Maga sagte: „Ich bin einverstanden. Mag denn Segu Massina mit Krieg überziehen!"
+
+Der Bote ging. Er erzählte dem Könige Monso (oder Monsong) von Segu von dem schönen Pferde. Der König von Segu sandte einen anderen Boten an Sira Maga. Sira Maga hatte inzwischen viel Honigbier machen lassen, sechzig große Krüge voll und hatte im Lande verkünden lassen: „Wer Honigbier trinken will, der komme und trinke." Von allen Seiten kamen die Leute von Segu und tranken. Als sie im besten Zuge waren, kam der Bote von Segu und sagte: „Der König Monsong von Segu fordert sogleich das Pferd Sira Magas." Sira Maga nahm seine Lanze und warf sie auf den Boten. Er war sogleich tot. Sira Maga sagte vor allen Fulbe: „Von heute ab zahlen wir keine Abgabe mehr an den König von Segu." Er sandte eine Nachricht an den König von Segu und ließ ihm das sagen. Der König sandte als Antwort die Botschaft: „Rüste dich. Wenn die Wasser gefallen sind, dann halte eiserne Schuhe bereit, auf denen du schnell fliehen kannst. Denn dann werden meine Leute kommen und du wirst kaum schnell genug fliehen können." Sira Maga sagte zu seinen Leuten: „Bereitet die Speere."
+
+Als die Wasser gefallen waren, sandte der König von Segu eine Truppenmacht. Es waren tausend Reiter und viertausend Fußsoldaten. Die Truppen marschierten nach Diafarrabe. Dann marschierten die Truppen bis Maitaki. In Massina gab es damals nur hundertzwanzig Pferde und tausend Haushörige. Sira Maga rüstete diese Macht. Er rückte bis nach Pequi. Zwischen beiden Heeren
+
+war der Fluß. Die Heere lagerten so einander gegenüber. In jedem Lager war die Fahne des Volkes und Heerführers aufgezogen.
+
+Sie lagen einige Tage einander gegenüber. Die Leute von Segu überschritten den Fluß nicht um Sira Maga anzugreifen. Sira Maga sagte eines Tages: „Das ist langweilig. Wenn die Leute von Segu den Fluß nicht zu überschreiten wagen, werde ich sie angreifen. Wir wollen hinüberreiten. Sira Maga rüstete sich mit den Seinen. Er ritt das Pferd Sobre Kanje. Er hatte zwei Freunde, der eine war Polori, ein Haushöriger und über alle Maßen starker und tapferer Mann. Polori hatte nie Vater und Mutter gehabt. Der andere war Diambe, das war ein Mann aus zugezogenem Stamme. Sira Maga teilte das Heer. Er selbst führte die Mitte. Den linken Flügel nahm Polori, den rechten Diambe. Das Heer von Massina ging über den Fluß und griff das Heer von Segu an. Sira Maga und die Seinen töteten viele von den Feinden. Sie schlugen die Feinde in die Flucht. Die Leute von Segu flohen über die Segugrenze hinweg bis nach Saro; das liegt auf der Höhe von Konkonkurru. — Als das geschlagene Heer wieder in Segu ankam, ließ König Monso dem Führer, dem er die Kriegsmacht anvertraut hatte, den Kopf abschlagen.
+
+König Monso ließ Sira Maga sagen: „Wenn die Wasser wieder gefallen sind, werde ich ein neues Heer senden." Sira Maga ließ antworten: „Ich bin damit einverstanden." Als die Wasser gefallen waren, kam auch wieder ein Heer aus Segu. Aber es ging ihm nicht besser wie im Jahre vorher. Er ward geschlagen. Als die Truppen fliehend zurückkehrten, ließ König Monso dem Heerführer wieder den Kopf abschlagen. Sieben Jahre lang kamen alljährlich die Heere aus Segu — wurden von Sira Maga und den Seinen geschlagen und büßte der Seguführer seinen Kopf ein.
+
+Als sich das siebenmal ereignet hatte, ließ König Monso einen Dialli kommen und fragte ihn: „Wie kommt es, daß meine Truppen die kleine Macht von Massina nicht besiegen können?" Der Dialli sagte: „Das kommt, weil diese Fulbe nicht Menschen, sondern starke Geister (Djinne) sind." Monso hatte ein starkes Zaubermittel, das hieß: Kongoba. König Monso brachte Kongoba reiche Opfer dar. Dann sandte er an Sira Maga eine Botschaft und ließ ihm sagen: „Bis jetzt kommen nur kleine Truppenteile aus Segu zu dir. Nun aber werde ich mich selbst auf den Weg machen. Ich will dich mit meiner ganzen Macht angreifen — ich will dich fangen und will
+
+dich über Kongoba töten." Sira Maga ließ antworten: „Es ist gut so."
+
+Monso sammelte nun alle Leute seines Reiches. Es waren über hunderttausend Krieger. Er zog gegen Massina. Von Saro aus sandte er die Nachricht: „Rüste dich!" Sira Maga ließ antworten: „Ich bin bereit." Als die Nachricht Sira Maga vorgetragen wurde, war da ein Mabo. Der sagte: „Sira Maga, du bist sehr tapfer. Aber die Kriegsmacht, die nun herankommt, ist zu gewaltig. Du wirst ihr verfallen. Darum rate ich dir: Komm und reite mit zu Hambu- Deju, dem Fulbekönig (vom Sidibestamm) in Konare." Sira Maga sagte: „Ich werde nie fliehen. Soll ich fallen, so werde ich eben sterben. Aber über deinem Kongoba wird mich Monso nicht opfern." Das Heer von Segu kam heran. Sieben Tage lang kämpfte Sira Maga mit den Seinen gegen die Kriegsmacht aus Segu. Sieben Tage lang gewann er tagtäglich das Treffen.
+
+Am siebenten Tage abends kehrte Sira Maga heim. Als er heimritt, sagte er (bei sich)-. „Morgen werden wir wieder kämpfen. Morgen werde ich sterben." Er kam heim und sagte zu Polori: „Polori, ich will dich sogleich fortsenden." Polori sagte: „Du willst mich fortsenden? Es gibt keinen wichtigen Grund dafür. Hier ist Krieg. Hier bin ich nötig. Du denkst Schlimmes. Aber ich muß gehorchen." Polori ging von dannen. An diesem Abend rief der Bammanakönig Monso von Segu seine Dialli und sagte zu ihnen: „Wie kann ich diesen Sira Maga töten?" Die Dialli berieten lange Zeit und sagten dann: „Wenn du ein Diaule (Perlhuhn) opferst, kannst du Sira Maga töten." König Monso opferte ein Perlhuhn.
+
+Am anderen Tage griff Sira Maga abermals das Heer König Monsos an. Er wurde im Kampfe tödlich verwundet. Aber er fiel nicht. Er kehrte noch lebend in sein Lager zurück. Im Lager starb er. Die Fulbe brachten die Leiche heimlich beiseite. Die Truppen König Monsos drangen siegreich vor. Polori kam zurück. Er ging zur Mutter Sira Magas und fragte sie: „Wo ist Sira Maga?" Die Mutter sagte: „Sira Maga schläft." Polori sagte: „Du lügst. Denn wenn Sira Maga lebte und wenn er auch schliefe, könnte das Heer aus Segu nicht vordringen. Das Bammanaheer aber kommt siegreich heran."
+
+Polori schwang sich auf sein Pferd. Er zog gegen das Bammanaheer des Königs Monso aus Segu. Er vernichtete die Hälfte des Bammanaheeres. Dann verschwand Polori. Man weiß nicht, wo er geblieben ist. Sira Maga ist in Sende Koniangu begraben. Wenn
+
+es donnert, glauben die Bammana, Polori komme und die Fulbefrauen sagen auch, wenn es donnert: „Das ist Polori, der zieht gegen die Bammana zu Felde."

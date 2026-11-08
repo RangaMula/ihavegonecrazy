@@ -4,7 +4,7 @@
 - **Source book:** *A Collection of Kachári Folk-Tales and Rhymes*
 - **Author / collector / translator:** Anderson, J. D. (James Drummond) (author, d. 1920)
 - **Original language of this text:** ['brx', 'en']
-- **Source:** Project Gutenberg eBook #53506 — https://www.gutenberg.org/ebooks/53506 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #53506 — https://www.gutenberg.org/ebooks/53506
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

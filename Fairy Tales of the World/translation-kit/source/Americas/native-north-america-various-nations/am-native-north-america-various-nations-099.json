@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-099",
  "title": {
   "id": "title",
-  "source": "Why The Tetons Bury On Scaffolds"
+  "source": "Ikto And The Thunders"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
  "source_book": "Myths and Legends of the Great Plains",
  "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/099 - Why The Tetons Bury On Scaffolds.md",
+ "markdown_file": "Americas/Native North America (various nations)/099 - Ikto And The Thunders.md",
  "stats": {
-  "paragraphs": 13,
-  "segments": 17,
-  "words": 183
+  "paragraphs": 7,
+  "segments": 13,
+  "words": 139
  },
  "paragraphs": [
   {
@@ -33,19 +33,15 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "I n the olden days, the people buried some men on a hill."
+     "source": "I kto once stood on the bank of a stream across which he could not swim."
     },
     {
      "id": "p002.s02",
-     "source": "Then they removed their camp to another place."
+     "source": "He stood on the bank and thought."
     },
     {
      "id": "p002.s03",
-     "source": "Many winters afterwards, a man visited the hill; but there were no graves there."
-    },
-    {
-     "id": "p002.s04",
-     "source": "So he told the people."
+     "source": "Then he sang:"
     }
    ],
    "id": "p002"
@@ -55,11 +51,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Then many men came and dug far down into the hill."
+     "source": "Just then a long Something passed, swimming against the current."
     },
     {
      "id": "p003.s02",
-     "source": "By and by a man said, “There is a road here.”"
+     "source": "When it reached Ikto, it said,"
     }
    ],
    "id": "p003"
@@ -69,15 +65,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "There they found a road, a tunnel, large enough for men to walk, stooping."
+     "source": "“I will take you across, but you must not lift your head above the water."
     },
     {
      "id": "p004.s02",
-     "source": "Other roads there were."
+     "source": "Should you notice even a small cloud, warn me at once, as I must go under the water."
     },
     {
      "id": "p004.s03",
-     "source": "They followed the first road and they came to a place where a strange animal had dragged the bodies of those who were buried in the hill."
+     "source": "If you see a small cloud, you must say, ‘Younger brother, your grandfather is coming.’”"
     }
    ],
    "id": "p004"
@@ -87,79 +83,33 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Therefore the people refused to bury their dead in the ground."
+     "source": "Before the other bank was reached, Ikto looked up."
     },
     {
      "id": "p005.s02",
-     "source": "They bury them on scaffolds where the animals cannot reach them."
+     "source": "He saw a small cloud and said, “Younger brother, your grandfather is coming.”"
     }
    ],
    "id": "p005"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p006.s01",
-     "source": "FOOTNOTE"
+     "source": "There was a sudden commotion."
+    },
+    {
+     "id": "p006.s02",
+     "source": "When Ikto became conscious again, the Thunder Beings were roaring, and the water was dashing high, but the monster had vanished."
     }
    ],
    "id": "p006"
   },
   {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p007.s01",
-     "source": "At the present day, the Teton gives three reasons for not burying in the ground: animals or persons might walk over the graves; the dead might lie in mud and water after rain or snow; wolves might trouble the bodies."
-    }
-   ],
+   "type": "break",
+   "segments": [],
    "id": "p007"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p008"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p009.s01",
-     "source": "(From Schoolcraft)"
-    }
-   ],
-   "id": "p009"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p010.s01",
-     "source": "Courtesy of the Smithsonian Institution"
-    }
-   ],
-   "id": "p010"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p011"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p012.s01",
-     "source": "Courtesy of the Smithsonian Institution"
-    }
-   ],
-   "id": "p012"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p013"
   }
  ]
 }

@@ -2,20 +2,20 @@
  "id": "oc-hawaii-native-hawaiian-people-030",
  "title": {
   "id": "title",
-  "source": "The Gods Who Found Water"
+  "source": "Ancient Hawaiian Government"
  },
  "tradition": "Hawaii (Native Hawaiian people)",
  "continent": "Oceania",
  "source_lang": "en",
- "source_book": "Legends of Old Honolulu (Mythology)",
- "credits": "Westervelt, W. D. (William Drake) (author, d. 1939)",
- "gutenberg": "Project Gutenberg eBook #66547 — https://www.gutenberg.org/ebooks/66547 (copied via the GITenberg mirror)",
+ "source_book": "The Legends and Myths of Hawaii: The fables and folk-lore of a strange people",
+ "credits": "Kalakaua, David, King of Hawaii (author, d. 1891); Daggett, Rollin Mallory (editor, d. 1901)",
+ "gutenberg": "Project Gutenberg eBook #56597 — https://www.gutenberg.org/ebooks/56597",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/030 - The Gods Who Found Water.md",
+ "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/030 - Ancient Hawaiian Government.md",
  "stats": {
-  "paragraphs": 31,
-  "segments": 70,
-  "words": 1290
+  "paragraphs": 21,
+  "segments": 63,
+  "words": 1691
  },
  "paragraphs": [
   {
@@ -23,23 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "F our great gods with a large retinue of lesser gods came from Kahiki to the Hawaiian Islands."
+     "source": "Previous to the eleventh century the several habitable islands of the Hawaiian group were governed by one or more independent chiefs, as already stated."
     },
     {
      "id": "p001.s02",
-     "source": "“Kahiki” meant any land beyond the skies which came down to the seas around the Hawaiian group."
+     "source": "After the migratory influx of that period, however, and the settlement on the islands of a number of warlike southern chiefs and their followers, the independent chiefs began to unite for mutual protection."
     },
     {
      "id": "p001.s03",
-     "source": "These gods settled for a time in Nuuanu Valley, back of the lands now known as Honolulu."
+     "source": "This involved the necessity of a supreme head, which was usually found in the chief conceded to be the most powerful; and thus alii-nuis , mois and kings sprang into existence."
     },
     {
      "id": "p001.s04",
-     "source": "These four great gods were worshipped by the Polynesians scattered all over the Pacific Ocean."
+     "source": "So far as tradition extends, however, certain lines, such as the Maweke, Pili and Paumakua families, were always considered to be of supreme blood."
     },
     {
      "id": "p001.s05",
-     "source": "Their names were Ku, Lono, Ka-ne and Kanaloa."
+     "source": "They came to the islands as chiefs of distinguished lineage, and so remained."
     }
    ],
    "id": "p001"
@@ -49,7 +49,23 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Ka-ne and Kanaloa were the water-finders, opening springs and pools over all the islands, each pool known now as Ka-Wai-a-ke-Akua (The water provided by a god)."
+     "source": "Gradually the powers of the mois and ruling chiefs were enlarged, until at length they claimed almost everything."
+    },
+    {
+     "id": "p002.s02",
+     "source": "Then the chiefs held their possessions in fief to the moi , and forfeited them by rebellion."
+    },
+    {
+     "id": "p002.s03",
+     "source": "In time the king became absolute master of the most of the soil over which he ruled, and assumed tabu rights which rendered his person sacred and his prerogatives more secure."
+    },
+    {
+     "id": "p002.s04",
+     "source": "All he acquired by conquest was his, and by partitioning the lands among his titled friends he secured the support necessary to his maintenance in power."
+    },
+    {
+     "id": "p002.s05",
+     "source": "Certain lands were inalienable both in chiefly families and the priesthood; they were made so by early sovereign decrees, which continued to be respected; but with each succeeding king important land changes usually occurred."
     }
    ],
    "id": "p002"
@@ -59,11 +75,15 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "In one of the very old Hawaiian newspapers the question was asked, “What are the waters of Ka-ne?”"
+     "source": "Although the king maintained fish-ponds and cultivated lands of his own, he was largely supported by his subject chiefs."
     },
     {
      "id": "p003.s02",
-     "source": "The answers came: The heavy showers of life-giving rain, the mountain stream swelling into a torrent lifting and carrying away canoes, the rainbow-colored rain loved by Ka-ne, the continually flowing brooks of the valleys and the fresh waters found anywhere—these were the waters of Ka-ne. [ ]"
+     "source": "They were expected to contribute to him whatever was demanded either of food, raiment, houses, canoes, weapons or labor, and in turn they took such portions of the products of their tenants as their necessities required."
+    },
+    {
+     "id": "p003.s03",
+     "source": "The ili was the smallest political division; next above it was the ahapuaa , which paid a nominal or special tax of one hog monthly to the king; next the okana , embracing several ahapuaas ; and finally the moku , or district, or island."
     }
    ],
    "id": "p003"
@@ -73,19 +93,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "It may reasonably be surmised that from the realization of the blessing of fresh waters the ancient Polynesians as well as the Hawaiians looked up to some waters to be found somewhere in the lands of the gods, which were called “the waters of life of Ka-ne.”"
+     "source": "The laboring classes possessed no realty of their own, nor could they anywhere escape the claim or jurisdiction of a chief or landlord."
     },
     {
      "id": "p004.s02",
-     "source": "The Hawaiian legends said: “If any one is dead and this water is thrown upon him, he becomes alive again."
+     "source": "They owed military and other personal service to their respective chiefs, and the chiefs owed theirs to the king."
     },
     {
      "id": "p004.s03",
-     "source": "Old people bathing in this water go back to their youth.”"
-    },
-    {
-     "id": "p004.s04",
-     "source": "If the common fresh water of the hills and plains was good, it was easy to look beyond to something better."
+     "source": "If required, all were expected to respond to a call to the field, fully armed and prepared for battle."
     }
    ],
    "id": "p004"
@@ -95,15 +111,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The gods Ka-ne and Kanaloa were very closely allied to the farming interests of the people of the long ago."
+     "source": "Caste rules of dress, ornamentation and social forms were rigidly enforced."
     },
     {
      "id": "p005.s02",
-     "source": "Prayers were offered to them in all the different stages of the process of farming."
-    },
-    {
-     "id": "p005.s03",
-     "source": "When a field was selected some article of food was cooked and offered with the prayer:"
+     "source": "The entire people were divided into four general classes: first, the alii , or chiefly families, of various grades and prerogatives; second, the kahunas , embracing priests, prophets, doctors, diviners and astrologers; third, the kanaka-wale , or free private citizens; and, fourth, the kauwa-maoli , or slaves, either captured in war or born of slave parents."
     }
    ],
    "id": "p005"
@@ -113,7 +125,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "“Here is food,"
+     "source": "The laws were few and simple, and the most of them referred to the rights and prerogatives of the king, priesthood and nobility."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Property disputes of the masses were settled by their chiefs, and other grievances were in most instances left to private redress, which frequently and very naturally resulted in prolonged and fatal family feuds, in the end requiring chiefly and sometimes royal intervention."
     }
    ],
    "id": "p006"
@@ -123,7 +139,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "O Gods, Ka-ne and Kanaloa!"
+     "source": "This, in brief and very general terms, was the prevailing character of the government and land tenure throughout the several islands of the group until after the death of Kamehameha I. in 1819, and the relinquishment by the crown of its ancient and sovereign rights in the soil."
     }
    ],
    "id": "p007"
@@ -133,7 +149,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Here is food for us."
+     "source": "Meeting Place of an Ancient Secret Society."
     }
    ],
    "id": "p008"
@@ -143,7 +159,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Give life to us and our family."
+     "source": "(FROM A PAINTING IN THE ROYAL PALACE.)"
     }
    ],
    "id": "p009"
@@ -153,7 +169,15 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Life for the parents feeble with age."
+     "source": "The leading chiefs and high-priesthood claimed a lineage distinct from that of the masses, and traced their ancestry back to Kumuhonua , the Polynesian Adam."
+    },
+    {
+     "id": "p010.s02",
+     "source": "The iku-pau , a sacred class of the supreme priesthood, assumed to be the direct descendants from the godhead, while the iku-nuu were a collateral branch of the sacred and royal strain, and possessed only temporal powers."
+    },
+    {
+     "id": "p010.s03",
+     "source": "It was thus that one of the families of the Hawaiian priesthood, in charge of the verbal genealogical records, exalted itself in sanctity above the political rulers."
     }
    ],
    "id": "p010"
@@ -163,7 +187,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Life for all in the household."
+     "source": "Proud of their lineage, to guard against imposture and keep their blood uncorrupted, the chiefs allowed their claims to family distinction to be passed upon by a college of heraldry, established by an early moi of Maui."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Reciting their genealogies before the college, composed of aliis of accepted rank, and receiving the recognition of the council, chiefs were then regarded as members of the grade of aha-alii , or chiefs of admitted and irrevocable rank."
     }
    ],
    "id": "p011"
@@ -173,7 +201,11 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "When digging and planting our land"
+     "source": "The chiefs inherited their titles and tabu privileges quite as frequently through the rank of one parent as of the other."
+    },
+    {
+     "id": "p012.s02",
+     "source": "As Hawaiian women of distinction usually had more than one husband, and the chiefs were seldom content with a single wife, the difficulty of determining the rights and ranks of their children was by no means easy; but the averment of the mother was generally accepted as conclusive and sufficient evidence in that regard."
     }
    ],
    "id": "p012"
@@ -183,7 +215,31 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Life for us—"
+     "source": "For political purposes marriage alliances were common between the royal and chiefly families of the several islands, and thus in time the superior nobility of the entire group became connected by ties of blood."
+    },
+    {
+     "id": "p013.s02",
+     "source": "The political or principal wife of a king or distinguished chief was usually of a rank equal to that of her husband, and their marriage was proclaimed by heralds and celebrated with befitting ceremonies."
+    },
+    {
+     "id": "p013.s03",
+     "source": "Other wives were taken by simple agreement, and without ceremony or public announcement."
+    },
+    {
+     "id": "p013.s04",
+     "source": "Very much in the same manner the masses entered into their marriage unions."
+    },
+    {
+     "id": "p013.s05",
+     "source": "With the latter, however, polygamy was not common."
+    },
+    {
+     "id": "p013.s06",
+     "source": "When husband and wife separated, as they frequently did, each was at liberty to select another partner."
+    },
+    {
+     "id": "p013.s07",
+     "source": "The political wife of a chief was called wahine-hoao ; the others, haia-wahine , or concubine."
     }
    ],
    "id": "p013"
@@ -193,11 +249,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "This is our prayer."
+     "source": "In the royal families, to subserve purposes of state, father and daughter, brother and sister, and uncle and niece frequently united as man and wife."
     },
     {
      "id": "p014.s02",
-     "source": "Amama.”"
+     "source": "The children of such unions were esteemed of the highest rank, and, strange to say, no mental or physical deterioration seemed to result from these incestuous relations, for all through the past the mois and nobles of the group were noted for their gigantic proportions."
     }
    ],
    "id": "p014"
@@ -207,7 +263,15 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "A similar prayer was made while cultivating the crops or harvesting the ripened product. [ ]"
+     "source": "There were five or more grades of chiefs connected with the royal lines."
+    },
+    {
+     "id": "p015.s02",
+     "source": "First in order, and the most sacred, was the alii-niaupio (the offspring of a prince with his own sister); next, the alii-pio (the offspring of a prince with his own niece); next, the alii-naha (the offspring of a prince or king with his own daughter); next, the alii-wohi (the offspring of either of the foregoing with another chiefly branch); and next, the lo-alii (chiefs of royal blood)."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Any of these might be either male or female."
     }
    ],
    "id": "p015"
@@ -217,7 +281,19 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "It may be that the close connection of waters with plant growth made these two gods the especial gods of farmers."
+     "source": "To these grades of chiefs distinct personal tabus or prerogatives were attached, such as the tabu-moe , tabu-wela , tabu-hoano and tabu-wohi ."
+    },
+    {
+     "id": "p016.s02",
+     "source": "These tabus could be given or bequeathed to others by their possessors, but could not be multiplied by transmission."
+    },
+    {
+     "id": "p016.s03",
+     "source": "The meles , or ancestral chants of a family, passed in succession to the legal representatives, and became exclusively theirs; but the government, tabus and household gods of the king were subject to his disposal as he willed, either at his death or before it."
+    },
+    {
+     "id": "p016.s04",
+     "source": "The child of a tabu chief, born of a mother of lower rank, could not, according to custom, assume the tabu privileges of his father, although in some instances in the past they were made to inure to such offspring, notably in the case of Umi, King of Hawaii."
     }
    ],
    "id": "p016"
@@ -227,11 +303,23 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "There was a host of other gods whose names were sometimes used in prayers offered while farming."
+     "source": "Before an alii-niaupio , clothed with the supreme function of the tabu-moe , all, with the exception of tabu chiefs, were compelled to prostrate themselves."
     },
     {
      "id": "p017.s02",
-     "source": "Each of these gods bore the name “Ka-ne” (sometimes Ku or Lono would be substituted), followed by an adjective showing some method of work, but all these names of lesser gods were apparently used to explain the particular task desired, as when the name “Ka-ne-apuaa” was mentioned in some prayers, the word “puaa” (pig) carried the idea of digging or uprooting the soil."
+     "source": "When he appeared or was approached his rank was announced by an attendant, and all not exempt from the homage were required to drop with their faces to the earth."
+    },
+    {
+     "id": "p017.s03",
+     "source": "The exemptions were the alii-pio , the alii-naha , the alii-wohi and the lo-alii ."
+    },
+    {
+     "id": "p017.s04",
+     "source": "They, and they alone, were permitted to stand in the presence of a niaupio chief."
+    },
+    {
+     "id": "p017.s05",
+     "source": "An alii-pio was also a sacred chief, so much so that he conversed with others only in the night-time, and on chiefesses of that rank the sun was not allowed to shine."
     }
    ],
    "id": "p017"
@@ -241,15 +329,15 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Ka-ne and Kanaloa were great travellers."
+     "source": "The kings lived in affluence in large mansions of wood or stone, in the midst of walled grounds adorned with fruit and shade trees and other attractive forms of vegetation."
     },
     {
      "id": "p018.s02",
-     "source": "Together they journeyed over Kauai, coming (according to an account written in the Kuokoa about 1868 by the Rev. J. Waiamau) from far-away lands."
+     "source": "The grounds also contained many other smaller buildings for the accommodation of guests, retainers, attendants, servants and guards."
     },
     {
      "id": "p018.s03",
-     "source": "They appeared more like men than gods, and the Kauai people did not worship them, so they opened up only a few springs and crossed over to the island Oahu."
+     "source": "They were attended by their high-priests, civil and military advisers, and a retinue of favorite chiefs, and spent their time, when not employed in war or affairs of state, in indolent and dignified repose."
     }
    ],
    "id": "p018"
@@ -259,15 +347,23 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Throughout all the islands the awa root has been found."
+     "source": "The personal attendants of an ancient Hawaiian king were all of noble blood, and each had his specified duty."
     },
     {
      "id": "p019.s02",
-     "source": "It was bitter and very astringent, but when crushed and mixed with water the juice became a liquor greatly loved by the people."
+     "source": "They were known as kahu-alii , or guardians of the person of the king."
     },
     {
      "id": "p019.s03",
-     "source": "“These two gods drank awa from Kauai to Hawaii,” so the old legends say."
+     "source": "They consisted of the iwikuamoo , or rubber of the person; the ipukuha , or spittoon-bearer; the paakahili , or kahili -bearer; the kiaipoo , or sleep-watcher; and the aipuupuu , or steward."
+    },
+    {
+     "id": "p019.s04",
+     "source": "Other inferior chiefs, called puuku , with messengers, spies, executioners, prophets, astrologers, poets, historians, musicians and dancers, were among his retainers."
+    },
+    {
+     "id": "p019.s05",
+     "source": "Connected with the palace was an apartment used as a heiau , or chapel, which was sometimes in charge of the high-priest."
     }
    ],
    "id": "p019"
@@ -277,11 +373,11 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "They journeyed along the coast of the island [ ] Oahu until they came to Kalihi, one of the present suburbs of the city of Honolulu."
+     "source": "During festival seasons brilliant feasts, tournaments and hula and musical entertainments were given in the royal grounds, and the court was splendid in displays of flowers, feathers and other gaudy trappings."
     },
     {
      "id": "p020.s02",
-     "source": "For a long time they had been looking up the hillsides and along the water courses for awa —but had not found what seemed desirable."
+     "source": "The king not unfrequently took part in the manly games and exercises of the chiefs, and sometimes complimented the hula dancers and musicians by joining in their performances."
     }
    ],
    "id": "p020"
@@ -291,197 +387,14 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "At Kalihi a number of fine awa roots were growing."
+     "source": "To render the kings and higher nobility still more exclusive, they had a court language which was understood only by themselves, and which was changed in part from time to time as its expressions found interpretation beyond the royal circle."
     },
     {
      "id": "p021.s02",
-     "source": "They pulled up the roots and prepared them for chewing."
-    },
-    {
-     "id": "p021.s03",
-     "source": "When the awa was ready Kanaloa looked for fresh water, but could not find any."
-    },
-    {
-     "id": "p021.s04",
-     "source": "So he said to Ka-ne: “Our awa is good, but there is no water in this place."
-    },
-    {
-     "id": "p021.s05",
-     "source": "Where can we find water for this awa?”"
+     "source": "Some portions of this court language have been preserved."
     }
    ],
    "id": "p021"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p022.s01",
-     "source": "Ka-ne said, “There is indeed water here.”"
-    },
-    {
-     "id": "p022.s02",
-     "source": "He had a “large and strong staff,” in some of the legends called a spear."
-    },
-    {
-     "id": "p022.s03",
-     "source": "This he took in his hands and stepped out on the bed of lava which now underlies the soil of that region."
-    },
-    {
-     "id": "p022.s04",
-     "source": "He began to strike the earth."
-    },
-    {
-     "id": "p022.s05",
-     "source": "Deep went the point of his staff into the rock, smashing and splintering it and breaking open a hole out of which water leaped for them to mix with their prepared awa."
-    },
-    {
-     "id": "p022.s06",
-     "source": "This pool of fresh water has been known since the days of old as Ka-puka-Wai-o-Kalihi (The water door of Kalihi)."
-    },
-    {
-     "id": "p022.s07",
-     "source": "The gods, stupefied by the liquor, lay down and slept."
-    },
-    {
-     "id": "p022.s08",
-     "source": "When at last they were weary of that resting-place, they passed Nuuanu Valley and went into the most beautiful rainbow valley of the world, Manoa Valley, the home of the rainbow princess."
-    },
-    {
-     "id": "p022.s09",
-     "source": "This [ ] valley is one of the well-settled suburbs of Honolulu."
-    }
-   ],
-   "id": "p022"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p023.s01",
-     "source": "Well-wooded precipices guard the upper end of the valley and make difficult the path to the tops of the mountains rising thousands of feet above."
-    }
-   ],
-   "id": "p023"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p024.s01",
-     "source": "Here the gods found most excellent awa, and Kanaloa cried, “O my brother, this is awa surpassing any other we have found; but where shall I go to find water?”"
-    },
-    {
-     "id": "p024.s02",
-     "source": "Ka-ne replied, “Here in this hillside is water.”"
-    },
-    {
-     "id": "p024.s03",
-     "source": "So he took his staff and struck it fiercely against the precipice by which they had found awa."
-    },
-    {
-     "id": "p024.s04",
-     "source": "Rapidly the rocks were broken off."
-    },
-    {
-     "id": "p024.s05",
-     "source": "The precipice crept back from the mighty strokes of the god and a large pool of clear, cool water appeared among the great stones which had fallen."
-    },
-    {
-     "id": "p024.s06",
-     "source": "There they mixed awa and water and drank again and again until the sleep of the drunkard came and they rested by the fountain they had made."
-    },
-    {
-     "id": "p024.s07",
-     "source": "This pool is still at the head of Manoa Valley, and to this day is called Ka-Wai-a-ke-Akua (The water provided by a god)."
-    }
-   ],
-   "id": "p024"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p025.s01",
-     "source": "The servants of hundreds of chiefs have borne water from this place to their thirsty masters."
-    }
-   ],
-   "id": "p025"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p026.s01",
-     "source": "In the days of Kamehameha I. very often messengers came from this pool of water of the gods with calabashes full of water swinging from the ends of sticks laid over their shoulders. [ ] When they came near any individual or group of Hawaiians they had to call out loudly, giving warning so that all by whom they passed could fall prostrate before the gift of the gods to the great king."
-    }
-   ],
-   "id": "p026"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p027.s01",
-     "source": "Ka-ne and Kanaloa made many springs of fresh waters in all the different islands."
-    },
-    {
-     "id": "p027.s02",
-     "source": "Sometimes a watchman refused to let them take the desired awa—the legends say that they called such persons stingy, and caught them and put them to death."
-    },
-    {
-     "id": "p027.s03",
-     "source": "At Honuaula they broke a large place and made a great fish-pond."
-    }
-   ],
-   "id": "p027"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p028.s01",
-     "source": "They went to Kohala, Hawaii, and found a temple in which they lived for a long time, and the people of Hawaii thought they were gods."
-    },
-    {
-     "id": "p028.s02",
-     "source": "Therefore they brought sacrifices and offered worship, and Ka-ne and Kanaloa were satisfied to remain as two of the gods of the islands."
-    }
-   ],
-   "id": "p028"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p029.s01",
-     "source": "This idea of “striking a rock for water springs” is not connected with or derived in any way from Biblical sources."
-    },
-    {
-     "id": "p029.s02",
-     "source": "The tool used by Hawaiians for centuries for digging was called the o-o, which was but little more than a sharp-pointed stick or staff, which was a lever as well as a spade."
-    },
-    {
-     "id": "p029.s03",
-     "source": "There is nothing in the legend beyond the expression of a desire to locate water springs as a gift from the gods. [ ]"
-    }
-   ],
-   "id": "p029"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p030"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p031.s01",
-     "source": "Piper Methysticum. ↑"
-    }
-   ],
-   "id": "p031"
   }
  ]
 }

@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-089",
  "title": {
   "id": "title",
-  "source": "Rabbit And The Turkeys"
+  "source": "The Creation"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
  "source_book": "Myths and Legends of the Great Plains",
  "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/089 - Rabbit And The Turkeys.md",
+ "markdown_file": "Americas/Native North America (various nations)/089 - The Creation.md",
  "stats": {
-  "paragraphs": 21,
-  "segments": 40,
-  "words": 419
+  "paragraphs": 13,
+  "segments": 62,
+  "words": 541
  },
  "paragraphs": [
   {
@@ -23,7 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Omaha"
+     "source": "Osage (Wazhá zhe group)"
     }
    ],
    "id": "p001"
@@ -33,11 +33,15 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "R abbit was going somewhere."
+     "source": "W ay beyond, once upon a time, some of the Osages lived in the sky."
     },
     {
      "id": "p002.s02",
-     "source": "At length he reached a place where there were wild Turkeys."
+     "source": "They did not know where they came from, so they went to Sun."
+    },
+    {
+     "id": "p002.s03",
+     "source": "They said, “From where did we come?”"
     }
    ],
    "id": "p002"
@@ -47,11 +51,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "“Come,” said Rabbit."
-    },
-    {
-     "id": "p003.s02",
-     "source": "“I will sing dancing songs for you.”"
+     "source": "He said, “You are my children.”"
     }
    ],
    "id": "p003"
@@ -61,11 +61,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Turkeys went to him saying, “Oho!"
-    },
-    {
-     "id": "p004.s02",
-     "source": "Rabbit will sing dancing songs for us!”"
+     "source": "Then they wandered still further and came to Moon."
     }
    ],
    "id": "p004"
@@ -75,15 +71,15 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "“When I sing for you, you larger ones must go around the circle next to me."
+     "source": "Moon said, “I am your mother; Sun is your father."
     },
     {
      "id": "p005.s02",
-     "source": "Beware lest you open your eyes."
+     "source": "You must go away from here."
     },
     {
      "id": "p005.s03",
-     "source": "Should one of you open his eyes, your eyes shall be red,” said Rabbit."
+     "source": "You must go down to the earth and live there.”"
     }
    ],
    "id": "p005"
@@ -93,7 +89,19 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Then he began to sing,"
+     "source": "So they came to the earth but found it covered with water."
+    },
+    {
+     "id": "p006.s02",
+     "source": "They could not return up above."
+    },
+    {
+     "id": "p006.s03",
+     "source": "They wept, but no answer came to them."
+    },
+    {
+     "id": "p006.s04",
+     "source": "They floated about in the air, seeking help from some god; but they found none."
     }
    ],
    "id": "p006"
@@ -103,15 +111,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Whenever a large Turkey came near, Rabbit seized it and put it in his bag."
+     "source": "Now all the animals were with them."
     },
     {
      "id": "p007.s02",
-     "source": "While he was putting in a Turkey, another one opened his eyes a little, and exclaimed, “Why!"
+     "source": "Elk was the finest and most stately."
     },
     {
      "id": "p007.s03",
-     "source": "He has captured nearly all of us large ones!”"
+     "source": "They all trusted Elk."
+    },
+    {
+     "id": "p007.s04",
+     "source": "So they called to Elk, “Help us.”"
     }
    ],
    "id": "p007"
@@ -121,7 +133,27 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Off they all flew with a whirring sound."
+     "source": "Then Elk dropped into the water and began to sink."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Then he called to the winds."
+    },
+    {
+     "id": "p008.s03",
+     "source": "The winds came from all sides and they blew until the waters went upwards, as in a mist."
+    },
+    {
+     "id": "p008.s04",
+     "source": "Now before that the winds had traveled in only two directions; they went from north to south and from south to north."
+    },
+    {
+     "id": "p008.s05",
+     "source": "But when Elk called to them, they came from the east, from the north, from the west, and from the south."
+    },
+    {
+     "id": "p008.s06",
+     "source": "They met at a central place; then they carried the waters upwards."
     }
    ],
    "id": "p008"
@@ -131,11 +163,35 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Rabbit took home those he had in his bag, saying to his grandmother, “Do not look at what is in that bag!"
+     "source": "Now at first the people could see only the rocks."
     },
     {
      "id": "p009.s02",
-     "source": "I have brought it home on my back and I wish you to guard it!”"
+     "source": "So they traveled on the rocky places."
+    },
+    {
+     "id": "p009.s03",
+     "source": "But nothing grew there and there was nothing to eat."
+    },
+    {
+     "id": "p009.s04",
+     "source": "Then the waters continued to vanish."
+    },
+    {
+     "id": "p009.s05",
+     "source": "At last the people could see the soft earth."
+    },
+    {
+     "id": "p009.s06",
+     "source": "When Elk saw the earth, he was so joyous, he rolled over and over on the earth."
+    },
+    {
+     "id": "p009.s07",
+     "source": "Then all the loose hairs clung to the soil."
+    },
+    {
+     "id": "p009.s08",
+     "source": "So the hairs grew, and from them sprang beans, corn, potatoes, and wild turnips, and at last all the grasses and trees."
     }
    ],
    "id": "p009"
@@ -145,23 +201,19 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Then he went out to cut spits on which to roast the Turkeys."
+     "source": "Now the people wandered over the land."
     },
     {
      "id": "p010.s02",
-     "source": "When the old woman was alone, she thought, “What could he have brought home on his back?”"
+     "source": "They found human footsteps."
     },
     {
      "id": "p010.s03",
-     "source": "So she untied the bag, and when she looked in out flew all the Turkeys, hitting their wings hard against the grass lodge, and flying out the smoke hole."
+     "source": "They followed them."
     },
     {
      "id": "p010.s04",
-     "source": "The old woman barely killed one by hitting it."
-    },
-    {
-     "id": "p010.s05",
-     "source": "At length Rabbit came home."
+     "source": "They joined with them, and traveled with them in search of food."
     }
    ],
    "id": "p010"
@@ -171,7 +223,7 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "“Oh I have inflicted a severe injury on my grandchild,” she said."
+     "source": "(Hoga group)"
     }
    ],
    "id": "p011"
@@ -181,125 +233,115 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "“Really,” he answered."
+     "source": "The Hoga came down from above, and found the earth covered with water."
     },
     {
      "id": "p012.s02",
-     "source": "“Grandmother, I told you not to look at it.”"
+     "source": "They flew in every direction."
+    },
+    {
+     "id": "p012.s03",
+     "source": "They sought for gods who would help them and drive the water away."
+    },
+    {
+     "id": "p012.s04",
+     "source": "They found not one."
+    },
+    {
+     "id": "p012.s05",
+     "source": "Then Elk came."
+    },
+    {
+     "id": "p012.s06",
+     "source": "He had a loud voice and he shouted to the four corners of the sky."
+    },
+    {
+     "id": "p012.s07",
+     "source": "The four winds came in answer."
+    },
+    {
+     "id": "p012.s08",
+     "source": "They blew upon the water and it vanished upwards, in a mist."
+    },
+    {
+     "id": "p012.s09",
+     "source": "Then the people could see the rocks."
+    },
+    {
+     "id": "p012.s10",
+     "source": "Now there was only a little space on the rocks."
+    },
+    {
+     "id": "p012.s11",
+     "source": "They knew they must have more room."
+    },
+    {
+     "id": "p012.s12",
+     "source": "The people were crowded."
+    },
+    {
+     "id": "p012.s13",
+     "source": "So they sent Muskrat down into the water."
+    },
+    {
+     "id": "p012.s14",
+     "source": "He did not come back."
+    },
+    {
+     "id": "p012.s15",
+     "source": "He was drowned."
+    },
+    {
+     "id": "p012.s16",
+     "source": "Then they sent Loon down."
+    },
+    {
+     "id": "p012.s17",
+     "source": "He did not come back."
+    },
+    {
+     "id": "p012.s18",
+     "source": "He was drowned."
+    },
+    {
+     "id": "p012.s19",
+     "source": "Then they sent Beaver down into the water."
+    },
+    {
+     "id": "p012.s20",
+     "source": "The water was too deep."
+    },
+    {
+     "id": "p012.s21",
+     "source": "Beaver was drowned."
+    },
+    {
+     "id": "p012.s22",
+     "source": "Then Crawfish dived into the water."
+    },
+    {
+     "id": "p012.s23",
+     "source": "He was gone a long time."
+    },
+    {
+     "id": "p012.s24",
+     "source": "When he came up there was a little mud in his claws."
+    },
+    {
+     "id": "p012.s25",
+     "source": "Crawfish was so tired he died."
+    },
+    {
+     "id": "p012.s26",
+     "source": "But the people took the mud out of his claws and made the land."
     }
    ],
    "id": "p012"
   },
   {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p013.s01",
-     "source": "But that is why Turkeys have red eyes."
-    }
-   ],
+   "type": "break",
+   "segments": [],
    "id": "p013"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p014"
-  },
-  {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p015.s01",
-     "source": "FIVE CHIEFS OF THE OGALLA SIOUX"
-    }
-   ],
-   "id": "p015"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p016.s01",
-     "source": "Rank is shown by pipe and pouch."
-    },
-    {
-     "id": "p016.s02",
-     "source": "The first Cankutanka, Big Road; often called Good Road—big and broad and well traveled."
-    },
-    {
-     "id": "p016.s03",
-     "source": "The bird flying through the dusk shows that one may fly rapidly over a good road."
-    },
-    {
-     "id": "p016.s04",
-     "source": "Next is Low Dog."
-    },
-    {
-     "id": "p016.s05",
-     "source": "The dog figure is “low,” as shown by the shortness of the legs."
-    },
-    {
-     "id": "p016.s06",
-     "source": "In the center is Long Dog, as shown by the long legs on the dog figure."
-    },
-    {
-     "id": "p016.s07",
-     "source": "Below, to the left, is Iron Crow, the crow painted blue indicating iron."
-    },
-    {
-     "id": "p016.s08",
-     "source": "The last is Little Hawk."
-    },
-    {
-     "id": "p016.s09",
-     "source": "Each chief has three bands on the cheek, but with variant colors and patterns."
-    }
-   ],
-   "id": "p016"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p017.s01",
-     "source": "From Report of the Bureau of Ethnology"
-    }
-   ],
-   "id": "p017"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p018"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p019.s01",
-     "source": "Name of an Indian Chief, as shown in Red Cloud’s census."
-    },
-    {
-     "id": "p019.s02",
-     "source": "Old age is represented by the wrinkles and projecting lips."
-    }
-   ],
-   "id": "p019"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p020.s01",
-     "source": "Enlarged from a sketch in Report of the Bureau of Ethnology"
-    }
-   ],
-   "id": "p020"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p021"
   }
  ]
 }

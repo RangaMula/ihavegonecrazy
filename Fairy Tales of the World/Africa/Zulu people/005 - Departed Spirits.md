@@ -1,0 +1,12 @@
+# Departed Spirits
+
+- **Tradition:** Zulu people (Africa)
+- **Source book:** *Some Zulu Customs and Folk-lore*
+- **Author / collector / translator:** Samuelson, L. H. (author)
+- **Original language of this text:** en
+- **Source:** Project Gutenberg eBook #46501 — https://www.gutenberg.org/ebooks/46501
+- **Copyright status:** Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.
+
+---
+
+The Zulus have a belief in the re-embodiment of departed spirits. Of this I remember having a practical illustration when, as a child, I was travelling about their country with my mother. We were about to visit a chief named Mqayikana. His kraal was close to the road, and as we were passing it we saw a nasty looking green snake. I picked up a stone and threw it at the reptile. In a moment a number of natives ran up and, seeing the snake, called out: “Leave it alone. It is the spirit of Mqayikana’s father which has come to visit us. We killed a fat beast as an offering to it to-day, and prayed that it might come and taste the meat. For our chief Mqayikana is very ill, and we want to induce his father not to call him away just yet.” I was young, and possibly a little indiscreet in those days, and replied: “Nonsense! The snake is an accursed creature, and ought never to be spared,” and I threw another stone at it, just bruising its tail. “Stop! Stop! or you will suffer for it. As it is, your white skin alone has saved you. If you had been black you would never eat corn any more. You would have to die the death!” Seeing that the men were in earnest and really excited, I thought it best to leave the snake alone. Had I not done so I might have been smelt out as a witch later on if anything had happened to Mqayikana. We sent the chief a small peace-offering in the shape of a packet of sugar, apologising for my unintentional rudeness to his father’s ghost, and I am glad to say he proved himself not only forgiving but friendly, sending us a fine sheep, and even inviting us to come and take a pinch of snuff with him—a token of friendship among the Zulus; but we, perhaps not imprudently, begged to be excused.

@@ -4,7 +4,7 @@
 - **Source book:** *Myths and Legends of the Sioux*
 - **Author / collector / translator:** McLaughlin, Marie L. (author, d. 1931)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #341 — https://www.gutenberg.org/ebooks/341 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #341 — https://www.gutenberg.org/ebooks/341
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

@@ -74,11 +74,25 @@ def parse_md(path):
     return title, meta, paras
 
 
-def lang_of(meta):
-    l = meta.get("Original language of this text", "en")
-    m = re.findall(r"[a-z]{2,3}", l)
-    return m[-1] if len(m) > 1 and m[0] != "en" else (m[0] if m else "en")  # bilingual books: text is the non-English side? keep first
-    # (books tagged ['en','fr'] etc. are English translations printed with originals; first code is used)
+LANG_CODES = {"english": "en", "french": "fr", "portuguese": "pt", "german": "de", "dutch": "nl", "spanish": "es",
+              "italian": "it", "danish": "da", "hungarian": "hu", "catalan": "ca", "afrikaans": "af", "kiswahili": "sw",
+              "isixhosa": "xh", "isizulu": "zu", "setswana": "tn", "sesotho (south africa)": "st", "sepedi": "nso",
+              "isindebele": "nr", "xitsonga": "ts", "siswati": "ss", "luganda": "lg", "lunyole": "nuj", "lumasaaba": "myx",
+              "lugbarati (official)": "lgg", "lusoga": "xog", "rutooro": "ttj", "oluwanga": "lwg", "maa": "mas",
+              "kikamba": "kam", "ekegusii": "guz", "amharic": "am", "anii": "blo", "xitswa": "tsc", "hausa (nigeria)": "ha",
+              "kinyarwanda": "rw", "fulfulde mbororoore": "ff", "somali": "so", "tiv": "tiv", "twi": "tw", "asante twi": "tw",
+              "ng’aturkana": "tuv", "chichewa": "ny", "cinyanja": "ny", "icibemba": "bem", "chitonga": "toi",
+              "tshivenḓa": "ve", "obolo": "ann", "afaan oromo": "om"}
+
+
+def lang_code(value):
+    v = (value or "en").strip()
+    codes = re.findall(r"'([a-z]{2,3})'", v)  # "['en', 'fr']"
+    if codes:
+        return "en" if "en" in codes else codes[0]
+    if re.fullmatch(r"[a-z]{2,3}", v):
+        return v
+    return LANG_CODES.get(v.lower(), "x-" + slug(v))
 
 
 def main():
@@ -99,8 +113,7 @@ def main():
                 num = f[:3]
                 tid = f"{CONT_CODE[cont]}-{tslug}-{num}"
                 title, meta, paras = parse_md(os.path.join(tdir, f))
-                lang = re.findall(r"[a-z]{2,3}", meta.get("Original language of this text", "en"))
-                lang = lang[0] if lang else "en"
+                lang = lang_code(meta.get("Original language of this text", "en"))
                 seg_count, words, n = 0, 0, 0
                 for pi, p in enumerate(paras, 1):
                     p["id"] = f"p{pi:03d}"
@@ -132,7 +145,7 @@ def main():
                     json.dump(rec, fh, ensure_ascii=False, indent=1)
                 catalog.append({"id": tid, "title": title, "continent": cont, "tradition": trad, "tradition_id": tslug,
                                 "source_lang": lang, "words": words, "segments": seg_count,
-                                "pd_status": "worldwide" if "worldwide" in rec["copyright"] else "us",
+                                "pd_status": "ccby" if "CC BY" in rec["copyright"] else ("worldwide" if "worldwide" in rec["copyright"] else "us"),
                                 "json": rel.replace(os.sep, "/"), "markdown": rec["markdown_file"]})
                 xl_files.append(rec)
             # XLIFF 1.2 per tradition

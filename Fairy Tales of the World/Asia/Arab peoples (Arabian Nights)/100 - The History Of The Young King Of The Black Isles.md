@@ -4,7 +4,7 @@
 - **Source book:** *The Arabian Nights: Their Best-known Tales*
 - **Author / collector / translator:** Wiggin, Kate Douglas Smith (editor, d. 1923); Smith, Nora Archibald (editor, d. 1934)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #20916 — https://www.gutenberg.org/ebooks/20916 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #20916 — https://www.gutenberg.org/ebooks/20916
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

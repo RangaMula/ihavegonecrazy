@@ -1,0 +1,54 @@
+{
+ "id": "af-hausa-people-nigeria-niger-008",
+ "title": {
+  "id": "title",
+  "source": "HOWEVER POOR YOU ARE THERE is SOME- ONE EVEN WORSE OFF"
+ },
+ "tradition": "Hausa people (Nigeria, Niger)",
+ "continent": "Africa",
+ "source_lang": "en",
+ "source_book": "Hausa Superstitions and Customs (1913)",
+ "credits": "Tremearne, A. J. N. (author, d. 1915)",
+ "gutenberg": "Internet Archive item `hausasuperstitio00tremuoft` — https://archive.org/details/hausasuperstitio00tremuoft (OCR text, lightly cleaned)",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Africa/Hausa people (Nigeria, Niger)/008 - HOWEVER POOR YOU ARE THERE is SOME- ONE EVEN WORSE OFF.md",
+ "stats": {
+  "paragraphs": 2,
+  "segments": 5,
+  "words": 126
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "There was once a certain Man, and he was very poor, he had no food, no tobe, nothing but a loin-cloth."
+    },
+    {
+     "id": "p001.s02",
+     "source": "So he arose and went to the King, and said \" O Lion, I am weary of life so kill me ; I have no food, I have no tobe, I have nothing but a loin-cloth, my poverty is too much for me.\""
+    },
+    {
+     "id": "p001.s03",
+     "source": "So the King said \" Very well,\" and he ordered his Attendants to take him and put him to death."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "But just as they were about to kill him, another Poor Man, who was quite naked, saw him, and said \" I have a favour to ask; when you have killed this Man, give me his loin-cloth.\""
+    },
+    {
+     "id": "p002.s02",
+     "source": "Now the other heard this,"
+    }
+   ],
+   "id": "p002"
+  }
+ ]
+}

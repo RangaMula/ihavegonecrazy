@@ -2,20 +2,20 @@
  "id": "eu-switzerland-003",
  "title": {
   "id": "title",
-  "source": "Fribourg"
+  "source": "The Wonderful Alpine Horn"
  },
  "tradition": "Switzerland",
  "continent": "Europe",
  "source_lang": "en",
- "source_book": "Legends of Switzerland",
- "credits": "Guerber, H. A. (Hélène Adeline) (author, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #64163 — https://www.gutenberg.org/ebooks/64163 (copied via the GITenberg mirror)",
+ "source_book": "Swiss Fairy Tales",
+ "credits": "Griffis, William Elliot (author, d. 1928)",
+ "gutenberg": "Project Gutenberg eBook #69739 — https://www.gutenberg.org/ebooks/69739",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Europe/Switzerland/003 - Fribourg.md",
+ "markdown_file": "Europe/Switzerland/003 - The Wonderful Alpine Horn.md",
  "stats": {
-  "paragraphs": 32,
-  "segments": 62,
-  "words": 1978
+  "paragraphs": 40,
+  "segments": 120,
+  "words": 2425
  },
  "paragraphs": [
   {
@@ -23,11 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "The city of Fribourg, capital of the canton of the same name, is picturesquely situated on a rocky height almost surrounded by the Sarine, one of the tributaries of the Aare."
-    },
-    {
-     "id": "p001.s02",
-     "source": "A mediæval town, it boasts of many interesting relics, while in its cathedral stands the great modern organ known the world over."
+     "source": "When the little boys and girls, who read these Swiss fairy tales, grow up to be big and travel in Switzerland, they will enjoy the Alpine horn."
     }
    ],
    "id": "p001"
@@ -37,15 +33,35 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "When Charles the Bold experienced his second appalling defeat at Morat, in 1476, one of the Swiss soldiers volunteered to carry the joyful tidings to Fribourg, his native city."
+     "source": "Nearly every shepherd lad in the mountains knows how to blow it."
     },
     {
      "id": "p002.s02",
-     "source": "Although he had fought bravely and was very weary after his almost superhuman efforts, he snatched a green twig from a neighbouring lime-tree, stuck it in his hat so that his people could see from afar this sign of victory, and quickly started for home."
+     "source": "It is made of wood, and is about half as long as an ordinary broom."
     },
     {
      "id": "p002.s03",
-     "source": "Tradition claims that he ran every step of the way; the fact is, he reached the city so exhausted that he sank down lifeless as soon as the one word “Victory” had escaped from his parched lips."
+     "source": "Its butt, or heavy end, rests on the ground."
+    },
+    {
+     "id": "p002.s04",
+     "source": "When a man blows a long blast, the sound, at first, when one is too near, does not seem to be very pleasing; for distance lends enchantment to the sound."
+    },
+    {
+     "id": "p002.s05",
+     "source": "But wait a moment, and listen!"
+    },
+    {
+     "id": "p002.s06",
+     "source": "Far off across the valley, the strains are caught up, and sent back from the tops of the high mountains."
+    },
+    {
+     "id": "p002.s07",
+     "source": "Then it sounds as if a great choir of angels had come down from Heaven to sing glory to God, and to bring greetings to all good souls."
+    },
+    {
+     "id": "p002.s08",
+     "source": "Nowhere in all the world is there such sweet music made by echoes."
     }
    ],
    "id": "p002"
@@ -55,11 +71,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "His fellow-citizens were so proud of this victory, and of the messenger who brought the news so quickly to them, that they planted the lime twig on the very spot where he had fallen."
+     "source": "Sometimes there is a double set of echoes, like one rainbow inside of another."
     },
     {
      "id": "p003.s02",
-     "source": "There it throve and grew, until it is now a mighty tree, with a boll fourteen feet in circumference; and it still serves as a green monument of this famous triumph of the Swiss army."
+     "source": "Then, it makes one think of a choir of little angels, that sing a [ ] second time, after the first heavenly chorus has ceased."
     }
    ],
    "id": "p003"
@@ -69,11 +85,15 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The whole valley of the Sarine and its tributaries is most picturesque, and the soil so fertile that it supports countless heads of the finest cattle in the world."
+     "source": "How the Swiss people first received the Alpine horn, as a gift from the fairies, is told in the story of a faithful shepherd’s boy, named Perrod."
     },
     {
      "id": "p004.s02",
-     "source": "After passing the quaint little mediæval town of Romont, with its old castle and fortifications, you come to a hill in the middle of the Sarine valley on which rises the famous castle of Gruyère, recently restored, and now one of the most beautiful show places in Switzerland."
+     "source": "He had to work hard all day, in tending the cows that grazed on the high mountain pastures, which the natives call the Alps."
+    },
+    {
+     "id": "p004.s03",
+     "source": "But when foreign people speak of “the Alps,” they mean the ranges of mountains themselves."
     }
    ],
    "id": "p004"
@@ -83,7 +103,15 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The view from Gruyère is most charming, and includes not only the winding course of the Sarine, and the green hills dotted with the herds,—which furnish the renowned Swiss or Gruyère cheese,—but beyond rise rocky pine-clad mountains, the most important of which is the Moléson."
+     "source": "In winter, these level stretches of ground are covered with snow and ice, but by the month of June, it is warm enough for the grass and flowers to grow."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Then the cowboys and cheese makers go up with their cattle."
+    },
+    {
+     "id": "p005.s03",
+     "source": "At night, Perrod, having milked the cows, skimmed the cream off the milk, hung the great caldron over the fire, and made the cheese."
     }
    ],
    "id": "p005"
@@ -93,15 +121,23 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "The founding of the castle of Gruyère is attributed to Gruerius, a captain in the Thebaid legion, who, escaping martyrdom in the days of Diocletian, fled into the mountains."
+     "source": "By this time, that is, well into the late hours, Perrod was almost tired to death."
     },
     {
      "id": "p006.s02",
-     "source": "After threading his way through the dense forests which then clothed these grassy hills, he finally reached the point where the castle now stands."
+     "source": "After calling “good-night” to Luquette, his sweetheart, who lived across the valley, and hearing her greeting in answer, he climbed up the ladder, into the loft, and lay down on his bed."
     },
     {
      "id": "p006.s03",
-     "source": "There, helped by other fugitive Christians, he began to clear away the primeval forest, and founded the castle and town which bear his name."
+     "source": "This was only a pile of straw, but he was asleep almost the very moment he touched it, for he was a healthy lad and the mountain air was better than medicine."
+    },
+    {
+     "id": "p006.s04",
+     "source": "It was especially good for sound sleep, and he knew he must get up early, at sunrise, to lead [ ] the cows and goats out to pasture."
+    },
+    {
+     "id": "p006.s05",
+     "source": "Then the all-day concert, of tinkling bells, began."
     }
    ],
    "id": "p006"
@@ -111,11 +147,19 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Gruyère thus became the cradle of a new race, which, constantly increasing in wealth and power, soon ruled over a vast extent of land peopled by many vassals."
+     "source": "But this night, instead of slumber, without once waking until day dawn, Perrod had closed his eyes, for only about three hours, when he heard a crackling sound, which waked him up."
     },
     {
      "id": "p007.s02",
-     "source": "The Counts of Gruyère were in general good masters; and the land, carefully tilled by their dependants, grew more and more productive, until many villages dotted the country, while the tinkle of cow-bells was heard for miles around."
+     "source": "He thought, at first, the wind was blowing hard enough to rip off some of the bark strips from the roof of the chalet, and was tumbling down some of the heavy stones laid on to keep them in place."
+    },
+    {
+     "id": "p007.s03",
+     "source": "But when he saw the reflection, on the walls and ceiling, of a bright fire, he crawled quietly out of bed."
+    },
+    {
+     "id": "p007.s04",
+     "source": "Then he peeped down and through the cracks in the board floor, to see what was going on."
     }
    ],
    "id": "p007"
@@ -125,7 +169,15 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "In the days of the Crusades, many knights passed this castle on their way to the Holy Land; and the Counts of Gruyère, assuming the cross too, joined them with the fatalistic cry, “Go we must, return who may!” (“ S’agit d’aller, reviendra qui pourra! ”)"
+     "source": "Three men were around the fire."
+    },
+    {
+     "id": "p008.s02",
+     "source": "One, the biggest fellow of the three, was hanging up the caldron on the hooks."
+    },
+    {
+     "id": "p008.s03",
+     "source": "The second piled on more wood, while the others warmed their hands in the bright blaze."
     }
    ],
    "id": "p008"
@@ -135,7 +187,19 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "In spite of their wealth and extensive possessions, the Counts of Gruyère were none too well informed, for we are told they naïvely asked their companions whether the sea they had to cross on their way to Palestine could possibly be as large as the stretch of water they had seen in making a pilgrimage to the shrine of Our Lady of Lucerne."
+     "source": "The three men were all different in appearance, the one from the other, and a queer looking lot they were."
+    },
+    {
+     "id": "p009.s02",
+     "source": "The tremendously tall man seemed to be a giant, in weight and size."
+    },
+    {
+     "id": "p009.s03",
+     "source": "His sleeves were rolled up, showing that his arms were sunburnt, until they were very dark."
+    },
+    {
+     "id": "p009.s04",
+     "source": "When he lifted up the caldron, to hang it up, or take it down, his muscles stood out like whipcords."
     }
    ],
    "id": "p009"
@@ -145,11 +209,11 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Toward the end of the fourteenth century, Margaret, Countess of Gruyère, was very sad, because, although she had already been married several years, Providence had not yet vouchsafed her a child."
+     "source": "But the man sitting on a milking stool, at the [ ] right hand side of the fireplace, was entirely different, being smaller, and with a white skin and golden hair."
     },
     {
      "id": "p010.s02",
-     "source": "In her anxiety to obtain offspring, this fair Countess consulted the astrologers and other fortune-tellers who visited the castle; but as their promises afforded her very little satisfaction, she soon resorted to pilgrimages, fasting, and long seasons of fervent prayer."
+     "source": "He had a long horn, which rested on the floor beside him."
     }
    ],
    "id": "p010"
@@ -159,7 +223,27 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "All the pilgrims who stopped at the castle, on their way to and from the shrines at Einsiedlen and Lucerne, were entertained with the utmost hospitality at Gruyère, and when they departed the Countess invariably loaded them with gifts, gently begging them to intercede for her when they reached the goal of their pilgrimage."
+     "source": "The man on the left-hand side of the fireplace, appeared to be a woodman, or hunter."
+    },
+    {
+     "id": "p011.s02",
+     "source": "At least, he seemed to be used to the forest."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Though it was pitch dark night, he knew where the wood lay, piled up under the eaves of the chalet; for, when the fire burned low, he went out doors and returned with an arm load of faggots."
+    },
+    {
+     "id": "p011.s04",
+     "source": "Then he piled up the wood, and the fire blazed, and crackled, and roared, until the boy in the loft thought the hut would be burned up, too."
+    },
+    {
+     "id": "p011.s05",
+     "source": "Yet, though he trembled at the strange sight, he was brave."
+    },
+    {
+     "id": "p011.s06",
+     "source": "He resolved not to be quiet, if the big men tried to steal his cheese, which was to be food for the family during the winter."
     }
    ],
    "id": "p011"
@@ -169,11 +253,11 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Garbed like a nun, in the plainest of homespun dresses, the Countess diligently visited the poor and sick, helped the needy, and was so good and charitable to all that she was revered throughout the country like a saint."
+     "source": "Just as he was wondering, whether his sisters and old daddy would have enough to eat, during the long cold winter of eight months, that was soon coming, when snow and ice covered the fields, he saw a curious thing happen."
     },
     {
      "id": "p012.s02",
-     "source": "Besides, every night and morning, she spent hours on her knees in the castle chapel, imploring the Virgin and all the saints to grant her her heart’s desire."
+     "source": "Sweet music began, such as had never met his ears before, since he was in his cradle and his mother sang to him."
     }
    ],
    "id": "p012"
@@ -183,11 +267,19 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "One evening, when twilight was fast merging into darkness, she still lingered there on her knees, weeping bitterly because hitherto all her prayers had remained unanswered."
+     "source": "It was the man with the golden hair, who seemed to be the real gentleman of the party. [ ] He it was, who made the music."
     },
     {
      "id": "p013.s02",
-     "source": "Absorbed in sorrowful thoughts, and uttering broken words of supplication between her sobs, the Countess failed to notice the entrance of a lame beggar who had often been the recipient of her bounty."
+     "source": "He first handed something to the giant, who dropped it into the caldron."
+    },
+    {
+     "id": "p013.s03",
+     "source": "Then, with his horn, he disappeared through the door."
+    },
+    {
+     "id": "p013.s04",
+     "source": "When outside, he lifted the instrument to his lips and blew a blast."
     }
    ],
    "id": "p013"
@@ -197,11 +289,19 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "The sound of suppressed weeping and convulsive prayer soon attracted the beggar’s attention, and peering through the gloom,—which the taper burning on the altar only seemed to intensify,—he soon descried a woman clad in rough homespun."
+     "source": "Perrod was so interested in watching the giant, that he paid little attention to the man outside, or to the sound he had made, for he saw the hunter take a bottle out of his pocket, and hand it over to the biggest fellow, who stood at the caldron over the fire."
     },
     {
      "id": "p014.s02",
-     "source": "Lame Hans, whose sorest trial was an occasional lack of food, immediately concluded that this poor woman must be needy, and catching the word “children,” he hastily drew some coarse bread and cheese out of his wallet, and laid it beside her, saying,—"
+     "source": "This one poured the liquid, which seemed to be blood red, into the big iron pot."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Then, with a ladle, as big as a shovel, and long as a gun, he stirred vigorously."
+    },
+    {
+     "id": "p014.s04",
+     "source": "Then, three beakers, or cups were set upon the table."
     }
    ],
    "id": "p014"
@@ -211,7 +311,15 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "“This is all I have, my poor woman, but the Holy Virgin’s blessing resting upon it will enable it to dry your tears.”"
+     "source": "By this time, the golden haired man outside had finished his blast of music, which seemed to float across the valleys down into the defiles, over the pastures, and through the wood."
+    },
+    {
+     "id": "p015.s02",
+     "source": "It grew sweeter and sweeter, as it swelled on the gentle night breeze, until all the mountains seemed to have awakened, turned into living angels and lifted up their voices."
+    },
+    {
+     "id": "p015.s03",
+     "source": "The sweet strain ended with a prolonged sad note, as if melancholy had fallen on the musicians, and then it ceased."
     }
    ],
    "id": "p015"
@@ -221,7 +329,19 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "Then, before the astonished Countess could say a word, the lame man hobbled off; and although he went to bed hungry, he felt a warm glow in the region of his heart whenever he pictured the zest with which the hungry children would devour his bread and cheese."
+     "source": "A strange thing happened."
+    },
+    {
+     "id": "p016.s02",
+     "source": "All the cows and goats woke up from their sleep, and one, from all directions, could hear the tinkling of their neck [ ] bells, all over the pastures, far and near."
+    },
+    {
+     "id": "p016.s03",
+     "source": "The poor creatures thought it was time to get up and be milked, but they were puzzled to find it was yet dark."
+    },
+    {
+     "id": "p016.s04",
+     "source": "In fact, they were all, still, quite sleepy and very slow to move."
     }
    ],
    "id": "p016"
@@ -231,15 +351,23 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "The Countess came out of the chapel a few moments after Hans, and as she returned to her apartments her servants marvelled at the radiant expression of her face, although it bore marks of recent tears."
+     "source": "Something even far more wonderful happened next."
     },
     {
      "id": "p017.s02",
-     "source": "They were still more surprised when they saw her come forth in her richest apparel to welcome her husband and his friends on their return from the chase."
+     "source": "Perrod, after first hearing the horn blow, thought the music had ceased: when, suddenly, it all seemed to come back in vastly greater volume."
     },
     {
      "id": "p017.s03",
-     "source": "Their amazement was shared by the hunters, who gazed with unconcealed wonder at the hostess whom they had left in the morning pale, silent, and dejected, but who now seemed radiant with life and hope."
+     "source": "The sounds were multiplied, as if a thousand echoes had blended into one and all heaven had joined in the melody."
+    },
+    {
+     "id": "p017.s04",
+     "source": "Perrod was entranced."
+    },
+    {
+     "id": "p017.s05",
+     "source": "He even closed his eyes lest he might, by looking down at the strange men, lose some of what seemed to him a choir of angels singing."
     }
    ],
    "id": "p017"
@@ -249,11 +377,11 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Her unwonted vivacity charmed both husband and guests; and when toward the end of the evening meal she begged leave to lay before them a new dish, they all received the proposal with joyful acclamations."
+     "source": "When the last strain had ceased, Perrod opened his eyes."
     },
     {
      "id": "p018.s02",
-     "source": "At a sign from the fair châtelaine, her aged nurse and favourite page then brought in two covered silver dishes, which they gravely set before their master."
+     "source": "The golden haired musician had re-entered the chalet, and resumed his seat, sitting down again on the milkstool, at the right of the fire; while the hunter rearranged three glass goblets, on the rough wooden table, from which Perrod ate his meals."
     }
    ],
    "id": "p018"
@@ -263,19 +391,15 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "All eyes were riveted on these vessels when the Count of Gruyère simultaneously raised both covers; and his expression of disappointment was mirrored on every face, when instead of choice dainties nothing was seen but the coarse bread and cheese of the peasant population."
+     "source": "All three of the strangers then solemnly watched the caldron, as the liquid boiled, just as the cream does, when cheese is to be made; the big man stirring up with his huge ladle."
     },
     {
      "id": "p019.s02",
-     "source": "Interrogative glances were therefore soon directed to the Countess, who with charming grace and simplicity related her adventure in the chapel and repeated the lame beggar’s words."
+     "source": "At a particular moment, the giant lifted the caldron and emptied out the contents into the three glass vessels."
     },
     {
      "id": "p019.s03",
-     "source": "She concluded by saying that she now believed her prayers would be answered, and begged all present to partake with her of the food which had come to her in such a strange way."
-    },
-    {
-     "id": "p019.s04",
-     "source": "Touched by the tale she told, one and all solemnly ate the bread and cheese she gave them; but her old nurse laid her share carefully aside, saying she would partake of it only when her mistress’s dearest wish had been fulfilled."
+     "source": "To the amazement of Perrod, there [ ] issued, from the same vessel, three very different colors."
     }
    ],
    "id": "p019"
@@ -285,7 +409,11 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "Then the castle chaplain arose, filled all the beakers with wine, blessed them as solemnly as if he were about to celebrate a communion service, and all drank to the health of the gracious Countess and the speedy coming of a son and heir to the castle of Gruyère."
+     "source": "In the first glass, filled to the brim, the draught was as red as blood, and it foamed at the top."
+    },
+    {
+     "id": "p020.s02",
+     "source": "The drops, flying out on the board, left crimson stains."
     }
    ],
    "id": "p020"
@@ -295,11 +423,7 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "Within a year from that day the Stork brought a beautiful boy to the Countess, and at his christening feast many noble guests merrily drank his health."
-    },
-    {
-     "id": "p021.s02",
-     "source": "The Countess, radiant with happiness, bestowed bountiful alms upon all the poor, giving lame Hans a new suit of clothes, and a pension to prevent his ever feeling the pangs of hunger again."
+     "source": "Giving a tap on the caldron, with the big ladle, the tall man let flow, into the second glass, what seemed to be the same liquid; but this time, it was as green as grass, but hissing hot, and bubbling."
     }
    ],
    "id": "p021"
@@ -309,11 +433,11 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "In the midst of this feast the old nurse came in and solemnly ate her carefully treasured share of Hans’s bread and cheese."
+     "source": "Another loud ladle tap on the caldron, and out flowed a stream as cold as snow water, and as white as the edelweiss flower."
     },
     {
      "id": "p022.s02",
-     "source": "Then she made a deep curtsey to her mistress, saying,—"
+     "source": "The liquid rested in the goblet as quiet as milk, but seemed to be frosty on the top."
     }
    ],
    "id": "p022"
@@ -323,15 +447,7 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "“Gracious Lady, you see it is just as I always told you."
-    },
-    {
-     "id": "p023.s02",
-     "source": "To the one who gives freely, much will be given."
-    },
-    {
-     "id": "p023.s03",
-     "source": "May God preserve you and your husband and grant your son a long, happy, and useful life at Gruyère!”"
+     "source": "Now the giant-like fellow, shaking his huge ladle in his right hand, and putting his left at the side of his mouth, shouted with a voice of thunder:"
     }
    ],
    "id": "p023"
@@ -341,11 +457,15 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "From the castle and town of Gruyère one can enjoy a fine view of the Moléson, the highest peak in that region, from whose summit can be seen the Lake of Geneva with Mont Blanc, the Dent du Midi, and the Diablerets to the south."
+     "source": "“Come down, you boy, and make your choice of one of these three."
     },
     {
      "id": "p024.s02",
-     "source": "West and east are the Jura and Titlis mountains, while to the north extends the fertile valley of the Sarine."
+     "source": "Each has a glorious gift to him who drinks."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Come quick, for it will soon be daylight.”"
     }
    ],
    "id": "p024"
@@ -355,7 +475,15 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "Here on the Moléson, as well as on most mountain pastures in Switzerland, you can often hear the famous Ranz des Vaches, Kuhreihen, or musical call, which the cattle no sooner hear than they crowd around their herdsmen."
+     "source": "Perrod knew he was discovered, but he was a brave boy."
+    },
+    {
+     "id": "p025.s02",
+     "source": "If his legs trembled, his heart was big."
+    },
+    {
+     "id": "p025.s03",
+     "source": "Moreover, the golden haired man gave him a nod, and winked his eye, to encourage the lad."
     }
    ],
    "id": "p025"
@@ -365,7 +493,7 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "This melody, repeated by the echoes, and accompanied by the ripple and splash of running waters, the tintinnabulations of cow-bells, and the lowing of the kine, has a peculiar charm for all who hear it, and in words runs about as follows:—"
+     "source": "So Perrod at once climbed down and stood [ ] before the table, on which were the three chalices."
     }
    ],
    "id": "p026"
@@ -375,7 +503,27 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "Poems of Places—Switzerland: Longfellow."
+     "source": "“Drink, young friend,” said the giant, “from any one of these, but know that, in the red liquid, is a gift to the Swiss men."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Drain this cup, and then you will have strength, like me.”"
+    },
+    {
+     "id": "p027.s03",
+     "source": "At that, he bent his arm to show his mighty muscles."
+    },
+    {
+     "id": "p027.s04",
+     "source": "“You will be able to conquer the strongest man, or fiercest beast."
+    },
+    {
+     "id": "p027.s05",
+     "source": "Besides, I shall give you a hundred fat cows, each of which will yield much milk, rich in butter."
+    },
+    {
+     "id": "p027.s06",
+     "source": "Drain this cup, and, according to my promise, you will see the kine tomorrow. ”"
     }
    ],
    "id": "p027"
@@ -385,23 +533,19 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "The Moléson was long the favourite field of the chamois-hunters in Fribourg."
+     "source": "Then the hunter spoke: “Better drink from my goblet."
     },
     {
      "id": "p028.s02",
-     "source": "One of these men having been overtaken by darkness high up on the mountain, once sought refuge in a deserted herdsmen’s hut."
+     "source": "After this green draught, you will have all the gold you want, and heaps of coins; and then you can marry, and still easily support your old father and mother.”"
     },
     {
      "id": "p028.s03",
-     "source": "Drawing near it, he was surprised to hear the tinkle of bells, the lowing and stamping of cattle, and the voices of herdsmen, for he knew the cows had already left the high pastures."
+     "source": "So saying, he tossed handfuls of gold pieces on the floor, piling them up, until they reached the lad’s knees."
     },
     {
      "id": "p028.s04",
-     "source": "Entering the hut, he was further amazed to see four queer, wizened-looking men, whose thumb and first and second fingers were missing."
-    },
-    {
-     "id": "p028.s05",
-     "source": "Besides, one of these men was lame, the second hunchbacked, the third had but one eye, and the fourth was apparently a leper."
+     "source": "Perrod opened his eyes wide in astonishment, for here was not a promise in words, but the actual thing, that he could see for himself."
     }
    ],
    "id": "p028"
@@ -411,7 +555,7 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "These men signed to him to take a seat near the fire, where they were busy making green cheese, of which, however, they had already a large store in the hut."
+     "source": "He was just about to stretch both his hands and drink the green liquid, when the golden haired man, speaking gently to Perrod, said:"
     }
    ],
    "id": "p029"
@@ -421,15 +565,11 @@
    "segments": [
     {
      "id": "p030.s01",
-     "source": "The hunchback herdsman offered the guest bread and meat which looked so unpalatable that the hunter took but one mouthful and set the food aside, muttering that they must have forgotten the salt when preparing it."
+     "source": "“I cannot promise you either cows or coins, but if you drink the liquid in the white goblet, you will be able to use this horn, make music in the mountains and call your cows, as I have [ ] done."
     },
     {
      "id": "p030.s02",
-     "source": "This remark so incensed his hosts that they began to gnash their teeth, and came toward him making such threatening gestures that in sudden terror the hunter made a sign of the cross."
-    },
-    {
-     "id": "p030.s03",
-     "source": "At that moment herdsmen, cheese, cows, and fire vanished, and the chamois-hunter found himself alone in the deserted hut."
+     "source": "Thus your flocks and herds also will share with you my gift.”"
     }
    ],
    "id": "p030"
@@ -439,23 +579,164 @@
    "segments": [
     {
      "id": "p031.s01",
-     "source": "But when he told his night adventure at home, he learned that a small piece of meat had been cut out of the left hind quarter of his best cow."
+     "source": "Not a minute did Perrod wait to decide."
     },
     {
      "id": "p031.s02",
-     "source": "One of the oldest inhabitants of the village, moreover, informed him that the men whom he had seen were wicked herdsmen, who had neglected their duties while in the flesh, and had besides been guilty of perjury."
-    },
-    {
-     "id": "p031.s03",
-     "source": "In punishment for their wickedness, they had not only lost the three fingers upheld in taking an oath, but were condemned to atone for past laziness by working hard every night."
+     "source": "“I care more for music, than for money, or strength,” he said, and, lifting the glass, he put it to his lips and drained the cup dry."
     }
    ],
    "id": "p031"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "“What was it, and how did it taste?” do you ask?"
+    },
+    {
+     "id": "p032.s02",
+     "source": "It was what the cows gave him every day—pure fresh milk, but cold as glacier water."
+    }
+   ],
    "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“Good,” cried the man with the golden hair. “ Any other choice would have meant death."
+    },
+    {
+     "id": "p033.s02",
+     "source": "Here is the horn."
+    },
+    {
+     "id": "p033.s03",
+     "source": "Blow it tomorrow, and see what will happen.”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "As if lifted up on wings, to his straw bed, but holding on to his horn, Perrod heard the door shut and bang, as the three men went out, two of them scowling."
+    },
+    {
+     "id": "p034.s02",
+     "source": "Then the fire cooled to ashes."
+    },
+    {
+     "id": "p034.s03",
+     "source": "He fell asleep and dreamed of the time when, in the church, he should lead his bride to the altar, his lovely sweetheart, Luquette, to be married, and the two should have a chateau and home of their own."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Awakening at the first moment, when the rosy light of the rising sun made the face of the mountains blush, even while the valleys below were still in darkness, and long before his sisters, in the village, far away, had awakened, he rushed out to the edge of the pasture."
+    },
+    {
+     "id": "p035.s02",
+     "source": "Then, he drew in a man’s breath, filled his lungs, and, putting [ ] his lips to the mouthpiece of the horn, blew a long blast."
+    },
+    {
+     "id": "p035.s03",
+     "source": "He listened eagerly, for the far off echoes."
+    },
+    {
+     "id": "p035.s04",
+     "source": "A pleasant double surprise awaited him."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "All over the pastures, in the chalets of the high plateau, and along the mountain slopes, even down to the valleys, there was heard, at once, the tinkling of goat bells, cow bells, and the sound even of what hung in the metal collars of donkeys and horses, until the chorus of bell music was wonderful."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "“Very fine, but is that all?” thought Perrod."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "But another surprise!"
+    },
+    {
+     "id": "p038.s02",
+     "source": "From across the great ravine, or chasm, out rushed his beloved Luquette."
+    },
+    {
+     "id": "p038.s03",
+     "source": "Hastily throwing a wrap around her shoulders, she stood in bare feet, threw a kiss to Perrod, and shouted to him her joy."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Now came the crowning wonder."
+    },
+    {
+     "id": "p039.s02",
+     "source": "From the high peaks, miles distant, and now rosy red in the dayspring, came back the music, in multiplied echoes, as if all the snow ranges of the Alps were singing."
+    },
+    {
+     "id": "p039.s03",
+     "source": "Pure, sweet, prolonged, the boy thought of what he had heard read in the church, that, at creation “the morning stars sang together.”"
+    },
+    {
+     "id": "p039.s04",
+     "source": "So it seemed now to him."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Through many centuries, and to this day, to call the cows together, to make the goats look up, and turn homeward, to seek shelter of the night, for men’s evening prayer and chant of thanks-giving, for the signals of defence [ ] against enemies, for beginning the festal dance, or, to sound the wedding joy, the Alpine horn is the delight of the Swiss."
+    },
+    {
+     "id": "p040.s02",
+     "source": "It is like the carillons of the Belgic folk, the chimes of Normandy, the tower music of Holland, or the bagpipes of the Highlander."
+    },
+    {
+     "id": "p040.s03",
+     "source": "In a foreign land, in dreams, in its memories it tells of “home, sweet home.” [ ]"
+    }
+   ],
+   "id": "p040"
   }
  ]
 }

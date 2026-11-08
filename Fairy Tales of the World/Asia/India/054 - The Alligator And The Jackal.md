@@ -4,7 +4,7 @@
 - **Source book:** *Old Deccan Days; or, Hindoo Fairy Legends Current in Southern India*
 - **Author / collector / translator:** Frere, Mary (compiler, d. 1911)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #36696 — https://www.gutenberg.org/ebooks/36696 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #36696 — https://www.gutenberg.org/ebooks/36696
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

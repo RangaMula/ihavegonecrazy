@@ -2,20 +2,20 @@
  "id": "oc-hawaii-native-hawaiian-people-057",
  "title": {
   "id": "title",
-  "source": "Maui Finding Fire"
+  "source": "The Two Fish From Tahiti"
  },
  "tradition": "Hawaii (Native Hawaiian people)",
  "continent": "Oceania",
  "source_lang": "en",
- "source_book": "Legends of Ma-ui—a demi god of Polynesia, and of his mother Hina",
+ "source_book": "Legends of Old Honolulu (Mythology)",
  "credits": "Westervelt, W. D. (William Drake) (author, d. 1939)",
- "gutenberg": "Project Gutenberg eBook #32601 — https://www.gutenberg.org/ebooks/32601 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #66547 — https://www.gutenberg.org/ebooks/66547",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/057 - Maui Finding Fire.md",
+ "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/057 - The Two Fish From Tahiti.md",
  "stats": {
-  "paragraphs": 74,
-  "segments": 282,
-  "words": 5030
+  "paragraphs": 15,
+  "segments": 111,
+  "words": 2188
  },
  "paragraphs": [
   {
@@ -23,15 +23,19 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "\"Grant, oh grant me thy hidden fire, O Banyan Tree."
+     "source": "S trangers to Hawaiian history should know that to the Hawaiians Tahiti meant any far-away or foreign land."
     },
     {
      "id": "p001.s02",
-     "source": "Perform an incantation, Utter a prayer To the Banyan Tree."
+     "source": "Tahiti belongs to the Society Islands."
     },
     {
      "id": "p001.s03",
-     "source": "Kindle a fire in the dust Of the Banyan Tree.\" —Translation of ancient Polynesian chant."
+     "source": "Centuries ago it was one of the points visited by the Vikings of the Pacific, the Polynesian sea-rovers, among whom certain chiefs of the Hawaiian Islands were not the least noted."
+    },
+    {
+     "id": "p001.s04",
+     "source": "They sailed to Tahiti and Samoa and other islands of the great ocean and returned after many months, celebrating their voyages in personal chants."
     }
    ],
    "id": "p001"
@@ -41,19 +45,27 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Among students of mythology certain characters in the legends of the various nations are known as \"culture heroes.\""
+     "source": "Thus the names of places many hundreds of miles distant from the Hawaiian group were recorded in the chants and legends of the most famous families of Hawaiian chiefs and kings."
     },
     {
      "id": "p002.s02",
-     "source": "Mankind has from time to time learned exceedingly useful lessons and has also usually ascribed the new knowledge to some noted person in the national mythology."
+     "source": "Some of the names brought back by the wanderers appear to have been given to places in their own homeland."
     },
     {
      "id": "p002.s03",
-     "source": "These mythical benefactors who have brought these practical benefits to men are placed among the \"hero-gods.\""
+     "source": "A large district on the island of Maui, where, it is said, the friends of a Viking would gather for feasting and farewell dancing, was named Kahiki-nui (The great Tahiti)."
     },
     {
      "id": "p002.s04",
-     "source": "They have been teachers or \"culture heroes\" to mankind."
+     "source": "A point of land not far from this district was [ ] called Keala-i-kahiki (The-way-to-Tahiti)."
+    },
+    {
+     "id": "p002.s05",
+     "source": "These names are not of recent origin, but are found in the scenes described by roving ancestors noted in genealogies of long ago."
+    },
+    {
+     "id": "p002.s06",
+     "source": "Probably about the same time that the Vikings of Scandinavia were roaming along the Atlantic coasts the Pacific seamen were passing from group to group among the Pacific islands."
     }
    ],
    "id": "p002"
@@ -63,11 +75,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Probably the fire finders of the different nations are among the best remembered of all these benefactors."
+     "source": "After many voyages and several years probably the people who never wandered became careless concerning the specific name of the place to which some of their friends had sailed, and included the whole outside world in the comprehensive declaration, “Gone to Tahiti” (Kahiki)."
     },
     {
      "id": "p003.s02",
-     "source": "This would naturally be the case, for no greater good has touched man's physical life than the discovery of methods of making fire."
+     "source": "At any rate, this has been the usage for some centuries among the Hawaiians."
     }
    ],
    "id": "p003"
@@ -77,39 +89,75 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Prometheus, the classical fire finder, is most widely known in literature."
+     "source": "The story I am about to tell you came to me as a marvellous, mysterious, miraculous myth of the long ago, when strange powers dwelt in both animals and men, and when cannibalism might have been carried on to be reported later under the guise of eating the flesh of beast or fish."
     },
     {
      "id": "p004.s02",
-     "source": "But of all the helpful gods of mythology, Maui, the mischievous Polynesian, is beyond question the hero of the largest numbers of nations scattered over the widest extent of territory."
+     "source": "In the long ago there were two “fish” crossing the trackless waters of the Pacific Ocean."
     },
     {
      "id": "p004.s03",
-     "source": "Prometheus belonged to Rome, but Maui belonged to the length and breadth of the Pacific Ocean."
+     "source": "Their home was in one of the far-away lands, known as Tahiti."
     },
     {
      "id": "p004.s04",
-     "source": "Theft or trickery, the use of deceit of some kind, is almost inseparably connected with fire finding all over the world."
+     "source": "These “fish” were great canoes filled with men."
     },
     {
      "id": "p004.s05",
-     "source": "Prometheus stole fire from Jupiter and gave it to men together with the genius to make use of it in the arts and sciences."
+     "source": "They decided that they would like to visit some of the lands about which they had heard in the legends related by their fathers. [ ] They knew that certain stars were always in certain places in the sky during a part of every year."
     },
     {
      "id": "p004.s06",
-     "source": "He found the rolling chariot of the sun, secretly filled his hollow staff with fire, carried it to earth, put a part in the breast of man to create enthusiasm or animation, and saved the remainder for the comfort of mankind to be used with the artist skill of Minerva and Vulcan."
+     "source": "By sailing according to these stars at night and the sun by day they felt confident that they could find the wonderful fire-land of Hawaii about which they had been taught in the stories of returned travellers."
     },
     {
      "id": "p004.s07",
-     "source": "In Brittany the golden or fire-crested wren steals fire and is red-marked while so doing."
+     "source": "So the two “fish”—the two boats—after weary days and nights of storm and calm, of soft breeze and strong, continuous winds, found the northeast side of the island of Oahu with its rugged front of steep, precipitous rocks."
     },
     {
      "id": "p004.s08",
-     "source": "The animals of the North American Indians are represented as stealing fire sometimes from the cuttle fish and sometimes from one another."
+     "source": "The travellers landed first on a point of land extending far out into the sea, terminating in a small volcano."
     },
     {
      "id": "p004.s09",
-     "source": "Some swiftly-flying bird or fleet-footed coyote would carry the stolen fire to the home of the tribe."
+     "source": "Here they made examination of the unfriendly coast and decided to journey entirely around the island, one fish, or boat, going toward the north and the other toward the south."
+    },
+    {
+     "id": "p004.s10",
+     "source": "They were apparently intending to pass around the island and find an appropriate location for a settlement."
+    },
+    {
+     "id": "p004.s11",
+     "source": "Possibly they planned to make a permanent home or hoped to meet some good community into which they might be absorbed."
+    },
+    {
+     "id": "p004.s12",
+     "source": "The point of land which marked the separation of the two companies is called Makapuu."
+    },
+    {
+     "id": "p004.s13",
+     "source": "The boat which sailed toward the north found no good resting-place until it came to the fishing-village of Hauula."
+    },
+    {
+     "id": "p004.s14",
+     "source": "The stories told by the old natives of the present time do not give any details of the meeting between the strangers and the [ ] people residing in the village."
+    },
+    {
+     "id": "p004.s15",
+     "source": "Evidently there was dissension and at last a battle."
+    },
+    {
+     "id": "p004.s16",
+     "source": "The whole story is summed up by the Hawaiian legend in the saying: “The fish from Tahiti was caught by the fishermen of Hauula."
+    },
+    {
+     "id": "p004.s17",
+     "source": "They killed it and cut it up into pieces for food.”"
+    },
+    {
+     "id": "p004.s18",
+     "source": "Thus the visitors found death instead of friendship, and cannibalism was thereby veiled by calling the victims “fish” and the victory a “catch.”"
     }
    ],
    "id": "p004"
@@ -119,27 +167,43 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "The possession of fire meant to the ancients all that wealth means to the family of today."
+     "source": "The custom of hiding hints of cannibalistic feasts and more definite human sacrifices under the name of “fish” continued through the centuries even after the discovery of the islands by Captain Cook and the advent of white men."
     },
     {
      "id": "p005.s02",
-     "source": "It meant the possession of comfort."
+     "source": "David Malo, a native writer, who, about the year 1840, wrote a concise sketch of Hawaiian history and customs, described the capture of human sacrifices by the priests when needed for temple worship."
     },
     {
      "id": "p005.s03",
-     "source": "The gods were naturally determined to keep this wealth in their own hands."
+     "source": "He says: “The priest conducted a ceremony called Ka-papa-ulua."
     },
     {
      "id": "p005.s04",
-     "source": "For any one to make a sharp deal and cheat a god of fire out of a part of this valuable property or to make a courageous raid upon the fire guardian and steal the treasure, was easily sufficient to make that one a \"culture hero.\""
+     "source": "It was in this way: The priest accompanied by a number of others went out to sea to fish for ulua with hook and line, using squid for bait."
     },
     {
      "id": "p005.s05",
-     "source": "As a matter of fact a prehistoric family without fire would go to any length in order to get it."
+     "source": "If they were unsuccessful and got no ulua they returned to land and went from one house to another, shouting out to the people within and telling them some lie or other and asking them to come outside."
     },
     {
      "id": "p005.s06",
-     "source": "The fire finders would naturally be the hero-gods and stealing fire would be an exploit rather than a crime."
+     "source": "If any one did come out, him they killed, and, thrusting a hook in his mouth, carried [ ] him away to the heiau [temple].”"
+    },
+    {
+     "id": "p005.s07",
+     "source": "This sacrifice was called ulua, and was placed before the god of the temple as if it were a fish."
+    },
+    {
+     "id": "p005.s08",
+     "source": "Sometimes a part of the body, usually an eye, was eaten during the ceremonies of consecrating the offering to the idol."
+    },
+    {
+     "id": "p005.s09",
+     "source": "This custom has passed the test of centuries and probably was the last remnant of cannibalism in the Hawaiian Islands."
+    },
+    {
+     "id": "p005.s10",
+     "source": "It endured even to the time of the abolition of the temples and their idols."
     }
    ],
    "id": "p005"
@@ -149,7 +213,43 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "It is worth noting that in many myths not only was fire stolen, but birds marked by red or black spots among their feathers were associated with the theft."
+     "source": "The second fish from Tahiti had gone on southward in its journey around the island of Oahu."
+    },
+    {
+     "id": "p006.s02",
+     "source": "It passed the rough and desolate craters of Koko Head on the eastern end of the island."
+    },
+    {
+     "id": "p006.s03",
+     "source": "It swam by Diamond Head and the beautiful Waikiki Beach."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Either the number of the inhabitants was so large that they were afraid to make any stay or else they preferred to make the complete circuit of the island before locating, for they evidently made only a very short stay wherever they landed, and then hurried on their journey."
+    },
+    {
+     "id": "p006.s05",
+     "source": "By the time they reached Kaena, the northwestern cape of Oahu, they were evidently anxious concerning their missing companions."
+    },
+    {
+     "id": "p006.s06",
+     "source": "Not a boat on the miles of water between Kaena and Kahuku, the most northerly point on the island."
+    },
+    {
+     "id": "p006.s07",
+     "source": "The legend says that the fish changed itself into a man and went inland to search the coast for its friend, but the search [ ] was unsuccessful."
+    },
+    {
+     "id": "p006.s08",
+     "source": "It was now a weary journey from point to point, watching the sea and exploring all the spots on the beach where it seemed as if there was any prospect of finding a trace of their expected friends."
+    },
+    {
+     "id": "p006.s09",
+     "source": "Where a break in the coral reef permitted their boat to approach the land they forced their way to shore."
+    },
+    {
+     "id": "p006.s10",
+     "source": "Then when the thorough search failed again, the boat was pushed out over the line of white inrolling breakers to the great sea until at last the Tahitians came to Kahuku."
     }
    ],
    "id": "p006"
@@ -159,15 +259,51 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "It would naturally be supposed that the Hawaiians living in a volcanic country with ever-flowing fountains of lava, would connect their fire myths with some volcano when relating the story of the origin of fire."
+     "source": "Now they appeared no longer as “fish,” but went to the village at Kahuku as men."
     },
     {
      "id": "p007.s02",
-     "source": "But like the rest of the Polynesians, they found fire in trees rather than in rivers of melted rock."
+     "source": "They made themselves at home among the people and were invited to a great feast."
     },
     {
      "id": "p007.s03",
-     "source": "They must have brought their fire legends and fire customs with them when they came to the islands of active volcanoes."
+     "source": "They heard the story of a battle with a great fish at Hauula and the capture of the monster."
+    },
+    {
+     "id": "p007.s04",
+     "source": "They heard how it had been cut up and its fragments widely distributed among the villages on the northwest coast."
+    },
+    {
+     "id": "p007.s05",
+     "source": "Evidently provision had been made for several great feasts."
+    },
+    {
+     "id": "p007.s06",
+     "source": "The people of Kahuku, although several miles distant from Hauula, had received their portion."
+    },
+    {
+     "id": "p007.s07",
+     "source": "The friendly strangers must share this great gift with them."
+    },
+    {
+     "id": "p007.s08",
+     "source": "But the men from Tahiti with heavy hearts recognized the fragments as a part of their companion."
+    },
+    {
+     "id": "p007.s09",
+     "source": "They could not partake of the feast, but by kindliness and strategy they managed not only to decline the invitation, but also to secure some [ ] portions of the flesh to carry down to the sea."
+    },
+    {
+     "id": "p007.s10",
+     "source": "These were thrown into the water, and immediately came to life."
+    },
+    {
+     "id": "p007.s11",
+     "source": "They had the color of blood as a reminder of the death from which they had been reclaimed."
+    },
+    {
+     "id": "p007.s12",
+     "source": "Ever after they bore the name “Hilu-ula,” or “the red Hilu.”"
     }
    ],
    "id": "p007"
@@ -177,23 +313,35 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Flint rocks as fire producers are not found in the Hawaiian myths, nor in the stories from the island groups related to the Hawaiians."
+     "source": "Then the “fish” from Tahiti went on around to Hauula."
     },
     {
      "id": "p008.s02",
-     "source": "Indians might see the fleeing buffalo strike fire from the stones under his hard hoofs."
+     "source": "They went up to the tabu land back of Hauula."
     },
     {
      "id": "p008.s03",
-     "source": "The Tartars might have a god to teach them \"the secret of the stone's edge and the iron's hardness.\""
+     "source": "They pulled up the tabu flags."
     },
     {
      "id": "p008.s04",
-     "source": "The Peruvians could very easily form a legend of their mythical father Guamansuri finding a way to make fire after he had seen the sling stones, thrown at his enemies, bring forth sparks of fire from the rocks against which they struck."
+     "source": "Then they dammed up the waters of the valley above the village until there was sufficient for a mighty flood."
     },
     {
      "id": "p008.s05",
-     "source": "The thunder and the lightning of later years were the sparks and the crash of stones hurled among the cloud mountains by the mighty gods."
+     "source": "The storms from the heavy clouds drove the people into their homes."
+    },
+    {
+     "id": "p008.s06",
+     "source": "Then the Tahitians opened the flood-gates of their mountain reservoir and let the irresistible waters down upon the village."
+    },
+    {
+     "id": "p008.s07",
+     "source": "The houses and their inhabitants were swept into the sea and destroyed."
+    },
+    {
+     "id": "p008.s08",
+     "source": "Thus vengeance came upon the cannibals."
     }
    ],
    "id": "p008"
@@ -203,35 +351,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "In Australia the story is told of an old man and his daughter who lived in great darkness."
-    },
-    {
-     "id": "p009.s02",
-     "source": "After a time the father found the doorway of light through which the sun passed on his journey."
-    },
-    {
-     "id": "p009.s03",
-     "source": "He opened the door and a flood of sunshine covered the earth."
-    },
-    {
-     "id": "p009.s04",
-     "source": "His daughter looked around her home and saw numbers of serpents."
-    },
-    {
-     "id": "p009.s05",
-     "source": "She seized a staff and began to kill them."
-    },
-    {
-     "id": "p009.s06",
-     "source": "She wielded it so vigorously that it became hot in her hands."
-    },
-    {
-     "id": "p009.s07",
-     "source": "At last it broke, but the pieces rubbed against each other and flashed into sparks and flames."
-    },
-    {
-     "id": "p009.s08",
-     "source": "Thus it was learned that fire was buried in wood."
+     "source": "POI POUNDER"
     }
    ],
    "id": "p009"
@@ -241,11 +361,39 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Flints were known in Europe and Asia and America, but the Polynesian looked to the banyan and kindred trees for the hidden sparks of fire."
+     "source": "The Tahitians were “fish,” therefore they went back into the ocean to swim around the islands."
     },
     {
      "id": "p010.s02",
-     "source": "The natives of De Peyster's Island say that their ancestors learned how to make fire by seeing smoke rise from crossed branches rubbing together while trees were shaken by fierce winds."
+     "source": "Sometimes they came near enough to the haunts of fishermen to be taken for food."
+    },
+    {
+     "id": "p010.s03",
+     "source": "They bear the name “hilu.”"
+    },
+    {
+     "id": "p010.s04",
+     "source": "But there are two varieties."
+    },
+    {
+     "id": "p010.s05",
+     "source": "The red hilu is cooked and eaten, but never eaten without having felt the power of fire."
+    },
+    {
+     "id": "p010.s06",
+     "source": "The trace of the cannibal feast is always over its flesh."
+    },
+    {
+     "id": "p010.s07",
+     "source": "Therefore it has to be removed by purification of the flames over which it is prepared for food."
+    },
+    {
+     "id": "p010.s08",
+     "source": "The blue hilu, the natives [ ] say, is salted and eaten uncooked."
+    },
+    {
+     "id": "p010.s09",
+     "source": "Thus the legend says the two fish came from Tahiti, and thus they became the origin of some of the beautiful fish whose colors flash like the rainbow through the clear waters of Hawaii."
     }
    ],
    "id": "p010"
@@ -255,47 +403,51 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "In studying the Maui myths of the Pacific it is necessary to remember that Polynesians use \"t\" and \"k\" without distinguishing them apart, and also as in the Hawaiian Islands an apostrophe (') is often used in place of \"t\" or \"k\"."
+     "source": "Another legend somewhat similar to this is told by the natives of Hauula."
     },
     {
      "id": "p011.s02",
-     "source": "Therefore the Maui Ki-i-k-i'i of Hawaii becomes the demi-god Tiki-tiki of the Gilbert Islands—or the Ti'i-ti'i of Samoa or the Tiki of New Zealand—or other islands of the great ocean."
+     "source": "There is a valley near this village called Kaipapau (The-valley-of-the-shallow-sea)."
     },
     {
      "id": "p011.s03",
-     "source": "We must also remember that in the Hawaiian legends Kalana is Maui's father."
+     "source": "Here lived an old kahuna, or priest, who always worshipped the two great gods Ka-ne and Kanaloa."
     },
     {
      "id": "p011.s04",
-     "source": "This in other groups becomes Talanga or Kalanga or Karanga."
+     "source": "These gods had their home in the place where the old man continually worshipped them, but they loved to go away from time to time for a trip around the island."
     },
     {
      "id": "p011.s05",
-     "source": "Kanaloa, the great god of most of the different Polynesians, is also sometimes called the Father of Maui."
+     "source": "Once the gods came to their sister’s home and received from her dried fish for food."
     },
     {
      "id": "p011.s06",
-     "source": "It is not strange that some of the exploits usually ascribed to Maui should be in some places transferred to his father under one name or the other."
+     "source": "This they carried to the sea and threw into the waters, where it became alive again and swam along the coast while the gods journeyed inland."
     },
     {
      "id": "p011.s07",
-     "source": "On one or two groups Mafuia, an ancestress of Maui, is mentioned as finding the fire."
+     "source": "By and by they came to the little river on which the old man had his home."
     },
     {
      "id": "p011.s08",
-     "source": "The usual legend makes Maui the one who takes fire away from Mafuia."
+     "source": "The gods went inland along the bank of the river, and the fish turned also, forcing their way over the sand-bank which marked the mouth of the little stream."
     },
     {
      "id": "p011.s09",
-     "source": "The story of fire finding in Polynesia sifts itself to Maui under one of his widely-accepted names, or to his father or to his ancestress—with but very few exceptions."
+     "source": "Then they went up the river to a pool before the place where the gods had stopped."
     },
     {
      "id": "p011.s10",
-     "source": "This fact is important as showing in a very marked manner the race relationship of a vast number of the islanders of the Pacific world."
+     "source": "Ever since, when high water has made the river accessible, these fish, named ulua, have come to the place where the gods were worshipped by the kahuna and [ ] where they rested and drank awa with him."
     },
     {
      "id": "p011.s11",
-     "source": "From the Marshall Islands, in the west, to the Society Islands of the east; from the Hawaiian Islands in the north to the New Zealand group in the south, the footsteps of Maui the fire finder can be traced."
+     "source": "When the gods had taken enough of the awa of the priest they turned away with the warning that when he heard a great noise on the shore he must not go down to see what the people were doing, but ask what the excitement was about, and if it was a shark or a great fish he was to remain at home."
+    },
+    {
+     "id": "p011.s12",
+     "source": "He must not go to that place."
     }
    ],
    "id": "p011"
@@ -305,35 +457,71 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "The Hawaiian story of fire finding is one of the least marvelous of all the legends."
+     "source": "A few days later a big wave came up from the sea and swept over the beach."
     },
     {
      "id": "p012.s02",
-     "source": "Hina, Maui's mother, wanted fish."
+     "source": "When the water flowed back there was left a great whale, the tail on the shore and the head out in the sea."
     },
     {
      "id": "p012.s03",
-     "source": "One morning early Maui saw that the great storm waves of the sea had died down and the fishing grounds could be easily reached."
+     "source": "The people came to see the whale."
     },
     {
      "id": "p012.s04",
-     "source": "He awakened his brothers and with them hastened to the beach."
+     "source": "They thought that it was dead."
     },
     {
      "id": "p012.s05",
-     "source": "This was at Kaupo on the island of Maui."
+     "source": "They played on its back and leaped into the deep waters from its head."
     },
     {
      "id": "p012.s06",
-     "source": "Out into the gray shadows of the dawn they paddled."
+     "source": "Their shouts of joy and loud laughter reached the ears of the priest, who was living inland."
     },
     {
      "id": "p012.s07",
-     "source": "When they were far from shore they began to fish."
+     "source": "Then the people came to the riverside to gather vines and flowers with which to make wreaths."
     },
     {
      "id": "p012.s08",
-     "source": "But Maui, looking landward, saw a fire on the mountain side."
+     "source": "Probably it was the intention of the villagers to cut the great fish into pieces and have a feast."
+    },
+    {
+     "id": "p012.s09",
+     "source": "The old priest was very anxious to see the marvellous fish."
+    },
+    {
+     "id": "p012.s10",
+     "source": "He forgot the warning of the gods and went to the seaside."
+    },
+    {
+     "id": "p012.s11",
+     "source": "The people shouted for the old man to come quickly."
+    },
+    {
+     "id": "p012.s12",
+     "source": "The old priest stood by the tail of the great fish."
+    },
+    {
+     "id": "p012.s13",
+     "source": "As if to welcome him the tail moved."
+    },
+    {
+     "id": "p012.s14",
+     "source": "He climbed on the back and ran to the head and leaped into [ ] the sea."
+    },
+    {
+     "id": "p012.s15",
+     "source": "The people cheered the priest as he returned to the beach and a second time approached the whale."
+    },
+    {
+     "id": "p012.s16",
+     "source": "Again there was the motion of the tail, and again the priest ran along the back, but as he leaped the whale caught him and carried him away to Tahiti."
+    },
+    {
+     "id": "p012.s17",
+     "source": "Therefore a name was given to a point of land not far from this place—the name “Ka-loe-o-ka-palaoa” (The cape of the whale)."
     }
    ],
    "id": "p012"
@@ -343,27 +531,14 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "\"Behold,\" he cried."
-    },
-    {
-     "id": "p013.s02",
-     "source": "\"There is a fire burning."
-    },
-    {
-     "id": "p013.s03",
-     "source": "Whose can this fire be?\""
+     "source": "[ ]"
     }
    ],
    "id": "p013"
   },
   {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p014.s01",
-     "source": "\"Whose, indeed?\" his brothers replied."
-    }
-   ],
+   "type": "break",
+   "segments": [],
    "id": "p014"
   },
   {
@@ -371,1223 +546,10 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "\"Let us hasten to the shore and cook our food,\" said one."
+     "source": "“T” and “K” are interchangeable. ↑"
     }
    ],
    "id": "p015"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p016.s01",
-     "source": "They decided that they had better catch some fish to cook before they returned."
-    },
-    {
-     "id": "p016.s02",
-     "source": "Thus, in the morning, before the hot sun drove the fish deep down to the dark recesses of the sea, they fished until a bountiful supply lay in the bottom of the canoe."
-    }
-   ],
-   "id": "p016"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p017.s01",
-     "source": "When they came to land, Maui leaped out and ran up the mountain side to get the fire."
-    },
-    {
-     "id": "p017.s02",
-     "source": "For a long, long time they had been without fire."
-    },
-    {
-     "id": "p017.s03",
-     "source": "The great volcano Haleakala above them had become extinct—and they had lost the coals they had tried to keep alive."
-    },
-    {
-     "id": "p017.s04",
-     "source": "They had eaten fruits and uncooked roots and the shell fish broken from the reef—and sometimes the great raw fish from the far-out ocean."
-    },
-    {
-     "id": "p017.s05",
-     "source": "But now they hoped to gain living fire and cooked food."
-    }
-   ],
-   "id": "p017"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p018.s01",
-     "source": "But when Maui rushed up toward the cloudy pillar of smoke he saw a family of birds scratching the fire out."
-    },
-    {
-     "id": "p018.s02",
-     "source": "Their work was finished and they flew away just as he reached the place."
-    }
-   ],
-   "id": "p018"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p019.s01",
-     "source": "Maui and his brothers watched for fire day after day—but the birds, the curly-tailed Alae (or the mud-hens) made no fire."
-    },
-    {
-     "id": "p019.s02",
-     "source": "Finally the brothers went fishing once more—but when they looked toward the mountain, again they saw flames and smoke."
-    },
-    {
-     "id": "p019.s03",
-     "source": "Thus it happened to them again and again."
-    }
-   ],
-   "id": "p019"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p020.s01",
-     "source": "Maui proposed to his brothers that they go fishing leaving him to watch the birds."
-    },
-    {
-     "id": "p020.s02",
-     "source": "But the Alae counted the fishermen and refused to build a fire for the hidden one who was watching them."
-    },
-    {
-     "id": "p020.s03",
-     "source": "They said among themselves, \"Three are in the boat and we know not where the other one is, we will make no fire today.\""
-    }
-   ],
-   "id": "p020"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p021.s01",
-     "source": "So the experiment failed again and again."
-    },
-    {
-     "id": "p021.s02",
-     "source": "If one or two remained or if all waited on the land there would be no fire—but the dawn which saw the four brothers in the boat, saw also the fire on the land."
-    }
-   ],
-   "id": "p021"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p022.s01",
-     "source": "Finally Maui rolled some kapa cloth together and stuck it up in one end of the canoe so that it would look like a man."
-    },
-    {
-     "id": "p022.s02",
-     "source": "He then concealed himself near the haunt of the mud-hens, while his brothers went out fishing."
-    },
-    {
-     "id": "p022.s03",
-     "source": "The birds counted the figures in the boat and then started to build a heap of wood for the fire."
-    }
-   ],
-   "id": "p022"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p023.s01",
-     "source": "Maui was impatient—and just as the old Alae began to select sticks with which to make the flames he leaped swiftly out and caught her and held her prisoner."
-    },
-    {
-     "id": "p023.s02",
-     "source": "He forgot for a moment that he wanted the secret of fire making."
-    },
-    {
-     "id": "p023.s03",
-     "source": "In his anger against the wise bird his first impulse was to taunt her and then kill her for hiding the secret of fire."
-    }
-   ],
-   "id": "p023"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p024.s01",
-     "source": "But the Alae cried out: \"If you are the death of me—my secret will perish also—and you cannot have fire.\""
-    }
-   ],
-   "id": "p024"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p025.s01",
-     "source": "Maui then promised to spare her life if she would tell him what to do."
-    }
-   ],
-   "id": "p025"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p026.s01",
-     "source": "Then came the contest of wits."
-    },
-    {
-     "id": "p026.s02",
-     "source": "The bird told the demi-god to rub the stalks of water plants together."
-    },
-    {
-     "id": "p026.s03",
-     "source": "He guarded the bird and tried the plants."
-    },
-    {
-     "id": "p026.s04",
-     "source": "Water instead of fire ran out of the twisted stems."
-    },
-    {
-     "id": "p026.s05",
-     "source": "Then she told him to rub reeds together—but they bent and broke and could make no fire."
-    },
-    {
-     "id": "p026.s06",
-     "source": "He twisted her neck until she was half dead—then she cried out: \"I have hidden the fire in a green stick.\""
-    }
-   ],
-   "id": "p026"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p027.s01",
-     "source": "Maui worked hard, but not a spark of fire appeared."
-    },
-    {
-     "id": "p027.s02",
-     "source": "Again he caught his prisoner by the head and wrung her neck, and she named a kind of dry wood."
-    },
-    {
-     "id": "p027.s03",
-     "source": "Maui rubbed the sticks together, but they only became warm."
-    },
-    {
-     "id": "p027.s04",
-     "source": "The neck twisting process was resumed—and repeated again and again, until the mud-hen was almost dead—and Maui had tried tree after tree."
-    },
-    {
-     "id": "p027.s05",
-     "source": "At last Maui found fire."
-    },
-    {
-     "id": "p027.s06",
-     "source": "Then as the flames rose he said: \"There is one more thing to rub.\""
-    },
-    {
-     "id": "p027.s07",
-     "source": "He took a fire stick and rubbed the top of the head of his prisoner until the feathers fell off and the raw flesh appeared."
-    },
-    {
-     "id": "p027.s08",
-     "source": "Thus the Hawaiian mud-hen and her descendants have ever since had bald heads, and the Hawaiians have had the secret of fire making."
-    }
-   ],
-   "id": "p027"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p028.s01",
-     "source": "Another Hawaiian legend places the scene of Maui's contest with the mud-hens a little inland of the town of Hilo on the Island of Hawaii."
-    },
-    {
-     "id": "p028.s02",
-     "source": "There are three small extinct craters very near each other known as The Halae Hills."
-    },
-    {
-     "id": "p028.s03",
-     "source": "One, the southern or Puna side of the hills, is a place called Pohaku-nui."
-    },
-    {
-     "id": "p028.s04",
-     "source": "Here dwelt two brother birds of the Alae family."
-    },
-    {
-     "id": "p028.s05",
-     "source": "They were gods."
-    },
-    {
-     "id": "p028.s06",
-     "source": "One had the power of fire making."
-    },
-    {
-     "id": "p028.s07",
-     "source": "Here at Pohaku-nui they were accustomed to kindle a fire and bake their dearly loved food—baked bananas."
-    },
-    {
-     "id": "p028.s08",
-     "source": "Here Maui planned to learn the secret of fire."
-    },
-    {
-     "id": "p028.s09",
-     "source": "The birds had kindled the fire and the bananas were almost done, when the elder Alae called to the younger: \"Be quick, here comes the swift son of Hina.\""
-    }
-   ],
-   "id": "p028"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p029.s01",
-     "source": "The birds scratched out the fire, caught the bananas and fled."
-    },
-    {
-     "id": "p029.s02",
-     "source": "Maui told his mother he would follow them until he learned the secret of fire."
-    },
-    {
-     "id": "p029.s03",
-     "source": "His mother encouraged him because he was very strong and very swift."
-    },
-    {
-     "id": "p029.s04",
-     "source": "So he followed the birds from place to place as they fled from him, finding new spots on which to make their fires."
-    },
-    {
-     "id": "p029.s05",
-     "source": "At last they came to Waianae on the island Oahu."
-    },
-    {
-     "id": "p029.s06",
-     "source": "There he saw a great fire and a multitude of birds gathered around it, chattering loudly and trying to hasten the baking of the bananas."
-    },
-    {
-     "id": "p029.s07",
-     "source": "Their incantation was this: \"Let us cook quick.\""
-    },
-    {
-     "id": "p029.s08",
-     "source": "\"Let us cook quick.\""
-    },
-    {
-     "id": "p029.s09",
-     "source": "\"The swift child of Hina will come.\""
-    }
-   ],
-   "id": "p029"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p030.s01",
-     "source": "Maui's mother Hina had taught him how to know the fire-maker."
-    },
-    {
-     "id": "p030.s02",
-     "source": "\"If you go up to the fire, you will find many birds."
-    },
-    {
-     "id": "p030.s03",
-     "source": "Only one is the guardian."
-    },
-    {
-     "id": "p030.s04",
-     "source": "This is the small, young Alae."
-    },
-    {
-     "id": "p030.s05",
-     "source": "His name is Alae-iki: Only this one knows how to make fire.\""
-    },
-    {
-     "id": "p030.s06",
-     "source": "So whenever Maui came near to the fire-makers he always sought for the little Alae."
-    },
-    {
-     "id": "p030.s07",
-     "source": "Sometimes he made mistakes and sometimes almost captured the one he desired."
-    },
-    {
-     "id": "p030.s08",
-     "source": "At Waianae he leaped suddenly among the birds."
-    },
-    {
-     "id": "p030.s09",
-     "source": "They scattered the fire, and the younger bird tried to snatch his banana from the coals and flee, but Maui seized him and began to twist his neck."
-    },
-    {
-     "id": "p030.s10",
-     "source": "The bird cried out, warning Maui not to kill him or he would lose the secret of fire altogether."
-    },
-    {
-     "id": "p030.s11",
-     "source": "Maui was told that the fire was made from a banana stump."
-    },
-    {
-     "id": "p030.s12",
-     "source": "He saw the bananas roasting and thought this was reasonable."
-    },
-    {
-     "id": "p030.s13",
-     "source": "So, according to directions, he began to rub together pieces of the banana."
-    },
-    {
-     "id": "p030.s14",
-     "source": "The bird hoped for an unguarded moment when he might es cape, but Maui was very watchful and was also very angry when he found that rubbing only resulted in squeezing out juice."
-    },
-    {
-     "id": "p030.s15",
-     "source": "Then he twisted the neck of the bird and was told to rub the stem of the taro plant."
-    },
-    {
-     "id": "p030.s16",
-     "source": "This also was so green that it only produced water."
-    },
-    {
-     "id": "p030.s17",
-     "source": "Then he was so angry that he nearly rubbed the head of the bird off—and the bird, fearing for its life, told the truth and taught Maui how to find the wood in which fire dwelt."
-    }
-   ],
-   "id": "p030"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p031.s01",
-     "source": "They learned to draw out the sparks secreted in different kinds of trees."
-    },
-    {
-     "id": "p031.s02",
-     "source": "The sweet sandalwood was one of these fire trees."
-    },
-    {
-     "id": "p031.s03",
-     "source": "Its Hawaiian name is \"Ili-ahi\"—the \"ili\" (bark) and \"ahi\" (fire), the bark in which fire is concealed."
-    }
-   ],
-   "id": "p031"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p032.s01",
-     "source": "A legend of the Society Islands is somewhat similar."
-    },
-    {
-     "id": "p032.s02",
-     "source": "Ina (Hina) promised to aid Maui in finding fire for the islanders."
-    },
-    {
-     "id": "p032.s03",
-     "source": "She sent him into the under-world to find Tangaroa (Kanaloa)."
-    },
-    {
-     "id": "p032.s04",
-     "source": "This god Tangaroa held fire in his possession—Maui was to know him by his tattooed face."
-    },
-    {
-     "id": "p032.s05",
-     "source": "Down the dark path through the long caves Maui trod swiftly until he found the god."
-    },
-    {
-     "id": "p032.s06",
-     "source": "Maui asked him for fire to take up to men."
-    },
-    {
-     "id": "p032.s07",
-     "source": "The god gave him a lighted stick and sent him away."
-    },
-    {
-     "id": "p032.s08",
-     "source": "But Maui put the fire out and went back again after fire."
-    },
-    {
-     "id": "p032.s09",
-     "source": "This he did several times, until the wearied giver decided to teach the intruder the art of fire making."
-    },
-    {
-     "id": "p032.s10",
-     "source": "He called a white duck to aid him."
-    },
-    {
-     "id": "p032.s11",
-     "source": "Then, taking two sticks of dry wood, he gave the under one to the bird and rapidly moved the upper stick across the under until fire came."
-    },
-    {
-     "id": "p032.s12",
-     "source": "Maui seized the upper stick, after it had been charred in the flame, and burned the head of the bird back of each eye."
-    },
-    {
-     "id": "p032.s13",
-     "source": "Thus were made the black spots which mark the head of the white duck."
-    },
-    {
-     "id": "p032.s14",
-     "source": "Then arose a quarrel between Tangaroa and Maui—but Maui struck down the god, and, thinking he had killed him, carried away the art of making fire."
-    },
-    {
-     "id": "p032.s15",
-     "source": "His father and mother made inquiries about their relative—Maui hastened back to the fire fountain and made the spirit return to the body—then, coming back to Ina, he bade her good bye and carried the fire sticks to the upper-world."
-    },
-    {
-     "id": "p032.s16",
-     "source": "The Hawaiians, and probably others among the Polynesians, felt that any state of unconsciousness was a form of death in which the spirit left the body, but was called back by prayers and incantations."
-    },
-    {
-     "id": "p032.s17",
-     "source": "Therefore, when Maui restored the god to consciousness, he was supposed to have made the spirit released by death return into the body and bring it back to life."
-    }
-   ],
-   "id": "p032"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p033.s01",
-     "source": "In the Samoan legends as related by G. Turner, the name Ti'iti'i is used."
-    },
-    {
-     "id": "p033.s02",
-     "source": "This is the same as the second name found in Maui Ki'i-ki'i. The Samoan legend of Ti'iti'i is almost identical with the New Zealand fire myth of Maui, and is very similar to the story coming from the Hervey Islands from Savage Island and also from the Tokelau and other island groups."
-    },
-    {
-     "id": "p033.s03",
-     "source": "The Samoan story says that the home of Mafuie the earthquake god was in the land of perpetual fire."
-    },
-    {
-     "id": "p033.s04",
-     "source": "Maui's or Ti'iti'i's father Talanga (Kalana) was also a resident of the under-world and a great friend of the earthquake god."
-    }
-   ],
-   "id": "p033"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p034.s01",
-     "source": "Ti'iti'i watched his father as he left his home in the upper-world."
-    },
-    {
-     "id": "p034.s02",
-     "source": "Talanga approached a perpendicular wall of rock, said some prayer or incantation—and passed through a door which immediately closed after him."
-    },
-    {
-     "id": "p034.s03",
-     "source": "(This is a very near approach to the \"open sesame\" of the Arabian Nights stories.)"
-    }
-   ],
-   "id": "p034"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p035.s01",
-     "source": "Ti'iti'i went to the rock, but could not find the way through."
-    },
-    {
-     "id": "p035.s02",
-     "source": "He determined to conceal himself the next time so near that he could hear his father's words."
-    }
-   ],
-   "id": "p035"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p036.s01",
-     "source": "After some days he was able to catch all the words uttered by his father as he knocked on the stone door—"
-    }
-   ],
-   "id": "p036"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p037.s01",
-     "source": "\"O rock! divide."
-    },
-    {
-     "id": "p037.s02",
-     "source": "I am Talanga, I come to work On my land Given by Mafuie.\""
-    }
-   ],
-   "id": "p037"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p038.s01",
-     "source": "Ti'iti'i went to the perpendicular wall and imitating his father's voice called for a rock to open."
-    },
-    {
-     "id": "p038.s02",
-     "source": "Down through a cave he passed until he found his father working in the under-world."
-    }
-   ],
-   "id": "p038"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p039.s01",
-     "source": "The astonished father, learning how his son came, bade him keep very quiet and work lest he arouse the anger of Mafuie."
-    },
-    {
-     "id": "p039.s02",
-     "source": "So for a time the boy labored obediently by his father's side."
-    }
-   ],
-   "id": "p039"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p040.s01",
-     "source": "In a little while the boy saw smoke and asked what it was."
-    },
-    {
-     "id": "p040.s02",
-     "source": "The father told him that it was the smoke from the fire of Mafuie, and explained what fire would do."
-    }
-   ],
-   "id": "p040"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p041.s01",
-     "source": "The boy determined to get some fire—he went to the place from which the smoke arose and there found the god, and asked him for fire."
-    },
-    {
-     "id": "p041.s02",
-     "source": "Mafuie gave him fire to carry to his father."
-    },
-    {
-     "id": "p041.s03",
-     "source": "The boy quickly had an oven prepared and the fire placed in it to cook some of the taro they had been cultivating."
-    },
-    {
-     "id": "p041.s04",
-     "source": "Just as everything was ready an earthquake god came up and blew the fire out and scattered the stones of the oven."
-    }
-   ],
-   "id": "p041"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p042.s01",
-     "source": "Then Ti'iti'i was angry and began to talk to Mafuie."
-    },
-    {
-     "id": "p042.s02",
-     "source": "The god attacked the boy, intending to punish him severely for daring to rebel against the destruction of the fire."
-    }
-   ],
-   "id": "p042"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p043.s01",
-     "source": "What a battle there was for a time in the under-world!"
-    },
-    {
-     "id": "p043.s02",
-     "source": "At last Ti'iti'i seized one of the arms of Mafuie and broke it off."
-    },
-    {
-     "id": "p043.s03",
-     "source": "He caught the other arm and began to twist and bend it."
-    }
-   ],
-   "id": "p043"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p044.s01",
-     "source": "Mafuie begged the boy to spare him."
-    },
-    {
-     "id": "p044.s02",
-     "source": "His right arm was gone."
-    },
-    {
-     "id": "p044.s03",
-     "source": "How could he govern the earthquakes if his left arm were torn off also?"
-    },
-    {
-     "id": "p044.s04",
-     "source": "It was his duty to hold Samoa level and not permit too many earthquakes."
-    },
-    {
-     "id": "p044.s05",
-     "source": "It would be hard to do that even with one arm—but it would be impossible if both arms were gone."
-    }
-   ],
-   "id": "p044"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p045.s01",
-     "source": "Ti'iti'i listened to the plea and demanded a reward if he should spare the left arm."
-    },
-    {
-     "id": "p045.s02",
-     "source": "Mafuie offered Ti'iti'i one hundred wives."
-    },
-    {
-     "id": "p045.s03",
-     "source": "The boy did not want them."
-    }
-   ],
-   "id": "p045"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p046.s01",
-     "source": "Then the god offered to teach him the secret of fire finding to take to the upper-world."
-    }
-   ],
-   "id": "p046"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p047.s01",
-     "source": "The boy agreed to accept the fire secret, and thus learned that the gods in making the earth had concealed fire in various trees for men to discover in their own good time, and that this fire could be brought out by rubbing pieces of wood together."
-    }
-   ],
-   "id": "p047"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p048.s01",
-     "source": "The people of Samoa have not had much faith in Mafuie's plea that he needed his left arm in order to keep Samoa level."
-    },
-    {
-     "id": "p048.s02",
-     "source": "They say that Mafuie has a long stick or handle to the world under the islands—and when he is angry or wishes to frighten them he moves this handle and easily shakes the islands."
-    },
-    {
-     "id": "p048.s03",
-     "source": "When an earthquake comes, they give thanks to Ti'iti'i for breaking off one arm—because if the god had two arms they believe he would shake them unmercifully."
-    }
-   ],
-   "id": "p048"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p049.s01",
-     "source": "One legend of the Hervey Islands says that Maui and his brothers had been living on uncooked food—but learned that their mother sometimes had delicious food which had been cooked."
-    },
-    {
-     "id": "p049.s02",
-     "source": "They learned also that fire was needed in order to cook their food."
-    },
-    {
-     "id": "p049.s03",
-     "source": "Then Maui wanted fire and watched his mother."
-    }
-   ],
-   "id": "p049"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p050.s01",
-     "source": "Maui's mother was the guardian of the way to the invisible world."
-    },
-    {
-     "id": "p050.s02",
-     "source": "When she desired to pass from her home to the other world, she would open a black rock and pass inside."
-    },
-    {
-     "id": "p050.s03",
-     "source": "Thus she went to Hawaiki, the under-world."
-    },
-    {
-     "id": "p050.s04",
-     "source": "Maui planned to follow her, but first studied the forms of birds that he might assume the body of the strongest and most enduring."
-    },
-    {
-     "id": "p050.s05",
-     "source": "After a time he took the shape of a pigeon and, flying to the black rock, passed through the door and flew down the long dark passage-way."
-    }
-   ],
-   "id": "p050"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p051.s01",
-     "source": "After a time he found the god of fire living in a bunch of banyan sticks."
-    },
-    {
-     "id": "p051.s02",
-     "source": "He changed himself into the form of a man and demanded the secret of fire."
-    }
-   ],
-   "id": "p051"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p052.s01",
-     "source": "The fire god agreed to give Maui fire if he would permit himself to be tossed into the sky by the god's strong arms."
-    }
-   ],
-   "id": "p052"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p053.s01",
-     "source": "Maui agreed on condition that he should have the right to toss the fire god afterwards."
-    }
-   ],
-   "id": "p053"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p054.s01",
-     "source": "The fire-god felt certain that there would be only one exercise of strength—he felt that he had everything in his own hands—so readily agreed to the tossing contest."
-    },
-    {
-     "id": "p054.s02",
-     "source": "It was his intention to throw his opponent so high that when he fell, if he ever did fall, there would be no antagonist uncrushed."
-    }
-   ],
-   "id": "p054"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p055.s01",
-     "source": "He seized Maui in his strong arms and, swinging him back and forth, flung him upward—but the moment Maui left his hands he changed himself into a feather and floated softly to the ground."
-    }
-   ],
-   "id": "p055"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p056.s01",
-     "source": "Then the boy ran swiftly to the god and seized him by the legs and lifted him up."
-    },
-    {
-     "id": "p056.s02",
-     "source": "Then he began to increase in size and strength until he had lifted the fire god very high."
-    },
-    {
-     "id": "p056.s03",
-     "source": "Suddenly he tossed the god upward and caught him as he fell—again and again—until the bruised and dizzy god cried enough, and agreed to give the victor whatever he demanded."
-    }
-   ],
-   "id": "p056"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p057.s01",
-     "source": "Maui asked for the secret of fire producing."
-    },
-    {
-     "id": "p057.s02",
-     "source": "The god taught him how to rub the dry sticks of certain kinds of trees together, and, by friction, produce fire, and especially how fire could be produced by rubbing fire sticks in the fine dust of the banyan tree."
-    }
-   ],
-   "id": "p057"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p058.s01",
-     "source": "A Society Island legend says Maui borrowed a sacred red pigeon, belonging to one of the gods, and, changing himself into a dragon fly, rode this pigeon through a black rock into Avaiki (Hawaiki), the fire-land of the under-world."
-    },
-    {
-     "id": "p058.s02",
-     "source": "He found the god of fire, Mau-ika, living in a house built from a banyan tree."
-    },
-    {
-     "id": "p058.s03",
-     "source": "Mau-ika taught Maui the kinds of wood into which when fire went out on the earth a fire goddess had thrown sparks in order to preserve fire."
-    },
-    {
-     "id": "p058.s04",
-     "source": "Among these were the \"au\" (Hawaiian hau), or \"the lemon hibiscus\"—the \"argenta,\" the \"fig\" and the \"banyan.\""
-    },
-    {
-     "id": "p058.s05",
-     "source": "She taught him also how to make fire by swift motion when rubbing the sticks of these trees."
-    },
-    {
-     "id": "p058.s06",
-     "source": "She also gave him coals for his present need."
-    }
-   ],
-   "id": "p058"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p059.s01",
-     "source": "But Maui was viciously mischievous and set the banyan house on fire, then mounted his pigeon and fled toward the upper-world."
-    },
-    {
-     "id": "p059.s02",
-     "source": "But the flames hastened after him and burst out through the rock doors into the sunlit land above—as if it were a volcanic eruption."
-    }
-   ],
-   "id": "p059"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p060.s01",
-     "source": "The Tokelau Islanders say that Talanga (Kalana) known in other groups of islands as the father of Maui, desired fire in order to secure warmth and cooked food."
-    },
-    {
-     "id": "p060.s02",
-     "source": "He went down, down, very far down in the caves of the earth."
-    },
-    {
-     "id": "p060.s03",
-     "source": "In the lower world he found Mafuika—an old blind woman, who was the guardian of fire."
-    },
-    {
-     "id": "p060.s04",
-     "source": "He told her he wanted fire to take back to men."
-    },
-    {
-     "id": "p060.s05",
-     "source": "She refused either to give fire or to teach how to make it."
-    },
-    {
-     "id": "p060.s06",
-     "source": "Talanga threatened to kill her, and finally persuaded her to teach how to make fire in any place he might dwell—and the proper trees to use, the fire-yielding trees."
-    },
-    {
-     "id": "p060.s07",
-     "source": "She also taught him how to cook food—and also the kind of fish he should cook, and the kinds which should be eaten raw."
-    },
-    {
-     "id": "p060.s08",
-     "source": "Thus mankind learned about food as well as fire."
-    }
-   ],
-   "id": "p060"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p061.s01",
-     "source": "The Savage Island legend adds the element of danger to Maui's mischievous theft of fire."
-    },
-    {
-     "id": "p061.s02",
-     "source": "The lad followed his father one day and saw him pull up a bunch of reeds and go down into the fire-land beneath."
-    },
-    {
-     "id": "p061.s03",
-     "source": "Maui hastened down to see what his father was doing."
-    },
-    {
-     "id": "p061.s04",
-     "source": "Soon he saw his opportunity to steal the secret of fire."
-    },
-    {
-     "id": "p061.s05",
-     "source": "Then he caught some fire and started for the upper-world."
-    }
-   ],
-   "id": "p061"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p062.s01",
-     "source": "His father caught a glimpse of the young thief and tried to stop him."
-    }
-   ],
-   "id": "p062"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p063.s01",
-     "source": "Maui ran up the passage through the black cave—bushes and trees bordered his road."
-    }
-   ],
-   "id": "p063"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p064.s01",
-     "source": "The father hastened after his son and was almost ready to lay hands upon him, when Maui set fire to the bushes."
-    },
-    {
-     "id": "p064.s02",
-     "source": "The flames spread rapidly, catching the underbrush and the trees on all sides and burst out in the face of the pursuer."
-    },
-    {
-     "id": "p064.s03",
-     "source": "Destruction threatened the under-world, but Maui sped along his way."
-    },
-    {
-     "id": "p064.s04",
-     "source": "Then he saw that the fire was chasing him."
-    },
-    {
-     "id": "p064.s05",
-     "source": "Bush after bush leaped into flame and hurled sparks and smoke and burning air after him."
-    },
-    {
-     "id": "p064.s06",
-     "source": "Choked and smoke-surrounded, he broke through the door of the cavern and found the fresh air of the world."
-    },
-    {
-     "id": "p064.s07",
-     "source": "But the flames followed him and swept out in great power upon the upper-world a mighty volcanic eruption."
-    }
-   ],
-   "id": "p064"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p065.s01",
-     "source": "The New Zealand legends picture Maui as putting out, in one night, all the fires of his people."
-    },
-    {
-     "id": "p065.s02",
-     "source": "This was serious mischief, and Maui's mother decided that he should go to the under-world and see his ancestress, Mahuika, the guardian of fire, and get new fire to repair the injury he had wrought."
-    },
-    {
-     "id": "p065.s03",
-     "source": "She warned him against attempting to play tricks upon the inhabitants of the lower regions."
-    }
-   ],
-   "id": "p065"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p066.s01",
-     "source": "Maui gladly hastened down the cave-path to the house of Mahuika, and asked for fire for the upper-world."
-    },
-    {
-     "id": "p066.s02",
-     "source": "In some way he pleased her so that she pulled off a finger nail in which fire was burning and gave it to him."
-    },
-    {
-     "id": "p066.s03",
-     "source": "As soon as he had gone back to a place where there was water, he put the fire out and returned to Mahuika, asking another gift, which he destroyed."
-    },
-    {
-     "id": "p066.s04",
-     "source": "This he did for both hands and feet until only one nail remained."
-    },
-    {
-     "id": "p066.s05",
-     "source": "Maui wanted this."
-    },
-    {
-     "id": "p066.s06",
-     "source": "Then Mahuika became angry and threw the last finger nail on the ground."
-    },
-    {
-     "id": "p066.s07",
-     "source": "Fire poured out and laid hold of everything."
-    },
-    {
-     "id": "p066.s08",
-     "source": "Maui ran up the path to the upper-world, but the fire was swifter-footed."
-    },
-    {
-     "id": "p066.s09",
-     "source": "Then Maui changed himself into an eagle and flew high up into the air, but the fire and smoke still followed him."
-    },
-    {
-     "id": "p066.s10",
-     "source": "Then he saw water and dashed into it, but it was too hot."
-    },
-    {
-     "id": "p066.s11",
-     "source": "Around him the forests were blazing, the earth burning and the sea boiling."
-    },
-    {
-     "id": "p066.s12",
-     "source": "Maui, about to perish, called on the gods for rain."
-    },
-    {
-     "id": "p066.s13",
-     "source": "Then floods of water fell and the fire was checked."
-    },
-    {
-     "id": "p066.s14",
-     "source": "The great rain fell on Mahuika and she fled, almost drowned."
-    },
-    {
-     "id": "p066.s15",
-     "source": "Her stores of fire were destroyed, quenched by the storm."
-    },
-    {
-     "id": "p066.s16",
-     "source": "But in order to save fire for the use of men, as she fled she threw sparks into different kinds of trees where the rain could not reach them, so that when fire was needed it might be brought into the world again by rubbing together the fire sticks."
-    }
-   ],
-   "id": "p066"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p067.s01",
-     "source": "The Chatham Islanders give the following incantation, which they said was used by Maui against the fierce flood of fire which was pursuing him:"
-    }
-   ],
-   "id": "p067"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p068.s01",
-     "source": "\"To the roaring thunder; To the great rain—the long rain; To the drizzling rain—the small rain; To the rain pattering on the leaves."
-    },
-    {
-     "id": "p068.s02",
-     "source": "These are the storms—the storms Cause them to fall; To pour in torrents.\""
-    }
-   ],
-   "id": "p068"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p069.s01",
-     "source": "The legend of Savage Island places Maui in the role of fire-maker."
-    },
-    {
-     "id": "p069.s02",
-     "source": "He has stolen fire in the under-world."
-    },
-    {
-     "id": "p069.s03",
-     "source": "His father tries to catch him, but Maui sets fire to the bushes by the path until a great conflagration is raging which pursues him to the upper-world."
-    }
-   ],
-   "id": "p069"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p070.s01",
-     "source": "Some legends make Maui the fire-teacher as well as the fire-finder."
-    },
-    {
-     "id": "p070.s02",
-     "source": "He teaches men how to use hardwood sticks in the fine dry dust on the bark of certain trees, or how to use the fine fibre of the palm tree to catch sparks."
-    }
-   ],
-   "id": "p070"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p071.s01",
-     "source": "In Tahiti the fire god lived in the \"Hale-a-o-a,\" or House of the Banyan."
-    },
-    {
-     "id": "p071.s02",
-     "source": "Sometimes human sacrifices were placed upon the sacred branches of this tree of the fire god."
-    }
-   ],
-   "id": "p071"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p072.s01",
-     "source": "In the Bowditch or Fakaofa Islands the goddess of fire when conquered taught not only the method of making fire by friction but also what fish were to be cooked and what were to be eaten raw."
-    }
-   ],
-   "id": "p072"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p073.s01",
-     "source": "Thus some of the myths of Maui, the mischievous, finding fire are told by the side of the inrolling surf, while natives of many islands, around their poi bowls, rest in the shade of the far-reaching boughs and thick foliage of the banyan and other fire-producing trees."
-    }
-   ],
-   "id": "p073"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p074"
   }
  ]
 }

@@ -1,0 +1,40 @@
+{
+ "id": "am-chile-042",
+ "title": {
+  "id": "title",
+  "source": "La Sirena De Aculeo"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/042 - La Sirena De Aculeo.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 78
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "En la laguna de Aculeo sale todas las noches a las 12 a peinarse una niña, con un peine de oro."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Los que pasan cerca y tratan de ir a donde está la niña, se caen en la laguna y se ahogan irremisiblemente."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Se dice que toca en un arpa de oro y que cuando deja de tocar, salen siete potros que corren sobre el agua, y siete jinetes que los persiguen tirándoles el lazo, sin conseguir enlazarlos."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

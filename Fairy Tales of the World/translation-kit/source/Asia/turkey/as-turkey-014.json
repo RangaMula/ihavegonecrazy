@@ -2,20 +2,20 @@
  "id": "as-turkey-014",
  "title": {
   "id": "title",
-  "source": "How The Priest Knew That It Would Snow"
+  "source": "The Padishah Of The Forty Peris"
  },
  "tradition": "Turkey",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Told in the Coffee House: Turkish Tales",
- "credits": "Ramsay, Allan (author, d. 1758); Adler, Cyrus (author, d. 1940)",
- "gutenberg": "Project Gutenberg eBook #30577 — https://www.gutenberg.org/ebooks/30577 (copied via the GITenberg mirror)",
+ "source_book": "Turkish fairy tales and folk tales",
+ "credits": "Kúnos, Ignácz (compiler, d. 1945); Bain, R. Nisbet (Robert Nisbet) (translator, d. 1909)",
+ "gutenberg": "Project Gutenberg eBook #64807 — https://www.gutenberg.org/ebooks/64807",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Asia/Turkey/014 - How The Priest Knew That It Would Snow.md",
+ "markdown_file": "Asia/Turkey/014 - The Padishah Of The Forty Peris.md",
  "stats": {
-  "paragraphs": 17,
-  "segments": 33,
-  "words": 601
+  "paragraphs": 30,
+  "segments": 96,
+  "words": 2383
  },
  "paragraphs": [
   {
@@ -23,23 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Turk travelling in Asia Minor came to a Christian village."
+     "source": "In the old, old time, in the age of fairy tales, there was once the daughter of a Padishah who was as fair as the full moon, as slim as a cypress-tree, with eyes like coals, and hair like the night, and her eyebrows were like bows, and her eyeballs like the darts of archers."
     },
     {
      "id": "p001.s02",
-     "source": "He journeyed on horseback, was accompanied by a black slave, and seeming a man of consequence, the priest of the village offered him hospitality for the night."
-    },
-    {
-     "id": "p001.s03",
-     "source": "The first thing to be done was to conduct the traveller to the stable, that he might see his horse attended to and comfortably stalled for the night."
-    },
-    {
-     "id": "p001.s04",
-     "source": "In the stable was a magnificent Arab horse, belonging to the priest, and the Turk gazed upon it with covetous eyes, but nevertheless, in order that no ill should befall the beautiful creature and to counteract the influence of the evil eye with certainty, he spat at the animal."
-    },
-    {
-     "id": "p001.s05",
-     "source": "After they had dined, the priest took his guest for a walk in the garden, and in the course of a very pleasant conversation he informed the Turk that on the morrow there would be snow on the ground."
+     "source": "In the palace of the Padishah was a garden, and in the midst of the garden a fountain of water, and there the maid sat the livelong day sewing and stitching."
     }
    ],
    "id": "p001"
@@ -49,11 +37,31 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "\"Never!"
+     "source": "One day she put her ring upon her sewing-table, but scarcely had she laid it down when there came a little dove and took up the ring and flew away with it."
     },
     {
      "id": "p002.s02",
-     "source": "Impossible!\" said the Turk."
+     "source": "Now the little dove was so lovely that the damsel at once fell in love with it."
+    },
+    {
+     "id": "p002.s03",
+     "source": "The next day the damsel took off her bracelet, and immediately the dove was there and flew off with that too."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Then the damsel was so consumed with love that she neither ate nor drank, and could scarce tarry till the next day for the dove to come forth again."
+    },
+    {
+     "id": "p002.s05",
+     "source": "And on the third day she brought her sewing-table, put upon it her lace handkerchief, and placed herself close beside it."
+    },
+    {
+     "id": "p002.s06",
+     "source": "She waited for the dove, and waited and waited, and lo! all at once there he was right before her, and he caught up the handkerchief and away he flew."
+    },
+    {
+     "id": "p002.s07",
+     "source": "Then the damsel had scarce strength enough to rise up; weeping bitterly she went into the palace, and there she threw herself on the ground in a passion of grief."
     }
    ],
    "id": "p002"
@@ -63,7 +71,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "\"Well, to-morrow you will see that I am right,\" said the priest."
+     "source": "Her old waiting-woman came running towards her: “O Sultana!” cried she, “wherefore dost thou weep so sorely?—what ails thee?”"
     }
    ],
    "id": "p003"
@@ -73,11 +81,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "\"I am willing to stake my horse against yours, that you are wrong,\" answered the Turk, who was delighted at this opportunity which gave him a chance of securing the horse, without committing the breach in Oriental etiquette of asking his host if he would sell it."
-    },
-    {
-     "id": "p004.s02",
-     "source": "After some persuasion the priest accepted his wager, and they separated for the night."
+     "source": "“I am sick, my heart is sick!” replied the daughter of the Sultan, and with that she fell a-weeping and a-wailing worse than ever."
     }
    ],
    "id": "p004"
@@ -87,7 +91,11 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Later on that night, the Turk said to his slave: \"Go, Sali, go and see what the weather says, for truly my life is in want of our good host's horse.\""
+     "source": "The old waiting-woman feared to tell of this new thing, for the damsel was the only daughter of the Padishah, but when she perceived how pale the damsel was growing, and how she wept and sobbed, the waiting-woman took her courage in both hands, went to the Padishah, and told him of his daughter’s woe."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Then the Padishah was afraid, and went to see his daughter, and after him came many wise men and many cunning leeches, but not one of them could cure her sickness."
     }
    ],
    "id": "p005"
@@ -97,7 +105,19 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Sali went out to make an observation, and on returning said to his master: \"Master, the heavens are like unto your face,—without a frown and many kindly sparkling eyes, and the earth is like unto that of your black slave.\""
+     "source": "But on the next day the Padishah’s Vizier said to him: “The wise men and the leeches cannot help the damsel, the only medicine that can cure her lies hidden elsewhere.”"
+    },
+    {
+     "id": "p006.s02",
+     "source": "Then he advised the Padishah to make a great bath, the water whereof should cure all sick people, but whoever bathed therein was to be made to tell the story of his life."
+    },
+    {
+     "id": "p006.s03",
+     "source": "So the Padishah caused the bath to be made, and proclaimed throughout the city that the water of this bath would give back his hair to the bald, and his hearing to the deaf, and his sight to the blind, and the use of his legs to the lame."
+    },
+    {
+     "id": "p006.s04",
+     "source": "Then all the people flocked in crowds to have a bath for nothing, and each one of them had to tell the story of his life and his ailment before he returned home again."
     }
    ],
    "id": "p006"
@@ -107,11 +127,11 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "\"'Tis well, Sali, 'tis well."
+     "source": "Now in that same city dwelt the bald-headed son of a bed-ridden mother, and the fame of the wonder-working bath reached their ears also."
     },
     {
      "id": "p007.s02",
-     "source": "What a beautiful animal that is!\""
+     "source": "“Let us go too,” said the son; “perchance the pair of us shall be cured.”"
     }
    ],
    "id": "p007"
@@ -121,11 +141,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Later on, before retiring to rest, he sent his slave on another inspection, and was gratified to receive the same answer."
-    },
-    {
-     "id": "p008.s02",
-     "source": "Early in the morning he awoke, and calling his slave, who had slept at his door, he sent him forth again to see if any change had taken place."
+     "source": "“How can I go when I can’t stand on my legs?” groaned the old woman.—“Oh, we shall be able to manage that,” replied bald-pate, and taking his mother on his shoulders he set out for the bath."
     }
    ],
    "id": "p008"
@@ -135,7 +151,35 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "\"Oh master!\" reported Sali, in trembling tones, \"Nature has reversed herself, for the heavens are now like the scowling face of your slave, and the earth is like yours, white, entirely white.\""
+     "source": "They went on and on and on, through the level plains by the flowing river, till at last the son was tired and put his mother down upon the ground."
+    },
+    {
+     "id": "p009.s02",
+     "source": "At that same instant a cock lighted down beside them with a big pitcher of water on its back, and hastened off with it."
+    },
+    {
+     "id": "p009.s03",
+     "source": "Then the young man became very curious to know why and whither this cock was carrying water; so after the bird he went."
+    },
+    {
+     "id": "p009.s04",
+     "source": "The cock went on till it came to a great castle, and at the foot of this castle was a little hole through which water was gurgling."
+    },
+    {
+     "id": "p009.s05",
+     "source": "Still the youth followed the cock, squeezed himself with the utmost difficulty through the hole, and no sooner had he begun to look about him than he saw before him a palace so magnificent that his eyes and mouth stood wide open with astonishment."
+    },
+    {
+     "id": "p009.s06",
+     "source": "No other human being had ever stood in the path that led up to this palace."
+    },
+    {
+     "id": "p009.s07",
+     "source": "All over it he went, through all the rooms, from vestibule to attic, admiring their splendour without ceasing, till weariness overcame him."
+    },
+    {
+     "id": "p009.s08",
+     "source": "“If only I could find a living being here!” said he to himself, and with that he hid himself in a large armoury, from whence he could easily pounce out upon any one who came."
     }
    ],
    "id": "p009"
@@ -145,19 +189,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "\"Chok shai! wonderful thing."
-    },
-    {
-     "id": "p010.s02",
-     "source": "Then I have lost not only that beautiful animal but my own horse as well."
-    },
-    {
-     "id": "p010.s03",
-     "source": "Oh pity!"
-    },
-    {
-     "id": "p010.s04",
-     "source": "Oh pity!\""
+     "source": "He had not waited very long when three doves flew on to the window-sill, and after shivering there a little while turned into three damsels, all so beautiful that the young man did not know which to look at first."
     }
    ],
    "id": "p010"
@@ -167,7 +199,19 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "He gave up his horse, but before parting he begged the priest to tell him how he knew it would snow."
+     "source": "“Alas, alas!” cried the three damsels, “we are late, we are late!"
+    },
+    {
+     "id": "p011.s02",
+     "source": "Our Padishah will be here presently, and nothing is ready!”"
+    },
+    {
+     "id": "p011.s03",
+     "source": "Then one seized a broom and brushed everything clean, the second spread the table, and the third fetched all manner of meats."
+    },
+    {
+     "id": "p011.s04",
+     "source": "Then they all three began to shiver once more, and three doves flew out of the window."
     }
    ],
    "id": "p011"
@@ -177,11 +221,23 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "\"My pig told me as we were walking in the garden yesterday."
+     "source": "Meanwhile the bald-pate had grown very hungry, and he thought to himself: “Nobody sees me, why should I not take a morsel or two from that table?”"
     },
     {
      "id": "p012.s02",
-     "source": "I saw it put its nose in the heap of manure you see in that corner, and I knew that to be a sure sign that it would snow on the morrow,\" replied the priest."
+     "source": "So he stretched his hand out from his hiding-place, and was just about to touch the food with it when he got such a blow on the fingers that the place swelled up."
+    },
+    {
+     "id": "p012.s03",
+     "source": "He stretched out the other hand, and got a still greater blow on that."
+    },
+    {
+     "id": "p012.s04",
+     "source": "The youth was very frightened at this, and he had scarcely drawn back his hand when a white dove flew into the room."
+    },
+    {
+     "id": "p012.s05",
+     "source": "It fell a-shivering and immediately turned into a beautiful youth."
     }
    ],
    "id": "p012"
@@ -191,15 +247,19 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "Deeply mystified, the Turk and his slave proceeded on foot."
+     "source": "And now he went to a cupboard, opened it, and took out a ring, a bracelet, and a lace handkerchief."
     },
     {
      "id": "p013.s02",
-     "source": "Reaching a Turkish village before nightfall, he sought and obtained shelter for the night from the Imam, the Mohammedan priest of the village."
+     "source": "“Oh, lucky ring that thou art!” cried he, “to be allowed to sit on a beautiful finger; and oh, lucky bracelet, to be allowed to lie on a beautiful arm.”"
     },
     {
      "id": "p013.s03",
-     "source": "While partaking of the evening meal he asked the Imam when the feast of the Bairam would be."
+     "source": "Then the beautiful youth fell a-sobbing, and dried his tears one by one on the lace handkerchief."
+    },
+    {
+     "id": "p013.s04",
+     "source": "Then he put them into the cupboard again, tasted one or two of the dishes, and laid him down to sleep."
     }
    ],
    "id": "p013"
@@ -209,11 +269,15 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "\"Truly, I do not know!"
+     "source": "It was as much as the bald-pate could do to await the dawn of the day."
     },
     {
      "id": "p014.s02",
-     "source": "When the cannons fire, I will know it is Bairam,\" said his host."
+     "source": "But then the beautiful youth arose, shivered, and flew away as a white dove."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Bald-pate too came out of his hiding-place, went down into the courtyard, and crept once more through the hole at the foot of the tower."
     }
    ],
    "id": "p014"
@@ -223,15 +287,27 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "\"What!\" said the traveller, becoming angry, \"you an Imam,—a learned Hodja,—and don't know when it will be Bairam, and the pig of the Greek priest knew when it would snow?"
+     "source": "Outside he found his poor old mother weeping all alone, but the youth pacified her with the assurance that their troubles were nearly at an end, took her on his back again, and went to the bath."
     },
     {
      "id": "p015.s02",
-     "source": "Shame!"
+     "source": "There they bathed, and immediately the old woman was able to stand on her legs, and the bald-pate got his hair back again."
     },
     {
      "id": "p015.s03",
-     "source": "Shame!\""
+     "source": "Then they began to tell their stories, and when the Sultan’s daughter heard what the youth had seen and heard at midnight, it was as though a stream of fresh health instantly poured into her."
+    },
+    {
+     "id": "p015.s04",
+     "source": "She rose from her bed and promised the youth a great treasure if he would bring her to that tower."
+    },
+    {
+     "id": "p015.s05",
+     "source": "So the youth went with the princess, showed her the walls of the palace, helped her through the little hole, brought her into the chamber of the doves, and pointed out to her the armoury where he had been able to hide himself."
+    },
+    {
+     "id": "p015.s06",
+     "source": "After that the youth returned home with great treasure and perfect health, and lived all his days with his old mother."
     }
    ],
    "id": "p015"
@@ -241,15 +317,270 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "And becoming much angered, he declined the hospitality of the Imam and went elsewhere."
+     "source": "At eventide the three doves flew into the room."
+    },
+    {
+     "id": "p016.s02",
+     "source": "They scoured and cleaned, brought the meats for the table, and flew away again."
+    },
+    {
+     "id": "p016.s03",
+     "source": "Soon afterwards the white dove came flying in, and how did that damsel feel when she saw her darling little dove once more?"
+    },
+    {
+     "id": "p016.s04",
+     "source": "But when the dove had turned into a youth again, and stood there like a glorious full moon, the damsel scarcely knew where she was, but gazed continuously on his dazzling face."
     }
    ],
    "id": "p016"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "Then the youth went to the cupboard, opened it, and took out the ring, the bracelet, and the lace handkerchief that belonged to the daughter of the Sultan."
+    },
+    {
+     "id": "p017.s02",
+     "source": "“Oh, thou ring! how happy shouldst thou be to sit on a beauteous finger!"
+    },
+    {
+     "id": "p017.s03",
+     "source": "Oh, thou bracelet! how happy thou shouldst be to lie on a beauteous arm!” he cried."
+    },
+    {
+     "id": "p017.s04",
+     "source": "Then he took the lace handkerchief and dried his tears, and at the sight thereof the heart of the damsel was nigh to breaking."
+    },
+    {
+     "id": "p017.s05",
+     "source": "Then she tapped with her fingers on the door of the armoury."
+    },
+    {
+     "id": "p017.s06",
+     "source": "The youth approached it, opened the door, and there stood his heart’s darling."
+    },
+    {
+     "id": "p017.s07",
+     "source": "Then the joy of the youth was so great that it was almost woe."
+    }
+   ],
    "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "He asked the damsel how she had come thither to the palace of the Peris."
+    },
+    {
+     "id": "p018.s02",
+     "source": "Then she told him of her journey, and how sick for love she had been."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "Then the youth told her that he also was the son of a mortal mother, but when he was only three days old the Peris had stolen him, and carried him to this palace and made him their Padishah."
+    },
+    {
+     "id": "p019.s02",
+     "source": "He was with them the whole day, and had only two hours to himself in the twenty-four."
+    },
+    {
+     "id": "p019.s03",
+     "source": "The damsel, he said, might stay with him, and walk about here the whole day, but towards evening she must hide herself; for if the forty Peris came and saw her with him they would not leave her alive."
+    },
+    {
+     "id": "p019.s04",
+     "source": "To-morrow, he said, he would show her his mother’s palace, where they would live in peace, and he would be with her for two hours out of the twenty-four."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "So the next day the Padishah of the Peris took the damsel and showed her his mother’s palace."
+    },
+    {
+     "id": "p020.s02",
+     "source": "“When thou goest there,” said the Padishah, “bid them have compassion on thee, and receive thee in memory of Bahtiyar Bey, and when my mother hears my name she will not refuse thy request.”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "So the damsel went up to the house and knocked at the door."
+    },
+    {
+     "id": "p021.s02",
+     "source": "An old woman came and opened it, and when she saw the damsel and heard her son’s name, she burst into tears and took her in."
+    },
+    {
+     "id": "p021.s03",
+     "source": "There the damsel stayed a long time, and every day the little bird came to visit her, until a son was born to the daughter of the Sultan."
+    },
+    {
+     "id": "p021.s04",
+     "source": "But the old woman never knew that her son came to the house, nor that the damsel had been brought to bed."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "One day the little bird came, flew upon the window-sill, and said: “Oh, my Sultana, what is my little seedling doing?”—“No harm hath happened to our little seedling,” replied she, “but he awaits the coming of Bahtiyar.”—“Oh! if only my mother knew,” sighed the youth, “she would open her best room.”"
+    },
+    {
+     "id": "p022.s02",
+     "source": "With that he flew into the room, turned into a man, and fondled in his arms his wife and his little child."
+    },
+    {
+     "id": "p022.s03",
+     "source": "But when two hours had passed he shivered a little, and a little dove flew out of the window."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "But the mother had heard her son’s speech, and could scarce contain herself for joy."
+    },
+    {
+     "id": "p023.s02",
+     "source": "She hastened to her daughter-in-law, fondled and caressed her, led her into her most beautiful room, and put everything in order against her son’s arrival."
+    },
+    {
+     "id": "p023.s03",
+     "source": "She knew that the forty Peris had robbed her of him, and she took counsel with herself how she might steal him back again."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“When my son comes to-morrow,” said the old woman, “contrive so that he stays beyond his time, and leave the rest to me.”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "The next day the bird flew into the window, and lo! the damsel was nowhere to be seen in the room."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Then he flew into the more beautiful room, and cried, “Oh! my Sultana, what is our little seedling doing?”—And the damsel replied: “No harm hath befallen our little seedling, but he awaits the coming of Bahtiyar.”"
+    },
+    {
+     "id": "p025.s03",
+     "source": "Then the bird flew into the room and changed into a man, and was so taken up with talking to his wife, so filled with the joy of playing with his child and seeing it play, that he took no count of time at all."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "But what was the old woman doing all this time?"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "The Padishah of the Peris.—p. 174."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "There was a large cypress-tree in front of the house, and there the forty doves were sometimes wont to alight."
+    },
+    {
+     "id": "p028.s02",
+     "source": "The old woman went and hung this tree full of venomous needles."
+    },
+    {
+     "id": "p028.s03",
+     "source": "Towards evening, when the Padishah’s two hours had run out, the doves who were the forty Peris came to seek their Padishah, and alighted on the cypress-tree, but scarcely had their feet touched the needles than they fell down to the ground poisoned."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Meanwhile, however, the youth suddenly remembered the time, and great was his terror when he came out of the palace so late."
+    },
+    {
+     "id": "p029.s02",
+     "source": "He looked to the right of him and he looked to the left, and when he looked towards the cypress-tree there were the forty doves."
+    },
+    {
+     "id": "p029.s03",
+     "source": "And now his joy was as great as his terror had been before."
+    },
+    {
+     "id": "p029.s04",
+     "source": "First he fell upon the neck of his consort, and then he ran to his mother and embraced her, so great was his joy that he had escaped from the hands of the Peris."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Thereupon they made them such a banquet that even after forty days they had not got to the end of it."
+    },
+    {
+     "id": "p030.s02",
+     "source": "So they had their hearts’ desires, and ate and drank and rejoiced with a great joy."
+    },
+    {
+     "id": "p030.s03",
+     "source": "May we too get the desires of our hearts, with good eating and drinking to comfort us!"
+    }
+   ],
+   "id": "p030"
   }
  ]
 }

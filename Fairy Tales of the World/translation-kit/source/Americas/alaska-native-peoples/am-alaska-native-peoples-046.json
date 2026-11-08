@@ -1,0 +1,72 @@
+{
+ "id": "am-alaska-native-peoples-046",
+ "title": {
+  "id": "title",
+  "source": "How The Fox Became Red"
+ },
+ "tradition": "Alaska Native peoples",
+ "continent": "Americas",
+ "source_lang": "en",
+ "source_book": "Myths and Legends of Alaska",
+ "credits": "Judson, Katharine Berry (compiler, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #47146 — https://www.gutenberg.org/ebooks/47146",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Alaska Native peoples/046 - How The Fox Became Red.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 8,
+  "words": 77
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Athapascan"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "O NCE Fox, when very hungry, was travelling through the country."
+    },
+    {
+     "id": "p002.s02",
+     "source": "All at once he saw a goose with many goslings."
+    },
+    {
+     "id": "p002.s03",
+     "source": "Fox ran after them."
+    },
+    {
+     "id": "p002.s04",
+     "source": "As he ran he sang,"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "As Fox ran toward them, the geese came to water and plunged in."
+    },
+    {
+     "id": "p003.s02",
+     "source": "Fox followed slowly along the edge of the water."
+    },
+    {
+     "id": "p003.s03",
+     "source": "When he saw he could not get the geese, Fox became so angry he turned red all over—all except the tip of his tail."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

@@ -1,0 +1,702 @@
+{
+ "id": "am-peru-003",
+ "title": {
+  "id": "title",
+  "source": "El Justicia Mayor De Laycacota"
+ },
+ "tradition": "Peru",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Tradiciones peruanas",
+ "credits": "Palma, Ricardo (author, d. 1919)",
+ "gutenberg": "Project Gutenberg eBook #21282 — https://www.gutenberg.org/ebooks/21282",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Peru/003 - El Justicia Mayor De Laycacota.md",
+ "stats": {
+  "paragraphs": 54,
+  "segments": 89,
+  "words": 2125
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "crónica de la época del décimonono virrey del perú"
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "(Al doctor don José Mariano Jiménez.)"
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "I"
+    }
+   ],
+   "id": "p003"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p004.s01",
+     "source": "En una serena tarde de marzo del año del Señor de 1665, hallábase reunida a la puerta de su choza una familia de indios."
+    },
+    {
+     "id": "p004.s02",
+     "source": "Componíase ésta de una anciana que se decía descendiente del gran general Ollantay, dos hijas, Carmen y Teresa, y un mancebo llamado Tomás."
+    }
+   ],
+   "id": "p004"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "La choza estaba situada a la falda del cerro de Laycacota."
+    },
+    {
+     "id": "p005.s02",
+     "source": "Ella con quince o veinte más constituían lo que se llama una aldea de cien habitantes."
+    }
+   ],
+   "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "Mientras las muchachas se entretenían en hilar, la madre contaba al hijo, por la milésima vez, la tradición de su familia."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Esta no es un secreto, y bien puedo darla a conocer a mis lectores, que la hallarán relatada con extensos y curiosos pormenores en el importante libro que con el título Anales del Cuzco , publicó mi ilustrado amigo y compañero de Congreso don Pío Benigno Mesa."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "He aquí la tradición sobre Ollantay:"
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "Bajo el imperio del Inca Pachacutec, noveno soberano del Cuzco, era Ollantay, curaca de Ollantaytambo, el generalísimo de los ejércitos."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Amante correspondido de una de las ñustas o infantas, solicitó de Pachacutec, y como recompensa a importantes servicios, que le acordase la mano de la joven."
+    },
+    {
+     "id": "p008.s03",
+     "source": "Rechazada su pretensión por el orgulloso monarca, cuya sangre, según las leyes del imperio, no podía mezclarse con la de una familia que no descendiese directamente de Mango Capac, el enamorado cacique desapareció una noche del Cuzco, robándose a su querida Cusicoyllor."
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "Durante cinco años fué imposible al Inca vencer al rebelde vasallo, que se mantuvo en armas en las fortalezas de Ollantaytambo, cuyas ruinas son hoy la admiración del viajero."
+    },
+    {
+     "id": "p009.s02",
+     "source": "Pero Rumiñahui, otro de los generales de Pachacutec, en secreta entrevista con su rey, lo convenció de que, más que a la fuerza, era preciso recurrir a la maña y a la traición para sujetar a Ollantay."
+    },
+    {
+     "id": "p009.s03",
+     "source": "El plan acordado fué poner preso a Rumiñahui, con el pretexto de que había violado el santuario de las vírgenes del Sol."
+    },
+    {
+     "id": "p009.s04",
+     "source": "Según lo pactado, se le degradó y azotó en la plaza pública para que, envilecido así, huyese del Cuzco y fuese a ofrecer sus servicios a Ollantay, que viendo en él una ilustre víctima a la vez que un general de prestigio, no podría menos que dispensarle entera confianza."
+    },
+    {
+     "id": "p009.s05",
+     "source": "Todo se realizó como inicuamente estaba previsto, y la fortaleza fué entregada por el infame Rumiñahui, mandando el Inca decapitar a los prisioneros ."
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "Un leal capitán salvó a Cusicoyllor y su tierna hija Imasumac, y se estableció con ellas en la falda del Laycacota, en el sitio donde en 1669 debía erigirse la villa de San Carlos de Puno."
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "Concluía la anciana de referir a su hijo esta tradición, cuando se presentó ante ella un hombre, apoyado en un bastón, cubierto el cuerpo con un largo poncho de bayeta, y la cabeza por un ancho y viejo sombrero de fieltro."
+    },
+    {
+     "id": "p011.s02",
+     "source": "El extranjero era un joven de veinticinco años, y a pesar de la ruindad de su traje, su porte era distinguido, su rostro varonil y simpático y su palabra graciosa y cortesana."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "Dijo que era andaluz, y que su desventura lo traía a tal punto que se hallaba sin pan ni hogar."
+    },
+    {
+     "id": "p012.s02",
+     "source": "Los vástagos de la hija de Pachacutec le acordaron de buen grado la hospitalidad que demandaba."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "Así transcurrieron pocos meses."
+    },
+    {
+     "id": "p013.s02",
+     "source": "La familia se ocupaba en la cría de ganado y en el comercio de lanas, sirviéndola el huésped muy útilmente."
+    },
+    {
+     "id": "p013.s03",
+     "source": "Pero la verdad era que el joven español se sentía apasionado de Carmen, la mayor de las hijas de la anciana, y que ella no se daba por ofendida con ser objeto de las amorosas ansias del mancebo."
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Como el platonismo, en punto a terrenales afectos, no es eterno, llegó un día en que el galán, cansado de conversar con las estrellas en la soledad de sus noches, se espontaneó con la madre, y ésta, que había aprendido a estimar al español, le dijo:"
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "—Mi Carmen te llevará en dote una riqueza digna de la descendiente de emperadores."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "El novio no dio por el momento importancia a la frase; pero tres días después de realizado el matrimonio, la anciana lo hizo levantarse de madrugada y lo condujo a una bocamina, diciéndole:"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "—Aquí tienes la dote de tu esposa."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "La hasta entonces ignorada, y después famosísima, mina de Laycacota fué desde ese día propiedad de don José Salcedo, que tal era el nombre del afortunado andaluz."
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "II"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "La opulencia de la mina y la generosidad de Salcedo y de su hermano don Gaspar atrajeron, en breve, gran número de aventureros a Laycacota."
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "Oigamos a un historiador: «Había allí plata pura y metales, cuyo beneficio dejaba tantos marcos como pesaba el cajón."
+    },
+    {
+     "id": "p021.s02",
+     "source": "En ciertos días se sacaron centenares de miles de pesos»."
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "Estas aseveraciones parecerían fabulosas si todos los historiadores no estuvieran uniformes en ellas."
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "Cuando algún español, principalmente andaluz o castellano, solicitaba un socorro de Salcedo, éste le regalaba lo que pudiese sacar de la mina en determinado número de horas."
+    },
+    {
+     "id": "p023.s02",
+     "source": "El obsequio importaba casi siempre por lo menos el valor de una barra, que representaba dos mil pesos."
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "Pronto los catalanes, gallegos y vizcaínos que residían en el mineral entraron en disensiones con los andaluces, castellanos y criollos favorecidos por los Salcedo."
+    },
+    {
+     "id": "p024.s02",
+     "source": "Se dieron batallas sangrientas con variado éxito, hasta que el virrey don Diego de Benavides, conde de Santisteban, encomendó al obispo de Arequipa, fray Juan de Almoguera, la pacificación del mineral."
+    },
+    {
+     "id": "p024.s03",
+     "source": "Los partidarios de los Salcedo derrotaron a las tropas del obispo, librando mal herido el corregidor Peredo."
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "En estos combates, hallándose los de Salcedo escasos de plomo, fundieron balas de plata."
+    },
+    {
+     "id": "p025.s02",
+     "source": "No se dirá que no mataban lujosamente."
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "Así las cosas, aconteció en Lima la muerte de Santisteban, y la Real Audiencia asumió el poder."
+    },
+    {
+     "id": "p026.s02",
+     "source": "El gobernador que ésta nombró para Laycacota, viéndose sin fuerzas para hacer respetar su autoridad, entregó el mando a don José Salcedo, que lo aceptó bajo el título de justicia mayor ."
+    },
+    {
+     "id": "p026.s03",
+     "source": "La Audiencia se declaró impotente y contemporizó con Salcedo, el cual, recelando nuevos ataques de los vascongados, levantó y artilló una fortaleza en el cerro."
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "En verdad que la Audiencia tenía por entonces mucho grave de que ocuparse con los disturbios que promovía en Chile el gobernador Meneses y con la tremenda y vasta conspiración del Inca Bohorques, descubierta en Lima casi al estallar, y que condujo al caudillo y sus tenientes al cadalso."
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "El orden se había por completo restablecido en Laycacota, y todos los vecinos estaban contentos del buen gobierno y la caballerosidad del justicia mayor."
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "Pero en 1667, la Audiencia tuvo que reconocer al nuevo virrey llegado de España."
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "Era éste el conde Lemos, mozo de treinta y tres años, a quien, según los historiadores, sólo faltaba sotana para ser completo jesuíta ."
+    },
+    {
+     "id": "p030.s02",
+     "source": "En cerca de cinco años de mando, brilló poco como administrador."
+    },
+    {
+     "id": "p030.s03",
+     "source": "Sus empresas se limitaron a enviar, aunque sin éxito, una fuerte escuadra en persecución del bucanero Morgán, que había incendiado Panamá, y a apresar en las costas de Chile a Enrique Clerk."
+    },
+    {
+     "id": "p030.s04",
+     "source": "Un año después de su destrucción por los bucaneros (1670), la antigua Panamá, fundada en 1518, se trasladó al lugar donde hoy se encuentra."
+    },
+    {
+     "id": "p030.s05",
+     "source": "Dos voraces incendios, uno en febrero de 1737 y otro en marzo de 1756, convirtieron en cenizas dos terceras partes de los edificios, entre los que algunos debieron ser monumentales, a juzgar por las ruinas que aun llaman la atención del viajero."
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "El virrey conde de Lemos se distinguió únicamente por su devoción."
+    },
+    {
+     "id": "p031.s02",
+     "source": "Con frecuencia se le veía barriendo el piso de la iglesia de los Desamparados, tocando en ella el órgano, y haciendo el oficio de cantar en la solemne misa dominical, dándosele tres pepinillos de las murmuraciones de la nobleza, que juzgaba tales actos indignos de un grande de España."
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "Dispuso este virrey, bajo pena de cárcel y multa, que nadie pintase cruz en sitio donde pudiera ser pisada; que todos se arrodillasen al toque de oraciones; y escogió para padrino de uno de sus hijos al cocinero del convento de San Francisco, que era un negro con un jeme de jeta y fama de santidad."
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "Por cada individuo de los que ajusticiaba, mandaba celebrar treinta misas; y consagró, por lo menos, tres horas diarias al rezo del oficio parvo y del rosario, confesando y comulgando todas las mañanas, y concurriendo al jubileo y a cuanta fiesta o distribución religiosa se le anunciara."
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Jamás se han vista en Lima procesiones tan espléndidas como las de entonces; y Lorente, en su Historia , trae la descripción de una que se trasladó desde palacio a los Desamparados, dando largo rodeo, una imagen de María que el virrey había hecho traer expresamente desde Zaragoza."
+    },
+    {
+     "id": "p034.s02",
+     "source": "Arco hubo en esa fiesta cuyo valor se estimó en más de doscientos mil pesos, tal era la profusión de alhajas y piezas de oro y plata que lo adornaban."
+    },
+    {
+     "id": "p034.s03",
+     "source": "La calle de Mercaderes lució por pavimento barras de plata, que representaban más de dos millones de ducados."
+    },
+    {
+     "id": "p034.s04",
+     "source": "¡Viva el lujo y quien lo trujo !"
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "El fanático don Pedro Antonio de Castro y Andrade, conde de Lemos, marqués de Sarria y de Gátiva y duque de Taratifanco, que cifraba su orgullo en descender de San Francisco de Borja, y que, a estar en sus manos, como él decía, habría fundado en cada calle de Lima un colegio de Jesuítas, apenas fué proclamado en Lima como representante de Carlos II el Hechizado , se dirigió a Puno con gran aparato de fuerza y aprehendió a Salcedo."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "El justicia contaba con poderosos elementos para resistir; pero no quiso hacerse reo de rebeldía a su rey y señor natural."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "El virrey, según muchos historiadores, lo condujo preso, tratándolo durante la marcha con extremado rigor."
+    },
+    {
+     "id": "p037.s02",
+     "source": "En breve tiempo quedó concluída la causa, sentenciado Salcedo a muerte, y confiscados sus bienes en provecho del real tesoro."
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "Como hemos dicho, los jesuítas dominaban al virrey."
+    },
+    {
+     "id": "p038.s02",
+     "source": "Jesuíta era su confesor el padre Castillo, y jesuítas sus secretarios."
+    },
+    {
+     "id": "p038.s03",
+     "source": "Las crónicas de aquellos tiempos acusan a los hijos de Loyola de haber contribuido eficazmente al trágico fin del rico minero, que había prestado no pocos servicios a la causa de la corona y enviado a España algunos millones por el quinto de los provechos de la mina."
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "Cuando leyeron a Salcedo la sentencia, propuso al virrey que le permitiese apelar a España, y que por el tiempo que transcurriese desde la salida del navío hasta su regreso con la resolución de la corte de Madrid, lo obsequiaría diariamente con una barra de plata."
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "Y téngase en cuenta no sólo que cada barra de plata se valorizaba en dos mil duros, sino que el viaje del Callao a Cádiz no era realizable en menos de seis meses."
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "La tentación era poderosa, y el conde de Lemos vaciló."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "Pero los jesuítas le hicieron presente que mejor partido sacaría ejecutando a Salcedo y confiscándole sus bienes."
+    }
+   ],
+   "id": "p042"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p043.s01",
+     "source": "El que más influyó en el ánimo de su excelencia fué el padre Francisco del Castillo, jesuíta peruano que está en olor de santidad, el cual era padrino de bautismo de don Salvador Fernández de Castro, marqués de Almuña e hijo del virrey."
+    }
+   ],
+   "id": "p043"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p044.s01",
+     "source": "Salcedo fué ejecutado en el sitio llamado Orcca-Pata , a poca distancia de Puno."
+    }
+   ],
+   "id": "p044"
+  },
+  {
+   "type": "heading",
+   "segments": [
+    {
+     "id": "p045.s01",
+     "source": "III"
+    }
+   ],
+   "id": "p045"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p046.s01",
+     "source": "Cuando la esposa de Salcedo supo el terrible desenlace del proceso, convocó a sus deudos y les dijo:"
+    }
+   ],
+   "id": "p046"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p047.s01",
+     "source": "—Mis riquezas han traído mi desdicha."
+    },
+    {
+     "id": "p047.s02",
+     "source": "Los que las codician han dado muerte afrentosa al hombre que Dios me deparó por compañero."
+    },
+    {
+     "id": "p047.s03",
+     "source": "Mirad cómo le vengáis."
+    }
+   ],
+   "id": "p047"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p048.s01",
+     "source": "Tres días después la mina de Laycacota había dado en agua , y su entrada fué cubierta con peñas, sin que hasta hoy haya podido descubrirse el sitio donde ella existió."
+    }
+   ],
+   "id": "p048"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p049.s01",
+     "source": "Los parientes de la mujer de Salcedo inundaron la mina, haciendo estéril para los asesinos del justicia mayor el crimen a que la codicia los arrastrara."
+    }
+   ],
+   "id": "p049"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p050.s01",
+     "source": "Carmen, la desolada viuda, había desaparecido, y es fama que se sepultó viva en uno de los corredores de la mina."
+    }
+   ],
+   "id": "p050"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p051.s01",
+     "source": "Muchos sostienen que la mina de Salcedo era la que hoy se conoce con el nombre del Manto ."
+    },
+    {
+     "id": "p051.s02",
+     "source": "Este es un error que debemos rectificar."
+    },
+    {
+     "id": "p051.s03",
+     "source": "La codiciada mina de Salcedo estaba entre los cerros Laycacota y Cancharani."
+    }
+   ],
+   "id": "p051"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p052.s01",
+     "source": "El virrey, conde Lemos, en cuyo período de mando tuvo lugar la canonización de Santa Rosa, murió en diciembre de 1673, y su corazón fué enterrado bajo el altar mayor de la iglesia de los Desamparados."
+    }
+   ],
+   "id": "p052"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p053.s01",
+     "source": "Las armas de este virrey eran, por Castro, un sol de oro sobre gules."
+    }
+   ],
+   "id": "p053"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p054.s01",
+     "source": "En cuanto a los descendientes de los hermanos Salcedo, alcanzaron bajo el reinado de Felipe V la rehabilitación de su nombre y el título de marqués de Villarrica para el jefe de la familia."
+    }
+   ],
+   "id": "p054"
+  }
+ ]
+}

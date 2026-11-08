@@ -1,0 +1,88 @@
+{
+ "id": "af-zulu-people-022",
+ "title": {
+  "id": "title",
+  "source": "Rules Of A Zulu Hunt"
+ },
+ "tradition": "Zulu people",
+ "continent": "Africa",
+ "source_lang": "en",
+ "source_book": "Some Zulu Customs and Folk-lore",
+ "credits": "Samuelson, L. H. (author)",
+ "gutenberg": "Project Gutenberg eBook #46501 — https://www.gutenberg.org/ebooks/46501",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Africa/Zulu people/022 - Rules Of A Zulu Hunt.md",
+ "stats": {
+  "paragraphs": 3,
+  "segments": 12,
+  "words": 355
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "Hunts are conducted on a large scale, and there are certain rules which have to be kept."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Generally the most important man in the neighbourhood proclaims it, and young boys are sent round a day or two in advance with a few branches of the wild cabbage tree (umsenge) in their hands to invite those who are chosen to take part in the sport."
+    },
+    {
+     "id": "p001.s03",
+     "source": "All who see these boys with umsenge branches ask from them where the hunt is to take place, and are told in answer."
+    },
+    {
+     "id": "p001.s04",
+     "source": "It is an easy way of inviting superiors to anything, for a Zulu youth may not address his senior without being first spoken to."
+    }
+   ],
+   "id": "p001"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p002.s01",
+     "source": "All the men invited have to meet the chief at the starting point, armed, and with their dogs."
+    },
+    {
+     "id": "p002.s02",
+     "source": "They dance round him and sing their hunting songs, then they follow him to the place chosen for the hunt."
+    },
+    {
+     "id": "p002.s03",
+     "source": "While at the hunt, if a buck is stabbed by more than one person before it falls, it belongs to the man who first drew blood, and the man who gave it the next stab, or whose dog caught it after it had received its first wound is entitled to a leg; the man who wounded it a third time, or whose dog pulled it down, takes a shoulder, if it is a large buck, but nothing if the animal is a small one."
+    }
+   ],
+   "id": "p002"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p003.s01",
+     "source": "If caught by dogs without being previously wounded, and if it is not known whose dog was the first to lay hold of it, the buck belongs to the master of the hunt or the man who called the hunt together."
+    },
+    {
+     "id": "p003.s02",
+     "source": "And it is the latter generally who settles a disputed question of ownership; but he cannot mend the broken heads which so often follow such a dispute."
+    },
+    {
+     "id": "p003.s03",
+     "source": "One seldom sees natives so excited as they over a buck killed at a hunt, when there is any doubt as to the person to whom the buck belongs."
+    },
+    {
+     "id": "p003.s04",
+     "source": "Many cases of assault, and even murder, arise out of quarrels over a dead buck."
+    },
+    {
+     "id": "p003.s05",
+     "source": "It might therefore be very useful to know these rules."
+    }
+   ],
+   "id": "p003"
+  }
+ ]
+}

@@ -4,7 +4,7 @@
 - **Source book:** *Old-Time Stories*
 - **Author / collector / translator:** Perrault, Charles (author, d. 1703); Johnson, A. E. (Alfred Edwin) (translator, d. 1941)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #31431 — https://www.gutenberg.org/ebooks/31431 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #31431 — https://www.gutenberg.org/ebooks/31431
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

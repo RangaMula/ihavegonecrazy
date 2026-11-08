@@ -1,0 +1,44 @@
+{
+ "id": "eu-slavic-peoples-pan-slavic-073",
+ "title": {
+  "id": "title",
+  "source": "Serbian Stories From Bosnia"
+ },
+ "tradition": "Slavic peoples (pan-Slavic)",
+ "continent": "Europe",
+ "source_lang": "en",
+ "source_book": "Sixty Folk-Tales from Exclusively Slavonic Sources",
+ "credits": "Wratislaw, Albert Henry (compiler, d. 1892)",
+ "gutenberg": "Project Gutenberg eBook #48761 — https://www.gutenberg.org/ebooks/48761",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Europe/Slavic peoples (pan-Slavic)/073 - Serbian Stories From Bosnia.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 4,
+  "words": 117
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "T HE Bosnian stories are not written in the Cyrillic, but in the Latin character."
+    },
+    {
+     "id": "p001.s02",
+     "source": "This indicates that the Christian inhabitants of Bosnia belong to the Latin rather than to the Greek Church."
+    },
+    {
+     "id": "p001.s03",
+     "source": "The Serbians of the Kingdom of Serbia would, no doubt, gladly absorb Bosnia, but it is very doubtful whether the Bosnians would be equally glad to be absorbed by them."
+    },
+    {
+     "id": "p001.s04",
+     "source": "In Bosnia the landed proprietors are extensively Mahometans, and neither they nor the Latin Christians would be very willing to place themselves under the domination of the Orthodox Greek Church, without much stronger guarantees than the Serbians of the kingdom, as at present constituted, are likely to be able or willing to give them."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

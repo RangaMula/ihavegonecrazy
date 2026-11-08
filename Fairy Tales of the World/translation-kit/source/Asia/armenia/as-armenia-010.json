@@ -2,20 +2,20 @@
  "id": "as-armenia-010",
  "title": {
   "id": "title",
-  "source": "Summary"
+  "source": "Dragon-Child And Sun-Child"
  },
  "tradition": "Armenia",
  "continent": "Asia",
  "source_lang": "en",
- "source_book": "Armenian Legends and Festivals",
- "credits": "Boettiger, Louis A. (Louis Angelo) (author)",
- "gutenberg": "Project Gutenberg eBook #38129 — https://www.gutenberg.org/ebooks/38129 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Asia/Armenia/010 - Summary.md",
+ "source_book": "The Golden Maiden, and other folk tales and fairy stories told in Armenia",
+ "credits": "Seklemian, A. G. (Apraham Garabed) (author, d. 1920)",
+ "gutenberg": "Project Gutenberg eBook #46944 — https://www.gutenberg.org/ebooks/46944",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Asia/Armenia/010 - Dragon-Child And Sun-Child.md",
  "stats": {
-  "paragraphs": 15,
-  "segments": 84,
-  "words": 2539
+  "paragraphs": 42,
+  "segments": 188,
+  "words": 3440
  },
  "paragraphs": [
   {
@@ -23,39 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Such are the festivals treated in the second and last part of this thesis."
+     "source": "There was once a King who had no children, and whose life was very desolate."
     },
     {
      "id": "p001.s02",
-     "source": "Is it true that they form a vehicle of expression for the national sentiment created by the large mass of social material of which the legends of Part One are a considerable and important portion?"
+     "source": "He asked the advice of all the doctors and learned men of his realm to relieve him of his trouble, but it was of no avail."
     },
     {
      "id": "p001.s03",
-     "source": "Again it will be necessary to remind ourselves of the chief sentiments included within Armenian national sentiment, i.e., the sentiment of loyalty to the church, the sentiment of reverence amounting almost to worship for the ancient glory of the nation, and the sentiment of love for the country."
+     "source": "In order to forget his dejected condition, he gave his time to hunting."
     },
     {
      "id": "p001.s04",
-     "source": "It would be ridiculous to suppose that every festival was designed to give expression to some one of these sentiments."
+     "source": "One day, as he was walking in the forest he saw a snake coiled in the sun, surrounded by its little ones."
     },
     {
      "id": "p001.s05",
-     "source": "But that these sentiments are given very clear, very real outward expression in the great majority of the celebrations described, should be so evident at this point as to make further exposition unnecessary."
-    },
-    {
-     "id": "p001.s06",
-     "source": "In the summer Festival of Vartavar, the spring Festival of Mihr, Vartan’s Day, and in the consecration of the Katholikos there is the proud and reverent looking back to the times when Armenia was an independent nation; the festival ceremonies of the third group, baptism, betrothal, marriage, and funeral, though they are not positive expressions of the sentiments of loyalty to the church, are yet so completely interwoven with the church and dependent upon it that one is compelled to regard the feeling as something to be taken for granted, while in most of the festivals of the second group, Christmas, Easter, Maundy Thursday, and the Blessing of the Grapes especially, the sentiment is given a more positive expression."
-    },
-    {
-     "id": "p001.s07",
-     "source": "As for the sentiment of love for the country, that is identified especially with Vartavar and Vartan’s Day."
-    },
-    {
-     "id": "p001.s08",
-     "source": "It is evident, therefore, that each of these festivals and festival-ceremonies forms a medium more or less evident as the case may be, for the expression of one or more or all of the sentiments that make up Armenian national sentiment."
-    },
-    {
-     "id": "p001.s09",
-     "source": "Some of them are not to be classified as readily as this, as for example, the festival of Ascension morning, or Fortune-Telling Day, in which the dominant sentiment is one of romantic love, or in the Blessing of the Water, where the desire for a gain in health or wealth is the main psychological fact."
+     "source": "For a long time he gazed wistfully at this family circle, and recognizing that his condition was inferior to that of the reptile parent, he sighed deeply and complained against Heaven, saying:"
     }
    ],
    "id": "p001"
@@ -65,33 +49,69 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Each one of these festivals, however, is a great deal more than the putting into activity of some of the above sentiments."
-    },
-    {
-     "id": "p002.s02",
-     "source": "In many of them the play-instinct is clearly evident, while in a few such as Vartavar, the whole self, with all its sentiments, instincts, tendencies, and emotions, is given the fullest and most unrestrained freedom."
-    },
-    {
-     "id": "p002.s03",
-     "source": "A festival, if it is anything, is a letting loose of the reins; there is nothing to hinder, nothing to keep back, nothing to hide, nothing to fear, and the self reaches out in a higher consciousness of fullness and completeness of living."
-    },
-    {
-     "id": "p002.s04",
-     "source": "As such it would be the greatest of fallacies to suppose any one of the festivals to be restricted to a particular sentiment."
-    },
-    {
-     "id": "p002.s05",
-     "source": "Nevertheless, it is clear, that the festivals do constitute vehicles of expression for the sentiments that make up Armenian national sentiment."
+     "source": "“O Heaven! have I not so much value before you as this reptile, that you torment me by denying to me offspring and happiness?”"
     }
    ],
    "id": "p002"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Conclusions"
+     "source": "He never forgot the sight of this snake-family."
+    },
+    {
+     "id": "p003.s02",
+     "source": "One day a child came to the palace, but it was a monster, half man and half dragon."
+    },
+    {
+     "id": "p003.s03",
+     "source": "Now the grief of the King was heavier than before."
+    },
+    {
+     "id": "p003.s04",
+     "source": "They could not kill the monster because it was of royal birth."
+    },
+    {
+     "id": "p003.s05",
+     "source": "They therefore cast the Dragon-child into a dry well, where they fed him by giving him a skinful of goat’s milk every day."
+    },
+    {
+     "id": "p003.s06",
+     "source": "Soon the Dragon-child grew and required meat for his diet."
+    },
+    {
+     "id": "p003.s07",
+     "source": "Then they cast to him, every week, a tender girl; and when he grew older, they gave him a maiden to devour."
+    },
+    {
+     "id": "p003.s08",
+     "source": "Every house of the land furnished a maiden for the Dragon-child."
+    },
+    {
+     "id": "p003.s09",
+     "source": "It came the turn of a poor man who, being a widower, had a daughter from his former wife, and had married a widow who had a daughter of her own."
+    },
+    {
+     "id": "p003.s10",
+     "source": "The husband said that they must cast the wife’s daughter to the Dragon-child, but his wife insisted that they must cast the husband’s daughter."
+    },
+    {
+     "id": "p003.s11",
+     "source": "The woman’s will was followed and so the stepmother prepared her stepdaughter to be cast to the Dragon-child on the following day."
+    },
+    {
+     "id": "p003.s12",
+     "source": "The maiden was very beautiful and graceful."
+    },
+    {
+     "id": "p003.s13",
+     "source": "She wept all night and prayed God to pity her."
+    },
+    {
+     "id": "p003.s14",
+     "source": "At midnight she heard some one speak to her in her dreams, saying:"
     }
    ],
    "id": "p003"
@@ -101,15 +121,23 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The general conclusions to which this study unmistakably gives rise are in respect to the national traits of the Armenian people."
+     "source": "“Maiden, do not fear being cast to the Dragon-child."
     },
     {
      "id": "p004.s02",
-     "source": "These traits have been brought out both explicitly and implicitly in connection with the various legends and festivals considered, and it is my purpose, therefore, to summarize and substantiate them at this point."
+     "source": "Tell your father to send with you three skinfuls of the milk of a black goat, and do you provide a knife for yourself."
     },
     {
      "id": "p004.s03",
-     "source": "They include, first, the superstitiousness, second, the conservatism, third, the self-sufficiency, and lastly the familism of the people."
+     "source": "Let your father wrap you in a bull’s skin and lower you and the milk by a rope into the well."
+    },
+    {
+     "id": "p004.s04",
+     "source": "When the Dragon-child bids you come out from the bull’s skin in order that he may devour you, tell him to come out from the dragon’s skin, that you may bathe him with milk."
+    },
+    {
+     "id": "p004.s05",
+     "source": "When he comes out, do you also cut the bull’s skin with your knife and come out of the skin and bathe him.”"
     }
    ],
    "id": "p004"
@@ -119,39 +147,35 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "First of these qualities, superstitiousness, may be ascribed in large measure to geographical isolation."
+     "source": "On the following morning the maiden told her dream to her father, who got the required things ready, at the same time praying Heaven that what the maiden had dreamed might come true."
     },
     {
      "id": "p005.s02",
-     "source": "The country to be sure, is so situated as to form a highway from Europe to the Mesopotamian valley, and from Asiatic Russia to the Mediterranean, and although it has been overrun by Assyrians, Greeks, Parthians, Romans, Persians, Turks, Egyptians, and still others, yet we must speak of it as isolated, for the science that has brought remote countries into contact has not affected Armenia to any considerable degree."
+     "source": "The maiden being lowered into the well, the Dragon-child bade her come out of the bull’s skin; to which the maiden answered as she was advised."
     },
     {
      "id": "p005.s03",
-     "source": "Subject to a backward nation, lacking all modern means of communication, the country is shut off and the plows of civilization have not yet furrowed the social soil of superstition."
+     "source": "Thereupon in its fury, the dragon’s skin burst, and lo! there issued from it a handsome lad."
     },
     {
      "id": "p005.s04",
-     "source": "How general these superstitions are is brought out especially by the festivals described, many of which have given rise to a superstition or a group of superstitions."
+     "source": "The maiden cut the bull’s skin with her knife, in a hurry to emerge, but in her haste she fell down, and one of her front teeth was broken."
     },
     {
      "id": "p005.s05",
-     "source": "From Vartavar, there came the belief that the dust from the sacred altar served as a talisman for children learning their A B C’s; the spring fire festival gave rise to the practice of taking home a glowing brand for good luck; there is the belief that the blessed water will cure various diseases, and that the oil scraped from the anointed foot with a walnut given by the priest after washing the feet at the ceremony of Maundy Thursday, will keep a supply of butter throughout the year."
+     "source": "She bathed the lad with goat’s milk and he became a sound, gallant youth, who at once expressed his gratitude to her for releasing him from his horrible bondage."
     },
     {
      "id": "p005.s06",
-     "source": "And then there are the beliefs in the miraculous power of the holy oil, manufactured with due ceremony every four years at Sis; in the healing power of the various sacred relics kept at Etchmiadzin and other places, and ten thousand others."
+     "source": "Just then the maiden’s father came to the mouth of the well, to see whether her dream was true or false, and perceiving them, ran to inform the King, who hastened to the spot accompanied by the Queen and his peers."
     },
     {
      "id": "p005.s07",
-     "source": "There are also beliefs not of a religious character as the above, such as the one in regard to the tetagush, the little locust-eating bird, which is supposed to be attracted by Ararat spring water."
+     "source": "They drew the Dragon-child and his deliverer from the well with great joy and ceremony."
     },
     {
      "id": "p005.s08",
-     "source": "The same superstition obtains in other parts of the country with the difference that the inconvenience of obtaining Ararat spring water makes it necessary for the people to believe in the peculiar efficacy of other springs."
-    },
-    {
-     "id": "p005.s09",
-     "source": "These illustrations are sufficient, and although it could hardly be proved that Armenians are more innately superstitious than the Anglo-Saxon ancestors who believed only a few generations ago in the power of the malignant eye, and that an innocent person might pass through fire unharmed, yet their superstitious nature and beliefs are present-day facts explained most completely on the ground of comparative isolation from the rest of the world."
+     "source": "They celebrated a wedding festival for forty days and nights, and the youth and the maiden loved one another and were married."
     }
    ],
    "id": "p005"
@@ -161,35 +185,39 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "Second of the national characteristics of the people clearly brought out by this study is their conservatism."
+     "source": "It came to pass, after a time, that on account of a war the Dragon-child had to go away from home."
     },
     {
      "id": "p006.s02",
-     "source": "This may also be traced in large measure to their secluded condition, but in larger proportion is it due to the solidarity and national consciousness, which naturally consider innovations as foreign, and intrusions of foreign cultures, ideals, customs, and manners as hostile."
+     "source": "When he was about departing he asked his mother not to send his bride away, not even to her father’s, lest some misfortune should befall her."
     },
     {
      "id": "p006.s03",
-     "source": "That this is true is indicated conclusively by the fact that in Constantinople, where Armenian culture has naturally come in conflict with that of the Greek, the Turk, and the European, the Armenians have not at all given up their ways to imitate any of the three peoples mentioned."
+     "source": "The Queen promised."
     },
     {
      "id": "p006.s04",
-     "source": "To be sure they have not adhered rigidly to the old beliefs and practices of the interior."
+     "source": "But a thousand devils had entered the heart of the bride’s stepmother, who was jealous of her good luck."
     },
     {
      "id": "p006.s05",
-     "source": "Comparison has resulted in substitution, and conflict between the rational and irrational, the utile and the inutile, has meant displacement, but invariably by something distinctly different from the usages and practices current among Turk or European."
+     "source": "She came and invited the bride to their house, saying that both she and her husband were longing to see her."
     },
     {
      "id": "p006.s06",
-     "source": "That is, Armenians are themselves centers of imitation by fellow Armenians who, though they follow the lines suggested by their fellow countrymen, scorn to imitate even the European, whose superiority is generally recognized in Constantinople."
+     "source": "When this was refused she sent her husband, who urgently entreated the Queen to send his daughter to his house at least for one day."
     },
     {
      "id": "p006.s07",
-     "source": "The Armenian, recognizing no superior, has merely modified his own practices, usages, manners, and customs to suit his changed environment."
+     "source": "The Queen thought there could be no harm in this, and so she let the bride go."
     },
     {
      "id": "p006.s08",
-     "source": "And therefore I say that the characteristic Armenian conservatism is due rather to a strong feeling of nationality than to isolation."
+     "source": "The stepmother took her daughter and the bride for a walk on the seashore."
+    },
+    {
+     "id": "p006.s09",
+     "source": "When they came there she said to them:"
     }
    ],
    "id": "p006"
@@ -199,15 +227,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "The conservatism of the church has been an important element."
-    },
-    {
-     "id": "p007.s02",
-     "source": "Refusing to have anything to do with the decisions of the Council of Chalcedon, the church became independent and has maintained a policy of the most rigid ultra-conservatism ever since."
-    },
-    {
-     "id": "p007.s03",
-     "source": "Says Ormanian:"
+     "source": "“Daughters, let us bathe.”"
     }
    ],
    "id": "p007"
@@ -217,43 +237,22 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "The Armenian church would have nothing to do with this transaction (Chalcedon) which was prompted by a design that had no bearing on theology."
+     "source": "They entered the sea to bathe."
     },
     {
      "id": "p008.s02",
-     "source": "She remained firm in her original resolve, and ever maintained an attitude of ultra-conservatism."
+     "source": "The wicked woman, pretending to help the bride, took her toward the deep sea, where she gave her a violent push and she was caught by the waves and was drawn by the current out to the open sea."
     },
     {
      "id": "p008.s03",
-     "source": "She set herself to resist every new dogmatic utterance said to emanate from revelation, as well as every innovation which could in any way pervert the primitive faith."
+     "source": "When she was sure that the bride had been drowned, she hastened to the shore with her own daughter, and putting the bride’s dress on the latter, sent her to the King’s palace as the true bride."
     }
    ],
    "id": "p008"
   },
   {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p009.s01",
-     "source": "That this same spirit is reflected in the social life of the people is something one would naturally expect, in view of the important influence of the church over the entire life of the people."
-    },
-    {
-     "id": "p009.s02",
-     "source": "As the father of the Alan princess replied when requested to give the hand of his daughter to Artasches, “From whence shall brave Artasches give thousands upon thousands and ten thousands upon tens of thousands unto the Alans in return for the maiden?” so to-day the first question that is asked when the hand of a young Armenian girl is requested in marriage is “What can he give for his bride?”"
-    },
-    {
-     "id": "p009.s03",
-     "source": "The practice of wife purchase has only changed in that the required riches are given to the bride instead of to the father of the bride."
-    },
-    {
-     "id": "p009.s04",
-     "source": "Occasionally a young man is pressed to the point of mortgaging property in order to obtain the necessary funds, and it has been known that in many such cases the young bride found her treasure gone shortly after her marriage, her master having taken it to pay off his mortgage."
-    },
-    {
-     "id": "p009.s05",
-     "source": "So parents arrange for the marriage of their children, the young wife is delivered up to her husband as the obedient and submissive servant, children are baptized after they have scarcely opened their eyes, and church ceremonies are conducted much as they have been for generations."
-    }
-   ],
+   "type": "break",
+   "segments": [],
    "id": "p009"
   },
   {
@@ -261,47 +260,59 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "The self-sufficiency of the Armenian people has been indicated in the repeated failures of missionary religions and foreign cultures to alter appreciably the native folkways and mores."
+     "source": "Let us turn to the fortunes of the maiden in the sea."
     },
     {
      "id": "p010.s02",
-     "source": "In spite of political subordination to Islam, the Gregorian church has held tenaciously to its ideals and has successfully maintained its independence."
+     "source": "For a long time she struggled against the violent waves, and was saved from being drowned by catching hold of an empty cask which happened to float near her."
     },
     {
      "id": "p010.s03",
-     "source": "The distinctive social tradition,—which includes the political and the religious traditions,—has remained intact in the face of recurrent invasion, vassalage, and persecution."
+     "source": "The wind blew from the shore, and the current carried the cask and the maiden away to the open sea."
     },
     {
      "id": "p010.s04",
-     "source": "The Armenian will not be assimilated."
+     "source": "For three days and nights she floated with the cask, and then she was cast upon an uninhabited shore."
     },
     {
      "id": "p010.s05",
-     "source": "Death is preferable to the loss of those intangible realities that make the people a distinctive group."
+     "source": "She walked for a time on the coast, but saw no sign of a human being."
     },
     {
      "id": "p010.s06",
-     "source": "When Haic, the patriarchal progenitor of the race, was invited to “soften his hard pride,” and to return to the kingdom of the god Bel, the alternative, war, was chosen."
+     "source": "She was hungry, naked and very tired."
     },
     {
      "id": "p010.s07",
-     "source": "In the year 450, when the Persian fire-worshippers invited the Armenians to change their faith, the answer again was war."
+     "source": "The first thing she did was to gather rushes and moss and weave for herself something like an apron to hide her nakedness."
     },
     {
      "id": "p010.s08",
-     "source": "The reply to the decision of Chalcedon illustrates the same spirit."
+     "source": "She then gathered wild berries and ate, and quenched her thirst from a brook nearby."
     },
     {
      "id": "p010.s09",
-     "source": "Likewise through the centuries of the immediate past the ever recurring answer to the Turk has been war."
+     "source": "While she was lingering on the banks of the brook she noticed a small hut hidden among the bullrushes and weeds."
     },
     {
      "id": "p010.s10",
-     "source": "Powerless to assimilate the Armenian people, the Turk has had to annihilate or be annihilated."
+     "source": "Proceeding thither, she looked in, and lo! a lad was sleeping in the hut."
     },
     {
      "id": "p010.s11",
-     "source": "The self-sufficiency of the people thus reveals itself in the will to maintain the distinctive social tradition, regardless of cost or sacrifice."
+     "source": "She sat down near the door of the hut."
+    },
+    {
+     "id": "p010.s12",
+     "source": "Soon after sunset the lad awoke, and as he was coming out of the hut, he noticed the maiden."
+    },
+    {
+     "id": "p010.s13",
+     "source": "Thinking that she was a fairy or a demon, he made upon his face the sign of the cross, at the same time stepping backward."
+    },
+    {
+     "id": "p010.s14",
+     "source": "But to his surprise, seeing that she did not vanish, he said to her:"
     }
    ],
    "id": "p010"
@@ -311,79 +322,11 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "The characteristic familism reveals itself not only in the customs of family life, but also in the very nature of the Armenian."
+     "source": "“Are you a fairy, a demon or a human being?"
     },
     {
      "id": "p011.s02",
-     "source": "In Russian Armenia there is a very active propaganda carried on by Russian girls to secure Armenian husbands because of the domesticity of the latter, which is in striking contrast to the adventurous unfaithfulness of the Russian husband, whose house becomes his prison, from which he therefore flees, leaving his wife and children to shift for themselves."
-    },
-    {
-     "id": "p011.s03",
-     "source": "The discontented Russian may be a more attractive lover for his “Wanderlust” and restlessness, but he is a less attractive husband for the same reason."
-    },
-    {
-     "id": "p011.s04",
-     "source": "An Armenian husband belongs in his home, where he lives in the hope that some day he may be the father of a huge household of married sons and grandsons."
-    },
-    {
-     "id": "p011.s05",
-     "source": "A young Armenian I know spoke to me of his wish that some day his father might collect the scattered sons and unite them and their families in a single household."
-    },
-    {
-     "id": "p011.s06",
-     "source": "This desire is so general among Armenians as to make it evident that the family is the all-important social unit."
-    },
-    {
-     "id": "p011.s07",
-     "source": "No reputation is so great as that carried by a good family name, nor is there any so damning as that which goes with a bad family name."
-    },
-    {
-     "id": "p011.s08",
-     "source": "And why is the young bride kept silent for years if not to ensure the all-essential family-unity, family-solidarity, and family-continuity,—that is, continuity of family tradition, manners, and customs?"
-    },
-    {
-     "id": "p011.s09",
-     "source": "And why is the “patria-potestas” well-nigh unlimited if not for precisely the same reason?"
-    },
-    {
-     "id": "p011.s10",
-     "source": "Nor is the taboo upon the young bride, according to which she may not speak to any young man not a relative during her entire life of marriage, of no significance in this connection."
-    },
-    {
-     "id": "p011.s11",
-     "source": "It too precludes family disruption, or blemish on the family name."
-    },
-    {
-     "id": "p011.s12",
-     "source": "Divorce and infidelity are very rare, all family differences having no tribunal outside the patriarch, who considers his greatest misfortune to be a lack of family integrity or oneness."
-    },
-    {
-     "id": "p011.s13",
-     "source": "Thus a son who has been swayed by Protestantism dares not clash with his father, and has no choice but to run away, while a daughter whose wishes are contrary can be disobedient only at the cost of breaking the family connection, to prevent which she is usually ready to make any sacrifice."
-    },
-    {
-     "id": "p011.s14",
-     "source": "All of this is no accident."
-    },
-    {
-     "id": "p011.s15",
-     "source": "Forced to dwell within the circle of the family group for seven, eight, or nine months during the year without so much as opening his door, because of the severity of winter, the life of the patriarch is inevitably centered in his household, and therefore also the self of each member is merged into the larger unit."
-    },
-    {
-     "id": "p011.s16",
-     "source": "This familism throws additional light on some of the conclusions I have insisted upon, for nothing so fosters conservatism as a substantial family solidarity; what could be more instrumental in passing on the national sentiment, and finally, what could be more favorable to the development of the self-sufficiency, the independence of Armenian character?"
-    },
-    {
-     "id": "p011.s17",
-     "source": "In speaking of “familism and the well-knit family” Ross says; “Worshippers of the spirit of the hearth, they are more aloof from their fellows, slower therefore to merge with them or be swept from their moorings by them."
-    },
-    {
-     "id": "p011.s18",
-     "source": "It seems to be communion by the fire-side rather than communion in the public resort that gives individuality long bracing roots."
-    },
-    {
-     "id": "p011.s19",
-     "source": "The withdrawn social self, although it lacks breadth, gains in depth, etc.”"
+     "source": "Disclose yourself.”"
     }
    ],
    "id": "p011"
@@ -393,34 +336,51 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Any socially well-knit people possessing a distinctive social tradition, and characterized by a highly developed national consciousness, may make its contribution to the world’s work, if it is given the necessary freedom."
-    },
-    {
-     "id": "p012.s02",
-     "source": "As the period of the Arsacidae kings brought forth the golden age of Armenian literature, so greater achievements may follow the political independence that is hoped for, and for which Armenians have valiantly struggled."
-    },
-    {
-     "id": "p012.s03",
-     "source": "Lord Bryce writes of the Armenian race, “It is the only one of the native races of Western Asia that is capable of restoring productive industry and assured prosperity to the now desolate region that was the earliest home of civilization.”"
-    },
-    {
-     "id": "p012.s04",
-     "source": "In the past, the energy of the people has been wasted in ceaseless conflict."
-    },
-    {
-     "id": "p012.s05",
-     "source": "Given a guarantee of territorial integrity, and participation in the affairs of government with the hope of future autonomy, the energies of strife will be diverted to the work of peace."
-    },
-    {
-     "id": "p012.s06",
-     "source": "Not until then can the high calling expressed in the words of Lord Bryce be realized."
+     "source": "The maiden told him her story."
     }
    ],
    "id": "p012"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "“My own story is as strange as yours,” then said the lad."
+    },
+    {
+     "id": "p013.s02",
+     "source": "“I was the only son of a rich man and had plenty to spend and enjoy."
+    },
+    {
+     "id": "p013.s03",
+     "source": "I led a dissipated life and went hunting every day."
+    },
+    {
+     "id": "p013.s04",
+     "source": "Once it happened that I did not shoot any game for three days in succession."
+    },
+    {
+     "id": "p013.s05",
+     "source": "I was enraged to the verge of madness, and wandered all the night."
+    },
+    {
+     "id": "p013.s06",
+     "source": "At daybreak my madness reached its climax, and I resolved to shoot the sun and drop him dead from his orb that darkness might cover the world, since I could take no game and have no pleasure."
+    },
+    {
+     "id": "p013.s07",
+     "source": "At once I grasped my bow and arrow, took aim at the sun, who had just lifted his shining face from behind the hills, and had hardly loosed the bowstring when I felt a blazing palm slap me in the face; a hand of fire took hold of my hair and cast me into this wilderness, and I heard an angry voice thundering at me from the overhanging clouds, declaring that I was cursed and should never see the light of the sun any more."
+    },
+    {
+     "id": "p013.s08",
+     "source": "I thus remain abandoned here, and sleep in the hut all the day while the sun shines, and go out only at night to procure food."
+    },
+    {
+     "id": "p013.s09",
+     "source": "If I go out of this hut after daybreak I am doomed to die a horrible death.”"
+    }
+   ],
    "id": "p013"
   },
   {
@@ -428,7 +388,23 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Ormanian p. 36."
+     "source": "As fate had so strangely cast these two youthful beings into the same lonely place, they decided to live together, accepting one another as husband and wife."
+    },
+    {
+     "id": "p014.s02",
+     "source": "Thus she who had been the consort of the Dragon-child was now the companion of the Sun-child."
+    },
+    {
+     "id": "p014.s03",
+     "source": "The woman worked in the daytime, and the man at night, and so they earned their living."
+    },
+    {
+     "id": "p014.s04",
+     "source": "But soon married life brought a change upon the woman, who needed the help of others, and they decided that she must go to the parents of the Sun-child."
+    },
+    {
+     "id": "p014.s05",
+     "source": "The lad wrote the following letter to his parents:"
     }
    ],
    "id": "p014"
@@ -438,10 +414,612 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "Ross, Social Psychology pp. 88–89."
+     "source": "“I herewith send you your daughter-in-law; keep her and take care of her as my wife."
+    },
+    {
+     "id": "p015.s02",
+     "source": "But do not seek me; I cannot see the sun, I cannot come home, neither can I enter the city."
+    },
+    {
+     "id": "p015.s03",
+     "source": "If I do come I shall surely die; I am cursed.”"
     }
    ],
    "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "Walking during the nights, and hiding himself in caves in daytime, the lad brought his wife to the vicinity of his parents’ house, and himself went back to his lonely hut."
+    },
+    {
+     "id": "p016.s02",
+     "source": "The woman gave the letter to her father-in-law, and was accepted."
+    },
+    {
+     "id": "p016.s03",
+     "source": "The lad’s father and mother hearing that their son was alive, said they would go and bring him, but the bride dissuaded them, saying that they would be the means of his death."
+    },
+    {
+     "id": "p016.s04",
+     "source": "In the fullness of time the family was cheered by the birth of a son, which the young mother put in a cradle and rocked, singing to it melodious lullabies from the incidents of her own life."
+    },
+    {
+     "id": "p016.s05",
+     "source": "One night as the young mother was putting her baby to sleep, another voice was heard out in the darkness singing a melodious lullaby."
+    },
+    {
+     "id": "p016.s06",
+     "source": "The bride recognized the voice to be that of the Sun-child, who had come from such a great distance, being drawn by the love of the baby; but he could not enter."
+    },
+    {
+     "id": "p016.s07",
+     "source": "This was repeated several times until the bride’s father and mother-in-law heard that somebody was in the habit of coming at night, and singing lullabies by turns with their daughter-in-law."
+    },
+    {
+     "id": "p016.s08",
+     "source": "Suspicion entered into their minds that the bride might have a lover who was making nightly calls on her."
+    },
+    {
+     "id": "p016.s09",
+     "source": "The young woman, seeing that they were watching her with mistrust, said:"
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "“It is your son who comes and sings lullabies; the love which he bears to the baby draws him, but he cannot enter; the moment you compel him to come in he dies.”"
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "“Nay, you are lying!” exclaimed her father and mother-in-law with rage; “ there must be some foul play here."
+    },
+    {
+     "id": "p018.s02",
+     "source": "We will keep watch and catch the nightly visitor; if he proves to be our son, well and good; if not, woe be unto you.”"
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "That night they kept watch, and when the voice from outside was heard they ran and took hold of the man, and lo! it was their son, who begged them, saying:"
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "“For Heaven’s sake, let me go!"
+    },
+    {
+     "id": "p020.s02",
+     "source": "If by the time the sun rises I am not hid in my hut, I die."
+    },
+    {
+     "id": "p020.s03",
+     "source": "Spare my life; I am cursed!”"
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "This sounded to his father and mother like deceit, and they kept him at home until daybreak."
+    },
+    {
+     "id": "p021.s02",
+     "source": "As soon as the first rays of the sun beamed from the East, lo! the lad sank in the arms of his father and mother, and died."
+    },
+    {
+     "id": "p021.s03",
+     "source": "He died, but strange to say, his spirit did not depart from him entirely."
+    },
+    {
+     "id": "p021.s04",
+     "source": "They said he would revive at sunset."
+    },
+    {
+     "id": "p021.s05",
+     "source": "But not so; at night also he was in the same benumbed state."
+    },
+    {
+     "id": "p021.s06",
+     "source": "The house was changed into a house of sorrow; but worse than that befell."
+    },
+    {
+     "id": "p021.s07",
+     "source": "He was not dead so that they could bury him and he was not alive so that they might talk with him or administer a remedy."
+    },
+    {
+     "id": "p021.s08",
+     "source": "The parents took stones and beat their own heads, they pulled their hair, and sat in ashes and sackcloth."
+    },
+    {
+     "id": "p021.s09",
+     "source": "They lamented and wailed, but it was all of no avail."
+    },
+    {
+     "id": "p021.s10",
+     "source": "One night the afflicted mother dreamed a dream in which this revelation was made to her:"
+    }
+   ],
+   "id": "p021"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p022.s01",
+     "source": "“Get up, put on iron sandals, take in your hand an iron rod and travel toward the West, until your sandals are worn and your rod is broken."
+    },
+    {
+     "id": "p022.s02",
+     "source": "Wherever holes are opened in your sandals and your rod is broken, there you will find a remedy for your son.”"
+    }
+   ],
+   "id": "p022"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p023.s01",
+     "source": "There is no limit to a mother’s love and pity."
+    },
+    {
+     "id": "p023.s02",
+     "source": "As soon as she awoke in the morning she ordered the blacksmith to make her a pair of iron sandals and an iron rod, and she set out toward the West, walking day and night."
+    },
+    {
+     "id": "p023.s03",
+     "source": "She traveled through the countries of white men, red men, black men; she passed through the lands of fairies, giants and genii: she went farther than beasts and birds would dare to go; she had gone to the very limits of the earth."
+    },
+    {
+     "id": "p023.s04",
+     "source": "There she saw at a distance a palace built of blue marble, whither she proceeded."
+    },
+    {
+     "id": "p023.s05",
+     "source": "Before the palace door the iron rod fell from her hand and was broken; she got out her sandals to shake off the dust, and lo! they were worn and there was a hole in each."
+    },
+    {
+     "id": "p023.s06",
+     "source": "She said to herself:"
+    }
+   ],
+   "id": "p023"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p024.s01",
+     "source": "“It is here that I shall find a remedy for my son!”"
+    }
+   ],
+   "id": "p024"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p025.s01",
+     "source": "She entered and passed through twelve courtyards in succession."
+    },
+    {
+     "id": "p025.s02",
+     "source": "Each courtyard was surrounded by four arches, where thousands of myriads of stars were sleeping."
+    },
+    {
+     "id": "p025.s03",
+     "source": "At the center of each courtyard there was a marble pond with a stream of crystal water gushing from an orifice."
+    },
+    {
+     "id": "p025.s04",
+     "source": "There were no trees, no grass, no birds, no beasts, and no other creature."
+    },
+    {
+     "id": "p025.s05",
+     "source": "A deep silence was reigning everywhere."
+    },
+    {
+     "id": "p025.s06",
+     "source": "Upon the pond in the middle courtyard there were four golden arches, upon which there was a golden room of great splendor with a pearl bed in the center."
+    },
+    {
+     "id": "p025.s07",
+     "source": "Near the window there was, sitting upon a golden throne, a Queen so fair and beautiful, that no human being can describe her loveliness."
+    },
+    {
+     "id": "p025.s08",
+     "source": "From head to foot she was covered with diamonds and her face beamed with rays of light."
+    },
+    {
+     "id": "p025.s09",
+     "source": "At sight of this grandeur the poor woman was greatly amazed; she turned pale and began to shiver like an autumn leaf before a cold blast from the North."
+    },
+    {
+     "id": "p025.s10",
+     "source": "She fell upon her knees, and lifting her hands, was about to speak, when suddenly the Queen interrupted her, saying:"
+    }
+   ],
+   "id": "p025"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p026.s01",
+     "source": "“Human being, Heaven has never permitted a member of the human race to enter this palace before."
+    },
+    {
+     "id": "p026.s02",
+     "source": "As you are the first mortal who has been allowed to come so far, you must have some valid reason."
+    },
+    {
+     "id": "p026.s03",
+     "source": "From your appearance I judge that you are a mother and have some maternal grief."
+    },
+    {
+     "id": "p026.s04",
+     "source": "Tell it to me; be not afraid.”"
+    }
+   ],
+   "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "These words of the Queen encouraged the woman, who said:"
+    }
+   ],
+   "id": "p027"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p028.s01",
+     "source": "“Long live the Queen!"
+    },
+    {
+     "id": "p028.s02",
+     "source": "Yes, I am a mother, and have traveled so far to ask the life of my only son.”"
+    }
+   ],
+   "id": "p028"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p029.s01",
+     "source": "And she told her story, to which the Queen made answer:"
+    }
+   ],
+   "id": "p029"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p030.s01",
+     "source": "“Your son was an evil boy."
+    },
+    {
+     "id": "p030.s02",
+     "source": "I am a mother myself."
+    },
+    {
+     "id": "p030.s03",
+     "source": "The Sun is my son, by whose living rays heaven and earth are illumined."
+    },
+    {
+     "id": "p030.s04",
+     "source": "Your son was so wicked that he wanted to shoot my son, the giver of life to the universe."
+    },
+    {
+     "id": "p030.s05",
+     "source": "All kinds of sins may be pardonable to a man, but a sin against the sole source of life is not pardonable."
+    },
+    {
+     "id": "p030.s06",
+     "source": "Your son was therefore doomed to be deprived of life."
+    },
+    {
+     "id": "p030.s07",
+     "source": "He is cursed."
+    },
+    {
+     "id": "p030.s08",
+     "source": "He will live, but not live; he will die, but not die.”"
+    }
+   ],
+   "id": "p030"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p031.s01",
+     "source": "“I am a mother,” repeated the woman, “come to beg the life of my son."
+    },
+    {
+     "id": "p031.s02",
+     "source": "I have come so far that my iron sandals are worn out, and my iron rod is broken."
+    },
+    {
+     "id": "p031.s03",
+     "source": "I would willingly go still further if it were necessary."
+    },
+    {
+     "id": "p031.s04",
+     "source": "For the love you bear your son, O Queen of this luminous orb, devise a remedy for my grief!”"
+    }
+   ],
+   "id": "p031"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p032.s01",
+     "source": "These words served to arouse the compassion of the Queen, who replied:"
+    }
+   ],
+   "id": "p032"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p033.s01",
+     "source": "“There are very many unworthy children who enjoy life simply because of their virtuous mothers."
+    },
+    {
+     "id": "p033.s02",
+     "source": "Let it be so with your son, O virtuous woman, who bear such great maternal love in your heart!"
+    },
+    {
+     "id": "p033.s03",
+     "source": "Now, go hide yourself behind yonder stars."
+    },
+    {
+     "id": "p033.s04",
+     "source": "The day is growing towards evening and my son will soon be here; if you do not hide yourself you will be burned."
+    },
+    {
+     "id": "p033.s05",
+     "source": "The first thing he does after reaching this place is to dive in this pond; then he comes to be nursed from my breast."
+    },
+    {
+     "id": "p033.s06",
+     "source": "Just then take a bottle full of the water of the pond where he has been washing, and carry it home."
+    },
+    {
+     "id": "p033.s07",
+     "source": "As soon as you sprinkle that water upon your son he will be healed.”"
+    }
+   ],
+   "id": "p033"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p034.s01",
+     "source": "Soon the Sun came embodied in flames."
+    },
+    {
+     "id": "p034.s02",
+     "source": "The Stars waked and stood on their feet for a time to salute their mighty King; then they scattered over the surface of the blue dome to twinkle in their respective orbits, because it was night."
+    },
+    {
+     "id": "p034.s03",
+     "source": "The Sun dove into the pond, and the Queen stretching out her hand took him out of the water."
+    },
+    {
+     "id": "p034.s04",
+     "source": "She placed him in the bed of pearl and began to nurse him, for the Sun, who never wears out, never grows old, is a baby from everlasting to everlasting."
+    },
+    {
+     "id": "p034.s05",
+     "source": "The woman came out from her concealment and taking a bottle of water from the pond, quickly retraced her steps."
+    },
+    {
+     "id": "p034.s06",
+     "source": "She arrived safely at her home, and sprinkled the water upon her son, who was healed."
+    },
+    {
+     "id": "p034.s07",
+     "source": "The report of this most wonderful journey of the woman was published all over the world, and princes and philosophers came from distant countries and from the ends of the earth to see the woman and the Sun-child, and to hear of all these wonderful things."
+    }
+   ],
+   "id": "p034"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p035.s01",
+     "source": "Among those who came from distant lands was the Dragon-child."
+    },
+    {
+     "id": "p035.s02",
+     "source": "He had returned safe from the wars and was surprised to find his bride changed, although the two step-sisters very much resembled one another."
+    },
+    {
+     "id": "p035.s03",
+     "source": "But as the Dragon-child had put a golden tooth in the place of the front tooth of his bride, which was broken in the well, he was able to detect the substitution."
+    },
+    {
+     "id": "p035.s04",
+     "source": "Upon a strict examination of his mother, he discovered that the bride had been sent to her stepmother’s where, as he supposed, she had been gotten rid of, and was replaced by her stepsister."
+    },
+    {
+     "id": "p035.s05",
+     "source": "All his efforts to find his lost bride being in vain, the Dragon-child had come to see the Sun-child and his mother, with the expectation of finding some means for the discovery of his wife."
+    },
+    {
+     "id": "p035.s06",
+     "source": "He became a guest in the Sun-child’s house, and told his story while they were eating supper."
+    },
+    {
+     "id": "p035.s07",
+     "source": "The bride, who was serving at the table, smiled and showed her golden tooth."
+    },
+    {
+     "id": "p035.s08",
+     "source": "This caused her to be discovered, and the Sun-child told how she had come and found him."
+    },
+    {
+     "id": "p035.s09",
+     "source": "Now as they had partaken of bread together, they had become friends, and agreed to solve the difficulty in a friendly manner."
+    },
+    {
+     "id": "p035.s10",
+     "source": "They decided to roast salt meat and make the bride eat it, without letting her drink."
+    },
+    {
+     "id": "p035.s11",
+     "source": "Each was to take a pitcher of water, and they all were to go riding in the fields."
+    },
+    {
+     "id": "p035.s12",
+     "source": "He whom she should ask for a drink must be her husband."
+    },
+    {
+     "id": "p035.s13",
+     "source": "They did so, and took a ride in the fields, the wife accompanying them with her child in her arms."
+    },
+    {
+     "id": "p035.s14",
+     "source": "She was thirsty, but not wishing to offend any one of them, she kept silent for a time."
+    },
+    {
+     "id": "p035.s15",
+     "source": "Finally she saw that she would faint and must put an end to the perplexed state."
+    }
+   ],
+   "id": "p035"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p036.s01",
+     "source": "“Sun-child!"
+    },
+    {
+     "id": "p036.s02",
+     "source": "Sun-child!” she exclaimed."
+    }
+   ],
+   "id": "p036"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p037.s01",
+     "source": "The Sun-child dismounted and prepared to give her a drink."
+    },
+    {
+     "id": "p037.s02",
+     "source": "Thereupon she exclaimed:"
+    }
+   ],
+   "id": "p037"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p038.s01",
+     "source": "“Dragon-child!"
+    },
+    {
+     "id": "p038.s02",
+     "source": "Dragon-child!”"
+    }
+   ],
+   "id": "p038"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p039.s01",
+     "source": "He also dismounted and prepared to give her a drink."
+    },
+    {
+     "id": "p039.s02",
+     "source": "Turning to the Sun-child, she said:"
+    }
+   ],
+   "id": "p039"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p040.s01",
+     "source": "“Here, take this child whose father you are; but I am the wedded wife of the Dragon-child.”"
+    }
+   ],
+   "id": "p040"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p041.s01",
+     "source": "And she drank from the Dragon-child’s pitcher, and went home with him."
+    }
+   ],
+   "id": "p041"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p042.s01",
+     "source": "Thus their trouble ended and they attained their wishes."
+    },
+    {
+     "id": "p042.s02",
+     "source": "May all who are afflicted find consolation."
+    },
+    {
+     "id": "p042.s03",
+     "source": "Three apples fell from heaven; one for me, one for the story-teller, and one for him who entertained the company."
+    }
+   ],
+   "id": "p042"
   }
  ]
 }

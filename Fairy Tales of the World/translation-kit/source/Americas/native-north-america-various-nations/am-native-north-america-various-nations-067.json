@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-067",
  "title": {
   "id": "title",
-  "source": "The Creation"
+  "source": "The Story Of The Indian Corn"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Myths and Legends of the Great Plains",
- "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
- "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/067 - The Creation.md",
+ "source_book": "Thirty Indian Legends",
+ "credits": "Bemister, Margaret (author)",
+ "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Americas/Native North America (various nations)/067 - The Story Of The Indian Corn.md",
  "stats": {
-  "paragraphs": 13,
-  "segments": 62,
-  "words": 541
+  "paragraphs": 10,
+  "segments": 50,
+  "words": 719
  },
  "paragraphs": [
   {
@@ -23,7 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Osage (Wazhá zhe group)"
+     "source": "Some years ago the Ottawa Indians inhabited the Manatoline Islands."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Their enemies were the Iroquois Indians, who lived on the lake shore near the islands."
+    },
+    {
+     "id": "p001.s03",
+     "source": "One night they came and attacked the Ottawas."
+    },
+    {
+     "id": "p001.s04",
+     "source": "The two tribes fought for a long time, but at last the Iroquois won, and the Ottawas were driven away from their islands."
+    },
+    {
+     "id": "p001.s05",
+     "source": "They wandered off towards the Mississippi River, where they settled near a small lake, many miles away from their home."
     }
    ],
    "id": "p001"
@@ -33,15 +49,23 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "W ay beyond, once upon a time, some of the Osages lived in the sky."
+     "source": "The Manatoline Islands were now uninhabited, except by an Indian magician, whose name was Masswaweinini."
     },
     {
      "id": "p002.s02",
-     "source": "They did not know where they came from, so they went to Sun."
+     "source": "He remained behind to act as sentry for his tribe."
     },
     {
      "id": "p002.s03",
-     "source": "They said, “From where did we come?”"
+     "source": "He guarded the beautiful islands and kept a close watch on their enemy, the Iroquois."
+    },
+    {
+     "id": "p002.s04",
+     "source": "Two young boys stayed with him to paddle his canoe."
+    },
+    {
+     "id": "p002.s05",
+     "source": "In the daytime they used to paddle close to the shore, so that the Iroquois could not see them, and at night they slept in the deep woods."
     }
    ],
    "id": "p002"
@@ -51,7 +75,31 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "He said, “You are my children.”"
+     "source": "One morning Masswaweinini rose early and left the two boys asleep."
+    },
+    {
+     "id": "p003.s02",
+     "source": "He walked a long distance through the woods, hunting for game."
+    },
+    {
+     "id": "p003.s03",
+     "source": "At last he found himself on the edge of a wide prairie."
+    },
+    {
+     "id": "p003.s04",
+     "source": "He began to walk across it, when a man suddenly appeared in front of him."
+    },
+    {
+     "id": "p003.s05",
+     "source": "He was very tiny and had some red feathers in his hair."
+    },
+    {
+     "id": "p003.s06",
+     "source": "\"Good-morning, Masswaweinini,\" he said."
+    },
+    {
+     "id": "p003.s07",
+     "source": "\"You are a very strong man, are you not?\""
     }
    ],
    "id": "p003"
@@ -61,7 +109,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Then they wandered still further and came to Moon."
+     "source": "\"Yes,\" replied the magician."
+    },
+    {
+     "id": "p004.s02",
+     "source": "\"I am as strong as any man, but no stronger.\""
     }
    ],
    "id": "p004"
@@ -71,15 +123,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "Moon said, “I am your mother; Sun is your father."
-    },
-    {
-     "id": "p005.s02",
-     "source": "You must go away from here."
-    },
-    {
-     "id": "p005.s03",
-     "source": "You must go down to the earth and live there.”"
+     "source": "The tiny man then pulled out his tobacco-pouch and pipe."
     }
    ],
    "id": "p005"
@@ -89,19 +133,11 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "So they came to the earth but found it covered with water."
+     "source": "\"Come and smoke with me,\" he said, \"and then we must have a wrestling match."
     },
     {
      "id": "p006.s02",
-     "source": "They could not return up above."
-    },
-    {
-     "id": "p006.s03",
-     "source": "They wept, but no answer came to them."
-    },
-    {
-     "id": "p006.s04",
-     "source": "They floated about in the air, seeking help from some god; but they found none."
+     "source": "If you can throw me, you must say, 'I have thrown Wagemena.'\""
     }
    ],
    "id": "p006"
@@ -111,19 +147,47 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "Now all the animals were with them."
+     "source": "So they smoked together, but when the little man was ready to wrestle, the magician did not like to do it, for he was afraid he might hurt the tiny fellow."
     },
     {
      "id": "p007.s02",
-     "source": "Elk was the finest and most stately."
+     "source": "But the other insisted, and so they began to wrestle."
     },
     {
      "id": "p007.s03",
-     "source": "They all trusted Elk."
+     "source": "The magician soon found that the little man was very strong and quick, and he felt himself growing weaker every moment."
     },
     {
      "id": "p007.s04",
-     "source": "So they called to Elk, “Help us.”"
+     "source": "But at last he succeeded in tripping the man with the red feathers, and he fell."
+    },
+    {
+     "id": "p007.s05",
+     "source": "Then the magician said, \"I have thrown you, Wagemena.\""
+    },
+    {
+     "id": "p007.s06",
+     "source": "At once the little man vanished, and in his place lay an ear of corn, with a red tassel where the feathers had been."
+    },
+    {
+     "id": "p007.s07",
+     "source": "As he stood staring at it, the corn spoke."
+    },
+    {
+     "id": "p007.s08",
+     "source": "\"Pick me up,\" it said, \"and pull off my outer covering."
+    },
+    {
+     "id": "p007.s09",
+     "source": "Then take off my kernels and scatter them over the ground."
+    },
+    {
+     "id": "p007.s10",
+     "source": "Break my cob into three parts and throw them near the trees."
+    },
+    {
+     "id": "p007.s11",
+     "source": "Depart, but come back after one moon, and see what has happened.\""
     }
    ],
    "id": "p007"
@@ -133,27 +197,19 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Then Elk dropped into the water and began to sink."
+     "source": "The magician did exactly as the corn had told him, and went away."
     },
     {
      "id": "p008.s02",
-     "source": "Then he called to the winds."
+     "source": "At the end of the time he came back."
     },
     {
      "id": "p008.s03",
-     "source": "The winds came from all sides and they blew until the waters went upwards, as in a mist."
+     "source": "To his surprise, he found green blades of corn coming through the ground where the kernels had been scattered."
     },
     {
      "id": "p008.s04",
-     "source": "Now before that the winds had traveled in only two directions; they went from north to south and from south to north."
-    },
-    {
-     "id": "p008.s05",
-     "source": "But when Elk called to them, they came from the east, from the north, from the west, and from the south."
-    },
-    {
-     "id": "p008.s06",
-     "source": "They met at a central place; then they carried the waters upwards."
+     "source": "And near the trees pumpkin-vines were growing where the cobs of the corn had been thrown."
     }
    ],
    "id": "p008"
@@ -163,35 +219,51 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "Now at first the people could see only the rocks."
+     "source": "He had not told the young boys of his adventure with the tiny man, so he did not tell them anything of the growing corn."
     },
     {
      "id": "p009.s02",
-     "source": "So they traveled on the rocky places."
+     "source": "All the rest of that summer he busied himself in closely watching the Iroquois, who were still prowling near the islands."
     },
     {
      "id": "p009.s03",
-     "source": "But nothing grew there and there was nothing to eat."
+     "source": "Very often he killed a deer, and the boys would cook the meat over their camp-fire."
     },
     {
      "id": "p009.s04",
-     "source": "Then the waters continued to vanish."
+     "source": "One day, when the summer was nearly over, he paddled his canoe around the island till he came near the wrestling ground."
     },
     {
      "id": "p009.s05",
-     "source": "At last the people could see the soft earth."
+     "source": "He stepped ashore, and left the two boys to watch the canoe, while he walked to the field."
     },
     {
      "id": "p009.s06",
-     "source": "When Elk saw the earth, he was so joyous, he rolled over and over on the earth."
+     "source": "To his great astonishment, he found the corn in full ear, and the pumpkins of an immense size."
     },
     {
      "id": "p009.s07",
-     "source": "Then all the loose hairs clung to the soil."
+     "source": "He pulled some ripened ears of corn and gathered some pumpkins."
     },
     {
      "id": "p009.s08",
-     "source": "So the hairs grew, and from them sprang beans, corn, potatoes, and wild turnips, and at last all the grasses and trees."
+     "source": "Then a voice spoke to him from the corn."
+    },
+    {
+     "id": "p009.s09",
+     "source": "\"You have conquered me, Masswaweinini,\" it said."
+    },
+    {
+     "id": "p009.s10",
+     "source": "\"If you had not done so, you would have been killed yourself."
+    },
+    {
+     "id": "p009.s11",
+     "source": "But your strength made you win the victory, and now you shall always have my body for food."
+    },
+    {
+     "id": "p009.s12",
+     "source": "It will be nourishment for you and your tribe.\""
     }
    ],
    "id": "p009"
@@ -201,147 +273,10 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Now the people wandered over the land."
-    },
-    {
-     "id": "p010.s02",
-     "source": "They found human footsteps."
-    },
-    {
-     "id": "p010.s03",
-     "source": "They followed them."
-    },
-    {
-     "id": "p010.s04",
-     "source": "They joined with them, and traveled with them in search of food."
+     "source": "Thus the Ottawa Indians were given the gift of the maize; and to this day their descendants are noted for the care that they take of their immense fields of corn."
     }
    ],
    "id": "p010"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p011.s01",
-     "source": "(Hoga group)"
-    }
-   ],
-   "id": "p011"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p012.s01",
-     "source": "The Hoga came down from above, and found the earth covered with water."
-    },
-    {
-     "id": "p012.s02",
-     "source": "They flew in every direction."
-    },
-    {
-     "id": "p012.s03",
-     "source": "They sought for gods who would help them and drive the water away."
-    },
-    {
-     "id": "p012.s04",
-     "source": "They found not one."
-    },
-    {
-     "id": "p012.s05",
-     "source": "Then Elk came."
-    },
-    {
-     "id": "p012.s06",
-     "source": "He had a loud voice and he shouted to the four corners of the sky."
-    },
-    {
-     "id": "p012.s07",
-     "source": "The four winds came in answer."
-    },
-    {
-     "id": "p012.s08",
-     "source": "They blew upon the water and it vanished upwards, in a mist."
-    },
-    {
-     "id": "p012.s09",
-     "source": "Then the people could see the rocks."
-    },
-    {
-     "id": "p012.s10",
-     "source": "Now there was only a little space on the rocks."
-    },
-    {
-     "id": "p012.s11",
-     "source": "They knew they must have more room."
-    },
-    {
-     "id": "p012.s12",
-     "source": "The people were crowded."
-    },
-    {
-     "id": "p012.s13",
-     "source": "So they sent Muskrat down into the water."
-    },
-    {
-     "id": "p012.s14",
-     "source": "He did not come back."
-    },
-    {
-     "id": "p012.s15",
-     "source": "He was drowned."
-    },
-    {
-     "id": "p012.s16",
-     "source": "Then they sent Loon down."
-    },
-    {
-     "id": "p012.s17",
-     "source": "He did not come back."
-    },
-    {
-     "id": "p012.s18",
-     "source": "He was drowned."
-    },
-    {
-     "id": "p012.s19",
-     "source": "Then they sent Beaver down into the water."
-    },
-    {
-     "id": "p012.s20",
-     "source": "The water was too deep."
-    },
-    {
-     "id": "p012.s21",
-     "source": "Beaver was drowned."
-    },
-    {
-     "id": "p012.s22",
-     "source": "Then Crawfish dived into the water."
-    },
-    {
-     "id": "p012.s23",
-     "source": "He was gone a long time."
-    },
-    {
-     "id": "p012.s24",
-     "source": "When he came up there was a little mud in his claws."
-    },
-    {
-     "id": "p012.s25",
-     "source": "Crawfish was so tired he died."
-    },
-    {
-     "id": "p012.s26",
-     "source": "But the people took the mud out of his claws and made the land."
-    }
-   ],
-   "id": "p012"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p013"
   }
  ]
 }

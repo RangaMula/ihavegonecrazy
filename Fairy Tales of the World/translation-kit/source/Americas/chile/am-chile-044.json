@@ -1,0 +1,40 @@
+{
+ "id": "am-chile-044",
+ "title": {
+  "id": "title",
+  "source": "La Cueva De La Niña"
+ },
+ "tradition": "Chile",
+ "continent": "Americas",
+ "source_lang": "es",
+ "source_book": "Cuentos populares en Chile",
+ "credits": "Laval, Ramón A. (Ramón Arminio) (author, d. 1929)",
+ "gutenberg": "Project Gutenberg eBook #63424 — https://www.gutenberg.org/ebooks/63424",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Chile/044 - La Cueva De La Niña.md",
+ "stats": {
+  "paragraphs": 1,
+  "segments": 3,
+  "words": 95
+ },
+ "paragraphs": [
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p001.s01",
+     "source": "En la playa de Bucalemu hay, en un cerro, una caverna que llaman la Cueva de la Niña, en la cual vive una jovencita encantada, que en la noche sale a peinarse a la playa con un peine de oro, que relumbra a la luz de la luna."
+    },
+    {
+     "id": "p001.s02",
+     "source": "Se sienta en una roca, y si alguno, atraído por su hermosura, se le acerca, el mar comienza a subir, hasta ahogar al curioso."
+    },
+    {
+     "id": "p001.s03",
+     "source": "Si en el día entran con luz a la cueva, se la apagan de un soplido, que no se sabe de dónde sale."
+    }
+   ],
+   "id": "p001"
+  }
+ ]
+}

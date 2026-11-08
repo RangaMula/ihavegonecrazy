@@ -2,20 +2,20 @@
  "id": "oc-hawaii-native-hawaiian-people-088",
  "title": {
   "id": "title",
-  "source": "Hiiaka And The Seacoast Kupuas"
+  "source": "How Pele Came To Hawaii"
  },
  "tradition": "Hawaii (Native Hawaiian people)",
  "continent": "Oceania",
  "source_lang": "en",
  "source_book": "Hawaiian Legends of Volcanoes (mythology)",
  "credits": "Westervelt, W. D. (William Drake) (author, d. 1939)",
- "gutenberg": "Project Gutenberg eBook #66516 — https://www.gutenberg.org/ebooks/66516 (copied via the GITenberg mirror)",
+ "gutenberg": "Project Gutenberg eBook #66516 — https://www.gutenberg.org/ebooks/66516",
  "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/088 - Hiiaka And The Seacoast Kupuas.md",
+ "markdown_file": "Oceania/Hawaii (Native Hawaiian people)/088 - How Pele Came To Hawaii.md",
  "stats": {
-  "paragraphs": 50,
-  "segments": 123,
-  "words": 1786
+  "paragraphs": 33,
+  "segments": 116,
+  "words": 2111
  },
  "paragraphs": [
   {
@@ -23,39 +23,23 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "K upuas were legendary monsters which could change themselves into human beings at will."
+     "source": "T he simplest, most beautiful legend does not mention the land from which Pele started."
     },
     {
      "id": "p001.s02",
-     "source": "They were said to have come from far-off lands with the early settlers."
+     "source": "In this legend her father was Moe-moea-au-lii, the chief who dreamed of trouble."
     },
     {
      "id": "p001.s03",
-     "source": "They had descendants who lived along the seacoast or in out-of-the-way places inland."
+     "source": "Her mother was Haumea, or Papa, who personified mother earth."
     },
     {
      "id": "p001.s04",
-     "source": "They were always ready to destroy and often devour any strangers passing near them."
+     "source": "Moemoea apparently is not mentioned in any other of the legends."
     },
     {
      "id": "p001.s05",
-     "source": "Frequently they were sharks which had a shark mouth although appearing like men."
-    },
-    {
-     "id": "p001.s06",
-     "source": "This mouth was between the shoulders and was concealed by a cape thrown carefully over the back."
-    },
-    {
-     "id": "p001.s07",
-     "source": "As human beings they would mingle with their fellows and go out in the sea, bathing and surf-riding, but when they went into the water they would dive under, assume their shark form, and catch some one of the bathers."
-    },
-    {
-     "id": "p001.s08",
-     "source": "They would carry the body to some under-water cave, where it could be devoured."
-    },
-    {
-     "id": "p001.s09",
-     "source": "All other sea monsters were given human qualities—some were helpful to men and some were destructive."
+     "source": "Haumea is frequently named as the mother of Pele, as well as the heroine of many legendary experiences."
     }
    ],
    "id": "p001"
@@ -65,37 +49,29 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "Fabled monsters lived on land."
+     "source": "Pele’s story is that of wander-lust."
     },
     {
      "id": "p002.s02",
-     "source": "Some of these were gigantic lizards, probably the legendary [ ] memory of the crocodiles of their ancient home in India."
+     "source": "She was living in a happy home in the presence of her parents, and yet for a long time she was “stirred by thoughts of far-away lands.”"
     },
     {
      "id": "p002.s03",
-     "source": "Some were the great clouds floating in the heavens."
+     "source": "At last she asked her father to send her away."
     },
     {
      "id": "p002.s04",
-     "source": "Peculiar rocks, trees, precipices, waterfalls, birds, indeed everything with or without life, might be given human and supernatural power and called kupuas."
-    },
-    {
-     "id": "p002.s05",
-     "source": "After a time various objects began to have worshippers who became priests supposed to be endowed with the qualities of the objects worshipped."
-    },
-    {
-     "id": "p002.s06",
-     "source": "These, in the later days, have been considered sorcerers or witches, receiving the name kupuas."
+     "source": "This meant that he must provide a sea-going canoe with mat sails, sufficiently large to carry a number of persons and food for many days."
     }
    ],
    "id": "p002"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p003.s01",
-     "source": "Makaukiu"
+     "source": "“What will you do with your little egg sister?” asked her father."
     }
    ],
    "id": "p003"
@@ -105,15 +81,11 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "Hiiaka, the sister of Pele, the goddess of volcanoes, by her magic power was able to find and destroy many of these mysterious monsters."
+     "source": "Pele caught the egg, wrapped it in her skirt to keep it warm near her body, and said that it should always be with her."
     },
     {
      "id": "p004.s02",
-     "source": "She had two companions as she journeyed along the eastern coast of the island Hawaii."
-    },
-    {
-     "id": "p004.s03",
-     "source": "Their way was frequently very wearisome as they climbed down steep precipices into valleys and gulches and then had to climb up on the other side."
+     "source": "Evidently in a very short [ ] time the egg was changed into a beautiful little girl who bore the name Hii-aka-i-ka-poli-o-Pele (Hiiaka-in-the-bosom-of-Pele), the youngest one of the Pele family."
     }
    ],
    "id": "p004"
@@ -123,7 +95,23 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "A STORM ON MT. HALEAKALA, MAUI"
+     "source": "After the care of the helpless one had been provided for, Pele was sent to her oldest brother, Ka-moho-alii, the king of dragons, or, as he was later known in Hawaiian mythology, “the god of sharks.”"
+    },
+    {
+     "id": "p005.s02",
+     "source": "He was a sea-god and would provide the great canoe for the journey."
+    },
+    {
+     "id": "p005.s03",
+     "source": "While he was getting all things ready, he asked Pele where she was going."
+    },
+    {
+     "id": "p005.s04",
+     "source": "She replied, “I am going to Bola-bola; to Kuai-he-lani; to Kane-huna-moku; then to Moku-mana-mana; then to see a queen, Kaoahi her name and Niihau her island.”"
+    },
+    {
+     "id": "p005.s05",
+     "source": "Apparently her journey would be first to Bola-bola in the Society Islands, then among the mysterious ancestral islands, and then to the northwest until she found Niihau, the most northerly of the Hawaiian group."
     }
    ],
    "id": "p005"
@@ -133,27 +121,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "In one valley beautiful clear sea-water invited the girls to bathe."
-    },
-    {
-     "id": "p006.s02",
-     "source": "Two of them threw aside their tapa clothes and ran down to the beach."
-    },
-    {
-     "id": "p006.s03",
-     "source": "Hiiaka bade them wait, telling them this was the home of Makaukiu, a very ferocious monster."
-    },
-    {
-     "id": "p006.s04",
-     "source": "But the girls thought they could see any evil [ ] one, if living in that pure, clear water, so they laughed at their friend and went to the edge of the water."
-    },
-    {
-     "id": "p006.s05",
-     "source": "Hiiaka took some fragrant ti-leaves, made a little bundle and threw it into the sea."
-    },
-    {
-     "id": "p006.s06",
-     "source": "The girls made ready to leap and swim, when suddenly Makaukiu appeared just below the surface, catching and shaking the leaves."
+     "source": "The god of sharks prepared his large canoe and put it in the care of some of their relatives, Kane-pu-a-hio-hio (Kane-the-whirlwind), Ke-au-miki (The-strong-current), and Ke-au-ka (Moving-seas)."
     }
    ],
    "id": "p006"
@@ -163,37 +131,33 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "The girls fled inland to higher ground, but Hiiaka stood at the edge of the sea."
+     "source": "Pele was carried from land to land by these [ ] wise boatmen until at last she landed on the island Niihau."
     },
     {
      "id": "p007.s02",
-     "source": "The sea monster tried to catch her in his great mouth."
+     "source": "Then she sent back the boat to her brother, the shark-god."
     },
     {
      "id": "p007.s03",
-     "source": "He lashed the water into foam, trying to strike her with his tail."
-    },
-    {
-     "id": "p007.s04",
-     "source": "He tried to wash her into the sea by pushing great, whirling waves against her, but Hiiaka struck him with the mighty forces of lightning and fire which she had in her magic skirt."
-    },
-    {
-     "id": "p007.s05",
-     "source": "Soon he was dead and his body floated on the water until the tide swept it out to sink in the deep sea."
-    },
-    {
-     "id": "p007.s06",
-     "source": "The place where this monster was slain was given his name and is still called “The Swimming-Hole of Makaukiu.”"
+     "source": "It is said that after a time he brought all the brothers and sisters to Hawaii."
     }
    ],
    "id": "p007"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p008.s01",
-     "source": "Mahiki"
+     "source": "Pele was welcomed and entertained."
+    },
+    {
+     "id": "p008.s02",
+     "source": "Soon she went over to Kauai, the large, beautiful garden island of the Hawaiian group."
+    },
+    {
+     "id": "p008.s03",
+     "source": "There is a story of her appearance as a dream maiden before the king of Kauai, whose name was Lohiau, whom she married, but with whom she could not stay until she had found a place where she could build a permanent home for herself and all who belonged to her."
     }
    ],
    "id": "p008"
@@ -203,23 +167,31 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "The Hawaiians say that the desire for battle was burning in the heart of Hiiaka and she longed to kill Mahiki, who lived near Waipio Valley—one of the most beautiful of all the valleys of the Hawaiian Islands."
+     "source": "She had a magic digging tool, Pa-oa."
     },
     {
      "id": "p009.s02",
-     "source": "Mahiki was a whirlwind."
+     "source": "When she struck this down into the earth it made a fire-pit."
     },
     {
      "id": "p009.s03",
-     "source": "When he saw the girls coming he fled [ ] inland, hiding himself in a cloud of dust."
+     "source": "It was with this Pa-oa that she was to build a home for herself and Lohiau."
     },
     {
      "id": "p009.s04",
-     "source": "Whenever the girls came toward him he fled swiftly to a new place."
+     "source": "She dug along the lowlands of Kauai, but water drowned the fires she kindled, so she went from island to island but could only dig along the beach near the sea."
     },
     {
      "id": "p009.s05",
-     "source": "They could not catch and destroy him."
+     "source": "All her fire-pits were so near the water that they burst out in great explosions of steam and sand, and quickly died, until at last she found Kilauea on the large island of Hawaii."
+    },
+    {
+     "id": "p009.s06",
+     "source": "There she built a mighty enduring palace of fire, but her dream marriage was at an end."
+    },
+    {
+     "id": "p009.s07",
+     "source": "The little sister Hiiaka, after many adventures, married Lohiau and lived on Kauai. [ ]"
     }
    ],
    "id": "p009"
@@ -229,33 +201,69 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "As they were following the whirlwind they heard some one calling."
+     "source": "Another story says that Pele was the daughter of Kane-hoa-lani and Hina."
     },
     {
      "id": "p010.s02",
-     "source": "They stopped and found two persons without bones—the bodies were flesh, soft and yielding, yet of human form."
+     "source": "The oldest and most authoritative legends say that Kane-hoa-lani was her brother and that Hina was the creator of a flood or great tidal wave which drove Pele from place to place over the ocean."
     },
     {
      "id": "p010.s03",
-     "source": "Hiiaka had pity on them, so she took the ribs of a long leaf and pushed them into the soft bodies, where they became bones."
+     "source": "This story says that Pele had a husband, Wahioloa, who ran away from her with a sister named Pele-kumu-ka-lani, and that Pele searched the islands of the great ocean as she followed them, but never found them."
     },
     {
      "id": "p010.s04",
-     "source": "Then the two could stand."
+     "source": "At last Pele came to Hawaii and escaped the flood by finding a home in Kilauea."
     },
     {
      "id": "p010.s05",
-     "source": "After a time they could use their new bones in their legs and walk."
+     "source": "In this story she was said to have a son Menehune and a daughter Laka."
+    },
+    {
+     "id": "p010.s06",
+     "source": "There is very little foundation for this legend."
+    },
+    {
+     "id": "p010.s07",
+     "source": "Wahioloa was a chief, well known in the legends, of a famous family of New Zealand and other South Sea islands."
+    },
+    {
+     "id": "p010.s08",
+     "source": "Laka was his son, who cut down trees by day which were set up again at night by the fairies."
+    },
+    {
+     "id": "p010.s09",
+     "source": "The Menehunes were the fairy folk of Hawaii."
+    },
+    {
+     "id": "p010.s10",
+     "source": "The story of Pele’s search for a husband has been widely accepted by foreigners but not by the early Hawaiian writers."
     }
    ],
    "id": "p010"
   },
   {
-   "type": "heading",
+   "type": "prose",
    "segments": [
     {
      "id": "p011.s01",
-     "source": "Pili and Noho"
+     "source": "The most authoritative story of the coming of Pele to Hawaii was published in the Hoku-o-ka-Pakipika ( Star of the Pacific ), in the story of Aukele-nui-aiku, in 1861, and in another Hawaiian paper, Ke Kuokoa , in 1864, and again in 1865. [ ] Again and again the legends give Ku-waha-ilo as the father and Haumea as the mother of the Pele family."
+    },
+    {
+     "id": "p011.s02",
+     "source": "Hina is sometimes said to be Ku-waha-ilo’s sister in these legends."
+    },
+    {
+     "id": "p011.s03",
+     "source": "She quarrelled with him because he devoured all the people."
+    },
+    {
+     "id": "p011.s04",
+     "source": "The Hawaiians as a nation, even in their traditions, have never been cannibals, although their legends give many individual instances of cannibalism."
+    },
+    {
+     "id": "p011.s05",
+     "source": "The Pele stories say that “Ku-waha-ilo was a cannibal,” and “Haumea was a pali [precipice or a prominent part of the earth].”"
     }
    ],
    "id": "p011"
@@ -265,7 +273,15 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "Hiiaka remembered that there were two dragons in the river Wailuku, a river of swift cascades and beautiful waterfalls near Hilo, so she turned back filled with the wish to destroy them and free the people from that danger."
+     "source": "The Hawaiians, it is safe to say, had no idea of reading nature-thoughts into these expressions, thus making them “nature-myths.”"
+    },
+    {
+     "id": "p012.s02",
+     "source": "They probably did not understand that Ku-waha-ilo might mean destructive earth forces, and Haumea might mean the earth itself from whom Pele, the goddess of fire, and Na-maka-o-ka-hai, the goddess of the sea, were born."
+    },
+    {
+     "id": "p012.s03",
+     "source": "It is, however, interesting to note that this is the fact in the legends, and that it was in a conflict between the two sisters that Na-maka-o-ka-hai drove Pele to the Hawaiian Islands."
     }
    ],
    "id": "p012"
@@ -275,19 +291,59 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "At the place where the people crossed the river were two things which looked like large, flat logs tossing in the water."
+     "source": "A greater sorcerer married Na-maka-o-ka-hai."
     },
     {
      "id": "p013.s02",
-     "source": "Any person wishing to cross the river would lay fish, sweet potatoes, and other kinds of food on the logs."
+     "source": "After a time he saw Pele and her beautiful young sister Hiiaka."
     },
     {
      "id": "p013.s03",
-     "source": "When these things disappeared the logs would act sometimes as a bridge and sometimes as a boat, taking those who had given presents across the river."
+     "source": "He took them secretly to be his wives."
     },
     {
      "id": "p013.s04",
-     "source": "These [ ] logs were the great tongues of the dragons Pili-a-moo and Noho-a-moo, i.e. , the dragon Pili and the dragon Noho."
+     "source": "This sorcerer was Au-kele-nui-a-iku."
+    },
+    {
+     "id": "p013.s05",
+     "source": "Au might mean “to swim,” and kele “to glide,” or “slip smoothly along.”"
+    },
+    {
+     "id": "p013.s06",
+     "source": "The name then might [ ] mean “the great smoothly swimming son of Iku.”"
+    },
+    {
+     "id": "p013.s07",
+     "source": "He could fly through the heavens, swim through the seas, or run swiftly over the earth."
+    },
+    {
+     "id": "p013.s08",
+     "source": "By magic power he conquered enemies, visited strange lands, found the fountain of the water of life, sprinkled that water over his dead brothers, brought them back to life, and did many marvellous deeds."
+    },
+    {
+     "id": "p013.s09",
+     "source": "But he could not deliver Pele and Hiiaka from the wrath of their sister."
+    },
+    {
+     "id": "p013.s10",
+     "source": "High tides and floods from the seas destroyed Pele’s home and lands."
+    },
+    {
+     "id": "p013.s11",
+     "source": "Then the elder brother of Pele—Ka-moho-alii, the shark-god—called for all the family to aid Pele."
+    },
+    {
+     "id": "p013.s12",
+     "source": "Na-maka-o-ka-hai fought the whole family and defeated them."
+    },
+    {
+     "id": "p013.s13",
+     "source": "She broke down their houses and drove them into the ocean."
+    },
+    {
+     "id": "p013.s14",
+     "source": "There Ka-moho-alii provided them with the great boat Honua-i-a-kea (The great spread-out world) and carried them away to distant islands."
     }
    ],
    "id": "p013"
@@ -297,11 +353,31 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "Hiiaka and her two companions came to the river side."
+     "source": "Na-maka-o-ka-hai went to the highest of all the mythical lands of the ancestors, Nuu-mea-lani (The raised dais of heaven)."
     },
     {
      "id": "p014.s02",
-     "source": "The travellers called for an open way across."
+     "source": "There she could look over all the seas from Ka-la-kee-nui-a-Kane to Kauai, i.e., from a legendary land in the south to the most northerly part of the Hawaiian Islands."
+    },
+    {
+     "id": "p014.s03",
+     "source": "Pele carried her Paoa, a magic spade."
+    },
+    {
+     "id": "p014.s04",
+     "source": "Wherever they landed she struck the earth, thus opening a crater in which volcanic fires burned."
+    },
+    {
+     "id": "p014.s05",
+     "source": "As the smoke rose to the clouds, the angry watching one rushed from Nuu-mea-lani and tried to [ ] slay the family."
+    },
+    {
+     "id": "p014.s06",
+     "source": "Again and again they escaped."
+    },
+    {
+     "id": "p014.s07",
+     "source": "Farther and farther from the home land were they driven until they struck far out into the ocean."
     }
    ],
    "id": "p014"
@@ -311,7 +387,19 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "One dragon said to the other, “Here comes one of our family.”"
+     "source": "Na-maka-o-ka-hai went back to her lookout mountain."
+    },
+    {
+     "id": "p015.s02",
+     "source": "After a long time she saw the smoke of earth-fires far away on the island Kauai."
+    },
+    {
+     "id": "p015.s03",
+     "source": "Pele had struck her Paoa into the earth, dug a deep pit, and thrown up a large hill known to this day as the Puu-o-Pele (The hill of Pele)."
+    },
+    {
+     "id": "p015.s04",
+     "source": "It seemed as if an abiding-place had been found."
     }
    ],
    "id": "p015"
@@ -321,15 +409,31 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "The other said: “What of that?"
+     "source": "But the sister came and fought Pele."
     },
     {
      "id": "p016.s02",
-     "source": "She can cross if she pays."
+     "source": "There is no long account of the battle."
     },
     {
      "id": "p016.s03",
-     "source": "If she does not give our price, she shall not go over in this place.”"
+     "source": "Pele was broken and smashed and left for dead."
+    },
+    {
+     "id": "p016.s04",
+     "source": "She was not dead, but she left Kauai and went to Oahu to a place near Honolulu, to Moanalua, a beautiful suburb."
+    },
+    {
+     "id": "p016.s05",
+     "source": "There she dug a fire-pit."
+    },
+    {
+     "id": "p016.s06",
+     "source": "The earth, or rather the eruption of lava, was forced up into a hill which later bore the name Ke-alia-manu (The-bird-white-like-a-salt-bed or The-white-bird)."
+    },
+    {
+     "id": "p016.s07",
+     "source": "The crater which she dug filled up with salt water and was named Ke-alia-paa-kai (The-white-bed-of-salt, or Salt Lake)."
     }
    ],
    "id": "p016"
@@ -339,19 +443,19 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "Hiiaka ordered the dragons to prepare her way, but they refused."
+     "source": "Pele was not able to strike her Paoa down into a mountain side and dig deep for the foundations of her home."
     },
     {
      "id": "p017.s02",
-     "source": "Then she taunted them as slaves, ordering them to bring vegetable food and fish."
+     "source": "She could find fire only in the lowlands near the seashore."
     },
     {
      "id": "p017.s03",
-     "source": "The dragons became angry and thrashed the water into whirlpools, trying to catch the travellers and pull them into the river."
+     "source": "The best place on Oahu was just back of Leahi, the ancient Hawaiian name for Diamond Head."
     },
     {
      "id": "p017.s04",
-     "source": "The people from far and near gathered to the place of this strange conflict."
+     "source": "Here she threw up a [ ] great quantity of fire-rock, but at last her fires were drowned by the water she struck below."
     }
    ],
    "id": "p017"
@@ -361,7 +465,11 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "A chief laughed at Hiiaka, saying, “These are dragon-gods, and yet you dispute with them!”"
+     "source": "Thus she passed along the coast of each island, the family watching and aiding until they came to the great volcano Haleakala."
+    },
+    {
+     "id": "p018.s02",
+     "source": "There Pele dug with her Paoa, and a great quantity of lava was thrown out of her fire-pit."
     }
    ],
    "id": "p018"
@@ -371,7 +479,7 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "Hiiaka said, “Yes, they are dragon-gods, but when I attack them they will die.”"
+     "source": "Na-maka-o-ka-hai saw enduring clouds day after day rising with the colors of the dark dense smoke of the underworld, and knew that her sister was still living."
     }
    ],
    "id": "p019"
@@ -381,7 +489,7 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "The chief offered to make any bet desired that she could not injure the dragons."
+     "source": "Pele had gained strength and confidence, therefore she entered alone into a conflict unto death."
     }
    ],
    "id": "p020"
@@ -391,7 +499,19 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "Hiiaka said, “I have no property, but I wager my body, my life, against your property that the dragons die.”"
+     "source": "The battle was fought by the two sisters hand to hand."
+    },
+    {
+     "id": "p021.s02",
+     "source": "The conflict lasted for a long time along the western slope of the mountain Hale-a-ka-la."
+    },
+    {
+     "id": "p021.s03",
+     "source": "Na-maka-o-ka-hai tore the body of Pele and broke her lava bones into great pieces which lie to this day along the seacoast of the district called Kahiki-nui."
+    },
+    {
+     "id": "p021.s04",
+     "source": "The masses of broken lava are called Na-iwi-o-Pele (The bones of Pele)."
     }
    ],
    "id": "p021"
@@ -401,19 +521,23 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "Then began a great conflict along the banks [ ] and in the swift waters."
+     "source": "Pele was thought to be dead and was sorely mourned by the remaining brothers and sisters."
     },
     {
      "id": "p022.s02",
-     "source": "Hiiaka struck the dragons with her magic skirt in which was concealed the divine power of lightning."
+     "source": "Na-maka-o-ka-hai went off toward Nuu-mea-lani rejoicing in the destruction of her hated enemy."
     },
     {
      "id": "p022.s03",
-     "source": "They tried to escape, but Hiiaka struck again and again and killed them, changing the bodies into blocks of stone."
+     "source": "By and by she looked back over the wide seas."
     },
     {
      "id": "p022.s04",
-     "source": "Then she called the chief, saying, “I have made the way safe for your people and you; I give back your property and the land of the dragons.”"
+     "source": "The high mountains of the island Hawaii, [ ] snow covered, lay in the distance."
+    },
+    {
+     "id": "p022.s05",
+     "source": "But over the side of the mountain known as Mauna Loa she saw the uhane, the spirit form of Pele in clouds of volcanic smoke tinged red from the flames of raging fire-pits below."
     }
    ],
    "id": "p022"
@@ -423,15 +547,7 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "Hiiaka and her friends turned north again and hastened to Waipio Valley to catch Mahiki—the demon of the whirlwind."
-    },
-    {
-     "id": "p023.s02",
-     "source": "He ran down to meet her and threw dust all over them, then fled inland to the mountains."
-    },
-    {
-     "id": "p023.s03",
-     "source": "Hiiaka chanted:"
+     "source": "She passed on to Nuu-mea-lani, knowing that she could never again overcome the spirit of Pele, the goddess of fire."
     }
    ],
    "id": "p023"
@@ -441,7 +557,11 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "“I am above Waipio,"
+     "source": "The Pele family crossed the channel between the islands and went to the mountain side, for they also had seen the spirit form of Pele."
+    },
+    {
+     "id": "p024.s02",
+     "source": "They served their goddess sister, caring for her fires and pouring out the destructive rivers of lava at her commands."
     }
    ],
    "id": "p024"
@@ -451,7 +571,7 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "My eyes look sharply down."
+     "source": "As time passed they became a part of the innumerable multitude of au-makuas, or ghost-gods, of the Pit of Pele, worshipped especially by those whose lives were filled with burning anger against their fellow-men."
     }
    ],
    "id": "p025"
@@ -461,7 +581,15 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "I have gone along the path"
+     "source": "The acceptable offerings to Pele were fruits, flowers, garlands (or leis), pigs (especially the small black pig of tender flesh and delicate flavor), chickens, fish, and men."
+    },
+    {
+     "id": "p026.s02",
+     "source": "When a family sent a part of the dead body of one of the household, it was with the prayer that the spirit might become an au-makua, and especially an unihipili au-makua."
+    },
+    {
+     "id": "p026.s03",
+     "source": "This meant a ghost-god, powerful enough to aid the worshipper to pray other people to death. [ ]"
     }
    ],
    "id": "p026"
@@ -471,7 +599,15 @@
    "segments": [
     {
      "id": "p027.s01",
-     "source": "By the sea of Makaukiu,"
+     "source": "Pele is said to have become impatient at times with her brothers and sisters."
+    },
+    {
+     "id": "p027.s02",
+     "source": "Then she would destroy their pleasure resorts in the valleys."
+    },
+    {
+     "id": "p027.s03",
+     "source": "She would send a flood of lava in her anger and burn everything up."
     }
    ],
    "id": "p027"
@@ -481,7 +617,7 @@
    "segments": [
     {
      "id": "p028.s01",
-     "source": "Full flowing like the surf."
+     "source": "Earthquakes came when Pele stamped the floor of the fire-pit in anger."
     }
    ],
    "id": "p028"
@@ -491,7 +627,7 @@
    "segments": [
     {
      "id": "p029.s01",
-     "source": "I have seen Mahiki,"
+     "source": "Flames thrusting themselves through cracks in a breaking lava crust were the fire-spears of Pele’s household of au-makuas or ghost-gods."
     }
    ],
    "id": "p029"
@@ -501,7 +637,19 @@
    "segments": [
     {
      "id": "p030.s01",
-     "source": "I have seen that he is evil,"
+     "source": "Pele’s voice was explosive when angry."
+    },
+    {
+     "id": "p030.s02",
+     "source": "Therefore it was called “pu.”"
+    },
+    {
+     "id": "p030.s03",
+     "source": "When the natives first heard guns fired they said that the voice of the gun was “pu.”"
+    },
+    {
+     "id": "p030.s04",
+     "source": "It was like the explosions of gas in volcanic eruptions, and it seemed as if the foreigners had persuaded Pele to assist them in any trouble with the natives."
     }
    ],
    "id": "p030"
@@ -511,19 +659,14 @@
    "segments": [
     {
      "id": "p031.s01",
-     "source": "Evil, very evil indeed.”"
+     "source": "[ ]"
     }
    ],
    "id": "p031"
   },
   {
-   "type": "heading",
-   "segments": [
-    {
-     "id": "p032.s01",
-     "source": "Moo-lau"
-    }
-   ],
+   "type": "break",
+   "segments": [],
    "id": "p032"
   },
   {
@@ -531,283 +674,10 @@
    "segments": [
     {
      "id": "p033.s01",
-     "source": "Then Hiiaka thought of Moo-lau, who was the great dragon-god of the district Kohala."
-    },
-    {
-     "id": "p033.s02",
-     "source": "He had a great multitude of lesser gods as his servants. [ ]"
+     "source": "Hale-a-ka-la must be classed as an active volcano from evidences of prehistoric fires although long extinct, but the author gives these stories in another book, “Legends of Maui.” ↑"
     }
    ],
    "id": "p033"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p034.s01",
-     "source": "Hiiaka clearly and sweetly called for the dragon-gods to prepare a way for her and also to bring gifts for herself and her companions."
-    }
-   ],
-   "id": "p034"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p035.s01",
-     "source": "Moo-lau answered, “You have no path through my lands unless you have great strength or can pay the price.”"
-    }
-   ],
-   "id": "p035"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p036.s01",
-     "source": "Then began one of the great legendary battles of ancient Hawaiian folk-lore."
-    },
-    {
-     "id": "p036.s02",
-     "source": "Hiiaka, throwing aside her flower-wreaths and common clothes, took her lightning pa-u (skirt) and attacked Moo-lau."
-    },
-    {
-     "id": "p036.s03",
-     "source": "He fought her in his dragon form."
-    },
-    {
-     "id": "p036.s04",
-     "source": "He breathed fierce winds against her."
-    },
-    {
-     "id": "p036.s05",
-     "source": "He struck her with his swift-moving tail."
-    },
-    {
-     "id": "p036.s06",
-     "source": "He tried to catch her between his powerful jaws."
-    },
-    {
-     "id": "p036.s07",
-     "source": "He coiled and twisted and swiftly whirled about, trying to knock her down, but she beat him with her powerful hands in which dwelt some of the divine power of volcanoes."
-    },
-    {
-     "id": "p036.s08",
-     "source": "She struck his great body with her magic skirt in which dwelt the power of the lightning."
-    },
-    {
-     "id": "p036.s09",
-     "source": "Each pitted supernatural powers against the other."
-    },
-    {
-     "id": "p036.s10",
-     "source": "Each struck with magic force and each threw out magic strength to ward off deadly blows."
-    },
-    {
-     "id": "p036.s11",
-     "source": "They became tired, very tired, and, turning away from each other, sought rest."
-    },
-    {
-     "id": "p036.s12",
-     "source": "Again they fought and again rested."
-    }
-   ],
-   "id": "p036"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p037.s01",
-     "source": "Hiiaka chanted an incantation, or call for help: [ ]"
-    }
-   ],
-   "id": "p037"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p038.s01",
-     "source": "“Moo-lau has a dart"
-    }
-   ],
-   "id": "p038"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p039.s01",
-     "source": "Of the wood of the uhi-uhi;"
-    }
-   ],
-   "id": "p039"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p040.s01",
-     "source": "A god is Moo-lau,"
-    }
-   ],
-   "id": "p040"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p041.s01",
-     "source": "Moo-lau is a god!”"
-    }
-   ],
-   "id": "p041"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p042.s01",
-     "source": "This was a spirit-call going out from Hiiaka."
-    },
-    {
-     "id": "p042.s02",
-     "source": "It broke through the clouds hanging on the sides of the mountains."
-    },
-    {
-     "id": "p042.s03",
-     "source": "It pierced the long, long way to the crater of Kilauea."
-    },
-    {
-     "id": "p042.s04",
-     "source": "It roused the followers of the fire-goddess."
-    },
-    {
-     "id": "p042.s05",
-     "source": "A host of destructive forces, swift as lightning, left the pit of fire to aid Hiiaka."
-    }
-   ],
-   "id": "p042"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p043.s01",
-     "source": "Meanwhile Moo-lau had sent his people to spy out the condition of Hiiaka."
-    },
-    {
-     "id": "p043.s02",
-     "source": "Then he called for all the reptile gods of his district to help him."
-    },
-    {
-     "id": "p043.s03",
-     "source": "He rallied all the gnomes and evil powers he could order to come to his aid and make a mighty attack."
-    }
-   ],
-   "id": "p043"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p044.s01",
-     "source": "When the battle seemed to be going against her, suddenly the Ho-ai-ku men and the Ho-ai-ka women, the destructive gnomes from the crater, broke in a storm upon Moo-lau and his demons."
-    },
-    {
-     "id": "p044.s02",
-     "source": "Oh, how the little people from the pit devoured and destroyed the dragon army!"
-    },
-    {
-     "id": "p044.s03",
-     "source": "The slaughter of the reptile horde was quickly accomplished and Hiiaka soon saw the body of her enemy the dragon-god trampled underfoot."
-    }
-   ],
-   "id": "p044"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p045.s01",
-     "source": "When the god Mahiki saw that Moo-lau was slain and his army defeated he raised a great [ ] cloud of dust and fled far off around the western side of the island."
-    },
-    {
-     "id": "p045.s02",
-     "source": "The whirlwind was one of the earth-monsters which even the sister of the goddess of volcanoes could not destroy."
-    }
-   ],
-   "id": "p045"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p046.s01",
-     "source": "Many were the evil demi-gods who tried to hinder Hiiaka in her journey along the east coast of the island Hawaii."
-    },
-    {
-     "id": "p046.s02",
-     "source": "Sharks fought her from the seas."
-    },
-    {
-     "id": "p046.s03",
-     "source": "The gnomes and dragons of valley and forest tried to destroy her."
-    },
-    {
-     "id": "p046.s04",
-     "source": "Even birds of evil omen came into the fight against her, but she conquered and killed until the land was freed from its enemies and the people of the districts along the sea could journey in comparative safety."
-    }
-   ],
-   "id": "p046"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p047.s01",
-     "source": "Pau-o-palae, the goddess of ferns, met the chief of this land which had been freed from the power of the dragon."
-    },
-    {
-     "id": "p047.s02",
-     "source": "She saw him swimming in the sea and, forgetting her companions, leaped in to sport with him."
-    },
-    {
-     "id": "p047.s03",
-     "source": "They at once decided to be married."
-    },
-    {
-     "id": "p047.s04",
-     "source": "Then she turned aside to his new home, leaving Hiiaka and Wahine-omao to go on after Lohiau."
-    }
-   ],
-   "id": "p047"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p048.s01",
-     "source": "[ ]"
-    }
-   ],
-   "id": "p048"
-  },
-  {
-   "type": "break",
-   "segments": [],
-   "id": "p049"
-  },
-  {
-   "type": "prose",
-   "segments": [
-    {
-     "id": "p050.s01",
-     "source": "Smilax Sandwicensis. ↑"
-    }
-   ],
-   "id": "p050"
   }
  ]
 }

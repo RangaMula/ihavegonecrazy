@@ -4,7 +4,7 @@
 - **Source book:** *Fairy Legends and Traditions of the South of Ireland*
 - **Author / collector / translator:** Croker, Thomas Crofton (author, d. 1854)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #39752 — https://www.gutenberg.org/ebooks/39752 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #39752 — https://www.gutenberg.org/ebooks/39752
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

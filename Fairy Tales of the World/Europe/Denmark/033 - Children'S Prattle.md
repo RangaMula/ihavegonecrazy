@@ -4,7 +4,7 @@
 - **Source book:** *Fairy Tales of Hans Christian Andersen*
 - **Author / collector / translator:** Andersen, H. C. (Hans Christian) (author, d. 1875)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #27200 — https://www.gutenberg.org/ebooks/27200 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #27200 — https://www.gutenberg.org/ebooks/27200
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

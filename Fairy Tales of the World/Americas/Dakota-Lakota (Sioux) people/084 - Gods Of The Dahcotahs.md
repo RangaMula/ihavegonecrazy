@@ -4,7 +4,7 @@
 - **Source book:** *Dahcotah: Life and Legends of the Sioux Around Fort Snelling*
 - **Author / collector / translator:** Eastman, Mary H. (Mary Henderson) (author, d. 1887)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #10794 — https://www.gutenberg.org/ebooks/10794 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #10794 — https://www.gutenberg.org/ebooks/10794
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

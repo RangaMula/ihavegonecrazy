@@ -4,7 +4,7 @@
 - **Source book:** *Tales from the Fjeld: A Second Series of Popular Tales*
 - **Author / collector / translator:** Asbjørnsen, Peter Christen (author, d. 1885); Dasent, George Webbe, Sir (translator, d. 1896)
 - **Original language of this text:** en
-- **Source:** Project Gutenberg eBook #36385 — https://www.gutenberg.org/ebooks/36385 (copied via the GITenberg mirror)
+- **Source:** Project Gutenberg eBook #36385 — https://www.gutenberg.org/ebooks/36385
 - **Copyright status:** Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.
 
 ---

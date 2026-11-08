@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-053",
  "title": {
   "id": "title",
-  "source": "The Old Stump"
+  "source": "How The Man Found His Mate"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Thirty Indian Legends",
- "credits": "Bemister, Margaret (author)",
- "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978 (copied via the GITenberg mirror)",
- "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
- "markdown_file": "Americas/Native North America (various nations)/053 - The Old Stump.md",
+ "source_book": "Indian Why Stories: Sparks from War Eagle's Lodge-Fire",
+ "credits": "Linderman, Frank Bird (author, d. 1938)",
+ "gutenberg": "Project Gutenberg eBook #606 — https://www.gutenberg.org/ebooks/606",
+ "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
+ "markdown_file": "Americas/Native North America (various nations)/053 - How The Man Found His Mate.md",
  "stats": {
-  "paragraphs": 26,
-  "segments": 74,
-  "words": 1329
+  "paragraphs": 27,
+  "segments": 59,
+  "words": 1008
  },
  "paragraphs": [
   {
@@ -23,11 +23,11 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Long ago there was an old woman called Grizzly Bear."
+     "source": "Each tribe has its own stories."
     },
     {
      "id": "p001.s02",
-     "source": "She had neither husband nor children, and lived all alone in a lodge on the hillside."
+     "source": "Most of them deal with the same subjects, differing only in immaterial particulars."
     }
    ],
    "id": "p001"
@@ -37,15 +37,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "As the days went by, she became very lonely, and so she made up her mind to find a daughter for herself."
+     "source": "Instead of squirrels in the timber, the Blackfeet are sure they were prairie-dogs that OLD-man roasted that time when he made the mountain-lion long and lean."
     },
     {
      "id": "p002.s02",
-     "source": "She took some pitch and fashioned a girl out of it."
-    },
-    {
-     "id": "p002.s03",
-     "source": "Then she put this figure out beside the river, and it began to move and speak."
+     "source": "The Chippewas and Crees insist that they were squirrels that were cooked and eaten, but one tribe is essentially a forest-people and the other lives on the plains—hence the difference."
     }
    ],
    "id": "p002"
@@ -55,11 +51,7 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "\"You are my daughter now,\" Grizzly Bear said to the girl, \"and you shall live with me in my lodge."
-    },
-    {
-     "id": "p003.s02",
-     "source": "Every day you may bathe in the river, but, when you have finished, you must come at once into the shade of the lodge, instead of drying yourself in the sunshine.\""
+     "source": "Some tribes will not wear the feathers of the owl, nor will they have anything to do with that bird, while others use his feathers freely."
     }
    ],
    "id": "p003"
@@ -69,15 +61,7 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "The girl promised to do this and for three days she obeyed her mother's commands, but on the fourth day she thought she would see what would happen to her, if she sat on the bank in the sunshine."
-    },
-    {
-     "id": "p004.s02",
-     "source": "So, when she had finished bathing, she seated herself on a stone by the river."
-    },
-    {
-     "id": "p004.s03",
-     "source": "The sun was very hot, and in a few minutes the young girl had melted and disappeared."
+     "source": "The forest Indian wears the soft-soled moccasin, while his brother of the plains covers the bottoms of his footwear with rawhide, because of the cactus and prickly-pear, most likely."
     }
    ],
    "id": "p004"
@@ -87,7 +71,7 @@
    "segments": [
     {
      "id": "p005.s01",
-     "source": "When Grizzly Bear learned what had happened, she felt very sorrowful, but she was still determined to find another daughter for herself."
+     "source": "The door of the lodge of the forest Indian reaches to the ground, but the plains Indian makes his lodge skin to reach all about the circle at the bottom, because of the wind."
     }
    ],
    "id": "p005"
@@ -97,23 +81,7 @@
    "segments": [
     {
      "id": "p006.s01",
-     "source": "This time she took some clay and fashioned a girl from it."
-    },
-    {
-     "id": "p006.s02",
-     "source": "When the girl moved and spoke, she told her she might bathe in the river every day and might seat herself in the sunshine to dry, but she must not rub herself while in the water."
-    },
-    {
-     "id": "p006.s03",
-     "source": "This command the girl obeyed for three days."
-    },
-    {
-     "id": "p006.s04",
-     "source": "On the fourth day, she thought she would see what would happen to her if she rubbed herself while she was in the water."
-    },
-    {
-     "id": "p006.s05",
-     "source": "So, when she went in to bathe, she began to rub herself and at once broke into pieces and melted away."
+     "source": "One night in War Eagle's lodge, Other-person asked: \"Why don't the Bear have a tail, grandfather?\""
     }
    ],
    "id": "p006"
@@ -123,15 +91,7 @@
    "segments": [
     {
      "id": "p007.s01",
-     "source": "When Grizzly Bear saw what had happened, she again was very sorrowful, and this time she made up her mind to make a daughter who could not destroy herself."
-    },
-    {
-     "id": "p007.s02",
-     "source": "So, taking a block of wood, she fashioned a girl from it."
-    },
-    {
-     "id": "p007.s03",
-     "source": "When the wood came to life, Grizzly Bear told her that she might bathe every day in the river and bask in the sun if she liked."
+     "source": "War Eagle laughed and said: \"Our people do not know why, but we believe he was made that way at the beginning, although I have heard men of other tribes say that the Bear lost his tail while fishing."
     }
    ],
    "id": "p007"
@@ -141,7 +101,7 @@
    "segments": [
     {
      "id": "p008.s01",
-     "source": "The daughter did this for three days, and on the fourth, as she was standing by the riverside, she saw a large trout leap out the water."
+     "source": "\"I don't know how true it is, but I have been told that a long time ago the Bear was fishing in the winter, and the Fox asked him if he had any luck."
     }
    ],
    "id": "p008"
@@ -151,11 +111,7 @@
    "segments": [
     {
      "id": "p009.s01",
-     "source": "\"What a beautiful trout,\" said the girl to herself."
-    },
-    {
-     "id": "p009.s02",
-     "source": "\"How I wish I had it.\""
+     "source": "\"'No,' replied the Bear, 'I can't catch a fish.'"
     }
    ],
    "id": "p009"
@@ -165,11 +121,7 @@
    "segments": [
     {
      "id": "p010.s01",
-     "source": "Three times the trout leaped out of the water, and the fourth time it landed on the shore by her feet."
-    },
-    {
-     "id": "p010.s02",
-     "source": "At once it changed into a handsome, young man."
+     "source": "\"'Well,' said the Fox, 'if you will stick your long tail down through this hole in the ice, and sit very still, I am sure you will catch a fish.'"
     }
    ],
    "id": "p010"
@@ -179,15 +131,19 @@
    "segments": [
     {
      "id": "p011.s01",
-     "source": "\"Come with me,\" he said to the girl."
+     "source": "\"So the Bear stuck his tail through the hole in the ice, and the Fox told him to sit still, till he called him; then the Fox went off, pretending to hunt along the bank."
     },
     {
      "id": "p011.s02",
-     "source": "\"I have a beautiful home beneath the water."
+     "source": "It was mighty cold weather, and the water froze all about the Bear's tail, yet he sat still, waiting for the Fox to call him."
     },
     {
      "id": "p011.s03",
-     "source": "Come with me and be my wife, and you shall live happy all the rest of your days.\""
+     "source": "Yes, the Bear sat so still and so long that his tail was frozen in the ice, but he didn't know it."
+    },
+    {
+     "id": "p011.s04",
+     "source": "When the Fox thought it was time, he called:"
     }
    ],
    "id": "p011"
@@ -197,23 +153,19 @@
    "segments": [
     {
      "id": "p012.s01",
-     "source": "The girl said she would go."
+     "source": "\"'Hey, Bear, come here quick—quick!"
     },
     {
      "id": "p012.s02",
-     "source": "Then he told her to get on his back and to shut her eyes as he leaped into the water."
+     "source": "I have a Rabbit in this hole, and I want you to help me dig him out.'"
     },
     {
      "id": "p012.s03",
-     "source": "She must keep them shut until he told her to look."
+     "source": "Ho!"
     },
     {
      "id": "p012.s04",
-     "source": "She promised to obey him, but, scarcely were they beneath the water, when she opened her eyes to see where they were."
-    },
-    {
-     "id": "p012.s05",
-     "source": "At once she found herself alone on the bank of the river."
+     "source": "The Bear tried to get up, but he couldn't."
     }
    ],
    "id": "p012"
@@ -223,15 +175,7 @@
    "segments": [
     {
      "id": "p013.s01",
-     "source": "The next day the same thing happened."
-    },
-    {
-     "id": "p013.s02",
-     "source": "She opened her eyes before they had reached the underwater world, and again she found herself alone on the bank."
-    },
-    {
-     "id": "p013.s03",
-     "source": "This happened once more on the third day, but on the fourth she succeeded in keeping her eyes closed until her husband told her to open them."
+     "source": "\"'Hey, Bear, come here—there are two Rabbits in this hole,' called the Fox."
     }
    ],
    "id": "p013"
@@ -241,11 +185,11 @@
    "segments": [
     {
      "id": "p014.s01",
-     "source": "She found herself in a beautiful country, much like the one she had come from."
+     "source": "\"The Bear pulled so hard to get away from the ice, that he broke his tail off short to his body."
     },
     {
      "id": "p014.s02",
-     "source": "There were homes and gardens and children here, and she knew she would be very happy."
+     "source": "Then the Fox ran away laughing at the Bear."
     }
    ],
    "id": "p014"
@@ -255,11 +199,15 @@
    "segments": [
     {
      "id": "p015.s01",
-     "source": "As the years went by, two children were born, a boy and a girl."
+     "source": "\"I hardly believe that story, but once I heard an old man who visited my father from the country far east of here, tell it."
     },
     {
      "id": "p015.s02",
-     "source": "One day they came to their mother and told her that the other children had taunted them with having no grandmother."
+     "source": "I remembered it."
+    },
+    {
+     "id": "p015.s03",
+     "source": "But I can't say that I know it is true, as I can the others."
     }
    ],
    "id": "p015"
@@ -269,15 +217,11 @@
    "segments": [
     {
      "id": "p016.s01",
-     "source": "\"Yes, you have a grandmother,\" she replied."
+     "source": "\"When I told you the story of how OLD-man made the world over, after the water had made its war upon it, I told you how the first man and woman were made."
     },
     {
      "id": "p016.s02",
-     "source": "\"She lives in a lodge near the river."
-    },
-    {
-     "id": "p016.s03",
-     "source": "You may go above the water to-day and visit her home, but you must make sure first that she is digging roots on the hillside, for she must not see you.\""
+     "source": "There is another story of how the first man found his wife, and I will tell you that."
     }
    ],
    "id": "p016"
@@ -287,23 +231,11 @@
    "segments": [
     {
      "id": "p017.s01",
-     "source": "The children promised and went at once above the water."
+     "source": "\"After OLD-man had made a man to look like himself, he left him to live with the Wolves, and went away."
     },
     {
      "id": "p017.s02",
-     "source": "They saw the lodge, and an old woman digging roots."
-    },
-    {
-     "id": "p017.s03",
-     "source": "Very quietly, they made their way to the home of their grandmother."
-    },
-    {
-     "id": "p017.s04",
-     "source": "They found some food on the table and helped themselves."
-    },
-    {
-     "id": "p017.s05",
-     "source": "Then they went back to tell their mother all they had seen."
+     "source": "The man had a hard time of it, with no clothes to keep him warm, and no wife to help him, so he went out looking for OLD-man."
     }
    ],
    "id": "p017"
@@ -313,15 +245,7 @@
    "segments": [
     {
      "id": "p018.s01",
-     "source": "Three days they did this, but Grizzly Bear had missed the food each day, and knew that no one but grandchildren would enter her lodge this way and take her food."
-    },
-    {
-     "id": "p018.s02",
-     "source": "So, the fourth day, she commanded an old stump to look like an old woman digging roots, and to move as the children passed."
-    },
-    {
-     "id": "p018.s03",
-     "source": "Going back to her lodge, she prepared some powerful medicine, and then hid herself behind some deerskins."
+     "source": "\"It took the man a long time to find OLD-man's lodge, but as soon as he got there he went right in and said:"
     }
    ],
    "id": "p018"
@@ -331,19 +255,23 @@
    "segments": [
     {
      "id": "p019.s01",
-     "source": "In a little while the children entered and began to eat the food."
+     "source": "\"'OLD-man, you have made me and left me to live with the Wolf-people."
     },
     {
      "id": "p019.s02",
-     "source": "The old woman quickly sprang out and threw the medicine over them."
+     "source": "I don't like them at all."
     },
     {
      "id": "p019.s03",
-     "source": "The boy was completed covered with it, while only a few drops fell on the girl."
+     "source": "They give me scraps of meat to eat and won't build a fire."
     },
     {
      "id": "p019.s04",
-     "source": "At once the boy changed into his proper form, and was a handsome young Indian; while the girl was changed into a little black dog."
+     "source": "They have wives, but I don't want a Wolf-woman."
+    },
+    {
+     "id": "p019.s05",
+     "source": "I think you should take better care of me.'"
     }
    ],
    "id": "p019"
@@ -353,11 +281,27 @@
    "segments": [
     {
      "id": "p020.s01",
-     "source": "Grizzly Bear told the boy that she was his grandmother, and that he must live with her now, but she did not tell him that the dog was his sister."
+     "source": "\"'Well,' replied OLD-man, 'I was just waiting for you to come to see me."
     },
     {
      "id": "p020.s02",
-     "source": "She only said, \"You must take great care of this little dog, and never beat or ill use it.\""
+     "source": "I have things fixed for you."
+    },
+    {
+     "id": "p020.s03",
+     "source": "You go down this river until you come to a steep hillside."
+    },
+    {
+     "id": "p020.s04",
+     "source": "There you will see a lodge."
+    },
+    {
+     "id": "p020.s05",
+     "source": "Then I will leave you to do the rest."
+    },
+    {
+     "id": "p020.s06",
+     "source": "Go!'"
     }
    ],
    "id": "p020"
@@ -367,19 +311,19 @@
    "segments": [
     {
      "id": "p021.s01",
-     "source": "The boy promised, and every day he would go forth with his bow and arrows to shoot birds, while the little dog ran beside him."
+     "source": "\"The man started and travelled all that day."
     },
     {
      "id": "p021.s02",
-     "source": "One day he was shooting red-headed woodpeckers."
+     "source": "When night came he camped and ate some berries that grew near the river."
     },
     {
      "id": "p021.s03",
-     "source": "Three times he had killed a bird, and the little dog ran ahead and ate it before he could reach her."
+     "source": "The next morning he started down the river again, looking for the steep hillside and the lodge."
     },
     {
      "id": "p021.s04",
-     "source": "The boy became very angry at this, and, when she did it for the fourth time, he struck her a hard blow with his arrow."
+     "source": "Just before sundown, the man saw a fine lodge near a steep hillside, and he knew that was the lodge he was looking for; so he crossed the river and went into the lodge."
     }
    ],
    "id": "p021"
@@ -389,19 +333,11 @@
    "segments": [
     {
      "id": "p022.s01",
-     "source": "At once the dog cried, \"Why are you treating me thus, and I am your sister?\""
+     "source": "\"Sitting by the fire inside, was a woman."
     },
     {
      "id": "p022.s02",
-     "source": "As soon as she had said this, she ran away."
-    },
-    {
-     "id": "p022.s03",
-     "source": "The boy followed, but before he could catch it, the dog had turned into a chickadee and had flown away."
-    },
-    {
-     "id": "p022.s04",
-     "source": "The sorrowing boy returned to his grandmother, and told her everything that had happened."
+     "source": "She was dressed in buckskin clothes, and was cooking some meat that smelled good to the man, but when she saw him without any clothes, she pushed him out of the lodge, and dropped the door."
     }
    ],
    "id": "p022"
@@ -411,7 +347,11 @@
    "segments": [
     {
      "id": "p023.s01",
-     "source": "\"Why did you not tell me that the dog was my sister?\" he asked."
+     "source": "\"Things didn't look very good to that man, I tell you, but to get even with the woman, he went up on the steep hillside and commenced to roll big rocks down upon her lodge."
+    },
+    {
+     "id": "p023.s02",
+     "source": "He kept this up until one of the largest rocks knocked down the lodge, and the woman ran out, crying."
     }
    ],
    "id": "p023"
@@ -421,11 +361,11 @@
    "segments": [
     {
      "id": "p024.s01",
-     "source": "\"If I had told you,\" she replied, \"you would have been more sorrowful than you are now.\""
+     "source": "\"When the man heard the woman crying, it made him sorry and he ran down the hill to her."
     },
     {
      "id": "p024.s02",
-     "source": "Then she added, \"Listen to me, my grandson; when you are shooting, if an arrow should lodge in a tree where it is too high for you to reach, do not climb to get it.\""
+     "source": "She sat down on the ground, and the man ran to where she was and said:"
     }
    ],
    "id": "p024"
@@ -435,23 +375,15 @@
    "segments": [
     {
      "id": "p025.s01",
-     "source": "The boy promised to remember this command, and three times when an arrow pierced a tree above his reach, he gave it up as lost, but the fourth time he forgot the command."
+     "source": "\"'I am sorry I made you cry, woman."
     },
     {
      "id": "p025.s02",
-     "source": "Seeing his arrow only a few inches above his head in the bark of the tree, he began to climb for it."
+     "source": "I will help you fix your lodge."
     },
     {
      "id": "p025.s03",
-     "source": "Just as his hand touched it, the arrow moved farther up."
-    },
-    {
-     "id": "p025.s04",
-     "source": "He climbed higher and, as he reached it, again it moved up."
-    },
-    {
-     "id": "p025.s05",
-     "source": "This went on until the arrow and the boy were out of sight in the clouds."
+     "source": "I will stay with you, if you will only let me.'"
     }
    ],
    "id": "p025"
@@ -461,14 +393,28 @@
    "segments": [
     {
      "id": "p026.s01",
-     "source": "Neither the boy nor his sister was ever seen again, and Grizzly Bear, who had been watching from the ground, was left there all alone."
+     "source": "\"That pleased the woman, and she showed the man how to fix up the lodge and gather some wood for the fire."
     },
     {
      "id": "p026.s02",
-     "source": "And there she still stands, looking just like the stump of an old tree, but the Indians know who it is, and as they pass by, they place an offering on the withered stump."
+     "source": "Then she let him come inside and eat."
+    },
+    {
+     "id": "p026.s03",
+     "source": "Finally, she made him some clothes, and they got along very well, after that."
     }
    ],
    "id": "p026"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p027.s01",
+     "source": "\"That is how the man found his wife—Ho!\""
+    }
+   ],
+   "id": "p027"
   }
  ]
 }

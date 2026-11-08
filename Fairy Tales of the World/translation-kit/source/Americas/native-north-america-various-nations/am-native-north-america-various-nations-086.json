@@ -2,20 +2,20 @@
  "id": "am-native-north-america-various-nations-086",
  "title": {
   "id": "title",
-  "source": "The Bird Chief"
+  "source": "The Bald-Headed Eagles"
  },
  "tradition": "Native North America (various nations)",
  "continent": "Americas",
  "source_lang": "en",
- "source_book": "Myths and Legends of the Great Plains",
- "credits": "Judson, Katharine Berry (editor, d. 1929)",
- "gutenberg": "Project Gutenberg eBook #22083 — https://www.gutenberg.org/ebooks/22083 (copied via the GITenberg mirror)",
- "copyright": "Public domain worldwide: the text was published long ago and every named author/translator died in or before 1955.",
- "markdown_file": "Americas/Native North America (various nations)/086 - The Bird Chief.md",
+ "source_book": "Thirty Indian Legends",
+ "credits": "Bemister, Margaret (author)",
+ "gutenberg": "Project Gutenberg eBook #24978 — https://www.gutenberg.org/ebooks/24978",
+ "copyright": "Public domain in the USA (Project Gutenberg). The underlying folk tale is traditional and free for anyone; this particular English wording's status outside the USA depends on the translator's death date, which is not recorded.",
+ "markdown_file": "Americas/Native North America (various nations)/086 - The Bald-Headed Eagles.md",
  "stats": {
-  "paragraphs": 5,
-  "segments": 14,
-  "words": 123
+  "paragraphs": 21,
+  "segments": 67,
+  "words": 1085
  },
  "paragraphs": [
   {
@@ -23,7 +23,7 @@
    "segments": [
     {
      "id": "p001.s01",
-     "source": "Omaha"
+     "source": "One day Wesakchak was seated at the door of his lodge, when he noticed two eagles circling high in the air above him."
     }
    ],
    "id": "p001"
@@ -33,11 +33,11 @@
    "segments": [
     {
      "id": "p002.s01",
-     "source": "A ll the birds were called together."
+     "source": "\"Come down, my brothers,\" he called."
     },
     {
      "id": "p002.s02",
-     "source": "To them was said, “Whichever one of you can fly farthest into the sky shall be chief.”"
+     "source": "\"I wish to speak to you.\""
     }
    ],
    "id": "p002"
@@ -47,19 +47,11 @@
    "segments": [
     {
      "id": "p003.s01",
-     "source": "All the birds flew to a great height."
+     "source": "The eagles slowly descended, and Wesakchak said, \"I wish you to take me on your backs for a ride."
     },
     {
      "id": "p003.s02",
-     "source": "But Wren got under the thick feathers of Eagle and sat there as Eagle flew."
-    },
-    {
-     "id": "p003.s03",
-     "source": "When all the birds became wing-tired, they flew down again; but Eagle flew still higher."
-    },
-    {
-     "id": "p003.s04",
-     "source": "When Eagle had gone as far as he could, Wren flew still higher."
+     "source": "This is a very warm day and I know it must be cool high up in the air where you fly.\""
     }
    ],
    "id": "p003"
@@ -69,39 +61,356 @@
    "segments": [
     {
      "id": "p004.s01",
-     "source": "When all the birds reached the ground, Eagle alone returned, after a great while."
+     "source": "\"But we are going home to our nests,\" replied the eagles."
     },
     {
      "id": "p004.s02",
-     "source": "Behold!"
-    },
-    {
-     "id": "p004.s03",
-     "source": "Wren only was absent."
-    },
-    {
-     "id": "p004.s04",
-     "source": "So they awaited him."
-    },
-    {
-     "id": "p004.s05",
-     "source": "At last he returned."
-    },
-    {
-     "id": "p004.s06",
-     "source": "Eagle had too highly been thinking of himself, being sure of being made chief; and behold!"
-    },
-    {
-     "id": "p004.s07",
-     "source": "Wren was made chief."
+     "source": "\"It is on a very high cliff many miles from here, and you will not care to go there.\""
     }
    ],
    "id": "p004"
   },
   {
-   "type": "break",
-   "segments": [],
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p005.s01",
+     "source": "\"Yes, I shall,\" replied Wesakchak."
+    },
+    {
+     "id": "p005.s02",
+     "source": "\"I should like to see your nest and your young eaglets."
+    },
+    {
+     "id": "p005.s03",
+     "source": "Take me on your backs with you.\""
+    }
+   ],
    "id": "p005"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p006.s01",
+     "source": "The eagles did not seem very eager to take him, but Wesakchak, without waiting for any more words, jumped on their backs, and they began to mount in the air."
+    },
+    {
+     "id": "p006.s02",
+     "source": "Up and up they went, until at last they were as high as the clouds."
+    },
+    {
+     "id": "p006.s03",
+     "source": "Wesakchak now began to feel rather cold and asked them to fly lower, but they gave him no answer."
+    },
+    {
+     "id": "p006.s04",
+     "source": "On and on they went, and Wesakchak clung tightly to their backs, for he felt very dizzy, being up so high in the air."
+    },
+    {
+     "id": "p006.s05",
+     "source": "At last he began to wonder where their nest could be, for he could see no sign of rocks or cliffs of any kind."
+    },
+    {
+     "id": "p006.s06",
+     "source": "After what seemed to be hours to him, the eagles began to descend, and in a few minutes they alighted on the top of a very high crag."
+    },
+    {
+     "id": "p006.s07",
+     "source": "Wesakchak slipped from their backs and looked around, him."
+    },
+    {
+     "id": "p006.s08",
+     "source": "Near him was the nest of the eagles, and in it were the young, crying loudly for food."
+    }
+   ],
+   "id": "p006"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p007.s01",
+     "source": "Below, Wesakchak could see the ground, which seemed miles away; above him the clouds, which looked low and stormy."
+    },
+    {
+     "id": "p007.s02",
+     "source": "The eagles fed their young, and after Wesakchak had waited awhile he said, \"Now, my brothers, please take me to my home.\""
+    }
+   ],
+   "id": "p007"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p008.s01",
+     "source": "\"You are tired of our cliff?\" asked the eagles."
+    },
+    {
+     "id": "p008.s02",
+     "source": "\"Well, you must go home yourself, for we are not going away for some hours.\""
+    }
+   ],
+   "id": "p008"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p009.s01",
+     "source": "\"Oh, I cannot stay here that long,\" said Wesakchak."
+    },
+    {
+     "id": "p009.s02",
+     "source": "\"Besides, I am tired and very hungry, and there is nothing here but bare rock."
+    },
+    {
+     "id": "p009.s03",
+     "source": "You must take me home.\""
+    }
+   ],
+   "id": "p009"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p010.s01",
+     "source": "The eagles did not dare to disobey Wesakchak, so they let him mount on their backs."
+    },
+    {
+     "id": "p010.s02",
+     "source": "Then they began to fly slowly away."
+    },
+    {
+     "id": "p010.s03",
+     "source": "After a while it seemed to him that they were going in the wrong direction."
+    },
+    {
+     "id": "p010.s04",
+     "source": "He could see snow-capped mountains, and, as his lodge was built on the prairies, he said:"
+    }
+   ],
+   "id": "p010"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p011.s01",
+     "source": "\"My brothers, you are not taking me to my lodge."
+    },
+    {
+     "id": "p011.s02",
+     "source": "You are going in the wrong direction."
+    },
+    {
+     "id": "p011.s03",
+     "source": "Turn and fly the other way.\""
+    },
+    {
+     "id": "p011.s04",
+     "source": "But the eagles, instead of answering, only flew more rapidly towards the mountains."
+    },
+    {
+     "id": "p011.s05",
+     "source": "Again Wesakchak called to them and again they did not reply."
+    },
+    {
+     "id": "p011.s06",
+     "source": "He now saw that they did not intend to take him home, and he began to wonder what he could do."
+    }
+   ],
+   "id": "p011"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p012.s01",
+     "source": "In a few moments the eagles slowly circled around the top of a mountain from whose summit a large piece of ice was just ready to slip."
+    },
+    {
+     "id": "p012.s02",
+     "source": "When the eagles were directly above the ice, they suddenly turned with a jerk and hurled Wesakchak from their backs."
+    },
+    {
+     "id": "p012.s03",
+     "source": "Down, down he fell, alighting on the ice, which at once slipped from its place and began to descend the mountain side with terrible rapidity."
+    },
+    {
+     "id": "p012.s04",
+     "source": "Wesakchak clung desperately to the icy block, and felt himself going with it and the loose pieces of rock and the small trees which it uprooted on its way."
+    },
+    {
+     "id": "p012.s05",
+     "source": "As they came down, the speed became greater, until at last they were bounding over huge stones and across chasms, and with one terrible leap Wesakchak flew through the air and alighted on the ground at the foot of the mountain."
+    },
+    {
+     "id": "p012.s06",
+     "source": "Behind them their pathway down the mountain side was marked by a deep ravine cut in the rocky sides of the hill."
+    },
+    {
+     "id": "p012.s07",
+     "source": "And around Wesakchak lay ice and stones and uprooted trees."
+    }
+   ],
+   "id": "p012"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p013.s01",
+     "source": "He lay perfectly still, for he was rendered insensible with the terrible force with which he had fallen."
+    },
+    {
+     "id": "p013.s02",
+     "source": "After several hours he opened his eyes, but was too weak to move."
+    },
+    {
+     "id": "p013.s03",
+     "source": "He could hear the voices of two wolves near him."
+    },
+    {
+     "id": "p013.s04",
+     "source": "One was saying, \"He is dead."
+    },
+    {
+     "id": "p013.s05",
+     "source": "Let us go and eat him, for I am very hungry.\""
+    },
+    {
+     "id": "p013.s06",
+     "source": "Then the other wolf answered, \"No, he is not dead, and I think he is Wesakchak, for look, see his suit made of the feathers of birds."
+    },
+    {
+     "id": "p013.s07",
+     "source": "It is only Wesakchak who has a suit like that.\""
+    }
+   ],
+   "id": "p013"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p014.s01",
+     "source": "Wesakchak heard all this, but he could not move or speak."
+    }
+   ],
+   "id": "p014"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p015.s01",
+     "source": "As he lay there with his eyes open, he noticed two eagles circling high in the air above him."
+    },
+    {
+     "id": "p015.s02",
+     "source": "This aroused him, and he called to the wolves in a faint voice, \"My brothers, come near to me.\""
+    },
+    {
+     "id": "p015.s03",
+     "source": "The wolves seemed surprised, but they came slowly to his side."
+    }
+   ],
+   "id": "p015"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p016.s01",
+     "source": "\"You were arguing a moment ago as to whether I was dead,\" said Wesakchak to them."
+    },
+    {
+     "id": "p016.s02",
+     "source": "\"Now you can see I am not dead, but I wish you to pretend to be eating me, for I want those eagles to come down, and if they think I am dead, they will come so that they can make a meal off me, too.\""
+    }
+   ],
+   "id": "p016"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p017.s01",
+     "source": "The wolves did as he asked them and pretended to be eating him."
+    },
+    {
+     "id": "p017.s02",
+     "source": "When the eagles saw this, they hovered lower for a moment or two, then darted down."
+    },
+    {
+     "id": "p017.s03",
+     "source": "Wesakchak was lying with his two arms stretched out at full length, and now the eagles began to peck at the palms of his hands."
+    },
+    {
+     "id": "p017.s04",
+     "source": "At once he grabbed them by the feathers on their heads."
+    }
+   ],
+   "id": "p017"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p018.s01",
+     "source": "\"Now I have you,\" he said."
+    },
+    {
+     "id": "p018.s02",
+     "source": "\"You shall be punished for playing such a trick as this on me.\""
+    }
+   ],
+   "id": "p018"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p019.s01",
+     "source": "The eagles pulled desperately to try and get away, and Wesakchak clung just as desperately to their heads."
+    },
+    {
+     "id": "p019.s02",
+     "source": "At last, with one mighty jerk, they pulled their heads free, but Wesakchak still held the feathers in his hands and their heads were bald."
+    }
+   ],
+   "id": "p019"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p020.s01",
+     "source": "\"This shall be your punishment, then,\" said Wesakchak, very sternly."
+    },
+    {
+     "id": "p020.s02",
+     "source": "\"From this day you and all your race shall have no feathers on your heads, so that every one may know how unkind you have been to Wesakchak.\""
+    }
+   ],
+   "id": "p020"
+  },
+  {
+   "type": "prose",
+   "segments": [
+    {
+     "id": "p021.s01",
+     "source": "And so it has been."
+    },
+    {
+     "id": "p021.s02",
+     "source": "From that day the two eagles and all their children have been bald-headed."
+    }
+   ],
+   "id": "p021"
   }
  ]
 }
