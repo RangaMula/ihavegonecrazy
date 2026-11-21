@@ -1,0 +1,13 @@
+{
+  "name": "muwatta-build",
+  "private": true,
+  "description": "Fonts for building the PDFs (all SIL Open Font License)",
+  "dependencies": {
+    "@fontsource/amiri": "5.3.0",
+    "@fontsource/noto-serif-bengali": "5.3.0",
+    "@fontsource/noto-sans-bengali": "5.3.0",
+    "@fontsource/noto-serif-jp": "5.3.1",
+    "@fontsource/noto-sans-jp": "5.3.1",
+    "@fontsource/noto-serif": "5.3.0"
+  }
+}

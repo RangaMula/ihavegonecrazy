@@ -78,6 +78,9 @@ def normalise_word(w):
     # Allah / Allahumma: the ā after the doubled lam is not written in this text
     if DAGGER not in w and re.fullmatch("[وفبتك]?(ا|ل)?للهم?", sk):
         w = re.sub("(ل(?:\u0651\u064E|\u064E\u0651))(ه)", lambda mm: mm.group(1) + DAGGER + mm.group(2), w, count=1)
+    # a hamza on alif (أ) implies a fatha on an unmarked letter before it: اكْلأْ = iklaʾ, كَلأَ = kalaʾa
+    # (not the lam of the article: الأَنْصَارِيُّ)
+    w = re.sub("(?<!ا)([\u0628-\u064A])(?=أ)", "\\1\u064E", w)
     # ى with its own vowel/shadda is the consonant y (sunnah.com writes الْمَذْىُ , السَّعْىُ)
     w = re.sub("ى(?=[\u064B-\u0651])", "ي", w)
     # alif carrying the vowel of the previous letter (lam-alif mark order: لاَ, also any "Cاَ"): move it

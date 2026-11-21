@@ -128,12 +128,24 @@ def main():
         if sk:
             fz_by_key.setdefault(sk[:80], h)
 
+    corr_path = os.path.join(ROOT, "data", "arabic", "corrections.json")
+    corrections = {}
+    if os.path.exists(corr_path):
+        for c in json.load(open(corr_path, encoding="utf-8"))["corrections"]:
+            corrections.setdefault(c["n"], []).append(c)
+
     entries, per_book = [], {}
     matched = 0
     for h in hj["hadiths"]:
         text = clean(h["arabic"])
         if not text:
             continue
+        applied = []
+        for c in corrections.get(h["idInBook"], []):
+            if c["from"] not in text:
+                sys.exit("correction for entry %s does not match the source: %r" % (h["idInBook"], c["from"]))
+            text = text.replace(c["from"], c["to"])
+            applied.append(c["reason"])
         b = h["chapterId"]
         per_book[b] = per_book.get(b, 0) + 1
         sk = skeleton(text)
@@ -162,6 +174,7 @@ def main():
             "ref_uscmsa": ref,
             "ar": text,
             "segments": segs,
+            **({"corrected": applied} if applied else {}),
         })
 
     for b in books.values():

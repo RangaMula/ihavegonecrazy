@@ -221,7 +221,11 @@ def ja_word(toks):
             s.append("アイウ"[VI[u[1]]] + ("ー" if u[1] in "AIU" else "")); continue
         code, gem = u[1], u[2]
         if gem and code in ("y", "w"):
-            s.append("イ" if code == "y" else "ウ")   # サイイド, クウワ
+            pv = U[k - 1][3] if k and U[k - 1][0] == "CV" else None
+            if (code == "y" and pv == "i") or (code == "w" and pv == "u"):
+                s.append("ー")                        # nabiyy -> ナビーイ, quwwa -> クーワ
+            else:
+                s.append("イ" if code == "y" else "ウ")   # sayyid -> サイイド, awwal -> アウワル
         elif gem and code not in ("E", "'"):
             s.append("ン" if code in ("m", "n") else "ッ")
         if u[0] == "CV":
