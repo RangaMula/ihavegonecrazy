@@ -1,0 +1,13 @@
+{
+  "code": "ja", "name": "日本語", "name_en": "Japanese", "dir": "ltr", "pron_scheme": "ja",
+  "title": "イマーム・マーリクの『ムワッタア』", "subtitle": "アラビア語原文・カタカナ読み・日本語訳・マーリクの見解",
+  "labels": {"book": "書", "entry": "伝承", "chain": "伝承経路", "malik": "マーリクの見解", "grade": "評価", "notes": "注",
+             "pron": "読み", "meaning": "訳",
+             "types": {"marfu": "マルフーウ（預言者に遡る）", "mawquf": "マウクーフ（教友の言行）", "maqtu": "マクトゥーウ（後継世代の言行）", "malik": "マーリク自身の言葉"}},
+  "grades": {"Sahih": "サヒーフ（真正）", "Hasan": "ハサン（良好）", "Daif": "ダイーフ（脆弱）", "Mauquf Sahih": "マウクーフ・サヒーフ", "Maqtu Sahih": "マクトゥーウ・サヒーフ",
+             "Sahih Lighairihi": "サヒーフ・リ・ガイリヒ", "Mauquf Daif": "マウクーフ・ダイーフ", "Maqtu Daif": "マクトゥーウ・ダイーフ", "Mauquf Hasan": "マウクーフ・ハサン"},
+  "eulogy_prophet": "ﷺ", "eulogy_companion": "", "eulogy_scholar": "",
+  "digits": "0123456789",
+  "fonts": {"text": "Noto Serif JP", "pron": "Noto Sans JP"},
+  "draft_notice": "レビュー用草稿 — 刊行前にイスラーム学者による校閲が必要です · REVIEW DRAFT"
+}

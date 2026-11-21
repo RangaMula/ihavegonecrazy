@@ -1,0 +1,145 @@
+no,code,en,bn,script,tier,region,pron_scheme,pron_status,pron_note,meaning_status
+0,bn,Bengali,বাংলা,Bengali,A,South Asia,bn,ready,books/ar/STYLE.md notation,pilot: Book 1
+1,hi,Hindi,হিন্দি,Devanagari,A,South Asia,hi,ready,Hindi-Urdu nukta conventions,not started
+2,ur,Urdu,উর্দু,Arabic (Nastaliq),A,South Asia,ar-vowelled,ready,reads Arabic script: the fully vowelled Arabic is the pronunciation guide,not started
+3,ne,Nepali,নেপালি,Devanagari,A,South Asia,hi,base,Hindi scheme; check local conventions,not started
+4,as,Assamese,অসমিয়া,Bengali-Assamese,A,South Asia,as,todo,"derive from bn: ৰ for r, ৱ for w",not started
+5,or,Odia,ওড়িয়া,Odia,B,South Asia,odia,todo,renderer to write: Odia,not started
+6,pa,Punjabi (Gurmukhi),পাঞ্জাবি (গুরুমুখী),Gurmukhi,A,South Asia,gurmukhi,todo,renderer to write: Gurmukhi,not started
+7,pnb,Punjabi (Shahmukhi),পাঞ্জাবি (শাহমুখী),Arabic (Nastaliq),B,South Asia,ar-vowelled,ready,reads Arabic script: the fully vowelled Arabic is the pronunciation guide,not started
+8,mr,Marathi,মারাঠি,Devanagari,A,South Asia,hi,base,Hindi scheme; check local conventions,not started
+9,gu,Gujarati,গুজরাটি,Gujarati,A,South Asia,gujarati,todo,renderer to write: Gujarati,not started
+10,ta,Tamil,তামিল,Tamil,A,South Asia,tamil,todo,renderer to write: Tamil,not started
+11,te,Telugu,তেলুগু,Telugu,A,South Asia,telugu,todo,renderer to write: Telugu,not started
+12,kn,Kannada,কন্নড়,Kannada,A,South Asia,kannada,todo,renderer to write: Kannada,not started
+13,ml,Malayalam,মালয়ালম,Malayalam,A,South Asia,malayalam,todo,renderer to write: Malayalam,not started
+14,si,Sinhala,সিংহলি,Sinhala,B,South Asia,sinhala,todo,renderer to write: Sinhala,not started
+15,sa,Sanskrit,সংস্কৃত,Devanagari,A,South Asia,hi,base,Hindi scheme; check local conventions,not started
+16,ps,Pashto,পশতু,Arabic (Pashto),B,South Asia,ar-vowelled,ready,reads Arabic script: the fully vowelled Arabic is the pronunciation guide,not started
+17,sd,Sindhi,সিন্ধি,Arabic (Sindhi),B,South Asia,ar-vowelled,ready,reads Arabic script: the fully vowelled Arabic is the pronunciation guide,not started
+18,mai,Maithili,মৈথিলী,Devanagari,B,South Asia,hi,base,Hindi scheme; check local conventions,not started
+19,dv,Dhivehi,দিভেহি,Thaana,C,South Asia,thaana,todo,renderer to write: Thaana,not started
+20,ks,Kashmiri,কাশ্মীরি,Arabic (Nastaliq),C,South Asia,ar-vowelled,ready,reads Arabic script: the fully vowelled Arabic is the pronunciation guide,not started
+21,kok,Konkani,কোঙ্কণি,Devanagari,C,South Asia,hi,base,Hindi scheme; check local conventions,not started
+22,sat,Santali,সাঁওতালি,Ol Chiki,C,South Asia,ol,todo,renderer to write: Ol Chiki,not started
+23,mni,Meitei (Manipuri),মণিপুরি,Meetei Mayek,C,South Asia,meetei,todo,renderer to write: Meetei Mayek,not started
+24,bo,Tibetan,তিব্বতি,Tibetan,C,South Asia,tibetan,todo,renderer to write: Tibetan,not started
+25,dz,Dzongkha,জোংখা,Tibetan,C,South Asia,tibetan,todo,renderer to write: Tibetan,not started
+26,ar,Arabic (Modern Standard),আরবি,Arabic,A,Middle East & Central Asia,-,special,Arabic readers: vowelled text + Arabic explanation (sharh-lite) instead of a translation,not started
+27,afb,Gulf Arabic (Khaleeji),উপসাগরীয় আরবি,Arabic,B,Middle East & Central Asia,-,special,Arabic readers: vowelled text + Arabic explanation (sharh-lite) instead of a translation,not started
+28,arz,Egyptian Arabic,মিসরীয় আরবি,Arabic,B,Middle East & Central Asia,-,special,Arabic readers: vowelled text + Arabic explanation (sharh-lite) instead of a translation,not started
+29,apc,Levantine Arabic,শামি আরবি,Arabic,B,Middle East & Central Asia,-,special,Arabic readers: vowelled text + Arabic explanation (sharh-lite) instead of a translation,not started
+30,fa,Persian (Farsi/Dari),ফারসি,Arabic (Persian),A,Middle East & Central Asia,ar-vowelled,ready,reads Arabic script: the fully vowelled Arabic is the pronunciation guide,not started
+31,tr,Turkish,তুর্কি,Latin,A,Middle East & Central Asia,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+32,az,Azerbaijani,আজারবাইজানি,Latin,A,Middle East & Central Asia,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+33,ku,Kurdish (Kurmanji / Sorani),কুর্দি,Latin / Arabic,B,Middle East & Central Asia,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+34,he,Hebrew,হিব্রু,Hebrew,A,Middle East & Central Asia,hebrew,todo,renderer to write: Hebrew,not started
+35,yi,Yiddish,ইদিশ,Hebrew,B,Middle East & Central Asia,hebrew,todo,renderer to write: Hebrew,not started
+36,hy,Armenian,আর্মেনীয়,Armenian,B,Middle East & Central Asia,armenian,todo,renderer to write: Armenian,not started
+37,ka,Georgian,জর্জীয়,Georgian,B,Middle East & Central Asia,georgian,todo,renderer to write: Georgian,not started
+38,uz,Uzbek,উজবেক,Latin,B,Middle East & Central Asia,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+39,kk,Kazakh,কাজাখ,Cyrillic / Latin,B,Middle East & Central Asia,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+40,ky,Kyrgyz,কিরগিজ,Cyrillic,B,Middle East & Central Asia,cyrillic,todo,renderer to write: Cyrillic,not started
+41,tg,Tajik,তাজিক,Cyrillic,B,Middle East & Central Asia,cyrillic,todo,renderer to write: Cyrillic,not started
+42,tk,Turkmen,তুর্কমেন,Latin,B,Middle East & Central Asia,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+43,ug,Uyghur,উইঘুর,Arabic (Uyghur),C,Middle East & Central Asia,ar-vowelled,ready,reads Arabic script: the fully vowelled Arabic is the pronunciation guide,not started
+44,mn,Mongolian,মঙ্গোলীয়,Cyrillic,B,Middle East & Central Asia,cyrillic,todo,renderer to write: Cyrillic,not started
+45,zh-Hans,Mandarin Chinese (Simplified),চীনা (ম্যান্ডারিন),Han (simplified) + Pinyin,A,East Asia,han,todo,renderer to write: Han (simplified) + Pinyin,not started
+46,zh-Hant,Chinese (Traditional) / Cantonese,ক্যান্টোনিজ / প্রথাগত চীনা,Han (traditional) + Jyutping,B,East Asia,han,todo,renderer to write: Han (traditional) + Jyutping,not started
+47,ja,Japanese,জাপানি,Kana + Kanji,A,East Asia,ja,ready,"katakana, Japanese Islamic-literature conventions",pilot: Book 1
+48,ko,Korean,কোরিয়ান,Hangul,A,East Asia,hangul,todo,renderer to write: Hangul,not started
+49,ms,Malay,মালয়,Latin,A,Southeast Asia,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+50,id,Indonesian,ইন্দোনেশীয়,Latin,A,Southeast Asia,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+51,th,Thai,থাই,Thai,A,Southeast Asia,thai,todo,renderer to write: Thai,not started
+52,vi,Vietnamese,ভিয়েতনামি,Latin + tone marks,A,Southeast Asia,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+53,fil,Filipino (Tagalog),ফিলিপিনো,Latin,A,Southeast Asia,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+54,ceb,Cebuano,সেবুয়ানো,Latin,B,Southeast Asia,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+55,km,Khmer,খমের,Khmer,B,Southeast Asia,khmer,todo,renderer to write: Khmer,not started
+56,my,Burmese,বর্মি,Myanmar,B,Southeast Asia,myanmar,todo,renderer to write: Myanmar,not started
+57,lo,Lao,লাও,Lao,B,Southeast Asia,lao,todo,renderer to write: Lao,not started
+58,jv,Javanese,জাভানিজ,Latin,B,Southeast Asia,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+59,su,Sundanese,সুন্দানিজ,Latin,C,Southeast Asia,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+60,tet,Tetum,তেতুম,Latin,C,Southeast Asia,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+61,en,English,ইংরেজি,Latin,A,Europe — major,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+62,fr,French,ফরাসি,Latin,A,Europe — major,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+63,es,Spanish,স্প্যানিশ,Latin,A,Europe — major,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+64,pt,Portuguese,পর্তুগিজ,Latin,A,Europe — major,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+65,de,German,জার্মান,Latin,A,Europe — major,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+66,it,Italian,ইতালীয়,Latin,A,Europe — major,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+67,ru,Russian,রুশ,Cyrillic,A,Europe — major,cyrillic,todo,renderer to write: Cyrillic,not started
+68,nl,Dutch,ডাচ,Latin,A,Europe — major,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+69,pl,Polish,পোলিশ,Latin,A,Europe — major,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+70,ro,Romanian,রোমানীয়,Latin,A,Europe — major,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+71,el,Greek,গ্রিক,Greek,A,Europe — major,greek,todo,renderer to write: Greek,not started
+72,uk,Ukrainian,ইউক্রেনীয়,Cyrillic,A,Europe — major,cyrillic,todo,renderer to write: Cyrillic,not started
+73,la,Latin,লাতিন,Latin,A,Europe — major,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+74,eo,Esperanto,এস্পেরান্তো,Latin,A,Europe — major,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+75,cs,Czech,চেক,Latin,A,Europe — Central & Eastern,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+76,sk,Slovak,স্লোভাক,Latin,A,Europe — Central & Eastern,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+77,hu,Hungarian,হাঙ্গেরীয়,Latin,A,Europe — Central & Eastern,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+78,hr,Croatian,ক্রোয়েশীয়,Latin,A,Europe — Central & Eastern,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+79,sr,Serbian,সার্বীয়,Cyrillic + Latin,A,Europe — Central & Eastern,cyrillic,todo,renderer to write: Cyrillic + Latin,not started
+80,bs,Bosnian,বসনীয়,Latin,A,Europe — Central & Eastern,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+81,sq,Albanian,আলবেনীয়,Latin,A,Europe — Central & Eastern,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+82,sl,Slovenian,স্লোভেনীয়,Latin,A,Europe — Central & Eastern,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+83,bg,Bulgarian,বুলগেরীয়,Cyrillic,A,Europe — Central & Eastern,cyrillic,todo,renderer to write: Cyrillic,not started
+84,mk,Macedonian,মেসিডোনীয়,Cyrillic,B,Europe — Central & Eastern,cyrillic,todo,renderer to write: Cyrillic,not started
+85,be,Belarusian,বেলারুশীয়,Cyrillic,B,Europe — Central & Eastern,cyrillic,todo,renderer to write: Cyrillic,not started
+86,lt,Lithuanian,লিথুয়ানীয়,Latin,B,Europe — Central & Eastern,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+87,lv,Latvian,লাটভীয়,Latin,B,Europe — Central & Eastern,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+88,et,Estonian,এস্তোনীয়,Latin,A,Europe — Central & Eastern,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+89,sv,Swedish,সুইডিশ,Latin,A,Europe — Nordic,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+90,no,Norwegian,নরওয়েজীয়,Latin,A,Europe — Nordic,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+91,da,Danish,ডেনিশ,Latin,A,Europe — Nordic,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+92,fi,Finnish,ফিনিশ,Latin,A,Europe — Nordic,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+93,is,Icelandic,আইসল্যান্ডিক,Latin,B,Europe — Nordic,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+94,fo,Faroese,ফ্যারোইজ,Latin,C,Europe — Nordic,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+95,ca,Catalan,কাতালান,Latin,A,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+96,gl,Galician,গালিসীয়,Latin,A,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+97,eu,Basque,বাস্ক,Latin,B,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+98,mt,Maltese,মাল্টিজ,Latin,B,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+99,ga,Irish,আইরিশ,Latin,B,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+100,cy,Welsh,ওয়েলশ,Latin,B,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+101,lb,Luxembourgish,লুক্সেমবার্গীয়,Latin,B,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+102,gd,Scottish Gaelic,স্কটিশ গেলিক,Latin,C,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+103,br,Breton,ব্রেটন,Latin,C,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+104,fy,West Frisian,ফ্রিজিয়ান,Latin,C,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+105,co,Corsican,করসিকান,Latin,C,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+106,oc,Occitan / Provençal,অক্সিতান,Latin,C,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+107,rm,Romansh,রোমান্শ,Latin,C,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+108,gsw,Alsatian,আলসাসিয়ান,Latin,C,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+109,sco,Scots,স্কটস,Latin,C,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+110,gv,Manx,ম্যাংক্স,Latin,C,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+111,kw,Cornish,কর্নিশ,Latin,C,Europe — regional,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+112,sw,Swahili,সোয়াহিলি,Latin,A,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+113,af,Afrikaans,আফ্রিকান্স,Latin,A,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+114,am,Amharic,আমহারিক,Ge'ez (Ethiopic),B,Africa,geez,todo,renderer to write: Ge'ez (Ethiopic),not started
+115,so,Somali,সোমালি,Latin,B,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+116,ha,Hausa,হাউসা,Latin (+ Ajami),B,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+117,yo,Yoruba,ইয়োরুবা,Latin + tone marks,B,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+118,ig,Igbo,ইগবো,Latin + tone marks,B,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+119,zu,Zulu,জুলু,Latin,B,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+120,xh,Xhosa,খোসা,Latin (+ clicks),B,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+121,zgh,Berber / Tamazight,আমাজিগ (বারবার),Tifinagh / Latin,C,Africa,tifinagh,todo,renderer to write: Tifinagh / Latin,not started
+122,om,Oromo,ওরোমো,Latin,C,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+123,ti,Tigrinya,তিগরিনিয়া,Ge'ez (Ethiopic),C,Africa,geez,todo,renderer to write: Ge'ez (Ethiopic),not started
+124,ff,Fula (Fulfulde / Pular),ফুলা,Latin / Adlam,C,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+125,wo,Wolof,উলোফ,Latin,C,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+126,mg,Malagasy,মালাগাসি,Latin,C,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+127,ln,Lingala,লিঙ্গালা,Latin,C,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+128,sn,Shona,শোনা,Latin,C,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+129,rw,Kinyarwanda,কিনিয়ারোয়ান্ডা,Latin,C,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+130,rn,Kirundi,কিরুন্ডি,Latin,C,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+131,lg,Luganda,লুগান্ডা,Latin,C,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+132,ny,Chichewa,চিচেওয়া,Latin,C,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+133,st,Sesotho,সেসোথো,Latin,C,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+134,tn,Setswana,সেতসোয়ানা,Latin,C,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+135,ak,Akan (Twi),আকান (টুই),Latin,C,Africa,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+136,ht,Haitian Creole,হাইতীয় ক্রেওল,Latin,B,Americas & Pacific,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+137,qu,Quechua,কেচুয়া,Latin,C,Americas & Pacific,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+138,gn,Guarani,গুয়ারানি,Latin,C,Americas & Pacific,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+139,mi,Māori,মাওরি,Latin,C,Americas & Pacific,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+140,sm,Samoan,সামোয়ান,Latin,C,Americas & Pacific,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+141,fj,Fijian,ফিজিয়ান,Latin,C,Americas & Pacific,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+142,tpi,Tok Pisin,টোক পিসিন,Latin,C,Americas & Pacific,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started
+143,haw,Hawaiian,হাওয়াইয়ান,Latin,C,Americas & Pacific,latn,base,ALA-LC base; a per-language orthographic profile is recommended,not started

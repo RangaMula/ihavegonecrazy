@@ -1,0 +1,13 @@
+{
+  "code": "bn", "name": "বাংলা", "name_en": "Bengali", "dir": "ltr", "pron_scheme": "bn",
+  "title": "মুওয়াত্তা ইমাম মালিক", "subtitle": "আরবি মূল পাঠ · বাংলা উচ্চারণ · বাংলা অর্থ · ইমাম মালিকের মন্তব্য",
+  "labels": {"book": "কিতাব", "entry": "বর্ণনা", "chain": "সনদ", "malik": "ইমাম মালিকের মন্তব্য", "grade": "মান", "notes": "টীকা",
+             "pron": "উচ্চারণ", "meaning": "অর্থ",
+             "types": {"marfu": "মারফূ‘ (নবী ﷺ থেকে)", "mawquf": "মাওকূফ (সাহাবি থেকে)", "maqtu": "মাকতূ‘ (তাবেয়ি থেকে)", "malik": "ইমাম মালিকের বক্তব্য"}},
+  "grades": {"Sahih": "সহিহ", "Hasan": "হাসান", "Daif": "যয়িফ", "Mauquf Sahih": "মাওকূফ সহিহ", "Maqtu Sahih": "মাকতূ‘ সহিহ",
+             "Sahih Lighairihi": "সহিহ লিগাইরিহি", "Mauquf Daif": "মাওকূফ যয়িফ", "Maqtu Daif": "মাকতূ‘ যয়িফ", "Mauquf Hasan": "মাওকূফ হাসান"},
+  "eulogy_prophet": "ﷺ", "eulogy_companion": "(রা.)", "eulogy_scholar": "(রহ.)",
+  "digits": "০১২৩৪৫৬৭৮৯",
+  "fonts": {"text": "Noto Serif Bengali", "pron": "Noto Sans Bengali"},
+  "draft_notice": "পর্যালোচনার খসড়া — প্রকাশের আগে একজন আলেম দ্বারা যাচাই আবশ্যক · REVIEW DRAFT"
+}
