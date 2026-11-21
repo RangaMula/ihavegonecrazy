@@ -1,0 +1,84 @@
+{
+ "language_edition": "ja",
+ "volume": 1,
+ "books_of_muwatta": [
+  1
+ ],
+ "title": "イマーム・マーリクの『ムワッタア』",
+ "subtitle": "アラビア語・日本語対訳 — 第1巻: 礼拝の時刻の書",
+ "title_english": "Muwatta Imam Malik: Arabic–Japanese Bilingual Edition, Volume 1: The Times of Prayer",
+ "series": "『ムワッタア』対訳シリーズ",
+ "series_number": 1,
+ "author": "Imam Malik ibn Anas",
+ "author_local": "イマーム・マーリク・イブン・アナス",
+ "editor": "Hafez Abdullah Muhammad Minhaz Reza",
+ "editor_local": "Hafez Abdullah Muhammad Minhaz Reza",
+ "publisher": "Maktabatu Kunujul Akhirah",
+ "imprint": "Maktabatu Kunujul Akhirah",
+ "copyright": "© 2026 Maktabatu Kunujul Akhirah. All rights reserved.",
+ "publication_year": 2026,
+ "edition": 1,
+ "languages": [
+  "ja",
+  "ar"
+ ],
+ "isbn": {
+  "paperback": null,
+  "ebook": null,
+  "hardcover": null
+ },
+ "description_html": "<p><b>イマーム・マーリクの『ムワッタア』を、アラビア語原文・カタカナ読み・日本語訳で。</b></p><p>『ムワッタア』は、マディーナのイマーム、マーリク・イブン・アナス（ヒジュラ暦93〜179年）による、現存する最古のイスラーム法とハディースの集成の一つです。本書は各伝承を四つの層で示します。</p><ul><li><b>伝承経路を含む完全なアラビア語原文</b>（母音記号付き）</li><li><b>カタカナによる読み</b></li><li><b>アラビア語から直接訳した日本語訳</b>（伝承者の名前は別行に）</li><li><b>イマーム・マーリク自身の見解</b>を区別して表示</li></ul><p>各伝承には種類（マルフーウ・マウクーフ・マクトゥーウ）と評価、必要に応じて注を付しています。『ムワッタア』の日本語訳は本書が初めての試みです。</p>",
+ "description_en_html": "<p><b>Imam Malik's al-Muwatta with the complete Arabic, a katakana reading and a Japanese translation.</b></p><p>Every narration is given in four layers: the fully vowelled Arabic with its chain; its reading in katakana; a Japanese translation made directly from the Arabic, with the chain shown as a line of names; and Imam Malik's own commentary, set apart from the hadith. The first Japanese translation of the Muwatta.</p>",
+ "keywords": [
+  "ムワッタア",
+  "ハディース 日本語訳",
+  "イスラーム法",
+  "マーリク派",
+  "アラビア語 対訳",
+  "礼拝 イスラーム",
+  "muwatta japanese"
+ ],
+ "bisac": [
+  {
+   "code": "REL037020",
+   "name": "RELIGION / Islam / Koran & Sacred Writings"
+  },
+  {
+   "code": "REL037030",
+   "name": "RELIGION / Islam / Law"
+  },
+  {
+   "code": "REL037040",
+   "name": "RELIGION / Islam / Rituals & Practice"
+  }
+ ],
+ "audience": "General / adult",
+ "contains_ai_generated_text": true,
+ "price_suggestion": {
+  "paperback_jpy": 1980,
+  "ebook_jpy": 800,
+  "paperback_usd": 12.99,
+  "ebook_usd": 4.99
+ },
+ "print": {
+  "trim": "6 x 9 in",
+  "pages": 34,
+  "interior": "black & white, no bleed",
+  "paper": "white",
+  "cover_pdf_in": [
+   12.3266,
+   9.25
+  ],
+  "spine_in": 0.0766
+ },
+ "ebook": {
+  "format": "EPUB 3",
+  "cover": "1600 x 2560 px JPG"
+ },
+ "ready_for_upload": false,
+ "missing": [
+  "scholarly review: set `reviewed_by` in every translations/ja/book-NN.json of this volume",
+  "paperback ISBN in standard/publishing.json (or use the store's free ISBN, see the guide)",
+  "eBook ISBN (optional for most eBook stores, see the guide)"
+ ]
+}

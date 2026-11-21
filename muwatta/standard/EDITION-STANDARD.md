@@ -50,7 +50,7 @@ Every language edition follows this file. The reasons for each rule are in `rese
 6. **Qurʾān quotations** {…} are translated and given a reference in a note: «(আল-মায়িদা ৫:৬)».
 7. **Units and money** (farsakh, ṣāʿ, mudd, wasq, dīnār, dirham) stay as they are in the text, with a note giving the
    modern equivalent the first time in each book.
-8. **Proper names** use the language's established Muslim spelling (Bengali: আবূ হুরায়রা, ইবনু শিহাব, উমার ইবনুল খাত্তাব;
+8. **Proper names** use the language's established Muslim spelling (Bengali: আবু হুরায়রা, ইবনু শিহাব, উমার ইবনুল খাত্তাব;
    Japanese: アブー・フライラ, イブン・シハーブ). The pronunciation line still shows the exact Arabic reading.
 9. **Every edition is a REVIEW DRAFT** until a scholar who knows both Arabic and the target language has checked it. Print
    «REVIEW DRAFT / পর্যালোচনার খসড়া» on the title page and in the running footer.

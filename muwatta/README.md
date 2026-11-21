@@ -20,6 +20,7 @@ Target languages: the series master list (143 languages) plus Bengali, recorded 
 | Pronunciation engine | 4 schemes ready (Latin ALA-LC, Bengali, Hindi/Devanagari, Japanese katakana), all clean over 1,860 entries. 7 Arabic-script languages need no separate line. 92 Latin/Devanagari languages run on a base scheme; 38 scripts still need a renderer |
 | Edition standard, glossary, language profiles | done: `standard/` |
 | **Pilot: Book 1 (Times of Prayer, 31 entries)** | **Bengali + Japanese translated, built, independently reviewed**: `editions/bn/`, `editions/ja/` |
+| **Retail packages, Volume 1 (Bengali, Japanese)**: print interior, wrap cover, EPUB 3, eBook cover, listing metadata, store guide | **built and validated**: `editions/<code>/release/vol01/`; waiting for the scholar review and ISBNs |
 | Remaining: 60 books × 2 languages, plus 61 books × the other 142 languages | not started; see "Scaling up" |
 
 **Every edition is a REVIEW DRAFT.** These are AI translations of ḥadīth. A scholar who knows both Arabic and the target
@@ -35,6 +36,34 @@ python3 tools/build_book.py bn --books 1   # editions/bn/muwatta-bn-book01.html 
 python3 tools/build_registry.py         # data/languages.csv
 ```
 
+## Publishing (Maktabatu Kunujul Akhirah)
+
+```bash
+python3 tools/build_release.py bn --volume 1     # -> editions/bn/release/vol01/
+```
+
+| File | For |
+|---|---|
+| `interior.pdf` | paperback interior: 6 × 9 in, no bleed, fonts embedded, even page count (KDP, IngramSpark, Lulu, local printers) |
+| `cover.pdf` | full-wrap cover: exact size from the page count, 0.125 in bleed, 2 × 1.2 in barcode area |
+| `ebook.epub` + `ebook-cover.jpg` | EPUB 3, 0 errors in EPUBCheck; Kindle (KDP), Google Play Books, Apple Books, Kobo, Draft2Digital |
+| `metadata.json`, `PUBLISHING-GUIDE.md` | titles, contributors, description, keywords, BISAC, AI disclosure, store-by-store steps |
+
+- **Publisher:** Maktabatu Kunujul Akhirah (an imprint of the Kunujul Akhirah Charitable Trust), Dhaka.
+- **Copyright:** © 2026 Maktabatu Kunujul Akhirah, all rights reserved.
+- **Editor:** Hafez Abdullah Muhammad Minhaz Reza.
+- **Author:** Imām Mālik ibn Anas.
+
+All of this is in `standard/publishing.json`.
+
+**To make a volume upload-ready:**
+
+1. Have a scholar review it, then set `reviewed_by` in each `translations/<code>/book-NN.json`. This removes every
+   REVIEW DRAFT notice and prints the reviewer's name on the copyright page.
+2. Put the ISBNs in `standard/publishing.json` → `editions.<code>.isbn` (one per format). The ISBN then appears on the
+   copyright page, and a scannable EAN-13 barcode is drawn on the back cover.
+3. Rebuild, order a printed proof, then upload following `PUBLISHING-GUIDE.md`.
+
 ## Layout
 
 ```
@@ -44,9 +73,11 @@ engine/phon.py               vowelled Arabic -> phonemes (one analysis for every
 engine/scripts.py            phonemes -> Latin / Bengali / Devanagari / katakana (add scripts here)
 standard/                    EDITION-STANDARD.md, TRANSLITERATION.md, glossary.json, profiles/<code>.json
 translations/<code>/book-NN.json   the meanings (one file per book of the Muwaṭṭaʾ)
-editions/<code>/             built HTML + PDF
+editions/<code>/             reading HTML + PDF; release/volNN/ = retail print + eBook package
 research/                    sources and the translation mapping study
-tools/                       build_dataset, build_book, build_registry, check_pron, compare, render_pdf.cjs
+standard/publishing.json     publisher, editor, copyright, ISBN slots, volumes, store listings
+assets/brand/                publisher logos
+tools/                       build_dataset, build_book, build_release, build_registry, check_pron, compare, render_pdf.cjs
 ```
 
 ## Scaling up to the whole book in every language
