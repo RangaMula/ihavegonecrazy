@@ -1,67 +1,195 @@
 {
  "_about": "Retail publishing details for every language edition. tools/build_release.py reads this file. Fill an ISBN (13 digits, hyphens allowed) and rebuild: it then prints on the copyright page, and an EAN-13 barcode is drawn on the back cover. Leave null to keep the reserved space.",
  "publisher": {
-  "name": {"en": "Maktabatu Kunujul Akhirah", "bn": "মাকতাবাতু কুনুজুল আখিরাহ", "ja": "Maktabatu Kunujul Akhirah", "ar": "مكتبة كنوز الآخرة"},
-  "imprint_of": {"en": "an imprint of the Kunujul Akhirah Charitable Trust", "bn": "কুনুজুল আখিরাহ চ্যারিটেবল ট্রাস্টের একটি প্রকাশনা প্রতিষ্ঠান", "ja": "Kunujul Akhirah Charitable Trust 出版部門"},
+  "name": {
+   "en": "Maktabatu Kunujul Akhirah",
+   "bn": "মাকতাবাতু কুনুজুল আখিরাহ",
+   "ja": "Maktabatu Kunujul Akhirah",
+   "ar": "مكتبة كنوز الآخرة"
+  },
+  "imprint_of": {
+   "en": "an imprint of the Kunujul Akhirah Charitable Trust",
+   "bn": "কুনুজুল আখিরাহ চ্যারিটেবল ট্রাস্টের একটি প্রকাশনা প্রতিষ্ঠান",
+   "ja": "Kunujul Akhirah Charitable Trust 出版部門"
+  },
   "address": "Level 8, House 003, Road 402, Sector 11, Jolshiri Abashon, Rupganj, Narayanganj, Dhaka, Bangladesh",
-  "city": {"en": "Dhaka", "bn": "ঢাকা", "ja": "ダッカ"},
+  "city": {
+   "en": "Dhaka",
+   "bn": "ঢাকা",
+   "ja": "ダッカ"
+  },
   "website": "kunujulakhirah.org",
   "contact_email": null,
   "logo": "assets/brand/logo-english.png",
   "logo_bn": "assets/brand/logo-bangla.png"
  },
- "editor": {"en": "Hafez Abdullah Muhammad Minhaz Reza", "bn": "হাফেজ আবদুল্লাহ মুহাম্মদ মিনহাজ রেজা", "ja": "Hafez Abdullah Muhammad Minhaz Reza"},
- "author": {"en": "Imam Malik ibn Anas", "bn": "ইমাম মালিক ইবনু আনাস (রহ.)", "ja": "イマーム・マーリク・イブン・アナス", "ar": "الإمام مالك بن أنس"},
+ "editor": {
+  "en": "Hafez Abdullah Muhammad Minhaz Reza",
+  "bn": "হাফেজ আবদুল্লাহ মুহাম্মদ মিনহাজ রেজা",
+  "ja": "Hafez Abdullah Muhammad Minhaz Reza"
+ },
+ "author": {
+  "en": "Imam Malik ibn Anas",
+  "bn": "ইমাম মালিক ইবনু আনাস (রহ.)",
+  "ja": "イマーム・マーリク・イブン・アナス",
+  "ar": "الإمام مالك بن أنس"
+ },
  "year": 2026,
  "year_hijri": 1448,
  "edition": 1,
  "copyright_holder": "Maktabatu Kunujul Akhirah",
- "series": {"en": "Muwatta Imam Malik: Bilingual Editions", "bn": "মুওয়াত্তা ইমাম মালিক: দ্বিভাষিক সংস্করণ", "ja": "『ムワッタア』対訳シリーズ"},
- "volumes": {
-  "1": {"books": [1], "title": {"en": "The Times of Prayer", "bn": "নামাজের সময়", "ja": "礼拝の時刻の書", "ar": "كتاب وقوت الصلاة"}}
+ "series": {
+  "en": "Muwatta Imam Malik: Bilingual Editions",
+  "bn": "মুওয়াত্তা ইমাম মালিক: দ্বিভাষিক সংস্করণ",
+  "ja": "『ムワッタア』対訳シリーズ"
  },
- "print": {"trim_in": [6, 9], "paper": "white", "spine_in_per_page": {"white": 0.002252, "cream": 0.0025}, "bleed_in": 0.125,
-           "spine_text_min_pages": 80, "barcode_box_in": [2.0, 1.2]},
+ "volumes": {
+  "1": {
+   "books": [
+    1
+   ],
+   "title": {
+    "en": "The Times of Prayer",
+    "bn": "নামাজের সময়",
+    "ja": "礼拝の時刻の書",
+    "ar": "كتاب وقوت الصلاة"
+   }
+  }
+ },
+ "print": {
+  "trim_in": [
+   6,
+   9
+  ],
+  "paper": "white",
+  "spine_in_per_page": {
+   "white": 0.002252,
+   "cream": 0.0025
+  },
+  "bleed_in": 0.125,
+  "spine_text_min_pages": 80,
+  "barcode_box_in": [
+   2.0,
+   1.2
+  ]
+ },
  "editions": {
   "bn": {
-   "isbn": {"paperback": null, "ebook": null, "hardcover": null},
+   "isbn": {
+    "paperback": null,
+    "ebook": null,
+    "hardcover": null
+   },
    "title": "মুওয়াত্তা ইমাম মালিক",
    "subtitle": "আরবি–বাংলা দ্বিভাষিক সংস্করণ",
    "volume_label": "খণ্ড",
    "title_en": "Muwatta Imam Malik: Arabic–Bengali Bilingual Edition",
    "cover_features": "আরবি মূল পাঠ · বাংলা উচ্চারণ · বাংলা অর্থ · ইমাম মালিকের মন্তব্য",
-   "labels": {"editor": "সম্পাদক", "author": "মূল", "publisher": "প্রকাশক", "edition": "প্রথম সংস্করণ", "isbn_pb": "ISBN (পেপারব্যাক)", "isbn_eb": "ISBN (ই-বুক)",
-              "isbn_pending": "[প্রকাশের সময় যুক্ত হবে]", "translation": "অনুবাদ", "review": "শারঈ নিরীক্ষা", "review_pending": "[প্রকাশের আগে যুক্ত হবে]",
-              "fonts": "ফন্ট", "sources": "উৎস", "contents": "সূচিপত্র", "about_publisher": "প্রকাশক পরিচিতি"},
+   "labels": {
+    "editor": "সম্পাদক",
+    "author": "মূল",
+    "publisher": "প্রকাশক",
+    "edition": "প্রথম সংস্করণ",
+    "isbn_pb": "ISBN (পেপারব্যাক)",
+    "isbn_eb": "ISBN (ই-বুক)",
+    "isbn_pending": "[প্রকাশের সময় যুক্ত হবে]",
+    "translation": "অনুবাদ",
+    "review": "শারঈ নিরীক্ষা",
+    "review_pending": "[প্রকাশের আগে যুক্ত হবে]",
+    "fonts": "ফন্ট",
+    "sources": "উৎস",
+    "contents": "সূচিপত্র",
+    "about_publisher": "প্রকাশক পরিচিতি"
+   },
    "translation_credit": "আরবি মূল থেকে কৃত্রিম বুদ্ধিমত্তার (এআই) সহায়তায় অনূদিত; সম্পাদক কর্তৃক সম্পাদিত",
    "copyright": "স্বত্ব © {year} মাকতাবাতু কুনুজুল আখিরাহ। সর্বস্বত্ব সংরক্ষিত। পর্যালোচনার জন্য সংক্ষিপ্ত উদ্ধৃতি ছাড়া প্রকাশকের লিখিত অনুমতি ছাড়া এই বইয়ের কোনো অংশ কোনো মাধ্যমে পুনর্মুদ্রণ, সংরক্ষণ বা প্রকাশ করা যাবে না।",
    "sources_note": "আরবি পাঠ: ইয়াহ্ইয়া ইবনু ইয়াহ্ইয়া আল-লাইসির বর্ণনা (sunnah.com-এর হরকতযুক্ত পাঠ); বর্ণনার মান: শায়খ সালিম আল-হিলালি। ফন্ট: Amiri, Noto Serif/Sans Bengali, Noto Serif (SIL Open Font License)।",
    "about_publisher": "মাকতাবাতু কুনুজুল আখিরাহ কুনুজুল আখিরাহ চ্যারিটেবল ট্রাস্টের প্রকাশনা প্রতিষ্ঠান। ভাষা ও দ্বীনি জ্ঞানের দরজা সবার জন্য খুলে দেওয়াই আমাদের লক্ষ্য।",
    "description_html": "<p><b>ইমাম মালিক (রহ.)-এর «আল-মুওয়াত্তা» — আরবি মূল, বাংলা উচ্চারণ ও বাংলা অর্থসহ।</b></p><p>«আল-মুওয়াত্তা» ইসলামি আইন ও হাদিসের সবচেয়ে প্রাচীন সংকলনগুলোর একটি, মদিনার ইমাম মালিক ইবনু আনাস (৯৩–১৭৯ হিজরি)-এর রচনা। এই দ্বিভাষিক সংস্করণে প্রতিটি বর্ণনা দেওয়া হয়েছে চার স্তরে:</p><ul><li><b>পূর্ণ আরবি মূল পাঠ</b>, সনদসহ, সম্পূর্ণ হরকতযুক্ত</li><li><b>বাংলা হরফে আরবির উচ্চারণ</b>, যাতে আরবি না জেনেও সঠিকভাবে পড়া যায়</li><li><b>সরাসরি আরবি থেকে বাংলা অর্থ</b>, সনদের নামগুলো আলাদা লাইনে</li><li><b>ইমাম মালিকের নিজের মন্তব্য</b> আলাদা করে চিহ্নিত — হাদিস আর ইমামের ফিকহি বক্তব্য যেন মিশে না যায়</li></ul><p>প্রতিটি বর্ণনার ধরন (মারফূ‘, মাওকূফ, মাকতূ‘) ও মান উল্লেখ করা হয়েছে, এবং প্রয়োজনীয় স্থানে টীকা দেওয়া হয়েছে।</p>",
    "description_en_html": "<p><b>Imam Malik's al-Muwatta with the complete Arabic, Bengali pronunciation and Bengali meaning.</b></p><p>Every narration is given in four layers: the fully vowelled Arabic with its chain; its pronunciation in Bengali script; a translation made directly from the Arabic, with the chain shown as a line of names; and Imam Malik's own commentary, set apart so that the hadith and the Imam's rulings are never confused. Each narration carries its type and grade, with notes where needed.</p>",
-   "keywords": ["মুওয়াত্তা ইমাম মালিক", "হাদিস বাংলা আরবি", "muwatta imam malik bangla", "hadith arabic bengali bilingual", "নামাজের সময় হাদিস", "ইসলামি বই বাংলা", "maliki fiqh hadith"],
-   "bisac": ["REL037020", "REL037030", "REL037040"],
-   "price_suggestion": {"paperback_usd": 9.99, "ebook_usd": 3.99, "paperback_bdt": 350}
+   "keywords": [
+    "মুওয়াত্তা ইমাম মালিক",
+    "হাদিস বাংলা আরবি",
+    "muwatta imam malik bangla",
+    "hadith arabic bengali bilingual",
+    "নামাজের সময় হাদিস",
+    "ইসলামি বই বাংলা",
+    "maliki fiqh hadith"
+   ],
+   "bisac": [
+    "REL037020",
+    "REL037030",
+    "REL037040"
+   ],
+   "price_suggestion": {
+    "paperback_usd": 9.99,
+    "ebook_usd": 3.99,
+    "paperback_bdt": 350
+   },
+   "quran_translation": {
+    "key": "bengali_zakaria",
+    "credit": "কুরআনের আয়াতের অনুবাদ: ড. আবু বকর মুহাম্মাদ যাকারিয়া — প্রকাশক ও উৎস: QuranEnc.com (সংস্করণ: {version}); আরবি আয়াত: quran.com, তানযিলের সঙ্গে মিলিয়ে যাচাইকৃত।",
+    "version_missing": "[প্রকাশের আগে যুক্ত হবে]"
+   }
   },
   "ja": {
-   "isbn": {"paperback": null, "ebook": null, "hardcover": null},
+   "isbn": {
+    "paperback": null,
+    "ebook": null,
+    "hardcover": null
+   },
    "title": "イマーム・マーリクの『ムワッタア』",
    "subtitle": "アラビア語・日本語対訳",
    "volume_label": "第{n}巻",
    "title_en": "Muwatta Imam Malik: Arabic–Japanese Bilingual Edition",
    "cover_features": "アラビア語原文・カタカナ読み・日本語訳・マーリクの見解",
-   "labels": {"editor": "編者", "author": "原著", "publisher": "発行", "edition": "初版", "isbn_pb": "ISBN（紙書籍）", "isbn_eb": "ISBN（電子書籍）",
-              "isbn_pending": "［刊行時に付与］", "translation": "翻訳", "review": "学術校閲", "review_pending": "［刊行前に記載］",
-              "fonts": "フォント", "sources": "底本", "contents": "目次", "about_publisher": "出版社について"},
+   "labels": {
+    "editor": "編者",
+    "author": "原著",
+    "publisher": "発行",
+    "edition": "初版",
+    "isbn_pb": "ISBN（紙書籍）",
+    "isbn_eb": "ISBN（電子書籍）",
+    "isbn_pending": "［刊行時に付与］",
+    "translation": "翻訳",
+    "review": "学術校閲",
+    "review_pending": "［刊行前に記載］",
+    "fonts": "フォント",
+    "sources": "底本",
+    "contents": "目次",
+    "about_publisher": "出版社について"
+   },
    "translation_credit": "アラビア語原典からAI（人工知能）の支援を受けて翻訳し、編者が編集",
    "copyright": "© {year} Maktabatu Kunujul Akhirah. All rights reserved. 本書の全部または一部を、出版社の書面による許可なく、いかなる形式・手段によっても複製・転載・保存することを禁じます（書評等における短い引用を除く）。",
    "sources_note": "アラビア語原文：ヤフヤー・イブン・ヤフヤー・アッライスィー伝本（sunnah.comの母音記号付き本文）。伝承の評価：サリーム・アルヒラーリー。フォント：Amiri、Noto Serif JP、Noto Sans JP（SIL Open Font License）。",
    "about_publisher": "Maktabatu Kunujul Akhirah は Kunujul Akhirah Charitable Trust の出版部門です。言語と宗教的知識への扉を、すべての人に開くことを目指しています。",
    "description_html": "<p><b>イマーム・マーリクの『ムワッタア』を、アラビア語原文・カタカナ読み・日本語訳で。</b></p><p>『ムワッタア』は、マディーナのイマーム、マーリク・イブン・アナス（ヒジュラ暦93〜179年）による、現存する最古のイスラーム法とハディースの集成の一つです。本書は各伝承を四つの層で示します。</p><ul><li><b>伝承経路を含む完全なアラビア語原文</b>（母音記号付き）</li><li><b>カタカナによる読み</b></li><li><b>アラビア語から直接訳した日本語訳</b>（伝承者の名前は別行に）</li><li><b>イマーム・マーリク自身の見解</b>を区別して表示</li></ul><p>各伝承には種類（マルフーウ・マウクーフ・マクトゥーウ）と評価、必要に応じて注を付しています。『ムワッタア』の日本語訳は本書が初めての試みです。</p>",
    "description_en_html": "<p><b>Imam Malik's al-Muwatta with the complete Arabic, a katakana reading and a Japanese translation.</b></p><p>Every narration is given in four layers: the fully vowelled Arabic with its chain; its reading in katakana; a Japanese translation made directly from the Arabic, with the chain shown as a line of names; and Imam Malik's own commentary, set apart from the hadith. The first Japanese translation of the Muwatta.</p>",
-   "keywords": ["ムワッタア", "ハディース 日本語訳", "イスラーム法", "マーリク派", "アラビア語 対訳", "礼拝 イスラーム", "muwatta japanese"],
-   "bisac": ["REL037020", "REL037030", "REL037040"],
-   "price_suggestion": {"paperback_jpy": 1980, "ebook_jpy": 800, "paperback_usd": 12.99, "ebook_usd": 4.99}
+   "keywords": [
+    "ムワッタア",
+    "ハディース 日本語訳",
+    "イスラーム法",
+    "マーリク派",
+    "アラビア語 対訳",
+    "礼拝 イスラーム",
+    "muwatta japanese"
+   ],
+   "bisac": [
+    "REL037020",
+    "REL037030",
+    "REL037040"
+   ],
+   "price_suggestion": {
+    "paperback_jpy": 1980,
+    "ebook_jpy": 800,
+    "paperback_usd": 12.99,
+    "ebook_usd": 4.99
+   },
+   "quran_translation": {
+    "key": "japanese_saeedsato",
+    "credit": "クルアーン章句の訳：サイード佐藤訳 — 発行・典拠：QuranEnc.com（版 {version}）。アラビア語章句：quran.com、Tanzilと照合済み。",
+    "version_missing": "［刊行前に記載］"
+   }
   }
  }
 }

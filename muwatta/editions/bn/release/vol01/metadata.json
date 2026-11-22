@@ -61,14 +61,14 @@
  },
  "print": {
   "trim": "6 x 9 in",
-  "pages": 30,
+  "pages": 32,
   "interior": "black & white, no bleed",
   "paper": "white",
   "cover_pdf_in": [
-   12.3176,
+   12.3221,
    9.25
   ],
-  "spine_in": 0.0676
+  "spine_in": 0.0721
  },
  "ebook": {
   "format": "EPUB 3",
@@ -76,6 +76,7 @@
  },
  "ready_for_upload": false,
  "missing": [
+  "QuranEnc version number of the Qur'an translation `bengali_zakaria` (QuranEnc's terms require it; its list API and downloads did not provide it on 2026-11-22). Rerun tools/verify_quran.py when available",
   "scholarly review: set `reviewed_by` in every translations/bn/book-NN.json of this volume",
   "paperback ISBN in standard/publishing.json (or use the store's free ISBN, see the guide)",
   "eBook ISBN (optional for most eBook stores, see the guide)"

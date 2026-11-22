@@ -98,7 +98,8 @@ Still do L2 (GitHub), and mark L1 **PENDING** with the local paths.
    - the repo, branch and commit sha;
    - the number of files;
    - `dashboard: pending-local` or `dashboard: none`;
-   - the session ID.
+   - the session ID;
+   - `bank additions: <file>`, if the session verified Qur'an or hadith references under `islamic-source-verifier.md`.
    One file per save, never edited afterwards: the nightly sync renames it to `SYNCED …`.
 7. **Verify.** `search_files` with `parentId = '<project folder id>'` (and the same for each subfolder you wrote to). Every
    uploaded title must be present with the right `fileSize` (compare with `stat -c %s`). Fix any mismatch before reporting.
@@ -185,6 +186,12 @@ downloaded it to the laptop's Drive mount; this step copies it into E: and fetch
 6. **Dashboard.** If any PENDING file says `dashboard: pending-local`, update
    `E:\Claude Workspace\Central Command Center\projects.json` from the live store, then run
    `python "E:\Claude Workspace\Central Command Center\build_dashboard.py"`.
+6b. **Islamic reference bank.** If a PENDING file names a `bank additions` file:
+   - merge its rows into `E:\Claude Workspace\agents\verified-islamic-references\BANK.md` and `bank.json`;
+   - skip keys that are already there;
+   - add the project to `used_in`.
+
+   The file is copied from `<mount>\<Project>\data\verification\` or from `_cloud-sync`.
 7. **Close the queue items.** Rename each synced file with `update_file` (title only):
    `PENDING <stamp> <Project>.md` → `SYNCED <today> <stamp> <Project>.md`.
    Leave a file PENDING if its robocopy reported failures.

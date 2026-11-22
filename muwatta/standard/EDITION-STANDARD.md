@@ -47,12 +47,23 @@ Every language edition follows this file. The reasons for each rule are in `rese
      Companion, (রহ.) after a later scholar, the modern short forms). If added, use them the same way everywhere.
 5. **Fixed formulas** (Mālik's technical expressions, transmission verbs, *qāla*, *yaʿnī*) use the renderings in
    `standard/glossary.json`, every time.
-6. **Qurʾān quotations** {…} are translated and given a reference in a note: «(আল-মায়িদা ৫:৬)».
+6. **Qurʾān quotations.** Follow the owner's protocol (`agents/islamic-source-verifier.md`):
+   - Fetch the verse from quran.com and cross-check it against Tanzil. Never quote it from memory.
+   - Inside a narration, the clause is the edition's own rendering and is labelled «ভাবার্থ / 意訳 / paraphrase».
+   - The note gives the **whole verse**: the fetched Uthmani Arabic plus a **named QuranEnc translation**, unaltered and
+     cited with its version (Bengali: Abu Bakr Muhammad Zakaria; Japanese: Saeed Sato).
+   - Run `tools/verify_quran.py`.
 7. **Units and money** (farsakh, ṣāʿ, mudd, wasq, dīnār, dirham) stay as they are in the text, with a note giving the
    modern equivalent the first time in each book.
 8. **Proper names** use the language's established Muslim spelling (Bengali: আবু হুরায়রা, ইবনু শিহাব, উমার ইবনুল খাত্তাব;
    Japanese: アブー・フライラ, イブン・シハーブ). The pronunciation line still shows the exact Arabic reading.
-9. **Every edition is a REVIEW DRAFT** until a scholar who knows both Arabic and the target language has checked it. Print
+9. **Arabic is never edited.** The printed Arabic is the source text verbatim (`tools/verify_hadith.py` checks it). A
+   doubtful reading is explained in a note, citing only what the sources themselves show.
+10. **Grade with grader, every entry.** Weak (da'if) entries carry the label "weak (da'if) per <grader>" and are never
+    used as evidence; fabricated ones carry the label "fabricated (mawdu') per <grader>".
+11. **Notes are editorial commentary.** They are labelled as such and are never presented as hadith. Claims about
+    scholars' views need a source; without one, they are removed.
+12. **Every edition is a REVIEW DRAFT** until a scholar who knows both Arabic and the target language has checked it. Print
    «REVIEW DRAFT / পর্যালোচনার খসড়া» on the title page and in the running footer.
 
 ## 3. Data format of a translation
@@ -104,6 +115,14 @@ Every language edition follows this file. The reasons for each rule are in `rese
 ```
 
 ## 5. Quality gates before any edition is published
+
+0. **Authentication gate** (owner's protocol): `tools/verify_quran.py`, `tools/verify_hadith.py <book>` and
+   `tools/build_sources_report.py <book>` produce:
+   - a `.sources.md` report next to every edition;
+   - the project file `VERIFIED-ISLAMIC-REFERENCES.md`;
+   - bank additions.
+
+   No FAILED or UNVERIFIED items may remain.
 
 1. **Build gate.** `python3 tools/build_book.py <code>` passes: every entry is present, there are no tofu (missing-glyph)
    boxes, and pronunciation warnings are 0 (or listed).

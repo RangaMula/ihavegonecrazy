@@ -83,8 +83,24 @@ def vol_label(ed, n, prof):
     return lab.replace("{n}", digits(n, prof)) if "{n}" in lab else f"{lab} {digits(n, prof)}"
 
 
+def quranenc_version(key):
+    p = os.path.join(ROOT, "data", "verification", "quran.json")
+    if not os.path.exists(p):
+        return None
+    return (json.load(open(p, encoding="utf-8")).get("versions", {}).get(key) or {}).get("version")
+
+
+def quran_credit(ed):
+    qt = ed["quran_translation"]
+    return qt["credit"].replace("{version}", quranenc_version(qt["key"]) or qt["version_missing"])
+
+
 def status(code, vol, trs, ed):
     missing = []
+    qt = ed.get("quran_translation")
+    if qt and not quranenc_version(qt["key"]):
+        missing.append(f"QuranEnc version number of the Qur'an translation `{qt['key']}` (QuranEnc's terms require it; "
+                       "its list API and downloads did not provide it on 2026-11-22). Rerun tools/verify_quran.py when available")
     if not all(t.get("reviewed_by") for t in trs):
         missing.append("scholarly review: set `reviewed_by` in every translations/%s/book-NN.json of this volume" % code)
     if not ed["isbn"].get("paperback"):
@@ -120,6 +136,7 @@ def copyright_block(code, ed, pub, prof, trs, fmt):
         f'<p>{e(lab["isbn_pb"])}: {e(isbn_pb) if isbn_pb else e(lab["isbn_pending"])}<br>'
         f'{e(lab["isbn_eb"])}: {e(isbn_eb) if isbn_eb else e(lab["isbn_pending"])}</p>',
         f'<p class="src">{e(ed["sources_note"])}</p>',
+        f'<p class="src">{e(quran_credit(ed))}</p>' if ed.get("quran_translation") else "",
     ]
     return "\n".join(rows)
 
@@ -386,6 +403,8 @@ p.ar { margin: .3em 0 .4em; }
 .malik { border-left: 3px solid #0b3d24; padding-left: .8em; margin: .6em 0; background: #f6f1e6; }
 .malik h4 { margin: .2em 0; font-size: .85em; color: #0b3d24; }
 .notes { font-size: .82em; color: #555; }
+.notes-lbl { font-size: .75em; color: #555; font-weight: bold; margin: .5em 0 0; }
+.badge.weak { color: #a33; font-weight: bold; }
 .book-head { text-align: center; margin: 1.5em 0; }
 .book-head .ar { text-align: center; font-size: 1.6em; color: #0b3d24; }
 .key { overflow: hidden; }

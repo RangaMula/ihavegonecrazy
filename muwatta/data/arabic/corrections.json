@@ -1,7 +1,0 @@
-{
-  "_about": "Corrections to the sunnah.com source text, applied by tools/build_dataset.py. Every change names the entry, the exact old and new text and the reason. Keep this list short and checkable.",
-  "corrections": [
-    {"n": 6, "from": "وَالصَّبْحَ وَالنُّجُومُ", "to": "وَالصُّبْحَ وَالنُّجُومُ", "reason": "vowel typo: the prayer is al-ṣubḥ (ḍamma), as in entry 7 and the ʿAbd al-Bāqī text"},
-    {"n": 25, "from": "اكْلأْلَنَا", "to": "اكْلأْ لَنَا", "reason": "two words run together (iklaʾ lanā, 'watch for us')"}
-  ]
-}

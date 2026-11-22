@@ -128,11 +128,8 @@ def main():
         if sk:
             fz_by_key.setdefault(sk[:80], h)
 
-    corr_path = os.path.join(ROOT, "data", "arabic", "corrections.json")
-    corrections = {}
-    if os.path.exists(corr_path):
-        for c in json.load(open(corr_path, encoding="utf-8"))["corrections"]:
-            corrections.setdefault(c["n"], []).append(c)
+    # The Arabic is printed exactly as the source has it (owner's protocol: "never retype or 'fix' it").
+    # Doubtful readings are explained in editorial notes in the translation files, never changed here.
 
     entries, per_book = [], {}
     matched = 0
@@ -140,12 +137,6 @@ def main():
         text = clean(h["arabic"])
         if not text:
             continue
-        applied = []
-        for c in corrections.get(h["idInBook"], []):
-            if c["from"] not in text:
-                sys.exit("correction for entry %s does not match the source: %r" % (h["idInBook"], c["from"]))
-            text = text.replace(c["from"], c["to"])
-            applied.append(c["reason"])
         b = h["chapterId"]
         per_book[b] = per_book.get(b, 0) + 1
         sk = skeleton(text)
@@ -156,10 +147,12 @@ def main():
                     f = v
                     break
         grade = None
+        graders = []
         ref = None
         if f is not None:
             matched += 1
             grade = (f.get("grades") or [{}])[0].get("grade")
+            graders = [{"name": g.get("name"), "grade": g.get("grade")} for g in (f.get("grades") or [])]
             ref = {"fz_n": f["hadithnumber"], "book": f["reference"]["book"], "hadith": f["reference"]["hadith"]}
         segs = segment(text)
         kind = classify(grade)
@@ -171,10 +164,10 @@ def main():
             "nb": per_book[b],                  # number inside the book
             "type": kind,                       # marfu | mawquf | maqtu | malik | None
             "grade": grade,                     # Salim al-Hilali (via hadith-api), None if unmatched
+            "graders": graders,                 # every grade with its grader (protocol: grade AND grader)
             "ref_uscmsa": ref,
             "ar": text,
             "segments": segs,
-            **({"corrected": applied} if applied else {}),
         })
 
     for b in books.values():

@@ -62,14 +62,14 @@
  },
  "print": {
   "trim": "6 x 9 in",
-  "pages": 34,
+  "pages": 36,
   "interior": "black & white, no bleed",
   "paper": "white",
   "cover_pdf_in": [
-   12.3266,
+   12.3311,
    9.25
   ],
-  "spine_in": 0.0766
+  "spine_in": 0.0811
  },
  "ebook": {
   "format": "EPUB 3",

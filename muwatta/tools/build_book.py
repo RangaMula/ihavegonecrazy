@@ -89,9 +89,16 @@ def entry_html(ent, tr, prof, scheme, warnings):
     head_bits = []
     if ent.get("type") in TYPE_KEYS:
         head_bits.append(f'<span class="badge t-{ent["type"]}">{e(lab["types"][ent["type"]])}</span>')
-    if ent.get("grade"):
-        g = prof.get("grades", {}).get(ent["grade"], ent["grade"])
-        head_bits.append(f'<span class="badge g">{e(lab["grade"])}: {e(g)}</span>')
+    graders = ent.get("graders") or ([{"name": None, "grade": ent["grade"]}] if ent.get("grade") else [])
+    for gr in graders:   # protocol: every grade is shown with its grader
+        g = prof.get("grades", {}).get(gr["grade"], gr["grade"])
+        who = prof.get("graders", {}).get(gr["name"], gr["name"]) if gr["name"] else ""
+        head_bits.append(f'<span class="badge g">{e(lab["grade"])}: {e(g)}{(" — " + e(who)) if who else ""}</span>')
+        low = gr["grade"].lower()
+        if "daif" in low or "munkar" in low or "shadh" in low:
+            head_bits.append(f'<span class="badge weak">{e(prof["weak_label"].replace("{grader}", who))}</span>')
+        if "mawdu" in low:
+            head_bits.append(f'<span class="badge weak">{e(prof["fabricated_label"].replace("{grader}", who))}</span>')
     out = [f'<article class="entry" id="e{ent["n"]}">',
            f'<header><span class="num">{digits(ent["nb"], prof)}</span>{"".join(head_bits)}</header>']
 
@@ -116,7 +123,7 @@ def entry_html(ent, tr, prof, scheme, warnings):
         out.append(f'<section class="malik"><h4>{e(lab["malik"])}</h4>{block(malik, tr.get("malik"))}</section>')
     if tr.get("notes"):
         items = "".join(f"<li>{e(n)}</li>" for n in tr["notes"])
-        out.append(f'<ol class="notes" aria-label="{e(lab["notes"])}">{items}</ol>')
+        out.append(f'<p class="notes-lbl">{e(lab["notes"])}</p><ol class="notes" aria-label="{e(lab["notes"])}">{items}</ol>')
     out.append("</article>")
     return "\n".join(out)
 
@@ -157,6 +164,8 @@ p.mean { font-size: 11pt; }
 .malik { background: var(--malik); border-left: 3px solid var(--accent); padding: .3em .8em .4em; margin: .6em 0; break-inside: avoid-page; }
 .malik h4 { margin: .2em 0; font-size: 9.5pt; color: var(--accent); letter-spacing: .02em; }
 .notes { font-size: 8.8pt; color: var(--muted); margin: .4em 0 0; padding-left: 1.4em; }
+.notes-lbl { font-size: 7.8pt; color: var(--muted); margin: .5em 0 0; font-weight: 700; letter-spacing: .02em; }
+.badge.weak { color: #a33; border-color: #e0b0b0; font-weight: 700; }
 .notes li { margin: .1em 0; }
 @media screen and (max-width: 520px) { p.ar { font-size: 14pt; } body { font-size: 10.5pt; } }
 @media (prefers-color-scheme: dark) {

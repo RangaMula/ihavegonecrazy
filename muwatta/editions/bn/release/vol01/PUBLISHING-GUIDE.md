@@ -5,6 +5,7 @@
 
 ## Before you upload
 
+- [ ] QuranEnc version number of the Qur'an translation `bengali_zakaria` (QuranEnc's terms require it; its list API and downloads did not provide it on 2026-11-22). Rerun tools/verify_quran.py when available
 - [ ] scholarly review: set `reviewed_by` in every translations/bn/book-NN.json of this volume
 - [ ] paperback ISBN in standard/publishing.json (or use the store's free ISBN, see the guide)
 - [ ] eBook ISBN (optional for most eBook stores, see the guide)
@@ -17,8 +18,8 @@ the back cover, and the review-draft notices disappear once every book of the vo
 
 | File | Use | Spec |
 |---|---|---|
-| `interior.pdf` | paperback interior (KDP, IngramSpark, Lulu, local printers) | 30 pages · 6 × 9 in · no bleed · black & white · fonts embedded |
-| `cover.pdf` | paperback full-wrap cover | 12.3176 × 9.25 in · 0.125 in bleed · spine 0.0676 in (30 pp × 0.002252, white paper) · barcode area 2 × 1.2 in at the bottom right of the back |
+| `interior.pdf` | paperback interior (KDP, IngramSpark, Lulu, local printers) | 32 pages · 6 × 9 in · no bleed · black & white · fonts embedded |
+| `cover.pdf` | paperback full-wrap cover | 12.3221 × 9.25 in · 0.125 in bleed · spine 0.0721 in (32 pp × 0.002252, white paper) · barcode area 2 × 1.2 in at the bottom right of the back |
 | `ebook.epub` | eBook (Kindle via KDP, Google Play Books, Apple Books, Kobo, Draft2Digital) | EPUB 3, validated with EPUBCheck, fonts embedded |
 | `ebook-cover.jpg` | eBook cover | 1600 × 2560 px |
 | `metadata.json` | every listing field below, machine-readable | |

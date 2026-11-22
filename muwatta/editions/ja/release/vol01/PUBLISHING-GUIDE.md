@@ -17,8 +17,8 @@ the back cover, and the review-draft notices disappear once every book of the vo
 
 | File | Use | Spec |
 |---|---|---|
-| `interior.pdf` | paperback interior (KDP, IngramSpark, Lulu, local printers) | 34 pages · 6 × 9 in · no bleed · black & white · fonts embedded |
-| `cover.pdf` | paperback full-wrap cover | 12.3266 × 9.25 in · 0.125 in bleed · spine 0.0766 in (34 pp × 0.002252, white paper) · barcode area 2 × 1.2 in at the bottom right of the back |
+| `interior.pdf` | paperback interior (KDP, IngramSpark, Lulu, local printers) | 36 pages · 6 × 9 in · no bleed · black & white · fonts embedded |
+| `cover.pdf` | paperback full-wrap cover | 12.3311 × 9.25 in · 0.125 in bleed · spine 0.0811 in (36 pp × 0.002252, white paper) · barcode area 2 × 1.2 in at the bottom right of the back |
 | `ebook.epub` | eBook (Kindle via KDP, Google Play Books, Apple Books, Kobo, Draft2Digital) | EPUB 3, validated with EPUBCheck, fonts embedded (Japanese text uses the reader’s own fonts) |
 | `ebook-cover.jpg` | eBook cover | 1600 × 2560 px |
 | `metadata.json` | every listing field below, machine-readable | |
